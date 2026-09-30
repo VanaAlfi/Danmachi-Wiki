@@ -48,7 +48,7 @@ During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to
 
 ## Status
 
-Her Familia Chronicle 1 card, at Level 4, shows Strength B 704 → 780, Defense C 660 → B 722, Dexterity D 545 → 577, Agility D 559 → 599 and Magic I 0.[@fc01-card] It also lists Punch (H), Crush (I) and Brawler (I) without a heading; they are probably Development Abilities.[@fc01-card] {{inference}}
+Her Familia Chronicle 1 card, at Level 4, shows Strength B 704 → 780, Defense C 660 → B 722, Dexterity D 545 → 577, Agility D 559 → 599 and Magic I 0.[@fc01-card] It also lists Punch (H), Crush (I) and Brawler (I) without a heading; they are probably Development Abilities.[@fc01-card] {{inference}} Other adventurers' Status sheets list similar abilities under the names [[development-ability#pummel|Pummel]] and [[development-ability#fracture|Fracture]]; see [[development-ability#other-abilities|Development Abilities]].[@fc01-card]
 
 ## Open questions
 

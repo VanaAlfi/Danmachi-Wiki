@@ -3142,7 +3142,7 @@ Sword Oratoria 6 calls "Die Asura" an ultra-short chant and compares it with [[#
 
 A film of blackish-purple light forms around her right hand and thickens into a viscous, writhing spiral.[@velgas.so06-cast] It is poison, though it is described in terms of burning: blocking one of Bache's strikes with her arm makes Tiona's skin feel as if it is melting.[@velgas.so06-block] Where her hand touches the ground it leaves smoking, discoloured marks, and Tiona later coughs up blackish blood.[@velgas.so06-mark, velgas.so06-fever]
 
-Bache kept it hidden during Tiona's training, using it only when she meant to kill, so that no opponent could prepare countermeasures or build up a resistance.[@velgas.so06-block] Kali sees that Tiona has picked up some status resistance in Orario (see [[abnormal-resistance|Abnormal Resistance]]) but boasts that Dungeon monsters' venom does not compare with Bache's.[@velgas.so06-block]
+Bache kept it hidden during Tiona's training, using it only when she meant to kill, so that no opponent could prepare countermeasures or build up a resistance.[@velgas.so06-block] Kali sees that Tiona has picked up some status resistance in Orario (see [[development-ability#abnormal-resistance|Abnormal Resistance]]) but boasts that Dungeon monsters' venom does not compare with Bache's.[@velgas.so06-block]
 
 #### Level 6 {#velgas-level-6}
 

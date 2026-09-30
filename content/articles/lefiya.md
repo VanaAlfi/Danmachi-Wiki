@@ -8,7 +8,7 @@
   "summary": "Elf mage of Loki Familia, titled Thousand Elf, who can reproduce other elves' spells; a School District graduate who admires Aiz Wallenstein. Level 4 from Sword Oratoria 12.",
   "aliases": ["Thousand Elf", "Lefiya"],
   "spoilers": "Sword Oratoria Vols. 1–13 and Minor Myths and Legends Vol. 2",
-  "related": ["loki-familia", "aiz-wallenstein", "riveria", "bete-loga", "school-district", "abnormal-resistance", "magic"],
+  "related": ["loki-familia", "aiz-wallenstein", "riveria", "bete-loga", "school-district", "development-ability", "magic"],
   "infobox": {
     "title": "Lefiya Viridis",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -40,7 +40,7 @@ Lefiya passed the [[school-district|School District]]'s entrance interview at ei
 - Her Skill **[[skills#fairy-cannon|Fairy Cannon]]** raises her magic power and doubles her attack magic; it already backs her Arcs Ray in Sword Oratoria 3.[@skills.so12-card, skills.so03-fairy]
 - **[[skills#double-cannon|Double Cannon]]**, a rare Skill that appears when she reaches Level 4, lets her keep one finished spell on standby while she chants another, and fire it with the key "Cannon".[@skills.so12-card, skills.so12-standby]
 
-Her Sword Oratoria 6 card lists the Development Abilities Mage and [[abnormal-resistance|Abnormal Resistance]]. Although eligible for Level 4 then, she delays the promotion to raise her Magic further.[@so06-lefiya]
+Her Sword Oratoria 6 card lists the Development Abilities [[development-ability#mage|Mage]] and [[development-ability#abnormal-resistance|Abnormal Resistance]]. Although eligible for Level 4 then, she delays the promotion to raise her Magic further.[@so06-lefiya] Her Mage, at rank H, is printed as Conjure in Sword Oratoria 2 and 12 and as Magic Control in Sword Oratoria 13; at Level 4 she adds [[development-ability#magic-resistance|Magic Resistance]].[@devab.so02-sheet, skills.so12-card, devab.so13-card]
 
 ### Arcs Ray {#arcs-ray}
 
@@ -206,6 +206,8 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@skills.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Fairy Cannon and Double Cannon under Skills.
 [@skills.so03-fairy]: SO03 | Chapter 4: White-Haired Devil | Arcs Ray backed by Fairy Cannon.
 [@skills.so12-standby]: SO12 | Chapter 8: A Heroes’ Chorus | Double Cannon, a rare Skill: one spell on standby while chanting another.
+[@devab.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Conjure H, Immunity I.
+[@devab.so13-card]: SO13 | | Level 4 update printed as an image, p. 26: Magic Control H, Immunity I, Magic Defense I.
 [@so12-lefiya]: SO12 | | The fight against Filvis.
 [@so13-admitted]: SO13 | Fairy Canon: 1 | Six places for twelve hundred applicants; her admission.
 [@so13-rescue]: SO13 | | The Goliath rescue.

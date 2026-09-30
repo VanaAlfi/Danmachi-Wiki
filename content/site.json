@@ -49,7 +49,6 @@
     {"slug": "status", "title": "Status", "category": "terminology"},
     {"slug": "war-game", "title": "War Game", "category": "terminology"},
     {"slug": "magia-kreis", "title": "Magia Kreis", "category": "magic"},
-    {"slug": "kokonoe", "title": "Kokonoe", "category": "magic"},
-    {"slug": "abnormal-resistance", "title": "Abnormal Resistance", "category": "development-abilities"}
+    {"slug": "kokonoe", "title": "Kokonoe", "category": "magic"}
   ]
 }

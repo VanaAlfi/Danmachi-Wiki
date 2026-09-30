@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Every named Skill in the covered English novels in one place: what a Skill is, how Skills appear, rare and negative Skills, and each Skill's holder, printed effect, uses and limits.",
   "aliases": ["Skill", "Rare Skill", "rare skill", "Negative Skill", "Slayer-type Skill", "Limit Release", "Beast transformation", "Liaris Freese", "Realis Phrase", "Argonaut", "Heroic Desire", "Heroic Desire, Argonaut", "Ox Slayer", "Vanadis Tevere", "Hestia Divae", "Blessing of the Virgin", "Artel Assist", "Arter Assist", "Alter Assist", "Command Call", "Mind Call", "Blood of Crozzo", "Crozzo bloodline", "Veritas Burn", "Yatano Black Crow", "Yatano White Crow", "Mikuzume no Hou", "Avenger", "Fairy Cannon", "Double Cannon", "Double Canon", "Alf Regina", "Fairy Force", "Berserk", "Berserker skill", "Intense Heat", "Backdraft", "Solmani", "Fairy Serenade", "Mind Load", "Aero Mana", "Astrae Varmas", "Rubrud Beckia", "Five Lights", "Iai Strike: Five Lights", "Vana Arganture", "Laurel Wreath", "Deus Ambrosia", "Gif Blessing", "Limit Off", "Úlfheðinn", "Ulfhedinn", "Fenris Wolf", "Fairy Anthem", "Dvergr Enhance", "Ardigalea", "Prum Spirit", "Pallum Spirit", "Noble Brave", "Dia Phiana", "Dia Fianna", "Command Howl", "Ail mac Midna", "Fairy Senior", "Monstrum Union", "Dark Light", "Darklight", "Helios Passion", "Elios Passion", "Five-Dimension Troia", "Stultus Ottar", "Stortus Ottar", "Vana Angatyr", "Ganapati Blood", "Dharmas Algo", "Dharmas Argo", "Batrea Acras", "Batleate Asyrath", "Lubrude Bequia", "Laurus Wreath"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 3–14, Familia Chronicle Vols. 2 and 3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–14, Familia Chronicle Vols. 2 and 3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
   "related": ["status", "magic", "development-ability", "falna", "bell-cranell", "lefiya", "lyu-leon", "hyrute-sisters"],
   "infobox": {
     "title": "Skills",
@@ -61,6 +61,7 @@
     {"anchor": "helios-passion", "title": "Helios Passion", "summary": "Daphne Laulos's Skill: slightly higher agility, and the Development Ability Escape while she is being chased.", "aliases": ["Elios Passion"]},
     {"anchor": "five-dimension-troia", "title": "Five-Dimension Troia", "summary": "Cassandra Illion's Skill, which cannot be deciphered; even its name is not written in hieroglyphs, and the name used is Miach's interpretation.", "aliases": []},
     {"anchor": "filvis-skills", "title": "Filvis Challia's Skills", "summary": "Filvis's Fairy Senior, Monstrum Union and Dark Light, from her Sword Oratoria 12 sheet.", "aliases": ["Fairy Senior", "Monstrum Union", "Dark Light", "Darklight"]},
+    {"anchor": "leon-skills", "title": "Leon Verdenberg's Skills", "summary": "Leon's Dvergr Gauntlet (Strength and smashing attacks) and Dvergr Rebellion (Defense, with anger-driven shifts), from his DanMachi 20 sheet.", "aliases": ["Dvergr Gauntlet", "Dvergr Rebellion"]},
     {"anchor": "ardee-skills", "title": "Ardee Varma's Skills", "summary": "Ardee Varma's Ganapati Blood, a blessing of Ganesha, and Dharmas Algo, a passive boost for Familia members in range.", "aliases": ["Ganapati Blood", "Dharmas Algo", "Dharmas Argo"]}
   ]
 }
@@ -173,6 +174,8 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#ardee-skills|Dharmas Algo]] | Ardee Varma | Party (same Familia) | Passive stat boost for Familia members in range[@sheet.ar02-ardee] |
 | [[#deus-ambrosia|Deus Ambrosia]] | Zald | Eating | What he eats boosts his stats[@deus-ambrosia.ar03-glutton] |
 | [[#gif-blessing|Gif Blessing]] | Alfia | Negative | Permanent Limit Off, with ailments and a steady decline[@gif-blessing.ar03-effect] |
+| [[#leon-skills|Dvergr Gauntlet]] | Leon Verdenberg | Strength | Much more Strength; stronger smashing attacks[@sheet.fm20-leon] |
+| [[#leon-skills|Dvergr Rebellion]] | Leon Verdenberg | Defense; anger | Much more Defense; anger shifts his other abilities[@sheet.fm20-leon] |
 
 ## Skills of Hestia Familia {#hestia-familia-skills}
 
@@ -381,7 +384,7 @@ Their range depends on her Status and condition: about thirty meders at full str
 **Avenger** is [[aiz-wallenstein|Aiz Wallenstein]]'s rare Skill. Loki calls it the most potent Skill among all her followers. It strongly raises Aiz's power according to the strength of her desire for revenge, and its targets are monsters.[@avenger.so12-loki]
 
 - **Holder:** Aiz Wallenstein[@avenger.so12-loki]
-- **Status entry:** No card printed; the effect is given in the narration[@avenger.so12-loki]
+- **Status entry:** An active trigger that enhances her attack power against monsters, and greatly against dragon types, more strongly the greater her hatred (Sword Oratoria 10 sheet). Her Sword Oratoria 1 sheet shows her Skills only as "???". The same sheet calls Avenger the strongest Skill currently known among all races and Familias.[@sheet.so10-aiz, sheet.so01-aiz]
 - **Joined with:** [[magic#airiel|Airiel]], as Tempest Avenger[@avenger.so12-forbidden]
 
 #### Levis {#avenger-levis}
@@ -400,7 +403,7 @@ In Sword Oratoria 12 she calls "Tempest" and then "Avenger", which the narration
 **Fairy Cannon** is [[lefiya|Lefiya Viridis]]'s magic-boosting Skill: it raises her magic power and doubles the power of attack magic only.[@fairy-cannon.so12-card] It is already at work in Sword Oratoria 3, where her Arcs Ray, supported by it, wipes out twenty monsters.[@fairy-cannon.so03-arcs] In Sword Oratoria 12 an Arcs Ray backed by it, with a huge amount of Mind, is her most powerful instant attack against Filvis.[@fairy-cannon.so12-filvis]
 
 - **Holder:** Lefiya Viridis[@fairy-cannon.so12-card]
-- **Status entry:** More magic power; attack magic only doubled[@fairy-cannon.so12-card]
+- **Status entry:** More magic power; attack magic only doubled (Sword Oratoria 12). Her Sword Oratoria 2 sheet puts it as increased magic power that strengthens offensive magic only.[@fairy-cannon.so12-card, sheet.so02-lefiya]
 
 ### Double Cannon {#double-cannon}
 
@@ -444,7 +447,7 @@ Both [[hyrute-sisters|Tiona and Tione Hyrute]] have a Skill called **Berserk**, 
 
 - **Holders:** Tiona and Tione Hyrute[@berserk.so06-tiona]
 - **Printed as:** Berserk; "Berserker skill" in Sword Oratoria 6 and 12[@berserk.so06-berserker, berserk.so12-tiona]
-- **Status entry:** No card printed; the effect is given in the narration[@berserk.so06-tiona, berserk.so07-cruz]
+- **Status entry:** Tiona's Sword Oratoria 3 sheet, printed *Berserker*: strength increases after taking damage. Tione's Sword Oratoria 4 sheet, printed *Berserk*: attack power increases on taking damage, and the effect grows with her anger.[@sheet.so03-tiona, sheet.so04-tione]
 
 In Sword Oratoria 6 Tione's Berserk builds against Argana, though Argana's power grows too.[@berserk.so06-tione, berserk.so06-berserker] In Sword Oratoria 7 the enemy's curses and anti-Status magic only make Tione angrier, so her strength rises and their weakening effects are reversed; later her Berserk-backed fist drops the demi-spirit to its knees.[@berserk.so07-cruz, berserk.so07-spirit] Tiona combines hers with [[#intense-heat|Intense Heat]].[@intense-heat.so07-legs, berserk.so12-tiona]
 
@@ -455,7 +458,7 @@ Loki's phrase "Berserk magic" in Sword Oratoria 8 is loose wording for this Skil
 **Intense Heat** is Tiona Hyrute's rare Skill. It activates before her Berserk has run its course and gives her a massive boost once her Status turns critical; when it takes hold, her breath runs red with heat.[@intense-heat.so06-bache] Like Berserk, it builds with every hit she takes: the closer she comes to death, the more power she has.[@intense-heat.so06-cornered]
 
 - **Holder:** Tiona Hyrute[@intense-heat.so06-bache]
-- **Status entry:** No card printed[@intense-heat.so06-bache]
+- **Status entry:** Increases all abilities when she is near death (Sword Oratoria 3 sheet)[@sheet.so03-tiona]
 
 With Berserk and Intense Heat both at full power, she takes out Gugalanna's legs in Sword Oratoria 7, and in Sword Oratoria 12 the two together carve apart one face of the spirit altar.[@intense-heat.so07-legs, berserk.so12-tiona]
 
@@ -464,9 +467,10 @@ With Berserk and Intense Heat both at full power, she takes out Gugalanna's legs
 **Backdraft** is Tione Hyrute's attack-boosting Skill. It has the same activation requirements as her sister's Intense Heat, so the more the sisters are cornered, the higher their combat power rises.[@backdraft.so06]
 
 - **Holder:** Tione Hyrute[@backdraft.so06]
+- **Status entry:** Dramatically increases her strength when she is on the verge of death (Sword Oratoria 4 sheet)[@sheet.so04-tione]
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Backdraft is described only by comparison with Intense Heat; its own card wording and size of boost are not given.[@backdraft.so06]
+> - The size of the boost.[@backdraft.so06, sheet.so04-tione]
 
 ### Úlfheðinn {#ulfhedinn}
 
@@ -658,6 +662,17 @@ Ardee Varma of [[ganesha-familia|Ganesha Familia]] has a character sheet at the 
 
 Dharmas Algo works much like Lyu's later [[#astrae-varmas|Astrae Varmas]], a passive Falna effect for allies of the same god in range. Lyu takes Astrae Varmas as a sign that her friend Adi's (Ardee's) sense of justice lives on in her; the novels do not compare the two Skills directly.[@sheet.ar02-ardee, fc03-lyu-card5, astrae-varmas.fc03-adi]
 
+### Leon Verdenberg's Skills {#leon-skills}
+
+[[leon-verdenberg|Leon Verdenberg]]'s Status sheet at the end of DanMachi 20, at Level 7, lists two Skills; neither was found named in the story text.[@sheet.fm20-leon]
+
+| Skill | On the sheet |
+|---|---|
+| **Dvergr Gauntlet** | Greatly boosts his Strength and increases the power of smashing attacks.[@sheet.fm20-leon] |
+| **Dvergr Rebellion** | Greatly boosts his Defense; the stronger his anger, the more it increases his Strength and Agility boosts and weakens his Defense, Dexterity and Magic.[@sheet.fm20-leon] |
+
+The same sheet lists his spell Blaze of the Round, whose later trials lend or boost Development Abilities; see [[development-ability#lent-abilities|Development Abilities]].[@sheet.fm20-leon]
+
 ### Deus Ambrosia {#deus-ambrosia}
 
 **Deus Ambrosia** is [[zald|Zald]]'s Rare Skill, disclosed in Astrea Record 3 from the Guild's confidential records. It is activated by eating: animals, people or monsters boost his stats, more the stronger the thing he eats. It is why he is called the Glutton. To defeat the Behemoth he ate its flesh, and its poison has been eating away at him ever since.[@deus-ambrosia.ar03-glutton]
@@ -832,3 +847,9 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@fenris-wolf.so08-title]: SO08 | Chapter 2: Did Someone Order a Wolf? | Víðarr Familia; his first title, Fenris.
 [@filvis-skills.so07-golden]: SO07 | Chapter 4: The Sword’s Wind Calls | Dio Thyrsos as a golden bolt.
 [@filvis-skills.so12-black]: SO12 | Chapter 8: A Heroes’ Chorus | Dio Thyrsos as black lightning.
+[@sheet.so01-aiz]: SO01 | | Illustrated Status sheet, p. 226 (Level 5): Skills "???".
+[@sheet.so02-lefiya]: SO02 | | Illustrated Status sheet, p. 228: Fairy Cannon.
+[@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Berserker, Intense Heat.
+[@sheet.so04-tione]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Berserk, Backdraft.
+[@sheet.so10-aiz]: SO10 | | Illustrated Status sheet, p. 300 (Level 6): Avenger; the strongest Skill currently known.
+[@sheet.fm20-leon]: FM20 | | Illustrated Status sheet, p. 217 (Level 7): Blaze of the Round; Dvergr Gauntlet, Dvergr Rebellion.

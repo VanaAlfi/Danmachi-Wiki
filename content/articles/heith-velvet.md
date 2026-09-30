@@ -23,7 +23,7 @@
   }
 }
 ---
-**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and Amid Teasanare of Dian Cecht Familia are known as Orario's two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers]
+**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of Dian Cecht Familia are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers]
 
 ## Background
 
@@ -33,9 +33,9 @@ Heith first went through the "baptism" of [[folkvangr|Folkvangr]] as one of the 
 
 | Volume | Events |
 |---|---|
-| DanMachi 17 | Watches over Bell during his training in Folkvangr, uses Zeo Gullveig to pull him back from the edge of death, and later treats the wounded Hörn on Freya's orders.[@fm17-heith, fm17-zeo] |
-| DanMachi 18 | In the Familia War her Ars Gullveig keeps restoring the Andhrímnir; Hedin defeats the formation by exhausting her Mind.[@fm18-ars, fm18-hedin] After the defeat she argues against Freya's order that her followers stay behind.[@fm18-stay] |
-| DanMachi 19 | Waits tables at The Benevolent Mistress, and tells Hörn she is first in line for punishment for betraying them.[@fm19-heith] |
+| DanMachi 17 | Watches over [[bell-cranell|Bell]] during his training in Folkvangr, uses Zeo Gullveig to pull him back from the edge of death, and later treats the wounded [[horn|Hörn]] on Freya's orders.[@fm17-heith, fm17-zeo] |
+| DanMachi 18 | In the Familia War her Ars Gullveig keeps restoring the Andhrímnir; [[hedin|Hedin]] defeats the formation by exhausting her Mind.[@fm18-ars, fm18-hedin] After the defeat she argues against Freya's order that her followers stay behind.[@fm18-stay] |
+| DanMachi 19 | Waits tables at [[the-benevolent-mistress|The Benevolent Mistress]], and tells Hörn she is first in line for punishment for betraying them.[@fm19-heith] |
 | DanMachi 20 | The tavern's rooms are crowded with Heith and the other former members.[@fm20-heith] |
 
 [@fm17-heith]: FM17 | | Heith and the Andhrímnir; Bell; Hörn.

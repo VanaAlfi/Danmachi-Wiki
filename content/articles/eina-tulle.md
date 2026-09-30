@@ -25,7 +25,7 @@
   }
 }
 ---
-**Eina Tulle** is a half-elf who works for the [[guild|Guild]] as [[bell-cranell|Bell Cranell]]'s Dungeon adviser.[@fm01-eina] She has never received a Falna.[@fm11-falna] Her mother, Aina, escaped the elves' homeland together with [[riveria|Riveria Ljos Alf]], and her younger sister is [[nina-tulle|Nina Tulle]].[@so14-aina, fm19-nina]
+**Eina Tulle** is a half-elf who works for the [[guild|Guild]] as [[bell-cranell|Bell Cranell]]'s Dungeon adviser.[@fm01-eina] She has never received a [[falna|Falna]].[@fm11-falna] Her mother, Aina, escaped the elves' homeland together with [[riveria|Riveria Ljos Alf]], and her younger sister is [[nina-tulle|Nina Tulle]].[@so14-aina, fm19-nina]
 
 ## Background
 
@@ -33,9 +33,9 @@ Eina enrolled in the [[school-district|School District]] at six and was recommen
 
 ## Bell's adviser
 
-Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks Aiz to look out for him.[@fm02-eina] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear salamander wool.[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
+Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear salamander wool.[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
 
-In DanMachi 3 she applies for a formal investigation into Soma Familia.[@fm03-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
+In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Familia]].[@fm03-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
 
 ## Later volumes
 
@@ -43,7 +43,7 @@ In DanMachi 3 she applies for a formal investigation into Soma Familia.[@fm03-so
 |---|---|
 | DanMachi 11 | [[hermes|Hermes]] places a bracelet on her wrist, making her the target of a staged [[xenos|Xenos]] attack. After Bell loses to [[asterios|Asterios]] she stays at his side and recognises her feelings for him.[@fm11-bracelet, fm11-eina] |
 | DanMachi 12 | Admits to herself that she is in love with Bell, and teaches him about the lower levels for his first expedition.[@fm12-eina] |
-| DanMachi 17 | Freya reads Eina's journals about Bell to build a believable false history for him.[@fm17-journals] |
+| DanMachi 17 | [[freya|Freya]] reads Eina's journals about Bell to build a believable false history for him.[@fm17-journals] |
 | DanMachi 19 | Opposes the Guild's plan for a shaft into the Dungeon, and makes peace with her sister Nina.[@fm19-shaft, fm19-nina] |
 
 ## Open questions

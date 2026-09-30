@@ -24,7 +24,7 @@
   }
 }
 ---
-**Knossos** is a man-made labyrinth beneath Daedalus Street in [[orario|Orario]], built over nearly a thousand years by the descendants of the architect Daedalus.[@so07-knossos, fm10-knossos] Its walls are adamantite with a magic-resistant surface, its doors are orichalcum, and it is filled with traps and monsters and watched from a central control system, making it a fortress for the Evils who hide there.[@so07-knossos] It connects to [[dungeon|the Dungeon]], so that monsters and people can pass between the city and the Dungeon without going through Babel.[@so07-route]
+**Knossos** is a man-made labyrinth beneath [[daedalus-street|Daedalus Street]] in [[orario|Orario]], built over nearly a thousand years by the descendants of the architect Daedalus.[@so07-knossos, fm10-knossos] Its walls are adamantite with a magic-resistant surface, its doors are orichalcum, and it is filled with traps and monsters and watched from a central control system, making it a fortress for the [[evils|Evils]] who hide there.[@so07-knossos] It connects to [[dungeon|the Dungeon]], so that monsters and people can pass between the city and the Dungeon without going through [[babel|Babel]].[@so07-route]
 
 ## Structure
 
@@ -42,7 +42,7 @@ The descendants of Daedalus inherit the marked eye, his notebook and a duty to k
 | Sword Oratoria 7 | [[loki-familia|Loki Familia]]'s first attempt to enter ends in what Loki counts as a defeat.[@so07-defeat] |
 | Sword Oratoria 10 | [[riveria|Riveria]]'s raid secures two Orbs and part of the map.[@so10-raid] |
 | DanMachi 11 | The Xenos escape through Knossos after the fighting in Daedalus Street.[@fm11-escape] |
-| Sword Oratoria 11 | Asfi re-creates a working key, and the allies capture Daedalus's notebook, which gives them the layout.[@so11-key] |
+| Sword Oratoria 11 | [[asfi|Asfi]] re-creates a working key, and the allies capture Daedalus's notebook, which gives them the layout.[@so11-key] |
 | Sword Oratoria 12 | The decisive assault spans the ninth to twelfth levels; six ritual chambers surround central Orario, and the demi-spirit Nidhogg waits in a hidden chamber.[@so12-assault] |
 | DanMachi 19 | After being conquered, Knossos is under [[guild|Guild]] management, in practice under [[ouranos|Ouranos]]'s control; [[fels|Fels]] sets up facilities inside it.[@fm19-guild] |
 

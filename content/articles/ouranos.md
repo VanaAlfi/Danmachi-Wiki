@@ -26,24 +26,24 @@
 
 ## The Dungeon
 
-His prayers stop reaching the Dungeon while gods are inside it. In Sword Oratoria 5 he tells Fels that the Dungeon is unstable and, with Zeus gone, seems to be changing.[@so05-prayers] In DanMachi 13 he identifies the Juggernaut as the Dungeon's immune response, the same calamity that destroyed [[astrea-familia|Astrea Familia]] five years earlier.[@fm13-juggernaut] His explanation of how monsters are reborn is presented as his theory.[@fm09-theory]
+His prayers stop reaching the Dungeon while gods are inside it. In Sword Oratoria 5 he tells Fels that the Dungeon is unstable and, with Zeus gone, seems to be changing.[@so05-prayers] In DanMachi 13 he identifies the [[juggernaut|Juggernaut]] as the Dungeon's immune response, the same calamity that destroyed [[astrea-familia|Astrea Familia]] five years earlier.[@fm13-juggernaut] His explanation of how monsters are reborn is presented as his theory.[@fm09-theory]
 
 ## The Xenos
 
-Ouranos and Fels support the Xenos; Hermes and Ganesha know of the plan, while most of the Guild, including its head, Royman, does not.[@fm09-network] After the fighting of DanMachi 10–11, he spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] In Sword Oratoria 10 he agrees with Loki to keep the Xenos secret, in exchange for not exploiting [[finn-deimne|Finn]]'s choices.[@so10-compact] In DanMachi 14 he sends the Xenos to help rescue Bell and Lyu from Floor 37.[@fm14-mission] Through Fels he tells Bell that clearing the Dungeon's deepest floor is needed for coexistence, without explaining why.[@fm12-deepest]
+Ouranos and Fels support the Xenos; [[hermes|Hermes]] and Ganesha know of the plan, while most of the Guild, including its head, [[royman|Royman]], does not.[@fm09-network] After the fighting of DanMachi 10–11, he spreads a false story that [[loki-familia|Loki Familia]] exterminated the monsters.[@fm11-cover] In Sword Oratoria 10 he agrees with [[loki|Loki]] to keep the Xenos secret, in exchange for not exploiting [[finn-deimne|Finn]]'s choices.[@so10-compact] In DanMachi 14 he sends the Xenos to help rescue [[bell-cranell|Bell]] and [[lyu-leon|Lyu]] from [[floor-37|Floor 37]].[@fm14-mission] Through Fels he tells Bell that clearing the Dungeon's deepest floor is needed for coexistence, without explaining why.[@fm12-deepest]
 
 ## Other events
 
 | Volume | Events |
 |---|---|
-| DanMachi 17 | His underground altar protects him from Freya's charm. Freya offers him a full expedition in exchange for non-interference; he accepts for a time, then guides Hestia's plan with coded hints about winter and firewood.[@fm17-offer, fm17-ouranos] |
-| DanMachi 19 | After its conquest, Knossos is under Guild management and in practice under his control; he gives Fels full access to it.[@fm19-knossos] |
+| DanMachi 17 | His underground altar protects him from [[freya|Freya]]'s charm. Freya offers him a full expedition in exchange for non-interference; he accepts for a time, then guides [[hestia|Hestia]]'s plan with coded hints about winter and firewood.[@fm17-offer, fm17-ouranos] |
+| DanMachi 19 | After its conquest, [[knossos|Knossos]] is under Guild management and in practice under his control; he gives Fels full access to it.[@fm19-knossos] |
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How much Ouranos knows about the Dungeon and what he chooses to withhold.[@fm09-theory]
-> - What "Makhia" means; in Astrea Record 2 Alfia says Ouranos has not given up on it.[@ar02-makhia]
+> - What "Makhia" means; in Astrea Record 2 [[alfia|Alfia]] says Ouranos has not given up on it.[@ar02-makhia]
 
 [@so02-ouranos]: SO02 | | Founder of the Guild; prayers restrain the Dungeon.
 [@so05-prayers]: SO05 | | Prayers and gods in the Dungeon; the Dungeon changing.

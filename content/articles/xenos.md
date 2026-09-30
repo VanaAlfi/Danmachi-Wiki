@@ -36,9 +36,9 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | Xenos | Notes |
 |---|---|
 | [[lido|Lido]] | Scarlet lizardman and the Xenos' current leader; a dual-sword fighter.[@fm09-lido] |
-| [[wiene|Wiene]] | A vouivre girl whom Bell finds on Floor 19; Hestia names her Wiene.[@fm09-wiene] |
-| Gros | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
-| Rei | Shields Alicia of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
+| [[wiene|Wiene]] | A vouivre girl whom [[bell-cranell|Bell]] finds on Floor 19; [[hestia|Hestia]] names her Wiene.[@fm09-wiene] |
+| [[gros|Gros]] | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
+| [[rei|Rei]] | Shields Alicia of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black Minotaur who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 
 ## History
@@ -46,10 +46,10 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | Volume | Events |
 |---|---|
 | DanMachi 9 | Bell shelters Wiene and becomes the first person from the surface welcomed into a Hidden Village. Ikelos Familia's hunters are capturing, torturing and selling Xenos abroad.[@fm09-bell, fm09-ikelos] |
-| DanMachi 10 | Xenos are freed from the hunters' prison in [[knossos|Knossos]]; the fighting spills into Daedalus Street, and Bell's public defence of Wiene wrecks his reputation.[@fm10-freed, fm10-reputation] |
+| DanMachi 10 | Xenos are freed from the hunters' prison in [[knossos|Knossos]]; the fighting spills into [[daedalus-street|Daedalus Street]], and Bell's public defence of Wiene wrecks his reputation.[@fm10-freed, fm10-reputation] |
 | DanMachi 11 | Hermes's staged attack fails when Bell trusts Gros; the Xenos escape and return safely to a Hidden Village. Ouranos spreads a false story that Loki Familia exterminated them.[@fm11-gros, fm11-village, fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep them secret, and [[finn-deimne|Finn]] forms a limited alliance with them for the assault on Knossos.[@so10-compact] |
-| DanMachi 14 | On Ouranos's orders, Xenos help rescue Bell and Lyu from Floor 37.[@fm14-rescue] |
+| DanMachi 14 | On Ouranos's orders, Xenos help rescue Bell and [[lyu-leon|Lyu]] from [[floor-37|Floor 37]].[@fm14-rescue] |
 
 The alliance with Loki Familia is limited to the Knossos campaign; Finn declines to promise peace or coexistence afterwards.[@so10-compact] Their existence remains hidden from the public.[@fm11-cover]
 

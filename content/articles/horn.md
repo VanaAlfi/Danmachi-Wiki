@@ -28,13 +28,13 @@
 
 ## Name and position
 
-Hörn is allowed at Freya's side as more than a servant, and normally waits on her at Babel or the Familia's home.[@fm16-chamberlain] She is an upper-class adventurer, but because Freya refused to let the gods give her a title she is called "Nameless".[@fm16-nameless]
+Hörn is allowed at Freya's side as more than a servant, and normally waits on her at [[babel|Babel]] or the Familia's home.[@fm16-chamberlain] She is an upper-class adventurer, but because Freya refused to let the gods give her a title she is called "Nameless".[@fm16-nameless]
 
 Familia Chronicle 2 prints the name *Helen* for Freya's attendant in the scenes about the exchange of names. It is very probably the same person, but the volumes do not say so outright.[@fc02-helen] {{inference}}
 
 ## Vana Seiðr
 
-Her Falna gave her the transformation spell Vana Seiðr. With it she can become Freya, with the goddess's appearance and divinity but without Arcanum, or, with Freya's permission, Syr.[@fm16-names, fm17-prologue] Freya let her take Syr's form only a handful of times, and while Freya lived as Syr, Hörn took on the goddess's duties.[@fm17-prologue]
+Her [[falna|Falna]] gave her the transformation spell Vana Seiðr. With it she can become Freya, with the goddess's appearance and divinity but without Arcanum, or, with Freya's permission, Syr.[@fm16-names, fm17-prologue] Freya let her take Syr's form only a handful of times, and while Freya lived as Syr, Hörn took on the goddess's duties.[@fm17-prologue]
 
 As Freya, Hörn can charm, but with less force and precision than the goddess herself.[@fm17-charm] While the spell is active her senses are linked to Freya's, and Freya can feel through her as well.[@fm17-senses, fm18-senses] Even with the spell inactive, small amounts of Freya's feelings can reach her through her right eye.[@fm17-eye]
 
@@ -42,15 +42,15 @@ As Freya, Hörn can charm, but with less force and precision than the goddess he
 
 ### The Goddess Festival
 
-On the second day of the festival in DanMachi 16, Hörn appears as Syr and tries to kill Bell, to stop Freya from becoming a mere girl. Bell sees through her, and Allen leaves her wounded for punishment.[@fm16-attempt] Freya declines to punish her and restores her as attendant, which leaves Hörn with her guilt and the disapproval of the others.[@fm17-pardon, fm17-between]
+On the second day of the festival in DanMachi 16, Hörn appears as Syr and tries to kill [[bell-cranell|Bell]], to stop Freya from becoming a mere girl. Bell sees through her, and [[allen-fromel|Allen]] leaves her wounded for punishment.[@fm16-attempt] Freya declines to punish her and restores her as attendant, which leaves Hörn with her guilt and the disapproval of the others.[@fm17-pardon, fm17-between]
 
 ### DanMachi 17
 
-While Bell is held in [[folkvangr|Folkvangr]], Hörn frees Lyu and returns the Hestia Knife to Bell.[@fm17-horn] She recognises her own feelings for Bell but chooses to remain Hörn. Gravely wounded, she uses Vana Seiðr to show Bell Freya's hidden plea to be saved; Freya orders that she be healed so that she can be judged rather than die.[@fm17-horn, fm17-save]
+While Bell is held in [[folkvangr|Folkvangr]], Hörn frees [[lyu-leon|Lyu]] and returns the Hestia Knife to Bell.[@fm17-horn] She recognises her own feelings for Bell but chooses to remain Hörn. Gravely wounded, she uses Vana Seiðr to show Bell Freya's hidden plea to be saved; Freya orders that she be healed so that she can be judged rather than die.[@fm17-horn, fm17-save]
 
 ### DanMachi 18–20
 
-During the Familia War, Hörn lies unconscious in Syr's form with Vana Seiðr still active. Her plea to stop Freya and save her moves Mia and the tavern's staff to act.[@fm18-senses, fm18-plea] She wakes after the war and thanks Bell for saving Syr.[@fm18-wake]
+During the Familia War, Hörn lies unconscious in Syr's form with Vana Seiðr still active. Her plea to stop Freya and save her moves [[mia-grand|Mia]] and the tavern's staff to act.[@fm18-senses, fm18-plea] She wakes after the war and thanks Bell for saving Syr.[@fm18-wake]
 
 In DanMachi 19 Freya has formally pardoned her, but her former comrades make her work at [[the-benevolent-mistress|The Benevolent Mistress]] as atonement; [[heith-velvet|Heith]] tells her she is first in line for punishment.[@fm19-horn] In DanMachi 20 she is still working and living at the tavern.[@fm20-horn]
 

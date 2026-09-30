@@ -31,7 +31,7 @@
 
 ## Arrival in Orario
 
-Hestia came down to the Lower World about six months before Bell arrived in Orario. She repeatedly failed to recruit anyone, and [[hephaistos|Hephaistos]] gave her an abandoned church to live in and a job.[@fm15-descent] She had been turned down fifty times before she found Bell, and together they founded Hestia Familia.[@fm01-found] She approached him after recognizing him as another lost child.[@fm15-descent]
+Hestia came down to the Lower World about six months before Bell arrived in [[orario|Orario]]. She repeatedly failed to recruit anyone, and [[hephaistos|Hephaistos]] gave her an abandoned church to live in and a job.[@fm15-descent] She had been turned down fifty times before she found Bell, and together they founded Hestia Familia.[@fm01-found] She approached him after recognizing him as another lost child.[@fm15-descent]
 
 When she came down she chose to remain able to fall ill like a mortal.[@ss01-hestia]
 
@@ -46,19 +46,19 @@ For Bell she obtains the Hestia Knife from Hephaistos on a thirty-year loan.[@fm
 | Volume | Events |
 |---|---|
 | DanMachi 1 | Founds the Familia with Bell and obtains the Hestia Knife for him.[@fm01-found, fm01-knife] |
-| DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black Goliath, and the [[guild|Guild]] fines her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
-| DanMachi 6 | Accepts Apollo's challenge to a War Game and wins it. She puts up the Hestia Knife as collateral so that Lilly can convert, then disbands Apollo Familia, exiles Apollo and moves into his former manor.[@fm06-lilly, fm06-manor] |
-| DanMachi 7 | Accepts Haruhime into the Familia.[@fm07-debt] |
+| DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black [[goliath|Goliath]], and the [[guild|Guild]] fines her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
+| DanMachi 6 | Accepts [[apollo|Apollo]]'s challenge to a [[war-game|War Game]] and wins it. She puts up the Hestia Knife as collateral so that [[lilliluka-erde|Lilly]] can convert, then disbands Apollo Familia, exiles Apollo and moves into his former manor.[@fm06-lilly, fm06-manor] |
+| DanMachi 7 | Accepts [[haruhime|Haruhime]] into the Familia.[@fm07-debt] |
 | DanMachi 8 | Is kidnapped by Ares. She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |
 | DanMachi 11 | Directs the rescue of the stranded [[xenos|Xenos]].[@fm11-xenos] |
 | DanMachi 12 | Updates Bell to Level 4.[@fm12-vesta] |
-| DanMachi 16 | Is working at [[the-benevolent-mistress|The Benevolent Mistress]] during the festival. She follows Bell with Aiz, and recognizes that the "Syr" on the second day shows a divinity that doesn't match her memories.[@fm16-tavern] |
+| DanMachi 16 | Is working at [[the-benevolent-mistress|The Benevolent Mistress]] during the festival. She follows Bell with [[aiz-wallenstein|Aiz]], and recognizes that the "[[syr-flover|Syr]]" on the second day shows a divinity that doesn't match her memories.[@fm16-tavern] |
 | DanMachi 17 | Resists [[freya|Freya]]'s charm and purges it from the whole city.[@fm17-hearth] |
 | DanMachi 19 | Speaking for the victorious coalition, allows Syr to stay on as an ordinary girl serving penance.[@fm19-syr] |
 
 ## Breaking Freya's charm
 
-In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it.[@fm17-hearth] With Hermes, Asfi and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her ichor, into an altar. From Babel she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
+In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it.[@fm17-hearth] With Hermes, [[asfi|Asfi]] and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her ichor, into an altar. From [[babel|Babel]] she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
 
 > [!NOTE] Divine power
 > A god cannot be permanently killed by a mortal. A life-threatening injury automatically releases divine power, heals the god and sends them back to the heavens as punishment for using Arcanum.[@fm06-gods] Hestia's charm-breaking flame is treated as a feat of her divine domain, the hearth.[@fm17-domain]

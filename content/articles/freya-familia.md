@@ -24,7 +24,7 @@
   }
 }
 ---
-**Freya Familia** is the Familia of the goddess [[freya|Freya]]. Together with [[loki-familia|Loki Familia]] it drove Zeus Familia and Hera Familia out of Orario after the Black Dragon broke their strength.[@fm06-zeus] Its home is [[folkvangr|Folkvangr]], a walled estate in the city's fifth district.[@fm07-folkvangr] In DanMachi 18 it loses a Familia War against a coalition led by Hestia, and the [[guild|Guild]] dissolves it.[@fm18-flower, fm18-dissolved]
+**Freya Familia** is the Familia of the goddess [[freya|Freya]]. Together with [[loki-familia|Loki Familia]] it drove Zeus Familia and Hera Familia out of [[orario|Orario]] after the Black Dragon broke their strength.[@fm06-zeus] Its home is [[folkvangr|Folkvangr]], a walled estate in the city's fifth district.[@fm07-folkvangr] In DanMachi 18 it loses a Familia War against a coalition led by [[hestia|Hestia]], and the [[guild|Guild]] dissolves it.[@fm18-flower, fm18-dissolved]
 
 ## Members {#members}
 
@@ -48,7 +48,7 @@ Ottar was the first. At seventeen he was Level 5 and second-in-command; after hi
 
 ## Organisation
 
-Only recognised second-tier members and the core forces know that Syr exists; members below Level 2 do not. Ordinarily one or two first-tier adventurers guard her.[@fm16-syr]
+Only recognised second-tier members and the core forces know that [[syr-flover|Syr]] exists; members below Level 2 do not. Ordinarily one or two first-tier adventurers guard her.[@fm16-syr]
 
 ### Folkvangr and the einherjar {#folkvangr}
 
@@ -58,27 +58,27 @@ Folkvangr's field holds death matches from dawn to sunset. Members below the fir
 
 ### Before DanMachi 1
 
-During the Great Conflict told in Astrea Record, Ottar is Level 6, Hedin, Hegni and Allen are Level 5, and the Gulliver brothers are Level 4.[@ar01-ottar, ar01-levels, ar02-allen] Ottar defeats Zald of Zeus Familia and advances to Level 7, and in the war's aftermath the other leading members reach Level 6.[@ar03-ottar, ar03-hegni]
+During the [[great-conflict|Great Conflict]] told in Astrea Record, Ottar is Level 6, Hedin, Hegni and Allen are Level 5, and the Gulliver brothers are Level 4.[@ar01-ottar, ar01-levels, ar02-allen] Ottar defeats [[zald|Zald]] of Zeus Familia and advances to Level 7, and in the war's aftermath the other leading members reach Level 6.[@ar03-ottar, ar03-hegni]
 
 ### DanMachi 1–15
 
-Freya's interest in [[bell-cranell|Bell Cranell]] draws in her Familia. Ottar prepares and trains the Minotaur that Bell faces in DanMachi 3, and in Sword Oratoria 4 Ottar, Allen and the Bringar keep Loki Familia away from that fight.[@fm03-minotaur, so04-captain] In DanMachi 7, after Ishtar abducts Bell, the Familia overwhelms Ishtar Familia and Ishtar is sent back to the heavens; Freya pays a Guild fine for the attack.[@fm07-ishtar, fm07-fine] In DanMachi 11 Ottar steers [[asterios|Asterios]] toward Bell, blocks Loki Familia under Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios]
+Freya's interest in [[bell-cranell|Bell Cranell]] draws in her Familia. Ottar prepares and trains the Minotaur that Bell faces in DanMachi 3, and in Sword Oratoria 4 Ottar, Allen and the Bringar keep Loki Familia away from that fight.[@fm03-minotaur, so04-captain] In DanMachi 7, after [[ishtar|Ishtar]] abducts Bell, the Familia overwhelms Ishtar Familia and Ishtar is sent back to the heavens; Freya pays a Guild fine for the attack.[@fm07-ishtar, fm07-fine] In DanMachi 11 Ottar steers [[asterios|Asterios]] toward Bell, blocks Loki Familia under Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios]
 
 ### The Goddess Festival and Bell's seizure
 
-During the festival of DanMachi 16, Hedin runs a plan to guard Syr on her date with Bell, and Hörn, disguised as Syr, tries to kill Bell; Allen leaves her alive for punishment.[@fm16-hedin, fm16-horn] In DanMachi 17 Freya demands Bell's conversion and takes him. Her charm makes the whole city believe he is a member of her Familia, but he never converts and keeps Hestia's Falna.[@fm17-seizure] For more than two weeks he is trained in Folkvangr's battles and grows stronger while staying at Level 4.[@fm17-baptism]
+During the festival of DanMachi 16, Hedin runs a plan to guard Syr on her date with Bell, and Hörn, disguised as Syr, tries to kill Bell; Allen leaves her alive for punishment.[@fm16-hedin, fm16-horn] In DanMachi 17 Freya demands Bell's conversion and takes him. Her charm makes the whole city believe he is a member of her Familia, but he never converts and keeps Hestia's [[falna|Falna]].[@fm17-seizure] For more than two weeks he is trained in Folkvangr's battles and grows stronger while staying at Level 4.[@fm17-baptism]
 
 After Hestia purges the charm, Freya declares a Familia War, staking her Familia, its wealth, her fame and honour, and herself.[@fm17-wager] She also offers [[ouranos|Ouranos]] a full expedition by her Familia into unexplored territory and preparations against the Black Dragon in exchange for non-interference; the pledge is not carried out in DanMachi 17.[@fm17-pledge]
 
 ### The Familia War
 
-In DanMachi 18 forty-seven Familias and more than eight hundred adventurers fight Freya Familia at the ruins of Orza under flower-capture rules. Hedin secretly turns against the Familia for Freya's own sake, and Mia enters the battle against Ottar.[@fm18-orza, fm18-hedin, fm18-mia] Bell scatters Freya's flower, and the coalition wins. Nobody dies in the War Game.[@fm18-flower, fm18-orza]
+In DanMachi 18 forty-seven Familias and more than eight hundred adventurers fight Freya Familia at the ruins of Orza under flower-capture rules. Hedin secretly turns against the Familia for Freya's own sake, and Mia enters the battle against Ottar.[@fm18-orza, fm18-hedin, fm18-mia] Bell scatters Freya's flower, and the coalition wins. Nobody dies in the [[war-game|War Game]].[@fm18-flower, fm18-orza]
 
 ## Dissolution {#dissolution}
 
 After the defeat the Guild orders Freya banished and dissolves the Familia. Folkvangr is placed under Guild management and the rest of its fortune is divided among the coalition Familias; its adventurers are kept in Orario.[@fm18-dissolved] Freya tells her followers to stay behind and become heroes.[@fm18-stay]
 
-In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: the Gulliver brothers, Hegni, Heith, Hörn, Ottar and the Andhrímnir wait tables and cook, Allen keeps guard from the roof, and Hedin and Hegni protect Haruhime.[@fm19-tavern] Hedin is punished by his former comrades for his part in the defeat.[@fm19-hedin] In DanMachi 20 they are still guarding around Hearthstone Manor, and Syr cannot come and go from Folkvangr because the Guild has seized it.[@fm20-guards]
+In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: the Gulliver brothers, Hegni, Heith, Hörn, Ottar and the Andhrímnir wait tables and cook, Allen keeps guard from the roof, and Hedin and Hegni protect [[haruhime|Haruhime]].[@fm19-tavern] Hedin is punished by his former comrades for his part in the defeat.[@fm19-hedin] In DanMachi 20 they are still guarding around [[hearthstone-manor|Hearthstone Manor]], and Syr cannot come and go from Folkvangr because the Guild has seized it.[@fm20-guards]
 
 ## Open questions
 

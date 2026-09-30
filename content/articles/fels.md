@@ -7,8 +7,8 @@
   "continuity": "light-novel",
   "summary": "The legendary Sage, now an undying skeleton in a black robe; Ouranos's private agent and the Xenos' go-between, and a master maker of magic items.",
   "aliases": ["Fels the Fool", "The Sage"],
-  "spoilers": "DanMachi Vols. 9–19, Sword Oratoria Vols. 2, 3 and 10, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 1",
-  "related": ["ouranos", "xenos", "wiene", "asterios", "knossos", "development-ability"],
+  "spoilers": "DanMachi Vols. 9–19, Sword Oratoria Vols. 2–10, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 1",
+  "related": ["ouranos", "xenos", "wiene", "asterios", "knossos", "development-ability", "magic"],
   "infobox": {
     "title": "Fels",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -32,16 +32,61 @@ Fels's mastery of the Development Ability Enigma produced the Philosopher's Ston
 
 ## Abilities
 
-Fels was once Level 4 and can heal at a high level. In DanMachi 10 the spell Dia Orpheus succeeds for the first time in some eight hundred years, bringing [[wiene|Wiene]] back to life.[@fm10-fels] After the Daedalus Street fighting Fels tends the Xenos' wounds and restores [[asterios|Asterios]]'s severed arm.[@fm11-fels]
+Fels was once Level 4 and can heal at a high level. In DanMachi 10 the spell [[#dia-orpheus|Dia Orpheus]] succeeds for the first time in some eight hundred years, bringing [[wiene|Wiene]] back to life.[@fm10-fels] After the [[daedalus-street|Daedalus Street]] fighting Fels tends the Xenos' wounds and restores [[asterios|Asterios]]'s severed arm.[@fm11-fels]
+
+## Magic {#magic}
+
+{{nocite}} Fels's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Dia Orpheus {#dia-orpheus}
+
+**Dia Orpheus** is a spell of Fels: taboo resurrection magic, which the narration says was granted only to the Sage of old. It is cast with an extremely long chant and, in its one completed casting, costs all of Fels's Mind.[@dia-orpheus.fm10-cast] In DanMachi 10 it brings [[wiene|Wiene]] back to life after she crumbles to ash; Fels calls it the first success in some eight hundred years.[@dia-orpheus.fm10-result]
+
+- **User:** Fels[@dia-orpheus.fm10-cast]
+- **Type:** Resurrection magic, "granted to only the Sage of old"[@dia-orpheus.fm10-cast]
+- **Cost (as shown):** All of Fels's Mind[@dia-orpheus.fm10-cast]
+- **Known success:** [[wiene|Wiene]], DanMachi 10[@dia-orpheus.fm10-result]
+- **Chant:** Extremely long; eight printed pieces[@dia-orpheus.fm10-cast]
+
+#### Incantation {#dia-orpheus-incantation}
+
+{{nocite}} The chant is extremely long and is printed in eight pieces, split by the narration and by scenes elsewhere in Orario. Only short excerpts are quoted; the full passage is in DanMachi 10, Chapter 10.
+
+- **Opening (excerpt):** "O untrodden domain, O forbidden wall."[@dia-orpheus.fm10-cast]
+- **Middle pieces:** they invoke the Rod of Asclepius, the gates of Charon and the river of time, and say the price has already been paid.[@dia-orpheus.fm10-cast]
+- **Last piece (excerpt):** "Yes, I will not turn away."[@dia-orpheus.fm10-cast]
+- **Release:** "Dia Orpheus."[@dia-orpheus.fm10-cast]
+
+{{nocite}} The narration says the conjuring was complete before the release, but because the chant is described as extremely long and is cut between scenes, the eight printed pieces may not be the whole of it.
+
+#### The casting {#dia-orpheus-the-casting}
+
+After Wiene dies, only the reddish jewel from her forehead remains among her ashes. Fels begins to chant; a white magic circle spreads, and a pillar of white light bursts through the ground and is seen all over Orario.[@dia-orpheus.fm10-cast] At the release the pillar breaks into countless fragments of light, which spiral into Bell's chest; Wiene returns in his arms, breathing, with humanlike limbs and without her dragon wings.[@dia-orpheus.fm10-result]
+
+Fels then sits down, spent, and says that this was their first success. Fels calls it a "pointless magic" that took up one of their Status slots for eight hundred years.[@dia-orpheus.fm10-result]
+
+#### Limits {#dia-orpheus-limits}
+
+The novels show one success and give no rules for it. Which targets it can revive, how long after death, whether remains are needed, and whether it can be repeated are not stated.[@dia-orpheus.fm10-result] The only cost shown is all of Fels's Mind.[@dia-orpheus.fm10-cast]
+
+#### Resurrection and the gods {#dia-orpheus-resurrection-and-the-gods}
+
+In Astrea Record 2, during the Great Conflict, Fels wonders whether their magic could give a dead elf boy a second life. [[ouranos|Ouranos]] forbids it: he will not abide resurrection, and would take back any life Fels restored. Fels submits.[@dia-orpheus.ar02-ouranos] The scene does not name Dia Orpheus or show a casting.
+
+#### Not to be confused with {#dia-orpheus-not-to-be-confused-with}
+
+**Dia Panacea**, a separate healing spell Fels casts earlier in DanMachi 10, which heals Bell's wounds, his broken fist and his fatigue.[@dia-orpheus.fm10-panacea]
+
+{{nocite}} Notable uses and open questions for Dia Orpheus are on the combined page: [[magic#dia-orpheus|Magic § Dia Orpheus]].
 
 ## History
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 2–3 | As a black-robed figure, investigates unknown monsters with Ouranos, hires Lulune to carry cargo from Rivira, and then gives Aiz a quest.[@so02-fels, so03-fels] |
+| Sword Oratoria 2–3 | As a black-robed figure, investigates unknown monsters with Ouranos, hires Lulune to carry cargo from [[rivira|Rivira]], and then gives [[aiz-wallenstein|Aiz]] a quest.[@so02-fels, so03-fels] |
 | DanMachi 9 | Revealed as the Sage and as Ouranos's liaison with the Xenos.[@fm09-fels] |
 | Sword Oratoria 10 | Leads eleven Xenos through Knossos and accepts [[finn-deimne|Finn]]'s limited alliance.[@so10-fels] |
-| DanMachi 12 | Tells Bell that clearing the Dungeon's deepest floor is necessary for coexistence with the Xenos, without saying why.[@fm12-fels] |
+| DanMachi 12 | Tells [[bell-cranell|Bell]] that clearing the Dungeon's deepest floor is necessary for coexistence with the Xenos, without saying why.[@fm12-fels] |
 | DanMachi 13 | Finds broken cages for deep-level monsters in Knossos.[@fm13-fels] |
 | DanMachi 19 | Sets up a workshop inside [[knossos|Knossos]], now under Ouranos's control, and begins making a crimson jewel meant for the hunt for the Black Dragon.[@fm19-workshop, fm19-jewel] |
 
@@ -63,3 +108,7 @@ Fels was once Level 4 and can heal at a high level. In DanMachi 10 the spell Dia
 [@so10-fels]: SO10 | | Fels, the Xenos and Finn.
 [@ar02-fels]: AR02 | | No need for food or rest.
 [@ss01-fels]: SS01 | | Age; the owl; the "haunted" workshop.
+[@dia-orpheus.fm10-panacea]: FM10 | Chapter 9: Dreams of Beasts | Dia Panacea heals Bell.
+[@dia-orpheus.fm10-cast]: FM10 | Chapter 10: The Fool | Extremely long chant; resurrection magic of the Sage; all of Fels's Mind.
+[@dia-orpheus.fm10-result]: FM10 | Chapter 10: The Fool | Wiene returns; "my first success"; eight hundred years; a Status slot.
+[@dia-orpheus.ar02-ouranos]: AR02 | Chapter 4: Those Who Struggle | Ouranos forbids resurrection.

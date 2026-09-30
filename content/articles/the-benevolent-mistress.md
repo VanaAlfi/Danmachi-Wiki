@@ -51,7 +51,7 @@ Sword Oratoria 9's recollections show the tavern newly built when the young Aiz 
 
 ### Before the main story
 
-Anya is already working there, helping Syr, during the Great Conflict in Astrea Record 2.[@ar02-conflict] She was at the tavern before Lyu, Chloe and Runoa arrived.[@fc01-precedes]
+Anya is already working there, helping Syr, during the [[great-conflict|Great Conflict]] in Astrea Record 2.[@ar02-conflict] She was at the tavern before Lyu, Chloe and Runoa arrived.[@fc01-precedes]
 
 Familia Chronicle 1's story "That Is a Benevolent Tavern: ~Girl Meets Girls~" shows how Lyu, Chloe and Runoa came to work there; the tavern becomes their refuge and workplace.[@fc01-recruit] The volume's afterword places that story before DanMachi 1.[@fc01-afterword]
 
@@ -59,7 +59,7 @@ Familia Chronicle 1's story "That Is a Benevolent Tavern: ~Girl Meets Girls~" sh
 
 Bell Cranell meets Syr at the tavern the morning after [[aiz-wallenstein|Aiz]] rescues him from a Minotaur.[@fm01-syr] In Familia Chronicle 1's casino story, set later, Anya, Chloe and Runoa wash dishes while discussing Syr's gambling.[@fc01-casino]
 
-In DanMachi 17, Freya's charm rewrites the city's memories, but Mia and Anya still remember Syr.[@fm17-memory] Freya then reveals to Anya that she had been living at the tavern as Syr.[@fm17-reveal]
+In DanMachi 17, [[freya|Freya]]'s charm rewrites the city's memories, but Mia and Anya still remember Syr.[@fm17-memory] Freya then reveals to Anya that she had been living at the tavern as Syr.[@fm17-reveal]
 
 At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her staying on as Syr.[@fm18-syr]
 
@@ -72,7 +72,7 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 |---|---|---|
 | [[mia-grand|Mia Grand]] | Owner | Staff owe her money.[@fc01-owner, fm16-pay] |
 | [[syr-flover|Syr]] | Waitress | Meets Bell at the tavern in DanMachi 1.[@fm01-syr] Revealed to Anya as Freya in DanMachi 17.[@fm17-reveal] |
-| [[anya-fromel|Anya Fromel]] | Waitress | Former Freya Familia adventurer; at the tavern before Lyu, Chloe and Runoa.[@fc01-precedes] |
+| [[anya-fromel|Anya Fromel]] | Waitress | Former [[freya-familia|Freya Familia]] adventurer; at the tavern before Lyu, Chloe and Runoa.[@fc01-precedes] |
 | [[lyu-leon|Lyu]] | Waitress | Joins in Familia Chronicle 1's tavern story.[@fc01-recruit] |
 | [[chloe|Chloe]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
 | [[runoa|Runoa]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |

@@ -23,7 +23,7 @@
   }
 }
 ---
-**The Dungeon** is the vast underground labyrinth beneath [[orario|Orario]], and the only one known. The [[guild|Guild]] oversees access to it.[@fm01-dungeon] Its entrance is sealed beneath Babel Tower.[@fm12-sealed] Its walls repair themselves and give birth to fully grown monsters.[@fm01-walls] DanMachi 1 calls it one of the world's three great mysteries and the birthplace of the ancestors of the monsters on the surface.[@fm01-mystery]
+**The Dungeon** is the vast underground labyrinth beneath [[orario|Orario]], and the only one known. The [[guild|Guild]] oversees access to it.[@fm01-dungeon] Its entrance is sealed beneath [[babel|Babel Tower]].[@fm12-sealed] Its walls repair themselves and give birth to fully grown monsters.[@fm01-walls] DanMachi 1 calls it one of the world's three great mysteries and the birthplace of the ancestors of the monsters on the surface.[@fm01-mystery]
 
 ## Levels of the Dungeon
 
@@ -34,7 +34,7 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 | 1–12 | Upper levels | Goblins and kobolds on Floors 1–4; conditions change sharply from Floor 5. The Guild does not let Level 1 adventurers below Floor 12.[@fm02-upper, fm02-limit] |
 | 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] |
 | 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the Water Capital around the Great Falls.[@fm12-lower] Floor 28, the Under Garden, is a safe point.[@fm20-garden] |
-| Deeper floors | Deep levels | Floor 37, the Lower Fortress, lies in the deep levels and is home to Spartoi and the [[monster-rex|Monster Rex]] Udaeus.[@fm02-rex, fm14-deep] |
+| Deeper floors | Deep levels | [[floor-37|Floor 37]], the Lower Fortress, lies in the deep levels and is home to Spartoi and the [[monster-rex|Monster Rex]] Udaeus.[@fm02-rex, fm14-deep] |
 
 For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls]
 
@@ -44,11 +44,11 @@ Monsters are born from the Dungeon's walls. At their core is a magic stone; remo
 
 From around Floor 10, many monsters can be born into one room at once, and each floor below Floor 2 has two or three pantries where monsters feed.[@fm04-pantries] Each floor has at most one Monster Rex, a floor boss said to be two Levels above its other monsters.[@fm02-rex]
 
-When adventurers damage a floor faster than the Dungeon can repair it, the Dungeon can produce a monster to eliminate them, as with the Juggernaut in DanMachi 13.[@fm13-juggernaut] Events outside the Dungeon's normal behaviour, such as the Black Goliath on Floor 18, are called *Irregulars*.[@fm08-irregular]
+When adventurers damage a floor faster than the Dungeon can repair it, the Dungeon can produce a monster to eliminate them, as with the [[juggernaut|Juggernaut]] in DanMachi 13.[@fm13-juggernaut] Events outside the Dungeon's normal behaviour, such as the Black [[goliath|Goliath]] on Floor 18, are called *Irregulars*.[@fm08-irregular]
 
 ## The Three Great Quests
 
-The Behemoth, the Leviathan and the Black Dragon escaped the Dungeon in ancient times, and defeating them became the Three Great Quests. Zeus Familia and Hera Familia killed the Behemoth and the Leviathan, but the Black Dragon, also called the One-Eyed Dragon, destroyed them. It remains the last Great Quest.[@fm06-quests, so09-quests]
+The Behemoth, the Leviathan and the Black Dragon escaped the Dungeon in ancient times, and defeating them became the [[three-great-quests|Three Great Quests]]. Zeus Familia and Hera Familia killed the Behemoth and the Leviathan, but the Black Dragon, also called the One-Eyed Dragon, destroyed them. It remains the last Great Quest.[@fm06-quests, so09-quests]
 
 ## Expeditions
 

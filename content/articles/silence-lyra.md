@@ -38,13 +38,13 @@ The accessory was first developed, by Perseus, to protect against the enticing s
 
 The modified version uses both active and passive noise cancellation: it surrounds the wearer with a field that weakens incoming sound waves.[@ar03-lyre]
 
-It has to be worn to work. Against Remisto Felis, Allen covers his ears with his hands and is still affected.[@fm18-remisto]
+It has to be worn to work. Against Remisto Felis, [[allen-fromel|Allen]] covers his ears with his hands and is still affected.[@fm18-remisto]
 
 ## History
 
-Astrea Record 3 describes the modification during the Great Conflict.[@ar03-lyre] DanMachi 18 recalls that it was made against a sound-using enemy in the Dark Age, and that [[lyu-leon|Lyu]] kept a pair among the mementos of her comrades.[@fm18-lyra]
+Astrea Record 3 describes the modification during the [[great-conflict|Great Conflict]].[@ar03-lyre] DanMachi 18 recalls that it was made against a sound-using enemy in the Dark Age, and that [[lyu-leon|Lyu]] kept a pair among the mementos of her comrades.[@fm18-lyra]
 
-After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Benevolent Mistress]] asked for the accessory to be mass-produced. In the War Game, the fighters equipped with it are not weakened by Remisto Felis, and turn the spell against their opponents.[@fm18-lyra]
+After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Benevolent Mistress]] asked for the accessory to be mass-produced. In the [[war-game|War Game]], the fighters equipped with it are not weakened by Remisto Felis, and turn the spell against their opponents.[@fm18-lyra]
 
 ## Open questions
 

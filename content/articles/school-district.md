@@ -25,7 +25,7 @@
   }
 }
 ---
-**The School District**, officially the Maritime Academy for Scholarship Special Administrative District, is a school that travels the world aboard a giant ship.[@fm19-name] It returns to Orario once every three years, one of the city's biggest events.[@fm19-visit] Its principal is the god Balder.[@so13-balder]
+**The School District**, officially the Maritime Academy for Scholarship Special Administrative District, is a school that travels the world aboard a giant ship.[@fm19-name] It returns to [[orario|Orario]] once every three years, one of the city's biggest events.[@fm19-visit] Its principal is the god [[balder|Balder]].[@so13-balder]
 
 ## The Hringhorni
 
@@ -33,16 +33,16 @@ The school's ship, the Hringhorni, is round, about 700 meders across, and has se
 
 ## How it works
 
-The school's classes are Familias, each led by a god, and it grants the Falna to its students and teachers.[@so13-classes, fm19-falna] Ordinary admission is for children aged six to ten, of any origin or race, with no fees; entry depends on an interview with the gods to test the applicant's determination to study.[@so13-admission, fm19-interview] Students graduate when their teachers and gods approve.[@so13-admission] Although their Statuses may be strong, students' practice in the Dungeon stops at Floor 15, because they lack adventurers' experience.[@so13-practice]
+The school's classes are Familias, each led by a god, and it grants the [[falna|Falna]] to its students and teachers.[@so13-classes, fm19-falna] Ordinary admission is for children aged six to ten, of any origin or race, with no fees; entry depends on an interview with the gods to test the applicant's determination to study.[@so13-admission, fm19-interview] Students graduate when their teachers and gods approve.[@so13-admission] Although their Statuses may be strong, students' practice in the Dungeon stops at Floor 15, because they lack adventurers' experience.[@so13-practice]
 
 ## People
 
 | Person | Connection |
 |---|---|
-| Leon Verdenberg | Captain of Balder Class and its leading professor, titled *Knight of Knights*; a Level 7, born to half-dwarf parents.[@so13-leon, fm20-leon, fm20-parents] |
+| [[leon-verdenberg|Leon Verdenberg]] | Captain of Balder Class and its leading professor, titled *Knight of Knights*; a Level 7, born to half-dwarf parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
-| [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with Hestia Familia.[@fm20-nina] |
+| [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with [[hestia-familia|Hestia Familia]].[@fm20-nina] |
 | [[bell-cranell|Bell Cranell]] | Enters in DanMachi 19 under the name Rapi Flemish.[@fm19-rapi] |
 
 ## The Orariad

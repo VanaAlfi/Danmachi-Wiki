@@ -38,9 +38,9 @@ Members below the first tier fight daily battle royals that would kill them, whi
 | Volume | Events |
 |---|---|
 | DanMachi 16 | Freya Familia's first-tier members hold an emergency meeting there during the festival.[@fm16-field] |
-| DanMachi 17 | Bell is held there for more than two weeks and trained in its battles; Lyu, captured, is imprisoned beneath it and damages the interior while escaping.[@fm17-bell, fm17-lyu] |
+| DanMachi 17 | [[bell-cranell|Bell]] is held there for more than two weeks and trained in its battles; [[lyu-leon|Lyu]], captured, is imprisoned beneath it and damages the interior while escaping.[@fm17-bell, fm17-lyu] |
 | DanMachi 18 | After the Familia War it is placed under [[guild|Guild]] management, while Freya Familia's other wealth is divided among the coalition.[@fm18-guild] |
-| DanMachi 20 | Syr cannot come and go there because the Guild has seized it.[@fm20-seized] |
+| DanMachi 20 | [[syr-flover|Syr]] cannot come and go there because the Guild has seized it.[@fm20-seized] |
 
 [@fm07-folkvangr]: FM07 | | Folkvangr's location; Twilight Manor in the north.
 [@fm16-field]: FM16 | | The walled field and manor; the emergency meeting.

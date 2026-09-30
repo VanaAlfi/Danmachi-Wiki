@@ -27,7 +27,7 @@
 
 | Volume | Events |
 |---|---|
-| DanMachi 9 | Tests Bell's party and then welcomes them; Bell becomes the first person from the surface welcomed into the Hidden Village. He shakes Bell's hand and tells him not to hesitate against monsters that attack.[@fm09-lido, fm09-village] |
+| DanMachi 9 | Tests [[bell-cranell|Bell]]'s party and then welcomes them; Bell becomes the first person from the surface welcomed into the Hidden Village. He shakes Bell's hand and tells him not to hesitate against monsters that attack.[@fm09-lido, fm09-village] |
 | DanMachi 10 | At first tries to keep Bell out of the Xenos' revenge, then fights beside him after Bell declares himself, and leads the escape on the surface.[@fm10-lido] |
 | DanMachi 11 | Returns safely with the others to a Hidden Village. Bell recalls Lido's talk of monsters' past lives when Asterios speaks of his dream.[@fm11-village, fm11-dream] |
 

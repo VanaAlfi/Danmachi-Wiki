@@ -24,7 +24,7 @@
   }
 }
 ---
-**The Guild** governs matters concerning [[dungeon|the Dungeon]] in [[orario|Orario]]. It oversees adventurers and access to the Dungeon, keeps their records, runs the Exchange where magic stones and drop items are sold, and guards Babel, the lid over the Dungeon.[@fm01-guild] It was founded by the god [[ouranos|Ouranos]], who is its true leader; its day-to-day head is the elf Royman Mardeel.[@so02-ouranos, fm09-ouranos, fm09-royman]
+**The Guild** governs matters concerning [[dungeon|the Dungeon]] in [[orario|Orario]]. It oversees adventurers and access to the Dungeon, keeps their records, runs the Exchange where magic stones and drop items are sold, and guards [[babel|Babel]], the lid over the Dungeon.[@fm01-guild] It was founded by the god [[ouranos|Ouranos]], who is its true leader; its day-to-day head is the elf [[royman|Royman Mardeel]].[@so02-ouranos, fm09-ouranos, fm09-royman]
 
 ## What the Guild does
 
@@ -42,16 +42,16 @@ Receptionists are chosen partly for their looks, because their rapport with adve
 
 ## Headquarters
 
-DanMachi 1 places the Guild headquarters on West Main Street, while Sword Oratoria 1 and DanMachi 8 put it on Northwest Main, known as Adventurers Way.[@fm01-west, so01-northwest, fm08-store] Its bulletin board carries public announcements, such as Bell's promotion to Level 3.[@fm07-board]
+DanMachi 1 places the Guild headquarters on West Main Street, while Sword Oratoria 1 and DanMachi 8 put it on Northwest Main, known as Adventurers Way.[@fm01-west, so01-northwest, fm08-store] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
 
 ## Decisions in the covered volumes
 
 | Volume | Events |
 |---|---|
-| DanMachi 5 | Classes the Black Goliath's appearance at a safe point as a "Calamity", an act of the gods, and penalises Hestia and Hermes.[@fm05-calamity] |
-| DanMachi 14 | Accepts Bors's report that the Gale Wind died, and suppresses information about the Juggernaut.[@fm14-report] |
-| DanMachi 18 | After the Familia War, orders Freya banished, dissolves her Familia and takes Folkvangr under its management; Royman at first tries to protect her.[@fm18-dissolved] |
-| DanMachi 19 | Asks Lyu not to register under her old name.[@fm19-name] |
+| DanMachi 5 | Classes the Black [[goliath|Goliath]]'s appearance at a safe point as a "Calamity", an act of the gods, and penalises [[hestia|Hestia]] and [[hermes|Hermes]].[@fm05-calamity] |
+| DanMachi 14 | Accepts Bors's report that the Gale Wind died, and suppresses information about the [[juggernaut|Juggernaut]].[@fm14-report] |
+| DanMachi 18 | After the Familia War, orders [[freya|Freya]] banished, dissolves her Familia and takes [[folkvangr|Folkvangr]] under its management; Royman at first tries to protect her.[@fm18-dissolved] |
+| DanMachi 19 | Asks [[lyu-leon|Lyu]] not to register under her old name.[@fm19-name] |
 | DanMachi 20 | Royman signs the [[school-district|School District]]'s proposal to cooperate on the shaft project.[@fm20-shaft] |
 
 ## Open questions

@@ -26,7 +26,7 @@
   }
 }
 ---
-**Hestia Familia** is the Familia of the goddess [[hestia|Hestia]]. It begins with a single member, [[bell-cranell|Bell Cranell]], and after its War Game victory over Apollo in DanMachi 6 it gains new members and a new home.[@fm01-found, fm06-manor] By DanMachi 19 it holds [[guild|Guild]] rank B.[@fm19-rank]
+**Hestia Familia** is the Familia of the goddess [[hestia|Hestia]]. It begins with a single member, [[bell-cranell|Bell Cranell]], and after its [[war-game|War Game]] victory over [[apollo|Apollo]] in DanMachi 6 it gains new members and a new home.[@fm01-found, fm06-manor] By DanMachi 19 it holds [[guild|Guild]] rank B.[@fm19-rank]
 
 ## Members {#members}
 
@@ -35,18 +35,18 @@
 | Member | Joins | From | Notes |
 |---|---|---|---|
 | [[bell-cranell|Bell Cranell]] | DanMachi 1 | — | First member; Hestia's only follower through DanMachi 1.[@fm01-found, fm01-bell] |
-| [[lilliluka-erde|Lilliluka Erde]] (Lilly) | DanMachi 6 | Soma Familia | Converts with both gods' consent, with the Hestia Knife as collateral.[@fm06-lilly] |
+| [[lilliluka-erde|Lilliluka Erde]] (Lilly) | DanMachi 6 | [[soma-familia|Soma Familia]] | Converts with both gods' consent, with the Hestia Knife as collateral.[@fm06-lilly] |
 | [[welf-crozzo|Welf Crozzo]] | DanMachi 6 | Hephaistos Familia | Leaves Hephaistos Familia and converts after reaching Level 2.[@fm06-join] |
-| [[mikoto|Mikoto]] | DanMachi 6 | Takemikazuchi Familia | Converts under the one-year transfer rule.[@fm06-join] |
+| [[mikoto|Mikoto]] | DanMachi 6 | [[takemikazuchi-familia|Takemikazuchi Familia]] | Converts under the one-year transfer rule.[@fm06-join] |
 | [[haruhime|Haruhime]] | DanMachi 7 | — | Accepted by Hestia.[@fm07-haruhime] |
-| [[lyu-leon|Lyu]] | DanMachi 19–20 | [[astrea-familia|Astrea Familia]] | Astrea releases her Falna for the conversion. The Guild will not register her under her old name, and the naming discussion ends with "Lyu Astrea".[@fm19-lyu] |
+| [[lyu-leon|Lyu]] | DanMachi 19–20 | [[astrea-familia|Astrea Familia]] | Astrea releases her [[falna|Falna]] for the conversion. The Guild will not register her under her old name, and the naming discussion ends with "Lyu Astrea".[@fm19-lyu] |
 
 > [!NOTE] Captivity is not conversion
-> In DanMachi 17 Freya takes Bell and makes the city believe he belongs to her Familia, but the conversion never happens and he keeps Hestia's Falna throughout.[@fm17-bell]
+> In DanMachi 17 [[freya|Freya]] takes Bell and makes the city believe he belongs to her Familia, but the conversion never happens and he keeps Hestia's Falna throughout.[@fm17-bell]
 
 ## Rank {#rank}
 
-Every Familia in Orario is registered with the Guild and given a rank from I to S. Higher ranks bring greater public trust and higher taxes.[@fm04-rank]
+Every Familia in [[orario|Orario]] is registered with the Guild and given a rank from I to S. Higher ranks bring greater public trust and higher taxes.[@fm04-rank]
 
 | Rank | When | Why |
 |---|---|---|
@@ -66,11 +66,11 @@ At home, Hestia's rules are a ten o'clock curfew, telling her which floor they a
 
 ### Early expeditions
 
-In DanMachi 5 a pass parade on Floor 13 drives Bell's party down to the safe point on [[floor-18|Floor 18]], where they fight the Black Goliath. Every member of their group survives, and the Guild imposes secrecy and penalizes Hestia and [[hermes|Hermes]].[@fm05-return] Hestia spends the Familia's savings of 400,000 valis on the rescue.[@fm05-rescue]
+In DanMachi 5 a pass parade on Floor 13 drives Bell's party down to the safe point on [[floor-18|Floor 18]], where they fight the Black [[goliath|Goliath]]. Every member of their group survives, and the Guild imposes secrecy and penalizes Hestia and [[hermes|Hermes]].[@fm05-return] Hestia spends the Familia's savings of 400,000 valis on the rescue.[@fm05-rescue]
 
 ### The Apollo War Game
 
-In DanMachi 6 Hestia accepts Apollo's challenge. In the Castle Siege, Hestia Familia attacks and wins by defeating the enemy general.[@fm06-wargame] Hestia then claims Apollo's property, orders his Familia disbanded and Apollo exiled, and moves her Familia into his former manor.[@fm06-manor] The manor is later called Hearthstone Manor.[@fm08-hearthstone]
+In DanMachi 6 Hestia accepts Apollo's challenge. In the Castle Siege, Hestia Familia attacks and wins by defeating the enemy general.[@fm06-wargame] Hestia then claims Apollo's property, orders his Familia disbanded and Apollo exiled, and moves her Familia into his former manor.[@fm06-manor] The manor is later called [[hearthstone-manor|Hearthstone Manor]].[@fm08-hearthstone]
 
 ### Expeditions as a rank-D Familia
 

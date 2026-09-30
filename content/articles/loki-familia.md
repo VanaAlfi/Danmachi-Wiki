@@ -24,7 +24,7 @@
   }
 }
 ---
-**Loki Familia** is the Familia of the goddess Loki. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove Zeus Familia and Hera Familia out of Orario.[@so14-founding, fm06-zeus] Its home is Twilight Manor, on the northern edge of the city.[@fm06-home, fm06-twilight]
+**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove Zeus Familia and Hera Familia out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is Twilight Manor, on the northern edge of the city.[@fm06-home, fm06-twilight]
 
 ## Founding
 
@@ -39,27 +39,27 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | Gareth Landrock | Dwarf warrior; DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders, fm08-gareth] |
 | [[aiz-wallenstein|Aiz Wallenstein]] | Joined at seven; Level 6 from DanMachi 2.[@so09-aiz, fm02-aiz] |
 | [[bete-loga|Bete Loga]] | Joined after leaving Víðarr Familia; Level 6 from Sword Oratoria 6.[@so08-bete, so06-bete] |
-| Raul Nord | Level 4; supervises the Familia's lower ranks.[@so04-raul] |
+| [[raul-nord|Raul Nord]] | Level 4; supervises the Familia's lower ranks.[@so04-raul] |
 
 Finn, Riveria and Gareth reach Level 7 together in Sword Oratoria 14; by DanMachi 20 they are among the five named Level 7s.[@so14-sevens, fm20-sevens]
 
 ## Rivalry with Freya Familia
 
-Sword Oratoria 4 calls Ottar one of Loki Familia's longest-standing foes, at the top of its blacklist.[@so04-ottar] In the same volume Freya Familia blocks Loki Familia so that Bell faces the Minotaur alone.[@so04-block]
+Sword Oratoria 4 calls [[ottar|Ottar]] one of Loki Familia's longest-standing foes, at the top of its blacklist.[@so04-ottar] In the same volume Freya Familia blocks Loki Familia so that [[bell-cranell|Bell]] faces the Minotaur alone.[@so04-block]
 
 ## History
 
 | Volume | Events |
 |---|---|
-| Astrea Record 2 | Fights in the Great Conflict; Alfia sees that Aiz now belongs to the Familia.[@ar02-loki] |
+| Astrea Record 2 | Fights in the [[great-conflict|Great Conflict]]; [[alfia|Alfia]] sees that Aiz now belongs to the Familia.[@ar02-loki] |
 | Sword Oratoria 4–6 | Expedition to Floor 59, where Aiz destroys a demi-spirit; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
 | Sword Oratoria 7 | First attempt on Knossos, which Loki counts as a defeat; she makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
-| DanMachi 10–11 | Pursues the [[xenos|Xenos]] through Daedalus Street; afterwards [[ouranos|Ouranos]] spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] |
+| DanMachi 10–11 | Pursues the [[xenos|Xenos]] through [[daedalus-street|Daedalus Street]]; afterwards [[ouranos|Ouranos]] spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep the Xenos secret; Finn forms a limited alliance with them for the assault on [[knossos|Knossos]].[@so10-compact, so10-alliance] |
-| Sword Oratoria 11–12 | Two assaults on Knossos; the second ends with Dionysus exposed as Enyo.[@so11-assault, so12-enyo] |
+| Sword Oratoria 11–12 | Two assaults on Knossos; the second ends with [[dionysus|Dionysus]] exposed as Enyo.[@so11-assault, so12-enyo] |
 | DanMachi 17 | Its Deep Levels party is outside Freya's charm, which does not reach inside the Dungeon, until it returns.[@fm17-dungeon] |
 | DanMachi 18 | The [[guild|Guild]] hopes Loki Familia can find the key to Thalia's Ice Garden, between Floors 60 and 61.[@fm18-thalia] |
-| DanMachi 20 | Plans a new expedition with Tsubaki and other strong allies from other Familias.[@fm20-expedition] |
+| DanMachi 20 | Plans a new expedition with [[tsubaki|Tsubaki]] and other strong allies from other Familias.[@fm20-expedition] |
 
 ## Open questions
 

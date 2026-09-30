@@ -25,7 +25,7 @@
   }
 }
 ---
-**Mia Grand** is a dwarf and the owner of [[the-benevolent-mistress|The Benevolent Mistress]]; her staff call her "Mama Mia".[@fc01-owner, fm16-pay] She is a Level 6 adventurer titled *Demi Ymir* and was captain of [[freya-familia|Freya Familia]] before [[ottar|Ottar]]. She half-retired from the Familia during Orario's dark ages but still bears [[freya|Freya]]'s blessing.[@fm18-mia]
+**Mia Grand** is a dwarf and the owner of [[the-benevolent-mistress|The Benevolent Mistress]]; her staff call her "Mama Mia".[@fc01-owner, fm16-pay] She is a Level 6 adventurer titled *Demi Ymir* and was captain of [[freya-familia|Freya Familia]] before [[ottar|Ottar]]. She half-retired from the Familia during [[orario|Orario]]'s dark ages but still bears [[freya|Freya]]'s blessing.[@fm18-mia]
 
 ## Freya Familia
 
@@ -37,15 +37,15 @@ Mia swore to Freya that if the goddess ever met her *Odr*, she would not stand i
 
 ## The Benevolent Mistress
 
-Sword Oratoria 9's recollections show the tavern newly built in the dark times, with Mia meaning it as a refuge of food and laughter; there she stops the young, drunken Aiz Wallenstein's rampage with a sword.[@so09-founding, so09-aiz]
+Sword Oratoria 9's recollections show the tavern newly built in the dark times, with Mia meaning it as a refuge of food and laughter; there she stops the young, drunken [[aiz-wallenstein|Aiz Wallenstein]]'s rampage with a sword.[@so09-founding, so09-aiz]
 
-Before DanMachi 1, Mia takes in [[lyu-leon|Lyu]] after Syr finds her, and in Familia Chronicle 1 she ends a fight between four of her waitresses and puts [[chloe|Chloe]] and [[runoa|Runoa]] to work.[@fc01-lyu, fc01-recruit] Chloe and Runoa are ordered to work off 100 million valis in damage to her property.[@fc01-bill] Anya, Chloe and Runoa all owe Mia money and are paid very little.[@fm16-pay]
+Before DanMachi 1, Mia takes in [[lyu-leon|Lyu]] after Syr finds her, and in Familia Chronicle 1 she ends a fight between four of her waitresses and puts [[chloe|Chloe]] and [[runoa|Runoa]] to work.[@fc01-lyu, fc01-recruit] Chloe and Runoa are ordered to work off 100 million valis in damage to her property.[@fc01-bill] [[anya-fromel|Anya]], Chloe and Runoa all owe Mia money and are paid very little.[@fm16-pay]
 
 ## The Freya conflict
 
-When Freya's charm rewrites the city in DanMachi 17, Mia still remembers Syr.[@fm17-memory] Keeping to her pledge not to intervene openly, she nonetheless encourages Bell to believe in himself and keep going.[@fm17-bell, fm18-mia]
+When Freya's charm rewrites the city in DanMachi 17, Mia still remembers Syr.[@fm17-memory] Keeping to her pledge not to intervene openly, she nonetheless encourages [[bell-cranell|Bell]] to believe in himself and keep going.[@fm17-bell, fm18-mia]
 
-Before the Familia War of DanMachi 18, Loki asks her to join the coalition, and she refuses because of her promise.[@fm18-mia] During the war, Hörn's plea to save Syr moves Mia to join the fighting. She faces Ottar, and with Bell, Lyu and Hedin forces him to one knee.[@fm18-ottar]
+Before the Familia War of DanMachi 18, [[loki|Loki]] asks her to join the coalition, and she refuses because of her promise.[@fm18-mia] During the war, [[horn|Hörn]]'s plea to save Syr moves Mia to join the fighting. She faces Ottar, and with Bell, Lyu and [[hedin|Hedin]] forces him to one knee.[@fm18-ottar]
 
 ## Afterwards
 

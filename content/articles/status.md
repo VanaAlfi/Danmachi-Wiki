@@ -32,8 +32,8 @@ A **Status** is the record a god writes on a follower's back through the [[falna
 | [[level|Level]] | The most important part; it rises only through a Level Up.[@so01-status] |
 | Basic abilities | Strength, Defense, Dexterity, Agility and Magic, each with a rank and a value.[@so01-status, fm01-abilities] |
 | [[development-ability|Development Abilities]] | Chosen one at a time at Level Ups; each has its own rank.[@fm04-choice, fm18-sheet] |
-| Magic | At most three spells.[@fm01-magic] |
-| Skills | Abilities such as Bell's [[liaris-freese|Liaris Freese]] or Argonaut.[@fm01-hidden, fm04-argonaut] |
+| Magic | At most three spells; see [[magic|Magic]].[@fm01-magic] |
+| Skills | Abilities such as [[bell-cranell|Bell]]'s [[liaris-freese|Liaris Freese]] or Argonaut.[@fm01-hidden, fm04-argonaut] |
 
 The names of the basic abilities vary slightly in print: Bell's early cards list *Utility* where later cards have Dexterity, and Familia Chronicle 3 prints *Endurance* for Defense.[@fm04-utility, fc03-card] Ranks and ceilings are covered on the [[falna|Falna]] page.
 
@@ -51,11 +51,11 @@ An example of how a printed update looks is Bell's last update at Level 4, in Da
 | Agility | SS 1089 | SSS 1442[@fm18-sheet] |
 | Magic | S 965 | SSS 1251[@fm18-sheet] |
 
-Hestia then raises him to Level 5, and all five abilities start again from I 0.[@fm18-sheet]
+[[hestia|Hestia]] then raises him to Level 5, and all five abilities start again from I 0.[@fm18-sheet]
 
 Under the rules of the Familia War in DanMachi 18, gods may update their followers during the battle, and Hestia and Miach do so.[@fm18-wargame]
 
-Some adventurers have their Status updated under contract rather than as ordinary members: Runoa with Demeter Familia and Chloe with Njörðr, in Familia Chronicle 1.[@fc01-contracts]
+Some adventurers have their Status updated under contract rather than as ordinary members: [[runoa|Runoa]] with Demeter Familia and [[chloe|Chloe]] with Njörðr, in Familia Chronicle 1.[@fc01-contracts]
 
 ## Reading and hiding a Status
 
@@ -63,8 +63,8 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 
 {{nocite}} Two items break this privacy:
 
-- A **Status Thief** reveals the real name and patron god written in a person's Status. Lyu uses one in Familia Chronicle 1.[@fc01-thief]
-- A **Status Snitch**, an illegal item from [[rivira|Rivira]] made with several gods' ichor, lets someone other than the follower's god update their basic abilities after a Status Thief has been used. It cannot develop magic or Skills or perform a Level Up. In DanMachi 17 Freya uses both on Bell, who still keeps Hestia's Falna.[@fm17-snitch]
+- A **Status Thief** reveals the real name and patron god written in a person's Status. [[lyu-leon|Lyu]] uses one in Familia Chronicle 1.[@fc01-thief]
+- A **Status Snitch**, an illegal item from [[rivira|Rivira]] made with several gods' ichor, lets someone other than the follower's god update their basic abilities after a Status Thief has been used. It cannot develop magic or Skills or perform a Level Up. In DanMachi 17 [[freya|Freya]] uses both on Bell, who still keeps Hestia's Falna.[@fm17-snitch]
 
 ## Open questions
 

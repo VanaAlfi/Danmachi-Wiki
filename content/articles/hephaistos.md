@@ -23,11 +23,11 @@
   }
 }
 ---
-**Hephaistos** is the goddess of the forge and the head of Hephaistos Familia, a Familia of master smiths.[@fm01-hephaistos, fm04-masters] Its main store stands on Northwest Main Street, and it also has shops in Babel.[@fm08-store, fm02-babel]
+**Hephaistos** is the goddess of the forge and the head of Hephaistos Familia, a Familia of master smiths.[@fm01-hephaistos, fm04-masters] Its main store stands on Northwest Main Street, and it also has shops in [[babel|Babel]].[@fm08-store, fm02-babel]
 
 ## Hestia's friend
 
-When [[hestia|Hestia]] first came down to the Lower World she lived with Hephaistos Familia, and Hephaistos later gave her an abandoned church to live in.[@fm04-hestia, fm15-church] At Hestia's request she forges the Hestia Knife for Bell from her own mythril, engraved with Hestia's blessing so that only someone with that blessing can wield it.[@fm01-knife] Hestia takes on a large debt for it, confirmed in DanMachi 7 as 200 million valis.[@fm01-loan, fm07-debt]
+When [[hestia|Hestia]] first came down to the Lower World she lived with Hephaistos Familia, and Hephaistos later gave her an abandoned church to live in.[@fm04-hestia, fm15-church] At Hestia's request she forges the Hestia Knife for [[bell-cranell|Bell]] from her own mythril, engraved with Hestia's blessing so that only someone with that blessing can wield it.[@fm01-knife] Hestia takes on a large debt for it, confirmed in DanMachi 7 as 200 million valis.[@fm01-loan, fm07-debt]
 
 ## Welf Crozzo
 
@@ -37,7 +37,7 @@ In the same volume Welf sees her uncovered face, both eyes, without recoiling. T
 
 ## Other appearances
 
-In DanMachi 11 she asks her captain, Tsubaki, to help Welf and Hestia Familia rescue the [[xenos|Xenos]].[@fm11-tsubaki]
+In DanMachi 11 she asks her captain, [[tsubaki|Tsubaki]], to help Welf and [[hestia-familia|Hestia Familia]] rescue the [[xenos|Xenos]].[@fm11-tsubaki]
 
 ## Open questions
 

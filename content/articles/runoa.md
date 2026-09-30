@@ -24,21 +24,21 @@
   }
 }
 ---
-**Runoa Faust** is a human waitress at [[the-benevolent-mistress|The Benevolent Mistress]] and a former bounty hunter, known in Orario's underworld as *Black Fist*. She is a Level 4 adventurer.[@fm16-fight, fc01-alias, fc01-card]
+**Runoa Faust** is a human waitress at [[the-benevolent-mistress|The Benevolent Mistress]] and a former bounty hunter, known in [[orario|Orario]]'s underworld as *Black Fist*. She is a Level 4 adventurer.[@fm16-fight, fc01-alias, fc01-card]
 
 ## Past
 
-Runoa was born in a territory of an empire far from Orario and lost her parents as a small child in the war that brought her country under the empire. She grew up on the streets, and joined a Familia as soon as she learned about the Falna.[@fc01-past] Her first Familia fell apart through infighting; its god treated coups and revolutions as a game.[@fc01-past]
+Runoa was born in a territory of an empire far from Orario and lost her parents as a small child in the war that brought her country under the empire. She grew up on the streets, and joined a Familia as soon as she learned about the [[falna|Falna]].[@fc01-past] Her first Familia fell apart through infighting; its god treated coups and revolutions as a game.[@fc01-past]
 
 After her first god left the Lower World she travelled from place to place hunting bounties, joining Familias provisionally to have her Status updated. She had converted three times before coming to Orario, where Demeter agreed to update her Status; Demeter Familia counts as her fifth membership, but she was never an ordinary member.[@fc01-wander, fc01-demeter] The name *Black Fist* comes from the blood that stained her fists, not from her gauntlets.[@fc01-fist]
 
 ## The Benevolent Mistress
 
-In Familia Chronicle 1, after a failed contract on the Gale Wind, Runoa gives up bounty hunting and joins the tavern with Chloe.[@fc01-recruit] The two of them are ordered to work off 100 million valis in damage to Mia's property.[@fc01-bill] Her arrangement with Demeter ends when she joins.[@fc01-end] She is one of the tavern's staff by DanMachi 2, and like Anya and Chloe she owes Mia money and is paid very little.[@fm02-runoa, fm16-pay]
+In Familia Chronicle 1, after a failed contract on the Gale Wind, Runoa gives up bounty hunting and joins the tavern with [[chloe|Chloe]].[@fc01-recruit] The two of them are ordered to work off 100 million valis in damage to [[mia-grand|Mia]]'s property.[@fc01-bill] Her arrangement with Demeter ends when she joins.[@fc01-end] She is one of the tavern's staff by DanMachi 2, and like [[anya-fromel|Anya]] and Chloe she owes Mia money and is paid very little.[@fm02-runoa, fm16-pay]
 
 ## Freya conflict
 
-During the festival of DanMachi 16 she fights Freya Familia to protect the false Syr, and Grer Gulliver's greatsword cuts her down.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war, after Lilly separates the [[gulliver-brothers|Gulliver brothers]], Runoa receives Haruhime's Level Boost and defeats Grer.[@fm18-grer] She is among those who welcome Syr back after the war.[@fm18-syr]
+During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and Grer Gulliver's greatsword cuts her down.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war, after [[lilliluka-erde|Lilly]] separates the [[gulliver-brothers|Gulliver brothers]], Runoa receives [[haruhime|Haruhime]]'s Level Boost and defeats Grer.[@fm18-grer] She is among those who welcome Syr back after the war.[@fm18-syr]
 
 ## Status
 

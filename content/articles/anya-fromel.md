@@ -30,7 +30,7 @@
       {"section": "Status"},
       {"label": "Level", "value": "4 — stated in DanMachi 14", "refs": ["fm14-rescue"]},
       {"label": "Earlier", "value": "Level 2 when Allen reached Level 3", "refs": ["fm17-past"]},
-      {"label": "Temporary", "value": "Pseudo-Level 5 under [[uchide-no-kozuchi|Level Boost]], War Game only", "refs": ["fm18-family"]},
+      {"label": "Temporary", "value": "Pseudo-Level 5 under [[magic#uchide-no-kozuchi|Level Boost]], War Game only", "refs": ["fm18-family"]},
       {"label": "Magic", "value": "[[#remisto-felis|Remisto Felis]]", "refs": ["fm18-remisto"]},
       {"label": "Weapon", "value": "Gold long spear", "refs": ["fc01-fight", "fm18-allen"]},
       {"section": "Appearances"},
@@ -39,7 +39,7 @@
   }
 }
 ---
-**Anya Fromel** is a cat-person waitress at [[the-benevolent-mistress|The Benevolent Mistress]],[@fm01-named, fc01-tavern] the tavern where [[bell-cranell|Bell Cranell]] first meets [[syr-flover|Syr]].[@fm01-syr] As a child she and her older brother [[allen-fromel|Allen]] were taken in by [[freya|Freya]]; both received [[falna|Falna]] and became adventurers of [[freya-familia|Freya Familia]], where she carried the title **Vana Alfi**.[@fm17-past, fc01-fight] After forcing her way onto a deep-floor expedition that nearly killed her, she was cast out, and Syr brought her to the tavern.[@fm17-expulsion] She is stated to be [[level|Level]] 4 in DanMachi 14.[@fm14-rescue] In DanMachi 18, after hearing Syr's plea to be saved, she fights in the War Game against her brother's side.[@fm18-horn, fm18-family]
+**Anya Fromel** is a cat-person waitress at [[the-benevolent-mistress|The Benevolent Mistress]],[@fm01-named, fc01-tavern] the tavern where [[bell-cranell|Bell Cranell]] first meets [[syr-flover|Syr]].[@fm01-syr] As a child she and her older brother [[allen-fromel|Allen]] were taken in by [[freya|Freya]]; both received [[falna|Falna]] and became adventurers of [[freya-familia|Freya Familia]], where she carried the title **Vana Alfi**.[@fm17-past, fc01-fight] After forcing her way onto a deep-floor expedition that nearly killed her, she was cast out, and Syr brought her to the tavern.[@fm17-expulsion] She is stated to be [[level|Level]] 4 in DanMachi 14.[@fm14-rescue] In DanMachi 18, after hearing Syr's plea to be saved, she fights in the [[war-game|War Game]] against her brother's side.[@fm18-horn, fm18-family]
 
 ## Names and titles {#names}
 
@@ -80,7 +80,7 @@ Both children received Falna and joined Freya Familia. The training frightened a
 Eventually she forced her way onto an expedition to the deep floors. She nearly died there, and Allen was badly hurt saving her. Afterwards he rejected her, and Freya expelled her from the Familia.[@fm17-expulsion] Anya experienced this as being discarded by the last family she had.[@fm17-expulsion] Syr took her in at The Benevolent Mistress, where hard work and the staff's kindness gradually brought her cheerfulness back.[@fm17-expulsion]
 
 > [!UNRESOLVED] No dates
-> The novels give the order of these events but not when they happened. The year of the expedition and the dates of her Level 3 and Level 4 promotions are not stated. What is fixed: she is already helping Syr during the Great Conflict in Astrea Record 2, and she worked at the tavern before Lyu, Chloe and Runoa arrived.[@ar02-conflict, fc01-precedes]
+> The novels give the order of these events but not when they happened. The year of the expedition and the dates of her Level 3 and Level 4 promotions are not stated. What is fixed: she is already helping Syr during the [[great-conflict|Great Conflict]] in Astrea Record 2, and she worked at the tavern before Lyu, Chloe and Runoa arrived.[@ar02-conflict, fc01-precedes]
 
 ### Life at the tavern
 
@@ -113,7 +113,7 @@ Freya then reveals directly to Anya that she is Syr. Anya refuses to accept it, 
 
 In DanMachi 18, [[bete-loga|Bete]] brings Anya to [[horn|Hörn]], who at that point looks like Syr, and explains only that she mirrors Syr's true feelings. Through her, Anya hears Syr's apology and plea to be saved. Frightened, she chooses to fight for her family.[@fm18-horn] She says that she still wants to be Allen's family again, but that Lyu, Chloe, Runoa, Mia and the others who saved her are her family too.[@fm18-family]
 
-During the battle she casts [[#remisto-felis|Remisto Felis]] under cover of [[hedin|Hedin]]'s bombardment, and fights at a temporary pseudo-Level 5 under [[haruhime|Haruhime]]'s [[uchide-no-kozuchi|Level Boost]].[@fm18-remisto, fm18-family] [[hegni|Hegni]] saves her from Allen's rage.[@fm18-hegni] In their fight she learns that Allen asked Freya to send her away, to keep her off the battlefield of his hunt for the dragon that destroyed their home, and that he still loves her.[@fm18-allen] His magic, which she had not known about, finally breaks through her resistance.[@fm18-breakthrough]
+During the battle she casts [[#remisto-felis|Remisto Felis]] under cover of [[hedin|Hedin]]'s bombardment, and fights at a temporary pseudo-Level 5 under [[haruhime|Haruhime]]'s [[magic#uchide-no-kozuchi|Level Boost]].[@fm18-remisto, fm18-family] [[hegni|Hegni]] saves her from Allen's rage.[@fm18-hegni] In their fight she learns that Allen asked Freya to send her away, to keep her off the battlefield of his hunt for the dragon that destroyed their home, and that he still loves her.[@fm18-allen] His magic, which she had not known about, finally breaks through her resistance.[@fm18-breakthrough]
 
 The fight is not a clean measure of strength. Anya was boosted, Allen was weakened by her magic and emotionally compromised, Hegni intervened, and the narration says a calmer Allen could have ended her resistance quickly.[@fm18-family, fm18-hegni, fm18-allen]
 
@@ -162,7 +162,7 @@ She tracks people by scent: Syr during the date in DanMachi 16, and Bell the fol
 | Countermeasure | [[silence-lyra|Silence Lyra]] hearing protection blocks it. Covering his ears by hand does not protect Allen.[@fm18-family, fm18-remisto] |
 | Aftereffect | She rubs her sore throat after casting.[@fm18-remisto] |
 
-Silence Lyra is not Anya's equipment. It is an accessory modified by Asfi and worn by others to shield themselves from the spell.[@fm18-family]
+Silence Lyra is not Anya's equipment. It is an accessory modified by [[asfi|Asfi]] and worn by others to shield themselves from the spell.[@fm18-family]
 
 > [!UNRESOLVED] Limits of Remisto Felis
 > The effect's duration, its radius, its Mind cost and the exact size of the reduction are not given.

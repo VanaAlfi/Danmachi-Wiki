@@ -29,7 +29,7 @@
 
 ## Smith
 
-Sword Oratoria 4 calls her the finest smith in Orario; on [[loki-familia|Loki Familia]]'s expedition she leads twenty of Hephaistos Familia's High Smiths.[@so04-tsubaki] She made the Frosvirt boots that Bete Loga uses in place of his own magic.[@so08-frosvirt]
+Sword Oratoria 4 calls her the finest smith in [[orario|Orario]]; on [[loki-familia|Loki Familia]]'s expedition she leads twenty of Hephaistos Familia's High Smiths.[@so04-tsubaki] She made the Frosvirt boots that [[bete-loga|Bete Loga]] uses in place of his own magic.[@so08-frosvirt]
 
 With [[welf-crozzo|Welf Crozzo]], a fellow member of Hephaistos Familia until DanMachi 6, she is demanding. In DanMachi 8 she breaks his short sword to shake him out of his complacency.[@fm08-tsubaki] In DanMachi 14 she recognises his magic sword Shikou Kazuki as his entry into the highest level of the craft.[@fm14-shikou]
 
@@ -38,10 +38,10 @@ With [[welf-crozzo|Welf Crozzo]], a fellow member of Hephaistos Familia until Da
 | Volume | Events |
 |---|---|
 | Sword Oratoria 4 | Accompanies Loki Familia's expedition with Hephaistos Familia's smiths.[@so04-tsubaki] |
-| DanMachi 8 | Helps Rivira's adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of Rakia's infiltrators.[@fm08-goliath, fm08-tsubaki] |
+| DanMachi 8 | Helps [[rivira|Rivira]]'s adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of Rakia's infiltrators.[@fm08-goliath, fm08-tsubaki] |
 | DanMachi 11 | Sent by [[hephaistos|Hephaistos]] to help Welf and his Familia rescue the [[xenos|Xenos]].[@fm11-cyclops] |
 | Sword Oratoria 10 | Covertly supports the Xenos' escape with ice magic swords.[@so10-tsubaki] |
-| DanMachi 14 | Leads Anya, Chloe and Runoa into the Water Capital to rescue the stranded expedition, and joins the rescue on Floor 37.[@fm14-tsubaki, fm14-rescue] |
+| DanMachi 14 | Leads [[anya-fromel|Anya]], [[chloe|Chloe]] and [[runoa|Runoa]] into the Water Capital to rescue the stranded expedition, and joins the rescue on [[floor-37|Floor 37]].[@fm14-tsubaki, fm14-rescue] |
 | DanMachi 20 | Is to accompany Loki Familia's next expedition.[@fm20-expedition] |
 
 [@fm08-tsubaki]: FM08 | | Level 5; Welf's short sword; the Rakian infiltrators.

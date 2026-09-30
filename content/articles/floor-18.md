@@ -32,7 +32,7 @@
 
 Sword Oratoria 5 describes the floor's forest, wetlands and streams. The forest covers about a fifth of the Under Resort and has a giant tree at its centre, blue crystals and a secluded bathing pool.[@so05-forest] Its edible growths include Honey Cloud, gourd berries, crystal drops and mushrooms.[@so05-forest] The Crystal Grove lies to the east.[@so05-forest]
 
-The only way down from the floors above passes the [[goliath|Goliath]], the Monster Rex of Floor 17.[@fm05-goliath, fm08-goliath]
+The only way down from the floors above passes the [[goliath|Goliath]], the [[monster-rex|Monster Rex]] of Floor 17.[@fm05-goliath, fm08-goliath]
 
 [[guild|Guild]] guidance allows Level 2 parties on Floors 13 to 24; the lower levels begin at Floor 25.[@fm07-guidance, fm12-lower]
 
@@ -52,7 +52,7 @@ The [[xenos|Xenos]] destroy the 334th Rivira in DanMachi 10 while hunting Ikelos
 | Volume | Events on Floor 18 |
 |---|---|
 | DanMachi 3 | [[loki-familia|Loki Familia]]'s expedition heads for Floor 18.[@fm03-loki] |
-| DanMachi 5 | Driven down by a pass parade, Bell's party takes refuge here. After Hestia's divine presence is exposed, the Dungeon blocks the exit and gives birth to the Black Goliath on this floor.[@fm05-return, fm05-black] |
+| DanMachi 5 | Driven down by a pass parade, [[bell-cranell|Bell]]'s party takes refuge here. After [[hestia|Hestia]]'s divine presence is exposed, the Dungeon blocks the exit and gives birth to the Black Goliath on this floor.[@fm05-return, fm05-black] |
 | DanMachi 10 | A [[knossos|Knossos]] entrance is found at the forest's eastern edge, and the Xenos destroy Rivira.[@fm10-knossos, fm10-rivira] |
 | Sword Oratoria 13 | A Goliath's fall collapses the only passage from Floor 17 to Floor 18.[@so13-goliath] |
 

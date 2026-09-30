@@ -795,6 +795,13 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
         if sourcing:
             tools.append(("#sourcing", "Sourcing details"))
         self.search_docs.append(self.doc(art))
+        # Front-matter "sections" make named sections (e.g. each spell on the Magic page) searchable.
+        for sec in art.meta.get("sections", []):
+            if f'id="{sec["anchor"]}"' not in content:
+                ERRORS.append(f"{art.slug}: section anchor #{sec['anchor']} not found on the page")
+            self.search_docs.append({"t": sec["title"], "u": f"{art.url}#{sec['anchor']}",
+                                     "c": f"Section of {art.title}", "s": sec.get("summary", ""),
+                                     "a": sec.get("aliases", []), "h": [], "x": ""})
         return self.layout(title=art.title, root=root, content=content, active=art.category, tabs=tabs,
                            description=art.summary, meta_json=meta_json, reviewed=reviewed, tools=tools)
 
@@ -1106,6 +1113,15 @@ def leak_check():
                 ERRORS.append(f"leak check: {what} in {rel}: {text[max(0, m.start() - 40):m.end() + 40]!r}")
 
 
+REDIRECT = """<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title} – {site}</title><meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={target}"><link rel="canonical" href="{target}">
+<link rel="stylesheet" href="../assets/classic.css"></head>
+<body><p style="margin:2em">“{title}” is now a section of the <a href="{target}">{page}</a> page.</p></body></html>
+"""
+
+
 def write(rel: str, text: str):
     path = DIST / rel
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -1129,6 +1145,17 @@ def build():
         write(page.url, site.plain_page(page, active=page.slug))
     for cat in SITE["categories"]:
         write(f"category/{cat['id']}.html", site.category_page(cat))
+    # Former article URLs that now live as a section of another page ("former_slug" in front-matter sections).
+    for art in site.articles:
+        for sec in art.meta.get("sections", []):
+            old = sec.get("former_slug")
+            if not old:
+                continue
+            if old in site.by_slug:
+                ERRORS.append(f"{art.slug}: redirect wiki/{old}.html would overwrite an existing page")
+                continue
+            target = f"{art.slug}.html#{sec['anchor']}"
+            write(f"wiki/{old}.html", REDIRECT.format(title=esc(sec["title"]), page=esc(art.title), target=esc(target), site=esc(SITE["name"])))
     write("category/index.html", site.categories_index())
     write("index.html", site.home())
     write("timeline.html", site.timeline_page())

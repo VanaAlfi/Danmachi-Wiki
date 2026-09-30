@@ -29,8 +29,8 @@ A **Monster Rex** is a monster of a kind the Dungeon allows only one of on a flo
 | Floor | Monster | Notes |
 |---|---|---|
 | 17 | [[goliath|Goliath]] | A giant on the Great Wall of Sorrows, more than seven meders tall, normally reborn about every two weeks.[@fm05-goliath] DanMachi 8 classifies it as Level 4.[@fm08-goliath] |
-| 27 | Amphisbaena | Two-headed and able to climb the Great Falls. The Guild estimates it at Level 6 in water and about Level 5 in raw ability.[@fm13-amphisbaena, fm14-amphisbaena] |
-| 37 | Udaeus | Printed *Udaios* in DanMachi 2. Aiz Wallenstein defeats it alone and reaches Level 6; Ottar also defeats it alone.[@fm02-rex, so02-udaeus, fc02-udaeus] |
+| 27 | [[amphisbaena|Amphisbaena]] | Two-headed and able to climb the Great Falls. The Guild estimates it at Level 6 in water and about Level 5 in raw ability.[@fm13-amphisbaena, fm14-amphisbaena] |
+| 37 | Udaeus | Printed *Udaios* in DanMachi 2. [[aiz-wallenstein|Aiz Wallenstein]] defeats it alone and reaches Level 6; [[ottar|Ottar]] also defeats it alone.[@fm02-rex, so02-udaeus, fc02-udaeus] |
 
 On Floors 11 and 12, where there is no Monster Rex, infant dragons are treated as the bosses of the upper levels.[@fm04-dragons]
 
@@ -38,7 +38,7 @@ On Floors 11 and 12, where there is no Monster Rex, infant dragons are treated a
 
 {{nocite}} Floor bosses do not always behave as expected:
 
-- In DanMachi 5 the Dungeon produces a Black Goliath on [[floor-18|Floor 18]] after Hestia's divine presence is revealed.[@fm05-black]
+- In DanMachi 5 the Dungeon produces a Black Goliath on [[floor-18|Floor 18]] after [[hestia|Hestia]]'s divine presence is revealed.[@fm05-black]
 - In DanMachi 13 the Amphisbaena is reborn about two weeks early.[@fm13-amphisbaena]
 - In Sword Oratoria 13 a Goliath appears two days before its expected time and shows unusual intelligence; the text treats this as variation between individual floor bosses.[@so13-early]
 

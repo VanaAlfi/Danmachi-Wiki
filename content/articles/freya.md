@@ -30,17 +30,17 @@
 
 ## Her eyes {#eyes}
 
-Freya's Eyes of Insight let her see the truth inside mortal souls. They are a natural gift, not Arcanum, so the gods' ban on using divine power in the Lower World does not cover them. In the heavens she used them to judge the souls of the dead who came to her temple, especially warriors fallen in battle.[@fm02-eyes] She sees a soul's quality as a colour and can pick out souls from the top of Babel, far beyond ordinary sight.[@fm03-babel] The eyes cannot read another deity's Status.[@fm02-status]
+Freya's Eyes of Insight let her see the truth inside mortal souls. They are a natural gift, not Arcanum, so the gods' ban on using divine power in the Lower World does not cover them. In the heavens she used them to judge the souls of the dead who came to her temple, especially warriors fallen in battle.[@fm02-eyes] She sees a soul's quality as a colour and can pick out souls from the top of [[babel|Babel]], far beyond ordinary sight.[@fm03-babel] The eyes cannot read another deity's Status.[@fm02-status]
 
 ## Charm
 
-Her charm can reach mortals and gods through sight or voice. In DanMachi 17 she turns it on the whole city, rewriting what Orario believes about Bell.[@fm17-charm, fm17-seizure] Her beauty is treated as a divine authority, like [[hephaistos|Hephaistos]]'s forging, rather than as Arcanum.[@fm17-authority] Virgin goddesses such as [[hestia|Hestia]] can reject the charm of a goddess of beauty, and Hestia breaks Freya's hold on the city.[@fm17-hearth]
+Her charm can reach mortals and gods through sight or voice. In DanMachi 17 she turns it on the whole city, rewriting what [[orario|Orario]] believes about Bell.[@fm17-charm, fm17-seizure] Her beauty is treated as a divine authority, like [[hephaistos|Hephaistos]]'s forging, rather than as Arcanum.[@fm17-authority] Virgin goddesses such as [[hestia|Hestia]] can reject the charm of a goddess of beauty, and Hestia breaks Freya's hold on the city.[@fm17-hearth]
 
-Mia Grand made Freya promise never to charm her.[@fm18-mia]
+[[mia-grand|Mia Grand]] made Freya promise never to charm her.[@fm18-mia]
 
 ## Syr Flover {#syr}
 
-As a mortal persona, Freya uses the appearance, name and history of a girl originally called Syr. That girl received the name Hörn instead, and her Falna lets her take on Freya's appearance and divinity, but not Arcanum.[@fm16-horn, fm17-prologue] Freya still attends Denatus and other gatherings of the gods in person, because she expects Loki to see through a stand-in.[@fm17-prologue] See [[syr-flover|Syr Flover]] and [[horn|Hörn]].
+As a mortal persona, Freya uses the appearance, name and history of a girl originally called Syr. That girl received the name Hörn instead, and her [[falna|Falna]] lets her take on Freya's appearance and divinity, but not Arcanum.[@fm16-horn, fm17-prologue] Freya still attends Denatus and other gatherings of the gods in person, because she expects [[loki|Loki]] to see through a stand-in.[@fm17-prologue] See [[syr-flover|Syr Flover]] and [[horn|Hörn]].
 
 ## The Odr
 
@@ -50,7 +50,7 @@ Freya searches for an *Odr*, a hero entirely her own.[@fm16-odr, fm18-odr] She t
 
 ### Before DanMachi 1
 
-In Familia Chronicle 2 Freya mentors Ali, later King Aram of Shalzad, before letting him go.[@fc02-ali] The same volume tells how she found and gathered the leading members of her Familia.[@fc02-origin, fc02-pasts] In Familia Chronicle 1 she finds Lyu after Lyu's revenge, nurses her and helps her decide to live on at the tavern.[@fc01-lyu] As Syr she also enters a casino under the name Countess Sirène Maximilian and wins the deciding poker game.[@fc01-alias, fc01-casino]
+In Familia Chronicle 2 Freya mentors Ali, later King Aram of Shalzad, before letting him go.[@fc02-ali] The same volume tells how she found and gathered the leading members of her Familia.[@fc02-origin, fc02-pasts] In Familia Chronicle 1 she finds [[lyu-leon|Lyu]] after Lyu's revenge, nurses her and helps her decide to live on at the tavern.[@fc01-lyu] As Syr she also enters a casino under the name Countess Sirène Maximilian and wins the deciding poker game.[@fc01-alias, fc01-casino]
 
 ### DanMachi 1–15
 
@@ -58,9 +58,9 @@ In Familia Chronicle 2 Freya mentors Ali, later King Aram of Shalzad, before let
 |---|---|
 | DanMachi 1 | Releases a silverback to test Bell and watches him defeat it.[@fm01-freya, fm17-double] |
 | DanMachi 2 | Picks a grimoire from her own bookcase and leaves it at the tavern for Bell to find.[@fm02-eyes, fm17-double] |
-| DanMachi 3 | Leaves Bell's development to Ottar, who prepares the Minotaur Bell fights, and watches from the fiftieth floor of Babel.[@fm03-babel, fm03-ottar] |
-| DanMachi 4 | At Denatus she protects Hestia Familia from scrutiny of its Status.[@fm04-denatus] |
-| DanMachi 7 | After Ishtar abducts Bell, sends her Familia against Ishtar Familia; Ishtar is sent back to the heavens and the [[guild|Guild]] fines Freya.[@fm07-ishtar, fm07-fine] |
+| DanMachi 3 | Leaves Bell's development to [[ottar|Ottar]], who prepares the Minotaur Bell fights, and watches from the fiftieth floor of Babel.[@fm03-babel, fm03-ottar] |
+| DanMachi 4 | At Denatus she protects [[hestia-familia|Hestia Familia]] from scrutiny of its Status.[@fm04-denatus] |
+| DanMachi 7 | After [[ishtar|Ishtar]] abducts Bell, sends her Familia against Ishtar Familia; Ishtar is sent back to the heavens and the [[guild|Guild]] fines Freya.[@fm07-ishtar, fm07-fine] |
 | Sword Oratoria 9 | Shelters Tammuz, a former follower of Ishtar, and has Ottar dispose of the assassins sent after him.[@so09-tammuz] |
 | Sword Oratoria 10 | Gives [[hermes|Hermes]] the Daedalus Orb she had kept, judging his plan a worthy trial for Bell.[@so10-orb] |
 | DanMachi 11 | Orders her Familia to keep others away from Bell's rematch with [[asterios|Asterios]] and watches it from Babel.[@fm11-asterios] |
@@ -73,7 +73,7 @@ She loses that war in DanMachi 18. Bell scatters her flower at the ruins of Orza
 
 ### Afterwards
 
-Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, Anya, Chloe, Runoa and Mia.[@fm18-syr] Bell promises to keep watching over Syr so that she does not hurt others or herself; this is not a romantic commitment.[@fm18-syr, fm19-promise] In DanMachi 19 Hestia, speaking for the coalition, lets Syr stay as an ordinary girl serving penance. The official story is that Freya has left Orario. Almost every deity knows the truth, but few mortals do.[@fm19-syr]
+Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-fromel|Anya]], [[chloe|Chloe]], [[runoa|Runoa]] and Mia.[@fm18-syr] Bell promises to keep watching over Syr so that she does not hurt others or herself; this is not a romantic commitment.[@fm18-syr, fm19-promise] In DanMachi 19 Hestia, speaking for the coalition, lets Syr stay as an ordinary girl serving penance. The official story is that Freya has left Orario. Almost every deity knows the truth, but few mortals do.[@fm19-syr]
 
 ## Open questions
 

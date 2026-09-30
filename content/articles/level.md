@@ -8,7 +8,7 @@
   "summary": "The most important part of an adventurer's Status. A Level Up comes from gathering more excelia than one's spiritual container can hold, and greatly strengthens every ability.",
   "aliases": ["Level Up", "Rank Up"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–14, Familia Chronicle Vols. 2–3 and Astrea Record Vol. 3",
-  "related": ["status", "falna", "development-ability", "monster-rex", "bell-cranell", "lyu-leon", "uchide-no-kozuchi"],
+  "related": ["status", "falna", "development-ability", "monster-rex", "bell-cranell", "lyu-leon", "magic"],
   "infobox": {
     "title": "Level",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -27,14 +27,14 @@ A **Level** is the most important part of an adventurer's [[status|Status]]. A *
 
 ## Levelling up
 
-A Level Up needs a great accomplishment that yields high-quality excelia, such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] Aiz reaches Level 6 after defeating Udaeus alone in Sword Oratoria 3.[@so03-udaeus]
+A Level Up needs a great accomplishment that yields high-quality excelia, such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] [[aiz-wallenstein|Aiz]] reaches Level 6 after defeating Udaeus alone in Sword Oratoria 3.[@so03-udaeus]
 
 > [!NOTE] Stated ability threshold
 > In DanMachi 3 Lyu tells Bell that an adventurer can level up once *all* their basic abilities are above D.[@fm03-d] DanMachi 15 says at least one ability must reach the sixth rank (D), and Familia Chronicle 3 likewise gives the minimum as a D in *one* basic ability; Lyu herself advances with only her Agility at D.[@fm15-rank, fc03-d] The later statements agree with each other but not with DanMachi 3; this wiki records the difference rather than choosing.
 
 At a Level Up the visible values of the basic abilities reset, and the earlier points remain as a hidden parameter.[@fm04-hidden] The adventurer may also choose one [[development-ability|Development Ability]] from the options their excelia has made available.[@fm04-choice]
 
-A Familia can choose to delay a promotion. Points gained at a lower Level remain as extra power, so strong Familias sometimes hold members back to build a better foundation.[@so06-delay] In DanMachi 15 Hestia Familia decides to hold back Haruhime's promotion to Level 2.[@fm15-haruhime]
+A Familia can choose to delay a promotion. Points gained at a lower Level remain as extra power, so strong Familias sometimes hold members back to build a better foundation.[@so06-delay] In DanMachi 15 [[hestia-familia|Hestia Familia]] decides to hold back [[haruhime|Haruhime]]'s promotion to Level 2.[@fm15-haruhime]
 
 Growth gets harder at higher Levels. After reaching Level 5, Bell compares his container to one whose dimensions have doubled in every direction, so each point takes far more effort.[@fm20-container]
 
@@ -48,7 +48,7 @@ Higher Levels also slow aging, more so with each Level, but they do not make mor
 |---|---|
 | Upper-class adventurer | Zanis, a Level 2, is called an upper-class adventurer.[@fm10-upper] |
 | Second-tier adventurer | Bell describes himself as second-tier at Level 4.[@fm17-second] |
-| First-tier adventurer | The Level 5 [[gulliver-brothers|Gulliver brothers]] are first-tier adventurers of Freya Familia.[@fc02-first] |
+| First-tier adventurer | The Level 5 [[gulliver-brothers|Gulliver brothers]] are first-tier adventurers of [[freya-familia|Freya Familia]].[@fc02-first] |
 
 ## Notable Level Ups
 
@@ -64,7 +64,7 @@ Higher Levels also slow aging, more so with each Level, but they do not make mor
 
 In the present of Sword Oratoria 14, Level 7 is the highest rank any living adventurer holds.[@so14-highest] By DanMachi 20 the Level 7s named are Ottar, Finn, Riveria, Gareth and Leon of the [[school-district|School District]].[@fm20-sevens] Ottar is described in DanMachi 18 as a Level 7 on the cusp of Level 8.[@fm18-ottar] Before their fall, Zeus Familia and Hera Familia had a Level 8 and a Level 9.[@so13-past]
 
-A temporary boost, such as the one from [[uchide-no-kozuchi|Uchide no Kozuchi]], is separate from a real Level.[@fm18-boost]
+A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozuchi]], is separate from a real Level.[@fm18-boost]
 
 ## Open questions
 

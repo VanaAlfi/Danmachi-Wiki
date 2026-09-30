@@ -41,11 +41,11 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | Level 5 in the Great Conflict; he fights at the front while Hedin casts.[@ar01-hegni] |
-| DanMachi 16 | Level 6 during the festival; he defeats Lyu while she protects the false Syr, holding back from a killing blow.[@fm16-hegni, fm17-cuts] |
-| DanMachi 17 | Continues Bell's training in [[folkvangr|Folkvangr]] and corners the escaped Lyu. After the charm is broken he fights Aiz, Tiona, Tione and Lyu while defending Freya's estate.[@fm17-hegni] |
-| DanMachi 18 | In the Familia War Lyu, now Level 6, defeats him. Hedin then persuades him to help save Syr, and he protects Anya from Allen.[@fm18-fall, fm18-anya] |
-| DanMachi 19 | Works at The Benevolent Mistress, too shy for the job, and with Hedin protects Haruhime.[@fm19-hegni] |
+| Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; he fights at the front while Hedin casts.[@ar01-hegni] |
+| DanMachi 16 | Level 6 during the festival; he defeats [[lyu-leon|Lyu]] while she protects the false [[syr-flover|Syr]], holding back from a killing blow.[@fm16-hegni, fm17-cuts] |
+| DanMachi 17 | Continues [[bell-cranell|Bell]]'s training in [[folkvangr|Folkvangr]] and corners the escaped Lyu. After the charm is broken he fights [[aiz-wallenstein|Aiz]], [[hyrute-sisters|Tiona]], Tione and Lyu while defending Freya's estate.[@fm17-hegni] |
+| DanMachi 18 | In the Familia War Lyu, now Level 6, defeats him. Hedin then persuades him to help save Syr, and he protects [[anya-fromel|Anya]] from [[allen-fromel|Allen]].[@fm18-fall, fm18-anya] |
+| DanMachi 19 | Works at [[the-benevolent-mistress|The Benevolent Mistress]], too shy for the job, and with Hedin protects [[haruhime|Haruhime]].[@fm19-hegni] |
 
 ## Open questions
 

@@ -28,17 +28,17 @@
 
 ## Joining Loki Familia
 
-Before joining he was an exceptional dwarf warrior without a Falna and a foreman in the village of Lonza, bound there by guilt over its poverty. He refused Loki's offer of an immediate blessing, fighting a lambton without one, and joined only once a rescue in the Celcebo mines and a solution for Lonza released him. He then insisted on fighting [[finn-deimne|Finn]]; the text does not say who won.[@so14-gareth]
+Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and a foreman in the village of Lonza, bound there by guilt over its poverty. He refused Loki's offer of an immediate blessing, fighting a lambton without one, and joined only once a rescue in the Celcebo mines and a solution for Lonza released him. He then insisted on fighting [[finn-deimne|Finn]]; the text does not say who won.[@so14-gareth]
 
 ## History
 
 | Volume | Events |
 |---|---|
-| Astrea Record 2–3 | Fights in the Great Conflict; he sees the dragon Delphyne regenerate and explains that Zald ate the Behemoth's flesh to win.[@ar02-loki, ar03-delphyne, ar03-behemoth] |
+| Astrea Record 2–3 | Fights in the [[great-conflict|Great Conflict]]; he sees the dragon [[delphyne|Delphyne]] regenerate and explains that [[zald|Zald]] ate the Behemoth's flesh to win.[@ar02-loki, ar03-delphyne, ar03-behemoth] |
 | DanMachi 8 | At Level 6, routs Rakia's cavalry single-handed.[@fm08-gareth] |
 | Sword Oratoria 7 | Shields his party from Inferno Stones, punches through adamantite and helps destroy the monster Gugalanna; Finn leaves him in charge of the rear.[@so07-gareth, so07-finn] |
-| Sword Oratoria 9 | Teaches the young Aiz to look after her weapons and herself; in the present he finds and destroys a coastal route into Knossos.[@so09-gareth] |
-| Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and Xenos.[@so10-gareth] |
+| Sword Oratoria 9 | Teaches the young [[aiz-wallenstein|Aiz]] to look after her weapons and herself; in the present he finds and destroys a coastal route into [[knossos|Knossos]].[@so09-gareth] |
+| Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and [[xenos|Xenos]].[@so10-gareth] |
 
 ## Name
 

@@ -28,13 +28,13 @@
   }
 }
 ---
-**Ottar** is a boaz and the captain of [[freya-familia|Freya Familia]], titled *Warlord*. Sword Oratoria 4 calls him the strongest warrior in Orario.[@fc02-boaz, so04-captain] He is Level 7 from Astrea Record 3, and in DanMachi 18 is described as a Level 7 on the cusp of Level 8.[@ar03-seven, fm18-ottar]
+**Ottar** is a boaz and the captain of [[freya-familia|Freya Familia]], titled *Warlord*. Sword Oratoria 4 calls him the strongest warrior in [[orario|Orario]].[@fc02-boaz, so04-captain] He is Level 7 from Astrea Record 3, and in DanMachi 18 is described as a Level 7 on the cusp of Level 8.[@ar03-seven, fm18-ottar]
 
 ## Early life
 
-[[freya|Freya]] found Ottar as an abandoned small child and gave him his name. She looked after him from time to time and gave him her blessing only several years later.[@fc02-origin] He reached Level 2 two years after receiving the Falna, although he had spent only one of those years fighting.[@fc02-origin] At seventeen he was Level 5 and the Familia's undisputed second-in-command. [[mia-grand|Mia Grand]], then captain, trained him, but she left the Familia before he could settle things with her.[@fc02-origin, fc02-mia]
+[[freya|Freya]] found Ottar as an abandoned small child and gave him his name. She looked after him from time to time and gave him her blessing only several years later.[@fc02-origin] He reached Level 2 two years after receiving the [[falna|Falna]], although he had spent only one of those years fighting.[@fc02-origin] At seventeen he was Level 5 and the Familia's undisputed second-in-command. [[mia-grand|Mia Grand]], then captain, trained him, but she left the Familia before he could settle things with her.[@fc02-origin, fc02-mia]
 
-Every Level Up he made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-zeus] He later defeats the Monster Rex Udaeus alone and has its drop item made into a great sword, which Freya names *Supreme Black Sword*.[@fc02-sword]
+Every Level Up he made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-zeus] He later defeats the [[monster-rex|Monster Rex]] Udaeus alone and has its drop item made into a great sword, which Freya names *Supreme Black Sword*.[@fc02-sword]
 
 ## Level history
 
@@ -42,7 +42,7 @@ Every Level Up he made after Level 5 was connected with Zeus Familia or Hera Fam
 |---|---|---|
 | 5 | Age seventeen | Second-in-command of Freya Familia.[@fc02-origin] |
 | 6 | Astrea Record 1 | The only Level 6 in Orario at the time.[@ar01-ottar] |
-| 7 | Astrea Record 3 | Defeats Zald of Zeus Familia and advances.[@ar03-seven] |
+| 7 | Astrea Record 3 | Defeats [[zald|Zald]] of Zeus Familia and advances.[@ar03-seven] |
 
 By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[riveria|Riveria]], [[gareth|Gareth]] and Leon.[@fm20-sevens]
 
@@ -55,15 +55,15 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 
 | Volume | Events |
 |---|---|
-| DanMachi 2 | Freya considers sending him to take Bell a book, then decides to leave it at the tavern instead.[@fm02-book] |
+| DanMachi 2 | Freya considers sending him to take [[bell-cranell|Bell]] a book, then decides to leave it at the tavern instead.[@fm02-book] |
 | DanMachi 3 | Argues that Bell needs an adventure to break his shell, then prepares and trains the Minotaur that Bell fights.[@fm03-minotaur] |
 | Sword Oratoria 4 | Blocks [[loki-familia|Loki Familia]] so that Bell faces the Minotaur alone, speaking of Bell casting off his shell.[@so04-captain] |
 | Sword Oratoria 9 | With a few others, disposes of the assassins sent after Tammuz, whom Freya is sheltering.[@so09-tammuz] |
 | DanMachi 11 | Steers [[asterios|Asterios]] toward Bell, blocks Finn on Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios] |
-| Sword Oratoria 11 | Trains Aiz Wallenstein in secret for seven days and teaches her to control her anti-monster flame.[@so11-aiz] |
-| DanMachi 17 | Captures Bell and defeats Lyu during Freya's seizure; later takes the wounded Hörn from Bell and follows Freya's order that she must live to be judged.[@fm17-ottar] |
-| DanMachi 18 | In the Familia War, Bell, Mia, Lyu and Hedin force him to one knee; he then gives Bell five minutes to prove he can save Freya.[@fm18-ottar, fm18-mia] |
-| DanMachi 19 | Works at The Benevolent Mistress with the other former members after the Familia is dissolved.[@fm19-tavern] |
+| Sword Oratoria 11 | Trains [[aiz-wallenstein|Aiz Wallenstein]] in secret for seven days and teaches her to control her anti-monster flame.[@so11-aiz] |
+| DanMachi 17 | Captures Bell and defeats [[lyu-leon|Lyu]] during Freya's seizure; later takes the wounded [[horn|Hörn]] from Bell and follows Freya's order that she must live to be judged.[@fm17-ottar] |
+| DanMachi 18 | In the Familia War, Bell, Mia, Lyu and [[hedin|Hedin]] force him to one knee; he then gives Bell five minutes to prove he can save Freya.[@fm18-ottar, fm18-mia] |
+| DanMachi 19 | Works at [[the-benevolent-mistress|The Benevolent Mistress]] with the other former members after the Familia is dissolved.[@fm19-tavern] |
 
 ## Open questions
 

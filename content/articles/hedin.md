@@ -24,7 +24,7 @@
   }
 }
 ---
-**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the dark elf [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] His precise control of magic is said to be the best in Orario.[@fm16-hedin]
+**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the dark elf [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin]
 
 ## Heodenings
 
@@ -34,13 +34,13 @@ Hedin and Hegni were the kings of rival white-elf and dark-elf states on the isl
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | Level 5 in the Great Conflict; his spells hold a front almost by himself.[@ar01-hedin] |
-| Minor Myths and Legends 2 | Forces Royman of the [[guild|Guild]] to reveal the route Freya took into the desert.[@ss02-hedin] |
+| Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; his spells hold a front almost by himself.[@ar01-hedin] |
+| Minor Myths and Legends 2 | Forces [[royman|Royman]] of the [[guild|Guild]] to reveal the route Freya took into the desert.[@ss02-hedin] |
 | Sword Oratoria 13 | Tries to recruit [[lefiya|Lefiya]] for Freya Familia at an elf's café.[@so13-hedin] |
-| DanMachi 16 | Meets Bell at a café, trains him for five days for Syr's date, and runs the plan to guard it, while secretly steering pursuers away so Bell can grant Syr's wish.[@fm16-cafe, fm16-hedin] |
+| DanMachi 16 | Meets [[bell-cranell|Bell]] at a café, trains him for five days for [[syr-flover|Syr]]'s date, and runs the plan to guard it, while secretly steering pursuers away so Bell can grant Syr's wish.[@fm16-cafe, fm16-hedin] |
 | DanMachi 17 | Trains Bell harshly in [[folkvangr|Folkvangr]], yet dismisses his guard and lookouts, tells him to move forward, and lets him skip dinner. After the charm is broken he commands the estate's defence.[@fm17-hedin] |
-| DanMachi 18 | Turns against the Familia for Freya's own sake: he wears down [[heith-velvet|Heith]]'s healing, coordinates the fight against Ottar, and helps Bell reach Freya.[@fm18-hedin] |
-| DanMachi 19 | His former comrades punish him for his part in the defeat; Bell says the coalition won only because of him. With Hegni he protects Haruhime.[@fm19-hedin] |
+| DanMachi 18 | Turns against the Familia for Freya's own sake: he wears down [[heith-velvet|Heith]]'s healing, coordinates the fight against [[ottar|Ottar]], and helps Bell reach Freya.[@fm18-hedin] |
+| DanMachi 19 | His former comrades punish him for his part in the defeat; Bell says the coalition won only because of him. With Hegni he protects [[haruhime|Haruhime]].[@fm19-hedin] |
 
 > [!NOTE] Two sides of DanMachi 17
 > Hedin calls himself Freya's spear and shield while training Bell under her orders, but his actions also clear Bell's path. DanMachi 19 confirms that his help in the war was decisive.[@fm17-hedin, fm19-hedin]

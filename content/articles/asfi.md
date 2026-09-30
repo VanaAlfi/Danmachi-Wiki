@@ -24,11 +24,11 @@
   }
 }
 ---
-**Asfi Al Andromeda** is the captain of Hermes Familia, titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of only five people in Orario who do, and makes magic items.[@fm05-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level]
+**Asfi Al Andromeda** is the captain of [[hermes-familia|Hermes Familia]], titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of only five people in [[orario|Orario]] who do, and makes magic items.[@fm05-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level]
 
 ## Hermes Familia
 
-Asfi succeeds Lydis as captain during the Great Conflict of Astrea Record 2.[@ar02-captain] Hermes Familia works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide]
+Asfi succeeds Lydis as captain during the [[great-conflict|Great Conflict]] of Astrea Record 2.[@ar02-captain] Hermes Familia works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide]
 
 In Sword Oratoria 3 several members of the Familia die in an operation on Floor 24.[@so03-losses]
 
@@ -42,12 +42,12 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 
 | Volume | Events |
 |---|---|
-| DanMachi 5 | Joins the rescue party to [[floor-18|Floor 18]] and helps coordinate [[rivira|Rivira]]'s defence against the Black Goliath.[@fm05-asfi] |
-| DanMachi 8 | Scouts from the air to find the force that abducted Hestia.[@fm08-talaria] |
+| DanMachi 5 | Joins the rescue party to [[floor-18|Floor 18]] and helps coordinate [[rivira|Rivira]]'s defence against the Black [[goliath|Goliath]].[@fm05-asfi] |
+| DanMachi 8 | Scouts from the air to find the force that abducted [[hestia|Hestia]].[@fm08-talaria] |
 | Familia Chronicle 1 | Traces a kidnapped girl through the black market to the El Dorado casino.[@fc01-asfi] |
 | Sword Oratoria 11 | Leads an invisible Hermes Familia detachment in the assault on Knossos.[@so11-key] |
-| DanMachi 17 | Is outside the city with Lyu when Freya's charm covers Orario, so she escapes it, and helps Hestia break it.[@fm17-asfi, fm17-hearth] |
-| DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches Astrea in Zolingam.[@fm18-zolingam] |
+| DanMachi 17 | Is outside the city with [[lyu-leon|Lyu]] when [[freya|Freya]]'s charm covers Orario, so she escapes it, and helps Hestia break it.[@fm17-asfi, fm17-hearth] |
+| DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches [[astrea|Astrea]] in Zolingam.[@fm18-zolingam] |
 
 ## Open questions
 

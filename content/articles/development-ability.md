@@ -53,19 +53,19 @@ Some are tied to particular Levels or experience. Hunter is available only at Le
 | Hunter | Temporarily raises basic abilities against monster types the adventurer has fought extensively.[@fm04-hunter] | Aiz.[@so01-aiz, so11-aiz] |
 | Luck | Apparently unprecedented: Bell is probably the first adventurer to discover it.[@fm04-luck] | Bell, chosen at Level 2.[@fm04-luck] |
 | Synthesize | Allows higher-quality items and medicine.[@fm04-nahza] | Nahza.[@fm04-nahza] |
-| Conjure | Increases the power and range of magic.[@fm05-conjure] | Mages at Rivira; [[lefiya|Lefiya]].[@fm05-conjure, so12-lefiya] |
+| Conjure | Increases the power and range of magic.[@fm05-conjure] | Mages at [[rivira|Rivira]]; [[lefiya|Lefiya]].[@fm05-conjure, so12-lefiya] |
 | Resistance | Chosen by Lilly over Compounding.[@fm15-lilly] | [[lilliluka-erde|Lilly]], at Level 2.[@fm15-lilly] |
 | Knight | Named on Status cards.[@so01-aiz] | Aiz.[@so01-aiz, so03-aiz] |
 | Regen | Named on Status cards.[@so03-aiz] | Aiz, from Level 6.[@so03-aiz] |
 | Spirit Healing | Named on Status cards.[@so06-cards] | Aiz.[@so06-cards, so11-aiz] |
-| Dive | Named on Status cards.[@so06-dive] | Tiona and Tione, at Level 6.[@so06-dive] |
+| Dive | Named on Status cards.[@so06-dive] | [[hyrute-sisters|Tiona]] and Tione, at Level 6.[@so06-dive] |
 | Abnormal Resistance | Named on Status cards.[@so06-cards] | Aiz; Lefiya.[@so06-cards, so12-lefiya] |
 | Mage | Named on Status cards.[@so06-cards] | Lefiya.[@so06-cards] |
 | Magic Resistance | Named on Status cards.[@so12-lefiya] | Lefiya, at Level 4.[@so12-lefiya] |
 | Swordsman | Named on Status cards.[@so06-cards] | Aiz.[@so06-cards] |
 
 > [!STATEMENT] What Luck does
-> When Bell chooses Luck, Hestia guesses it might protect him and [[eina-tulle|Eina]] suggests it might bring more item drops. Both are speculation. In Familia Chronicle 1 he wins extraordinarily at roulette and thinks of his Status, which suggests a connection without proving how Luck works.[@fm04-luck, fc01-luck]
+> When Bell chooses Luck, [[hestia|Hestia]] guesses it might protect him and [[eina-tulle|Eina]] suggests it might bring more item drops. Both are speculation. In Familia Chronicle 1 he wins extraordinarily at roulette and thinks of his Status, which suggests a connection without proving how Luck works.[@fm04-luck, fc01-luck]
 
 ## Names of abilities {#names-of-abilities}
 

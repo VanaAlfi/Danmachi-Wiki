@@ -36,7 +36,7 @@ Magic gained through a Falna is shaped by excelia, interests and desires. A pers
 
 ## Status
 
-The basic abilities are Strength, Defense, Dexterity, Agility and Magic. Their ordinary ranks run from I (0–99) through S, and the ordinary ceiling is 999.[@fm01-abilities, so01-ceiling] Bell Cranell goes beyond it with SS and later SSS values, so SS is not an absolute limit.[@fm03-ss, fm18-sss]
+The basic abilities are Strength, Defense, Dexterity, Agility and Magic. Their ordinary ranks run from I (0–99) through S, and the ordinary ceiling is 999.[@fm01-abilities, so01-ceiling] [[bell-cranell|Bell Cranell]] goes beyond it with SS and later SSS values, so SS is not an absolute limit.[@fm03-ss, fm18-sss]
 
 A [[level|Level]] Up gives every basic ability a large boost. The visible values then reset, while the earlier points remain as a hidden parameter.[@fm01-levelup, fm04-hidden] At a Level Up the adventurer may also gain a [[development-ability|Development Ability]].[@fm04-hidden]
 
@@ -52,16 +52,16 @@ A specialized item called a Status Thief can still expose the real name and patr
 
 In a conversion, one god removes the old Falna and another engraves a new one. A converted follower cannot transfer again for a year.[@fm06-conversion] A follower normally has to have been with a Familia for a year before converting at all, unless that Familia dissolves; in DanMachi 17 Bell has been with Hestia for only six months, which blocks an immediate conversion.[@fm17-wait]
 
-A conversion does not erase every trace of the first god's ichor: that god can still sense whether the follower is alive, and Soma senses Lilly's growth after she has left his Familia.[@fm08-trace, fm15-trace]
+A conversion does not erase every trace of the first god's ichor: that god can still sense whether the follower is alive, and Soma senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace]
 
 | Volume | Conversion |
 |---|---|
-| DanMachi 6 | Lilly moves from Soma Familia to [[hestia-familia|Hestia Familia]], with both gods rewriting her Falna.[@fm06-lilly] |
-| DanMachi 6 | Welf and [[mikoto|Mikoto]] also join Hestia Familia.[@fm06-join] |
-| DanMachi 18 | Chloe and Runoa convert before the War Game, which lets them take part.[@fm18-conversions] |
-| DanMachi 19–20 | Astrea releases Lyu's Falna so that she can join Hestia Familia.[@fm19-lyu] |
+| DanMachi 6 | Lilly moves from [[soma-familia|Soma Familia]] to [[hestia-familia|Hestia Familia]], with both gods rewriting her Falna.[@fm06-lilly] |
+| DanMachi 6 | [[welf-crozzo|Welf]] and [[mikoto|Mikoto]] also join Hestia Familia.[@fm06-join] |
+| DanMachi 18 | [[chloe|Chloe]] and [[runoa|Runoa]] convert before the [[war-game|War Game]], which lets them take part.[@fm18-conversions] |
+| DanMachi 19–20 | [[astrea|Astrea]] releases [[lyu-leon|Lyu]]'s Falna so that she can join Hestia Familia.[@fm19-lyu] |
 
-Being held captive or given a false identity is not a conversion. In DanMachi 17 Freya demands Bell's conversion and makes the city believe he belongs to her, but he keeps Hestia's Falna throughout.[@fm17-bell]
+Being held captive or given a false identity is not a conversion. In DanMachi 17 [[freya|Freya]] demands Bell's conversion and makes the city believe he belongs to her, but he keeps Hestia's Falna throughout.[@fm17-bell]
 
 ## Other arrangements
 

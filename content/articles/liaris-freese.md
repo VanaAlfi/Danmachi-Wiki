@@ -41,9 +41,9 @@ In DanMachi 8, Hestia tells the other members of the Familia that the desire beh
 
 The Skill speeds the growth of his Status; it does not give him combat technique he has not learned.[@fm12-technique]
 
-It also protects him against divine charm. In DanMachi 7, Ishtar reads its name on his back.[@fm07-charm, fm07-ishtar]
+It also protects him against divine charm. In DanMachi 7, [[ishtar|Ishtar]] reads its name on his back.[@fm07-charm, fm07-ishtar]
 
-> [!INFERENCE] Freya's charm in DanMachi 16
+> [!INFERENCE] [[freya|Freya]]'s charm in DanMachi 16
 > When Freya presses Bell with her charm in DanMachi 16, the hieroglyphs on his back burn and his feelings hold. The scene neither names the Skill nor shows his Status, so connecting it to Liaris Freese is an inference.[@fm16-charm]
 
 ## Limits

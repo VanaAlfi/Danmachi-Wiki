@@ -8,7 +8,7 @@
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
   "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish"],
   "spoilers": "DanMachi Vols. 1–20 and Astrea Record Vol. 3",
-  "related": ["hestia-familia", "hestia", "liaris-freese", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status"],
+  "related": ["hestia-familia", "hestia", "liaris-freese", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
     "title": "Bell Cranell",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -21,17 +21,17 @@
       {"label": "Familia", "value": "[[hestia-familia|Hestia Familia]]", "refs": ["fm01-bell"]},
       {"label": "Level", "value": "5, from DanMachi 18 (see [[#levels|Levels]])", "refs": ["fm18-level5"]},
       {"label": "Titles", "value": "Little Rookie; later Rabbit Foot", "refs": ["fm04-rookie", "fm12-title"]},
-      {"label": "Magic", "value": "Firebolt", "refs": ["fm02-firebolt"]},
+      {"label": "Magic", "value": "[[#firebolt|Firebolt]]", "refs": ["fm02-firebolt"]},
       {"label": "Skills", "value": "[[liaris-freese|Liaris Freese]], Argonaut, Ox Slayer", "refs": ["fm01-hidden", "fm04-argonaut", "fm12-level4"]}
     ]
   }
 }
 ---
-**Bell Cranell** is a human adventurer and the first member of [[hestia-familia|Hestia Familia]].[@fm01-bell] He is fourteen when he arrives in Orario hoping to become a hero.[@fm01-bell] His Level-up to Level 2 is the fastest on record, and by DanMachi 18 he is Level 5. His growth is driven by a hidden Skill, [[liaris-freese|Liaris Freese]].[@fm03-level2, fm18-level5, fm01-hidden]
+**Bell Cranell** is a human adventurer and the first member of [[hestia-familia|Hestia Familia]].[@fm01-bell] He is fourteen when he arrives in [[orario|Orario]] hoping to become a hero.[@fm01-bell] His Level-up to Level 2 is the fastest on record, and by DanMachi 18 he is Level 5. His growth is driven by a hidden Skill, [[liaris-freese|Liaris Freese]].[@fm03-level2, fm18-level5, fm01-hidden]
 
 ## Background
 
-Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god Zeus, who faked his death and went into hiding; Bell does not learn this.[@fm05-death, fm05-zeus] Astrea Record 3 tells the reader that Bell's mother was Metelia of Hera Familia, the twin sister of Alfia, and that his father was an unnamed supporter in Zeus Familia.[@ar03-parents] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
+Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god Zeus, who faked his death and went into hiding; Bell does not learn this.[@fm05-death, fm05-zeus] Astrea Record 3 tells the reader that Bell's mother was Metelia of Hera Familia, the twin sister of [[alfia|Alfia]], and that his father was an unnamed supporter in Zeus Familia.[@ar03-parents] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
 
 Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.[@fm15-rejections]
 
@@ -39,7 +39,7 @@ Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.
 
 | Level | Reached | Notes |
 |---|---|---|
-| 1 | DanMachi 1 | Receives Hestia's Falna as her only follower.[@fm01-bell] |
+| 1 | DanMachi 1 | Receives Hestia's [[falna|Falna]] as her only follower.[@fm01-bell] |
 | 2 | DanMachi 3 | After defeating a Minotaur alone; the fastest Level-up on record. At Denatus he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
 | 3 | DanMachi 7 | Announced at the start of the volume.[@fm07-level3] |
 | 4 | DanMachi 12 | After surviving his fight with [[asterios|Asterios]]; he gains the Skill Ox Slayer and the title *Rabbit Foot*.[@fm12-level4, fm12-title] |
@@ -54,17 +54,67 @@ At Level 5 Bell finds that each ability point takes far more effort than before,
 
 ### Skills
 
-- **[[liaris-freese|Liaris Freese]]** (first printed as *Realis Phrase*) gives rapid growth for as long as his feelings last. Hestia keeps it off the Status copies she gives him.[@fm01-hidden] In DanMachi 8 she tells the rest of the Familia that it is driven by his feelings for [[aiz-wallenstein|Aiz Wallenstein]].[@fm08-hestia] It also lets him resist Ishtar's charm in DanMachi 7.[@fm07-charm]
+- **[[liaris-freese|Liaris Freese]]** (first printed as *Realis Phrase*) gives rapid growth for as long as his feelings last. Hestia keeps it off the Status copies she gives him.[@fm01-hidden] In DanMachi 8 she tells the rest of the Familia that it is driven by his feelings for [[aiz-wallenstein|Aiz Wallenstein]].[@fm08-hestia] It also lets him resist [[ishtar|Ishtar]]'s charm in DanMachi 7.[@fm07-charm]
 - **Argonaut**, which appears on his first Level 2 card, charges an attack while he pictures a heroic deed.[@fm04-argonaut] The longest charge rises from three minutes to four after he reaches Level 4.[@fm12-charge]
 - **Ox Slayer**, gained at Level 4, strengthens him against Minotaur-type opponents.[@fm12-level4]
 
-### Magic
+### Magic in brief {#magic-in-brief}
 
-**Firebolt**, which he learns from a grimoire in DanMachi 2, is Swift-Strike Magic; overusing it the first time leaves him unconscious from Mind Down.[@fm02-firebolt, fm03-swift] The grimoire came from [[freya|Freya]], who left it at [[the-benevolent-mistress|The Benevolent Mistress]] for him.[@fm02-grimoire]
+**[[#firebolt|Firebolt]]**, which he learns from a grimoire in DanMachi 2, is Swift-Strike Magic; overusing it the first time leaves him unconscious from Mind Down.[@fm02-firebolt, fm03-swift] The grimoire came from [[freya|Freya]], who left it at [[the-benevolent-mistress|The Benevolent Mistress]] for him.[@fm02-grimoire]
 
 ### Development Abilities
 
 He chooses Luck at Level 2.[@fm04-luck] His card on reaching Level 5 lists Luck at rank F, Immunity, Escape and the new Rapid Attacks.[@fm18-level5]
+
+## Magic {#magic}
+
+{{nocite}} Bell Cranell's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Firebolt {#firebolt}
+
+**Firebolt** is Bell Cranell's spell. His [[status|Status]] lists it as *Swift-Strike Magic* with no incantation, and saying its name is enough to release a bolt of electric flame.[@firebolt.fm02-card, firebolt.fm02-first] It is fast but, especially early on, weak in each hit; it grows stronger the more Bell uses it.[@firebolt.fm03-growth]
+
+- **User:** Bell Cranell[@firebolt.fm02-card]
+- **Status entry:** Swift-Strike Magic[@firebolt.fm02-card]
+- **Element:** Electric flame[@firebolt.fm02-first]
+- **Source:** A grimoire (DanMachi 2)[@firebolt.fm02-grimoire]
+- **Incantation:** None; the spell name alone fires it[@firebolt.fm02-card, firebolt.fm03-growth]
+- **First cast:** DanMachi 2, on a goblin[@firebolt.fm02-first]
+
+#### Acquisition {#firebolt-acquisition}
+
+Firebolt appears on Bell's Status in DanMachi 2, after he reads a book borrowed from a friend.[@firebolt.fm02-card, firebolt.fm02-grimoire] [[hestia|Hestia]] identifies the book as a grimoire, "a book that forces the reader to learn magic", made only by someone who has mastered both Magic Control and Enigma; once used, it is worthless.[@firebolt.fm02-grimoire] See [[magic#innate-and-acquired-magic|Magic]] for how spells are normally acquired.
+
+#### Incantation {#firebolt-incantation}
+
+> [!NOTE] Chantless magic
+> Firebolt has no incantation. It is not an unrecorded chant: the text establishes that there is none.
+
+- Bell's first card shows the name *Firebolt* in the Magic slot, described only as Swift-Strike Magic, and nothing that looks like an incantation. Hestia guesses that it needs none and that saying "Firebolt" may trigger it, and stops him saying the name indoors.[@firebolt.fm02-card, firebolt.fm02-trigger]
+- The first cast bears this out: Bell says the name and the bolt fires, "conjured in an instant".[@firebolt.fm02-first]
+- [[lilliluka-erde|Lilly]] later calls it magic with "no spell" and "lightning speed", and onlookers at the Minotaur fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-minotaur]
+
+**Trigger:** the spell name, *Firebolt*, spoken aloud. The text often prints it in capitals or stretched out ("FIREBOLT!!"); these are ways of showing him shouting, not different forms of the spell.[@firebolt.fm02-first, firebolt.fm03-minotaur]
+
+{{nocite}} **Fake incantation**
+
+In DanMachi 19, disguised as the student Rapi, Bell pretends to chant so that his instant casting will not give him away. He borrows [[welf-crozzo|Welf]]'s chant, "Blasphemous Burn", loses control of his magic and causes an *Ignis Fatuus*.[@firebolt.fm19-fake] He uses the same fake incantation later in the volume while firing a normal Firebolt.[@firebolt.fm19-fake2] This does not mean Bell has learned Welf's spell; see [[magic#will-o-the-wisp|Will-o'-the-Wisp]].
+
+#### Effects {#firebolt-effects}
+
+The bolt is described as scarlet lightning, "electric flames", which bursts on impact.[@firebolt.fm02-first] Lilly compares it to a spell with a long chant: Firebolt trades power for speed and cannot be dodged easily, and it gets stronger with use because it can be used often. Bell notes that its bolts have grown thicker and stronger since his first cast.[@firebolt.fm03-growth]
+
+Against a strong opponent its speed is not enough. In DanMachi 3 its hits cannot pierce the Minotaur's hide; Bell wins by driving the Hestia Knife into the monster and firing repeated Firebolts into the wound, burning it from inside.[@firebolt.fm03-minotaur] In DanMachi 6, [[hyacinthus|Hyacinthus]]'s [[magic#aro-zephyros|Aro Zephyros]] cuts straight through a Firebolt.[@firebolt.fm06-aro]
+
+#### Cost and Mind Down {#firebolt-cost-and-mind-down}
+
+Each cast uses Mind (mental energy). On his first day with the spell Bell fires it over and over, and he collapses on the fifth floor. Nahza later tells him this was *Mind Down*, common among adventurers who have just learned magic, and sells him a Mind-restoring potion.[@firebolt.fm02-collapse, firebolt.fm02-minddown] The Mind cost of a single shot is not given.
+
+#### Charged Firebolt {#firebolt-charged-firebolt}
+
+Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an infant dragon and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced moss huge.[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
+
+{{nocite}} Notable uses and open questions for Firebolt are on the combined page: [[magic#firebolt|Magic § Firebolt]].
 
 ## History
 
@@ -72,14 +122,14 @@ He chooses Luck at Level 2.[@fm04-luck] His card on reaching Level 5 lists Luck 
 |---|---|
 | DanMachi 1 | Joins Hestia, is saved from a Minotaur by Aiz, and begins growing at an unusual rate. Kills the silverback that Freya releases.[@fm01-bell, fm01-silverback] |
 | DanMachi 2 | Learns Firebolt and rescues [[lilliluka-erde|Lilliluka Erde]].[@fm02-firebolt, fm02-lilly] |
-| DanMachi 3 | Defeats the Minotaur that Ottar has trained for him and reaches Level 2.[@fm03-level2] |
+| DanMachi 3 | Defeats the Minotaur that [[ottar|Ottar]] has trained for him and reaches Level 2.[@fm03-level2] |
 | DanMachi 5 | Is forced down to [[floor-18|Floor 18]] with his party, where they fight the Black [[goliath|Goliath]]. Bell destroys it with a charged strike.[@fm05-goliath] |
-| DanMachi 6 | Loses to Hyacinthus, then trains with Aiz and Tiona, and defeats Hyacinthus to win the War Game against Apollo Familia.[@fm06-training, fm06-wargame] |
-| DanMachi 7 | Reaches Level 3 and rescues Haruhime from Ishtar Familia.[@fm07-level3, fm07-haruhime] |
+| DanMachi 6 | Loses to [[hyacinthus|Hyacinthus]], then trains with Aiz and [[hyrute-sisters|Tiona]], and defeats Hyacinthus to win the [[war-game|War Game]] against Apollo Familia.[@fm06-training, fm06-wargame] |
+| DanMachi 7 | Reaches Level 3 and rescues [[haruhime|Haruhime]] from Ishtar Familia.[@fm07-level3, fm07-haruhime] |
 | DanMachi 9–10 | Shelters the [[xenos|Xenos]] girl [[wiene|Wiene]] and chooses to help the Xenos, at the cost of his reputation.[@fm09-wiene, fm10-xenos] |
 | DanMachi 11 | Accepts Asterios's rematch and loses; the fight largely restores his reputation.[@fm11-asterios, fm11-reputation] |
 | DanMachi 12 | Reaches Level 4.[@fm12-level4] |
-| DanMachi 13–14 | Falls to Floor 37 with [[lyu-leon|Lyu Leon]] and survives the Juggernaut with her. Amid rebuilds his injured left arm.[@fm13-juggernaut, fm14-arm] |
+| DanMachi 13–14 | Falls to [[floor-37|Floor 37]] with [[lyu-leon|Lyu Leon]] and survives the [[juggernaut|Juggernaut]] with her. [[amid|Amid]] rebuilds his injured left arm.[@fm13-juggernaut, fm14-arm] |
 | DanMachi 16 | During the Goddess Festival he goes out with Syr, turns down her confession, and exposes the Syr of the second day as an impostor.[@fm16-date] |
 | DanMachi 17 | Is taken by Freya and trained in Folkvangr; he learns the truth about Freya and Syr and resolves to save her.[@fm17-seizure, fm17-folkvangr] |
 | DanMachi 18 | Reaches Level 5, helps defeat Ottar, refuses to be Freya's Odr and scatters her flower to win the Familia War.[@fm18-level5, fm18-odr] |
@@ -138,3 +188,17 @@ He chooses Luck at Level 2.[@fm04-luck] His card on reaching Level 5 lists Luck 
 [@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper.
 [@fm20-parents]: FM20 | Epilogue: Beautiful World | Bell never knew his parents.
 [@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father.
+[@firebolt.fm02-card]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Status card: Firebolt, Swift-Strike Magic; no incantation shown.
+[@firebolt.fm02-trigger]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Hestia: the name alone may trigger it.
+[@firebolt.fm02-first]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | First cast; "electric flames"; conjured in an instant.
+[@firebolt.fm02-collapse]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Repeated casts; collapse on the fifth floor.
+[@firebolt.fm02-grimoire]: FM02 | Chapter 4: Divine Wine | The grimoire; single use.
+[@firebolt.fm02-minddown]: FM02 | Chapter 4: Divine Wine | Nahza explains Mind Down.
+[@firebolt.fm03-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Lilly on Swift-Strike Magic; growth with use.
+[@firebolt.fm03-minotaur]: FM03 | Chapter 5: A Hero’s Desire | Too weak against the Minotaur's hide; fired into the knife wound.
+[@firebolt.fm04-argonaut]: FM04 | Chapter 3: The Smith’s Situation | Charged Firebolt against an infant dragon.
+[@firebolt.fm06-aro]: FM06 | Chapter 5: Our War Game | Aro Zephyros overpowers Firebolt.
+[@firebolt.fm12-argo]: FM12 | Chapter 6: The Hero’s Sacred Flame | Sixty-second charge; Argo Vesta.
+[@firebolt.fm13-reflect]: FM13 | Chapter 5: Calamity Arrives | Seventeen shots; reflection; Dual Charge.
+[@firebolt.fm19-fake]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Borrowed chant; loss of control; Ignis Fatuus.
+[@firebolt.fm19-fake2]: FM19 | | Fake incantation used again with a normal Firebolt.

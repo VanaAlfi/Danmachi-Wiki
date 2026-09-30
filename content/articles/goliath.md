@@ -8,7 +8,7 @@
   "summary": "The Monster Rex of Floor 17, a giant over seven meders tall that respawns about every two weeks; the Dungeon also produces a black variant on Floor 18 in DanMachi 5.",
   "aliases": ["Black Goliath"],
   "spoilers": "DanMachi Vols. 2, 5, 8 and 14 and Sword Oratoria Vol. 13",
-  "related": ["floor-18", "monster-rex", "uchide-no-kozuchi", "hestia", "dungeon"],
+  "related": ["floor-18", "monster-rex", "magic", "hestia", "dungeon"],
   "infobox": {
     "title": "Goliath",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -30,24 +30,24 @@ The **Goliath** is the [[monster-rex|Monster Rex]] of Floor 17. It is born from 
 
 ## Monster Rex
 
-A Monster Rex exists alone on its floor, takes a long time to be reborn, and is said to be two Levels above the ordinary monsters of that floor.[@fm02-rex] Because the Goliath blocks the way to Floor 18, the adventurers of Rivira organize its extermination.[@fm08-goliath]
+A Monster Rex exists alone on its floor, takes a long time to be reborn, and is said to be two Levels above the ordinary monsters of that floor.[@fm02-rex] Because the Goliath blocks the way to Floor 18, the adventurers of [[rivira|Rivira]] organize its extermination.[@fm08-goliath]
 
 ## The regular Goliath
 
-In DanMachi 8 the Goliath is fought in one of these regular exterminations. [[haruhime|Haruhime]] secretly uses [[uchide-no-kozuchi|Level Boost]] on [[mikoto|Mikoto]] during the battle, and the Level 5 adventurer [[tsubaki|Tsubaki]] cuts off one of its arms.[@fm08-goliath]
+In DanMachi 8 the Goliath is fought in one of these regular exterminations. [[haruhime|Haruhime]] secretly uses [[magic#uchide-no-kozuchi|Level Boost]] on [[mikoto|Mikoto]] during the battle, and the Level 5 adventurer [[tsubaki|Tsubaki]] cuts off one of its arms.[@fm08-goliath]
 
-Goliaths can differ from one another. In Sword Oratoria 13 a Goliath appears two days before the reported interval and shows unusual intelligence: it throws projectiles, calls in other monsters and watches [[lefiya|Lefiya]]'s casting. Its fall collapses the only passage down to Floor 18, and a squad holds it off until Lefiya's Rea Laevateinn destroys it together with the surrounding monsters.[@so13-goliath, so13-variation] The book explains this as individual variation among floor bosses, not a separate species.[@so13-variation]
+Goliaths can differ from one another. In Sword Oratoria 13 a Goliath appears two days before the reported interval and shows unusual intelligence: it throws projectiles, calls in other monsters and watches [[lefiya|Lefiya]]'s casting. Its fall collapses the only passage down to Floor 18, and a squad holds it off until Lefiya's [[magic#rea-laevateinn|Rea Laevateinn]] destroys it together with the surrounding monsters.[@so13-goliath, so13-variation] The book explains this as individual variation among floor bosses, not a separate species.[@so13-variation]
 
 > [!STATEMENT] Why it came early
 > The students in Sword Oratoria 13 expected two more days before the next Goliath. Cole suggests either a bad report or the Dungeon's malice; the narration does not choose between them.[@so13-early]
 
 ## The Black Goliath
 
-In DanMachi 5, after Hestia's divine presence is exposed on Floor 18, the Dungeon seals the exit and gives birth to a black Goliath on that floor.[@fm05-black] Its howl is magical, its roar summons other monsters, and magical energy lets it regenerate rapidly.[@fm05-black-traits]
+In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18, the Dungeon seals the exit and gives birth to a black Goliath on that floor.[@fm05-black] Its howl is magical, its roar summons other monsters, and magical energy lets it regenerate rapidly.[@fm05-black-traits]
 
-Lyu estimates its strength as equal to Level 5. DanMachi 14's narration later compares it with the Level 5 Amphisbaena, saying the two are similar on paper but the Goliath's regeneration made it stronger in practice. This is a comparison of monsters; the Goliath has no Falna.[@fm05-level5, fm14-compare]
+[[lyu-leon|Lyu]] estimates its strength as equal to Level 5. DanMachi 14's narration later compares it with the Level 5 [[amphisbaena|Amphisbaena]], saying the two are similar on paper but the Goliath's regeneration made it stronger in practice. This is a comparison of monsters; the Goliath has no [[falna|Falna]].[@fm05-level5, fm14-compare]
 
-Bell destroys its magic stone with a great deal of help from others, and every member of his group returns to the surface alive.[@fm05-battle, fm05-return] The [[guild|Guild]] calls the event a Calamity and penalizes Hestia and [[hermes|Hermes]].[@fm05-return]
+[[bell-cranell|Bell]] destroys its magic stone with a great deal of help from others, and every member of his group returns to the surface alive.[@fm05-battle, fm05-return] The [[guild|Guild]] calls the event a Calamity and penalizes Hestia and [[hermes|Hermes]].[@fm05-return]
 
 > [!STATEMENT] Hermes's explanation
 > Hermes says the Dungeon hates having gods inside it and was unusually sensitive this time. That is his reading of events; the precise reason is not given.[@fm05-black]

@@ -24,7 +24,7 @@
   }
 }
 ---
-**Chloe Lolo** is a catperson waitress at [[the-benevolent-mistress|The Benevolent Mistress]] and a former assassin, known in Orario's underworld as *Black Cat*. She is a Level 4 adventurer.[@fm16-fight, fc01-alias, fc01-card]
+**Chloe Lolo** is a catperson waitress at [[the-benevolent-mistress|The Benevolent Mistress]] and a former assassin, known in [[orario|Orario]]'s underworld as *Black Cat*. She is a Level 4 adventurer.[@fm16-fight, fc01-alias, fc01-card]
 
 ## Past
 
@@ -34,11 +34,11 @@ In Orario she had her Status updated by the god Njörðr. She had seen him smugg
 
 ## The Benevolent Mistress
 
-In Familia Chronicle 1, after a failed contract on the Gale Wind, Chloe gives up assassination and joins the tavern with Runoa.[@fc01-recruit] The two of them are ordered to work off 100 million valis in damage to Mia's property.[@fc01-bill] Her arrangement with Njörðr ends when she joins.[@fc01-end] She is one of the tavern's staff by DanMachi 2, and like Anya and Runoa she owes Mia money and is paid very little.[@fm02-chloe, fm16-pay]
+In Familia Chronicle 1, after a failed contract on the Gale Wind, Chloe gives up assassination and joins the tavern with [[runoa|Runoa]].[@fc01-recruit] The two of them are ordered to work off 100 million valis in damage to [[mia-grand|Mia]]'s property.[@fc01-bill] Her arrangement with Njörðr ends when she joins.[@fc01-end] She is one of the tavern's staff by DanMachi 2, and like [[anya-fromel|Anya]] and Runoa she owes Mia money and is paid very little.[@fm02-chloe, fm16-pay]
 
 ## Freya conflict
 
-During the festival of DanMachi 16 she fights Freya Familia to protect the false Syr, and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic Felis Kurus and the poison dagger Violator, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn] She is among those who welcome Syr back after the war.[@fm18-syr]
+During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic Felis Kurus and the poison dagger Violator, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn] She is among those who welcome Syr back after the war.[@fm18-syr]
 
 ## Status
 

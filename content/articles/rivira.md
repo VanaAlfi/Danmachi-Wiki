@@ -30,7 +30,7 @@
 
 Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's emblem for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
 
-Its strongest resident is Bors, a one-eyed adventurer who owns the Rivira Exchange.[@fm05-bors] Illegal goods pass through the town: the Status Snitch that Freya uses on Bell in DanMachi 17 comes from Rivira.[@fm17-snitch]
+Its strongest resident is Bors, a one-eyed adventurer who owns the Rivira Exchange.[@fm05-bors] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
 
 ## Count {#count}
 

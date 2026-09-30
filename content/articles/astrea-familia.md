@@ -25,7 +25,7 @@
   }
 }
 ---
-**Astrea Familia** was the Familia of Astrea, goddess of justice and order.[@fm05-astrea] It reached rank B with the [[guild|Guild]], had eleven second-tier adventurers, reached Floor 41 and defeated twenty-one floor bosses.[@fc01-record] It was destroyed in an ambush in the Dungeon five years before DanMachi 13, and [[lyu-leon|Lyu Leon]] is its only survivor.[@fm13-ambush, fm05-astrea]
+**Astrea Familia** was the Familia of [[astrea|Astrea]], goddess of justice and order.[@fm05-astrea] It reached rank B with the [[guild|Guild]], had eleven second-tier adventurers, reached Floor 41 and defeated twenty-one floor bosses.[@fc01-record] It was destroyed in an ambush in the Dungeon five years before DanMachi 13, and [[lyu-leon|Lyu Leon]] is its only survivor.[@fm13-ambush, fm05-astrea]
 
 ## Members
 
@@ -40,13 +40,13 @@ The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and br
 
 ## The Great Conflict
 
-Astrea Record tells of the Familia's part in the Great Conflict, the war with the Evils seven years before the main story.[@ar01-astrea] In Astrea Record 3 the Familia defeats the dragon Delphyne.[@ar03-delphyne]
+Astrea Record tells of the Familia's part in the [[great-conflict|Great Conflict]], the war with the [[evils|Evils]] seven years before the main story.[@ar01-astrea] In Astrea Record 3 the Familia defeats the dragon [[delphyne|Delphyne]].[@ar03-delphyne]
 
 ## Destruction
 
-Rudra Familia planted false information through corrupt Guild contacts to lure the Familia into the Dungeon, then sprang an ambush with Inferno Stones that released the first Juggernaut. It killed ten of them, two at Level 3 and eight at Level 4. Alize, Kaguya and Lyra knowingly sacrificed themselves to save Lyu.[@fm13-ambush, fm14-alize] [[ouranos|Ouranos]] later identifies the Juggernaut as the Dungeon's immune response.[@fm13-ouranos]
+Rudra Familia planted false information through corrupt Guild contacts to lure the Familia into the Dungeon, then sprang an ambush with Inferno Stones that released the first [[juggernaut|Juggernaut]]. It killed ten of them, two at Level 3 and eight at Level 4. Alize, Kaguya and Lyra knowingly sacrificed themselves to save Lyu.[@fm13-ambush, fm14-alize] [[ouranos|Ouranos]] later identifies the Juggernaut as the Dungeon's immune response.[@fm13-ouranos]
 
-Lyu then persuaded Astrea to leave Orario, took revenge on those responsible, and was blacklisted.[@fm05-astrea]
+Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those responsible, and was blacklisted.[@fm05-astrea]
 
 ## Astrea after Orario
 

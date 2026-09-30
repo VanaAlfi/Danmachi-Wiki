@@ -31,10 +31,10 @@ The black Minotaur is first named Asterios in DanMachi 10; in DanMachi 11 he tel
 
 | Volume | Events |
 |---|---|
-| DanMachi 10 | Defeats Ganesha Familia, Aisha, Asfi and Lyu, kills the hunter Dix, and loses his right arm to Aiz before escaping alive to the surface.[@fm10-asterios] |
+| DanMachi 10 | Defeats [[ganesha-familia|Ganesha Familia]], [[aisha-belka|Aisha]], [[asfi|Asfi]] and [[lyu-leon|Lyu]], kills the hunter Dix, and loses his right arm to [[aiz-wallenstein|Aiz]] before escaping alive to the surface.[@fm10-asterios] |
 | DanMachi 11 | Asks Bell for a rematch and wins it, declares their score even, and returns underground. [[fels|Fels]] restores his arm, and he goes to train in the deep levels for their final battle.[@fm11-name, fm11-fels] |
 | DanMachi 12 | Bell's fight with him earns Bell his promotion to Level 4 and the Skill Ox Slayer.[@fm12-level] |
-| Sword Oratoria 12 | Rejoins the Xenos and destroys one of the spirit altars in Knossos with a charge.[@so12-asterios] |
+| Sword Oratoria 12 | Rejoins the Xenos and destroys one of the spirit altars in [[knossos|Knossos]] with a charge.[@so12-asterios] |
 
 ## Open questions
 

@@ -115,6 +115,8 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 | DanMachi 17 | [[freya|Freya]]'s charm suppresses her memory of Bell, but a remembered promise to train with him breaks through; after [[hestia|Hestia]] purges the charm she protects [[lyu-leon|Lyu]] from [[hegni|Hegni]].[@fm17-aiz] |
 | DanMachi 20 | Sparring again, Bell fights her to a draw while she holds back.[@fm20-spar] |
 
+{{nocite}} Related magic: [[magic#sharay-silencing-curse|Sharay's silencing curse]], which stops Airiel in Sword Oratoria 6.
+
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes

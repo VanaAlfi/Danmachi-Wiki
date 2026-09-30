@@ -26,11 +26,11 @@
 
 ## Ishtar Familia
 
-In DanMachi 7 Aisha protects Haruhime, although Ishtar's charm forces her obedience; she had earlier destroyed a Killing Stone. She tests [[bell-cranell|Bell]] with her weapon and her spell [[#hell-kaios|Hell Kaios]], and he defeats her.[@fm07-aisha] With Ishtar gone her Status is sealed and she looks for a new Familia.[@fm07-aisha]
+In DanMachi 7 Aisha protects Haruhime, although Ishtar's charm forces her obedience; she had earlier destroyed a [[killing-stone|Killing Stone]]. She tests [[bell-cranell|Bell]] with her weapon and her spell [[#hell-kaios|Hell Kaios]], and he defeats her.[@fm07-aisha] With Ishtar gone her Status is sealed and she looks for a new Familia.[@fm07-aisha]
 
 ## Hermes Familia
 
-She converts and advances to Level 4; DanMachi 10 confirms her new Familia is Hermes Familia, which keeps the affiliation from the [[guild|Guild]] to preserve its neutrality. She provides fighting strength in return for information about further Killing Stones.[@fm09-level, fm10-hermes]
+She converts and advances to Level 4; DanMachi 10 confirms her new Familia is Hermes Familia, which keeps the affiliation from the [[guild|Guild]] to preserve its neutrality. She provides fighting strength, and in return wants to be the first to hear if "a certain stone" reaches the city; {{inference}} in context, another Killing Stone.[@fm09-level, fm10-hermes]
 
 ## The joint expedition
 

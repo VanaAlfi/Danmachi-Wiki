@@ -75,7 +75,9 @@ In Astrea Record 2, during the Great Conflict, Fels wonders whether their magic 
 
 #### Not to be confused with {#dia-orpheus-not-to-be-confused-with}
 
-**Dia Panacea**, a separate healing spell Fels casts earlier in DanMachi 10, which heals Bell's wounds, his broken fist and his fatigue.[@dia-orpheus.fm10-panacea]
+**Dia Panacea**, a separate healing spell Fels casts earlier in DanMachi 10, which heals Bell's wounds, his broken fist and his fatigue.[@dia-orpheus.fm10-panacea] Fels casts it with Concurrent Casting; its printed chant begins "Rod of Asclepius, Asclepius’s motherly light."[@dia-orpheus.fm10-panacea]
+
+After the fighting of DanMachi 11, Fels heals the Xenos, tends [[asterios|Asterios]]'s near-fatal wounds and restores his severed arm, which had been kept on ice. The passage does not name the spell used or say that Asterios had died, so it is not another resurrection.[@dia-orpheus.fm11-heal]
 
 {{nocite}} Notable uses and open questions for Dia Orpheus are on the combined page: [[magic#dia-orpheus|Magic § Dia Orpheus]].
 
@@ -108,7 +110,8 @@ In Astrea Record 2, during the Great Conflict, Fels wonders whether their magic 
 [@so10-fels]: SO10 | | Fels, the Xenos and Finn.
 [@ar02-fels]: AR02 | | No need for food or rest.
 [@ss01-fels]: SS01 | | Age; the owl; the "haunted" workshop.
-[@dia-orpheus.fm10-panacea]: FM10 | Chapter 9: Dreams of Beasts | Dia Panacea heals Bell.
+[@dia-orpheus.fm10-panacea]: FM10 | Chapter 9: Dreams of Beasts | Dia Panacea heals Bell; Concurrent Casting; its chant.
+[@dia-orpheus.fm11-heal]: FM11 | Epilogue: And So I Start to Run Again | Fels heals the Xenos and restores Asterios's preserved arm.
 [@dia-orpheus.fm10-cast]: FM10 | Chapter 10: The Fool | Extremely long chant; resurrection magic of the Sage; all of Fels's Mind.
 [@dia-orpheus.fm10-result]: FM10 | Chapter 10: The Fool | Wiene returns; "my first success"; eight hundred years; a Status slot.
 [@dia-orpheus.ar02-ouranos]: AR02 | Chapter 4: Those Who Struggle | Ouranos forbids resurrection.

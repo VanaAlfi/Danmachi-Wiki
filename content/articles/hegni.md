@@ -8,7 +8,7 @@
   "summary": "Dark-elf swordsman of Freya Familia, titled Dáinsleif; a former king of Heodenings whose magic turns his timid self into a fierce warrior.",
   "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord"],
   "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
-  "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel"],
+  "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {
     "title": "Hegni Ragnar",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -46,6 +46,8 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 | DanMachi 17 | Continues [[bell-cranell|Bell]]'s training in [[folkvangr|Folkvangr]] and corners the escaped Lyu. After the charm is broken he fights [[aiz-wallenstein|Aiz]], [[hyrute-sisters|Tiona]], Tione and Lyu while defending Freya's estate.[@fm17-hegni] |
 | DanMachi 18 | In the Familia War Lyu, now Level 6, defeats him. Hedin then persuades him to help save Syr, and he protects [[anya-fromel|Anya]] from [[allen-fromel|Allen]].[@fm18-fall, fm18-anya] |
 | DanMachi 19 | Works at [[the-benevolent-mistress|The Benevolent Mistress]], too shy for the job, and with Hedin protects [[haruhime|Haruhime]].[@fm19-hegni] |
+
+{{nocite}} Related magic: the Dis sisters' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
 
 ## Open questions
 

@@ -8,7 +8,7 @@
   "summary": "The coalition of dark gods and their followers who openly attacked Orario in its dark age, led by Erebus in the Great Conflict; their remnants later hide in Knossos.",
   "aliases": ["Evils' Remnants"],
   "spoilers": "DanMachi Vols. 13–19, Sword Oratoria Vols. 7–12, Familia Chronicle Vol. 1 and Astrea Record Vols. 1–3",
-  "related": ["great-conflict", "erebus", "knossos", "astrea-familia", "dionysus", "levis"],
+  "related": ["great-conflict", "erebus", "knossos", "astrea-familia", "dionysus", "levis", "magic"],
   "infobox": {
     "title": "The Evils",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -33,6 +33,8 @@ In the [[great-conflict|Great Conflict]] the Evils are led by the god [[erebus|E
 Remnants of the Evils later hide in [[knossos|Knossos]], which serves as their base in Sword Oratoria.[@so07-base] Rudra Familia, which ambushed Astrea Familia with the [[juggernaut|Juggernaut]], was one of their allies; [[lyu-leon|Lyu]] destroyed it.[@fm13-ambush, fc01-rudra] Magic items they made in Knossos, whips and collars that let weaker tamers control monsters, are smuggled out by Jura in DanMachi 13.[@fm13-remnants]
 
 Sword Oratoria 12 reveals that the god [[dionysus|Dionysus]], under the name Enyo, brought the Evils and the corrupted spirit's forces together, aiming at Orario's destruction.[@so12-enyo]
+
+{{nocite}} Related magic: Valletta's [[magic#shaldo|Shaldo]] and the Dis sisters' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
 
 ## Open questions
 

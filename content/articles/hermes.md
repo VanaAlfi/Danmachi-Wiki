@@ -38,7 +38,7 @@ In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked 
 | Volume | Events |
 |---|---|
 | DanMachi 6 | Explains the [[three-great-quests|Three Great Quests]] and the fall of Zeus and Hera Familias, helps secure the one-outsider rule for the [[war-game|War Game]], and recruits [[lyu-leon|Lyu]] for Hestia's side.[@fm06-hermes] |
-| DanMachi 7 | Delivers a Killing Stone to [[ishtar|Ishtar]] and later admits it was he who told Ishtar about Bell.[@fm07-stone, fm07-admits] Sword Oratoria 7 confirms that he deliberately set Ishtar and [[freya|Freya]] against each other, judging Ishtar a danger to [[orario|Orario]].[@so07-plan] |
+| DanMachi 7 | Delivers a [[killing-stone|Killing Stone]] to [[ishtar|Ishtar]] and later admits it was he who told Ishtar about Bell.[@fm07-stone, fm07-admits] Sword Oratoria 7 confirms that he deliberately set Ishtar and [[freya|Freya]] against each other, judging Ishtar a danger to [[orario|Orario]].[@so07-plan] |
 | Sword Oratoria 10 | Obtains a Daedalus Orb from Freya.[@so10-orb] |
 | DanMachi 11 | Has Asfi forge Daedalus's notebook, and coerces the [[xenos|Xenos]] [[gros|Gros]] and three others to stage an attack meant to force Bell to kill them; he places a linked bracelet on [[eina-tulle|Eina]] as the target. Bell's trust in Gros and [[asterios|Asterios]]'s arrival wreck the plan.[@fm11-plan, fm11-bracelet] |
 | Sword Oratoria 11 | Proposes the Guild expedition that keeps Bell away from the assault on [[knossos|Knossos]].[@so11-hermes] |

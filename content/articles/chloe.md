@@ -32,6 +32,8 @@ Chloe was raised in a criminal Familia known in secret across the continent, tra
 
 In Orario she had her Status updated by the god Njörðr. She had seen him smuggling goods into the city and used that to pressure him into the arrangement.[@fc01-njordr]
 
+By the time of Familia Chronicle 1's tavern story, set before the main series, Chloe is sixteen.[@fc01-age] She is tired of the work: Orario's adventurers are strong enough that the preparations for each killing eat up her whole fee, and she complains that "assassination here just doesn't pay off" and wonders whether she should quit.[@fc01-age] That age belongs to that story; the covered novels do not give her age in the main series.
+
 ## The Benevolent Mistress
 
 In Familia Chronicle 1, after a failed contract on the Gale Wind, Chloe gives up assassination and joins the tavern with [[runoa|Runoa]].[@fc01-recruit] The two of them are ordered to work off 100 million valis in damage to [[mia-grand|Mia]]'s property.[@fc01-bill] Her arrangement with Njörðr ends when she joins.[@fc01-end] She is one of the tavern's staff by DanMachi 2, and like [[anya-fromel|Anya]] and Runoa she owes Mia money and is paid very little.[@fm02-chloe, fm16-pay]
@@ -60,6 +62,7 @@ Her Familia Chronicle 1 card lists the Development Abilities Immunity (G), Synth
 [@fc01-alias]: FC01 | | Black Cat and Black Fist, both Level 4.
 [@fc01-past]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The criminal Familia; her mother; her release.
 [@fc01-njordr]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The arrangement with Njörðr.
+[@fc01-age]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Chloe Lolo. Sixteen years old."; preparations eat up her pay; thinks of quitting.
 [@fc01-recruit]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe and Runoa join.
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The 100-million-valis bill.
 [@fc01-end]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Njörðr ends the arrangement.

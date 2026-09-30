@@ -7,8 +7,8 @@
   "continuity": "light-novel",
   "summary": "Boaz captain of Freya Familia, titled Warlord; the strongest adventurer in Orario, Level 7 from Astrea Record 3 and on the cusp of Level 8 by DanMachi 18.",
   "aliases": ["Warlord"],
-  "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vols. 4, 9–11 and 14, Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
-  "related": ["freya-familia", "freya", "bell-cranell", "mia-grand", "aiz-wallenstein", "allen-fromel", "level"],
+  "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vols. 4–14, Familia Chronicle Vol. 2 and Astrea Record Vols. 1 and 3",
+  "related": ["freya-familia", "freya", "bell-cranell", "mia-grand", "aiz-wallenstein", "allen-fromel", "level", "magic"],
   "infobox": {
     "title": "Ottar",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -50,6 +50,42 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 
 - **Hildis Vini** is a simple enhancement spell.[@fm18-hildis]
 - **Vana Arganture** is one of his Skills, revealed during the Familia War.[@fm18-arganture]
+
+## Magic {#magic}
+
+{{nocite}} Ottar's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Hildis Vini {#hildis-vini}
+
+**Hildis Vini** is Ottar's one and only magic.[@hildis-vini.fc02-udaeus] It is a simple enhancement spell: golden light covers him and his weapon and raises the weapon's power, and with Ottar's strength behind it the result is devastating.[@hildis-vini.ar03-zald, hildis-vini.fm18-slash]
+
+- **User:** Ottar[@hildis-vini.fc02-udaeus]
+- **Type:** Enhancement ("not even an enchantment")[@hildis-vini.fm18-slash]
+- **Effect:** Raises his weapon's power[@hildis-vini.ar03-zald, hildis-vini.fm20-afterglow]
+- **Chant:** Short; three sentences[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
+
+#### Incantation {#hildis-vini-incantation}
+
+{{nocite}} The chant is short, three sentences, and is printed with the same words in every volume that shows it. Only part is quoted.
+
+- **Opening (excerpt):** "Silver moon’s mercy and the golden plains."[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
+- **Middle:** he offers his body to the lord of battle.[@hildis-vini.fc02-udaeus]
+- **Last line:** "Charge bearing the goddess’s will."[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
+- **Release:** "Hildis Vini."[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
+
+Familia Chronicle 2 and DanMachi 18 both call it a short cast.[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell] Astrea Record 3 prints the same words with exclamation marks.[@hildis-vini.ar03-zald] Later in DanMachi 18 the chant is printed piece by piece while Ottar fights.[@hildis-vini.fm18-casting]
+
+#### Effect {#hildis-vini-effect}
+
+Ottar describes it himself in Astrea Record 3: golden light envelops his body and his sword, turning it into "a blade of radiant light"; the spell "did nothing but raise my weapon's power", but his strength crossed with his magic makes a force no one can stand against.[@hildis-vini.ar03-zald]
+
+DanMachi 18 insists that it is "a simple enhancement spell", "not even an enchantment", so it should not let him hit anything beyond his blade's reach. Yet his enhanced slash cuts through the air and blows away everything in its path.[@hildis-vini.fm18-slash] In DanMachi 20 [[leon-verdenberg|Leon]] explains the reason: his and Ottar's enhancement magic only increases physical strength and weapon power, and it is a separate technique, the *afterglow*, that lets them "erase the distance" and strike far-off targets.[@hildis-vini.fm20-afterglow]
+
+#### Casting it in battle {#hildis-vini-casting-it-in-battle}
+
+In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf like Hedin or Hegni and cannot attack, move, dodge and chant all at once as Lyu does; like Mikoto, he adds only one other action, and he chooses defence, planting his foot and blocking everything while he casts.[@hildis-vini.fm18-casting] The narration adds that he seldom uses the spell because it is "so terribly fuel-inefficient", and his raw strength is usually enough.[@hildis-vini.fm18-casting]
+
+{{nocite}} Notable uses and open questions for Hildis Vini are on the combined page: [[magic#hildis-vini|Magic § Hildis Vini]].
 
 ## History
 
@@ -93,3 +129,9 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 [@so14-line]: SO14 | Prologue: Accomplishments and Reminiscences | The "Level Six" line.
 [@ar01-ottar]: AR01 | Chapter 6: Assemblies of Light and Dark | The only Level 6 in Orario.
 [@ar03-seven]: AR03 | | Zald defeated; Level 7.
+[@hildis-vini.fc02-udaeus]: FC02 | The Origin of the Strongest | The chant; a short-cast; "his one and only magic".
+[@hildis-vini.ar03-zald]: AR03 | Chapter 6: The Nameless Heroes | The chant; golden light; "did nothing but raise my weapon's power".
+[@hildis-vini.fm18-bell]: FM18 | Chapter 8: The Great Familia War | Chant; "It's a short cast."
+[@hildis-vini.fm18-casting]: FM18 | Chapter 9: Flower Language for You | Casting while defending; fuel-inefficient.
+[@hildis-vini.fm18-slash]: FM18 | Chapter 9: Flower Language for You | "A simple enhancement spell"; not an enchantment; the golden slash.
+[@hildis-vini.fm20-afterglow]: FM20 | Chapter 4: The Knight’s Afterglow | Leon: enhancement magic and the afterglow.

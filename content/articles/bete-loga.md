@@ -92,6 +92,8 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 | DanMachi 17 | Fights [[allen-fromel|Allen Fromel]] after [[freya|Freya]]'s charm is broken.[@fm17-bete] |
 | DanMachi 18 | During the Familia War he carries [[anya-fromel|Anya]], and follows Loki's information to find [[horn|Hörn]] lying unconscious.[@fm18-bete] |
 
+{{nocite}} Related magic: Valletta's Status Down field [[magic#shaldo|Shaldo]], which Bete's Hati breaks in Sword Oratoria 8.
+
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes

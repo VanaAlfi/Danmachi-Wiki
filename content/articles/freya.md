@@ -57,7 +57,7 @@ In Familia Chronicle 2 Freya mentors Ali, later King Aram of Shalzad, before let
 | Volume | Events |
 |---|---|
 | DanMachi 1 | Releases a silverback to test Bell and watches him defeat it.[@fm01-freya, fm17-double] |
-| DanMachi 2 | Picks a grimoire from her own bookcase and leaves it at the tavern for Bell to find.[@fm02-eyes, fm17-double] |
+| DanMachi 2 | Picks a [[grimoire|grimoire]] from her own bookcase and leaves it at the tavern for Bell to find.[@fm02-eyes, fm17-double] |
 | DanMachi 3 | Leaves Bell's development to [[ottar|Ottar]], who prepares the Minotaur Bell fights, and watches from the fiftieth floor of Babel.[@fm03-babel, fm03-ottar] |
 | DanMachi 4 | At Denatus she protects [[hestia-familia|Hestia Familia]] from scrutiny of its Status.[@fm04-denatus] |
 | DanMachi 7 | After [[ishtar|Ishtar]] abducts Bell, sends her Familia against Ishtar Familia; Ishtar is sent back to the heavens and the [[guild|Guild]] fines Freya.[@fm07-ishtar, fm07-fine] |

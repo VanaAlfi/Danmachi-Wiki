@@ -165,6 +165,8 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 
 {{nocite}} Notable uses and open questions for Noa Heal are on the combined page: [[magic#noa-heal|Magic § Noa Heal]].
 
+{{nocite}} Related magic: [[magic#lunus-wolfsbane|Lunus Wolfsbane]], which binds Lyu in Familia Chronicle 3's training ambush.
+
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes

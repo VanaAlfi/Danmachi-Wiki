@@ -47,7 +47,7 @@ Some are tied to particular Levels or experience. Hunter is available only at Le
 |---|---|---|
 | Forge | Lets a smith give items special properties.[@fm02-named] | [[welf-crozzo|Welf]], from his Level 2 advancement.[@fm06-welf] |
 | Heavy Guard | Named only; no effect described.[@fm02-named] | — |
-| Magic Control | Needed, with Enigma, to make a grimoire.[@fm02-grimoire] | — |
+| Magic Control | Needed, with Enigma, to make a [[grimoire|grimoire]].[@fm02-grimoire] | — |
 | Enigma | Needed to make grimoires; once used to create the Philosopher's Stone.[@fm02-grimoire] | [[asfi|Asfi]] uses her Enigma to replicate a [[knossos|Knossos]] key.[@so11-asfi] |
 | Immunity | Prevents monster poison and other ailments.[@fm04-immunity] | [[aiz-wallenstein|Aiz]].[@so01-aiz, so11-aiz] |
 | Hunter | Temporarily raises basic abilities against monster types the adventurer has fought extensively.[@fm04-hunter] | Aiz.[@so01-aiz, so11-aiz] |

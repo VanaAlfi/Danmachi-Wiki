@@ -49,12 +49,12 @@ As an adventurer she was **Vana Alfi**; her brother Allen is **Vana Freya**.[@fm
 
 ## Appearance
 
-The covered novels give few fixed physical details for Anya. They describe a slender tail that swishes, droops when she is dejected and quivers when her past comes up, and ears that droop when her old title is recognised.[@fm01-named, fc01-tavern, fc01-fight]
+The covered novels give few fixed physical details for Anya. Familia Chronicle 1 introduces her on the tavern roof as "a girl with brown fur".[@fc01-fur] The novels describe a slender tail that swishes, droops when she is dejected and quivers when her past comes up, and ears that droop when her old title is recognised.[@fm01-named, fc01-tavern, fc01-fight]
 
 In battle she carries a gold spear and wears gold armour on her right shoulder, contrasted in DanMachi 18 with Allen's silver equipment on his left.[@fm18-allen] When the spear first appears in Familia Chronicle 1 it is wrapped in cloth and looks like a club.[@fc01-fight]
 
 > [!UNRESOLVED] Hair and eye colour
-> Neither is stated in the passages checked for this article. Adaptation designs are outside this wiki's current scope, so they are not used to fill the gap.
+> Apart from the "brown fur" of Familia Chronicle 1, which does not separate the hair on her head from her ears and tail, neither is stated in the passages checked for this article. Adaptation designs are outside this wiki's current scope, so they are not used to fill the gap.
 
 ## Personality
 
@@ -62,7 +62,7 @@ Anya is cheerful, blunt and proud of her experience. In Familia Chronicle 1 she 
 
 She believes she is an excellent singer. In DanMachi 8 she offers a song as a reward, and her coworkers pin her down and cover her mouth to protect the tavern's business.[@fm08-sing]
 
-Her kindness is real but unpolished. She notices Lyu's gloom and tells her that everyone at the tavern has been down at some point, and that she will get back up too.[@fc01-tavern] Asked about her own past, though, she stammers, looks away and finds a reason to leave.[@fc01-tavern]
+Her kindness is real but unpolished. In Familia Chronicle 1 she keeps trying to touch Lyu's hand, however many times Lyu knocks her away.[@fc01-hand] She notices Lyu's gloom and tells her that everyone at the tavern has been down at some point, and that she will get back up too.[@fc01-tavern] Asked about her own past, though, she stammers, looks away and finds a reason to leave.[@fc01-tavern]
 
 When a friend is threatened she changes quickly. Seeing [[chloe|Chloe]] fight Lyu, she asks whether Chloe is Lyu's enemy and is ready to fight first and explain later.[@fc01-fight] In DanMachi 14 she says plainly that if Lyu is down in the Dungeon, she is going too.[@fm14-rescue]
 
@@ -271,6 +271,8 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fm20-bed]: FM20 | Chapter 1: Orario Rumble | Syr's account.
 [@fc01-casino]: FC01 | Crush the Grand Casino! |
 [@fc01-tavern]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
+[@fc01-fur]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "A girl with brown fur" on the tavern roof.
+[@fc01-hand]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | She keeps trying to touch Lyu's hand; Lyu knocks her away.
 [@fc01-fight]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
 [@fc01-precedes]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |

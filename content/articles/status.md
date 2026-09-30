@@ -63,7 +63,7 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 
 {{nocite}} Two items break this privacy:
 
-- A **Status Thief** reveals the real name and patron god written in a person's Status. [[lyu-leon|Lyu]] uses one in Familia Chronicle 1.[@fc01-thief]
+- A **[[status-thief|Status Thief]]** reveals the real name and patron god written in a person's Status. [[lyu-leon|Lyu]] uses one in Familia Chronicle 1.[@fc01-thief]
 - A **Status Snitch**, an illegal item from [[rivira|Rivira]] made with several gods' ichor, lets someone other than the follower's god update their basic abilities after a Status Thief has been used. It cannot develop magic or Skills or perform a Level Up. In DanMachi 17 [[freya|Freya]] uses both on Bell, who still keeps Hestia's Falna.[@fm17-snitch]
 
 ## Open questions

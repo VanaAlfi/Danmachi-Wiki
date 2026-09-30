@@ -8,7 +8,7 @@
   "summary": "Cat-person spearman of Freya Familia, titled Vana Freya and called the fastest adventurer; Anya Fromel's older brother and the Familia's second-in-command.",
   "aliases": ["Vana Freya"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vol. 4, Familia Chronicle Vols. 1–2, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
-  "related": ["anya-fromel", "freya-familia", "freya", "syr-flover", "ottar", "the-benevolent-mistress"],
+  "related": ["anya-fromel", "freya-familia", "freya", "syr-flover", "ottar", "the-benevolent-mistress", "magic"],
   "infobox": {
     "title": "Allen Fromel",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -51,6 +51,8 @@ In Astrea Record 2, during the [[great-conflict|Great Conflict]], Allen is Level
 | DanMachi 17 | Helps Freya use Anya as bait for [[lyu-leon|Lyu]]; after the charm is broken he fights [[bete-loga|Bete]].[@fm17-allen] |
 | DanMachi 18 | In the Familia War he fights Anya and reveals his magic *Glarinese Fromel*. Anya learns why he sent her away, and he tells her he means to kill the dragon that destroyed their home.[@fm18-magic, fm18-request, fm18-dragon] |
 | DanMachi 19 | Keeps guard from the tavern's roof while other former members work inside.[@fm19-tavern] |
+
+{{nocite}} Related magic: Seal's illusionary curse [[magic#hal-reshef|Hal Reshef]], used against Allen in Familia Chronicle 2.
 
 ## Open questions
 

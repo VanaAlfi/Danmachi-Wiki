@@ -50,7 +50,7 @@ After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Bene
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many were made for the War Game, and exactly who wore them.[@fm18-lyra]
-> - Which enemy the original modification was made to counter; DanMachi 18 describes it only as a sound-using enemy.[@fm18-lyra, ar03-lyre]
+> - DanMachi 18 describes the original target only as a sound-using enemy. Astrea Record 3 says the modified accessory was "custom-made to counter Alfia", whose magic is sound ([[magic#satanas-verion|Satanas Verion]]); it gives it the provisional name "Alfia Velador—Witch Bane".[@fm18-lyra, ar03-lyre] Whether DanMachi 18 means the same enemy is not stated.
 
 [@fm18-lyra]: FM18 | Chapter 9: Flower Language for You |
 [@fm18-remisto]: FM18 | Chapter 9: Flower Language for You | Allen covers his ears and is still affected.

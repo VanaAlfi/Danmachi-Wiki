@@ -27,13 +27,17 @@
 ---
 **Eina Tulle** is a half-elf who works for the [[guild|Guild]] as [[bell-cranell|Bell Cranell]]'s Dungeon adviser.[@fm01-eina] She has never received a [[falna|Falna]].[@fm11-falna] Her mother, Aina, escaped the elves' homeland together with [[riveria|Riveria Ljos Alf]], and her younger sister is [[nina-tulle|Nina Tulle]].[@so14-aina, fm19-nina]
 
+## Appearance
+
+DanMachi 1 introduces Eina with long, pointed ears, "transparent emerald eyes" and mid-length brown hair; the Guild's black jacket and trousers suit her thin frame.[@fm01-look]
+
 ## Background
 
-Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] Her first advisee, Maris, and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker Misha Frot is a friend from school.[@fm04-misha, fm15-misha]
+Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, Maris, and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker Misha Frot is a friend from school.[@fm04-misha, fm15-misha]
 
 ## Bell's adviser
 
-Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear salamander wool.[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
+Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] Her hieroglyph reading has limits: she did well in theological studies and can read and write simple hieroglyphs, but the complex characters on Bell's back are too much for her. She takes this for an extra layer of protection by Hestia, not realising it is only the goddess's bad handwriting.[@fm02-glyphs] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear salamander wool.[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
 
 In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Familia]].[@fm03-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
 
@@ -52,7 +56,9 @@ In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Fa
 > - Whether she will tell Bell how she feels.[@fm12-eina]
 
 [@fm01-eina]: FM01 | | Half-elf Guild employee; Bell's adviser; her lessons.
+[@fm01-look]: FM01 | Chapter 1: World, Reality, and Desire | Pointed ears, emerald eyes, mid-length brown hair; the Guild uniform.
 [@fm02-eina]: FM02 | | Nineteen; Bell's Status; the vambrace; Aiz.
+[@fm02-glyphs]: FM02 | Chapter 1: Date, Then Supporter | Simple hieroglyphs only; the complex characters defeat her; Hestia's handwriting.
 [@fm03-soma]: FM03 | Chapter 4: The Meaning of Adventure | The Soma Familia investigation.
 [@fm04-eina]: FM04 | | Luck; salamander wool.
 [@fm04-misha]: FM04 | Prologue: Fastest Boy in the Alleys | Eina and Misha Frot.
@@ -62,6 +68,7 @@ In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Fa
 [@fm11-falna]: FM11 | Chapter 7: The Return of the Hero | Eina has never received Falna.
 [@fm12-eina]: FM12 | | Her feelings; the lower-level lessons.
 [@fm15-eina]: FM15 | | The Guild recommendation; Maris; her advisees.
+[@fm15-join]: FM15 | Chapter 4: Guild Alone | "Eina Tulle. Fourteen years old."; the Guild chosen for its pay, to send money home.
 [@fm15-misha]: FM15 | Chapter 4: Guild Alone | "Misha Frott, her friend from school."
 [@fm17-journals]: FM17 | | Freya and Eina's journals.
 [@fm19-eina]: FM19 | | School District graduate who enrolled at six.

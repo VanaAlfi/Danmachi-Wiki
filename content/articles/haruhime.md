@@ -33,7 +33,7 @@ DanMachi 7 prints her name in the Far Eastern order, *Sanjyouno Haruhime*; later
 
 ## Ishtar Familia
 
-Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in the Pleasure Quarter. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a Killing Stone, a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises Phryne's strength.[@so06-caster]
+Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in the Pleasure Quarter. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises Phryne's strength.[@so06-caster]
 
 [[bell-cranell|Bell]] breaks the Killing Stone and rescues her. After Ishtar is sent back to the heavens, Haruhime asks to join Hestia Familia.[@fm07-rescue, fm07-join]
 
@@ -131,7 +131,7 @@ Haruhime's second spell, [[#kokonoe|Kokonoe]], stores the effect of a spell chan
 - **User:** Haruhime[@kokonoe.fm12-kokonoe]
 - **Type:** Enchantment, listed under Magic[@kokonoe.fm15-card]
 - **First used:** DanMachi 12[@kokonoe.fm12-kokonoe]
-- **Source:** A grimoire[@kokonoe.fm12-chant]
+- **Source:** A [[grimoire|grimoire]][@kokonoe.fm12-chant]
 - **Chant:** Name first, then five printed pieces[@kokonoe.fm12-chant, kokonoe.fm18-chant]
 - **Maximum:** Nine[@kokonoe.fm12-kokonoe, kokonoe.fm15-card]
 - **Usable:** Five in DanMachi 12; six at Level 2[@kokonoe.fm12-kokonoe, kokonoe.fm18-six]

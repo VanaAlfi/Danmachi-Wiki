@@ -60,7 +60,7 @@ At Level 5 Bell finds that each ability point takes far more effort than before,
 
 ### Magic in brief {#magic-in-brief}
 
-**[[#firebolt|Firebolt]]**, which he learns from a grimoire in DanMachi 2, is Swift-Strike Magic; overusing it the first time leaves him unconscious from Mind Down.[@fm02-firebolt, fm03-swift] The grimoire came from [[freya|Freya]], who left it at [[the-benevolent-mistress|The Benevolent Mistress]] for him.[@fm02-grimoire]
+**[[#firebolt|Firebolt]]**, which he learns from a [[grimoire|grimoire]] in DanMachi 2, is Swift-Strike Magic; overusing it the first time leaves him unconscious from Mind Down.[@fm02-firebolt, fm03-swift] The grimoire came from [[freya|Freya]], who left it at [[the-benevolent-mistress|The Benevolent Mistress]] for him.[@fm02-grimoire]
 
 ### Development Abilities
 

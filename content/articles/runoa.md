@@ -32,6 +32,12 @@ Runoa was born in a territory of an empire far from Orario and lost her parents 
 
 After her first god left the Lower World she travelled from place to place hunting bounties, joining Familias provisionally to have her Status updated. She had converted three times before coming to Orario, where Demeter agreed to update her Status; Demeter Familia counts as her fifth membership, but she was never an ordinary member.[@fc01-wander, fc01-demeter] The name *Black Fist* comes from the blood that stained her fists, not from her gauntlets.[@fc01-fist]
 
+By the time of Familia Chronicle 1's tavern story, set before the main series, Runoa is seventeen.[@fc01-age] She has grown tired of the work: Orario's adventurers are much stronger than those elsewhere, her success only brings harder jobs, and she daydreams about settling down with someone to look after her.[@fc01-age] That age belongs to that story; the covered novels do not give her age in the main series.
+
+## Appearance and fighting style
+
+Familia Chronicle 1 describes Runoa as a human girl with chestnut-coloured hair, a scarf around her neck, light clothes and leather fingerless gloves.[@fc01-look] The gloves have plates across the backs of the hands to help against swords, and in her fight with [[lyu-leon|Lyu]] she parries Lyu's thrusts with them. Her brawling style is self-taught, and her punches crack the paving stones.[@fc01-gloves]
+
 ## The Benevolent Mistress
 
 In Familia Chronicle 1, after a failed contract on the Gale Wind, Runoa gives up bounty hunting and joins the tavern with [[chloe|Chloe]].[@fc01-recruit] The two of them are ordered to work off 100 million valis in damage to [[mia-grand|Mia]]'s property.[@fc01-bill] Her arrangement with Demeter ends when she joins.[@fc01-end] She is one of the tavern's staff by DanMachi 2, and like [[anya-fromel|Anya]] and Chloe she owes Mia money and is paid very little.[@fm02-runoa, fm16-pay]
@@ -59,6 +65,9 @@ Her Familia Chronicle 1 card, at Level 4, shows Strength B 704 → 780, Defense 
 [@fm18-grer]: FM18 | | Runoa defeats Grer.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Syr welcomed back.
 [@fc01-alias]: FC01 | | Black Cat and Black Fist, both Level 4.
+[@fc01-age]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Runoa Faust. Seventeen years old."; tired of harder jobs.
+[@fc01-look]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chestnut-coloured hair; scarf; fingerless leather gloves.
+[@fc01-gloves]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Plates across the backs of her gloves; self-taught brawling.
 [@fc01-past]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Her childhood and first Familia.
 [@fc01-wander]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Bounty hunting; three conversions.
 [@fc01-demeter]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The arrangement with Demeter.

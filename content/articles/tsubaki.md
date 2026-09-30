@@ -25,7 +25,11 @@
   }
 }
 ---
-**Tsubaki Collbrande** is the captain and Master Smith of Hephaistos Familia, a half-dwarf who wears a patch over one eye.[@fm14-tsubaki, so05-tsubaki] She is a Level 5 adventurer.[@fm08-tsubaki] She sometimes goes down to the deep levels just to see how her weapons perform, and that passion, along with her skill in battle, has earned her the nickname *Cyclops*.[@fm11-cyclops]
+**Tsubaki Collbrande** is the captain and Master Smith of Hephaistos Familia, a half-dwarf who wears a patch over her left eye.[@fm14-tsubaki, so05-tsubaki, fm08-look] She is a Level 5 adventurer.[@fm08-tsubaki] She sometimes goes down to the deep levels just to see how her weapons perform, and that passion, along with her skill in battle, has earned her the nickname *Cyclops*.[@fm11-cyclops]
+
+## Appearance
+
+When she walks into [[hephaistos|Hephaistos]]'s workshop in DanMachi 8, Tsubaki has long black hair tied back behind her shoulders and "wheat-colored skin". Her eye patch is over her left eye; Hephaistos wears hers over the right. In that scene she wears crimson hakama, the skirtlike trousers of the Far East.[@fm08-look]
 
 ## Smith
 
@@ -45,6 +49,7 @@ With [[welf-crozzo|Welf Crozzo]], a fellow member of Hephaistos Familia until Da
 | DanMachi 20 | Is to accompany Loki Familia's next expedition.[@fm20-expedition] |
 
 [@fm08-tsubaki]: FM08 | | Level 5; Welf's short sword; the Rakian infiltrators.
+[@fm08-look]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Black hair; wheat-coloured skin; patch over the left eye; crimson hakama.
 [@fm08-goliath]: FM08 | | Rivira's Goliath extermination; Tsubaki severs an arm.
 [@fm11-cyclops]: FM11 | | "Cyclops"; sent to help Welf.
 [@fm14-tsubaki]: FM14 | Interlude: They Begin to Stir | Captain and Master Smith of Hephaistos Familia.

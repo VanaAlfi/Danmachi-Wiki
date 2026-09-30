@@ -8,7 +8,7 @@
   "summary": "Amazon sisters of Loki Familia, famous top-class adventurers; both reach Level 6 in Sword Oratoria 6. Tiona trains Bell with Aiz in DanMachi 6.",
   "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters"],
   "spoilers": "DanMachi Vols. 2–18, Sword Oratoria Vols. 6–7 and 12, and Minor Myths and Legends Vol. 2",
-  "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene"],
+  "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
   "infobox": {
     "title": "Tiona and Tione Hyrute",
     "image_note": "No artwork has been cleared for publication on this wiki.",
@@ -35,6 +35,8 @@ Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she ope
 ## Together
 
 In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's legs while Tione binds it.[@so07-tiona, so07-tione] In DanMachi 17, after [[freya|Freya]]'s charm is broken, they fight [[hegni|Hegni]] with Aiz and [[lyu-leon|Lyu]].[@fm17-sisters]
+
+{{nocite}} Related magic: Argana's curse [[magic#kalima|Kalima]] and Bache's poison enchantment [[magic#velgas|Velgas]], used against Tione and Tiona in Sword Oratoria 6.
 
 [@fm02-sisters]: FM02 | | "Two Amazonian sisters."
 [@fm05-sisters]: FM05 | Chapter 4: Dungeon Resort? | "The Amazonian Hyrute sisters," famous top-class adventurers.

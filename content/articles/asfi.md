@@ -13,6 +13,8 @@
     "title": "Asfi Al Andromeda",
     "image_note": "No artwork has been cleared for publication on this wiki.",
     "rows": [
+      {"section": "Personal"},
+      {"label": "Race", "value": "Human", "refs": ["fm05-look"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Hermes Familia", "refs": ["fm05-asfi"]},
       {"label": "Position", "value": "Captain, succeeding Lydis", "refs": ["fm05-asfi", "ar02-captain"]},
@@ -26,6 +28,10 @@
 ---
 **Asfi Al Andromeda** is the captain of [[hermes-familia|Hermes Familia]], titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of only five people in [[orario|Orario]] who do, and makes magic items.[@fm05-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level]
 
+## Appearance
+
+DanMachi 5 introduces Asfi as a human woman with a symmetrical face, "brilliant silver glasses" and aqua-blue hair with a few lighter shades mixed in. She wears a white cloak and sandals with a pair of golden wings curving around each side.[@fm05-look]
+
 ## Hermes Familia
 
 Asfi succeeds Lydis as captain during the [[great-conflict|Great Conflict]] of Astrea Record 2.[@ar02-captain] Hermes Familia works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide]
@@ -35,6 +41,7 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 ## Items
 
 - **Talaria** lets her fly; in DanMachi 8 she uses it to scout from the air.[@fm08-talaria]
+- **Burst Oil** is a grenade that only an item maker can create: vials of red liquid that she throws at monsters. She makes it from the obia flare, a flower that grows only around the volcanoes of the mainland's northern regions, and in Sword Oratoria 3 one vial is said to be enough to reduce middle-level monsters to cinders.[@so03-oil] Against the Black [[goliath|Goliath]] in DanMachi 5, however, her Burst Oil grenades leave no mark on its thick skin.[@fm05-oil]
 - **[[silence-lyra|Silence Lyra]]** was an accessory for blocking the songs of sirens and mermaids, which Perseus modified during the dark age against an enemy who attacked with sound.[@fm18-lyra]
 - In DanMachi 11 she spends several sleepless days forging a copy of Daedalus's notebook for [[hermes|Hermes]].[@fm11-notebook] In Sword Oratoria 11 she re-creates a working [[knossos|Knossos]] key in ten days.[@so11-key]
 
@@ -55,6 +62,9 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 > - How many Hermes Familia members died on Floor 24 in Sword Oratoria 3, and who they were.[@so03-losses]
 
 [@fm05-asfi]: FM05 | | Captain; Perseus; Enigma; Rivira's defence.
+[@fm05-look]: FM05 | | "Asfi, the human woman"; silver glasses; aqua-blue hair; white cloak and winged sandals.
+[@fm05-oil]: FM05 | Chapter 6: Praise to the Heroes | Burst Oil leaves no mark on the Goliath's skin.
+[@so03-oil]: SO03 | Chapter 3: A Hideous Beauty | Burst Oil; the obia flare; middle-level monsters reduced to cinders.
 [@fm08-talaria]: FM08 | | Talaria and the search for Hestia.
 [@fm09-hermes]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's delivery work and investigations.
 [@fm11-notebook]: FM11 | | The forged notebook.

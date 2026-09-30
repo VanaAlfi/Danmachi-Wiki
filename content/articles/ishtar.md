@@ -27,7 +27,7 @@
 
 ## Plans against Freya
 
-Ishtar plans to use [[haruhime|Haruhime]]'s Level Boost, sealed with Haruhime's soul in a Killing Stone, and spread it through the stone's shards to her followers for a war against Freya.[@fm07-ishtar] Sword Oratoria 7 shows that she also financed the [[evils|Evils]] in [[knossos|Knossos]] for five years, in exchange for the monster Gugalanna, the Bull of Heaven, to use against Freya.[@so07-ishtar] Ishtar Familia acted as a go-between for the Evils.[@so06-contact]
+Ishtar plans to use [[haruhime|Haruhime]]'s Level Boost, sealed with Haruhime's soul in a [[killing-stone|Killing Stone]], and spread it through the stone's shards to her followers for a war against Freya.[@fm07-ishtar] Sword Oratoria 7 shows that she also financed the [[evils|Evils]] in [[knossos|Knossos]] for five years, in exchange for the monster Gugalanna, the Bull of Heaven, to use against Freya.[@so07-ishtar] Ishtar Familia acted as a go-between for the Evils.[@so06-contact]
 
 ## Bell and her fall
 

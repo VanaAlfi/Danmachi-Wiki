@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "High elf of royal blood and Loki Familia's leading mage, titled Nine Hell; Aiz Wallenstein's teacher and parent figure. Level 7 from Sword Oratoria 14.",
   "aliases": ["Nine Hell", "Riveria", "Reveria"],
-  "spoilers": "DanMachi Vols. 2–6 and Sword Oratoria Vols. 1–14",
+  "spoilers": "DanMachi Vols. 2–10 and Sword Oratoria Vols. 1–14",
   "related": ["loki-familia", "finn-deimne", "gareth", "aiz-wallenstein", "lefiya", "eina-tulle", "magic"],
   "infobox": {
     "title": "Riveria Ljos Alf",
@@ -56,9 +56,10 @@ Her spells come in three kinds, attack, defence and healing, each at three level
 |---|---|
 | Sword Oratoria 1 (Riveria; Lefiya through Elf Ring) | "…—My name is Alf!"[@wynn-fimbulvetr.so01-riveria, wynn-fimbulvetr.so01-lefiya] |
 | Sword Oratoria 14 (Riveria's first cast) | "…, advent of the end—My name is Alf!"[@wynn-fimbulvetr.so14-first] |
+| Astrea Record 1 (Riveria against Alfia) | "…, advent of the end—my name is Alf!"[@wynn-fimbulvetr.ar01-alfia] |
 | Sword Oratoria 4 (concatenated) | "…—advent of the end." The chant does not end there: she continues into Rea Laevateinn's lines.[@wynn-fimbulvetr.so04-concat] |
 
-{{nocite}} The phrase "advent of the end" appears only in the Sword Oratoria 14 and Sword Oratoria 4 prints. This wiki does not decide whether it belongs to every cast; it is recorded where it is printed.
+{{nocite}} The phrase "advent of the end" appears only in the Sword Oratoria 14, Astrea Record 1 and Sword Oratoria 4 prints. This wiki does not decide whether it belongs to every cast; it is recorded where it is printed.
 
 #### First cast {#wynn-fimbulvetr-first-cast}
 
@@ -122,6 +123,47 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 {{nocite}} Notable uses and open questions for Rea Laevateinn are on the combined page: [[magic#rea-laevateinn|Magic § Rea Laevateinn]].
 
+### Via Shilheim {#via-shilheim}
+
+**Via Shilheim** is a protective spell of Riveria Ljos Alf. A jade magic circle forms under her feet and becomes a green dome around everyone inside it, a barrier described as cancelling physical and magical attacks.[@via-shilheim.so04-cast] Sword Oratoria 4 calls it "the ultimate protection spell", but the same scene shows it being broken.[@via-shilheim.so04-cast, via-shilheim.so04-shattered]
+
+- **User:** Riveria Ljos Alf[@via-shilheim.so04-cast]
+- **Type:** Barrier against physical and magical attacks[@via-shilheim.so04-cast]
+- **Chant:** Two printed pieces, ending "my name is Alf"[@via-shilheim.so04-cast]
+
+#### Incantation {#via-shilheim-incantation}
+
+{{nocite}} The chant is printed in two pieces in Sword Oratoria 4. Only short excerpts are quoted.
+
+- **Opening (excerpt):** "Dance, spirits of the air, keepers of the light!"[@via-shilheim.so04-cast]
+- **The rest:** the first piece asks the spirits to join the forest's protectors and surround the party; the second calls on a mighty barrier of the forest's light and ends with the elven formula "—my name is Alf!"[@via-shilheim.so04-cast]
+- **Release:** "Via Shilheim!!"[@via-shilheim.so04-cast]
+
+| Print | What is printed |
+|---|---|
+| Sword Oratoria 4 | Both pieces and the name.[@via-shilheim.so04-cast] |
+| Sword Oratoria 10 (Knossos) | The last line, recited while the magic is held on standby, and later the name.[@via-shilheim.so10-standby, via-shilheim.so10-release] |
+| Sword Oratoria 10 (the city) | Only the name, called out when Finn orders the barrier.[@via-shilheim.so10-city] |
+
+{{nocite}} The name-only print is not evidence that the spell can be cast without its chant.
+
+#### Effects {#via-shilheim-effects}
+
+- **A dome over a group.** In Sword Oratoria 4 it surrounds all thirteen members of the party, Riveria included.[@via-shilheim.so04-cast] In Sword Oratoria 10 it shields unconscious townspeople from the black minotaur's lightning while the street around them is destroyed.[@via-shilheim.so10-city]
+- **Held in readiness.** In the Knossos assault of Sword Oratoria 10 Riveria keeps the spell on standby with a magic circle five meders across in radius; her elves run in formation inside it, and she releases the barrier the moment an enemy volley comes, protecting all eleven of them.[@via-shilheim.so10-standby, via-shilheim.so10-release]
+
+#### Limits {#via-shilheim-limits}
+
+- **It can break.** In Sword Oratoria 4 the spirit's protracted Fire Storm cracks and shatters the barrier, and [[gareth|Gareth]] has to shield the party with his shields and then his own body.[@via-shilheim.so04-shattered]
+- **Its remains can be used.** The spirit then absorbs the jade magical residue of the shattered barrier along with other scattered magic.[@via-shilheim.so04-residue]
+- **It covers only its circle.** In the city, the fighters outside the dome are hit by the lightning.[@via-shilheim.so10-city]
+
+#### DanMachi 10 {#via-shilheim-danmachi-10}
+
+DanMachi 10 shows the same battle with the black minotaur from Bell's side. Riveria raises "an enormous dome barrier" of green light that shields the townspeople, the young mages, Finn, Aiz and Welf "without so much as a quiver", and later keeps it up because the smoke might be poisonous.[@via-shilheim.fm10-dome, via-shilheim.fm10-smoke] {{inference}} This is very probably Via Shilheim, but DanMachi 10 does not name it.
+
+{{nocite}} Notable uses and open questions for Via Shilheim are on the combined page: [[magic#via-shilheim|Magic § Via Shilheim]].
+
 ## Aiz's teacher
 
 Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as her main teacher and a parent. On Floor 12 she gave Aiz the trigger for her wind magic, told her she loved her, and made peace with her.[@so09-riveria]
@@ -164,6 +206,7 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@wynn-fimbulvetr.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; nine spells; "advent of the end"; ice to flame.
 [@wynn-fimbulvetr.so06-bridge]: SO06 | | Bridge of sea ice; immense Mind.
 [@wynn-fimbulvetr.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | First cast; "advent of the end—My name is Alf!"; knights frozen.
+[@wynn-fimbulvetr.ar01-alfia]: AR01 | | Riveria's chant against Alfia, cancelled by Ataraxia.
 [@wynn-fimbulvetr.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
 [@wynn-fimbulvetr.so14-cave]: SO14 | Chapter 3: The Dwarf’s Embarking | Ice cave in the collapse; past Mind Down.
 [@rea-laevateinn.so01-wall]: SO01 | | Prologue: the end of the long incantation; pillars of flame; allies safe inside the circle.
@@ -173,3 +216,11 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@rea-laevateinn.so13-detect]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's short print; 80-meder circle; dispelled after checking.
 [@rea-laevateinn.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | A single pillar of fire at Level 1.
 [@rea-laevateinn.so14-mine]: SO14 | Chapter 3: The Dwarf’s Embarking | Second tier of her offensive magic; distinguishes targets across the mine.
+[@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; "the ultimate protection spell"; the dome around thirteen.
+[@via-shilheim.so04-shattered]: SO04 | Last Chapter: To Adventure | Fire Storm shatters the barrier; Gareth shields the party.
+[@via-shilheim.so04-residue]: SO04 | Last Chapter: To Adventure | The spirit absorbs the barrier's residue.
+[@via-shilheim.so10-city]: SO10 | | "Riveria, the barrier!"; townspeople shielded; others hit.
+[@via-shilheim.so10-standby]: SO10 | Chapter 5: Brave Soul! | Last line; standby; five-meder radius.
+[@via-shilheim.so10-release]: SO10 | Chapter 5: Brave Soul! | Released to stop a volley; eleven elves.
+[@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.
+[@via-shilheim.fm10-smoke]: FM10 | Chapter 10: The Fool | Kept up because the smoke might be poisonous.

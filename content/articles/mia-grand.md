@@ -29,7 +29,15 @@
 
 ## Freya Familia
 
-Mia met Freya long ago, when she was a young dwarf and found the goddess crying in a field of flowers.[@fm18-mia] She came through Freya Familia's harsh "baptism" in [[folkvangr|Folkvangr]] and knows all of Freya's followers well.[@fm18-mia]
+Mia met Freya long ago, when she was a young dwarf and found the goddess crying in a field of flowers.[@fm18-mia]
+
+Mia was born in a mining town that was already running down by the time she could walk, its mines almost exhausted. With the men working in the mines, she ran a tavern on her own, "really not much more than a simple kitchen", so the frail girls left behind in the village had something to eat, and she was in the flower field gathering ingredients for it. She tells Freya she wants food that fills a stomach more than any jewels.[@fm18-meeting]
+
+When Freya, caught crying, prepares to charm her into forgetting, Mia's body jerks and stumbles forward, and then she knocks the goddess down with an uppercut and warns her not to use "weird magic" on her. The narration allows that Freya may have been a little slow to charm her, but says Mia resisted "simply because she was strong". Mia adds that she has never worshipped any god.[@fm18-meeting]
+
+{{nocite}} This is one encounter; the novels do not say that Mia is immune to charm in general.
+
+She came through Freya Familia's harsh "baptism" in [[folkvangr|Folkvangr]] and knows all of Freya's followers well.[@fm18-mia]
 
 Ottar grew up in the Familia while Mia was there, and she trained him. By the time the later executives joined, she had already left, and he never settled things with her.[@fc02-ottar] Freya describes the arrangement from her side: in exchange for letting Mia half-retire, she began working at Mia's tavern as [[syr-flover|Syr]].[@fm17-prologue]
 
@@ -69,6 +77,7 @@ After the war Mia is among those who welcome Syr back to the tavern.[@fm18-syr] 
 [@fm17-memory]: FM17 | Chapter 2: Alone Inside a Sandbox | Mia and Anya remember Syr.
 [@fm17-bell]: FM17 | | Mia encourages Bell.
 [@fm18-mia]: FM18 | Chapter 9: Flower Language for You | Loki's request; Mia's history and her promise.
+[@fm18-meeting]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Freya's recollection: the mining town, Mia's kitchen, the uppercut.
 [@fm18-ottar]: FM18 | Chapter 9: Flower Language for You | Mia enters the War Game against Ottar.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Syr welcomed back.
 [@fm19-tavern]: FM19 | Chapter 1: V-V-V for Victory Party | Former Freya Familia members at work.

@@ -8,7 +8,7 @@
   "summary": "The Familia of Astrea, goddess of justice and order. It fought the Evils through Orario's dark ages, and was destroyed in an ambush five years before DanMachi 13, leaving Lyu Leon as its only survivor.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 5–19, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
-  "related": ["lyu-leon", "hermes", "ouranos", "knossos", "dungeon"],
+  "related": ["lyu-leon", "hermes", "ouranos", "knossos", "dungeon", "magic"],
   "infobox": {
     "title": "Astrea Familia",
     "image_note": "No emblem or artwork has been cleared for publication on this wiki.",
@@ -51,6 +51,8 @@ Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those resp
 ## Astrea after Orario
 
 Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of Zolingam, where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword Alvs Iustitia made for her.[@fm18-zolingam] Lyu's magic Astrea Record lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond]
+
+{{nocite}} Related magic: [[magic#lunus-wolfsbane|Lunus Wolfsbane]], the curse of the new member Uranda, and Alfia's spells [[magic#satanas-verion|Satanas Verion]], [[magic#silentium-eden|Silentium Eden]] and [[magic#genos-angelus|Genos Angelus]].
 
 ## Open questions
 

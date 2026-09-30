@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Dark-elf swordsman of Freya Familia, titled Dáinsleif; a former king of Heodenings whose magic turns his timid self into a fierce warrior.",
   "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord"],
-  "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {
     "title": "Hegni Ragnar",
@@ -20,7 +20,7 @@
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},
       {"label": "Level", "value": "5 in Astrea Record 1; 6 by DanMachi 16", "refs": ["ar01-hegni", "fm16-hegni"]},
       {"label": "Title", "value": "Dáinsleif", "refs": ["ar01-hegni"]},
-      {"label": "Magic", "value": "Dáinsleif", "refs": ["fc02-magic"]},
+      {"label": "Magic", "value": "[[#dainsleif|Dáinsleif]]", "refs": ["fc02-magic"]},
       {"label": "Weapon", "value": "The curse sword Victim Abyss", "refs": ["fm16-sword"]}
     ]
   }
@@ -34,8 +34,51 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 
 ## Abilities
 
-- His magic, also called **Dáinsleif**, changes his personality: it lets the timid, nervous elf become the warrior he imagines himself to be.[@fc02-magic] Minor Myths and Legends 2 treats this battle persona as a changed expression of the same person, not a separate one.[@ss02-hegni]
+- His magic, also called [[#dainsleif|Dáinsleif]], changes his personality: it lets the timid, nervous elf become the warrior he imagines himself to be.[@fc02-magic] Minor Myths and Legends 2 treats this battle persona as a changed expression of the same person, not a separate one.[@ss02-hegni]
 - His curse sword **Victim Abyss** reaches beyond its visible tip and is made to fight swordsmen at the front line.[@fm16-sword] Wounds from it take time to heal.[@fm17-cuts]
+
+## Magic {#magic}
+
+{{nocite}} Hegni Ragnar's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Dáinsleif {#dainsleif}
+
+**Dáinsleif** is Hegni Ragnar's magic. It changes his personality, letting the anxious, weak-willed elf "embody the mental image he had of himself" and become a merciless warrior king.[@dainsleif.fc02-cast] His title, also Dáinsleif, comes from the name of this magic.[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+
+{{nocite}} Not to be confused with a sword of the same name:
+
+- In Minor Myths and Legends 1 a back-alley dealer shows [[aiz-wallenstein|Aiz]] a sword called Dáinsleif; the text does not connect it with Hegni.[@dainsleif.ss01-sword]
+
+- **User:** Hegni Ragnar[@dainsleif.fc02-cast]
+- **Type:** Rare magic that alters the caster's personality[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+- **Status effect:** None[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+- **Chant:** Short; three sentences[@dainsleif.fc02-cast]
+
+#### Incantation {#dainsleif-incantation}
+
+Familia Chronicle 2 prints the whole chant, three sentences, and calls it a short cast.[@dainsleif.fc02-cast] Only part is quoted.
+
+- **Opening:** "Draw thine sword, King of the fiendish blades."[@dainsleif.fc02-cast]
+- **Then:** "Sacrifice reason and offer up blood. Slaughter all until the feast is finished."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+- **Name:** "Dáinsleif."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+
+DanMachi 18 prints the last two sentences and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16 [[bell-cranell|Bell]] hears a chant he cannot make out, then the name.[@dainsleif.fm16-bell]
+
+Hegni plants his black sword in the ground and a black magic circle spreads around it; when he speaks the name, the circle shatters and its light is absorbed into his body.[@dainsleif.fc02-cast]
+
+#### Effect {#dainsleif-effect}
+
+- **Personality and speech:** the change "surpassed autosuggestion" and is a genuine remaking of himself: his personality and vocabulary become those of another person.[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+- **No stronger Status:** it resembles "a certain prum hero’s fighting spirit buff magic" but does not increase his Status; it "merely manipulated his personality".[@dainsleif.fc02-cast] {{inference}} The prum hero is [[finn-deimne|Finn]], and the spell [[magic#hell-finegas|Hell Finegas]]. DanMachi 18 agrees that it "didn't affect his status in any way", yet both volumes say it removes the limiter that holds back his full strength.[@dainsleif.fc02-cast, dainsleif.fm18-cast]
+- **The same man underneath:** Minor Myths and Legends 2 says Hegni is still the same person at his core; "Dáinsleif" is a convenient name for his alter ego, and at times the two sets of thoughts get mixed.[@dainsleif.ss02-core]
+
+#### Limits {#dainsleif-limits}
+
+- **Kept active:** to maintain his other self he spends Mind constantly, and the magic power shows as a purple haze and a light in his eyes. Because it must stay active like an enchantment, [[welf-crozzo|Welf]] sees it as a target for [[magic#will-o-the-wisp|Will-o'-the-Wisp]], but [[allen-fromel|Allen]] cuts him down before the fire takes effect.[@dainsleif.fm18-welf]
+- **It wears off:** late in the Great Conflict of Astrea Record 3 it "had finally worn off".[@dainsleif.ar03-worn]
+- **By choice:** in DanMachi 18 Hegni deliberately declares his change of side without activating it, as a show of resolve.[@dainsleif.fm18-resolve]
+
+{{nocite}} Notable uses and open questions for Dáinsleif are on the combined page: [[magic#dainsleif|Magic § Dáinsleif]].
 
 ## History
 
@@ -66,3 +109,12 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 [@fm18-anya]: FM18 | Chapter 9: Flower Language for You | Hegni and Anya.
 [@fm19-hegni]: FM19 | Chapter 1: V-V-V for Victory Party | Hegni at the tavern; guarding Haruhime.
 [@ss02-hegni]: SS02 | | Dáinsleif as the same person.
+[@dainsleif.fc02-cast]: FC02 | Ali and the 8 Followers | The full chant; black magic circle; "a rare magic"; no Status increase; the title from the magic.
+[@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | An unheard chant, then "Dáinsleif"; the attack on Bell.
+[@dainsleif.fm18-cast]: FM18 | Chapter 8: The Great Familia War | Two sentences and the name; "a short cast"; personality-altering; no Status effect; the limiter.
+[@dainsleif.fm18-welf]: FM18 | Chapter 8: The Great Familia War | Constant Mind; active like an enchantment; Welf's attempt.
+[@dainsleif.fm18-resolve]: FM18 | Chapter 9: Flower Language for You | His declaration "without activating Dáinsleif".
+[@dainsleif.ar03-cast]: AR03 | | "Slaughter all until the feast is finished! Dáinsleif!"
+[@dainsleif.ar03-worn]: AR03 | Chapter 6: The Nameless Heroes | "Hegni’s Dáinsleif had finally worn off."
+[@dainsleif.ss01-sword]: SS01 | | A sword called Dáinsleif offered to Aiz.
+[@dainsleif.ss02-core]: SS02 | | Still the same person; the alter ego's name; mixed thoughts.

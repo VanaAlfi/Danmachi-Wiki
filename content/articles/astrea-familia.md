@@ -50,14 +50,14 @@ Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those resp
 
 ## Astrea after Orario
 
-Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of Zolingam, where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword Alvs Iustitia made for her.[@fm18-zolingam] Lyu's magic Astrea Record lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond]
+Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of Zolingam, where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword Alvs Iustitia made for her.[@fm18-zolingam] Lyu's magic [[magic#astrea-record-spell|Astrea Record]] lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond] In the DanMachi 18 Familia War she uses three of their spells by name: Alize's fire enchantment [[magic#agris-arvensis|Agris Arvensis]], Kaguya's Gokou and Maryu's area healing, Rea Vindemia.[@fm18-names]
 
 {{nocite}} Related magic: [[magic#lunus-wolfsbane|Lunus Wolfsbane]], the curse of the new member Uranda, and Alfia's spells [[magic#satanas-verion|Satanas Verion]], [[magic#silentium-eden|Silentium Eden]] and [[magic#genos-angelus|Genos Angelus]].
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - A full list of the magic of each dead companion, which Astrea Record can reproduce.[@fm18-names]
+> - A full list of the magic of each dead companion, which Astrea Record can reproduce, beyond Alize's, Kaguya's and Maryu's spells.[@fm18-names]
 
 [@fm05-astrea]: FM05 | Chapter 4: Dungeon Resort? | "She is the goddess of justice and order"; Lyu's past.
 [@fm13-ambush]: FM13 | | The ambush and the Juggernaut.

@@ -7,8 +7,8 @@
   "continuity": "light-novel",
   "summary": "Catperson waitress at The Benevolent Mistress and a former assassin known in the underworld as Black Cat; a Level 4 adventurer.",
   "aliases": ["Chloe", "Black Cat"],
-  "spoilers": "DanMachi Vols. 2–19 and Familia Chronicle Vol. 1",
-  "related": ["the-benevolent-mistress", "runoa", "anya-fromel", "lyu-leon", "mia-grand", "syr-flover", "freya-familia"],
+  "spoilers": "DanMachi Vols. 2–18 and Familia Chronicle Vol. 1",
+  "related": ["the-benevolent-mistress", "runoa", "anya-fromel", "lyu-leon", "mia-grand", "syr-flover", "freya-familia", "magic"],
   "infobox": {
     "title": "Chloe Lolo",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -19,6 +19,7 @@
       {"label": "Former work", "value": "Assassin, known in the underworld as Black Cat", "refs": ["fc01-alias", "fc01-past"]},
       {"section": "Adventurer"},
       {"label": "Level", "value": "4", "refs": ["fc01-alias", "fc01-card"]},
+      {"label": "Magic", "value": "[[#felis-kurus|Felis Kurus]]", "refs": ["felis-kurus.fc01-cast"]},
       {"label": "Status updates", "value": "By contract with Njörðr, until she joins the tavern", "refs": ["fc01-njordr", "fc01-end"]}
     ]
   }
@@ -40,11 +41,36 @@ In Familia Chronicle 1, after a failed contract on the Gale Wind, Chloe gives up
 
 ## Freya conflict
 
-During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic Felis Kurus and the poison dagger Violator, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn] She is among those who welcome Syr back after the war.[@fm18-syr]
+During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic [[#felis-kurus|Felis Kurus]] and the poison dagger Violator, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn] She is among those who welcome Syr back after the war.[@fm18-syr]
 
 ## Status
 
 Her Familia Chronicle 1 card lists the Development Abilities Immunity (G), Synthesis (H) and Escape (I).[@fc01-card]
+
+## Magic {#magic}
+
+{{nocite}} Chloe Lolo's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Felis Kurus {#felis-kurus}
+
+**Felis Kurus** is Chloe Lolo's magic, an illusion spell that creates mirages that are mirror images of her.[@felis-kurus.fc01-cast] She used it for confusion, disturbance and surprise, "all sorts of tricks useful for assassinations".[@felis-kurus.fc01-cast]
+
+- **User:** Chloe Lolo[@felis-kurus.fc01-cast]
+- **Type:** Illusion magic, short-trigger[@felis-kurus.fc01-cast]
+- **Effect:** Mirror-image mirages of the caster[@felis-kurus.fc01-cast]
+- **Chant:** One word: "Frolic"[@felis-kurus.fc01-cast]
+
+#### Incantation {#felis-kurus-incantation}
+
+Familia Chronicle 1 prints a one-word chant, "—Frolic!", followed by the name, "Felis Kurus!", and calls it short-trigger magic.[@felis-kurus.fc01-cast] DanMachi 18 prints only the whispered name and calls it a "super-short cast spell".[@felis-kurus.fm18-dvalinn]
+
+#### Effect {#felis-kurus-effect}
+
+The mirages appear instantly and without sound. They have no real body, so they cannot attack or defend; they only move as Chloe commands.[@felis-kurus.fc01-cast] She pairs them with smoke so that an opponent cannot tell which Chloe is real, and strikes while the target is distracted.[@felis-kurus.fc01-cast]
+
+- **How many:** Familia Chronicle 1 gives the upper limit as two.[@felis-kurus.fc01-cast] In DanMachi 18 Chloe tells Dvalinn Gulliver, "There can be three illusions."[@felis-kurus.fm18-dvalinn] {{statement}} The novels do not say whether the limit grew or whether she is taunting him.
+
+{{nocite}} Notable uses and open questions for Felis Kurus are on the combined page: [[magic#felis-kurus|Magic § Felis Kurus]].
 
 ## Open questions
 
@@ -67,3 +93,5 @@ Her Familia Chronicle 1 card lists the Development Abilities Immunity (G), Synth
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The 100-million-valis bill.
 [@fc01-end]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Njörðr ends the arrangement.
 [@fc01-card]: FC01 | | Chloe's Status card.
+[@felis-kurus.fc01-cast]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "—Frolic!"; short-trigger illusion magic; mirror images; upper limit two; cannot attack or defend.
+[@felis-kurus.fm18-dvalinn]: FM18 | Chapter 9: Flower Language for You | "Super-short cast"; "There can be three illusions"; Violator.

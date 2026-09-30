@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "High elf of royal blood and Loki Familia's leading mage, titled Nine Hell; Aiz Wallenstein's teacher and parent figure. Level 7 from Sword Oratoria 14.",
   "aliases": ["Nine Hell", "Riveria", "Reveria"],
-  "spoilers": "DanMachi Vols. 2–10 and Sword Oratoria Vols. 1–14",
+  "spoilers": "DanMachi Vols. 2–10, Sword Oratoria Vols. 1–14 and Astrea Record Vols. 1 and 3",
   "related": ["loki-familia", "finn-deimne", "gareth", "aiz-wallenstein", "lefiya", "eina-tulle", "magic"],
   "infobox": {
     "title": "Riveria Ljos Alf",
@@ -164,6 +164,49 @@ DanMachi 10 shows the same battle with the black minotaur from Bell's side. Rive
 
 {{nocite}} Notable uses and open questions for Via Shilheim are on the combined page: [[magic#via-shilheim|Magic § Via Shilheim]].
 
+### Veil Breath {#veil-breath}
+
+**Veil Breath** is Riveria Ljos Alf's support magic. A deep green light settles on its target "like cloth", adding protection from both physical and magical attacks; like an enchantment it lasts for a set time, and it also heals the target slightly.[@veil-breath.so02-aiz] Sword Oratoria 12 calls it "Riveria's forte. Defensive magic."[@veil-breath.so12-lefiya]
+
+- **User:** Riveria Ljos Alf; summoned by [[lefiya|Lefiya]][@veil-breath.so02-aiz, veil-breath.so12-lefiya]
+- **Type:** Support: protection, with slight healing[@veil-breath.so02-aiz]
+- **Chant:** One printed line[@veil-breath.so02-aiz, veil-breath.ar03-astrea]
+
+#### Incantation {#veil-breath-incantation}
+
+Every print gives the same line before the name, ending, like Riveria's other spells, with "my name is Alf".[@veil-breath.so02-aiz, veil-breath.so12-lefiya, veil-breath.ar03-astrea]
+
+- **Printed line:** "Gather, breath of the earth—my name is Alf!"[@veil-breath.so02-aiz, veil-breath.ar03-astrea]
+- **Name:** "Veil Breath!"[@veil-breath.so02-aiz, veil-breath.ar03-astrea]
+
+Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-breath.so13-students] Sword Oratoria 4 prints only the name.[@veil-breath.so04-party] {{inference}} The novels do not say whether the printed line is the whole chant; when Lefiya summons it, the narration speaks of "a long cast", but that includes her [[magic#elf-ring|Elf Ring]] chant.[@veil-breath.so12-lefiya]
+
+#### Effect {#veil-breath-effect}
+
+- **Protection:** when Riveria casts it, it can protect an adventurer even from a valgang dragon's great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the fifty-second floor, it cancels most of a fireball's damage.[@veil-breath.so04-party]
+- **Healing:** as a side effect, it heals; in Sword Oratoria 12 [[aisha-belka|Aisha]]'s fractured bones mend under it.[@veil-breath.so12-lefiya]
+- **Targets:** Sword Oratoria 2 describes it settling on "a single target".[@veil-breath.so02-aiz] Other scenes show it covering several people at once: Lefiya and her three rescuers, the whole Loki Familia party, four fighters, or every member of Astrea Familia.[@veil-breath.so04-party, veil-breath.so12-lefiya, veil-breath.ar03-astrea] This wiki records both descriptions.
+
+{{nocite}} Notable uses and open questions for Veil Breath are on the combined page: [[magic#veil-breath|Magic § Veil Breath]].
+
+### Luna Aldis {#luna-aldis}
+
+**Luna Aldis** is Riveria Ljos Alf's healing magic. The covered English volumes show it only once, when [[lefiya|Lefiya]] summons it with her Summon Burst in Sword Oratoria 12.[@luna-aldis.so12-cast]
+
+- **User:** Riveria Ljos Alf; summoned by [[lefiya|Lefiya]][@luna-aldis.so12-cast]
+- **Type:** Healing[@luna-aldis.so12-cast]
+- **Chant:** Only the ending printed[@luna-aldis.so12-cast]
+
+#### Incantation {#luna-aldis-incantation}
+
+Only the end is printed: "My name is Alf", then the name, "Luna Aldis!"[@luna-aldis.so12-cast] Lefiya had paused this chant partway to fire [[magic#arcs-ray|Arcs Ray]] from standby with her Skill Double Cannon, then picked it up again.[@luna-aldis.so12-cast]
+
+#### Effect {#luna-aldis-effect}
+
+It heals: in Sword Oratoria 12 it heals [[lyu-leon|Lyu]] in the fight against Filvis.[@luna-aldis.so12-cast]
+
+{{nocite}} Notable uses and open questions for Luna Aldis are on the combined page: [[magic#luna-aldis|Magic § Luna Aldis]].
+
 ## Aiz's teacher
 
 Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as her main teacher and a parent. On Floor 12 she gave Aiz the trigger for her wind magic, told her she loved her, and made peace with her.[@so09-riveria]
@@ -224,3 +267,9 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@via-shilheim.so10-release]: SO10 | Chapter 5: Brave Soul! | Released to stop a volley; eleven elves.
 [@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.
 [@via-shilheim.fm10-smoke]: FM10 | Chapter 10: The Fool | Kept up because the smoke might be poisonous.
+[@veil-breath.so02-aiz]: SO02 | Chapter 6: Parched Scream | The line and name; "Riveria’s support magic"; single target; set time; slight healing.
+[@veil-breath.so04-party]: SO04 | | "Veil Breath!!" from the fifty-second floor; fireball damage cancelled; the whole party protected.
+[@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
+[@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
+[@veil-breath.ar03-astrea]: AR03 | Chapter 4: Apocalypse Cometh | "Gather, breath of the earth—my name is Alf! Veil Breath!"; Astrea Familia protected.
+[@luna-aldis.so12-cast]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya pauses the chant for Arcs Ray, resumes; "My name is Alf / Luna Aldis!"; "Riveria’s healing magic".

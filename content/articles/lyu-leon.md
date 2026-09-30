@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Elf adventurer known as Gale Wind, the last survivor of Astrea Familia, a waitress at The Benevolent Mistress, and from DanMachi 19 a member of Hestia Familia.",
   "aliases": ["Lyu Lyon", "Gale Wind", "Lyu Astrea"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vol. 1",
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1 and 3",
   "related": ["the-benevolent-mistress", "hestia-familia", "bell-cranell", "syr-flover", "anya-fromel", "freya-familia", "hegni", "rivira", "magic"],
   "infobox": {
     "title": "Lyu Leon",
@@ -68,7 +68,7 @@ Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Famili
 
 - **[[#luminous-wind|Luminous Wind]]**, an attack spell she uses from DanMachi 5 onward.[@fm05-goliath, fc03-magic]
 - **[[#noa-heal|Noah Heal]]**, a healing spell.[@so05-heal]
-- **Astrea Record**, which lets her alone use the magic of her dead Astrea Familia companions. It depends on her state of mind, can bring on Mind Down when overused, and survives her conversion.[@fc03-magic, fm18-record]
+- [[#astrea-record-spell|Astrea Record]], which lets her alone use the magic of her dead Astrea Familia companions. It depends on her state of mind, can bring on Mind Down when overused, and survives her conversion.[@fc03-magic, fm18-record]
 
 ## Magic {#magic}
 
@@ -167,6 +167,89 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 
 {{nocite}} Related magic: [[magic#lunus-wolfsbane|Lunus Wolfsbane]], which binds Lyu in Familia Chronicle 3's training ambush.
 
+### Astrea Record (spell) {#astrea-record-spell}
+
+**Astrea Record** is Lyu Leon's third magic. Her Status lists it with the words "Inherited justice", which is also the meaning of its name.[@astrea-record-spell.fc03-card] In [[astrea|Astrea]]'s words it is "a magic that Lyu alone can use to inherit everyone's magic": the magic of all ten of her dead companions in [[astrea-familia|Astrea Familia]], who shared the same Falna and Astrea's ichor.[@astrea-record-spell.fc03-nature, astrea-record-spell.fm18-inherit] DanMachi 18 says it manifested when she reached Level 6.[@astrea-record-spell.fm18-inherit]
+
+{{nocite}} It shares its name with the *Astrea Record* novels; this section is about the spell.
+
+- DanMachi 19 calls it "her new Astrea Record skill", but her Status card lists it under Magic, and this wiki follows the card.[@astrea-record-spell.fm19-eina, astrea-record-spell.fc03-card]
+
+- **User:** Lyu Leon, her third magic[@astrea-record-spell.fc03-card]
+- **Status entry:** Inherited justice[@astrea-record-spell.fc03-card]
+- **Effect:** Use of her Astrea Familia companions' magic[@astrea-record-spell.fc03-nature, astrea-record-spell.fm18-inherit]
+- **Chant:** Name first, then four lines[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
+
+#### Incantation {#astrea-record-spell-incantation}
+
+The spell's name comes first, then the chant. Two volumes print it in different English wording; the versions are kept apart, and only short excerpts are quoted.[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
+
+| Print | Opening | Middle lines (excerpts) | Ending |
+|---|---|---|---|
+| Familia Chronicle 3 | "Duty shall be fulfilled, and scales shall be balanced." | "crown of the righteous, vanquishing torch"; "racing across the sky, bind the star trails to this land" | "—Justice will go on!!"[@astrea-record-spell.fc03-cast] |
+| DanMachi 18 | "Duty shall be fulfilled, and the scales shall be balanced." | "crown of the honest, evil-crushing torch"; "charging through space, bind the star traces to this land" | "—Justice returns!"[@astrea-record-spell.fm18-cast] |
+
+Later in DanMachi 18 the opening line is printed again without "the", followed by "Justice returns! —Rea Vindemia."[@astrea-record-spell.fm18-maryu] In Familia Chronicle 3 the last verse is Lyu's friend's teaching turned into the chant's end.[@astrea-record-spell.fc03-cast]
+
+#### Effect {#astrea-record-spell-effect}
+
+- **The sanctuary:** while she chants, countless hieroglyphs of light, marked with the sword and wings of her Status, surround her in a five-meder radius and deflect attacks.[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast] In DanMachi 18 it stops arrows and magic-sword blasts and pushes back swords and spears, until [[hegni|Hegni]] breaks through with the full strength of a Level 6.[@astrea-record-spell.fm18-cast]
+- **The inheritance:** when the chant ends, the fragments of light are drawn into Lyu, and she calls the name of a companion's magic.[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
+
+{{nocite}} **Inherited magic named in the covered volumes:**
+
+| Name as printed | Companion | What it does |
+|---|---|---|
+| [[#agris-arvensis|Agris Arvensis]] (also printed *Agaris Alvesince*) | Alize Lovell | Fire enchantment on arms, legs and weapon[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast] |
+| Gokou | Kaguya Gojouno | "A magic that merely created a magic slash in the positions she set"; Kaguya combined it with her draw to make five slashes from all sides[@astrea-record-spell.fm18-gokou] |
+| Rea Vindemia | Maryu, the Familia's only healer | Area healing; Lyu's own [[#noa-heal|Noa Heal]] targets one person and is slow[@astrea-record-spell.fm18-maryu, astrea-record-spell.ar03-maryu] |
+| "Moose Mine", "Irivute" | Not stated | Named in Familia Chronicle 3 alongside the other companions' powers[@astrea-record-spell.fc03-others] |
+
+DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, including a dedicated healer's area-healing spell.[@astrea-record-spell.fm19-eina]
+
+#### Limits {#astrea-record-spell-limits}
+
+- **Her state of mind:** its output depends almost entirely on Lyu's mental state. If she loses sight of her justice it becomes hard or impossible to use; Astrea warns, "Don’t ever forget them, Lyu… If you do, the inheritance will lose its power."[@astrea-record-spell.fc03-nature]
+- **Mind:** in Familia Chronicle 3 excessive use brings on a light Mind Down, straining even her Level 6 reserves.[@astrea-record-spell.fc03-minddown]
+- **Conversion:** the first Falna engraved with Astrea's ichor never leaves her back, so the bond holds even if she converts.[@astrea-record-spell.fc03-nature]
+
+{{nocite}} Notable uses and open questions for Astrea Record (spell) are on the combined page: [[magic#astrea-record-spell|Magic § Astrea Record (spell)]].
+
+### Agris Arvensis {#agris-arvensis}
+
+**Agris Arvensis** is the magic of Alize Lovell, captain of [[astrea-familia|Astrea Familia]]: a powerful fire enchantment that sheathes her arms, legs and sword in an armour of flames. It is why the gods called her *Scarlett Harnell*.[@agris-arvensis.fm14-alize, agris-arvensis.ar03-alize] After her death, Lyu uses it through her own magic, [[#astrea-record-spell|Astrea Record]].[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
+
+- **User:** Alize Lovell; Lyu Leon through Astrea Record[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu]
+- **Type:** Fire enchantment[@agris-arvensis.fm14-alize, agris-arvensis.ar03-alize]
+- **Spell key:** "Arvellia" / "Alveria"[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni]
+
+#### Name and spell key {#agris-arvensis-name-and-spell-key}
+
+{{nocite}} The English volumes print the name three ways; this wiki uses *Agris Arvensis*, the only form printed in two volumes:
+
+| Volume | Caster | Printed as |
+|---|---|---|
+| Astrea Record 3 | Alize | "Agallis Arvesynce!"[@agris-arvensis.ar03-alize] |
+| Familia Chronicle 3 | Lyu | "Agris Arvensis!"[@agris-arvensis.fc03-lyu] |
+| DanMachi 18 | Lyu | "Agris Arvensis!" and later "Agaris Alvesince!"[@agris-arvensis.fm18-lyu, agris-arvensis.fm18-ottar] |
+
+- **Spell key:** DanMachi 14 calls Alize's "Arvellia!!" "the spell key for her enchantment". Lyu's shout in DanMachi 18 is printed "Alveria!", and the narration later speaks of "Alize's Alveria".[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar]
+- **Title:** Astrea Record and DanMachi 14 print Alize's title *Scarlett Harnell*; DanMachi 18 prints *Scarlet Harnell*.[@agris-arvensis.ar03-alize, agris-arvensis.fm14-alize, agris-arvensis.fm18-lyu]
+
+No chant for the enchantment itself is printed. Lyu names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
+
+#### Effect {#agris-arvensis-effect}
+
+- **Armour of flame:** the flames cover the arms, legs and weapon.[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu] In DanMachi 20 [[bell-cranell|Bell]] contrasts it with Aiz's wind, which covers her whole body, while the flame armour covers only hands, feet and weapon.[@agris-arvensis.fm20-bell]
+- **Speed:** gathered in the boots, the flames give explosive acceleration.[@agris-arvensis.fm14-alize] In DanMachi 18 Lyu uses the flame on her feet as "a lubricant and an accelerant", reproducing "Scarlet Harnell’s famed explosive acceleration".[@agris-arvensis.fm18-lyu]
+- **The spell key:** it sets the flame off. Alize drives her sword into the [[juggernaut|Juggernaut]] and sends the flame under its shell, cracking the armour from inside.[@agris-arvensis.fm14-alize] Lyu uses the key for a point-blank explosion.[@agris-arvensis.fm18-hegni]
+
+#### Limits {#agris-arvensis-limits}
+
+Lyu cannot control the flames' output nearly as precisely as Alize could, and detonating such firepower at close range always risks self-destruction; [[hegni|Hegni]] sees a gap there and steps in.[@agris-arvensis.fm18-hegni] The narration says [[ottar|Ottar]] could withstand "Alize’s Alveria", which is why Lyu chooses another attack against him.[@agris-arvensis.fm18-ottar]
+
+{{nocite}} Notable uses and open questions for Agris Arvensis are on the combined page: [[magic#agris-arvensis|Magic § Agris Arvensis]].
+
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
@@ -220,3 +303,21 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 [@noa-heal.fm18-slow]: FM18 | Chapter 9: Flower Language for You | Strong but slow; recovers stamina and closes wounds.
 [@noa-heal.fm18-single]: FM18 | Chapter 9: Flower Language for You | Single target; Maryu's area healing used instead.
 [@noa-heal.fc03-card]: FC03 | The Locus of Stars | Level 5 and 6 cards: healing magic; boosted in wooded environments.
+[@astrea-record-spell.fc03-card]: FC03 | The Locus of Stars | Status: Astrea Record in the Magic slot, "Inherited justice"; the third spell.
+[@astrea-record-spell.fc03-cast]: FC03 | The Locus of Stars | Name first; the chant; hieroglyph sanctuary; "—Justice will go on!!"; "Agris Arvensis!".
+[@astrea-record-spell.fc03-others]: FC03 | The Locus of Stars | "Gokou", "Moose Mine", "Irivute"; the other companions' powers.
+[@astrea-record-spell.fc03-nature]: FC03 | The Locus of Stars | Astrea: "a magic that Lyu alone can use"; ichor; mental state; conversion.
+[@astrea-record-spell.fc03-minddown]: FC03 | The Locus of Stars | Light Mind Down from excessive use.
+[@astrea-record-spell.fm18-cast]: FM18 | Chapter 9: Flower Language for You | The DanMachi 18 chant; the sanctuary; Hegni breaks through; "—Justice returns!"; "Agris Arvensis!".
+[@astrea-record-spell.fm18-inherit]: FM18 | Chapter 9: Flower Language for You | New magic at Level 6; the magic of all ten followers.
+[@astrea-record-spell.fm18-gokou]: FM18 | Chapter 9: Flower Language for You | "Gokou!"; Kaguya's magic slashes against Ottar.
+[@astrea-record-spell.fm18-maryu]: FM18 | Chapter 9: Flower Language for You | "Justice returns! —Rea Vindemia."; Maryu's area healing.
+[@astrea-record-spell.ar03-maryu]: AR03 | Chapter 4: Apocalypse Cometh | Maryu casts Rea Vindemia.
+[@astrea-record-spell.fm19-eina]: FM19 | Chapter 1: V-V-V for Victory Party | "Her new Astrea Record skill"; a healer's area-healing spell.
+[@agris-arvensis.ar03-alize]: AR03 | Chapter 4: Apocalypse Cometh | "Agallis Arvesynce!"; arm, legs and sword aflame; "Scarlett Harnell".
+[@agris-arvensis.fm14-alize]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Scarlett Harnell"; fire enchantment; flames in her boots; "Arvellia!!", "the spell key for her enchantment".
+[@agris-arvensis.fc03-lyu]: FC03 | The Locus of Stars | "Agris Arvensis!"; flames on Lyu's arms, legs and wooden sword.
+[@agris-arvensis.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | "Agris Arvensis!"; "Scarlet Harnell’s—Alize Lovell’s magic!!!"; explosive acceleration.
+[@agris-arvensis.fm18-hegni]: FM18 | Chapter 9: Flower Language for You | Lyu's control less precise than Alize's; "Alveria!" defeats Hegni.
+[@agris-arvensis.fm18-ottar]: FM18 | Chapter 9: Flower Language for You | "Agaris Alvesince!" against Ottar; "Alize’s Alveria".
+[@agris-arvensis.fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | Flame armour on hands, feet and weapon.

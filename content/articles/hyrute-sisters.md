@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Amazon sisters of Loki Familia, famous top-class adventurers; both reach Level 6 in Sword Oratoria 6. Tiona trains Bell with Aiz in DanMachi 6.",
   "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters"],
-  "spoilers": "DanMachi Vols. 2–18, Sword Oratoria Vols. 6–7 and 12, and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 6 and 7 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
   "infobox": {
     "title": "Tiona and Tione Hyrute",
@@ -30,13 +30,41 @@ Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] In Da
 
 ## Tione
 
-Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats Argana.[@so06-tione] In Sword Oratoria 7 her Skill Berserk reverses the effect of stacked weakening spells, and her magic Restrict Iorum binds the monster Gugalanna.[@so07-tione]
+Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats Argana.[@so06-tione] In Sword Oratoria 7 her Skill Berserk reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster Gugalanna.[@so07-tione]
 
 ## Together
 
 In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's legs while Tione binds it.[@so07-tiona, so07-tione] In DanMachi 17, after [[freya|Freya]]'s charm is broken, they fight [[hegni|Hegni]] with Aiz and [[lyu-leon|Lyu]].[@fm17-sisters]
 
 {{nocite}} Related magic: Argana's curse [[magic#kalima|Kalima]] and Bache's poison enchantment [[magic#velgas|Velgas]], used against Tione and Tiona in Sword Oratoria 6.
+## Magic {#magic}
+
+{{nocite}} Tione's spell, with its incantation as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Restrict Iorum {#restrict-iorum}
+
+**Restrict Iorum** is Tione Hyrute's spell, "a restrictive magic that bound its victims in a whip of light".[@restrict-iorum.so07-cast] It has a set chance of rooting an enemy to the spot, and the whip can also be used as an ordinary weapon.[@restrict-iorum.so07-cast]
+
+- **User:** Tione Hyrute[@restrict-iorum.so07-cast]
+- **Type:** Restrictive magic: a whip of light[@restrict-iorum.so07-cast]
+- **Chant:** Several lines, printed in full[@restrict-iorum.so07-cast]
+
+#### Incantation {#restrict-iorum-incantation}
+
+Sword Oratoria 7 prints the chant in two pieces, then the name. Tione forms "the less familiar spell" carefully, "so as not to miss a syllable".[@restrict-iorum.so07-cast] Only excerpts are quoted.
+
+- **Opening (excerpt):** "Desire, submersed in the sea of my heart"[@restrict-iorum.so07-cast]
+- **Second piece (excerpt):** "Take shape, bare your fangs, and become the serpent."[@restrict-iorum.so07-cast]
+- **Last words:** "Halt fate’s ticking seconds, and banish it to the void!"[@restrict-iorum.so07-cast]
+- **Name:** "Restrict Iorum!"[@restrict-iorum.so07-cast]
+
+Because she has never studied the ways of the mage, no magic circle forms beneath her.[@restrict-iorum.so07-cast]
+
+#### Effect {#restrict-iorum-effect}
+
+A bluish-purple whip of light forms in her hand and strikes like a snake, wrapping around the target.[@restrict-iorum.so07-cast] Its hit rate depends on Tione's Magic ability. She has never trained it, but her high Level gives her plenty of magic power all the same; she herself guesses it would hit "one for ten on a floor boss".[@restrict-iorum.so07-cast] {{statement}}
+
+{{nocite}} Notable uses and open questions for Restrict Iorum are on the combined page: [[magic#restrict-iorum|Magic § Restrict Iorum]].
 
 [@fm02-sisters]: FM02 | | "Two Amazonian sisters."
 [@fm05-sisters]: FM05 | Chapter 4: Dungeon Resort? | "The Amazonian Hyrute sisters," famous top-class adventurers.
@@ -49,3 +77,4 @@ In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's l
 [@so07-tiona]: SO07 | | Tiona and Gugalanna.
 [@so07-tione]: SO07 | | Berserk; Restrict Iorum.
 [@ss02-tiona]: SS02 | | Tiona's childhood and books.
+[@restrict-iorum.so07-cast]: SO07 | Chapter 5: Battle of Tears | The full chant; no magic circle; "restrictive magic"; hit rate; "one for ten on a floor boss".

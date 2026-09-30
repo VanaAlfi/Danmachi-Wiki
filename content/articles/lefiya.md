@@ -137,8 +137,8 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 
 #### What she can summon {#elf-ring-what-she-can-summon}
 
-- Riveria's spells: Wynn Fimbulvetr in Sword Oratoria 1, [[magic#rea-laevateinn|Rea Laevateinn]] in Sword Oratoria 3 and 13, and Riveria's healing magic in Sword Oratoria 12.[@elf-ring.so01-summon, elf-ring.so03-rea, elf-ring.so12-heal, elf-ring.so13-rea]
-- [[filvis|Filvis]]'s protective barrier Dio Grail, which blocks the corrupted spirit's magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final]
+- Riveria's spells: Wynn Fimbulvetr in Sword Oratoria 1, [[magic#rea-laevateinn|Rea Laevateinn]] in Sword Oratoria 3 and 13, and her healing magic [[magic#luna-aldis|Luna Aldis]] in Sword Oratoria 12.[@elf-ring.so01-summon, elf-ring.so03-rea, elf-ring.so12-heal, elf-ring.so13-rea] She also summons Riveria's protective [[magic#veil-breath|Veil Breath]] in Sword Oratoria 12 and 13.[@veil-breath.so12-lefiya, veil-breath.so13-students]
+- [[filvis|Filvis]]'s protective barrier [[magic#dio-grail|Dio Grail]], which blocks the corrupted spirit's magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final] In Sword Oratoria 13 she also summons Filvis's lightning, [[magic#dio-thyrsos|Dio Thyrsos]], as rapid fire.[@dio-thyrsos.so13-lefiya]
 - The ice spell of her familia colleague Alicia Forestlight, in Sword Oratoria 13.[@elf-ring.so13-alicia]
 
 #### Requirements: a conflict between volumes {#elf-ring-requirements-a-conflict-between-volumes}
@@ -212,3 +212,6 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@elf-ring.so13-alicia]: SO13 | Chapter 3: Class is in Session | Alicia Forestlight's ice spell.
 [@elf-ring.so13-rea]: SO13 | Chapter 5: The Mirror’s Voice | Rea Laevateinn used as a detector.
 [@elf-ring.so13-crowd]: SO13 | Chapter 5: The Mirror’s Voice | Long-chant summons ruled out in the melee.
+[@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
+[@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
+[@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire.

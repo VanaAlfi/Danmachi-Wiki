@@ -164,6 +164,8 @@ She tracks people by scent: Syr during the date in DanMachi 16, and Bell the fol
 
 Silence Lyra is not Anya's equipment. It is an accessory modified by [[asfi|Asfi]] and worn by others to shield themselves from the spell.[@fm18-family]
 
+Its chant is printed once, in four pieces, in DanMachi 18. The first printed line is "Gray skies, lost home, darkness falls, ruins’ rain." and it ends "Please don’t abandon me—Remisto Felis".[@fm18-remisto] The combined page describes the spell and its chant in full: [[magic#remisto-felis|Magic § Remisto Felis]].
+
 > [!UNRESOLVED] Limits of Remisto Felis
 > The effect's duration, its radius, its Mind cost and the exact size of the reduction are not given.
 

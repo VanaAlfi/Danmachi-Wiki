@@ -38,6 +38,8 @@ Her [[falna|Falna]] gave her the transformation spell Vana Seiðr. With it she c
 
 As Freya, Hörn can charm, but with less force and precision than the goddess herself.[@fm17-charm] While the spell is active her senses are linked to Freya's, and Freya can feel through her as well.[@fm17-senses, fm18-senses] Even with the spell inactive, small amounts of Freya's feelings can reach her through her right eye.[@fm17-eye]
 
+Its chant is printed once, in three pieces, in DanMachi 17, beginning (as printed) "…Untrodden stairs, forbidden door…" and ending "By the name exchanged…descend, daughter of the gods—".[@fm17-senses] The combined page describes the spell in full: [[magic#vana-seidr|Magic § Vana Seiðr]].
+
 ## History
 
 ### The Goddess Festival

@@ -70,13 +70,7 @@ In Astrea Record 2, during the [[great-conflict|Great Conflict]], Allen is Level
 
 **Complete printed chant (FM18).**[@glarinese-fromel.fm18-chant]
 
-> Golden wheel, silver collar.
-
-> Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you.
-
-> Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls.
-
-> Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.
+> Golden wheel, silver collar. Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you. Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls. Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.
 
 {{nocite}} **Notes and other printed variants**
 

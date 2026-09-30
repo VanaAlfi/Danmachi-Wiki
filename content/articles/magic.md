@@ -123,64 +123,64 @@ Magic swords are weapons, not spells. They do not occupy a Magic slot, though Da
 | [[#firebolt|Firebolt]] | Bell Cranell | Swift-strike fire (electric flame)[@firebolt.fm02-card, firebolt.fm02-first] | *None: the spell name alone fires it*[@firebolt.fm02-first] |
 | [[#will-o-the-wisp|Will-o'-the-Wisp]] | Welf Crozzo | Anti-magic fire[@will-o-the-wisp.fm15-card] | "Blasphemous Burn."[@will-o-the-wisp.fm05-first] |
 | [[#airiel|Airiel]] | Aiz Wallenstein | Wind enchantment[@airiel.so01-airiel] | "Awaken, Tempest." *(also "Rage, Tempest!" and "Tempest!")*[@airiel.so01-airiel, airiel.so01-sense, airiel.so02-trigger, airiel.fm10-airiel, airiel.so02-rage, airiel.so07-rage, airiel.so11-tempest, airiel.so12-white] |
-| [[#luminous-wind|Luminous Wind]] | Lyu Leon | Wide-area wind and light attack[@luminous-wind.fc03-card] | —Distant sky above the forest. Limitless stars set into an eternal night. / Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you. / Come, wind of winds, wandering traveler of the ages. / Across the skies, through the fields, faster than any, farther than all. / Light of stardust, tear my enemies asunder![@luminous-wind.so05-cast] *Other printed wording is recorded below.* |
-| [[#noa-heal|Noa Heal]] | Lyu Leon | Healing[@noa-heal.fc03-card] | Distant song above the forest. Nostalgic melody of life. / Impart your healing upon those who seek your grace.[@noa-heal.so05-heal] *Other printed wording is recorded below.* |
-| [[#astrea-record-spell|Astrea Record (spell)]] | Lyu Leon | Use of dead companions' magic[@astrea-record-spell.fc03-nature] | Astrea Record. / Duty shall be fulfilled, and scales shall be balanced. / Bastion of order, crown of the righteous, vanquishing torch. / In the goddess’s name, racing across the sky, bind the star trails to this land. / —Justice will go on!![@astrea-record-spell.fc03-cast] *Other printed wording is recorded below.* |
+| [[#luminous-wind|Luminous Wind]] | Lyu Leon | Wide-area wind and light attack[@luminous-wind.fc03-card] | —Distant sky above the forest. Limitless stars set into an eternal night. Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you. Come, wind of winds, wandering traveler of the ages. Across the skies, through the fields, faster than any, farther than all. Light of stardust, tear my enemies asunder![@luminous-wind.so05-cast] *Other printed wording is recorded below.* |
+| [[#noa-heal|Noa Heal]] | Lyu Leon | Healing[@noa-heal.fc03-card] | Distant song above the forest. Nostalgic melody of life. Impart your healing upon those who seek your grace.[@noa-heal.so05-heal] *Other printed wording is recorded below.* |
+| [[#astrea-record-spell|Astrea Record (spell)]] | Lyu Leon | Use of dead companions' magic[@astrea-record-spell.fc03-nature] | Astrea Record. Duty shall be fulfilled, and scales shall be balanced. Bastion of order, crown of the righteous, vanquishing torch. In the goddess’s name, racing across the sky, bind the star trails to this land. —Justice will go on!![@astrea-record-spell.fc03-cast] *Other printed wording is recorded below.* |
 | [[#agris-arvensis|Agris Arvensis]] | Alize Lovell; Lyu Leon | Fire enchantment[@agris-arvensis.fm14-alize] | *None printed.* Name printed "Agallis Arvesynce", "Agris Arvensis" or "Agaris Alvesince"; spell key "Arvellia" / "Alveria"[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu, agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar] |
 | [[#gokou|Gokou]] | Kaguya Gojouno; Lyu Leon | Magic slashes at set positions[@gokou.fm18-ottar] | *None printed under this name; named at the end of Astrea Record. Probably the Five Lights spell, whose ultrashort chant Astrea Record 3 prints*[@gokou.fc03-lyu, gokou.fm18-ottar, gokou.ar03-five] |
 | [[#rea-vindemia|Rea Vindemia]] | Maryu; Lyu Leon | Area healing[@rea-vindemia.fm18-lyu] | *None printed; named at the end of Astrea Record*[@rea-vindemia.ar03-maryu, rea-vindemia.fm18-lyu] |
 | [[#cinder-ella|Cinder Ella]] | Lilliluka Erde | Transformation (shape-shifting)[@cinder-ella.fm15-card] | "Your scars are mine. My scars are mine." Release: "Stroke of midnight’s bell."[@cinder-ella.fm08-card, cinder-ella.fm15-card, cinder-ella.fm11-chase, cinder-ella.fm15-activation, cinder-ella.so12-finn, cinder-ella.ss01-activation, cinder-ella.fm02-release, cinder-ella.fm05-release] |
-| [[#futsu-no-mitama|Futsu no Mitama]] | Mikoto Yamato | Gravity field[@futsu-no-mitama.fm15-card] | Fear, strong and winding— / I call upon the god, the destroyer of any and all, for guidance from the heavens. Grant this trivial body divine power beyond power. / Saving, purifying light. Bring forth the evil-crushing blade! / Bow to the blade of suppression, the mythical sword of subjugation. / I summon you here now, by name. / Descend from the heavens, seize the earth— / —Shinbu Tousei![@futsu-no-mitama.fm06-war] |
-| [[#hell-kaios|Hell Kaios]] | Aisha Belka | Cutting wave through her weapon[@hell-kaios.fm12-crabs] | Masculine warrior, strong soldier, greedy and unjust hero! / Prove your desire for the Empress’s throne! / Satisfy my body, penetrate and kill it to show your worth! / My famished blade is Hipporyute![@hell-kaios.fm07-chant] *Other printed wording is recorded below.* |
-| [[#arcs-ray|Arcs Ray]] | Lefiya Viridis | Homing single-target attack[@arcs-ray.so12-card] | Unleashed beam of light, limbs of the holy tree. You are the master archer. / Loose your arrows, fairy archers. Pierce, arrow of accuracy![@arcs-ray.so01-chant] |
-| [[#fusillade-fallarica|Fusillade Fallarica]] | Lefiya Viridis | Wide-area fire attack[@fusillade-fallarica.so12-card] | Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows. / Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies. / Fall like rain, burn the savages to ash.[@fusillade-fallarica.so01-room] |
-| [[#elf-ring|Elf Ring]] | Lefiya Viridis | Summon Burst: casts other elven magic[@elf-ring.so12-card] | I beseech the name of Wishe! / Ancestors of the forest, proud brethren. Answer my call and descend upon the plains. / Connecting bonds, the pledge of paradise. Turn the wheel and dance. / Come, ring of fairies. / Please—give me strength.[@elf-ring.so01-summon] |
-| [[#wynn-fimbulvetr|Wynn Fimbulvetr]] | Riveria Ljos Alf | Freezing wind and ice[@wynn-fimbulvetr.so01-lefiya] | Harbinger of the end, white snow. Gust before the twilight. / Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf![@wynn-fimbulvetr.so01-riveria] |
-| [[#rea-laevateinn|Rea Laevateinn]] | Riveria Ljos Alf | Wide-area annihilation[@rea-laevateinn.so04-concat] | A blaze shall soon descend. / Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed. / Come crimson pyre, merciless inferno. Become hellfire. / Purge the battlefield, end the war. / Incinerate, sword of Surtr—My name is Alf!![@rea-laevateinn.so04-concat] **Partial print / completeness uncertain.** |
+| [[#futsu-no-mitama|Futsu no Mitama]] | Mikoto Yamato | Gravity field[@futsu-no-mitama.fm15-card] | Fear, strong and winding— I call upon the god, the destroyer of any and all, for guidance from the heavens. Grant this trivial body divine power beyond power. Saving, purifying light. Bring forth the evil-crushing blade! Bow to the blade of suppression, the mythical sword of subjugation. I summon you here now, by name. Descend from the heavens, seize the earth— —Shinbu Tousei![@futsu-no-mitama.fm06-war] |
+| [[#hell-kaios|Hell Kaios]] | Aisha Belka | Cutting wave through her weapon[@hell-kaios.fm12-crabs] | Masculine warrior, strong soldier, greedy and unjust hero! Prove your desire for the Empress’s throne! Satisfy my body, penetrate and kill it to show your worth! My famished blade is Hipporyute![@hell-kaios.fm07-chant] *Other printed wording is recorded below.* |
+| [[#arcs-ray|Arcs Ray]] | Lefiya Viridis | Homing single-target attack[@arcs-ray.so12-card] | Unleashed beam of light, limbs of the holy tree. You are the master archer. Loose your arrows, fairy archers. Pierce, arrow of accuracy![@arcs-ray.so01-chant] |
+| [[#fusillade-fallarica|Fusillade Fallarica]] | Lefiya Viridis | Wide-area fire attack[@fusillade-fallarica.so12-card] | Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows. Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies. Fall like rain, burn the savages to ash.[@fusillade-fallarica.so01-room] |
+| [[#elf-ring|Elf Ring]] | Lefiya Viridis | Summon Burst: casts other elven magic[@elf-ring.so12-card] | I beseech the name of Wishe! Ancestors of the forest, proud brethren. Answer my call and descend upon the plains. Connecting bonds, the pledge of paradise. Turn the wheel and dance. Come, ring of fairies. Please—give me strength.[@elf-ring.so01-summon] |
+| [[#wynn-fimbulvetr|Wynn Fimbulvetr]] | Riveria Ljos Alf | Freezing wind and ice[@wynn-fimbulvetr.so01-lefiya] | Harbinger of the end, white snow. Gust before the twilight. Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf![@wynn-fimbulvetr.so01-riveria] |
+| [[#rea-laevateinn|Rea Laevateinn]] | Riveria Ljos Alf | Wide-area annihilation[@rea-laevateinn.so04-concat] | A blaze shall soon descend. Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed. Come crimson pyre, merciless inferno. Become hellfire. Purge the battlefield, end the war. Incinerate, sword of Surtr—My name is Alf!![@rea-laevateinn.so04-concat] **Partial print; completeness uncertain.** |
 | [[#hell-finegas|Hell Finegas]] | Finn Deimne | Mind-altering enchantment; boosts abilities[@hell-finegas.ar03-valletta, hell-finegas.so04-cast] | "Spear of magic, I offer my blood! Bore within this brow."[@hell-finegas.so06-argana, hell-finegas.so14-village, hell-finegas.ar03-valletta] |
-| [[#hati|Hati]] | Bete Loga | Fire enchantment; drains magic and damage[@hati.so08-explain] | Chained Fros, king of the wolves / The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears. / Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence. / Denounce the world. Acknowledge fate. And dry thy tears. / May the pain become your fangs, the lament your roar—and your lost companions your strength. / Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup. / Bare your fangs—and devour all.[@hati.so08-cast] |
-| [[#restrict-iorum|Restrict Iorum]] | Tione Hyrute | Binding whip of light[@restrict-iorum.so07-cast] | Desire, submersed in the sea of my heart; thirst, borne from the seas of my heart—the time has come, / Take shape, bare your fangs, and become the serpent. Free yourself of the sea, cross the rising knolls, and engulf the world. Time is yours for the taking. Halt fate’s ticking seconds, and banish it to the void![@restrict-iorum.so07-cast] |
-| [[#hail-dust|Hail Dust]] | Alicia Forestlight (summoned by Lefiya) | Rain of ice[@hail-dust.so13-cast] | **Hail Dust — both printed chant lines:** Frozen skies, heaven’s rain. Forest-adorning white ice, drive out the wretched barbarians. / Freeze, chains of winter![@hail-dust.so13-cast] |
-| [[#aro-zephyros|Aro Zephyros]] | Hyacinthus | Homing disk of fire[@aro-zephyros.fm06-duel] | —My name is love, child of light. Glorious son, I offer you my body! / My name is sin, jealously of the wind. This body calls forth your gust! / Come forth, ring of fire—! / —on westerly winds![@aro-zephyros.fm06-duel] |
-| [[#dia-orpheus|Dia Orpheus]] | Fels | Resurrection[@dia-orpheus.fm10-cast] | O untrodden domain, O forbidden wall. Today on this day, I turn my back on the laws of heaven— / Rod of Asclepius, Goblet of Salus. O ye who is beyond the power of healing—I ask you to wait. / Lord’s judgment, lightning of conviction. Shall I be burned, rejecting your providence— / —I shall journey to the realm of the dead myself. / Gates of Charon, over the river of time. Lend your ears, O Lord. Listen to this deranged melody. / Never-ending tears, lamenting wails. The price has already been paid. / O path of light. I ask you to sacrifice the given past and cast light on this foolish desire. / Yes, I will not turn away.[@dia-orpheus.fm10-cast] |
+| [[#hati|Hati]] | Bete Loga | Fire enchantment; drains magic and damage[@hati.so08-explain] | Chained Fros, king of the wolves The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears. Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence. Denounce the world. Acknowledge fate. And dry thy tears. May the pain become your fangs, the lament your roar—and your lost companions your strength. Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup. Bare your fangs—and devour all.[@hati.so08-cast] |
+| [[#restrict-iorum|Restrict Iorum]] | Tione Hyrute | Binding whip of light[@restrict-iorum.so07-cast] | Desire, submersed in the sea of my heart; thirst, borne from the seas of my heart—the time has come, Take shape, bare your fangs, and become the serpent. Free yourself of the sea, cross the rising knolls, and engulf the world. Time is yours for the taking. Halt fate’s ticking seconds, and banish it to the void![@restrict-iorum.so07-cast] |
+| [[#hail-dust|Hail Dust]] | Alicia Forestlight (summoned by Lefiya) | Rain of ice[@hail-dust.so13-cast] | **Hail Dust — both printed chant lines:** Frozen skies, heaven’s rain. Forest-adorning white ice, drive out the wretched barbarians. Freeze, chains of winter![@hail-dust.so13-cast] |
+| [[#aro-zephyros|Aro Zephyros]] | Hyacinthus | Homing disk of fire[@aro-zephyros.fm06-duel] | —My name is love, child of light. Glorious son, I offer you my body! My name is sin, jealously of the wind. This body calls forth your gust! Come forth, ring of fire—! —on westerly winds![@aro-zephyros.fm06-duel] |
+| [[#dia-orpheus|Dia Orpheus]] | Fels | Resurrection[@dia-orpheus.fm10-cast] | O untrodden domain, O forbidden wall. Today on this day, I turn my back on the laws of heaven— Rod of Asclepius, Goblet of Salus. O ye who is beyond the power of healing—I ask you to wait. Lord’s judgment, lightning of conviction. Shall I be burned, rejecting your providence— —I shall journey to the realm of the dead myself. Gates of Charon, over the river of time. Lend your ears, O Lord. Listen to this deranged melody. Never-ending tears, lamenting wails. The price has already been paid. O path of light. I ask you to sacrifice the given past and cast light on this foolish desire. Yes, I will not turn away.[@dia-orpheus.fm10-cast] |
 | [[#dia-panacea|Dia Panacea]] | Fels | Healing, like an elixir[@dia-panacea.fm10-bell] | "Rod of Asclepius, Asclepius’s motherly light. By the power regeneration, all shall be healed."[@dia-panacea.fm10-bell] |
-| [[#uchide-no-kozuchi|Uchide no Kozuchi]] | Haruhime | Level Boost for one person[@uchide-no-kozuchi.fm07-named] | —Grow. / That power and that vessel. Breadth of wealth and breadth of wishes. Until the bell tolls, bring forth glory and illusion. / —Grow. / Confine divine offerings within this body. This golden light bestowed from above. Into the hammer and into the ground, may it bestow good fortune upon you. / —Grow.[@uchide-no-kozuchi.fm07-chant] |
-| [[#kokonoe|Kokonoe]] | Haruhime | Enchantment[@kokonoe.fm15-card] | Kokonoe. / Beloved snow. Beloved crimson. Beloved white light. / Please let me be beside you—this love I have found at the end of two thousand nights. / My name is Magic Fox, former destroyer. My name is Ancient Song, former dreamer. For you who beat your wings like a bird, I shall allow the nine spirits to dwell within me. / Echo song of gold, sacred poem of Tamamo. White face, golden fur, king of nine tails. / Oh tails of the auspicious beast, consume all, grant all wishes—[@kokonoe.fm12-chant] |
+| [[#uchide-no-kozuchi|Uchide no Kozuchi]] | Haruhime | Level Boost for one person[@uchide-no-kozuchi.fm07-named] | —Grow. That power and that vessel. Breadth of wealth and breadth of wishes. Until the bell tolls, bring forth glory and illusion. —Grow. Confine divine offerings within this body. This golden light bestowed from above. Into the hammer and into the ground, may it bestow good fortune upon you. —Grow.[@uchide-no-kozuchi.fm07-chant] |
+| [[#kokonoe|Kokonoe]] | Haruhime | Enchantment[@kokonoe.fm15-card] | Kokonoe. Beloved snow. Beloved crimson. Beloved white light. Please let me be beside you—this love I have found at the end of two thousand nights. My name is Magic Fox, former destroyer. My name is Ancient Song, former dreamer. For you who beat your wings like a bird, I shall allow the nine spirits to dwell within me. Echo song of gold, sacred poem of Tamamo. White face, golden fur, king of nine tails. Oh tails of the auspicious beast, consume all, grant all wishes—[@kokonoe.fm12-chant] |
 | [[#magia-kreis|Magia Kreis]] | Nina Tulle | Ranged healing; Mind transfer; longer buffs[@magia-kreis.fm20-kreis, magia-kreis.fm20-buffs] | "Swaying stem, breath of white. Sing of flowers, and of the pristine hill—"[@magia-kreis.fm20-chant] |
 | [[#lagriell-krisheim|Lagriell Krisheim]] | Nina Tulle | Purifying healing barrier[@lagriell-krisheim.fm19-effect] | "Bloom, second sacred mount—" … "—My name is Alf!" *(partial; DanMachi 20 prints "Lullaby of wind, cradle of flowers!")*[@lagriell-krisheim.fm19-cast, lagriell-krisheim.fm20-dragma] |
-| [[#via-shilheim|Via Shilheim]] | Riveria Ljos Alf | Barrier[@via-shilheim.so04-cast] | Dance, spirits of the air, keepers of the light! Forge thy pledge with the forest’s protectors and envelop us in the psalm of the earth! Surround us! / Materialize, mighty barrier of forest’s light, and lend us your protection—my name is Alf![@via-shilheim.so04-cast] |
+| [[#via-shilheim|Via Shilheim]] | Riveria Ljos Alf | Barrier[@via-shilheim.so04-cast] | Dance, spirits of the air, keepers of the light! Forge thy pledge with the forest’s protectors and envelop us in the psalm of the earth! Surround us! Materialize, mighty barrier of forest’s light, and lend us your protection—my name is Alf![@via-shilheim.so04-cast] |
 | [[#veil-breath|Veil Breath]] | Riveria Ljos Alf | Protection, with slight healing[@veil-breath.so02-aiz] | "Gather, breath of the earth—my name is Alf!" *(the only line printed)*[@veil-breath.so02-aiz, veil-breath.ar03-astrea] |
 | [[#luna-aldis|Luna Aldis]] | Riveria Ljos Alf (summoned by Lefiya) | Healing[@luna-aldis.so12-cast] | … "My name is Alf" *(only the ending printed)*[@luna-aldis.so12-cast] |
-| [[#dia-frater|Dia Frater]] | Amid Teasanare | Healing; removes poison and curses[@dia-frater.so11-barca] | Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things. / Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality. / In the name of all that is holy—I heal you.[@dia-frater.so11-barca] |
+| [[#dia-frater|Dia Frater]] | Amid Teasanare | Healing; removes poison and curses[@dia-frater.so11-barca] | Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things. Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality. In the name of all that is holy—I heal you.[@dia-frater.so11-barca] |
 | [[#lunus-wolfsbane|Lunus Wolfsbane]] | Uranda | Curse: binds and lowers Status[@lunus-wolfsbane.fc03-curse] | "Open, my love." *(the one printed line; a curse)*[@lunus-wolfsbane.fc03-curse] |
-| [[#remisto-felis|Remisto Felis]] | Anya Fromel | Debuff for all who hear it[@remisto-felis.fm18-effect] | Gray skies, lost home, darkness falls, ruins’ rain. / Headless eyes, questioning statue. What are you, what are you? You are a kitten, a lost little wheel. I am servant to tears and sobs, / Where is my home? There is no answer. Ask the birds. There is no reply. That is why I cry. Singing to the back of my only family. / Please don’t abandon me—Remisto Felis[@remisto-felis.fm18-cast] **Partial print / completeness uncertain.** |
+| [[#remisto-felis|Remisto Felis]] | Anya Fromel | Debuff for all who hear it[@remisto-felis.fm18-effect] | Gray skies, lost home, darkness falls, ruins’ rain. Headless eyes, questioning statue. What are you, what are you? You are a kitten, a lost little wheel. I am servant to tears and sobs, Where is my home? There is no answer. Ask the birds. There is no reply. That is why I cry. Singing to the back of my only family. Please don’t abandon me—Remisto Felis[@remisto-felis.fm18-cast] **Partial print; completeness uncertain.** |
 | [[#felis-kurus|Felis Kurus]] | Chloe Lolo | Illusion: mirror-image mirages[@felis-kurus.fc01-cast] | "—Frolic!"[@felis-kurus.fc01-cast, felis-kurus.fm18-dvalinn] |
 | [[#dio-thyrsos|Dio Thyrsos]] | Filvis Challia | Short-trigger lightning[@dio-thyrsos.so03-cast] | "Purge, cleansing lightning!"[@dio-thyrsos.so03-cast, dio-thyrsos.so12-final] |
 | [[#dio-grail|Dio Grail]] | Filvis Challia | Ultrashort barrier[@dio-grail.so04-teach] | "Shield me, cleansing chalice—"[@dio-grail.so04-teach, dio-grail.so12-final] |
 | [[#einsel|Einsel]] | Filvis Challia | Cloning: a second self at half Status[@einsel.so12-half] | *Not printed.* Undoing chant: "At the end of illusion, the spirit returns—forming an unbreakable bond."[@einsel.so12-undo] |
-| [[#darbh-daol|Darbh Daol]] | Nahza Ersuisu | Anti-status fatigue[@darbh-daol.fm18-cast] | Shadow moves. Darkness falls. Mine armless self is decay embodied. / Evil bugs, infested flesh, disgraced spirit. Silver tormented by writhing wings’ flutter.[@darbh-daol.fm18-chant] |
+| [[#darbh-daol|Darbh Daol]] | Nahza Ersuisu | Anti-status fatigue[@darbh-daol.fm18-cast] | Shadow moves. Darkness falls. Mine armless self is decay embodied. Evil bugs, infested flesh, disgraced spirit. Silver tormented by writhing wings’ flutter.[@darbh-daol.fm18-chant] |
 | [[#soul-light|Soul Light]] | Cassandra Illion | Healing; area healing[@soul-light.fm12-area] | "Oh sunlight, may you beat back ruin." *(the one printed line)*[@soul-light.fm12-ivy] |
 | [[#raumure|Raumure]] | Daphne Laulos | Protection: endurance and agility[@raumure.fm14-cast] | "Follow blindly the sun in the sky. Blossom, armor of laurel, so that all will flee from thee."[@raumure.fm14-cast] |
 | [[#school-district-spells|Dark Mine]] | Legi | Magic mines[@school-district-spells.fm19-mine] | *Name only;* spell key "Boom."[@school-district-spells.fm19-mine] |
 | [[#school-district-spells|Zalga Yell]] | Nano | Lightning[@school-district-spells.so13-yell] | Lightning, heaven’s name. Betray thy earthly kin, share not thy voice. Grant me the blessing of lightning—Zalga Yell!!![@school-district-spells.so13-yell] |
 | [[#school-district-spells|Zalga Amalda]] | Nano | Lightning torrent[@school-district-spells.so13-amalda] | Growling torrent gleam, blessed censure. Shatter the noble with thy splendor. Swallow, jaws of lightning.[@school-district-spells.so13-amalda] |
-| [[#school-district-spells|Silva Vine]] | Miliria | Binding vines of light[@school-district-spells.so13-vine] | Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest. / And bind. Admonish the savages. This is the forest shrine kept by its guardian.[@school-district-spells.so13-vine] |
+| [[#school-district-spells|Silva Vine]] | Miliria | Binding vines of light[@school-district-spells.so13-vine] | Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest. And bind. Admonish the savages. This is the forest shrine kept by its guardian.[@school-district-spells.so13-vine] |
 | [[#elven-innate-magic|Gale Blast]] | Elven knights (innate magic) | Wind[@elven-innate-magic.so14-chase] | Printed ending only. By ancient compact I summon you, winds of nature. Heed my call and mow down my enemies![@elven-innate-magic.so14-chase] |
 | [[#elven-innate-magic|Flare Burn]] | The young Riveria (innate magic) | Fire[@elven-innate-magic.so14-chase] | Printed ending only. Gh…By ancient compact I summon you, inferno of earth. Heed my call and scorch all violence![@elven-innate-magic.so14-chase] |
-| [[#hildis-vini|Hildis Vini]] | Ottar | Enhancement: weapon power[@hildis-vini.fm18-slash] | Silver moon’s mercy and the golden plains. I offer this body to the lord of battle. / Charge bearing the goddess’s will.[@hildis-vini.fc02-udaeus] |
-| [[#glarinese-fromel|Glarinese Fromel]] | Allen Fromel | Ever-increasing speed and charge power[@glarinese-fromel.fm18-effect] | Golden wheel, silver collar. / Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you. / Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls. / Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.[@glarinese-fromel.fm18-chant] |
-| [[#dainsleif|Dáinsleif]] | Hegni Ragnar | Personality change; no Status boost[@dainsleif.fc02-cast] | Draw thine sword, King of the fiendish blades. / Sacrifice reason and offer up blood. Slaughter all until the feast is finished.[@dainsleif.fc02-cast] |
+| [[#hildis-vini|Hildis Vini]] | Ottar | Enhancement: weapon power[@hildis-vini.fm18-slash] | Silver moon’s mercy and the golden plains. I offer this body to the lord of battle. Charge bearing the goddess’s will.[@hildis-vini.fc02-udaeus] |
+| [[#glarinese-fromel|Glarinese Fromel]] | Allen Fromel | Ever-increasing speed and charge power[@glarinese-fromel.fm18-effect] | Golden wheel, silver collar. Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you. Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls. Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.[@glarinese-fromel.fm18-chant] |
+| [[#dainsleif|Dáinsleif]] | Hegni Ragnar | Personality change; no Status boost[@dainsleif.fc02-cast] | Draw thine sword, King of the fiendish blades. Sacrifice reason and offer up blood. Slaughter all until the feast is finished.[@dainsleif.fc02-cast] |
 | [[#burn-dain|Burn Dáin]] | Hegni Ragnar | Short-range explosive fire[@burn-dain.fc02-ottar] | "By the power of the demon blade, bring eternal destruction."[@burn-dain.fc02-ottar, burn-dain.fm18-allen] |
 | [[#caurus-hildr|Caurus Hildr]] | Hedin Selrand | Lightning barrage[@caurus-hildr.fc02-warsa] | "Struggle for eternity, indestructible soldiers of lightning."[@caurus-hildr.fc02-warsa, caurus-hildr.fm18-heith] |
 | [[#valiant-hildr|Valiant Hildr]] | Hedin Selrand | Single lightning cannon[@valiant-hildr.ar01-street] | "Strike forever, indestructible lord of lightning."[@valiant-hildr.fc02-ottar, valiant-hildr.fm18-ottar] |
 | [[#laurus-hildr|Laurus Hildr]] | Hedin Selrand | Healing lightning enchantment, others only[@laurus-hildr.fm18-bell] | "Sing forever…indestructible…saint."[@laurus-hildr.fm18-bell] |
-| [[#zeo-gullveig|Zeo Gullveig]] | Heith Velvet | Area healing[@zeo-gullveig.fm18-cast] | —My name is Gold. Arm of the goddess who vows immortality. / Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low. / Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.[@zeo-gullveig.fm18-cast] **Partial print / completeness uncertain.** |
+| [[#zeo-gullveig|Zeo Gullveig]] | Heith Velvet | Area healing[@zeo-gullveig.fm18-cast] | —My name is Gold. Arm of the goddess who vows immortality. Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low. Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.[@zeo-gullveig.fm18-cast] **Partial print; completeness uncertain.** |
 | [[#ars-gullveig|Ars Gullveig]] | Heith Velvet | Auto-heal (regeneration)[@ars-gullveig.fm18-ars] | *Not printed (cast before the battle)*[@ars-gullveig.fm18-ars, ars-gullveig.fm18-hedin] |
-| [[#vana-seidr|Vana Seiðr]] | Hörn | Transformation into Freya or Syr[@vana-seidr.fm16-names, vana-seidr.fm18-form] | …Untrodden stairs, forbidden door…today, this day, my body infringes heavens’ laws… / Hollow soul, shallow lust… / By the name exchanged…descend, daughter of the gods—[@vana-seidr.fm17-senses] |
+| [[#vana-seidr|Vana Seiðr]] | Hörn | Transformation into Freya or Syr[@vana-seidr.fm16-names, vana-seidr.fm18-form] | …Untrodden stairs, forbidden door…today, this day, my body infringes heavens’ laws… Hollow soul, shallow lust… By the name exchanged…descend, daughter of the gods—[@vana-seidr.fm17-senses] |
 | [[#satanas-verion|Satanas Verion]] | Alfia | Sound attack[@satanas-verion.ar02-sound] | "Gospel." Spell key: "Rugio."[@satanas-verion.ar02-sound, satanas-verion.ar01-church, satanas-verion.ar03-rugio] |
 | [[#silentium-eden|Silentium Eden]] | Alfia | Magic-nullifying enchantment[@silentium-eden.ar03-passive] | "Ataraxia"[@silentium-eden.ar01-riveria, silentium-eden.ar03-again] |
-| [[#genos-angelus|Genos Angelus]] | Alfia | Wide-area sound from a bursting bell[@genos-angelus.ar03-bell] | O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise… / There is no ablution, purification, or solace. Heaven’s bell begets my sin. / O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act. / O wretched life of mine; the god’s most blessed craft, hearken now my hate! / Here is my confession! The price of my sin, I pay in full! / Hear the howl of the holy belfry![@genos-angelus.ar03-chant] |
-| [[#rea-ambrosia|Rea Ambrosia]] | Zald | Flames that clad his weapon[@rea-ambrosia.ar03-cast] | O Father, forgive me, for I thieve from the plate of the gods! Let my flaming tongue devour! Let my burning fangs consume! Rea Ambrosia!![@rea-ambrosia.ar03-cast] **Partial print / completeness uncertain.** |
+| [[#genos-angelus|Genos Angelus]] | Alfia | Wide-area sound from a bursting bell[@genos-angelus.ar03-bell] | O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise… There is no ablution, purification, or solace. Heaven’s bell begets my sin. O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act. O wretched life of mine; the god’s most blessed craft, hearken now my hate! Here is my confession! The price of my sin, I pay in full! Hear the howl of the holy belfry![@genos-angelus.ar03-chant] |
+| [[#rea-ambrosia|Rea Ambrosia]] | Zald | Flames that clad his weapon[@rea-ambrosia.ar03-cast] | O Father, forgive me, for I thieve from the plate of the gods! Let my flaming tongue devour! Let my burning fangs consume! Rea Ambrosia!![@rea-ambrosia.ar03-cast] **Partial print; completeness uncertain.** |
 | [[#dialv-dis|Dialv Dis]] | Vena Dis | Pillars of hellfire[@dialv-dis.ar01-churches] | … "Open, the fifth garden! Resound, the ninth song!" *(only the ending printed)*[@dialv-dis.ar01-churches] |
 | [[#dialv-otua|Dialv Otua]] | Vena and Dina Dis | Rain of black fire[@dialv-otua.ar03-cast] | "Let the first gate devour all. Turn all hope into despair!"[@dialv-otua.ar03-cast] |
 | [[#dialv-stige|Dialv Stige]] | Dina Dis | Curse: takes Strength and Agility[@dialv-stige.ar03-exchange] | Black mire; red sin. We tear each other with our teeth; the slime that is our bodies mix’d![@dialv-stige.ar03-cast] |
@@ -191,7 +191,7 @@ Magic swords are weapons, not spells. They do not occupy a Magic slot, though Da
 | [[#phobetor-daedalus|Phobetor Daedalus]] | Dix Perdix | Curse: confusion frenzy[@phobetor-daedalus.fm10-explain] | "Become lost in an endless nightmare." *(Sword Oratoria 7: "Get lost in an endless nightmare!"; a curse)*[@phobetor-daedalus.fm10-cast, phobetor-daedalus.so07-cast] |
 | [[#sharay-silencing-curse|Sharay's silencing curse]] | Sharay | Curse: stops the target using magic[@sharay-silencing-curse.so06-curse] | *Not printed (a curse)*[@sharay-silencing-curse.so06-cast] |
 | [[#corrupted-spirit-spells|Fire Storm]] | Corrupted spirit | Tsunami of flame[@corrupted-spirit-spells.so04-firestorm] | Printed ending only. Your envoy beseeches you, Salamander! Incarnate of fire! Queen of flame—![@corrupted-spirit-spells.so04-firestorm] |
-| [[#corrupted-spirit-spells|Meteor Swarm]] | Corrupted spirit | Meteorites[@corrupted-spirit-spells.so04-meteor] | Rise, rise, RISE! Husk of the earth! Sheen of iron! Hammer of the cosmos! May genesis’s pact upheave rock and stone! The sky shall burn! The earth shall split! The bridge shall rise! Heaven and earth shall become one! May the axes of the ether rain down and bring about calamity’s ruin—! / Your envoy beseeches you, Gnome! Incarnate of the land! Queen of the earth—![@corrupted-spirit-spells.so04-meteor] |
+| [[#corrupted-spirit-spells|Meteor Swarm]] | Corrupted spirit | Meteorites[@corrupted-spirit-spells.so04-meteor] | Rise, rise, RISE! Husk of the earth! Sheen of iron! Hammer of the cosmos! May genesis’s pact upheave rock and stone! The sky shall burn! The earth shall split! The bridge shall rise! Heaven and earth shall become one! May the axes of the ether rain down and bring about calamity’s ruin—! Your envoy beseeches you, Gnome! Incarnate of the land! Queen of the earth—![@corrupted-spirit-spells.so04-meteor] |
 | [[#corrupted-spirit-spells|Thunder Ray]] | Corrupted spirits | Lightning beams[@corrupted-spirit-spells.so04-thunder] | …Pierce, spear of lightning! Your envoy beseeches thee, Tonitrus! Incarnate of thunder! Queen of lightning—![@corrupted-spirit-spells.so07-thunder] |
 | [[#corrupted-spirit-spells|Icicle Edge]] | Corrupted spirits | Pillar of ice[@corrupted-spirit-spells.so04-icicle] | Freeze over as though the eternal permafrost, untold blades. Your envoy beseeches thee, Undine. Incarnate of water. Queen of aqua—[@corrupted-spirit-spells.so12-faces] |
 | [[#corrupted-spirit-spells|Light Burst]] | Corrupted spirit | Flash of light[@corrupted-spirit-spells.so12-faces] | Flash, rays of light. Tear through the darkness. Your envoy beseeches thee, Lux. Incarnate of light. Queen of luminosity—[@corrupted-spirit-spells.so12-faces] |
@@ -414,19 +414,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 
 **Complete printed chant (FM06).**[@futsu-no-mitama.fm06-war]
 
-> Fear, strong and winding—
-
-> I call upon the god, the destroyer of any and all, for guidance from the heavens. Grant this trivial body divine power beyond power.
-
-> Saving, purifying light. Bring forth the evil-crushing blade!
-
-> Bow to the blade of suppression, the mythical sword of subjugation.
-
-> I summon you here now, by name.
-
-> Descend from the heavens, seize the earth—
-
-> —Shinbu Tousei!
+> Fear, strong and winding— I call upon the god, the destroyer of any and all, for guidance from the heavens. Grant this trivial body divine power beyond power. Saving, purifying light. Bring forth the evil-crushing blade! Bow to the blade of suppression, the mythical sword of subjugation. I summon you here now, by name. Descend from the heavens, seize the earth— —Shinbu Tousei!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -485,15 +473,7 @@ The spell is named *Uchide no Kozuchi* from DanMachi 7 onward; *Level Boost* is 
 
 **Complete printed chant (FM07).**[@uchide-no-kozuchi.fm07-chant]
 
-> —Grow.
-
-> That power and that vessel. Breadth of wealth and breadth of wishes. Until the bell tolls, bring forth glory and illusion.
-
-> —Grow.
-
-> Confine divine offerings within this body. This golden light bestowed from above. Into the hammer and into the ground, may it bestow good fortune upon you.
-
-> —Grow.
+> —Grow. That power and that vessel. Breadth of wealth and breadth of wishes. Until the bell tolls, bring forth glory and illusion. —Grow. Confine divine offerings within this body. This golden light bestowed from above. Into the hammer and into the ground, may it bestow good fortune upon you. —Grow.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -585,17 +565,7 @@ Haruhime's DanMachi 15 card lists Kokonoe under Magic, beside Uchide no Kozuchi.
 
 **Name first, then complete printed chant; followed by Uchide no Kozuchi (FM12).**[@kokonoe.fm12-chant]
 
-> Kokonoe.
-
-> Beloved snow. Beloved crimson. Beloved white light.
-
-> Please let me be beside you—this love I have found at the end of two thousand nights.
-
-> My name is Magic Fox, former destroyer. My name is Ancient Song, former dreamer. For you who beat your wings like a bird, I shall allow the nine spirits to dwell within me.
-
-> Echo song of gold, sacred poem of Tamamo. White face, golden fur, king of nine tails.
-
-> Oh tails of the auspicious beast, consume all, grant all wishes—
+> Kokonoe. Beloved snow. Beloved crimson. Beloved white light. Please let me be beside you—this love I have found at the end of two thousand nights. My name is Magic Fox, former destroyer. My name is Ancient Song, former dreamer. For you who beat your wings like a bird, I shall allow the nine spirits to dwell within me. Echo song of gold, sacred poem of Tamamo. White face, golden fur, king of nine tails. Oh tails of the auspicious beast, consume all, grant all wishes—
 
 {{nocite}} **Notes and other printed variants**
 
@@ -699,9 +669,7 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Arcs Ray under Magic: single-ta
 
 **Complete printed chant (SO01).**[@arcs-ray.so01-chant]
 
-> Unleashed beam of light, limbs of the holy tree. You are the master archer.
-
-> Loose your arrows, fairy archers. Pierce, arrow of accuracy!
+> Unleashed beam of light, limbs of the holy tree. You are the master archer. Loose your arrows, fairy archers. Pierce, arrow of accuracy!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -758,11 +726,7 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Fusillade Fallarica under Magic
 
 **Complete printed chant (SO01).**[@fusillade-fallarica.so01-room]
 
-> Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows.
-
-> Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies.
-
-> Fall like rain, burn the savages to ash.
+> Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows. Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies. Fall like rain, burn the savages to ash.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -806,15 +770,7 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four 
 
 **Complete printed chant; the summoned spell follows separately (SO01).**[@elf-ring.so01-summon]
 
-> I beseech the name of Wishe!
-
-> Ancestors of the forest, proud brethren. Answer my call and descend upon the plains.
-
-> Connecting bonds, the pledge of paradise. Turn the wheel and dance.
-
-> Come, ring of fairies.
-
-> Please—give me strength.
+> I beseech the name of Wishe! Ancestors of the forest, proud brethren. Answer my call and descend upon the plains. Connecting bonds, the pledge of paradise. Turn the wheel and dance. Come, ring of fairies. Please—give me strength.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -870,9 +826,7 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 
 **Complete printed chant in this edition (SO01).**[@wynn-fimbulvetr.so01-riveria]
 
-> Harbinger of the end, white snow. Gust before the twilight.
-
-> Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf!
+> Harbinger of the end, white snow. Gust before the twilight. Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -928,15 +882,7 @@ The usual printed form is *Rea Laevateinn*. In Sword Oratoria 7 Riveria herself 
 
 **All printed Rea Laevateinn lines in this concatenated cast; not asserted to be a standalone complete chant (SO04).**[@rea-laevateinn.so04-concat]
 
-> A blaze shall soon descend.
-
-> Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed.
-
-> Come crimson pyre, merciless inferno. Become hellfire.
-
-> Purge the battlefield, end the war.
-
-> Incinerate, sword of Surtr—My name is Alf!!
+> A blaze shall soon descend. Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed. Come crimson pyre, merciless inferno. Become hellfire. Purge the battlefield, end the war. Incinerate, sword of Surtr—My name is Alf!!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -987,9 +933,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 **Complete printed chant (SO04).**[@via-shilheim.so04-cast]
 
-> Dance, spirits of the air, keepers of the light! Forge thy pledge with the forest’s protectors and envelop us in the psalm of the earth! Surround us!
-
-> Materialize, mighty barrier of forest’s light, and lend us your protection—my name is Alf!
+> Dance, spirits of the air, keepers of the light! Forge thy pledge with the forest’s protectors and envelop us in the psalm of the earth! Surround us! Materialize, mighty barrier of forest’s light, and lend us your protection—my name is Alf!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1155,19 +1099,7 @@ Sword Oratoria 7 calls Hell Finegas Finn's "Berserker spell".[@hell-finegas.so07
 
 **Complete printed chant (SO08).**[@hati.so08-cast]
 
-> Chained Fros, king of the wolves
-
-> The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears.
-
-> Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence.
-
-> Denounce the world. Acknowledge fate. And dry thy tears.
-
-> May the pain become your fangs, the lament your roar—and your lost companions your strength.
-
-> Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup.
-
-> Bare your fangs—and devour all.
+> Chained Fros, king of the wolves The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears. Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence. Denounce the world. Acknowledge fate. And dry thy tears. May the pain become your fangs, the lament your roar—and your lost companions your strength. Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup. Bare your fangs—and devour all.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1221,9 +1153,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 
 **Complete printed chant (SO07).**[@restrict-iorum.so07-cast]
 
-> Desire, submersed in the sea of my heart; thirst, borne from the seas of my heart—the time has come,
-
-> Take shape, bare your fangs, and become the serpent. Free yourself of the sea, cross the rising knolls, and engulf the world. Time is yours for the taking. Halt fate’s ticking seconds, and banish it to the void!
+> Desire, submersed in the sea of my heart; thirst, borne from the seas of my heart—the time has come, Take shape, bare your fangs, and become the serpent. Free yourself of the sea, cross the rising knolls, and engulf the world. Time is yours for the taking. Halt fate’s ticking seconds, and banish it to the void!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1265,9 +1195,7 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 
 **Hail Dust — both printed chant lines (SO13).**[@hail-dust.so13-cast]
 
-> Frozen skies, heaven’s rain. Forest-adorning white ice, drive out the wretched barbarians.
-
-> Freeze, chains of winter!
+> Frozen skies, heaven’s rain. Forest-adorning white ice, drive out the wretched barbarians. Freeze, chains of winter!
 
 
 Sword Oratoria 13 prints two pieces, then the name:[@hail-dust.so13-cast]
@@ -1310,29 +1238,11 @@ Lyu's Level 5 and Level 6 cards in Familia Chronicle 3 list Luminous Wind under 
 
 **Complete printed chant — translation A (SO05).**[@luminous-wind.so05-cast]
 
-> —Distant sky above the forest. Limitless stars set into an eternal night.
-
-> Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you.
-
-> Come, wind of winds, wandering traveler of the ages.
-
-> Across the skies, through the fields, faster than any, farther than all.
-
-> Light of stardust, tear my enemies asunder!
+> —Distant sky above the forest. Limitless stars set into an eternal night. Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you. Come, wind of winds, wandering traveler of the ages. Across the skies, through the fields, faster than any, farther than all. Light of stardust, tear my enemies asunder!
 
 **Complete printed chant — translation B (FC01).**[@luminous-wind.fc01-casino]
 
-> —Distant forest sky. Infinite stars inlaid upon the eternal night sky.
-
-> Heed this foolish one’s voice, and once more grant the starfire’s divine protection.
-
-> Grant the light of compassion to the one who forsook you.
-
-> Come, wandering wind, fellow traveler.
-
-> Cross the skies and sprint through the wilderness, swifter than anything—
-
-> —Imbue the light of stardust and strike down my enemy.
+> —Distant forest sky. Infinite stars inlaid upon the eternal night sky. Heed this foolish one’s voice, and once more grant the starfire’s divine protection. Grant the light of compassion to the one who forsook you. Come, wandering wind, fellow traveler. Cross the skies and sprint through the wilderness, swifter than anything— —Imbue the light of stardust and strike down my enemy.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1409,9 +1319,7 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 
 **Both printed chant lines in this edition (SO05).**[@noa-heal.so05-heal]
 
-> Distant song above the forest. Nostalgic melody of life.
-
-> Impart your healing upon those who seek your grace.
+> Distant song above the forest. Nostalgic melody of life. Impart your healing upon those who seek your grace.
 
 **Partial print — different wording; not combined with another volume (FM13).**[@noa-heal.fm13-neck]
 
@@ -1459,27 +1367,11 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 
 **Name first, then complete printed chant — Familia Chronicle 3 (FC03).**[@astrea-record-spell.fc03-cast]
 
-> Astrea Record.
-
-> Duty shall be fulfilled, and scales shall be balanced.
-
-> Bastion of order, crown of the righteous, vanquishing torch.
-
-> In the goddess’s name, racing across the sky, bind the star trails to this land.
-
-> —Justice will go on!!
+> Astrea Record. Duty shall be fulfilled, and scales shall be balanced. Bastion of order, crown of the righteous, vanquishing torch. In the goddess’s name, racing across the sky, bind the star trails to this land. —Justice will go on!!
 
 **Name first, then complete printed chant — DanMachi 18 (FM18).**[@astrea-record-spell.fm18-cast]
 
-> Astrea Record.
-
-> Duty shall be fulfilled, and the scales shall be balanced.
-
-> Bastion of order, crown of the honest, evil-crushing torch.
-
-> In the goddess’s name, charging through space, bind the star traces to this land.
-
-> —Justice returns!
+> Astrea Record. Duty shall be fulfilled, and the scales shall be balanced. Bastion of order, crown of the honest, evil-crushing torch. In the goddess’s name, charging through space, bind the star traces to this land. —Justice returns!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1651,23 +1543,11 @@ No chant of its own is printed. Maryu calls out only the name in Astrea Record 3
 
 **All four printed chant lines — DanMachi 7 translation (FM07).**[@hell-kaios.fm07-chant]
 
-> Masculine warrior, strong soldier, greedy and unjust hero!
-
-> Prove your desire for the Empress’s throne!
-
-> Satisfy my body, penetrate and kill it to show your worth!
-
-> My famished blade is Hipporyute!
+> Masculine warrior, strong soldier, greedy and unjust hero! Prove your desire for the Empress’s throne! Satisfy my body, penetrate and kill it to show your worth! My famished blade is Hipporyute!
 
 **All four printed chant lines — DanMachi 14 translation (FM14).**[@hell-kaios.fm14-amphisbaena]
 
-> Come, reckless conqueror!
-
-> Oh brave warrior, oh strong hero, oh covetous, cruel champion.
-
-> Prove your desire for the queen’s girdle.
-
-> My famished blade is Hippolyta!
+> Come, reckless conqueror! Oh brave warrior, oh strong hero, oh covetous, cruel champion. Prove your desire for the queen’s girdle. My famished blade is Hippolyta!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1729,13 +1609,7 @@ In DanMachi 14 and 18 Aisha opens with a short call before the lines above: "Com
 
 **All printed chant lines; action interrupts the last sentence (FM06).**[@aro-zephyros.fm06-duel]
 
-> —My name is love, child of light. Glorious son, I offer you my body!
-
-> My name is sin, jealously of the wind. This body calls forth your gust!
-
-> Come forth, ring of fire—!
-
-> —on westerly winds!
+> —My name is love, child of light. Glorious son, I offer you my body! My name is sin, jealously of the wind. This body calls forth your gust! Come forth, ring of fire—! —on westerly winds!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1775,21 +1649,7 @@ In DanMachi 14 and 18 Aisha opens with a short call before the lines above: "Com
 
 **Complete printed chant (FM10).**[@dia-orpheus.fm10-cast]
 
-> O untrodden domain, O forbidden wall. Today on this day, I turn my back on the laws of heaven—
-
-> Rod of Asclepius, Goblet of Salus. O ye who is beyond the power of healing—I ask you to wait.
-
-> Lord’s judgment, lightning of conviction. Shall I be burned, rejecting your providence—
-
-> —I shall journey to the realm of the dead myself.
-
-> Gates of Charon, over the river of time. Lend your ears, O Lord. Listen to this deranged melody.
-
-> Never-ending tears, lamenting wails. The price has already been paid.
-
-> O path of light. I ask you to sacrifice the given past and cast light on this foolish desire.
-
-> Yes, I will not turn away.
+> O untrodden domain, O forbidden wall. Today on this day, I turn my back on the laws of heaven— Rod of Asclepius, Goblet of Salus. O ye who is beyond the power of healing—I ask you to wait. Lord’s judgment, lightning of conviction. Shall I be burned, rejecting your providence— —I shall journey to the realm of the dead myself. Gates of Charon, over the river of time. Lend your ears, O Lord. Listen to this deranged melody. Never-ending tears, lamenting wails. The price has already been paid. O path of light. I ask you to sacrifice the given past and cast light on this foolish desire. Yes, I will not turn away.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -1952,11 +1812,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 
 **Fullest printed chant (SO11).**[@dia-frater.so11-barca]
 
-> Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things.
-
-> Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality.
-
-> In the name of all that is holy—I heal you.
+> Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things. Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality. In the name of all that is holy—I heal you.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2059,13 +1915,7 @@ The curse holds Lyu's body but not her magic. Before the trap closed, Lyu had qu
 
 **All four printed pieces, including the spell name; the beginning may be unprinted (FM18).**[@remisto-felis.fm18-cast]
 
-> Gray skies, lost home, darkness falls, ruins’ rain.
-
-> Headless eyes, questioning statue. What are you, what are you? You are a kitten, a lost little wheel. I am servant to tears and sobs,
-
-> Where is my home? There is no answer. Ask the birds. There is no reply. That is why I cry. Singing to the back of my only family.
-
-> Please don’t abandon me—Remisto Felis
+> Gray skies, lost home, darkness falls, ruins’ rain. Headless eyes, questioning statue. What are you, what are you? You are a kitten, a lost little wheel. I am servant to tears and sobs, Where is my home? There is no answer. Ask the birds. There is no reply. That is why I cry. Singing to the back of my only family. Please don’t abandon me—Remisto Felis
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2255,9 +2105,7 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 
 **Complete printed chant (FM18).**[@darbh-daol.fm18-chant]
 
-> Shadow moves. Darkness falls. Mine armless self is decay embodied.
-
-> Evil bugs, infested flesh, disgraced spirit. Silver tormented by writhing wings’ flutter.
+> Shadow moves. Darkness falls. Mine armless self is decay embodied. Evil bugs, infested flesh, disgraced spirit. Silver tormented by writhing wings’ flutter.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2393,9 +2241,7 @@ Miliria, a forest hunter of the 7th Squad whose best abilities are Agility and D
 
 **Silva Vine — both printed chant lines (SO13).**[@school-district-spells.so13-vine]
 
-> Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest.
-
-> And bind. Admonish the savages. This is the forest shrine kept by its guardian.
+> Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest. And bind. Admonish the savages. This is the forest shrine kept by its guardian.
 
 ### Innate elven magic: Gale Blast and Flare Burn {#elven-innate-magic}
 
@@ -2444,9 +2290,7 @@ Two chant endings are printed before the names, one calling on "winds of nature"
 
 **Complete printed chant (FC02).**[@hildis-vini.fc02-udaeus]
 
-> Silver moon’s mercy and the golden plains. I offer this body to the lord of battle.
-
-> Charge bearing the goddess’s will.
+> Silver moon’s mercy and the golden plains. I offer this body to the lord of battle. Charge bearing the goddess’s will.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2497,13 +2341,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 
 **Complete printed chant (FM18).**[@glarinese-fromel.fm18-chant]
 
-> Golden wheel, silver collar.
-
-> Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you.
-
-> Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls.
-
-> Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.
+> Golden wheel, silver collar. Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you. Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls. Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2558,9 +2396,7 @@ Glarinese Fromel has to be chanted, and Allen has to slow down to do it. On his 
 
 **Complete printed chant (FC02).**[@dainsleif.fc02-cast]
 
-> Draw thine sword, King of the fiendish blades.
-
-> Sacrifice reason and offer up blood. Slaughter all until the feast is finished.
+> Draw thine sword, King of the fiendish blades. Sacrifice reason and offer up blood. Slaughter all until the feast is finished.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2758,11 +2594,7 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 
 **All three printed pieces; completeness uncertain (FM18).**[@zeo-gullveig.fm18-cast]
 
-> —My name is Gold. Arm of the goddess who vows immortality.
-
-> Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low.
-
-> Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.
+> —My name is Gold. Arm of the goddess who vows immortality. Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low. Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2839,11 +2671,7 @@ The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’
 
 **All three printed pieces; original ellipses preserved (FM17).**[@vana-seidr.fm17-senses]
 
-> …Untrodden stairs, forbidden door…today, this day, my body infringes heavens’ laws…
-
-> Hollow soul, shallow lust…
-
-> By the name exchanged…descend, daughter of the gods—
+> …Untrodden stairs, forbidden door…today, this day, my body infringes heavens’ laws… Hollow soul, shallow lust… By the name exchanged…descend, daughter of the gods—
 
 {{nocite}} **Notes and other printed variants**
 
@@ -2989,17 +2817,7 @@ In Astrea Record 1 a messenger reports that the witch seems immune even to the s
 
 **Complete printed chant; original ellipsis preserved (AR03).**[@genos-angelus.ar03-chant]
 
-> O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise…
-
-> There is no ablution, purification, or solace. Heaven’s bell begets my sin.
-
-> O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act.
-
-> O wretched life of mine; the god’s most blessed craft, hearken now my hate!
-
-> Here is my confession! The price of my sin, I pay in full!
-
-> Hear the howl of the holy belfry!
+> O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise… There is no ablution, purification, or solace. Heaven’s bell begets my sin. O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act. O wretched life of mine; the god’s most blessed craft, hearken now my hate! Here is my confession! The price of my sin, I pay in full! Hear the howl of the holy belfry!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -3441,9 +3259,7 @@ The corrupted spirits, or demi-spirits, that [[loki-familia|Loki Familia]] fight
 
 **Meteor Swarm — printed chant (SO04).**[@corrupted-spirit-spells.so04-meteor]
 
-> Rise, rise, RISE! Husk of the earth! Sheen of iron! Hammer of the cosmos! May genesis’s pact upheave rock and stone! The sky shall burn! The earth shall split! The bridge shall rise! Heaven and earth shall become one! May the axes of the ether rain down and bring about calamity’s ruin—!
-
-> Your envoy beseeches you, Gnome! Incarnate of the land! Queen of the earth—!
+> Rise, rise, RISE! Husk of the earth! Sheen of iron! Hammer of the cosmos! May genesis’s pact upheave rock and stone! The sky shall burn! The earth shall split! The bridge shall rise! Heaven and earth shall become one! May the axes of the ether rain down and bring about calamity’s ruin—! Your envoy beseeches you, Gnome! Incarnate of the land! Queen of the earth—!
 
 **Thunder Ray — printed words, initial ellipsis retained (SO07).**[@corrupted-spirit-spells.so07-thunder]
 

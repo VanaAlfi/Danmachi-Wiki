@@ -57,19 +57,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 
 **Complete printed chant (FM06).**[@futsu-no-mitama.fm06-war]
 
-> Fear, strong and winding—
-
-> I call upon the god, the destroyer of any and all, for guidance from the heavens. Grant this trivial body divine power beyond power.
-
-> Saving, purifying light. Bring forth the evil-crushing blade!
-
-> Bow to the blade of suppression, the mythical sword of subjugation.
-
-> I summon you here now, by name.
-
-> Descend from the heavens, seize the earth—
-
-> —Shinbu Tousei!
+> Fear, strong and winding— I call upon the god, the destroyer of any and all, for guidance from the heavens. Grant this trivial body divine power beyond power. Saving, purifying light. Bring forth the evil-crushing blade! Bow to the blade of suppression, the mythical sword of subjugation. I summon you here now, by name. Descend from the heavens, seize the earth— —Shinbu Tousei!
 
 {{nocite}} **Notes and other printed variants**
 

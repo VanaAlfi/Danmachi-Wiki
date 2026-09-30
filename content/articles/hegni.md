@@ -58,9 +58,7 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 
 **Complete printed chant (FC02).**[@dainsleif.fc02-cast]
 
-> Draw thine sword, King of the fiendish blades.
-
-> Sacrifice reason and offer up blood. Slaughter all until the feast is finished.
+> Draw thine sword, King of the fiendish blades. Sacrifice reason and offer up blood. Slaughter all until the feast is finished.
 
 {{nocite}} **Notes and other printed variants**
 

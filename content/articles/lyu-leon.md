@@ -93,29 +93,11 @@ Lyu's Level 5 and Level 6 cards in Familia Chronicle 3 list Luminous Wind under 
 
 **Complete printed chant — translation A (SO05).**[@luminous-wind.so05-cast]
 
-> —Distant sky above the forest. Limitless stars set into an eternal night.
-
-> Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you.
-
-> Come, wind of winds, wandering traveler of the ages.
-
-> Across the skies, through the fields, faster than any, farther than all.
-
-> Light of stardust, tear my enemies asunder!
+> —Distant sky above the forest. Limitless stars set into an eternal night. Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you. Come, wind of winds, wandering traveler of the ages. Across the skies, through the fields, faster than any, farther than all. Light of stardust, tear my enemies asunder!
 
 **Complete printed chant — translation B (FC01).**[@luminous-wind.fc01-casino]
 
-> —Distant forest sky. Infinite stars inlaid upon the eternal night sky.
-
-> Heed this foolish one’s voice, and once more grant the starfire’s divine protection.
-
-> Grant the light of compassion to the one who forsook you.
-
-> Come, wandering wind, fellow traveler.
-
-> Cross the skies and sprint through the wilderness, swifter than anything—
-
-> —Imbue the light of stardust and strike down my enemy.
+> —Distant forest sky. Infinite stars inlaid upon the eternal night sky. Heed this foolish one’s voice, and once more grant the starfire’s divine protection. Grant the light of compassion to the one who forsook you. Come, wandering wind, fellow traveler. Cross the skies and sprint through the wilderness, swifter than anything— —Imbue the light of stardust and strike down my enemy.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -178,9 +160,7 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 
 **Both printed chant lines in this edition (SO05).**[@noa-heal.so05-heal]
 
-> Distant song above the forest. Nostalgic melody of life.
-
-> Impart your healing upon those who seek your grace.
+> Distant song above the forest. Nostalgic melody of life. Impart your healing upon those who seek your grace.
 
 **Partial print — different wording; not combined with another volume (FM13).**[@noa-heal.fm13-neck]
 
@@ -226,27 +206,11 @@ Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with 
 
 **Name first, then complete printed chant — Familia Chronicle 3 (FC03).**[@astrea-record-spell.fc03-cast]
 
-> Astrea Record.
-
-> Duty shall be fulfilled, and scales shall be balanced.
-
-> Bastion of order, crown of the righteous, vanquishing torch.
-
-> In the goddess’s name, racing across the sky, bind the star trails to this land.
-
-> —Justice will go on!!
+> Astrea Record. Duty shall be fulfilled, and scales shall be balanced. Bastion of order, crown of the righteous, vanquishing torch. In the goddess’s name, racing across the sky, bind the star trails to this land. —Justice will go on!!
 
 **Name first, then complete printed chant — DanMachi 18 (FM18).**[@astrea-record-spell.fm18-cast]
 
-> Astrea Record.
-
-> Duty shall be fulfilled, and the scales shall be balanced.
-
-> Bastion of order, crown of the honest, evil-crushing torch.
-
-> In the goddess’s name, charging through space, bind the star traces to this land.
-
-> —Justice returns!
+> Astrea Record. Duty shall be fulfilled, and the scales shall be balanced. Bastion of order, crown of the honest, evil-crushing torch. In the goddess’s name, charging through space, bind the star traces to this land. —Justice returns!
 
 {{nocite}} **Notes and other printed variants**
 

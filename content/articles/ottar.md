@@ -69,9 +69,7 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 
 **Complete printed chant (FC02).**[@hildis-vini.fc02-udaeus]
 
-> Silver moon’s mercy and the golden plains. I offer this body to the lord of battle.
-
-> Charge bearing the goddess’s will.
+> Silver moon’s mercy and the golden plains. I offer this body to the lord of battle. Charge bearing the goddess’s will.
 
 {{nocite}} **Notes and other printed variants**
 

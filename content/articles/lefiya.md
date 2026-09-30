@@ -58,9 +58,7 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Arcs Ray under Magic: single-ta
 
 **Complete printed chant (SO01).**[@arcs-ray.so01-chant]
 
-> Unleashed beam of light, limbs of the holy tree. You are the master archer.
-
-> Loose your arrows, fairy archers. Pierce, arrow of accuracy!
+> Unleashed beam of light, limbs of the holy tree. You are the master archer. Loose your arrows, fairy archers. Pierce, arrow of accuracy!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -105,11 +103,7 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Fusillade Fallarica under Magic
 
 **Complete printed chant (SO01).**[@fusillade-fallarica.so01-room]
 
-> Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows.
-
-> Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies.
-
-> Fall like rain, burn the savages to ash.
+> Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows. Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies. Fall like rain, burn the savages to ash.
 
 {{nocite}} **Notes and other printed variants**
 
@@ -150,15 +144,7 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four 
 
 **Complete printed chant; the summoned spell follows separately (SO01).**[@elf-ring.so01-summon]
 
-> I beseech the name of Wishe!
-
-> Ancestors of the forest, proud brethren. Answer my call and descend upon the plains.
-
-> Connecting bonds, the pledge of paradise. Turn the wheel and dance.
-
-> Come, ring of fairies.
-
-> Please—give me strength.
+> I beseech the name of Wishe! Ancestors of the forest, proud brethren. Answer my call and descend upon the plains. Connecting bonds, the pledge of paradise. Turn the wheel and dance. Come, ring of fairies. Please—give me strength.
 
 {{nocite}} **Notes and other printed variants**
 

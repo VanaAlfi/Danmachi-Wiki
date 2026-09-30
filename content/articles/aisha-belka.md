@@ -57,23 +57,11 @@ She converts and advances to Level 4; DanMachi 10 confirms her new Familia is He
 
 **All four printed chant lines — DanMachi 7 translation (FM07).**[@hell-kaios.fm07-chant]
 
-> Masculine warrior, strong soldier, greedy and unjust hero!
-
-> Prove your desire for the Empress’s throne!
-
-> Satisfy my body, penetrate and kill it to show your worth!
-
-> My famished blade is Hipporyute!
+> Masculine warrior, strong soldier, greedy and unjust hero! Prove your desire for the Empress’s throne! Satisfy my body, penetrate and kill it to show your worth! My famished blade is Hipporyute!
 
 **All four printed chant lines — DanMachi 14 translation (FM14).**[@hell-kaios.fm14-amphisbaena]
 
-> Come, reckless conqueror!
-
-> Oh brave warrior, oh strong hero, oh covetous, cruel champion.
-
-> Prove your desire for the queen’s girdle.
-
-> My famished blade is Hippolyta!
+> Come, reckless conqueror! Oh brave warrior, oh strong hero, oh covetous, cruel champion. Prove your desire for the queen’s girdle. My famished blade is Hippolyta!
 
 {{nocite}} **Notes and other printed variants**
 

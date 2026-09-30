@@ -136,17 +136,7 @@ In Astrea Record 1 a messenger reports that the witch seems immune even to the s
 
 **Complete printed chant; original ellipsis preserved (AR03).**[@genos-angelus.ar03-chant]
 
-> O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise…
-
-> There is no ablution, purification, or solace. Heaven’s bell begets my sin.
-
-> O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act.
-
-> O wretched life of mine; the god’s most blessed craft, hearken now my hate!
-
-> Here is my confession! The price of my sin, I pay in full!
-
-> Hear the howl of the holy belfry!
+> O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise… There is no ablution, purification, or solace. Heaven’s bell begets my sin. O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act. O wretched life of mine; the god’s most blessed craft, hearken now my hate! Here is my confession! The price of my sin, I pay in full! Hear the howl of the holy belfry!
 
 {{nocite}} **Notes and other printed variants**
 

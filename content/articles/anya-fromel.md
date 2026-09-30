@@ -168,13 +168,7 @@ Its chant is printed once, in four pieces, in DanMachi 18. The first printed lin
 
 **All printed chant words (DanMachi 18).** The beginning may be unprinted; the novel has the listeners hear her near the end of casting.[@fm18-remisto]
 
-> Gray skies, lost home, darkness falls, ruins’ rain.
-
-> Headless eyes, questioning statue. What are you, what are you? You are a kitten, a lost little wheel. I am servant to tears and sobs,
-
-> Where is my home? There is no answer. Ask the birds. There is no reply. That is why I cry. Singing to the back of my only family.
-
-> Please don’t abandon me—Remisto Felis
+> Gray skies, lost home, darkness falls, ruins’ rain. Headless eyes, questioning statue. What are you, what are you? You are a kitten, a lost little wheel. I am servant to tears and sobs, Where is my home? There is no answer. Ask the birds. There is no reply. That is why I cry. Singing to the back of my only family. Please don’t abandon me—Remisto Felis
 
 > [!UNRESOLVED] Limits of Remisto Felis
 > The effect's duration, its radius, its Mind cost and the exact size of the reduction are not given.

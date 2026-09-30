@@ -55,9 +55,7 @@ Her spells come in three kinds, attack, defence and healing, each at three level
 
 **Complete printed chant in this edition (SO01).**[@wynn-fimbulvetr.so01-riveria]
 
-> Harbinger of the end, white snow. Gust before the twilight.
-
-> Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf!
+> Harbinger of the end, white snow. Gust before the twilight. Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -110,15 +108,7 @@ The usual printed form is *Rea Laevateinn*. In Sword Oratoria 7 Riveria herself 
 
 **All printed Rea Laevateinn lines in this concatenated cast; not asserted to be a standalone complete chant (SO04).**[@rea-laevateinn.so04-concat]
 
-> A blaze shall soon descend.
-
-> Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed.
-
-> Come crimson pyre, merciless inferno. Become hellfire.
-
-> Purge the battlefield, end the war.
-
-> Incinerate, sword of Surtr—My name is Alf!!
+> A blaze shall soon descend. Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed. Come crimson pyre, merciless inferno. Become hellfire. Purge the battlefield, end the war. Incinerate, sword of Surtr—My name is Alf!!
 
 {{nocite}} **Notes and other printed variants**
 
@@ -164,9 +154,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 **Complete printed chant (SO04).**[@via-shilheim.so04-cast]
 
-> Dance, spirits of the air, keepers of the light! Forge thy pledge with the forest’s protectors and envelop us in the psalm of the earth! Surround us!
-
-> Materialize, mighty barrier of forest’s light, and lend us your protection—my name is Alf!
+> Dance, spirits of the air, keepers of the light! Forge thy pledge with the forest’s protectors and envelop us in the psalm of the earth! Surround us! Materialize, mighty barrier of forest’s light, and lend us your protection—my name is Alf!
 
 {{nocite}} **Notes and other printed variants**
 

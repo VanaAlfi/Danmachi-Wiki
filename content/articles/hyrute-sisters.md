@@ -56,9 +56,7 @@ In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's l
 
 **Complete printed chant (SO07).**[@restrict-iorum.so07-cast]
 
-> Desire, submersed in the sea of my heart; thirst, borne from the seas of my heart—the time has come,
-
-> Take shape, bare your fangs, and become the serpent. Free yourself of the sea, cross the rising knolls, and engulf the world. Time is yours for the taking. Halt fate’s ticking seconds, and banish it to the void!
+> Desire, submersed in the sea of my heart; thirst, borne from the seas of my heart—the time has come, Take shape, bare your fangs, and become the serpent. Free yourself of the sea, cross the rising knolls, and engulf the world. Time is yours for the taking. Halt fate’s ticking seconds, and banish it to the void!
 
 {{nocite}} **Notes and other printed variants**
 

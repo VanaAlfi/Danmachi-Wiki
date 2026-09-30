@@ -58,19 +58,7 @@ Sword Oratoria 8 presents his contempt for weakness as a response to these losse
 
 **Complete printed chant (SO08).**[@hati.so08-cast]
 
-> Chained Fros, king of the wolves
-
-> The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears.
-
-> Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence.
-
-> Denounce the world. Acknowledge fate. And dry thy tears.
-
-> May the pain become your fangs, the lament your roar—and your lost companions your strength.
-
-> Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup.
-
-> Bare your fangs—and devour all.
+> Chained Fros, king of the wolves The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears. Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence. Denounce the world. Acknowledge fate. And dry thy tears. May the pain become your fangs, the lament your roar—and your lost companions your strength. Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup. Bare your fangs—and devour all.
 
 {{nocite}} **Notes and other printed variants**
 

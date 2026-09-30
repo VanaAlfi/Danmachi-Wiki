@@ -48,13 +48,7 @@ When Apollo is exiled from [[orario|Orario]], a small group of his followers, in
 
 **All printed chant lines; action interrupts the last sentence (FM06).**[@aro-zephyros.fm06-duel]
 
-> —My name is love, child of light. Glorious son, I offer you my body!
-
-> My name is sin, jealously of the wind. This body calls forth your gust!
-
-> Come forth, ring of fire—!
-
-> —on westerly winds!
+> —My name is love, child of light. Glorious son, I offer you my body! My name is sin, jealously of the wind. This body calls forth your gust! Come forth, ring of fire—! —on westerly winds!
 
 {{nocite}} **Notes and other printed variants**
 

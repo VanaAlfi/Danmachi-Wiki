@@ -58,11 +58,7 @@ In Minor Myths and Legends 2 she makes the Unicorn Cup from a horn that was free
 
 **Fullest printed chant (SO11).**[@dia-frater.so11-barca]
 
-> Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things.
-
-> Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality.
-
-> In the name of all that is holy—I heal you.
+> Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things. Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality. In the name of all that is holy—I heal you.
 
 {{nocite}} **Notes and other printed variants**
 

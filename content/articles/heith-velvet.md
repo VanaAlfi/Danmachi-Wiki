@@ -53,11 +53,7 @@ Heith first went through the "baptism" of [[folkvangr|Folkvangr]] as one of the 
 
 **All three printed pieces; completeness uncertain (FM18).**[@zeo-gullveig.fm18-cast]
 
-> —My name is Gold. Arm of the goddess who vows immortality.
-
-> Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low.
-
-> Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.
+> —My name is Gold. Arm of the goddess who vows immortality. Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low. Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.
 
 {{nocite}} **Notes and other printed variants**
 

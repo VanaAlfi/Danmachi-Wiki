@@ -21,7 +21,8 @@
       {"label": "Title", "value": "Gale Wind", "refs": ["fm05-past"]},
       {"label": "Familia", "value": "Astrea Familia; [[hestia-familia|Hestia Familia]] from DanMachi 19", "refs": ["fm15-origins", "fm19-lyu"]},
       {"label": "Level", "value": "4 in DanMachi 5; 6 from DanMachi 18", "refs": ["fm05-past", "fm18-double"]},
-      {"label": "Registered name", "value": "Lyu Astrea (see [[#name|Name]])", "refs": ["fm19-lyu"]}
+      {"label": "Registered name", "value": "Lyu Astrea (see [[#name|Name]])", "refs": ["fm19-lyu"]},
+      {"label": "Skills", "value": "[[skills#fairy-serenade|Fairy Serenade]], [[skills#mind-load|Mind Load]], [[skills#aero-mana|Aero Mana]], [[skills#astrae-varmas|Astrae Varmas]]", "refs": ["skills.fc03-cards"]}
     ]
   }
 }
@@ -69,6 +70,7 @@ Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Famili
 - **[[#luminous-wind|Luminous Wind]]**, an attack spell she uses from DanMachi 5 onward.[@fm05-goliath, fc03-magic]
 - **[[#noa-heal|Noah Heal]]**, a healing spell.[@so05-heal]
 - [[#astrea-record-spell|Astrea Record]], which lets her alone use the magic of her dead Astrea Familia companions. It depends on her state of mind, can bring on Mind Down when overused, and survives her conversion.[@fc03-magic, fm18-record]
+- Her Level 5 and Level 6 cards list four [[skills|Skills]]: [[skills#fairy-serenade|Fairy Serenade]], which strengthens her magic, more so at night; [[skills#mind-load|Mind Load]], which spends Mind to raise her Strength when she attacks; [[skills#aero-mana|Aero Mana]], which raises her attack strength with her running speed; and [[skills#astrae-varmas|Astrae Varmas]], new at Level 5, which strengthens allies who share her god and gives everyone in range resistance to psychological corruption.[@skills.fc03-cards] Her Level 3 character sheet in Astrea Record 1 already lists Fairy Serenade and Mind Load.[@skills.ar01-sheet]
 
 ## Magic {#magic}
 
@@ -201,8 +203,8 @@ Later in DanMachi 18 the opening line is printed again without "the", followed b
 | Name as printed | Companion | What it does |
 |---|---|---|
 | [[#agris-arvensis|Agris Arvensis]] (also printed *Agaris Alvesince*) | Alize Lovell | Fire enchantment on arms, legs and weapon[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast] |
-| Gokou | Kaguya Gojouno | "A magic that merely created a magic slash in the positions she set"; Kaguya combined it with her draw to make five slashes from all sides[@astrea-record-spell.fm18-gokou] |
-| Rea Vindemia | Maryu, the Familia's only healer | Area healing; Lyu's own [[#noa-heal|Noa Heal]] targets one person and is slow[@astrea-record-spell.fm18-maryu, astrea-record-spell.ar03-maryu] |
+| [[magic#gokou|Gokou]] | Kaguya Gojouno | "A magic that merely created a magic slash in the positions she set"; Kaguya combined it with her draw to make five slashes from all sides[@astrea-record-spell.fm18-gokou] |
+| [[magic#rea-vindemia|Rea Vindemia]] | Maryu, the Familia's only healer | Area healing; Lyu's own [[#noa-heal|Noa Heal]] targets one person and is slow[@astrea-record-spell.fm18-maryu, astrea-record-spell.ar03-maryu] |
 | "Moose Mine", "Irivute" | Not stated | Named in Familia Chronicle 3 alongside the other companions' powers[@astrea-record-spell.fc03-others] |
 
 DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, including a dedicated healer's area-healing spell.[@astrea-record-spell.fm19-eina]
@@ -280,6 +282,8 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@fc01-casino]: FC01 | Crush the Grand Casino! | The casino; morning training with Bell.
 [@fc03-stages]: FC03 | The Locus of Stars | Astrea's staged updates.
 [@fc03-magic]: FC03 | The Locus of Stars | Astrea Record; Luminous Wind.
+[@skills.fc03-cards]: FC03 | The Locus of Stars | Level 5 and 6 cards: Fairy Serenade, Mind Load, Aero Mana, Astrae Varmas.
+[@skills.ar01-sheet]: AR01 | | Illustrated character sheet, pp. 262–263 (Level 3): Fairy Serenade, Mind Load.
 [@so05-heal]: SO05 | | Noah Heal.
 [@ar01-lyu]: AR01 | | Lyu at fourteen.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.

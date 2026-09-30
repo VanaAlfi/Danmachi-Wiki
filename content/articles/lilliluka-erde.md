@@ -21,7 +21,7 @@
       {"label": "Level", "value": "1; 2 from DanMachi 15", "refs": ["fm15-card"]},
       {"label": "Title", "value": "Little Marshal", "refs": ["fm20-marshal"]},
       {"label": "Magic", "value": "[[#cinder-ella|Cinder Ella]]", "refs": ["fm15-card"]},
-      {"label": "Skills", "value": "Artel Assist, Command Call, Mind Call", "refs": ["fm08-card", "fm15-card", "fm18-mindcall"]}
+      {"label": "Skills", "value": "[[skills#artel-assist|Artel Assist]], [[skills#command-call|Command Call]] (probably also printed as Mind Call)", "refs": ["fm08-card", "fm15-card", "fm18-mindcall"]}
     ]
   }
 }
@@ -45,9 +45,9 @@ In the Familia War of DanMachi 18 she commands the coalition and uses Cinder Ell
 ## Abilities
 
 - **Cinder Ella** changes her appearance to the form she pictures while casting. It works best when copying a real form, has limits on how far it can change her body size, and can even imitate small monsters, but it never raises her Status.[@fm15-card, fm03-cinder, fm11-aruru]
-- **Artel Assist** helps her carry loads; it activates above a certain weight and grows with it. DanMachi 15 prints the name as *Arter Assist*.[@fm08-card, fm15-card]
-- **Command Call** extends how far her shouted instructions carry, but only to people with the same Falna.[@fm15-card]
-- **Mind Call**, gained when she reaches Level 2, allows telepathic contact with people who share her blessing.[@fm18-mindcall]
+- **[[skills#artel-assist|Artel Assist]]** helps her carry loads; it activates above a certain weight and grows with it. DanMachi 15 prints the name as *Arter Assist*.[@fm08-card, fm15-card]
+- **[[skills#command-call|Command Call]]**, which appears at the update that lets her reach Level 2, extends how far her shouted instructions carry, telepathically, but only to people with the same Falna.[@fm15-card]
+- **Mind Call** is the name DanMachi 18 gives to the Skill she developed at her Level Up, which allows telepathic contact with people who share her blessing. It is probably Command Call under another name, not a third Skill {{inference}}.[@fm18-mindcall, fm15-card]
 
 ## Magic {#magic}
 

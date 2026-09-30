@@ -45,7 +45,7 @@ The novels treat a lost limb as something healing cannot restore. In DanMachi 11
 
 ## Sacrifice in the Familia War
 
-In the Familia War of DanMachi 18, the prum Berling of the [[gulliver-brothers|Gulliver brothers]] swings his ax at Nahza. Even with his abilities lowered, it is a first-tier adventurer's blow, but the arm stops it: half-severed, its many joints trap the ax "like a silver snake".[@fm18-sacrifice] Nahza lets the arm go, although the loans taken out for it are far from repaid, and at point-blank range casts her only spell, **Darbh Daol**. Black particles pour from the broken arm and the anti-status magic leaves Berling exhausted.[@fm18-sacrifice]
+In the Familia War of DanMachi 18, the prum Berling of the [[gulliver-brothers|Gulliver brothers]] swings his ax at Nahza. Even with his abilities lowered, it is a first-tier adventurer's blow, but the arm stops it: half-severed, its many joints trap the ax "like a silver snake".[@fm18-sacrifice] Nahza lets the arm go, although the loans taken out for it are far from repaid, and at point-blank range casts her only spell, [[magic#darbh-daol|Darbh Daol]]. Black particles pour from the broken arm and the anti-status magic leaves Berling exhausted.[@fm18-sacrifice]
 
 The narration makes the magic Nahza's own, not a power built into the arm: she manifested it when she lost her right arm, and it has an anti-status effect like [[anya-fromel|Anya]]'s.[@fm18-sacrifice]
 

@@ -58,11 +58,11 @@ As Ottar finishes his own chant, Zald roars his, told from Ottar's point of view
 
 #### Effect {#rea-ambrosia-effect}
 
-Zald's weapon is clad in "the fires of calamity"; one swing spreads the fire through the arena, and the wall of ice around them begins to melt and crack.[@rea-ambrosia.ar03-cast] His flaming blade then meets Ottar's weapon, golden with [[#hildis-vini|Hildis Vini]]. The collision sends shock waves through the city and brings down the ice wall and barrier, but that is the result of both attacks together.[@rea-ambrosia.ar03-clash] Zald loses the duel.[@rea-ambrosia.ar03-defeat]
+Zald's weapon is clad in "the fires of calamity"; one swing spreads the fire through the arena, and the wall of ice around them begins to melt and crack.[@rea-ambrosia.ar03-cast] His flaming blade then meets Ottar's weapon, golden with [[magic#hildis-vini|Hildis Vini]]. The collision sends shock waves through the city and brings down the ice wall and barrier, but that is the result of both attacks together.[@rea-ambrosia.ar03-clash] Zald loses the duel.[@rea-ambrosia.ar03-defeat]
 
 #### Not Deus Ambrosia {#rea-ambrosia-not-deus-ambrosia}
 
-Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Familia explain that Zald has a Rare Skill called **Deus Ambrosia**, activated by eating: it is why he is called the Glutton. Gareth adds that Zald ate the flesh of the Behemoth to defeat it.[@rea-ambrosia.ar03-deus] That Skill is separate from the spell Rea Ambrosia.
+Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Familia explain that Zald has a Rare Skill called **[[skills#deus-ambrosia|Deus Ambrosia]]**, activated by eating: it is why he is called the Glutton. Gareth adds that Zald ate the flesh of the Behemoth to defeat it.[@rea-ambrosia.ar03-deus] That Skill is separate from the spell Rea Ambrosia.
 
 {{nocite}} Notable uses and open questions for Rea Ambrosia are on the combined page: [[magic#rea-ambrosia|Magic § Rea Ambrosia]].
 

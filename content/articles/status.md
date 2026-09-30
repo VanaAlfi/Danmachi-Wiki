@@ -8,7 +8,7 @@
   "summary": "The record a god writes on a follower's back through the Falna: Level, basic abilities, Development Abilities, magic and Skills. It changes only when the god updates it.",
   "aliases": ["Status update"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 1 and Familia Chronicle Vols. 1 and 3",
-  "related": ["falna", "level", "development-ability", "liaris-freese", "bell-cranell", "hestia"],
+  "related": ["falna", "level", "development-ability", "skills", "bell-cranell", "hestia"],
   "infobox": {
     "title": "Status",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -33,7 +33,7 @@ A **Status** is the record a god writes on a follower's back through the [[falna
 | Basic abilities | Strength, Defense, Dexterity, Agility and Magic, each with a rank and a value.[@so01-status, fm01-abilities] |
 | [[development-ability|Development Abilities]] | Chosen one at a time at Level Ups; each has its own rank.[@fm04-choice, fm18-sheet] |
 | Magic | At most three spells; see [[magic|Magic]].[@fm01-magic] |
-| Skills | Abilities such as [[bell-cranell|Bell]]'s [[liaris-freese|Liaris Freese]] or Argonaut.[@fm01-hidden, fm04-argonaut] |
+| Skills | Abilities such as [[bell-cranell|Bell]]'s [[skills#liaris-freese|Liaris Freese]] or [[skills#argonaut|Argonaut]]; see [[skills|Skills]].[@fm01-hidden, fm04-argonaut] |
 
 The names of the basic abilities vary slightly in print: Bell's early cards list *Utility* where later cards have Dexterity, and Familia Chronicle 3 prints *Endurance* for Defense.[@fm04-utility, fc03-card] Ranks and ceilings are covered on the [[falna|Falna]] page.
 

@@ -17,7 +17,8 @@
       {"label": "Race", "value": "Amazon", "refs": ["fm02-sisters", "fm05-sisters"]},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-tione"]},
       {"label": "Level", "value": "6 each, from Sword Oratoria 6", "refs": ["so06-sisters"]},
-      {"label": "Development Ability", "value": "Dive, gained at Level 6", "refs": ["so06-sisters"]}
+      {"label": "Development Ability", "value": "Dive, gained at Level 6", "refs": ["so06-sisters"]},
+      {"label": "Skills", "value": "Both: [[skills#berserk|Berserk]]. Tiona: [[skills#intense-heat|Intense Heat]]. Tione: [[skills#backdraft|Backdraft]]", "refs": ["skills.so06-berserk", "skills.so06-heat"]}
     ]
   }
 }
@@ -30,9 +31,11 @@ Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] In Da
 
 ## Tione
 
-Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats Argana.[@so06-tione] In Sword Oratoria 7 her Skill Berserk reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster Gugalanna.[@so07-tione]
+Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats Argana.[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster Gugalanna.[@so07-tione]
 
 ## Together
+
+Both sisters have the Skill **[[skills#berserk|Berserk]]**, which raises their attack power the more damage they take; Tione's also grows with her anger.[@skills.so06-berserk] Tiona's rare Skill **[[skills#intense-heat|Intense Heat]]** and Tione's **[[skills#backdraft|Backdraft]]** share the same activation requirements: a massive boost once their Status turns critical, before Berserk has run its course. The more they are cornered, the stronger they fight.[@skills.so06-heat]
 
 In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's legs while Tione binds it.[@so07-tiona, so07-tione] In DanMachi 17, after [[freya|Freya]]'s charm is broken, they fight [[hegni|Hegni]] with Aiz and [[lyu-leon|Lyu]].[@fm17-sisters]
 
@@ -73,6 +76,8 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@fm11-tiona]: FM11 | | Tiona lets Wiene escape.
 [@fm17-sisters]: FM17 | | Aiz, Tiona, Tione and Lyu against Hegni.
 [@so06-sisters]: SO06 | | Level 6 and Dive; Telskyura; Tiona and Bache.
+[@skills.so06-berserk]: SO06 | Chapter 5: A Duo of Sun and Moon | Berserk: Tiona's, the same as her sister's; Tione's fury.
+[@skills.so06-heat]: SO06 | Chapter 5: A Duo of Sun and Moon | Intense Heat, a rare skill; Backdraft; the same activation requirements.
 [@so06-tione]: SO06 | | Seldas; Argana.
 [@so07-tiona]: SO07 | | Tiona and Gugalanna.
 [@so07-tione]: SO07 | | Berserk; Restrict Iorum.

@@ -20,6 +20,7 @@
       {"label": "Level", "value": "5; 6 from Sword Oratoria 6", "refs": ["so06-bete"]},
       {"label": "First title", "value": "Fenris", "refs": ["so08-vidarr"]},
       {"label": "Magic", "value": "[[#hati|Hati]]", "refs": ["so08-hati"]},
+      {"label": "Skills", "value": "[[skills#ulfhedinn|Úlfheðinn]], [[skills#fenris-wolf|Fenris Wolf]], [[skills#solmani|Solmani]]", "refs": ["skills.so05-sheet", "skills.so10-solmani"]},
       {"label": "Equipment", "value": "Frosvirt, made by Tsubaki", "refs": ["so08-hati"]}
     ]
   }
@@ -36,6 +37,8 @@ Sword Oratoria 8 presents his contempt for weakness as a response to these losse
 ## Abilities
 
 - **[[#hati|Hati]]** is his own magic, which he long refused to use. It drains damage, growing stronger the more he is hurt. His boots Frosvirt, made for him by [[tsubaki|Tsubaki]], are a weaker version of it.[@so08-hati]
+- **[[skills#solmani|Solmani]]** is a powerful, rare Skill that raises his strength and agility as he accelerates.[@skills.so10-solmani]
+- His Sword Oratoria 5 Status sheet also lists **[[skills#ulfhedinn|Úlfheðinn]]**, which in moonlight transforms him into a werewolf, greatly raises all his abilities and neutralises abnormal statuses, and **[[skills#fenris-wolf|Fenris Wolf]]**, which raises his running speed.[@skills.so05-sheet]
 
 ## Magic {#magic}
 
@@ -108,6 +111,8 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so08-vidarr]: SO08 | Chapter 2: Did Someone Order a Wolf? | Víðarr Familia; Fenris; the vice-captain.
 [@so08-drove]: SO08 | Chapter 3: Unshed Tears | Driving his former comrades away.
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Hati; Frosvirt; Valletta; the reconciliation.
+[@skills.so10-solmani]: SO10 | Interlude: Their Respective Battles | Solmani, his rare sprinting Skill.
+[@skills.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Úlfheðinn, Fenris Wolf, Solmani.
 [@so12-bete]: SO12 | | Pseudo-Level 7 against Filvis.
 [@so13-bete]: SO13 | Chapter 1: Girl’s Revolution | Training Lefiya.
 [@hati.so08-cast]: SO08 | Chapter 5: Battered Wolf | Chant in seven pieces; "Hati."; the pyre; four flames.

@@ -29,7 +29,7 @@ Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use
 
 ## Shakti and Ardee
 
-The captain, Shakti Varma, titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi]
+The captain, Shakti Varma, titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood and Dharmas Algo, the second a passive boost for Familia members around her.[@skills.ar02-sheet]
 
 ## History
 
@@ -54,4 +54,5 @@ The captain, Shakti Varma, titled *Ankusha*, is the Familia's strongest first-ti
 [@fc03-adi]: FC03 | Girl in Twilight | "Adi Varma."
 [@ar01-shakti]: AR01 | | Shakti loses Ardee.
 [@ar02-shakti]: AR02 | | Shakti chooses the future.
+[@skills.ar02-sheet]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Ganapati Blood, Dharmas Algo.
 [@ar03-sword]: AR03 | Prologue: Last Intermission | Sacred Oath, carried with Shakti's permission.

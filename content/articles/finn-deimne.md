@@ -21,7 +21,8 @@
       {"label": "Position", "value": "Captain and field general", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-finn", "so14-sevens"]},
       {"label": "Title", "value": "Braver", "refs": ["so03-titles"]},
-      {"label": "Magic", "value": "[[#hell-finegas|Hell Finegas]]", "refs": ["so14-finn"]}
+      {"label": "Magic", "value": "[[#hell-finegas|Hell Finegas]]", "refs": ["so14-finn"]},
+      {"label": "Skills", "value": "[[skills#finn-skills|Prum Spirit, Noble Brave, Dia Phiana, Command Howl, Ail mac Midna]]", "refs": ["skills.so08-sheet"]}
     ]
   }
 }
@@ -47,6 +48,10 @@ Finn leads through planning. In Astrea Record 1 he directs [[orario|Orario]]'s d
 | Sword Oratoria 11 | Plans the five-front assault on [[knossos|Knossos]] and orders a precautionary retreat.[@so11-finn] |
 | Sword Oratoria 12 | Commands six fronts at once, hands two of them to Lilly, and identifies the demi-spirit Nidhogg as the real target.[@so12-finn] |
 | DanMachi 18 | Judges [[ottar|Ottar]] to be on the verge of Level 8.[@fm18-braver] |
+
+## Skills {#skills}
+
+His Status sheet in Sword Oratoria 8, at Level 6, lists five Skills: Prum Spirit, stronger magic and Skills in adversity; Noble Brave, high resistance to mind corruption; Dia Phiana, which lends him the Development Ability Lancer while he holds a spear; Command Howl, which carries his shouted voice further; and Ail mac Midna, resistance to sleep and to fire. See [[skills#finn-skills|Skills § Finn Deimne's Skills]].[@skills.so08-sheet]
 
 ## Magic {#magic}
 
@@ -108,6 +113,7 @@ Sword Oratoria 7 calls Hell Finegas Finn's "Berserker spell".[@hell-finegas.so07
 [@so11-finn]: SO11 | | The five-front assault.
 [@so12-finn]: SO12 | | Six fronts; Nidhogg.
 [@so14-finn]: SO14 | | His name, vow and first Falna; the founding.
+[@skills.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): five Skills.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7.
 [@ar01-finn]: AR01 | | Directing the defence.
 [@ar03-finn]: AR03 | | The deception across the city.

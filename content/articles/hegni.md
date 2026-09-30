@@ -80,6 +80,27 @@ Hegni plants his black sword in the ground and a black magic circle spreads arou
 
 {{nocite}} Notable uses and open questions for Dáinsleif are on the combined page: [[magic#dainsleif|Magic § Dáinsleif]].
 
+### Burn Dáin {#burn-dain}
+
+**Burn Dáin** is a fire spell of Hegni Ragnar's: "a short-range explosive fire spell" whose range is traded for enough destructive force to incinerate every enemy inside its area.[@burn-dain.fc02-ottar, burn-dain.fm18-allen]
+
+- **User:** Hegni Ragnar[@burn-dain.fc02-ottar]
+- **Type:** Short-range explosive fire[@burn-dain.fc02-ottar, burn-dain.fm18-allen]
+- **Chant:** One sentence (super-short)[@burn-dain.fc02-ottar, burn-dain.fm18-allen]
+
+#### Incantation {#burn-dain-incantation}
+
+Both prints give the same single sentence, then the name, and both call it a super-short cast.[@burn-dain.fc02-ottar, burn-dain.fm18-allen]
+
+- **Chant:** "By the power of the demon blade, bring eternal destruction."[@burn-dain.fc02-ottar, burn-dain.fm18-allen]
+- **Name:** "Burn Dáin."[@burn-dain.fc02-ottar] DanMachi 18 prints it with an exclamation mark.[@burn-dain.fm18-allen]
+
+#### Effect {#burn-dain-effect}
+
+An eruption of flame pours from his outstretched arm, lit brighter by the black magic circle at his feet.[@burn-dain.fc02-ottar] In DanMachi 18 it strikes [[allen-fromel|Allen]] "at super-close range" and blows him away; Allen escapes the worst by throwing himself into the air.[@burn-dain.fm18-allen]
+
+{{nocite}} Notable uses and open questions for Burn Dáin are on the combined page: [[magic#burn-dain|Magic § Burn Dáin]].
+
 ## History
 
 | Volume | Events |
@@ -118,3 +139,5 @@ Hegni plants his black sword in the ground and a black magic circle spreads arou
 [@dainsleif.ar03-worn]: AR03 | Chapter 6: The Nameless Heroes | "Hegni’s Dáinsleif had finally worn off."
 [@dainsleif.ss01-sword]: SS01 | | A sword called Dáinsleif offered to Aiz.
 [@dainsleif.ss02-core]: SS02 | | Still the same person; the alter ego's name; mixed thoughts.
+[@burn-dain.fc02-ottar]: FC02 | The Origin of the Strongest | The chant; a super-short cast; "a short-range explosive fire spell"; against Ottar.
+[@burn-dain.fm18-allen]: FM18 | Chapter 9: Flower Language for You | The hidden chant; "Burn Dáin!"; Allen blown away at super-close range.

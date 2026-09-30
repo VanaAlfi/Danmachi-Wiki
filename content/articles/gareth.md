@@ -19,7 +19,8 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-gareth"]},
       {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-gareth", "so14-sevens"]},
-      {"label": "Title", "value": "Elgarm", "refs": ["so04-elgarm"]}
+      {"label": "Title", "value": "Elgarm", "refs": ["so04-elgarm"]},
+      {"label": "Skills", "value": "[[skills#gareth-skills|Dvergr Enhance, Ardigalea]]", "refs": ["skills.so07-sheet"]}
     ]
   }
 }
@@ -40,6 +41,10 @@ Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and
 | Sword Oratoria 9 | Teaches the young [[aiz-wallenstein|Aiz]] to look after her weapons and herself; in the present he finds and destroys a coastal route into [[knossos|Knossos]].[@so09-gareth] |
 | Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and [[xenos|Xenos]].[@so10-gareth] |
 
+## Skills {#skills}
+
+His Status sheet in Sword Oratoria 7, at Level 6, lists two Skills: Dvergr Enhance, which raises his Strength, and Ardigalea, which raises his Endurance and his resistance to attack magic. See [[skills#gareth-skills|Skills § Gareth Landrock's Skills]].[@skills.so07-sheet]
+
 ## Name
 
 DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
@@ -53,6 +58,7 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
 [@fm08-gareth]: FM08 | Prologue: Attack of the War God | Gareth against Rakia's cavalry.
 [@so04-elgarm]: SO04 | | Elgarm.
 [@so07-gareth]: SO07 | | Inferno Stones; Gugalanna.
+[@skills.so07-sheet]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Dvergr Enhance, Ardigalea.
 [@so07-finn]: SO07 | | Finn leaves the rear to Gareth.
 [@so09-gareth]: SO09 | | Teaching Aiz; the coastal Knossos route.
 [@so10-gareth]: SO10 | | The surface battle and the rescue.

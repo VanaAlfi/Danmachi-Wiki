@@ -19,7 +19,8 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "7, from Sword Oratoria 14", "refs": ["so14-sevens"]},
       {"label": "Title", "value": "Nine Hell", "refs": ["so03-titles"]},
-      {"label": "Magic", "value": "Nine spells in three kinds, including [[#rea-laevateinn|Rea Laevateinn]] and [[#wynn-fimbulvetr|Wynn Fimbulvetr]]", "refs": ["so01-riveria", "so04-nine"]}
+      {"label": "Magic", "value": "Nine spells in three kinds, including [[#rea-laevateinn|Rea Laevateinn]] and [[#wynn-fimbulvetr|Wynn Fimbulvetr]]", "refs": ["so01-riveria", "so04-nine"]},
+      {"label": "Skills", "value": "[[skills#fairy-anthem|Fairy Anthem]], [[skills#alf-regina|Alf Regina]]", "refs": ["skills.so06-sheet", "skills.so10-alf"]}
     ]
   }
 }
@@ -29,6 +30,12 @@
 ## Early life
 
 At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a green dragon. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
+
+## Skills {#skill}
+
+Her Status sheet in Sword Oratoria 6 lists two Skills. **[[skills#fairy-anthem|Fairy Anthem]]** increases the effect and range of her magic, and greatly increases its power the longer the chant.[@skills.so06-sheet]
+
+Riveria's rare Skill **[[skills#alf-regina|Alf Regina]]**, which no one else has developed, spreads a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening her own abilities and their magic. Loki wanted to call it "Fairy Force"; Riveria refused.[@skills.so10-alf] In Sword Oratoria 10 Finn plans the surprise raid on [[knossos|Knossos]] around it.[@skills.so10-alf]
 
 ## Magic
 
@@ -239,6 +246,8 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@so04-nine]: SO04 | | Nine spells and her title.
 [@so09-riveria]: SO09 | | Raising Aiz; Floor 12.
 [@so10-riveria]: SO10 | | The raid into Knossos.
+[@skills.so10-alf]: SO10 | Chapter 5: Brave Soul! | Alf Regina: effect, "Fairy Force", Finn's plan.
+[@skills.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Fairy Anthem, Alf Regina.
 [@so11-riveria]: SO11 | | The Floor 12 diversion.
 [@so13-riveria]: SO13 | | Lefiya's rescue.
 [@so14-riveria]: SO14 | | Leaving the royal forest; the green dragon.

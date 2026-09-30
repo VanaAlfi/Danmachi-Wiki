@@ -8,7 +8,7 @@
   "summary": "Human swordswoman of Loki Familia, called the Kenki or Sword Princess, who saves Bell Cranell in DanMachi 1 and is the lead of Sword Oratoria. Level 6 from DanMachi 2.",
   "aliases": ["Kenki", "Sword Princess"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–12 and Astrea Record Vols. 2 and 3",
-  "related": ["bell-cranell", "liaris-freese", "level", "development-ability", "the-benevolent-mistress", "hestia", "magic"],
+  "related": ["bell-cranell", "skills", "level", "development-ability", "the-benevolent-mistress", "hestia", "magic"],
   "infobox": {
     "title": "Aiz Wallenstein",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -18,14 +18,14 @@
       {"label": "Level", "value": "5 in DanMachi 1; 6 from DanMachi 2 (see [[#levels|Levels]])", "refs": ["fm01-aiz", "fm02-level6"]},
       {"label": "Title", "value": "Kenki, also rendered Sword Princess", "refs": ["fm04-kenki", "so04-princess"]},
       {"label": "Magic", "value": "[[#airiel|Airiel]]", "refs": ["so03-update"]},
-      {"label": "Skills", "value": "Avenger", "refs": ["so12-avenger"]},
+      {"label": "Skills", "value": "[[skills#avenger|Avenger]]", "refs": ["so12-avenger"]},
       {"section": "Family"},
       {"label": "Mother", "value": "Aria", "refs": ["so03-aria"]}
     ]
   }
 }
 ---
-**Aiz Wallenstein** is a swordswoman of [[loki-familia|Loki Familia]], known by the title *Kenki*, which Sword Oratoria renders as *Sword Princess*.[@fm01-aiz, fm04-kenki, so04-princess] In DanMachi 1 she saves [[bell-cranell|Bell Cranell]] from a Minotaur, and his admiration for her drives his Skill, [[liaris-freese|Liaris Freese]].[@fm01-aiz, fm08-skill] She is the main character of Sword Oratoria.
+**Aiz Wallenstein** is a swordswoman of [[loki-familia|Loki Familia]], known by the title *Kenki*, which Sword Oratoria renders as *Sword Princess*.[@fm01-aiz, fm04-kenki, so04-princess] In DanMachi 1 she saves [[bell-cranell|Bell Cranell]] from a Minotaur, and his admiration for her drives his Skill, [[skills#liaris-freese|Liaris Freese]].[@fm01-aiz, fm08-skill] She is the main character of Sword Oratoria.
 
 ## Levels {#levels}
 
@@ -43,7 +43,7 @@ At Level 6 she gains the Development Ability Regen, which probably became availa
 ## Abilities
 
 - **Airiel** is her wind magic. Sword Oratoria connects the wind to her mother.[@so03-update, so09-wind]
-- **Avenger** is a rare Skill that grows stronger with her desire for revenge; its targets are monsters. Loki calls it the most powerful Skill among her followers.[@so12-avenger] In Sword Oratoria 11 she trains with [[ottar|Ottar]] for seven days and learns to control its black flame rather than be consumed by it.[@so11-ottar]
+- **[[skills#avenger|Avenger]]** is a rare Skill that grows stronger with her desire for revenge; its targets are monsters. Loki calls it the most powerful Skill among her followers.[@so12-avenger] In Sword Oratoria 11 she trains with [[ottar|Ottar]] for seven days and learns to control its black flame rather than be consumed by it.[@so11-ottar]
 
 ## Magic {#magic}
 

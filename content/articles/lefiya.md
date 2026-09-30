@@ -20,7 +20,8 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so01-lefiya"]},
       {"label": "Level", "value": "3; 4 from Sword Oratoria 12", "refs": ["so01-lefiya", "so12-level4"]},
       {"label": "Title", "value": "Thousand Elf", "refs": ["so01-lefiya"]},
-      {"label": "Magic", "value": "[[#arcs-ray|Arcs Ray]], [[#fusillade-fallarica|Fusillade Fallarica]], [[#elf-ring|Elf Ring]]", "refs": ["so01-lefiya", "so03-lefiya"]}
+      {"label": "Magic", "value": "[[#arcs-ray|Arcs Ray]], [[#fusillade-fallarica|Fusillade Fallarica]], [[#elf-ring|Elf Ring]]", "refs": ["so01-lefiya", "so03-lefiya"]},
+      {"label": "Skills", "value": "[[skills#fairy-cannon|Fairy Cannon]], [[skills#double-cannon|Double Cannon]]", "refs": ["skills.so12-card"]}
     ]
   }
 }
@@ -36,6 +37,8 @@ Lefiya passed the [[school-district|School District]]'s entrance interview at ei
 - **[[#arcs-ray|Arcs Ray]]** and **[[#fusillade-fallarica|Fusillade Fallarica]]** are her own attack spells.[@so01-lefiya, so03-lefiya]
 - **Elf Ring** summons other elves' spells, including the Dio Grail of her friend [[filvis|Filvis]].[@so01-lefiya, so05-lefiya]
 - She learns **Concurrent Casting**, casting while moving and fighting.[@so04-lefiya]
+- Her Skill **[[skills#fairy-cannon|Fairy Cannon]]** raises her magic power and doubles her attack magic; it already backs her Arcs Ray in Sword Oratoria 3.[@skills.so12-card, skills.so03-fairy]
+- **[[skills#double-cannon|Double Cannon]]**, a rare Skill that appears when she reaches Level 4, lets her keep one finished spell on standby while she chants another, and fire it with the key "Cannon".[@skills.so12-card, skills.so12-standby]
 
 Her Sword Oratoria 6 card lists the Development Abilities Mage and [[abnormal-resistance|Abnormal Resistance]]. Although eligible for Level 4 then, she delays the promotion to raise her Magic further.[@so06-lefiya]
 
@@ -139,7 +142,7 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 
 - Riveria's spells: Wynn Fimbulvetr in Sword Oratoria 1, [[magic#rea-laevateinn|Rea Laevateinn]] in Sword Oratoria 3 and 13, and her healing magic [[magic#luna-aldis|Luna Aldis]] in Sword Oratoria 12.[@elf-ring.so01-summon, elf-ring.so03-rea, elf-ring.so12-heal, elf-ring.so13-rea] She also summons Riveria's protective [[magic#veil-breath|Veil Breath]] in Sword Oratoria 12 and 13.[@veil-breath.so12-lefiya, veil-breath.so13-students]
 - [[filvis|Filvis]]'s protective barrier [[magic#dio-grail|Dio Grail]], which blocks the corrupted spirit's magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final] In Sword Oratoria 13 she also summons Filvis's lightning, [[magic#dio-thyrsos|Dio Thyrsos]], as rapid fire.[@dio-thyrsos.so13-lefiya]
-- The ice spell of her familia colleague Alicia Forestlight, in Sword Oratoria 13.[@elf-ring.so13-alicia]
+- The ice spell of her familia colleague Alicia Forestlight, [[magic#hail-dust|Hail Dust]], in Sword Oratoria 13.[@elf-ring.so13-alicia]
 
 #### Requirements: a conflict between volumes {#elf-ring-requirements-a-conflict-between-volumes}
 
@@ -182,6 +185,9 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@so07-lefiya]: SO07 | | Knossos's exit; the retreat.
 [@so11-lefiya]: SO11 | | Filvis's apparent death.
 [@so12-level4]: SO12 | | Level 4.
+[@skills.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Fairy Cannon and Double Cannon under Skills.
+[@skills.so03-fairy]: SO03 | Chapter 4: White-Haired Devil | Arcs Ray backed by Fairy Cannon.
+[@skills.so12-standby]: SO12 | Chapter 8: A Heroes’ Chorus | Double Cannon, a rare Skill: one spell on standby while chanting another.
 [@so12-lefiya]: SO12 | | The fight against Filvis.
 [@so13-admitted]: SO13 | Fairy Canon: 1 | Six places for twelve hundred applicants; her admission.
 [@so13-rescue]: SO13 | | The Goliath rescue.

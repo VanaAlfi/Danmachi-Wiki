@@ -17,7 +17,7 @@
       {"label": "Familia", "value": "Takemikazuchi Familia; [[hestia-familia|Hestia Familia]] from DanMachi 6", "refs": ["fm05-mikoto", "fm06-join"]},
       {"label": "Level", "value": "2", "refs": ["fm05-mikoto", "fm15-card"]},
       {"label": "Magic", "value": "[[#futsu-no-mitama|Futsu no Mitama]]", "refs": ["fm05-mikoto", "fm15-card"]},
-      {"label": "Skills", "value": "Yatano Black Crow; Yatano White Crow", "refs": ["fm07-crow", "fm15-card"]},
+      {"label": "Skills", "value": "[[skills#yatano-crows|Yatano Black Crow; Yatano White Crow]]", "refs": ["fm07-crow", "fm15-card"]},
       {"label": "Development Ability", "value": "Immunity", "refs": ["fm08-card"]}
     ]
   }
@@ -28,7 +28,7 @@
 ## Abilities
 
 - **[[#futsu-no-mitama|Futsu no Mitama]]**, her magic, creates a gravity field that crushes everything inside it to the ground, including Mikoto herself. DanMachi 6 prints it as *Futsu no Tama*.[@fm05-mikoto, fm06-gravity]
-- **Yatano Black Crow** and **Yatano White Crow** are Skills, not spells, revealed in DanMachi 7: the first senses monsters she has gained excelia from, the second senses her allies, and using them drains Mind. Her DanMachi 15 card lists both under Skills. She uses the first to keep watch in DanMachi 9.[@fm07-crow, fm09-crow, fm15-card]
+- **[[skills#yatano-crows|Yatano Black Crow]]** and **Yatano White Crow** are Skills, not spells, revealed in DanMachi 7: the first senses monsters she has gained excelia from, the second senses her allies, and using them drains Mind. Her DanMachi 15 card lists both under Skills. She uses the first to keep watch in DanMachi 9.[@fm07-crow, fm09-crow, fm15-card]
 - Her DanMachi 8 card lists the Development Ability Immunity.[@fm08-card]
 
 ## Magic {#magic}

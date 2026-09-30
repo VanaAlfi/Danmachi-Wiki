@@ -21,7 +21,7 @@
       {"label": "Level", "value": "2, from DanMachi 6", "refs": ["fm06-level2", "fm15-card"]},
       {"label": "Title", "value": "Ignis, the Ever Burning", "refs": ["fm12-ignis"]},
       {"label": "Magic", "value": "[[#will-o-the-wisp|Will-o'-the-Wisp]]", "refs": ["fm05-wisp"]},
-      {"label": "Skills", "value": "Blood of Crozzo; Veritas Burn", "refs": ["fm15-blood", "fm15-card"]}
+      {"label": "Skills", "value": "[[skills#blood-of-crozzo|Blood of Crozzo]]; [[skills#veritas-burn|Veritas Burn]]", "refs": ["fm15-blood", "fm15-card"]}
     ]
   }
 }
@@ -54,8 +54,8 @@ Welf received his first [[falna|Falna]] from the goddess Phobos on his tenth bir
 ## Abilities
 
 - **[[#will-o-the-wisp|Will-o'-the-Wisp]]**, triggered by the phrase *Blasphemous Burn*, is an anti-magic spell: when an enemy uses magic, it makes the spell blow up in their hands (*Ignis Fatuus*).[@fm05-wisp]
-- **Blood of Crozzo** is the family Skill behind his magic swords.[@fm15-blood]
-- **Veritas Burn** is a Skill gained in DanMachi 15; his card also lists the Development Ability Blacksmith.[@fm15-card]
+- **[[skills#blood-of-crozzo|Blood of Crozzo]]** is the family Skill behind his magic swords.[@fm15-blood]
+- **[[skills#veritas-burn|Veritas Burn]]** is a Skill gained in DanMachi 15, giving resistance to flame and stronger fire-element attacks; his card also lists the Development Ability Blacksmith.[@fm15-card]
 
 ## Magic {#magic}
 

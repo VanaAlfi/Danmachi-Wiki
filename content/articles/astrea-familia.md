@@ -38,6 +38,8 @@ The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and br
 | Lyra | A prum who taught Lyu that justice lies in continuing to struggle to save one more person.[@fm14-lyra] |
 | [[lyu-leon|Lyu Leon]] | Titled Gale Wind; the only survivor.[@fm05-astrea] |
 
+Astrea Record 3 names two of the members' [[skills|Skills]]: Alize's [[skills#rubrud-beckia|Rubrud Beckia]], which Lyu stops her explaining to Alfia, and Kaguya's [[skills#five-lights|Five Lights]], one half of the Gojouno clan's paired Skill and spell.[@skills.ar03-rubrud, skills.ar03-fivelights] Alize's character sheet at the end of that volume adds a second Skill, [[skills#batrea-acras|Batrea Acras]], and sets out Rubrud Beckia's three conditions.[@skills.ar03-sheet]
+
 ## The Great Conflict
 
 Astrea Record tells of the Familia's part in the [[great-conflict|Great Conflict]], the war with the [[evils|Evils]] seven years before the main story.[@ar01-astrea] In Astrea Record 3 the Familia defeats the dragon [[delphyne|Delphyne]].[@ar03-delphyne]
@@ -50,7 +52,7 @@ Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those resp
 
 ## Astrea after Orario
 
-Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of Zolingam, where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword Alvs Iustitia made for her.[@fm18-zolingam] Lyu's magic [[magic#astrea-record-spell|Astrea Record]] lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond] In the DanMachi 18 Familia War she uses three of their spells by name: Alize's fire enchantment [[magic#agris-arvensis|Agris Arvensis]], Kaguya's Gokou and Maryu's area healing, Rea Vindemia.[@fm18-names]
+Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of Zolingam, where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword Alvs Iustitia made for her.[@fm18-zolingam] Lyu's magic [[magic#astrea-record-spell|Astrea Record]] lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond] In the DanMachi 18 Familia War she uses three of their spells by name: Alize's fire enchantment [[magic#agris-arvensis|Agris Arvensis]], Kaguya's [[magic#gokou|Gokou]] and Maryu's area healing, [[magic#rea-vindemia|Rea Vindemia]].[@fm18-names]
 
 {{nocite}} Related magic: [[magic#lunus-wolfsbane|Lunus Wolfsbane]], the curse of the new member Uranda, and Alfia's spells [[magic#satanas-verion|Satanas Verion]], [[magic#silentium-eden|Silentium Eden]] and [[magic#genos-angelus|Genos Angelus]].
 
@@ -75,3 +77,6 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@fc03-record]: FC03 | The Locus of Stars | Astrea Record survives conversion.
 [@ar01-astrea]: AR01 | | Astrea Familia in the Great Conflict.
 [@ar03-delphyne]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Delphyne defeated.
+[@skills.ar03-rubrud]: AR03 | Chapter 4: Apocalypse Cometh | Alize's Skill, Rubrud Beckia.
+[@skills.ar03-fivelights]: AR03 | Chapter 7: What She Wished For | The Gojouno clan's paired Skill and spell, Five Lights.
+[@skills.ar03-sheet]: AR03 | | Illustrated character sheet, pp. 266–267 (Level 4): Batrea Acras, Rubrud Beckia.

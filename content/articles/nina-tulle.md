@@ -30,7 +30,7 @@
 ## Magic
 
 - **[[#magia-kreis|Magia Kreis]]** heals at range, passes Mind to others and lengthens buffs from magic and items.[@fm20-kreis, fm20-buffs]
-- **Lagriell Krisheim** is a rare spell she manifests in DanMachi 19: a healing barrier that clears poison, paralysis and other negative effects and prevents curses and mental attacks, though not direct attacks.[@fm19-lagriell]
+- [[#lagriell-krisheim|Lagriell Krisheim]] is a rare spell she manifests in DanMachi 19: a healing barrier that clears poison, paralysis and other negative effects and prevents curses and mental attacks, though not direct attacks.[@fm19-lagriell]
 
 ### Magia Kreis {#magia-kreis}
 
@@ -59,9 +59,43 @@ When cast, fragments of white magic like flower petals envelop the targets.[@mag
 
 In DanMachi 20, while Nina interns with [[hestia-familia|Hestia Familia]], she tells the party that Magia Kreis also extends buffs from magic and items. [[haruhime|Haruhime]]'s Level Boost, which lasts twenty minutes at Level 2, is observed to last about five minutes longer under it.[@magia-kreis.fm20-buffs, magia-kreis.fm20-twenty] Nina uses it again during the fighting later in the volume.[@magia-kreis.fm20-later]
 
-Nina has a second, separate spell, Lagriell Krisheim, a healing barrier that clears poison, paralysis and other negative effects and prevents curses and mental attacks, though it cannot stop direct physical or magic attacks.[@magia-kreis.fm19-lagriell]
+Nina has a second, separate spell, [[#lagriell-krisheim|Lagriell Krisheim]], a healing barrier that clears poison, paralysis and other negative effects and prevents curses and mental attacks, though it cannot stop direct physical or magic attacks.[@magia-kreis.fm19-lagriell]
 
 {{nocite}} Notable uses and open questions for Magia Kreis are on the combined page: [[magic#magia-kreis|Magic § Magia Kreis]].
+
+### Lagriell Krisheim {#lagriell-krisheim}
+
+**Lagriell Krisheim** is a rare magic that Nina Tulle manifests, a barrier that "could cleanse any and every debuff".[@lagriell-krisheim.fm19-effect] Her other spell is [[#magia-kreis|Magia Kreis]].
+
+- **User:** Nina Tulle[@lagriell-krisheim.fm19-cast]
+- **Type:** Rare magic: a purifying healing barrier[@lagriell-krisheim.fm19-effect]
+- **Blocks:** Debuffs, poison, paralysis, curses, mental attacks; not direct attacks[@lagriell-krisheim.fm19-effect]
+- **Chant:** Partial prints only[@lagriell-krisheim.fm19-cast, lagriell-krisheim.fm20-dragma]
+
+#### Incantation {#lagriell-krisheim-incantation}
+
+No volume prints the whole chant; each print gives different pieces, and they are not joined here.[@lagriell-krisheim.fm19-cast, lagriell-krisheim.fm20-camp, lagriell-krisheim.fm20-dragma]
+
+| Print | What is printed |
+|---|---|
+| DanMachi 19 | "Bloom, second sacred mount—", then, as she finishes, "—My name is Alf!" and the name. She had only just learned the spell.[@lagriell-krisheim.fm19-cast] |
+| DanMachi 20 (camp) | "My name is Alf—Lagriell Krisheim!"[@lagriell-krisheim.fm20-camp] |
+| DanMachi 20 (the centipede dragon) | "Lullaby of wind, cradle of flowers!", then the name.[@lagriell-krisheim.fm20-dragma] |
+
+#### Effect {#lagriell-krisheim-effect}
+
+A field of white flowers, or of dancing white feathers or petals, bursts out around her.[@lagriell-krisheim.fm19-cast]
+
+- **Cleansing:** a midsize healing barrier that clears poison, paralysis and other negative effects, and also keeps out curses and psychological attacks.[@lagriell-krisheim.fm19-effect]
+- **Healing:** it fills everyone inside with a cleansing light that heals continuously, and it pushes back even a blue dragon's aurora breath.[@lagriell-krisheim.fm19-effect]
+- **Miasma:** in the black wasteland of DanMachi 20 it purifies the poisonous air around their camp so the group can rest.[@lagriell-krisheim.fm20-camp] Later it keeps out a centipede dragon's miasma, the "dragma" that impedes healing magic.[@lagriell-krisheim.fm20-dragma]
+
+#### Limits {#lagriell-krisheim-limits}
+
+- **Direct attacks:** it has no way to stop direct physical and magic attacks; when the dragon gives up its breath and dives to bite, Nina can do nothing.[@lagriell-krisheim.fm19-effect]
+- **Strain:** holding the field drains her. She sinks to her knees against the miasma and, exhausted, calls [[bell-cranell|Bell]] by his cover name.[@lagriell-krisheim.fm20-dragma] At the camp she falls asleep as soon as she is persuaded to rest.[@lagriell-krisheim.fm20-camp]
+
+{{nocite}} Notable uses and open questions for Lagriell Krisheim are on the combined page: [[magic#lagriell-krisheim|Magic § Lagriell Krisheim]].
 
 ## History
 
@@ -89,3 +123,7 @@ In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she ar
 [@magia-kreis.fm20-twenty]: FM20 | Chapter 1: Orario Rumble | Twenty minutes at Level 2.
 [@magia-kreis.fm20-later]: FM20 | Chapter 4: The Knight’s Afterglow | Magia Kreis in the later fighting.
 [@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice).
+[@lagriell-krisheim.fm19-cast]: FM19 | | "Bloom, second sacred mount—"; "—My name is Alf!"; the field of white flowers; the spell she had just learned.
+[@lagriell-krisheim.fm19-effect]: FM19 | | "A rare magic"; cleanses every debuff; prevents curses and psychological attacks; continuous healing; no defence against direct attacks.
+[@lagriell-krisheim.fm20-camp]: FM20 | Chapter 3: The World, The Festival, and Reality | "My name is Alf—Lagriell Krisheim!"; the camp in the black wasteland.
+[@lagriell-krisheim.fm20-dragma]: FM20 | Chapter 4: The Knight’s Afterglow | "Nina, cast Krisheim!"; "Lullaby of wind, cradle of flowers!"; dragma; the strain.

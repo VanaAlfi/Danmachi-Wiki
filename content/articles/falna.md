@@ -8,7 +8,7 @@
   "summary": "The divine blessing a god engraves on a follower. It records the follower's Status and lets them grow through excelia; conversion moves it to another god.",
   "aliases": ["Blessing", "Conversion"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 1 and Familia Chronicle Vol. 1",
-  "related": ["status", "level", "development-ability", "hestia", "hestia-familia", "liaris-freese", "war-game"],
+  "related": ["status", "level", "development-ability", "hestia", "hestia-familia", "skills", "war-game"],
   "infobox": {
     "title": "Falna",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -30,7 +30,7 @@
 
 A Status is a divine record of the follower's own history. Excelia measures both how much they have accomplished and how well.[@fm01-status] Using a basic ability earns excelia for that ability, and fighting a stronger opponent earns it faster.[@fm01-excelia]
 
-The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] How Skills are acquired is not fully understood, although some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills]
+The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] How [[skills|Skills]] are acquired is not fully understood, although some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills]
 
 Magic gained through a Falna is shaped by excelia, interests and desires. A person can hold at most three spells; one is not unusual, and two is very rare.[@fm01-magic]
 
@@ -46,7 +46,7 @@ Higher Levels slow aging, and each further Level slows it more; this does not ma
 
 A Status is protected personal information. Only an adventurer's Level and Familia are reported to the [[guild|Guild]].[@fm02-privacy] Gods can lock the hieroglyphs so they cannot be read normally, and at Denatus it is taboo to force another god to reveal a follower's Status.[@fm08-lock, fm04-denatus]
 
-A specialized item called a [[status-thief|Status Thief]] can still expose the real name and patron god written in a Status.[@fc01-thief] Bell's goddess keeps his Skill [[liaris-freese|Liaris Freese]] off the copies of his Status she gives him.[@fm01-hidden]
+A specialized item called a [[status-thief|Status Thief]] can still expose the real name and patron god written in a Status.[@fc01-thief] Bell's goddess keeps his Skill [[skills#liaris-freese|Liaris Freese]] off the copies of his Status she gives him.[@fm01-hidden]
 
 ## Conversion
 

@@ -22,7 +22,7 @@
       {"label": "Level", "value": "7, from Astrea Record 3", "refs": ["ar03-seven", "fm20-sevens"]},
       {"label": "Title", "value": "Warlord", "refs": ["so04-captain"]},
       {"label": "Magic", "value": "Hildis Vini", "refs": ["fm18-hildis"]},
-      {"label": "Skills", "value": "Vana Arganture", "refs": ["fm18-arganture"]},
+      {"label": "Skills", "value": "[[skills#vana-arganture|Vana Arganture]] (Vana Angatyr), [[skills#stultus-ottar|Stultus Ottar]]", "refs": ["fm18-arganture", "skills.fc02-sheet"]},
       {"label": "Weapon", "value": "Supreme Black Sword, made from an Udaeus drop item", "refs": ["fc02-sword"]}
     ]
   }
@@ -49,7 +49,8 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 ## Abilities
 
 - **Hildis Vini** is a simple enhancement spell.[@fm18-hildis]
-- **Vana Arganture** is one of his Skills, revealed during the Familia War.[@fm18-arganture]
+- **[[skills#vana-arganture|Vana Arganture]]** is one of his Skills, revealed during the Familia War: an active trigger tied to his beast transformation, giving strength close to a Level Up at a heavy cost in stamina and Mind.[@fm18-arganture] His Familia Chronicle 2 Status sheet prints it as *Vana Angatyr*.[@skills.fc02-sheet]
+- **[[skills#stultus-ottar|Stultus Ottar]]**, on the same sheet, temporarily gives him the abilities Heal and Spirit Heal in battle and enhances all his abilities in proportion to his Status.[@skills.fc02-sheet]
 
 ## Magic {#magic}
 
@@ -121,6 +122,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@fm18-ottar]: FM18 | Chapter 9: Flower Language for You | On the cusp of Level 8; forced to one knee.
 [@fm18-hildis]: FM18 | Chapter 9: Flower Language for You | "A simple enhancement spell."
 [@fm18-arganture]: FM18 | Chapter 9: Flower Language for You | Vana Arganture.
+[@skills.fc02-sheet]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Vana Angatyr, Stultus Ottar.
 [@fm19-tavern]: FM19 | Chapter 1: V-V-V for Victory Party | Former members at the tavern.
 [@fm20-sevens]: FM20 | Chapter 2: Lion and then Sword Princess | The Level 7s.
 [@so04-captain]: SO04 | First Chapter: And the Boy… | Captain and Warlord; blocking Loki Familia.

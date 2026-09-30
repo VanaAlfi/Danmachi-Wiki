@@ -28,7 +28,7 @@
 
 ## Illness and talent
 
-Alfia has had an incurable illness since birth; receiving a [[falna|Falna]] did not cure it but turned it into a negative Skill, and the old campaigns worsened it.[@ar03-illness, ar03-family] [[riveria|Riveria]] says this weakness is why she is still only Level 7 despite her talent.[@ar03-weakness] Alfia blames herself for taking her sister's talents; that is her own explanation, not an established fact.[@ar03-family]
+Alfia has had an incurable illness since birth; receiving a [[falna|Falna]] did not cure it but turned it into a negative Skill, [[skills#gif-blessing|Gif Blessing]], and the old campaigns worsened it.[@ar03-illness, ar03-family] [[riveria|Riveria]] says this weakness is why she is still only Level 7 despite her talent.[@ar03-weakness] Alfia blames herself for taking her sister's talents; that is her own explanation, not an established fact.[@ar03-family]
 
 ## The Great Conflict
 
@@ -102,7 +102,7 @@ Late in Astrea Record 3 a "Gospel" aimed at Lyu does not fire; Alfia begins coug
 
 #### Effect {#silentium-eden-effect}
 
-- **Nullifying magic.** In Astrea Record 1 Alfia answers [[riveria|Riveria]]'s [[#wynn-fimbulvetr|Wynn Fimbulvetr]] with "Ataraxia", and a wall of sound fills the street and erases the blizzard "as though it was never there".[@silentium-eden.ar01-riveria] In Astrea Record 3 a barrage of fire, lightning and arctic wind disperses "as though colliding with an invisible wall".[@silentium-eden.ar03-barrage]
+- **Nullifying magic.** In Astrea Record 1 Alfia answers [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]] with "Ataraxia", and a wall of sound fills the street and erases the blizzard "as though it was never there".[@silentium-eden.ar01-riveria] In Astrea Record 3 a barrage of fire, lightning and arctic wind disperses "as though colliding with an invisible wall".[@silentium-eden.ar03-barrage]
 - **Always on.** Lyra points out that Alfia's gestures and one-word "casts" are for show: the flames on Alize's sword vanished where Alfia touched it, with no spell cast at all. It is a passive enchantment, "like your fire enchantment, or the Sword Princess's wind", protecting her from any magic. That is why she seemed to cast two spells at once.[@silentium-eden.ar03-passive] Alfia replies that understanding it changes nothing.[@silentium-eden.ar03-passive]
 
 #### Costs {#silentium-eden-costs}

@@ -75,11 +75,34 @@ In Astrea Record 2, during the Great Conflict, Fels wonders whether their magic 
 
 #### Not to be confused with {#dia-orpheus-not-to-be-confused-with}
 
-**Dia Panacea**, a separate healing spell Fels casts earlier in DanMachi 10, which heals Bell's wounds, his broken fist and his fatigue.[@dia-orpheus.fm10-panacea] Fels casts it with Concurrent Casting; its printed chant begins "Rod of Asclepius, Asclepius’s motherly light."[@dia-orpheus.fm10-panacea]
+[[#dia-panacea|Dia Panacea]], a separate healing spell Fels casts earlier in DanMachi 10, which heals Bell's wounds, his broken fist and his fatigue.[@dia-orpheus.fm10-panacea]
 
 After the fighting of DanMachi 11, Fels heals the Xenos, tends [[asterios|Asterios]]'s near-fatal wounds and restores his severed arm, which had been kept on ice. The passage does not name the spell used or say that Asterios had died, so it is not another resurrection.[@dia-orpheus.fm11-heal]
 
 {{nocite}} Notable uses and open questions for Dia Orpheus are on the combined page: [[magic#dia-orpheus|Magic § Dia Orpheus]].
+
+### Dia Panacea {#dia-panacea}
+
+**Dia Panacea** is a healing spell of Fels's. In Fels's words it is "healing magic that alleviates all types of injuries and ailments, similar to an elixir".[@dia-panacea.fm10-bell] It is a different spell from Fels's resurrection magic, [[#dia-orpheus|Dia Orpheus]].[@dia-panacea.fm10-bell]
+
+- **User:** Fels[@dia-panacea.fm10-bell]
+- **Type:** Healing, "similar to an elixir"[@dia-panacea.fm10-bell]
+- **Chant:** Short; printed in full[@dia-panacea.fm10-bell]
+
+#### Incantation {#dia-panacea-incantation}
+
+DanMachi 10 prints the chant once, then the name:[@dia-panacea.fm10-bell]
+
+- **Chant:** "Rod of Asclepius, Asclepius’s motherly light. By the power regeneration, all shall be healed."[@dia-panacea.fm10-bell]
+- **Name:** "Dia Panacea."[@dia-panacea.fm10-bell]
+
+The patterns on Fels's glove shine like a magic user's staff, and a white magic circle appears; the narration calls it a perfectly executed Concurrent Casting.[@dia-panacea.fm10-bell]
+
+#### Effect {#dia-panacea-effect}
+
+Spheres of light in different colours surround [[bell-cranell|Bell]]. His wounds disappear, his broken fist heals, and even his fatigue vanishes; the narration calls it "high-level magic".[@dia-panacea.fm10-bell]
+
+{{nocite}} Notable uses and open questions for Dia Panacea are on the combined page: [[magic#dia-panacea|Magic § Dia Panacea]].
 
 ## History
 
@@ -115,3 +138,4 @@ After the fighting of DanMachi 11, Fels heals the Xenos, tends [[asterios|Asteri
 [@dia-orpheus.fm10-cast]: FM10 | Chapter 10: The Fool | Extremely long chant; resurrection magic of the Sage; all of Fels's Mind.
 [@dia-orpheus.fm10-result]: FM10 | Chapter 10: The Fool | Wiene returns; "my first success"; eight hundred years; a Status slot.
 [@dia-orpheus.ar02-ouranos]: AR02 | Chapter 4: Those Who Struggle | Ouranos forbids resurrection.
+[@dia-panacea.fm10-bell]: FM10 | Chapter 9: Dreams of Beasts | The chant; the glove; Concurrent Casting; "similar to an elixir"; Bell healed.

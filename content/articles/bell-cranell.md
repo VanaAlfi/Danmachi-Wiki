@@ -8,7 +8,7 @@
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
   "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish"],
   "spoilers": "DanMachi Vols. 1–20 and Astrea Record Vol. 3",
-  "related": ["hestia-familia", "hestia", "liaris-freese", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
+  "related": ["hestia-familia", "hestia", "skills", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
     "title": "Bell Cranell",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -22,12 +22,12 @@
       {"label": "Level", "value": "5, from DanMachi 18 (see [[#levels|Levels]])", "refs": ["fm18-level5"]},
       {"label": "Titles", "value": "Little Rookie; later Rabbit Foot", "refs": ["fm04-rookie", "fm12-title"]},
       {"label": "Magic", "value": "[[#firebolt|Firebolt]]", "refs": ["fm02-firebolt"]},
-      {"label": "Skills", "value": "[[liaris-freese|Liaris Freese]], Argonaut, Ox Slayer", "refs": ["fm01-hidden", "fm04-argonaut", "fm12-level4"]}
+      {"label": "Skills", "value": "[[skills#liaris-freese|Liaris Freese]], [[skills#argonaut|Argonaut]], [[skills#ox-slayer|Ox Slayer]], [[skills#vanadis-tevere|Vanadis Tevere]]", "refs": ["fm01-hidden", "fm04-argonaut", "fm12-level4", "fm18-vanadis"]}
     ]
   }
 }
 ---
-**Bell Cranell** is a human adventurer and the first member of [[hestia-familia|Hestia Familia]].[@fm01-bell] He is fourteen when he arrives in [[orario|Orario]] hoping to become a hero.[@fm01-bell] His Level-up to Level 2 is the fastest on record, and by DanMachi 18 he is Level 5. His growth is driven by a hidden Skill, [[liaris-freese|Liaris Freese]].[@fm03-level2, fm18-level5, fm01-hidden]
+**Bell Cranell** is a human adventurer and the first member of [[hestia-familia|Hestia Familia]].[@fm01-bell] He is fourteen when he arrives in [[orario|Orario]] hoping to become a hero.[@fm01-bell] His Level-up to Level 2 is the fastest on record, and by DanMachi 18 he is Level 5. His growth is driven by a hidden Skill, [[skills#liaris-freese|Liaris Freese]].[@fm03-level2, fm18-level5, fm01-hidden]
 
 ## Background
 
@@ -43,7 +43,7 @@ Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.
 | 2 | DanMachi 3 | After defeating a Minotaur alone; the fastest Level-up on record. At Denatus he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
 | 3 | DanMachi 7 | Announced at the start of the volume.[@fm07-level3] |
 | 4 | DanMachi 12 | After surviving his fight with [[asterios|Asterios]]; he gains the Skill Ox Slayer and the title *Rabbit Foot*.[@fm12-level4, fm12-title] |
-| 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks.[@fm18-level5] |
+| 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks and the Skill Vanadis Tevere.[@fm18-level5, fm18-vanadis] |
 
 At Level 5 Bell finds that each ability point takes far more effort than before, and his growth slows.[@fm20-level5]
 
@@ -54,9 +54,12 @@ At Level 5 Bell finds that each ability point takes far more effort than before,
 
 ### Skills
 
-- **[[liaris-freese|Liaris Freese]]** (first printed as *Realis Phrase*) gives rapid growth for as long as his feelings last. Hestia keeps it off the Status copies she gives him.[@fm01-hidden] In DanMachi 8 she tells the rest of the Familia that it is driven by his feelings for [[aiz-wallenstein|Aiz Wallenstein]].[@fm08-hestia] It also lets him resist [[ishtar|Ishtar]]'s charm in DanMachi 7.[@fm07-charm]
-- **Argonaut**, which appears on his first Level 2 card, charges an attack while he pictures a heroic deed.[@fm04-argonaut] The longest charge rises from three minutes to four after he reaches Level 4.[@fm12-charge]
-- **Ox Slayer**, gained at Level 4, strengthens him against Minotaur-type opponents.[@fm12-level4]
+{{nocite}} Each Skill has its own section on the [[skills|Skills]] page.
+
+- **[[skills#liaris-freese|Liaris Freese]]** (first printed as *Realis Phrase*) gives rapid growth for as long as his feelings last. Hestia keeps it off the Status copies she gives him.[@fm01-hidden] In DanMachi 8 she tells the rest of the Familia that it is driven by his feelings for [[aiz-wallenstein|Aiz Wallenstein]].[@fm08-hestia] It also lets him resist [[ishtar|Ishtar]]'s charm in DanMachi 7.[@fm07-charm]
+- **[[skills#argonaut|Argonaut]]**, which appears on his first Level 2 card, charges an attack while he pictures a heroic deed.[@fm04-argonaut] The longest charge rises from three minutes to four after he reaches Level 4, and is five minutes in DanMachi 20.[@fm12-charge, fm20-argonaut]
+- **[[skills#ox-slayer|Ox Slayer]]**, gained at Level 4, strengthens him against Minotaur-type opponents.[@fm12-level4]
+- **[[skills#vanadis-tevere|Vanadis Tevere]]**, gained at Level 5, activates when a Charm effect is applied to him, sharply raising all his abilities and restoring Mind and stamina.[@fm18-vanadis]
 
 ### Magic in brief {#magic-in-brief}
 
@@ -182,6 +185,8 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm17-seizure]: FM17 | Chapter 1: The Opening of Hostilities | Freya demands Bell's conversion; it never happens.
 [@fm17-folkvangr]: FM17 | Chapter 5: The End of Her World | More than two weeks in Folkvangr.
 [@fm18-level5]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Last Level 4 update; Level 5; Rapid Attacks.
+[@fm18-vanadis]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Level 5 card: Vanadis Tevere.
+[@fm20-argonaut]: FM20 | Chapter 4: The Knight’s Afterglow | Five-minute full charge.
 [@fm18-odr]: FM18 | Chapter 9: Flower Language for You | Bell refuses to be Freya's Odr; her flower scattered.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Bell's promise to Syr.
 [@fm19-rapi]: FM19 | | The Rapi Flemish cover.

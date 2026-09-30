@@ -8,7 +8,7 @@
   "summary": "Goddess and head of Hestia Familia, who gives Bell Cranell his Falna and, in DanMachi 17, breaks Freya's charm over Orario with her sacred hearth.",
   "aliases": ["Vesta"],
   "spoilers": "DanMachi Vols. 1–19 and Minor Myths and Legends Vol. 1",
-  "related": ["hestia-familia", "bell-cranell", "falna", "liaris-freese", "freya", "the-benevolent-mistress"],
+  "related": ["hestia-familia", "bell-cranell", "falna", "skills", "freya", "the-benevolent-mistress"],
   "infobox": {
     "title": "Hestia",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -27,7 +27,7 @@
   }
 }
 ---
-**Hestia** is a goddess and the head of [[hestia-familia|Hestia Familia]]. She gives [[bell-cranell|Bell Cranell]] his [[falna|Falna]] and hides his rapid-growth Skill, [[liaris-freese|Liaris Freese]], from him.[@fm01-goddess, fm01-hidden] In DanMachi 12 she explains that *Vesta*, another of her divine names, means sacred flame.[@fm12-vesta]
+**Hestia** is a goddess and the head of [[hestia-familia|Hestia Familia]]. She gives [[bell-cranell|Bell Cranell]] his [[falna|Falna]] and hides his rapid-growth Skill, [[skills#liaris-freese|Liaris Freese]], from him.[@fm01-goddess, fm01-hidden] In DanMachi 12 she explains that *Vesta*, another of her divine names, means sacred flame.[@fm12-vesta]
 
 ## Arrival in Orario
 

@@ -20,7 +20,7 @@
       {"label": "Familia", "value": "Ishtar Familia; [[hestia-familia|Hestia Familia]] from DanMachi 7", "refs": ["fm07-history", "fm07-join"]},
       {"label": "Level", "value": "1; 2 by DanMachi 18", "refs": ["fm08-party", "fm18-level2"]},
       {"label": "Magic", "value": "[[#uchide-no-kozuchi|Uchide no Kozuchi]], [[#kokonoe|Kokonoe]]", "refs": ["fm07-history", "fm12-kokonoe", "fm15-card"]},
-      {"label": "Skill", "value": "Mikuzume no Hou", "refs": ["fm15-card"]}
+      {"label": "Skill", "value": "[[skills#mikuzume-no-hou|Mikuzume no Hou]]", "refs": ["fm15-card"]}
     ]
   }
 }
@@ -50,7 +50,7 @@ In DanMachi 15 her Status qualifies her for Level 2, but Hestia holds the promot
 | [[#uchide-no-kozuchi|Uchide no Kozuchi]] | Raises one other person by a Level. At Level 1 it lasts up to fifteen minutes with enough Mind, with a recast interval of a little over ten minutes; at Level 2 it lasts twenty minutes.[@fm09-duration, fm14-interval, fm20-twenty] |
 | [[#kokonoe|Kokonoe]] | Gives her tails of light that hold the effect of the next spell, so she can boost several people at once. Her Status allows up to nine tails; she can make five in DanMachi 12 and six after reaching Level 2.[@fm12-kokonoe, fm18-level2] |
 
-Her DanMachi 15 card lists both spells under Magic, and one Skill, Mikuzume no Hou, which makes her magic more effective and her use of Mind more efficient.[@fm15-card]
+Her DanMachi 15 card lists both spells under Magic, and one Skill, [[skills#mikuzume-no-hou|Mikuzume no Hou]], which makes her magic more effective and her use of Mind more efficient.[@fm15-card]
 
 In Sword Oratoria 12 she sustains Level Boosts on five fighters at once, and her last tail raises the Level 6 [[bete-loga|Bete]] to pseudo-Level 7.[@so12-boost]
 

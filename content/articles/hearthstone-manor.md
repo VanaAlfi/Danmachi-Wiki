@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "hestia", "apollo", "war-game", "orario"],
   "infobox": {
     "title": "Hearthstone Manor",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Building"},
       {"label": "Type", "value": "Three-storey manor with gardens", "refs": ["fm06-manor"]},

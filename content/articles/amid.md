@@ -11,7 +11,7 @@
   "related": ["heith-velvet", "bell-cranell", "finn-deimne", "lyu-leon", "magic"],
   "infobox": {
     "title": "Amid Teasanare",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Healer"},
       {"label": "Familia", "value": "Dian Cecht Familia", "refs": ["fm18-amid"]},

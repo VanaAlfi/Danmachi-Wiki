@@ -11,7 +11,7 @@
   "related": ["aiz-wallenstein", "haruhime", "tsubaki", "bell-cranell", "horn", "magic"],
   "infobox": {
     "title": "Bete Loga",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "People", "value": "Beastmen of the Plains", "refs": ["so08-plains"]},

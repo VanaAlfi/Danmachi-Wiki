@@ -11,7 +11,7 @@
   "related": ["floor-18", "rivira", "monster-rex", "goliath", "level", "orario"],
   "infobox": {
     "title": "The Dungeon",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
       {"label": "Beneath", "value": "[[orario|Orario]]; sealed under Babel Tower", "refs": ["fm01-dungeon", "fm12-sealed"]},

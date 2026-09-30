@@ -11,7 +11,7 @@
   "related": ["dungeon", "great-conflict", "school-district", "freya-familia", "fels", "aiz-wallenstein"],
   "infobox": {
     "title": "The Three Great Quests",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Quests"},
       {"label": "Behemoth", "value": "Slain by Zeus and Hera Familias", "refs": ["fm06-quests"]},

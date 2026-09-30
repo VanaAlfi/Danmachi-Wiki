@@ -11,7 +11,7 @@
   "related": ["lyu-leon", "silence-lyra", "development-ability", "hestia", "rivira", "floor-18"],
   "infobox": {
     "title": "Asfi Al Andromeda",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Human", "refs": ["fm05-look"]},

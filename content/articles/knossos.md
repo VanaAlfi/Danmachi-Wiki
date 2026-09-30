@@ -11,7 +11,7 @@
   "related": ["dungeon", "orario", "xenos", "loki-familia", "floor-18", "hermes"],
   "infobox": {
     "title": "Knossos",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
       {"label": "Beneath", "value": "Daedalus Street, [[orario|Orario]]", "refs": ["so07-knossos"]},

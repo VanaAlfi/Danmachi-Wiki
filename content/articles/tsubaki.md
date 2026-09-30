@@ -11,7 +11,7 @@
   "related": ["welf-crozzo", "bete-loga", "goliath", "floor-18"],
   "infobox": {
     "title": "Tsubaki Collbrande",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Half-dwarf", "refs": ["so05-tsubaki"]},

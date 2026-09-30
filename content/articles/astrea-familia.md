@@ -11,7 +11,7 @@
   "related": ["lyu-leon", "hermes", "ouranos", "knossos", "dungeon", "magic"],
   "infobox": {
     "title": "Astrea Familia",
-    "image_note": "No emblem or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
       {"label": "Deity", "value": "Astrea, goddess of justice and order", "refs": ["fm05-astrea"]},

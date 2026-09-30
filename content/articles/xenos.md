@@ -11,7 +11,7 @@
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia"],
   "infobox": {
     "title": "Xenos",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monsters"},
       {"label": "Nature", "value": "Intelligent monsters with will and emotion", "refs": ["fm09-xenos"]},

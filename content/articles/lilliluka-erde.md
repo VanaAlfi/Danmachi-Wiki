@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "bell-cranell", "hestia", "falna", "welf-crozzo", "haruhime", "freya-familia", "magic"],
   "infobox": {
     "title": "Lilliluka Erde",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Prum", "refs": ["fm02-lilly"]},

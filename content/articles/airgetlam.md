@@ -11,7 +11,7 @@
   "related": ["bell-cranell", "war-game", "gulliver-brothers", "anya-fromel", "wiene"],
   "infobox": {
     "title": "Airgetlám",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Artificial right arm (\"silver arm\")", "refs": ["fm04-arm"]},

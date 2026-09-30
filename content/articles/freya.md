@@ -11,7 +11,7 @@
   "related": ["freya-familia", "syr-flover", "horn", "bell-cranell", "ottar", "hestia", "the-benevolent-mistress", "war-game"],
   "infobox": {
     "title": "Freya",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "Goddess of beauty", "refs": ["fm01-freya"]},

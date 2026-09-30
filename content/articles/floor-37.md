@@ -11,7 +11,7 @@
   "related": ["dungeon", "monster-rex", "juggernaut", "lyu-leon", "bell-cranell", "astrea-familia", "delphyne"],
   "infobox": {
     "title": "Floor 37",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Floor"},
       {"label": "Also called", "value": "The White Palace; the Lower Fortress", "refs": ["fm14-palace", "fm02-fortress"]},

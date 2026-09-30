@@ -11,7 +11,7 @@
   "related": ["freya-familia", "folkvangr", "horn", "hedin", "freya"],
   "infobox": {
     "title": "Heith Velvet",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fm18-heith"]},

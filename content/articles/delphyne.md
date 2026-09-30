@@ -11,7 +11,7 @@
   "related": ["great-conflict", "evils", "erebus", "aiz-wallenstein", "astrea-familia", "floor-37"],
   "infobox": {
     "title": "Delphyne",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monster"},
       {"label": "Kind", "value": "Dragon", "refs": ["ar03-delphyne"]},

@@ -11,7 +11,7 @@
   "related": ["status", "level", "development-ability", "hestia", "hestia-familia", "liaris-freese", "war-game"],
   "infobox": {
     "title": "Falna",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
       {"label": "Given by", "value": "A god, using blood and hieroglyphs", "refs": ["fm01-status"]},

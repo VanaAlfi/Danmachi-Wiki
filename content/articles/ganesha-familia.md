@@ -11,7 +11,7 @@
   "related": ["xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
   "infobox": {
     "title": "Ganesha Familia",
-    "image_note": "No emblem or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
       {"label": "Deity", "value": "Ganesha", "refs": ["fm01-ganesha"]},

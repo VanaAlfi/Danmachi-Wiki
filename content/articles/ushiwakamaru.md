@@ -11,7 +11,7 @@
   "related": ["welf-crozzo", "bell-cranell", "mikoto", "asterios", "hyacinthus", "war-game"],
   "infobox": {
     "title": "Ushiwakamaru",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "First blade"},
       {"label": "Type", "value": "Dagger, about 15 celch long", "refs": ["fm04-dagger"]},

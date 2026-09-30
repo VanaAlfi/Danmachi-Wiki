@@ -11,7 +11,7 @@
   "related": ["goliath", "floor-18", "dungeon", "level", "aiz-wallenstein", "ottar"],
   "infobox": {
     "title": "Monster Rex",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
       {"label": "Also called", "value": "Floor boss", "refs": ["fm02-rex"]},

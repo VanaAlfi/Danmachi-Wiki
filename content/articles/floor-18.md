@@ -11,7 +11,7 @@
   "related": ["goliath", "rivira", "dungeon", "hestia-familia", "hestia"],
   "infobox": {
     "title": "Floor 18",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Floor"},
       {"label": "Name", "value": "Under Resort", "refs": ["fm05-safe"]},

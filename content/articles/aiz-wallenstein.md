@@ -11,7 +11,7 @@
   "related": ["bell-cranell", "liaris-freese", "level", "development-ability", "the-benevolent-mistress", "hestia", "magic"],
   "infobox": {
     "title": "Aiz Wallenstein",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Loki Familia, from the age of seven", "refs": ["fm01-aiz", "so09-joined"]},

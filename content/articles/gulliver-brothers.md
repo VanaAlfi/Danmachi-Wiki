@@ -11,7 +11,7 @@
   "related": ["freya-familia", "anya-fromel", "chloe", "runoa", "lilliluka-erde"],
   "infobox": {
     "title": "Gulliver brothers",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Group"},
       {"label": "Members", "value": "Alfrik, Dvalinn, Berling and Grer", "refs": ["fm16-weapons"]},

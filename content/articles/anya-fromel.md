@@ -15,7 +15,7 @@
   "related": ["allen-fromel", "syr-flover", "the-benevolent-mistress", "freya-familia", "lyu-leon", "chloe", "runoa", "mia-grand", "falna", "level"],
   "infobox": {
     "title": "Anya Fromel",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Name", "value": "Anya Fromel", "refs": ["fm16-name", "ar02-conflict"]},
@@ -54,7 +54,7 @@ The covered novels give few fixed physical details for Anya. Familia Chronicle 1
 In battle she carries a gold spear and wears gold armour on her right shoulder, contrasted in DanMachi 18 with Allen's silver equipment on his left.[@fm18-allen] When the spear first appears in Familia Chronicle 1 it is wrapped in cloth and looks like a club.[@fc01-fight]
 
 > [!UNRESOLVED] Hair and eye colour
-> Apart from the "brown fur" of Familia Chronicle 1, which does not separate the hair on her head from her ears and tail, neither is stated in the passages checked for this article. Adaptation designs are outside this wiki's current scope, so they are not used to fill the gap.
+> Apart from the "brown fur" of Familia Chronicle 1, which does not separate the hair on her head from her ears and tail, neither is stated in the passages checked for this article. The anime and game designs shown in the infobox and gallery are labelled as such; they are not evidence for the novels and are not used to fill the gap.
 
 ## Personality
 

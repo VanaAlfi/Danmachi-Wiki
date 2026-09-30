@@ -11,7 +11,7 @@
   "related": ["magic", "bell-cranell", "freya", "haruhime", "aisha-belka", "development-ability", "loki-familia"],
   "infobox": {
     "title": "Grimoire",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Book that forces its reader to learn magic", "refs": ["fm02-hestia"]},

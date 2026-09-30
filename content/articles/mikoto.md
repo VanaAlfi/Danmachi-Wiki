@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "haruhime", "bell-cranell", "welf-crozzo", "war-game", "magic"],
   "infobox": {
     "title": "Mikoto Yamato",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Takemikazuchi Familia; [[hestia-familia|Hestia Familia]] from DanMachi 6", "refs": ["fm05-mikoto", "fm06-join"]},

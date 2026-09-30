@@ -11,7 +11,7 @@
   "related": ["xenos", "loki-familia", "knossos", "bell-cranell", "finn-deimne", "riveria"],
   "infobox": {
     "title": "Rei",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
       {"label": "Kind", "value": "Golden siren", "refs": ["fm09-rei"]},

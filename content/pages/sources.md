@@ -41,8 +41,10 @@ Facts that change over time, such as Levels, affiliations and abilities, are tie
 - Volumes not yet published in English, including those listed as upcoming above.
 - Japanese-language novels, author posts and other Japanese-only material, and any unofficial translation of them.
 - Anime, manga and game adaptations. They are officially available in English but tell some events differently, so they will get their own clearly labelled sections rather than being merged into novel facts.
-- Fandom and other wikis. Their images are not assumed to be freely licensed either.
+- Fandom and other wikis, as evidence. Some of their images are shown as illustrations (see below), but nothing they say is used as a source.
 
 ## Images
 
-No artwork has been cleared for publication yet, so articles show a placeholder instead of a picture. Images will be added only when their use is permitted, each with a recorded source and attribution.
+Infoboxes and the Gallery sections show official artwork from the DanMachi anime, light novels (Japanese editions), manga and games. Each image is labelled with its source and links to its file page on the DanMachi Fandom wiki, where it was taken from. Only files whose bytes matched Fandom's own record were used, and nothing from a volume not yet published in English.
+
+The images are illustrations for identification, not evidence: adaptation designs can differ from the novels, and no article states a fact because of a picture. Rights remain with the artwork's owners; the images are not freely licensed.

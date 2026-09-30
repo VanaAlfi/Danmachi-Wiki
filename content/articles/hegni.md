@@ -11,7 +11,7 @@
   "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {
     "title": "Hegni Ragnar",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Dark elf", "refs": ["fc02-pair"]},

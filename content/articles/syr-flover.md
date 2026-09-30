@@ -11,7 +11,7 @@
   "related": ["freya", "the-benevolent-mistress", "bell-cranell", "horn", "lyu-leon", "anya-fromel", "freya-familia", "mia-grand"],
   "infobox": {
     "title": "Syr Flover",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Appears as", "value": "A waitress at [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm01-syr", "fm01-west"]},

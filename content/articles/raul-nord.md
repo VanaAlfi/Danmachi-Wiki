@@ -11,7 +11,7 @@
   "related": ["loki-familia", "finn-deimne", "lilliluka-erde", "knossos"],
   "infobox": {
     "title": "Raul Nord",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Human", "refs": ["so04-raul"]},

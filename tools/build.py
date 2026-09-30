@@ -65,6 +65,9 @@ def fmt_date(iso: str) -> str:
 # --------------------------------------------------------------------------- data
 
 SITE = json.loads((CONTENT / "site.json").read_text(encoding="utf-8"))
+# Official artwork chosen by tools/import_media.py; illustrations only, never evidence for a claim.
+MEDIA_DIR = CONTENT / "media"
+MEDIA = json.loads((CONTENT / "media.json").read_text(encoding="utf-8")) if (CONTENT / "media.json").exists() else {"images": {}, "pages": {}}
 WORKS = json.loads((CONTENT / "works.json").read_text(encoding="utf-8"))
 SERIES = {s["id"]: s for s in WORKS["series"]}
 CATEGORIES = {c["id"]: c for c in SITE["categories"]}
@@ -577,10 +580,15 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
         ib = art.meta.get("infobox")
         if not ib:
             return ""
+        pic = MEDIA["pages"].get(art.slug, {}).get("infobox")
+        if pic:
+            image_cell = self.media_html(art, pic, "ib", r.root)
+        else:
+            image_cell = ('<div class="infobox-noimage">No image</div>'
+                          f'<div class="infobox-caption">{esc(ib.get("image_note", "No image has been cleared for publication."))}</div>')
         rows = [
             f'<tr><th colspan="2" class="infobox-above">{esc(ib.get("title", art.title))}</th></tr>',
-            '<tr><td colspan="2" class="infobox-image"><div class="infobox-noimage">No image</div>'
-            f'<div class="infobox-caption">{esc(ib.get("image_note", "No image has been cleared for publication."))}</div></td></tr>',
+            f'<tr><td colspan="2" class="infobox-image">{image_cell}</td></tr>',
         ]
         for cell in self.infobox_cells(art, r):
             if cell[0] == "section":
@@ -589,6 +597,34 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
                 rows.append(f'<tr><th scope="row" class="infobox-label">{esc(cell[1])}</th><td class="infobox-data">{cell[2]}</td></tr>')
         rows.append('<tr><td colspan="2" class="infobox-below">Light-novel continuity · official English releases</td></tr>')
         return f'<table class="infobox" aria-label="{esc(art.title)} summary"><tbody>{"".join(rows)}</tbody></table>'
+
+    def media_html(self, art: Article, pic: dict, size: str, root: str) -> str:
+        """An image with its caption and source line; size 'ib' (infobox) or 'th' (gallery)."""
+        img = MEDIA["images"].get(pic["id"])
+        f = img and img["files"].get(size)
+        if not f or not (MEDIA_DIR / f["file"]).exists():
+            ERRORS.append(f"{art.slug}: media {pic['id']} ({size}) is missing")
+            return ""
+        full = img["files"].get("full", f)["file"]
+        alt = f"{art.title}: {pic.get('caption') or img['source']}"
+        cap = f'{esc(pic["caption"])}<br>' if pic.get("caption") else ""
+        src = (f'<span class="media-source">{esc(img["source"])}</span>'
+               f' · <a class="ext" href="{esc(img["fandom"])}" rel="noopener" title="{esc(img["name"])} on the DanMachi Fandom wiki">file</a>')
+        pic_html = (f'<a class="image" href="{root}media/{full}"><img src="{root}media/{f["file"]}" alt="{esc(alt)}" '
+                    f'width="{f["w"]}" height="{f["h"]}" loading="lazy" decoding="async"></a>')
+        if size == "ib":
+            return f'{pic_html}<div class="infobox-caption">{cap}{src}</div>'
+        return (f'<li class="gallerybox"><div class="thumb">{pic_html}</div>'
+                f'<div class="gallerytext">{cap}{src}</div></li>')
+
+    def gallery(self, art: Article, root: str) -> str:
+        pics = MEDIA["pages"].get(art.slug, {}).get("gallery", [])
+        if not pics:
+            return ""
+        items = "".join(self.media_html(art, p, "th", root) for p in pics)
+        note = ('<p class="gallery-note">Official artwork from the anime, light novels, manga and games, shown for identification. '
+                'Adaptation designs can differ from the novels\' descriptions and are not a source for this article.</p>')
+        return heading(2, "gallery", "Gallery") + note + f'<ul class="gallery">{items}</ul>'
 
     def see_also(self, art: Article, root: str) -> str:
         items = []
@@ -692,7 +728,8 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
 </div>
 <footer id="footer" role="contentinfo">
   <ul id="footer-info">{last}
-    <li>Articles are original summaries of the official English editions, cited claim by claim. No book text, scans or ebook files are distributed here.</li>
+    <li>Articles are original summaries of the official English editions, cited claim by claim. No book text or ebook files are distributed here.</li>
+    <li>Images are official artwork from the DanMachi anime, light novels, manga and games, shown for identification and commentary; rights remain with their owners. Each image links to its file page on the DanMachi Fandom wiki, where it was sourced.</li>
     <li>{esc(SITE['disclaimer'])}</li>
   </ul>
   <ul id="footer-places">
@@ -754,6 +791,9 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
             "reviewed": reviewed,
         }
 
+        gallery = "" if series else self.gallery(art, root)
+        if gallery:
+            art.toc.append((2, "gallery", "Gallery"))
         see_also = self.see_also(art, root)
         if see_also:
             art.toc.append((2, "see-also", "See also"))
@@ -773,14 +813,21 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
             f'Nothing on this wiki comes from volumes not yet published in English (<a href="{root}sources.html">coverage</a>).</div></div>'
             if spoiler else ""
         )
+        page_media = MEDIA["pages"].get(art.slug, {})
+        classes = [MEDIA["images"][p["id"]]["class"] for p in ([page_media["infobox"]] if page_media.get("infobox") else []) + page_media.get("gallery", []) if p["id"] in MEDIA["images"]]
+        kinds = [k for k, lbl in (("anime", "anime"), ("ln", "light novels"), ("manga", "manga"), ("game", "games"), ("other", "other")) if k in classes]
+        names = [dict(anime="anime", ln="light novels (Japanese editions)", manga="manga", game="games", other="other official art")[k] for k in kinds]
+        images_row = (f'  <tr><th scope="row" class="navbox-group">Images</th><td class="navbox-list">Official art from the {", ".join(names)}; '
+                      f'illustration only, not cited as evidence</td></tr>') if names else ""
         sourcing = "" if series else f"""
 <table class="navbox" id="sourcing" aria-label="Sourcing">
   <tr><th colspan="2" class="navbox-title">Sourcing</th></tr>
   <tr><th scope="row" class="navbox-group">Continuity</th><td class="navbox-list">Light novels · official English releases (Yen Press)</td></tr>
   <tr><th scope="row" class="navbox-group">Volumes cited</th><td class="navbox-list">{esc(works) or '—'}</td></tr>
+{images_row}
   <tr><th scope="row" class="navbox-group">Last reviewed</th><td class="navbox-list">{fmt_date(reviewed) if reviewed else '—'}</td></tr>
 </table>"""
-        body = f"{hat_html}{spoiler_html}{infobox}{lead}{self.toc_html(art)}{rest}{see_also}{refs}{sourcing}"
+        body = f"{hat_html}{spoiler_html}{infobox}{lead}{self.toc_html(art)}{rest}{gallery}{see_also}{refs}{sourcing}"
         content = self.frame(
             esc(art.title), body,
             sub=f'<span class="subpages">&lt; <a href="{root}category/{cat["id"]}.html">{esc(cat["title"])}</a></span>',
@@ -1134,6 +1181,10 @@ def build():
     (DIST / "assets").mkdir(parents=True)
     for f in STATIC.iterdir():
         shutil.copy2(f, DIST / "assets" / f.name)
+    if MEDIA_DIR.exists():
+        (DIST / "media").mkdir()
+        for f in MEDIA_DIR.glob("*.webp"):
+            shutil.copy2(f, DIST / "media" / f.name)
 
     site = Site()
     for art in site.all:

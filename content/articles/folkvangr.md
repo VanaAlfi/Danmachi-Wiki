@@ -11,7 +11,7 @@
   "related": ["freya-familia", "freya", "orario", "heith-velvet", "bell-cranell"],
   "infobox": {
     "title": "Folkvangr",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
       {"label": "District", "value": "Fifth, between South Main and Southeast Main", "refs": ["fm07-folkvangr"]},

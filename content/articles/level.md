@@ -11,7 +11,7 @@
   "related": ["status", "falna", "development-ability", "monster-rex", "bell-cranell", "lyu-leon", "magic"],
   "infobox": {
     "title": "Level",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
       {"label": "Part of", "value": "An adventurer's [[status|Status]]", "refs": ["so01-level"]},

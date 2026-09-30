@@ -11,7 +11,7 @@
   "related": ["great-conflict", "erebus", "knossos", "astrea-familia", "dionysus", "levis", "magic"],
   "infobox": {
     "title": "The Evils",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Faction"},
       {"label": "Active", "value": "Orario's dark age and after", "refs": ["so09-darkage", "fc01-darkage"]},

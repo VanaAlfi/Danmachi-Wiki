@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "bell-cranell", "level", "hestia", "magic"],
   "infobox": {
     "title": "Haruhime",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Renart", "refs": ["fm07-name"]},

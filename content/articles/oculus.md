@@ -11,7 +11,7 @@
   "related": ["fels", "ouranos", "xenos", "lido", "hestia", "lilliluka-erde", "knossos", "asfi"],
   "infobox": {
     "title": "Oculus",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Magic item; one of a pair of twin crystals", "refs": ["fm10-babel"]},

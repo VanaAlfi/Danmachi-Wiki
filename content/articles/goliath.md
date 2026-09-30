@@ -11,7 +11,7 @@
   "related": ["floor-18", "monster-rex", "magic", "hestia", "dungeon"],
   "infobox": {
     "title": "Goliath",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monster"},
       {"label": "Type", "value": "[[monster-rex|Monster Rex]] (floor boss)", "refs": ["fm05-goliath", "fm02-rex"]},

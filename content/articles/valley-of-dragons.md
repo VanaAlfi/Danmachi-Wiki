@@ -11,7 +11,7 @@
   "related": ["three-great-quests", "school-district", "leon-verdenberg", "bell-cranell"],
   "infobox": {
     "title": "Valley of Dragons",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Place"},
       {"label": "Sealed within", "value": "The one-eyed Black Dragon", "refs": ["fm20-legend"]},

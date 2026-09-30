@@ -11,7 +11,7 @@
   "related": ["takemikazuchi-familia", "mikoto", "chigusa", "haruhime", "bell-cranell"],
   "infobox": {
     "title": "Ouka Kashima",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[takemikazuchi-familia|Takemikazuchi Familia]]", "refs": ["fm05-ouka"]},

@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "bell-cranell", "falna", "liaris-freese", "freya", "the-benevolent-mistress"],
   "infobox": {
     "title": "Hestia",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "Goddess", "refs": ["fm01-goddess"]},

@@ -11,7 +11,7 @@
   "related": ["filvis", "loki", "loki-familia", "evils", "levis", "knossos"],
   "infobox": {
     "title": "Dionysus",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["so01-dionysus"]},

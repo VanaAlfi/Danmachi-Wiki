@@ -11,7 +11,7 @@
   "related": ["astrea-familia", "astrea", "lyu-leon", "ottar", "aiz-wallenstein", "loki-familia", "freya-familia", "three-great-quests"],
   "infobox": {
     "title": "The Great Conflict",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "War"},
       {"label": "When", "value": "Seven years before DanMachi 1", "refs": ["ar01-lyu"]},

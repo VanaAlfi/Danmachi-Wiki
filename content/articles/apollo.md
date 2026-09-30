@@ -11,7 +11,7 @@
   "related": ["war-game", "hestia", "hestia-familia", "bell-cranell", "hearthstone-manor"],
   "infobox": {
     "title": "Apollo",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["fm05-apollo"]},

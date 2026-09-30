@@ -11,7 +11,7 @@
   "related": ["alfia", "erebus", "great-conflict", "ottar", "three-great-quests", "evils", "magic"],
   "infobox": {
     "title": "Zald",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Zeus Familia (former)", "refs": ["ar01-zald"]},

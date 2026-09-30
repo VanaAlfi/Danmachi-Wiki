@@ -11,7 +11,7 @@
   "related": ["status", "falna", "development-ability", "bell-cranell", "lefiya", "riveria", "haruhime", "lyu-leon"],
   "infobox": {
     "title": "Magic",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
       {"label": "Kinds", "value": "Innate (racial) and acquired (through the Falna)", "refs": ["fm02-kinds"]},

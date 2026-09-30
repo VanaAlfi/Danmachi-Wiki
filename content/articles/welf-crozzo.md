@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "bell-cranell", "lilliluka-erde", "hestia", "development-ability", "falna", "magic"],
   "infobox": {
     "title": "Welf Crozzo",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Family", "value": "The Crozzos, fallen smith nobility of Rakia", "refs": ["fm08-wil"]},

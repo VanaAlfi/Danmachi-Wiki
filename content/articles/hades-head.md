@@ -11,7 +11,7 @@
   "related": ["asfi", "hermes", "hermes-familia", "bell-cranell", "reverse-veil", "knossos", "school-district"],
   "infobox": {
     "title": "Hades Head",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Black helmet shaped like a hat", "refs": ["fm05-mord"]},

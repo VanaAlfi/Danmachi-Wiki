@@ -11,7 +11,7 @@
   "related": ["school-district", "balder", "bell-cranell", "nina-tulle", "level"],
   "infobox": {
     "title": "Leon Verdenberg",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Parents", "value": "Both half-dwarves", "refs": ["fm20-parents"]},

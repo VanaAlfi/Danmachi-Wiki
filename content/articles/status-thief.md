@@ -11,7 +11,7 @@
   "related": ["status", "falna", "development-ability", "rivira", "lyu-leon", "freya", "bell-cranell", "ganesha-familia"],
   "infobox": {
     "title": "Status Thief",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Liquid in a vial or bottle", "refs": ["so02-rivira", "so03-lulune"]},

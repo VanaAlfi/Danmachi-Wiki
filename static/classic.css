@@ -280,6 +280,16 @@ sup.cite a:visited { color: var(--link); }
   background: var(--th-bg); border: 1px solid var(--border-light); color: var(--text-faint); font-style: italic;
 }
 .infobox-caption { font-size: 95%; padding-top: .3em; line-height: 1.35; color: var(--text-subtle); }
+.infobox-image img { max-width: 250px; max-height: 450px; width: auto; height: auto; vertical-align: middle; }
+.media-source { font-style: italic; }
+
+/* gallery, as MediaWiki's traditional <gallery> */
+.gallery-note { font-size: 92%; color: var(--text-subtle); margin: .3em 0 .5em; }
+.mw-parser-output ul.gallery { list-style: none; margin: 0 0 .5em; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; }
+.mw-parser-output ul.gallery > li.gallerybox { list-style: none; width: 155px; margin: 0; padding: 0; background: var(--box-bg); border: 1px solid var(--border-light); text-align: center; }
+.gallerybox .thumb { height: 150px; display: flex; align-items: center; justify-content: center; margin: 2px; }
+.gallerybox img { max-width: 150px; max-height: 146px; width: auto; height: auto; }
+.gallerytext { font-size: 88%; line-height: 1.35; padding: .3em .4em .4em; overflow-wrap: anywhere; color: var(--text-subtle); }
 .infobox-header { text-align: center !important; background: var(--infobox-head); font-weight: bold; }
 .infobox-label { width: 34%; font-weight: bold; padding-right: .6em !important; }
 .infobox-below { text-align: center !important; font-size: 92%; color: var(--text-subtle); border-top: 1px solid var(--border-light); padding-top: .3em !important; }

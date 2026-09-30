@@ -11,7 +11,7 @@
   "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
   "infobox": {
     "title": "Tiona and Tione Hyrute",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Sisters"},
       {"label": "Race", "value": "Amazon", "refs": ["fm02-sisters", "fm05-sisters"]},

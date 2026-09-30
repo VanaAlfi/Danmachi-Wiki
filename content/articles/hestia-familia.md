@@ -11,7 +11,7 @@
   "related": ["hestia", "bell-cranell", "falna", "lilliluka-erde", "welf-crozzo", "haruhime", "lyu-leon", "war-game"],
   "infobox": {
     "title": "Hestia Familia",
-    "image_note": "No emblem or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
       {"label": "Deity", "value": "[[hestia|Hestia]]", "refs": ["fm01-found"]},

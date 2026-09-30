@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "freya-familia", "hestia", "freya", "bell-cranell", "falna", "status"],
   "infobox": {
     "title": "War Game",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
       {"label": "What it is", "value": "A rules-bound battle between Familias", "refs": ["fm06-rules"]},

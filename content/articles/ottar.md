@@ -11,7 +11,7 @@
   "related": ["freya-familia", "freya", "bell-cranell", "mia-grand", "aiz-wallenstein", "allen-fromel", "level", "magic"],
   "infobox": {
     "title": "Ottar",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Boaz", "refs": ["fc02-boaz"]},

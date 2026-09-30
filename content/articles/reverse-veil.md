@@ -11,7 +11,7 @@
   "related": ["fels", "bell-cranell", "welf-crozzo", "mikoto", "haruhime", "wiene", "gros", "hades-head"],
   "infobox": {
     "title": "Reverse Veil",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Reversible invisibility mantle", "refs": ["fm11-bell"]},

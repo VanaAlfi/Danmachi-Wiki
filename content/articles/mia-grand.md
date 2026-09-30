@@ -11,7 +11,7 @@
   "related": ["the-benevolent-mistress", "freya-familia", "freya", "syr-flover", "ottar", "anya-fromel", "lyu-leon", "chloe", "runoa"],
   "infobox": {
     "title": "Mia Grand",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Dwarf", "refs": ["fm18-mia"]},

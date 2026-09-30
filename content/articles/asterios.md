@@ -11,7 +11,7 @@
   "related": ["xenos", "bell-cranell", "lido", "fels", "aiz-wallenstein", "ottar"],
   "infobox": {
     "title": "Asterios",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
       {"label": "Kind", "value": "Black Minotaur", "refs": ["fm11-name"]},

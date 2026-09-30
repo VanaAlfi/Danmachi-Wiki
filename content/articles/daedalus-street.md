@@ -11,7 +11,7 @@
   "related": ["orario", "knossos", "xenos", "bell-cranell", "syr-flover", "asterios"],
   "infobox": {
     "title": "Daedalus Street",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "District"},
       {"label": "Location", "value": "Southeast [[orario|Orario]]", "refs": ["so01-daedalus"]},

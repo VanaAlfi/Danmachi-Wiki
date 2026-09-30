@@ -11,7 +11,7 @@
   "related": ["haruhime", "ishtar", "hermes-familia", "amphisbaena", "bell-cranell", "magic"],
   "infobox": {
     "title": "Aisha Belka",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Ishtar Familia; [[hermes-familia|Hermes Familia]] from DanMachi 9–10", "refs": ["fm07-aisha", "fm10-hermes"]},

@@ -11,7 +11,7 @@
   "related": ["orario", "dungeon", "guild", "freya", "hephaistos"],
   "infobox": {
     "title": "Babel",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Tower"},
       {"label": "Location", "value": "Centre of [[orario|Orario]]", "refs": ["fm01-layout"]},

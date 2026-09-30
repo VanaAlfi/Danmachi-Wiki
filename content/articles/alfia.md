@@ -11,7 +11,7 @@
   "related": ["zald", "erebus", "great-conflict", "bell-cranell", "astrea-familia", "three-great-quests", "magic"],
   "infobox": {
     "title": "Alfia",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Sister", "value": "Metelia, her twin", "refs": ["ar03-family"]},

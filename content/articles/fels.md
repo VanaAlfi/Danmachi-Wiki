@@ -11,7 +11,7 @@
   "related": ["ouranos", "xenos", "wiene", "asterios", "knossos", "development-ability", "magic"],
   "infobox": {
     "title": "Fels",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Known as", "value": "The Sage; calls themself Fels the Fool", "refs": ["fm09-fels"]},

@@ -11,7 +11,7 @@
   "related": ["apollo", "war-game", "bell-cranell", "hestia-familia", "magic"],
   "infobox": {
     "title": "Hyacinthus",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Apollo Familia", "refs": ["fm06-hyacinthus"]},

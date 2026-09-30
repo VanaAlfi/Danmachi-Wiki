@@ -11,7 +11,7 @@
   "related": ["loki-familia", "finn-deimne", "riveria", "aiz-wallenstein", "knossos"],
   "infobox": {
     "title": "Gareth Landrock",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Dwarf", "refs": ["fm05-leaders"]},

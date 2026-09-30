@@ -11,7 +11,7 @@
   "related": ["aiz-wallenstein", "dionysus", "filvis", "knossos", "evils", "finn-deimne"],
   "infobox": {
     "title": "Levis",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Creature"},
       {"label": "Form", "value": "Red-haired, human-shaped", "refs": ["so02-levis"]},

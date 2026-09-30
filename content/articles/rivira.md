@@ -11,7 +11,7 @@
   "related": ["floor-18", "dungeon", "lyu-leon", "goliath", "status"],
   "infobox": {
     "title": "Rivira",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
       {"label": "Floor", "value": "[[floor-18|Floor 18]], on an island in the western lake", "refs": ["fm05-rivira"]},

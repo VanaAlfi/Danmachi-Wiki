@@ -11,7 +11,7 @@
   "related": ["hestia", "welf-crozzo", "tsubaki", "bell-cranell", "orario"],
   "infobox": {
     "title": "Hephaistos",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "Goddess of the forge", "refs": ["fm01-hephaistos", "fm08-face"]},

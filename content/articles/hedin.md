@@ -11,7 +11,7 @@
   "related": ["hegni", "freya-familia", "freya", "bell-cranell", "syr-flover", "ottar", "magic"],
   "infobox": {
     "title": "Hedin Selrand",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "White elf", "refs": ["fc02-pair"]},

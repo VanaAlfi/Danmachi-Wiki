@@ -11,7 +11,7 @@
   "related": ["dungeon", "the-benevolent-mistress", "freya-familia", "hestia-familia", "war-game"],
   "infobox": {
     "title": "Orario",
-    "image_note": "No map or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "City"},
       {"label": "Also called", "value": "The Labyrinth City", "refs": ["fm01-orario"]},

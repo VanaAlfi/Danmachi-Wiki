@@ -11,7 +11,7 @@
   "related": ["guild", "ouranos", "xenos", "freya", "school-district"],
   "infobox": {
     "title": "Royman Mardeel",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Elf", "refs": ["fm09-royman"]},

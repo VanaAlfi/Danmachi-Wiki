@@ -11,7 +11,7 @@
   "related": ["hestia-familia", "hestia", "liaris-freese", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
     "title": "Bell Cranell",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "Human", "refs": ["fm01-bell"]},

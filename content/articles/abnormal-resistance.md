@@ -11,7 +11,7 @@
   "related": ["development-ability", "aiz-wallenstein", "status", "level"],
   "infobox": {
     "title": "Abnormal Resistance",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Development Ability"},
       {"label": "Printed on", "value": "Aiz's and Lefiya's cards", "refs": ["so06-cards", "so12-lefiya"]},

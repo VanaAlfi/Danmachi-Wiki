@@ -11,7 +11,7 @@
   "related": ["loki-familia", "finn-deimne", "aiz-wallenstein", "freya", "ouranos", "filvis"],
   "infobox": {
     "title": "Loki",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "Goddess", "refs": ["fm01-loki"]},

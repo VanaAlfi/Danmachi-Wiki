@@ -12,7 +12,7 @@
   "related": ["level", "status", "falna", "bell-cranell", "aiz-wallenstein", "welf-crozzo", "lilliluka-erde", "abnormal-resistance"],
   "infobox": {
     "title": "Development Ability",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
       {"label": "Printed as", "value": "Advanced Ability (earlier volumes); development ability (later volumes)", "refs": ["fm02-named", "fm12-term"]},

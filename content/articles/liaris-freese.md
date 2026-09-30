@@ -11,7 +11,7 @@
   "related": ["bell-cranell", "hestia", "aiz-wallenstein", "status", "level"],
   "infobox": {
     "title": "Liaris Freese",
-    "image_note": "No artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Skill"},
       {"label": "Holder", "value": "[[bell-cranell|Bell Cranell]]", "refs": ["fm01-skill"]},

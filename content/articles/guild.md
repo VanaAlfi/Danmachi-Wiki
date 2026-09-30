@@ -11,7 +11,7 @@
   "related": ["ouranos", "eina-tulle", "orario", "dungeon", "hestia-familia", "war-game"],
   "infobox": {
     "title": "The Guild",
-    "image_note": "No emblem or artwork has been cleared for publication on this wiki.",
+    "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Organisation"},
       {"label": "Founder and true leader", "value": "[[ouranos|Ouranos]]", "refs": ["so02-ouranos", "fm09-ouranos"]},

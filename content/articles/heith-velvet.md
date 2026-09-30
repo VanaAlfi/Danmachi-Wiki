@@ -51,6 +51,16 @@ Heith first went through the "baptism" of [[folkvangr|Folkvangr]] as one of the 
 
 #### Incantation {#zeo-gullveig-incantation}
 
+**All three printed pieces; completeness uncertain (FM18).**[@zeo-gullveig.fm18-cast]
+
+> —My name is Gold. Arm of the goddess who vows immortality.
+
+> Thrice burned, ever pierced. Hell of flaming spears, yet light is born laying death low.
+
+> Rejoice, be merry, go wild. My body is gold. Source of renewing light, bring endless conflict here.
+
+{{nocite}} **Notes and other printed variants**
+
 DanMachi 18 prints the chant in three pieces while the coalition watches, then the name.[@zeo-gullveig.fm18-cast] {{inference}} The first printed line opens with a dash, so it may not be the chant's beginning.
 
 - **First printed piece (excerpt):** "—My name is Gold. Arm of the goddess who vows immortality."[@zeo-gullveig.fm18-cast]

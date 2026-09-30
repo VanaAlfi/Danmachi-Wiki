@@ -50,7 +50,27 @@ Fels was once Level 4 and can heal at a high level. In DanMachi 10 the spell [[#
 
 #### Incantation {#dia-orpheus-incantation}
 
-{{nocite}} The chant is extremely long and is printed in eight pieces, split by the narration and by scenes elsewhere in Orario. Only short excerpts are quoted; the full passage is in DanMachi 10, Chapter 10.
+**Complete printed chant (FM10).**[@dia-orpheus.fm10-cast]
+
+> O untrodden domain, O forbidden wall. Today on this day, I turn my back on the laws of heaven—
+
+> Rod of Asclepius, Goblet of Salus. O ye who is beyond the power of healing—I ask you to wait.
+
+> Lord’s judgment, lightning of conviction. Shall I be burned, rejecting your providence—
+
+> —I shall journey to the realm of the dead myself.
+
+> Gates of Charon, over the river of time. Lend your ears, O Lord. Listen to this deranged melody.
+
+> Never-ending tears, lamenting wails. The price has already been paid.
+
+> O path of light. I ask you to sacrifice the given past and cast light on this foolish desire.
+
+> Yes, I will not turn away.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} The chant is extremely long and is printed in eight pieces, split by the narration and by scenes elsewhere in Orario. 
 
 - **Opening (excerpt):** "O untrodden domain, O forbidden wall."[@dia-orpheus.fm10-cast]
 - **Middle pieces:** they invoke the Rod of Asclepius, the gates of Charon and the river of time, and say the price has already been paid.[@dia-orpheus.fm10-cast]

@@ -56,7 +56,15 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Arcs Ray under Magic: single-ta
 
 #### Incantation {#arcs-ray-incantation}
 
-{{nocite}} The chant is short, two pairs of sentences, and is printed many times with only small differences. This page quotes the second pair, which is printed most often, and gives the locations of complete prints.
+**Complete printed chant (SO01).**[@arcs-ray.so01-chant]
+
+> Unleashed beam of light, limbs of the holy tree. You are the master archer.
+
+> Loose your arrows, fairy archers. Pierce, arrow of accuracy!
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} The chant is short, two pairs of sentences, and is printed many times with only small differences. Both pairs are transcribed above.
 
 - **First pair (described, not quoted in full):** it begins "Unleashed beam of light", invokes the holy tree and names the caster the master archer.[@arcs-ray.so01-chant]
 - **Second pair (excerpt):** "Loose your arrows, fairy archers. Pierce, arrow of accuracy!"[@arcs-ray.so01-chant]
@@ -95,7 +103,17 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Fusillade Fallarica under Magic
 
 #### Incantation {#fusillade-fallarica-incantation}
 
-{{nocite}} The chant runs to several lines, so only one short excerpt is quoted here. The full chant is printed in Sword Oratoria 1 and again, with small differences, in Sword Oratoria 4.
+**Complete printed chant (SO01).**[@fusillade-fallarica.so01-room]
+
+> Proud warriors, marksmen of the forest. Take up your bows to face the marauders. Answer the call of your kin and nock your arrows.
+
+> Bring forth the flame, torches of the forest. Release them, flaming arrows of the fairies.
+
+> Fall like rain, burn the savages to ash.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} The chant runs to several lines, with the complete printed wording transcribed above. The full chant is printed in Sword Oratoria 1 and again, with small differences, in Sword Oratoria 4.
 
 - **Structure:** three printed pieces. The first calls on proud forest marksmen and kin to take up their bows; the second calls for the forest's torches and the fairies' flaming arrows; the third is the excerpt below.[@fusillade-fallarica.so01-room]
 - **Excerpt (last line):** "Fall like rain, burn the savages to ash."[@fusillade-fallarica.so01-room]
@@ -130,7 +148,21 @@ Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four 
 
 #### Incantation {#elf-ring-incantation}
 
-{{nocite}} Elf Ring has its own chant, which is printed with the same wording in Sword Oratoria 1, 3 and 12. Only short excerpts are quoted here.
+**Complete printed chant; the summoned spell follows separately (SO01).**[@elf-ring.so01-summon]
+
+> I beseech the name of Wishe!
+
+> Ancestors of the forest, proud brethren. Answer my call and descend upon the plains.
+
+> Connecting bonds, the pledge of paradise. Turn the wheel and dance.
+
+> Come, ring of fairies.
+
+> Please—give me strength.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} Elf Ring has its own chant, which is printed with the same wording in Sword Oratoria 1, 3 and 12. 
 
 - **Structure:** five printed pieces. It opens "I beseech the name of Wishe!", calls on the ancestors of the forest and the bonds of paradise, and reaches "Come, ring of fairies." before a final plea for strength.[@elf-ring.so01-summon, elf-ring.so03-rea, elf-ring.so12-final]
 - **Release:** "Elf Ring."[@elf-ring.so01-summon, elf-ring.so03-rea]

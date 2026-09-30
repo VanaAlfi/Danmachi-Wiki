@@ -56,7 +56,25 @@ Sword Oratoria 8 presents his contempt for weakness as a response to these losse
 
 #### Incantation {#hati-incantation}
 
-{{nocite}} Hati's chant runs to several lines. This page quotes only its first and last words and gives the locations of the full prints.
+**Complete printed chant (SO08).**[@hati.so08-cast]
+
+> Chained Fros, king of the wolves
+
+> The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears.
+
+> Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence.
+
+> Denounce the world. Acknowledge fate. And dry thy tears.
+
+> May the pain become your fangs, the lament your roar—and your lost companions your strength.
+
+> Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup.
+
+> Bare your fangs—and devour all.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} Hati's chant runs to several lines. The complete printed wording is transcribed above.
 
 - **Opening (excerpt):** "Chained Fros, king of the wolves"[@hati.so08-cast]
 - **Last line (excerpt):** "Bare your fangs—and devour all."[@hati.so08-cast]

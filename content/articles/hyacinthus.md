@@ -46,7 +46,19 @@ When Apollo is exiled from [[orario|Orario]], a small group of his followers, in
 
 #### Incantation {#aro-zephyros-incantation}
 
-{{nocite}} DanMachi 6 prints the chant in four pieces, interrupted by the fight. Only short excerpts are quoted.
+**All printed chant lines; action interrupts the last sentence (FM06).**[@aro-zephyros.fm06-duel]
+
+> —My name is love, child of light. Glorious son, I offer you my body!
+
+> My name is sin, jealously of the wind. This body calls forth your gust!
+
+> Come forth, ring of fire—!
+
+> —on westerly winds!
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} DanMachi 6 prints the chant in four pieces, interrupted by the fight. 
 
 - **Excerpt (first printed line):** "My name is love, child of light. Glorious son, I offer you my body!"[@aro-zephyros.fm06-duel]
 - A second line, also beginning "My name is…", calls forth the wind's gust; the source prints "jealously of the wind" in it, apparently for "jealousy".[@aro-zephyros.fm06-duel]

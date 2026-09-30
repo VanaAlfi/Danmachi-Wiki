@@ -48,6 +48,12 @@ Zald was once Ottar's teacher, and in Astrea Record 1 he defeats Ottar.[@ar01-za
 
 #### Incantation {#rea-ambrosia-incantation}
 
+**All printed words, including the spell name; completeness unstated (AR03).**[@rea-ambrosia.ar03-cast]
+
+> O Father, forgive me, for I thieve from the plate of the gods! Let my flaming tongue devour! Let my burning fangs consume! Rea Ambrosia!!
+
+{{nocite}} **Notes and other printed variants**
+
 As Ottar finishes his own chant, Zald roars his, told from Ottar's point of view:[@rea-ambrosia.ar03-cast]
 
 - **Opening (excerpt):** "O Father, forgive me, for I thieve from the plate of the gods!"[@rea-ambrosia.ar03-cast]

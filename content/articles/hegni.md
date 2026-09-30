@@ -56,7 +56,15 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 
 #### Incantation {#dainsleif-incantation}
 
-Familia Chronicle 2 prints the whole chant, three sentences, and calls it a short cast.[@dainsleif.fc02-cast] Only part is quoted.
+**Complete printed chant (FC02).**[@dainsleif.fc02-cast]
+
+> Draw thine sword, King of the fiendish blades.
+
+> Sacrifice reason and offer up blood. Slaughter all until the feast is finished.
+
+{{nocite}} **Notes and other printed variants**
+
+Familia Chronicle 2 prints the whole chant, three sentences, and calls it a short cast.[@dainsleif.fc02-cast] 
 
 - **Opening:** "Draw thine sword, King of the fiendish blades."[@dainsleif.fc02-cast]
 - **Then:** "Sacrifice reason and offer up blood. Slaughter all until the feast is finished."[@dainsleif.fc02-cast, dainsleif.fm18-cast]

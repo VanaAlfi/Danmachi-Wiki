@@ -68,7 +68,19 @@ In Astrea Record 2, during the [[great-conflict|Great Conflict]], Allen is Level
 
 #### Incantation {#glarinese-fromel-incantation}
 
-DanMachi 18 prints the chant from its first words, where Allen "began singing the chariot’s song", to its last lines and the name, with narration between the pieces.[@glarinese-fromel.fm18-chant] Only excerpts are quoted.
+**Complete printed chant (FM18).**[@glarinese-fromel.fm18-chant]
+
+> Golden wheel, silver collar.
+
+> Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you.
+
+> Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls.
+
+> Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.
+
+{{nocite}} **Notes and other printed variants**
+
+DanMachi 18 prints the chant from its first words, where Allen "began singing the chariot’s song", to its last lines and the name, with narration between the pieces.[@glarinese-fromel.fm18-chant] 
 
 - **Opening:** "Golden wheel, silver collar."[@glarinese-fromel.fm18-chant]
 - **Second line (excerpt):** "Hated love, illusory corpse, thy destiny is here."[@glarinese-fromel.fm18-chant]

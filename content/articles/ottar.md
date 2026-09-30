@@ -67,7 +67,15 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 
 #### Incantation {#hildis-vini-incantation}
 
-{{nocite}} The chant is short, three sentences, and is printed with the same words in every volume that shows it. Only part is quoted.
+**Complete printed chant (FC02).**[@hildis-vini.fc02-udaeus]
+
+> Silver moon’s mercy and the golden plains. I offer this body to the lord of battle.
+
+> Charge bearing the goddess’s will.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} The chant is short, three sentences, and is printed with the same words in every volume that shows it. 
 
 - **Opening (excerpt):** "Silver moon’s mercy and the golden plains."[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
 - **Middle:** he offers his body to the lord of battle.[@hildis-vini.fc02-udaeus]

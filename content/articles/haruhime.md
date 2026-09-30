@@ -75,7 +75,21 @@ The spell is named *Uchide no Kozuchi* from DanMachi 7 onward; *Level Boost* is 
 
 #### Incantation {#uchide-no-kozuchi-incantation}
 
-{{nocite}} The chant is printed with the same wording in every full print. Only a short excerpt is quoted here; the references give the locations of the full passages.
+**Complete printed chant (FM07).**[@uchide-no-kozuchi.fm07-chant]
+
+> —Grow.
+
+> That power and that vessel. Breadth of wealth and breadth of wishes. Until the bell tolls, bring forth glory and illusion.
+
+> —Grow.
+
+> Confine divine offerings within this body. This golden light bestowed from above. Into the hammer and into the ground, may it bestow good fortune upon you.
+
+> —Grow.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} The chant is printed with the same wording in every full print. 
 
 - **Structure:** Haruhime begins with "—Grow.", recites two lines, each followed by "Grow", and then names the spell.[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm12-kokonoe]
 - **Excerpt (first line):** "That power and that vessel. Breadth of wealth and breadth of wishes."[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm12-kokonoe, uchide-no-kozuchi.fm18-chant]
@@ -142,7 +156,23 @@ Haruhime's DanMachi 15 card lists Kokonoe under Magic, beside Uchide no Kozuchi.
 
 #### Incantation {#kokonoe-incantation}
 
-{{nocite}} Kokonoe's chant is printed in full twice, with the same wording. Only a short excerpt is quoted here; the references give the locations of the full passages.
+**Name first, then complete printed chant; followed by Uchide no Kozuchi (FM12).**[@kokonoe.fm12-chant]
+
+> Kokonoe.
+
+> Beloved snow. Beloved crimson. Beloved white light.
+
+> Please let me be beside you—this love I have found at the end of two thousand nights.
+
+> My name is Magic Fox, former destroyer. My name is Ancient Song, former dreamer. For you who beat your wings like a bird, I shall allow the nine spirits to dwell within me.
+
+> Echo song of gold, sacred poem of Tamamo. White face, golden fur, king of nine tails.
+
+> Oh tails of the auspicious beast, consume all, grant all wishes—
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} Kokonoe's chant is printed in full twice, with the same wording. 
 
 - **Name first:** unusually, the spell "began not with a chant but with the announcement of the spell's name": Haruhime says "Kokonoe." and then chants.[@kokonoe.fm12-chant]
 - **Excerpt (first piece):** "Beloved snow. Beloved crimson. Beloved white light."[@kokonoe.fm12-chant, kokonoe.fm18-chant]

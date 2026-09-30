@@ -56,7 +56,17 @@ In Minor Myths and Legends 2 she makes the Unicorn Cup from a horn that was free
 
 #### Incantation {#dia-frater-incantation}
 
-{{nocite}} The chant is several lines long and is printed at different lengths in different volumes. Only short excerpts are quoted; the versions are kept apart.
+**Fullest printed chant (SO11).**[@dia-frater.so11-barca]
+
+> Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things.
+
+> Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality.
+
+> In the name of all that is holy—I heal you.
+
+{{nocite}} **Notes and other printed variants**
+
+{{nocite}} The chant is several lines long and is printed at different lengths in different volumes. 
 
 - **Opening (excerpt):** "Healing droplets, tears of light, eternal sanctuary."[@dia-frater.ar01-first, dia-frater.so11-barca]
 - **Closing line (excerpt):** "In the name of all that is holy—I heal you."[@dia-frater.ar01-first, dia-frater.so11-barca]

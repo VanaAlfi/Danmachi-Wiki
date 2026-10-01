@@ -6,12 +6,12 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The girl raised as Prince Aram Raza Shalzad, heir of the desert kingdom of Shalzad. Found in a slave market by Freya in Familia Chronicle 2, she rallies her country against Warsa while Freya Familia's eight followers destroy an army of eighty thousand. Freya then sends her away to live as a king. She becomes King Aram the Wise.",
-  "aliases": ["Aram Raza Shalzad", "Aram", "Prince Aram", "King Aram", "King Aram the Wise", "Shalzad", "Kingdom of Shalzad", "Warsa", "Calamity of the Hot Sands", "Battle of the Sindh", "Resheph", "Resheph Familia", "Bofman", "Bofman Fazoul", "Fazoul Trading Company", "Leodo", "Israfan", "Kaios Desert", "Aram and the Eight Warriors"],
+  "aliases": ["Aram Raza Shalzad", "Aram", "Prince Aram", "King Aram", "King Aram the Wise", "Shalzad", "Kingdom of Shalzad", "Warsa", "Calamity of the Hot Sands", "Battle of the Sindh", "Resheph", "Resheph Familia", "Bofman", "Bofman Fazoul", "Fazoul Trading Company", "Leodo", "Israfan", "Kaios Desert", "Aram and the Eight Warriors", "Jafar", "General Jafar", "Gorza", "General Gorza"],
   "spoilers": "Familia Chronicle Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["freya", "freya-familia", "ottar", "allen-fromel", "hedin", "hegni", "gulliver-brothers", "royman"],
   "sections": [
     {"anchor": "shalzad", "title": "Shalzad", "summary": "A desert kingdom of the western Kaios with a great belt of oases, invaded by Warsa in Familia Chronicle 2; its capital is Solshana.", "aliases": ["Kingdom of Shalzad", "Solshana", "Kaios Desert"]},
-    {"anchor": "calamity-of-the-hot-sands", "title": "Calamity of the Hot Sands", "summary": "The war of Shalzad, Warsa and later Israfan, ended at the Battle of the Sindh when Freya Familia's eight followers defeated Warsa's eighty thousand; Resheph Familia fought for Warsa.", "aliases": ["Battle of the Sindh", "Warsa", "Resheph", "Resheph Familia"]},
+    {"anchor": "calamity-of-the-hot-sands", "title": "Calamity of the Hot Sands", "summary": "The war of Shalzad, Warsa and later Israfan, ended at the Battle of the Sindh when Freya Familia's eight followers defeated Warsa's eighty thousand; Resheph Familia fought for Warsa.", "aliases": ["Battle of the Sindh", "Warsa", "Resheph", "Resheph Familia", "Gorza"]},
     {"anchor": "bofman", "title": "Bofman Fazoul", "summary": "The boastful desert merchant who guides Freya in Familia Chronicle 2, helps Ali, and later serves King Aram; head of the Fazoul Trading Company.", "aliases": ["Bofman", "Fazoul Trading Company"]}
   ],
   "infobox": {
@@ -30,7 +30,7 @@
   }
 }
 ---
-**Ali** is a girl raised as **Aram Raza Shalzad**, the prince of the desert kingdom of Shalzad. In Familia Chronicle 2, [[freya|Freya]] finds her among slaves in the Kaios Desert. With the help of Freya's eight followers she wins back her country from Warsa, and Freya then sends her away to rule.[@fc02-market, fc02-names, fc02-parting] She becomes the fifteenth king of Shalzad, King Aram the Wise.[@fc02-legacy]
+**Ali** is a girl raised as **Aram Raza Shalzad**, the prince of the desert kingdom of Shalzad. In Familia Chronicle 2, [[freya|Freya]] finds her among slaves in the [[kaios-desert|Kaios Desert]]. With the help of Freya's eight followers she wins back her country from Warsa, and Freya then sends her away to rule.[@fc02-market, fc02-names, fc02-parting] She becomes the fifteenth king of Shalzad, King Aram the Wise.[@fc02-legacy]
 
 ## Background {#background}
 

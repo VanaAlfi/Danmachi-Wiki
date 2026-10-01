@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
-  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish"],
+  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi"],
   "spoilers": "DanMachi Vols. 1–20 and Astrea Record Vol. 3",
   "related": ["hestia-familia", "hestia", "skills", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
@@ -31,7 +31,7 @@
 
 ## Background
 
-Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god Zeus, who faked his death and went into hiding; Bell does not learn this.[@fm05-death, fm05-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of Hera, entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-parents, fm05-zeus] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
+Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god [[zeus|Zeus]], who faked his death and went into hiding; Bell does not learn this. In the Japanese Hermes calls Bell Zeus's {{ja|義孫|gison}}, a grandson by adoption, where Yen Press prints "grandson".[@fm05-death, fm05-zeus, fm05-ja-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of [[hera|Hera]], entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-parents, fm05-zeus] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
 
 Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.[@fm15-rejections]
 
@@ -133,7 +133,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 | DanMachi 11 | Accepts Asterios's rematch and loses; the fight largely restores his reputation.[@fm11-asterios, fm11-reputation] |
 | DanMachi 12 | Reaches Level 4.[@fm12-level4] |
 | DanMachi 13–14 | Falls to [[floor-37|Floor 37]] with [[lyu-leon|Lyu Leon]] and survives the [[juggernaut|Juggernaut]] with her. [[amid|Amid]] rebuilds his injured left arm.[@fm13-juggernaut, fm14-arm] |
-| DanMachi 16 | During the Goddess Festival he goes out with Syr, turns down her confession, and exposes the Syr of the second day as an impostor.[@fm16-date] |
+| DanMachi 16 | During the [[elegia#goddess-festival|Goddess Festival]] he goes out with Syr, turns down her confession, and exposes the Syr of the second day as an impostor.[@fm16-date] |
 | DanMachi 17 | Is taken by Freya and trained in Folkvangr; he learns the truth about Freya and Syr and resolves to save her.[@fm17-seizure, fm17-folkvangr] |
 | DanMachi 18 | Reaches Level 5, helps defeat Ottar, refuses to be Freya's Odr and scatters her flower to win the Familia War.[@fm18-level5, fm18-odr] |
 | DanMachi 19 | Enters the [[school-district|School District]] under the name Rapi Flemish.[@fm19-rapi] |
@@ -164,9 +164,10 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm04-argonaut]: FM04 | | Argonaut on the Level 2 card.
 [@fm05-death]: FM05 | Chapter 3: Dungeon Death March | The grandfather faked his death.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | Zeus as Bell's grandfather.
+[@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson, and "the last hero your Familia left behind"; two lines earlier he says plain grandson, and the man who raised Bell is called his foster parent in Chapter 3. Yen Press prints "grandson".
 [@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Bell destroys the Black Goliath.
 [@mord.fm05-kidnap]: FM05 | Chapter 5: The Outlaws’ Party | Mord uses the invisibility of the item from Hermes to kidnap Hestia; the duel on the plateau.
-[@mord.fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | Bell uses Mord's greatsword to save him from the bugbears.
+[@mord.fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | Bell uses Mord's sword to save him from the bugbears; Yen Press prints "greatsword" here, the Japanese (file part0027, paragraph 107) says longsword.
 [@fm06-wargame]: FM06 | Chapter 5: Our War Game | Bell defeats Hyacinthus.
 [@fm06-training]: FM06 | | Training with Aiz and Tiona.
 [@fm07-level3]: FM07 | Chapter 1: Smooth Sailing? | Level 3 announced.

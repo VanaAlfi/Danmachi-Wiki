@@ -99,11 +99,11 @@ In DanMachi 19, Bell says "Blasphemous Burn" as a fake chant while casting his o
 
 #### Effects {#will-o-the-wisp-effects}
 
-On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on a member of his old Familia.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain]
+On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on people, his Familia mates (the Yen Press text says "one of the guys in my Familia").[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain, will-o-the-wisp.fm05-ja-explain]
 
 {{nocite}} The novels show it working on several kinds of target:
 
-- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting at [[rivira|Rivira]]; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm06-war]
+- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting during the rescue fight on Floor 18; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm05-ja-rivira, will-o-the-wisp.fm06-war]
 - **Monster attacks that use magic.** It detonates the Black [[goliath|Goliath]]'s howl, though the monster at once prepares another.[@will-o-the-wisp.fm05-goliath]
 - **Magic circles.** In Sword Oratoria 12 Welf's cast beats a [[corrupted-spirit|demi-spirit]]'s high-speed casting, and all the magic circles around it go off in a chain of explosions.[@will-o-the-wisp.so12-spirit]
 - **Selective blast.** In DanMachi 18 the heat haze detonates the magic that [[allen-fromel|Allen]] and his guards have prepared, while seeming to avoid Bell's path. The text does not say it can always spare allies.[@will-o-the-wisp.fm18-allen]
@@ -151,7 +151,9 @@ DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visit
 [@so05-blood]: SO05 | | The first Crozzo's spirit blood; Welf's rejection of the legacy.
 [@will-o-the-wisp.fm05-first]: FM05 | Chapter 2: How Many Meders to a Safe Return? | First use on hellhounds; chant and spell name; "anti-magic Magic".
 [@will-o-the-wisp.fm05-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Mechanism; timing; very short spell needing preparation; earlier test.
+[@will-o-the-wisp.fm05-ja-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Japanese original (file part0013, paragraphs 497 and 499): Welf asked the guys of the same Familia, plural, and says they too knew the risk. Yen Press prints "one of the guys in my Familia".
 [@will-o-the-wisp.fm05-rivira]: FM05 | Chapter 5: The Outlaws’ Party | Three casting adventurers caught by Ignis Fatuus.
+[@will-o-the-wisp.fm05-ja-rivira]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 373 to 375): the spell catches the three enemies who were chanting in a magic misfire; the fight is the rescue brawl in the eastern part of Floor 18 (paragraph 123), not at Rivira.
 [@will-o-the-wisp.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | The Goliath's howl detonated.
 [@will-o-the-wisp.fm06-war]: FM06 | Chapter 5: Our War Game | Enemy mages fail to cast; archers caught in the blasts.
 [@will-o-the-wisp.fm14-napalm]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Useless against the non-magical blue napalm.

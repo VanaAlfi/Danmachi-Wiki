@@ -16,7 +16,7 @@
       {"section": "Monster"},
       {"label": "Type", "value": "[[monster-rex|Monster Rex]] (floor boss)", "refs": ["fm05-goliath", "fm02-rex"]},
       {"label": "Floor", "value": "17, the Great Wall of Sorrows", "refs": ["fm05-goliath"]},
-      {"label": "Size", "value": "More than seven meders tall", "refs": ["fm05-goliath"]},
+      {"label": "Size", "value": "About seven meders tall", "refs": ["fm05-goliath", "fm05-ja-goliath"]},
       {"label": "Classified", "value": "Level 4", "refs": ["fm08-goliath"]},
       {"label": "Respawn", "value": "About every two weeks", "refs": ["fm05-goliath", "fm08-goliath"]},
       {"section": "Black Goliath"},
@@ -26,7 +26,7 @@
   }
 }
 ---
-The **Goliath** is the [[monster-rex|Monster Rex]] of Floor 17. It is born from the floor's Great Wall of Sorrows, stands more than seven meders tall and normally respawns about every two weeks.[@fm05-goliath] It is classified as Level 4.[@fm08-goliath] In DanMachi 5 the Dungeon also produces a black Goliath on [[floor-18|Floor 18]].[@fm05-black]
+The **Goliath** is the [[monster-rex|Monster Rex]] of Floor 17. It is born from the floor's [[cave-labyrinth#floor-17|Great Wall of Sorrows]], stands nearly seven meders tall (the Yen Press text says "more than seven meders tall") and normally respawns about every two weeks.[@fm05-goliath, fm05-ja-goliath] It is classified as Level 4.[@fm08-goliath] In DanMachi 5 the Dungeon also produces a black Goliath on [[floor-18|Floor 18]].[@fm05-black]
 
 ## Monster Rex
 
@@ -69,6 +69,7 @@ In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18,
 
 [@fm02-rex]: FM02 | | Monster Rex: single, slow rebirth, two Levels above the floor's monsters.
 [@fm05-goliath]: FM05 | | Floor 17, Great Wall of Sorrows, size and respawn interval.
+[@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it; the Black Goliath's body is likewise said to extend to as much as seven (file part0027, paragraph 79). Yen Press prints "more than seven meders tall".
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.
 [@fm05-black-traits]: FM05 | | Howl, roar and regeneration.
 [@fm05-level5]: FM05 | Chapter 6: Praise to the Heroes | Lyu's Level 5 estimate.

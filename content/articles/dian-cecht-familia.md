@@ -6,15 +6,15 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The god Dian Cecht's Familia of healers and medicine makers, home of the Dea Saint Amid Teasanare. It sells Orario's most expensive potions, runs a clinic on Northwest Main Street, and is the business rival and creditor of Miach Familia.",
-  "aliases": ["Dian Cecht"],
+  "aliases": [],
   "spoilers": "DanMachi Vols. 4, 14, 15 and 18, Sword Oratoria Vols. 1, 5–8 and 11–13, Astrea Record Vols. 1–2 and Minor Myths and Legends Vol. 2",
-  "related": ["amid", "miach-familia", "airgetlam", "loki-familia", "guild", "orario"],
+  "related": ["dian-cecht", "amid", "miach-familia", "airgetlam", "loki-familia", "guild", "orario"],
   "infobox": {
     "title": "Dian Cecht Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Patron god", "value": "Dian Cecht", "refs": ["fm04-dian"]},
+      {"label": "Patron god", "value": "[[dian-cecht|Dian Cecht]]", "refs": ["fm04-dian"]},
       {"label": "Known member", "value": "[[amid|Amid Teasanare]], the Dea Saint", "refs": ["fm04-dian", "fm14-amid"]},
       {"label": "Trade", "value": "Medicine, potions and custom healing items; treating patients", "refs": ["fm04-trade", "so01-shop"]},
       {"label": "Premises", "value": "A white stone clinic on Northwest Main Street; a large mansion as home", "refs": ["so01-shop", "fm15-infirmary", "so12-healers"]},
@@ -28,11 +28,13 @@
 
 ## The Familia
 
-- **Products.** Its potions are of very high quality, and it sells only to those who can pay. One serum can restore sight to the blind. Its most expensive potion, the elixir, sells for no less than 500,000 valis a bottle.[@so01-shop] It also makes custom items, such as the [[airgetlam|airgetlám]], the silver arm Miach bought for Nahza.[@fm04-trade] Amid's anti-napalm solution is much sought after for expeditions.[@fm14-amid]
+- **Products.** Its potions are of very high quality, and it sells only to those who can pay. One serum can restore sight to the blind. Its most expensive potion, the elixir, sells for no less than 500,000 valis a bottle.[@so01-shop] It also makes custom items, such as the [[airgetlam|airgetlám]], the silver arm [[miach|Miach]] bought for Nahza.[@fm04-trade] Amid's anti-napalm solution is much sought after for expeditions.[@fm14-amid]
 - **Premises.** Its clinic is a white stone building on Northwest Main Street, Adventurers Way, divided into small rooms for sales, treatment and meetings.[@so01-shop, fm15-infirmary] The Familia lives in a large walled mansion.[@fm04-double, so12-healers]
 - **Uniform and emblem.** Its members wear a plain white robe like a nurse's.[@so01-shop] The emblem is printed as sparkling gems on medicinal leaves (Sword Oratoria 1), herb and light (Sword Oratoria 6), and a ball of light flanked by herbs (Astrea Record 1).[@so01-shop, so06-clinic, ar01-amid]
 
 ## Dian Cecht
+
+{{nocite}} The god has his own page: [[dian-cecht|Dian Cecht]].
 
 Dian Cecht looks like a middle-aged god, with greying hair and a beard. In DanMachi 4 he arrives at Miach's shop in an extravagant embroidered gold robe, taunting Miach as a "ruined beggar" and laughing until spittle flies.[@fm04-dian] He gives Miach one day to pay the month's instalment on his debt or lose his home; Miach says the two never saw eye to eye, even in Heaven.[@fm04-dian] That night Miach brings him twenty of the first double potions, which restore both strength and Mind. Amid confirms their value, and Dian Cecht roars in frustration but buys them.[@fm04-double]
 

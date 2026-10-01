@@ -25,7 +25,7 @@
   }
 }
 ---
-**Haruhime** is a [[races#renart|renart]] from the Far East and a sorceress whose spell [[#uchide-no-kozuchi|Uchide no Kozuchi]] temporarily raises another person by a Level.[@fm07-name, fm07-history] Held by [[ishtar-familia|Ishtar Familia]] until DanMachi 7, she then joins [[hestia-familia|Hestia Familia]].[@fm07-join]
+**Haruhime** is a [[races#renart|renart]] from the [[far-east|Far East]] and a sorceress whose spell [[#uchide-no-kozuchi|Uchide no Kozuchi]] temporarily raises another person by a Level.[@fm07-name, fm07-history] Held by [[ishtar-familia|Ishtar Familia]] until DanMachi 7, she then joins [[hestia-familia|Hestia Familia]].[@fm07-join]
 
 ## Name
 

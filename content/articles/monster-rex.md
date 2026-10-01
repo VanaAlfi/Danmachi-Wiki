@@ -28,11 +28,11 @@ A **Monster Rex** is a monster of a kind the Dungeon allows only one of on a flo
 
 | Floor | Monster | Notes |
 |---|---|---|
-| 17 | [[goliath|Goliath]] | A giant on the Great Wall of Sorrows, more than seven meders tall, normally reborn about every two weeks.[@fm05-goliath] DanMachi 8 classifies it as Level 4.[@fm08-goliath] |
+| 17 | [[goliath|Goliath]] | A giant on the [[cave-labyrinth#floor-17|Great Wall of Sorrows]], nearly seven meders tall (the Yen Press text says "more than seven"), normally reborn about every two weeks.[@fm05-goliath, fm05-ja-goliath] DanMachi 8 classifies it as Level 4.[@fm08-goliath] |
 | 27 | [[amphisbaena|Amphisbaena]] | Two-headed and able to climb the Great Falls. The Guild estimates it at Level 6 in water and about Level 5 in raw ability.[@fm13-amphisbaena, fm14-amphisbaena] |
 | 37 | [[udaeus|Udaeus]] | Printed *Udaios* in DanMachi 2. [[aiz-wallenstein|Aiz Wallenstein]] defeats it alone and reaches Level 6; [[ottar|Ottar]] also defeats it alone.[@fm02-rex, so02-udaeus, fc02-udaeus] |
 
-On Floors 11 and 12, where there is no Monster Rex, [[monsters#infant-dragon|infant dragons]] are treated as the bosses of the upper levels.[@fm04-dragons]
+On Floors 11 and 12, where there is no Monster Rex, [[monsters#infant-dragon|infant dragons]] are treated as the bosses of the [[upper-levels|upper levels]].[@fm04-dragons]
 
 ## Irregular behaviour
 
@@ -57,6 +57,7 @@ Defeating a strong enemy such as a Monster Rex alone can be the great feat that 
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex defined; Aiz and Udaios.
 [@fm04-dragons]: FM04 | | Infant dragons as upper-level bosses.
 [@fm05-goliath]: FM05 | | Floor 17, Great Wall of Sorrows, size and respawn interval.
+[@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it. Yen Press prints "more than seven meders tall".
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.
 [@fm08-goliath]: FM08 | | Level 4 classification.
 [@fm13-amphisbaena]: FM13 | | The Amphisbaena; its early rebirth.

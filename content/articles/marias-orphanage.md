@@ -49,7 +49,7 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 ## Lai {#lai}
 
-**Lai** ("just Lai") is a human boy who has lived at the orphanage the longest and turns eleven in DanMachi 8. His skin is covered in small scratches, and he keeps asking Bell about the Dungeon; Bell is sure he wants to be an adventurer.[@fm08-lai] When a barbarian attacks Bell in the passage behind the orphanage, Lai throws a rock at it to draw it away.[@fm08-barbarian]
+**Lai** ("just Lai") is a human boy who has lived at the orphanage the longest and turns eleven in DanMachi 8. His skin is covered in small scratches, and he keeps asking Bell about the Dungeon; Bell is sure he wants to be an adventurer.[@fm08-lai] When a [[monsters#barbarian|barbarian]] attacks Bell in the passage behind the orphanage, Lai throws a rock at it to draw it away.[@fm08-barbarian]
 
 ## Fina {#fina}
 

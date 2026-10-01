@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The coalition of dark gods and their followers who openly attacked Orario in its dark age, led by Erebus in the Great Conflict; their remnants later hide in Knossos.",
-  "aliases": ["Evils' Remnants"],
+  "aliases": ["Evils' Remnants", "Age of Darkness", "Dark Age"],
   "spoilers": "DanMachi Vols. 13–19, Sword Oratoria Vols. 7–12, Familia Chronicle Vol. 1 and Astrea Record Vols. 1–3",
   "related": ["great-conflict", "erebus", "knossos", "astrea-familia", "dionysus", "levis", "magic"],
   "infobox": {
@@ -22,7 +22,7 @@
   }
 }
 ---
-**The Evils** are the coalition of dark gods and their followers who openly attacked [[orario|Orario]]'s order after [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] fell without completing the [[three-great-quests|Three Great Quests]].[@so09-darkage] In that dark age, [[astrea-familia|Astrea Familia]] fought them to keep law and order.[@fc01-darkage]
+**The Evils** are the coalition of dark gods and their followers who openly attacked [[orario|Orario]]'s order after [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] fell without completing the [[three-great-quests|Three Great Quests]].[@so09-darkage] In that dark age, [[astrea-familia|Astrea Familia]] fought them to keep law and order.[@fc01-darkage] [[hermes|Hermes]] calls the era "the Age of Darkness", "A period of untold chaos unlike any this city has seen before or since".[@ar01-age]
 
 ## The Great Conflict
 
@@ -43,6 +43,7 @@ Sword Oratoria 12 reveals that the god [[dionysus|Dionysus]], under the name Eny
 
 [@so09-darkage]: SO09 | | The Evils after Zeus and Hera's fall.
 [@fc01-darkage]: FC01 | Crush the Grand Casino! | Astrea Familia in the Dark Age.
+[@ar01-age]: AR01 | Prologue: The Unforgettable Melody of Justice | Hermes to Bell: "You don’t know what happened seven years ago, do you?"; "A period of untold chaos unlike any this city has seen before or since: the Age of Darkness."
 [@fc01-rudra]: FC01 | | Rudra Familia, the last Evils ally Lyu destroyed.
 [@ar02-bait]: AR02 | Epilogue: All You Need Is Justice | "The Evils have committed the sin of sending a god into the Dungeon."
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Erebus, Zald and Alfia.

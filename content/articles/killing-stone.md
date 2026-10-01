@@ -31,7 +31,7 @@ A **Killing Stone**, also called **Sesshouseki**, is a forbidden magic item crea
 
 {{statement}} The explanation comes from gods and adventurers discussing the stone after [[hermes|Hermes]] admits he delivered one to Ishtar.[@fm07-asfi]
 
-- **Tamamo stone.** [[asfi|Asfi]] names it as one ingredient. Asked where the material comes from, Hermes answers: "From the ashes of a renart." Takemikazuchi says its original purpose was to strengthen a renart's own sorcery.[@fm07-asfi]
+- **Tamamo stone.** [[asfi|Asfi]] names it as one ingredient. Asked where the material comes from, Hermes answers: "From the ashes of a renart." [[takemikazuchi|Takemikazuchi]] says its original purpose was to strengthen a renart's own sorcery.[@fm07-asfi]
 - **Toba stone.** [[lilliluka-erde|Lilly]] identifies it as *lunatic light*. [[welf-crozzo|Welf]] describes an ore that gains magical attributes and glows different colours under the moon, used by some smiths; Takemikazuchi adds that it is almost never used in [[orario|Orario]], since there is no moonlight in the Dungeon.[@fm07-toba]
 - **Synthesis.** Toba stones are most effective under a full moon; a toba stone synthesised with a tamamo stone at full power makes a Killing Stone.[@fm07-toba]
 

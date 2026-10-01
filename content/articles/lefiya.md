@@ -8,13 +8,14 @@
   "summary": "Elf mage of Loki Familia, titled Thousand Elf, who can reproduce other elves' spells; a School District graduate who admires Aiz Wallenstein. Level 4 from Sword Oratoria 12.",
   "aliases": ["Thousand Elf", "Lefiya"],
   "spoilers": "Sword Oratoria Vols. 1–7, 9, 11–13 and Minor Myths and Legends Vol. 2",
-  "related": ["loki-familia", "aiz-wallenstein", "riveria", "bete-loga", "school-district", "development-ability", "magic"],
+  "related": ["loki-familia", "aiz-wallenstein", "riveria", "bete-loga", "school-district", "wishe-forest", "development-ability", "magic"],
   "infobox": {
     "title": "Lefiya Viridis",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so01-lefiya"]},
+      {"label": "Home", "value": "[[wishe-forest|Wishe Forest]]", "refs": ["so01-wishe"]},
       {"label": "Schooling", "value": "[[school-district|The School District]], admitted at eight", "refs": ["so13-admitted"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so01-lefiya"]},
@@ -202,6 +203,7 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 | Sword Oratoria 13 | After training in close combat under [[bete-loga|Bete]], returns to the School District; her students show her she has been trying to become Filvis, and she chooses to remain herself.[@so13-return] |
 
 [@so01-lefiya]: SO01 | | Level 3 Thousand Elf; Fusillade Fallarica; Elf Ring.
+[@so01-wishe]: SO01 | Chapter 5: To Battle | "—I am Lefiya Viridis! An elf of the Wishe Forest!"
 [@so03-lefiya]: SO03 | | Arcs Ray; Elf Ring.
 [@so04-secret]: SO04 | First Chapter: And the Boy… | Lefiya discovers the secret training.
 [@so04-lefiya]: SO04 | | Concurrent Casting.

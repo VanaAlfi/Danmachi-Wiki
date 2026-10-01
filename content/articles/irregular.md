@@ -28,8 +28,8 @@ An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. 
 
 ## Kinds {#kinds}
 
-- **Monsters out of place:** most monsters stay on the floor where they are born, but "some irregulars might go up or down a floor or two".[@fm01-floors] The typical Irregular is a monster that becomes a threat by climbing from a lower floor to a higher one, like the [[minotaur|Minotaur]] that attacks Bell in the upper levels.[@fm12-types, fm01-minotaur] In DanMachi 7, Lilly identifies as an Irregular a monster that should not appear above the fifteenth floor.[@fm07-floor]
-- **Outbreaks and mass spawns:** in DanMachi 9 firebirds overflow onto the nineteenth floor. "Mass spawns were just another one of the Dungeon's Irregulars", like the poison vermis that Loki Familia meets in Sword Oratoria 5.[@fm09-definition, so05-spawns, ss02-vermis]
+- **Monsters out of place:** most monsters stay on the floor where they are born, but "some irregulars might go up or down a floor or two".[@fm01-floors] The typical Irregular is a monster that becomes a threat by climbing from a lower floor to a higher one, like the [[minotaur|Minotaur]] that attacks Bell in the [[upper-levels|upper levels]].[@fm12-types, fm01-minotaur] In DanMachi 7, Lilly identifies as an Irregular a monster that should not appear above the fifteenth floor.[@fm07-floor]
+- **Outbreaks and mass spawns:** in DanMachi 9 [[monsters#firebird|firebirds]] overflow onto the nineteenth floor. "Mass spawns were just another one of the Dungeon's Irregulars", like the poison vermis that Loki Familia meets in Sword Oratoria 5.[@fm09-definition, so05-spawns, ss02-vermis]
 - **Subspecies:** in Aiz's memories of Sword Oratoria 9, a pure-black wyvern on the upper floors is "clearly an Irregular, a subspecies".[@so09-wyvern] The armed monsters that overrun [[rivira|Rivira]] in DanMachi 10 are taken for a special subspecies.[@fm10-rivira]
 - **Enhanced species:** monsters that grow strong by eating others' [[magic-stone|magic stones]] are viewed as Irregulars. DanMachi 12's moss huge, which went *down* to deeper floors after stronger magic stones, is "the exact opposite of a typical Irregular". To prevent them, supporters gather the magic stones after a battle.[@fm12-types, fm13-stones]
 - **Unknown monsters:** the [[juggernaut|Juggernaut]], "The being the Dungeon spawned five years ago", was an Irregular that not even [[ouranos|Ouranos]] had anticipated. In DanMachi 14 the moss huge and the [[lambton|lambton]] come "one Irregular after another".[@fm13-juggernaut, fm14-another]
@@ -70,7 +70,7 @@ An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. 
 
 {{nocite}} Lowercase *irregular* also appears in the phrase *irregular ailments*, meaning status ailments such as poison; it is a different use.
 
-- **Irregular ailments:** the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] from the nineteenth floor is known for "Irregular attacks, like ones that involve poison". A siren's charm is among the nastiest of the "irregular ailments".[@fm12-ailments, fm12-siren]
+- **Irregular ailments:** the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] from the nineteenth floor is known for "Irregular attacks, like ones that involve poison". A mermaid's charm is among the nastiest of the "irregular ailments".[@fm12-ailments, fm12-siren]
 
 [@fm01-floors]: FM01 | Chapter 2: That’s Why I Run | "Each floor bears different monsters."; "some irregulars might go up or down a floor or two".
 [@fm01-minotaur]: FM01 | | "Yes, the Minotaur was an irregular."
@@ -87,7 +87,7 @@ An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. 
 [@fm12-planning]: FM12 | Chapter 2: Adventure Intermission | Parchments with "where Irregulars had appeared".
 [@fm12-ailments]: FM12 | Chapter 2: Adventure Intermission | "attacks that inflict irregular ailments"; "the huge number of Irregular attacks, like ones that involve poison".
 [@fm12-types]: FM12 | | Enhanced species "are viewed as Irregulars"; "the Guild places bounties on them"; "the exact opposite of a typical Irregular, which becomes a threat by ascending".
-[@fm12-siren]: FM12 | | Sirens' charms "uniquely nasty, even when compared to the limited number of other “irregular ailments”".
+[@fm12-siren]: FM12 | | Mermaids' charms "uniquely nasty, even when compared to the limited number of other “irregular ailments”".
 [@fm13-stones]: FM13 | Chapter 3: The True Intentions of Gale Wind | "In order to prevent the emergence of enhanced species and other Irregulars, the supporters hastily collect magic stones."
 [@fm13-juggernaut]: FM13 | Chapter 5: Calamity Arrives | "The being the Dungeon spawned five years ago was an Irregular."; "Ouranos had not anticipated it".
 [@fm14-another]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "The moss huge, the lambton…it’s been one Irregular after another!"

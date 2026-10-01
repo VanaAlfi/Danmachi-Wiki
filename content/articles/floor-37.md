@@ -22,7 +22,7 @@
   }
 }
 ---
-**Floor 37** of [[dungeon|the Dungeon]] lies in the deep levels. Called the White Palace, it is a concentric maze of five Ring Walls, large enough to hold all of [[orario|Orario]].[@fm14-palace, fm14-deep] DanMachi 2 calls it the Lower Fortress, home to Spartoi and to the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-fortress, fm02-rex, so02-rex]
+**Floor 37** of [[dungeon|the Dungeon]] lies in the deep levels. Called the White Palace, it is a concentric maze of five Ring Walls, large enough to hold all of [[orario|Orario]].[@fm14-palace, fm14-deep] DanMachi 2 calls it the Lower Fortress, home to [[monsters#spartoi|Spartoi]] and to the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-fortress, fm02-rex, so02-rex]
 
 ## The White Palace
 

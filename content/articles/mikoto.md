@@ -23,7 +23,7 @@
   }
 }
 ---
-**Yamato Mikoto** is an adventurer from the Far East. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card]
+**Yamato Mikoto** is an adventurer from the [[far-east|Far East]]. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card]
 
 The novels usually print her name given name first, *Mikoto Yamato*. At her first [[denatus|Denatus]] in DanMachi 4, Loki reads it from the Guild's papers as *Yamato Mikoto*, remarking that names from the Far East are "backward". This wiki gives Far Eastern names family name first.[@fm04-name, ss01-name]
 
@@ -76,9 +76,11 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 
 {{nocite}} "Shinbu Tousei" is the chant's closing phrase, not the spell's name; the name is spoken separately afterwards. The two openings ("Fear, strong and winding" and "Forgive my impudence as I beseech thee") are recorded separately: the text does not say whether one replaces the other or whether both belong in a longer chant.
 
+In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemakumo kashikoki}}, the formal opening of a prayer (awesome even to speak of), and the closing phrase {{ja|神武闘征|Shinbu Tōsei}} follows a run of dashes after the line about ruling the earth, so "earthshinbu tousei" is an artefact of the English print.[@futsu-no-mitama.fm05-ja-goliath]
+
 #### Effects {#futsu-no-mitama-effects}
 
-- **Gravity dome.** A force field drops from the sword's hilt ten meders above the Black [[goliath|Goliath]] and forms a dome that drives it to its knees.[@futsu-no-mitama.fm05-goliath]
+- **Gravity dome.** A sword of violet light drops from directly above the Black [[goliath|Goliath]], passes through it and plants itself in the centre of a set of circles, and a dome of gravity with a radius of ten meders forms and drives it to its knees (the Yen Press text says the force field descended "from the hilt of the sword ten meders in the air").[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
 - **Area.** In the DanMachi 6 [[war-game|War Game]] it spreads fifty meders in every direction, its maximum range, trapping twenty-two enemies and Mikoto herself. Anything that touches its outer layer, physical or magical, is forced to the ground.[@futsu-no-mitama.fm06-war]
 - **Reach.** Against the [[amphisbaena|Amphisbaena]] she places the sword at maximum range so that the gravity pulls down the tree-root dome above the monster.[@futsu-no-mitama.fm14-first] Later she chants underwater and pins the dragon, though the gravity crushes her too.[@futsu-no-mitama.fm14-second]
 - **Deflection.** In Sword Oratoria 12, boosted by [[haruhime|Haruhime]]'s Level Boost, her field bends a [[corrupted-spirit|demi-spirit]]'s blast of light into the floor. She cannot cancel the spell itself, only change its path.[@futsu-no-mitama.so12-shield]
@@ -88,7 +90,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 
 - Its strength depends on Mikoto's Status. The Black Goliath slowly rises against it, and she cannot push it back down.[@futsu-no-mitama.fm05-goliath]
 - She is inside the field if she casts it around herself, and in DanMachi 14 it breaks her fingers and injures her while she holds it.[@futsu-no-mitama.fm06-war, futsu-no-mitama.fm14-second]
-- Takemikazuchi had all but forbidden her to use it in the Dungeon's closed spaces, because it could catch her allies.[@futsu-no-mitama.fm05-goliath]
+- [[takemikazuchi|Takemikazuchi]] had strictly ordered her not to use it in enclosed spaces such as the Dungeon (the Yen Press text says he "had all but forbidden" it); in this fight she had held it back for fear of catching the other attackers and mages.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
 
 {{nocite}} Notable uses and open questions for Futsu no Mitama are on the combined page: [[magic#futsu-no-mitama|Magic § Futsu no Mitama]].
 
@@ -123,6 +125,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 [@fm04-name]: FM04 | Chapter 1: Denatus | Loki: "she’s from one of those Far East places, so her name’s backward…Little Miss Yamato Mikoto!"
 [@ss01-name]: SS01 | | "Mikoto Yamato."
 [@futsu-no-mitama.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Chant pieces; sword of light; gravity dome; the Goliath rises; Takemikazuchi's warning.
+[@futsu-no-mitama.fm05-ja-goliath]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 626, 629, 657 and 663 to 669): the chant opens with the formal prayer opening, awesome even to speak of; the closing phrase follows a run of dashes after the line to descend from the heavens and rule the earth; a sword of violet light appears directly above the Goliath and drops, and a dome-shaped force field with a radius of ten meders forms; the patron god had strictly ordered her not to use it in a closed space, and her own reason for holding it back so far was fear of catching the attackers and mages. Yen Press prints the field descending from the hilt "ten meders in the air" and the god as having "all but forbidden" it.
 [@futsu-no-mitama.fm06-war]: FM06 | Chapter 5: Our War Game | Seven-piece chant; "Futsu no Tama!"; fifty meders; twenty-two enemies.
 [@futsu-no-mitama.fm14-first]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Different opening; maximum range; root dome collapses.
 [@futsu-no-mitama.fm14-second]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Six-line chant; underwater casting; Mikoto crushed.

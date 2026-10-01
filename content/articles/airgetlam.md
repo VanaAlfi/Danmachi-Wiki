@@ -25,7 +25,7 @@
   }
 }
 ---
-**Airgetlám** is the artificial right arm of [[miach-familia#nahza-ersuisu|Nahza]], a [[races#chienthrope|chienthrope]] of [[miach-familia|Miach Familia]] who sells [[bell-cranell|Bell Cranell]] potions.[@fm02-nahza, fm18-sacrifice] The name is glossed as "silver arm". It is a custom item made by [[dian-cecht-familia|Dian Cecht Familia]], and Nahza's god Miach bought it with a loan.[@fm04-arm]
+**Airgetlám** is the artificial right arm of [[miach-familia#nahza-ersuisu|Nahza]], a [[races#chienthrope|chienthrope]] of [[miach-familia|Miach Familia]] who sells [[bell-cranell|Bell Cranell]] potions.[@fm02-nahza, fm18-sacrifice] The name is glossed as "silver arm". It is a custom item made by [[dian-cecht-familia|Dian Cecht Familia]], and Nahza's god [[miach|Miach]] bought it with a loan.[@fm04-arm]
 
 ## Name
 

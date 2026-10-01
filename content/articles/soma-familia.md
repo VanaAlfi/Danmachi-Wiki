@@ -8,7 +8,7 @@
   "summary": "The Familia of the god Soma, whose divine wine was used as a reward that drove its members to fight over it; Lilly's first Familia, reformed after DanMachi 6.",
   "aliases": ["Kanu"],
   "spoilers": "DanMachi Vols. 2–15",
-  "related": ["lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
+  "related": ["soma", "lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
   "sections": [
     {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": []}
   ],
@@ -17,7 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Deity", "value": "Soma", "refs": ["fm02-soma"]},
+      {"label": "Deity", "value": "[[soma|Soma]]", "refs": ["fm02-soma"]},
       {"label": "Commander", "value": "Zanis Lustra, until DanMachi 6", "refs": ["fm06-zanis"]},
       {"label": "Later leader", "value": "Chandra Ihit, by DanMachi 10", "refs": ["fm10-chandra"]},
       {"label": "Former member", "value": "[[lilliluka-erde|Lilliluka Erde]]", "refs": ["fm06-lilly"]}
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Soma Familia** is the Familia of the god Soma, maker of a divine wine that can take hold of a person's spirit. He makes it without [[tenkai-and-gekai#arcanum|Arcanum]], and leaves the running of the Familia to others while its members fight over the wine he gives as a reward.[@fm02-soma] [[lilliluka-erde|Lilliluka Erde]] was born into it.[@fm02-lilly]
+**Soma Familia** is the Familia of the god [[soma|Soma]], maker of a [[soma#divine-wine|divine wine]] that can take hold of a person's spirit. He makes it without [[tenkai-and-gekai#arcanum|Arcanum]], and leaves the running of the Familia to others while its members fight over the wine he gives as a reward.[@fm02-soma, fm17-arcanum] [[lilliluka-erde|Lilliluka Erde]] was born into it.[@fm02-lilly]
 
 ## The wine and Zanis
 
@@ -72,3 +72,4 @@ By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped usin
 [@fm10-zanis]: FM10 | Chapter 9: Dreams of Beasts | Zanis Rustra stripped of his position.
 [@fm10-chandra]: FM10 | Chapter 9: Dreams of Beasts | Chandra Ihit; the end of the reward system.
 [@fm15-soma]: FM15 | | Soma senses Lilly's growth.
+[@fm17-arcanum]: FM17 | Chapter 3: The Field of Battle | Ouranos: "Whether it be Hephaistos’s forging or Soma’s wine…Freya’s beauty falls within the same bounds."; "That was not the same as arcanum."

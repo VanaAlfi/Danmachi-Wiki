@@ -130,7 +130,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 
 #### Effects {#luminous-wind-effects}
 
-- **Area attack.** Hundreds of small orbs carve into the Black Goliath in DanMachi 5; Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[magic#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.so05-cast]
+- **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5 (the Yen Press text says "Hundreds of small orbs"); Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[magic#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
 - **Power.** In Familia Chronicle 1 it bends and then blows open a vault door made of several layers of adamantite.[@luminous-wind.fc01-vault]
 - **Concentrated.** In DanMachi 14 Lyu pours all her remaining Mind into forty-seven large orbs to destroy the Juggernaut.[@luminous-wind.fm14-end]
 - **Controlled.** In Familia Chronicle 3 she fires a single orb at her own feet to break free of a trap.[@luminous-wind.fc03-uranda]
@@ -327,6 +327,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@ar01-lyu]: AR01 | | Lyu at fourteen.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
 [@luminous-wind.fm05-cast]: FM05 | Chapter 6: Praise to the Heroes | Version A chant in three pieces; hundreds of orbs.
+[@luminous-wind.fm05-ja-cast]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 651): countless large orbs of light wrapped in green wind, born around Lyu and fired all at once into the Goliath; no number is given. Yen Press prints "Hundreds of small orbs".
 [@luminous-wind.so05-cast]: SO05 | Chapter 3: ⅓ Pure Passion | Version A in five lines; compared with Fusillade Fallarica.
 [@luminous-wind.fc01-casino]: FC01 | Crush the Grand Casino! | Version B in six pieces.
 [@luminous-wind.fc01-vault]: FC01 | Crush the Grand Casino! | The adamantite vault door.

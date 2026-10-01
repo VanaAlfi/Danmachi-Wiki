@@ -53,7 +53,7 @@ Cassandra and Daphne both reach Level 3 on that expedition; [[miach-familia#nahz
 
 ## Status sheet
 
-Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-light|Soul Light]] and [[#cure-ephialtes|Cure Ephialtes]], and one Skill, [[skills#five-dimension-troia|Five-Dimension Troia]], whose effect is marked indecipherable; the sheet says even its name is Miach's interpretation. It also describes her Rabbit Charm, made from the fur of the Xenos [[al-miraj|al-miraj]] after a prophetic dream.[@sheet.fm14-cassandra]
+Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-light|Soul Light]] and [[#cure-ephialtes|Cure Ephialtes]], and one Skill, [[skills#five-dimension-troia|Five-Dimension Troia]], whose effect is marked indecipherable; the sheet says even its name is [[miach|Miach]]'s interpretation. It also describes her Rabbit Charm, made from the fur of the Xenos [[al-miraj|al-miraj]] after a prophetic dream.[@sheet.fm14-cassandra]
 
 ## Magic {#magic}
 

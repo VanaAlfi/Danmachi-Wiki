@@ -52,7 +52,7 @@ A specialized item called a [[status-thief|Status Thief]] can still expose the r
 
 In a conversion, one god removes the old Falna and another engraves a new one. A converted follower cannot transfer again for a year.[@fm06-conversion] A follower normally has to have been with a Familia for a year before converting at all, unless that Familia dissolves; in DanMachi 17 Bell has been with Hestia for only six months, which blocks an immediate conversion.[@fm17-wait]
 
-A conversion does not erase every trace of the first god's ichor: that god can still sense whether the follower is alive, and Soma senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace]
+A conversion does not erase every trace of the first god's ichor: that god can still sense whether the follower is alive, and [[soma|Soma]] senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace]
 
 | Volume | Conversion |
 |---|---|

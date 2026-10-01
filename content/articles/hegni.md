@@ -68,7 +68,7 @@ Familia Chronicle 2 prints the whole chant, three sentences, and calls it a shor
 - **Then:** "Sacrifice reason and offer up blood. Slaughter all until the feast is finished."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
 - **Name:** "Dáinsleif."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
 
-DanMachi 18 prints the last two sentences and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16 [[bell-cranell|Bell]] hears a chant he cannot make out, then the name.[@dainsleif.fm16-bell]
+DanMachi 18 prints the last two sentences and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16, when he attacks [[bell-cranell|Bell]], the last sentence is printed before the name: "Slaughter all until the feast is finished."[@dainsleif.fm16-bell]
 
 Hegni plants his black sword in the ground and a black magic circle spreads around it; when he speaks the name, the circle shatters and its light is absorbed into his body.[@dainsleif.fc02-cast]
 
@@ -137,7 +137,7 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 [@fm19-hegni]: FM19 | Chapter 1: V-V-V for Victory Party | Hegni at the tavern; guarding Haruhime.
 [@ss02-hegni]: SS02 | | Dáinsleif as the same person.
 [@dainsleif.fc02-cast]: FC02 | Ali and the 8 Followers | The full chant; black magic circle; "a rare magic"; no Status increase; the title from the magic.
-[@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | An unheard chant, then "Dáinsleif"; the attack on Bell.
+[@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | The last sentence, "Slaughter all until the feast is finished.", then "Dáinsleif"; the attack on Bell.
 [@dainsleif.fm18-cast]: FM18 | Chapter 8: The Great Familia War | Two sentences and the name; "a short cast"; personality-altering; no Status effect; the limiter.
 [@dainsleif.fm18-welf]: FM18 | Chapter 8: The Great Familia War | Constant Mind; active like an enchantment; Welf's attempt.
 [@dainsleif.fm18-resolve]: FM18 | Chapter 9: Flower Language for You | His declaration "without activating Dáinsleif".

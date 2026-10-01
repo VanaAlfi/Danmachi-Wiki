@@ -8,13 +8,14 @@
   "summary": "The Familia of the god Ganesha, which hosts the Monsterphilia festival, is the only Familia allowed to keep live monsters in Orario, and helps keep the city's order.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 1, 9, 10, 18–20, Sword Oratoria Vols. 1, 2, 11, 12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
-  "related": ["xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
+  "related": ["ganesha", "xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
   "infobox": {
     "title": "Ganesha Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Deity", "value": "Ganesha", "refs": ["fm01-ganesha"]},
+      {"label": "Deity", "value": "[[ganesha|Ganesha]]", "refs": ["fm01-ganesha"]},
+      {"label": "Home", "value": "[[ganesha#i-am-ganesha|I Am Ganesha]], in south-west Orario", "refs": ["fm10-standing"]},
       {"label": "Captain", "value": "Shakti Varma, titled Ankusha", "refs": ["fc01-shakti"]},
       {"label": "Second-in-command", "value": "[[ilta-faana|Ilta Faana]], titled Paluza", "refs": ["fm18-ilta", "so12-paluza"]},
       {"label": "Known for", "value": "Hosting Monsterphilia; keeping live monsters", "refs": ["fm01-ganesha", "fm09-monsters"]}
@@ -22,7 +23,11 @@
   }
 }
 ---
-**Ganesha Familia** is the Familia of the god Ganesha, who hosts the [[monsterphilia|Monsterphilia]] festival and puts citizens' safety before his reputation.[@fm01-ganesha] It is the only Familia allowed to keep live monsters inside [[orario|Orario]], for training and experiments for Monsterphilia; registered captives carry tracking plates.[@fm09-monsters]
+**Ganesha Familia** is the Familia of the god [[ganesha|Ganesha]], who hosts the [[monsterphilia|Monsterphilia]] festival and puts citizens' safety before his reputation.[@fm01-ganesha] It is the only Familia allowed to keep live monsters inside [[orario|Orario]], for training and experiments for Monsterphilia; registered captives carry tracking plates.[@fm09-monsters]
+
+## Standing
+
+DanMachi 10 calls Ganesha Familia, also known as *Orario's Peacekeepers*, Orario's largest Familia by membership if the Guild's figures are right. It has an S Rank and is named alongside [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]]; its members are stationed at all of the city's gates, and citizens hold them in high esteem.[@fm10-standing] It has more first-tier adventurers than any other Familia, eleven, though "All of them might only have been at Level 5".[@fm10-first-tier] Its home, *I Am Ganesha* (also printed *Aiam Ganesha* and *Iam Ganesha*), is a giant statue of the god; see [[ganesha#i-am-ganesha|Ganesha § I Am Ganesha]].[@fm10-standing]
 
 ## Monsterphilia
 
@@ -48,6 +53,8 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@fm01-gate]: FM01 | Chapter 5: The Goddess’s Prank | Guards at the west gate.
 [@fm09-monsters]: FM09 | | The only Familia allowed live monsters.
 [@fm09-network]: FM09 | | Ganesha knows the plan.
+[@fm10-standing]: FM10 | Chapter 6: Before the Storm | "This was Ganesha Familia’s home, Iam Ganesha."; "it was also Orario’s largest familia in terms of membership"; "They possessed an S Rank and were worthy of being mentioned alongside Loki Familia and Freya Familia."; "had members stationed at all of Orario’s gates"; "Average citizens held them in high esteem."
+[@fm10-first-tier]: FM10 | Chapter 9: Dreams of Beasts | "Ganesha Familia had more first-tier adventurers than any other familia in Orario, eleven in total. All of them might only have been at Level 5".
 [@fm10-purpose]: FM10 | | Monsterphilia's hidden purpose.
 [@fm10-asterios]: FM10 | | Asterios and Ganesha Familia.
 [@so02-hashana]: SO02 | Chapter 2: Incident | "His name was Hashana Dorlia, a former member of…" "…Ganesha Familia."; "wasn’t the Strong Fist Warrior Hashana a Level Four?!"

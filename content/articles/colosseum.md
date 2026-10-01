@@ -37,7 +37,7 @@ Sword Oratoria 1 calls Orario's own arena, where the [[monsterphilia|Monsterphil
 
 ## Endless war {#endless-war}
 
-The Colosseum is packed with monsters that fight one another without a break: [[monsters#lizardman|lizardman elites]] against spartoi, a barbarian against a loup-garou, skull sheep against the barbarian. Lyu has heard that they war among themselves unless someone invades.[@fm14-shape] Whenever monsters die, cracks open in the plates and walls and new monsters are born, keeping the number up; Lyu calls the room "a miniature version of the Dungeon itself".[@fm14-room, fm14-shape] [[eina-tulle|Eina]] had told Bell of an area in the deep levels where monsters spawn endlessly to keep a set population.[@fm14-room]
+The Colosseum is packed with monsters that fight one another without a break: [[monsters#lizardman|lizardman elites]] against [[monsters#spartoi|spartoi]], a [[monsters#barbarian|barbarian]] against a [[monsters#loup-garou|loup-garou]], [[monsters#skull-sheep|skull sheep]] against the barbarian. Lyu has heard that they war among themselves unless someone invades.[@fm14-shape] Whenever monsters die, cracks open in the plates and walls and new monsters are born, keeping the number up; Lyu calls the room "a miniature version of the Dungeon itself".[@fm14-room, fm14-shape] [[eina-tulle|Eina]] had told Bell of an area in the deep levels where monsters spawn endlessly to keep a set population.[@fm14-room]
 
 According to the Guild's records, the Colosseum appeared suddenly about thirty years ago, when a very large room with layers of bedrock changed into its present form.[@fm14-history] Bell wonders whether it is a trap for adventurers, a stage for monsters to kill one another, or chance.[@fm14-history]
 

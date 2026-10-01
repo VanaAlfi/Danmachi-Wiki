@@ -85,7 +85,7 @@ The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#doubl
 - A Skill can appear at an ordinary Status update. Liaris Freese appears at Bell's first update after the [[minotaur|Minotaur]] rescue.[@liaris-freese.fm01-skill]
 - Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Cannon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
 - The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
-- Some Skills come with the blood. Every Crozzo who received a blessing gained the family's magic-sword Skill, and the Gojouno line of the Far East passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
+- Some Skills come with the blood. Every Crozzo who received a blessing gained the family's magic-sword Skill, and the Gojouno line of the [[far-east|Far East]] passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
 - Among beast people, only a few races can transform. Once they receive a [[falna|Falna]], their transformation is tied to their Skills, usually with a condition to meet or a risk attached; werewolves transform under the full moon.[@fm18-beast, so08-moon]
 
 ### Skills a god holds back {#withheld-skills}
@@ -98,7 +98,7 @@ Skills and spells from a blessing are usually beneficial, but they reflect the p
 
 ## Limit Release {#limit-release}
 
-DanMachi 5 names **Limit Release**: a temporary state in which the surroundings and the holder's emotions overload the Falna, and the power of a Skill rises exponentially. Bell enters it while charging Argonaut against the Black [[goliath|Goliath]].[@argonaut.fm05-limit] For the "grand bell" charge of DanMachi 18, see [[#argonaut-chime-and-grand-bell|Argonaut]].
+DanMachi 5 names **Limit Release** (the Japanese is {{ja|限界解除|genkai kaijo}}, read *Limit Off*): the narration says the strength of Bell's feeling surpasses even the Falna and breaks through its limit, temporarily raising the power of his Skill (the Yen Press text says surrounding conditions and emotion "overload the Falna" and that Skill power "increased exponentially"). Bell enters it while charging Argonaut against the Black [[goliath|Goliath]].[@argonaut.fm05-limit, argonaut.fm05-ja-limit] For the "grand bell" charge of DanMachi 18, see [[#argonaut-chime-and-grand-bell|Argonaut]].
 
 ## Keeping Skills secret {#keeping-skills-secret}
 
@@ -241,7 +241,7 @@ When the Skill exists and when Bell can know about it are different things. Hest
 **Argonaut**, printed in full as *Heroic Desire, Argonaut*, is [[bell-cranell|Bell Cranell]]'s second Skill. It charges an action that Bell chooses to take with extra power before he releases it, and it underlies his charged Firebolts and the technique Argo Vesta.[@argonaut.fm04-card, argonaut.fm04-hestia, argonaut.fm12-argo]
 
 - **Holder:** Bell Cranell[@argonaut.fm04-card]
-- **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the cards say it charges automatically with an active action. The Japanese DanMachi 20 card does not say "automatically": it gives Bell the right to execute a charge for active actions.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm06-card, argonaut.fm20-card]
+- **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the Yen Press cards say it charges automatically with an active action. The Japanese DanMachi 5 and DanMachi 20 cards do not say "automatically": they give Bell the right to execute a charge for active actions.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm05-ja-card, argonaut.fm06-card, argonaut.fm20-card]
 - **Appeared:** On his first Level 2 card (DanMachi 4)[@argonaut.fm04-card]
 - **Cost:** Stamina and Mind, which are lost if a charge is cancelled[@argonaut.fm05-cost, argonaut.fm12-tests]
 
@@ -261,13 +261,12 @@ It is costly. DanMachi 5 calls it a double-edged sword that takes enormous physi
 
 #### Chime and grand bell {#argonaut-chime-and-grand-bell}
 
-An ordinary charge sounds like chimes. In DanMachi 18, sneaking toward the enemy base, Bell will not let the "grand bell" ring, because its sound would give him away, and charges only as far as the normal limit.[@argonaut.fm18-limiter] Later in the same battle, charging against [[ottar|Ottar]], a grand bell rings instead of a chime, and the narration says the limit is off.[@argonaut.fm18-ottar] In DanMachi 5 Bell enters a [[#limit-release|Limit Release]] while charging against the Black Goliath.[@argonaut.fm05-limit]
+An ordinary charge sounds like chimes. In DanMachi 18, sneaking toward the enemy base, Bell will not let the "grand bell" ring, because its sound would give him away, and charges only as far as the normal limit.[@argonaut.fm18-limiter] Later in the same battle, charging against [[ottar|Ottar]], a grand bell rings instead of a chime, and the narration says the limit is off.[@argonaut.fm18-ottar] In DanMachi 5 Bell enters a [[#limit-release|Limit Release]] while charging against the Black Goliath.[@argonaut.fm05-limit] The Japanese turns the chime into the grand bell there too, with the same word, *Limit Off*, so the two volumes agree; Yen Press prints "church bells" in DanMachi 5.[@argonaut.fm05-ja-limit, argonaut.fm18-ja-limit]
 
 #### Open questions {#argonaut-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How much a charge multiplies an action, and a full list of the actions it can charge.[@argonaut.fm12-tests]
-> - How the grand bell of DanMachi 18 relates to the Limit Release of DanMachi 5.[@argonaut.fm05-limit, argonaut.fm18-ottar]
 
 ### Ox Slayer {#ox-slayer}
 
@@ -358,7 +357,7 @@ When he activates it, as while forging Shirahime in Minor Myths and Legends 1, f
 
 #### Range and limits {#yatano-crows-range-and-limits}
 
-Their range depends on her Status and condition: about thirty meders at full strength in DanMachi 7. Activating them drains Mind, so she uses them in short bursts.[@yatano.fm07-reveal] She warns Welf that Black Crow senses only monsters she has met, and that it depends heavily on her clarity of mind.[@yatano.fm07-welf] In DanMachi 9 dark fungi slip past it because she has never fought them, and when unseen eyes watch the party, Bell cannot tell whether they are people, unfamiliar monsters or simply beyond its range.[@yatano.fm09-fungi, yatano.fm09-eyes]
+Their range depends on her Status and condition: about thirty meders at full strength in DanMachi 7. Activating them drains Mind, so she uses them in short bursts.[@yatano.fm07-reveal] She warns Welf that Black Crow senses only monsters she has met, and that it depends heavily on her clarity of mind.[@yatano.fm07-welf] In DanMachi 9 [[monsters#dark-fungus|dark fungi]] slip past it because she has never fought them, and when unseen eyes watch the party, Bell cannot tell whether they are people, unfamiliar monsters or simply beyond its range.[@yatano.fm09-fungi, yatano.fm09-eyes]
 
 #### Uses {#yatano-crows-uses}
 
@@ -630,7 +629,7 @@ In the DanMachi 18 Familia War her bark-covered arm turns aside [[hegni|Hegni]]'
 
 ### Five-Dimension Troia {#five-dimension-troia}
 
-**Five-Dimension Troia** is the one Skill on Cassandra Illion's DanMachi 14 Status page (Level 2). The page marks it as indecipherable: even its name is not written in hieroglyphs, and the name used is Miach's interpretation.[@sheet.fm14-cassandra]
+**Five-Dimension Troia** is the one Skill on Cassandra Illion's DanMachi 14 Status page (Level 2). The page marks it as indecipherable: even its name is not written in hieroglyphs, and the name used is [[miach|Miach]]'s interpretation.[@sheet.fm14-cassandra]
 
 - **Holder:** Cassandra Illion[@sheet.fm14-cassandra]
 - **Source:** Status page only[@sheet.fm14-cassandra]
@@ -657,7 +656,7 @@ Ardee Varma of [[ganesha-familia|Ganesha Familia]] has a character sheet at the 
 
 | Skill | On the sheet |
 |---|---|
-| **Ganapati Blood** | A blessing of Ganesha that slightly modifies her stats.[@sheet.ar02-ardee] |
+| **Ganapati Blood** | A blessing of [[ganesha|Ganesha]] that slightly modifies her stats.[@sheet.ar02-ardee] |
 | **Dharmas Algo** | A passive Falna effect that boosts the stats of all Familia members within a set range; range and boost depend on her Level.[@sheet.ar02-ardee] |
 
 Dharmas Algo works much like Lyu's later [[#astrae-varmas|Astrae Varmas]], a passive Falna effect for allies of the same god in range. Lyu takes Astrae Varmas as a sign that her friend Adi's (Ardee's) sense of justice lives on in her; the novels do not compare the two Skills directly.[@sheet.ar02-ardee, fc03-lyu-card5, astrae-varmas.fc03-adi]
@@ -740,10 +739,13 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@argonaut.fm04-hestia]: FM04 | Chapter 3: The Smith’s Situation | Hestia's reading: a "heroic strike".
 [@argonaut.fm04-dragon]: FM04 | Chapter 3: The Smith’s Situation | Charged Firebolt against an infant dragon.
 [@argonaut.fm05-card]: FM05 | Chapter 5: The Outlaws’ Party | Card: charges automatically with an active action.
+[@argonaut.fm05-ja-card]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 10 and 11; the back-matter Status sheet agrees): the Skill line is the right to execute a charge for active actions; there is no word for "automatically".
 [@argonaut.fm05-cost]: FM05 | Chapter 6: Praise to the Heroes | A double-edged sword: enormous physical and mental cost.
 [@argonaut.fm05-three]: FM05 | Chapter 6: Praise to the Heroes | Three minutes for a full charge.
 [@argonaut.fm05-image]: FM05 | Chapter 6: Praise to the Heroes | A hero's image; the Great Hero David.
 [@argonaut.fm05-limit]: FM05 | Chapter 6: Praise to the Heroes | Limit Release.
+[@argonaut.fm05-ja-limit]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 559 to 562, 584, 596 and 724; file part0031, paragraph 2): the ruby reads Limit Off; the strength of Bell's feeling, which surpasses even the Falna, breaks the boundary and temporarily raises the Skill's power, and the chime of the charge turns into the sound of the grand bell. The Japanese uses the grand bell five times in this battle where Yen Press prints church bells.
+[@argonaut.fm18-ja-limit]: FM18 | Chapter 9: Flower Language for You | Japanese original (file part0029, paragraph 97; also file part0023, paragraph 437): the sound that rings is not the chime but the grand bell, which is Limit Off, the same two words as in DanMachi 5; earlier, while sneaking, Bell thinks of Limit Off and that the grand bell must never ring.
 [@argonaut.fm06-card]: FM06 | Chapter 3: Outbreak | Card: charges automatically with active action.
 [@argonaut.fm12-tests]: FM12 | Chapter 2: Adventure Intermission | Four-minute maximum; one place at a time; cancelled charges; convergence.
 [@argonaut.fm12-argo]: FM12 | Chapter 6: The Hero’s Sacred Flame | Argo Vesta.

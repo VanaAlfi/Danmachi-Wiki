@@ -20,23 +20,23 @@
       {"label": "Form", "value": "A horned rabbit that walks on its hind legs, about Lilly's height", "refs": ["fm05-rabbit"]},
       {"label": "Rating", "value": "Level 2, because they are dangerous in groups", "refs": ["fm05-level"]},
       {"label": "Found", "value": "The thirteenth and fourteenth floors (middle levels)", "refs": ["fm05-rabbit", "fm05-floors"]},
-      {"label": "Weapons", "value": "Its horn; stone tomahawks, the floor's landform weapon", "refs": ["fm05-tomahawk", "fm09-hesitate"]},
+      {"label": "Weapons", "value": "Its horn; stone tomahawks, natural weapons taken from rocks", "refs": ["fm05-tomahawk", "fm05-ja-tomahawk", "fm09-hesitate"]},
       {"section": "Xenos"},
       {"label": "Known", "value": "[[#aruru|Aruru]], who rides the hellhound Helga", "refs": ["fm09-aruru", "fm11-names"]}
     ]
   }
 }
 ---
-The **al-miraj** are rabbit monsters of [[dungeon|the Dungeon]]'s middle levels, found on the thirteenth and fourteenth floors.[@fm05-rabbit, fm05-floors] Each is a horned rabbit that walks on its hind legs. They are among the weakest monsters of the middle levels but are rated Level 2, since they are dangerous in packs.[@fm05-rabbit, fm05-level] One al-miraj, [[#aruru|Aruru]], is one of the [[xenos|Xenos]].[@fm09-aruru]
+The **al-miraj** are rabbit monsters of [[dungeon|the Dungeon]]'s middle levels, found on the thirteenth and fourteenth floors.[@fm05-rabbit, fm05-floors] Each is a horned rabbit that walks on its hind legs. They have low fighting ability for the middle levels but are rated Level 2, a threat rating, since they are very strong in groups (the Yen Press text calls them "some of the weakest monsters in the middle levels").[@fm05-rabbit, fm05-level, fm05-ja-level] One al-miraj, [[#aruru|Aruru]], is one of the [[xenos|Xenos]].[@fm09-aruru]
 
 DanMachi 5 prints the name capitalised, *Al-Miraj*; DanMachi 7 prints *almirage*; from DanMachi 9 on, and in Sword Oratoria, it is printed *al-miraj*.[@fm05-rabbit, fm07-almirage, fm09-hesitate, so10-decoy]
 
 ## The species {#species}
 
-- **Appearance:** floppy ears, white and yellow fur, a fluffy tail, and a long sharp horn on the head. They hop on their hind legs and are about [[lilliluka-erde|Lilly]]'s height. [[bell-cranell|Bell]] calls them "[[monsters#needle-rabbit|needle rabbits]] that learned how to walk on two legs".[@fm05-rabbit]
+- **Appearance:** long ears, white and yellow fur, a bushy tail, and a sharp horn on the forehead (the Yen Press text says "Floppy ears" and "a long sharp horn"). They hop on their hind legs and are about [[lilliluka-erde|Lilly]]'s height. [[bell-cranell|Bell]] calls them "needle rabbits that learned how to walk on two legs" (see [[monsters#needle-rabbit|needle rabbit]]).[@fm05-rabbit, fm05-ja-rabbit]
 - **Where:** they first appear on the thirteenth floor. DanMachi 5 says they appear only on the thirteenth and fourteenth floors, so one seen on [[floor-18|Floor 18]] makes an adventurer suspicious.[@fm05-rabbit, fm05-floors]
-- **Strength:** one al-miraj is weak: upper-ranked Level 1 adventurers can hold their own against one if they know it is more agile than a [[monsters#silverback|silverback]]. The rating of Level 2 is for their danger "in groups".[@fm05-level] They are known as some of the most agile monsters of the middle levels; [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-bell]
-- **Weapons:** they stamp rocks open and pick up the pieces, small stone tomahawks that are the floor's landform weapon, and throw them.[@fm05-tomahawk] Disarmed, they charge horn first.[@fm09-hesitate]
+- **Strength:** one al-miraj has low fighting ability: even upper-ranked Level 1 adventurers can only just manage one (the Yen Press text says they "can hold their own"), if they know it is more agile than a [[monsters#silverback|silverback]]. The rating of Level 2 is for their danger "in groups".[@fm05-level, fm05-ja-level] They boast high agility even among middle-level monsters (the Yen Press text says "one of the most agile monsters in the middle levels"); [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-ja-level, fm05-bell]
+- **Weapons:** they smash the large rocks lying about and take small stone tomahawks out of them, and throw them; the Japanese calls the tomahawks natural weapons and the rocks that hold them the labyrinth's armouries (landform), where the Yen Press text says they "smash them open with a hard stomp" and calls the tomahawks "landform weapons".[@fm05-tomahawk, fm05-ja-tomahawk] Disarmed, they charge horn first.[@fm09-hesitate]
 - **Drops:** in DanMachi 7 Bell's party fulfils a quest for "almirage furs" after slaying a pack.[@fm07-almirage]
 - **Tactics:** unlike upper-level monsters, they read the situation. They close on a party in a "netlike formation" and change their attack as soon as a gap opens.[@fm05-mikoto] They are often met together with [[monsters#hellhound|hellhounds]].[@fm05-bell, so13-parade]
 
@@ -46,7 +46,7 @@ DanMachi 5 prints the name capitalised, *Al-Miraj*; DanMachi 7 prints *almirage*
 |---|---|
 | DanMachi 5 | On the thirteenth floor, seven al-miraj break [[takemikazuchi-familia|Takemikazuchi Familia]]'s formation by felling a front-liner with a thrown tomahawk; [[mikoto|Yamato Mikoto]] holds them off.[@fm05-mikoto] Fleeing, the Familia leads the pack, with hellhounds, onto Bell's party, which is already fighting al-miraj of its own (a "pass parade").[@fm05-bell] |
 | DanMachi 5 | On the thirteenth floor, the search party's hooded adventurer, once called the Gale Wind ([[lyu-leon|Lyu]]), cuts through a pack of al-miraj with her wooden sword, catches a thrown tomahawk and hurls it back.[@fm05-lyu] |
-| DanMachi 5 | On Floor 18, an al-miraj appears near the captive [[hestia|Hestia]]. Her guards are spattered with fruit and chased off by three hungry bugbears, and the al-miraj turns out to be Lilly, transformed with [[magic#cinder-ella|Cinder Ella]].[@fm05-floors, fm05-lilly] |
+| DanMachi 5 | On Floor 18, an al-miraj appears near the captive [[hestia|Hestia]]. Her guards are spattered with fruit and chased off by three hungry [[monsters#bugbear|bugbears]], and the al-miraj turns out to be Lilly, transformed with [[magic#cinder-ella|Cinder Ella]].[@fm05-floors, fm05-lilly] |
 | DanMachi 9 | Bell sees his reflection in an al-miraj's red eyes, hesitates, and is knocked flat.[@fm09-hesitate] |
 | Sword Oratoria 8 | [[lena-tully|Lena]] cries that an al-miraj is adorable as she sends it flying.[@so08-lena] |
 | Sword Oratoria 13 | In a monster parade, [[lefiya|Lefiya]] sees that the ranged attacks of the al-miraj and hellhounds at the back need caution, and wipes out that back line first ([[balder-class#seventh-squad|7th Squad]]).[@so13-parade] |
@@ -75,8 +75,11 @@ The narration calls Aruru "she", and Rei confirms it.[@fm09-aruru] Helga's sex i
 > - Whether Cassandra's dream of the rabbit charm warned of DanMachi 11 or of DanMachi 14; she asks herself and does not decide.[@fm14-cassandra]
 
 [@fm05-rabbit]: FM05 | | "basically needle rabbits that learned how to walk on two legs"; "First appearing on level thirteen".
+[@fm05-ja-rabbit]: FM05 | | Japanese original (file part0011, paragraph 108): long ears bobbing about, white-and-yellow fur, a bushy tail, and a sharp single horn on the forehead. Yen Press prints floppy ears and a long sharp horn.
 [@fm05-level]: FM05 | | "some of the weakest monsters in the middle levels"; "classified as Level 2 monsters"; "surprisingly dangerous in groups".
+[@fm05-ja-level]: FM05 | | Japanese original (file part0011, paragraphs 123, 124 and 318): a species with low combat ability, whose Level 2 is a threat evaluation, exceedingly strong in group fighting; even adventurers with upper Level 1 Status can only just manage to fight one; the al-miraj boast high agility even in the middle levels, with no ranking. Yen Press prints "some of the weakest", "hold their own" and "one of the most agile".
 [@fm05-tomahawk]: FM05 | | "smash them open with a hard stomp"; "It looks like a small tomahawk"; "landform weapons".
+[@fm05-ja-tomahawk]: FM05 | | Japanese original (file part0011, paragraphs 118, 119 and 297): they smash the large rocks at hand and take new natural weapons out of them; the question is whether many of the rocks in the passage are the labyrinth's armouries (landform), not all; there is no stomp.
 [@fm05-joke]: FM05 | | Lilly: "Is that…Mr. Bell?!"
 [@fm05-mikoto]: FM05 | | "a group of seven Al-Miraj"; "a tomahawk throw"; "a netlike formation"; "one of the most agile monsters in the middle levels".
 [@fm05-bell]: FM05 | | "Welf’s Status was greater than or equal to the Al-Miraj"; "Executing a pass parade now"; "almost double the number of Al-Miraj"; "a few hellhounds".

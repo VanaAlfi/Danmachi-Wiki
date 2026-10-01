@@ -49,7 +49,7 @@ A Level Up happens when an adventurer gains more excelia than their spiritual "c
 
 - **Development Abilities:** which [[development-ability|Development Abilities]] are offered at a Level Up depends on the type of excelia gathered. Nahza earned Synthesize by helping to make medicine.[@fm04-types, fm04-nahza]
 - **Skills:** unlike magic, Skills can be learned in numbers as long as the excelia is there.[@fm02-skills] Hestia "found promising excelia" in Bell and wrote his first Skill (see [[skills#liaris-freese|Liaris Freese]]).[@fm01-skill]
-- **Magic:** the effect of acquired magic "depends heavily on excelia". Soma found Lilly's magic in her excelia.[@fm02-magic, fm06-soma]
+- **Magic:** the effect of acquired magic "depends heavily on excelia". [[soma|Soma]] found Lilly's magic in her excelia.[@fm02-magic, fm06-soma]
 - **Personality:** Skills and Magic depend not only on excelia but on the person's personality and aspirations.[@fm04-personality]
 - **Skills that use it:** [[mikoto|Mikoto]]'s Yatano Black Crow senses monsters she has already received excelia from.[@fm07-mikoto]
 - **Items:** the [[hestia-knife|Hestia Knife]] grows stronger with its wielder's excelia, like a person who has received a Falna.[@fm01-knife]

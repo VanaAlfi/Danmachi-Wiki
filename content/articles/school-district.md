@@ -42,6 +42,7 @@ The school's classes are Familias, each led by a god, and it grants the [[falna|
 | [[leon-verdenberg|Leon Verdenberg]] | Captain of [[balder-class|Balder Class]] and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
+| Bardain | A bull person and Lefiya's classmate, "Rulebreaker Bardain", who dragged her and their friend Nassen into fights and messes and wanted to become an imperial knight. His wish to see the eighteenth floor led twelve students into the [[cave-labyrinth|Cave Labyrinth]], where he lost an arm rescuing Alisa and Nassen before Aiz and Tiona of Loki Familia saved them (Sword Oratoria 13).[@so13-bardain, so13-rescue] |
 | [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with [[hestia-familia|Hestia Familia]].[@fm20-nina] |
 | [[bell-cranell|Bell Cranell]] | Enters in DanMachi 19 under the name Rapi Flemish.[@fm19-rapi] |
 
@@ -73,3 +74,5 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@so13-practice]: SO13 | | Dungeon practice stops at Floor 15.
 [@so13-leon]: SO13 | | Leon, captain of Balder Class.
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | Lefiya's admission.
+[@so13-bardain]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Ha-ha! Rulebreaker Bardain!"; "I’m Bardain! A bull person, as you can see!"; "Generous and always smiling, Bardain was like everyone’s older brother"; "Bardain often dragged him and Lefiya into fights and messes."; "Bardain wants to be an imperial knight."
+[@so13-rescue]: SO13 | Chapter 5: The Mirror’s Voice | "Because of Bardain’s desire to see the eighteenth floor, they had enlisted the 1st and 2nd Squads, challenging the Cave Labyrinth with twelve students."; "at the cost of one of his arms, managing to rescue Alisa and Nassen"; "the heads of the monsters trying to eat Bardain and the other students were suddenly rolling"; "Lefiya saw Bardain groaning as Tiona held his severed arm to the wound".

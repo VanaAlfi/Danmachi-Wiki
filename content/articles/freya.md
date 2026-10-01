@@ -67,7 +67,7 @@ In Familia Chronicle 2 Freya mentors Ali, later [[ali|King Aram]] of Shalzad, be
 
 ### DanMachi 16–18
 
-During the Goddess Festival of DanMachi 16, Freya as Syr goes on a date with Bell, confesses, and is turned down. She then resolves to take him.[@fm16-rejected] In DanMachi 17 she demands his conversion, seizes him and charms the city into believing he belongs to her Familia; he keeps Hestia's Falna throughout.[@fm17-seizure] Hörn exposes Freya's hidden plea to be saved, and Hestia breaks the charm. Freya then stakes her Familia, her wealth and herself on a Familia War.[@fm17-horn, fm17-hearth, fm17-wager]
+During the [[elegia#goddess-festival|Goddess Festival]] of DanMachi 16, Freya as Syr goes on a date with Bell, confesses, and is turned down. She then resolves to take him.[@fm16-rejected] In DanMachi 17 she demands his conversion, seizes him and charms the city into believing he belongs to her Familia; he keeps Hestia's Falna throughout.[@fm17-seizure] Hörn exposes Freya's hidden plea to be saved, and Hestia breaks the charm. Freya then stakes her Familia, her wealth and herself on a Familia War.[@fm17-horn, fm17-hearth, fm17-wager]
 
 She loses that war in DanMachi 18. Bell scatters her flower at the ruins of Orza, and nobody dies in the fighting.[@fm18-odr, fm18-orza] The Guild orders her banished and dissolves Freya Familia.[@fm18-dissolved]
 

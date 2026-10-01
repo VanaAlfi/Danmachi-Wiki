@@ -21,9 +21,9 @@
   }
 }
 ---
-**Hitachi Chigusa** is a member of [[takemikazuchi-familia|Takemikazuchi Familia]] from the Far East. The novels print her name *Chigusa Hitachi*; this wiki gives Far Eastern names family name first.[@fm05-parade, fm12-denatus] She grew up at a poor shrine for orphans with [[mikoto|Mikoto]] and [[ouka|Ouka]], and befriended [[haruhime|Haruhime]] there as a child.[@fm15-shrine]
+**Hitachi Chigusa** is a member of [[takemikazuchi-familia|Takemikazuchi Familia]] from the [[far-east|Far East]]. The novels print her name *Chigusa Hitachi*; this wiki gives Far Eastern names family name first.[@fm05-parade, fm12-denatus] She grew up at a poor shrine for orphans with [[mikoto|Mikoto]] and [[ouka|Ouka]], and befriended [[haruhime|Haruhime]] there as a child.[@fm15-shrine]
 
-DanMachi 5 introduces her as "a girl whose eyes were covered by her bangs".[@fm05-level] DanMachi 15's flashback to their shrine childhood shows that Chigusa was already "helplessly enamored" with Ouka then, while Ouka was as oblivious to girls' feelings as Takemikazuchi.[@fm15-ouka]
+DanMachi 5 introduces her as "a girl whose eyes were covered by her bangs".[@fm05-level] DanMachi 15's flashback to their shrine childhood shows that Chigusa was already "helplessly enamored" with Ouka then, while Ouka was as oblivious to girls' feelings as [[takemikazuchi|Takemikazuchi]].[@fm15-ouka]
 
 ## History
 

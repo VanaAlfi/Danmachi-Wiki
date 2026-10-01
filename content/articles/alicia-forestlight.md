@@ -64,7 +64,7 @@ In Sword Oratoria 12 Rei is hidden in Twilight Manor. Alicia brings her a meal a
 
 Alicia and [[anakity-autumn|Anakity]] were Loki Familia's recruiters on board the [[school-district|School District]] when Lefiya was a student there. Loki had resisted taking part, so they arrived late, but crowds followed them, taken by Anakity's swordplay and Alicia's skill with magic and bow.[@so13-recruit] When the student Lefiya asked why Orario's adventurers devote themselves to the Dungeon, Alicia answered with the Three Great Quests and her own reasons; when Anakity warned her against becoming an adventurer for no particular reason, Alicia told her there was nothing shameful about interest and that youth has the privilege to err, "within reason".[@so13-why, so13-advice] Sword Oratoria 13 says Alicia may have been the first adventurer Lefiya aspired to be like.[@so13-advice]
 
-After Filvis's death, Lefiya avoids the Elegia festival by arranging a small Dungeon expedition she meant to make alone; Alicia, Elfie and other women of the Familia go with her, giving up the one time a year set aside for sorrow. Alicia offers to listen to anything Lefiya cannot tell Riveria, and says that if Lefiya ever takes a truly wrong path, they will correct her: "That is what familia means."[@so13-support]
+After Filvis's death, Lefiya avoids the [[elegia|Elegia]] festival by arranging a small Dungeon expedition she meant to make alone; Alicia, Elfie and other women of the Familia go with her, giving up the one time a year set aside for sorrow. Alicia offers to listen to anything Lefiya cannot tell Riveria, and says that if Lefiya ever takes a truly wrong path, they will correct her: "That is what familia means."[@so13-support]
 
 ## Magic
 

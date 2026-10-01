@@ -8,7 +8,7 @@
   "summary": "Half-elf Guild employee and Bell Cranell's Dungeon adviser; a School District graduate and the older sister of Nina Tulle.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 1–19, Sword Oratoria Vol. 14 and Minor Myths and Legends Vol. 1",
-  "related": ["bell-cranell", "nina-tulle", "hermes", "falna", "orario"],
+  "related": ["bell-cranell", "nina-tulle", "hermes", "falna", "orario", "maris-hackard"],
   "infobox": {
     "title": "Eina Tulle",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -33,7 +33,7 @@ DanMachi 1 introduces Eina with long, pointed ears, "transparent emerald eyes" a
 
 ## Background
 
-Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, Maris, and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frot]] is a friend from school.[@fm04-misha, fm15-misha]
+Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, [[maris-hackard|Maris]], and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frot]] is a friend from school.[@fm04-misha, fm15-misha]
 
 ## Bell's adviser
 

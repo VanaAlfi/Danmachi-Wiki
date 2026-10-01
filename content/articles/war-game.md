@@ -37,7 +37,7 @@ In DanMachi 17 [[freya|Freya]] declares a War Game against Hestia, staking her F
 
 {{nocite}} Some rules differ from the first War Game:
 
-- Gods may update their followers' Status during the battle, and Hestia and Miach do so.[@fm18-updates]
+- Gods may update their followers' Status during the battle, and Hestia and [[miach|Miach]] do so.[@fm18-updates]
 - [[chloe|Chloe]] and [[runoa|Runoa]] convert the day before, so that their setting foot on the island does not break the rules.[@fm18-conversions]
 
 Bell scatters Freya's flower and the coalition wins. No one dies in the War Game.[@fm18-flower, fm18-nodeath] Afterwards the [[guild|Guild]] banishes Freya, dissolves her Familia and seizes its fortune.[@fm18-dissolved] Later volumes also call it the *Familia War*.[@fm20-familiawar]

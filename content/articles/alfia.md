@@ -24,7 +24,7 @@
   }
 }
 ---
-**Alfia**, titled *the Silence*, is a former Level 7 of [[zeus-and-hera-familias|Hera Familia]].[@ar01-alfia, ar01-silence, ar02-level] She is the twin sister of Metelia of Hera Familia, who before her death entrusted her son, fathered by a member of Zeus Familia, to Zeus.[@ar03-family, ar03-zeus] {{inference}} Since Zeus raised [[bell-cranell|Bell Cranell]], the boy is evidently Bell, which would make Alfia his maternal aunt; Astrea Record 3 never names the child.[@ar03-zeus] In the [[great-conflict|Great Conflict]] she joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[zald|Zald]].[@ar03-erebus]
+**Alfia**, titled *the Silence*, is a former Level 7 of [[zeus-and-hera-familias|Hera Familia]].[@ar01-alfia, ar01-silence, ar02-level] She is the twin sister of Metelia of Hera Familia, who before her death entrusted her son, fathered by a member of Zeus Familia, to [[zeus|Zeus]].[@ar03-family, ar03-zeus] {{inference}} Since Zeus raised [[bell-cranell|Bell Cranell]], the boy is evidently Bell, which would make Alfia his maternal aunt; Astrea Record 3 never names the child.[@ar03-zeus] In the [[great-conflict|Great Conflict]] she joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[zald|Zald]].[@ar03-erebus]
 
 ## Illness and talent
 

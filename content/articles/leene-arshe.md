@@ -53,7 +53,7 @@ The rest of the Familia takes his scorn at face value, and Riveria notes these a
 | Sword Oratoria 8 | When Valletta taunts him, Bete is enraged by the thought that she killed Leene and the others.[@so08-hunt] |
 | Sword Oratoria 11 | Loki calls the assault on Knossos a battle to avenge Leene and the rest.[@so11-avenge] |
 | Sword Oratoria 12 | After the victory, Loki looks to the sky: "Leene, you guys…we won."[@so12-won] |
-| Minor Myths and Legends 2 | Bete stands at her grave in the Adventurers Graveyard, among the graves of Loki Familia's fallen.[@ss02-grave] Aiz lays a flower there too, for the healer she owes so much.[@ss02-aiz] |
+| Minor Myths and Legends 2 | Bete stands at her grave in the [[elegia#first-graveyard|Adventurers Graveyard]], among the graves of Loki Familia's fallen.[@ss02-grave] Aiz lays a flower there too, for the healer she owes so much.[@ss02-aiz] |
 
 ## Open questions
 

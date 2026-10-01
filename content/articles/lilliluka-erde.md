@@ -32,7 +32,7 @@
 
 Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She then goes nearly half a year without a Status update: she reached the quota but did not hand the money in, so as not to stand out, and being unable to update was the side effect (the Yen Press text says six months and calls it a sacrifice she made).[@fm03-status, fm03-ja-status]
 
-In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's Divine Wine through willpower and persuades Soma to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
+In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's [[soma#divine-wine|Divine Wine]] through willpower and persuades [[soma|Soma]] to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
 
 ## Hestia Familia
 
@@ -87,7 +87,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 
 #### Effects {#cinder-ella-effects}
 
-- **Appearance, not power.** She can take the shape of anything she can clearly picture, even monsters, but Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm11-limits]
+- **Appearance, not power.** She can take the form of a target whose build closely resembles her own, as an imitation only, and that includes monsters of that build (the Yen Press text says "anything she could clearly picture in her mind, even monsters"). Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm05-ja-release, cinder-ella.fm11-limits]
 - **Imitation.** In DanMachi 3 she can basically only turn into pallums or children of about her own build (the Yen Press text says "other short races or children of taller ones"). As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance (the Yen Press text says she needs an example to copy).[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
 - **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and, apparently, a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits, cinder-ella.fm18-dispel]
 
@@ -132,6 +132,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
 [@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
+[@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise. Yen Press prints that she can transform into anything she could clearly picture in her mind.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
 [@cinder-ella.fm06-luan]: FM06 | Chapter 5: Our War Game | "Luan the traitor" was Lilly in disguise; the west gate.
 [@cinder-ella.fm08-card]: FM08 | Chapter 2: The Prum’s Proposal | Status card: Trigger Spell and Release Spell.

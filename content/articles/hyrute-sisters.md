@@ -23,7 +23,7 @@
   }
 }
 ---
-**Tiona** and **Tione Hyrute** are Amazon sisters of [[loki-familia|Loki Familia]], famous top-class adventurers.[@fm02-sisters, fm05-sisters] Both advance from Level 5 to Level 6 in Sword Oratoria 6 and gain the Development Ability Dive.[@so06-sisters] Their childhood in [[kali-familia|Telskyura]], and Tiona's protection of her sister, are revealed in the same volume.[@so06-sisters]
+**Tiona** and **Tione Hyrute** are Amazon sisters of [[loki-familia|Loki Familia]], famous top-class adventurers.[@fm02-sisters, fm05-sisters] Both advance from Level 5 to Level 6 in Sword Oratoria 6 and gain the Development Ability Dive.[@so06-sisters] Their childhood in [[telskyura|Telskyura]], and Tiona's protection of her sister, are revealed in the same volume.[@so06-sisters]
 
 ## Tiona
 
@@ -34,6 +34,8 @@ Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her w
 Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione]
 
 ## Together
+
+In Telskyura the sisters belonged to the goddess [[kali|Kali]], and they were the only Amazons who could talk back to her. When the two were about to be set against each other, Tiona told Kali that she did not want to fight her sister, and Kali let them both leave.[@so06-kali]
 
 Both sisters have the Skill **[[skills#berserk|Berserk]]**, which raises their attack power the more damage they take; Tione's also grows with her anger.[@skills.so06-berserk] Tiona's rare Skill **[[skills#intense-heat|Intense Heat]]** and Tione's **[[skills#backdraft|Backdraft]]** share the same activation requirements: a massive boost once their Status turns critical, before Berserk has run its course. The more they are cornered, the stronger they fight.[@skills.so06-heat]
 
@@ -89,6 +91,7 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@so01-urga]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga".
 [@so02-urga]: SO02 | Chapter 2: Incident | "the hulking double-bladed sword Urga"; "from Goibniu Familia".
 [@so06-sisters]: SO06 | | Level 6 and Dive; Telskyura; Tiona and Bache.
+[@so06-kali]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "The two sisters were the only ones able to talk back to Kali"; "all too soon she would have to fight her sister"; "Kali, I don’t wanna fight Tione."; "Kali released them from that arena of stone".
 [@skills.so06-berserk]: SO06 | Chapter 5: A Duo of Sun and Moon | Berserk: Tiona's, the same as her sister's; Tione's fury.
 [@skills.so06-heat]: SO06 | Chapter 5: A Duo of Sun and Moon | Intense Heat, a rare skill; Backdraft; the same activation requirements.
 [@so06-tione]: SO06 | | Seldas; Argana.

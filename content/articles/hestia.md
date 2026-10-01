@@ -48,7 +48,7 @@ For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a loan
 | Volume | Events |
 |---|---|
 | DanMachi 1 | Founds the Familia with Bell and obtains the Hestia Knife for him.[@fm01-found, fm01-knife] |
-| DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black [[goliath|Goliath]], and the [[guild|Guild]] fines her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
+| DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black [[goliath|Goliath]], and the [[guild|Guild]] penalises her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
 | DanMachi 6 | Accepts [[apollo|Apollo]]'s challenge to a [[war-game|War Game]] and wins it. She puts up the Hestia Knife as collateral so that [[lilliluka-erde|Lilly]] can convert, then disbands Apollo Familia, exiles Apollo and moves into his former manor.[@fm06-lilly, fm06-manor] |
 | DanMachi 7 | Accepts [[haruhime|Haruhime]] into the Familia.[@fm07-debt] |
 | DanMachi 8 | Is kidnapped by [[ares|Ares]], and shelters in [[edas-village|Edas Village]] after falling into a gorge; there she speaks to the dying elder Kam as his lost goddess Brigit would.[@fm08-edas] She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |

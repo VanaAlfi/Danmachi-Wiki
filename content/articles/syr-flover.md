@@ -72,7 +72,7 @@ In DanMachi 20 Syr visits [[hearthstone-manor|Hearthstone Manor]] and asks to st
 [@fm16-names]: FM16 | Chapter 6: The Wish’s Cost | The exchange of names; the second-day Syr.
 [@fm16-rejected]: FM16 | Epilogue: “Alea Iacta Est” II | "Syr's time is over."
 [@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of the persona.
-[@fm17-memory]: FM17 | Chapter 2: Alone Inside a Sandbox | Mia and Anya remember Syr.
+[@fm17-memory]: FM17 | Chapter 4: Those Left Behind | Mia and Anya remember Syr.
 [@fm17-support]: FM17 | Chapter 5: The End of Her World | The grimoire and amulet; Syr's tears.
 [@fm17-double]: FM17 | Double Role I | Freya's recollection.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | She chooses to live as Syr; Bell's promise.

@@ -35,7 +35,7 @@ Secret passages designed by Daedalus run beneath it and connect it with [[daedal
 
 ## The district
 
-The Pleasure Quarter sleeps by day: its businesses shut their doors and bring in their signs, and no ordinary citizens live there.[@fm07-arrival] At night its streets fill with working women, more than half of them Amazons, under pink magic-stone lamps.[@fm07-arrival] To draw customers back, its buildings imitate the architecture of distant lands: Far Eastern roofs, desert dwellings, northern stone castles, designs from the Kaios Desert and the Dizara Region.[@fm07-arrival]
+The Pleasure Quarter sleeps by day: its businesses shut their doors and bring in their signs, and no ordinary citizens live there.[@fm07-arrival] At night its streets fill with working women, more than half of them Amazons, under pink magic-stone lamps.[@fm07-arrival] To draw customers back, its buildings imitate the architecture of distant lands: [[far-east|Far Eastern]] roofs, desert dwellings, northern stone castles, designs from the [[kaios-desert|Kaios Desert]] and the Dizara Region.[@fm07-arrival]
 
 Within it lies a red-light district in the Far Eastern style, with tiled roofs, lanterns, women in kimonos, and rows of ajura trees, blue-flowering Dungeon plants that are always in bloom.[@fm07-yoshiwara, fm07-roofs]
 

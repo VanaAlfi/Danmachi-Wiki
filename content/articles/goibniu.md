@@ -44,7 +44,7 @@ The Familia's workshop, the Three Hammers Forge, stands in a narrow, quiet distr
 | [[urga|Urga]] | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of adamantite.[@so01-workshop] |
 | The Fortia Spear | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
 | Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item [[udaeus|Udaeus]] Black Sword.[@fc02-ottar] |
-| Other orders | Lilly's wrist crossbow, made for prums; Mikoto's pair of black and white short swords, bought by Takemikazuchi; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
+| Other orders | Lilly's wrist crossbow, made for prums; Mikoto's pair of black and white short swords, bought by [[takemikazuchi|Takemikazuchi]]; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
 | Building | Renovating Hestia Familia's new home, [[hearthstone-manor|Hearthstone Manor]], in four days.[@fm07-renovation] |
 
 ## Appearances

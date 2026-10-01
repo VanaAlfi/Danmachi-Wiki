@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Dwarf warrior of Loki Familia, titled Elgarm, known for plowing through enemies and absorbing any attack. Level 7 from Sword Oratoria 14.",
-  "aliases": ["Elgarm", "Gareth", "Galess Landrock"],
+  "aliases": ["Elgarm", "Gareth", "Galess Landrock", "Yorger"],
   "spoilers": "DanMachi Vols. 5 and 8, Sword Oratoria Vols. 4–14 and Astrea Record Vols. 2 and 3",
   "related": ["loki-familia", "finn-deimne", "riveria", "aiz-wallenstein", "knossos", "magic"],
   "infobox": {
@@ -31,6 +31,8 @@
 ## Joining Loki Familia
 
 Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and a foreman in the village of Lonza, bound there by guilt over its poverty. He refused Loki's offer of an immediate blessing, fighting a [[lambton|lambton]] without one, and joined only once a rescue in the Celcebo mines and a solution for Lonza released him. He then insisted on fighting [[finn-deimne|Finn]]; the text does not say who won.[@so14-gareth]
+
+Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fifteen-year-old troublemaker who "cared more than anyone" when it came to his friends; it was he who lost his temper and injured Aina, earning Riveria's wrath. When the lambton attacks the miners, Yorger charges it with his pickax to protect Gareth. Afterwards he presses a bag packed for the road into Gareth's hands: "Big Bro, go with them! Please start your journey!" "We’ll make something of this ourselves, even without you. So live your dream!" At the send-off Gareth raises "the pickax given to him by Yorger and the others".[@so14-yorger]
 
 ## History
 
@@ -91,6 +93,7 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
 [@so10-gareth]: SO10 | | The surface battle and the rescue.
 [@so14-gareth]: SO14 | | Lonza; the lambton; Celcebo; the fight with Finn.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7.
+[@so14-yorger]: SO14 | Chapter 3: The Dwarf’s Embarking | "Yorger was one of the youngsters he had taken under his wing, a noisy troublemaker who never thought about the consequences of what he was doing."; "lost his temper and injured Aina, earning Riveria’s wrath"; "when it came to his friends, he cared more than anyone"; "he was still just fifteen"; "Yorger clenched his pickax in his hands and leaped at the lambton"; "Big Bro, go with them! Please start your journey!"; "Yorger pressed a bag, already packed for the road, into his hands"; "We’ll make something of this ourselves, even without you. So live your dream!"; "the pickax given to him by Yorger and the others".
 [@ar02-loki]: AR02 | Epilogue: All You Need Is Justice | Riveria and Gareth in the Great Conflict.
 [@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne regenerates.
 [@ar03-behemoth]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.

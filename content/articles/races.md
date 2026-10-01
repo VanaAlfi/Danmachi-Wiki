@@ -64,7 +64,7 @@ The DanMachi novels describe many peoples. [[orario|Orario]] is home not only to
 - **Animal people:** the commonest name for the demi-humans "with animalian ears and bushy tails".[@fm01-animal] The same people are also printed *beast person* or *beast people*, *beastpeople*, *beastman* (plural *beastmen*) and *beastfolk*.[@fm03-beast, fm07-front, fm18-transform, so04-beastman, ar02-beastfolk] They count as one race among the six, but are themselves split into "races" or "species" such as [[#werewolf|werewolves]].[@so14-six, fm18-transform, so06-transform]
 - **Mixed race:** a child of two races is called a *Half* or a *half-breed*, and in the plural *halfs*. The text also speaks of "people of mixed race".[@fm08-children, so09-kam, so09-halfs, fm07-front]
 - **Fairy:** in DanMachi 4 and 5 *fairy* names the [[#spirit|spirits]], "Nymphs, spirits, elementals, jinn".[@fm04-fairies, fm05-elements] Later volumes also call [[#elf|elves]] fairies.[@so12-fairies, fc02-fairies]
-- **Koine:** "the common language of humans and demi-humans".[@fm04-koine] The [[#amazon|Amazons]] of Telskyura also have their own Amazonian language.[@so06-language, so06-sewehga]
+- **Koine:** "the common language of humans and demi-humans".[@fm04-koine] The [[#amazon|Amazons]] of [[telskyura|Telskyura]] also have their own Amazonian language.[@so06-language, so06-sewehga]
 
 ## Children between races {#children}
 
@@ -164,7 +164,7 @@ A **half-elf** has one human parent and one elf parent. [[eina-tulle|Eina]] is h
 
 ### Half-dwarf {#half-dwarf}
 
-A **half-dwarf** has one human parent and one dwarf parent: [[tsubaki|Tsubaki Collbrande]]'s parents are a human from the Far East and a dwarf from the continent.[@so04-tsubaki] DanMachi 20 explains how the children of two half-dwarves inherit human or dwarf traits (see [[#children|Children between races]]).[@fm20-traits]
+A **half-dwarf** has one human parent and one dwarf parent: [[tsubaki|Tsubaki Collbrande]]'s parents are a human from the [[far-east|Far East]] and a dwarf from the continent.[@so04-tsubaki] DanMachi 20 explains how the children of two half-dwarves inherit human or dwarf traits (see [[#children|Children between races]]).[@fm20-traits]
 
 - **Example:** [[tsubaki|Tsubaki Collbrande]].[@so04-tsubaki]
 
@@ -194,7 +194,7 @@ A **half-prum** has one prum parent and one human parent. Van of [[freya-familia
 
 ## Animal people {#animal-people}
 
-**Animal people** are demi-humans with animal ears and tails.[@fm01-animal] They are known above all for their senses: they have a better sense of smell than humans, and some kinds have particularly sharp senses with the help of their Status.[@so01-smell, fm05-senses, so10-noses] Their noses can track enemies, so in Astrea Record 1 the Evils use an item to hide their scent "so even animal people noses can't track them". In Knossos the animal people formed the main mapping squad.[@so10-noses, ar01-scent, so11-mapping]
+**Animal people** are demi-humans with animal ears and tails.[@fm01-animal] They are known above all for their senses: they have a better sense of smell than humans, and the senses of some kinds are sharper even than those of adventurers strengthened by a Status (the Yen Press text says "particularly sharp senses with the assistance of their Status").[@so01-smell, fm05-senses, fm05-ja-senses, so10-noses] Their noses can track enemies, so in Astrea Record 1 the Evils use an item to hide their scent "so even animal people noses can't track them". In Knossos the animal people formed the main mapping squad.[@so10-noses, ar01-scent, so11-mapping]
 
 - **Transformation:** "confirmed only among a limited number of races of beast people". It unleashes their bestial strength, "trading rationality for strength".[@fm18-transform, so06-transform] Once they receive a Falna, the transformation becomes tied to their Skills. [[ottar|Ottar]] can transform whenever he chooses (see [[skills#vana-arganture|Vana Arganture]]).[@fm18-transform]
 - **Tribes:** [[bete-loga|Bete]] was the son of the chief of the Beastmen of the Plains, a hunting tribe.[@so08-plains]
@@ -315,6 +315,7 @@ A **cow** is named once, among Nina's School District friends in DanMachi 19: "a
 [@fm05-finn]: FM05 | Chapter 4: Dungeon Resort? | "The prum Finn Deimne is Loki Familia’s highest-ranking adventurer".
 [@fm05-hyrute]: FM05 | Chapter 4: Dungeon Resort? | "The Amazonian Hyrute sisters?"
 [@fm05-senses]: FM05 | Chapter 5: The Outlaws’ Party | "Certain types of animal people were known to have particularly sharp senses".
+[@fm05-ja-senses]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraph 367): the senses of some animal people are sharper than the five senses of adventurers strengthened by receiving a Status; the Status clause belongs to the adventurers.
 [@fm06-lyu]: FM06 | Chapter 4: Those Who Gather | "The elf Lyu sighed".
 [@fm06-eyes]: FM06 | | "Prums are known for their big eyes".
 [@fm07-front]: FM07 | Chapter 1: Smooth Sailing? | "elves, dwarves, beastpeople, prums, and even a few people of mixed race".

@@ -43,7 +43,7 @@ In Sword Oratoria 12, Loki tells Dionysus that the god sent back in the pillar o
 
 Loki recognised the wine: when they first met Penia in Daedalus Street, she was holding a bottle with the same overflowing-goblet label as the one in Dionysus's cellar. Dionysus admits he had warned her not to drink more than necessary, and that she had been drinking extra behind his back.[@so12-label] During the first assault he separated from Loki and the adventurers and, where his scapegoat had been brought beforehand, killed the bound and gagged Penia with a dagger. When she was sent back, Aura and the others, their abilities sealed, were wiped out.[@so12-killed] He later draws the same grape-handled dagger again.[@so12-dagger]
 
-In Sword Oratoria 13 [[royman|Royman]]'s official account tells the city that "Dionysius Familia", its god and "Goddess Penia of Daedalus Street" died in the struggle against a confederate of Ikelos, and thanks them for their sacrifice.[@so13-account]
+In Sword Oratoria 13 [[royman|Royman]]'s official account tells the city that "Dionysius Familia", its god and "Goddess Penia of Daedalus Street" died in the struggle against a confederate of [[ikelos|Ikelos]], and thanks them for their sacrifice.[@so13-account]
 
 ## Open questions
 

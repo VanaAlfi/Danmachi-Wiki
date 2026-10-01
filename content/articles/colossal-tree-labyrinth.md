@@ -36,11 +36,11 @@ The **Colossal Tree Labyrinth** is the region of the [[dungeon|Dungeon]] from th
 
 ## Dangers {#dangers}
 
-Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyond as a completely different world".[@fm09-dangers] Its monsters include bugbears and mad beetles, and gun libellulas and firebirds that attack from range. Many are good at inflicting status effects, so plenty of antidotes help, and the Development Ability Immunity is "the key to clearing floors in the Colossal Tree Labyrinth".[@fm09-dangers]
+Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyond as a completely different world".[@fm09-dangers] Its monsters include [[monsters#bugbear|bugbears]] and [[monsters#mad-beetle|mad beetles]], and [[monsters#gun-libellula|gun libellulas]] and [[monsters#firebird|firebirds]] that attack from range. Many are good at inflicting status effects, so plenty of antidotes help, and the Development Ability Immunity is "the key to clearing floors in the Colossal Tree Labyrinth".[@fm09-dangers]
 
 - **Insects and fungi:** the region is infamous for its many insect monsters, and for mushroom-like monsters that hide among giant fungi and release clouds of poisonous gas.[@fm09-fungi]
 - **Irregular attacks:** DanMachi 12 says what sets the region apart is "the huge number of Irregular attacks", such as poison, and that monsters appear more often than on the upper floors (see [[irregular|Irregular]]).[@fm12-irregular]
-- **Other monsters:** [[monsters#lizardman|lizardmen]] appear there, and their blue-scaled elites deeper down are rated Level 3 to 4.[@fm14-lizardmen] Mammoth fools are a rare case of a monster there whose danger is simple strength, the largest ordinary monsters of the middle levels.[@fm13-mammoths]
+- **Other monsters:** [[monsters#lizardman|lizardmen]] appear there, and their blue-scaled elites deeper down are rated Level 3 to 4.[@fm14-lizardmen] [[monsters#mammoth-fool|Mammoth fools]] are a rare case of a monster there whose danger is simple strength, the largest ordinary monsters of the middle levels.[@fm13-mammoths]
 - **Firebirds:** in DanMachi 9 an outbreak of firebirds, normally found from the nineteenth floor down, spills upward.[@fm09-start]
 
 ## Events {#events}
@@ -53,7 +53,7 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 | DanMachi 12 | Hestia Familia's expedition camps on the twenty-fourth floor before going down to the Water Capital.[@fm12-camp, fm12-roots] |
 | DanMachi 13 | The hunters chasing Gale Wind reach the twenty-first floor.[@fm13-hunt] |
 | DanMachi 19 | Bell passes through the twenty-second floor.[@fm19-floor] |
-| DanMachi 20 | On the way back from an expedition, Bell's party passes through it into the Stone Cave Labyrinth.[@fm20-return] |
+| DanMachi 20 | On the way back from an expedition, Bell's party passes through it into the [[cave-labyrinth|Stone Cave Labyrinth]].[@fm20-return] |
 
 [@so02-tree]: SO02 | Chapter 2: Incident | "It was called the Central Tree, and some of its roots created the"
 [@so03-region]: SO03 | Chapter 3: A Hideous Beauty | "The entrance to the nineteenth floor of the Dungeon sat under the massive"; "the twenty-fourth floor’s main route".

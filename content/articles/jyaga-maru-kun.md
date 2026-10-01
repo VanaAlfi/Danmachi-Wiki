@@ -49,7 +49,7 @@ In the School District's stylish shop, Nina orders a drink with a Jyaga Maru Kun
 | DanMachi 3 | Aiz, told about the stand by [[hyrute-sisters|Tiona]], takes Bell to it, and Hestia serves them.[@fm03-stall] |
 | DanMachi 4 | Hestia earns 180 vals for six hours at 30 vals an hour. After she set up the fryer wrongly and it exploded, the repairs come out of her pay.[@fm04-stand, fm04-pay] |
 | DanMachi 7 | Bell remembers nights of eating Jyaga Maru Kun alone with Hestia in the hidden room under the old church.[@fm07-puffs] |
-| DanMachi 8 | A coworker asks Hestia to help fetch the herbs from outside the wall. [[ganesha-familia|Ganesha]] lets her through the gate, crying that Jyaga Maru Kun "are bundles of joy".[@fm08-herbs, fm08-ganesha] |
+| DanMachi 8 | A coworker asks Hestia to help fetch the herbs from outside the wall. [[ganesha|Ganesha]] lets her through the gate, crying that Jyaga Maru Kun "are bundles of joy".[@fm08-herbs, fm08-ganesha] |
 | DanMachi 11 | Hestia's shifts are cancelled while the city fears the monsters.[@fm11-shifts] |
 | DanMachi 13 | Hestia now works both at "Hephaistos’s place" and at Jyaga Maru Kun.[@fm13-jobs] |
 | DanMachi 17 | While Bell is held by [[freya-familia|Freya Familia]], Hestia skips her shifts for days, until the owner comes beating on the door. To keep her job she begs [[hermes|Hermes]] to buy the deluxe, and he pays 3,000 valis.[@fm17-shifts, fm17-deluxe] |
@@ -67,10 +67,10 @@ Jyaga Maru Kun is one of Aiz's "secret guilty pleasures"; Sword Oratoria 4 calls
 
 ## Others {#others}
 
-- **[[lilliluka-erde|Lilly]]:** as a hungry child in [[soma-familia|Soma Familia]], she is handed one of the snacks by Soma himself.[@fm15-lilly]
+- **[[lilliluka-erde|Lilly]]:** as a hungry child in [[soma-familia|Soma Familia]], she is handed one of the snacks by [[soma|Soma]] himself.[@fm15-lilly]
 - **[[wiene|Wiene]]:** Hestia wins her favour by feeding her Jyaga Maru Kun scraps. [[fels|Fels]] reports that Wiene has "inherited the goddess’s love of Jyaga Maru Kun".[@ss01-wiene]
 - **[[al-miraj#aruru|Aruru]] and Helga:** [[cassandra|Cassandra]] feeds the Xenos she hides on pieces of Jyaga Maru Kun; "they liked the potato snacks".[@fm11-cassandra]
-- **[[elfie-collette|Elfie]]:** when [[lefiya|Lefiya]] apologises for keeping her away from Elegia, Elfie asks only for "a grape cream Jyaga Maru Kun".[@so13-elfie]
+- **[[elfie-collette|Elfie]]:** when [[lefiya|Lefiya]] apologises for keeping her away from [[elegia|Elegia]], Elfie asks only for "a grape cream Jyaga Maru Kun".[@so13-elfie]
 - **[[lyu-leon|Lyu]]:** masked in Astrea Record 3, she tells the young Aiz they once fought "over the last Jyaga Maru Kun", a lie.[@ar03-lyu]
 
 ## Ardee and Bogan {#bogan}

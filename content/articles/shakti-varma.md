@@ -27,7 +27,7 @@
   }
 }
 ---
-**Shakti Varma** is the captain of [[ganesha-familia|Ganesha Familia]], the Familia that serves as [[orario|Orario]]'s city watch.[@ar02-speech, fm10-shakti] Titled *Ganesha's Cane, Ankusha*, she ranks alongside [[aiz-wallenstein|Aiz]] as a first-tier human adventurer.[@fm10-shakti] In the dark age told in Astrea Record she is a close friend of [[astrea-familia|Astrea Familia]], and she loses her younger sister Ardee to [[evils|the Evils]].[@ar01-alize, ar01-ardee] In the main series she is one of very few people who know that [[lyu-leon|Lyu Leon]] is still alive.[@fc01-casino]
+**Shakti Varma** is the captain of [[ganesha-familia|Ganesha Familia]], the Familia that serves as [[orario|Orario]]'s city watch.[@ar02-speech, fm10-shakti] Titled *[[ganesha|Ganesha]]'s Cane, Ankusha*, she ranks alongside [[aiz-wallenstein|Aiz]] as a first-tier human adventurer.[@fm10-shakti] In the dark age told in Astrea Record she is a close friend of [[astrea-familia|Astrea Familia]], and she loses her younger sister Ardee to [[evils|the Evils]].[@ar01-alize, ar01-ardee] In the main series she is one of very few people who know that [[lyu-leon|Lyu Leon]] is still alive.[@fc01-casino]
 
 ## Appearance and character
 

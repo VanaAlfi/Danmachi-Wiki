@@ -61,7 +61,7 @@
 | Astrea Record 1 | In the Great Conflict, the Familia's workshops and forges stand in the north of the city, beside [[freya-familia|Freya Familia]]'s forces.[@ar01-north] |
 | Astrea Record 3 | Its smiths support Freya Familia with [[magic-sword|magic swords]], and their bombardment holds back the [[evils|Evils]] at the barricades.[@ar03-swords] |
 | Sword Oratoria 1 | [[bete-loga|Bete]]'s boots Frosvirt are a second-tier Superior made by the Familia.[@so01-frosvirt] |
-| Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Ten smiths, Tsubaki among them, travel with the fifteen Loki Familia adventurers.[@so03-largest, so04-expedition] By agreement, Loki Familia hands over most of the drop items from the depths, including the valgang-dragon's fangs and scales.[@so05-drops] On the eighteenth floor a smith of the expedition recognises Welf.[@fm05-welf] |
+| Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Ten smiths, Tsubaki among them, travel with the fifteen Loki Familia adventurers.[@so03-largest, so04-expedition] By agreement, Loki Familia hands over most of the drop items from the depths, including the valgang-dragon's fangs and scales.[@so05-drops] On the eighteenth floor the smiths of the expedition say they saw Welf when he was carried in (the Yen Press text says "One of the smiths").[@fm05-welf, fm05-ja-welf] |
 | DanMachi 8 | The Familia helps catch [[ares#kingdom-of-rakia|Rakia]]'s infiltrators in the city; they surrender to its members.[@fm08-rakia, fm08-surrender] Sword Oratoria 9 says Finn shared his information with the Familia, which took the glory.[@so09-rakia] |
 | DanMachi 12 | When Hestia Familia prepares its expedition, Hephaistos Familia alone among its friendly factions stays out, to keep its position as a smithing Familia.[@fm12-sidelines] |
 | Sword Oratoria 12 | The Familia makes the spirit flags for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] |
@@ -89,6 +89,7 @@
 [@fm04-workshop]: FM04 | Chapter 3: The Smith’s Situation | "Hephaistos Familia prepares a workshop for each of its members".
 [@fm04-masters]: FM04 | A Campanella to the Goddess | "Masters of the Forge, Hephaistos Familia."; Hestia lived with them after her arrival.
 [@fm05-welf]: FM05 | Chapter 4: Dungeon Resort? | "High Smiths belonging to Hephaistos Familia had joined this expedition"; a smith recognises Welf.
+[@fm05-ja-welf]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraphs 189 and 190): the smiths accompanying the expedition, plural, told Finn that they saw Welf when Bell's party was carried in. Yen Press prints "One of the smiths told me."
 [@fm06-logo]: FM06 | Chapter 4: Those Who Gather | "forbidden to use her logo as a smith"; "his dream of becoming a High Smith".
 [@fm07-goibniu]: FM07 | Chapter 1: Smooth Sailing? | Goibniu Familia: "Though not as popular as Hephaistos Familia".
 [@fm08-rakia]: FM08 | Chapter 2: The Prum’s Proposal | "Hephaistos Familia? That’s perfect. I’ll have them help out as well."

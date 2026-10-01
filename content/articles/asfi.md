@@ -17,20 +17,20 @@
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm05-look"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Hermes Familia", "refs": ["fm05-asfi"]},
-      {"label": "Position", "value": "Captain, succeeding Lydis", "refs": ["fm05-asfi", "ar02-captain"]},
+      {"label": "Position", "value": "Captain, succeeding Lydis", "refs": ["fm05-asfi", "fm05-ja-asfi", "ar02-captain"]},
       {"label": "Level", "value": "4", "refs": ["so03-level"]},
       {"label": "Title", "value": "Jack-of-All-Trades, Perseus", "refs": ["fm05-asfi"]},
-      {"label": "Development Ability", "value": "Enigma; one of five holders in Orario", "refs": ["fm05-asfi"]},
+      {"label": "Development Ability", "value": "Enigma; fewer than five holders in Orario", "refs": ["fm05-asfi", "fm05-ja-enigma"]},
       {"label": "Items", "value": "Talaria (flight); Silence Lyra, as modified by her", "refs": ["fm08-talaria", "fm18-lyra"]}
     ]
   }
 }
 ---
-**Asfi Al Andromeda** is the captain of [[hermes-familia|Hermes Familia]], titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of only five people in [[orario|Orario]] who do, and makes magic items.[@fm05-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level]
+**Asfi Al Andromeda** is the captain of [[hermes-familia|Hermes Familia]], titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of fewer than five people in [[orario|Orario]] who do (the Yen Press text prints "one of only five"), and makes magic items.[@fm05-asfi, fm05-ja-enigma, fm05-ja-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level]
 
 ## Appearance
 
-DanMachi 5 introduces Asfi as a human woman with a symmetrical face, "brilliant silver glasses" and aqua-blue hair with a few lighter shades mixed in. She wears a white cloak and sandals with a pair of golden wings curving around each side.[@fm05-look]
+DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes, silver-framed glasses, and aqua-blue hair with a single white lock (the Yen Press text says "a perfectly symmetrical face", "brilliant silver glasses" and "a few lighter shades mixed in"). She wears a white cloak and sandals with a pair of golden wings curving around each side.[@fm05-look, fm05-ja-look]
 
 ## Hermes Familia
 
@@ -63,6 +63,9 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 
 [@fm05-asfi]: FM05 | | Captain; Perseus; Enigma; Rivira's defence.
 [@fm05-look]: FM05 | | "Asfi, the human woman"; silver glasses; aqua-blue hair; white cloak and winged sandals.
+[@fm05-ja-look]: FM05 | | Japanese original (file part0011, paragraph 193): distinct features, blue eyes rich in intelligence, silver-framed glasses, and aqua-blue-tinged hair with just one lock dyed white; the white cloak and the gold-winged sandals agree. Yen Press prints a perfectly symmetrical face, brilliant silver glasses and a few lighter shades.
+[@fm05-ja-asfi]: FM05 | | Japanese original (file part0011, paragraph 220; file part0013, paragraph 297): Hermes calls Asfi the head of his Familia (the Japanese word is the one this volume uses for Finn as the head of Loki Familia), half joking, and she is the Familia's ace; the Yen Press text drops the word, so FM05's English does not print the title of captain.
+[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario. Yen Press prints "one of only five".
 [@fm05-oil]: FM05 | Chapter 6: Praise to the Heroes | Burst Oil leaves no mark on the Goliath's skin.
 [@so03-oil]: SO03 | Chapter 3: A Hideous Beauty | Burst Oil; the obia flare; middle-level monsters reduced to cinders.
 [@fm08-talaria]: FM08 | | Talaria and the search for Hestia.

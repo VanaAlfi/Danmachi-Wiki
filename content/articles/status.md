@@ -53,7 +53,7 @@ An example of how a printed update looks is Bell's last update at Level 4, in Da
 
 [[hestia|Hestia]] then raises him to Level 5, and all five abilities start again from I 0.[@fm18-sheet]
 
-Under the rules of the Familia War in DanMachi 18, gods may update their followers during the battle, and Hestia and Miach do so.[@fm18-wargame]
+Under the rules of the Familia War in DanMachi 18, gods may update their followers during the battle, and Hestia and [[miach|Miach]] do so.[@fm18-wargame]
 
 Some adventurers have their Status updated under contract rather than as ordinary members: [[runoa|Runoa]] with [[demeter|Demeter Familia]] and [[chloe|Chloe]] with [[njordr|Njörðr]], in Familia Chronicle 1.[@fc01-contracts]
 

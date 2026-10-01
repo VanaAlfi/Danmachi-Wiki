@@ -6,15 +6,15 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The god Ikelos's Familia of monster hunters and smugglers, led in the field by Dix Perdix. From a base inside Knossos it captures and sells Xenos until DanMachi 10, when it is wiped out, Dix is killed and Ikelos is exiled from Orario.",
-  "aliases": ["Ikelos", "Dix", "Dix Perdix", "Hazer"],
+  "aliases": ["Dix", "Dix Perdix", "Hazer"],
   "spoilers": "DanMachi Vols. 9 and 10 and Sword Oratoria Vols. 7 and 11",
-  "related": ["xenos", "knossos", "hermes", "asterios", "wiene", "magic"],
+  "related": ["ikelos", "xenos", "knossos", "hermes", "asterios", "wiene", "magic"],
   "infobox": {
     "title": "Ikelos Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Patron god", "value": "Ikelos", "refs": ["fm09-hunters", "fm09-ikelos"]},
+      {"label": "Patron god", "value": "[[ikelos|Ikelos]]", "refs": ["fm09-hunters", "fm09-ikelos"]},
       {"label": "Leader", "value": "Dix Perdix", "refs": ["fm10-dix"]},
       {"label": "Activities", "value": "Capturing monsters, including [[xenos|Xenos]], and smuggling them out of the city", "refs": ["fm09-ikelos", "fm09-sell"]},
       {"label": "Base", "value": "Underground, inside [[knossos|Knossos]]", "refs": ["fm10-eye"]},
@@ -26,6 +26,8 @@
 **Ikelos Familia** is the Familia of the god Ikelos. Its members hunt monsters, above all the intelligent [[xenos|Xenos]], and smuggle them out of [[orario|Orario]] to sell.[@fm09-ikelos, fm09-sell] Its leader, Dix Perdix, is a descendant of the architect of [[knossos|Knossos]], and the Familia works from a base inside the labyrinth.[@fm10-dix, fm10-daedalus, fm10-eye] In DanMachi 10 the Familia is destroyed, and Ikelos takes the blame and is exiled.[@fm10-wiped, fm10-exile]
 
 ## Ikelos
+
+{{nocite}} The god has his own page: [[ikelos|Ikelos]].
 
 Ikelos is a god with wheat-coloured skin and navy-blue hair.[@fm10-exile] When [[hermes|Hermes]] confronts him in DanMachi 9 with reports that his Familia is part of an Orario smuggling ring, and reminds him that it was once on the list of candidates to join [[evils|the Evils]], Ikelos neither hides nor stops it. "I didn't give those orders. My brats are the ones going wild," he says, and as long as they keep him entertained he will not get in their way.[@fm09-ikelos] Earlier his hunters ask for his cooperation, and he tells Dix to make him laugh this time as well.[@fm09-hunters]
 

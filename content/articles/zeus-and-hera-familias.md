@@ -6,15 +6,15 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The two Familias of the gods Zeus and Hera, which ruled Orario for a thousand years. Fifteen years before DanMachi 6 they slew the Behemoth and the Leviathan, then were destroyed by the Black Dragon and driven out of the city by Loki and Freya.",
-  "aliases": ["Zeus Familia", "Hera Familia", "Zeus and Hera", "Zeus", "Hera"],
+  "aliases": ["Zeus Familia", "Hera Familia", "Zeus and Hera"],
   "spoilers": "DanMachi Vols. 5, 6, 11 and 17–20, Sword Oratoria Vols. 6, 9, 13 and 14, Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
-  "related": ["three-great-quests", "zald", "alfia", "ottar", "leon-verdenberg", "evils"],
+  "related": ["zeus", "three-great-quests", "zald", "alfia", "ottar", "leon-verdenberg", "evils"],
   "infobox": {
     "title": "Zeus Familia and Hera Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familias"},
-      {"label": "Patron gods", "value": "Zeus; Hera", "refs": ["fm06-fall"]},
+      {"label": "Patron gods", "value": "[[zeus|Zeus]]; [[hera|Hera]]", "refs": ["fm06-fall"]},
       {"label": "Era", "value": "Ruled Orario for a thousand years", "refs": ["ar01-thousand", "ar03-remnants"]},
       {"label": "Strongest", "value": "A Level 8 of Zeus Familia and a Level 9 of Hera Familia", "refs": ["fc02-ottar", "so13-levels"]},
       {"label": "Deepest floor", "value": "71", "refs": ["fm19-record"]},
@@ -46,7 +46,7 @@ Looking back, the veteran of DanMachi 20 thinks they were always spurring the yo
 ## The Dungeon and the Great Quests
 
 - **Deepest floor.** Their record of Floor 71 still stands in DanMachi 19.[@fm19-record] The deep level called the Dragon's Urn had been reached only by them.[@ar03-urn] They discovered a centipede dragon on Floor 67 and estimated its potential at Level 7.[@fm20-centipede] In Sword Oratoria 6, Loki Familia is the first to reach Floor 59 since Zeus and Hera.[@so06-59]
-- **What they could not find.** In DanMachi 18 [[royman|Royman]] says they could not find Thalia's Ice Garden, and brought back only a small trinket.[@fm18-garden]
+- **What they could not find.** In DanMachi 18 [[royman|Royman]] says they did not find the key to Thalia's Ice Garden, and brought back only a small trinket from it.[@fm18-garden]
 - **Development Abilities.** Astrea Record 3 credits their Familias with discovering how to unlock [[development-ability|Development Abilities]].[@ar03-unlock]
 - **The Leviathan.** With Poseidon Familia's help they fought the sea dragon from a huge sea fortress, now the ship of the [[school-district|School District]].[@so13-ship] With Poseidon Familia they also sealed the hole beneath Lolog Lake, using the Leviathan's skeleton as the lid.[@so06-lake]
 - **The Black Dragon.** The last beast "was too strong and wiped them out"; both Familias lost their strongest followers in the battle.[@fm06-fall] Sword Oratoria 13 says the dragon had grown stronger over the centuries than Orario or even the gods had estimated.[@so13-levels] [[zald|Zald]] speaks of his group being "wiped out by the Black Dragon under Maxim's leadership".[@ar03-blood]
@@ -69,8 +69,8 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 
 ## The gods
 
-- **Zeus.** [[bell-cranell|Bell]]'s grandfather, who raised him, is revealed in DanMachi 5 to be Zeus; [[hermes|Hermes]] calls Bell "the last hero your Familia left behind".[@fm05-zeus] [[ouranos|Ouranos]] sees Bell as "a parting gift from that Zeus".[@fm17-gift] Zeus's debauchery is notorious; Zald insists he does not share it.[@ar03-blood, fm20-heroes]
-- **Hera.** {{statement}} Ouranos describes [[freya|Freya]] as having "lost to Hera" and become bound to Orario.[@fm17-gift]
+- **[[zeus|Zeus]].** [[bell-cranell|Bell]]'s grandfather, who raised him, is revealed in DanMachi 5 to be Zeus; [[hermes|Hermes]] calls Bell "the last hero your Familia left behind" (in the Japanese his grandson by adoption, {{ja|義孫|gison}}).[@fm05-zeus, fm05-ja-zeus] [[ouranos|Ouranos]] sees Bell as "a parting gift from that Zeus".[@fm17-gift] Zeus's debauchery is notorious; Zald insists he does not share it.[@ar03-blood, fm20-heroes]
+- **[[hera|Hera]].** {{statement}} Ouranos describes [[freya|Freya]] as having "lost to Hera" and become bound to Orario.[@fm17-gift]
 - **A child of both Familias.** In Astrea Record 3's extra story Alfia says her younger sister's son carries the blood of a child of Hera and of one of Zeus's; Zald admits the father was one of the lowliest humans in his Familia. The dying sister, Metelia, entrusted the boy to Zeus.[@ar03-blood] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-blood, fm05-zeus]
 
 ## Open questions
@@ -95,10 +95,11 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@ar03-blood]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "The blood of a child of Hera…as does the blood of one of Zeus’s"; "under Maxim’s leadership"; "Zeus may have been my patron"; "My sister entrusted him to Zeus."
 [@fc02-ottar]: FC02 | The Origin of the Strongest | Defeats by Zeus and Hera followers; "the Level-8 supreme"; "the Level-9 empress"; every Level Up after Level 5 related to them.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | "Rejoice, Great Lord Zeus! Your grandson is the real deal! The last hero your Familia left behind!"
+[@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson. Yen Press prints "grandson".
 [@fm06-fall]: FM06 | | Hermes: fifteen years ago; the Behemoth and the Leviathan defeated; "wiped them out"; Loki and Freya forced them out; the Guild did not protect them.
 [@fm11-ouranos]: FM11 | Epilogue: And So I Start to Run Again | "With Zeus and Hera gone, the military forces at my command are limited."
 [@fm17-gift]: FM17 | Chapter 2: Alone Inside a Sandbox | "A parting gift from that Zeus"; to Freya: "You, who lost to Hera and became bound to Orario?"
-[@fm18-garden]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Thalia's Ice Garden: "Zeus and Hera couldn’t find it"; only a little trinket brought back.
+[@fm18-garden]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Thalia's Ice Garden: its key is "Undiscovered, as of now. At the very least, Zeus and Hera couldn’t find it"; only a little trinket brought back.
 [@fm18-royman]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "Just like Zeus and Hera before, they must continue standing atop Orario".
 [@fm19-record]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Surpassing the seventy-first-floor record set by Zeus and Hera!"
 [@fm20-heroes]: FM20 | Chapter 2: Lion and then Sword Princess | "There was Zeus and Hera, and then there was everyone else"; the most twisted followers were Hera's (the English text says the former, the Japanese the latter); Hera's followers hunting Zeus's; Hera's empress.

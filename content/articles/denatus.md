@@ -42,7 +42,7 @@ The Denatus began as a gathering of retired gods with too much free time. Their 
 At the Naming Ceremony the gods give titles to adventurers who have levelled up. Each god has the Guild's paperwork, with each adventurer's profile and the sketch drawn when they registered.[@fm04-naming] It is "what the gods came to Denatus to see".[@fm04-mikoto]
 
 - **Avoiding a bad name.** A god can pay off the influential gods before the meeting, which is almost impossible for small Familias. Failing that, the influential gods pick a trait of the adventurer they like; girls tend to get better names this way than boys.[@fm04-naming]
-- **An example.** In DanMachi 4, Takemikazuchi's follower Mikoto receives "Eternal † Shadow", over the suggestions of Hestia and Hephaistos, and Takemikazuchi wails in humiliation.[@fm04-mikoto]
+- **An example.** In DanMachi 4, [[takemikazuchi|Takemikazuchi]]'s follower Mikoto receives "Eternal † Shadow", over the suggestions of Hestia and Hephaistos, and Takemikazuchi wails in humiliation.[@fm04-mikoto]
 - **Second chances.** Each Level Up brings a chance to change the title, so an odd first title can be fixed at the next Naming Ceremony.[@fm04-correct]
 - **Announcement.** The results go to the Guild, whose staff are eager to see them; in DanMachi 12 the new titles are posted on a board in the Guild Headquarters lobby.[@fm04-guild, fm12-board]
 - **Reach.** Sword Oratoria 5 says every adventurer's official title is decided at Denatus, from Aiz's "Sword Princess" to Tiona's "Amazon".[@so05-names]
@@ -52,14 +52,14 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 | Volume | Title |
 |---|---|
 | DanMachi 4 | Bell levels up two days before the meeting and is squeezed onto the last page; he becomes "Little Rookie".[@fm04-late, fm04-rookie] |
-| DanMachi 12 | Bell has levelled up twice, to Level 4. [[freya|Freya]] proposes "Vanadis Odr, Companion of Vanadis", and Hestia slams the table in protest.[@fm12-bell, fm12-freya] With the help of Miach and Takemikazuchi she wrenches a safe title from the gods: "Rabbit Foot".[@fm12-rabbit] |
+| DanMachi 12 | Bell has levelled up twice, to Level 4. [[freya|Freya]] proposes "Vanadis Odr, Companion of Vanadis", and Hestia slams the table in protest.[@fm12-bell, fm12-freya] With the help of [[miach|Miach]] and Takemikazuchi she wrenches a safe title from the gods: "Rabbit Foot".[@fm12-rabbit] |
 | DanMachi 20 | At what may be the best-attended Denatus ever held, [[modi-and-magni-familias#modi-and-magni|Magni and Modi]] propose putting off Bell's new title until one is found that everyone accepts.[@fm20-crowded, fm20-postpone] |
 
 ## Other business
 
 | Volume | Business |
 |---|---|
-| Sword Oratoria 5 | Loki hosts in order to investigate who is behind the recent incidents; Ganesha apologises for the monsters that ran loose at [[monsterphilia|Monsterphilia]].[@so05-investigate] |
+| Sword Oratoria 5 | Loki hosts in order to investigate who is behind the recent incidents; [[ganesha|Ganesha]] apologises for the monsters that ran loose at [[monsterphilia|Monsterphilia]].[@so05-investigate] |
 | DanMachi 6 | When Apollo's challenge to Hestia turns into a [[war-game|War Game]], the watching gods call for an emergency Denatus to settle its details. There a large group of male gods sides with Freya and votes to allow outsiders into the game.[@fm06-emergency, fm06-vote] |
 | DanMachi 18 | The format and rules of the war game between Hestia's coalition and [[freya-familia|Freya Familia]] are argued over for days, split between Hestia's supporters and Freya's backers.[@fm18-babel, fm18-days] [[asfi|Asfi]], "Perseus", is banned from it by name.[@fm18-perseus] |
 | DanMachi 20 | The [[orariad|Orariad]] is sponsored by the Denatus rather than the Guild, and [[hermes|Hermes]] applauds the winners as its representative.[@fm20-orariad, fm20-hermes] |

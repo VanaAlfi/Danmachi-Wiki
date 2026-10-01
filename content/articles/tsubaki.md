@@ -29,7 +29,7 @@
 
 ## Appearance
 
-When she walks into [[hephaistos|Hephaistos]]'s workshop in DanMachi 8, Tsubaki has long black hair tied back behind her shoulders and "wheat-colored skin". Her eye patch is over her left eye; Hephaistos wears hers over the right. In that scene she wears crimson hakama, the skirtlike trousers of the Far East.[@fm08-look]
+When she walks into [[hephaistos|Hephaistos]]'s workshop in DanMachi 8, Tsubaki has long black hair tied back behind her shoulders and "wheat-colored skin". Her eye patch is over her left eye; Hephaistos wears hers over the right. In that scene she wears crimson hakama, the skirtlike trousers of the [[far-east|Far East]].[@fm08-look]
 
 ## Smith
 

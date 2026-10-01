@@ -50,9 +50,9 @@ The dagger is about 15 celch long. Where the Hestia Knife slices precisely, it d
 
 {{nocite}} The DanMachi 5 item profile adds:
 
-- It was forged by Welf, the first of its kind, from the Minotaur Horn drop item.[@fm05-profile]
-- It is a strong weapon with a slight fire element, and surprisingly destructive for its size; it is "currently" more powerful than the Hestia Knife.[@fm05-profile]
-- When Bell fell asleep with it under his pillow, he dreamed that a raging Minotaur almost killed him.[@fm05-profile]
+- It was forged by Welf, the first of his weapon series, from the Minotaur Horn drop item (the Yen Press text says "first of its kind").[@fm05-profile, fm05-ja-profile]
+- It is a high-powered weapon with a slight fire element, though the blade is somewhat short (the Yen Press text says "surprisingly destructive despite small size"); it is "currently" more powerful than the Hestia Knife.[@fm05-profile, fm05-ja-profile]
+- When Bell fell asleep with it under his pillow, he dreamed that an extremely strong fierce bull almost killed him (the Yen Press text says "a raging Minotaur").[@fm05-profile, fm05-ja-profile]
 
 {{nocite}} The profile gives no measure of the fire element, and the dream is recorded only as a dream; the novels do not say the blade is cursed.
 
@@ -87,6 +87,7 @@ DanMachi 6 prints *Ushiwakamaru-Shiki*.[@fm06-shiki] DanMachi 7 prints *Ushiwaka
 [@fm04-name]: FM04 | Chapter 3: The Smith’s Situation | "The Young Bull, Ushiwakamaru" or "the Bull Dagger, Minotan".
 [@fm04-dagger]: FM04 | Epilogue: Next Stage | About 15 celch; a Hard Armored's magic stone shattered.
 [@fm05-profile]: FM05 | | Item profile at the back of the volume: nickname Minotan; slight fire element; the dream.
+[@fm05-ja-profile]: FM05 | | Japanese original (the item profile, a page-size image in the back matter): made by Welf, the first instalment of a weapon series; a crimson short blade with the nickname Minotan; the drop item Minotaur Horn as material, with a slight fire effect; the blade is somewhat short but high-powered, at present surpassing the Hestia Knife; when Bell put it under his pillow and slept, an extremely strong fierce bull appeared in his dream and he was nearly killed. Yen Press prints "first of its kind", "surprisingly destructive despite small size" and "a raging Minotaur".
 [@fm06-shiki]: FM06 | Chapter 5: Our War Game | Ushiwakamaru-Shiki from the remaining half; the Solar Flamberge broken.
 [@fm07-both]: FM07 | Chapter 4: Yoshiwara x Utakata | "Both blades forged from a red Minotaur Horn".
 [@fm07-table]: FM07 | Chapter 5: Killing Stone | Ushiwakamaru and Ushiwakamaru-Nishiki on the same table.

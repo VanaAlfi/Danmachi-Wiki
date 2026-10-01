@@ -6,9 +6,9 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of the war goddess Kali, which rules the Amazon land of Telskyura through daily fights to the death. Tiona and Tione Hyrute were raised in it. In Sword Oratoria 6 it comes to Meren at Ishtar's request and forces the twins to re-enact its rite against their old mentors, the Level 6 twins Argana and Bache.",
-  "aliases": ["Kali", "Telskyura", "Argana", "Argana Kalif", "Bache", "Bache Kalif", "Rites", "Se wehga", "True Warrior"],
+  "aliases": ["Argana", "Argana Kalif", "Bache", "Bache Kalif", "Rites", "Se wehga", "True Warrior"],
   "spoilers": "Sword Oratoria Vols. 6, 9, 12 and Minor Myths and Legends Vol. 2",
-  "related": ["hyrute-sisters", "ishtar", "loki", "finn-deimne", "njordr", "magic"],
+  "related": ["kali", "telskyura", "hyrute-sisters", "ishtar", "loki", "finn-deimne", "njordr", "magic"],
   "sections": [
     {"anchor": "argana-kalif", "title": "Argana Kalif", "summary": "Kali Familia's Level 6 Amazon and Tione's former mentor, the elder of the twin captains, known by the alias Kalima after her blood-drinking curse. Finn defeats her in Sword Oratoria 6, and she falls in love with him.", "aliases": ["Argana"]},
     {"anchor": "bache-kalif", "title": "Bache Kalif", "summary": "Kali Familia's Level 6 Amazon and Tiona's former mentor, the younger of the twin captains, whose poison enchantment Velgas earned her the name Poison Queen. Tiona defeats her in Sword Oratoria 6.", "aliases": ["Bache"]}
@@ -18,8 +18,8 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Deity", "value": "Kali, a goddess of war", "refs": ["so06-telskyura", "so06-demand"]},
-      {"label": "Country", "value": "Telskyura, the Holy Land of the Amazons, far to Orario's southeast", "refs": ["so06-telskyura"]},
+      {"label": "Deity", "value": "[[kali|Kali]], a goddess of war", "refs": ["so06-telskyura", "so06-demand"]},
+      {"label": "Country", "value": "[[telskyura|Telskyura]], the Holy Land of the Amazons, far to Orario's southeast", "refs": ["so06-telskyura"]},
       {"label": "Captains", "value": "The twins [[#argana-kalif|Argana]] and [[#bache-kalif|Bache Kalif]], both Level 6", "refs": ["so06-telskyura", "so06-elnea", "so12-arrival"]},
       {"label": "Former members", "value": "[[hyrute-sisters|Tiona and Tione Hyrute]]", "refs": ["so06-telskyura"]},
       {"section": "Kali"},
@@ -28,9 +28,11 @@
   }
 }
 ---
-**Kali Familia** is the Familia of the goddess Kali, which rules Telskyura, a land of Amazon warriors far to the southeast of [[orario|Orario]].[@so06-telskyura] Its members grow strong through rites, fights to the death in an arena against captured monsters and against each other.[@so06-telskyura, so06-rule] [[hyrute-sisters|Tiona and Tione Hyrute]] were born and raised there before joining [[loki-familia|Loki Familia]].[@so06-telskyura] In Sword Oratoria 6 the Familia comes to Port Meren at [[ishtar|Ishtar]]'s request, and Kali makes the twins re-enact the rite against their former mentors, Argana and Bache.[@so06-ishtar, so06-demand, so06-warning]
+**Kali Familia** is the Familia of the goddess Kali, which rules [[telskyura|Telskyura]], a land of Amazon warriors far to the southeast of [[orario|Orario]].[@so06-telskyura] Its members grow strong through rites, fights to the death in an arena against captured monsters and against each other.[@so06-telskyura, so06-rule] [[hyrute-sisters|Tiona and Tione Hyrute]] were born and raised there before joining [[loki-familia|Loki Familia]].[@so06-telskyura] In Sword Oratoria 6 the Familia comes to Port Meren at [[ishtar|Ishtar]]'s request, and Kali makes the twins re-enact the rite against their former mentors, Argana and Bache.[@so06-ishtar, so06-demand, so06-warning]
 
 ## Kali
+
+{{nocite}} The goddess has her own page: [[kali|Kali]].
 
 Kali is a copper-skinned goddess with blood-red hair and the stature of a child. She wears a necklace of fake bones and a fanged mask.[@so06-arrival] Sword Oratoria 6 calls her a goddess of war, blood and mayhem whose sole purpose in descending was war itself.[@so06-demand] [[loki|Loki]] compares her rule to [[ares|Ares]]'s over [[ares#kingdom-of-rakia|Rakia]], a "nation-state familia", and cannot stand her.[@so06-telskyura] Since Kali came to power the rites have gone on without end; her blessing makes the Amazons' fights more violent, and they revere her as their one and only god.[@so06-childhood]
 

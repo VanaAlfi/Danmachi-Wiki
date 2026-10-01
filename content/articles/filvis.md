@@ -28,7 +28,7 @@
 
 ## Filvis and Lefiya
 
-On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her magic [[#dio-grail|Dio Grail]] saved the Floor 59 expedition, challenging her belief that she and her magic are unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, begs her to leave [[orario|Orario]], and promises her a trip to Wishe Forest.[@ss02-filvis, so11-filvis]
+On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her magic [[#dio-grail|Dio Grail]] saved the Floor 59 expedition, challenging her belief that she and her magic are unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, begs her to leave [[orario|Orario]], and promises her a trip to [[wishe-forest|Wishe Forest]].[@ss02-filvis, so11-filvis]
 
 ## The truth
 
@@ -66,7 +66,7 @@ Sword Oratoria 7 prints chant and name as one line, the name in capitals, and sa
 
 #### Effect {#dio-thyrsos-effect}
 
-In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#lizardman|lizardmen]], using Concurrent Casting, and the lightning roasts a cluster of dark fungi and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
+In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#lizardman|lizardmen]], using Concurrent Casting, and the lightning roasts a cluster of [[monsters#dark-fungus|dark fungi]] and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
 
 {{nocite}} Notable uses and open questions for Dio Thyrsos are on the combined page: [[magic#dio-thyrsos|Magic § Dio Thyrsos]].
 

@@ -40,8 +40,8 @@
 |---|---|
 | DanMachi 6 | Magic "windows" in the bars, the Guild's garden and Central Park show the [[war-game|War Game]] to the city.[@fm06-mirror] |
 | DanMachi 11 | Bell comes down into Central Park, and its eastern side becomes the battlefield of his final clash with [[asterios|Asterios]]. The city watches from Familia homes overlooking the park and from the Pleasure Quarter's theatre.[@fm11-clash] |
-| DanMachi 15 | At Elegia, people in white robes set out from Central Park to visit the city's monuments to its heroes, then return to sing.[@fm15-elegia] |
-| DanMachi 16–17 | A goddess opens the Goddess Festival from Central Park by magic-stone amplifier. [[freya|Freya]] later stands on one of the "four towers of bounty" there and charms everyone who sees or hears her.[@fm16-gather, fm17-towers, fm17-charm] |
+| DanMachi 15 | At [[elegia|Elegia]], people in white robes set out from Central Park to visit the city's monuments to its heroes, then return to sing.[@fm15-elegia] |
+| DanMachi 16–17 | A goddess opens the [[elegia#goddess-festival|Goddess Festival]] from Central Park by magic-stone amplifier. [[freya|Freya]] later stands on one of the "four towers of bounty" there and charms everyone who sees or hears her.[@fm16-gather, fm17-towers, fm17-charm] |
 | Sword Oratoria 12 | Orario's strongest army gathers in Central Park at the foot of Babel.[@so12-army] |
 | DanMachi 20 | Central Park, usually empty once adventurers have gone down, is packed with people when Bell arrives in the epilogue.[@fm20-crowd] |
 

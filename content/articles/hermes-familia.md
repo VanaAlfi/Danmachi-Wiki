@@ -19,19 +19,19 @@
     "rows": [
       {"section": "Familia"},
       {"label": "Deity", "value": "[[hermes|Hermes]]", "refs": ["fm05-asfi"]},
-      {"label": "Captain", "value": "[[asfi|Asfi Al Andromeda]], after Lydis", "refs": ["fm05-asfi", "ar02-captain"]},
+      {"label": "Captain", "value": "[[asfi|Asfi Al Andromeda]], after Lydis", "refs": ["fm05-asfi", "fm05-ja-asfi", "ar02-captain"]},
       {"label": "Public role", "value": "Delivery service", "refs": ["fm09-delivery"]}
     ]
   }
 }
 ---
-**Hermes Familia** is the Familia of the god [[hermes|Hermes]], led by [[asfi|Asfi Al Andromeda]].[@fm05-asfi] It works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate where black-market goods are being smuggled.[@fm09-delivery]
+**Hermes Familia** is the Familia of the god [[hermes|Hermes]], led by [[asfi|Asfi Al Andromeda]].[@fm05-asfi, fm05-ja-asfi] It works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate where black-market goods are being smuggled.[@fm09-delivery]
 
 ## Members
 
 | Member | Notes |
 |---|---|
-| [[asfi|Asfi Al Andromeda]] | Captain, titled Perseus; succeeded Lydis during the [[great-conflict|Great Conflict]].[@fm05-asfi, ar02-captain] |
+| [[asfi|Asfi Al Andromeda]] | Captain, titled Perseus; succeeded Lydis during the [[great-conflict|Great Conflict]].[@fm05-asfi, fm05-ja-asfi, ar02-captain] |
 | [[lulune-louie|Lulune Louie]] | A [[races#chienthrope|chienthrope]], secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
 | [[falgar-batros|Falgar]] | Fights in the Great Conflict.[@ar02-falgar] |
 | Merrill | A prum mage, a girl with a pointed hat and a short rod. In Sword Oratoria 3 Asfi calls her forward, and her fireball blasts open the fleshy "gate" on Floor 24. In Sword Oratoria 11 the Familia supports Loki Familia with her magic.[@so03-merrill, so11-merrill] In DanMachi 17 she is one of the members who pass Hermes's fragmentary messages along while Freya's charm holds.[@fm17-merrill] |
@@ -74,6 +74,7 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 > - How many members died on Floor 24 in Sword Oratoria 3, and who they were.[@so03-losses]
 
 [@fm05-asfi]: FM05 | | Asfi, captain of Hermes Familia.
+[@fm05-ja-asfi]: FM05 | | Japanese original (file part0011, paragraph 220): Hermes calls Asfi the head of his Familia, half joking; the Yen Press text drops the word, so the English of this volume does not print the title.
 [@fm06-penalty]: FM06 | | The Guild's penalty of half their assets.
 [@fm09-delivery]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Delivery work and investigations.
 [@fm10-aisha]: FM10 | | Aisha in Hermes Familia.

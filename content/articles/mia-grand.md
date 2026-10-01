@@ -74,10 +74,10 @@ After the war Mia is among those who welcome Syr back to the tavern.[@fm18-syr] 
 [@so09-aiz]: SO09 | | Mia stops young Aiz.
 [@fm16-pay]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | "Mama Mia"; the waitresses' debts.
 [@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of Mia's half-retirement.
-[@fm17-memory]: FM17 | Chapter 2: Alone Inside a Sandbox | Mia and Anya remember Syr.
+[@fm17-memory]: FM17 | Chapter 4: Those Left Behind | Mia and Anya remember Syr.
 [@fm17-bell]: FM17 | | Mia encourages Bell.
 [@fm18-mia]: FM18 | Chapter 9: Flower Language for You | Loki's request; Mia's history and her promise.
-[@fm18-meeting]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Freya's recollection: the mining town, Mia's kitchen, the uppercut.
+[@fm18-meeting]: FM18 | Monologue VI | Freya's recollection: the mining town, Mia's kitchen, the uppercut.
 [@fm18-ottar]: FM18 | Chapter 9: Flower Language for You | Mia enters the War Game against Ottar.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Syr welcomed back.
 [@fm19-tavern]: FM19 | Chapter 1: V-V-V for Victory Party | Former Freya Familia members at work.

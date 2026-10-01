@@ -46,7 +46,7 @@ In Astrea Record 2, during the [[great-conflict|Great Conflict]], Allen is Level
 | Familia Chronicle 2 | Among Freya's followers in Ali's war; he kills the Level 4 curse-caster Seal despite being trapped in an illusion that shows him his sister.[@fc02-seal] |
 | Minor Myths and Legends 2 | Obtains [[syr-flover|Syr]]'s invitation to the casino, then secretly guards her inside.[@ss02-invite] |
 | Sword Oratoria 4 | Warns [[aiz-wallenstein|Aiz]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]], alongside the Bringar.[@so04-allen] |
-| DanMachi 8 | While guarding Syr he kills a barbarian with a silver javelin. Bell recognises his voice as that of a cat person who attacked him in the street during his training with Aiz, and connects him with Freya Familia.[@fm08-barbarian, fm08-allen] |
+| DanMachi 8 | While guarding Syr he kills a [[monsters#barbarian|barbarian]] with a silver javelin. Bell recognises his voice as that of a cat person who attacked him in the street during his training with Aiz, and connects him with Freya Familia.[@fm08-barbarian, fm08-allen] |
 | DanMachi 16 | Breaks Anya's resistance, exposes [[horn|Hörn]]'s plan and leaves Hörn wounded for punishment.[@fm16-second] |
 | DanMachi 17 | Helps Freya use Anya as bait for [[lyu-leon|Lyu]]; after the charm is broken he fights [[bete-loga|Bete]].[@fm17-allen] |
 | DanMachi 18 | In the Familia War he fights Anya and reveals his magic [[#glarinese-fromel|Glarinese Fromel]]. Anya learns why he sent her away, and he tells her he means to kill the dragon that destroyed their home.[@fm18-magic, fm18-request, fm18-dragon] |

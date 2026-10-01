@@ -312,7 +312,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 
 #### Effects {#cinder-ella-effects}
 
-- **Appearance, not power.** She can take the shape of anything she can clearly picture, even monsters, but Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm11-limits]
+- **Appearance, not power.** She can take the form of a target whose build closely resembles her own, as an imitation only, and that includes monsters of that build (the Yen Press text says "anything she could clearly picture in her mind, even monsters"). Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm05-ja-release, cinder-ella.fm11-limits]
 - **Imitation.** In DanMachi 3 she can basically only turn into pallums or children of about her own build (the Yen Press text says "other short races or children of taller ones"). As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance (the Yen Press text says she needs an example to copy).[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
 - **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and, apparently, a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits, cinder-ella.fm18-dispel]
 
@@ -375,11 +375,11 @@ In DanMachi 19, Bell says "Blasphemous Burn" as a fake chant while casting his o
 
 #### Effects {#will-o-the-wisp-effects}
 
-On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on a member of his old Familia.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain]
+On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on people, his Familia mates (the Yen Press text says "one of the guys in my Familia").[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain, will-o-the-wisp.fm05-ja-explain]
 
 {{nocite}} The novels show it working on several kinds of target:
 
-- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting at [[rivira|Rivira]]; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm06-war]
+- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting during the rescue fight on Floor 18; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm05-ja-rivira, will-o-the-wisp.fm06-war]
 - **Monster attacks that use magic.** It detonates the Black [[goliath|Goliath]]'s howl, though the monster at once prepares another.[@will-o-the-wisp.fm05-goliath]
 - **Magic circles.** In Sword Oratoria 12 Welf's cast beats a demi-spirit's high-speed casting, and all the magic circles around it go off in a chain of explosions.[@will-o-the-wisp.so12-spirit]
 - **Selective blast.** In DanMachi 18 the heat haze detonates the magic that [[allen-fromel|Allen]] and his guards have prepared, while seeming to avoid Bell's path. The text does not say it can always spare allies.[@will-o-the-wisp.fm18-allen]
@@ -394,7 +394,7 @@ On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors
 
 | Volume | Use |
 |---|---|
-| DanMachi 5 | First use on hellhounds; three casters at Rivira; the Black Goliath's howl.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm05-goliath] |
+| DanMachi 5 | First use on hellhounds; three casters on Floor 18; the Black Goliath's howl.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm05-goliath] |
 | DanMachi 6 | Breaks the enemy mages' casting in the War Game.[@will-o-the-wisp.fm06-war] |
 | DanMachi 18 | Interrupted against Hegni; later, as Allen starts casting Glarinese Fromel, turns his and his guards' prepared magic into explosions.[@will-o-the-wisp.fm18-hegni, will-o-the-wisp.fm18-allen] |
 | Sword Oratoria 12 | Detonates a demi-spirit's magic circles while under Level Boost.[@will-o-the-wisp.so12-spirit] |
@@ -448,9 +448,11 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 
 {{nocite}} "Shinbu Tousei" is the chant's closing phrase, not the spell's name; the name is spoken separately afterwards. The two openings ("Fear, strong and winding" and "Forgive my impudence as I beseech thee") are recorded separately: the text does not say whether one replaces the other or whether both belong in a longer chant.
 
+In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemakumo kashikoki}}, the formal opening of a prayer (awesome even to speak of), and the closing phrase {{ja|神武闘征|Shinbu Tōsei}} follows a run of dashes after the line about ruling the earth, so "earthshinbu tousei" is an artefact of the English print.[@futsu-no-mitama.fm05-ja-goliath]
+
 #### Effects {#futsu-no-mitama-effects}
 
-- **Gravity dome.** A force field drops from the sword's hilt ten meders above the Black [[goliath|Goliath]] and forms a dome that drives it to its knees.[@futsu-no-mitama.fm05-goliath]
+- **Gravity dome.** A sword of violet light drops from directly above the Black [[goliath|Goliath]], passes through it and plants itself in the centre of a set of circles, and a dome of gravity with a radius of ten meders forms and drives it to its knees (the Yen Press text says the force field descended "from the hilt of the sword ten meders in the air").[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
 - **Area.** In the DanMachi 6 [[war-game|War Game]] it spreads fifty meders in every direction, its maximum range, trapping twenty-two enemies and Mikoto herself. Anything that touches its outer layer, physical or magical, is forced to the ground.[@futsu-no-mitama.fm06-war]
 - **Reach.** Against the [[amphisbaena|Amphisbaena]] she places the sword at maximum range so that the gravity pulls down the tree-root dome above the monster.[@futsu-no-mitama.fm14-first] Later she chants underwater and pins the dragon, though the gravity crushes her too.[@futsu-no-mitama.fm14-second]
 - **Deflection.** In Sword Oratoria 12, boosted by [[haruhime|Haruhime]]'s Level Boost, her field bends a demi-spirit's blast of light into the floor. She cannot cancel the spell itself, only change its path.[@futsu-no-mitama.so12-shield]
@@ -460,7 +462,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 
 - Its strength depends on Mikoto's Status. The Black Goliath slowly rises against it, and she cannot push it back down.[@futsu-no-mitama.fm05-goliath]
 - She is inside the field if she casts it around herself, and in DanMachi 14 it breaks her fingers and injures her while she holds it.[@futsu-no-mitama.fm06-war, futsu-no-mitama.fm14-second]
-- Takemikazuchi had all but forbidden her to use it in the Dungeon's closed spaces, because it could catch her allies.[@futsu-no-mitama.fm05-goliath]
+- [[takemikazuchi|Takemikazuchi]] had strictly ordered her not to use it in enclosed spaces such as the Dungeon (the Yen Press text says he "had all but forbidden" it); in this fight she had held it back for fear of catching the other attackers and mages.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
 
 #### Open questions {#futsu-no-mitama-open-questions}
 
@@ -1356,7 +1358,7 @@ A blue-and-white sphere appears over the caster's head, and then countless chunk
 
 | Volume | Use |
 |---|---|
-| Sword Oratoria 13 | Lefiya uses it to annihilate a swarm of liger fangs around the School District squad she is guiding.[@hail-dust.so13-cast] |
+| Sword Oratoria 13 | Lefiya uses it to annihilate a swarm of [[monsters#liger-fang|liger fangs]] around the School District squad she is guiding.[@hail-dust.so13-cast] |
 
 #### Open questions {#hail-dust-open-questions}
 
@@ -1419,7 +1421,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 
 #### Effects {#luminous-wind-effects}
 
-- **Area attack.** Hundreds of small orbs carve into the Black Goliath in DanMachi 5; Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.so05-cast]
+- **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5 (the Yen Press text says "Hundreds of small orbs"); Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
 - **Power.** In Familia Chronicle 1 it bends and then blows open a vault door made of several layers of adamantite.[@luminous-wind.fc01-vault]
 - **Concentrated.** In DanMachi 14 Lyu pours all her remaining Mind into forty-seven large orbs to destroy the Juggernaut.[@luminous-wind.fm14-end]
 - **Controlled.** In Familia Chronicle 3 she fires a single orb at her own feet to break free of a trap.[@luminous-wind.fc03-uranda]
@@ -2174,7 +2176,7 @@ Sword Oratoria 7 prints chant and name as one line, the name in capitals, and sa
 
 #### Effect {#dio-thyrsos-effect}
 
-In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#lizardman|lizardmen]], using Concurrent Casting, and the lightning roasts a cluster of dark fungi and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
+In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#lizardman|lizardmen]], using Concurrent Casting, and the lightning roasts a cluster of [[monsters#dark-fungus|dark fungi]] and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
 
 #### Notable uses {#dio-thyrsos-notable-uses}
 
@@ -2653,7 +2655,7 @@ Familia Chronicle 2 prints the whole chant, three sentences, and calls it a shor
 - **Then:** "Sacrifice reason and offer up blood. Slaughter all until the feast is finished."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
 - **Name:** "Dáinsleif."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
 
-DanMachi 18 prints the last two sentences and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16 [[bell-cranell|Bell]] hears a chant he cannot make out, then the name.[@dainsleif.fm16-bell]
+DanMachi 18 prints the last two sentences and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16, when he attacks [[bell-cranell|Bell]], the last sentence is printed before the name: "Slaughter all until the feast is finished."[@dainsleif.fm16-bell]
 
 Hegni plants his black sword in the ground and a black magic circle spreads around it; when he speaks the name, the circle shatters and its light is absorbed into his body.[@dainsleif.fc02-cast]
 
@@ -3305,7 +3307,7 @@ Allen threatens Seal into removing the curse. Seal speaks the removal and claims
 
 ### Kalima {#kalima}
 
-**Kalima** is the curse of Argana, an Amazon of the goddess [[kali-familia|Kali]]'s Familia from Telskyura. By drinking the blood of others blessed with a [[falna|Falna]], she strengthens her abilities; the goddess Kali calls it *Blood Drain*. Argana also bears "Kalima" as her own alias.[@kalima.so06-explain, kalima.so06-history]
+**Kalima** is the curse of Argana, an Amazon of the goddess [[kali-familia|Kali]]'s Familia from [[telskyura|Telskyura]]. By drinking the blood of others blessed with a [[falna|Falna]], she strengthens her abilities; the goddess [[kali|Kali]] calls it *Blood Drain*. Argana also bears "Kalima" as her own alias.[@kalima.so06-explain, kalima.so06-history]
 
 - **User:** Argana, of Kali Familia[@kalima.so06-explain]
 - **Also called:** Blood Drain (by Kali)[@kalima.so06-explain]
@@ -3592,6 +3594,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
 [@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
+[@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise. Yen Press prints that she can transform into anything she could clearly picture in her mind.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
 [@cinder-ella.fm06-luan]: FM06 | Chapter 5: Our War Game | "Luan the traitor" was Lilly in disguise; the west gate.
 [@cinder-ella.fm08-card]: FM08 | Chapter 2: The Prum’s Proposal | Status card: Trigger Spell and Release Spell.
@@ -3607,7 +3610,9 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@cinder-ella.so12-finn]: SO12 | Chapter 7: Final War II | Activation chant; transforms into Finn.
 [@will-o-the-wisp.fm05-first]: FM05 | Chapter 2: How Many Meders to a Safe Return? | First use on hellhounds; chant and spell name; "anti-magic Magic".
 [@will-o-the-wisp.fm05-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Mechanism; timing; very short spell needing preparation; earlier test.
+[@will-o-the-wisp.fm05-ja-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Japanese original (file part0013, paragraphs 497 and 499): Welf asked the guys of the same Familia, plural, and says they too knew the risk. Yen Press prints "one of the guys in my Familia".
 [@will-o-the-wisp.fm05-rivira]: FM05 | Chapter 5: The Outlaws’ Party | Three casting adventurers caught by Ignis Fatuus.
+[@will-o-the-wisp.fm05-ja-rivira]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 373 to 375): the spell catches the three enemies who were chanting in a magic misfire; the fight is the rescue brawl in the eastern part of Floor 18 (paragraph 123), not at Rivira.
 [@will-o-the-wisp.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | The Goliath's howl detonated.
 [@will-o-the-wisp.fm06-war]: FM06 | Chapter 5: Our War Game | Enemy mages fail to cast; archers caught in the blasts.
 [@will-o-the-wisp.fm14-napalm]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Useless against the non-magical blue napalm.
@@ -3619,6 +3624,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@will-o-the-wisp.so12-spirit]: SO12 | Chapter 7: Final War II | Demi-spirit's magic circles; "super-short cast"; Welf under Level Boost.
 [@will-o-the-wisp.so12-skill]: SO12 | Chapter 7: Final War II | "Welf's rare Skill".
 [@futsu-no-mitama.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Chant pieces; sword of light; gravity dome; the Goliath rises; Takemikazuchi's warning.
+[@futsu-no-mitama.fm05-ja-goliath]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 626, 629, 657 and 663 to 669): the chant opens with the formal prayer opening, awesome even to speak of; the closing phrase follows a run of dashes after the line to descend from the heavens and rule the earth; a sword of violet light appears directly above the Goliath and drops, and a dome-shaped force field with a radius of ten meders forms; the patron god had strictly ordered her not to use it in a closed space, and her own reason for holding it back so far was fear of catching the attackers and mages. Yen Press prints the field descending from the hilt "ten meders in the air" and the god as having "all but forbidden" it.
 [@futsu-no-mitama.fm06-war]: FM06 | Chapter 5: Our War Game | Seven-piece chant; "Futsu no Tama!"; fifty meders; twenty-two enemies.
 [@futsu-no-mitama.fm14-first]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Different opening; maximum range; root dome collapses.
 [@futsu-no-mitama.fm14-second]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Six-line chant; underwater casting; Mikoto crushed.
@@ -3719,6 +3725,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | Partial chant; flaming wolf; Fusillade Fallarica strengthens it.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
 [@luminous-wind.fm05-cast]: FM05 | Chapter 6: Praise to the Heroes | Version A chant in three pieces; hundreds of orbs.
+[@luminous-wind.fm05-ja-cast]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 651): countless large orbs of light wrapped in green wind, born around Lyu and fired all at once into the Goliath; no number is given. Yen Press prints "Hundreds of small orbs".
 [@luminous-wind.so05-cast]: SO05 | Chapter 3: ⅓ Pure Passion | Version A in five lines; compared with Fusillade Fallarica.
 [@luminous-wind.fc01-casino]: FC01 | Crush the Grand Casino! | Version B in six pieces.
 [@luminous-wind.fc01-vault]: FC01 | Crush the Grand Casino! | The adamantite vault door.
@@ -3886,7 +3893,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@glarinese-fromel.fm18-effect]: FM18 | Chapter 9: Flower Language for You | "Allen’s one and only magic": agility, strength relative to speed, no upper limit.
 [@glarinese-fromel.fm18-second]: FM18 | Chapter 9: Flower Language for You | The second cast near the house of the gods; Welf's Ignis Fatuus.
 [@dainsleif.fc02-cast]: FC02 | Ali and the 8 Followers | The full chant; black magic circle; "a rare magic"; no Status increase; the title from the magic.
-[@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | An unheard chant, then "Dáinsleif"; the attack on Bell.
+[@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | The last sentence, "Slaughter all until the feast is finished.", then "Dáinsleif"; the attack on Bell.
 [@dainsleif.fm18-cast]: FM18 | Chapter 8: The Great Familia War | Two sentences and the name; "a short cast"; personality-altering; no Status effect; the limiter.
 [@dainsleif.fm18-welf]: FM18 | Chapter 8: The Great Familia War | Constant Mind; active like an enchantment; Welf's attempt.
 [@dainsleif.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | Lyu's Alveria; "Dáinsleif is down".

@@ -6,8 +6,11 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The body that governs Dungeon affairs in Orario: it registers Familias and adventurers, ranks Familias, runs the Exchange for magic stones, and assigns advisers and missions.",
-  "aliases": ["Guild"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1 and 2, and Minor Myths and Legends Vol. 1",
+  "aliases": ["Guild", "Guild Headquarters", "Pantheon"],
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1, 2 and 12, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
+  "sections": [
+    {"anchor": "chamber-of-prayers", "title": "Chamber of Prayers", "summary": "The underground temple beneath Guild Headquarters where Ouranos sits at his altar, lit by four torches; the Guild's secret business is done there.", "aliases": []}
+  ],
   "related": ["ouranos", "eina-tulle", "orario", "dungeon", "hestia-familia", "war-game"],
   "infobox": {
     "title": "The Guild",
@@ -44,6 +47,12 @@ Receptionists are chosen partly for their looks, because their rapport with adve
 
 The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Yen Press's DanMachi 1 prints West Main Street for it, but the Japanese original of that volume agrees with Sword Oratoria 1 and DanMachi 8.[@fm01-west, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
 
+The building is called the **Pantheon**, "temple of the gods": it is built of white marble, its front lined with large pillars, with monuments on the front lawn that greet adventurers at the doors.[@so01-pantheon] Astrea Record 1 calls it "a grand construction meant to resemble the Pantheon", one of the city centre's primary landmarks, and has the top adventurers of the Familias meet there in a room large enough for hundreds.[@ar01-pantheon] Its crowds of adventurers can rival those on the street outside.[@so02-crowds] In DanMachi 8 the soldiers captured from Rakia are held in chambers deep inside it.[@fm08-chambers]
+
+### Chamber of Prayers {#chamber-of-prayers}
+
+Beneath the headquarters lies the **Chamber of Prayers**, an underground temple where [[ouranos|Ouranos]] sits at his altar, lit by four torches; DanMachi 13 calls it "a stone room reminiscent of a temple".[@fm11-chamber, fm13-chamber] Ouranos is "the god who prayed to the Dungeon", and an [[oculus|oculus]] is kept there.[@fm14-oculus] Much of the Guild's secret business is done there: Ouranos summons [[hestia|Hestia]] there and tells her the truth about [[wiene|Wiene]] in DanMachi 9, [[hermes|Hermes]] reports to him there after the [[xenos|Xenos]] crisis, and [[royman|Royman]] kneels there to receive his orders.[@fm09-hestia, fm10-hermes, fm11-chamber, so12-royman]
+
 ## Decisions in the covered volumes
 
 | Volume | Events |
@@ -66,6 +75,16 @@ The Guild headquarters stands on Northwest Main Street, known as Adventurers Way
 [@fm07-board]: FM07 | Chapter 1: Smooth Sailing? | The bulletin board.
 [@fm08-guild]: FM08 | | Receptionists and advisers.
 [@fm08-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Guild headquarters on Adventurers Way.
+[@so01-pantheon]: SO01 | Chapter 3: White Rabbit | "Built from white marble with the front lined with a series of large pillars, this building was called the Pantheon, temple of the gods. Several monuments stood on the front lawn, greeting the adventurers traveling through the front doors."
+[@ar01-pantheon]: AR01 | Chapter 6: Assemblies of Light and Dark | "On Northwest Main Street, the road known as Adventurers Way, stood an impressive building. It was a grand construction meant to resemble the Pantheon, and many people considered it one of the city center’s primary landmarks."; "a room large enough to house hundreds"; "This assembly consisted of familia captains, their seconds, and other top officers."
+[@so02-crowds]: SO02 | Chapter 1: The Average Day | "Working their way through the Pantheon’s massive crowds of adventurers that could rival the throng on the main street outside, they made their way to a large bulletin board."
+[@fm08-chambers]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "The captured enemy soldiers were held in chambers deep in the Pantheon, far out of sight."
+[@fm11-chamber]: FM11 | | Printed heading "Chapter 2: Diverging Strands, Intersecting Plans" (not in the evidence map): "The sound of the rain did not penetrate the underground temple built beneath Guild Headquarters. In the Chamber of Prayers, illuminated by four torches, Ouranos sat still as a statue while looking down on Royman, head of the Guild".
+[@fm13-chamber]: FM13 | Chapter 5: Calamity Arrives | "He was in the Chamber of Prayers beneath the Guild, a stone room reminiscent of a temple. Four torches set on the altar of the underground room threw off a red glow."
+[@fm14-oculus]: FM14 | Interlude: They Begin to Stir | "The oculus was in the Chamber of Prayers beneath the Guild Headquarters. Ouranos—the god who prayed to the Dungeon"
+[@fm09-hestia]: FM09 | Chapter 5: Heretics | "she must be in the Chamber of Prayers beneath Guild Headquarters"; "he had summoned Hestia to the Chamber of Prayers"; "In the Chamber of Prayers beneath Guild Headquarters, the elderly deity, who knew everything about the situation, informed Hestia as to Wiene’s true identity."
+[@fm10-hermes]: FM10 | | Printed heading "Epilogue: The Decision’s Cost" (not in the evidence map): "Beneath Guild Headquarters, in the Chamber of Prayers, Ouranos at his altar and Hermes were conducting a secret meeting amid the light of four torches in the darkness."
+[@so12-royman]: SO12 | Chapter 6: The Divine Providence of Despair | "Royman hurriedly knelt in acknowledgment and dashed out of the Chamber of Prayers, conveying his master’s divine will through the city."
 [@fm09-ouranos]: FM09 | | Ouranos as the true leader.
 [@fm09-royman]: FM09 | | Royman, elf head of the Guild.
 [@fm09-mission]: FM09 | | Guild missions.

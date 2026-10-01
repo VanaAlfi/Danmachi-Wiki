@@ -28,7 +28,7 @@ The **Minotaur** is a monster of the [[dungeon|Dungeon]]: a massive man-shaped b
 ## The species
 
 - **Where it lives.** Bell says that Minotaurs appear only from the lower fifteenth floor down.[@fm01-level] Sword Oratoria 1 calls them the strongest and most dangerous monsters of the middle levels, as rated by the Guild.[@so01-herd]
-- **Strength.** It is a "category Level Two monster", so even experienced adventurers find it hard; a Level 1 who meets one on the upper floors is in mortal danger.[@fm01-level, fm01-irregular]
+- **Strength.** It is a "category Level Two monster", so even experienced adventurers find it hard; a Level 1 who meets one on the [[upper-levels|upper floors]] is in mortal danger.[@fm01-level, fm01-irregular]
 - **Weapons.** Its horn is its trump card in a charge.[@fm03-horn] In DanMachi 19 a Minotaur swings a "nature weapon", an ax.[@fm19-minotaurs]
 - **Drops.** When it dies it can leave a [[magic-stone|magic stone]], as in DanMachi 3, and a horn; DanMachi 4 adds that a horn remained after Bell's fight.[@fm03-death, fm03-ja-death, fm04-horn] Bell's Minotaur Horn later becomes the dagger [[ushiwakamaru|Ushiwakamaru]].[@fm04-split]
 

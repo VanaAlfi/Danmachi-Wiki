@@ -77,7 +77,7 @@ Anya's memories of her early life are fragmentary: a happy home, then ruins, wit
 
 Both children received Falna and joined Freya Familia. The training frightened and hurt her, but she fought to keep up with her brother. Allen reached Level 2 within a year; Anya reached Level 2 when he reached Level 3.[@fc02-past, fm17-past]
 
-Eventually she forced her way onto an expedition to the deep floors. She nearly died there, and Allen was badly hurt saving her. Afterwards he rejected her, and Freya expelled her from the Familia.[@fm17-expulsion] Anya experienced this as being discarded by the last family she had.[@fm17-expulsion] Syr took her in at The Benevolent Mistress, where hard work and the staff's kindness gradually brought her cheerfulness back.[@fm17-expulsion]
+Eventually she forced her way onto an expedition to the deep floors. She nearly died there, and Allen, dragged into it, was badly hurt too. Afterwards he rejected her, and Freya expelled her from the Familia.[@fm17-expulsion] Anya experienced this as being discarded by the last family she had.[@fm17-expulsion] Syr took her in at The Benevolent Mistress, where hard work and the staff's kindness gradually brought her cheerfulness back.[@fm17-expulsion]
 
 > [!UNRESOLVED] No dates
 > The novels give the order of these events but not when they happened. The year of the expedition and the dates of her Level 3 and Level 4 promotions are not stated. What is fixed: she is already helping Syr during the [[great-conflict|Great Conflict]] in Astrea Record 2, and she worked at the tavern before Lyu, Chloe and Runoa arrived.[@ar02-conflict, fc01-precedes]
@@ -257,7 +257,7 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fm16-scent2]: FM16 | Chapter 6: The Wish’s Cost |
 [@fm16-street]: FM16 | Chapter 6: The Wish’s Cost |
 [@fm17-injured]: FM17 | Chapter 1: The Opening of Hostilities |
-[@fm17-memory]: FM17 | Chapter 2: Alone Inside a Sandbox |
+[@fm17-memory]: FM17 | Chapter 4: Those Left Behind |
 [@fm17-room]: FM17 | Chapter 4: Those Left Behind |
 [@fm17-hedin]: FM17 | Chapter 4: Those Left Behind |
 [@fm17-past]: FM17 | Chapter 4: Those Left Behind | Anya's recollection of her childhood.

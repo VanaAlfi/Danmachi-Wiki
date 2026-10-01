@@ -120,13 +120,13 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 ### Abnormal Resistance {#abnormal-resistance}
 
-**Abnormal Resistance** protects against monster poison and other ailments. DanMachi 4 calls it very basic but highly valued in the Dungeon, and relatively easy to acquire because so many adventurers breathe the spores of [[monsters#purple-moth|purple moths]] in the upper levels.[@fm04-immunity] Lilly chooses it at Level 2 because it passively prevents harmful Status ailments, which Dungeon expeditions all but require.[@fm15-lilly]
+**Abnormal Resistance** protects against monster poison and other ailments. DanMachi 4 calls it very basic but highly valued in the Dungeon, and relatively easy to acquire because so many adventurers breathe the spores of [[monsters#purple-moth|purple moths]] in the [[upper-levels|upper levels]].[@fm04-immunity] Lilly chooses it at Level 2 because it passively prevents harmful Status ailments, which Dungeon expeditions all but require.[@fm15-lilly]
 
 - **Printed as:** Immunity (most volumes); Abnormal Resistance (Sword Oratoria 6 and 12); Resistance (DanMachi 15 and 19, Familia Chronicle 1 and 3)[@fm04-immunity, so06-cards, so12-lefiya, fm15-lilly, fc03-cards]
 
 #### Limits {#abnormal-resistance-limits}
 
-- **Rank:** [[hashana|Hashana]] of [[ganesha-familia|Ganesha Familia]], at rank G, would have been protected from almost any poison, even one made by an expert; Bell and Mikoto, with it at a low rank, are still hurt by the dark fungus spores.[@so02-hashana, fm09-immunity]
+- **Rank:** [[hashana|Hashana]] of [[ganesha-familia|Ganesha Familia]], at rank G, would have been protected from almost any poison, even one made by an expert; Bell and Mikoto, with it at a low rank, are still hurt by the [[monsters#dark-fungus|dark fungus]] spores.[@so02-hashana, fm09-immunity]
 - **Curses:** it gives no protection against curses.[@fm10-curse]
 - **Charm:** it should not be able to block a goddess's Charm.[@fm07-charm]
 - **Drugs:** a sleeping drug made by a skilled herbalist nearly puts Lyu to sleep despite her well-developed Resistance.[@fc01-lyu]
@@ -198,7 +198,7 @@ Lilly is offered it at Level 2 and is tempted, since she could make her own poti
 **Enigma** lets its holder perform a kind of miracle; Eina calls it a divine art. Long ago someone with it made the Philosopher's Stone, which grants eternal life.[@fm02-named] With Mage it is needed to make a [[grimoire|grimoire]].[@fm02-grimoire]
 
 - **Printed as:** Enigma; Mystery (Sword Oratoria 7)[@fm05-enigma, so07-mystery]
-- **Holders:** [[asfi|Asfi Al Andromeda]], one of only five people in Orario with it; the Sage, now [[fels|Fels]]; Barca Perdix[@fm05-enigma, fm09-sage, so07-mystery]
+- **Holders:** [[asfi|Asfi Al Andromeda]], one of fewer than five people in Orario with it (the Yen Press text prints "one of only five"); the Sage, now [[fels|Fels]]; Barca Perdix[@fm05-enigma, fm05-ja-enigma, fm09-sage, so07-mystery]
 
 Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged sandals Talaria and her copy of a [[knossos|Knossos]] key.[@so02-enigma, so03-talaria, so11-asfi]
 
@@ -371,6 +371,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@fm04-forge]: FM04 | Chapter 3: The Smith’s Situation | Welf wants Forge; magic swords and Forge.
 [@fm04-nahza]: FM04 | Quest X Quest | Synthesize: better items and medicine; Nahza.
 [@fm05-enigma]: FM05 | Chapter 3: Dungeon Death March | Asfi, one of five with Enigma.
+[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario, and also an item maker of the age. Yen Press prints "one of only five" and calls it an Advanced Ability; the same idiom is printed "only five" for the party at the Goliath (file part0027, paragraph 617).
 [@fm05-conjure]: FM05 | Chapter 6: Praise to the Heroes | Conjure: magic circles, power and range.
 [@fm06-welf]: FM06 | Chapter 1: The Furious Rabbit | Welf reaches Level 2 and gains Forge.
 [@fm07-card]: FM07 | Chapter 6: Yearning of a Hero | Bell's Level 3 card: Luck H, Immunity I.

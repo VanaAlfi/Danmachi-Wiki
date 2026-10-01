@@ -99,7 +99,7 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 [@fm01-syr]: FM01 | Chapter 2: That’s Why I Run | Bell meets Syr the morning after the Minotaur rescue.
 [@fm01-anya]: FM01 | Chapter 5: The G♥ddess’s Prank |
 [@fm16-pay]: FM16 | Chapter 2: A Tearful and Painful Festival Eve |
-[@fm17-memory]: FM17 | Chapter 2: Alone Inside a Sandbox |
+[@fm17-memory]: FM17 | Chapter 4: Those Left Behind |
 [@fm17-reveal]: FM17 | Chapter 4: Those Left Behind |
 [@fm17-room]: FM17 | Chapter 4: Those Left Behind |
 [@fm18-syr]: FM18 | Epilogue: Double Cast |

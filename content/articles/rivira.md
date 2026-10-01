@@ -7,7 +7,10 @@
   "continuity": "light-novel",
   "summary": "Adventurer-run town on Floor 18 of the Dungeon, called the deepest town in the world; destroyed and rebuilt many times.",
   "aliases": ["Rogue Town"],
-  "spoilers": "DanMachi Vols. 5–19, Sword Oratoria Vols. 2 and 5, and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 5–19, Sword Oratoria Vols. 2, 3 and 5, and Minor Myths and Legends Vol. 1",
+  "sections": [
+    {"anchor": "crystal-square", "title": "Crystal Square", "summary": "The centre of Rivira on Floor 18, named for its twin white and blue crystals, with a large sand dial showing the floor's remaining daylight.", "aliases": []}
+  ],
   "related": ["floor-18", "dungeon", "lyu-leon", "goliath", "status"],
   "infobox": {
     "title": "Rivira",
@@ -31,6 +34,10 @@
 Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's emblem for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
 
 Its strongest resident is [[bors|Bors]], a one-eyed adventurer who owns the Rivira [[the-exchange#rivira|Exchange]].[@fm05-bors] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
+
+### Crystal Square {#crystal-square}
+
+**Crystal Square** is the centre of town, a wide clearing with a fine view of the surroundings, named for the twin crystals, one white and one blue, that stand in its middle. It is also known for "the large sand dial" that shows how much daylight is left on the eighteenth floor.[@so02-square, so03-square] In Sword Oratoria 2, after [[hashana|Hashana]]'s murder, the town's adventurers and shopkeepers, about five hundred people, gather there, with Hashana's armour laid at the foot of the crystals. When the flower monsters attack the town, a magic circle of Riveria's in the middle of the square draws them in, and hundreds of adventurers in small parties hold the square against them.[@so02-square, so02-battle] Cluster Street is another of Rivira's famous places.[@so02-battle]
 
 ## Count {#count}
 
@@ -65,3 +72,6 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 [@fm19-rivira]: FM19 | Chapter 1: V-V-V for Victory Party | Rivira plays along.
 [@so02-sign]: SO02 | Chapter 2: Incident | The sign's count.
 [@so05-rogue]: SO05 | | Rogue Town and its prices.
+[@so02-square]: SO02 | | Printed heading "Chapter 3: Gekai Detective Loki" (not in the evidence map): "Everyone had gathered in Crystal Square. Not only was it the center of town, but the wide clearing also had an amazing view of the surrounding area. Two gigantic crystals, one white and one blue, stood like twins in the middle of the clearing."; "Hashana’s blood-splattered full-plated armor and a few of his other belongings had been placed at the foot of the crystals."; "Rough estimates of the number of adventurers and shop owners in Crystal Square were around five hundred."
+[@so02-battle]: SO02 | Chapter 5: The Battle of Rivira | "a jade magic circle that had formed in the middle of the square"; "Monsters from all around were drawn to it like moths to a flame, and hundreds of adventurers broken into small battle parties were there waiting for them."; "The monsters farther away from Crystal Square ignored Riveria’s magic energy"; "Cluster Street."; "Like Crystal Square, it was one of Rivira’s famous locations."
+[@so03-square]: SO03 | Chapter 3: A Hideous Beauty | "a place known as Crystal Square. Its name came from the twin white and blue crystals in its center, and it was also famous for the large sand dial that showed the remaining amount of"; "left on the eighteenth floor".

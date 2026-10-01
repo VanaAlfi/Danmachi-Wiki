@@ -8,7 +8,7 @@
   "summary": "The Dungeon's Under Resort: a safe point where monsters do not normally spawn, lit by a crystal ceiling with its own day and night, and home to the adventurer town Rivira.",
   "aliases": ["Under Resort", "Eighteenth Floor"],
   "spoilers": "DanMachi Vols. 3–12 and Sword Oratoria Vols. 2, 5 and 13",
-  "related": ["goliath", "rivira", "dungeon", "hestia-familia", "hestia"],
+  "related": ["goliath", "rivira", "dungeon", "cave-labyrinth", "colossal-tree-labyrinth", "hestia-familia", "hestia"],
   "infobox": {
     "title": "Floor 18",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -20,7 +20,7 @@
       {"label": "Recommended", "value": "Level 2 parties (Floors 13–24)", "refs": ["fm07-guidance"]},
       {"section": "Surroundings"},
       {"label": "Settlement", "value": "[[rivira|Rivira]]", "refs": ["fm05-rivira"]},
-      {"label": "Floor above", "value": "Floor 17, guarded by the [[goliath|Goliath]]", "refs": ["fm05-goliath", "fm08-goliath"]},
+      {"label": "Floor above", "value": "[[cave-labyrinth#floor-17|Floor 17]], guarded by the [[goliath|Goliath]]", "refs": ["fm05-goliath", "fm08-goliath"]},
       {"label": "Floor below", "value": "Floor 19, from which monsters migrate up", "refs": ["fm05-safe"]}
     ]
   }
@@ -32,7 +32,7 @@
 
 Sword Oratoria 5 describes the floor's forest, wetlands and streams. The forest covers about a fifth of the Under Resort and has a giant tree at its centre, blue crystals and a secluded bathing pool.[@so05-forest] Its edible growths include Honey Cloud, gourd berries, crystal drops and mushrooms.[@so05-forest] The Crystal Grove lies to the east.[@so05-forest]
 
-The only way down from the floors above passes the [[goliath|Goliath]], the [[monster-rex|Monster Rex]] of Floor 17.[@fm05-goliath, fm08-goliath]
+The only way down from the floors above passes the [[goliath|Goliath]], the [[monster-rex|Monster Rex]] of Floor 17, the last floor of the [[cave-labyrinth|Cave Labyrinth]].[@fm05-goliath, fm08-goliath]
 
 [[guild|Guild]] guidance allows Level 2 parties on Floors 13 to 24; the lower levels begin at Floor 25.[@fm07-guidance, fm12-lower]
 

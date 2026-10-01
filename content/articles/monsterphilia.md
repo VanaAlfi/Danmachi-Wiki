@@ -29,7 +29,7 @@ The **Monsterphilia** is a festival held once a year by [[ganesha-familia|Ganesh
 
 ## The festival {#festival}
 
-- **Place:** unlike the Goddess Festival, which fills the whole city, the Monsterphilia is centred in Orario's east, in the second district where the amphitheatre stands.[@fm16-east] The streets are hung with flags bearing its logo and Ganesha Familia's elephant mask.[@so01-flags]
+- **Place:** unlike the [[elegia#goddess-festival|Goddess Festival]], which fills the whole city, the Monsterphilia is centred in Orario's east, in the second district where the amphitheatre stands.[@fm16-east] The streets are hung with flags bearing its logo and Ganesha Familia's elephant mask.[@so01-flags]
 - **The show:** thousands of citizens fill the stadium for the main event. Tamers ride monsters on the main stage, such as a small, long-necked dragon ridden like a rodeo bull.[@fm01-main-event, fm01-dragon]
 - **Live monsters:** Ganesha Familia is the only organisation allowed to keep live monsters in the city, to train them for the Monsterphilia, and to bring them up from the Dungeon.[@fm09-monsters, fm10-monsters] Elsewhere in Orario, bringing monsters out of the Dungeon is strictly prohibited.[@so10-prohibited]
 - **Its reputation:** Sword Oratoria 1 says this kind of bloodless entertainment is good for adventurers' image.[@so01-famous]
@@ -38,7 +38,7 @@ The **Monsterphilia** is a festival held once a year by [[ganesha-familia|Ganesh
 
 The Monsterphilia was proposed and organised by the Guild, not by the gods. When it was brought to the Denatus, the Guild explained little beyond saying it would be "interesting".[@so02-proposed, fm09-purpose] Even Eina, assigned to the stadium, does not know why it exists.[@fm01-guild]
 
-In DanMachi 9, [[ouranos|Ouranos]] reveals that he was the driving force. It "was conceived five years ago in order to soften people’s hatred for monsters". By showing tamers working with monsters, he hoped to make them less alien and lay "the first stepping-stones" towards the day the [[xenos|Xenos]] could live in the sun. Hence the name: not just "Monster Festival" but "Monsterphilia".[@fm09-purpose] In DanMachi 10, Ganesha tells Hestia that Ouranos put him in charge of it, a festival meant to promote friendship with monsters and "the birth of monsterphiles". He agreed after Fels brought him a talking [[monsters#goblin|goblin]] in a red hat.[@fm10-ganesha]
+In DanMachi 9, [[ouranos|Ouranos]] reveals that he was the driving force. It "was conceived five years ago in order to soften people’s hatred for monsters". By showing tamers working with monsters, he hoped to make them less alien and lay "the first stepping-stones" towards the day the [[xenos|Xenos]] could live in the sun. Hence the name: not just "Monster Festival" but "Monsterphilia".[@fm09-purpose] In DanMachi 10, [[ganesha|Ganesha]] tells Hestia that Ouranos put him in charge of it, a festival meant to promote friendship with monsters and "the birth of monsterphiles". He agreed after Fels brought him a talking [[monsters#goblin|goblin]] in a red hat.[@fm10-ganesha]
 
 ## The incident {#incident}
 

@@ -8,7 +8,7 @@
   "summary": "The vast underground labyrinth beneath Orario, sealed under Babel Tower. Its walls give birth to monsters, and adventurers descend it floor by floor.",
   "aliases": ["Labyrinth"],
   "spoilers": "DanMachi Vols. 1–20 and Sword Oratoria Vols. 1 and 9",
-  "related": ["floor-18", "rivira", "monster-rex", "goliath", "level", "orario"],
+  "related": ["upper-levels", "cave-labyrinth", "floor-18", "colossal-tree-labyrinth", "water-capital", "rivira", "monster-rex", "goliath", "level", "orario"],
   "infobox": {
     "title": "The Dungeon",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -31,10 +31,10 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 
 | Floors | Band | Notes |
 |---|---|---|
-| 1–12 | Upper levels | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. The Guild does not let Level 1 adventurers below Floor 12.[@fm02-upper, fm02-limit] |
-| 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] |
+| 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. The Guild does not let Level 1 adventurers below Floor 12.[@fm02-upper, fm02-limit] |
+| 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
 | 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] Floor 28, the Under Garden, is a safe point.[@fm20-garden] |
-| Deeper floors | Deep levels | [[floor-37|Floor 37]], the Lower Fortress, lies in the deep levels and is home to Spartoi and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] |
+| Deeper floors | Deep levels | [[floor-37|Floor 37]], the Lower Fortress, lies in the deep levels and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] |
 
 For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls]
 
@@ -72,6 +72,8 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 [@fm05-safe]: FM05 | | Floor 18, the Under Resort.
 [@fm06-quests]: FM06 | | The Three Great Quests.
 [@fm08-irregular]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | The Black Goliath as an Irregular.
+[@fm09-cave]: FM09 | Chapter 3: The World and Reality and Monsters | "the start of the Cave Labyrinth".
+[@fm09-tree]: FM09 | Chapter 1: An Irregular Girl | "the nineteenth floor is the start of the “Colossal Tree Labyrinth”".
 [@fm12-sealed]: FM12 | Chapter 3: New World ~Water Island~ | The Dungeon sealed under Babel.
 [@fm12-lower]: FM12 | | Floor 25 and the Water Capital.
 [@fm12-expedition]: FM12 | | Mandatory Guild expeditions.

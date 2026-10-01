@@ -6,15 +6,15 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The god Miach's small, debt-ridden Familia of potion makers, close friends of Hestia Familia. Its captain Nahza Ersuisu was long its only member; Daphne Laulos and Cassandra Illion join after the War Game.",
-  "aliases": ["Miach", "Nahza", "Nahza Ersuisu", "Nazha"],
-  "spoilers": "DanMachi Vols. 1–19 and Minor Myths and Legends Vol. 1",
-  "related": ["hestia-familia", "cassandra", "daphne", "airgetlam", "amid", "magic"],
+  "aliases": ["Nahza", "Nahza Ersuisu", "Nazha"],
+  "spoilers": "DanMachi Vols. 1–19, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
+  "related": ["miach", "hestia-familia", "cassandra", "daphne", "airgetlam", "amid", "magic"],
   "infobox": {
     "title": "Miach Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Patron god", "value": "Miach", "refs": ["fm01-miach"]},
+      {"label": "Patron god", "value": "[[miach|Miach]]", "refs": ["fm01-miach"]},
       {"label": "Business", "value": "Brewing and selling potions and other healing items", "refs": ["fm01-miach", "ss01-home"]},
       {"label": "Home", "value": "Its shop, which doubles as the Familia's home", "refs": ["fm02-shop"]},
       {"label": "Captain", "value": "Nahza Ersuisu", "refs": ["fm15-level", "fm18-nahza"]},
@@ -28,13 +28,15 @@
 
 ## Miach
 
+{{nocite}} The god has his own page: [[miach|Miach]].
+
 Miach is a handsome god with long marine-blue hair tied at the neck, who wears a worn ash-gray robe, a sign of his Familia's finances.[@fm08-join] He is [[bell-cranell|Bell]]'s first acquaintance among the gods other than Hestia; both of their Familias are "bottom-of-the-barrel".[@fm01-miach] He is known as a soft touch who gives away his Familia's potions, and before descending he had never met Hestia, but as a fellow member of the impoverished class he and his Familia help her many times.[@fm15-soft] In Minor Myths and Legends 1 he unknowingly charms a customer by fixing a blue flower in her hair, and his follower Nahza tells him that for a god he can be "really dense".[@ss01-charm]
 
 ## The loan and the airgetlám
 
-Miach Familia was once in the middle of the ranks, strong enough to compete with **[[dian-cecht-familia|Dian Cecht Familia]]** in selling potions.[@fm04-arm] Then Nahza lost her right arm to a monster. Miach took out a loan to buy her the [[airgetlam|airgetlám]], a silver prosthetic arm made by Dian Cecht Familia, and when the other members found out about the debt they all left. "All that stayed with Lord Miach was a useless former adventurer and a colossal loan," Nahza says.[@fm04-arm] The two Familias remain business rivals.[@fm15-rivals]
+Miach Familia was once in the middle of the ranks, strong enough to compete with **[[dian-cecht-familia|Dian Cecht Familia]]** in selling potions.[@fm04-arm] In Astrea Record 1, set in the dark age, its captain is named Slane, and Nahza, then a fighter with a bow, goes into battle as Miach's escort.[@ar01-slane] Then Nahza lost her right arm to a monster. Miach took out a loan to buy her the [[airgetlam|airgetlám]], a silver prosthetic arm made by Dian Cecht Familia, and when the other members found out about the debt they all left. "All that stayed with Lord Miach was a useless former adventurer and a colossal loan," Nahza says.[@fm04-arm] The two Familias remain business rivals.[@fm15-rivals]
 
-In the side story "Quest X Quest" of DanMachi 4, [[lilliluka-erde|Lilly]] exposes one of Nahza's potions as watered down, a common scam.[@fm04-scam] Nahza then creates a new item from monster eggs and Blue Papillon Wings, the first **double potion**, which restores both physical strength and mental energy. Miach offers twenty of them to the god Dian Cecht, whose follower [[amid|Amid]] vouches for the potion, so that their sale will cover that month's payment on the loan.[@fm04-double]
+In the side story "Quest X Quest" of DanMachi 4, [[lilliluka-erde|Lilly]] exposes one of Nahza's potions as watered down, a common scam.[@fm04-scam] Nahza then creates a new item from monster eggs and Blue Papillon Wings, the first **double potion**, which restores both physical strength and mental energy. Miach offers twenty of them to the god [[dian-cecht|Dian Cecht]], whose follower [[amid|Amid]] vouches for the potion, so that their sale will cover that month's payment on the loan.[@fm04-double]
 
 The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Familia War of DanMachi 18, the narration says the massive loans taken out for it were "far from being paid back".[@fm18-loan] In DanMachi 19 she and Miach expect their share of the War Game reward to pay for a new airgetlám, but not to pay off the loans for the old one.[@fm19-arm]
 
@@ -91,5 +93,6 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@fm18-nahza]: FM18 | Chapter 8: The Great Familia War | Nahza Ersuisu; retired six years ago; the lost arm.
 [@fm18-loan]: FM18 | Chapter 9: Flower Language for You | The airgetlám against Berling's ax; loans "far from being paid back"; Darbh Daol.
 [@fm19-arm]: FM19 | Chapter 1: V-V-V for Victory Party | A new airgetlám from the reward; not the old loans; "I even reached Level Three".
+[@ar01-slane]: AR01 | Chapter 9: The Opening Act of Evil | "I’m heading onto the battlefield to serve as Miach’s escort"; "In her other, she held her weapon, a bow."; "It was a chienthrope from Miach Familia called Nahza Ersuisu."; "Come, Slane, my captain. Let’s go."
 [@ss01-charm]: SS01 | | Episode Miach: the blue flower; "For a god, you can be really dense sometimes."
 [@ss01-home]: SS01 | | Episode Miach: "a group dedicated to brewing and selling potions and other healing items"; the house off West Main Street.

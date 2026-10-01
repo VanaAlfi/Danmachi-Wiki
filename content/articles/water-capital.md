@@ -17,7 +17,7 @@
       {"label": "Floors", "value": "25–27", "refs": ["fm13-region"]},
       {"label": "Layout", "value": "Three caverns linked by the Great Falls, each with a plunge pool", "refs": ["fm12-capital", "fm13-region"]},
       {"label": "Above", "value": "The Colossal Tree Labyrinth; reached from the twenty-fourth floor", "refs": ["fm12-tree", "fm12-entrance"]},
-      {"label": "Below", "value": "The Tangled Gorge, from the twenty-ninth floor", "refs": ["fm20-gorge"]},
+      {"label": "Below", "value": "The Under Garden, a safe point on the twenty-eighth floor; then the Tangled Gorge, from the twenty-ninth", "refs": ["fm20-garden", "fm20-gorge"]},
       {"label": "Floor boss", "value": "[[amphisbaena|Amphisbaena]], on the twenty-seventh floor", "refs": ["fm13-boss"]},
       {"label": "Gear", "value": "Undine cloth (spirit protective cloth)", "refs": ["fm12-undine"]}
     ]
@@ -31,7 +31,7 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 - **Three floors, one waterfall.** The three great caverns, linked across three floors by a single waterfall, are together called the Water Capital of the Dungeon.[@fm12-capital] The floors are multistory: to go down, adventurers descend the height of the Great Falls through connecting passages at the depth of the plunge pools.[@fm12-layout]
 - **Source of the falls.** The Great Falls pour out near the twenty-fifth floor's ceiling, where the roots of an enormous tree from the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] above spread outward.[@fm12-tree]
 - **Arrival.** From the twenty-fourth floor, the connecting passage ends at a sheer cliff at the far southern tip of the twenty-fifth floor, with the cavern and the Great Falls in the centre.[@fm12-entrance]
-- **The bottom.** The end point of the falls is on the twenty-seventh floor, the lowest level of the Water Capital.[@fm13-region, fm13-depths] Beyond it lies the Tangled Gorge, which begins on the twenty-ninth floor.[@fm20-gorge]
+- **The bottom.** The end point of the falls is on the twenty-seventh floor, the lowest level of the Water Capital.[@fm13-region, fm13-depths] Below it, the twenty-eighth floor is the Under Garden, the second safe point after the Under Resort of [[floor-18|Floor 18]], used as a base for taking on the Tangled Gorge, which begins on the twenty-ninth floor.[@fm20-garden, fm20-gorge]
 - **Monsters.** Harpies and other bird-type monsters fly around the falls; mermen, blue-scaled fish-men with nature weapons that Bell likens to "an underwater version of [[monsters#lizardman|lizardmen]]", are among the stronger opponents of the twenty-sixth floor, and the kelpie ranks among the region's strongest.[@fm12-entrance, fm13-lizardmen, fm14-kelpie] The floor boss [[amphisbaena|Amphisbaena]] appears on the twenty-seventh floor.[@fm13-boss]
 - **Gear.** Adventurers wear Undine cloth, a waterproof "spirit protective cloth" linked to water spirits; its protection works fully underwater, reducing water resistance and pressure. It is the counterpart of the salamander wool worn against the fire of the thirteenth floor.[@fm12-undine]
 - **Few reach it.** Many fewer parties are able to get through the Water Capital and reach the twenty-eighth floor than reach the floors above.[@fm20-few]
@@ -44,11 +44,6 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 | DanMachi 12 | [[hestia-familia|Hestia Familia]]'s expedition reaches it guided by Aisha. Bell meets the mermaid Mari, one of the [[xenos|Xenos]], whose blood heals him, and the party rescues [[modi-and-magni-familias|Modi and Magni Familias]] from an enhanced moss huge.[@fm12-capital, fm12-mari, fm12-mosshuge] |
 | DanMachi 13 | Bors's hunting party comes down to catch Gale Wind ([[lyu-leon|Lyu]]); following Cassandra's prophecy, Aisha stays behind on the twenty-fifth floor while a chosen party goes on to the twenty-seventh, where they find a huge hole never seen before.[@fm13-region, fm13-depths, fm13-hole] |
 | DanMachi 14 | After the [[juggernaut|Juggernaut]]'s birth and a chain of explosions, the floor boss [[amphisbaena|Amphisbaena]] appears out of its usual interval, and the labyrinth of the twenty-fifth floor collapses.[@fm14-irregular, fm14-collapse] While the Dungeon repairs the twenty-fifth floor, no new monsters spawn on any of the region's three floors.[@fm14-repair] |
-
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - What lies on the twenty-eighth floor, between the Water Capital and the Tangled Gorge, was not located in the checked text.[@fm20-gorge]
 
 [@fm12-capital]: FM12 | Chapter 3: New World ~Water Island~ | "the three large caverns linked across three floors by a single waterfall are called the Water Capital of the Dungeon"; "the New World".
 [@fm12-layout]: FM12 | Chapter 3: New World ~Water Island~ | "The twenty-fifth through twenty-seventh floors have a multistory structure."; passages "at the depth of the plunge pools".
@@ -68,4 +63,5 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 [@fm14-kelpie]: FM14 | Chapter 8: The Voice of the Hammer | "Its potential ranked among the highest in the Water Capital, right alongside the kelpie."
 [@fm14-nightmare]: FM14 | Chapter 9: Hello, Deep Levels | "that nightmarish fight on the twenty-seventh floor last year".
 [@fm20-gorge]: FM20 | Chapter 1: Orario Rumble | "the Tangled Gorge"; "the Water Capital, which ends on the twenty-seventh floor"; "From the twenty-ninth to the thirty-second floor".
+[@fm20-garden]: FM20 | Chapter 1: Orario Rumble | "The Under Garden."; "the second safe point, following the Under Resort on the eighteenth floor"; "its position on the twenty-eighth floor".
 [@fm20-few]: FM20 | Chapter 1: Orario Rumble | "there are a lot fewer parties capable of getting through the Water Capital and making it to the twenty-eighth floor".

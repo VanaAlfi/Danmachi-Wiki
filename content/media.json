@@ -2418,6 +2418,11 @@
      "w": 1280,
      "h": 720
     },
+    "ib": {
+     "file": "115450522d4f-ib.webp",
+     "w": 500,
+     "h": 281
+    },
     "th": {
      "file": "115450522d4f-th.webp",
      "w": 300,
@@ -2974,6 +2979,11 @@
      "file": "45bcdaea8d50-ib.webp",
      "w": 500,
      "h": 281
+    },
+    "th": {
+     "file": "45bcdaea8d50-th.webp",
+     "w": 300,
+     "h": 169
     }
    },
    "orig": [
@@ -8697,6 +8707,11 @@
      "w": 1280,
      "h": 720
     },
+    "ib": {
+     "file": "27a53c7049cf-ib.webp",
+     "w": 500,
+     "h": 281
+    },
     "th": {
      "file": "27a53c7049cf-th.webp",
      "w": 300,
@@ -11041,78 +11056,6 @@
     1200
    ]
   },
-  "47b57a8e596c": {
-   "name": "Episode 5 Image.jpg",
-   "source": "Anime",
-   "class": "anime",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Episode_5_Image.jpg",
-   "uploaded": "2015-06-19T23:44:45Z",
-   "sha256": "47b57a8e596c47efe8c9db36fc2364d070ad711144811fb245f0d095a07498a4",
-   "files": {
-    "full": {
-     "file": "47b57a8e596c-full.webp",
-     "w": 550,
-     "h": 507
-    },
-    "th": {
-     "file": "47b57a8e596c-th.webp",
-     "w": 300,
-     "h": 277
-    }
-   },
-   "orig": [
-    550,
-    507
-   ]
-  },
-  "60626f83912b": {
-   "name": "4koma Stamp Miach.png",
-   "source": "Anime",
-   "class": "anime",
-   "fandom": "https://danmachi.fandom.com/wiki/File:4koma_Stamp_Miach.png",
-   "uploaded": "2016-03-18T17:44:13Z",
-   "sha256": "60626f83912b4b20a198c235f48593b5848deba6c2277446143f26eca1d32d56",
-   "files": {
-    "full": {
-     "file": "60626f83912b-full.webp",
-     "w": 1000,
-     "h": 1000
-    },
-    "th": {
-     "file": "60626f83912b-th.webp",
-     "w": 300,
-     "h": 300
-    }
-   },
-   "orig": [
-    1000,
-    1000
-   ]
-  },
-  "12093ec6f20f": {
-   "name": "Screenshot 66.png",
-   "source": "DanMachi manga",
-   "class": "manga",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_66.png",
-   "uploaded": "2015-12-18T01:12:11Z",
-   "sha256": "12093ec6f20fb0a8347ac8c8fe9401c60278f750837daef2724a9a432db66e0c",
-   "files": {
-    "full": {
-     "file": "12093ec6f20f-full.webp",
-     "w": 321,
-     "h": 575
-    },
-    "th": {
-     "file": "12093ec6f20f-th.webp",
-     "w": 167,
-     "h": 300
-    }
-   },
-   "orig": [
-    321,
-    575
-   ]
-  },
   "59ccb2c2190a": {
    "name": "Miach Pharmacist.png",
    "source": "DanMachi: Memoria Freese (game)",
@@ -11125,6 +11068,11 @@
      "file": "59ccb2c2190a-full.webp",
      "w": 963,
      "h": 956
+    },
+    "ib": {
+     "file": "59ccb2c2190a-ib.webp",
+     "w": 500,
+     "h": 496
     },
     "th": {
      "file": "59ccb2c2190a-th.webp",
@@ -11692,30 +11640,6 @@
    "orig": [
     386,
     858
-   ]
-  },
-  "c60656459212": {
-   "name": "Screenshot 46.png",
-   "source": "DanMachi manga",
-   "class": "manga",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_46.png",
-   "uploaded": "2015-12-17T10:24:24Z",
-   "sha256": "c606564592127e0ff354764101579ff6c2bc5815407029820ec19b21844263b1",
-   "files": {
-    "full": {
-     "file": "c60656459212-full.webp",
-     "w": 593,
-     "h": 397
-    },
-    "th": {
-     "file": "c60656459212-th.webp",
-     "w": 300,
-     "h": 201
-    }
-   },
-   "orig": [
-    593,
-    397
    ]
   },
   "bee5b2fa9dfe": {
@@ -13096,30 +13020,6 @@
     599
    ]
   },
-  "88fbfca944d7": {
-   "name": "Sword Oratoria Volume 6 5.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_5.png",
-   "uploaded": "2016-06-08T02:33:29Z",
-   "sha256": "88fbfca944d78b49bb842b1ee51bda3a153b510584d1799b7d389813659931cc",
-   "files": {
-    "full": {
-     "file": "88fbfca944d7-full.webp",
-     "w": 1280,
-     "h": 719
-    },
-    "th": {
-     "file": "88fbfca944d7-th.webp",
-     "w": 300,
-     "h": 168
-    }
-   },
-   "orig": [
-    1624,
-    912
-   ]
-  },
   "b350ee287f1d": {
    "name": "Kali Portrait.png",
    "source": "DanMachi: Memoria Freese (game)",
@@ -13166,30 +13066,6 @@
    "orig": [
     1004,
     996
-   ]
-  },
-  "7d1e5ff1c283": {
-   "name": "Kali Concept Art.png",
-   "source": "Sword Oratoria official art",
-   "class": "other",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Kali_Concept_Art.png",
-   "uploaded": "2019-01-03T07:45:30Z",
-   "sha256": "7d1e5ff1c28389fd141dc0761968f8f665dafcf4dd274aebf2a0fb7209bfdcaf",
-   "files": {
-    "full": {
-     "file": "7d1e5ff1c283-full.webp",
-     "w": 1280,
-     "h": 862
-    },
-    "th": {
-     "file": "7d1e5ff1c283-th.webp",
-     "w": 300,
-     "h": 202
-    }
-   },
-   "orig": [
-    1325,
-    892
    ]
   },
   "4d2a558523f3": {
@@ -15024,6 +14900,491 @@
    "orig": [
     1920,
     1080
+   ]
+  },
+  "355a055bb9c8": {
+   "name": "16th Floor.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:16th_Floor.png",
+   "uploaded": "2016-03-06T19:42:17Z",
+   "sha256": "355a055bb9c84a2ed81ea9b767f678ecdb8708ba317be22ccebf21614850405a",
+   "files": {
+    "full": {
+     "file": "355a055bb9c8-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "355a055bb9c8-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "d4568dd64101": {
+   "name": "10th Floor.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:10th_Floor.png",
+   "uploaded": "2016-03-06T19:42:05Z",
+   "sha256": "d4568dd641018c3f12efa568c342a7e9bb73b046f9c3c6c3a40b13661a1e777b",
+   "files": {
+    "full": {
+     "file": "d4568dd64101-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "d4568dd64101-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "62fcb65b746d": {
+   "name": "5th Floor.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:5th_Floor.png",
+   "uploaded": "2016-03-06T19:41:46Z",
+   "sha256": "62fcb65b746d369b7f57d237466e9bbfb4af22240f16a079d3d9a80ef4cb5504",
+   "files": {
+    "full": {
+     "file": "62fcb65b746d-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "62fcb65b746d-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "4f38c66ed253": {
+   "name": "Ganesha.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ganesha.png",
+   "uploaded": "2015-08-04T23:53:32Z",
+   "sha256": "4f38c66ed2534d3cd18fe39f76eac8f460db0507ad7f9ca3da212e4102dea87e",
+   "files": {
+    "full": {
+     "file": "4f38c66ed253-full.webp",
+     "w": 401,
+     "h": 869
+    },
+    "th": {
+     "file": "4f38c66ed253-th.webp",
+     "w": 138,
+     "h": 300
+    }
+   },
+   "orig": [
+    401,
+    869
+   ]
+  },
+  "364263bc58f4": {
+   "name": "Ganesha 1 S1Ep03.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ganesha_1_S1Ep03.png",
+   "uploaded": "2021-12-27T02:17:53Z",
+   "sha256": "364263bc58f406f0f422efb7726b820668b353c3845a2d7e439d940aef048877",
+   "files": {
+    "full": {
+     "file": "364263bc58f4-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "364263bc58f4-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1280,
+    720
+   ]
+  },
+  "77b543e8f667": {
+   "name": "Screenshot 107.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_107.png",
+   "uploaded": "2015-12-18T23:30:00Z",
+   "sha256": "77b543e8f667be4e8babda6a1d659ed91e52f724e78fdb8a9b24cc106672dd06",
+   "files": {
+    "full": {
+     "file": "77b543e8f667-full.webp",
+     "w": 474,
+     "h": 574
+    },
+    "th": {
+     "file": "77b543e8f667-th.webp",
+     "w": 248,
+     "h": 300
+    }
+   },
+   "orig": [
+    474,
+    574
+   ]
+  },
+  "5f2639626a45": {
+   "name": "Ganesha Mighty Elephant.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ganesha_Mighty_Elephant.png",
+   "uploaded": "2023-02-23T18:41:06Z",
+   "sha256": "5f2639626a452b6c0a07c2abb9cd0f44bd95309259d74569d2808977bfbe8dfa",
+   "files": {
+    "full": {
+     "file": "5f2639626a45-full.webp",
+     "w": 779,
+     "h": 772
+    },
+    "th": {
+     "file": "5f2639626a45-th.webp",
+     "w": 300,
+     "h": 297
+    }
+   },
+   "orig": [
+    779,
+    772
+   ]
+  },
+  "4e947de80c76": {
+   "name": "Ganesha God of the Masses.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ganesha_God_of_the_Masses.png",
+   "uploaded": "2023-02-23T18:40:37Z",
+   "sha256": "4e947de80c76574e92ca331f3602d6e1ab2bad3517f58a729b24cc42fbf589ef",
+   "files": {
+    "full": {
+     "file": "4e947de80c76-full.webp",
+     "w": 894,
+     "h": 887
+    },
+    "th": {
+     "file": "4e947de80c76-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    894,
+    887
+   ]
+  },
+  "fe8da1b8d132": {
+   "name": "Soma Anime 2.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Soma_Anime_2.png",
+   "uploaded": "2019-12-21T17:00:58Z",
+   "sha256": "fe8da1b8d132e2f6ab8e78283856484fe387e923cd94a30a28091738da315329",
+   "files": {
+    "full": {
+     "file": "fe8da1b8d132-full.webp",
+     "w": 1118,
+     "h": 1080
+    },
+    "th": {
+     "file": "fe8da1b8d132-th.webp",
+     "w": 300,
+     "h": 290
+    }
+   },
+   "orig": [
+    1118,
+    1080
+   ]
+  },
+  "da913c04fe6c": {
+   "name": "Soma Anime 3.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Soma_Anime_3.png",
+   "uploaded": "2019-12-21T17:01:35Z",
+   "sha256": "da913c04fe6ccc8c93ef5289057e4f4d8740fd60f083737eb80310b6edddd9d1",
+   "files": {
+    "full": {
+     "file": "da913c04fe6c-full.webp",
+     "w": 1280,
+     "h": 993
+    },
+    "th": {
+     "file": "da913c04fe6c-th.webp",
+     "w": 300,
+     "h": 233
+    }
+   },
+   "orig": [
+    1392,
+    1080
+   ]
+  },
+  "e81571749509": {
+   "name": "Soma Sacred Cup.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Soma_Sacred_Cup.png",
+   "uploaded": "2023-02-23T18:33:18Z",
+   "sha256": "e815717495090d33e7a0a7ce5d07e97e3bf75ce2e2abf506773c8ce661a9ba10",
+   "files": {
+    "full": {
+     "file": "e81571749509-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "e81571749509-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "9cf8d944a2de": {
+   "name": "Soma Dazed Master.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Soma_Dazed_Master.png",
+   "uploaded": "2023-02-23T18:33:08Z",
+   "sha256": "9cf8d944a2de0ab0fc03fa96e995f0ba25355fdc31ae4834951a764591a3eb7f",
+   "files": {
+    "full": {
+     "file": "9cf8d944a2de-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "9cf8d944a2de-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "ead5b58625a9": {
+   "name": "Takemikazuchi 1.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Takemikazuchi_1.png",
+   "uploaded": "2016-02-04T05:44:17Z",
+   "sha256": "ead5b58625a9e72fee296f874ed09e809352b3d67698b084412080528d6b5664",
+   "files": {
+    "full": {
+     "file": "ead5b58625a9-full.webp",
+     "w": 628,
+     "h": 385
+    },
+    "th": {
+     "file": "ead5b58625a9-th.webp",
+     "w": 300,
+     "h": 184
+    }
+   },
+   "orig": [
+    628,
+    385
+   ]
+  },
+  "f596bab62580": {
+   "name": "Take Battle God.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Take_Battle_God.png",
+   "uploaded": "2023-02-25T14:26:00Z",
+   "sha256": "f596bab62580cd4a8f14ca9a585178f9838c94ac325d8877aa9e4725669bb2a8",
+   "files": {
+    "full": {
+     "file": "f596bab62580-full.webp",
+     "w": 1005,
+     "h": 996
+    },
+    "th": {
+     "file": "f596bab62580-th.webp",
+     "w": 300,
+     "h": 297
+    }
+   },
+   "orig": [
+    1005,
+    996
+   ]
+  },
+  "78c78a88cae3": {
+   "name": "Take War Incarnation.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Take_War_Incarnation.png",
+   "uploaded": "2023-02-25T14:26:08Z",
+   "sha256": "78c78a88cae31873b64d7a1ffe45073c44d51a6b7201391d77c86e95ed5c648e",
+   "files": {
+    "full": {
+     "file": "78c78a88cae3-full.webp",
+     "w": 957,
+     "h": 950
+    },
+    "th": {
+     "file": "78c78a88cae3-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    957,
+    950
+   ]
+  },
+  "e6ad0920fe11": {
+   "name": "Miach 3.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Miach_3.png",
+   "uploaded": "2015-08-04T23:53:07Z",
+   "sha256": "e6ad0920fe1152ba01a68a627154ea2c3f5cc985c945053f636f3fb8d64ba171",
+   "files": {
+    "full": {
+     "file": "e6ad0920fe11-full.webp",
+     "w": 352,
+     "h": 831
+    },
+    "ib": {
+     "file": "e6ad0920fe11-ib.webp",
+     "w": 352,
+     "h": 831
+    },
+    "th": {
+     "file": "e6ad0920fe11-th.webp",
+     "w": 127,
+     "h": 300
+    }
+   },
+   "orig": [
+    352,
+    831
+   ]
+  },
+  "ebda54bef29d": {
+   "name": "Screenshot 67.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_67.png",
+   "uploaded": "2015-12-18T01:12:52Z",
+   "sha256": "ebda54bef29dbf0a6ef63a0ed373f512a6ade97e77bf73a3746bb58d0ccb3ec0",
+   "files": {
+    "full": {
+     "file": "ebda54bef29d-full.webp",
+     "w": 256,
+     "h": 359
+    },
+    "th": {
+     "file": "ebda54bef29d-th.webp",
+     "w": 214,
+     "h": 300
+    }
+   },
+   "orig": [
+    256,
+    359
+   ]
+  },
+  "932b4484f92d": {
+   "name": "Screenshot 50.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_50.png",
+   "uploaded": "2015-12-17T10:25:00Z",
+   "sha256": "932b4484f92de2a7eb519cb663216b045923206a70c539992a017cfed11ead0c",
+   "files": {
+    "full": {
+     "file": "932b4484f92d-full.webp",
+     "w": 463,
+     "h": 481
+    },
+    "th": {
+     "file": "932b4484f92d-th.webp",
+     "w": 289,
+     "h": 300
+    }
+   },
+   "orig": [
+    463,
+    481
+   ]
+  },
+  "a31d66a573c2": {
+   "name": "Chandi Concept Art.png",
+   "source": "Sword Oratoria official art",
+   "class": "other",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Chandi_Concept_Art.png",
+   "uploaded": "2019-01-03T07:45:35Z",
+   "sha256": "a31d66a573c2c48feeeaa69bd0e09a4c38f81661e25d2276c114e05f52995e0e",
+   "files": {
+    "full": {
+     "file": "a31d66a573c2-full.webp",
+     "w": 318,
+     "h": 680
+    },
+    "th": {
+     "file": "a31d66a573c2-th.webp",
+     "w": 140,
+     "h": 300
+    }
+   },
+   "orig": [
+    318,
+    680
+   ]
+  },
+  "964b2c057841": {
+   "name": "Sword Oratoria Volume 6 142.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_142.jpg",
+   "uploaded": "2016-06-21T09:24:08Z",
+   "sha256": "964b2c057841212cced10fbdc41ea3e0356ac0e0ad37a3630375361fa3d006f7",
+   "files": {
+    "full": {
+     "file": "964b2c057841-full.webp",
+     "w": 868,
+     "h": 1280
+    },
+    "th": {
+     "file": "964b2c057841-th.webp",
+     "w": 203,
+     "h": 300
+    }
+   },
+   "orig": [
+    1192,
+    1758
    ]
   }
  },
@@ -17540,15 +17901,15 @@
      "caption": ""
     },
     {
-     "id": "47b57a8e596c",
+     "id": "e6ad0920fe11",
      "caption": ""
     },
     {
-     "id": "60626f83912b",
+     "id": "1500efdf9e01",
      "caption": ""
     },
     {
-     "id": "12093ec6f20f",
+     "id": "ebda54bef29d",
      "caption": ""
     },
     {
@@ -17695,7 +18056,7 @@
    },
    "gallery": [
     {
-     "id": "c60656459212",
+     "id": "932b4484f92d",
      "caption": ""
     }
    ]
@@ -18043,15 +18404,15 @@
    },
    "gallery": [
     {
-     "id": "88fbfca944d7",
-     "caption": ""
-    },
-    {
      "id": "7be53ac2e545",
      "caption": ""
     },
     {
      "id": "661d7211f3e9",
+     "caption": ""
+    },
+    {
+     "id": "964b2c057841",
      "caption": ""
     },
     {
@@ -18063,7 +18424,7 @@
      "caption": ""
     },
     {
-     "id": "7d1e5ff1c283",
+     "id": "a31d66a573c2",
      "caption": ""
     }
    ]
@@ -18614,6 +18975,219 @@
     {
      "id": "c9f44ee58768",
      "caption": "A silverback"
+    }
+   ]
+  },
+  "cave-labyrinth": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "355a055bb9c8",
+    "caption": "Bell carrying Welf and Lilly in the middle levels"
+   },
+   "gallery": []
+  },
+  "upper-levels": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "d4568dd64101",
+    "caption": "The fog of the tenth floor"
+   },
+   "gallery": [
+    {
+     "id": "62fcb65b746d",
+     "caption": "Bell on the fifth floor"
+    },
+    {
+     "id": "45bcdaea8d50",
+     "caption": "Bell in the early floors"
+    }
+   ]
+  },
+  "ganesha": {
+   "fandom_page": "Ganesha",
+   "infobox": {
+    "id": "a1b950910ca8",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "4f38c66ed253",
+     "caption": ""
+    },
+    {
+     "id": "364263bc58f4",
+     "caption": ""
+    },
+    {
+     "id": "77b543e8f667",
+     "caption": ""
+    },
+    {
+     "id": "5f2639626a45",
+     "caption": ""
+    },
+    {
+     "id": "4e947de80c76",
+     "caption": ""
+    }
+   ]
+  },
+  "miach": {
+   "fandom_page": "Miach",
+   "infobox": {
+    "id": "e6ad0920fe11",
+    "caption": "Miach"
+   },
+   "gallery": [
+    {
+     "id": "1500efdf9e01",
+     "caption": ""
+    },
+    {
+     "id": "ba3eb758e44a",
+     "caption": ""
+    },
+    {
+     "id": "ebda54bef29d",
+     "caption": ""
+    },
+    {
+     "id": "59ccb2c2190a",
+     "caption": ""
+    },
+    {
+     "id": "419ee6c9d033",
+     "caption": ""
+    }
+   ]
+  },
+  "soma": {
+   "fandom_page": "Soma",
+   "infobox": {
+    "id": "fce51f723b1f",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "fe8da1b8d132",
+     "caption": ""
+    },
+    {
+     "id": "da913c04fe6c",
+     "caption": ""
+    },
+    {
+     "id": "e81571749509",
+     "caption": ""
+    },
+    {
+     "id": "9cf8d944a2de",
+     "caption": ""
+    }
+   ]
+  },
+  "takemikazuchi": {
+   "fandom_page": "Takemikazuchi",
+   "infobox": {
+    "id": "27a53c7049cf",
+    "caption": "Takemikazuchi (centre) with Mikoto and Ouka"
+   },
+   "gallery": [
+    {
+     "id": "115450522d4f",
+     "caption": ""
+    },
+    {
+     "id": "1500efdf9e01",
+     "caption": ""
+    },
+    {
+     "id": "ead5b58625a9",
+     "caption": ""
+    },
+    {
+     "id": "f596bab62580",
+     "caption": ""
+    },
+    {
+     "id": "78c78a88cae3",
+     "caption": ""
+    }
+   ]
+  },
+  "zeus": {
+   "fandom_page": "Zeus",
+   "infobox": {
+    "id": "4cb68ba5c785",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "932b4484f92d",
+     "caption": ""
+    }
+   ]
+  },
+  "dian-cecht": {
+   "fandom_page": "Dian Cecht",
+   "infobox": {
+    "id": "33cc7ad2b728",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "2a05eac24446",
+     "caption": ""
+    },
+    {
+     "id": "6abb91577968",
+     "caption": ""
+    }
+   ]
+  },
+  "ikelos": {
+   "fandom_page": "Ikelos",
+   "infobox": {
+    "id": "ac18f288ea33",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "429179f4db03",
+     "caption": ""
+    },
+    {
+     "id": "f45d56dc8d0e",
+     "caption": ""
+    }
+   ]
+  },
+  "kali": {
+   "fandom_page": "Kali",
+   "infobox": {
+    "id": "8ec5d9a635b0",
+    "caption": "DanMemo"
+   },
+   "gallery": [
+    {
+     "id": "7be53ac2e545",
+     "caption": ""
+    },
+    {
+     "id": "661d7211f3e9",
+     "caption": ""
+    },
+    {
+     "id": "b350ee287f1d",
+     "caption": ""
+    },
+    {
+     "id": "b2450cd0a3f0",
+     "caption": ""
+    },
+    {
+     "id": "a31d66a573c2",
+     "caption": ""
     }
    ]
   }

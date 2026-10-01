@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Item"},
       {"label": "Type", "value": "Saber; a Superior weapon", "refs": ["so01-saber", "so01-desperate"]},
-      {"label": "Maker", "value": "The High Smiths of [[goibniu|Goibniu Familia]]", "refs": ["so01-desperate"]},
+      {"label": "Maker", "value": "The High Smiths of [[goibniu-familia|Goibniu Familia]]", "refs": ["so01-desperate"]},
       {"label": "Trait", "value": "Durandal, \"the Unbreaking\"", "refs": ["so01-saber"]},
       {"label": "Wielder", "value": "[[aiz-wallenstein|Aiz Wallenstein]]", "refs": ["so01-saber", "ar03-aiz"]},
       {"label": "Fate", "value": "Splits in Sword Oratoria 12", "refs": ["so12-split"]}
@@ -23,7 +23,7 @@
   }
 }
 ---
-**Desperate** is [[aiz-wallenstein|Aiz Wallenstein]]'s saber, a Superior weapon made by the High Smiths of [[goibniu|Goibniu Familia]].[@so01-desperate] It carries the trait called **Durandal**, "the Unbreaking": it cannot snap in combat, though it still needs sharpening.[@so01-saber, so01-sharpen] Aiz carries it from Astrea Record 3, seven years before the main story, to Sword Oratoria 12, where it finally splits.[@ar03-aiz, so12-split]
+**Desperate** is [[aiz-wallenstein|Aiz Wallenstein]]'s saber, a Superior weapon made by the High Smiths of [[goibniu-familia|Goibniu Familia]].[@so01-desperate] It carries the trait called **Durandal**, "the Unbreaking": it cannot snap in combat, though it still needs sharpening.[@so01-saber, so01-sharpen] Aiz carries it from Astrea Record 3, seven years before the main story, to Sword Oratoria 12, where it finally splits.[@ar03-aiz, so12-split]
 
 ## The sword
 

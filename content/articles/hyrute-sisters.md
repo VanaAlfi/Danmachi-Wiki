@@ -27,7 +27,7 @@
 
 ## Tiona
 
-Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by Goibniu Familia.[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters]
+Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by [[goibniu-familia|Goibniu Familia]].[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters]
 
 ## Tione
 

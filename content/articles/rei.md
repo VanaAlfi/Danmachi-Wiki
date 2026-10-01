@@ -20,7 +20,7 @@
   }
 }
 ---
-**Rei** is a golden siren and one of the founding [[xenos|Xenos]].[@fm09-rei] Disguised on Floor 19, she asks [[bell-cranell|Bell]]'s party whether coexistence is possible, and her song later guides them into the Hidden Village.[@fm09-rei]
+**Rei** is a golden [[monsters#siren|siren]] and one of the founding [[xenos|Xenos]].[@fm09-rei] Disguised on Floor 19, she asks [[bell-cranell|Bell]]'s party whether coexistence is possible, and her song later guides them into the Hidden Village.[@fm09-rei]
 
 ## History
 

@@ -38,7 +38,7 @@
 
 Dian Cecht looks like a middle-aged god, with greying hair and a beard. In DanMachi 4 he arrives at Miach's shop in an extravagant embroidered gold robe, taunting Miach as a "ruined beggar" and laughing until spittle flies.[@fm04-dian] He gives Miach one day to pay the month's instalment on his debt or lose his home; Miach says the two never saw eye to eye, even in Heaven.[@fm04-dian] That night Miach brings him twenty of the first double potions, which restore both strength and Mind. Amid confirms their value, and Dian Cecht roars in frustration but buys them.[@fm04-double]
 
-In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, whom he calls his personal assistant, and commissions a hunt for a unicorn's horn, said to neutralise any poison, with a three-day limit.[@ss02-unicorn] {{statement}} Before the final assault in Sword Oratoria 12 he shouts at his healers to leave the hard work to Loki and get ready to run away; they ignore him, understanding that he is worried.[@so12-healers]
+In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, whom he calls his personal assistant, and commissions a hunt for a [[monsters#unicorn|unicorn]]'s horn, said to neutralise any poison, with a three-day limit.[@ss02-unicorn] {{statement}} Before the final assault in Sword Oratoria 12 he shouts at his healers to leave the hard work to Loki and get ready to run away; they ignore him, understanding that he is worried.[@so12-healers]
 
 ## History
 
@@ -46,7 +46,7 @@ In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, 
 |---|---|
 | Astrea Record 1–2 | In the dark age the Familia supplies the defenders. Dian Cecht and Miach open their medical stores to anyone in need, and Dian Cecht Familia distributes medical supplies across the city.[@ar01-supplies, ar02-supplies] Amid is its prodigy and secret weapon.[@ar01-amid] |
 | Sword Oratoria 1 | Pays Loki Familia twenty elixirs for spring water it had requested.[@so01-shop] |
-| Sword Oratoria 5 | Loki Familia sets out to buy up its antivenin against poison vermis; asking the Dea Saint herself to go into the Dungeon would cost even more.[@so05-antivenin] |
+| Sword Oratoria 5 | Loki Familia sets out to buy up its antivenin against [[monsters#poison-vermis|poison vermis]]; asking the Dea Saint herself to go into the Dungeon would cost even more.[@so05-antivenin] |
 | Sword Oratoria 7 | [[finn-deimne|Finn]] wakes in Dian Cecht's clinic after his curse is broken.[@so07-finn] |
 | Sword Oratoria 8 | Its hospital takes in the Amazons wounded by cursed weapons.[@so08-hospital] |
 | Sword Oratoria 11 | Its healers join the assault on [[knossos|Knossos]]; Amid heals the northeast squad and lifts the [[barca-perdix|Barca]] Monster's curse.[@so11-healers, so11-barca] |

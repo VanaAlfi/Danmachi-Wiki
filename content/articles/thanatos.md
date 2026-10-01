@@ -6,16 +6,16 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The God of Death and patron of the Evils' remnants hiding in Knossos. He recruits the bereaved with a promise of reunion in the next life. In Sword Oratoria 11, realising that Enyo has used him, he sends himself back to Heaven and opens an escape route for Loki Familia.",
-  "aliases": ["God of Death", "Thanatos Familia"],
+  "aliases": ["God of Death"],
   "spoilers": "Sword Oratoria Vols. 7–12 and Astrea Record Vols. 1–2",
-  "related": ["evils", "knossos", "valletta", "loki-familia", "dionysus", "erebus"],
+  "related": ["thanatos-familia", "evils", "knossos", "valletta", "loki-familia", "dionysus", "erebus"],
   "infobox": {
     "title": "Thanatos",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Deity"},
       {"label": "Domain", "value": "Death", "refs": ["so07-lefiya", "so08-death-god"]},
-      {"label": "Familia", "value": "Thanatos Familia", "refs": ["so09-thanatos", "so08-familia"]},
+      {"label": "Familia", "value": "[[thanatos-familia|Thanatos Familia]]", "refs": ["so09-thanatos", "so08-familia"]},
       {"label": "Allegiance", "value": "[[evils|The Evils]]; patron of their remnants", "refs": ["so07-lefiya", "so11-return"]},
       {"label": "Base", "value": "[[knossos|Knossos]]", "refs": ["so07-sermon", "so07-barca"]},
       {"label": "Fate", "value": "Sends himself back to Heaven (Sword Oratoria 11)", "refs": ["so11-return"]}
@@ -29,7 +29,7 @@
 
 {{statement}} Thanatos tells [[lefiya|Lefiya]] that in Heaven he was a diligent, workaholic god who looked after the souls that came up, "bleaching" them and sending them back to be born as someone new.[@so07-lefiya] He is "guardian deity to the dregs" of the Evils, and he denies being Enyo.[@so07-lefiya] He says the evil gods have different motives, and asks whether it is not "only natural for death to desire as many lives as possible", before calling that a joke.[@so07-lefiya]
 
-His followers' readiness to die comes from his contracts. Each one promises to sacrifice themselves to his will; once [[orario|Orario]] is destroyed and he has returned to Heaven, he says, he will restore their lives and those of the loved ones they lost.[@so07-contract] Lefiya objects that reincarnated souls keep no memories. Thanatos answers that he tells them the rules, that it is their choice, and that he coerces no one.[@so07-contract] The narration calls his followers ordinary bereaved people who made "a contract with the devil", which is how the Evils could mobilise so many so quickly after their defeat.[@so07-contract] In Sword Oratoria 8 they throw themselves at [[bete-loga|Bete]] without fear of death because of the resurrection their god has promised.[@so08-resurrection]
+His followers' readiness to die comes from his contracts. Each one promises to sacrifice themselves to his will; once [[orario|Orario]] is destroyed and he has returned to Heaven, he says, he will restore their lives and those of the loved ones they lost.[@so07-contract] Lefiya objects that reincarnated souls keep no memories. Thanatos answers that he tells them the rules, that it is their choice, and that he coerces no one.[@so07-contract] The narration calls his followers ordinary bereaved people who made "a contract with the devil", which is how the Evils could mobilise so many so quickly after their defeat.[@so07-contract] In Sword Oratoria 8 they throw themselves at [[bete-loga|Bete]] without fear of death because of the resurrection their god has promised.[@so08-resurrection] The followers themselves are described on [[thanatos-familia|Thanatos Familia]].[@so08-familia]
 
 ## In the dark age
 

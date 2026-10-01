@@ -22,7 +22,7 @@
   }
 }
 ---
-**Hyacinthus** is the Level 3 captain of Apollo Familia, titled *Sun's Favored Child, Phoebus Apollo*.[@fm06-hyacinthus] He tells [[apollo|Apollo]] of Bell's likely victory over the Black [[goliath|Goliath]] in DanMachi 5, after which Apollo declares he will claim Bell.[@fm05-hyacinthus]
+**Hyacinthus** is the Level 3 captain of [[apollo-familia|Apollo Familia]], titled *Sun's Favored Child, Phoebus Apollo*.[@fm06-hyacinthus] He tells [[apollo|Apollo]] of Bell's likely victory over the Black [[goliath|Goliath]] in DanMachi 5, after which Apollo declares he will claim Bell.[@fm05-hyacinthus]
 
 ## The War Game
 

@@ -45,7 +45,7 @@
 - **Competition.** Its smiths must overcome obstacles on their own and compete with one another.[@fm04-welf] Its smiths make many personal contracts with adventurers, and have a good reputation for it.[@fm04-contracts]
 - **Warrior smiths.** Bell calls them "warrior smiths".[@fm04-warrior] Sword Oratoria 4 says the peerless fighting skill of its craftsmen, and its value as a smithing Familia, are among the reasons other factions rarely attack it.[@so04-captain]
 - **The emblem.** A smith who leaves the Familia may no longer use Hephaistos's emblem on their work, which is what Welf gives up when he converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm06-logo]
-- **Rivals.** [[goibniu|Goibniu Familia]] is well known and has a following, but is not as popular.[@fm07-goibniu]
+- **Rivals.** [[goibniu-familia|Goibniu Familia]] is well known and has a following, but is not as popular.[@fm07-goibniu]
 
 ## Known members
 
@@ -61,7 +61,7 @@
 | Astrea Record 1 | In the Great Conflict, the Familia's workshops and forges stand in the north of the city, beside [[freya-familia|Freya Familia]]'s forces.[@ar01-north] |
 | Astrea Record 3 | Its smiths support Freya Familia with [[magic-sword|magic swords]], and their bombardment holds back the [[evils|Evils]] at the barricades.[@ar03-swords] |
 | Sword Oratoria 1 | [[bete-loga|Bete]]'s boots Frosvirt are a second-tier Superior made by the Familia.[@so01-frosvirt] |
-| Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Ten smiths, Tsubaki among them, travel with the fifteen Loki Familia adventurers.[@so03-largest, so04-expedition] By agreement, Loki Familia hands over most of the drop items from the depths, including the valgang-dragon's fangs and scales.[@so05-drops] On the eighteenth floor the smiths of the expedition say they saw Welf when he was carried in (the Yen Press text says "One of the smiths").[@fm05-welf, fm05-ja-welf] |
+| Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Ten smiths, Tsubaki among them, travel with the fifteen Loki Familia adventurers.[@so03-largest, so04-expedition] By agreement, Loki Familia hands over most of the drop items from the depths, including the [[monsters#valgang-dragon|valgang-dragon]]'s fangs and scales.[@so05-drops] On the eighteenth floor the smiths of the expedition say they saw Welf when he was carried in (the Yen Press text says "One of the smiths").[@fm05-welf, fm05-ja-welf] |
 | DanMachi 8 | The Familia helps catch [[ares#kingdom-of-rakia|Rakia]]'s infiltrators in the city; they surrender to its members.[@fm08-rakia, fm08-surrender] Sword Oratoria 9 says Finn shared his information with the Familia, which took the glory.[@so09-rakia] |
 | DanMachi 12 | When Hestia Familia prepares its expedition, Hephaistos Familia alone among its friendly factions stays out, to keep its position as a smithing Familia.[@fm12-sidelines] |
 | Sword Oratoria 12 | The Familia makes the spirit flags for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] |

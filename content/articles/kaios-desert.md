@@ -27,7 +27,7 @@ The **Kaios Desert**, also called the Grand Sand Sea, is an arid region south-we
 
 ## Geography
 
-The giant Nire River runs through the desert and splits it into east and west. Countries close to the river tend to flourish, and those far from it tend to stay small.[@fc02-nire] Israfan, "the country of merchants", lies in the middle of the western desert, surrounded by other countries; its town of Leodo, near its northern border, has an oasis and stands almost at the exact centre of the western Kaios, a crucial place for trade.[@fc02-nire] Shalzad and Warsa are both powers of the central western Kaios.[@fc02-powers] The desert is hot by day and cold by night, and thieves and monsters make it dangerous to cross without bodyguards.[@fc02-heat, fc02-danger] Tales of the basilisks that destroyed cities in ancient times are still told all over the Kaios.[@fc02-basilisk]
+The giant Nire River runs through the desert and splits it into east and west. Countries close to the river tend to flourish, and those far from it tend to stay small.[@fc02-nire] Israfan, "the country of merchants", lies in the middle of the western desert, surrounded by other countries; its town of Leodo, near its northern border, has an oasis and stands almost at the exact centre of the western Kaios, a crucial place for trade.[@fc02-nire] Shalzad and Warsa are both powers of the central western Kaios.[@fc02-powers] The desert is hot by day and cold by night, and thieves and monsters make it dangerous to cross without bodyguards.[@fc02-heat, fc02-danger] Tales of the [[monsters#basilisk|basilisks]] that destroyed cities in ancient times are still told all over the Kaios.[@fc02-basilisk]
 
 ## Kingdoms and Familias
 

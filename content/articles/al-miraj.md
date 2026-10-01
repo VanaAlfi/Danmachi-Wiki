@@ -55,7 +55,7 @@ The rabbit look is a running joke about Bell. Lilly's first words on seeing al-m
 
 ## Aruru {#aruru}
 
-**Aruru** is an al-miraj among the Xenos. She wears a loose blue battle jacket and a broken pocket watch around her neck. She cannot speak. When she licks Bell's cheek at their first meeting in DanMachi 9, the siren [[rei|Rei]] explains that she has taken a liking to him, and [[wiene|Wiene]] pulls her away.[@fm09-aruru] She rides a hellhound named **Helga**.[@fm10-ride, fm11-names]
+**Aruru** is an al-miraj among the Xenos. She wears a loose blue battle jacket and a broken pocket watch around her neck. She cannot speak. When she licks Bell's cheek at their first meeting in DanMachi 9, the [[monsters#siren|siren]] [[rei|Rei]] explains that she has taken a liking to him, and [[wiene|Wiene]] pulls her away.[@fm09-aruru] She rides a hellhound named **Helga**.[@fm10-ride, fm11-names]
 
 | Volume | Events |
 |---|---|
@@ -64,7 +64,7 @@ The rabbit look is a running joke about Bell. Lilly's first words on seeing al-m
 | DanMachi 11 | Lilly takes Aruru's form with Cinder Ella as a decoy, judging hers the least unpleasant look among the smaller Xenos. Sword Oratoria 10 shows the same decoy as [[aiz-wallenstein|Aiz]] follows the chase.[@fm11-lilly, so10-decoy] Aruru and Helga later reach Bell with [[haruhime|Haruhime]].[@fm11-reunion] |
 | DanMachi 14 | Fia says the Xenos found Lilly's party in time thanks to Helga and Aruru. The al-miraj greets Cassandra joyfully, and Cassandra wonders whether she followed her scent.[@fm14-cassandra] |
 | Sword Oratoria 12 | After the rescue in the deep levels, Aruru and Helga track down Asterios on [[fels|Fels]]'s secret orders.[@so12-asterios] |
-| Minor Myths and Legends 1 | The harpy Fia quiets a crying Wiene by handing her Aruru: "Doesn't she remind you of somebody?"[@ss01-wiene] |
+| Minor Myths and Legends 1 | The [[monsters#harpy|harpy]] Fia quiets a crying Wiene by handing her Aruru: "Doesn't she remind you of somebody?"[@ss01-wiene] |
 
 The narration calls Aruru "she", and Rei confirms it.[@fm09-aruru] Helga's sex is not given; Cassandra wonders whether both are girls.[@fm11-cassandra]
 

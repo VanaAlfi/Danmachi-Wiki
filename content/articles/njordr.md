@@ -72,7 +72,7 @@ Before the main series, Chloe saw Njörðr taking freight from a shady group to 
 | Astrea Record 2 | During the Evils' assault, Loki had hoped Njörðr could help get people to Meren, but the Evils have attacked Meren as well.[@ar02-meren] |
 | Minor Myths and Legends 2 | Selling his Familia's catch in the marketplace of Orario's southwestern districts with Rod and the reformed Rubart, he apologises to [[aiz-wallenstein|Aiz]] for involving her in "that accursed mess" and says they are working on a new way of fishing. He warns her to leave the market.[@ss02-market] |
 | Sword Oratoria 13 | When carnivorous flowers appear above ground, Njörðr Familia rushes over from Meren to help, and no one dies.[@so13-flowers] |
-| DanMachi 18 | A waitress of the Benevolent Mistress tells [[anya-fromel|Anya]], "We begged Lord Njǫrðr and Lady Demeter."[@fm18-waitresses] After the Familia War he enters [[freya|Freya]]'s island with [[astrea|Astrea]] and Demeter.[@fm18-island] |
+| DanMachi 18 | A waitress of the Benevolent Mistress tells [[anya-fromel|Anya]], "We begged Lord Njǫrðr and Lady Demeter."[@fm18-waitresses] During the Familia War he enters [[freya|Freya]]'s island with [[astrea|Astrea]] and Demeter.[@fm18-island] |
 
 ## Open questions
 

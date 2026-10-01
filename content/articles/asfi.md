@@ -42,7 +42,7 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 
 - **Talaria** lets her fly; in DanMachi 8 she uses it to scout from the air.[@fm08-talaria]
 - **Burst Oil** is a grenade that only an item maker can create: vials of red liquid that she throws at monsters. She makes it from the obia flare, a flower that grows only around the volcanoes of the mainland's northern regions, and in Sword Oratoria 3 one vial is said to be enough to reduce middle-level monsters to cinders.[@so03-oil] Against the Black [[goliath|Goliath]] in DanMachi 5, however, her Burst Oil grenades leave no mark on its thick skin.[@fm05-oil]
-- **[[silence-lyra|Silence Lyra]]** was an accessory for blocking the songs of sirens and mermaids, which Perseus modified during the dark age against an enemy who attacked with sound.[@fm18-lyra]
+- **[[silence-lyra|Silence Lyra]]** was an accessory for blocking the songs of [[monsters#siren|sirens]] and [[monsters#mermaid|mermaids]], which Perseus modified during the dark age against an enemy who attacked with sound.[@fm18-lyra]
 - In DanMachi 11 she spends several sleepless days forging a copy of Daedalus's notebook for [[hermes|Hermes]].[@fm11-notebook] In Sword Oratoria 11 she re-creates a working [[knossos|Knossos]] key in ten days.[@so11-key]
 
 ## History

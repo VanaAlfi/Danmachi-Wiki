@@ -27,7 +27,7 @@
   }
 }
 ---
-**Alicia Forestlight** is an elf of [[loki-familia|Loki Familia]], a mage who fights with a short bow and magic.[@so10-squad, so13-hail] A Level 4 and a veteran even by the standards of the whole Familia, she serves as second-in-command of [[riveria|Riveria]]'s elf squad and as the spotter for [[lefiya|Lefiya]]'s support fire.[@so08-reserve, so09-spotter, so10-squad] Her ice spell is [[magic#hail-dust|Hail Dust]], which Lefiya learned from her.[@so13-hail] In Sword Oratoria 10 the Xenos siren [[rei|Rei]] takes a blade meant for her, and the experience overturns her belief that monsters are absolute evil.[@so10-rei, so10-shattered]
+**Alicia Forestlight** is an elf of [[loki-familia|Loki Familia]], a mage who fights with a short bow and magic.[@so10-squad, so13-hail] A Level 4 and a veteran even by the standards of the whole Familia, she serves as second-in-command of [[riveria|Riveria]]'s elf squad and as the spotter for [[lefiya|Lefiya]]'s support fire.[@so08-reserve, so09-spotter, so10-squad] Her ice spell is [[magic#hail-dust|Hail Dust]], which Lefiya learned from her.[@so13-hail] In Sword Oratoria 10 the Xenos [[monsters#siren|siren]] [[rei|Rei]] takes a blade meant for her, and the experience overturns her belief that monsters are absolute evil.[@so10-rei, so10-shattered]
 
 ## Background and character
 

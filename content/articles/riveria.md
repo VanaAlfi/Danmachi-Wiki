@@ -29,7 +29,7 @@
 
 ## Early life
 
-At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a green dragon. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
+At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
 
 ## Skills {#skill}
 
@@ -135,7 +135,7 @@ In Sword Oratoria 4 Riveria starts with Wynn Fimbulvetr's chant and, instead of 
 
 #### Effects {#rea-laevateinn-effects}
 
-- **Pillars of fire.** In Sword Oratoria 1 a wall of flame columns rises from the circle to the ceiling and destroys the Fomoire; the party stands safely inside the jade circle.[@rea-laevateinn.so01-wall]
+- **Pillars of fire.** In Sword Oratoria 1 a wall of flame columns rises from the circle to the ceiling and destroys the [[monsters#fomoire|Fomoire]]; the party stands safely inside the jade circle.[@rea-laevateinn.so01-wall]
 - **Scale.** In Sword Oratoria 4 the circle grows to cover the entire battlefield, allies, monsters and the spirit alike.[@rea-laevateinn.so04-concat]
 - **Detection.** The circle can tell humans from monsters, but only on the same level, not on the floors below. In Sword Oratoria 7 Riveria repeatedly forms the largest circle she can and cancels it before the flames appear, to search the area.[@rea-laevateinn.so07-radar] In Sword Oratoria 13 Lefiya does the same with an 80-meder radius before clearing a passage.[@rea-laevateinn.so13-detect]
 - **Early form.** In Sword Oratoria 14's founding-era story, the Level 1 Riveria can summon only a single pillar of fire.[@rea-laevateinn.so14-first] Later in that story she already uses the circle to tell targets apart across a mine.[@rea-laevateinn.so14-mine]
@@ -214,7 +214,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 #### Effect {#veil-breath-effect}
 
-- **Protection:** when Riveria casts it, it can protect an adventurer even from a valgang dragon's great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the fifty-second floor, it cancels most of a fireball's damage.[@veil-breath.so04-party]
+- **Protection:** when Riveria casts it, it can protect an adventurer even from a [[monsters#valgang-dragon|valgang dragon]]'s great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the fifty-second floor, it cancels most of a fireball's damage.[@veil-breath.so04-party]
 - **Healing:** as a side effect, it heals; in Sword Oratoria 12 [[aisha-belka|Aisha]]'s fractured bones mend under it.[@veil-breath.so12-lefiya]
 - **Targets:** Sword Oratoria 2 describes it settling on "a single target".[@veil-breath.so02-aiz] Other scenes show it covering several people at once: Lefiya and her three rescuers, the whole Loki Familia party, four fighters, or every member of Astrea Familia.[@veil-breath.so04-party, veil-breath.so12-lefiya, veil-breath.ar03-astrea] This wiki records both descriptions.
 

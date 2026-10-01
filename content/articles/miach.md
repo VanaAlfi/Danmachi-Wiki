@@ -52,7 +52,7 @@ Hestia had never met Miach before descending, but he helped her a few times and 
 
 | Volume | Events |
 |---|---|
-| DanMachi 6 | At Apollo's party he asks Nahza to dance, as an example for Bell and [[aiz-wallenstein|Aiz]].[@fm06-party] When Apollo Familia hunts Bell, he arrives with [[takemikazuchi-familia|Takemikazuchi Familia]]'s party, which he had asked for help: "Miach, friends like you are just so…!"[@fm06-rescue] |
+| DanMachi 6 | At Apollo's party he asks Nahza to dance, as an example for Bell and [[aiz-wallenstein|Aiz]].[@fm06-party] When [[apollo-familia|Apollo Familia]] hunts Bell, he arrives with [[takemikazuchi-familia|Takemikazuchi Familia]]'s party, which he had asked for help: "Miach, friends like you are just so…!"[@fm06-rescue] |
 | DanMachi 8 | [[daphne|Daphne]] and [[cassandra|Cassandra]] convert to his Familia: "Lord Miach is a great god."[@fm08-join] |
 | DanMachi 11 | He still cannot bring himself to tell his Familia about the [[xenos|Xenos]]; with Takemikazuchi he chooses to stand by Hestia.[@fm11-xenos, fm11-trust] |
 | DanMachi 12 | Hestia, Miach and Takemikazuchi Familias form a three-faction alliance for the expedition: "Just doing what good neighbors do."[@fm12-alliance] |

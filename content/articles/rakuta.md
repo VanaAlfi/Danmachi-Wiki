@@ -40,7 +40,7 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 | Sword Oratoria 7 | In Bete's forward party in Knossos.[@so07-forward] When [[ikelos-familia#dix-perdix|Dix]]'s curse strikes, Bete grabs her by the collar and throws her down a side tunnel. She is the only one besides Bete to escape the curse, and she drags her companions' limp bodies to safety while he holds a door.[@so07-thrown, so07-curse, so07-door] |
 | Sword Oratoria 8 | Her party from Knossos is in tears when Bete's confession is heard.[@so08-confession] |
 | Sword Oratoria 10 | With Riveria's elf squad, she hears the founding god's divine will and Fels's explanation of the Xenos.[@so10-xenos] |
-| Sword Oratoria 12 | Cries out at the sight of a dragon.[@so12-dragon] After the battle she happily hugs the siren [[rei|Rei]], to the siren's surprise.[@so12-rei] |
+| Sword Oratoria 12 | Cries out at the sight of a dragon.[@so12-dragon] After the battle she happily hugs the [[monsters#siren|siren]] [[rei|Rei]], to the siren's surprise.[@so12-rei] |
 | Minor Myths and Legends 2 | On the eve of the second assault she follows [[gareth|Gareth]] to the graves of Loki Familia's fallen, where Bete is paying his respects. Bete threatens to turn her into rabbit stew if she talks, but she shouts after him that they will win, and he agrees.[@ss02-graves] |
 
 [@so02-supporter]: SO02 | Chapter 6: Parched Scream | "Lefiya, Rakuta, are you ready?"; to earn money, a party "now seven strong"; "Finn gave the order to move out"; "The second supporter, a newly ranked-up Level 3 adventurer named Rakuta, looked very nervous."

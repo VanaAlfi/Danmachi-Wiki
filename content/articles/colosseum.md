@@ -32,7 +32,7 @@ Sword Oratoria 1 calls Orario's own arena, where the [[monsterphilia|Monsterphil
 
 - **Where:** there is only one Colosseum on Floor 37. It lies in the eastern part of the Warrior Zone, between the Second and Third Walls of the White Palace.[@fm14-map] The room has four doorways, north, south, east and west; the southern one leads to the main route.[@fm14-map]
 - **Size:** the room is far larger than any other on the floor; its exact size is unknown because adventurers gave up measuring it. Bell thinks it about as big as the great cavern of the twenty-fifth floor, or bigger.[@fm14-room]
-- **Bridges:** four bridges of milky-white stone, about six meders wide and without railings, run from the doorways to the central structure "like a perfect cross". Fifty meders below lies a floor of stone spears, where peludas crawl and the skeletons of fallen adventurers lie.[@fm14-bridges]
+- **Bridges:** four bridges of milky-white stone, about six meders wide and without railings, run from the doorways to the central structure "like a perfect cross". Fifty meders below lies a floor of stone spears, where [[monsters#peluda|peludas]] crawl and the skeletons of fallen adventurers lie.[@fm14-bridges]
 - **The structure:** the Colosseum proper is only the structure in the middle of the room. It is a perfect circle about as wide as [[babel|Babel]], and like Orario's Amphitheatrum it is an upside-down cone. Six enormous plates step down like seating to a round field, the arena, at the bottom.[@fm14-room, fm14-shape]
 
 ## Endless war {#endless-war}

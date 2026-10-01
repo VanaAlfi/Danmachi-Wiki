@@ -115,7 +115,7 @@ Each cast uses Mind (mental energy). On his first day with the spell Bell fires 
 
 #### Charged Firebolt {#firebolt-charged-firebolt}
 
-Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an [[monsters#infant-dragon|infant dragon]] and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced moss huge.[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
+Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an [[monsters#infant-dragon|infant dragon]] and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced [[monsters#moss-huge|moss huge]].[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
 
 {{nocite}} Notable uses and open questions for Firebolt are on the combined page: [[magic#firebolt|Magic § Firebolt]].
 
@@ -127,7 +127,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 | DanMachi 2 | Learns Firebolt and rescues [[lilliluka-erde|Lilliluka Erde]].[@fm02-firebolt, fm02-lilly] |
 | DanMachi 3 | Defeats the Minotaur that [[ottar|Ottar]] has trained for him and reaches Level 2.[@fm03-level2] |
 | DanMachi 5 | Is forced down to [[floor-18|Floor 18]] with his party, where they fight the Black [[goliath|Goliath]]. Bell destroys it with a charged strike.[@fm05-goliath] Before that, the adventurer [[mord-latro|Mord Latro]] kidnaps Hestia and ambushes Bell with the invisibility of the Hades Head; Bell later saves Mord from the Goliath's monsters.[@mord.fm05-kidnap, mord.fm05-saved] |
-| DanMachi 6 | Loses to [[hyacinthus|Hyacinthus]], then trains with Aiz and [[hyrute-sisters|Tiona]], and defeats Hyacinthus to win the [[war-game|War Game]] against Apollo Familia.[@fm06-training, fm06-wargame] |
+| DanMachi 6 | Loses to [[hyacinthus|Hyacinthus]], then trains with Aiz and [[hyrute-sisters|Tiona]], and defeats Hyacinthus to win the [[war-game|War Game]] against [[apollo-familia|Apollo Familia]].[@fm06-training, fm06-wargame] |
 | DanMachi 7 | Reaches Level 3 and rescues [[haruhime|Haruhime]] from [[ishtar-familia|Ishtar Familia]].[@fm07-level3, fm07-haruhime] |
 | DanMachi 9–10 | Shelters the [[xenos|Xenos]] girl [[wiene|Wiene]] and chooses to help the Xenos, at the cost of his reputation.[@fm09-wiene, fm10-xenos] |
 | DanMachi 11 | Accepts Asterios's rematch and loses; the fight largely restores his reputation.[@fm11-asterios, fm11-reputation] |

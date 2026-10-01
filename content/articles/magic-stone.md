@@ -42,9 +42,9 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 
 ## Eating magic stones
 
-**Enhanced species** are monsters that kill their own kind and consume their magic stones to grow stronger. The Guild treats such monsters as [[irregular|Irregulars]] and puts bounties on exceptionally strong ones; Bell notes that the [[xenos|Xenos]] roughly fall into the category too.[@fm12-enhanced] Sword Oratoria 4 describes an enhanced wyvern, "king of the skies", that had attacked many other monsters and stolen their stones.[@so04-wyvern]
+**Enhanced species** are monsters that kill their own kind and consume their magic stones to grow stronger. The Guild treats such monsters as [[irregular|Irregulars]] and puts bounties on exceptionally strong ones; Bell notes that the [[xenos|Xenos]] roughly fall into the category too.[@fm12-enhanced] Sword Oratoria 4 describes an enhanced [[monsters#wyvern|wyvern]], "king of the skies", that had attacked many other monsters and stolen their stones.[@so04-wyvern]
 
-- **The moss huge.** In DanMachi 12 an enhanced moss huge in the [[water-capital|Water Capital]], which eats magic stones and even seeks out adventurers' pouches of them, routs Luvis Lilix's party (see [[modi-and-magni-familias#luvis-lilix|Luvis Lilix]]).[@fm12-enhanced, fm12-mosshuge]
+- **The [[monsters#moss-huge|moss huge]].** In DanMachi 12 an enhanced moss huge in the [[water-capital|Water Capital]], which eats magic stones and even seeks out adventurers' pouches of them, routs Luvis Lilix's party (see [[modi-and-magni-familias#luvis-lilix|Luvis Lilix]]).[@fm12-enhanced, fm12-mosshuge]
 - **Denying stones.** In DanMachi 14, Bell and Lyu dispose of the stones of monsters killed in an explosion so that they cannot feed an enhanced species.[@fm14-dispose]
 - **Creatures.** "She" revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him; he and [[levis|Levis]] are human-monster hybrids who become all-powerful enhanced species by assimilating magic stones.[@so04-hybrids] Levis eats other monsters' stones to recover her strength.[@so04-levis]
 - **Xenos.** The Xenos kill ordinary monsters and eat their stones to survive; see [[xenos|Xenos]].[@fm12-enhanced]

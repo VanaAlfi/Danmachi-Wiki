@@ -8,7 +8,7 @@
   "summary": "Goddess of justice and order and head of Astrea Familia, who holds that there is no absolute justice, only many justices that can work together. In the Great Conflict she tends the wounded, answers Erebus and finally sends him back to the heavens. After her Familia's destruction she left Orario at Lyu's urging; in DanMachi 18 she raises Lyu to Level 6 in Zolingam.",
   "aliases": ["Astria", "Goddess of justice", "Lady Astrea"],
   "spoilers": "DanMachi Vols. 5, 6, 14, 18, 19, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
-  "related": ["astrea-familia", "lyu-leon", "erebus", "great-conflict", "alize-lovell", "hermes", "loki"],
+  "related": ["astrea-familia", "lyu-leon", "erebus", "great-conflict", "alize-lovell", "hermes", "loki", "artemis"],
   "infobox": {
     "title": "Astrea",
     "image_note": "No suitable official image has been chosen for this page yet.",

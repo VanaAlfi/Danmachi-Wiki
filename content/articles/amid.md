@@ -41,7 +41,7 @@ Amid's healing covers a broad area, and she is thought to win over Heith in raw 
 | DanMachi 15 | Scolds Bell for overworking the arm at a follow-up appointment.[@fm15-amid] |
 | DanMachi 18 | Watches the Familia War from Orario with Dian Cecht Familia's healers, who stay out of it.[@fm18-amid] |
 
-In Minor Myths and Legends 2 she makes the Unicorn Cup from a horn that was freely given.[@ss02-amid]
+In Minor Myths and Legends 2 she makes the [[monsters#unicorn|Unicorn]] Cup from a horn that was freely given.[@ss02-amid]
 ## Magic {#magic}
 
 {{nocite}} Amid Teasanare's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.

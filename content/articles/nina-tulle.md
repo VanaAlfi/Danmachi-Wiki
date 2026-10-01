@@ -88,7 +88,7 @@ No volume prints the whole chant; each print gives different pieces, and they ar
 A field of white flowers, or of dancing white feathers or petals, bursts out around her.[@lagriell-krisheim.fm19-cast]
 
 - **Cleansing:** a midsize healing barrier that clears poison, paralysis and other negative effects, and also keeps out curses and psychological attacks.[@lagriell-krisheim.fm19-effect]
-- **Healing:** it fills everyone inside with a cleansing light that heals continuously, and it pushes back even a blue dragon's aurora breath.[@lagriell-krisheim.fm19-effect]
+- **Healing:** it fills everyone inside with a cleansing light that heals continuously, and it pushes back even a [[monsters#blue-dragon|blue dragon]]'s aurora breath.[@lagriell-krisheim.fm19-effect]
 - **Miasma:** in the black wasteland of DanMachi 20 it purifies the poisonous air around their camp so the group can rest.[@lagriell-krisheim.fm20-camp] Later it keeps out a centipede dragon's miasma, the "dragma" that impedes healing magic.[@lagriell-krisheim.fm20-dragma]
 
 #### Limits {#lagriell-krisheim-limits}

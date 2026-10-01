@@ -6,9 +6,9 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Golden-haired, princely god and head of Dionysus Familia who poses as Loki's ally, revealed in Sword Oratoria 12 as Enyo, the hidden mastermind uniting the Evils and the corrupted spirit's forces. A deviant god who longs for the orgia, the madness of mortals in terror, he hates Ouranos for ending it.",
-  "aliases": ["Enyo", "Dionysus Familia"],
+  "aliases": ["Enyo"],
   "spoilers": "Sword Oratoria Vols. 1, 3–5, 11, 12",
-  "related": ["filvis", "loki", "loki-familia", "evils", "levis", "knossos", "demeter", "penia", "ouranos"],
+  "related": ["dionysus-familia", "filvis", "loki", "loki-familia", "evils", "levis", "knossos", "demeter", "penia", "ouranos"],
   "infobox": {
     "title": "Dionysus",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -18,14 +18,14 @@
       {"label": "Hair and eyes", "value": "Golden hair; glass-coloured eyes", "refs": ["so03-prince", "so04-eyes"]},
       {"label": "Hidden identity", "value": "Enyo", "refs": ["so12-enyo"]},
       {"section": "Familia"},
-      {"label": "Head of", "value": "Dionysus Familia", "refs": ["so01-dionysus"]},
+      {"label": "Head of", "value": "[[dionysus-familia|Dionysus Familia]]", "refs": ["so01-dionysus"]},
       {"label": "Captain", "value": "[[filvis|Filvis Challia]]", "refs": ["so01-filvis"]},
       {"label": "Fate", "value": "Returns himself to the heavens in Sword Oratoria 12", "refs": ["so12-end"]}
     ]
   }
 }
 ---
-**Dionysus** is the god who heads Dionysus Familia, whose captain is [[filvis|Filvis Challia]].[@so01-dionysus, so01-filvis] Through most of Sword Oratoria he works alongside [[loki|Loki]] and [[hermes|Hermes]] against the hidden enemy known as Enyo; Sword Oratoria 12 reveals that he is Enyo.[@so05-enyo, so12-enyo]
+**Dionysus** is the god who heads [[dionysus-familia|Dionysus Familia]], whose captain is [[filvis|Filvis Challia]].[@so01-dionysus, so01-filvis] Through most of Sword Oratoria he works alongside [[loki|Loki]] and [[hermes|Hermes]] against the hidden enemy known as Enyo; Sword Oratoria 12 reveals that he is Enyo.[@so05-enyo, so12-enyo]
 
 ## Appearance and character {#character}
 

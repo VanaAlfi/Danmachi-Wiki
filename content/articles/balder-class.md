@@ -69,7 +69,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 |---|---|
 | Luke Fowl | An ashen-haired human boy, Level 3, the squad's leader and "the best student with a sword".[@so13-intro, so13-luke] |
 | Nano | Natalinoe Cladfield, a small human girl with strawberry-blond hair, Level 3, the squad's mage and Luke's childhood friend.[@so13-intro, so13-nano] |
-| Miliria | An elf archer who covers the middle of the formation; Nina calls her "Mimi".[@so13-members, so13-roles, fm19-miliria] |
+| Miliria | An elf archer who covers the middle of the formation; Nina calls her "Milly".[@so13-members, so13-roles, fm19-miliria] |
 | Cole | A werewolf, a knife-wielding scout, fifteen years old.[@so13-members, so13-roles, so13-cole] |
 
 - **In battle:** the squad's plan is to push in hard behind its two Level 3s, with Miliria and Cole in support.[@so13-plan]

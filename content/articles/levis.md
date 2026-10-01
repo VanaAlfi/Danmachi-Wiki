@@ -28,8 +28,8 @@
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 2 | Defeats Aiz and directs her toward Floor 59.[@so02-levis] |
-| Sword Oratoria 3 | Tears out the [[magic-stone|magic stone]] of [[olivas-act|Olivas Act]], killing him, and eats it. She becomes stronger and faster than Aiz at Level 6, who needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] |
+| Sword Oratoria 2 | Defeats Aiz in Rivira until Finn and Riveria step in, then escapes.[@so02-levis] |
+| Sword Oratoria 3 | Tears out the [[magic-stone|magic stone]] of [[olivas-act|Olivas Act]], killing him, and eats it. She becomes stronger and faster than Aiz at Level 6, who needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] As Aiz turns to leave, Levis tells her, "Aria, go to the fifty-ninth floor."[@so03-floor59] |
 | Sword Oratoria 7 | Wounds [[finn-deimne|Finn]] with a curse that prevents healing, and wins a direct duel with Aiz in [[knossos|Knossos]].[@so07-levis] |
 | Sword Oratoria 10 | Loses her left arm to the elves' barrage and regrows it; Ein stops her pursuit on Enyo's orders.[@so10-levis] |
 | Sword Oratoria 11 | Sees through Aiz's diversion but refuses to fight, because Enyo's altar plan is already under way.[@so11-levis] |
@@ -41,8 +41,9 @@
 > - Who Levis was before she became a creature, and how she was transformed.[@so03-stone]
 > - Why she and the corrupted spirit seek Aria.[@so03-aria]
 
-[@so02-levis]: SO02 | | Levis: red-haired creature; the Tamer; Aria; Floor 59.
+[@so02-levis]: SO02 | | Levis: red-haired creature; the Tamer; Aria; the fight in Rivira.
 [@so03-aria]: SO03 | Chapter 3: A Hideous Beauty | "I am not Aria." "Aria is my mother."
+[@so03-floor59]: SO03 | Chapter 5: Hell and Hell | "Aria, go to the fifty-ninth floor."
 [@so03-stone]: SO03 | Chapter 5: Hell and Hell | Levis eats Olivas's magic stone.
 [@so07-levis]: SO07 | | Finn's curse; the duel with Aiz.
 [@so10-levis]: SO10 | | The lost arm; Ein.

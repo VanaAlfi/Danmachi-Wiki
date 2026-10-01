@@ -70,7 +70,7 @@ DanMachi 6 prints *Ushiwakamaru-Shiki*.[@fm06-shiki] DanMachi 7 prints *Ushiwaka
 - **Borrowed by Mikoto.** In DanMachi 7 [[mikoto|Mikoto]] uses Bell's Ushiwakamaru in place of her broken katana.[@fm07-mikoto]
 - **The second blade is lost.** In DanMachi 10 the hunter [[ikelos-familia#dix-perdix|Dix]] knocks Ushiwakamaru-Nishiki out of Bell's hand, and Bell draws "the spare Ushiwakamaru" from behind his back.[@fm10-dix] In DanMachi 11 Bell sets out armed with the Hestia Knife and Ushiwakamaru, noting that his other crimson dagger is still lying in [[knossos|Knossos]], where he lost it.[@fm11-knossos]
 - **The first blade breaks.** In Bell's rematch with [[asterios|Asterios]] in DanMachi 11, a blow from the Labrys shatters Ushiwakamaru.[@fm11-broken]
-- **Replaced.** From DanMachi 12 Bell fights with Hakugen, a unicorn-horn knife Welf made for him. The narration calls it sharper than the lost Ushiwakamaru, and Bell finds it more powerful, keener and lighter than "the Ushiwakamaru series".[@fm12-hakugen]
+- **Replaced.** From DanMachi 12 Bell fights with Hakugen, a [[monsters#unicorn|unicorn]]-horn knife Welf made for him. The narration calls it sharper than the lost Ushiwakamaru, and Bell finds it more powerful, keener and lighter than "the Ushiwakamaru series".[@fm12-hakugen]
 
 {{inference}} Taken together, DanMachi 10 and 11 indicate that the blade lost in Knossos was the second (Nishiki) and the one broken by Asterios was the original; the breakage scene itself does not print a suffix.[@fm10-dix, fm11-knossos, fm11-broken]
 

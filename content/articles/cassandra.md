@@ -33,7 +33,7 @@ Even then Cassandra's dreams warned of what was coming. Before the [[war-game|Wa
 
 ## Joining Miach Familia
 
-After the War Game, Cassandra's dream leads her back to Apollo Familia's former home to find her lost pillow; Bell, now living there, believes her, fetches it and finds it exactly where she said.[@fm07-pillow] She comes to [[hestia-familia|Hestia Familia]]'s first recruiting event hoping to join, but she and Daphne reconsider when the Familia's 200-million-valis debt is revealed. They go through Conversion into Miach Familia instead.[@fm07-recruit, fm08-join] DanMachi 8 notes that they chose that debt-ridden Familia "of their own accord".[@fm08-choice]
+After the War Game, Cassandra's dream leads her back to [[apollo-familia|Apollo Familia]]'s former home to find her lost pillow; Bell, now living there, believes her, fetches it and finds it exactly where she said.[@fm07-pillow] She comes to [[hestia-familia|Hestia Familia]]'s first recruiting event hoping to join, but she and Daphne reconsider when the Familia's 200-million-valis debt is revealed. They go through Conversion into Miach Familia instead.[@fm07-recruit, fm08-join] DanMachi 8 notes that they chose that debt-ridden Familia "of their own accord".[@fm08-choice]
 
 ## Prophetic dreams
 

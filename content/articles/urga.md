@@ -16,7 +16,7 @@
       {"section": "Weapon"},
       {"label": "Type", "value": "A giant double-bladed sword, custom-made", "refs": ["so02-second", "so05-giant"]},
       {"label": "Wielder", "value": "Tiona Hyrute ([[hyrute-sisters|Hyrute sisters]])", "refs": ["so01-loved"]},
-      {"label": "Maker", "value": "[[goibniu|Goibniu Familia]]", "refs": ["so01-goibniu", "so02-second"]},
+      {"label": "Maker", "value": "[[goibniu-familia|Goibniu Familia]]", "refs": ["so01-goibniu", "so02-second"]},
       {"label": "Material", "value": "Adamantite", "refs": ["so01-melted", "so10-adamantite"]},
       {"label": "Name", "value": "The Amazon word for \"great destruction\"", "refs": ["so06-name"]},
       {"section": "History"},
@@ -26,7 +26,7 @@
   }
 }
 ---
-**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of adamantite by [[goibniu|Goibniu Familia]].[@so01-melted, so01-goibniu] *Urga* is "The Amazon word for “great destruction.”"[@so06-name]
+**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of adamantite by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] *Urga* is "The Amazon word for “great destruction.”"[@so06-name]
 
 ## The weapon {#weapon}
 

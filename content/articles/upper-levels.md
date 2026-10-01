@@ -102,7 +102,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 | Sword Oratoria 1 | Loki Familia chases the Minotaurs up into the upper levels; what is left of the herd reaches the sixth floor, and the last is found on the fifth.[@so01-upper, so01-fifth] |
 | Sword Oratoria 3 | Aiz, who needed more than six months to reach the tenth floor, learns that Bell has reached it in twenty days, and watches him hold his own there among orcs and imps.[@so03-twelve, so03-watch] |
 | Sword Oratoria 4 | Lefiya practises magic on the fifth floor; Aiz and Loki Familia watch Bell's fight on the ninth floor.[@so04-lefiya, so04-ninth] |
-| Sword Oratoria 9 | Young Aiz's first goblin on the first floor.[@so09-first] An evil god lures her, then Level 1, to the twelfth floor, where a black wyvern, a middle-floor dragon, appears as an Irregular.[@so09-wyvern, ar02-wyvern] |
+| Sword Oratoria 9 | Young Aiz's first goblin on the first floor.[@so09-first] An evil god lures her, then Level 1, to the twelfth floor, where a black [[monsters#wyvern|wyvern]], a middle-floor dragon, appears as an Irregular.[@so09-wyvern, ar02-wyvern] |
 | Sword Oratoria 10 | [[riveria|Riveria]]'s party, [[lefiya|Lefiya]] among them, escapes Knossos by breaking through a wall onto the twelfth floor; Riveria suspects the god who set the wyvern on Aiz used Knossos.[@so10-twelfth] |
 | Minor Myths and Legends 1 | Hestia comes with Bell to the first floor, as long as they "stick to the first floor"; they chase a jackbird.[@ss01-hestia, ss01-jackbird] |
 

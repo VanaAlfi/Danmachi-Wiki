@@ -28,7 +28,7 @@
 
 ## The monster
 
-- **Form.** Over ten meders tall even with its lower body underground, with a forward-leaning spine, horns like an ogre's on its skull, and small crimson flames for eyes.[@so02-form] In truth it has no lower body at all.[@so02-pikes]
+- **Form.** Over ten meders tall even with its lower body underground, with a forward-leaning spine, horns like an [[monsters#ogre|ogre]]'s on its skull, and small crimson flames for eyes.[@so02-form] In truth it has no lower body at all.[@so02-pikes]
 - **Pikes.** It fills its chamber with black pikes (pila) that shoot from the floor, makes anyone who throws caution to the wind "an instant pincushion", and seals the exits so that no one can leave until it is defeated.[@so02-pikes, fc02-awake] Its bones are bound by magic energy at the joints, which lets the skinless monster move in any direction.[@so02-joints]
 - **Spartoi.** Floor 37 is also home to ordinary spartoi, which fight alongside it.[@so02-spartoi]
 - **Respawn.** Like every Monster Rex it has a fixed respawn time. Loki Familia had defeated it with its full strength three months before Aiz's fight.[@so02-udaeus]

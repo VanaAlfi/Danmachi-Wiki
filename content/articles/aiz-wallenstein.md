@@ -32,7 +32,7 @@
 | Level | When | Notes |
 |---|---|---|
 | 1 | Age seven | Receives Loki's blessing and is trained by [[finn-deimne|Finn]], [[gareth|Gareth]] and [[riveria|Riveria]].[@so09-joined] |
-| 2 | About a year later | Seeks a Level Up and defeats an irregular black wyvern on Floor 12; the update itself is not shown.[@so09-wyvern] |
+| 2 | About a year later | Seeks a Level Up and defeats an irregular black [[monsters#wyvern|wyvern]] on Floor 12; the update itself is not shown.[@so09-wyvern] |
 | 3 | By age nine | Level 3 during the [[great-conflict|Great Conflict]] of Astrea Record 2.[@ar02-level] |
 | 4 | After the Great Conflict | Reaches Level 4 after the war.[@ar03-aiz] |
 | 5 | DanMachi 1 | Level 5 when she meets Bell.[@fm01-aiz] |
@@ -116,7 +116,7 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 |---|---|
 | DanMachi 1 | Saves Bell from the Minotaur on Floor 5 and decides to apologise for the escaped monsters.[@fm01-aiz] |
 | DanMachi 3 | Returns his lost vambrace, apologises, and offers to train him in secret.[@fm03-apology] |
-| DanMachi 6 | Trains him with [[hyrute-sisters|Tiona]] for a week before the [[war-game|War Game]] against Apollo Familia.[@fm06-training] |
+| DanMachi 6 | Trains him with [[hyrute-sisters|Tiona]] for a week before the [[war-game|War Game]] against [[apollo-familia|Apollo Familia]].[@fm06-training] |
 | DanMachi 10–11 | Tells Bell she will kill any monster that makes someone cry, and later cannot bring herself to kill the [[xenos|Xenos]] [[wiene|Wiene]]; she lets them go and agrees to train Bell again.[@fm10-vow, fm11-wiene] |
 | DanMachi 16 | Protects Bell from [[freya-familia|Freya Familia]] on the festival boat.[@fm16-boat] |
 | DanMachi 17 | [[freya|Freya]]'s charm suppresses her memory of Bell, but a remembered promise to train with him breaks through; after [[hestia|Hestia]] purges the charm she protects [[lyu-leon|Lyu]] from [[hegni|Hegni]].[@fm17-aiz] |

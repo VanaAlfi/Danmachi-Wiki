@@ -29,9 +29,9 @@ An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. 
 ## Kinds {#kinds}
 
 - **Monsters out of place:** most monsters stay on the floor where they are born, but "some irregulars might go up or down a floor or two".[@fm01-floors] The typical Irregular is a monster that becomes a threat by climbing from a lower floor to a higher one, like the [[minotaur|Minotaur]] that attacks Bell in the [[upper-levels|upper levels]].[@fm12-types, fm01-minotaur] In DanMachi 7, Lilly identifies as an Irregular a monster that should not appear above the fifteenth floor.[@fm07-floor]
-- **Outbreaks and mass spawns:** in DanMachi 9 [[monsters#firebird|firebirds]] overflow onto the nineteenth floor. "Mass spawns were just another one of the Dungeon's Irregulars", like the poison vermis that Loki Familia meets in Sword Oratoria 5.[@fm09-definition, so05-spawns, ss02-vermis]
-- **Subspecies:** in Aiz's memories of Sword Oratoria 9, a pure-black wyvern on the upper floors is "clearly an Irregular, a subspecies".[@so09-wyvern] The armed monsters that overrun [[rivira|Rivira]] in DanMachi 10 are taken for a special subspecies.[@fm10-rivira]
-- **Enhanced species:** monsters that grow strong by eating others' [[magic-stone|magic stones]] are viewed as Irregulars. DanMachi 12's moss huge, which went *down* to deeper floors after stronger magic stones, is "the exact opposite of a typical Irregular". To prevent them, supporters gather the magic stones after a battle.[@fm12-types, fm13-stones]
+- **Outbreaks and mass spawns:** in DanMachi 9 [[monsters#firebird|firebirds]] overflow onto the nineteenth floor. "Mass spawns were just another one of the Dungeon's Irregulars", like the [[monsters#poison-vermis|poison vermis]] that Loki Familia meets in Sword Oratoria 5.[@fm09-definition, so05-spawns, ss02-vermis]
+- **Subspecies:** in Aiz's memories of Sword Oratoria 9, a pure-black [[monsters#wyvern|wyvern]] on the upper floors is "clearly an Irregular, a subspecies".[@so09-wyvern] The armed monsters that overrun [[rivira|Rivira]] in DanMachi 10 are taken for a special subspecies.[@fm10-rivira]
+- **Enhanced species:** monsters that grow strong by eating others' [[magic-stone|magic stones]] are viewed as Irregulars. DanMachi 12's [[monsters#moss-huge|moss huge]], which went *down* to deeper floors after stronger magic stones, is "the exact opposite of a typical Irregular". To prevent them, supporters gather the magic stones after a battle.[@fm12-types, fm13-stones]
 - **Unknown monsters:** the [[juggernaut|Juggernaut]], "The being the Dungeon spawned five years ago", was an Irregular that not even [[ouranos|Ouranos]] had anticipated. In DanMachi 14 the moss huge and the [[lambton|lambton]] come "one Irregular after another".[@fm13-juggernaut, fm14-another]
 - **Floor bosses:** the Black [[goliath|Goliath]]'s appearance in [[floor-18|Floor 18]]'s safe point "hasn't happened in this era".[@fm06-safe-point, fm05-calamity]
 
@@ -70,7 +70,7 @@ An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. 
 
 {{nocite}} Lowercase *irregular* also appears in the phrase *irregular ailments*, meaning status ailments such as poison; it is a different use.
 
-- **Irregular ailments:** the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] from the nineteenth floor is known for "Irregular attacks, like ones that involve poison". A mermaid's charm is among the nastiest of the "irregular ailments".[@fm12-ailments, fm12-siren]
+- **Irregular ailments:** the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] from the nineteenth floor is known for "Irregular attacks, like ones that involve poison". A [[monsters#mermaid|mermaid]]'s charm is among the nastiest of the "irregular ailments".[@fm12-ailments, fm12-siren]
 
 [@fm01-floors]: FM01 | Chapter 2: That’s Why I Run | "Each floor bears different monsters."; "some irregulars might go up or down a floor or two".
 [@fm01-minotaur]: FM01 | | "Yes, the Minotaur was an irregular."

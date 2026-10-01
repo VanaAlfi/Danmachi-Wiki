@@ -53,7 +53,7 @@ Nahza Ersuisu is a sleepy-eyed [[races#chienthrope|chienthrope]], Miach Familia'
 
 ### Daphne Laulos and Cassandra Illion
 
-[[daphne|Daphne Laulos]] and [[cassandra|Cassandra Illion]], former third-tier adventurers of Apollo Familia, considered joining Hestia Familia but convert into Miach Familia after the War Game, making Nahza "a friend and ally".[@fm08-join] DanMachi 8 notes that they chose that debt-ridden Familia of their own accord.[@fm08-choice] Both join Hestia Familia's joint expedition in DanMachi 12 and reach Level 3 on it; Nahza jokes about the extra tax the Familia will have to pay.[@fm12-join, fm15-level]
+[[daphne|Daphne Laulos]] and [[cassandra|Cassandra Illion]], former third-tier adventurers of [[apollo-familia|Apollo Familia]], considered joining Hestia Familia but convert into Miach Familia after the War Game, making Nahza "a friend and ally".[@fm08-join] DanMachi 8 notes that they chose that debt-ridden Familia of their own accord.[@fm08-choice] Both join Hestia Familia's joint expedition in DanMachi 12 and reach Level 3 on it; Nahza jokes about the extra tax the Familia will have to pay.[@fm12-join, fm15-level]
 
 ## History
 

@@ -12,7 +12,7 @@
   "sections": [
     {"anchor": "maria", "title": "Mother Maria", "summary": "The elderly woman who runs the orphanage: once left behind by an adventurer, she took in an abandoned child and then many more.", "aliases": ["Maria"]},
     {"anchor": "lai", "title": "Lai", "summary": "The human boy who has lived at the orphanage longest and wants to be an adventurer; he throws a rock at the barbarian to save Bell.", "aliases": []},
-    {"anchor": "fina", "title": "Fina", "summary": "The chienthrope girl who leads the children with Lai; printed once as Fiona.", "aliases": ["Fiona"]},
+    {"anchor": "fina", "title": "Fina", "summary": "The chienthrope girl who leads the children with Lai; printed twice as Fiona.", "aliases": ["Fiona"]},
     {"anchor": "ruu", "title": "Ruu", "summary": "The dreamy half-elf child whom Wiene shields from falling rubble in DanMachi 11.", "aliases": []},
     {"anchor": "ossian", "title": "Ossian", "summary": "A small prum boy of the orphanage who tells Finn in Sword Oratoria 10 that his stories make him feel brave.", "aliases": []}
   ],
@@ -53,7 +53,7 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 ## Fina {#fina}
 
-**Fina** is a [[races#chienthrope|chienthrope]] girl with long cream-coloured hair and a cream-coloured tail. She and Lai are the oldest of the children and their leaders.[@fm08-fina, fm16-fina] DanMachi 18 once prints her name as *Fiona*.[@fm18-watch]
+**Fina** is a [[races#chienthrope|chienthrope]] girl with long cream-coloured hair and a cream-coloured tail. She and Lai are the oldest of the children and their leaders.[@fm08-fina, fm16-fina] DanMachi 18 prints her name twice as *Fiona*.[@fm18-watch]
 
 ## Ruu {#ruu}
 

@@ -27,7 +27,7 @@
 
 ## Apollo Familia
 
-Daphne first appears with Cassandra, delivering Apollo's invitation to [[bell-cranell|Bell]]; [[eina-tulle|Eina]] identifies both as Level 2, third-tier adventurers.[@fm06-intro] She had been conscripted into the Familia by force, after Apollo chased her and Cassandra from city to city until they gave in. She thinks less of Apollo than members like [[hyacinthus|Hyacinthus]] do, but he treats her well, and she follows his orders out of a sense of duty.[@fm06-chased, fm06-conscripted] In Apollo's hunt for Bell she leads a team across the rooftops, sympathising with the boy even as she pursues him.[@fm06-hunt] DanMachi 13 says she had been pushed into the role of commander in Apollo Familia.[@fm13-commander]
+Daphne first appears with Cassandra, delivering Apollo's invitation to [[bell-cranell|Bell]]; [[eina-tulle|Eina]] identifies both as Level 2, third-tier adventurers.[@fm06-intro] She had been conscripted into the Familia by force, after Apollo chased her and Cassandra from city to city until they gave in. She thinks less of Apollo than members like [[hyacinthus|Hyacinthus]] do, but he treats her well, and she follows his orders out of a sense of duty.[@fm06-chased, fm06-conscripted] In Apollo's hunt for Bell she leads a team across the rooftops, sympathising with the boy even as she pursues him.[@fm06-hunt] DanMachi 13 says she had been pushed into the role of commander in [[apollo-familia|Apollo Familia]].[@fm13-commander]
 
 At Shreme Castle before the [[war-game|War Game]] she keeps the other members at the wall repairs, and dismisses Cassandra's warning that the castle will fall as "another dream".[@fm06-castle]
 

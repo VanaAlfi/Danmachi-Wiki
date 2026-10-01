@@ -24,7 +24,7 @@
   }
 }
 ---
-**Filvis Challia** is the elf captain of Dionysus Familia and a friend of [[lefiya|Lefiya Viridis]].[@so04-captain, so05-filvis] Publicly known as a Level 3, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
+**Filvis Challia** is the elf captain of [[dionysus-familia|Dionysus Familia]] and a friend of [[lefiya|Lefiya Viridis]].[@so04-captain, so05-filvis] Publicly known as a Level 3, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
 
 ## Filvis and Lefiya
 

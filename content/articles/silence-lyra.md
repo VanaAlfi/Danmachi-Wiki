@@ -34,7 +34,7 @@ DanMachi 18 prints the name as *Silence Lyra*; Astrea Record 3 calls the accesso
 
 ## Description
 
-The accessory was first developed, by Perseus, to protect against the enticing songs of mermaids and sirens.[@ar03-lyre] On [[finn-deimne|Finn]]'s orders, [[asfi|Asfi]] modified it to guard against the harmful effects of any sound-based attack.[@ar03-lyre]
+The accessory was first developed, by Perseus, to protect against the enticing songs of [[monsters#mermaid|mermaids]] and [[monsters#siren|sirens]].[@ar03-lyre] On [[finn-deimne|Finn]]'s orders, [[asfi|Asfi]] modified it to guard against the harmful effects of any sound-based attack.[@ar03-lyre]
 
 The modified version uses both active and passive noise cancellation: it surrounds the wearer with a field that weakens incoming sound waves.[@ar03-lyre]
 

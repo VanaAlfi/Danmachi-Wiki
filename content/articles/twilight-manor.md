@@ -48,7 +48,7 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 | Astrea Record 1 | Finn receives reports in the manor's office.[@ar01-office] When the [[evils|Evils]] attack the city, Loki moves her remaining followers from the manor to [[central-park|Central Park]].[@ar01-park] |
 | Astrea Record 3 | One of the five strongholds sheltering the evacuated residents, with Guild Headquarters, the arena, the Casino and Ganesha Familia's home.[@ar03-strongholds] Finn leaves its defence to [[noir-dyne-and-bahra|Noir]], one of the Familia's elders, while he commands at Guild Headquarters.[@ar03-gates] Noir, Dyne and Bahra fight the monsters before its gates, and [[alicia-forestlight|Alicia]], newly Level 2, shoots from the battlements.[@ar03-defence] |
 | DanMachi 7 and Sword Oratoria 7 | From the top of the manor Loki watches the [[pleasure-quarter|Pleasure Quarter]] burn in the southeast, as windows across the manor fly open.[@fm07-loki, so07-loki] |
-| Sword Oratoria 12 | The Xenos siren [[rei|Rei]] is hidden in the manor in strict secrecy; the lower-level members know nothing of it. She stays at the top of the northwest spire.[@so12-rei, so12-spire] |
+| Sword Oratoria 12 | The Xenos [[monsters#siren|siren]] [[rei|Rei]] is hidden in the manor in strict secrecy; the lower-level members know nothing of it. She stays at the top of the northwest spire.[@so12-rei, so12-spire] |
 | Sword Oratoria 14 | Loki Familia celebrates Finn, Riveria and Gareth reaching Level 7 there.[@so14-party] |
 
 [@so01-towers]: SO01 | Chapter 3: White Rabbit | Dark red towers like spears; the flag of the Trickster on the highest tower; "Loki Familia’s home, Twilight Manor."

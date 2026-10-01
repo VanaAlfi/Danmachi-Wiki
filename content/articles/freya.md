@@ -36,7 +36,7 @@ Freya's Eyes of Insight let her see the truth inside mortal souls. They are a na
 
 Her charm can reach mortals and gods through sight or voice. In DanMachi 17 she turns it on the whole city, rewriting what [[orario|Orario]] believes about Bell.[@fm17-charm, fm17-seizure] Her beauty is treated as a divine authority, like [[hephaistos|Hephaistos]]'s forging, rather than as Arcanum.[@fm17-authority] Virgin goddesses such as [[hestia|Hestia]] can reject the charm of a goddess of beauty, and Hestia breaks Freya's hold on the city.[@fm17-hearth]
 
-[[mia-grand|Mia Grand]] made Freya promise never to charm her.[@fm18-mia]
+Freya resolved never to charm [[mia-grand|Mia Grand]].[@fm18-mia]
 
 ## Syr Flover {#syr}
 
@@ -102,7 +102,7 @@ Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-
 [@fm17-love]: FM17 | Chapter 5: The End of Her World | "I fell in love with your soul at first sight."
 [@fm17-wager]: FM17 | Chapter 5: The End of Her World | The Familia War declared.
 [@fm17-double]: FM17 | Double Role I | Freya's recollection: the silverback, the grimoire, falling in love.
-[@fm18-mia]: FM18 | | Mia's promise from Freya.
+[@fm18-mia]: FM18 | Monologue VI | "She decided in her heart that this dwarf alone she would never charm."
 [@fm18-odr]: FM18 | Chapter 9: Flower Language for You | Bell refuses to be her Odr; her flower scattered.
 [@fm18-orza]: FM18 | | No deaths in the War Game.
 [@fm18-dissolved]: FM18 | Epilogue: Double Cast | Banishment and dissolution.

@@ -22,14 +22,14 @@
   }
 }
 ---
-**Balder** is a god and the principal and patron of [[school-district|the School District]].[@so13-balder] His own class, Balder Class, includes the professor [[leon-verdenberg|Leon Verdenberg]] as its captain and the student [[nina-tulle|Nina Tulle]].[@so13-leon, fm20-nina]
+**Balder** is a god and the principal and patron of [[school-district|the School District]].[@so13-balder] His own class, [[balder-class|Balder Class]], includes the professor [[leon-verdenberg|Leon Verdenberg]] as its captain and the student [[nina-tulle|Nina Tulle]].[@so13-leon, fm20-nina]
 
 ## History
 
 | Volume | Events |
 |---|---|
 | Sword Oratoria 13 | Assigns [[lefiya|Lefiya]] to the Seventh Squad, recognises that she is trying to become someone else, and coordinates the School District's response to a cave-in in the Dungeon.[@so13-balder] |
-| DanMachi 20 | Gives Nina permission to intern with [[hestia-familia|Hestia Familia]].[@fm20-nina] After the Orariad, his offer of help from the School District's Alchemy Department, and a hint that it might again allow recruitment of its students, finally overcomes [[guild|the Guild]]'s resistance to its proposal for the shaft project.[@fm20-shaft] |
+| DanMachi 20 | Gives Nina permission to intern with [[hestia-familia|Hestia Familia]].[@fm20-nina] After the [[orariad|Orariad]], his offer of help from the School District's Alchemy Department, and a hint that it might again allow recruitment of its students, finally overcomes [[guild|the Guild]]'s resistance to its proposal for the shaft project.[@fm20-shaft] |
 
 [@so13-balder]: SO13 | | Principal and patron; Lefiya; the cave-in.
 [@so13-leon]: SO13 | | Leon, captain of Balder Class.

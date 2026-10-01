@@ -82,7 +82,7 @@ Bete then takes over. He strips away her armour, and when the light around her f
 |---|---|
 | Astrea Record 1 | Aisha counts her own band among the weakest of the Berbera, with stronger warriors such as "the toadess Phryne".[@ar01-toadess] |
 | Astrea Record 3 | In the Great Conflict she charges with Aisha and Samira as the Berbera cut through monsters.[@ar03-charge] |
-| DanMachi 9 and 11 | Bell suspects the lizardman [[lido|Lido]] could be stronger than Phryne, and finds Aiz in their fight far beyond her.[@fm09-lido, fm11-aiz] |
+| DanMachi 9 and 11 | Bell suspects the [[monsters#lizardman|lizardman]] [[lido|Lido]] could be stronger than Phryne, and finds Aiz in their fight far beyond her.[@fm09-lido, fm11-aiz] |
 | DanMachi 14 | Aisha recalls killing the [[amphisbaena|Amphisbaena]] many times with a band of Level 3 Berbera and Phryne. Haruhime remembers deep-level battles in which even Phryne was wounded until she vomited blood.[@fm14-amphisbaena, fm14-deep] |
 | Sword Oratoria 8 | Bete recalls subduing her at Meren. During the Amazon hunt Aisha scoffs at the idea that the assassins could kill "that frog".[@so08-meren, so08-aisha] |
 | Sword Oratoria 10 | Aiz recalls the light particles around Phryne at Meren a month earlier.[@so10-aiz] |

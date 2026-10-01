@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Human swordswoman of Loki Familia, called the Kenki or Sword Princess, who saves Bell Cranell in DanMachi 1 and is the lead of Sword Oratoria. Level 6 from DanMachi 2.",
-  "aliases": ["Kenki", "Sword Princess"],
+  "aliases": ["Kenki", "Sword Princess", "Aizuu"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–12 and Astrea Record Vols. 2 and 3",
   "related": ["bell-cranell", "skills", "level", "development-ability", "the-benevolent-mistress", "hestia", "magic"],
   "infobox": {
@@ -106,6 +106,8 @@ In Sword Oratoria 9's recollection, seven-year-old Aiz first speaks "Awaken, Tem
 
 Aiz tells the creature [[levis|Levis]] that Aria is her mother.[@so03-aria] Riveria confirms that Aiz has spirit blood.[@so05-spirit] Her memories in Sword Oratoria 10 recall losing her mother and then her father when her home was destroyed.[@so10-parents]
 
+Her favourite food is [[jyaga-maru-kun|Jyaga Maru Kun]], one of her "secret guilty pleasures"; Loki first bought it for her in her early years with Loki Familia.[@so04-jmk, so01-jmk, so09-jmk]
+
 Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstejn. Bell notices the likeness between *Valdstejn* and *Wallenstein* and suspects a connection, but it remains his theory.[@fm15-grave, fm16-albert, fm20-albert]
 
 ## With Bell Cranell
@@ -130,6 +132,9 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 > - In Astrea Record 2 [[alfia|Alfia]] calls her the "Dungeon girl"; the full meaning of that name is not explained.[@ar02-aiz]
 
 [@fm01-aiz]: FM01 | | Loki Familia swordswoman, Level 5; saves Bell; her apology.
+[@so01-jmk]: SO01 | Chapter 4: Between Tranquility and Turbulence | "This food was actually one of Aiz’s secret guilty pleasures."
+[@so04-jmk]: SO04 | First Chapter: And the Boy… | "Jyaga Maru Kun, Aiz’s favorite food".
+[@so09-jmk]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | "That was Aiz’s introduction to Jyaga Maru Kun."
 [@fm02-level6]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Rumours of a Level 6 Kenki.
 [@fm03-apology]: FM03 | Chapter 1: The Kenki Approches | The vambrace, apology and training offer.
 [@fm04-kenki]: FM04 | Chapter 1: Denatus | Kenki, chosen by the gods.

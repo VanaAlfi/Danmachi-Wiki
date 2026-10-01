@@ -323,7 +323,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly touches her head a
 | DanMachi 2 | Changes appearance to escape an adventurer.[@cinder-ella.fm02-release] |
 | DanMachi 5 | Disguised as a monster, she lures adventurers into trouble and frees Hestia.[@cinder-ella.fm05-release] |
 | DanMachi 6 | Passes as Apollo Familia's Luan during the [[war-game|War Game]] and slips through to the castle's west gate.[@cinder-ella.fm06-luan] |
-| DanMachi 11 | Poses as the al-miraj Aruru and then as [[finn-deimne|Finn]] during the chase through Daedalus Street.[@cinder-ella.fm11-chase, cinder-ella.fm11-finn] |
+| DanMachi 11 | Poses as the al-miraj [[al-miraj#aruru|Aruru]] and then as [[finn-deimne|Finn]] during the chase through Daedalus Street.[@cinder-ella.fm11-chase, cinder-ella.fm11-finn] |
 | Sword Oratoria 12 | Takes Finn's form to command in his place.[@cinder-ella.so12-finn] |
 | DanMachi 18 | Passes as Berling and breaks the [[gulliver-brothers|Gulliver brothers]]' coordination until a spear dispels it.[@cinder-ella.fm18-dispel] |
 
@@ -375,7 +375,7 @@ In DanMachi 19, Bell says "Blasphemous Burn" as a fake chant while casting his o
 
 #### Effects {#will-o-the-wisp-effects}
 
-On its first use, against hellhounds on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on a member of his old Familia.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain]
+On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on a member of his old Familia.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain]
 
 {{nocite}} The novels show it working on several kinds of target:
 
@@ -2173,7 +2173,7 @@ Sword Oratoria 7 prints chant and name as one line, the name in capitals, and sa
 
 #### Effect {#dio-thyrsos-effect}
 
-In Sword Oratoria 3 Filvis starts the chant while cutting down two lizardmen, using Concurrent Casting, and the lightning roasts a cluster of dark fungi and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
+In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#lizardman|lizardmen]], using Concurrent Casting, and the lightning roasts a cluster of dark fungi and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
 
 #### Notable uses {#dio-thyrsos-notable-uses}
 
@@ -2442,7 +2442,7 @@ Leon contrasts it with [[ottar|Ottar]]'s beast transformation, which boosts his 
 
 | Volume | Use |
 |---|---|
-| DanMachi 20 | In the Orariad match against Bell and Nina: Bell's charged strike shatters the first sword, Percil; the twin blades, Gable, break after cutting down seventy-seven Firebolts; then comes the ax, Darbazar.[@blaze-of-the-round.fm20-cast, blaze-of-the-round.fm20-gable, blaze-of-the-round.fm20-buff] |
+| DanMachi 20 | In the [[orariad|Orariad]] match against Bell and Nina: Bell's charged strike shatters the first sword, Percil; the twin blades, Gable, break after cutting down seventy-seven Firebolts; then comes the ax, Darbazar.[@blaze-of-the-round.fm20-cast, blaze-of-the-round.fm20-gable, blaze-of-the-round.fm20-buff] |
 | DanMachi 20 | When a centipede dragon breaks into the match, Darbazar is cleared and Phyron, a greatshield, takes its place; Leon holds the dragon's attention while Bell charges.[@blaze-of-the-round.fm20-dragon] |
 
 #### Open questions {#blaze-of-the-round-open-questions}
@@ -2899,7 +2899,7 @@ The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’
 
 ### Vana Seiðr {#vana-seidr}
 
-**Vana Seiðr** is [[horn|Hörn]]'s magic: "divine sorcery—a transformation spell".[@vana-seidr.fm16-names] It lets her become an exact copy of the goddess [[freya|Freya]] in every way except that she lacks Arcanum.[@vana-seidr.fm16-names, vana-seidr.fm18-form] DanMachi 17 calls it "a secret spell that is hers alone".[@vana-seidr.fm17-senses]
+**Vana Seiðr** is [[horn|Hörn]]'s magic: "divine sorcery—a transformation spell".[@vana-seidr.fm16-names] It lets her become an exact copy of the goddess [[freya|Freya]] in every way except that she lacks [[tenkai-and-gekai#arcanum|Arcanum]].[@vana-seidr.fm16-names, vana-seidr.fm18-form] DanMachi 17 calls it "a secret spell that is hers alone".[@vana-seidr.fm17-senses]
 
 - **User:** [[horn|Hörn]][@vana-seidr.fm16-names]
 - **Type:** Transformation ("divine sorcery")[@vana-seidr.fm16-names]

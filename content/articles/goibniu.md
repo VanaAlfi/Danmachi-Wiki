@@ -29,7 +29,7 @@
 
 ## The god
 
-Goibniu is short but robust and looks more like a dwarf than a human: a thin, hawk-like face, white hair to just below his ears, and a thick silver beard that hides his mouth.[@so01-goibniu, fm07-renovation] Sword Oratoria 2 adds that he is incredibly muscular for his size.[@so02-forge] He is a man of few words. Like any god in Orario his Arcanum is sealed, so apart from his skill as a smith he is no different from an ordinary man, and he needs his followers to finish large jobs.[@so01-goibniu] Aiz's orders go to him personally, on his strict instructions.[@so01-goibniu]
+Goibniu is short but robust and looks more like a dwarf than a human: a thin, hawk-like face, white hair to just below his ears, and a thick silver beard that hides his mouth.[@so01-goibniu, fm07-renovation] Sword Oratoria 2 adds that he is incredibly muscular for his size.[@so02-forge] He is a man of few words. Like any god in Orario his [[tenkai-and-gekai#arcanum|Arcanum]] is sealed, so apart from his skill as a smith he is no different from an ordinary man, and he needs his followers to finish large jobs.[@so01-goibniu] Aiz's orders go to him personally, on his strict instructions.[@so01-goibniu]
 
 He is hard to join. When students of the [[school-district|School District]]'s Smithing Department last came to Orario, all of them wanted to join and all of them failed his test.[@so13-test] In DanMachi 19 two smithing students who failed their internship again complain that he will not accept their magitech sword and will not say why.[@fm19-students]
 
@@ -41,7 +41,7 @@ The Familia's workshop, the Three Hammers Forge, stands in a narrow, quiet distr
 |---|---|
 | Desperate | Aiz's saber, a Superior weapon made by the Familia's High Smiths and a Durandal that never breaks, though it needs sharpening.[@so01-desperate, so01-goibniu] |
 | Sword Air | Aiz's first trusted sword, a custom-made Damascus blade presented by Goibniu in Sword Oratoria 9's recollections.[@so09-sword-air, so09-damascus] |
-| Urga | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of adamantite.[@so01-workshop] |
+| [[urga|Urga]] | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of adamantite.[@so01-workshop] |
 | The Fortia Spear | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
 | Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item [[udaeus|Udaeus]] Black Sword.[@fc02-ottar] |
 | Other orders | Lilly's wrist crossbow, made for prums; Mikoto's pair of black and white short swords, bought by Takemikazuchi; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
@@ -55,7 +55,7 @@ The Familia's workshop, the Three Hammers Forge, stands in a narrow, quiet distr
 | Astrea Record 2 | Alone, with blistered hands, he repairs the damaged Bridge of Heroes and its statues: "We need this bridge…If it falls, we all fall." [[raul-nord|Raul]] and [[anakity-autumn|Anakity]] defend him against six cultists.[@ar02-bridge] |
 | Astrea Record 3 | With no trained mage free, Goibniu himself helps with the magical work on [[lyu-leon|Lyu]]'s wooden sword, which the captain calls a rush job.[@ar03-lyu] |
 | Sword Oratoria 1 | Lends Aiz a rapier while Desperate is repaired, telling her that most blades would not last a week in her hands.[@so01-goibniu] |
-| Sword Oratoria 2 | The rapier comes back shattered after the Monsterphilia; Desperate's repair costs about forty million valis, which sends Aiz into the Dungeon to earn it.[@so02-forge, so02-bill] |
+| Sword Oratoria 2 | The rapier comes back shattered after the [[monsterphilia|Monsterphilia]]; Desperate's repair costs about forty million valis, which sends Aiz into the Dungeon to earn it.[@so02-forge, so02-bill] |
 | Minor Myths and Legends 1 | Returns Finn's restored spear and tells him that a prum girl has ordered a crossbow. Finn asks him to put his leftover material toward her new weapon.[@ss01-finn] |
 | Sword Oratoria 12 | When monsters reach the surface, he opens his Familia's stockpile and hands top-tier weapons to adventurers such as [[bors|Bors]]'s group.[@so12-stockpile] |
 | Sword Oratoria 13 | Helps the Guild rebuild the damaged city.[@so13-rebuilding] |

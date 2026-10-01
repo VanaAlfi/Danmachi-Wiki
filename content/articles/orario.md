@@ -49,8 +49,8 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 
 | Volume | Events |
 |---|---|
-| DanMachi 1 | Monsters escape into the streets during the Monsterphilia festival.[@fm01-monsterphilia] |
-| DanMachi 11 | Bell's rematch with [[asterios|Asterios]] moves from Daedalus Street to Central Park, where it can be seen across the city.[@fm11-rematch] |
+| DanMachi 1 | Monsters escape into the streets during the [[monsterphilia|Monsterphilia]] festival.[@fm01-monsterphilia] |
+| DanMachi 11 | Bell's rematch with [[asterios|Asterios]] moves from Daedalus Street to [[central-park|Central Park]], where it can be seen across the city.[@fm11-rematch] |
 | DanMachi 16 | The three-day Goddess Festival.[@fm16-festival] |
 | DanMachi 17 | Freya's charm covers the whole city and rewrites what it believes; Hestia breaks it from Babel.[@fm17-charm, fm17-babel] |
 | DanMachi 18 | The Familia War is shown to the city; afterwards Folkvangr is placed under Guild management.[@fm19-broadcast, fm18-folkvangr] |

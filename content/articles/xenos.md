@@ -6,9 +6,12 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
-  "aliases": ["Fia", "Lett"],
-  "spoilers": "DanMachi Vols. 8–19 and Sword Oratoria Vols. 10–12",
-  "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia"],
+  "aliases": ["Fia", "Lett", "Ranieh"],
+  "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
+  "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
+  "sections": [
+    {"anchor": "ranieh", "title": "Ranieh", "summary": "An arachne Xenos who distrusted surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushed her own magic stone rather than be abused, and her acid led the Xenos to one of the hunters.", "aliases": []}
+  ],
   "infobox": {
     "title": "Xenos",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -35,13 +38,23 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 
 | Xenos | Notes |
 |---|---|
-| [[lido|Lido]] | Scarlet lizardman and the Xenos' current leader; a dual-sword fighter.[@fm09-lido] |
-| [[wiene|Wiene]] | A vouivre girl whom [[bell-cranell|Bell]] finds on Floor 19; [[hestia|Hestia]] names her Wiene.[@fm09-wiene] |
+| [[lido|Lido]] | Scarlet [[monsters#lizardman|lizardman]] and the Xenos' current leader; a dual-sword fighter.[@fm09-lido] |
+| [[wiene|Wiene]] | A [[monsters#vouivre|vouivre]] girl whom [[bell-cranell|Bell]] finds on Floor 19; [[hestia|Hestia]] names her Wiene.[@fm09-wiene] |
 | [[gros|Gros]] | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
 | [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 | Fia | A red-haired harpy, more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
 | Lett | A "gentlemanly" red-cap goblin with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
+| [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
+| [[#ranieh|Ranieh]] | An arachne who distrusts surface people; killed by Ikelos Familia's hunters in DanMachi 10.[@fm10-ranieh, fm10-death] |
+
+## Ranieh {#ranieh}
+
+Ranieh is an arachne: she has the upper body of a woman and the many legs of a spider. She wears adventurer's armour and a helmet whose visor hides her face, and she takes the helmet off only among Xenos. Under it she has white hair and red, human-like eyes, unlike the compound eyes of ordinary arachnes.[@fm10-ranieh] She speaks the language of people better than most Xenos, but unlike Lido and Rei she belongs to the Xenos who detest the surface. She tells [[wiene|Wiene]] that she knows nothing of people's "cruelty, their cunning".[@fm10-ranieh, fm10-hatred]
+
+In DanMachi 10 Ranieh leads a party of six, among them Wiene and the harpy Fia, through the Dungeon.[@fm10-ranieh] When Wiene hears cries for help, Ranieh leads them to a crucified siren. She ignores [[gros|Gros]], who warns her through a paired crystal that it may be a trap, and the party is ambushed by [[ikelos-familia|Ikelos Familia]]'s hunters.[@fm10-trap] With both arms and all her legs broken, she is captured. When the hunters move to abuse her, she spits acid onto three of them, and as they stab her she tears out her own magic stone and crushes it, crying "I’d never let you have it!!"[@fm10-death]
+
+Gros, who saw her death through the crystal, calls on the Xenos to avenge "Ranieh, Orde, Cliff, and Foh".[@fm10-revenge] One of the hunters she burned takes refuge in [[rivira|Rivira]], and the smell of her acid leads the Xenos there; the narration says "That was her goal all along."[@fm10-acid] Minor Myths and Legends 1 shows her earlier in the Hidden Village on the twentieth floor, offering to teach the newly arrived, weeping Wiene "how things work around here", to Lido's alarm.[@ss01-ranieh]
 
 ## History
 
@@ -80,6 +93,13 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@so10-gros]: SO10 | | Gros spares Bell; Rei shields Alicia.
 [@so10-compact]: SO10 | | The Loki–Ouranos compact; Finn's limited alliance.
 [@fm09-lett]: FM09 | Chapter 5: Heretics | "Lett and his team started observing you upstairs, on the nineteenth floor."
+[@fm10-ranieh]: FM10 | Chapter 7: The King of Atrocity | "an arachne, a harpy, a formoire, a hippogriff, a war shadow"; "Her name was Ranieh."; "an arachne Xenos"; "arachnes typically had compound eyes"; "better command of the language spoken by people than most Xenos".
+[@fm10-hatred]: FM10 | Chapter 7: The King of Atrocity | "Ranieh was part of the group of Xenos that detested the people who lived on the surface."; "Nothing of their cruelty, their cunning."
+[@fm10-trap]: FM10 | Chapter 7: The King of Atrocity | "A-a voice……"; "Wait, Ranieh. Do nothing until we arrive."; "It could be a trap"; "It was a lone siren, both her wings nailed in place with steel stakes."
+[@fm10-death]: FM10 | Chapter 7: The King of Atrocity | "Both arms and all spider legs broken"; "She opened her jaws wide and spat some fluid onto the three men"; "Ranieh’s was highly acidic"; "Even…if I die—I’d never let you have it!!"; "the magic stone shattered".
+[@fm10-revenge]: FM10 | Chapter 7: The King of Atrocity | "He shared a set of twin crystals with Ranieh."; "Revenge for Ranieh, Orde, Cliff, and Foh!!"
+[@fm10-acid]: FM10 | Chapter 9: Dreams of Beasts | "You reek of arachne acid!!"; "That was her goal all along."
+[@ss01-ranieh]: SS01 | | "Allow me to teach her how things work around here."; "Ranieh, you stay back! You want to scare her off already?!"
 [@fm10-fia]: FM10 | Chapter 7: The King of Atrocity | "The harpy named Fia"; "deep-red hair"; "much more interested in the surface and its inhabitants than anyone else".
 [@fm10-captured]: FM10 | Chapter 7: The King of Atrocity | "Ranieh’s band has been slaughtered; Wiene and Fia, captured."
 [@fm10-cages]: FM10 | Chapter 9: Dreams of Beasts | "The harpy Fia was in the first cage in the row"; "Lido left Fia in Lett’s care".

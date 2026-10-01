@@ -36,9 +36,9 @@ At the centre of the district, an abandoned church houses [[marias-orphanage|Mar
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 1 | Crowds gather at its entrance to celebrate an adventurer's return during the Monsterphilia disturbance.[@so01-crowd] |
+| Sword Oratoria 1 | Crowds gather at its entrance to celebrate an adventurer's return during the [[monsterphilia|Monsterphilia]] disturbance.[@so01-crowd] |
 | DanMachi 10 | [[bell-cranell|Bell]] publicly stands up for the Xenos girl [[wiene|Wiene]] there, and [[loki-familia|Loki Familia]] fights the Xenos in its streets.[@fm10-daedalus] |
-| DanMachi 11 | Loki Familia runs its operation from the district's centre. Bell's rematch with [[asterios|Asterios]] begins in its northwestern plaza and moves to Central Park.[@fm11-daedalus, so10-plaza, fm11-park] |
+| DanMachi 11 | Loki Familia runs its operation from the district's centre. Bell's rematch with [[asterios|Asterios]] begins in its northwestern plaza and moves to [[central-park|Central Park]].[@fm11-daedalus, so10-plaza, fm11-park] |
 | Sword Oratoria 11 | [[ganesha-familia|Ganesha Familia]] evacuates and guards the district during the assault on Knossos.[@so11-daedalus] |
 | DanMachi 16 | Syr makes her confession to Bell in a secluded park in the district known only to the two of them.[@fm16-park] |
 

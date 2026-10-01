@@ -23,7 +23,7 @@
   }
 }
 ---
-A **War Game** is a battle between Familias fought under rules agreed in advance.[@fm06-rules] The gods watch it through the Divine Mirror, a limited use of Arcanum that projects distant events and needs [[ouranos|Ouranos]]'s permission, and the fighting is shown across [[orario|Orario]].[@fm06-mirror, fm19-broadcast] The stakes can be severe: the losing god may lose their Familia, property and place in the city.[@fm06-manor, fm18-dissolved]
+A **War Game** is a battle between Familias fought under rules agreed in advance.[@fm06-rules] The gods watch it through the Divine Mirror, a limited use of [[tenkai-and-gekai#arcanum|Arcanum]] that projects distant events and needs [[ouranos|Ouranos]]'s permission, and the fighting is shown across [[orario|Orario]].[@fm06-mirror, fm19-broadcast] The stakes can be severe: the losing god may lose their Familia, property and place in the city.[@fm06-manor, fm18-dissolved]
 
 ## Hestia Familia against Apollo Familia (DanMachi 6)
 

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
-      {"label": "Kind", "value": "Vouivre", "refs": ["fm09-wiene"]},
+      {"label": "Kind", "value": "[[monsters#vouivre|Vouivre]]", "refs": ["fm09-wiene"]},
       {"label": "Found", "value": "On Floor 19, by Bell", "refs": ["fm09-found"]},
       {"label": "Named by", "value": "Hestia, from Bell's suggestion", "refs": ["fm09-name"]},
       {"label": "Lives with", "value": "Lido's group of [[xenos|Xenos]]", "refs": ["fm09-lido", "fm11-village"]}
@@ -22,7 +22,7 @@
   }
 }
 ---
-**Wiene** is a vouivre, one of the [[xenos|Xenos]]. [[bell-cranell|Bell Cranell]] finds her newly born on Floor 19 and brings her home to [[hestia-familia|Hestia Familia]].[@fm09-wiene, fm09-found] Hestia names her Wiene after a name Bell suggests.[@fm09-name]
+**Wiene** is a [[monsters#vouivre|vouivre]], one of the [[xenos|Xenos]]. [[bell-cranell|Bell Cranell]] finds her newly born on Floor 19 and brings her home to [[hestia-familia|Hestia Familia]].[@fm09-wiene, fm09-found] Hestia names her Wiene after a name Bell suggests.[@fm09-name]
 
 ## Birth
 

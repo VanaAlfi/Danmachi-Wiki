@@ -66,7 +66,7 @@ Sword Oratoria 7 prints chant and name as one line, the name in capitals, and sa
 
 #### Effect {#dio-thyrsos-effect}
 
-In Sword Oratoria 3 Filvis starts the chant while cutting down two lizardmen, using Concurrent Casting, and the lightning roasts a cluster of dark fungi and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
+In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#lizardman|lizardmen]], using Concurrent Casting, and the lightning roasts a cluster of dark fungi and burns their spores out of the air.[@dio-thyrsos.so03-cast] In Sword Oratoria 7 she drives a golden bolt into the ground.[@dio-thyrsos.so07-cast] Once revealed as a creature in Sword Oratoria 12, she fires it as black lightning.[@dio-thyrsos.so12-final]
 
 {{nocite}} Notable uses and open questions for Dio Thyrsos are on the combined page: [[magic#dio-thyrsos|Magic § Dio Thyrsos]].
 

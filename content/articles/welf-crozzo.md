@@ -99,7 +99,7 @@ In DanMachi 19, Bell says "Blasphemous Burn" as a fake chant while casting his o
 
 #### Effects {#will-o-the-wisp-effects}
 
-On its first use, against hellhounds on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on a member of his old Familia.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain]
+On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on a member of his old Familia.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain]
 
 {{nocite}} The novels show it working on several kinds of target:
 

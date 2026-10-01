@@ -26,7 +26,7 @@
 
 ## The Great Conflict
 
-During the [[great-conflict|Great Conflict]] Astrea treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-astrea] She explains that restoring the city with Arcanum could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum] In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus]
+During the [[great-conflict|Great Conflict]] Astrea treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-astrea] She explains that restoring the city with [[tenkai-and-gekai#arcanum|Arcanum]] could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum] In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus]
 
 ## After Orario
 

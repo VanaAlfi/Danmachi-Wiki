@@ -51,12 +51,12 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 
 | Volume | Events |
 |---|---|
-| Familia Chronicle 1 | At the Grand Casino she sees Lyu, one of the very few people who know both Lyu's face and that she is alive, and lets her act. Lyu slips her the [[status-thief|Status Thief]] vial that exposes the casino's owner.[@fc01-casino] |
+| Familia Chronicle 1 | At the [[el-dorado-resort|Grand Casino]] she sees Lyu, one of the very few people who know both Lyu's face and that she is alive, and lets her act. Lyu slips her the [[status-thief|Status Thief]] vial that exposes the casino's owner.[@fc01-casino] |
 | DanMachi 10 | Commands Ganesha Familia's force against the armed monsters, the [[xenos|Xenos]], on [[floor-18|Floor 18]], where the Guild has ordered them tamed. She fights with fists and whip.[@fm10-faith, fm10-subjugation, fm11-recovery] Then a single blow from the black [[minotaur|minotaur]], later called [[asterios|Asterios]], smashes her into a tree and leaves her motionless.[@fm10-asterios] Asterios counts her among the few adventurers he could not easily dispatch.[@fm10-asterios-view] |
 | DanMachi 11 | Recovering in bed at the Familia's home, she tells Ganesha, who had told her about the Xenos, that she feels both fierce anger and sympathy toward them; their hesitation cost Ganesha Familia lives.[@fm11-recovery] |
 | Sword Oratoria 11 | Guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]]; Ganesha tells her and Ilta that they need not be avengers for the murdered [[hashana|Hashana]].[@so11-daedalus] |
 | DanMachi 18 | Insists that Ganesha Familia do its duty and prepare the battlefield for the Familia War against [[freya-familia|Freya Familia]], and explains the politics to the angry Ilta.[@fm18-ilta] She opens the bridge to the Orza ruins for the coalition.[@fm18-bridge] |
-| DanMachi 20 | The School District's fighters name Ankusha as an adventurer to beware of.[@fm20-wary] At the Orariad she and Ilta win the tag-team match against the School District.[@fm20-orariad] |
+| DanMachi 20 | The School District's fighters name Ankusha as an adventurer to beware of.[@fm20-wary] At the [[orariad|Orariad]] she and Ilta win the tag-team match against the School District.[@fm20-orariad] |
 
 ## Open questions
 

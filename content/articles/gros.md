@@ -14,13 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
-      {"label": "Kind", "value": "Gargoyle", "refs": ["fm09-gros"]},
+      {"label": "Kind", "value": "[[monsters#gargoyle|Gargoyle]]", "refs": ["fm09-gros"]},
       {"label": "Among", "value": "The founding [[xenos|Xenos]]", "refs": ["fm09-gros"]}
     ]
   }
 }
 ---
-**Gros** is a gargoyle and one of the founding [[xenos|Xenos]]. He distrusts people, and insists that [[hestia-familia|Hestia Familia]] be tested before the Xenos accept it.[@fm09-gros]
+**Gros** is a [[monsters#gargoyle|gargoyle]] and one of the founding [[xenos|Xenos]]. He distrusts people, and insists that [[hestia-familia|Hestia Familia]] be tested before the Xenos accept it.[@fm09-gros]
 
 ## History
 

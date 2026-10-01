@@ -24,7 +24,7 @@
   }
 }
 ---
-**Leon Verdenberg** is the captain of Balder Class and the leading professor of [[school-district|the School District]], titled *Knight of Knights* and also *Ultra Page*.[@so13-leon] He is a Level 7, one of five named by DanMachi 20.[@fm20-leon, fm20-hearing] He was born to two [[races#half-dwarf|half-dwarf]] parents.[@fm20-parents]
+**Leon Verdenberg** is the captain of [[balder-class|Balder Class]] and the leading professor of [[school-district|the School District]], titled *Knight of Knights* and also *Ultra Page*.[@so13-leon] He is a Level 7, one of five named by DanMachi 20.[@fm20-leon, fm20-hearing] He was born to two [[races#half-dwarf|half-dwarf]] parents.[@fm20-parents]
 
 ## Teacher
 
@@ -36,7 +36,7 @@ In Sword Oratoria 6, [[riveria|Riveria]] speaks of only two Level 7s in the worl
 
 ## DanMachi 19–20
 
-Leon proposes an adventure to [[bell-cranell|Bell]] in DanMachi 19.[@fm19-proposal] In DanMachi 20 he takes Bell and [[nina-tulle|Nina]] north to the [[valley-of-dragons|Valley of Dragons]], shows them its seal, fights Bell in the Orariad and helps defeat an escaped dragon.[@fm20-leon, fm20-valley] Leon has the better of their fight, but it is recorded as a draw.[@fm20-draw] Bell believes Leon arranged the chance for him to learn the technique called afterglow; that is Bell's reading, not something Leon says.[@fm20-afterglow]
+Leon proposes an adventure to [[bell-cranell|Bell]] in DanMachi 19.[@fm19-proposal] In DanMachi 20 he takes Bell and [[nina-tulle|Nina]] north to the [[valley-of-dragons|Valley of Dragons]], shows them its seal, fights Bell in the [[orariad|Orariad]] and helps defeat an escaped dragon.[@fm20-leon, fm20-valley] Leon has the better of their fight, but it is recorded as a draw.[@fm20-draw] Bell believes Leon arranged the chance for him to learn the technique called afterglow; that is Bell's reading, not something Leon says.[@fm20-afterglow]
 
 ## Magic {#magic}
 

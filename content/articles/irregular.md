@@ -70,7 +70,7 @@ An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. 
 
 {{nocite}} Lowercase *irregular* also appears in the phrase *irregular ailments*, meaning status ailments such as poison; it is a different use.
 
-- **Irregular ailments:** the Colossal Tree Labyrinth from the nineteenth floor is known for "Irregular attacks, like ones that involve poison". A siren's charm is among the nastiest of the "irregular ailments".[@fm12-ailments, fm12-siren]
+- **Irregular ailments:** the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] from the nineteenth floor is known for "Irregular attacks, like ones that involve poison". A siren's charm is among the nastiest of the "irregular ailments".[@fm12-ailments, fm12-siren]
 
 [@fm01-floors]: FM01 | Chapter 2: That’s Why I Run | "Each floor bears different monsters."; "some irregulars might go up or down a floor or two".
 [@fm01-minotaur]: FM01 | | "Yes, the Minotaur was an irregular."

@@ -14,14 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
-      {"label": "Kind", "value": "Lizardman", "refs": ["fm09-lido"]},
+      {"label": "Kind", "value": "[[monsters#lizardman|Lizardman]]", "refs": ["fm09-lido"]},
       {"label": "Position", "value": "Leader of the [[xenos|Xenos]]", "refs": ["fm09-lido"]},
       {"label": "Fights with", "value": "Two swords", "refs": ["fm09-lido"]}
     ]
   }
 }
 ---
-**Lido** is a scarlet lizardman and the current leader of the [[xenos|Xenos]], a skilled fighter with two swords. A Xenos named Gryuu led before him.[@fm09-lido] The strongest fighter among them is not Lido but the newer arrival [[asterios|Asterios]]; leadership and strength are separate.[@fm09-lido]
+**Lido** is a scarlet [[monsters#lizardman|lizardman]] and the current leader of the [[xenos|Xenos]], a skilled fighter with two swords. A Xenos named Gryuu led before him.[@fm09-lido] The strongest fighter among them is not Lido but the newer arrival [[asterios|Asterios]]; leadership and strength are separate.[@fm09-lido]
 
 ## History
 

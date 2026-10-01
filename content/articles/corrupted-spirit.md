@@ -43,7 +43,7 @@ Watching Floor 59 through Fels's eye on Aiz's loin guard, [[ouranos|Ouranos]] re
 
 [[olivas-act|Olivas Act]] tells Loki Familia on Floor 24 that She wants to see the sky, and that the city blocking her view from underground must be destroyed.[@so03-olivas] In the Chamber of Prayers, Fels and Ouranos take the hybrid creatures to be a result of the corrupted spirit as well.[@so04-creatures] In Sword Oratoria 12 [[filvis|Filvis]] explains that a fragment of it was on Floor 27 on the day of the Twenty-Seventh-Floor Nightmare, drawn by the smell of blood and looking for new feelers among the adventurers there.[@so12-feelers]
 
-Its colourful monsters, the caterpillars and the violas, attack other monsters to collect [[magic-stone|magic stones]] for it. Finn calls them its "tentacles".[@so04-tentacles, so06-her] Loki explains in Sword Oratoria 6 that the violas prefer other monsters' magic stones even to human flesh.[@so06-dust] From the transformed terrain of Floor 59, and the tentacles that came up from far below to protect the demi-spirit, Ouranos concludes that the spirit's true form lies much deeper, past the sixtieth floor.[@so04-main]
+Its colourful monsters, the caterpillars and the [[monsters#violas|violas]], attack other monsters to collect [[magic-stone|magic stones]] for it. Finn calls them its "tentacles".[@so04-tentacles, so06-her] Loki explains in Sword Oratoria 6 that the violas prefer other monsters' magic stones even to human flesh.[@so06-dust] From the transformed terrain of Floor 59, and the tentacles that came up from far below to protect the demi-spirit, Ouranos concludes that the spirit's true form lies much deeper, past the sixtieth floor.[@so04-main]
 
 ## Crystal orbs and seeds
 

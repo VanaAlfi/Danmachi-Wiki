@@ -51,7 +51,7 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 |---|---|
 | DanMachi 5 | Joins the rescue party to [[floor-18|Floor 18]] and helps coordinate [[rivira|Rivira]]'s defence against the Black [[goliath|Goliath]].[@fm05-asfi] |
 | DanMachi 8 | Scouts from the air to find the force that abducted [[hestia|Hestia]].[@fm08-talaria] |
-| Familia Chronicle 1 | Traces a kidnapped girl through the black market to the El Dorado casino.[@fc01-asfi] |
+| Familia Chronicle 1 | Traces a kidnapped girl through the black market to the [[el-dorado-resort|El Dorado]] casino.[@fc01-asfi] |
 | Sword Oratoria 11 | Leads an invisible Hermes Familia detachment in the assault on Knossos.[@so11-key] |
 | DanMachi 17 | Is outside the city with [[lyu-leon|Lyu]] when [[freya|Freya]]'s charm covers Orario, so she escapes it, and helps Hestia break it.[@fm17-asfi, fm17-hearth] |
 | DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches [[astrea|Astrea]] in [[zolingam|Zolingam]].[@fm18-zolingam] |

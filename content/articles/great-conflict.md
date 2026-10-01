@@ -26,7 +26,7 @@
 
 ## The first night
 
-On the first night the allied Familias suffer a crushing defeat: more Familias are weakened or wiped out than can be counted.[@ar02-coalition] Nine gods are sent back to the heavens that day, six of them allies and three belonging to the Evils. The flashes of their return hide the use of Arcanum underground to summon a monster.[@ar02-coalition, ar02-arcanum]
+On the first night the allied Familias suffer a crushing defeat: more Familias are weakened or wiped out than can be counted.[@ar02-coalition] Nine gods are sent back to the heavens that day, six of them allies and three belonging to the Evils. The flashes of their return hide the use of [[tenkai-and-gekai#arcanum|Arcanum]] underground to summon a monster.[@ar02-coalition, ar02-arcanum]
 
 ## Erebus, Zald and Alfia
 

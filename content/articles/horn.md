@@ -34,7 +34,7 @@ Familia Chronicle 2 prints the name *Helen* for Freya's attendant in the scenes 
 
 ## Vana Seiðr
 
-Her [[falna|Falna]] gave her the transformation spell Vana Seiðr. With it she can become Freya, with the goddess's appearance and divinity but without Arcanum, or, with Freya's permission, Syr.[@fm16-names, fm17-prologue] Freya let her take Syr's form only a handful of times, and while Freya lived as Syr, Hörn took on the goddess's duties.[@fm17-prologue]
+Her [[falna|Falna]] gave her the transformation spell Vana Seiðr. With it she can become Freya, with the goddess's appearance and divinity but without [[tenkai-and-gekai#arcanum|Arcanum]], or, with Freya's permission, Syr.[@fm16-names, fm17-prologue] Freya let her take Syr's form only a handful of times, and while Freya lived as Syr, Hörn took on the goddess's duties.[@fm17-prologue]
 
 As Freya, Hörn can charm, but with less force and precision than the goddess herself.[@fm17-charm] While the spell is active her senses are linked to Freya's, and Freya can feel through her as well.[@fm17-senses, fm18-senses] Even with the spell inactive, small amounts of Freya's feelings can reach her through her right eye.[@fm17-eye]
 

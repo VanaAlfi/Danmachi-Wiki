@@ -38,7 +38,7 @@
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 4 | Named among the support members for the expedition to Floor 59. She hands [[hyrute-sisters|Tiona]] her weapon Urga in battle and, in tears, gives her a potion afterwards.[@so04-support, so04-urga, so04-potion] |
+| Sword Oratoria 4 | Named among the support members for the expedition to Floor 59. She hands [[hyrute-sisters|Tiona]] her weapon [[urga|Urga]] in battle and, in tears, gives her a potion afterwards.[@so04-support, so04-urga, so04-potion] |
 | Sword Oratoria 5 | With the younger Familia members, she sees the usually calm Alicia's anger at the [[magic-sword|Crozzo magic swords]].[@so05-crozzo] On the way home Finn sends Cruz and her back to check on Riveria's group.[@so05-check] |
 | Sword Oratoria 6 | At Port Meren, the governor Borg Murdock turns her and Alicia away from his door.[@so06-murdock] She brings Aiz word of Amazons at the pier, and Aiz sends her to fetch the others.[@so06-pier, so06-fetch] When she and the other girls shout to warn Aiz, [[phryne-jamil|Phryne]] throws an ax at them, and Aiz blocks it with her sword.[@so06-ax] |
 | Sword Oratoria 7 | Trapped in Knossos, she is one of only three second-tier members left with Gareth, fighting with twin blades. Gareth shields them with his body against waves of fire and has her take the shield while he breaks through an adamantite wall with his fists.[@so07-greenhorns, so07-shield, so07-hands] |

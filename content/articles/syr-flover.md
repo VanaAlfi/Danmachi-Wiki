@@ -29,17 +29,17 @@
 
 ## The persona {#persona}
 
-Freya took the appearance, name and history of a mortal girl called Syr. In exchange the girl received the divine name [[horn|Hörn]], and her [[falna|Falna]] lets her take on Freya's appearance and divinity, though not Arcanum.[@fm16-names, fm17-prologue] Freya still goes to [[denatus|Denatus]] in person, because she expects [[loki|Loki]] would see through a stand-in.[@fm17-prologue]
+Freya took the appearance, name and history of a mortal girl called Syr. In exchange the girl received the divine name [[horn|Hörn]], and her [[falna|Falna]] lets her take on Freya's appearance and divinity, though not [[tenkai-and-gekai#arcanum|Arcanum]].[@fm16-names, fm17-prologue] Freya still goes to [[denatus|Denatus]] in person, because she expects [[loki|Loki]] would see through a stand-in.[@fm17-prologue]
 
 Within [[freya-familia|Freya Familia]] only recognised second-tier members and the core forces know that Syr exists, and one or two first-tier adventurers usually guard her.[@fm16-guard] [[allen-fromel|Allen Fromel]] is among her guards; in Minor Myths and Legends 2 he obtains her invitation to the casino.[@ss02-invite]
 
 ## At the tavern
 
-Bell meets Syr outside the tavern the morning after [[aiz-wallenstein|Aiz]] saves him from the [[minotaur|Minotaur]].[@fm01-syr] The tavern stands on West Main Street.[@fm01-west] In DanMachi 1 she slips away to the Monsterphilia festival and forgets her wallet, so the other waitresses send Bell after her with it.[@fm01-wallet] She later tells him she saw him fighting the silverback on Main Street; as Freya, she had released it.[@fm01-silverback, fm17-double]
+Bell meets Syr outside the tavern the morning after [[aiz-wallenstein|Aiz]] saves him from the [[minotaur|Minotaur]].[@fm01-syr] The tavern stands on West Main Street.[@fm01-west] In DanMachi 1 she slips away to the [[monsterphilia|Monsterphilia]] festival and forgets her wallet, so the other waitresses send Bell after her with it.[@fm01-wallet] She later tells him she saw him fighting the silverback on Main Street; as Freya, she had released it.[@fm01-silverback, fm17-double]
 
 In DanMachi 2 Bell borrows a book from Syr that turns out to be a [[grimoire|grimoire]], the source of his [[magic#firebolt|Firebolt]].[@fm02-book] Freya had chosen it from her own bookcase and left it where Bell would get it.[@fm02-grimoire] In DanMachi 6 she gives Bell an amulet before the [[war-game|War Game]] against Apollo Familia.[@fm06-amulet] In DanMachi 17 Freya tells Bell that the grimoire and the amulet were hers, given to help him grow and keep him safe.[@fm17-support]
 
-Before DanMachi 1, Syr found [[lyu-leon|Lyu]] after Lyu's revenge and took her in.[@fc01-lyu, fm14-lyu] In Familia Chronicle 1 she enters the El Dorado casino with Bell and Lyu, posing as Countess Sirène Maximilian, and wins the deciding poker game by reading her opponents.[@fc01-alias, fc01-casino] In Minor Myths and Legends 2 the same skill fails her against Bell, who wins with a hand he wrongly believes is weak.[@ss02-cards]
+Before DanMachi 1, Syr found [[lyu-leon|Lyu]] after Lyu's revenge and took her in.[@fc01-lyu, fm14-lyu] In Familia Chronicle 1 she enters the [[el-dorado-resort|El Dorado]] casino with Bell and Lyu, posing as Countess Sirène Maximilian, and wins the deciding poker game by reading her opponents.[@fc01-alias, fc01-casino] In Minor Myths and Legends 2 the same skill fails her against Bell, who wins with a hand he wrongly believes is weak.[@ss02-cards]
 
 ## The Goddess Festival
 

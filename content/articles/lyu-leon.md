@@ -43,7 +43,7 @@ Astrea Familia is later destroyed and Lyu is its only survivor. She persuades As
 
 ## At The Benevolent Mistress
 
-Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops [[lilliluka-erde|Lilly]] after the first theft of the [[hestia-knife|Hestia Knife]] and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the El Dorado casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
+Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops [[lilliluka-erde|Lilly]] after the first theft of the [[hestia-knife|Hestia Knife]] and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the [[el-dorado-resort|El Dorado]] casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
 
 ## History
 

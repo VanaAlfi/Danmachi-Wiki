@@ -6,9 +6,12 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the god Soma, whose divine wine was used as a reward that drove its members to fight over it; Lilly's first Familia, reformed after DanMachi 6.",
-  "aliases": [],
+  "aliases": ["Kanu"],
   "spoilers": "DanMachi Vols. 2–15",
-  "related": ["lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle"],
+  "related": ["lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
+  "sections": [
+    {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": []}
+  ],
   "infobox": {
     "title": "Soma Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -22,13 +25,21 @@
   }
 }
 ---
-**Soma Familia** is the Familia of the god Soma, maker of a divine wine that can take hold of a person's spirit. He makes it without Arcanum, and leaves the running of the Familia to others while its members fight over the wine he gives as a reward.[@fm02-soma] [[lilliluka-erde|Lilliluka Erde]] was born into it.[@fm02-lilly]
+**Soma Familia** is the Familia of the god Soma, maker of a divine wine that can take hold of a person's spirit. He makes it without [[tenkai-and-gekai#arcanum|Arcanum]], and leaves the running of the Familia to others while its members fight over the wine he gives as a reward.[@fm02-soma] [[lilliluka-erde|Lilliluka Erde]] was born into it.[@fm02-lilly]
 
 ## The wine and Zanis
 
 The divine wine, *soma*, caused the Familia to collapse from within: its members grew selfish and fought each other for more.[@fm06-collapse] Soma knew they fought over it, but was disillusioned and detached, leaving ordinary affairs to his commander Zanis Lustra.[@fm06-soma]
 
 Zanis, a Level 2 titled *Gandharva, the Wine-Guardian* and resistant to the wine, demands a large sum for Lilly's release. He plans to exploit Lilly's shapeshifting magic to capture monsters, steals soma, and in DanMachi 6 is defeated and arrested.[@fm06-zanis, fm06-demand] DanMachi 10 prints his name as *Zanis Rustra*: stripped of his command, he is held in the Familia's cell with his Status sealed by Soma.[@fm10-zanis]
+
+## Kanu {#kanu}
+
+Kanu is an animal-person adventurer of Soma Familia, one of the members who keep taking advantage of Lilly. DanMachi 15's look back at her past shows him beating her, taking her coin pouch and suggesting that Zanis sell her to a brothel; a dwarf of the Familia objects.[@fm15-kanu]
+
+- **DanMachi 2:** the adventurer Gedo, who has caught Lilly in the Dungeon, calls in Kanu and his partners. Kanu makes Gedo drop everything taken from her, including a magic sword, then drives him off with killer ants. He takes the key to Lilly's storage unit of gnome jewels, then throws her to the ants as a decoy so his party can escape: "Without money, you’re useless."[@fm02-kanu, fm02-decoy]
+- **DanMachi 3:** in the Dungeon, Kanu's party sees [[ottar|Ottar]] fighting off a group of Amazons while guarding a large cargo box; the narration calls the attack part of "a goddess’s plan". They steal the box, expecting loot from the lower Dungeon. Inside is a [[minotaur|Minotaur]], which breaks its chains, kills one of them, and takes up a massive cleaver from the box.[@fm03-cargo] Kanu fires the magic sword he took from Lilly until it crumbles, and the Minotaur strikes him down.[@fm03-death] This is very probably the sword-wielding Minotaur that Bell defeats later in the volume, though the text does not say so outright. {{inference}}
+- **DanMachi 6:** Zanis tells Lilly he was "informed that Kanu perished", and asks whether she had anything to do with his companions' disappearance.[@fm06-kanu]
 
 ## Lilly's release
 
@@ -45,6 +56,12 @@ By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped usin
 
 [@fm02-soma]: FM02 | | Soma's divine wine and reward cycle.
 [@fm02-lilly]: FM02 | | Lilly born into Soma Familia.
+[@fm02-kanu]: FM02 | Chapter 5: Reset | "Get this, Kanu. The runt had a magic sword!"; "An adult male animal person, the one called Kanu"; "I suggest you leave it all on the ground."; "K-killer ant…?!"
+[@fm02-decoy]: FM02 | Chapter 5: Reset | "A key to a gnome rental storage unit"; "Buy us some time."; "Without money, you’re useless."
+[@fm03-cargo]: FM03 | Chapter 4: The Meaning of Adventure | "a group of Amazons fighting against a giant of a man"; "a goddess’s plan to keep things interesting"; "protect a large cargo box"; "loot from the lower Dungeon"; "crushing one of Kanu’s allies into a pulp"; "a massive cleaver that happened to be in the cargo box".
+[@fm03-death]: FM03 | Chapter 4: The Meaning of Adventure | "The magic sword that he’d recently acquired from a…former associate of his"; "The blade fell to pieces in his hand."; "Kanu’s consciousness disappeared into oblivion".
+[@fm06-kanu]: FM06 | Prologue: Evil in the Moonlit Night | "I was informed that Kanu perished."; "haven’t seen any of Kanu’s buddies around, either".
+[@fm15-kanu]: FM15 | | "An animal person named Kanu"; "Boss, we oughtta just sell this trash to a brothel."; "No brothels. Stop this."
 [@fm06-collapse]: FM06 | Chapter 4: Those Who Gather | "The Divine Wine, soma, had caused Soma Familia to collapse from within."
 [@fm06-soma]: FM06 | | Soma's detachment; his test of Lilly.
 [@fm06-zanis]: FM06 | | Zanis: Level 2, Gandharva, the Wine-Guardian; his defeat.

@@ -22,7 +22,7 @@
   }
 }
 ---
-**Ganesha Familia** is the Familia of the god Ganesha, who hosts the Monsterphilia festival and puts citizens' safety before his reputation.[@fm01-ganesha] It is the only Familia allowed to keep live monsters inside [[orario|Orario]], for training and experiments for Monsterphilia; registered captives carry tracking plates.[@fm09-monsters]
+**Ganesha Familia** is the Familia of the god Ganesha, who hosts the [[monsterphilia|Monsterphilia]] festival and puts citizens' safety before his reputation.[@fm01-ganesha] It is the only Familia allowed to keep live monsters inside [[orario|Orario]], for training and experiments for Monsterphilia; registered captives carry tracking plates.[@fm09-monsters]
 
 ## Monsterphilia
 
@@ -32,7 +32,7 @@ Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use
 
 The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood and Dharmas Algo, the second a passive boost for Familia members around her.[@skills.ar02-sheet] The same sheet lists two spells, Ghana Avimutta and Dia Kaumudi; see [[magic#ardee-varma-spells|Magic § Ardee Varma's spells]].[@ardee-varma-spells.ar02-sheet]
 
-The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. She was one of the city's most lawless newcomers until Shakti and her sister caught and punished her, and she now calls Shakti "sister".[@fm18-ilta, so12-paluza] In DanMachi 20 she and Shakti win the third round of the Orariad against the School District.[@fm20-orariad]
+The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. She was one of the city's most lawless newcomers until Shakti and her sister caught and punished her, and she now calls Shakti "sister".[@fm18-ilta, so12-paluza] In DanMachi 20 she and Shakti win the third round of the [[orariad|Orariad]] against the School District.[@fm20-orariad]
 
 ## History
 

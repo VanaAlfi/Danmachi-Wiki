@@ -26,7 +26,7 @@
   }
 }
 ---
-**Bors Elder** is a human adventurer who runs the largest Exchange shop in [[rivira|Rivira]], the town on [[floor-18|Floor 18]].[@so02-bors, so03-bors] At Level 3 he is Rivira's strongest adventurer, and so the person in charge in an emergency; later volumes call him the head of Rivira.[@so02-bors, fm12-eggs] DanMachi 5 prints his name as "Boris".[@fm05-boris]
+**Bors Elder** is a human adventurer who runs the largest [[the-exchange#rivira|Exchange]] shop in [[rivira|Rivira]], the town on [[floor-18|Floor 18]].[@so02-bors, so03-bors] At Level 3 he is Rivira's strongest adventurer, and so the person in charge in an emergency; later volumes call him the head of Rivira.[@so02-bors, fm12-eggs] DanMachi 5 prints his name as "Boris".[@fm05-boris]
 
 ## Appearance and character
 
@@ -62,7 +62,7 @@ Bors also recovered a fragment of Lyu's broken wooden sword, Alvs Lumina, and ga
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 12 | Fighting violas above ground in the city's northwest, where cheap weapons fail against their skin, he is moved to tears when the god [[goibniu|Goibniu]] opens his Familia's stockpile of top-tier weapons to the defenders.[@so12-violas] |
+| Sword Oratoria 12 | Fighting [[monsters#violas|violas]] above ground in the city's northwest, where cheap weapons fail against their skin, he is moved to tears when the god [[goibniu|Goibniu]] opens his Familia's stockpile of top-tier weapons to the defenders.[@so12-violas] |
 | DanMachi 18 | Joins the coalition against [[freya-familia|Freya Familia]]. His goddess signed up and dragged him along, he says, but he also owes Bell and Lyu his life and is "payin' my debt".[@fm18-join] He commands the right wing with [[daphne|Daphne Laulos]].[@fm18-wing] [[hegni|Hegni]] cuts him down with the others, as part of Daphne's plan to make Hegni use up his attacks.[@fm18-hegni] |
 | DanMachi 19 | Celebrates the coalition's share of Freya Familia's fortune.[@fm19-party] Rivira dislikes the [[school-district|School District]]'s students, but he agrees to escort Bell's squad of them below Floor 18 as a protection quest, saying he owes Bell more than he can ever repay.[@fm19-quest] |
 | DanMachi 20 | Tells Bell why no one does business on Floor 28: it is too deep, and there are too few customers.[@fm20-garden] |

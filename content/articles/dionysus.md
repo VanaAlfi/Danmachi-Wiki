@@ -28,7 +28,7 @@
 
 ## The deception
 
-After Monsterphilia, Dionysus receives a coloured monster stone from his elf follower, later revealed as Filvis. He uses the stones, and his own murdered former followers, to pose as a victim investigating the crimes and to undermine Loki's trust in [[ouranos|Ouranos]].[@so01-stone, so12-enyo] Loki points out that he always kept her from cooperating with the [[guild|Guild]].[@so12-guild]
+After [[monsterphilia|Monsterphilia]], Dionysus receives a coloured monster stone from his elf follower, later revealed as Filvis. He uses the stones, and his own murdered former followers, to pose as a victim investigating the crimes and to undermine Loki's trust in [[ouranos|Ouranos]].[@so01-stone, so12-enyo] Loki points out that he always kept her from cooperating with the [[guild|Guild]].[@so12-guild]
 
 He drinks Divine Wine on purpose until a righteous false persona sincerely believes in its role; while intoxicated, his apparent sincerity is real.[@so12-wine] He also intoxicates the goddess [[penia|Penia]] and his followers, secretly moves them to her Familia, and sends her back to the heavens so that their sealed [[falna|Falna]] makes it look as if he himself has died.[@so12-penia]
 

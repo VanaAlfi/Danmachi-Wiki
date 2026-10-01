@@ -30,7 +30,7 @@
   }
 }
 ---
-**Njörðr** is a god of fishing and the head of Njörðr Familia, the fishing Familia of Port Meren, southwest of [[orario|Orario]].[@so06-fishing, so06-motive, fc01-chloe] He is a friend of [[loki|Loki]] from their time in Heaven.[@so06-meet, so06-lies] In Sword Oratoria 6 Loki discovers that, to save Meren's fisheries, he released violas into Lolog Lake and the nearby sea, in return for helping a pale man from Orario's sewers smuggle goods out of Meren.[@so06-pact] In Sword Oratoria 7 Loki Familia identifies that man as [[barca-perdix|Barca Perdix]].[@so07-barca]
+**Njörðr** is a god of fishing and the head of Njörðr Familia, the fishing Familia of Port Meren, southwest of [[orario|Orario]].[@so06-fishing, so06-motive, fc01-chloe] He is a friend of [[loki|Loki]] from their time in Heaven.[@so06-meet, so06-lies] In Sword Oratoria 6 Loki discovers that, to save Meren's fisheries, he released [[monsters#violas|violas]] into Lolog Lake and the nearby sea, in return for helping a pale man from Orario's sewers smuggle goods out of Meren.[@so06-pact] In Sword Oratoria 7 Loki Familia identifies that man as [[barca-perdix|Barca Perdix]].[@so07-barca]
 
 ## The god
 

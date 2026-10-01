@@ -25,7 +25,7 @@
   }
 }
 ---
-**Nina Tulle** is a thirteen-year-old half-elf, a Level 2 student of the [[school-district|School District]]'s Balder Class and the younger sister of [[eina-tulle|Eina Tulle]].[@fm19-nina] She chooses to become an adventurer and sets her sights on [[hestia-familia|Hestia Familia]].[@fm19-nina]
+**Nina Tulle** is a thirteen-year-old half-elf, a Level 2 student of the [[school-district|School District]]'s [[balder-class|Balder Class]] and the younger sister of [[eina-tulle|Eina Tulle]].[@fm19-nina] She chooses to become an adventurer and sets her sights on [[hestia-familia|Hestia Familia]].[@fm19-nina]
 
 ## Magic
 
@@ -99,7 +99,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 
 ## History
 
-In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she arrives at [[hearthstone-manor|Hearthstone Manor]] as an intern, with [[balder|Balder]]'s permission, three days after [[bell-cranell|Bell]] leaves the School District. Hestia welcomes her but leaves open whether she will join.[@fm20-intern] The School District later cuts off all internships, forcing her to leave.[@fm20-cut] Bell sees winning the Orariad as a way for her to join without trouble.[@fm20-orariad] She takes part in the Floor 29 mission and the journey north.[@fm20-nina]
+In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she arrives at [[hearthstone-manor|Hearthstone Manor]] as an intern, with [[balder|Balder]]'s permission, three days after [[bell-cranell|Bell]] leaves the School District. Hestia welcomes her but leaves open whether she will join.[@fm20-intern] The School District later cuts off all internships, forcing her to leave.[@fm20-cut] Bell sees winning the [[orariad|Orariad]] as a way for her to join without trouble.[@fm20-orariad] She takes part in the Floor 29 mission and the journey north.[@fm20-nina]
 
 ## Open questions
 

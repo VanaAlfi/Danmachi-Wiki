@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Amazon sisters of Loki Familia, famous top-class adventurers; both reach Level 6 in Sword Oratoria 6. Tiona trains Bell with Aiz in DanMachi 6.",
   "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters"],
-  "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 4–7 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 1, 2, 4–7 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
   "infobox": {
     "title": "Tiona and Tione Hyrute",
@@ -27,7 +27,7 @@
 
 ## Tiona
 
-Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters]
+Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by Goibniu Familia.[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters]
 
 ## Tione
 
@@ -86,6 +86,8 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@fm08-tione]: FM08 | | Tione Hyrute, Finn's field commander.
 [@fm11-tiona]: FM11 | | Tiona lets Wiene escape.
 [@fm17-sisters]: FM17 | | Aiz, Tiona, Tione and Lyu against Hegni.
+[@so01-urga]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga".
+[@so02-urga]: SO02 | Chapter 2: Incident | "the hulking double-bladed sword Urga"; "from Goibniu Familia".
 [@so06-sisters]: SO06 | | Level 6 and Dive; Telskyura; Tiona and Bache.
 [@skills.so06-berserk]: SO06 | Chapter 5: A Duo of Sun and Moon | Berserk: Tiona's, the same as her sister's; Tione's fury.
 [@skills.so06-heat]: SO06 | Chapter 5: A Duo of Sun and Moon | Intense Heat, a rare skill; Backdraft; the same activation requirements.

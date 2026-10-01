@@ -26,13 +26,13 @@
 
 ## The White Palace
 
-Its earth and stone are a cloudy white, its rooms immense, its ceilings too high to see, with icy draughts and little light from the walls.[@fm13-floor] The staircase to Floor 36 lies south, beyond the Fifth Wall. Within the maze are the Warrior Zone, where fighting monsters gather, and the Colosseum, which spawns monsters continually.[@fm14-palace] There is no safe spring; the fluid of its pantries causes blisters and vomiting.[@ss01-survival]
+Its earth and stone are a cloudy white, its rooms immense, its ceilings too high to see, with icy draughts and little light from the walls.[@fm13-floor] The staircase to Floor 36 lies south, beyond the Fifth Wall. Within the maze are the Warrior Zone, where fighting monsters gather, and the [[colosseum|Colosseum]], which spawns monsters continually.[@fm14-palace] There is no safe spring; the fluid of its pantries causes blisters and vomiting.[@ss01-survival]
 
 ## History
 
 | Event | Details |
 |---|---|
-| Delphyne | During the [[great-conflict|Great Conflict]], a god's use of Arcanum here gives birth to the dragon [[delphyne|Delphyne]].[@ar03-delphyne] |
+| Delphyne | During the [[great-conflict|Great Conflict]], a god's use of [[tenkai-and-gekai#arcanum|Arcanum]] here gives birth to the dragon [[delphyne|Delphyne]].[@ar03-delphyne] |
 | Astrea Familia | The chamber where [[astrea-familia|Astrea Familia]] died is on this floor.[@fm14-palace] |
 | Udaeus | [[aiz-wallenstein|Aiz]] defeats Udaeus alone and reaches Level 6.[@fm02-rex] |
 | [[bell-cranell|Bell]] and [[lyu-leon|Lyu]] | In DanMachi 13 a [[lambton|lambton]] carries Bell and Lyu down here. They survive four days and four nights; Bell later counts eight times he nearly died. The [[juggernaut|Juggernaut]] follows them, and they destroy it before the rescue party arrives.[@fm13-floor, fm14-four, ss01-survival] |

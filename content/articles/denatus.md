@@ -59,10 +59,10 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 
 | Volume | Business |
 |---|---|
-| Sword Oratoria 5 | Loki hosts in order to investigate who is behind the recent incidents; Ganesha apologises for the monsters that ran loose at Monsterphilia.[@so05-investigate] |
+| Sword Oratoria 5 | Loki hosts in order to investigate who is behind the recent incidents; Ganesha apologises for the monsters that ran loose at [[monsterphilia|Monsterphilia]].[@so05-investigate] |
 | DanMachi 6 | When Apollo's challenge to Hestia turns into a [[war-game|War Game]], the watching gods call for an emergency Denatus to settle its details. There a large group of male gods sides with Freya and votes to allow outsiders into the game.[@fm06-emergency, fm06-vote] |
 | DanMachi 18 | The format and rules of the war game between Hestia's coalition and [[freya-familia|Freya Familia]] are argued over for days, split between Hestia's supporters and Freya's backers.[@fm18-babel, fm18-days] [[asfi|Asfi]], "Perseus", is banned from it by name.[@fm18-perseus] |
-| DanMachi 20 | The Orariad is sponsored by the Denatus rather than the Guild, and [[hermes|Hermes]] applauds the winners as its representative.[@fm20-orariad, fm20-hermes] |
+| DanMachi 20 | The [[orariad|Orariad]] is sponsored by the Denatus rather than the Guild, and [[hermes|Hermes]] applauds the winners as its representative.[@fm20-orariad, fm20-hermes] |
 
 ## Open questions
 

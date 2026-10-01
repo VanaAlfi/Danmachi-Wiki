@@ -47,7 +47,7 @@ Misha and Eina were schoolmates, both graduated from the School District, and en
 | DanMachi 11 | She protests that [[ikelos-familia|Ikelos Familia]] is to blame, not "Eina's little brother…I mean Bell", when coworkers blame him for the Xenos crisis.[@fm11-outburst] |
 | DanMachi 15 | Eina's recollection of their early days at the Guild, from their first day as recruits to drinks together after work.[@fm15-recruits, fm15-drinks] |
 | DanMachi 17 | When [[royman|Royman]] orders the Guild to protect Freya Familia, she objects, then urges Eina to follow the order.[@fm17-royman] |
-| Sword Oratoria 2 | [[loki|Loki]] greets her at the counter; the two had cooperated during the Monsterphilia crisis a few days before.[@so02-misha] |
+| Sword Oratoria 2 | [[loki|Loki]] greets her at the counter; the two had cooperated during the [[monsterphilia|Monsterphilia]] crisis a few days before.[@so02-misha] |
 | Sword Oratoria 3 | Late at night an angry adventurer files a request at her counter, and when the document cannot be found her boss asks whether she lost it.[@so03-request] |
 | Sword Oratoria 4, 6 | She accepts Loki Familia's expedition application from Gareth, and welcomes the Familia back from Meren.[@so04-application, so06-welcome] |
 | Sword Oratoria 12 | In the chaos of the final assault Royman sends Eina to coordinate the Familias, calls Misha "useless", and sends her to ask [[the-benevolent-mistress|the Benevolent Mistress]] for help.[@so12-royman] |

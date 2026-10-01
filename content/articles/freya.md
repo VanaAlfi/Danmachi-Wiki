@@ -30,7 +30,7 @@
 
 ## Her eyes {#eyes}
 
-Freya's Eyes of Insight let her see the truth inside mortal souls. They are a natural gift, not Arcanum, so the gods' ban on using divine power in the Lower World does not cover them. In the heavens she used them to judge the souls of the dead who came to her temple, especially warriors fallen in battle.[@fm02-eyes] She sees a soul's quality as a colour and can pick out souls from the top of [[babel|Babel]], far beyond ordinary sight.[@fm03-babel] The eyes cannot read another deity's Status.[@fm02-status]
+Freya's Eyes of Insight let her see the truth inside mortal souls. They are a natural gift, not [[tenkai-and-gekai#arcanum|Arcanum]], so the gods' ban on using divine power in the Lower World does not cover them. In the heavens she used them to judge the souls of the dead who came to her temple, especially warriors fallen in battle.[@fm02-eyes] She sees a soul's quality as a colour and can pick out souls from the top of [[babel|Babel]], far beyond ordinary sight.[@fm03-babel] The eyes cannot read another deity's Status.[@fm02-status]
 
 ## Charm
 
@@ -50,7 +50,7 @@ Freya searches for an *Odr*, a hero entirely her own.[@fm16-odr, fm18-odr] She t
 
 ### Before DanMachi 1
 
-In Familia Chronicle 2 Freya mentors Ali, later King Aram of Shalzad, before letting him go.[@fc02-ali] The same volume tells how she found and gathered the leading members of her Familia.[@fc02-origin, fc02-pasts] In Familia Chronicle 1 she finds [[lyu-leon|Lyu]] after Lyu's revenge, nurses her and helps her decide to live on at the tavern.[@fc01-lyu] As Syr she also enters a casino under the name Countess Sirène Maximilian and wins the deciding poker game.[@fc01-alias, fc01-casino]
+In Familia Chronicle 2 Freya mentors Ali, later [[ali|King Aram]] of Shalzad, before letting him go.[@fc02-ali] The same volume tells how she found and gathered the leading members of her Familia.[@fc02-origin, fc02-pasts] In Familia Chronicle 1 she finds [[lyu-leon|Lyu]] after Lyu's revenge, nurses her and helps her decide to live on at the tavern.[@fc01-lyu] As Syr she also enters a casino under the name Countess Sirène Maximilian and wins the deciding poker game.[@fc01-alias, fc01-casino]
 
 ### DanMachi 1–15
 

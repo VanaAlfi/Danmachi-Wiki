@@ -39,7 +39,7 @@ The school's classes are Familias, each led by a god, and it grants the [[falna|
 
 | Person | Connection |
 |---|---|
-| [[leon-verdenberg|Leon Verdenberg]] | Captain of Balder Class and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
+| [[leon-verdenberg|Leon Verdenberg]] | Captain of [[balder-class|Balder Class]] and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
 | [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with [[hestia-familia|Hestia Familia]].[@fm20-nina] |
@@ -47,7 +47,7 @@ The school's classes are Familias, each led by a god, and it grants the [[falna|
 
 ## The Orariad
 
-In DanMachi 20 a dispute between Orario and the School District is settled through a contest, the Orariad, which ends 2–2–1. Leon has the better of his fight with Bell, but it is recorded as a draw. The School District secures favourable terms in the reconciliation that follows, and Balder offers the help of its Alchemy Department for the [[guild|Guild]]'s shaft project.[@fm20-orariad, fm20-reconcile]
+In DanMachi 20 a dispute between Orario and the School District is settled through a contest, the [[orariad|Orariad]], which ends 2–2–1. Leon has the better of his fight with Bell, but it is recorded as a draw. The School District secures favourable terms in the reconciliation that follows, and Balder offers the help of its Alchemy Department for the [[guild|Guild]]'s shaft project.[@fm20-orariad, fm20-reconcile]
 
 ## Open questions
 

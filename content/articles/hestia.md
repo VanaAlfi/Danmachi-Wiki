@@ -35,6 +35,8 @@ Hestia came down to the Lower World about six months before Bell arrived in [[or
 
 When she came down she chose to remain able to fall ill like a mortal.[@ss01-hestia]
 
+She works part-time at a [[jyaga-maru-kun|Jyaga Maru Kun]] stall on North Main Street, earning thirty vals an hour.[@fm04-stall] By DanMachi 13 she also works at "Hephaistos’s place".[@fm13-jobs]
+
 ## Hestia Familia
 
 She sets household rules for her followers: a ten o'clock curfew, telling her which floor they are heading to, and shared meals.[@ss01-hestia] She keeps Bell's Skill off the Status copies she gives him, and in DanMachi 8 explains it to the other members after he has left the room.[@fm01-hidden, fm08-hestia]
@@ -61,7 +63,7 @@ For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a thir
 In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it.[@fm17-hearth] With Hermes, [[asfi|Asfi]] and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her ichor, into an altar. From [[babel|Babel]] she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
 
 > [!NOTE] Divine power
-> A god cannot be permanently killed by a mortal. A life-threatening injury automatically releases divine power, heals the god and sends them back to the heavens as punishment for using Arcanum.[@fm06-gods] Hestia's charm-breaking flame is treated as a feat of her divine domain, the hearth.[@fm17-domain]
+> A god cannot be permanently killed by a mortal. A life-threatening injury automatically releases divine power, heals the god and sends them back to the heavens as punishment for using [[tenkai-and-gekai#arcanum|Arcanum]].[@fm06-gods] Hestia's charm-breaking flame is treated as a feat of her divine domain, the hearth.[@fm17-domain]
 
 ## Open questions
 
@@ -70,6 +72,8 @@ In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin 
 > - What formal limits, if any, bind Syr under the arrangement Hestia allows in DanMachi 19.[@fm19-syr]
 
 [@fm01-goddess]: FM01 | | Goddess and head of Hestia Familia; gives Bell his Falna.
+[@fm04-stall]: FM04 | A Campanella to the Goddess | "a street stand that was situated on North Main Street"; "She worked six hours today at 30 vals per hour."
+[@fm13-jobs]: FM13 | Chapter 2: The Prophetess of Tragedy | "I’m off from Hephaistos’s place and Jyaga Maru Kun, too."
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm01-found]: FM01 | | Fifty failed recruitments before Bell; the Familia is founded.
 [@fm01-knife]: FM01 | | The Hestia Knife on a thirty-year loan.

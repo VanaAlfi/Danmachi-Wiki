@@ -24,7 +24,7 @@
   }
 }
 ---
-**The Guild** governs matters concerning [[dungeon|the Dungeon]] in [[orario|Orario]]. It oversees adventurers and access to the Dungeon, keeps their records, runs the Exchange where [[magic-stone|magic stones]] and drop items are sold, and guards [[babel|Babel]], the lid over the Dungeon.[@fm01-guild] It was founded by the god [[ouranos|Ouranos]], who is its true leader; its day-to-day head is the elf [[royman|Royman Mardeel]].[@so02-ouranos, fm09-ouranos, fm09-royman]
+**The Guild** governs matters concerning [[dungeon|the Dungeon]] in [[orario|Orario]]. It oversees adventurers and access to the Dungeon, keeps their records, runs [[the-exchange|the Exchange]] where [[magic-stone|magic stones]] and drop items are sold, and guards [[babel|Babel]], the lid over the Dungeon.[@fm01-guild] It was founded by the god [[ouranos|Ouranos]], who is its true leader; its day-to-day head is the elf [[royman|Royman Mardeel]].[@so02-ouranos, fm09-ouranos, fm09-royman]
 
 ## What the Guild does
 

@@ -29,10 +29,10 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 ## Layout
 
 - **Three floors, one waterfall.** The three great caverns, linked across three floors by a single waterfall, are together called the Water Capital of the Dungeon.[@fm12-capital] The floors are multistory: to go down, adventurers descend the height of the Great Falls through connecting passages at the depth of the plunge pools.[@fm12-layout]
-- **Source of the falls.** The Great Falls pour out near the twenty-fifth floor's ceiling, where the roots of an enormous tree from the Colossal Tree Labyrinth above spread outward.[@fm12-tree]
+- **Source of the falls.** The Great Falls pour out near the twenty-fifth floor's ceiling, where the roots of an enormous tree from the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] above spread outward.[@fm12-tree]
 - **Arrival.** From the twenty-fourth floor, the connecting passage ends at a sheer cliff at the far southern tip of the twenty-fifth floor, with the cavern and the Great Falls in the centre.[@fm12-entrance]
 - **The bottom.** The end point of the falls is on the twenty-seventh floor, the lowest level of the Water Capital.[@fm13-region, fm13-depths] Beyond it lies the Tangled Gorge, which begins on the twenty-ninth floor.[@fm20-gorge]
-- **Monsters.** Harpies and other bird-type monsters fly around the falls; lizardmen are among the stronger opponents of the twenty-sixth floor, and the kelpie ranks among the region's strongest.[@fm12-entrance, fm13-lizardmen, fm14-kelpie] The floor boss [[amphisbaena|Amphisbaena]] appears on the twenty-seventh floor.[@fm13-boss]
+- **Monsters.** Harpies and other bird-type monsters fly around the falls; mermen, blue-scaled fish-men with nature weapons that Bell likens to "an underwater version of [[monsters#lizardman|lizardmen]]", are among the stronger opponents of the twenty-sixth floor, and the kelpie ranks among the region's strongest.[@fm12-entrance, fm13-lizardmen, fm14-kelpie] The floor boss [[amphisbaena|Amphisbaena]] appears on the twenty-seventh floor.[@fm13-boss]
 - **Gear.** Adventurers wear Undine cloth, a waterproof "spirit protective cloth" linked to water spirits; its protection works fully underwater, reducing water resistance and pressure. It is the counterpart of the salamander wool worn against the fire of the thirteenth floor.[@fm12-undine]
 - **Few reach it.** Many fewer parties are able to get through the Water Capital and reach the twenty-eighth floor than reach the floors above.[@fm20-few]
 
@@ -60,7 +60,7 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 [@fm13-boss]: FM13 | Chapter 2: The Prophetess of Tragedy | "Amphisbaena is a lower-level floor boss, right? I’m sure I heard that it appears on the twenty-seventh floor".
 [@fm13-region]: FM13 | Chapter 2: The Prophetess of Tragedy | "The Water Capital began on the twenty-fifth floor and continued to the twenty-seventh"; "a plunge pool as huge as a lake".
 [@fm13-depths]: FM13 | Chapter 2: The Prophetess of Tragedy | "the end point of the Great Falls on the twenty-seventh floor, which was the lowest level of the Water Capital"; Aisha stays on the twenty-fifth floor.
-[@fm13-lizardmen]: FM13 | Chapter 2: The Prophetess of Tragedy | "lizardmen. They’re among the stronger opponents we’re likely to encounter on the twenty-sixth floor".
+[@fm13-lizardmen]: FM13 | Chapter 3: The True Intentions of Gale Wind | "Mermen."; "an underwater version of lizardmen"; "among the stronger opponents we’re likely to encounter on the twenty-sixth floor".
 [@fm13-hole]: FM13 | Chapter 2: The Prophetess of Tragedy | "I’ve never seen a huge hole like this on the twenty-seventh floor…".
 [@fm14-irregular]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "a chain of explosions so great it seemed the entire Water Capital would be demolished"; Amphisbaena's roar across "all three floors of the Water Capital".
 [@fm14-collapse]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "the entire Water Capital shook as a mass of debris" hurtled to the ground.

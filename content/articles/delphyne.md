@@ -22,7 +22,7 @@
   }
 }
 ---
-**Delphyne** is a god-slaying dragon born on [[floor-37|Floor 37]] of the Dungeon from a god's use of Arcanum during the [[great-conflict|Great Conflict]].[@ar03-delphyne, ar02-bait] It is named in Astrea Record 3 as "an anomaly born from divine transgression".[@ar03-delphyne]
+**Delphyne** is a god-slaying dragon born on [[floor-37|Floor 37]] of the Dungeon from a god's use of [[tenkai-and-gekai#arcanum|Arcanum]] during the [[great-conflict|Great Conflict]].[@ar03-delphyne, ar02-bait] It is named in Astrea Record 3 as "an anomaly born from divine transgression".[@ar03-delphyne]
 
 ## Origin
 

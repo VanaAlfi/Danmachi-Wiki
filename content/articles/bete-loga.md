@@ -6,8 +6,8 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Animal-person fighter of Loki Familia from the Beastmen of the Plains, formerly captain of Víðarr Familia; Level 6 from Sword Oratoria 6.",
-  "aliases": ["Bete", "Fenris"],
-  "spoilers": "DanMachi Vols. 1, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13 and Minor Myths and Legends Vol. 2",
+  "aliases": ["Bete", "Fenris", "Vanargand"],
+  "spoilers": "DanMachi Vols. 1, 10, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13 and Minor Myths and Legends Vol. 2",
   "related": ["aiz-wallenstein", "haruhime", "tsubaki", "bell-cranell", "horn", "magic"],
   "infobox": {
     "title": "Bete Loga",
@@ -19,6 +19,7 @@
       {"label": "Familia", "value": "Víðarr Familia (captain); later Loki Familia", "refs": ["so08-vidarr"]},
       {"label": "Level", "value": "5; 6 from Sword Oratoria 6", "refs": ["so06-bete"]},
       {"label": "First title", "value": "Fenris", "refs": ["so08-vidarr"]},
+      {"label": "Title", "value": "Vanargand", "refs": ["fm10-vanargand", "so12-vanargand"]},
       {"label": "Magic", "value": "[[#hati|Hati]]", "refs": ["so08-hati"]},
       {"label": "Skills", "value": "[[skills#ulfhedinn|Úlfheðinn]], [[skills#fenris-wolf|Fenris Wolf]], [[skills#solmani|Solmani]]", "refs": ["skills.so05-sheet", "skills.so10-solmani"]},
       {"label": "Equipment", "value": "Frosvirt, made by Tsubaki", "refs": ["so08-hati"]}
@@ -123,6 +124,8 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so01-bete]: SO01 | Chapter 3: White Rabbit | "Bete Loga."
 [@so06-bete]: SO06 | | Level 6 after Floor 59.
 [@so08-plains]: SO08 | Chapter 1: Lonely Wolf | The dragon and his tribe.
+[@fm10-vanargand]: FM10 | Chapter 9: Dreams of Beasts | "“Vanargand” Bete Loga."
+[@so12-vanargand]: SO12 | Chapter 8: A Heroes’ Chorus | "Vanargand Bete Loga."
 [@so08-vidarr]: SO08 | Chapter 2: Did Someone Order a Wolf? | Víðarr Familia; Fenris; the vice-captain.
 [@so08-drove]: SO08 | Chapter 3: Unshed Tears | Driving his former comrades away.
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Hati; Frosvirt; Valletta; the reconciliation.

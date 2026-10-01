@@ -52,7 +52,7 @@ The **3rd Squad** is known as the "worst party", "the absolute bottom of the bar
 | Chris | Christia Elvia, a confident prum boy who calls himself "A slumbering lion not yet known to the world"; Level 2.[@fm19-chris] |
 
 - **Rapi joins:** Leon assigns "Rapi" to the squad, over loud protests.[@fm19-joins] The School District had admitted Bell on condition that he watch over the 3rd Squad in the Dungeon.[@fm19-condition]
-- **The infant dragon:** the squad reaches the seventh floor on its first day but is still stuck on the twelfth floor's infant dragon, a grade requirement, after three attempts. Its members fight alone and exhaust themselves.[@fm19-stuck] Following Rapi's lead as supporter, they work together and defeat it.[@fm19-dragon]
+- **The [[monsters#infant-dragon|infant dragon]]:** the squad reaches the seventh floor on its first day but is still stuck on the twelfth floor's infant dragon, a grade requirement, after three attempts. Its members fight alone and exhaust themselves.[@fm19-stuck] Following Rapi's lead as supporter, they work together and defeat it.[@fm19-dragon]
 - **Change:** Nina says Rapi brought the worst party together; he becomes "the pillar holding up the 3rd Squad", and it competes for top marks.[@fm19-pillar]
 - **Floor 15:** on the deepest floor students may explore, the squad works well as a party until the floor collapses around them. Fighting as one, they head for the eighteenth floor, and Bell carries Chris as they escape a giant into the passage.[@fm19-fifteen, fm19-eighteen, fm19-escape]
 - **Afterwards:** the squad does not know how to act around Rapi once they learn his secret. They meet Bell again in DanMachi 20, and he apologises that they found out the truth "that way".[@fm20-secret, fm20-reunion]
@@ -74,7 +74,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 
 - **In battle:** the squad's plan is to push in hard behind its two Level 3s, with Miliria and Cole in support.[@so13-plan]
 - **Lefiya's rebuke:** when Luke wants to go deeper than she allows, Lefiya tells him that Nano reached Level 3 only because she was "dragged along in your rashness".[@so13-rash, so13-rebuke]
-- **Floor 15:** a collapse during a mass spawning of bad bats cuts Luke and Lefiya off from the others.[@so13-collapse] Nano, Miliria and Cole hold on alone, and on the seventeenth floor they join adventurers fighting the Goliath. Lefiya and Luke then reach them.[@so13-goliath, so13-reunion]
+- **Floor 15:** a collapse during a mass spawning of [[monsters#bad-bat|bad bats]] cuts Luke and Lefiya off from the others.[@so13-collapse] Nano, Miliria and Cole hold on alone, and on the seventeenth floor they join adventurers fighting the Goliath. Lefiya and Luke then reach them.[@so13-goliath, so13-reunion]
 
 ## Alisa Ragast {#alisa-ragast}
 

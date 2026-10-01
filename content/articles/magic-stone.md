@@ -27,18 +27,18 @@ A **magic stone** is a crystal of magical power that every monster of the [[dung
 ## In monsters
 
 - **Core.** Eina teaches Bell that the magic stone is a monster's core, and that in a pinch the stone is the place to aim, though the Guild will not buy a damaged stone.[@fm01-core]
-- **Death.** When Bell pulls a shard out of a kobold, its body goes slack, loses its colour, and turns to ash; all monsters disappear once their stone is removed.[@fm01-core]
+- **Death.** When Bell pulls a shard out of a [[monsters#kobold|kobold]], its body goes slack, loses its colour, and turns to ash; all monsters disappear once their stone is removed.[@fm01-core]
 - **Drop items.** Sometimes part of a monster does not turn to ash, such as a kobold's claw; such leftovers are "drop items".[@fm01-drop] A Minotaur Bell kills leaves its magic stone and a horn, which becomes the dagger [[ushiwakamaru|Ushiwakamaru]].[@fm04-horn]
 - **Size.** The monsters of the first floors carry shards about the size of a fingernail; the Guild pays more for bigger shards and whole stones.[@fm01-shard]
 - **The Dungeon itself.** Bell guesses that the Dungeon's walls must be made of something much like magic stone.[@fm01-walls]
 
 ## Collecting and selling
 
-Collecting magic stones and drop items is usually a supporter's job; Bell, with no supporter at first, carries everything himself.[@fm01-drop] At the end of a day he exchanges his stones and drop items for money at Guild headquarters; one early haul of shards, mostly from goblins and kobolds, comes to about 1,200 valis.[@fm01-exchange, fm01-haul]
+Collecting magic stones and drop items is usually a supporter's job; Bell, with no supporter at first, carries everything himself.[@fm01-drop] At the end of a day he exchanges his stones and drop items for money at Guild headquarters; one early haul of shards, mostly from [[monsters#goblin|goblins]] and kobolds, comes to about 1,200 valis.[@fm01-exchange, fm01-haul]
 
 ## Magic-stone products
 
-Human engineers worked out how to make magic-stone lamps, which the gods call "cutting-edge technology" and the discovery of the century.[@fm01-lamps] Magic stones also power stoves and freeze food, and Orario sells them to other cities and countries for large sums.[@fm01-core] The magic-stone products the city is known for are made along Northeast Main Street.[@fm04-northeast]
+Human engineers worked out how to make magic-stone lamps; a god remarks that humans are really good with their hands, and when the lamps appeared they were called the invention of the century.[@fm01-ja-lamps, fm01-lamps] Magic stones also power stoves and freeze food, and Orario sells them to other cities and countries for large sums.[@fm01-core] The magic-stone products the city is known for are made along Northeast Main Street.[@fm04-northeast]
 
 ## Eating magic stones
 
@@ -59,7 +59,8 @@ Human engineers worked out how to make magic-stone lamps, which the gods call "c
 [@fm01-shard]: FM01 | Chapter 2: That’s Why I Run | "just a shard"; "Only about the size of my fingernail"; "The Guild pays more for bigger shards and full stones."
 [@fm01-drop]: FM01 | Chapter 2: That’s Why I Run | "Looks like this is a “drop item.”"; "Usually a “supporter” travels with adventurers and collects all the magic stones and drop items."
 [@fm01-walls]: FM01 | Chapter 2: That’s Why I Run | "The walls have to be made of something a lot like magic stones."
-[@fm01-lamps]: FM01 | Chapter 2: That’s Why I Run | "Human engineers figured out how to make magic stone lamps."; "cutting-edge technology"; "the discovery of the century".
+[@fm01-lamps]: FM01 | Chapter 2: That’s Why I Run | "Human engineers figured out how to make magic stone lamps."; Yen Press has the gods call it "cutting-edge technology" and "the discovery of the century".
+[@fm01-ja-lamps]: FM01 | Chapter 2: That’s Why I Run | Japanese original (file cX6, paragraph 8): a god says humans are really deft with their hands; the lamp was called the invention of the century at the time. "Cutting-edge technology" is not in it.
 [@fm01-exchange]: FM01 | | "to exchange my magic stones and drop items for money".
 [@fm01-haul]: FM01 | Chapter 1: World, Reality, and Desire | "magic stone shards I got for killing mostly goblins and kobolds"; "about 1,200 vals".
 [@fm04-horn]: FM04 | Chapter 2: Changing Environment, New Relationships | "only the magic stone and this horn remained".

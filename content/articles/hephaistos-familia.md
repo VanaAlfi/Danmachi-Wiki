@@ -29,14 +29,14 @@
 
 ## Shops and home
 
-- **Shops.** DanMachi 1 and 8 call the store on Northwest Main Street the Familia's main store.[@fm01-store, fm08-store] In [[babel|Babel]], every shop from the fourth floor to the eighth belongs to the Familia.[@fm02-babel] Its smiths are known as the best in the business.[@fm01-best]
+- **Shops.** The store on Northwest Main Street is a branch: DanMachi 10 and 15, Sword Oratoria 10 and DanMachi 18 call it that in English, and so do the Japanese originals of DanMachi 1 and 8.[@fm08-store, fm10-branch, fm15-branch, so10-branch, fm18-home, fm01-ja-store, fm08-ja-store] In [[babel|Babel]], every shop from the fourth floor to the eighth belongs to the Familia.[@fm02-babel] Its smiths are known as the best in the business.[@fm01-best]
 - **Work by new smiths.** What sets it apart from other smiths is that even its most inexperienced members make items and sell them in its shops, so some of its goods are within a beginner's reach.[@fm02-cheap] This is how [[bell-cranell|Bell]] first buys armour by [[welf-crozzo|Welf Crozzo]].[@fm02-armour]
 - **Home.** Its home is the great foundry Vulca's Forge, in the city's northeastern industrial district.[@fm18-home]
 - **Workshops.** The Familia gives each member a workshop of their own.[@fm04-workshop]
 - **Part-time staff.** [[hestia|Hestia]], who lived with the Familia after coming down to the Lower World, later works part-time at its Babel branch.[@fm04-masters, fm02-hestia]
 
 > [!NOTE] Main store or branch?
-> DanMachi 1 and 8 call the Northwest Main Street store the main store. DanMachi 10 and 15, Sword Oratoria 10 and DanMachi 18 call it a branch, and DanMachi 18 names "the branch stores in Babel and on Adventurers Way" as separate from the home.[@fm01-store, fm08-store, fm10-branch, fm15-branch, so10-branch, fm18-home]
+> Yen Press's DanMachi 1 prints "main store" for the Northwest Main Street store, but the Japanese originals of DanMachi 1 and 8 both say branch, as DanMachi 10 and 15, Sword Oratoria 10 and DanMachi 18 do in English; DanMachi 18 names "the branch stores in Babel and on Adventurers Way" as separate from the home.[@fm01-store, fm01-ja-store, fm08-ja-store, fm10-branch, fm15-branch, so10-branch, fm18-home]
 
 ## Smiths
 
@@ -74,9 +74,9 @@
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - The Familia's size, Guild rank and full roster beyond Tsubaki and Welf were not located in the checked text.[@so04-expedition]
-> - Whether the Northwest Main Street store is the main store or a branch (see the note above).[@fm01-store, fm18-home]
 
 [@fm01-store]: FM01 | Chapter 5: The Goddess’s Prank | "the third floor of Hephaistos Familia’s main store located on Northwest Main".
+[@fm01-ja-store]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c3FS, paragraphs 43 and 113): the store is headed Hephaistos Familia, Northwest Main Street branch, and is later called this branch. Yen Press prints "main store".
 [@fm01-best]: FM01 | Chapter 5: The Goddess’s Prank | "the smiths of Hephaistos Familia were known as the best in the business".
 [@fm02-forge]: FM02 | Chapter 1: Date, Then Supporter | "Forge is necessary to become a smith"; "more than half of Hephaistos Familia’s smiths have it".
 [@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | "one sign on the whole floor: Ἥφαιστος"; "all the shops from the fourth floor up to the eighth floor are owned by Hephaistos Familia".
@@ -93,6 +93,7 @@
 [@fm07-goibniu]: FM07 | Chapter 1: Smooth Sailing? | Goibniu Familia: "Though not as popular as Hephaistos Familia".
 [@fm08-rakia]: FM08 | Chapter 2: The Prum’s Proposal | "Hephaistos Familia? That’s perfect. I’ll have them help out as well."
 [@fm08-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Hephaistos Familia’s store, located on Northwest Main Street".
+[@fm08-ja-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Japanese original (file part0021, paragraph 37): the store is headed Hephaistos Familia, Northwest Main Street branch, facing Adventurers Way where the Guild headquarters stands.
 [@fm08-tsubaki]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Leader of Hephaistos Familia, Tsubaki Collbrande."
 [@fm08-rite]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "All smiths go through a rite of passage"; "All of us are shown one sword."; "If you don’t feel it, go someplace else."
 [@fm08-surrender]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | The Rakians "held out their hands for the members of Hephaistos Familia to tie them up".

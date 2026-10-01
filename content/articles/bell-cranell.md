@@ -82,7 +82,7 @@ He chooses Luck at Level 2.[@fm04-luck] His card on reaching Level 5 lists Luck 
 - **Element:** Electric flame[@firebolt.fm02-first]
 - **Source:** A grimoire (DanMachi 2)[@firebolt.fm02-grimoire]
 - **Incantation:** None; the spell name alone fires it[@firebolt.fm02-card, firebolt.fm03-growth]
-- **First cast:** DanMachi 2, on a goblin[@firebolt.fm02-first]
+- **First cast:** DanMachi 2, on a [[monsters#goblin|goblin]][@firebolt.fm02-first]
 
 #### Acquisition {#firebolt-acquisition}
 
@@ -95,7 +95,7 @@ Firebolt appears on Bell's Status in DanMachi 2, after he reads a book borrowed 
 
 - Bell's first card shows the name *Firebolt* in the Magic slot, described only as Swift-Strike Magic, and nothing that looks like an incantation. Hestia guesses that it needs none and that saying "Firebolt" may trigger it, and stops him saying the name indoors.[@firebolt.fm02-card, firebolt.fm02-trigger]
 - The first cast bears this out: Bell says the name and the bolt fires, "conjured in an instant".[@firebolt.fm02-first]
-- [[lilliluka-erde|Lilly]] later calls it magic with "no spell" and "lightning speed", and onlookers at the Minotaur fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-minotaur]
+- [[lilliluka-erde|Lilly]] later praises its activation speed, bolt speed and growth (the Yen Press text prints "No spell, lightning speed"), and onlookers at the Minotaur fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-ja-growth, firebolt.fm03-minotaur]
 
 **Trigger:** the spell name, *Firebolt*, spoken aloud. The text often prints it in capitals or stretched out ("FIREBOLT!!"); these are ways of showing him shouting, not different forms of the spell.[@firebolt.fm02-first, firebolt.fm03-minotaur]
 
@@ -115,7 +115,7 @@ Each cast uses Mind (mental energy). On his first day with the spell Bell fires 
 
 #### Charged Firebolt {#firebolt-charged-firebolt}
 
-Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an infant dragon and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced moss huge.[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
+Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an [[monsters#infant-dragon|infant dragon]] and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced moss huge.[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
 
 {{nocite}} Notable uses and open questions for Firebolt are on the combined page: [[magic#firebolt|Magic § Firebolt]].
 
@@ -123,7 +123,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 
 | Volume | Events |
 |---|---|
-| DanMachi 1 | Joins Hestia, is saved from a Minotaur by Aiz, and begins growing at an unusual rate. Kills the silverback that Freya releases.[@fm01-bell, fm01-silverback] |
+| DanMachi 1 | Joins Hestia, is saved from a Minotaur by Aiz, and begins growing at an unusual rate. Kills the [[monsters#silverback|silverback]] that Freya releases.[@fm01-bell, fm01-silverback] |
 | DanMachi 2 | Learns Firebolt and rescues [[lilliluka-erde|Lilliluka Erde]].[@fm02-firebolt, fm02-lilly] |
 | DanMachi 3 | Defeats the Minotaur that [[ottar|Ottar]] has trained for him and reaches Level 2.[@fm03-level2] |
 | DanMachi 5 | Is forced down to [[floor-18|Floor 18]] with his party, where they fight the Black [[goliath|Goliath]]. Bell destroys it with a charged strike.[@fm05-goliath] Before that, the adventurer [[mord-latro|Mord Latro]] kidnaps Hestia and ambushes Bell with the invisibility of the Hades Head; Bell later saves Mord from the Goliath's monsters.[@mord.fm05-kidnap, mord.fm05-saved] |
@@ -149,7 +149,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Why Zeus faked his death and where he is now.[@fm05-death]
 > - Whether Bell will learn who his parents were.[@ar03-parents, fm20-parents]
-> - When Bell first learned the name and purpose of Liaris Freese; the Status paper he reads in DanMachi 20 includes it, but no conversation about it is shown.[@fm20-level5]
+> - When Bell first learned the name and purpose of Liaris Freese; the Yen Press Status sheet he reads in DanMachi 20 includes it (the Japanese sheet does not), but no conversation about it is shown.[@fm20-level5]
 
 [@fm01-bell]: FM01 | | Human, fourteen, Hestia's only follower; his hometown and grandfather; Aiz's rescue.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
@@ -192,7 +192,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm18-odr]: FM18 | Chapter 9: Flower Language for You | Bell refuses to be Freya's Odr; her flower scattered.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Bell's promise to Syr.
 [@fm19-rapi]: FM19 | | The Rapi Flemish cover.
-[@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper.
+[@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper (the English sheet lists Liaris Freese, the Japanese sheet does not).
 [@fm20-parents]: FM20 | Epilogue: Beautiful World | Bell never knew his parents.
 [@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father; "My sister entrusted him to Zeus"; the child is not named.
 [@firebolt.fm02-card]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Status card: Firebolt, Swift-Strike Magic; no incantation shown.
@@ -202,6 +202,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@firebolt.fm02-grimoire]: FM02 | Chapter 4: Divine Wine | The grimoire; single use.
 [@firebolt.fm02-minddown]: FM02 | Chapter 4: Divine Wine | Nahza explains Mind Down.
 [@firebolt.fm03-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Lilly on Swift-Strike Magic; growth with use.
+[@firebolt.fm03-ja-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 569 and 591): Bell's narration says Firebolt has none of the incantation, the charge-up, that magic normally has; Lilly's praise is of its activation speed and bolt speed and, above all, its growth. The Japanese has Lilly say nothing about a missing spell; Yen Press prints "No spell, lightning speed".
 [@firebolt.fm03-minotaur]: FM03 | Chapter 5: A Hero’s Desire | Too weak against the Minotaur's hide; fired into the knife wound.
 [@firebolt.fm04-argonaut]: FM04 | Chapter 3: The Smith’s Situation | Charged Firebolt against an infant dragon.
 [@firebolt.fm06-aro]: FM06 | Chapter 5: Our War Game | Aro Zephyros overpowers Firebolt.

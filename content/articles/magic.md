@@ -226,7 +226,7 @@ Some spells are known only from a sheet; a search of the story text did not find
 - **Element:** Electric flame[@firebolt.fm02-first]
 - **Source:** A grimoire (DanMachi 2)[@firebolt.fm02-grimoire]
 - **Incantation:** None; the spell name alone fires it[@firebolt.fm02-card, firebolt.fm03-growth]
-- **First cast:** DanMachi 2, on a goblin[@firebolt.fm02-first]
+- **First cast:** DanMachi 2, on a [[monsters#goblin|goblin]][@firebolt.fm02-first]
 
 #### Acquisition {#firebolt-acquisition}
 
@@ -239,7 +239,7 @@ Firebolt appears on Bell's Status in DanMachi 2, after he reads a book borrowed 
 
 - Bell's first card shows the name *Firebolt* in the Magic slot, described only as Swift-Strike Magic, and nothing that looks like an incantation. Hestia guesses that it needs none and that saying "Firebolt" may trigger it, and stops him saying the name indoors.[@firebolt.fm02-card, firebolt.fm02-trigger]
 - The first cast bears this out: Bell says the name and the bolt fires, "conjured in an instant".[@firebolt.fm02-first]
-- [[lilliluka-erde|Lilly]] later calls it magic with "no spell" and "lightning speed", and onlookers at the [[minotaur|Minotaur]] fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-minotaur]
+- [[lilliluka-erde|Lilly]] later praises its activation speed, bolt speed and growth (the Yen Press text prints "No spell, lightning speed"), and onlookers at the [[minotaur|Minotaur]] fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-ja-growth, firebolt.fm03-minotaur]
 
 **Trigger:** the spell name, *Firebolt*, spoken aloud. The text often prints it in capitals or stretched out ("FIREBOLT!!"); these are ways of showing him shouting, not different forms of the spell.[@firebolt.fm02-first, firebolt.fm03-minotaur]
 
@@ -259,7 +259,7 @@ Each cast uses Mind (mental energy). On his first day with the spell Bell fires 
 
 #### Charged Firebolt {#firebolt-charged-firebolt}
 
-Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an infant dragon and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced moss huge.[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
+Bell's Skill Argonaut charges an action with power before it is released; it is a Skill, not part of the spell. In DanMachi 4 an Argonaut-charged Firebolt kills an [[monsters#infant-dragon|infant dragon]] and smashes the Dungeon wall behind it.[@firebolt.fm04-argonaut] From DanMachi 12 he charges Firebolt into his knife and releases it as the technique *Argo Vesta*, after sixty seconds of charging against the enhanced moss huge.[@firebolt.fm12-argo] In DanMachi 13, facing the [[juggernaut|Juggernaut]], whose shell reflects magic, he fires seventeen Firebolts as cover, lets them be reflected, and catches one in his knife for a Dual Charge.[@firebolt.fm13-reflect]
 
 #### Notable uses {#firebolt-notable-uses}
 
@@ -308,13 +308,13 @@ Lilly's Status cards in DanMachi 8 and DanMachi 15 list Cinder Ella under Magic 
 | Activation (Trigger Spell) | "Your scars are mine. My scars are mine." | On both Status cards;[@cinder-ella.fm08-card, cinder-ella.fm15-card] spoken in DanMachi 11 and 15, Sword Oratoria 12 and Minor Myths and Legends 1.[@cinder-ella.fm11-chase, cinder-ella.fm15-activation, cinder-ella.so12-finn, cinder-ella.ss01-activation] |
 | Release (Deactivation chant) | "Stroke of midnight’s bell." | On both Status cards;[@cinder-ella.fm08-card, cinder-ella.fm15-card] spoken from DanMachi 2 onward, the first chant of hers the novels print.[@cinder-ella.fm02-release, cinder-ella.fm05-release, cinder-ella.fm11-chase] |
 
-Sometimes only the spell name is printed. In DanMachi 3 Lilly touches her head and says "Cinder Ella", and cat ears appear; the text does not print the activation chant there.[@cinder-ella.fm03-name] That is a name-only print, not evidence that the spell can be cast without its chant.
+Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguised when the scene opens, and the Japanese prints the spell name in brackets as a label rather than as something she says; the Yen Press text instead has the cat ears appear as she says "Cinder Ella."[@cinder-ella.fm03-name, cinder-ella.fm03-ja-name] No activation chant is printed there. That is a name-only print, not evidence that the spell can be cast without its chant.
 
 #### Effects {#cinder-ella-effects}
 
 - **Appearance, not power.** She can take the shape of anything she can clearly picture, even monsters, but Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm11-limits]
-- **Imitation.** In DanMachi 3 she can mostly look like other short races or children of taller ones, and needs an example to copy clothing; that ability grew as her Magic ability rose.[@cinder-ella.fm03-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
-- **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm18-dispel]
+- **Imitation.** In DanMachi 3 she can basically only turn into pallums or children of about her own build (the Yen Press text says "other short races or children of taller ones"). As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance (the Yen Press text says she needs an example to copy).[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
+- **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and, apparently, a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits, cinder-ella.fm18-dispel]
 
 #### Notable uses {#cinder-ella-notable-uses}
 
@@ -1413,7 +1413,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 |---|---|
 | DanMachi 13 | Three short fragments, heard by Bell while he chases Lyu, then the release. Their wording fits neither version; for example, the opening is "Now, far away—in the infinite heavens—".[@luminous-wind.fm13-jura] |
 | DanMachi 14 | The last two lines of Version B only, before she destroys the Juggernaut.[@luminous-wind.fm14-end] |
-| DanMachi 17, DanMachi 20, Familia Chronicle 3 | Only the final line of Version B joined to the spell name. In DanMachi 17 the narration says she finishes a cast "she had been murmuring softly"; in DanMachi 20 Bell asks whether she was Concurrent Casting.[@luminous-wind.fm17-escape, luminous-wind.fm20-cast, luminous-wind.fc03-uranda] |
+| DanMachi 17, DanMachi 20, Familia Chronicle 3 | Only the final line of Version B joined to the spell name. In DanMachi 17 the narration says she finishes a cast "she had been murmuring softly"; in DanMachi 20 a party member asks whether she was Concurrent Casting; the English does not name the speaker, and the Japanese address to Lyu shows it is not Bell but most likely the commander, Lilly.[@luminous-wind.fm17-escape, luminous-wind.fm20-cast, luminous-wind.fc03-uranda] |
 
 {{nocite}} These are partial prints, not a shorter version of the spell: in each case the text shows or implies that the rest of the chant was recited off-page.
 
@@ -1910,6 +1910,7 @@ DanMachi 19 prints the spell as *Magia Kris*; DanMachi 20 prints *Magia Kreis*.[
 
 - **Chant and release:** "Swaying stem, breath of white. Sing of flowers, and of the pristine hill—Magia Kreis!"[@magia-kreis.fm20-chant]
 - DanMachi 19 prints the same line ending "—Magia Kris!".[@magia-kreis.fm19-kris]
+- The DanMachi 20 chant in the Japanese is {{ja|揺れる聖輪、吐息は白く。花々謳う、清浄の丘|yureru seirin, toiki wa shiroku. hanabana utau, seijō no oka}}. Its first noun, *seirin*, means holy ring, where the English prints "stem".[@magia-kreis.fm20-chant]
 - In DanMachi 20, when Lilly and Lyu press her to heal at once, only the name is printed: "M-Magia Kreis!"[@magia-kreis.fm20-buffs] This is a name-only print; it does not show that the spell can be cast without its chant.
 
 When cast, fragments of white magic like flower petals envelop the targets.[@magia-kreis.fm19-kris, magia-kreis.fm20-buffs]
@@ -2460,7 +2461,7 @@ Students of the [[school-district|School District]] use their own magic in the D
 
 #### Dark Mine (Legi) {#school-district-spells-dark-mine-legi}
 
-Legi of Nina's 3rd Squad puts her hand to the ground, calls "Dark Mine!", and leaves a magic circle behind as she runs on. When the monsters reach it, she recites the spell key, "Boom.", and it explodes.[@school-district-spells.fm19-mine] Later she lays such mines all around a room in advance: every orc or imp that steps on a hidden circle sets off a dark burst, and one mine cripples an infant dragon's foreleg.[@school-district-spells.fm19-room]
+Legi of Nina's 3rd Squad puts her hand to the ground, calls "Dark Mine!", and leaves a magic circle behind as she runs on. When the monsters reach it, she recites the spell key, "Boom.", and it explodes.[@school-district-spells.fm19-mine] Later she lays such mines all around a room in advance: every [[monsters#orc|orc]] or imp that steps on a hidden circle sets off a dark burst, and one mine cripples an infant dragon's foreleg.[@school-district-spells.fm19-room]
 
 #### Zalga Yell and Zalga Amalda (Nano) {#school-district-spells-zalga-yell-and-zalga-amalda-nano}
 
@@ -3577,6 +3578,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@firebolt.fm02-grimoire]: FM02 | Chapter 4: Divine Wine | The grimoire; single use.
 [@firebolt.fm02-minddown]: FM02 | Chapter 4: Divine Wine | Nahza explains Mind Down.
 [@firebolt.fm03-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Lilly on Swift-Strike Magic; growth with use.
+[@firebolt.fm03-ja-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 569 and 591): Bell's narration says Firebolt has none of the incantation, the charge-up, that magic normally has; Lilly's praise is of its activation speed and bolt speed and, above all, its growth. The Japanese has Lilly say nothing about a missing spell; Yen Press prints "No spell, lightning speed".
 [@firebolt.fm03-minotaur]: FM03 | Chapter 5: A Hero’s Desire | Too weak against the Minotaur's hide; fired into the knife wound.
 [@firebolt.fm04-argonaut]: FM04 | Chapter 3: The Smith’s Situation | Charged Firebolt against an infant dragon.
 [@firebolt.fm06-aro]: FM06 | Chapter 5: Our War Game | Aro Zephyros overpowers Firebolt.
@@ -3587,6 +3589,8 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@cinder-ella.fm02-release]: FM02 | Chapter 5: Reset | "Stroke of midnight’s bell."; changes her appearance.
 [@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only; cat ears appear.
 [@cinder-ella.fm03-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Shape limits; clothing needs an example; ends if she is hit.
+[@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
+[@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
 [@cinder-ella.fm06-luan]: FM06 | Chapter 5: Our War Game | "Luan the traitor" was Lilly in disguise; the west gate.
@@ -3725,7 +3729,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@luminous-wind.fm14-flashback]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Version B in the flashback.
 [@luminous-wind.fm14-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Last lines only; forty-seven orbs.
 [@luminous-wind.fm17-escape]: FM17 | Chapter 5: The End of Her World | Final line only; "murmuring softly".
-[@luminous-wind.fm20-cast]: FM20 | Chapter 1: Orario Rumble | Final line only; "Were you concurrent casting?!"
+[@luminous-wind.fm20-cast]: FM20 | Chapter 1: Orario Rumble | Final line only; "Were you concurrent casting?!" (speaker unnamed in the English; the Japanese uses an address Bell never uses for Lyu).
 [@luminous-wind.fc03-card]: FC03 | The Locus of Stars | Level 5 and 6 cards; Magic Control strengthens it.
 [@luminous-wind.fc03-uranda]: FC03 | The Locus of Stars | Final line only; one orb at her feet.
 [@noa-heal.so05-heal]: SO05 | Chapter 3: ⅓ Pure Passion | Two chant lines; "Noah Heal."; Bell's wounds healed.
@@ -3756,7 +3760,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@magia-kreis.fm20-buffs]: FM20 | Chapter 1: Orario Rumble | Longer buffs; Haruhime's Level Boost extended.
 [@magia-kreis.fm20-twenty]: FM20 | Chapter 1: Orario Rumble | Twenty minutes at Level 2.
 [@magia-kreis.fm20-later]: FM20 | Chapter 4: The Knight’s Afterglow | Magia Kreis in the later fighting.
-[@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice).
+[@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice). The Japanese chant's first noun means holy ring, not stem.
 [@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; "the ultimate protection spell"; the dome around thirteen.
 [@via-shilheim.so04-shattered]: SO04 | Last Chapter: To Adventure | Fire Storm shatters the barrier; Gareth shields the party.
 [@via-shilheim.so04-residue]: SO04 | Last Chapter: To Adventure | The spirit absorbs the barrier's residue.

@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "Fried potato puffs sold from street stalls all over Orario. Hestia works part-time at a Jyaga Maru Kun stall on North Main Street, and they are Aiz Wallenstein's favourite food. Early volumes call them potato snacks or potato puffs.",
+  "summary": "Fried potato puffs sold from street stalls all over Orario. Hestia works part-time at a Jyaga Maru Kun stall on North Main Street, and they are Aiz Wallenstein's favourite food. Yen Press's early volumes call them potato snacks or potato puffs; the Japanese uses the name from the first volume.",
   "aliases": ["Jyaga Marukun", "Potato puffs", "Potato snacks", "Crispy Potato Puffs", "Jyaga Maru", "Jyaga Maru Kun stall"],
   "spoilers": "DanMachi Vols. 1–5, 7, 8, 11, 13, 15, 17, 19, 20, Sword Oratoria Vols. 1, 3–6, 9, 13, Familia Chronicle Vol. 3, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hestia", "aiz-wallenstein", "orario", "loki", "hephaistos", "school-district", "wiene"],
@@ -27,13 +27,13 @@
 ---
 **Jyaga Maru Kun** are fried potato puffs, a street food sold all over [[orario|Orario]].[@fm07-puffs, fm15-street] [[hestia|Hestia]] works part-time at a Jyaga Maru Kun stall on North Main Street, and they are [[aiz-wallenstein|Aiz Wallenstein]]'s favourite food.[@ss01-aiz, so04-favourite]
 
-The early volumes do not use the name. DanMachi 1 and 2 call them potato snacks, DanMachi 2 to 5 potato puffs, and DanMachi 4 *Crispy Potato Puffs*. The name *Jyaga Maru Kun* appears from DanMachi 7 on, glossed as "crispy potato puffs".[@fm01-party, fm02-price, fm04-stand, fm07-puffs] Sword Oratoria 1 prints it once as *Jyaga Marukun*, and Loki's insult for Hestia shortens it to *Jyaga Maru*.[@so01-monsterphilia, so04-favourite]
+The early English volumes do not use the name. Yen Press's DanMachi 1 and 2 call them potato snacks, DanMachi 2 to 5 potato puffs, and DanMachi 4 *Crispy Potato Puffs*; the name *Jyaga Maru Kun* appears from DanMachi 7 on, glossed as "crispy potato puffs".[@fm01-party, fm02-price, fm04-stand, fm07-puffs] The Japanese original already uses the name, {{ja|ジャガ丸くん|Jyaga Maru-kun}}, in DanMachi 1, so "potato snacks" is Yen Press's rendering of it.[@fm01-ja-party] Sword Oratoria 1 prints it once as *Jyaga Marukun*, and Loki's insult for Hestia shortens it to *Jyaga Maru*.[@so01-monsterphilia, so04-favourite]
 
 ## The snack {#snack}
 
 - **Recipe:** "mashed potatoes mixed with seasoning, rolled in batter, and deep-fried". Hestia's stand seems to have a potion as its secret ingredient.[@fm04-stand] Sword Oratoria 9 describes "some kind of flattened potato snack" coated in breading and fried.[@so09-first] The herbs used to make them come in from outside the city wall.[@fm08-herbs]
-- **Price:** an ordinary one costs thirty vals.[@fm02-price, fm15-bell] Two frosted sweet-bean puffs cost Aiz eighty vals in DanMachi 3.[@fm03-stall] The "hyper-ultra-jumbo Jyaga Maru Kun deluxe" costs a hundred times as much: 3,000 valis, for a snack five hands long.[@fm17-deluxe]
-- **Flavours:** sweet bean, Aiz's favourite in DanMachi 2 and 3; red beans and cream; grape cream; salty.[@fm02-tiona, fm03-stall, ss01-aiz, so13-elfie, fc03-salty] "Green tea–flavored Jyaga Maru Kun" is the password Aiz is given for a bar in Sword Oratoria 3.[@so03-password] By Minor Myths and Legends 2 the stalls have changed their flavours.[@ss02-flavours]
+- **Price:** an ordinary one costs thirty vals.[@fm02-price, fm15-bell] Two azuki-cream (red bean and cream) ones, fried in batter, cost Aiz eighty vals in DanMachi 3; the Yen Press text prints "sweet-bean potato puffs" and puffs "with frosting on them".[@fm03-stall, fm03-ja-stall] The "hyper-ultra-jumbo Jyaga Maru Kun deluxe" costs a hundred times as much: 3,000 valis, for a snack five hands long.[@fm17-deluxe]
+- **Flavours:** sweet bean, Aiz's favourite in DanMachi 2 and 3 (in the Japanese DanMachi 3 her order is azuki cream, which may be the red beans and cream flavour below); red beans and cream; grape cream; salty.[@fm02-tiona, fm03-stall, ss01-aiz, so13-elfie, fc03-salty] "Green tea–flavored Jyaga Maru Kun" is the password Aiz is given for a bar in Sword Oratoria 3.[@so03-password] By Minor Myths and Legends 2 the stalls have changed their flavours.[@ss02-flavours]
 - **Stalls:** besides Hestia's stand on North Main Street there are a store on East Main Street, stalls on Southwest Main Street, stalls at the [[monsterphilia|Monsterphilia]], and stalls "in the most out-of-the-way places".[@ss01-aiz, ss02-flavours, so01-monsterphilia, fm08-stalls] [[takemikazuchi-familia|Takemikazuchi]] also makes fried potato puffs, and is "Still losing in sales to Hestia’s place up north".[@fm05-takemikazuchi]
 - **History:** in Sword Oratoria 9's recollections of Aiz's early years in [[loki-familia|Loki Familia]], during the Dark Ages, [[loki|Loki]] says the stall "just started up recently". Loki remembers its jingle: "The bundle of joy that makes every mouth in the city water".[@so09-first, so09-dark] In DanMachi 19, [[nina-tulle|Nina Tulle]] says that Jyaga Maru Kun "originated in Orario" and is popular in the [[school-district|School District]] too. Hestia had called it "a worldwide franchise".[@fm19-shop]
 
@@ -84,10 +84,12 @@ In Astrea Record 1, Ardee of [[ganesha-familia|Ganesha Familia]] lets a thief go
 > - Why Astrea Record 1 calls a baked yam a Jyaga Maru Kun.[@ar01-ardee]
 
 [@fm01-party]: FM01 | Chapter 1: World, Reality, and Desire | "I did so well at the shop today that I got these potato snacks for free! Party night!!"
+[@fm01-ja-party]: FM01 | Chapter 1: World, Reality, and Desire | Japanese original (file cFB, paragraphs 67 and 204): Hestia is given a lot of Jyaga Maru-kun for helping a street stall's sales (a stall, not a "shop"), and they plan a Jyaga Maru-kun party.
 [@fm02-price]: FM02 | Chapter 2: The Supporter’s Situation | "Thirty vals? The same price as a potato snack from that street stand?"
 [@fm02-job]: FM02 | Chapter 1: Date, Then Supporter | "You don’t need two part-time jobs!"; "Aren’t you getting thirty vals an hour at your other job?!"; "Don’t make fun of my career in potato snacks!"
 [@fm02-tiona]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Tiona: "How about one of your favorite sweet-bean-flavored potato puffs?"
 [@fm03-stall]: FM03 | Chapter 3: Black Raid | "Tiona told me about a potato puffs stand over there."; "Two sweet-bean potato puffs, please."; "That’s eighty vals".
+[@fm03-ja-stall]: FM03 | Chapter 3: Black Raid | Japanese original (file c23U, paragraphs 162, 178 and 180): Aiz orders two Jyaga Maru Kun of the azuki-cream flavour; the puffs are coated in batter and fried by another clerk, and Hestia wraps them and names the price, eighty vals. Yen Press prints "frosting", where the Japanese has the frying batter.
 [@fm04-stand]: FM04 | A Campanella to the Goddess | "a street stand that was situated on North Main Street"; "Crispy Potato Puffs"; "mashed potatoes mixed with seasoning, rolled in batter, and deep-fried"; a potion "as a secret ingredient".
 [@fm04-pay]: FM04 | A Campanella to the Goddess | "She worked six hours today at 30 vals per hour."; "everything exploded in her face"; repairs "taken out of her paycheck".
 [@fm05-takemikazuchi]: FM05 | | Takemikazuchi "would once again be making fried potato puffs"; "Still losing in sales to Hestia’s place up north".

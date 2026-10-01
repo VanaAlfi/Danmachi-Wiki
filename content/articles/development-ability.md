@@ -120,7 +120,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 ### Abnormal Resistance {#abnormal-resistance}
 
-**Abnormal Resistance** protects against monster poison and other ailments. DanMachi 4 calls it very basic but highly valued in the Dungeon, and relatively easy to acquire because so many adventurers breathe the spores of purple moths in the upper levels.[@fm04-immunity] Lilly chooses it at Level 2 because it passively prevents harmful Status ailments, which Dungeon expeditions all but require.[@fm15-lilly]
+**Abnormal Resistance** protects against monster poison and other ailments. DanMachi 4 calls it very basic but highly valued in the Dungeon, and relatively easy to acquire because so many adventurers breathe the spores of [[monsters#purple-moth|purple moths]] in the upper levels.[@fm04-immunity] Lilly chooses it at Level 2 because it passively prevents harmful Status ailments, which Dungeon expeditions all but require.[@fm15-lilly]
 
 - **Printed as:** Immunity (most volumes); Abnormal Resistance (Sword Oratoria 6 and 12); Resistance (DanMachi 15 and 19, Familia Chronicle 1 and 3)[@fm04-immunity, so06-cards, so12-lefiya, fm15-lilly, fc03-cards]
 

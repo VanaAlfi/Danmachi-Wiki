@@ -96,7 +96,7 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 [@fc01-afterword]: FC01 | Afterword | Places the tavern story before DanMachi 1.
 [@fc01-casino]: FC01 | Crush the Grand Casino! |
 [@so09-founding]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | Newly built tavern reached from East Main Street; Mia's purpose.
-[@fm01-syr]: FM01 | Chapter 1: World, Reality, and Desire | Bell meets Syr the morning after the Minotaur rescue.
+[@fm01-syr]: FM01 | Chapter 2: That’s Why I Run | Bell meets Syr the morning after the Minotaur rescue.
 [@fm01-anya]: FM01 | Chapter 5: The G♥ddess’s Prank |
 [@fm16-pay]: FM16 | Chapter 2: A Tearful and Painful Festival Eve |
 [@fm17-memory]: FM17 | Chapter 2: Alone Inside a Sandbox |

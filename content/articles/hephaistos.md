@@ -18,12 +18,12 @@
       {"section": "Familia"},
       {"label": "Head of", "value": "Hephaistos Familia", "refs": ["fm01-hephaistos"]},
       {"label": "Captain", "value": "[[tsubaki|Tsubaki Collbrande]]", "refs": ["fm14-tsubaki"]},
-      {"label": "Main store", "value": "Northwest Main Street; also shops in Babel", "refs": ["fm08-store", "fm02-babel"]}
+      {"label": "Store", "value": "A branch on Northwest Main Street; also shops in Babel", "refs": ["fm08-ja-store", "fm08-store", "fm02-babel"]}
     ]
   }
 }
 ---
-**Hephaistos** is the goddess of the forge and the head of [[hephaistos-familia|Hephaistos Familia]], a Familia of master smiths.[@fm01-hephaistos, fm04-masters] Its main store stands on Northwest Main Street, and it also has shops in [[babel|Babel]].[@fm08-store, fm02-babel]
+**Hephaistos** is the goddess of the forge and the head of [[hephaistos-familia|Hephaistos Familia]], a Familia of master smiths.[@fm01-hephaistos, fm04-masters] Its store on Northwest Main Street is a branch, and it also has shops in [[babel|Babel]].[@fm08-ja-store, fm08-store, fm02-babel]
 
 ## Hestia's friend
 
@@ -54,6 +54,7 @@ In DanMachi 11 she asks her captain, [[tsubaki|Tsubaki]], to help Welf and [[hes
 [@fm05-sword]: FM05 | | Welf's magic sword sent to Hestia.
 [@fm07-debt]: FM07 | | Hestia's debt of 200 million valis.
 [@fm08-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | The store on Northwest Main.
+[@fm08-ja-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Japanese original (file part0021, paragraph 37): the store is headed Hephaistos Familia, Northwest Main Street branch, facing Adventurers Way where the Guild headquarters stands.
 [@fm08-rakia]: FM08 | | The Rakian infiltrators; Garon's surrender.
 [@fm08-face]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Her face; Welf's promise.
 [@fm11-tsubaki]: FM11 | | Tsubaki sent to help.

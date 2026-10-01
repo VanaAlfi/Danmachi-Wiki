@@ -46,6 +46,7 @@ def plain_text(fragment: str) -> str:
     """Searchable text of rendered HTML: drop citation markers, join inline tags
     without spaces and separate block tags with one."""
     fragment = re.sub(r'<sup class="cite">.*?</sup>', "", fragment)
+    fragment = JA_SPAN.sub("", fragment)  # the search index stays free of Japanese script; the romanisation remains
     fragment = re.sub(r"</?(?:a|span|strong|em|cite|mark|code|b|i)\b[^>]*>", "", fragment)
     fragment = re.sub(r"<[^>]+>", " ", fragment)
     return re.sub(r"\s+", " ", html.unescape(fragment)).strip()
@@ -163,6 +164,9 @@ EXTLINK = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
 BOLD = re.compile(r"\*\*(.+?)\*\*")
 ITAL = re.compile(r"(?<![\*\w])\*(?!\s)(.+?)(?<!\s)\*(?![\*\w])")
 BADGE = re.compile(r"\{\{(statement|inference|unresolved|unverified)\}\}")
+# Japanese original for names and chants only (user decision, 1 Oct 2026): {{ja|日本語}} or {{ja|日本語|romanisation}}.
+JA = re.compile(r"\{\{ja\|([^{}|]+?)(?:\|([^{}|]+?))?\}\}")
+JA_SPAN = re.compile(r'<span lang="ja" class="ja">[^<]*</span>')
 HEADING = re.compile(r"^(#{2,4})\s+(.*?)(?:\s+\{#([\w-]+)\})?\s*$")
 LISTITEM = re.compile(r"^(\s*)(?:[-*]|(\d+)\.)\s+(.*)$")
 DIRECTIVE = re.compile(r"^\{\{([\w-]+)\}\}$")
@@ -194,7 +198,13 @@ class Renderer:
         t = BOLD.sub(r"<strong>\1</strong>", t)
         t = ITAL.sub(r"<em>\1</em>", t)
         t = BADGE.sub(self._badge, t)
+        t = JA.sub(self._ja, t)
         return t
+
+    def _ja(self, m):
+        jp, roman = m.group(1).strip(), (m.group(2) or "").strip()
+        out = f'<span lang="ja" class="ja">{jp}</span>'
+        return out + (f' (<em>{roman}</em>)' if roman else "")
 
     def _badge(self, m):
         kind = m.group(1)
@@ -357,13 +367,13 @@ class Renderer:
 
     @staticmethod
     def split_row(line: str) -> list[str]:
-        """Split a table row on |, ignoring the | inside [[target|label]] links."""
+        """Split a table row on |, ignoring the | inside [[target|label]] links and {{ja|…|…}} templates."""
         cells, buf, depth, i = [], [], 0, 0
         line = line.strip().removeprefix("|").removesuffix("|")
         while i < len(line):
             two = line[i:i + 2]
-            if two in ("[[", "]]"):
-                depth += 1 if two == "[[" else -1
+            if two in ("[[", "]]", "{{", "}}"):
+                depth += 1 if two in ("[[", "{{") else -1
                 buf.append(two)
                 i += 2
                 continue
@@ -1154,6 +1164,9 @@ def leak_check():
         if path.suffix.lower() not in {".html", ".js", ".css", ".json", ".svg", ".xml"}:
             continue
         text = path.read_text(encoding="utf-8")
+        # Japanese is allowed only inside the {{ja|…}} spans (names and chants); everywhere else it still fails.
+        if path.suffix.lower() == ".html":
+            text = JA_SPAN.sub("", text)
         for pat, what in LEAK_PATTERNS:
             m = pat.search(text)
             if m:

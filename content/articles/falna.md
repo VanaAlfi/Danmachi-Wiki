@@ -30,7 +30,7 @@
 
 A Status is a divine record of the follower's own history. Excelia measures both how much they have accomplished and how well.[@fm01-status] Using a basic ability earns excelia for that ability, and fighting a stronger opponent earns it faster.[@fm01-excelia]
 
-The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] How [[skills|Skills]] are acquired is not fully understood, although some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills]
+The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] Getting a [[skills|Skill]] is itself rare, and some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills, fm01-ja-skills]
 
 Magic gained through a Falna is shaped by excelia, interests and desires. A person can hold at most three spells; one is not unusual, and two is very rare.[@fm01-magic]
 
@@ -78,7 +78,8 @@ Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Gu
 [@fm01-status]: FM01 | | Falna, blood and hieroglyphs; Status as a record of excelia.
 [@fm01-familia]: FM01 | | A Familia is a god-led group.
 [@fm01-excelia]: FM01 | | Excelia from ability use and stronger opponents.
-[@fm01-skills]: FM01 | | Skill acquisition not fully understood; racial patterns.
+[@fm01-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Members of one race tend to develop similar Skills: elves strengthen magic, dwarves strength.
+[@fm01-ja-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 150): obtaining a Skill is itself rare. Yen Press prints that it "was not fully understood how skills were acquired".
 [@fm01-magic]: FM01 | | At most three magics.
 [@fm01-abilities]: FM01 | | Basic abilities and ranks.
 [@fm01-levelup]: FM01 | | A Level Up boosts every basic ability.

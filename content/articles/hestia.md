@@ -41,7 +41,7 @@ She works part-time at a [[jyaga-maru-kun|Jyaga Maru Kun]] stall on North Main S
 
 She sets household rules for her followers: a ten o'clock curfew, telling her which floor they are heading to, and shared meals.[@ss01-hestia] She keeps Bell's Skill off the Status copies she gives him, and in DanMachi 8 explains it to the other members after he has left the room.[@fm01-hidden, fm08-hestia]
 
-For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a thirty-year loan.[@fm01-knife] In DanMachi 7 her personal debt for it is confirmed at 200 million valis.[@fm07-debt]
+For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a loan she must repay even if it takes "one hundred years".[@fm01-knife] In DanMachi 7 her personal debt for it is confirmed at 200 million valis.[@fm07-debt]
 
 ## History
 
@@ -76,7 +76,7 @@ In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin 
 [@fm13-jobs]: FM13 | Chapter 2: The Prophetess of Tragedy | "I’m off from Hephaistos’s place and Jyaga Maru Kun, too."
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm01-found]: FM01 | | Fifty failed recruitments before Bell; the Familia is founded.
-[@fm01-knife]: FM01 | | The Hestia Knife on a thirty-year loan.
+[@fm01-knife]: FM01 | Chapter 5: The Goddess’s Prank | Hephaistos: "I don’t care if it takes one hundred years, you will repay me."
 [@fm05-rescue]: FM05 | | Savings spent on the rescue; Hestia enters the Dungeon.
 [@fm05-goliath]: FM05 | Chapter 5: The Outlaws’ Party | The Dungeon reacts to divine presence.
 [@fm05-fine]: FM05 | Epilogue: The One Who Targets the Rabbit | The Guild penalizes Hestia and Hermes.

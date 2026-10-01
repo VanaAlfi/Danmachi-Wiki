@@ -44,7 +44,7 @@ Rivira has Exchange shops of its own; one has a sign with drawings of a Minotaur
 
 | Volume | Events |
 |---|---|
-| DanMachi 1 | Bell trades in the magic stone shards from a day of mostly goblins and kobolds for about 1,200 vals, less than usual.[@fm01-hq] On a good day he exchanges loot for 4,400 vals, while a single healing potion costs 500.[@fm01-good] |
+| DanMachi 1 | Bell trades in the magic stone shards from a day of mostly [[monsters#goblin|goblins]] and [[monsters#kobold|kobolds]] for about 1,200 vals, less than usual.[@fm01-hq] On a good day he exchanges loot for 4,400 vals, while a single healing potion costs 500.[@fm01-good] |
 | DanMachi 2 | With [[lilliluka-erde|Lilly]] carrying the loot, he no longer has to go back up to the Exchange when his pack is full. Their first day together brings 26,000 vals.[@fm02-haul] Lilly later confesses that she took money for herself at the Exchange, making their shares "closer to forty-sixty".[@fm02-lilly] |
 | DanMachi 4 | The magic stone of the [[minotaur|Minotaur]] Bell defeated in DanMachi 3 fetches 50,000 vals; Lilly says even the Exchange's clerk was surprised.[@fm04-minotaur] |
 | Sword Oratoria 1 | Back from an expedition, [[finn-deimne|Finn]], [[riveria|Riveria]] and [[gareth|Gareth]] take [[loki-familia|Loki Familia]]'s magic stones to the Exchange counter themselves.[@so01-loki] |

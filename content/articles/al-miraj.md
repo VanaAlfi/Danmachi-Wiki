@@ -33,9 +33,9 @@ DanMachi 5 prints the name capitalised, *Al-Miraj*; DanMachi 7 prints *almirage*
 
 ## The species {#species}
 
-- **Appearance:** floppy ears, white and yellow fur, a fluffy tail, and a long sharp horn on the head. They hop on their hind legs and are about [[lilliluka-erde|Lilly]]'s height. [[bell-cranell|Bell]] calls them "needle rabbits that learned how to walk on two legs".[@fm05-rabbit]
+- **Appearance:** floppy ears, white and yellow fur, a fluffy tail, and a long sharp horn on the head. They hop on their hind legs and are about [[lilliluka-erde|Lilly]]'s height. [[bell-cranell|Bell]] calls them "[[monsters#needle-rabbit|needle rabbits]] that learned how to walk on two legs".[@fm05-rabbit]
 - **Where:** they first appear on the thirteenth floor. DanMachi 5 says they appear only on the thirteenth and fourteenth floors, so one seen on [[floor-18|Floor 18]] makes an adventurer suspicious.[@fm05-rabbit, fm05-floors]
-- **Strength:** one al-miraj is weak: upper-ranked Level 1 adventurers can hold their own against one if they know it is more agile than a silverback. The rating of Level 2 is for their danger "in groups".[@fm05-level] They are known as some of the most agile monsters of the middle levels; [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-bell]
+- **Strength:** one al-miraj is weak: upper-ranked Level 1 adventurers can hold their own against one if they know it is more agile than a [[monsters#silverback|silverback]]. The rating of Level 2 is for their danger "in groups".[@fm05-level] They are known as some of the most agile monsters of the middle levels; [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-bell]
 - **Weapons:** they stamp rocks open and pick up the pieces, small stone tomahawks that are the floor's landform weapon, and throw them.[@fm05-tomahawk] Disarmed, they charge horn first.[@fm09-hesitate]
 - **Drops:** in DanMachi 7 Bell's party fulfils a quest for "almirage furs" after slaying a pack.[@fm07-almirage]
 - **Tactics:** unlike upper-level monsters, they read the situation. They close on a party in a "netlike formation" and change their attack as soon as a gap opens.[@fm05-mikoto] They are often met together with [[monsters#hellhound|hellhounds]].[@fm05-bell, so13-parade]

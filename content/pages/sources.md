@@ -5,7 +5,7 @@
   "summary": "Which official English releases this wiki covers, when that boundary was checked, and how articles cite them."
 }
 ---
-Orario Ledger uses **only material officially published in English**. At present that means the Yen Press editions of the DanMachi light novels listed below. Anything published only in Japanese, fan or machine translations, and summaries on other wikis are not used, even where they would fill a gap. If a fact cannot be supported by a covered volume, it is left out or marked as unresolved.
+Orario Ledger uses **only material officially published in English**. At present that means the Yen Press editions of the DanMachi light novels listed below. Anything published only in Japanese, fan or machine translations, and summaries on other wikis are not used, even where they would fill a gap. If a fact cannot be supported by a covered volume, it is left out or marked as unresolved. The one exception is a fact-check: see "The Japanese originals" below.
 
 ## Coverage
 
@@ -26,6 +26,10 @@ Citations refer to the Yen Press ebook editions (Yen On imprint) of all 42 cover
 - Page numbers are not given, because the ebook editions have no fixed pagination. Where the chapter of a supporting passage has not been recorded yet, the citation says so rather than guessing.
 - Articles are written in original words. Quotations are kept short, and no book text, scans or ebook files are distributed on this site.
 
+## The Japanese originals
+
+The English translation is not always a faithful copy of the Japanese. Where the Yen Press text of a covered volume is shown to disagree with the Japanese original of the same volume, and the original is clear, the article follows the original and says so. Such a citation names the volume and chapter as usual and its note begins "Japanese original", with the file and paragraph of the Japanese ebook. Only the Japanese editions of volumes already published in English are used, and only to settle a fact; the wording of this wiki stays English, and Japanese script appears only in names and chants.
+
 ## Evidence labels
 
 Plain narrated facts carry citations and no label. Everything else is labelled:
@@ -39,7 +43,7 @@ Facts that change over time, such as Levels, affiliations and abilities, are tie
 ## Not used at present
 
 - Volumes not yet published in English, including those listed as upcoming above.
-- Japanese-language novels, author posts and other Japanese-only material, and any unofficial translation of them.
+- Japanese-only volumes, author posts and other Japanese-only material, and any unofficial translation of them. (The Japanese editions of the covered volumes are used only as a fact-check, as described above.)
 - Anime, manga and game adaptations. They are officially available in English but tell some events differently, so they will get their own clearly labelled sections rather than being merged into novel facts.
 - Fandom and other wikis, as evidence. Some of their images are shown as illustrations (see below), but nothing they say is used as a source.
 

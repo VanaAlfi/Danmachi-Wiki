@@ -47,7 +47,7 @@
     {"anchor": "hume-bunny", "title": "Hume bunny", "summary": "Rabbit animal people with long ears and a short fluffy tail; Rakuta is one, and Bell is disguised as one in DanMachi 19.", "aliases": ["Hume bunnies"]},
     {"anchor": "raccoon", "title": "Raccoon", "summary": "Animal people seen only briefly: a bar owner in Sword Oratoria 6 and a School District girl in DanMachi 19.", "aliases": []},
     {"anchor": "cow", "title": "Cow", "summary": "An animal-person race named once, for a School District girl in DanMachi 19.", "aliases": []},
-    {"anchor": "god", "title": "Gods", "summary": "The deities from Deusdia, who descended about a thousand years ago and grant the Falna; mortals believe the gods created them.", "aliases": ["God", "Goddess", "Deity"]},
+    {"anchor": "god", "title": "Gods", "summary": "The deities, whom the Japanese calls Deusdia (transcendent beings), who descended about a thousand years ago and grant the Falna; mortals believe the gods created them.", "aliases": ["God", "Goddess", "Deity"]},
     {"anchor": "spirit", "title": "Spirits", "summary": "Also called fairies: a small, magical race closest to the gods, classified by element (salamanders, undines, gnomes and others), who cannot have children.", "aliases": ["Spirit", "Fairies", "Gnome", "Salamander", "Undine"]},
     {"anchor": "creature", "title": "Creatures", "summary": "Human-monster hybrids such as Levis and the revived Olivas Act, made with a magic stone.", "aliases": ["Creature", "Human-monster hybrid"]},
     {"anchor": "xenos", "title": "Xenos", "summary": "Monsters who can talk; see the Xenos page.", "aliases": []}
@@ -225,7 +225,7 @@ The **boaz** have boar-like ears; [[ottar|Ottar]]'s are "evidence of his boaz he
 
 ### Werewolf {#werewolf}
 
-**Werewolves** are wolf animal people, with wolf ears.[@fm18-transform, ss02-ears] They are the classic example of transformation: under the full moon they gain a strength behind the saying "no race is a match for a werewolf during the full moon".[@fm18-transform, so08-moon] For the same reason they were long thought the race least suited to the Dungeon, where there is no moon.[@so06-transform] DanMachi 3 adds that werewolves "were not known for their acceptance of others".[@fm03-werewolf]
+**Werewolves** are wolf animal people, with wolf ears.[@fm18-transform, ss02-ears] They are the classic example of transformation: under the full moon they gain a strength behind the saying "no race is a match for a werewolf during the full moon".[@fm18-transform, so08-moon] For the same reason they were long thought the race least suited to the Dungeon, where there is no moon.[@so06-transform] DanMachi 3 adds that werewolf beast people have a lone-wolf streak and can be inflexible (the Yen Press text says they "were not known for their acceptance of others").[@fm03-werewolf, fm03-ja-werewolf]
 
 - **Example:** [[bete-loga|Bete Loga]], who transforms in Sword Oratoria 6 and 8.[@so01-bete, so06-transform, so08-howl]
 
@@ -255,7 +255,7 @@ A **cow** is named once, among Nina's School District friends in DanMachi 19: "a
 
 {{nocite}} See [[falna|Falna]] for the gods' blessing and the deity pages for individual gods.
 
-**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] came from another plane, Deusdia, and will not age as mortals do.[@fm01-goddess] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for making the races "refuse to accept anyone different".[@fm15-created]
+**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a kind of being different from humans, demi-humans and monsters, and will not age as mortals do (Yen Press prints "another plane, Deusdia"; in the Japanese *Deusdia* names the gods as *transcendent beings*).[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for making the races "refuse to accept anyone different".[@fm15-created]
 
 ### Spirits {#spirit}
 
@@ -292,6 +292,7 @@ A **cow** is named once, among Nina's School District friends in DanMachi 19: "a
 
 [@fm01-orario]: FM01 | Chapter 1: World, Reality, and Desire | "there are many kinds of demi-humans living in this flourishing metropolis alongside us".
 [@fm01-goddess]: FM01 | Chapter 1: World, Reality, and Desire | Hestia "came from another plane, Deusdia. She won’t age or change much".
+[@fm01-ja-deusdia]: FM01 | Chapter 1: World, Reality, and Desire | Japanese original (file cFB, paragraph 62; also file c36N, paragraph 145): the gods are transcendent beings read Deusdia, one dimension different from humans, demi-humans and monsters. Yen Press prints "another plane, Deusdia".
 [@fm01-animal]: FM01 | Chapter 2: That’s Why I Run | "Female animal people, a race of demi-humans with animalian ears and bushy tails".
 [@fm01-bell]: FM01 | Chapter 5: The Goddess’s Prank | "Bell Cranell. Human."
 [@fm02-ears]: FM02 | Chapter 1: Date, Then Supporter | Unlike Eina, the elf girl's "ears come to a full point".
@@ -304,6 +305,7 @@ A **cow** is named once, among Nina's School District friends in DanMachi 19: "a
 [@fm02-lilly]: FM02 | Chapter 5: Reset | "Lilly was the prum girl who had run into Bell".
 [@fm03-beast]: FM03 | Chapter 4: The Meaning of Adventure | "the beast person’s armor"; "the beast man".
 [@fm03-werewolf]: FM03 | Chapter 5: A Hero’s Desire | "werewolf animal people were not known for their acceptance of others".
+[@fm03-ja-werewolf]: FM03 | Chapter 5: A Hero’s Desire | Japanese original (file c43D, paragraph 47): elves clash easily with other races over differences of opinion; werewolf beast people also have a lone-wolf streak, so they can be inflexible. Yen Press prints that they were not known for their acceptance of others, particularly Bete.
 [@fm04-koine]: FM04 | Chapter 1: Denatus | "Koine, the common language of humans and demi-humans".
 [@fm04-skin]: FM04 | Chapter 2: Changing Environment, New Relationships | "Elves do not allow someone they don’t trust to touch their skin."
 [@fm04-interact]: FM04 | Chapter 3: The Smith’s Situation | "humans and demi-humans and elves didn’t interact very much before the gods descended"; elves "shut themselves off" in a forest.

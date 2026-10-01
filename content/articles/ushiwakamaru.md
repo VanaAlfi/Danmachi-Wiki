@@ -46,7 +46,7 @@ Welf offers two names, "The Young Bull, Ushiwakamaru" and "the Bull Dagger, Mino
 
 ### Description
 
-The dagger is about 15 celch long. Where the Hestia Knife slices precisely, it destroys by sheer force: in its first use, the shock of a blow aimed below a Hard Armored's chest still shatters the monster's magic stone.[@fm04-dagger]
+The dagger is about 15 celch long. Where the Hestia Knife slices precisely, it destroys by sheer force: in its first use, the shock of a blow aimed below a [[monsters#hard-armored|Hard Armored]]'s chest still shatters the monster's magic stone.[@fm04-dagger]
 
 {{nocite}} The DanMachi 5 item profile adds:
 

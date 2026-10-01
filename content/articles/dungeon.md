@@ -31,7 +31,7 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 
 | Floors | Band | Notes |
 |---|---|---|
-| 1–12 | Upper levels | Goblins and kobolds on Floors 1–4; conditions change sharply from Floor 5. The Guild does not let Level 1 adventurers below Floor 12.[@fm02-upper, fm02-limit] |
+| 1–12 | Upper levels | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. The Guild does not let Level 1 adventurers below Floor 12.[@fm02-upper, fm02-limit] |
 | 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] |
 | 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] Floor 28, the Under Garden, is a safe point.[@fm20-garden] |
 | Deeper floors | Deep levels | [[floor-37|Floor 37]], the Lower Fortress, lies in the deep levels and is home to Spartoi and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] |

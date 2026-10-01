@@ -30,7 +30,7 @@
 
 ## Soma Familia
 
-Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She deliberately goes six months without a Status update so that her earnings will not be noticed.[@fm03-status]
+Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She then goes nearly half a year without a Status update: she reached the quota but did not hand the money in, so as not to stand out, and being unable to update was the side effect (the Yen Press text says six months and calls it a sacrifice she made).[@fm03-status, fm03-ja-status]
 
 In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's Divine Wine through willpower and persuades Soma to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
 
@@ -83,13 +83,13 @@ Lilly's Status cards in DanMachi 8 and DanMachi 15 list Cinder Ella under Magic 
 | Activation (Trigger Spell) | "Your scars are mine. My scars are mine." | On both Status cards;[@cinder-ella.fm08-card, cinder-ella.fm15-card] spoken in DanMachi 11 and 15, Sword Oratoria 12 and Minor Myths and Legends 1.[@cinder-ella.fm11-chase, cinder-ella.fm15-activation, cinder-ella.so12-finn, cinder-ella.ss01-activation] |
 | Release (Deactivation chant) | "Stroke of midnight’s bell." | On both Status cards;[@cinder-ella.fm08-card, cinder-ella.fm15-card] spoken from DanMachi 2 onward, the first chant of hers the novels print.[@cinder-ella.fm02-release, cinder-ella.fm05-release, cinder-ella.fm11-chase] |
 
-Sometimes only the spell name is printed. In DanMachi 3 Lilly touches her head and says "Cinder Ella", and cat ears appear; the text does not print the activation chant there.[@cinder-ella.fm03-name] That is a name-only print, not evidence that the spell can be cast without its chant.
+Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguised when the scene opens, and the Japanese prints the spell name in brackets as a label rather than as something she says; the Yen Press text instead has the cat ears appear as she says "Cinder Ella."[@cinder-ella.fm03-name, cinder-ella.fm03-ja-name] No activation chant is printed there. That is a name-only print, not evidence that the spell can be cast without its chant.
 
 #### Effects {#cinder-ella-effects}
 
 - **Appearance, not power.** She can take the shape of anything she can clearly picture, even monsters, but Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm11-limits]
-- **Imitation.** In DanMachi 3 she can mostly look like other short races or children of taller ones, and needs an example to copy clothing; that ability grew as her Magic ability rose.[@cinder-ella.fm03-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
-- **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm18-dispel]
+- **Imitation.** In DanMachi 3 she can basically only turn into pallums or children of about her own build (the Yen Press text says "other short races or children of taller ones"). As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance (the Yen Press text says she needs an example to copy).[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
+- **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and, apparently, a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits, cinder-ella.fm18-dispel]
 
 #### Magic or Skill? {#cinder-ella-magic-or-skill}
 
@@ -107,6 +107,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly touches her head a
 [@fm02-lilly]: FM02 | | Prum supporter of Soma Familia; theft, exploitation and Bell's rescue.
 [@fm03-stolen]: FM03 | Chapter 1: The Kenki Approches | Her savings stolen.
 [@fm03-status]: FM03 | | Six months without an update.
+[@fm03-ja-status]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 374 and 392): Lilly says she has gone nearly half a year without updating her Status even once; she reached the fund-raising quota but did not hand the money in, so that others would not think she had any, and being unable to update is called the harmful side effect of that.
 [@fm03-cinder]: FM03 | Chapter 2: Ox and Hare Special Training | Limits of Cinder Ella.
 [@fm04-cell]: FM04 | | The three-person party.
 [@fm06-soma]: FM06 | | Zanis's demand; the Divine Wine; Soma.
@@ -128,6 +129,8 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly touches her head a
 [@cinder-ella.fm02-release]: FM02 | Chapter 5: Reset | "Stroke of midnight’s bell."; changes her appearance.
 [@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only; cat ears appear.
 [@cinder-ella.fm03-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Shape limits; clothing needs an example; ends if she is hit.
+[@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
+[@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
 [@cinder-ella.fm06-luan]: FM06 | Chapter 5: Our War Game | "Luan the traitor" was Lilly in disguise; the west gate.

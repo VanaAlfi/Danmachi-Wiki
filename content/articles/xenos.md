@@ -44,7 +44,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 | Fia | A red-haired harpy, more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
-| Lett | A "gentlemanly" red-cap goblin with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
+| Lett | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 | [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
 | [[#ranieh|Ranieh]] | An arachne who distrusts surface people; killed by Ikelos Familia's hunters in DanMachi 10.[@fm10-ranieh, fm10-death] |
 

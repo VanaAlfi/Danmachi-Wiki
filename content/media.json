@@ -14708,6 +14708,323 @@
     1920,
     1080
    ]
+  },
+  "f8b774a6a043": {
+   "name": "Central Park.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Central_Park.png",
+   "uploaded": "2019-07-02T05:22:12Z",
+   "sha256": "f8b774a6a043711f476c334afaf4996106eefbdf9f253b81653b24c8a6c2fbb7",
+   "files": {
+    "full": {
+     "file": "f8b774a6a043-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "f8b774a6a043-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "36b626165ba6": {
+   "name": "Ted DanMemo.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ted_DanMemo.png",
+   "uploaded": "2018-06-21T22:40:03Z",
+   "sha256": "36b626165ba6be9250c58502032febdfc3b92f50d4c01664c8be11b8d47208fd",
+   "files": {
+    "full": {
+     "file": "36b626165ba6-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "36b626165ba6-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "d4b8a91c5ae4": {
+   "name": "Ted Anna and Ryuu FC Manga v3.png",
+   "source": "Familia Chronicle manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ted_Anna_and_Ryuu_FC_Manga_v3.png",
+   "uploaded": "2021-12-21T00:47:13Z",
+   "sha256": "d4b8a91c5ae4ff058c20d9e88dde2243f7c87b0b4d0870a4bf36f9f1ba6b5bec",
+   "files": {
+    "full": {
+     "file": "d4b8a91c5ae4-full.webp",
+     "w": 853,
+     "h": 1280
+    },
+    "th": {
+     "file": "d4b8a91c5ae4-th.webp",
+     "w": 200,
+     "h": 300
+    }
+   },
+   "orig": [
+    900,
+    1350
+   ]
+  },
+  "c9f44ee58768": {
+   "name": "Silverback.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Silverback.png",
+   "uploaded": "2015-08-16T12:29:55Z",
+   "sha256": "c9f44ee58768fa2d94f40d70bc790897f26ac8fac12a544509aed2d0ba0bfd56",
+   "files": {
+    "full": {
+     "file": "c9f44ee58768-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "c9f44ee58768-ib.webp",
+     "w": 500,
+     "h": 281
+    },
+    "th": {
+     "file": "c9f44ee58768-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "c7656eeed5bd": {
+   "name": "Almiraj anime-2-s1ep10.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Almiraj_anime-2-s1ep10.png",
+   "uploaded": "2021-11-26T21:15:31Z",
+   "sha256": "c7656eeed5bdf5da32b365f7119e97ec56ebd4d8f5c2ba4e6aa65ea891ede5fe",
+   "files": {
+    "full": {
+     "file": "c7656eeed5bd-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "c7656eeed5bd-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1280,
+    720
+   ]
+  },
+  "1910f794ba6d": {
+   "name": "Almiraj.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Almiraj.jpg",
+   "uploaded": "2018-08-13T17:09:30Z",
+   "sha256": "1910f794ba6d84ad9634b749c3aa51a2bf7c9986007f2e983e6d96f807899a48",
+   "files": {
+    "full": {
+     "file": "1910f794ba6d-full.webp",
+     "w": 640,
+     "h": 350
+    },
+    "th": {
+     "file": "1910f794ba6d-th.webp",
+     "w": 300,
+     "h": 164
+    }
+   },
+   "orig": [
+    640,
+    350
+   ]
+  },
+  "b9657c63abf2": {
+   "name": "37th Floor - Colosseum Anime 2.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:37th_Floor_-_Colosseum_Anime_2.png",
+   "uploaded": "2023-03-02T21:04:19Z",
+   "sha256": "b9657c63abf2258c966ff7826a9422be6032f4bf8def0688b7d56f48ec284fc6",
+   "files": {
+    "full": {
+     "file": "b9657c63abf2-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "b9657c63abf2-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "061cc90b247a": {
+   "name": "37th Floor - below the Colosseum Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:37th_Floor_-_below_the_Colosseum_Anime.png",
+   "uploaded": "2023-03-02T21:04:17Z",
+   "sha256": "061cc90b247ad5d6e0f230a24ce55afb4b4120e8478234e7cfbe52f1e4364fc4",
+   "files": {
+    "full": {
+     "file": "061cc90b247a-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "061cc90b247a-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "3ebe880d12ef": {
+   "name": "Laurier Character Art.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Laurier_Character_Art.jpg",
+   "uploaded": "2023-05-28T02:18:49Z",
+   "sha256": "3ebe880d12ef6de021a0a1e89dea13491a1434e1e9f0c384678f40872b8f4383",
+   "files": {
+    "full": {
+     "file": "3ebe880d12ef-full.webp",
+     "w": 640,
+     "h": 452
+    },
+    "th": {
+     "file": "3ebe880d12ef-th.webp",
+     "w": 300,
+     "h": 212
+    }
+   },
+   "orig": [
+    640,
+    452
+   ]
+  },
+  "8291ead84e82": {
+   "name": "Jagamarukun Stall.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Jagamarukun_Stall.png",
+   "uploaded": "2016-01-15T00:36:58Z",
+   "sha256": "8291ead84e823d921e7c981d1d7d321d4c0b6fafca262b262a3ad3da0c9e93be",
+   "files": {
+    "full": {
+     "file": "8291ead84e82-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "8291ead84e82-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "a962f953105b": {
+   "name": "Hestia Jagamarukun Uniform Anime.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Hestia_Jagamarukun_Uniform_Anime.jpg",
+   "uploaded": "2024-10-21T06:13:55Z",
+   "sha256": "a962f953105b43be6c911928e9c6d98f1af2fea252571bf81e51826222021d94",
+   "files": {
+    "full": {
+     "file": "a962f953105b-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "a962f953105b-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "84071b691d6e": {
+   "name": "Hellhound.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Hellhound.png",
+   "uploaded": "2015-08-16T12:29:14Z",
+   "sha256": "84071b691d6ef79179fd0e9a9a2e698bc6f09642f82cd9cd57951aa203fa4194",
+   "files": {
+    "full": {
+     "file": "84071b691d6e-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "84071b691d6e-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "c1b0ca75af42": {
+   "name": "Lizardman Elite Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Lizardman_Elite_Anime.png",
+   "uploaded": "2023-02-16T16:20:10Z",
+   "sha256": "c1b0ca75af42bb8c08bd18a9ab68b97d76d1b5ab6300ba7252e76481bbd7645a",
+   "files": {
+    "full": {
+     "file": "c1b0ca75af42-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "c1b0ca75af42-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
   }
  },
  "pages": {
@@ -15975,7 +16292,12 @@
     "id": "98dedd5598b5",
     "caption": ""
    },
-   "gallery": []
+   "gallery": [
+    {
+     "id": "3ebe880d12ef",
+     "caption": "Laurier Swall"
+    }
+   ]
   },
   "hestia": {
    "fandom_page": "Hestia",
@@ -18203,6 +18525,95 @@
     {
      "id": "d0fc42f97c37",
      "caption": "Mother Maria"
+    }
+   ]
+  },
+  "central-park": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "f8b774a6a043",
+    "caption": "Babel at the centre of Central Park"
+   },
+   "gallery": []
+  },
+  "el-dorado-resort": {
+   "fandom_page": "Ted",
+   "infobox": {
+    "id": "36b626165ba6",
+    "caption": "Ted, as Terry Cervantes"
+   },
+   "gallery": [
+    {
+     "id": "d4b8a91c5ae4",
+     "caption": "Ted, Anna and Lyu"
+    }
+   ]
+  },
+  "monsterphilia": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "c9f44ee58768",
+    "caption": "The silverback that escapes at the Monsterphilia"
+   },
+   "gallery": []
+  },
+  "al-miraj": {
+   "fandom_page": "Helga",
+   "infobox": {
+    "id": "c7656eeed5bd",
+    "caption": "Al-miraj with stone tomahawks"
+   },
+   "gallery": [
+    {
+     "id": "1910f794ba6d",
+     "caption": "Al-miraj"
+    }
+   ]
+  },
+  "colosseum": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "b70922149dbd",
+    "caption": "The Colosseum"
+   },
+   "gallery": [
+    {
+     "id": "b9657c63abf2",
+     "caption": "A bridge to the Colosseum"
+    },
+    {
+     "id": "061cc90b247a",
+     "caption": "Bell and Lyu below the Colosseum"
+    }
+   ]
+  },
+  "jyaga-maru-kun": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "8291ead84e82",
+    "caption": "Hestia serving Aiz and Bell at the stall"
+   },
+   "gallery": [
+    {
+     "id": "a962f953105b",
+     "caption": "Hestia in the stall uniform"
+    }
+   ]
+  },
+  "monsters": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "84071b691d6e",
+    "caption": "Hellhounds"
+   },
+   "gallery": [
+    {
+     "id": "c1b0ca75af42",
+     "caption": "Lizardman elites"
+    },
+    {
+     "id": "c9f44ee58768",
+     "caption": "A silverback"
     }
    ]
   }

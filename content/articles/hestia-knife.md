@@ -45,7 +45,7 @@ Hephaistos explains the knife to Hestia in DanMachi 1:[@fm01-alive]
 - **Status.** It bears Hestia's hieroglyphs, her blessing, so many of them that the whole blade is black. "This weapon is alive"; it is "a blade with its own status".[@fm01-alive]
 - **Growth.** Like a child with a Falna, it grows stronger with its wielder's [[excelia|excelia]]. As the adventurer gets stronger, more of the blade's potential unlocks; if the wielder stays weak, so does the knife, and if the wielder becomes the most powerful adventurer, it becomes the most powerful weapon.[@fm01-alive]
 - **One owner.** Only someone with Hestia's blessing can wield it, which makes it unsellable and useless as a weapon to anyone else.[@fm01-alive]
-- **One of a kind.** A weapon that can become the best at once is bad for business, Hephaistos says, and she will never make another.[@fm01-alive]
+- **One of a kind.** Hephaistos calls a weapon that reaches the summit by itself an improper thing for a smith, and tells Hestia not to make her forge another.[@fm01-alive, fm01-ja-alive]
 
 In DanMachi 2 a gnome antique dealer, shown the knife by a thief, finds that it "won't cut, stab, or slice" and "feels…dead", and offers thirty valis for it as a decoration. The thief realises that without its sheath, which bears the Ἥφαιστος signature, it cannot be sold as the valuable piece it is.[@fm02-appraisal, fm02-sheath] When [[lyu-leon|Lyu]] returns the "dull, lackluster" knife to Bell and he raises it to his cheek, it comes alive again and glows purple.[@fm02-returned]
 
@@ -60,7 +60,7 @@ In DanMachi 7 Bell's party finds the loan contract: two hundred million valis, s
 
 | Volume | Use |
 |---|---|
-| DanMachi 1 | Bell kills the silverback with it. Hephaistos says it will "take its first breath" in Bell's hands; it blazes purple and sends a beam of light into the sky.[@fm01-alive, fm01-silverback] |
+| DanMachi 1 | Bell kills the [[monsters#silverback|silverback]] with it. Hephaistos says it will "take its first breath" in Bell's hands; it blazes purple, its power spilling from the blade in deep-purple drops that trace a path in the air.[@fm01-alive, fm01-silverback, fm01-ja-silverback] |
 | DanMachi 14 | Bell has charged the Hestia Knife with his Skill [[skills#argonaut|Argonaut]] many times; the charge works on anything he holds.[@fm14-charge] Against the [[juggernaut|Juggernaut]], the hieroglyphs on the Divine Knife pulse with light.[@fm14-hieroglyphs] |
 | DanMachi 18 | As Bell rises to face [[ottar|Ottar]], the knife "reacted to his growth" and blazes; its indigo slash strikes Ottar through his black greatsword.[@fm18-growth, fm18-ottar] |
 | DanMachi 20 | In his duel with [[leon-verdenberg|Leon]], Bell lets flame and lightning erupt from the Hestia Knife and calls "Firebolt!".[@fm20-firebolt] |
@@ -75,7 +75,9 @@ In DanMachi 14 and 18 Bell lists the Hestia Knife and Hakugen as his weapons.[@f
 
 [@fm01-case]: FM01 | Chapter 5: The Goddess’s Prank | "a dagger with a black handle and sheath"; "with a little help from Hestia"; "‘Love Dagger’"; "Hephaistos suggested “Hestia Knife,”".
 [@fm01-alive]: FM01 | Chapter 6: Bump of Chicken! | "This weapon is alive."; "forged from Hephaistos’s mythril and engraved with Hestia’s blessing"; "a blade with its own status"; "only someone with her blessing could wield it"; "I won’t be making another one of these, ever."
-[@fm01-silverback]: FM01 | Chapter 6: Bump of Chicken! | "The “Hestia Knife” blazed purple in his grip"; "the black blade standing straight up out of its chest"; "sent a beam of light into the heavens".
+[@fm01-ja-alive]: FM01 | Chapter 6: Bump of Chicken! | Japanese original (file c4N9, paragraph 547): a weapon that reaches the summit by itself is, to a smith, an improper way (jadō), and Hephaistos tells Hestia not to make her forge one again. Yen Press prints "bad for business" and "put us smiths out of a job".
+[@fm01-silverback]: FM01 | Chapter 6: Bump of Chicken! | "The “Hestia Knife” blazed purple in his grip"; "the black blade standing straight up out of its chest".
+[@fm01-ja-silverback]: FM01 | Chapter 6: Bump of Chicken! | Japanese original (file c4N9, paragraph 597): the raised attack power overflows from the blade as deep-purple drops and draws a trail in the air; there is no beam of light. Yen Press prints "sent a beam of light into the heavens".
 [@fm02-divine]: FM02 | Chapter 1: Date, Then Supporter | "I’ve got the Divine Knife from Hestia aimed at the ground chewer".
 [@fm02-appraisal]: FM02 | Chapter 2: The Supporter’s Situation | The gnome: "The blade won’t cut, stab, or slice."; "this blade feels…dead"; "How’s thirty vals sound?"
 [@fm02-sheath]: FM02 | Chapter 2: The Supporter’s Situation | "If only it had the “Ἥφαιστος” signature…The sheath, I need the sheath…"

@@ -16,7 +16,7 @@
       {"section": "Organisation"},
       {"label": "Founder and true leader", "value": "[[ouranos|Ouranos]]", "refs": ["so02-ouranos", "fm09-ouranos"]},
       {"label": "Head", "value": "Royman Mardeel, an elf", "refs": ["fm09-royman"]},
-      {"label": "Headquarters", "value": "West Main or Northwest Main (the novels differ)", "refs": ["fm01-west", "so01-northwest"]},
+      {"label": "Headquarters", "value": "Northwest Main Street, called Adventurers Way", "refs": ["so01-northwest", "fm01-ja-hq"]},
       {"section": "Functions"},
       {"label": "Oversees", "value": "Adventurers and access to the Dungeon", "refs": ["fm01-guild"]},
       {"label": "Runs", "value": "The Exchange for magic stones and drop items", "refs": ["fm01-guild"]}
@@ -42,7 +42,7 @@ Receptionists are chosen partly for their looks, because their rapport with adve
 
 ## Headquarters
 
-DanMachi 1 places the Guild headquarters on West Main Street, while Sword Oratoria 1 and DanMachi 8 put it on Northwest Main, known as Adventurers Way.[@fm01-west, so01-northwest, fm08-store] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
+The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Yen Press's DanMachi 1 prints West Main Street for it, but the Japanese original of that volume agrees with Sword Oratoria 1 and DanMachi 8.[@fm01-west, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
 
 ## Decisions in the covered volumes
 
@@ -54,13 +54,9 @@ DanMachi 1 places the Guild headquarters on West Main Street, while Sword Orator
 | DanMachi 19 | Asks [[lyu-leon|Lyu]] not to register under her old name.[@fm19-name] |
 | DanMachi 20 | Royman signs the [[school-district|School District]]'s proposal to cooperate on the shaft project.[@fm20-shaft] |
 
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - Where the Guild headquarters stands (see above).[@fm01-west, so01-northwest]
-
 [@fm01-guild]: FM01 | | The Guild's functions; the Exchange; Babel.
-[@fm01-west]: FM01 | Chapter 5: The Goddess’s Prank | Guild headquarters on West Main.
+[@fm01-west]: FM01 | Chapter 5: The Goddess’s Prank | Yen Press prints the headquarters on West Main: "The Guild headquarters is here, too".
+[@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
 [@fm01-eina]: FM01 | | Eina as Bell's adviser.
 [@fm02-privacy]: FM02 | | Level and Familia reported to the Guild.
 [@fm02-limit]: FM02 | | Floor 12 limit for Level 1.

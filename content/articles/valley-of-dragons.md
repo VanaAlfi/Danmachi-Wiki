@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "The land where the one-eyed Black Dragon is sealed by a great spirit's storm; dragons escape from it through tears caused by the sleeping dragon's breath.",
+  "summary": "The land where the one-eyed Black Dragon is sealed by a great spirit's storm; dragons escape from it through tears caused by the sleeping dragon's snore.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 19–20 and Sword Oratoria Vol. 13",
   "related": ["three-great-quests", "school-district", "leon-verdenberg", "bell-cranell"],
@@ -25,7 +25,7 @@ The **Valley of Dragons** is where the Black Dragon, one of the [[three-great-qu
 
 ## The seal
 
-According to the gods, the dragon wanted prey to heal its lost eye. When almost all the dragons of the world had gathered in this land, the great spirit raised a vast storm to seal them.[@fm20-storm] The sleeping Black Dragon breathes out from time to time; the breath disturbs the wind and opens tears through which dragons escape, which the locals call "descending from the valley". This is the cause of the roaming dragons that trouble the world.[@fm20-breath] The Great Dragon Wall restricts access.[@fm20-wall]
+According to the gods, the dragon wanted prey to heal its lost eye. When almost all the dragons of the world had gathered in this land, the great spirit raised a vast storm to seal them.[@fm20-storm] The sleeping Black Dragon snores from time to time (the Yen Press text says it "exhales"); the sound disturbs the wind and opens tears through which dragons escape, which the locals call "descending from the valley". This is the cause of the roaming dragons that trouble the world.[@fm20-breath] The Great Dragon Wall restricts access.[@fm20-wall]
 
 Barrier devices made by [[school-district|the School District]] stand around the base of the storm to maintain and strengthen the seal.[@fm20-barrier] In DanMachi 20 one of these barriers appears to be broken, and an escaped dragon has to be defeated.[@fm20-broken]
 
@@ -40,7 +40,7 @@ Dragon attacks from beyond the School District's barrier are increasing in DanMa
 
 [@fm20-legend]: FM20 | Chapter 3: The World, The Festival, and Reality | The hero who took its eye; the great spirit's seal.
 [@fm20-storm]: FM20 | Chapter 3: The World, The Festival, and Reality | The gathering of dragons and the storm.
-[@fm20-breath]: FM20 | Chapter 3: The World, The Festival, and Reality | The sleeping Black Dragon's breath.
+[@fm20-breath]: FM20 | Chapter 3: The World, The Festival, and Reality | The sleeping Black Dragon's snore; the English says "exhales", where the Japanese says snore.
 [@fm20-barrier]: FM20 | Chapter 3: The World, The Festival, and Reality | The School District's barrier devices.
 [@fm20-broken]: FM20 | Chapter 4: The Knight’s Afterglow | "School District's barrier appears to be broken as well."
 [@fm20-wall]: FM20 | | The Great Dragon Wall.

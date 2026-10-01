@@ -35,7 +35,7 @@ Within [[freya-familia|Freya Familia]] only recognised second-tier members and t
 
 ## At the tavern
 
-Bell meets Syr outside the tavern the morning after [[aiz-wallenstein|Aiz]] saves him from the [[minotaur|Minotaur]].[@fm01-syr] The tavern stands on West Main Street.[@fm01-west] In DanMachi 1 she slips away to the [[monsterphilia|Monsterphilia]] festival and forgets her wallet, so the other waitresses send Bell after her with it.[@fm01-wallet] She later tells him she saw him fighting the silverback on Main Street; as Freya, she had released it.[@fm01-silverback, fm17-double]
+Bell meets Syr outside the tavern the morning after [[aiz-wallenstein|Aiz]] saves him from the [[minotaur|Minotaur]].[@fm01-syr] The tavern stands on West Main Street.[@fm01-west] In DanMachi 1 she slips away to the [[monsterphilia|Monsterphilia]] festival and forgets her wallet, so the other waitresses send Bell after her with it.[@fm01-wallet] She later tells him she saw him fighting the [[monsters#silverback|silverback]] on Main Street; as Freya, she had released it.[@fm01-silverback, fm17-double]
 
 In DanMachi 2 Bell borrows a book from Syr that turns out to be a [[grimoire|grimoire]], the source of his [[magic#firebolt|Firebolt]].[@fm02-book] Freya had chosen it from her own bookcase and left it where Bell would get it.[@fm02-grimoire] In DanMachi 6 she gives Bell an amulet before the [[war-game|War Game]] against Apollo Familia.[@fm06-amulet] In DanMachi 17 Freya tells Bell that the grimoire and the amulet were hers, given to help him grow and keep him safe.[@fm17-support]
 
@@ -59,7 +59,7 @@ In DanMachi 20 Syr visits [[hearthstone-manor|Hearthstone Manor]] and asks to st
 > - What formal limits, if any, apply to Syr under the arrangement of DanMachi 19.[@fm19-syr]
 > - Whether her remark in DanMachi 1 that she fell for Bell after the silverback marks the actual moment; Freya's later account describes a gradual change.[@fm01-silverback, fm17-double]
 
-[@fm01-syr]: FM01 | Chapter 1: World, Reality, and Desire | Bell meets Syr the morning after the Minotaur rescue.
+[@fm01-syr]: FM01 | Chapter 2: That’s Why I Run | Bell meets Syr the morning after the Minotaur rescue.
 [@fm01-west]: FM01 | Chapter 5: The Goddess’s Prank | The tavern on West Main.
 [@fm01-wallet]: FM01 | Chapter 5: The Goddess’s Prank | Syr's forgotten wallet.
 [@fm01-silverback]: FM01 | Chapter 6: Bump of Chicken! | Syr saw the silverback fight.

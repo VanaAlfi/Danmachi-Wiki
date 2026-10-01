@@ -72,7 +72,7 @@
 
 Status cards list Skills under their own heading, each with its name and a few short lines on its effect, apart from the Magic slots and from [[development-ability|Development Abilities]].[@fm12-card, so12-card]
 
-In DanMachi 1 Hestia reflects that most Skills are fairly common. No one fully understands how they are acquired, and although each confirmed Skill has its own name and effect, it is usually easy to find another adventurer with something similar. Members of the same race tend to develop similar Skills: many elves have Skills that strengthen magic, and dwarves usually have ones that improve physical strength.[@fm01-rare] [[haruhime|Haruhime]]'s [[#mikuzume-no-hou|Mikuzume no Hou]] is compared to the Skills elves have developed as a race.[@mikuzume-no-hou.fm15-new]
+In DanMachi 1 Hestia reflects that many Skills share their effects with other adventurers' Skills: getting a Skill is itself rare, but among the confirmed ones the names often differ while the abilities are alike, so it is usually easy to find another adventurer with something similar. Members of the same race tend to develop similar Skills: many elves have Skills that strengthen magic, and dwarves usually have ones that improve physical strength.[@fm01-rare, fm01-ja-rare] [[haruhime|Haruhime]]'s [[#mikuzume-no-hou|Mikuzume no Hou]] is compared to the Skills elves have developed as a race.[@mikuzume-no-hou.fm15-new]
 
 ### Rare Skills {#rare-skills}
 
@@ -188,7 +188,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 - **Effect:** Rapid growth, sustained and strengthened by desire[@liaris-freese.fm01-skill]
 - **Driven by:** Bell's feelings for [[aiz-wallenstein|Aiz Wallenstein]][@liaris-freese.fm08-hestia]
 - **Appeared:** At his first Status update after the Minotaur rescue (DanMachi 1)[@liaris-freese.fm01-skill]
-- **Known to Bell:** Hidden by Hestia; included on the Status paper he reads in DanMachi 20[@liaris-freese.fm01-hidden, liaris-freese.fm20-paper]
+- **Known to Bell:** Hidden by Hestia; the Yen Press sheet he reads in DanMachi 20 prints it, but the Japanese sheet does not[@liaris-freese.fm01-hidden, liaris-freese.fm20-paper]
 
 #### Name {#liaris-freese-name}
 
@@ -209,7 +209,7 @@ It also protects him against divine charm. In DanMachi 7, [[ishtar|Ishtar]] read
 
 #### Limits {#liaris-freese-limits}
 
-Rapid growth does not remove the need for hard experiences. DanMachi 20 still prints the Skill but explains that, at Level 5, Bell needs more difficult experiences and more [[excelia|excelia]] to grow.[@liaris-freese.fm20-paper]
+Rapid growth does not remove the need for hard experiences. DanMachi 20 explains that, at Level 5, Bell needs more difficult experiences and more [[excelia|excelia]] to grow; the Yen Press sheet printed there still lists the Skill, but the Japanese sheet does not.[@liaris-freese.fm20-paper]
 
 Because the Skill depends on his feelings, shaking them is a way to attack it. In DanMachi 17, Freya's strategy is built around unsettling the feelings that sustain it.[@liaris-freese.fm17-feelings]
 
@@ -225,10 +225,10 @@ When the Skill exists and when Bell can know about it are different things. Hest
 | DanMachi 7 | Ishtar reads Liaris Freese on his back.[@liaris-freese.fm07-ishtar] |
 | DanMachi 8 | After Bell leaves, Hestia explains the Skill to the other members and confirms she has not told him.[@liaris-freese.fm08-hestia] |
 | DanMachi 18 | The sheet handed to Bell still leaves it out.[@liaris-freese.fm18-sheet] |
-| DanMachi 20 | The update paper Hestia hands him includes Liaris Freese and its effects, and Bell looks the paper over.[@liaris-freese.fm20-paper] |
+| DanMachi 20 | Bell looks over the update paper Hestia hands him. The Yen Press sheet includes Liaris Freese and its effects; the Japanese sheet lists only his other three Skills.[@liaris-freese.fm20-paper] |
 
 > [!UNRESOLVED] What Bell makes of it
-> No scene shows Bell reacting to the Skill, learning that Hestia hid it, or understanding its link to Aiz. The DanMachi 20 paper shows that he had access to it, not what he concluded.[@liaris-freese.fm20-paper]
+> No scene shows Bell reacting to the Skill, learning that Hestia hid it, or understanding its link to Aiz. The Yen Press sheet of DanMachi 20 would show that he had access to it, not what he concluded, and the Japanese sheet does not list it at all.[@liaris-freese.fm20-paper]
 
 #### Open questions {#liaris-freese-open-questions}
 
@@ -241,13 +241,13 @@ When the Skill exists and when Bell can know about it are different things. Hest
 **Argonaut**, printed in full as *Heroic Desire, Argonaut*, is [[bell-cranell|Bell Cranell]]'s second Skill. It charges an action that Bell chooses to take with extra power before he releases it, and it underlies his charged Firebolts and the technique Argo Vesta.[@argonaut.fm04-card, argonaut.fm04-hestia, argonaut.fm12-argo]
 
 - **Holder:** Bell Cranell[@argonaut.fm04-card]
-- **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the cards say it charges automatically with an active action.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm06-card, argonaut.fm20-card]
+- **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the cards say it charges automatically with an active action. The Japanese DanMachi 20 card does not say "automatically": it gives Bell the right to execute a charge for active actions.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm06-card, argonaut.fm20-card]
 - **Appeared:** On his first Level 2 card (DanMachi 4)[@argonaut.fm04-card]
 - **Cost:** Stamina and Mind, which are lost if a charge is cancelled[@argonaut.fm05-cost, argonaut.fm12-tests]
 
 #### Charging {#argonaut-charging}
 
-The first time it activates, in DanMachi 4, grains of white light circle Bell's arm with a sound like small chimes.[@argonaut.fm04-first] Hestia's reading is that when he stakes everything on one blow, the Skill greatly raises its strength and gives him a chance to turn the tide against overwhelming odds, a "heroic strike".[@argonaut.fm04-hestia] That day an Argonaut-charged Firebolt kills an infant dragon and smashes the Dungeon wall behind it.[@argonaut.fm04-dragon] A charge needs a heroic image in Bell's mind; against the Black Goliath he pictures the Great Hero David.[@argonaut.fm05-image]
+The first time it activates, in DanMachi 4, grains of white light circle Bell's arm with a sound like small chimes.[@argonaut.fm04-first] Hestia's reading is that when he stakes everything on one blow, the Skill greatly raises its strength and gives him a chance to turn the tide against overwhelming odds, a "heroic strike".[@argonaut.fm04-hestia] That day an Argonaut-charged Firebolt kills an [[monsters#infant-dragon|infant dragon]] and smashes the Dungeon wall behind it.[@argonaut.fm04-dragon] A charge needs a heroic image in Bell's mind; against the Black Goliath he pictures the Great Hero David.[@argonaut.fm05-image]
 
 It is costly. DanMachi 5 calls it a double-edged sword that takes enormous physical and mental strength, likely to leave Bell unable to move after the attack.[@argonaut.fm05-cost] In DanMachi 12 he tests it: the power gathers wherever the particles of light collect, which works for slashes, punches and magic, but he can charge in only one place at a time. An enemy's attack or a lapse of concentration wipes out a charge, and the stamina and Mind already spent are lost with it.[@argonaut.fm12-tests] What interests him most is its convergence, which leads to Argo Vesta, Firebolt charged into his knife.[@argonaut.fm12-tests, argonaut.fm12-argo]
 
@@ -701,7 +701,8 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 
 [@fm01-slot]: FM01 | Chapter 1: World, Reality, and Desire | Bell's Status has a Skill slot.
 [@fm01-separate]: FM01 | Chapter 1: World, Reality, and Desire | Skills are separate from basic abilities; cheaper than magic, but not free.
-[@fm01-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Most Skills common; acquisition not fully understood; racial tendencies; the rare skill.
+[@fm01-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Many Skills similar in effect; racial tendencies; the "rare skill".
+[@fm01-ja-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraphs 149-152): obtaining a Skill is itself rare; among confirmed Skills the names differ but the abilities are alike. Yen Press prints that it "was not fully understood how skills were acquired" and that the Skills had "different names and effects".
 [@fm01-gods]: FM01 | Chapter 4: That’s Why I Want to Help | Gods chase rare Skills; Hestia keeps Bell's to herself.
 [@fm04-gods]: FM04 | Chapter 2: Changing Environment, New Relationships | Gods ask Bell whether a rare Skill explains his growth.
 [@so07-riveria]: SO07 | | Riveria: an undiscovered growth ability or a rare Skill.
@@ -733,7 +734,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@liaris-freese.fm18-denatus]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Hestia asks for Aiz's help while hiding the nature of Bell's rare Skill.
 [@liaris-freese.fm18-freya]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Freya: "the effects of Bell's rare skill".
 [@liaris-freese.fm18-sheet]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over |
-[@liaris-freese.fm20-paper]: FM20 | Chapter 2: Lion and then Sword Princess |
+[@liaris-freese.fm20-paper]: FM20 | Chapter 2: Lion and then Sword Princess | The English Status sheet lists Liaris Freese with three effect lines; the Japanese sheet lists only Argonaut, Ox Slayer and Vanadis Tevere.
 [@argonaut.fm04-card]: FM04 | Chapter 1: Denatus | Level 2 card: "Heroic Desire, Argonaut"; executes automatically with an active action.
 [@argonaut.fm04-first]: FM04 | Chapter 3: The Smith’s Situation | First activation: white lights and chimes around his arm.
 [@argonaut.fm04-hestia]: FM04 | Chapter 3: The Smith’s Situation | Hestia's reading: a "heroic strike".
@@ -748,7 +749,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@argonaut.fm12-argo]: FM12 | Chapter 6: The Hero’s Sacred Flame | Argo Vesta.
 [@argonaut.fm18-limiter]: FM18 | Chapter 8: The Great Familia War | Keeping the grand bell from ringing while sneaking up.
 [@argonaut.fm18-ottar]: FM18 | Chapter 9: Flower Language for You | A grand bell; the limit off; against Ottar.
-[@argonaut.fm20-card]: FM20 | Chapter 2: Lion and then Sword Princess | Level 5 card: charges automatically with Active Action.
+[@argonaut.fm20-card]: FM20 | Chapter 2: Lion and then Sword Princess | Level 5 card: charges automatically with Active Action (the Japanese line is the right to execute a charge for Active Actions).
 [@argonaut.fm20-five]: FM20 | Chapter 4: The Knight’s Afterglow | Five-minute full charge.
 [@ox-slayer.fm12-card]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 card: Ox Slayer, "exponentially enhanced".
 [@ox-slayer.fm12-slayer]: FM12 | Chapter 1: Rabbit Close-Up | A slayer-type Skill; Asterios and minotaur-type monsters.

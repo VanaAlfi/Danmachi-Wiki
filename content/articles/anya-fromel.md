@@ -86,7 +86,7 @@ Eventually she forced her way onto an expedition to the deep floors. She nearly 
 
 Astrea Record 2 shows Anya helping Syr during the Great Conflict.[@ar02-conflict] In Familia Chronicle 1 she is an established employee. When Chloe, then an assassin, confronts Lyu on the tavern roof, Anya wakes from a drunken sleep, takes Lyu's side and fights Chloe with her spear.[@fc01-fight] In that volume's casino story she is among the coworkers who already know Lyu's past.[@fc01-casino]
 
-DanMachi 1 introduces her without a name, as the catgirl waitress who returns Bell's payment.[@fm01-first] A later scene in the same volume identifies her: she asks Bell to take Syr's forgotten wallet to her, calls him by a nickname based on his white hair, and Lyu addresses her by name.[@fm01-named] In DanMachi 8 she joins the scheme to follow Syr and discover her secret.[@fm08-sing]
+DanMachi 1 introduces her without a name, as the catgirl waitress who shouts that Bell is "the dine-and-dasher from before" when he comes back to the tavern.[@fm01-first] A later scene in the same volume identifies her: she asks Bell to take Syr's forgotten wallet to her, calls him by a nickname based on his white hair, and Lyu addresses her by name.[@fm01-named] In DanMachi 8 she joins the scheme to follow Syr and discover her secret.[@fm08-sing]
 
 The short-story collections add everyday scenes. She is among the waitresses watching Lyu's embarrassment in "Eyewitness Account: The Malfunctioning Elf", and she warns about Mia's temper while cleaning.[@ss01-eyewitness, ss01-mia] She cheers Bell's win at cards and watches Lyu train him a few days after the casino affair.[@ss02-cards, ss02-training] She is on shift when Allen delivers an invitation to the tavern; he declines Syr's suggestion that he see his sister.[@ss02-invite]
 
@@ -240,8 +240,8 @@ Bete forcibly brings her to Hörn, and a remark of his about Allen gives her som
 
 She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been reviewed for this article.[@fm02-name, fm03-name, fm06-name, fm13-name]
 
-[@fm01-syr]: FM01 | Chapter 1: World, Reality, and Desire | Bell meets Syr at the tavern the morning after the Minotaur rescue.
-[@fm01-first]: FM01 | Chapter 4: That’s Why I Want to Help | An unnamed catgirl waitress returns Bell's payment; identified by the later scene.
+[@fm01-syr]: FM01 | Chapter 2: That’s Why I Run | Bell meets Syr at the tavern the morning after the Minotaur rescue.
+[@fm01-first]: FM01 | Chapter 4: That’s Why I Want to Help | An unnamed catgirl waitress: "The dine-and-dasher from before"; identified by the later scene.
 [@fm01-named]: FM01 | Chapter 5: The G♥ddess’s Prank | Wallet errand; Lyu addresses her by name.
 [@fm02-name]: FM02 | | Name occurrence recorded in the project name registry; scene not reviewed for this article.
 [@fm03-name]: FM03 | | Name occurrence recorded in the project name registry; scene not reviewed for this article.

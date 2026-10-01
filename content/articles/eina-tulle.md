@@ -39,7 +39,7 @@ Eina enrolled in the [[school-district|School District]] at six and was recommen
 
 Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] Her hieroglyph reading has limits: she did well in theological studies and can read and write simple hieroglyphs, but the complex characters on Bell's back are too much for her. She takes this for an extra layer of protection by Hestia, not realising it is only the goddess's bad handwriting.[@fm02-glyphs] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear salamander wool.[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
 
-In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Familia]].[@fm03-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees, Luvis and Dormul of [[modi-and-magni-familias|Modi and Magni Familias]], propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
+In DanMachi 3 she files a report asking the Guild to recommend that [[soma-familia|Soma Familia]] restrain its operations (the Yen Press text says an application "to formally investigate the internal affairs of Soma Familia").[@fm03-soma, fm03-ja-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees, Luvis and Dormul of [[modi-and-magni-familias|Modi and Magni Familias]], propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
 
 ## Later volumes
 
@@ -60,6 +60,7 @@ In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Fa
 [@fm02-eina]: FM02 | | Nineteen; Bell's Status; the vambrace; Aiz.
 [@fm02-glyphs]: FM02 | Chapter 1: Date, Then Supporter | Simple hieroglyphs only; the complex characters defeat her; Hestia's handwriting.
 [@fm03-soma]: FM03 | Chapter 4: The Meaning of Adventure | The Soma Familia investigation.
+[@fm03-ja-soma]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c37K, paragraphs 115, 125 to 127 and 149 to 151): the paper headed application says Soma Familia should be advised to restrain its operations; Eina thinks of the report as a kind of tip-off and admits that out of concern for Bell she is deliberately trying to trap Soma Familia, and she expects that, if it passes upward, Soma will be made to deal with its Familia management, with some penalty almost certain. Yen Press prints an application to formally investigate Soma Familia's internal affairs.
 [@fm04-eina]: FM04 | | Luck; salamander wool.
 [@fm04-misha]: FM04 | Prologue: Fastest Boy in the Alleys | Eina and Misha Frot.
 [@fm08-eina]: FM08 | | Nineteen; fifth Guild year; the two proposals.

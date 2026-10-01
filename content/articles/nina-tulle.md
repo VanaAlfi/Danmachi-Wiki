@@ -51,6 +51,7 @@ DanMachi 19 prints the spell as *Magia Kris*; DanMachi 20 prints *Magia Kreis*.[
 
 - **Chant and release:** "Swaying stem, breath of white. Sing of flowers, and of the pristine hill—Magia Kreis!"[@magia-kreis.fm20-chant]
 - DanMachi 19 prints the same line ending "—Magia Kris!".[@magia-kreis.fm19-kris]
+- The DanMachi 20 chant in the Japanese is {{ja|揺れる聖輪、吐息は白く。花々謳う、清浄の丘|yureru seirin, toiki wa shiroku. hanabana utau, seijō no oka}}. Its first noun, *seirin*, means holy ring, where the English prints "stem".[@magia-kreis.fm20-chant]
 - In DanMachi 20, when Lilly and Lyu press her to heal at once, only the name is printed: "M-Magia Kreis!"[@magia-kreis.fm20-buffs] This is a name-only print; it does not show that the spell can be cast without its chant.
 
 When cast, fragments of white magic like flower petals envelop the targets.[@magia-kreis.fm19-kris, magia-kreis.fm20-buffs]
@@ -122,7 +123,7 @@ In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she ar
 [@magia-kreis.fm20-buffs]: FM20 | Chapter 1: Orario Rumble | Longer buffs; Haruhime's Level Boost extended.
 [@magia-kreis.fm20-twenty]: FM20 | Chapter 1: Orario Rumble | Twenty minutes at Level 2.
 [@magia-kreis.fm20-later]: FM20 | Chapter 4: The Knight’s Afterglow | Magia Kreis in the later fighting.
-[@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice).
+[@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice). The Japanese chant's first noun means holy ring, not stem.
 [@lagriell-krisheim.fm19-cast]: FM19 | | "Bloom, second sacred mount—"; "—My name is Alf!"; the field of white flowers; the spell she had just learned.
 [@lagriell-krisheim.fm19-effect]: FM19 | | "A rare magic"; cleanses every debuff; prevents curses and psychological attacks; continuous healing; no defence against direct attacks.
 [@lagriell-krisheim.fm20-camp]: FM20 | Chapter 3: The World, The Festival, and Reality | "My name is Alf—Lagriell Krisheim!"; the camp in the black wasteland.

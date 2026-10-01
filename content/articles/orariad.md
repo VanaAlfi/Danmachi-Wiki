@@ -29,7 +29,7 @@ The **Orariad** is the contest of representatives between [[orario|Orario]] and 
 
 ## The quarrel {#quarrel}
 
-The Guild had requisitioned the School District's orichalcum, half of it, it is said, claiming Ouranos's permission. The students demand that the requisition be withdrawn. Until it is, they threaten to halt all recruitment and internships and even to cut ties with Orario.[@fm20-demand, fm20-half] For the School District, orichalcum is "the pride and manifestation" of its research.[@fm20-pride] Leon explains that the Guild wants it for a great plan: to dig a giant shaft into the Dungeon as an elevator to carry people and materials quickly to the lower floors and the depths.[@fm20-shaft]
+The Guild had high-handedly requisitioned the School District's orichalcum, claiming Ouranos's permission; the Yen Press text has Syr say they demanded "a whole half" of it, but the Japanese gives no fraction. The students demand that the requisition be withdrawn. Until it is, they threaten to halt all recruitment and internships and even to cut ties with Orario.[@fm20-demand, fm20-half] For the School District, orichalcum is "the pride and manifestation" of its research.[@fm20-pride] Leon explains that the Guild wants it for a great plan: to dig a giant shaft into the Dungeon as an elevator to carry people and materials quickly to the lower floors and the depths.[@fm20-shaft]
 
 ## The declaration {#declaration}
 
@@ -58,7 +58,7 @@ The Orariad ended 2–2–1. Leon had the better of Bell throughout, but no one 
 - **The plan behind it:** at the start, Leon asked Bell whether he would help with a way to settle the conflict "without having to take one side or the other". His plan was to stage the final bout, have a monster intervene, and leave both sides without a clear result.[@fm20-leon, fm20-dragon] Hermes had been plotting with Balder since the Guild first demanded the orichalcum.[@fm20-scheme]
 
 [@fm20-demand]: FM20 | Chapter 1: Orario Rumble | "We demand the withdrawal of the orichalcum requisition!"; "Cutting ties with Orario may even be considered!!!"
-[@fm20-half]: FM20 | Chapter 2: Lion and then Sword Princess | "Lord Ouranos has given his permission!"; "They demanded a whole half of the orichalcum, I heard."
+[@fm20-half]: FM20 | Chapter 2: Lion and then Sword Princess | "Lord Ouranos has given his permission!"; "They demanded a whole half of the orichalcum, I heard." (The Japanese says only that it was brought in rather forcibly, with no fraction.)
 [@fm20-pride]: FM20 | Chapter 2: Lion and then Sword Princess | "Orichalcum is the pride and manifestation of the School District’s research!"
 [@fm20-shaft]: FM20 | Chapter 2: Lion and then Sword Princess | "A major undertaking proposed by the Guild."; "dig a giant shaft down into the Dungeon using the School District’s orichalcum".
 [@fm20-declared]: FM20 | Chapter 2: Lion and then Sword Princess | "let’s have a battle of representatives, Orario versus the School District!!!"; "the best of five wins"; "familia union of the School District".

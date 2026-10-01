@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "The experience that a god reads and writes into a follower's Status. Excelia comes from hard, focused experience, above all against stronger opponents. It raises abilities, decides which Development Abilities, Skills and spells can appear, and fills the soul's \"container\" until a Level Up. It is shared by contribution in group battles, and a god may hold some of it back.",
+  "summary": "The experience that a god reads and writes into a follower's Status. Excelia comes from hard, earnest experience, above all against stronger opponents. It raises abilities, decides which Development Abilities, Skills and spells can appear, and fills the soul's \"container\" until a Level Up. It is shared by contribution in group battles, and a god may hold some of it back.",
   "aliases": ["excelia", "Experience", "experience points", "High-grade excelia", "Container", "Status loophole", "Leveling", "Status update"],
   "spoilers": "DanMachi Vols. 1–4, 6–9, 12, 15, 19, 20, Sword Oratoria Vols. 1, 6, 14, Familia Chronicle Vol. 3 and Astrea Record Vol. 3",
   "related": ["status", "level", "falna", "development-ability", "skills", "magic", "bell-cranell", "lyu-leon"],
@@ -30,17 +30,17 @@
 
 ## How excelia is gained {#gained}
 
-Adventurers kill monsters to gain excelia, have their god add it to their Status, and repeat the cycle.[@so01-status] Training counts as well as fighting, but Hestia tells Bell that "playing around will do nothing for you". Only hard, honest work leaves an imprint, and a person's focus decides how much remains.[@fm03-honest]
+Adventurers kill monsters to gain excelia, have their god add it to their Status, and repeat the cycle.[@so01-status] Training counts as well as fighting, but Hestia tells Bell that "playing around will do nothing for you". What counts is whether the effort was earnest enough to become proper excelia, which the gods then find at a Status update; play or going through the motions is never counted (the Yen Press text says "your focus determines the excelia that is left behind").[@fm03-honest, fm03-ja-honest]
 
 - **Kind:** excelia is expressed directly in the ability numbers. An adventurer gains Defense excelia each time they survive a hit, and spells grow stronger the more they are used in battle.[@so01-weaker] Bell, who mostly runs and dodges, finds his Defense hardly rises.[@fm01-system]
-- **Opponents:** excelia builds faster against an opponent stronger than oneself, and comes "in bunches" against one at one's own level or above.[@fm01-stronger, so01-weaker]
-- **Level:** the higher the Level, the more excelia it takes to raise the numbers.[@fm06-share, so06-harder] After reaching Level 5, Bell feels as if his container has doubled in all three dimensions.[@fm20-container]
+- **Opponents:** excelia builds faster against opponents of equal or greater strength, and comes "in bunches" against one at one's own level or above.[@fm01-stronger, fm01-ja-stronger, so01-weaker]
+- **Level:** the higher the Level, the more excelia it takes to raise the numbers.[@fm06-share, so06-harder] After reaching Level 5, Bell feels as if his container has grown larger in all three dimensions (the Yen Press text says "doubled"; the Japanese gives no factor).[@fm20-container]
 - **Where:** above ground, monsters and people are much weaker, so excelia is hard to come by. Bell has heard that the strongest adventurers of other cities are only Level 2.[@fm06-outside] Lower-level members of a Familia can still gain excelia on floors below the Familia's level, a practice called "leveling".[@fm15-leveling]
 - **Updates:** a god can update only one follower at a time, so a large Familia like [[loki-familia|Loki Familia]] must ration its updates.[@so01-update] Sword Oratoria 14 says the Falna's true value lies in unlocking the ability to gain excelia from hardship.[@so14-value]
 
 ## Level Ups {#level-ups}
 
-A Level Up happens when an adventurer gains more excelia than their spiritual "container" can hold.[@so01-status] It needs a great feat, such as slaying an enemy stronger than oneself and so "overloading the container that is your soul".[@fm04-container] Hestia sums it up as "Acquire an incredible amount of excelia in one shot." Bell concludes that slaying weaker monsters will only raise his basic abilities.[@fm03-great] A Level Up also requires at least one ability at the sixth rank (see [[level|Level]]).[@fm15-rank]
+A Level Up happens when an adventurer gains more excelia than their spiritual "container" can hold.[@so01-status] It needs a great feat, such as slaying an enemy stronger than oneself and so "overloading the container that is your soul".[@fm04-container] In DanMachi 3 [[lyu-leon|Lyu]] gives the condition as beating someone stronger, winning higher-grade excelia and passing a fixed amount (the Yen Press text prints "Acquire an incredible amount of excelia in one shot."; the Japanese has no "one shot").[@fm03-great, fm03-ja-great] Bell concludes that slaying weaker monsters will only raise his basic abilities.[@fm03-great] A Level Up also requires at least one ability at the sixth rank (see [[level|Level]]).[@fm15-rank]
 
 - **High-grade excelia:** the excelia essential to a Level Up. Bell gathers it from reaching Level 3 until his rematch with Asterios. Tiona and [[bete-loga|Bete]] gain enough in "their decisive battle in the Frontier" to reach Level 6.[@fm12-special, so06-levels]
 - **Special excelia:** at the Denatus in DanMachi 4, [[freya|Freya]] guesses that defeating the [[minotaur|Minotaur]] meant something special to Bell, so the excelia he gained had more influence than usual. Hestia recalls this after his rematch with [[asterios|Asterios]].[@fm04-special, fm12-special]
@@ -82,11 +82,14 @@ Enhanced species, which grow by eating magic stones, are said to grow stronger i
 [@fm01-system]: FM01 | Chapter 1: World, Reality, and Desire | "A person gains experience when they use a basic skill."; Bell's Defense "almost never goes up".
 [@fm01-skill]: FM01 | Chapter 1: World, Reality, and Desire | Hestia "had found promising excelia and written that skill into him".
 [@fm01-stronger]: FM01 | Chapter 4: That’s Why I Want to Help | "Excelia tended to accumulate faster when the person fought against an opponent stronger than themselves."
+[@fm01-ja-stronger]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 137): by the nature of excelia, ability values are said to rise more easily against monsters of equal or greater strength; Yen Press prints "stronger than themselves".
 [@fm01-knife]: FM01 | Chapter 6: Bump of Chicken! | "The weapon will grow stronger using the wielder’s excelia along with him."
 [@fm02-skills]: FM02 | Chapter 2: The Supporter’s Situation | Skills: "as long as you have the excelia—experience—you can learn many of them".
 [@fm02-magic]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "The effect of the Magic depends heavily on excelia."
-[@fm03-great]: FM03 | Chapter 4: The Meaning of Adventure | "Acquire an incredible amount of excelia in one shot."; "no matter how many lower-level monsters I slay, I’ll never rank up"; a party's excelia "would be split between all party members".
+[@fm03-great]: FM03 | Chapter 4: The Meaning of Adventure | Lyu: "Acquire an incredible amount of excelia in one shot."; Bell: "no matter how many lower-level monsters I slay, I’ll never rank up"; a party's excelia "would be split between all party members".
+[@fm03-ja-great]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c2VG, paragraph 219): Lyu says the condition for a Level rise is to beat someone stronger than oneself, obtain higher-grade excelia and exceed a fixed amount of it; there is no "one shot". Yen Press prints "Acquire an incredible amount of excelia in one shot."
 [@fm03-honest]: FM03 | Chapter 4: The Meaning of Adventure | "playing around will do nothing for you"; "Your focus determines the excelia that is left behind."
+[@fm03-ja-honest]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c3JP, paragraphs 119 and 121): Hestia says it matters less whether it is real combat or training than whether it accumulates in the body as proper excelia; play or merely doing the task is never evaluated as excelia, while desperate training is. It is a matter of whether it truly became part of the person; the Japanese has no focus deciding how much remains.
 [@fm04-container]: FM04 | Chapter 1: Denatus | "slaying an enemy stronger than yourself"; "overloading the container that is your soul, with excelia".
 [@fm04-types]: FM04 | Chapter 1: Denatus | Advanced Abilities "were based on the type of excelia they had collected".
 [@fm04-personality]: FM04 | Chapter 1: Denatus | Skills and Magic "not only affected by excelia but by the blessed person’s personality and aspirations".
@@ -105,7 +108,7 @@ Enhanced species, which grow by eating magic stones, are said to grow stronger i
 [@fm15-leveling]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | "The practice was often referred to as “leveling.”"
 [@fm15-boost]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Aisha: "anyone with a level-boost cast on them earns less than half the excelia".
 [@fm19-boost]: FM19 | Chapter 1: V-V-V for Victory Party | "Any excelia you earn under the effects of a Level Boost are supposed to be halved!"
-[@fm20-container]: FM20 | Chapter 2: Lion and then Sword Princess | "the container’s dimensions have doubled in all three directions".
+[@fm20-container]: FM20 | Chapter 2: Lion and then Sword Princess | "the container’s dimensions have doubled in all three directions". (The Japanese says only that the Level 5 container is larger than the Level 4 one in width, length and depth.)
 [@so01-status]: SO01 | Chapter 2: Dungeon Confusion | "A Status was built on the excelia gained from any kind of experience"; "Adventurers killed monsters in battle to gain excelia"; a Level Up "when an adventurer acquired more excelia than their spiritual container could hold".
 [@so01-update]: SO01 | Chapter 3: White Rabbit | Status updates "could be done only one at a time"; Loki Familia's pecking order.
 [@so01-weaker]: SO01 | Chapter 3: White Rabbit | "Excelia was directly expressed in these numbers."; Defense excelia; "excelia came in bunches"; "defeating thousands of weaker monsters would have no effect on their Status".

@@ -20,7 +20,7 @@
       {"section": "Worlds"},
       {"label": "Tenkai", "value": "The upper world of the gods", "refs": ["fm01-worlds", "so01-descent"]},
       {"label": "Gekai", "value": "The lower world of mortals; also printed mortal realm, mortal world, Earth", "refs": ["fm01-worlds", "fm08-prum", "fm04-earth"]},
-      {"label": "Deusdia", "value": "The plane the gods come from, \"the heavenly plane\"", "refs": ["fm01-hestia", "fm05-deusdia"]},
+      {"label": "Deusdia", "value": "The gods as a kind of being (transcendent beings); Yen Press prints it as the plane they come from, \"the heavenly plane\"", "refs": ["fm01-ja-deusdia", "fm05-ja-deusdia", "fm01-hestia", "fm05-deusdia"]},
       {"section": "Rules for gods in Gekai"},
       {"label": "Arcanum", "value": "Sealed by the gods' own agreement", "refs": ["fm01-arcanum", "so01-sealed"]},
       {"label": "Penalty", "value": "Sent back to Tenkai", "refs": ["fm06-penalty", "fm03-mirror"]},
@@ -37,7 +37,7 @@
 
 - **Gekai:** printed *Gekai*, "lower world", and in later volumes often *mortal realm* or *mortal world*. DanMachi 4 glosses it as "Gekai—Earth".[@fm01-worlds, fm08-prum, fm04-earth]
 - **Tenkai:** printed *Tenkai*, the "upper world", or *the heavens*.[@fm01-worlds, fm02-souls, fm17-arcanum]
-- **Deusdia:** the gods are said to come from "another plane, Deusdia", "the heavenly plane of Deusdia".[@fm01-hestia, fm05-deusdia] The covered volumes do not spell out how Deusdia and Tenkai relate.[@fm05-deusdia]
+- **Deusdia:** Yen Press prints it as a place: the gods are said to come from "another plane, Deusdia", "the heavenly plane of Deusdia".[@fm01-hestia, fm05-deusdia] In the Japanese originals *Deusdia* is the reading of {{ja|超越存在|chōetsu sonzai}}, *transcendent beings*: it names the gods themselves, who are *one dimension* apart from humans, demi-humans and monsters, while Tenkai is the place they came from.[@fm01-ja-deusdia, fm05-ja-deusdia, fm08-ja-deusdia]
 
 ## The descent {#descent}
 
@@ -54,7 +54,7 @@ When the gods appeared all over Gekai, then "a world overrun with monsters", mos
 
 - **Penalty:** a god who activates Arcanum is sent back to Tenkai as punishment. Other gods would sense it, because a god's aura flares when they use their power.[@fm06-penalty, fm05-aura]
 - **Fatal wounds:** "Arcanum activated at the moment a fatal wound had been inflicted on an immortal body". The god is then sent back in a pillar of light, as [[ishtar|Ishtar]] is in DanMachi 7.[@fm07-ishtar, fm06-penalty] Astrea Record 2 says the pillar is "a manifestation of arcanum energy".[@ar02-pillar]
-- **The Divine Mirror:** the one Arcanum allowed in Gekai, used to show events anywhere, for example to watch a [[war-game|War Game]]. It is exempt because its purpose is entertainment, but abusing it gets a god banished to Tenkai.[@fm03-mirror, fm06-mirror]
+- **The Divine Mirror:** the one Arcanum allowed in Gekai (in the Japanese DanMachi 3 the sole special exception, {{ja|唯一の特例|yuiitsu no tokurei}}; the Yen Press text says "one of the only Arcanum"), used to show events anywhere, for example to watch a [[war-game|War Game]]. It is exempt because its purpose is entertainment, but abusing it gets a god banished to Tenkai.[@fm03-mirror, fm03-ja-mirror, fm06-mirror]
 - **Not Arcanum:** some abilities are natural gifts rather than Arcanum, such as Freya's Eyes of Insight.[@fm02-freya] Freya's charm over the whole city in DanMachi 17 does not count as using Arcanum, so the gods cannot send her back for it.[@fm17-arcanum]
 - **Illegal use:** an evil god unsealed his Arcanum in the Dungeon to summon the Black Wyvern that endangered Aiz at Level 1. Astrea Record 3 traces another monster-summoning to a god who unsealed theirs while all eyes were on Erebus (see [[delphyne|Delphyne]]).[@ar02-pillar, ar03-summon]
 - **Restraint:** Loki knows that if gods broke the rules and used Arcanum to "mod" their followers, everything would become utterly boring.[@so05-mod]
@@ -73,10 +73,14 @@ Lilly has heard that the gods' most important duty in Tenkai is caring for morta
 [@fm02-freya]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "not one of the abilities known as Arkanam"; Freya's Eyes of Insight.
 [@fm03-lies]: FM03 | Chapter 1: The Kenki Approches | "The gods and goddesses had the power to detect any lie here in the earthly world of Gekai".
 [@fm03-mirror]: FM03 | Chapter 5: A Hero’s Desire | "The Divine Mirror was one of the only Arcanum—the godly powers—that was allowed on Gekai."; "banished to Tenkai".
+[@fm03-ja-mirror]: FM03 | Chapter 5: A Hero’s Desire | Japanese original (file c43D, paragraphs 575 to 577): the Divine Mirror is an Arcanum whose use is permitted in the lower world, a one-way, clairvoyant-like ability that was originally for looking down from Tenkai, and the sole special exception allowed so that the gods can enjoy events held in Gekai; any private use other than events is strictly forbidden, and a god found out is at once sent back to Tenkai by force. Yen Press prints "one of the only Arcanum".
 [@fm04-earth]: FM04 | Chapter 3: The Smith’s Situation | "what happened on Gekai—Earth—long ago".
 [@fm04-hestia]: FM04 | Quest X Quest | "Living on Gekai was much more difficult than the life of luxury she was used to in Tenkai."
 [@fm05-aura]: FM05 | Chapter 4: Dungeon Resort? | "when a god uses their divine power, Arcanum, their aura goes into overdrive and other deities know about it".
 [@fm05-deusdia]: FM05 | Chapter 5: The Outlaws’ Party | "a being from the heavenly plane of Deusdia".
+[@fm01-ja-deusdia]: FM01 | Chapter 1: World, Reality, and Desire | Japanese original (file cFB, paragraph 62; also file c36N, paragraph 145): the gods are transcendent beings read Deusdia, one dimension different from humans, demi-humans and monsters. Yen Press prints "another plane, Deusdia".
+[@fm05-ja-deusdia]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraph 492): the gods' radiance before which mortals must bow is part of being Deusdia (transcendent beings). Yen Press prints "a being from the heavenly plane of Deusdia".
+[@fm08-ja-deusdia]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Japanese original (file part0030, paragraphs 198 and 232): the gods are the Deusdia, transcendent beings of a different dimension from us. Yen Press prints "the gods of Deusdia".
 [@fm05-awe]: FM05 | Chapter 5: The Outlaws’ Party | "still worthy of the awe and reverence of the children of Gekai even with their divine powers, Arcanum, sealed".
 [@fm06-penalty]: FM06 | Chapter 3: Outbreak | "activating Arcanum was against the rules of the gods themselves. They would be sent back to Tenkai as punishment."
 [@fm06-mirror]: FM06 | | "The gods were only allowed to use one specific type of Arcanum—the “Divine Mirror.”"

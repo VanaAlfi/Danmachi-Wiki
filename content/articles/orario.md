@@ -34,16 +34,16 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 
 | Street or district | What is there |
 |---|---|
-| West Main | [[the-benevolent-mistress|The Benevolent Mistress]]; the street with the most adventurers.[@fm01-streets, fc01-west] Sword Oratoria 9's flashback instead reaches the tavern from East Main.[@so09-tavern] |
-| Northwest Main | Called Adventurers Way; Hephaistos Familia's main store and many weapon and item shops.[@so01-northwest, fm08-store] |
+| West Main | [[the-benevolent-mistress|The Benevolent Mistress]].[@fm01-streets, fc01-west] Sword Oratoria 9's flashback instead reaches the tavern from East Main.[@so09-tavern] |
+| Northwest Main | Called Adventurers Way; the Guild headquarters, a Hephaistos Familia store and many weapon and item shops; most people on the street are adventurers.[@so01-northwest, fm08-store, fm01-ja-hq] |
 | Between Northwest and West Main | The ruined church under which Hestia and [[bell-cranell|Bell]] first live.[@fm01-streets] |
 | Third district | The [[pleasure-quarter|Pleasure Quarter]], left badly damaged after Freya Familia's attack on [[ishtar-familia|Ishtar Familia]] in DanMachi 7.[@fm07-quarter] |
 | Fifth district | [[folkvangr|Folkvangr]], home of [[freya-familia|Freya Familia]], between South Main and Southeast Main.[@fm07-folkvangr] |
 | Sixth district | Part of the southwest quarter.[@fm16-sixth] |
 | [[daedalus-street|Daedalus Street]] | A poor, densely built district laid out as a surface labyrinth and named for its architect; red arrows called *ariadne* mark the way, and its sewers hide an entrance to [[knossos|Knossos]].[@fm01-daedalus, so07-daedalus] |
 
-> [!UNRESOLVED] Where is the Guild headquarters?
-> DanMachi 1 places the Guild headquarters on West Main, while Sword Oratoria 1 and DanMachi 8 put it on Northwest Main, Adventurers Way. The novels do not explain the difference.[@fm01-streets, so01-northwest, fm08-store]
+> [!NOTE] Where is the Guild headquarters?
+> On Northwest Main, Adventurers Way. Yen Press's DanMachi 1 prints West Main for it, but the Japanese original of that volume places it on Northwest Main, in agreement with Sword Oratoria 1 and DanMachi 8.[@fm01-streets, so01-northwest, fm08-store, fm01-ja-hq]
 
 ## Events in the city
 
@@ -55,15 +55,11 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 | DanMachi 17 | Freya's charm covers the whole city and rewrites what it believes; Hestia breaks it from Babel.[@fm17-charm, fm17-babel] |
 | DanMachi 18 | The Familia War is shown to the city; afterwards Folkvangr is placed under Guild management.[@fm19-broadcast, fm18-folkvangr] |
 
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - The Guild headquarters' location (see above).[@fm01-streets, so01-northwest]
-
 [@fm01-orario]: FM01 | | The Labyrinth City over the Dungeon; the Guild.
 [@fm01-layout]: FM01 | | Circular city; eight Main Streets.
 [@fm01-babel]: FM01 | | Babel as the Dungeon's lid.
 [@fm01-streets]: FM01 | Chapter 5: The Goddess’s Prank | Main Streets named by direction; West Main; the church.
+[@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
 [@fm01-daedalus]: FM01 | | Daedalus Street and its ariadne.
 [@fm01-monsterphilia]: FM01 | Chapter 5: The Goddess’s Prank | Monsters loose during Monsterphilia.
 [@fm02-babel]: FM02 | | Babel's history and floors.

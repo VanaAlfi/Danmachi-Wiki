@@ -45,7 +45,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 
 | Volume | Events |
 |---|---|
-| DanMachi 9 | Bell shelters Wiene and becomes the first person from the surface welcomed into a Hidden Village. Ikelos Familia's hunters are capturing, torturing and selling Xenos abroad.[@fm09-bell, fm09-ikelos] |
+| DanMachi 9 | Bell shelters Wiene and becomes the first person from the surface welcomed into a Hidden Village. [[ikelos-familia|Ikelos Familia]]'s hunters are capturing, torturing and selling Xenos abroad.[@fm09-bell, fm09-ikelos] |
 | DanMachi 10 | Xenos are freed from the hunters' prison in [[knossos|Knossos]]; the fighting spills into [[daedalus-street|Daedalus Street]], and Bell's public defence of Wiene wrecks his reputation.[@fm10-freed, fm10-reputation] |
 | DanMachi 11 | Hermes's staged attack fails when Bell trusts Gros; the Xenos escape and return safely to a Hidden Village. Ouranos spreads a false story that Loki Familia exterminated them.[@fm11-gros, fm11-village, fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep them secret, and [[finn-deimne|Finn]] forms a limited alliance with them for the assault on Knossos.[@so10-compact] |

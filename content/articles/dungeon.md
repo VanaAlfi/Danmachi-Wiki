@@ -48,7 +48,7 @@ When adventurers damage a floor faster than the Dungeon can repair it, the Dunge
 
 ## The Three Great Quests
 
-The Behemoth, the Leviathan and the Black Dragon escaped the Dungeon in ancient times, and defeating them became the [[three-great-quests|Three Great Quests]]. Zeus Familia and Hera Familia killed the Behemoth and the Leviathan, but the Black Dragon, also called the One-Eyed Dragon, destroyed them. It remains the last Great Quest.[@fm06-quests, so09-quests]
+The Behemoth, the Leviathan and the Black Dragon escaped the Dungeon in ancient times, and defeating them became the [[three-great-quests|Three Great Quests]]. [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] killed the Behemoth and the Leviathan, but the Black Dragon, also called the One-Eyed Dragon, destroyed them. It remains the last Great Quest.[@fm06-quests, so09-quests]
 
 ## Expeditions
 

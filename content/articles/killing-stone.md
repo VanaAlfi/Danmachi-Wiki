@@ -60,7 +60,7 @@ Ishtar intended to seal Haruhime's soul in a Killing Stone, break it into pieces
 
 ### The second stone
 
-Hermes tells Bell that on the night they met in the Pleasure Quarter he was delivering a Killing Stone to Ishtar.[@fm07-delivery] [[mikoto|Mikoto]] finds the ritual papers, which say the Berbera will act "once the Killing Stone has been delivered by Hermes Familia".[@fm07-papers] Hermes says he did not know what the cargo was until he saw it.[@fm07-asfi]
+Hermes tells Bell that on the night they met in [[pleasure-quarter|the Pleasure Quarter]] he was delivering a Killing Stone to Ishtar.[@fm07-delivery] [[mikoto|Mikoto]] finds the ritual papers, which say the Berbera will act "once the Killing Stone has been delivered by Hermes Familia".[@fm07-papers] Hermes says he did not know what the cargo was until he saw it.[@fm07-asfi]
 
 For the ritual, the Floating Garden and its altar were built to strengthen the stone: used alone, it risked splitting the soul. Under the full moon, the stone, a fist-sized blood-red crystal set on the hilt of a ceremonial longsword, was to be driven into Haruhime so that her soul would cross into it.[@fm07-garden-altar, fm07-sword]
 

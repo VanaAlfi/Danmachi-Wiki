@@ -29,11 +29,11 @@ A Juggernaut is extraordinarily fast and deadly, with claws that pierce armour a
 
 ## Astrea Familia
 
-Five years before DanMachi 13, Rudra Familia's ambush with Inferno Stones set off a Juggernaut that killed ten members of [[astrea-familia|Astrea Familia]], leaving [[lyu-leon|Lyu]] as the only survivor.[@fm13-ambush] It broke Lyu's wooden sword, Alvs Lumina.[@fc03-lumina]
+Five years before DanMachi 13, [[rudra-familia|Rudra Familia]]'s ambush with Inferno Stones set off a Juggernaut that killed ten members of [[astrea-familia|Astrea Familia]], leaving [[lyu-leon|Lyu]] as the only survivor.[@fm13-ambush] It broke Lyu's wooden sword, Alvs Lumina.[@fc03-lumina]
 
 ## DanMachi 13–14
 
-In DanMachi 13 another Juggernaut appears when a floor is badly damaged. It massacres the hunting party on Floor 27, nearly kills [[bell-cranell|Bell]], and kills Jura despite the collar meant to control it.[@fm13-juggernaut, fm13-collar] The collar drives this one's destructive urge into a fixation on Bell, so it follows him and Lyu down to [[floor-37|Floor 37]] instead of staying on its own floor.[@fm14-pursuit]
+In DanMachi 13 another Juggernaut appears when a floor is badly damaged. It massacres the hunting party on Floor 27, nearly kills [[bell-cranell|Bell]], and kills [[rudra-familia#jura-harma|Jura]] despite the collar meant to control it.[@fm13-juggernaut, fm13-collar] The collar drives this one's destructive urge into a fixation on Bell, so it follows him and Lyu down to [[floor-37|Floor 37]] instead of staying on its own floor.[@fm14-pursuit]
 
 On Floor 37 it eats other monsters to graft new limbs and armour, which begin to break down. Bell strips away the armour and Lyu destroys it completely with [[magic#luminous-wind|Luminous Wind]] at point-blank range. The rescue party finds them by the noise of the fight.[@fm14-end, fm14-rescue]
 

@@ -23,7 +23,7 @@
   }
 }
 ---
-**Ishtar** is a goddess who ruled [[orario|Orario]]'s Pleasure Quarter through Ishtar Familia.[@fm07-ishtar, fm07-quarter] Jealous of [[freya|Freya]], she plans to strike at her, and in DanMachi 7 she abducts [[bell-cranell|Bell Cranell]]. [[freya-familia|Freya Familia]] then overwhelms her Familia and she is sent back to the heavens.[@fm07-ishtar, so07-hermes]
+**Ishtar** is a goddess who ruled [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]] through Ishtar Familia.[@fm07-ishtar, fm07-quarter] Jealous of [[freya|Freya]], she plans to strike at her, and in DanMachi 7 she abducts [[bell-cranell|Bell Cranell]]. [[freya-familia|Freya Familia]] then overwhelms her Familia and she is sent back to the heavens.[@fm07-ishtar, so07-hermes]
 
 ## Plans against Freya
 

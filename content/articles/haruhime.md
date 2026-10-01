@@ -33,7 +33,7 @@ DanMachi 7 prints her name in the Far Eastern order, *Sanjyouno Haruhime*; later
 
 ## Ishtar Familia
 
-Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in the Pleasure Quarter. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises Phryne's strength.[@so06-caster]
+Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises Phryne's strength.[@so06-caster]
 
 [[bell-cranell|Bell]] breaks the Killing Stone and rescues her. After Ishtar is sent back to the heavens, Haruhime asks to join Hestia Familia.[@fm07-rescue, fm07-join]
 
@@ -126,7 +126,7 @@ In DanMachi 20, [[nina-tulle|Nina]]'s [[magic#magia-kreis|Magia Kreis]] extends 
 
 #### With Kokonoe {#uchide-no-kozuchi-with-kokonoe}
 
-Haruhime's second spell, [[#kokonoe|Kokonoe]], stores the effect of a spell chanted afterwards in magical tails and releases it through them, so she can boost several people at once.[@uchide-no-kozuchi.fm12-kokonoe] She can use five tails in DanMachi 12, boosting [[mikoto|Mikoto]], [[ouka|Ouka]], [[welf-crozzo|Welf]], Daphne and Aisha together, and six after reaching Level 2.[@uchide-no-kozuchi.fm12-kokonoe, uchide-no-kozuchi.fm18-level2] The printed maximum is nine tails; each extra tail costs more Mind, and she can choose to use fewer.[@uchide-no-kozuchi.fm12-kokonoe]
+Haruhime's second spell, [[#kokonoe|Kokonoe]], stores the effect of a spell chanted afterwards in magical tails and releases it through them, so she can boost several people at once.[@uchide-no-kozuchi.fm12-kokonoe] She can use five tails in DanMachi 12, boosting [[mikoto|Mikoto]], [[ouka|Ouka]], [[welf-crozzo|Welf]], [[daphne|Daphne]] and Aisha together, and six after reaching Level 2.[@uchide-no-kozuchi.fm12-kokonoe, uchide-no-kozuchi.fm18-level2] The printed maximum is nine tails; each extra tail costs more Mind, and she can choose to use fewer.[@uchide-no-kozuchi.fm12-kokonoe]
 
 {{nocite}} Notable uses and open questions for Uchide no Kozuchi are on the combined page: [[magic#uchide-no-kozuchi|Magic § Uchide no Kozuchi]].
 

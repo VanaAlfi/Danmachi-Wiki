@@ -24,7 +24,7 @@
   }
 }
 ---
-**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove Zeus Familia and Hera Familia out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is Twilight Manor, on the northern edge of the city.[@fm06-home, fm06-twilight]
+**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is Twilight Manor, on the northern edge of the city.[@fm06-home, fm06-twilight]
 
 ## Founding
 

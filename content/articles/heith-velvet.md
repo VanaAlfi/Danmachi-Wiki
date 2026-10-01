@@ -23,7 +23,7 @@
   }
 }
 ---
-**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of Dian Cecht Familia are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers]
+**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers]
 
 ## Background
 

@@ -54,6 +54,8 @@ Her Sword Oratoria 6 card lists the Development Abilities [[development-ability#
 
 Lefiya's Level 4 card in Sword Oratoria 12 lists Arcs Ray under Magic: single-target magic that homes in on its designated target.[@arcs-ray.so12-card]
 
+Her illustrated Status sheets in Sword Oratoria 2 and 13 give the same two notes: single-target magic that homes in on its designated target. The Sword Oratoria 2 sheet (printed "Lv.5") spells it "hones in".[@arcs-ray.so02-sheet, arcs-ray.so13-sheet]
+
 #### Incantation {#arcs-ray-incantation}
 
 **Complete printed chant (SO01).**[@arcs-ray.so01-chant]
@@ -99,6 +101,8 @@ Most later prints show only the second part, or pieces of it, split by action; t
 
 Lefiya's Level 4 card in Sword Oratoria 12 lists Fusillade Fallarica under Magic: wide-range attack magic, containing fire element. The same card lists [[#arcs-ray|Arcs Ray]] and [[#elf-ring|Elf Ring]].[@fusillade-fallarica.so12-card]
 
+Her illustrated Status sheets in Sword Oratoria 2 and 13 give the same two notes: wide-range attack magic, fire element.[@fusillade-fallarica.so02-sheet, fusillade-fallarica.so13-sheet]
+
 #### Incantation {#fusillade-fallarica-incantation}
 
 **Complete printed chant (SO01).**[@fusillade-fallarica.so01-room]
@@ -140,6 +144,8 @@ In a crowded melee in Sword Oratoria 13, Lefiya can use it only for her first at
 
 Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four notes: Summon Burst; only able to be cast by an elf; she must know the chant and effects beforehand; and it expends Mind for this spell and the summoned magic.[@elf-ring.so12-card]
 
+Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with four similar notes: only elven magic can be summoned; the trigger and the spell's effects must be known; and Mind is spent on both this spell and the summoned one. Where the Sword Oratoria 12 card says "only able to be cast by an elf", both sheets limit what it can summon to elven magic.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
+
 #### Incantation {#elf-ring-incantation}
 
 **Complete printed chant; the summoned spell follows separately (SO01).**[@elf-ring.so01-summon]
@@ -168,8 +174,9 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 > - Sword Oratoria 1 says she can duplicate any elvish magic whose incantation she can recite **or** whose effects she fully understands, after seeing it at least once.[@elf-ring.so01-summon]
 > - Sword Oratoria 4 says it requires a complete understanding of the magic's effects **and** the proper chant.[@elf-ring.so04-reqs]
 > - The Sword Oratoria 12 Status card says she must know the chant **and** the effects beforehand.[@elf-ring.so12-card]
+> - The Status sheets in Sword Oratoria 2 and 13 likewise say the trigger **and** the spell's effects must be known.[@elf-ring.so02-sheet, elf-ring.so13-sheet]
 >
-> This wiki follows the Status card, which agrees with Sword Oratoria 4, and records the earlier "either/or" wording rather than silently dropping it.
+> This wiki follows the Status card and sheets, which agree with Sword Oratoria 4, and records the earlier "either/or" wording rather than silently dropping it.
 
 #### Cost and limits {#elf-ring-cost-and-limits}
 
@@ -241,3 +248,9 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
 [@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
 [@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire.
+[@arcs-ray.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Arcs Ray, single-target magic, "hones in on designated target".
+[@arcs-ray.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Arcs Ray, single target magic, homes in on designated target.
+[@fusillade-fallarica.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Fusillade Fallarica, wide-range attack magic, fire element.
+[@fusillade-fallarica.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Fusillade Fallarica, wide-range attack magic, fire element.
+[@elf-ring.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Elf Ring, Summon Burst; only elvish magic can be summoned; trigger and effect must be known; Mind for both.
+[@elf-ring.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Elf Ring, Summon Burst; only elven magic; trigger and effects must be known; Mind for both.

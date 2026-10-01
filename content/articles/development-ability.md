@@ -56,7 +56,7 @@ A Development Ability is chosen at a Level Up, from the options that the adventu
 
 - **Sometimes there is no choice, or nothing at all.** When Bell reaches Level 4 only Escape is on offer, and Hestia notes that Development Abilities are rare enough to take whatever appears. Aiz gains none when she reaches Level 5, and only Regen at Level 6.[@fm12-escape, so03-aiz]
 - **A god can delay the choice.** In DanMachi 15 Hestia defers Lilly's Level Up so that she can talk over Resistance and Compounding with the others first.[@fm15-lilly]
-- **The system was mapped by Zeus and Hera.** Astrea Record 3 says their Familias discovered how to unlock Development Abilities.[@ar03-unlock]
+- **The system was mapped by [[zeus-and-hera-familias|Zeus and Hera]].** Astrea Record 3 says their Familias discovered how to unlock Development Abilities.[@ar03-unlock]
 - **Items can need several.** Fels's magic items needed several Development Abilities to make, and a grimoire needs both Mage (printed Magic Control) and Enigma, so its maker must be at least Level 3.[@fm10-fels, fm02-grimoire]
 
 ## Ranks
@@ -73,8 +73,8 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 |---|---|---|
 | [[#abnormal-resistance|Abnormal Resistance]] | Immunity; Resistance | Aiz's Immunity G becomes Abnormal Resistance G; Mikoto's Immunity I becomes Resistance I; Lyu's Immunity G becomes Resistance G.[@so01-aiz, so06-cards, fm08-cards, fm15-mikoto, sheet.fm13-lyu, fc03-cards] |
 | [[#forge|Forge]] | Blacksmith; Smith | Welf's Forge I becomes Blacksmith I and Smith I.[@fm08-cards, fm15-welf, sheet.fm14-welf] |
-| [[#compounding|Compounding]] | Synthesize; Synthesis | Lilly calls Compounding the ability Nahza has; DanMachi 4 calls Nahza's Synthesize.[@fm15-lilly, fm04-nahza] |
-| [[#enigma|Enigma]] | Mystery | Barca, a maker of cursed items, is called a wielder of the Mystery ability.[@so07-mystery] |
+| [[#compounding|Compounding]] | Synthesize; Synthesis | Lilly calls Compounding the ability [[miach-familia#nahza-ersuisu|Nahza]] has; DanMachi 4 calls Nahza's Synthesize.[@fm15-lilly, fm04-nahza] |
+| [[#enigma|Enigma]] | Mystery | [[barca-perdix|Barca]], a maker of cursed items, is called a wielder of the Mystery ability.[@so07-mystery] |
 | [[#mage|Mage]] | Magic Control; Conjure | Lefiya's ability at rank H is printed Conjure, Mage, Conjure again and Magic Control; the descriptions match.[@sheet.so02-lefiya, so06-cards, so12-lefiya, sheet.so13-p26] |
 | [[#spirit-healing|Spirit Healing]] | Regen | Aiz's Regen I becomes Spirit Healing I; Regen is said to be Riveria's, whose sheet prints Spirit Healing.[@so03-aiz, so06-cards, sheet.so06-riveria] |
 | [[#successive-attacks|Successive Attacks]] | Rapid Attacks; Chain Attack | Bell's Rapid Attacks I becomes Successive Attacks I; Chain Attack is on Finn's sheet.[@fm18-bell, fm20-bell, sheet.so08-finn] |
@@ -105,7 +105,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#pummel|Pummel]] | Tiona, Tione, Bete, Gareth, Leon | Not described[@sheet.so03-tiona] |
 | [[#fracture|Fracture]] | Tiona, Gareth, Ottar, Leon | Not described[@sheet.so03-tiona] |
 | [[#other-abilities|Healing Power]] | Tione, Bete | Not described[@sheet.so04-tione] |
-| [[#other-abilities|Healing]] | Riveria, Cassandra, Ardee | Not described[@sheet.so06-riveria] |
+| [[#other-abilities|Healing]] | Riveria, [[cassandra|Cassandra]], Ardee | Not described[@sheet.so06-riveria] |
 | [[#other-abilities|Bulwark]] | Gareth | Not described[@sheet.so07-gareth] |
 | [[#other-abilities|Initiative]] | Finn | Not described[@sheet.so08-finn] |
 | [[#other-abilities|Sturdy Body]] | Ottar | Not described[@sheet.fc02-ottar] |
@@ -149,7 +149,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[gareth|Gareth Landrock]] | G | [@sheet.so07-gareth] |
 | [[finn-deimne|Finn Deimne]] | E | [@sheet.so08-finn] |
 | [[raul-nord|Raul Nord]] | H | [@sheet.so11-raul] |
-| Daphne Laulos | I | [@sheet.fm14-daphne] |
+| [[daphne|Daphne Laulos]] | I | [@sheet.fm14-daphne] |
 | [[ottar|Ottar]] | E | [@sheet.fc02-ottar] |
 | Ardee Varma | H | [@sheet.ar02-ardee] |
 | Alize Lovell | I | [@sheet.ar03-alize] |
@@ -350,7 +350,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 | Lancer | [[skills#finn-skills|Dia Phiana]] (Skill) | Finn Deimne | While wielding a spear; the effect depends on his Level[@sheet.so08-finn] |
 | Escape | [[skills#helios-passion|Helios Passion]] (Skill) | Daphne Laulos | While being chased[@sheet.fm14-daphne] |
 | Heal and Spirit Heal | [[skills#stultus-ottar|Stultus Ottar]] (Skill) | Ottar | During battle[@sheet.fc02-ottar] |
-| Supreme Light | Blaze of the Round (spell) | Leon Verdenberg | When the tenth trial is destroyed; the eleventh boosts Supreme Attack and Supreme Light[@sheet.fm20-leon] |
+| Supreme Light | [[magic#blaze-of-the-round|Blaze of the Round]] (spell) | Leon Verdenberg | When the tenth trial is destroyed; the eleventh boosts Supreme Attack and Supreme Light[@sheet.fm20-leon] |
 
 ## Open questions
 

@@ -46,7 +46,7 @@ Astrea Record tells of the Familia's part in the [[great-conflict|Great Conflict
 
 ## Destruction
 
-Rudra Familia planted false information through corrupt Guild contacts to lure the Familia into the Dungeon, then sprang an ambush with Inferno Stones that released the first [[juggernaut|Juggernaut]]. It killed ten of them, two at Level 3 and eight at Level 4. Alize, Kaguya and Lyra knowingly sacrificed themselves to save Lyu.[@fm13-ambush, fm14-alize] [[ouranos|Ouranos]] later identifies the Juggernaut as the Dungeon's immune response.[@fm13-ouranos]
+[[rudra-familia|Rudra Familia]] planted false information through corrupt Guild contacts to lure the Familia into the Dungeon, then sprang an ambush with Inferno Stones that released the first [[juggernaut|Juggernaut]]. It killed ten of them, two at Level 3 and eight at Level 4. Alize, Kaguya and Lyra knowingly sacrificed themselves to save Lyu.[@fm13-ambush, fm14-alize] [[ouranos|Ouranos]] later identifies the Juggernaut as the Dungeon's immune response.[@fm13-ouranos]
 
 Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those responsible, and was blacklisted.[@fm05-astrea]
 

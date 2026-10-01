@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Amazon sisters of Loki Familia, famous top-class adventurers; both reach Level 6 in Sword Oratoria 6. Tiona trains Bell with Aiz in DanMachi 6.",
   "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters"],
-  "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 6 and 7 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 4–7 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
   "infobox": {
     "title": "Tiona and Tione Hyrute",
@@ -50,7 +50,12 @@ In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's l
 
 - **User:** Tione Hyrute[@restrict-iorum.so07-cast]
 - **Type:** Restrictive magic: a whip of light[@restrict-iorum.so07-cast]
+- **Status entry:** Restraining magic; a chance to restrict the target's movement, rising with her Magic[@restrict-iorum.so04-sheet]
 - **Chant:** Several lines, printed in full[@restrict-iorum.so07-cast]
+
+#### Status entry {#restrict-iorum-status-entry}
+
+Tione's illustrated Status sheet in Sword Oratoria 4 (Level 5) lists Restrict Iorum under Magic as restraining magic: it restricts the target's movement based on a certain chance, and the chance of success rises with her Magic stat.[@restrict-iorum.so04-sheet] This matches the Sword Oratoria 7 narration, which ties its hit rate to her Magic ability.[@restrict-iorum.so07-cast]
 
 #### Incantation {#restrict-iorum-incantation}
 
@@ -89,3 +94,4 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@so07-tione]: SO07 | | Berserk; Restrict Iorum.
 [@ss02-tiona]: SS02 | | Tiona's childhood and books.
 [@restrict-iorum.so07-cast]: SO07 | Chapter 5: Battle of Tears | The full chant; no magic circle; "restrictive magic"; hit rate; "one for ten on a floor boss".
+[@restrict-iorum.so04-sheet]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Restrict Iorum, restraining magic; chance-based; success rises with Magic.

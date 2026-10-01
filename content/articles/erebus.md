@@ -27,7 +27,7 @@
 
 ## His aim
 
-Erebus calls himself absolute evil.[@ar01-erebus] His real goal is to force heroes to emerge by putting [[orario|Orario]] through a truly lethal trial; he recruited [[zald|Zald]] and [[alfia|Alfia]] of the old Zeus and Hera Familias for it.[@ar03-erebus] If Orario failed, he was prepared, with them, to topple [[babel|Babel]] and send the world back to the ancient age.[@ar03-fallback] His wish for successors does not excuse the killings.[@ar03-erebus]
+Erebus calls himself absolute evil.[@ar01-erebus] His real goal is to force heroes to emerge by putting [[orario|Orario]] through a truly lethal trial; he recruited [[zald|Zald]] and [[alfia|Alfia]] of the old [[zeus-and-hera-familias|Zeus and Hera Familias]] for it.[@ar03-erebus] If Orario failed, he was prepared, with them, to topple [[babel|Babel]] and send the world back to the ancient age.[@ar03-fallback] His wish for successors does not excuse the killings.[@ar03-erebus]
 
 ## The war
 

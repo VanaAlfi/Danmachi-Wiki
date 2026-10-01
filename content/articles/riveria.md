@@ -19,7 +19,7 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "7, from Sword Oratoria 14", "refs": ["so14-sevens"]},
       {"label": "Title", "value": "Nine Hell", "refs": ["so03-titles"]},
-      {"label": "Magic", "value": "Nine spells in three kinds, including [[#rea-laevateinn|Rea Laevateinn]] and [[#wynn-fimbulvetr|Wynn Fimbulvetr]]", "refs": ["so01-riveria", "so04-nine"]},
+      {"label": "Magic", "value": "Nine spells in three kinds; see [[#riveria-nine-spells|the full list]]", "refs": ["so04-nine", "riveria-nine-spells.so06-sheet"]},
       {"label": "Skills", "value": "[[skills#fairy-anthem|Fairy Anthem]], [[skills#alf-regina|Alf Regina]]", "refs": ["skills.so06-sheet", "skills.so10-alf"]}
     ]
   }
@@ -39,7 +39,7 @@ Riveria's rare Skill **[[skills#alf-regina|Alf Regina]]**, which no one else has
 
 ## Magic
 
-Her spells come in three kinds, attack, defence and healing, each at three levels, and she can chain them together as the situation demands. These nine spells are the source of her title.[@so04-nine] Among them are [[#rea-laevateinn|Rea Laevateinn]] and [[#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-riveria]
+Her spells come in three kinds, attack, defence and healing, each at three levels, and she can chain them together as the situation demands. These nine spells are the source of her title.[@so04-nine] Among them are [[#rea-laevateinn|Rea Laevateinn]] and [[#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-riveria] Her Status sheet in Sword Oratoria 6 names all nine; see [[#riveria-nine-spells|Riveria Ljos Alf's nine spells]] below.[@riveria-nine-spells.so06-sheet]
 
 ### Wynn Fimbulvetr {#wynn-fimbulvetr}
 
@@ -48,6 +48,7 @@ Her spells come in three kinds, attack, defence and healing, each at three level
 - **User:** Riveria Ljos Alf[@wynn-fimbulvetr.so01-riveria, wynn-fimbulvetr.so14-first]
 - **Also cast by:** [[lefiya|Lefiya Viridis]], through [[magic#elf-ring|Elf Ring]][@wynn-fimbulvetr.so01-lefiya]
 - **Effect:** Freezing wind and ice[@wynn-fimbulvetr.so01-lefiya, wynn-fimbulvetr.so14-first]
+- **Sheet:** Level 1 of her attack magic, below [[#rea-laevateinn|Rea Laevateinn]] and [[#riveria-nine-spells|Vas Windheim]][@wynn-fimbulvetr.so06-sheet]
 - **Chant:** Two printed pieces, ending "My name is Alf"[@wynn-fimbulvetr.so01-riveria, wynn-fimbulvetr.so01-lefiya]
 - **Continues into:** [[#rea-laevateinn|Rea Laevateinn]] (concatenated chant)[@wynn-fimbulvetr.so04-concat]
 
@@ -82,6 +83,8 @@ In Sword Oratoria 14's founding-era story, Loki updates Riveria's first Status a
 
 Riveria's magic has three types, offensive, defensive and healing, each with three levels of chant. By joining the chants of successive levels she raises the output and changes the effect, which gives her nine spells and her title Nine Hell.[@wynn-fimbulvetr.so04-concat] In Sword Oratoria 4 she chants Wynn Fimbulvetr, links it with "advent of the end" and carries on into Rea Laevateinn; the narration calls this the move from ice to flame and from short to long.[@wynn-fimbulvetr.so04-concat] This is a feature of Riveria's own magic: Sword Oratoria 4 says it is possessed "solely" by her.[@wynn-fimbulvetr.so04-concat]
 
+Her Status sheet in Sword Oratoria 6 lists all nine by name; see [[#riveria-nine-spells|Riveria Ljos Alf's nine spells]].[@wynn-fimbulvetr.so06-sheet]
+
 #### Effects {#wynn-fimbulvetr-effects}
 
 - Lefiya's summoned cast in Sword Oratoria 1 freezes three giant flower monsters solid and turns the street around them to ice.[@wynn-fimbulvetr.so01-lefiya]
@@ -97,6 +100,7 @@ Riveria's magic has three types, offensive, defensive and healing, each with thr
 - **User:** Riveria Ljos Alf[@rea-laevateinn.so04-concat, rea-laevateinn.so14-first]
 - **Also cast by:** [[lefiya|Lefiya Viridis]], through [[magic#elf-ring|Elf Ring]][@rea-laevateinn.so03-summon, rea-laevateinn.so13-detect]
 - **Type:** Second tier of Riveria's attack magic; wide-area annihilation spell[@rea-laevateinn.so04-concat, rea-laevateinn.so14-mine]
+- **Sheet:** Level 2 of her attack magic, between [[#wynn-fimbulvetr|Wynn Fimbulvetr]] and [[#riveria-nine-spells|Vas Windheim]][@rea-laevateinn.so06-sheet]
 - **Chant:** Long, ending "Incinerate, sword of Surtr—My name is Alf"[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat, rea-laevateinn.so13-detect]
 - **Printed as:** Rea Laevateinn; Rae Laevateinn (Sword Oratoria 7)[@rea-laevateinn.so01-wall, rea-laevateinn.so07-radar]
 
@@ -148,6 +152,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 - **User:** Riveria Ljos Alf[@via-shilheim.so04-cast]
 - **Type:** Barrier against physical and magical attacks[@via-shilheim.so04-cast]
+- **Sheet:** Level 3 of her defence magic, above [[#riveria-nine-spells|Liv Ilusio]] and [[#veil-breath|Veil Breath]]; the sheet lists her whole defence series under this name[@via-shilheim.so06-sheet]
 - **Chant:** Two printed pieces, ending "my name is Alf"[@via-shilheim.so04-cast]
 
 #### Incantation {#via-shilheim-incantation}
@@ -195,6 +200,7 @@ DanMachi 10 shows the same battle with the black minotaur from Bell's side. Rive
 
 - **User:** Riveria Ljos Alf; summoned by [[lefiya|Lefiya]][@veil-breath.so02-aiz, veil-breath.so12-lefiya]
 - **Type:** Support: protection, with slight healing[@veil-breath.so02-aiz]
+- **Sheet:** Level 2 of her defence magic, between [[#riveria-nine-spells|Liv Ilusio]] and [[#via-shilheim|Via Shilheim]][@veil-breath.so06-sheet]
 - **Chant:** One printed line[@veil-breath.so02-aiz, veil-breath.ar03-astrea]
 
 #### Incantation {#veil-breath-incantation}
@@ -220,6 +226,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 - **User:** Riveria Ljos Alf; summoned by [[lefiya|Lefiya]][@luna-aldis.so12-cast]
 - **Type:** Healing[@luna-aldis.so12-cast]
+- **Sheet:** Level 2 of her healing magic, between [[#riveria-nine-spells|Fil Eldis]] and [[#riveria-nine-spells|Van Alheim]][@luna-aldis.so06-sheet]
 - **Chant:** Only the ending printed[@luna-aldis.so12-cast]
 
 #### Incantation {#luna-aldis-incantation}
@@ -231,6 +238,52 @@ Only the end is printed: "My name is Alf", then the name, "Luna Aldis!"[@luna-al
 It heals: in Sword Oratoria 12 it heals [[lyu-leon|Lyu]] in the fight against Filvis.[@luna-aldis.so12-cast]
 
 {{nocite}} Notable uses and open questions for Luna Aldis are on the combined page: [[magic#luna-aldis|Magic § Luna Aldis]].
+
+### Riveria Ljos Alf's nine spells {#riveria-nine-spells}
+
+Riveria Ljos Alf's illustrated Status sheet at the end of Sword Oratoria 6 (Level 6) lists three entries under Magic, one for each kind of her magic, and gives three levels for each: nine spell names in all.[@riveria-nine-spells.so06-sheet] Five of them are shown in the story and have their own sections on this page. The other four, **Vas Windheim**, **Liv Ilusio**, **Fil Eldis** and **Van Alheim**, were not found named in the story text of the covered English volumes, so what is known of them comes from the sheets.[@riveria-nine-spells.so06-sheet, riveria-nine-spells.so14-sheet]
+
+- **User:** Riveria Ljos Alf[@riveria-nine-spells.so06-sheet]
+- **Magic entries on the sheet:** Vas Windheim (attack), Via Shilheim (defence), Van Alheim (healing)[@riveria-nine-spells.so06-sheet]
+- **Known only from the sheets:** Vas Windheim, Liv Ilusio, Fil Eldis, Van Alheim[@riveria-nine-spells.so06-sheet, riveria-nine-spells.so14-sheet]
+- **Chants:** Not printed for these four[@riveria-nine-spells.so06-sheet]
+
+#### The nine spells on the sheet {#riveria-nine-spells-the-nine-spells-on-the-sheet}
+
+Each entry is headed by the name of its third level.[@riveria-nine-spells.so06-sheet]
+
+| Kind | Level 1 | Level 2 | Level 3 |
+|---|---|---|---|
+| Attack magic | [[#wynn-fimbulvetr|Wynn Fimbulvetr]] | [[#rea-laevateinn|Rea Laevateinn]] | Vas Windheim[@riveria-nine-spells.so06-sheet] |
+| Defence magic | Liv Ilusio | [[#veil-breath|Veil Breath]] | [[#via-shilheim|Via Shilheim]][@riveria-nine-spells.so06-sheet] |
+| Healing magic | Fil Eldis | [[#luna-aldis|Luna Aldis]] | Van Alheim[@riveria-nine-spells.so06-sheet] |
+
+Every entry is also marked "Concurrent Casting".[@riveria-nine-spells.so06-sheet] That is the same English term the novels use for chanting while moving and fighting, but here it stands for the linking of her levels, which Sword Oratoria 4's narration calls Concatenated Chanting.[@riveria-nine-spells.so06-sheet, riveria-nine-spells.so04-concat]
+
+#### Vas Windheim {#riveria-nine-spells-vas-windheim}
+
+- **Third level of her attack magic**, after Wynn Fimbulvetr and Rea Laevateinn, and the name under which the sheet lists the whole attack series.[@riveria-nine-spells.so06-sheet]
+- **At Level 1:** her Level 1 sheet in Sword Oratoria 14 already lists Vas Windheim, as attack magic with "Chained casting" and the same three levels. It is the only entry under Magic on that sheet.[@riveria-nine-spells.so14-sheet]
+- **Length:** Sword Oratoria 4 calls the second level, Rea Laevateinn, "the longest in her arsenal". The sheets do not describe the third level, and no cast of Vas Windheim was located in the story text.[@riveria-nine-spells.so04-concat, riveria-nine-spells.so06-sheet]
+
+#### Liv Ilusio {#riveria-nine-spells-liv-ilusio}
+
+The first level of her defence magic, below [[#veil-breath|Veil Breath]] and [[#via-shilheim|Via Shilheim]].[@riveria-nine-spells.so06-sheet] The sheet gives it no description of its own.
+
+#### Fil Eldis {#riveria-nine-spells-fil-eldis}
+
+The first level of her healing magic, below [[#luna-aldis|Luna Aldis]] and Van Alheim.[@riveria-nine-spells.so06-sheet]
+
+#### Van Alheim {#riveria-nine-spells-van-alheim}
+
+The third level of her healing magic, and the name under which the sheet lists the whole healing series.[@riveria-nine-spells.so06-sheet]
+
+#### The sheets and the story {#riveria-nine-spells-the-sheets-and-the-story}
+
+- Sword Oratoria 14 tells how Loki found an "incantation concatenation" in Riveria's first Status, with nine types of magic in her slots; Sword Oratoria 4 ties the nine spells to her title *Nine Hell*.[@riveria-nine-spells.so14-concat, riveria-nine-spells.so04-concat]
+- The sheet settles which level each of her named spells is: Wynn Fimbulvetr and Rea Laevateinn are levels 1 and 2 of her attack magic, Veil Breath and Via Shilheim levels 2 and 3 of her defence magic, and Luna Aldis level 2 of her healing magic.[@riveria-nine-spells.so06-sheet]
+
+{{nocite}} Notable uses and open questions for Riveria Ljos Alf's nine spells are on the combined page: [[magic#riveria-nine-spells|Magic § Riveria Ljos Alf's nine spells]].
 
 ## Aiz's teacher
 
@@ -253,7 +306,7 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - The full list of her nine spells.[@so04-nine]
+> - The chants and effects of the four spells known only from her Status sheets.[@riveria-nine-spells.so06-sheet]
 
 [@fm02-riveria]: FM02 | | Mind Down; the Udaeus expedition.
 [@fm03-riveria]: FM03 | | Healing Lilly; Bell's SS ability.
@@ -300,3 +353,12 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
 [@veil-breath.ar03-astrea]: AR03 | Chapter 4: Apocalypse Cometh | "Gather, breath of the earth—my name is Alf! Veil Breath!"; Astrea Familia protected.
 [@luna-aldis.so12-cast]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya pauses the chant for Arcs Ray, resumes; "My name is Alf / Luna Aldis!"; "Riveria’s healing magic".
+[@riveria-nine-spells.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Magic Vas Windheim, Via Shilheim and Van Alheim, each "Concurrent Casting" with three levels.
+[@riveria-nine-spells.so14-sheet]: SO14 | | Illustrated Status sheet, p. 182 (Level 1): Magic Vas Windheim only; attack magic, "Chained casting", three levels.
+[@riveria-nine-spells.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; three types with three levels; nine spells; Rea Laevateinn "the longest in her arsenal".
+[@riveria-nine-spells.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
+[@wynn-fimbulvetr.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): attack magic Vas Windheim, level 1 Wynn Fimbulvetr.
+[@rea-laevateinn.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): attack magic Vas Windheim, level 2 Rea Laevateinn, level 3 Vas Windheim.
+[@via-shilheim.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): defense magic Via Shilheim; levels Liv Ilusio, Veil Breath, Via Shilheim.
+[@veil-breath.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): defense magic Via Shilheim, level 2 Veil Breath.
+[@luna-aldis.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): healing magic Van Alheim; levels Fil Eldis, Luna Aldis, Van Alheim.

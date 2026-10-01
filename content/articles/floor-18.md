@@ -42,7 +42,7 @@ Rivira stands on an island in the floor's western lake and is reached by a tree 
 
 Its businesses trade by exchange at very high prices, and adventurers use their Familia's emblem for identity and credit. The Guild once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-forest]
 
-The [[xenos|Xenos]] destroy the 334th Rivira in DanMachi 10 while hunting Ikelos Familia.[@fm10-rivira]
+The [[xenos|Xenos]] destroy the 334th Rivira in DanMachi 10 while hunting [[ikelos-familia|Ikelos Familia]].[@fm10-rivira]
 
 > [!UNRESOLVED] 334 or 344?
 > In Sword Oratoria 2 the town's sign reads 344, while the explanation right after it speaks of the 334th version after 333 destructions. Both numbers are printed, and the text does not say which is intended.[@so02-sign]

@@ -65,7 +65,7 @@ Being held captive or given a false identity is not a conversion. In DanMachi 17
 
 ## Other arrangements
 
-In Familia Chronicle 1, Runoa has a contract with Demeter Familia, and Chloe one with Njörðr, to have their Statuses updated, rather than ordinary membership. Both arrangements end when the women join [[the-benevolent-mistress|The Benevolent Mistress]].[@fc01-contracts]
+In Familia Chronicle 1, Runoa has a contract with [[demeter|Demeter Familia]], and Chloe one with Njörðr, to have their Statuses updated, rather than ordinary membership. Both arrangements end when the women join [[the-benevolent-mistress|The Benevolent Mistress]].[@fc01-contracts]
 
 Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Guild, has never had one.[@fm11-eina] The travelling [[school-district|School District]] grants Falna to its students and teachers.[@fm19-school]
 

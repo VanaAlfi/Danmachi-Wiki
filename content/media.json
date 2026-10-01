@@ -8908,6 +8908,11 @@
      "w": 1280,
      "h": 720
     },
+    "ib": {
+     "file": "b0d41c584e80-ib.webp",
+     "w": 500,
+     "h": 281
+    },
     "th": {
      "file": "b0d41c584e80-th.webp",
      "w": 300,
@@ -10501,6 +10506,1883 @@
    "orig": [
     1280,
     720
+   ]
+  },
+  "6f851fa580b6": {
+   "name": "Cassandra Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Cassandra_Anime.png",
+   "uploaded": "2019-03-23T01:21:36Z",
+   "sha256": "6f851fa580b6a6335650207ac7c56664abf5d9a4c20a9ef362f308e2fec13469",
+   "files": {
+    "full": {
+     "file": "6f851fa580b6-full.webp",
+     "w": 588,
+     "h": 1010
+    },
+    "ib": {
+     "file": "6f851fa580b6-ib.webp",
+     "w": 500,
+     "h": 859
+    }
+   },
+   "orig": [
+    588,
+    1010
+   ]
+  },
+  "2c7da2eae39f": {
+   "name": "DanMachi Volume 6 63.jpg",
+   "source": "DanMachi light novel illustration, Vol. 6 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_6_63.jpg",
+   "uploaded": "2015-06-04T18:40:57Z",
+   "sha256": "2c7da2eae39faedbd892f7247f50fb68111a147522969715dae2edde8822ee78",
+   "files": {
+    "full": {
+     "file": "2c7da2eae39f-full.webp",
+     "w": 885,
+     "h": 1280
+    },
+    "th": {
+     "file": "2c7da2eae39f-th.webp",
+     "w": 207,
+     "h": 300
+    }
+   },
+   "orig": [
+    1218,
+    1762
+   ]
+  },
+  "14e925882735": {
+   "name": "DanMachi Volume 13 1.jpg",
+   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_1.jpg",
+   "uploaded": "2018-02-16T04:03:55Z",
+   "sha256": "14e9258827351cd12d15fb44a46a8d2a3c5e20f8142abd62318f931b0184a84a",
+   "files": {
+    "full": {
+     "file": "14e925882735-full.webp",
+     "w": 896,
+     "h": 1280
+    },
+    "th": {
+     "file": "14e925882735-th.webp",
+     "w": 210,
+     "h": 300
+    }
+   },
+   "orig": [
+    1434,
+    2048
+   ]
+  },
+  "478b60f5bdcd": {
+   "name": "DanMachi Volume 13 37.png",
+   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_37.png",
+   "uploaded": "2018-02-16T19:51:40Z",
+   "sha256": "478b60f5bdcd06f71c3039949d8b6e699ff42c6e974b1e3ddb69da7926569932",
+   "files": {
+    "full": {
+     "file": "478b60f5bdcd-full.webp",
+     "w": 896,
+     "h": 1280
+    },
+    "th": {
+     "file": "478b60f5bdcd-th.webp",
+     "w": 210,
+     "h": 300
+    }
+   },
+   "orig": [
+    1434,
+    2048
+   ]
+  },
+  "ba27c4122461": {
+   "name": "Cassandra Ilion Character Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Cassandra_Ilion_Character_Art.png",
+   "uploaded": "2019-07-06T00:12:02Z",
+   "sha256": "ba27c41224616bbe24de8d6f8f33ae28e1ec4ea3fdff0e0e791c05507661c0b6",
+   "files": {
+    "full": {
+     "file": "ba27c4122461-full.webp",
+     "w": 866,
+     "h": 909
+    },
+    "th": {
+     "file": "ba27c4122461-th.webp",
+     "w": 286,
+     "h": 300
+    }
+   },
+   "orig": [
+    866,
+    909
+   ]
+  },
+  "ce1d8d0f277b": {
+   "name": "Cassandra Full Body Season 4.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Cassandra_Full_Body_Season_4.jpg",
+   "uploaded": "2022-06-08T04:36:44Z",
+   "sha256": "ce1d8d0f277b82114b8ed40aa7d3452f1a99b5b3c6e3596771bc9dd6a2b186a5",
+   "files": {
+    "full": {
+     "file": "ce1d8d0f277b-full.webp",
+     "w": 900,
+     "h": 1200
+    },
+    "th": {
+     "file": "ce1d8d0f277b-th.webp",
+     "w": 225,
+     "h": 300
+    }
+   },
+   "orig": [
+    900,
+    1200
+   ]
+  },
+  "96ef0d6bd4b9": {
+   "name": "Cassandra Cynic.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Cassandra_Cynic.png",
+   "uploaded": "2023-02-23T15:06:12Z",
+   "sha256": "96ef0d6bd4b9209784c6a3a10bc5132165a21d31075bef68980271749d868dfc",
+   "files": {
+    "full": {
+     "file": "96ef0d6bd4b9-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "96ef0d6bd4b9-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "bd8786e23e76": {
+   "name": "Cassandra Dreamy Beach.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Cassandra_Dreamy_Beach.png",
+   "uploaded": "2023-02-23T15:07:10Z",
+   "sha256": "bd8786e23e76a7180ba6b6d32aa77ab999da181a314afe8a56f63e83edb1a189",
+   "files": {
+    "full": {
+     "file": "bd8786e23e76-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "bd8786e23e76-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "b2abbaf0b8c3": {
+   "name": "Daphne Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Daphne_Anime.png",
+   "uploaded": "2019-03-23T01:21:29Z",
+   "sha256": "b2abbaf0b8c399001ac09b4f476027a5f1a938b1c2f9c7fc6f224c72d4508b1c",
+   "files": {
+    "full": {
+     "file": "b2abbaf0b8c3-full.webp",
+     "w": 770,
+     "h": 1080
+    },
+    "ib": {
+     "file": "b2abbaf0b8c3-ib.webp",
+     "w": 500,
+     "h": 701
+    }
+   },
+   "orig": [
+    770,
+    1080
+   ]
+  },
+  "59ccd5226072": {
+   "name": "Daphne Lauros Character Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Daphne_Lauros_Character_Art.png",
+   "uploaded": "2019-07-06T00:10:57Z",
+   "sha256": "59ccd5226072404914246d62e24c05dfd5da59ea215cf1339a7061e58ab6db6a",
+   "files": {
+    "full": {
+     "file": "59ccd5226072-full.webp",
+     "w": 878,
+     "h": 909
+    },
+    "th": {
+     "file": "59ccd5226072-th.webp",
+     "w": 290,
+     "h": 300
+    }
+   },
+   "orig": [
+    878,
+    909
+   ]
+  },
+  "8907ce26a8bd": {
+   "name": "Daphne Full Body Season 4.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Daphne_Full_Body_Season_4.jpg",
+   "uploaded": "2022-06-08T04:36:43Z",
+   "sha256": "8907ce26a8bdf30b4109969609c9d33ccd585a81569900748aa5c80f5c3185af",
+   "files": {
+    "full": {
+     "file": "8907ce26a8bd-full.webp",
+     "w": 900,
+     "h": 1200
+    },
+    "th": {
+     "file": "8907ce26a8bd-th.webp",
+     "w": 225,
+     "h": 300
+    }
+   },
+   "orig": [
+    900,
+    1200
+   ]
+  },
+  "b7a5682f75fd": {
+   "name": "Daphne Serene Swordsman.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Daphne_Serene_Swordsman.png",
+   "uploaded": "2023-02-23T15:14:15Z",
+   "sha256": "b7a5682f75fd47e1a360d36351c102f3e84f61d6eeb3d9aee5968a1eaaf491f9",
+   "files": {
+    "full": {
+     "file": "b7a5682f75fd-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "b7a5682f75fd-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "db72369404d3": {
+   "name": "Daphne Swimsuit Swordsman.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Daphne_Swimsuit_Swordsman.png",
+   "uploaded": "2023-02-23T15:14:25Z",
+   "sha256": "db72369404d314b8d44e266411f3835a5a8d8fe5913262fb7e052f32a9c035d2",
+   "files": {
+    "full": {
+     "file": "db72369404d3-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "db72369404d3-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "ac18f288ea33": {
+   "name": "Ikelos Character Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ikelos_Character_Art.png",
+   "uploaded": "2020-09-16T07:56:11Z",
+   "sha256": "ac18f288ea3336ced0749b898a53c6b75b416d1883175e7eb7d4391ee5c476fb",
+   "files": {
+    "full": {
+     "file": "ac18f288ea33-full.webp",
+     "w": 450,
+     "h": 630
+    },
+    "ib": {
+     "file": "ac18f288ea33-ib.webp",
+     "w": 450,
+     "h": 630
+    }
+   },
+   "orig": [
+    450,
+    630
+   ]
+  },
+  "0e49904558aa": {
+   "name": "DanMachi Volume 10 11.png",
+   "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10_11.png",
+   "uploaded": "2016-04-29T21:44:51Z",
+   "sha256": "0e49904558aa13d7138b6a376a69547fe6a3f35dfdcaf1072458b8ce296cfa03",
+   "files": {
+    "full": {
+     "file": "0e49904558aa-full.webp",
+     "w": 689,
+     "h": 985
+    },
+    "th": {
+     "file": "0e49904558aa-th.webp",
+     "w": 210,
+     "h": 300
+    }
+   },
+   "orig": [
+    689,
+    985
+   ]
+  },
+  "34f2b06bf4ba": {
+   "name": "Sword Oratoria Volume 7 107.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_107.png",
+   "uploaded": "2017-01-18T06:49:29Z",
+   "sha256": "34f2b06bf4ba1114f49f2cd7a29f402065857393f97184337b3e85c4ae45e0e3",
+   "files": {
+    "full": {
+     "file": "34f2b06bf4ba-full.webp",
+     "w": 824,
+     "h": 1200
+    },
+    "th": {
+     "file": "34f2b06bf4ba-th.webp",
+     "w": 206,
+     "h": 300
+    }
+   },
+   "orig": [
+    824,
+    1200
+   ]
+  },
+  "429179f4db03": {
+   "name": "Ikelos Character Art 2.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ikelos_Character_Art_2.png",
+   "uploaded": "2020-10-02T00:08:37Z",
+   "sha256": "429179f4db039622c5962b34998b8b5174fd6602255a5bb6be9bfec1a6b1f152",
+   "files": {
+    "full": {
+     "file": "429179f4db03-full.webp",
+     "w": 1280,
+     "h": 1122
+    },
+    "th": {
+     "file": "429179f4db03-th.webp",
+     "w": 300,
+     "h": 263
+    }
+   },
+   "orig": [
+    1892,
+    1658
+   ]
+  },
+  "f45d56dc8d0e": {
+   "name": "Ikelos Character Art 3.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Ikelos_Character_Art_3.png",
+   "uploaded": "2020-10-02T00:08:38Z",
+   "sha256": "f45d56dc8d0ea3afeecc10f8c7837a0eadc56abffd519364c7c7d42c096103a2",
+   "files": {
+    "full": {
+     "file": "f45d56dc8d0e-full.webp",
+     "w": 1280,
+     "h": 911
+    },
+    "th": {
+     "file": "f45d56dc8d0e-th.webp",
+     "w": 300,
+     "h": 213
+    }
+   },
+   "orig": [
+    2048,
+    1457
+   ]
+  },
+  "8b1802e0d192": {
+   "name": "Dix Hazer.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Dix_Hazer.png",
+   "uploaded": "2023-02-22T19:51:29Z",
+   "sha256": "8b1802e0d1922bc680e43fa00f3d57bae0025b4121b522e11e74bdba9ac41600",
+   "files": {
+    "full": {
+     "file": "8b1802e0d192-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "8b1802e0d192-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "068636c9f664": {
+   "name": "Dix Hazer PROMO.jpg",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Dix_Hazer_PROMO.jpg",
+   "uploaded": "2023-02-22T19:51:49Z",
+   "sha256": "068636c9f664ee117647be4472147bc6bd3fe6a771af33f407991206e79b39a6",
+   "files": {
+    "full": {
+     "file": "068636c9f664-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "068636c9f664-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1554,
+    874
+   ]
+  },
+  "969918bd0d29": {
+   "name": "Dix SO Concept Art.png",
+   "source": "Sword Oratoria official art",
+   "class": "other",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Dix_SO_Concept_Art.png",
+   "uploaded": "2019-01-03T08:22:50Z",
+   "sha256": "969918bd0d29231ff034ca4289f1b16373b43c9f5f85a578ae0a47418efa8477",
+   "files": {
+    "full": {
+     "file": "969918bd0d29-full.webp",
+     "w": 339,
+     "h": 711
+    },
+    "th": {
+     "file": "969918bd0d29-th.webp",
+     "w": 143,
+     "h": 300
+    }
+   },
+   "orig": [
+    339,
+    711
+   ]
+  },
+  "7f6f6118ae4a": {
+   "name": "Naaza Erisuis Season 2.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Naaza_Erisuis_Season_2.png",
+   "uploaded": "2019-07-19T17:21:06Z",
+   "sha256": "7f6f6118ae4a0c73e1eb8abfb67e66146d4c9655858e1d64347313242294d8b1",
+   "files": {
+    "full": {
+     "file": "7f6f6118ae4a-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "7f6f6118ae4a-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "082a361d2f7e": {
+   "name": "DanMachi Volume 4 229.png",
+   "source": "DanMachi light novel illustration, Vol. 4 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_4_229.png",
+   "uploaded": "2015-06-04T20:10:44Z",
+   "sha256": "082a361d2f7e957177b601f37cf680c85673406a38bee9099b5725ab96d33d73",
+   "files": {
+    "full": {
+     "file": "082a361d2f7e-full.webp",
+     "w": 800,
+     "h": 1200
+    },
+    "th": {
+     "file": "082a361d2f7e-th.webp",
+     "w": 200,
+     "h": 300
+    }
+   },
+   "orig": [
+    800,
+    1200
+   ]
+  },
+  "47b57a8e596c": {
+   "name": "Episode 5 Image.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Episode_5_Image.jpg",
+   "uploaded": "2015-06-19T23:44:45Z",
+   "sha256": "47b57a8e596c47efe8c9db36fc2364d070ad711144811fb245f0d095a07498a4",
+   "files": {
+    "full": {
+     "file": "47b57a8e596c-full.webp",
+     "w": 550,
+     "h": 507
+    },
+    "th": {
+     "file": "47b57a8e596c-th.webp",
+     "w": 300,
+     "h": 277
+    }
+   },
+   "orig": [
+    550,
+    507
+   ]
+  },
+  "60626f83912b": {
+   "name": "4koma Stamp Miach.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:4koma_Stamp_Miach.png",
+   "uploaded": "2016-03-18T17:44:13Z",
+   "sha256": "60626f83912b4b20a198c235f48593b5848deba6c2277446143f26eca1d32d56",
+   "files": {
+    "full": {
+     "file": "60626f83912b-full.webp",
+     "w": 1000,
+     "h": 1000
+    },
+    "th": {
+     "file": "60626f83912b-th.webp",
+     "w": 300,
+     "h": 300
+    }
+   },
+   "orig": [
+    1000,
+    1000
+   ]
+  },
+  "12093ec6f20f": {
+   "name": "Screenshot 66.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_66.png",
+   "uploaded": "2015-12-18T01:12:11Z",
+   "sha256": "12093ec6f20fb0a8347ac8c8fe9401c60278f750837daef2724a9a432db66e0c",
+   "files": {
+    "full": {
+     "file": "12093ec6f20f-full.webp",
+     "w": 321,
+     "h": 575
+    },
+    "th": {
+     "file": "12093ec6f20f-th.webp",
+     "w": 167,
+     "h": 300
+    }
+   },
+   "orig": [
+    321,
+    575
+   ]
+  },
+  "59ccb2c2190a": {
+   "name": "Miach Pharmacist.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Miach_Pharmacist.png",
+   "uploaded": "2023-02-23T14:46:31Z",
+   "sha256": "59ccb2c2190a176413534394021aa6c0c9bf78b75f7ec782e6253b486d442c4d",
+   "files": {
+    "full": {
+     "file": "59ccb2c2190a-full.webp",
+     "w": 963,
+     "h": 956
+    },
+    "th": {
+     "file": "59ccb2c2190a-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    963,
+    956
+   ]
+  },
+  "419ee6c9d033": {
+   "name": "Miach God of Medicine.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Miach_God_of_Medicine.png",
+   "uploaded": "2023-02-23T14:45:17Z",
+   "sha256": "419ee6c9d03343bc2733f0b6cf2857785a7331f14e587c32c2214bdd7c554d95",
+   "files": {
+    "full": {
+     "file": "419ee6c9d033-full.webp",
+     "w": 1024,
+     "h": 1024
+    },
+    "th": {
+     "file": "419ee6c9d033-th.webp",
+     "w": 300,
+     "h": 300
+    }
+   },
+   "orig": [
+    1024,
+    1024
+   ]
+  },
+  "a212852379e6": {
+   "name": "Valletta Grede DanMemo.jpg",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Valletta_Grede_DanMemo.jpg",
+   "uploaded": "2020-06-19T05:11:13Z",
+   "sha256": "a212852379e630c5583f34a69c342c529e83eb9c474ff5fc216766a74cdd3290",
+   "files": {
+    "full": {
+     "file": "a212852379e6-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "a212852379e6-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "9c73c3786794": {
+   "name": "Sword Oratoria Volume 7 71.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_71.png",
+   "uploaded": "2017-01-18T06:49:28Z",
+   "sha256": "9c73c37867945556b5fbe3af64ad0e25a48e4946f778a318ec1e75f719e18de9",
+   "files": {
+    "full": {
+     "file": "9c73c3786794-full.webp",
+     "w": 824,
+     "h": 1200
+    },
+    "th": {
+     "file": "9c73c3786794-th.webp",
+     "w": 206,
+     "h": 300
+    }
+   },
+   "orig": [
+    824,
+    1200
+   ]
+  },
+  "15dad7b31ff3": {
+   "name": "Sword Oratoria Volume 8 4.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_8_4.png",
+   "uploaded": "2017-04-08T03:41:19Z",
+   "sha256": "15dad7b31ff323a276069e761e0f6e46a3f5dfeae09008c9ea59f1d6cab88a28",
+   "files": {
+    "full": {
+     "file": "15dad7b31ff3-full.webp",
+     "w": 1280,
+     "h": 722
+    },
+    "th": {
+     "file": "15dad7b31ff3-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1740,
+    982
+   ]
+  },
+  "26fe2b8052d0": {
+   "name": "Valletta Arachnia PROMO.jpg",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Valletta_Arachnia_PROMO.jpg",
+   "uploaded": "2023-02-22T19:45:58Z",
+   "sha256": "26fe2b8052d03c1dbea21a142a93fa48cca8d28d6f8dd0a22673088c87330b4a",
+   "files": {
+    "full": {
+     "file": "26fe2b8052d0-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "26fe2b8052d0-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1554,
+    874
+   ]
+  },
+  "bdc2e51c1ae8": {
+   "name": "Valletta Arachnia.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Valletta_Arachnia.png",
+   "uploaded": "2023-02-22T19:46:24Z",
+   "sha256": "bdc2e51c1ae8080cd5ca08b7de2142a7b41689c86b8b5c57e634a82afd4a9bf9",
+   "files": {
+    "full": {
+     "file": "bdc2e51c1ae8-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "bdc2e51c1ae8-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "b5f1fccfb686": {
+   "name": "Valletta Concept Art.png",
+   "source": "Sword Oratoria official art",
+   "class": "other",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Valletta_Concept_Art.png",
+   "uploaded": "2019-01-03T07:36:58Z",
+   "sha256": "b5f1fccfb68621c2d50f40b32f18d50c5f5dc0edb337fa6b2982d1613af06b6f",
+   "files": {
+    "full": {
+     "file": "b5f1fccfb686-full.webp",
+     "w": 543,
+     "h": 859
+    },
+    "th": {
+     "file": "b5f1fccfb686-th.webp",
+     "w": 190,
+     "h": 300
+    }
+   },
+   "orig": [
+    543,
+    859
+   ]
+  },
+  "e2eb2d3e470f": {
+   "name": "Bors Elder Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Bors_Elder_Anime.png",
+   "uploaded": "2016-01-18T18:48:12Z",
+   "sha256": "e2eb2d3e470fc1ea0141291c4d1547cb193ca462bebf9ddbf2153f8a8633b02f",
+   "files": {
+    "full": {
+     "file": "e2eb2d3e470f-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "e2eb2d3e470f-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "9ad83f0c2832": {
+   "name": "Bors Elder Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Bors_Elder_Art.png",
+   "uploaded": "2016-02-17T16:43:01Z",
+   "sha256": "9ad83f0c2832ace683d723daef23f357c5b21e6f8a4e2c6ac0732262e6530ea6",
+   "files": {
+    "full": {
+     "file": "9ad83f0c2832-full.webp",
+     "w": 394,
+     "h": 838
+    },
+    "th": {
+     "file": "9ad83f0c2832-th.webp",
+     "w": 141,
+     "h": 300
+    }
+   },
+   "orig": [
+    394,
+    838
+   ]
+  },
+  "a3c3ff045243": {
+   "name": "Bors Elder 1 - SO ep04.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Bors_Elder_1_-_SO_ep04.png",
+   "uploaded": "2022-01-02T01:27:55Z",
+   "sha256": "a3c3ff0452437ffdce7c3b01181acc0775727f37566bd3d521e71f64a9ad1770",
+   "files": {
+    "full": {
+     "file": "a3c3ff045243-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "a3c3ff045243-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1280,
+    720
+   ]
+  },
+  "c8c683ba170e": {
+   "name": "Bors Elder.png",
+   "source": "Sword Oratoria manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Bors_Elder.png",
+   "uploaded": "2015-05-20T02:12:34Z",
+   "sha256": "c8c683ba170e5ac19ec2405bbcca8be326919099177340ef35eed6ad215b785f",
+   "files": {
+    "full": {
+     "file": "c8c683ba170e-full.webp",
+     "w": 464,
+     "h": 777
+    },
+    "th": {
+     "file": "c8c683ba170e-th.webp",
+     "w": 179,
+     "h": 300
+    }
+   },
+   "orig": [
+    464,
+    777
+   ]
+  },
+  "9ba96ad66a4a": {
+   "name": "Olivas Act Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Olivas_Act_Anime.png",
+   "uploaded": "2018-06-13T00:32:38Z",
+   "sha256": "9ba96ad66a4ae8d43e4810a6069fed773fc19407e58a1051d8974c243cfaec7f",
+   "files": {
+    "full": {
+     "file": "9ba96ad66a4a-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "9ba96ad66a4a-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "304e5c604972": {
+   "name": "Sword Oratoria Volume 3 270.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 3 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_3_270.jpg",
+   "uploaded": "2015-05-29T06:32:46Z",
+   "sha256": "304e5c604972bc3f54df4de820de86e992798ca01814c56b74909b36a526bfe4",
+   "files": {
+    "full": {
+     "file": "304e5c604972-full.webp",
+     "w": 884,
+     "h": 1280
+    },
+    "th": {
+     "file": "304e5c604972-th.webp",
+     "w": 207,
+     "h": 300
+    }
+   },
+   "orig": [
+    1223,
+    1770
+   ]
+  },
+  "07eafac345fa": {
+   "name": "Olivas Act 1.png",
+   "source": "Sword Oratoria manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Olivas_Act_1.png",
+   "uploaded": "2016-05-03T01:38:29Z",
+   "sha256": "07eafac345fa2cf336e20cf5749bf4656d26ec0df71ac8176743c41c88404034",
+   "files": {
+    "full": {
+     "file": "07eafac345fa-full.webp",
+     "w": 282,
+     "h": 412
+    },
+    "th": {
+     "file": "07eafac345fa-th.webp",
+     "w": 205,
+     "h": 300
+    }
+   },
+   "orig": [
+    282,
+    412
+   ]
+  },
+  "9e3a400e826c": {
+   "name": "Jura Halmer Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Jura_Halmer_Anime.png",
+   "uploaded": "2022-09-15T22:56:53Z",
+   "sha256": "9e3a400e826cfb4dd640b68ac3ae5d96d98f8a768d3a606c14eb98d957177cff",
+   "files": {
+    "full": {
+     "file": "9e3a400e826c-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "9e3a400e826c-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "88a599baaa74": {
+   "name": "DanMachi Volume 13 165.png",
+   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_165.png",
+   "uploaded": "2018-02-16T04:04:00Z",
+   "sha256": "88a599baaa747be2ab7627fd4c5687d705c0d756be872994a38e798b9b1e1bad",
+   "files": {
+    "full": {
+     "file": "88a599baaa74-full.webp",
+     "w": 896,
+     "h": 1280
+    },
+    "th": {
+     "file": "88a599baaa74-th.webp",
+     "w": 210,
+     "h": 300
+    }
+   },
+   "orig": [
+    1434,
+    2048
+   ]
+  },
+  "c8cc8d87ca06": {
+   "name": "Shakti Varma.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Shakti_Varma.png",
+   "uploaded": "2023-02-11T14:55:47Z",
+   "sha256": "c8cc8d87ca0601cf19023d7529b3f497cedd6e405e99d425c237e5bfa893a6be",
+   "files": {
+    "full": {
+     "file": "c8cc8d87ca06-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "c8cc8d87ca06-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1280,
+    720
+   ]
+  },
+  "9f07a352617a": {
+   "name": "Shakti Varma Manga.png",
+   "source": "Familia Chronicle manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Shakti_Varma_Manga.png",
+   "uploaded": "2017-06-13T23:28:49Z",
+   "sha256": "9f07a352617a87522cf24149b67b66b1216b9fc27037cc6cec63113e62a1fd5e",
+   "files": {
+    "full": {
+     "file": "9f07a352617a-full.webp",
+     "w": 177,
+     "h": 714
+    },
+    "th": {
+     "file": "9f07a352617a-th.webp",
+     "w": 74,
+     "h": 300
+    }
+   },
+   "orig": [
+    177,
+    714
+   ]
+  },
+  "a6fa41a6a255": {
+   "name": "Shakti Varma DanMemo 2.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Shakti_Varma_DanMemo_2.png",
+   "uploaded": "2020-10-30T23:55:37Z",
+   "sha256": "a6fa41a6a255409285c527b86d0326deeefa0989b9b4989fa09073d87f287759",
+   "files": {
+    "full": {
+     "file": "a6fa41a6a255-full.webp",
+     "w": 288,
+     "h": 896
+    },
+    "th": {
+     "file": "a6fa41a6a255-th.webp",
+     "w": 96,
+     "h": 300
+    }
+   },
+   "orig": [
+    288,
+    896
+   ]
+  },
+  "c2aaf8fe470f": {
+   "name": "Shakti WALLPAPER 1011073003.webp",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Shakti_WALLPAPER_1011073003.webp",
+   "uploaded": "2023-02-23T19:53:31Z",
+   "sha256": "c2aaf8fe470f6682a8a93ba606bf536a71cdeb005c94877c1176f66114e6cdaf",
+   "files": {
+    "full": {
+     "file": "c2aaf8fe470f-full.webp",
+     "w": 720,
+     "h": 1280
+    },
+    "th": {
+     "file": "c2aaf8fe470f-th.webp",
+     "w": 169,
+     "h": 300
+    }
+   },
+   "orig": [
+    1080,
+    1920
+   ]
+  },
+  "48630cdb5b8a": {
+   "name": "Sword Oratoria Volume 7 163.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_163.png",
+   "uploaded": "2017-01-18T06:49:30Z",
+   "sha256": "48630cdb5b8a3ffde0c1be223ab2f504863b99c908e443c13a6af06b1077964e",
+   "files": {
+    "full": {
+     "file": "48630cdb5b8a-full.webp",
+     "w": 824,
+     "h": 1200
+    },
+    "th": {
+     "file": "48630cdb5b8a-th.webp",
+     "w": 206,
+     "h": 300
+    }
+   },
+   "orig": [
+    824,
+    1200
+   ]
+  },
+  "315395f2cafc": {
+   "name": "Thanatos Concept Art.png",
+   "source": "Sword Oratoria official art",
+   "class": "other",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Thanatos_Concept_Art.png",
+   "uploaded": "2019-01-03T07:34:59Z",
+   "sha256": "315395f2cafc17a870aa7cedc144aa54704a6e86135c03ca109474faa5761af5",
+   "files": {
+    "full": {
+     "file": "315395f2cafc-full.webp",
+     "w": 424,
+     "h": 925
+    },
+    "ib": {
+     "file": "315395f2cafc-ib.webp",
+     "w": 413,
+     "h": 900
+    },
+    "th": {
+     "file": "315395f2cafc-th.webp",
+     "w": 138,
+     "h": 300
+    }
+   },
+   "orig": [
+    424,
+    925
+   ]
+  },
+  "4cb68ba5c785": {
+   "name": "Bell's Grandfather.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Bell%27s_Grandfather.png",
+   "uploaded": "2015-10-08T01:02:53Z",
+   "sha256": "4cb68ba5c78539357ac532b4ee4f84b7ae44b7e256f2ad3399e562774af498c9",
+   "files": {
+    "full": {
+     "file": "4cb68ba5c785-full.webp",
+     "w": 386,
+     "h": 858
+    },
+    "ib": {
+     "file": "4cb68ba5c785-ib.webp",
+     "w": 386,
+     "h": 858
+    }
+   },
+   "orig": [
+    386,
+    858
+   ]
+  },
+  "c60656459212": {
+   "name": "Screenshot 46.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_46.png",
+   "uploaded": "2015-12-17T10:24:24Z",
+   "sha256": "c606564592127e0ff354764101579ff6c2bc5815407029820ec19b21844263b1",
+   "files": {
+    "full": {
+     "file": "c60656459212-full.webp",
+     "w": 593,
+     "h": 397
+    },
+    "th": {
+     "file": "c60656459212-th.webp",
+     "w": 300,
+     "h": 201
+    }
+   },
+   "orig": [
+    593,
+    397
+   ]
+  },
+  "bee5b2fa9dfe": {
+   "name": "Anakitty Autumn Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Anakitty_Autumn_Anime.png",
+   "uploaded": "2017-04-14T18:22:14Z",
+   "sha256": "bee5b2fa9dfe0f51d6d8f9a5e0641aa3b67074d22284028e73677b88a4659f87",
+   "files": {
+    "full": {
+     "file": "bee5b2fa9dfe-full.webp",
+     "w": 429,
+     "h": 1080
+    },
+    "ib": {
+     "file": "bee5b2fa9dfe-ib.webp",
+     "w": 358,
+     "h": 900
+    }
+   },
+   "orig": [
+    429,
+    1080
+   ]
+  },
+  "2f9068407256": {
+   "name": "Sword Oratoria Volume 5 4.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 5 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_5_4.jpg",
+   "uploaded": "2015-10-18T14:31:50Z",
+   "sha256": "2f9068407256fef3a1117bda31104d7e835f6f7fe5c2a6ff2a0873ff7a41ec63",
+   "files": {
+    "full": {
+     "file": "2f9068407256-full.webp",
+     "w": 861,
+     "h": 1280
+    },
+    "th": {
+     "file": "2f9068407256-th.webp",
+     "w": 202,
+     "h": 300
+    }
+   },
+   "orig": [
+    2374,
+    3529
+   ]
+  },
+  "107a1fea8604": {
+   "name": "Sword Oratoria Volume 5 104.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 5 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_5_104.jpg",
+   "uploaded": "2015-10-18T14:33:09Z",
+   "sha256": "107a1fea86040f1ab928fc2cadbb57ccaad53a2bbb066d96a37efbf74ca0c3d8",
+   "files": {
+    "full": {
+     "file": "107a1fea8604-full.webp",
+     "w": 851,
+     "h": 1280
+    },
+    "th": {
+     "file": "107a1fea8604-th.webp",
+     "w": 200,
+     "h": 300
+    }
+   },
+   "orig": [
+    2351,
+    3535
+   ]
+  },
+  "8782dbe9c7ce": {
+   "name": "Sword Oratoria Volume 6 3.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_3.png",
+   "uploaded": "2016-06-08T02:33:16Z",
+   "sha256": "8782dbe9c7ce859da043cca8730eaa94c3b00c8d08fb8787e1ec0a11d2c67bac",
+   "files": {
+    "full": {
+     "file": "8782dbe9c7ce-full.webp",
+     "w": 1280,
+     "h": 719
+    },
+    "th": {
+     "file": "8782dbe9c7ce-th.webp",
+     "w": 300,
+     "h": 168
+    }
+   },
+   "orig": [
+    1624,
+    912
+   ]
+  },
+  "0b2f12972276": {
+   "name": "Anakitty Autumn Anime 2.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Anakitty_Autumn_Anime_2.png",
+   "uploaded": "2021-02-09T00:09:36Z",
+   "sha256": "0b2f129722768188f24cecb9cd5471ac5add5e65a85c793cbd96be2ae0ef881d",
+   "files": {
+    "full": {
+     "file": "0b2f12972276-full.webp",
+     "w": 331,
+     "h": 418
+    },
+    "th": {
+     "file": "0b2f12972276-th.webp",
+     "w": 238,
+     "h": 300
+    }
+   },
+   "orig": [
+    331,
+    418
+   ]
+  },
+  "75eeda242ff1": {
+   "name": "Screenshot 16.png",
+   "source": "Sword Oratoria manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_16.png",
+   "uploaded": "2015-12-03T12:31:11Z",
+   "sha256": "75eeda242ff110fb7551036c939021a75f138b9df497380a54546c84da498e28",
+   "files": {
+    "full": {
+     "file": "75eeda242ff1-full.webp",
+     "w": 540,
+     "h": 581
+    },
+    "th": {
+     "file": "75eeda242ff1-th.webp",
+     "w": 279,
+     "h": 300
+    }
+   },
+   "orig": [
+    540,
+    581
+   ]
+  },
+  "3bcc2bfeb9ff": {
+   "name": "Anakitty 1 DanMemo Holy Intoxicating Night Tale.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Anakitty_1_DanMemo_Holy_Intoxicating_Night_Tale.png",
+   "uploaded": "2021-12-17T17:59:12Z",
+   "sha256": "3bcc2bfeb9ffec4eacec9487f4b28eef1397edde661021c40dc77d38532aba22",
+   "files": {
+    "full": {
+     "file": "3bcc2bfeb9ff-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "3bcc2bfeb9ff-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1440,
+    810
+   ]
+  },
+  "38fcabc30fe5": {
+   "name": "Anakitty 2 DanMemo Holy Intoxicating Night Tale.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Anakitty_2_DanMemo_Holy_Intoxicating_Night_Tale.png",
+   "uploaded": "2021-12-17T17:59:33Z",
+   "sha256": "38fcabc30fe5cd335e93cfcb2c9eec5d9a74dadef612b7d0ee87fe7bb263aa72",
+   "files": {
+    "full": {
+     "file": "38fcabc30fe5-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "38fcabc30fe5-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1440,
+    810
+   ]
+  },
+  "742e1154c0d4": {
+   "name": "Barca Concept Art.png",
+   "source": "DanMachi official art",
+   "class": "other",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Barca_Concept_Art.png",
+   "uploaded": "2019-01-03T07:32:30Z",
+   "sha256": "742e1154c0d43d13b18acc0a03f397dd6a1660ec46a9ec759daa1945f71b3c41",
+   "files": {
+    "full": {
+     "file": "742e1154c0d4-full.webp",
+     "w": 320,
+     "h": 855
+    },
+    "ib": {
+     "file": "742e1154c0d4-ib.webp",
+     "w": 320,
+     "h": 855
+    }
+   },
+   "orig": [
+    320,
+    855
+   ]
+  },
+  "90716b9e1ab9": {
+   "name": "Sword Oratoria Volume 7 2.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_2.png",
+   "uploaded": "2016-12-05T12:41:08Z",
+   "sha256": "90716b9e1ab989eec35bc3e335f3d30a2b2c07e43d942060a993936134181017",
+   "files": {
+    "full": {
+     "file": "90716b9e1ab9-full.webp",
+     "w": 688,
+     "h": 985
+    },
+    "th": {
+     "file": "90716b9e1ab9-th.webp",
+     "w": 210,
+     "h": 300
+    }
+   },
+   "orig": [
+    688,
+    985
+   ]
+  },
+  "f79080a1e215": {
+   "name": "Sword Oratoria Volume 11 229.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 11 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_11_229.jpg",
+   "uploaded": "2019-01-11T15:58:46Z",
+   "sha256": "f79080a1e215fafe8afbdb1f17c93e52b17e8b6e750a538f882439ec25615d92",
+   "files": {
+    "full": {
+     "file": "f79080a1e215-full.webp",
+     "w": 660,
+     "h": 944
+    },
+    "th": {
+     "file": "f79080a1e215-th.webp",
+     "w": 210,
+     "h": 300
+    }
+   },
+   "orig": [
+    660,
+    944
+   ]
+  },
+  "b7c74e4e4e94": {
+   "name": "Demeter 3.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Demeter_3.png",
+   "uploaded": "2015-08-30T20:08:50Z",
+   "sha256": "b7c74e4e4e9422a9d5bedff556998efa2548d7bc5637c1094576dd6dc7c355fb",
+   "files": {
+    "full": {
+     "file": "b7c74e4e4e94-full.webp",
+     "w": 448,
+     "h": 819
+    },
+    "ib": {
+     "file": "b7c74e4e4e94-ib.webp",
+     "w": 448,
+     "h": 819
+    }
+   },
+   "orig": [
+    448,
+    819
+   ]
+  },
+  "e0bd18866232": {
+   "name": "Demeter 2.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Demeter_2.png",
+   "uploaded": "2015-08-09T17:20:20Z",
+   "sha256": "e0bd188662323e6e31ae09c70909afd56e5400a04afc0d5995c5943ecca978f2",
+   "files": {
+    "full": {
+     "file": "e0bd18866232-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "e0bd18866232-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "e5ccb8db3a8d": {
+   "name": "Screenshot 65.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Screenshot_65.png",
+   "uploaded": "2015-12-17T22:54:24Z",
+   "sha256": "e5ccb8db3a8df5d5c694e809ab2da6241bce1261cc9979e2883fa2c4d3a7ab42",
+   "files": {
+    "full": {
+     "file": "e5ccb8db3a8d-full.webp",
+     "w": 308,
+     "h": 370
+    },
+    "th": {
+     "file": "e5ccb8db3a8d-th.webp",
+     "w": 250,
+     "h": 300
+    }
+   },
+   "orig": [
+    308,
+    370
+   ]
+  },
+  "071405fa982c": {
+   "name": "Demeter Harvest Goddess.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Demeter_Harvest_Goddess.png",
+   "uploaded": "2023-02-23T18:27:19Z",
+   "sha256": "071405fa982ce36f3d475a7b08d218bcbbb8de9d1b89fc4d82a5265865bb289e",
+   "files": {
+    "full": {
+     "file": "071405fa982c-full.webp",
+     "w": 948,
+     "h": 941
+    },
+    "th": {
+     "file": "071405fa982c-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    948,
+    941
+   ]
+  },
+  "c36cc3eb5d28": {
+   "name": "Demeter Mother Seedling.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Demeter_Mother_Seedling.png",
+   "uploaded": "2023-02-23T18:27:29Z",
+   "sha256": "c36cc3eb5d28ab2c0a22b63801c864a83a3e45a665c9c036ed118640883c5cd2",
+   "files": {
+    "full": {
+     "file": "c36cc3eb5d28-full.webp",
+     "w": 1022,
+     "h": 1017
+    },
+    "th": {
+     "file": "c36cc3eb5d28-th.webp",
+     "w": 300,
+     "h": 299
+    }
+   },
+   "orig": [
+    1022,
+    1017
+   ]
+  },
+  "33cc7ad2b728": {
+   "name": "Diancecht Magnificent Bath God.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Diancecht_Magnificent_Bath_God.png",
+   "uploaded": "2023-02-23T18:09:49Z",
+   "sha256": "33cc7ad2b7288c333662025e611aec0e8c1ac40c13b6c0f0c7cc00bbe41e5fd2",
+   "files": {
+    "full": {
+     "file": "33cc7ad2b728-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "ib": {
+     "file": "33cc7ad2b728-ib.webp",
+     "w": 500,
+     "h": 496
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "2a05eac24446": {
+   "name": "Diancecht Magnificent Bath God PROMO.jpg",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Diancecht_Magnificent_Bath_God_PROMO.jpg",
+   "uploaded": "2023-02-23T18:09:28Z",
+   "sha256": "2a05eac2444607990406c2b906fea4f7f5c8b83c7070f647cebdc8fc98208862",
+   "files": {
+    "full": {
+     "file": "2a05eac24446-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "2a05eac24446-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1280,
+    720
+   ]
+  },
+  "6abb91577968": {
+   "name": "Diancecht Magnificent Bath God WALLPAPER.jpg",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Diancecht_Magnificent_Bath_God_WALLPAPER.jpg",
+   "uploaded": "2023-02-23T18:09:39Z",
+   "sha256": "6abb91577968101933437a423684e8a94f82e3ac2ff7d9705693affc21c61ac2",
+   "files": {
+    "full": {
+     "file": "6abb91577968-full.webp",
+     "w": 591,
+     "h": 1280
+    },
+    "th": {
+     "file": "6abb91577968-th.webp",
+     "w": 139,
+     "h": 300
+    }
+   },
+   "orig": [
+    1005,
+    2175
+   ]
+  },
+  "b735d9c8f318": {
+   "name": "Lulune Louie Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Lulune_Louie_Anime.png",
+   "uploaded": "2017-04-21T17:33:31Z",
+   "sha256": "b735d9c8f318372877c0a584ba959364f14e117d2f4465a3da0520496bb427c0",
+   "files": {
+    "full": {
+     "file": "b735d9c8f318-full.webp",
+     "w": 576,
+     "h": 781
+    },
+    "ib": {
+     "file": "b735d9c8f318-ib.webp",
+     "w": 500,
+     "h": 678
+    }
+   },
+   "orig": [
+    576,
+    781
+   ]
+  },
+  "18d13bbe7c09": {
+   "name": "Sword Oratoria Volume 2 149.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_149.png",
+   "uploaded": "2015-05-29T04:07:22Z",
+   "sha256": "18d13bbe7c09d28695182073bb805690b14d769b798ac7889cb5ca0bab4e4417",
+   "files": {
+    "full": {
+     "file": "18d13bbe7c09-full.webp",
+     "w": 796,
+     "h": 1200
+    },
+    "th": {
+     "file": "18d13bbe7c09-th.webp",
+     "w": 199,
+     "h": 300
+    }
+   },
+   "orig": [
+    796,
+    1200
+   ]
+  },
+  "87d270cbb99d": {
+   "name": "Sword Oratoria Volume 10 3.png",
+   "source": "Sword Oratoria light novel illustration, Vol. 10 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_10_3.png",
+   "uploaded": "2018-04-27T11:08:52Z",
+   "sha256": "87d270cbb99d595d04d04286b5f630ebaa0ef157828252281712c939e822b6cb",
+   "files": {
+    "full": {
+     "file": "87d270cbb99d-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "87d270cbb99d-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1752,
+    985
+   ]
+  },
+  "56a12ef40455": {
+   "name": "Lulune Louie Character Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Lulune_Louie_Character_Art.png",
+   "uploaded": "2017-06-07T23:13:59Z",
+   "sha256": "56a12ef40455a43cee0630c9a0a3fb9a6a05ada02101c4864183c1d754d7d56b",
+   "files": {
+    "full": {
+     "file": "56a12ef40455-full.webp",
+     "w": 675,
+     "h": 882
+    },
+    "th": {
+     "file": "56a12ef40455-th.webp",
+     "w": 230,
+     "h": 300
+    }
+   },
+   "orig": [
+    675,
+    882
+   ]
+  },
+  "000cad8bb8c5": {
+   "name": "Lulune Louie Sword Oratoria Manga.png",
+   "source": "Sword Oratoria manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Lulune_Louie_Sword_Oratoria_Manga.png",
+   "uploaded": "2015-05-30T20:34:28Z",
+   "sha256": "000cad8bb8c53176b5cf8214461724f2273e379a7a01cd5b54ccfafb2f7fdeef",
+   "files": {
+    "full": {
+     "file": "000cad8bb8c5-full.webp",
+     "w": 398,
+     "h": 476
+    },
+    "th": {
+     "file": "000cad8bb8c5-th.webp",
+     "w": 251,
+     "h": 300
+    }
+   },
+   "orig": [
+    398,
+    476
+   ]
+  },
+  "68c242410166": {
+   "name": "Lulune Muddle.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Lulune_Muddle.png",
+   "uploaded": "2023-02-23T20:57:20Z",
+   "sha256": "68c242410166161c12ea3a3e62005fca565ba020267de9e2f9305e720763f310",
+   "files": {
+    "full": {
+     "file": "68c242410166-full.webp",
+     "w": 1004,
+     "h": 996
+    },
+    "th": {
+     "file": "68c242410166-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    1004,
+    996
+   ]
+  },
+  "9eaba9488642": {
+   "name": "Entertainment District.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Entertainment_District.png",
+   "uploaded": "2019-11-13T06:38:57Z",
+   "sha256": "9eaba9488642c0a4dcbe33ebca3ced16a61bbceb987e99c0cc5f394a3542a075",
+   "files": {
+    "full": {
+     "file": "9eaba9488642-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "9eaba9488642-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "138212e2f744": {
+   "name": "Mikoto and Chigusa in the Pleasure District, DM II Manga v1.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Mikoto_and_Chigusa_in_the_Pleasure_District,_DM_II_Manga_v1.png",
+   "uploaded": "2021-11-22T22:16:52Z",
+   "sha256": "138212e2f744a0d99c5e9ada93ea121d395d0786d2fd11038fc948f3fbaedb82",
+   "files": {
+    "full": {
+     "file": "138212e2f744-full.webp",
+     "w": 804,
+     "h": 769
+    },
+    "th": {
+     "file": "138212e2f744-th.webp",
+     "w": 300,
+     "h": 287
+    }
+   },
+   "orig": [
+    804,
+    769
    ]
   }
  },
@@ -12896,8 +14778,441 @@
      "caption": ""
     }
    ]
+  },
+  "cassandra": {
+   "fandom_page": "Cassandra Ilion",
+   "infobox": {
+    "id": "6f851fa580b6",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "2c7da2eae39f",
+     "caption": ""
+    },
+    {
+     "id": "14e925882735",
+     "caption": ""
+    },
+    {
+     "id": "478b60f5bdcd",
+     "caption": ""
+    },
+    {
+     "id": "ba27c4122461",
+     "caption": ""
+    },
+    {
+     "id": "ce1d8d0f277b",
+     "caption": ""
+    },
+    {
+     "id": "96ef0d6bd4b9",
+     "caption": ""
+    },
+    {
+     "id": "bd8786e23e76",
+     "caption": ""
+    }
+   ]
+  },
+  "daphne": {
+   "fandom_page": "Daphne Lauros",
+   "infobox": {
+    "id": "b2abbaf0b8c3",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "2c7da2eae39f",
+     "caption": ""
+    },
+    {
+     "id": "59ccd5226072",
+     "caption": ""
+    },
+    {
+     "id": "8907ce26a8bd",
+     "caption": ""
+    },
+    {
+     "id": "b7a5682f75fd",
+     "caption": ""
+    },
+    {
+     "id": "db72369404d3",
+     "caption": ""
+    }
+   ]
+  },
+  "ikelos-familia": {
+   "fandom_page": "Ikelos Familia",
+   "infobox": {
+    "id": "ac18f288ea33",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "0e49904558aa",
+     "caption": ""
+    },
+    {
+     "id": "34f2b06bf4ba",
+     "caption": ""
+    },
+    {
+     "id": "429179f4db03",
+     "caption": ""
+    },
+    {
+     "id": "f45d56dc8d0e",
+     "caption": ""
+    },
+    {
+     "id": "8b1802e0d192",
+     "caption": ""
+    },
+    {
+     "id": "068636c9f664",
+     "caption": ""
+    },
+    {
+     "id": "969918bd0d29",
+     "caption": ""
+    }
+   ]
+  },
+  "miach-familia": {
+   "fandom_page": "Miach Familia",
+   "infobox": {
+    "id": "7f6f6118ae4a",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "082a361d2f7e",
+     "caption": ""
+    },
+    {
+     "id": "47b57a8e596c",
+     "caption": ""
+    },
+    {
+     "id": "60626f83912b",
+     "caption": ""
+    },
+    {
+     "id": "12093ec6f20f",
+     "caption": ""
+    },
+    {
+     "id": "59ccb2c2190a",
+     "caption": ""
+    },
+    {
+     "id": "419ee6c9d033",
+     "caption": ""
+    }
+   ]
+  },
+  "valletta": {
+   "fandom_page": "Valletta Grede",
+   "infobox": {
+    "id": "a212852379e6",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "b0d41c584e80",
+     "caption": ""
+    },
+    {
+     "id": "9c73c3786794",
+     "caption": ""
+    },
+    {
+     "id": "15dad7b31ff3",
+     "caption": ""
+    },
+    {
+     "id": "26fe2b8052d0",
+     "caption": ""
+    },
+    {
+     "id": "bdc2e51c1ae8",
+     "caption": ""
+    },
+    {
+     "id": "b5f1fccfb686",
+     "caption": ""
+    }
+   ]
+  },
+  "bors": {
+   "fandom_page": "Bors Elder",
+   "infobox": {
+    "id": "e2eb2d3e470f",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "9ad83f0c2832",
+     "caption": ""
+    },
+    {
+     "id": "a3c3ff045243",
+     "caption": ""
+    },
+    {
+     "id": "c8c683ba170e",
+     "caption": ""
+    }
+   ]
+  },
+  "olivas-act": {
+   "fandom_page": "Olivas Act",
+   "infobox": {
+    "id": "9ba96ad66a4a",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "ab1626b621c5",
+     "caption": ""
+    },
+    {
+     "id": "304e5c604972",
+     "caption": ""
+    },
+    {
+     "id": "07eafac345fa",
+     "caption": ""
+    }
+   ]
+  },
+  "rudra-familia": {
+   "fandom_page": "Rudra Familia",
+   "infobox": {
+    "id": "9e3a400e826c",
+    "caption": "Jura Harma"
+   },
+   "gallery": [
+    {
+     "id": "88a599baaa74",
+     "caption": ""
+    }
+   ]
+  },
+  "shakti-varma": {
+   "fandom_page": "Shakti Varma",
+   "infobox": {
+    "id": "c8cc8d87ca06",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "9f07a352617a",
+     "caption": ""
+    },
+    {
+     "id": "a6fa41a6a255",
+     "caption": ""
+    },
+    {
+     "id": "c2aaf8fe470f",
+     "caption": ""
+    }
+   ]
+  },
+  "thanatos": {
+   "fandom_page": "Thanatos",
+   "infobox": {
+    "id": "315395f2cafc",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "b0d41c584e80",
+     "caption": ""
+    },
+    {
+     "id": "48630cdb5b8a",
+     "caption": ""
+    }
+   ]
+  },
+  "zeus-and-hera-familias": {
+   "fandom_page": "Zeus Familia",
+   "infobox": {
+    "id": "4cb68ba5c785",
+    "caption": "Bell's grandfather, the god Zeus"
+   },
+   "gallery": [
+    {
+     "id": "c60656459212",
+     "caption": ""
+    }
+   ]
+  },
+  "anakity-autumn": {
+   "fandom_page": "Anakitty Autumn",
+   "infobox": {
+    "id": "bee5b2fa9dfe",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "2f9068407256",
+     "caption": ""
+    },
+    {
+     "id": "107a1fea8604",
+     "caption": ""
+    },
+    {
+     "id": "8782dbe9c7ce",
+     "caption": ""
+    },
+    {
+     "id": "0b2f12972276",
+     "caption": ""
+    },
+    {
+     "id": "75eeda242ff1",
+     "caption": ""
+    },
+    {
+     "id": "3bcc2bfeb9ff",
+     "caption": ""
+    },
+    {
+     "id": "38fcabc30fe5",
+     "caption": ""
+    }
+   ]
+  },
+  "barca-perdix": {
+   "fandom_page": "Barca Perdix",
+   "infobox": {
+    "id": "742e1154c0d4",
+    "caption": "Light Novel"
+   },
+   "gallery": [
+    {
+     "id": "90716b9e1ab9",
+     "caption": ""
+    },
+    {
+     "id": "34f2b06bf4ba",
+     "caption": ""
+    },
+    {
+     "id": "f79080a1e215",
+     "caption": ""
+    }
+   ]
+  },
+  "demeter": {
+   "fandom_page": "Demeter",
+   "infobox": {
+    "id": "b7c74e4e4e94",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "1b407cde4ac7",
+     "caption": ""
+    },
+    {
+     "id": "63dbab09f396",
+     "caption": ""
+    },
+    {
+     "id": "661d7211f3e9",
+     "caption": ""
+    },
+    {
+     "id": "e0bd18866232",
+     "caption": ""
+    },
+    {
+     "id": "e5ccb8db3a8d",
+     "caption": ""
+    },
+    {
+     "id": "071405fa982c",
+     "caption": ""
+    },
+    {
+     "id": "c36cc3eb5d28",
+     "caption": ""
+    }
+   ]
+  },
+  "dian-cecht-familia": {
+   "fandom_page": "Dian Cecht Familia",
+   "infobox": {
+    "id": "33cc7ad2b728",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "2a05eac24446",
+     "caption": ""
+    },
+    {
+     "id": "6abb91577968",
+     "caption": ""
+    }
+   ]
+  },
+  "lulune-louie": {
+   "fandom_page": "Lulune Louie",
+   "infobox": {
+    "id": "b735d9c8f318",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "18d13bbe7c09",
+     "caption": ""
+    },
+    {
+     "id": "208c017915d3",
+     "caption": ""
+    },
+    {
+     "id": "87d270cbb99d",
+     "caption": ""
+    },
+    {
+     "id": "56a12ef40455",
+     "caption": ""
+    },
+    {
+     "id": "000cad8bb8c5",
+     "caption": ""
+    },
+    {
+     "id": "68c242410166",
+     "caption": ""
+    }
+   ]
+  },
+  "pleasure-quarter": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "9eaba9488642",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "138212e2f744",
+     "caption": ""
+    }
+   ]
   }
  },
- "generated": "2026-09-30",
+ "generated": "2026-10-01",
  "note": "Official artwork chosen from a local backup of the DanMachi Fandom wiki. Illustrations only: never evidence for a claim. Rights remain with their owners."
 }

@@ -51,8 +51,13 @@ Sword Oratoria 8 presents his contempt for weakness as a response to these losse
 - **User:** Bete Loga[@hati.so08-cast]
 - **Type:** Fire enchantment on his arms and legs[@hati.so08-explain]
 - **Effect:** Magic drain and damage drain[@hati.so08-explain]
+- **Status entry:** Enchant spell; fire attribute; Magic Drain; Damage Drain[@hati.so05-sheet]
 - **Substitute:** The boots Frosvirt, a downgraded version made by [[tsubaki|Tsubaki]][@hati.so08-explain]
 - **Chant:** Seven printed pieces in Sword Oratoria 8[@hati.so08-cast]
+
+#### Status entry {#hati-status-entry}
+
+Bete's illustrated Status sheet in Sword Oratoria 5 (Level 5) lists Hati under Magic with four notes: enchant spell, fire attribute, Magic Drain and Damage Drain, the two drains Loki explains in Sword Oratoria 8.[@hati.so05-sheet, hati.so08-explain] The sheet is printed in Sword Oratoria 5; the story shows the spell cast in Sword Oratoria 8.[@hati.so05-sheet, hati.so08-cast]
 
 #### Incantation {#hati-incantation}
 
@@ -95,7 +100,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 |---|---|
 | DanMachi 1 | Mocks Bell at [[the-benevolent-mistress|The Benevolent Mistress]].[@fm01-bete] |
 | Sword Oratoria 6 | Reaches Level 6 after the Floor 59 expedition.[@so06-bete] |
-| Sword Oratoria 8 | Casts Hati and kills Valletta; Loki Familia reconciles with him.[@so08-hati] |
+| Sword Oratoria 8 | Casts Hati and kills [[valletta|Valletta]]; Loki Familia reconciles with him.[@so08-hati] |
 | Sword Oratoria 12 | [[haruhime|Haruhime]] raises him to pseudo-Level 7, and he breaks his own ban on Hati against [[filvis|Filvis]].[@so12-bete] |
 | Sword Oratoria 13 | Trains [[lefiya|Lefiya]] in close combat without holding back.[@so13-bete] |
 | DanMachi 17 | Fights [[allen-fromel|Allen Fromel]] after [[freya|Freya]]'s charm is broken.[@fm17-bete] |
@@ -125,3 +130,4 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits.
 [@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
 [@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | Partial chant; flaming wolf; Fusillade Fallarica strengthens it.
+[@hati.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hati, enchant spell, fire attribute, Magic Drain, Damage Drain.

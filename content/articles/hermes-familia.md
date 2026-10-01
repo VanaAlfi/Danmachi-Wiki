@@ -28,7 +28,7 @@
 | Member | Notes |
 |---|---|
 | [[asfi|Asfi Al Andromeda]] | Captain, titled Perseus; succeeded Lydis during the [[great-conflict|Great Conflict]].[@fm05-asfi, ar02-captain] |
-| Lulune Louie | A chienthrope, secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
+| [[lulune-louie|Lulune Louie]] | A chienthrope, secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
 | Falgar | Fights in the Great Conflict.[@ar02-falgar] |
 | [[aisha-belka|Aisha Belka]] | Joins after [[ishtar|Ishtar]]'s fall; the Familia keeps her affiliation from the Guild to preserve its neutrality.[@fm10-aisha] |
 

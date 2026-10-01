@@ -30,7 +30,7 @@
 | DanMachi 9 | Transmits Ouranos's secret mission to [[hestia-familia|Hestia Familia]] through [[eina-tulle|Eina]].[@fm09-royman] |
 | DanMachi 11 | Even he is not told the full agreement about the Xenos.[@fm11-secret] |
 | Minor Myths and Legends 2 | [[hedin|Hedin]] forces him to reveal the route [[freya|Freya]] took into the desert.[@ss02-royman] |
-| DanMachi 18 | Hopes [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]] will join forces, like Zeus and Hera Familias, to reach Thalia's Ice Garden; he gives [[finn-deimne|Finn]] a frozen, broken short sword as a clue.[@fm18-royman] After Freya's defeat he at first tries to protect her, but cannot resist the victors' demands.[@fm18-dissolved] |
+| DanMachi 18 | Hopes [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]] will join forces, like [[zeus-and-hera-familias|Zeus and Hera Familias]], to reach Thalia's Ice Garden; he gives [[finn-deimne|Finn]] a frozen, broken short sword as a clue.[@fm18-royman] After Freya's defeat he at first tries to protect her, but cannot resist the victors' demands.[@fm18-dissolved] |
 | DanMachi 20 | Hoping to keep the fame of the shaft project for the Guild, he nonetheless signs the [[school-district|School District]]'s proposal to cooperate.[@fm20-royman] |
 
 [@fm09-royman]: FM09 | | Elf head of the Guild; Ouranos's mission through Eina.

@@ -24,7 +24,7 @@
   }
 }
 ---
-**Freya Familia** is the Familia of the goddess [[freya|Freya]]. Together with [[loki-familia|Loki Familia]] it drove Zeus Familia and Hera Familia out of [[orario|Orario]] after the Black Dragon broke their strength.[@fm06-zeus] Its home is [[folkvangr|Folkvangr]], a walled estate in the city's fifth district.[@fm07-folkvangr] In DanMachi 18 it loses a Familia War against a coalition led by [[hestia|Hestia]], and the [[guild|Guild]] dissolves it.[@fm18-flower, fm18-dissolved]
+**Freya Familia** is the Familia of the goddess [[freya|Freya]]. Together with [[loki-familia|Loki Familia]] it drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]] after the Black Dragon broke their strength.[@fm06-zeus] Its home is [[folkvangr|Folkvangr]], a walled estate in the city's fifth district.[@fm07-folkvangr] In DanMachi 18 it loses a Familia War against a coalition led by [[hestia|Hestia]], and the [[guild|Guild]] dissolves it.[@fm18-flower, fm18-dissolved]
 
 ## Members {#members}
 

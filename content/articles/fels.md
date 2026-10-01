@@ -114,7 +114,7 @@ Spheres of light in different colours surround [[bell-cranell|Bell]]. His wounds
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 2–3 | As a black-robed figure, investigates unknown monsters with Ouranos, hires Lulune to carry cargo from [[rivira|Rivira]], and then gives [[aiz-wallenstein|Aiz]] a quest.[@so02-fels, so03-fels] |
+| Sword Oratoria 2–3 | As a black-robed figure, investigates unknown monsters with Ouranos, hires [[lulune-louie|Lulune]] to carry cargo from [[rivira|Rivira]], and then gives [[aiz-wallenstein|Aiz]] a quest.[@so02-fels, so03-fels] |
 | DanMachi 9 | Revealed as the Sage and as Ouranos's liaison with the Xenos.[@fm09-fels] |
 | Sword Oratoria 10 | Leads eleven Xenos through Knossos and accepts [[finn-deimne|Finn]]'s limited alliance.[@so10-fels] |
 | DanMachi 12 | Tells [[bell-cranell|Bell]] that clearing the Dungeon's deepest floor is necessary for coexistence with the Xenos, without saying why.[@fm12-fels] |

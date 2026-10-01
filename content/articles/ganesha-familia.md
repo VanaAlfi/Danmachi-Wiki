@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Familia of the god Ganesha, which hosts the Monsterphilia festival, is the only Familia allowed to keep live monsters in Orario, and helps keep the city's order.",
   "aliases": [],
-  "spoilers": "DanMachi Vols. 1–19, Sword Oratoria Vols. 1, 11–12, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
+  "spoilers": "DanMachi Vols. 1–19, Sword Oratoria Vols. 1–12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
   "infobox": {
     "title": "Ganesha Familia",
@@ -29,7 +29,7 @@ Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use
 
 ## Shakti and Ardee
 
-The captain, Shakti Varma, titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood and Dharmas Algo, the second a passive boost for Familia members around her.[@skills.ar02-sheet]
+The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood and Dharmas Algo, the second a passive boost for Familia members around her.[@skills.ar02-sheet] The same sheet lists two spells, Ghana Avimutta and Dia Kaumudi; see [[magic#ardee-varma-spells|Magic § Ardee Varma's spells]].[@ardee-varma-spells.ar02-sheet]
 
 ## History
 
@@ -56,3 +56,4 @@ The captain, Shakti Varma, titled *Ankusha*, is the Familia's strongest first-ti
 [@ar02-shakti]: AR02 | | Shakti chooses the future.
 [@skills.ar02-sheet]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Ganapati Blood, Dharmas Algo.
 [@ar03-sword]: AR03 | Prologue: Last Intermission | Sacred Oath, carried with Shakti's permission.
+[@ardee-varma-spells.ar02-sheet]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): Magic Ghana Avimutta and Dia Kaumudi.

@@ -103,7 +103,7 @@ On its first use, against hellhounds on the middle floors, the monsters explode 
 
 {{nocite}} The novels show it working on several kinds of target:
 
-- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting at [[rivira|Rivira]]; in the DanMachi 6 War Game every mage in front of Daphne fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm06-war]
+- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting at [[rivira|Rivira]]; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm06-war]
 - **Monster attacks that use magic.** It detonates the Black [[goliath|Goliath]]'s howl, though the monster at once prepares another.[@will-o-the-wisp.fm05-goliath]
 - **Magic circles.** In Sword Oratoria 12 Welf's cast beats a demi-spirit's high-speed casting, and all the magic circles around it go off in a chain of explosions.[@will-o-the-wisp.so12-spirit]
 - **Selective blast.** In DanMachi 18 the heat haze detonates the magic that [[allen-fromel|Allen]] and his guards have prepared, while seeming to avoid Bell's path. The text does not say it can always spare allies.[@will-o-the-wisp.fm18-allen]

@@ -34,7 +34,7 @@
 
 [[freya|Freya]] found Ottar as an abandoned small child and gave him his name. She looked after him from time to time and gave him her blessing only several years later.[@fc02-origin] He reached Level 2 two years after receiving the [[falna|Falna]], although he had spent only one of those years fighting.[@fc02-origin] At seventeen he was Level 5 and the Familia's undisputed second-in-command. [[mia-grand|Mia Grand]], then captain, trained him, but she left the Familia before he could settle things with her.[@fc02-origin, fc02-mia]
 
-Every Level Up he made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-zeus] He later defeats the [[monster-rex|Monster Rex]] Udaeus alone and has its drop item made into a great sword, which Freya names *Supreme Black Sword*.[@fc02-sword]
+Every Level Up he made after Level 5 was connected with [[zeus-and-hera-familias|Zeus Familia]] or Hera Familia.[@fc02-zeus] He later defeats the [[monster-rex|Monster Rex]] Udaeus alone and has its drop item made into a great sword, which Freya names *Supreme Black Sword*.[@fc02-sword]
 
 ## Level history
 
@@ -62,6 +62,7 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 
 - **User:** Ottar[@hildis-vini.fc02-udaeus]
 - **Type:** Enhancement ("not even an enchantment")[@hildis-vini.fm18-slash]
+- **Status entry:** "???"; no description printed[@hildis-vini.fc02-sheet]
 - **Effect:** Raises his weapon's power[@hildis-vini.ar03-zald, hildis-vini.fm20-afterglow]
 - **Chant:** Short; three sentences[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
 
@@ -143,3 +144,4 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@hildis-vini.fm18-casting]: FM18 | Chapter 9: Flower Language for You | Casting while defending; fuel-inefficient.
 [@hildis-vini.fm18-slash]: FM18 | Chapter 9: Flower Language for You | "A simple enhancement spell"; not an enchantment; the golden slash.
 [@hildis-vini.fm20-afterglow]: FM20 | Chapter 4: The Knight’s Afterglow | Leon: enhancement magic and the afterglow.
+[@hildis-vini.fc02-sheet]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Magic Hildis Vini, described only as "???".

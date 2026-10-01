@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "Former Level 7 of Hera Familia, titled the Silence; Bell Cranell's maternal aunt. She joins Erebus in the Great Conflict and dies after Astrea Familia defeats her.",
+  "summary": "Former Level 7 of Hera Familia, titled the Silence, whose late twin sister left her son with Zeus; the boy is evidently Bell Cranell. She joins Erebus in the Great Conflict and dies after Astrea Familia defeats her.",
   "aliases": ["Silence"],
   "spoilers": "Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["zald", "erebus", "great-conflict", "bell-cranell", "astrea-familia", "three-great-quests", "magic"],
@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Personal"},
       {"label": "Sister", "value": "Metelia, her twin", "refs": ["ar03-family"]},
-      {"label": "Nephew", "value": "[[bell-cranell|Bell Cranell]]", "refs": ["ar03-family"]},
+      {"label": "Nephew", "value": "Her sister's son, entrusted to Zeus; evidently [[bell-cranell|Bell Cranell]] (inference)", "refs": ["ar03-family", "ar03-zeus"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Hera Familia (former)", "refs": ["ar01-alfia"]},
       {"label": "Level", "value": "7", "refs": ["ar02-level"]},
@@ -24,7 +24,7 @@
   }
 }
 ---
-**Alfia**, titled *the Silence*, is a former Level 7 of Hera Familia.[@ar01-alfia, ar01-silence, ar02-level] She is the twin sister of Metelia, [[bell-cranell|Bell Cranell]]'s mother, and so Bell's maternal aunt.[@ar03-family] In the [[great-conflict|Great Conflict]] she joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[zald|Zald]].[@ar03-erebus]
+**Alfia**, titled *the Silence*, is a former Level 7 of [[zeus-and-hera-familias|Hera Familia]].[@ar01-alfia, ar01-silence, ar02-level] She is the twin sister of Metelia of Hera Familia, who before her death entrusted her son, fathered by a member of Zeus Familia, to Zeus.[@ar03-family, ar03-zeus] {{inference}} Since Zeus raised [[bell-cranell|Bell Cranell]], the boy is evidently Bell, which would make Alfia his maternal aunt; Astrea Record 3 never names the child.[@ar03-zeus] In the [[great-conflict|Great Conflict]] she joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[zald|Zald]].[@ar03-erebus]
 
 ## Illness and talent
 
@@ -61,7 +61,7 @@ In Astrea Record 1 Alfia defeats Riveria and [[gareth|Gareth]].[@ar01-alfia] Exp
 
 #### Effect {#satanas-verion-effect}
 
-- **A wall of sound.** In Astrea Record 1 a single "Gospel" scatters more than twenty of Ganesha Familia's fighters in a church and throws Shakti and Ardee against the wall, while the hooded Alfia escapes. Shakti takes it at first for some kind of vacuum wave.[@satanas-verion.ar01-church]
+- **A wall of sound.** In Astrea Record 1 a single "Gospel" scatters more than twenty of Ganesha Familia's fighters in a church and throws [[shakti-varma|Shakti]] and Ardee against the wall, while the hooded Alfia escapes. Shakti takes it at first for some kind of vacuum wave.[@satanas-verion.ar01-church]
 - **Damage without a direct hit.** In Astrea Record 2 it hurls Kaguya into the ruins and shatters her sword. Lyra dodges the blast but is still knocked down, bleeding from her eyes, ears and mouth, and realises: "It wasn't wind or light. It was sound!!" Alfia agrees: "my magic is sound".[@satanas-verion.ar02-sound]
 - **Speed and reach.** Lyra judges it an ultra-short chant with huge range, which even outclasses [[riveria|Riveria]] in a straight contest of magic.[@satanas-verion.ar02-sound]
 
@@ -167,7 +167,8 @@ The narration says it could be neither dodged nor blocked, but Lyra throws herse
 [@ar01-alfia]: AR01 | | Former Hera Level 7; defeats Riveria and Gareth.
 [@ar01-silence]: AR01 | | "Alfia, the Silence!"
 [@ar02-level]: AR02 | | "Alfia, the Level 7 witch."
-[@ar03-family]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia; Bell; her self-blame; her hopes.
+[@ar03-family]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia; her nephew; her self-blame; her hopes.
+[@ar03-zeus]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | The blood of a child of Hera and of one of Zeus's; "My sister entrusted him to Zeus"; the child is not named.
 [@ar03-illness]: AR03 | Chapter 8: The Price of Talent | Her illness became a negative Skill.
 [@ar03-weakness]: AR03 | Chapter 8: The Price of Talent | Why she is only Level 7.
 [@ar03-reason]: AR03 | Chapter 5: Playing the Violence Card | Alfia on the Black Dragon.

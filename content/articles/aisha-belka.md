@@ -22,7 +22,7 @@
   }
 }
 ---
-**Aisha Belka** is an Amazon warrior titled *Antianeira*. A Level 3 of Ishtar Familia in DanMachi 7, she looked after [[haruhime|Haruhime]] when both lived in the Pleasure Quarter.[@fm07-aisha, fm14-haruhime] After [[ishtar|Ishtar]]'s fall she joins [[hermes-familia|Hermes Familia]] and reaches Level 4.[@fm09-level, fm10-hermes]
+**Aisha Belka** is an Amazon warrior titled *Antianeira*. A Level 3 of Ishtar Familia in DanMachi 7, she looked after [[haruhime|Haruhime]] when both lived in [[pleasure-quarter|the Pleasure Quarter]].[@fm07-aisha, fm14-haruhime] After [[ishtar|Ishtar]]'s fall she joins [[hermes-familia|Hermes Familia]] and reaches Level 4.[@fm09-level, fm10-hermes]
 
 ## Ishtar Familia
 
@@ -65,7 +65,7 @@ She converts and advances to Level 4; DanMachi 10 confirms her new Familia is He
 
 {{nocite}} **Notes and other printed variants**
 
-{{nocite}} The chant is several lines long, so  The novels print it in two different English translations; they are kept apart here and not merged.
+{{nocite}} The chant is several lines long. The novels print it in two different English translations; they are kept apart here and not merged.
 
 {{nocite}} **DanMachi 7 translation**
 

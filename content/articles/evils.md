@@ -22,7 +22,7 @@
   }
 }
 ---
-**The Evils** are the coalition of dark gods and their followers who openly attacked [[orario|Orario]]'s order after Zeus Familia and Hera Familia fell without completing the [[three-great-quests|Three Great Quests]].[@so09-darkage] In that dark age, [[astrea-familia|Astrea Familia]] fought them to keep law and order.[@fc01-darkage]
+**The Evils** are the coalition of dark gods and their followers who openly attacked [[orario|Orario]]'s order after [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] fell without completing the [[three-great-quests|Three Great Quests]].[@so09-darkage] In that dark age, [[astrea-familia|Astrea Familia]] fought them to keep law and order.[@fc01-darkage]
 
 ## The Great Conflict
 
@@ -30,11 +30,11 @@ In the [[great-conflict|Great Conflict]] the Evils are led by the god [[erebus|E
 
 ## The remnants
 
-Remnants of the Evils later hide in [[knossos|Knossos]], which serves as their base in Sword Oratoria.[@so07-base] Rudra Familia, which ambushed Astrea Familia with the [[juggernaut|Juggernaut]], was one of their allies; [[lyu-leon|Lyu]] destroyed it.[@fm13-ambush, fc01-rudra] Magic items they made in Knossos, whips and collars that let weaker tamers control monsters, are smuggled out by Jura in DanMachi 13.[@fm13-remnants]
+Remnants of the Evils later hide in [[knossos|Knossos]], which serves as their base in Sword Oratoria.[@so07-base] [[rudra-familia|Rudra Familia]], which ambushed Astrea Familia with the [[juggernaut|Juggernaut]], was one of their allies; [[lyu-leon|Lyu]] destroyed it.[@fm13-ambush, fc01-rudra] Magic items they made in Knossos, whips and collars that let weaker tamers control monsters, are smuggled out by [[rudra-familia#jura-harma|Jura]] in DanMachi 13.[@fm13-remnants]
 
 Sword Oratoria 12 reveals that the god [[dionysus|Dionysus]], under the name Enyo, brought the Evils and the corrupted spirit's forces together, aiming at Orario's destruction.[@so12-enyo]
 
-{{nocite}} Related magic: Valletta's [[magic#shaldo|Shaldo]] and the Dis sisters' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
+{{nocite}} Related magic: [[valletta|Valletta]]'s [[magic#shaldo|Shaldo]] and the Dis sisters' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
 
 ## Open questions
 

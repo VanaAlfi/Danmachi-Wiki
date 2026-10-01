@@ -22,7 +22,7 @@
   }
 }
 ---
-**Amid Teasanare** is a healer of Dian Cecht Familia, titled *Dea Saint*.[@fm18-amid] She and [[heith-velvet|Heith Velvet]] of [[freya-familia|Freya Familia]] are known as [[orario|Orario]]'s two great healers, the silver saint and the golden witch.[@ss01-healers, fm18-healers] She is considered the best healer in the city.[@fm14-best]
+**Amid Teasanare** is a healer of [[dian-cecht-familia|Dian Cecht Familia]], titled *Dea Saint*.[@fm18-amid] She and [[heith-velvet|Heith Velvet]] of [[freya-familia|Freya Familia]] are known as [[orario|Orario]]'s two great healers, the silver saint and the golden witch.[@ss01-healers, fm18-healers] She is considered the best healer in the city.[@fm14-best]
 
 In Minor Myths and Legends 2 she is nineteen, under 150 celch tall and Level 2.[@ss02-amid] In the same volume [[hyrute-sisters|Tiona]] spots her in a crowd by "a head of silver hair".[@ss02-hair]
 
@@ -36,7 +36,7 @@ Amid's healing covers a broad area, and she is thought to win over Heith in raw 
 |---|---|
 | Sword Oratoria 7 | Treats [[finn-deimne|Finn]] after [[levis|Levis]]'s curse, which prevents normal healing.[@so07-amid] |
 | Sword Oratoria 8 | The only healer shown able to lift a certain curse directly, she makes a limited anti-curse elixir from her own blood, which saves most of the afflicted Amazons.[@so08-amid, so08-elixir] |
-| Sword Oratoria 11 | Keeps the assault force going with Dia Frater, and turns its curse-removing effect alone on the cursed Barca Monster, which is afterwards found dead.[@so11-amid] |
+| Sword Oratoria 11 | Keeps the assault force going with Dia Frater, and turns its curse-removing effect alone on the cursed [[barca-perdix|Barca]] Monster, which is afterwards found dead.[@so11-amid] |
 | DanMachi 14 | Rebuilds [[bell-cranell|Bell]]'s badly damaged left arm after the [[juggernaut|Juggernaut]]; [[lyu-leon|Lyu]] notes it is still the same length.[@fm14-arm, fm14-best] |
 | DanMachi 15 | Scolds Bell for overworking the arm at a follow-up appointment.[@fm15-amid] |
 | DanMachi 18 | Watches the Familia War from Orario with Dian Cecht Familia's healers, who stay out of it.[@fm18-amid] |

@@ -49,7 +49,7 @@ DanMachi 1 places the Guild headquarters on West Main Street, while Sword Orator
 | Volume | Events |
 |---|---|
 | DanMachi 5 | Classes the Black [[goliath|Goliath]]'s appearance at a safe point as a "Calamity", an act of the gods, and penalises [[hestia|Hestia]] and [[hermes|Hermes]].[@fm05-calamity] |
-| DanMachi 14 | Accepts Bors's report that the Gale Wind died, and suppresses information about the [[juggernaut|Juggernaut]].[@fm14-report] |
+| DanMachi 14 | Accepts [[bors|Bors]]'s report that the Gale Wind died, and suppresses information about the [[juggernaut|Juggernaut]].[@fm14-report] |
 | DanMachi 18 | After the Familia War, orders [[freya|Freya]] banished, dissolves her Familia and takes [[folkvangr|Folkvangr]] under its management; Royman at first tries to protect her.[@fm18-dissolved] |
 | DanMachi 19 | Asks [[lyu-leon|Lyu]] not to register under her old name.[@fm19-name] |
 | DanMachi 20 | Royman signs the [[school-district|School District]]'s proposal to cooperate on the shaft project.[@fm20-shaft] |

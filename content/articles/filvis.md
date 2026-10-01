@@ -48,7 +48,12 @@ Her Status sheet at the end of Sword Oratoria 12 lists three [[skills|Skills]]: 
 
 - **User:** Filvis Challia; summoned by [[lefiya|Lefiya]][@dio-thyrsos.so03-cast, dio-thyrsos.so13-lefiya]
 - **Type:** Short-trigger lightning[@dio-thyrsos.so03-cast]
+- **Status entry:** Lightning element; single-target magic[@dio-thyrsos.so12-sheet]
 - **Chant:** One phrase[@dio-thyrsos.so03-cast, dio-thyrsos.so05-short]
+
+#### Status entry {#dio-thyrsos-status-entry}
+
+Filvis's illustrated Status sheet at the end of Sword Oratoria 12, printed after her true nature is revealed (Level 0; race "Creature (Elf)"), lists her three spells under Magic. It gives Dio Thyrsos two notes, lightning element and single-target magic; [[#dio-grail|Dio Grail]] is a barrier spell that obstructs physical and magical attacks, and [[#einsel|Einsel]] is cloning magic.[@dio-thyrsos.so12-sheet]
 
 #### Incantation {#dio-thyrsos-incantation}
 
@@ -71,6 +76,7 @@ In Sword Oratoria 3 Filvis starts the chant while cutting down two lizardmen, us
 
 - **User:** Filvis Challia; summoned by [[lefiya|Lefiya]][@dio-grail.so04-teach]
 - **Type:** Ultrashort barrier[@dio-grail.so04-teach]
+- **Status entry:** Barrier spell; obstructs physical and magical attacks[@dio-grail.so12-sheet]
 - **Protects:** Caster and companions, from physical and magical attacks[@dio-grail.so04-teach]
 - **Chant:** One phrase[@dio-grail.so04-teach]
 
@@ -97,6 +103,7 @@ Filvis teaches Lefiya its effects and its chant so that Lefiya can summon it wit
 
 - **User:** Filvis Challia[@einsel.so12-undo]
 - **Type:** Cloning: a second self[@einsel.so12-half]
+- **Status entry:** Cloning magic[@einsel.so12-sheet]
 - **Price:** Half her Status while active[@einsel.so12-half]
 - **Chant:** Only the undoing chant printed[@einsel.so12-undo]
 
@@ -141,3 +148,6 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@einsel.so12-undo]: SO12 | Chapter 6: The Divine Providence of Despair | The undoing chant; "Einsel."; the two become one.
 [@einsel.so12-half]: SO12 | Chapter 6: The Divine Providence of Despair | "While Einsel is active, my Status is halved"; a real second self.
 [@einsel.so12-bete]: SO12 | Chapter 7: Final War II | Einsel cancelled; six years on two battlefields; against Bete.
+[@dio-thyrsos.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0, "Creature (Elf)"): Dio Thyrsos, Dio Grail and Einsel under Magic.
+[@dio-grail.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Dio Grail, barrier spell; obstructs physical and magical attacks.
+[@einsel.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Einsel, cloning magic.

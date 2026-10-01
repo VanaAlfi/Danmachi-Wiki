@@ -33,7 +33,7 @@ In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at
 
 ## Using it
 
-In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer's back and traces precise patterns with his fingers, using it to loosen the lock and "pick" it open. A mass of hieroglyphs appears.[@so02-rivira] The Status still has to be read: Bors cannot read divine hieroglyphs, but Riveria and [[aiz-wallenstein|Aiz]] can, and identify the dead man as Hashana Dorlia, formerly of [[ganesha-familia|Ganesha Familia]].[@so02-read] The item therefore works on the dead.
+In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer's back and traces precise patterns with his fingers, using it to loosen the lock and "pick" it open. A mass of hieroglyphs appears.[@so02-rivira] The Status still has to be read: [[bors|Bors]] cannot read divine hieroglyphs, but Riveria and [[aiz-wallenstein|Aiz]] can, and identify the dead man as Hashana Dorlia, formerly of [[ganesha-familia|Ganesha Familia]].[@so02-read] The item therefore works on the dead.
 
 ### Descriptions of the item
 
@@ -45,12 +45,12 @@ In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer
 
 ## Countermeasures
 
-Criminals who fear identification destroy the evidence. In Sword Oratoria 3 Lulune threatens a captured Evils follower with the vial; he detonates Inferno Stones strapped to his chest, and his burned skin makes the Thief useless.[@so03-lulune] Sword Oratoria 5 explains that such men carry firestones rather than poison, because their Falna could otherwise still be read with a Status Thief.[@so05-fire]
+Criminals who fear identification destroy the evidence. In Sword Oratoria 3 [[lulune-louie|Lulune]] threatens a captured Evils follower with the vial; he detonates Inferno Stones strapped to his chest, and his burned skin makes the Thief useless.[@so03-lulune] Sword Oratoria 5 explains that such men carry firestones rather than poison, because their Falna could otherwise still be read with a Status Thief.[@so05-fire]
 
 ## Notable uses
 
 - **Rivira (Sword Oratoria 2).** Identifying the murdered Hashana.[@so02-rivira, so02-read]
-- **The casino (Familia Chronicle 1).** [[lyu-leon|Lyu]] holds up a vial to back her claim that the man calling himself Terry Cervantes is really Ted, a former bookie. She later slips the vial to Shakti of Ganesha Familia, and once the Status Thief has revealed his identity, Ted confesses everything during the Guild's questioning.[@fc01-ted, fc01-shakti, fc01-confession] The novel does not show who applied it.
+- **The casino (Familia Chronicle 1).** [[lyu-leon|Lyu]] holds up a vial to back her claim that the man calling himself Terry Cervantes is really Ted, a former bookie. She later slips the vial to [[shakti-varma|Shakti]] of Ganesha Familia, and once the Status Thief has revealed his identity, Ted confesses everything during the Guild's questioning.[@fc01-ted, fc01-shakti, fc01-confession] The novel does not show who applied it.
 - **Freya and Bell (DanMachi 17).** Bell still bears [[hestia|Hestia]]'s [[falna|Falna]]. [[freya|Freya]] uses Status Thief to unlock his Status, then Status Snitch to update it, then her own ichor so that her mark stays on his back for a time.[@fm17-snitch] Earlier in the volume Hestia sees his Status exposed and guesses that "a Status Thief or something of the like" has removed her lock.[@fm17-hestia]
 
 ## Status Snitch

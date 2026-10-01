@@ -21,7 +21,7 @@
   }
 }
 ---
-**The Three Great Quests** are the quests to slay three monsters that escaped [[dungeon|the Dungeon]] in ancient times: the Behemoth, the Leviathan and the Black Dragon.[@fm06-quests] Zeus Familia and Hera Familia killed the Behemoth and the Leviathan, but the Black Dragon defeated them. It is the last of the three.[@fm06-quests, so09-quests]
+**The Three Great Quests** are the quests to slay three monsters that escaped [[dungeon|the Dungeon]] in ancient times: the Behemoth, the Leviathan and the Black Dragon.[@fm06-quests] [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] killed the Behemoth and the Leviathan, but the Black Dragon defeated them. It is the last of the three.[@fm06-quests, so09-quests]
 
 ## Zeus and Hera
 

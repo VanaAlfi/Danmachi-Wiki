@@ -38,7 +38,7 @@ In DanMachi 6 Zanis demands at least ten million valis for her release and later
 
 In DanMachi 4 [[welf-crozzo|Welf]] joins Bell and Lilly, making a three-person party.[@fm04-cell] In the War Game against Apollo Familia she uses [[#cinder-ella|Cinder Ella]] to pass as the enemy's Luan for four days and opens the castle's west gate.[@fm06-luan] In DanMachi 8 she turns down a marriage proposal from [[finn-deimne|Finn]] of [[loki-familia|Loki Familia]].[@fm08-card] She at first argues that sheltering the [[xenos|Xenos]] girl [[wiene|Wiene]] endangers the Familia, then uses Cinder Ella to rescue Wiene from a mob.[@fm09-wiene]
 
-In DanMachi 12 she trains as an expedition commander under Daphne.[@fm12-commander] In DanMachi 15 she reaches Level 2 and chooses the Development Ability Resistance.[@fm15-card, fm15-resistance] Disguised as an elf, she buys flowers from the couple who once turned her away; they express regret, and she leaves without revealing herself.[@fm15-flowers]
+In DanMachi 12 she trains as an expedition commander under [[daphne|Daphne]].[@fm12-commander] In DanMachi 15 she reaches Level 2 and chooses the Development Ability Resistance.[@fm15-card, fm15-resistance] Disguised as an elf, she buys flowers from the couple who once turned her away; they express regret, and she leaves without revealing herself.[@fm15-flowers]
 
 In the Familia War of DanMachi 18 she commands the coalition and uses Cinder Ella to break the Bringar's coordination.[@fm18-command] In DanMachi 20 the gods give her the title *Little Marshal*.[@fm20-marshal] In Sword Oratoria 12, disguised as Finn, she takes command of two of Loki Familia's fronts.[@so12-fronts, so12-command]
 

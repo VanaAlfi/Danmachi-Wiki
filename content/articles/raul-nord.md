@@ -29,7 +29,7 @@
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 7 | When [[finn-deimne|Finn]] is struck down he catches him, takes over field command, and with Anakity turns a pass parade against the enemy; Finn praises him as a fine adventurer.[@so07-raul] |
+| Sword Oratoria 7 | When [[finn-deimne|Finn]] is struck down he catches him, takes over field command, and with [[anakity-autumn|Anakity]] turns a pass parade against the enemy; Finn praises him as a fine adventurer.[@so07-raul] |
 | DanMachi 11 | Is at Loki Familia's headquarters during the [[daedalus-street|Daedalus Street]] operation.[@fm11-raul] |
 | Sword Oratoria 10 | Is fooled by [[lilliluka-erde|Lilly]] disguised as Finn, then serves as Finn's aide.[@so10-raul] |
 | Sword Oratoria 12 | Leads the reserve that rescues the hostages, discovers the demi-spirit Nidhogg, commands the defence of [[bell-cranell|Bell]]'s charge and sees his decisive attack.[@so12-raul, so12-hostages] |

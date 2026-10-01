@@ -62,7 +62,7 @@ Higher Levels also slow aging, more so with each Level, but they do not make mor
 
 ## Highest Levels
 
-In the present of Sword Oratoria 14, Level 7 is the highest rank any living adventurer holds.[@so14-highest] By DanMachi 20 the Level 7s named are Ottar, Finn, Riveria, Gareth and Leon of the [[school-district|School District]].[@fm20-sevens] Ottar is described in DanMachi 18 as a Level 7 on the cusp of Level 8.[@fm18-ottar] Before their fall, Zeus Familia and Hera Familia had a Level 8 and a Level 9.[@so13-past]
+In the present of Sword Oratoria 14, Level 7 is the highest rank any living adventurer holds.[@so14-highest] By DanMachi 20 the Level 7s named are Ottar, Finn, Riveria, Gareth and Leon of the [[school-district|School District]].[@fm20-sevens] Ottar is described in DanMachi 18 as a Level 7 on the cusp of Level 8.[@fm18-ottar] Before their fall, [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] had a Level 8 and a Level 9.[@so13-past]
 
 A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozuchi]], is separate from a real Level.[@fm18-boost]
 

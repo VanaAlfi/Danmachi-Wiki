@@ -24,7 +24,7 @@
   }
 }
 ---
-**Zald** is a former Level 7 of Zeus Familia, titled *Glutton*.[@ar01-zald, ar03-glutton] In the [[great-conflict|Great Conflict]] he joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[alfia|Alfia]] of Hera Familia, and he dies in a final duel with [[ottar|Ottar]].[@ar01-zald, ar03-ottar]
+**Zald** is a former Level 7 of [[zeus-and-hera-familias|Zeus Familia]], titled *Glutton*.[@ar01-zald, ar03-glutton] In the [[great-conflict|Great Conflict]] he joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[alfia|Alfia]] of Hera Familia, and he dies in a final duel with [[ottar|Ottar]].[@ar01-zald, ar03-ottar]
 
 ## The Behemoth
 

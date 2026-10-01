@@ -31,7 +31,7 @@
 
 ## Background
 
-Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god Zeus, who faked his death and went into hiding; Bell does not learn this.[@fm05-death, fm05-zeus] Astrea Record 3 tells the reader that Bell's mother was Metelia of Hera Familia, the twin sister of [[alfia|Alfia]], and that his father was an unnamed supporter in Zeus Familia.[@ar03-parents] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
+Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god Zeus, who faked his death and went into hiding; Bell does not learn this.[@fm05-death, fm05-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of Hera, entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-parents, fm05-zeus] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
 
 Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.[@fm15-rejections]
 
@@ -111,7 +111,7 @@ Against a strong opponent its speed is not enough. In DanMachi 3 its hits cannot
 
 #### Cost and Mind Down {#firebolt-cost-and-mind-down}
 
-Each cast uses Mind (mental energy). On his first day with the spell Bell fires it over and over, and he collapses on the fifth floor. Nahza later tells him this was *Mind Down*, common among adventurers who have just learned magic, and sells him a Mind-restoring potion.[@firebolt.fm02-collapse, firebolt.fm02-minddown] The Mind cost of a single shot is not given.
+Each cast uses Mind (mental energy). On his first day with the spell Bell fires it over and over, and he collapses on the fifth floor. [[miach-familia#nahza-ersuisu|Nahza]] later tells him this was *Mind Down*, common among adventurers who have just learned magic, and sells him a Mind-restoring potion.[@firebolt.fm02-collapse, firebolt.fm02-minddown] The Mind cost of a single shot is not given.
 
 #### Charged Firebolt {#firebolt-charged-firebolt}
 
@@ -192,7 +192,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm19-rapi]: FM19 | | The Rapi Flemish cover.
 [@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper.
 [@fm20-parents]: FM20 | Epilogue: Beautiful World | Bell never knew his parents.
-[@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father.
+[@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father; "My sister entrusted him to Zeus"; the child is not named.
 [@firebolt.fm02-card]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Status card: Firebolt, Swift-Strike Magic; no incantation shown.
 [@firebolt.fm02-trigger]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Hestia: the name alone may trigger it.
 [@firebolt.fm02-first]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | First cast; "electric flames"; conjured in an instant.

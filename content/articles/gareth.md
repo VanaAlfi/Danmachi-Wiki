@@ -7,8 +7,8 @@
   "continuity": "light-novel",
   "summary": "Dwarf warrior of Loki Familia, titled Elgarm, known for plowing through enemies and absorbing any attack. Level 7 from Sword Oratoria 14.",
   "aliases": ["Elgarm", "Gareth", "Galess Landrock"],
-  "spoilers": "DanMachi Vols. 5–10, Sword Oratoria Vols. 4–14 and Astrea Record Vols. 2–3",
-  "related": ["loki-familia", "finn-deimne", "riveria", "aiz-wallenstein", "knossos"],
+  "spoilers": "DanMachi Vols. 5 and 8, Sword Oratoria Vols. 4–14 and Astrea Record Vols. 2 and 3",
+  "related": ["loki-familia", "finn-deimne", "riveria", "aiz-wallenstein", "knossos", "magic"],
   "infobox": {
     "title": "Gareth Landrock",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -20,6 +20,7 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-gareth"]},
       {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-gareth", "so14-sevens"]},
       {"label": "Title", "value": "Elgarm", "refs": ["so04-elgarm"]},
+      {"label": "Magic", "value": "[[#earth-raid|Earth Raid]]", "refs": ["earth-raid.so07-sheet"]},
       {"label": "Skills", "value": "[[skills#gareth-skills|Dvergr Enhance, Ardigalea]]", "refs": ["skills.so07-sheet"]}
     ]
   }
@@ -45,6 +46,32 @@ Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and
 
 His Status sheet in Sword Oratoria 7, at Level 6, lists two Skills: Dvergr Enhance, which raises his Strength, and Ardigalea, which raises his Endurance and his resistance to attack magic. See [[skills#gareth-skills|Skills § Gareth Landrock's Skills]].[@skills.so07-sheet]
 
+## Magic {#magic}
+
+{{nocite}} Gareth Landrock's spell, as listed on his Status sheet. The combined [[magic|Magic]] page describes every spell on this wiki together.
+
+### Earth Raid {#earth-raid}
+
+**Earth Raid** is the only spell of Gareth Landrock, listed under Magic on his illustrated Status sheet in Sword Oratoria 7. It was not found named in the story text of the covered English volumes; what is known of it comes from the sheet.[@earth-raid.so07-sheet]
+
+- **User:** Gareth Landrock, his only magic[@earth-raid.so07-sheet]
+- **Status entry:** Earth-destructive magic[@earth-raid.so07-sheet]
+- **Power:** Follows his Strength[@earth-raid.so07-sheet]
+- **Limit:** Only while on the ground[@earth-raid.so07-sheet]
+- **Chant:** Not printed[@earth-raid.so07-sheet]
+
+#### Status entry {#earth-raid-status-entry}
+
+The Level 6 sheet gives it three notes:[@earth-raid.so07-sheet]
+
+- It is earth-destructive magic.[@earth-raid.so07-sheet]
+- Its power directly correlates to his Strength.[@earth-raid.so07-sheet]
+- It can be cast only while he is on the ground.[@earth-raid.so07-sheet]
+
+His Level 1 sheet in Sword Oratoria 14 has no Magic entry; it lists only the Skill Dvergr Enhance.[@earth-raid.so14-sheet]
+
+{{nocite}} Notable uses and open questions for Earth Raid are on the combined page: [[magic#earth-raid|Magic § Earth Raid]].
+
 ## Name
 
 DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
@@ -67,3 +94,5 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
 [@ar02-loki]: AR02 | Epilogue: All You Need Is Justice | Riveria and Gareth in the Great Conflict.
 [@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne regenerates.
 [@ar03-behemoth]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
+[@earth-raid.so07-sheet]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Magic Earth Raid.
+[@earth-raid.so14-sheet]: SO14 | | Illustrated Status sheet, p. 184 (Level 1): no Magic entry; Skill Dvergr Enhance.

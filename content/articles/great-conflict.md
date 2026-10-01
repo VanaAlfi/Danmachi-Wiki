@@ -30,7 +30,7 @@ On the first night the allied Familias suffer a crushing defeat: more Familias a
 
 ## Erebus, Zald and Alfia
 
-The god [[erebus|Erebus]] leads the Evils, joined by [[zald|Zald]] and [[alfia|Alfia]], survivors of Zeus Familia and Hera Familia. In Astrea Record 3 [[astrea|Astrea]] confronts him with his true aim: to lead the darkness and put Orario through a trial that would produce a future hero.[@ar03-erebus] Alfia explains their reasoning: Zeus and Hera had slain the Behemoth and the Leviathan but were powerless against the Black Dragon, and a hero able to overcome it must be forged at any cost.[@ar03-alfia]
+The god [[erebus|Erebus]] leads the Evils, joined by [[zald|Zald]] and [[alfia|Alfia]], survivors of [[zeus-and-hera-familias|Zeus Familia and Hera Familia]]. In Astrea Record 3 [[astrea|Astrea]] confronts him with his true aim: to lead the darkness and put Orario through a trial that would produce a future hero.[@ar03-erebus] Alfia explains their reasoning: Zeus and Hera had slain the Behemoth and the Leviathan but were powerless against the Black Dragon, and a hero able to overcome it must be forged at any cost.[@ar03-alfia]
 
 ## How it ends
 

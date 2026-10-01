@@ -53,7 +53,7 @@ In DanMachi 5 she goes down to [[floor-18|Floor 18]] with [[hermes|Hermes]]'s re
 
 ### DanMachi 13–15
 
-In DanMachi 13 a member of Rudra Familia frames her for a murder in Rivira, and the Juggernaut that destroyed Astrea Familia returns.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] Bors, the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15 she tries to confess her feelings to Bell but does not finish.[@fm15-confess]
+In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder in Rivira, and the Juggernaut that destroyed Astrea Familia returns.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15 she tries to confess her feelings to Bell but does not finish.[@fm15-confess]
 
 ### DanMachi 16–18
 
@@ -88,6 +88,8 @@ Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Famili
 #### Status entry {#luminous-wind-status-entry}
 
 Lyu's Level 5 and Level 6 cards in Familia Chronicle 3 list Luminous Wind under Magic, with two notes: wide area of effect, and wind and light element. Her second spell, [[#noa-heal|Noa Heal]], is listed beside it.[@luminous-wind.fc03-card] When she gains the Development Ability Magic Control at Level 5, she notes that it strengthens Luminous Wind.[@luminous-wind.fc03-card]
+
+Her illustrated Status sheets give the same two notes earlier: at Level 3 in Astrea Record 1 (a wide-range attack spell; wind and light element) and at Level 4 in DanMachi 13 (wide-range attack magic; wind and light attributes).[@luminous-wind.ar01-sheet, luminous-wind.fm13-sheet] Her Level 4 sheet in Familia Chronicle 1 lists no spell: under a box labelled Magic it prints her three Skills.[@luminous-wind.fc01-sheet]
 
 #### Incantation {#luminous-wind-incantation}
 
@@ -141,11 +143,11 @@ Magic usually needs the caster to stand still and concentrate, and a slip can ca
 
 ### Noa Heal {#noa-heal}
 
-**Noa Heal** is the healing spell of Lyu Leon. It heals wounds and other damage and restores stamina, but slowly: unlike a potion it does not work at once.[@noa-heal.fm13-neck, noa-heal.fm18-slow] It affects one person at a time.[@noa-heal.fm18-single]
+**Noa Heal** is the healing spell of Lyu Leon. It heals wounds and other damage and restores stamina, but slowly: unlike a potion it does not work at once.[@noa-heal.fm13-neck, noa-heal.fm18-slow] DanMachi 18 says it affects one person at a time; Lyu's Astrea Record 1 Status sheet says it affects all targets in an area.[@noa-heal.fm18-single, noa-heal.ar01-sheet]
 
 - **User:** Lyu Leon[@noa-heal.so05-heal, noa-heal.fc03-card]
 - **Status entry:** Healing magic; boosted in wooded environments[@noa-heal.fc03-card]
-- **Target:** One person[@noa-heal.fm18-single]
+- **Target:** One person (DanMachi 18); all targets in an area (Astrea Record 1 sheet)[@noa-heal.fm18-single, noa-heal.ar01-sheet]
 - **Printed as:** Noah Heal (Sword Oratoria 5); Noa Heal (DanMachi 13 onward, Familia Chronicle 3)[@noa-heal.so05-heal, noa-heal.fm13-neck, noa-heal.fc03-card]
 
 #### Name {#noa-heal-name}
@@ -155,6 +157,8 @@ Sword Oratoria 5, the first volume to show it, prints *Noah Heal*. DanMachi 13 o
 #### Status entry {#noa-heal-status-entry}
 
 Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with an environmental effect: its effect is boosted in wooded environments.[@noa-heal.fc03-card]
+
+Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it a recovery spell that affects all targets in an area, its power increased in forested areas; the DanMachi 13 sheet (Level 4) calls it healing magic affected by the surrounding environment, its effects boosted in forested areas.[@noa-heal.ar01-sheet, noa-heal.fm13-sheet] The area wording conflicts with DanMachi 18, where it affects one person at a time; this wiki records both.[@noa-heal.ar01-sheet, noa-heal.fm18-single]
 
 #### Incantation {#noa-heal-incantation}
 
@@ -253,6 +257,7 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 
 - **User:** Alize Lovell; Lyu Leon through Astrea Record[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu]
 - **Type:** Fire enchantment[@agris-arvensis.fm14-alize, agris-arvensis.ar03-alize]
+- **Status entry:** Enchantment; fire attribute; chant "Alga"[@agris-arvensis.ar03-sheet]
 - **Spell key:** "Arvellia" / "Alveria"[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni]
 
 #### Name and spell key {#agris-arvensis-name-and-spell-key}
@@ -268,7 +273,9 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 - **Spell key:** DanMachi 14 calls Alize's "Arvellia!!" "the spell key for her enchantment". Lyu's shout in DanMachi 18 is printed "Alveria!", and the narration later speaks of "Alize's Alveria".[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar]
 - **Title:** Astrea Record and DanMachi 14 print Alize's title *Scarlett Harnell*; DanMachi 18 prints *Scarlet Harnell*.[@agris-arvensis.ar03-alize, agris-arvensis.fm14-alize, agris-arvensis.fm18-lyu]
 
-No chant for the enchantment itself is printed. Lyu names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
+Alize's illustrated Status sheet in Astrea Record 3 (Level 4) lists the spell as *Agallis Arvesynce*, an enchantment with fire attribute, and gives its chant as a single word: "Alga".[@agris-arvensis.ar03-sheet] Earlier in the same volume the narration calls her shout of the spell's name "Alize’s chant".[@agris-arvensis.ar03-alize] In the final battle with [[alfia|Alfia]] the text prints the word three times, "Alga! Alga! Alga!!", and each time she speaks it more of her energy is drawn into her magic and the fires around her grow.[@agris-arvensis.ar03-alga]
+
+The next line printed is "Alvarna!", with no speaker named. {{inference}} It may be Alize's spell key, printed in a third form beside "Arvellia" and "Alveria".[@agris-arvensis.ar03-alga] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
 
 #### Effect {#agris-arvensis-effect}
 
@@ -355,3 +362,10 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@agris-arvensis.fm18-hegni]: FM18 | Chapter 9: Flower Language for You | Lyu's control less precise than Alize's; "Alveria!" defeats Hegni.
 [@agris-arvensis.fm18-ottar]: FM18 | Chapter 9: Flower Language for You | "Agaris Alvesince!" against Ottar; "Alize’s Alveria".
 [@agris-arvensis.fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | Flame armour on hands, feet and weapon.
+[@luminous-wind.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Luminous Wind, wide-range attack spell, wind and light element.
+[@luminous-wind.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Luminous Wind, wide-range attack magic, wind and light attributes.
+[@luminous-wind.fc01-sheet]: FC01 | | Illustrated Status sheet, p. 206 (Level 4): no spell; her three Skills under a box labelled Magic.
+[@noa-heal.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Noa Heal, recovery spell; all targets in an area; stronger in forested areas.
+[@noa-heal.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Noa Heal, healing magic; affected by the environment; boosted in forested areas.
+[@agris-arvensis.ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Agallis Arvesynce, enchantment, fire attribute, chant "Alga".
+[@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".

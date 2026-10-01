@@ -28,17 +28,17 @@
 
 ## Structure
 
-Its doors open only with keys that use the magic of a *D*-marked eye, an eye inherited in the Daedalus bloodline.[@fm10-knossos, so11-eye] DanMachi 10 reveals an entrance on [[floor-18|Floor 18]], and Sword Oratoria 9 confirms that it reaches that far.[@fm10-reach, so09-floor18] Dix says construction reaches the middle levels and only about 30 percent of the planned design is finished.[@fm10-dix] In Sword Oratoria 11 the Evils' base is on the ninth underground level and the main demi-spirit chamber on the tenth, with a connection to the Dungeon's Floor 12.[@so11-levels]
+Its doors open only with keys that use the magic of a *D*-marked eye, an eye inherited in the Daedalus bloodline.[@fm10-knossos, so11-eye] DanMachi 10 reveals an entrance on [[floor-18|Floor 18]], and Sword Oratoria 9 confirms that it reaches that far.[@fm10-reach, so09-floor18] [[ikelos-familia#dix-perdix|Dix]] says construction reaches the middle levels and only about 30 percent of the planned design is finished.[@fm10-dix] In Sword Oratoria 11 the Evils' base is on the ninth underground level and the main demi-spirit chamber on the tenth, with a connection to the Dungeon's Floor 12.[@so11-levels]
 
 ## The Daedalus line
 
-The descendants of Daedalus inherit the marked eye, his notebook and a duty to keep building, passed on from infancy over nearly a millennium. Dix describes this as a compulsion, and Sword Oratoria 11's history of Barca supports his account.[@fm10-knossos, so11-eye]
+The descendants of Daedalus inherit the marked eye, his notebook and a duty to keep building, passed on from infancy over nearly a millennium. Dix describes this as a compulsion, and Sword Oratoria 11's history of [[barca-perdix|Barca]] supports his account.[@fm10-knossos, so11-eye]
 
 ## History
 
 | Volume | Events |
 |---|---|
-| DanMachi 10 | Ikelos Familia's hunters use Knossos to hold and smuggle captured [[xenos|Xenos]]; its Floor 18 entrance is revealed.[@fm10-knossos, fm11-smuggling] |
+| DanMachi 10 | [[ikelos-familia|Ikelos Familia]]'s hunters use Knossos to hold and smuggle captured [[xenos|Xenos]]; its Floor 18 entrance is revealed.[@fm10-knossos, fm11-smuggling] |
 | Sword Oratoria 7 | [[loki-familia|Loki Familia]]'s first attempt to enter ends in what Loki counts as a defeat.[@so07-defeat] |
 | Sword Oratoria 10 | [[riveria|Riveria]]'s raid secures two Orbs and part of the map.[@so10-raid] |
 | DanMachi 11 | The Xenos escape through Knossos after the fighting in Daedalus Street.[@fm11-escape] |

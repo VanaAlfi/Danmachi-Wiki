@@ -84,7 +84,7 @@ The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#doubl
 
 - A Skill can appear at an ordinary Status update. Liaris Freese appears at Bell's first update after the Minotaur rescue.[@liaris-freese.fm01-skill]
 - Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Cannon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
-- The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; Daphne says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
+- The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
 - Some Skills come with the blood. Every Crozzo who received a blessing gained the family's magic-sword Skill, and the Gojouno line of the Far East passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
 - Among beast people, only a few races can transform. Once they receive a [[falna|Falna]], their transformation is tied to their Skills, usually with a condition to meet or a risk attached; werewolves transform under the full moon.[@fm18-beast, so08-moon]
 
@@ -166,7 +166,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#stultus-ottar|Stultus Ottar]] | Ottar | Battle boost | Heal and Spirit Heal in battle; all abilities enhanced[@sheet.fc02-ottar] |
 | [[#laurel-wreath|Laurel Wreath]] | Daphne Laulos | Endurance | Higher endurance when exhausted or near death; skin turns to bark[@laurel-wreath.fm18-daphne] |
 | [[#helios-passion|Helios Passion]] | Daphne Laulos | Lends a Development Ability | Slightly more agility; Escape while chased[@sheet.fm14-daphne] |
-| [[#five-dimension-troia|Five-Dimension Troia]] | Cassandra Illion | Unknown | Indecipherable[@sheet.fm14-cassandra] |
+| [[#five-dimension-troia|Five-Dimension Troia]] | [[cassandra|Cassandra Illion]] | Unknown | Indecipherable[@sheet.fm14-cassandra] |
 | [[#filvis-skills|Fairy Senior]] | Filvis Challia | Magic support | Stronger magic, growing with her grief[@sheet.so12-filvis] |
 | [[#filvis-skills|Monstrum Union]] | Filvis Challia | Hybrid | Status buff; anima erosion[@sheet.so12-filvis] |
 | [[#filvis-skills|Dark Light]] | Filvis Challia | Magic change | Changes the wavelength of her magic; adds a recovery-rejecting enchantment[@sheet.so12-filvis] |
@@ -364,7 +364,7 @@ Their range depends on her Status and condition: about thirty meders at full str
 
 | Volume | Use |
 |---|---|
-| DanMachi 7 | White Crow leads her through the Pleasure Quarter in search of Bell; she had already used it to follow him during the ambush.[@yatano.fm07-reveal] |
+| DanMachi 7 | White Crow leads her through [[pleasure-quarter|the Pleasure Quarter]] in search of Bell; she had already used it to follow him during the ambush.[@yatano.fm07-reveal] |
 | DanMachi 9 | Black Crow keeps the party safe from ambushes on the twentieth floor.[@yatano.fm09-guard] |
 | DanMachi 12 | It makes her the natural scout on the water floors.[@yatano.fm12-scout] |
 | DanMachi 13 | Black Crow tracks the lambton after it burrows underground.[@yatano.fm13-lambton] |
@@ -671,7 +671,7 @@ Dharmas Algo works much like Lyu's later [[#astrae-varmas|Astrae Varmas]], a pas
 | **Dvergr Gauntlet** | Greatly boosts his Strength and increases the power of smashing attacks.[@sheet.fm20-leon] |
 | **Dvergr Rebellion** | Greatly boosts his Defense; the stronger his anger, the more it increases his Strength and Agility boosts and weakens his Defense, Dexterity and Magic.[@sheet.fm20-leon] |
 
-The same sheet lists his spell Blaze of the Round, whose later trials lend or boost Development Abilities; see [[development-ability#lent-abilities|Development Abilities]].[@sheet.fm20-leon]
+The same sheet lists his spell [[magic#blaze-of-the-round|Blaze of the Round]], whose later trials lend or boost Development Abilities; see [[development-ability#lent-abilities|Development Abilities]].[@sheet.fm20-leon]
 
 ### Deus Ambrosia {#deus-ambrosia}
 

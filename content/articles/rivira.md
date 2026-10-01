@@ -30,7 +30,7 @@
 
 Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's emblem for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
 
-Its strongest resident is Bors, a one-eyed adventurer who owns the Rivira Exchange.[@fm05-bors] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
+Its strongest resident is [[bors|Bors]], a one-eyed adventurer who owns the Rivira Exchange.[@fm05-bors] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
 
 ## Count {#count}
 
@@ -42,9 +42,9 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 |---|---|
 | DanMachi 5 | Bors rallies the town's adventurers against the Black [[goliath|Goliath]].[@fm05-bors] |
 | DanMachi 8 | Rivira organises the extermination of the floor's Goliath.[@fm08-goliath] |
-| DanMachi 10 | The [[xenos|Xenos]] destroy the 334th Rivira while hunting Ikelos Familia.[@fm10-rivira] |
+| DanMachi 10 | The [[xenos|Xenos]] destroy the 334th Rivira while hunting [[ikelos-familia|Ikelos Familia]].[@fm10-rivira] |
 | DanMachi 13 | An injured adventurer is murdered in a way that frames [[lyu-leon|Lyu]], the Gale Wind, and a hunting party sets out from Rivira after her.[@fm13-framed] |
-| DanMachi 14 | Bors, the sole survivor of the hunting party, publicly clears the Gale Wind, blames Rudra Familia, and reports that she died protecting them.[@fm14-bors] |
+| DanMachi 14 | Bors, the sole survivor of the hunting party, publicly clears the Gale Wind, blames [[rudra-familia|Rudra Familia]], and reports that she died protecting them.[@fm14-bors] |
 | DanMachi 17 | Freya's charm cannot reach inside the Dungeon, so she summons Rivira's residents to the surface to charm them.[@fm17-charm] |
 | DanMachi 19 | When Lyu reappears, the people of Rivira play along with the story that the Gale Wind is dead.[@fm19-rivira] |
 

@@ -30,7 +30,7 @@
 
 Runoa was born in a territory of an empire far from Orario and lost her parents as a small child in the war that brought her country under the empire. She grew up on the streets, and joined a Familia as soon as she learned about the [[falna|Falna]].[@fc01-past] Her first Familia fell apart through infighting; its god treated coups and revolutions as a game.[@fc01-past]
 
-After her first god left the Lower World she travelled from place to place hunting bounties, joining Familias provisionally to have her Status updated. She had converted three times before coming to Orario, where Demeter agreed to update her Status; Demeter Familia counts as her fifth membership, but she was never an ordinary member.[@fc01-wander, fc01-demeter] The name *Black Fist* comes from the blood that stained her fists, not from her gauntlets.[@fc01-fist]
+After her first god left the Lower World she travelled from place to place hunting bounties, joining Familias provisionally to have her Status updated. She had converted three times before coming to Orario, where [[demeter|Demeter]] agreed to update her Status; Demeter Familia counts as her fifth membership, but she was never an ordinary member.[@fc01-wander, fc01-demeter] The name *Black Fist* comes from the blood that stained her fists, not from her gauntlets.[@fc01-fist]
 
 By the time of Familia Chronicle 1's tavern story, set before the main series, Runoa is seventeen.[@fc01-age] She has grown tired of the work: Orario's adventurers are much stronger than those elsewhere, her success only brings harder jobs, and she daydreams about settling down with someone to look after her.[@fc01-age] That age belongs to that story; the covered novels do not give her age in the main series.
 

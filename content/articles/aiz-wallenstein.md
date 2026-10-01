@@ -55,9 +55,14 @@ At Level 6 she gains the Development Ability Regen, which probably became availa
 
 - **User:** Aiz Wallenstein[@airiel.so01-airiel]
 - **Type:** Wind enchantment[@airiel.so01-airiel, airiel.fm10-airiel]
+- **Status entry:** Enchantment; wind element; chant "Awaken, Tempest"[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet]
 - **First cast:** At age seven, on Floor 12 (Sword Oratoria 9 recollection)[@airiel.so09-first]
 - **Chant:** Awaken, Tempest (short)[@airiel.so01-airiel]
 - **Stronger form:** Rage, Tempest[@airiel.so02-rage, airiel.so07-rage]
+
+#### Status entry {#airiel-status-entry}
+
+Aiz's three illustrated Status sheets list Airiel as her only magic, each time with the same three notes: an enchantment, wind element, and the chant "Awaken, Tempest". Her Level 5 sheet in Sword Oratoria 1 calls it a "Magical Endowment (Enchantment)"; her Level 1 sheet in Sword Oratoria 9 and her Level 6 sheet in Sword Oratoria 10 say only "Enchantment".[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet] The Sword Oratoria 10 sheet lists her Skill [[skills#avenger|Avenger]] separately; the two earlier sheets show her Skills only as "???".[@airiel.so10-sheet, airiel.so01-sheet, airiel.so09-sheet]
 
 #### Incantation {#airiel-incantation}
 
@@ -170,3 +175,6 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 [@airiel.so12-avenger]: SO12 | Chapter 5: Final War | "Tempest" / "Avenger"; the forbidden chant.
 [@airiel.so12-white]: SO12 | Chapter 8: A Heroes’ Chorus | White wind; "Tempest!".
 [@airiel.fm10-airiel]: FM10 | Chapter 10: The Fool | "Awaken, Tempest."; wind enchantment for weapon and body.
+[@airiel.so01-sheet]: SO01 | | Illustrated Status sheet, p. 226 (Level 5): Airiel, "Magical Endowment (Enchantment)", wind element, chant "Awaken, Tempest"; Skills "???".
+[@airiel.so09-sheet]: SO09 | | Illustrated Status sheet, p. 210 (Level 1): Airiel, enchantment, wind element, chant "Awaken, Tempest"; Skills "???".
+[@airiel.so10-sheet]: SO10 | | Illustrated Status sheet, p. 300 (Level 6): Airiel, enchantment, wind element, chant "Awaken, Tempest"; Skill Avenger.

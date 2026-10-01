@@ -21,7 +21,7 @@
       {"label": "Position", "value": "Captain and field general", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-finn", "so14-sevens"]},
       {"label": "Title", "value": "Braver", "refs": ["so03-titles"]},
-      {"label": "Magic", "value": "[[#hell-finegas|Hell Finegas]]", "refs": ["so14-finn"]},
+      {"label": "Magic", "value": "[[#hell-finegas|Hell Finegas]], [[#tir-na-nog|Tir na Nog]]", "refs": ["so14-finn", "tir-na-nog.so08-sheet"]},
       {"label": "Skills", "value": "[[skills#finn-skills|Prum Spirit, Noble Brave, Dia Phiana, Command Howl, Ail mac Midna]]", "refs": ["skills.so08-sheet"]}
     ]
   }
@@ -63,9 +63,14 @@ His Status sheet in Sword Oratoria 8, at Level 6, lists five Skills: Prum Spirit
 
 - **User:** Finn Deimne[@hell-finegas.so04-cast, hell-finegas.so14-village]
 - **Type:** Mind-altering enchantment[@hell-finegas.ar03-valletta]
+- **Status entry:** Enhancement magic; greatly enhances all abilities; bloodlust lowers rational judgment[@hell-finegas.so08-sheet, hell-finegas.so14-sheet]
 - **Effect:** Large boost to all abilities; lust for battle[@hell-finegas.so04-cast, hell-finegas.so14-village]
 - **Drawback:** Loss of judgment; he cannot give orders[@hell-finegas.so04-cast, hell-finegas.so07-choice]
 - **Chant:** Ultrashort (quoted in full below)[@hell-finegas.so04-cast]
+
+#### Status entry {#hell-finegas-status-entry}
+
+Finn's illustrated Status sheets list Hell Finegas under Magic with three notes: enhancement magic; it greatly enhances all abilities; and the increase in bloodlust (on the Level 1 sheet, "battle lust") leads to a decrease in rational judgment. The sheets call it enhancement magic, where Astrea Record 3's narration calls it a mind-altering enchantment.[@hell-finegas.so08-sheet, hell-finegas.so14-sheet, hell-finegas.ar03-valletta] His Level 6 sheet in Sword Oratoria 8 lists a second spell, [[#tir-na-nog|Tir na Nog]]; his Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas.[@hell-finegas.so08-sheet, hell-finegas.so14-sheet]
 
 #### Incantation {#hell-finegas-incantation}
 
@@ -89,13 +94,34 @@ Because Finn is his Familia's commander, the loss of judgment weighs heavily on 
 - In Sword Oratoria 7 he thinks it is "Hell Finegas or nothing", but hesitates because he would become a warrior "incapable of issuing orders".[@hell-finegas.so07-choice]
 - In Sword Oratoria 12 he rejects it outright: if he turned berserker, the squads on every battlefield would lose their commander.[@hell-finegas.so12-refuse]
 - In Sword Oratoria 14's founding-era story he rules it out when the terrain demands a clear mind.[@hell-finegas.so14-terrain]
-- In Astrea Record 3 Valletta taunts him that it makes him a berserker incapable of rational thought and vulnerable to traps.[@hell-finegas.ar03-valletta]
+- In Astrea Record 3 [[valletta|Valletta]] taunts him that it makes him a berserker incapable of rational thought and vulnerable to traps.[@hell-finegas.ar03-valletta]
 
 #### Not the same as Berserk {#hell-finegas-not-the-same-as-berserk}
 
 Sword Oratoria 7 calls Hell Finegas Finn's "Berserker spell".[@hell-finegas.so07-choice] It is a different thing from the Skill **Berserk** held by [[hyrute-sisters|Tiona and Tione]]; see [[magic#magic-skills-and-development-abilities|Magic]] for the difference between Magic and Skills.
 
 {{nocite}} Notable uses and open questions for Hell Finegas are on the combined page: [[magic#hell-finegas|Magic § Hell Finegas]].
+
+### Tir na Nog {#tir-na-nog}
+
+**Tir na Nog** is the second spell of Finn Deimne, listed after [[#hell-finegas|Hell Finegas]] on his illustrated Status sheet in Sword Oratoria 8. It was not found named in the story text of the covered English volumes; what is known of it comes from the sheet.[@tir-na-nog.so08-sheet]
+
+- **User:** Finn Deimne[@tir-na-nog.so08-sheet]
+- **Status entry:** Spear-throwing magic[@tir-na-nog.so08-sheet]
+- **Limit:** Once every twenty-four hours[@tir-na-nog.so08-sheet]
+- **Chant:** Not printed[@tir-na-nog.so08-sheet]
+
+#### Status entry {#tir-na-nog-status-entry}
+
+The Level 6 sheet gives it three notes:[@tir-na-nog.so08-sheet]
+
+- It is spear-throwing magic.[@tir-na-nog.so08-sheet]
+- It adds the values from his Level and abilities to his Magic, including latent values ("extra points").[@tir-na-nog.so08-sheet]
+- It can be used only once every twenty-four hours.[@tir-na-nog.so08-sheet]
+
+His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir-na-nog.so14-sheet]
+
+{{nocite}} Notable uses and open questions for Tir na Nog are on the combined page: [[magic#tir-na-nog|Magic § Tir na Nog]].
 
 ## Open questions
 
@@ -124,3 +150,7 @@ Sword Oratoria 7 calls Hell Finegas Finn's "Berserker spell".[@hell-finegas.so07
 [@hell-finegas.so14-village]: SO14 | Chapter 1: The Prum’s Adventure | Chant and release; battle lust; breaks his limits; berserker without judgment.
 [@hell-finegas.so14-terrain]: SO14 | Chapter 3: The Dwarf’s Embarking | Not an option when the terrain requires a clear mind.
 [@hell-finegas.ar03-valletta]: AR03 | Chapter 7: What She Wished For | Chant; mind-altering enchantment; boost comparable to a Level increase.
+[@tir-na-nog.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Magic Hell Finegas and Tir na Nog.
+[@tir-na-nog.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Magic Hell Finegas only.
+[@hell-finegas.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Hell Finegas, enhancement magic; second spell Tir na Nog.
+[@hell-finegas.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Hell Finegas, enhancement magic, "battle lust"; no other spell.

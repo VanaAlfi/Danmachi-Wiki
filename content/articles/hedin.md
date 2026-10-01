@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "White elf", "refs": ["fc02-pair"]},
+      {"label": "Race", "value": "[[races#white-elf|White elf]]", "refs": ["fc02-pair"]},
       {"label": "Former position", "value": "King of the white elves of Heodenings", "refs": ["fc02-past"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the dark elf [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin]
+**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the [[races#dark-elf|dark elf]] [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin]
 
 ## Heodenings
 

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Elf", "refs": ["so05-crozzo", "so13-hail"]},
+      {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so05-crozzo", "so13-hail"]},
       {"label": "Appearance", "value": "Blonde; green eyes", "refs": ["so05-blondes", "so05-crozzo"]},
       {"label": "Home", "value": "The north of the continent: the Frozen Woods of Fanache; a village near the [[valley-of-dragons|valley of dragons]]", "refs": ["so13-hail", "so13-why"]},
       {"section": "Adventurer"},
@@ -42,7 +42,7 @@ Sword Oratoria 11 calls her gentle as an elder of the group, with elven pride an
 | Volume | Events |
 |---|---|
 | Astrea Record 3 | During the Great Conflict, newly Level 2, she volunteers to defend the battlements of [[twilight-manor|Twilight Manor]]. In her first real war she shivers under the teasing of her elders, then fires a scattershot of icicle-shaped projectiles from her bow.[@ar03-battlements] |
-| Sword Oratoria 4 | One of the support members on Loki Familia's deep expedition. Finn orders her, [[narfi|Narfi]] and [[cruz-bussell|Cruz]] to use their magic swords so that [[aiz-wallenstein|Aiz]] can recover.[@so04-support, so04-swords] |
+| Sword Oratoria 4 | One of the support members on Loki Familia's deep expedition. Finn orders her, [[narfi|Narfi]] and [[cruz-bussell|Cruz]] to use their [[magic-sword|magic swords]] so that [[aiz-wallenstein|Aiz]] can recover.[@so04-support, so04-swords] |
 | Sword Oratoria 6 | In Meren she and Narfi try to question the governor, Borg Murdock, about the violas in the lake; he turns them away as Guild dogs.[@so06-borg] Later she confronts him at his estate holding a sack of the "magic dust".[@so06-dust] |
 | Sword Oratoria 7 | When Riveria uses her magic circle to sense who is inside [[knossos|Knossos]], Loki orders Alicia to gather helpers and draw a map from it.[@so07-map] |
 | Sword Oratoria 9 | In the fighting against [[ares#kingdom-of-rakia|Rakia]] she corrects Lefiya's spell timing; she is the spotter for Lefiya's support fire.[@so09-timing, so09-spotter] |

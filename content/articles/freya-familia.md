@@ -35,7 +35,7 @@
 | [[ottar|Ottar]] | Warlord | 7 | Captain.[@so04-captain] Reaches Level 7 in Astrea Record 3; DanMachi 18 calls him a Level 7 on the cusp of Level 8.[@ar03-ottar, fm18-ottar] |
 | [[allen-fromel|Allen Fromel]] | Vana Freya | 6 | Cat person; second-in-command in DanMachi 16; older brother of [[anya-fromel|Anya Fromel]].[@fm16-allen, fc02-execs] |
 | [[hedin|Hedin Selrand]] | Hildsleif | 6 | White elf.[@fc02-execs, fm16-hedin] |
-| [[hegni|Hegni Ragnar]] | Dáinsleif | 6 | Dark elf; often paired with Hedin although they are not related.[@fc02-execs, ar01-hegni] |
+| [[hegni|Hegni Ragnar]] | Dáinsleif | 6 | [[races#dark-elf|Dark elf]]; often paired with Hedin although they are not related.[@fc02-execs, ar01-hegni] |
 | Alfrik, Dvalinn, Berling and Grer Gulliver | Bringar | 5 | Prum quadruplets whose teamwork is counted the best in the Dungeon.[@fc02-execs] |
 | [[heith-velvet|Heith Velvet]] | Vana Mardel | 4 | Healer and representative of the Andhrímnir; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
 | [[horn|Hörn]] | none | — | Freya's attendant, known as "Nameless" because Freya refused to let the gods give her a title.[@fm16-horn] |
@@ -62,7 +62,7 @@ During the [[great-conflict|Great Conflict]] told in Astrea Record, Ottar is Lev
 
 ### DanMachi 1–15
 
-Freya's interest in [[bell-cranell|Bell Cranell]] draws in her Familia. Ottar prepares and trains the Minotaur that Bell faces in DanMachi 3, and in Sword Oratoria 4 Ottar, Allen and the Bringar keep Loki Familia away from that fight.[@fm03-minotaur, so04-captain] In DanMachi 7, after [[ishtar|Ishtar]] abducts Bell, the Familia overwhelms [[ishtar-familia|Ishtar Familia]] and Ishtar is sent back to the heavens; Freya pays a Guild fine for the attack.[@fm07-ishtar, fm07-fine] In DanMachi 11 Ottar steers [[asterios|Asterios]] toward Bell, blocks Loki Familia under Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios]
+Freya's interest in [[bell-cranell|Bell Cranell]] draws in her Familia. Ottar prepares and trains the [[minotaur|Minotaur]] that Bell faces in DanMachi 3, and in Sword Oratoria 4 Ottar, Allen and the Bringar keep Loki Familia away from that fight.[@fm03-minotaur, so04-captain] In DanMachi 7, after [[ishtar|Ishtar]] abducts Bell, the Familia overwhelms [[ishtar-familia|Ishtar Familia]] and Ishtar is sent back to the heavens; Freya pays a Guild fine for the attack.[@fm07-ishtar, fm07-fine] In DanMachi 11 Ottar steers [[asterios|Asterios]] toward Bell, blocks Loki Familia under Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios]
 
 ### The Goddess Festival and Bell's seizure
 

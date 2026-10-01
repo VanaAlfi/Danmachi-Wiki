@@ -24,7 +24,7 @@
   }
 }
 ---
-**Falna** is the mark of a god's blessing on a follower. Using blood and hieroglyphs, the god reflects the follower's excelia, the record of what they have lived through, in a [[status|Status]].[@fm01-status] People who belong to no Familia, called free people, have no Falna or Status, though some races, such as dwarves and elves, can still fight well.[@fm02-free]
+**Falna** is the mark of a god's blessing on a follower. Using blood and hieroglyphs, the god reflects the follower's [[excelia|excelia]], the record of what they have lived through, in a [[status|Status]].[@fm01-status] People who belong to no Familia, called free people, have no Falna or Status, though some races, such as dwarves and elves, can still fight well.[@fm02-free]
 
 ## How it works
 
@@ -44,7 +44,7 @@ Higher Levels slow aging, and each further Level slows it more; this does not ma
 
 ## Privacy
 
-A Status is protected personal information. Only an adventurer's Level and Familia are reported to the [[guild|Guild]].[@fm02-privacy] Gods can lock the hieroglyphs so they cannot be read normally, and at Denatus it is taboo to force another god to reveal a follower's Status.[@fm08-lock, fm04-denatus]
+A Status is protected personal information. Only an adventurer's Level and Familia are reported to the [[guild|Guild]].[@fm02-privacy] Gods can lock the hieroglyphs so they cannot be read normally, and at [[denatus|Denatus]] it is taboo to force another god to reveal a follower's Status.[@fm08-lock, fm04-denatus]
 
 A specialized item called a [[status-thief|Status Thief]] can still expose the real name and patron god written in a Status.[@fc01-thief] Bell's goddess keeps his Skill [[skills#liaris-freese|Liaris Freese]] off the copies of his Status she gives him.[@fm01-hidden]
 

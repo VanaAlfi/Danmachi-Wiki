@@ -52,7 +52,7 @@ Dix also fights [[loki-familia|Loki Familia]] inside Knossos. He curses [[bete-l
 
 ## The end of the Familia
 
-Fleeing through Knossos, wounded, Dix meets a black bull, the black minotaur later known as [[asterios|Asterios]], in a dark passage. Unable to use his curse, he is killed instantly.[@fm10-death]
+Fleeing through Knossos, wounded, Dix meets a black bull, the black [[minotaur|minotaur]] later known as [[asterios|Asterios]], in a dark passage. Unable to use his curse, he is killed instantly.[@fm10-death]
 
 Loki Familia brings Ikelos before the Guild, where he admits his Familia's black-market dealings and its capture of monsters. Because its activities caused the monsters' breach onto the surface, he is exiled from the city for good two days later, with his followers gone and his Familia's assets confiscated. Hermes reports that by taking the blame he has served as the Guild's scapegoat.[@fm10-exile]
 

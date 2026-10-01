@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["so08-memory"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so08-memory"]},
       {"label": "Appearance", "value": "Glasses; long hair, usually in braids", "refs": ["so04-braids", "so05-bath", "so07-bete"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-second", "so07-losses"]},
@@ -36,7 +36,7 @@ When Tiona asks the girls whom they like in Sword Oratoria 7, Leene shyly names 
 
 ## Leene and Bete
 
-Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of the party was caught by an Irregular and Bete used his magic [[magic#hati|Hati]] to burn everything around them; Leene was the only one of that group to survive.[@so08-hati] Bete kept scolding her as a worthless healer. Once, after he hurt his hand protecting her and the other lower-level members, she told him that this was the seventh time he had yelled at her, and that he had saved her seven times or more. She said she finally understood that his words were not insults: "I may be one of these weaklings, but…I can still heal you."[@so08-memory] Minor Myths and Legends 2 adds that she asked him to let her come with him, and he answered, "Do what you want."[@ss02-memory]
+Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of the party was caught by an [[irregular|Irregular]] and Bete used his magic [[magic#hati|Hati]] to burn everything around them; Leene was the only one of that group to survive.[@so08-hati] Bete kept scolding her as a worthless healer. Once, after he hurt his hand protecting her and the other lower-level members, she told him that this was the seventh time he had yelled at her, and that he had saved her seven times or more. She said she finally understood that his words were not insults: "I may be one of these weaklings, but…I can still heal you."[@so08-memory] Minor Myths and Legends 2 adds that she asked him to let her come with him, and he answered, "Do what you want."[@ss02-memory]
 
 ## Death in Knossos
 

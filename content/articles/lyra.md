@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Prum", "refs": ["fm14-teach"]},
+      {"label": "Race", "value": "[[races#prum|Prum]]", "refs": ["fm14-teach"]},
       {"label": "Height", "value": "Less than 120 celches", "refs": ["fm14-teach"]},
       {"label": "Age", "value": "Two years older than Lyu", "refs": ["fm14-teach"]},
       {"label": "Hair", "value": "Short; dyed peach (DanMachi 14, Familia Chronicle 3), pink (Astrea Record)", "refs": ["fm14-teach", "fc03-traps", "ar01-pink", "ar02-pink"]},
@@ -87,7 +87,7 @@ Familia Chronicle 3's short story set two years after the Great Conflict shows L
 ### Astrea Record 1
 
 - At a burning factory she clears a warehouse with her boomerang, and Alize sends her with Iska and Maryu to clear the next section.[@ar01-factory]
-- She brings Alize an order from Finn ("Who else? My hero!") to watch for suspicious activity. On [[floor-18|Floor 18]] she fights the [[evils|Evils]]' Vito beside Alize and Kaguya.[@ar01-hero, ar01-vito]
+- She brings Alize an order from Finn ("Who else? My hero!") to watch for suspicious activity. On [[floor-18|Floor 18]] she fights the [[evils|Evils]]' [[vito|Vito]] beside Alize and Kaguya.[@ar01-hero, ar01-vito]
 - In a clearing in the eastern forest of Floor 18, Lyana asks to be buried there if she dies, and Lyra answers, "Count me in."[@ar01-clearing] {{inference}} Lyu's later grave of mementos is also in the eastern forest of Floor 18.[@ar01-grave]
 - On patrol with Lyu and Kaguya she brushes off the god "Eren", who is [[erebus|Erebus]] in disguise; he calls her the level-headed one.[@ar01-eren, ar02-erebus]
 - On the night the Great Conflict begins she raids an Evils base with Alize, Kaguya, Lyu and Shakti's Ganesha Familia. She suspects a trap; when a child blows herself up and kills Shakti's sister Ardee, Lyra is the first to understand, holds Lyu back, and warns that the fallen enemies are "all rigged to blow".[@ar01-trap, ar01-ardee] The ambush is [[valletta|Valletta Grede]]'s.[@ar01-trap]
@@ -140,7 +140,7 @@ She is the first of the three to die. Blind, she falls to one stroke of the Jugg
 |---|---|
 | Astrea Record 2 | Alfia guesses "Level Two or thereabouts"; the narration calls her "a measly Level 2".[@ar02-alfia] |
 | Astrea Record 3, Chapter 4 | Alfia calls her "that Level Two prum".[@ar03-passive] |
-| Astrea Record 3, Chapter 9 | After Alfia's defeat, Astrea updates all eleven members. Alize announces that they are all "Level 4 girls"; Riveria says there was enough excelia to rank up all eleven, and Lyra calls it "eleven levels worth of improvement".[@ar03-rankup] |
+| Astrea Record 3, Chapter 9 | After Alfia's defeat, Astrea updates all eleven members. Alize announces that they are all "Level 4 girls"; Riveria says there was enough [[excelia|excelia]] to rank up all eleven, and Lyra calls it "eleven levels worth of improvement".[@ar03-rankup] |
 | DanMachi 13 | Of the ten killed by the Juggernaut, two had been Level 3 and eight Level 4. They are not named.[@fm13-ten] |
 | DanMachi 14 (memory) | Lyra calls herself "a respected Level Three adventurer".[@fm14-level] |
 

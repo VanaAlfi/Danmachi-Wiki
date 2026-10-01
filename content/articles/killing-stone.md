@@ -25,7 +25,7 @@
   }
 }
 ---
-A **Killing Stone**, also called **Sesshouseki**, is a forbidden magic item created by synthesising a tamamo stone with a toba stone.[@fm07-asfi] Its use seals a renart's soul inside it, so that renart sorcery can be passed to other races, while the renart is left a soulless shell.[@fm07-soul] In DanMachi 7 [[ishtar|Ishtar]] Familia prepares to use one on [[haruhime|Haruhime]], and [[bell-cranell|Bell Cranell]] shatters it before the ritual is complete.[@fm07-plan, fm07-shattered]
+A **Killing Stone**, also called **Sesshouseki**, is a forbidden magic item created by synthesising a tamamo stone with a toba stone.[@fm07-asfi] Its use seals a [[races#renart|renart]]'s soul inside it, so that renart sorcery can be passed to other races, while the renart is left a soulless shell.[@fm07-soul] In DanMachi 7 [[ishtar|Ishtar]] Familia prepares to use one on [[haruhime|Haruhime]], and [[bell-cranell|Bell Cranell]] shatters it before the ritual is complete.[@fm07-plan, fm07-shattered]
 
 ## What it is made of
 
@@ -41,7 +41,7 @@ Hermes remarks that, surprisingly, Killing Stones were created by renarts themse
 
 {{statement}} As Asfi, Hermes and Takemikazuchi explain it:[@fm07-soul, fm07-shards]
 
-- The renart's magical power, "no, soul", is sealed in the stone. If everything is set up right, their sorcery can then be used by another; Hermes calls it "basically a magic sword that doesn't break". The price is that the renart becomes a soulless shell, alive but not among the living, which is why the stones are forbidden.[@fm07-soul]
+- The renart's magical power, "no, soul", is sealed in the stone. If everything is set up right, their sorcery can then be used by another; Hermes calls it "basically a [[magic-sword|magic sword]] that doesn't break". The price is that the renart becomes a soulless shell, alive but not among the living, which is why the stones are forbidden.[@fm07-soul]
 - A whole stone cannot release all its energy, so Killing Stones are shattered. Each shard can unleash as much sorcery as the original, without trigger spells.[@fm07-shards]
 - If the stone is returned to the renart, they awaken and can live normally, provided their body was not harmed while their soul was absent. If a shard is lost or broken, they will never be normal again, even if every other piece is returned.[@fm07-shards]
 - {{statement}} Aisha later says that a smashed Killing Stone allows only a single power to be used.[@fm12-aisha]
@@ -64,7 +64,7 @@ Hermes tells Bell that on the night they met in [[pleasure-quarter|the Pleasure 
 
 For the ritual, the Floating Garden and its altar were built to strengthen the stone: used alone, it risked splitting the soul. Under the full moon, the stone, a fist-sized blood-red crystal set on the hilt of a ceremonial longsword, was to be driven into Haruhime so that her soul would cross into it.[@fm07-garden-altar, fm07-sword]
 
-As the longsword is raised, Bell leaps over the guard and shatters the stone with the tip of the Hestia Knife, and the altar's red light fades.[@fm07-shattered] The Amazons' years of preparation are ruined, but Bell knows that Ishtar Familia could obtain another stone; he has only reset the situation.[@fm07-reset]
+As the longsword is raised, Bell leaps over the guard and shatters the stone with the tip of the [[hestia-knife|Hestia Knife]], and the altar's red light fades.[@fm07-shattered] The Amazons' years of preparation are ruined, but Bell knows that Ishtar Familia could obtain another stone; he has only reset the situation.[@fm07-reset]
 
 ## Afterwards
 

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Chienthrope", "refs": ["so03-fighting", "so11-notebook"]},
+      {"label": "Race", "value": "[[races#chienthrope|Chienthrope]]", "refs": ["so03-fighting", "so11-notebook"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[hermes-familia|Hermes Familia]]", "refs": ["so02-courier"]},
       {"label": "Role", "value": "Thief", "refs": ["so03-fighting", "so10-thief"]},
@@ -24,7 +24,7 @@
   }
 }
 ---
-**Lulune Louie** is a chienthrope adventurer of [[hermes-familia|Hermes Familia]], where she serves as its thief.[@so02-courier, so03-fighting] She introduces herself as a third-tier Level 2, but [[hermes|Hermes]] has her keep her Level Up secret; she is actually Level 3.[@so02-courier, so02-level] In Sword Oratoria 2 she is the courier of a crystal orb holding a strange fetus, which she hands to [[aiz-wallenstein|Aiz]].[@so02-courier, so02-orb]
+**Lulune Louie** is a [[races#chienthrope|chienthrope]] adventurer of [[hermes-familia|Hermes Familia]], where she serves as its thief.[@so02-courier, so03-fighting] She introduces herself as a third-tier Level 2, but [[hermes|Hermes]] has her keep her Level Up secret; she is actually Level 3.[@so02-courier, so02-level] In Sword Oratoria 2 she is the courier of a crystal orb holding a strange fetus, which she hands to [[aiz-wallenstein|Aiz]].[@so02-courier, so02-orb]
 
 ## The courier
 

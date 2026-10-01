@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Hume bunny", "refs": ["so06-tione", "so10-mapping"]},
+      {"label": "Race", "value": "[[races#hume-bunny|Hume bunny]]", "refs": ["so06-tione", "so10-mapping"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so02-supporter", "so06-attack"]},
       {"label": "Level", "value": "3, newly ranked up in Sword Oratoria 2", "refs": ["so02-supporter"]},
@@ -23,7 +23,7 @@
   }
 }
 ---
-**Rakuta** is a hume bunny supporter of [[loki-familia|Loki Familia]], newly ranked up to Level 3 in Sword Oratoria 2.[@so02-supporter, so06-tione] Her genius for mapping makes her the Familia's mapper in [[knossos|Knossos]]: [[finn-deimne|Finn]] plans the assaults of Sword Oratoria 11 and 12 on the map she made.[@so10-mapping, so11-map]
+**Rakuta** is a [[races#hume-bunny|hume bunny]] supporter of [[loki-familia|Loki Familia]], newly ranked up to Level 3 in Sword Oratoria 2.[@so02-supporter, so06-tione] Her genius for mapping makes her the Familia's mapper in [[knossos|Knossos]]: [[finn-deimne|Finn]] plans the assaults of Sword Oratoria 11 and 12 on the map she made.[@so10-mapping, so11-map]
 
 ## Mapper
 

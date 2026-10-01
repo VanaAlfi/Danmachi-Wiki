@@ -82,7 +82,7 @@ The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#doubl
 
 ## How Skills appear {#how-skills-appear}
 
-- A Skill can appear at an ordinary Status update. Liaris Freese appears at Bell's first update after the Minotaur rescue.[@liaris-freese.fm01-skill]
+- A Skill can appear at an ordinary Status update. Liaris Freese appears at Bell's first update after the [[minotaur|Minotaur]] rescue.[@liaris-freese.fm01-skill]
 - Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Cannon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
 - The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
 - Some Skills come with the blood. Every Crozzo who received a blessing gained the family's magic-sword Skill, and the Gojouno line of the Far East passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
@@ -102,7 +102,7 @@ DanMachi 5 names **Limit Release**: a temporary state in which the surroundings 
 
 ## Keeping Skills secret {#keeping-skills-secret}
 
-Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that working out an opponent's magic and Skills matters as much as technique, because trump cards often decide a fight.[@so10-sussing] In Astrea Record 3, when [[alize-lovell|Alize]] starts to explain her Skill to Alfia in the middle of a battle, Lyu cuts her off.[@rubrud-beckia.ar03-alfia] Hestia hides Liaris Freese from Bell himself, and at the Denatus of DanMachi 18 she picks her words so that the gods will not learn what it does.[@fm01-gods, liaris-freese.fm18-denatus]
+Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that working out an opponent's magic and Skills matters as much as technique, because trump cards often decide a fight.[@so10-sussing] In Astrea Record 3, when [[alize-lovell|Alize]] starts to explain her Skill to Alfia in the middle of a battle, Lyu cuts her off.[@rubrud-beckia.ar03-alfia] Hestia hides Liaris Freese from Bell himself, and at the [[denatus|Denatus]] of DanMachi 18 she picks her words so that the gods will not learn what it does.[@fm01-gods, liaris-freese.fm18-denatus]
 
 ## Skills, magic and Development Abilities {#skills-magic-and-development-abilities}
 
@@ -132,7 +132,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#vanadis-tevere|Vanadis Tevere]] | Bell Cranell | Counter to Charm | Under a Charm effect, a sharp rise in all abilities and continuous Mind and stamina recovery[@vanadis-tevere.fm18-card] |
 | [[#artel-assist|Artel Assist]] | Lilliluka Erde | Carrying | Help in proportion to her load once it passes a set weight[@artel-assist.fm08-card] |
 | [[#command-call|Command Call]] | Lilliluka Erde | Communication | Shouted directions carry further, telepathically, to those with the same Falna[@command-call.fm15-card] |
-| [[#blood-of-crozzo|Blood of Crozzo]] | Welf Crozzo | Hereditary; smithing | Making magic swords, and raising their power while forging[@blood-of-crozzo.fm15-card] |
+| [[#blood-of-crozzo|Blood of Crozzo]] | Welf Crozzo | Hereditary; smithing | Making [[magic-sword|magic swords]], and raising their power while forging[@blood-of-crozzo.fm15-card] |
 | [[#veritas-burn|Veritas Burn]] | Welf Crozzo | Fire | Resistance to flame; stronger fire-element attacks[@veritas-burn.fm15-card] |
 | [[#yatano-crows|Yatano Black Crow]] | Yamato Mikoto | Detection | Senses monsters of kinds she has met before[@yatano.fm15-card] |
 | [[#yatano-crows|Yatano White Crow]] | Yamato Mikoto | Detection | Senses members of her own Familia[@yatano.fm15-card] |
@@ -209,7 +209,7 @@ It also protects him against divine charm. In DanMachi 7, [[ishtar|Ishtar]] read
 
 #### Limits {#liaris-freese-limits}
 
-Rapid growth does not remove the need for hard experiences. DanMachi 20 still prints the Skill but explains that, at Level 5, Bell needs more difficult experiences and more excelia to grow.[@liaris-freese.fm20-paper]
+Rapid growth does not remove the need for hard experiences. DanMachi 20 still prints the Skill but explains that, at Level 5, Bell needs more difficult experiences and more [[excelia|excelia]] to grow.[@liaris-freese.fm20-paper]
 
 Because the Skill depends on his feelings, shaking them is a way to attack it. In DanMachi 17, Freya's strategy is built around unsettling the feelings that sustain it.[@liaris-freese.fm17-feelings]
 
@@ -578,7 +578,7 @@ In the story, Alfia notices how much Alize's speed and power have risen and says
 
 ### Five Lights {#five-lights}
 
-The Gojouno clan of the Far East discovered that their bloodline passes on certain Skills and spells, so that every member has identical abilities. The clan's highest art is a paired Skill and spell, both called **Five Lights**. The spell simply conjures five magic slashes at whatever angles the user chooses; making it an inescapable cage of blades takes extraordinary swordsmanship.[@five-lights.ar03-clan] Gojouno Kaguya of Astrea Familia uses it after an ultrashort chant, calling "Iai Strike: Five Lights!", to cut down Vito.[@five-lights.ar03-vito]
+The Gojouno clan of the Far East discovered that their bloodline passes on certain Skills and spells, so that every member has identical abilities. The clan's highest art is a paired Skill and spell, both called **Five Lights**. The spell simply conjures five magic slashes at whatever angles the user chooses; making it an inescapable cage of blades takes extraordinary swordsmanship.[@five-lights.ar03-clan] Gojouno Kaguya of Astrea Familia uses it after an ultrashort chant, calling "Iai Strike: Five Lights!", to cut down [[vito|Vito]].[@five-lights.ar03-vito]
 
 - **Holder:** Gojouno Kaguya[@five-lights.ar03-vito]
 - **Kind:** Hereditary, paired with a spell of the same name[@five-lights.ar03-clan]

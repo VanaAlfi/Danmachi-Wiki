@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["so07-barca"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so07-barca"]},
       {"label": "Appearance", "value": "Sickly white skin; long bangs over his left eye, which bears a D", "refs": ["so07-barca", "so07-eye", "so11-life"]},
       {"label": "Family", "value": "Descendant of Daedalus; half-brother of [[ikelos-familia#dix-perdix|Dix Perdix]] (same mother)", "refs": ["so07-dix", "so11-life"]},
       {"section": "Evils"},

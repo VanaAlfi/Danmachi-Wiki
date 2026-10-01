@@ -25,7 +25,7 @@
   }
 }
 ---
-**Aiz Wallenstein** is a swordswoman of [[loki-familia|Loki Familia]], known by the title *Kenki*, which Sword Oratoria renders as *Sword Princess*.[@fm01-aiz, fm04-kenki, so04-princess] In DanMachi 1 she saves [[bell-cranell|Bell Cranell]] from a Minotaur, and his admiration for her drives his Skill, [[skills#liaris-freese|Liaris Freese]].[@fm01-aiz, fm08-skill] She is the main character of Sword Oratoria.
+**Aiz Wallenstein** is a swordswoman of [[loki-familia|Loki Familia]], known by the title *Kenki*, which Sword Oratoria renders as *Sword Princess*.[@fm01-aiz, fm04-kenki, so04-princess] In DanMachi 1 she saves [[bell-cranell|Bell Cranell]] from a [[minotaur|Minotaur]], and his admiration for her drives his Skill, [[skills#liaris-freese|Liaris Freese]].[@fm01-aiz, fm08-skill] She is the main character of Sword Oratoria.
 
 ## Levels {#levels}
 
@@ -36,7 +36,7 @@
 | 3 | By age nine | Level 3 during the [[great-conflict|Great Conflict]] of Astrea Record 2.[@ar02-level] |
 | 4 | After the Great Conflict | Reaches Level 4 after the war.[@ar03-aiz] |
 | 5 | DanMachi 1 | Level 5 when she meets Bell.[@fm01-aiz] |
-| 6 | DanMachi 2 | Defeats the [[floor-37|Floor 37]] [[monster-rex|Monster Rex]] Udaeus alone; Loki's update in Sword Oratoria 3 credits that feat.[@so02-udaeus, so03-update, fm02-level6] |
+| 6 | DanMachi 2 | Defeats the [[floor-37|Floor 37]] [[monster-rex|Monster Rex]] [[udaeus|Udaeus]] alone; Loki's update in Sword Oratoria 3 credits that feat.[@so02-udaeus, so03-update, fm02-level6] |
 
 At Level 6 she gains the Development Ability Regen, which probably became available through her long use of [[#airiel|Airiel]].[@so03-update] Her Status cards print some ability names differently from volume to volume; see [[development-ability|Development Ability]].[@so06-card]
 

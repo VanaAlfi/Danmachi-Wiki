@@ -27,7 +27,7 @@ A **War Game** is a battle between Familias fought under rules agreed in advance
 
 ## Hestia Familia against Apollo Familia (DanMachi 6)
 
-[[hestia|Hestia]] accepts [[apollo|Apollo]]'s challenge. The contest is a Castle Siege: [[hestia-familia|Hestia Familia]] attacks and Apollo Familia defends. Apollo wins if [[hyacinthus|Hyacinthus]] survives for three days or [[bell-cranell|Bell]] is defeated; Hestia wins by defeating the enemy commander.[@fm06-rules] The conditions are settled at Denatus by vote and a draw. With Freya's support the gods allow one outsider, who must belong to a Familia outside Orario; [[lyu-leon|Lyu]] qualifies because her goddess has left the city, and joins Hestia's side.[@fm06-denatus, fm06-lyu]
+[[hestia|Hestia]] accepts [[apollo|Apollo]]'s challenge. The contest is a Castle Siege: [[hestia-familia|Hestia Familia]] attacks and Apollo Familia defends. Apollo wins if [[hyacinthus|Hyacinthus]] survives for three days or [[bell-cranell|Bell]] is defeated; Hestia wins by defeating the enemy commander.[@fm06-rules] The conditions are settled at [[denatus|Denatus]] by vote and a draw. With Freya's support the gods allow one outsider, who must belong to a Familia outside Orario; [[lyu-leon|Lyu]] qualifies because her goddess has left the city, and joins Hestia's side.[@fm06-denatus, fm06-lyu]
 
 Bell defeats Hyacinthus in single combat and Hestia Familia wins.[@fm06-victory] Hestia then takes Apollo's property, orders his Familia disbanded and Apollo exiled, and moves her own Familia into his former manor.[@fm06-manor]
 

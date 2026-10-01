@@ -23,11 +23,11 @@
   }
 }
 ---
-A **Level** is the most important part of an adventurer's [[status|Status]]. A *Level Up* happens when an adventurer gathers more excelia than their spiritual "container" can hold. It greatly raises all of their abilities and is said to bring them a step closer to divinity.[@so01-level]
+A **Level** is the most important part of an adventurer's [[status|Status]]. A *Level Up* happens when an adventurer gathers more [[excelia|excelia]] than their spiritual "container" can hold. It greatly raises all of their abilities and is said to bring them a step closer to divinity.[@so01-level]
 
 ## Levelling up
 
-A Level Up needs a great accomplishment that yields high-quality excelia, such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] [[aiz-wallenstein|Aiz]] reaches Level 6 after defeating Udaeus alone in Sword Oratoria 3.[@so03-udaeus]
+A Level Up needs a great accomplishment that yields high-quality excelia, such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] [[aiz-wallenstein|Aiz]] reaches Level 6 after defeating [[udaeus|Udaeus]] alone in Sword Oratoria 3.[@so03-udaeus]
 
 > [!NOTE] Stated ability threshold
 > In DanMachi 3 Lyu tells Bell that an adventurer can level up once *all* their basic abilities are above D.[@fm03-d] DanMachi 15 says at least one ability must reach the sixth rank (D), and Familia Chronicle 3 likewise gives the minimum as a D in *one* basic ability; Lyu herself advances with only her Agility at D.[@fm15-rank, fc03-d] The later statements agree with each other but not with DanMachi 3; this wiki records the difference rather than choosing.

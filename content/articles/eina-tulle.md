@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Half-elf", "refs": ["fm01-eina"]},
+      {"label": "Race", "value": "[[races#half-elf|Half-elf]]", "refs": ["fm01-eina"]},
       {"label": "Age", "value": "Nineteen in DanMachi 2 and 8", "refs": ["fm02-eina", "fm08-eina"]},
       {"label": "Family", "value": "Younger sister [[nina-tulle|Nina]]; mother Aina", "refs": ["fm19-nina", "so14-aina"]},
       {"section": "Work"},
@@ -33,7 +33,7 @@ DanMachi 1 introduces Eina with long, pointed ears, "transparent emerald eyes" a
 
 ## Background
 
-Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, Maris, and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker Misha Frot is a friend from school.[@fm04-misha, fm15-misha]
+Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, Maris, and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frot]] is a friend from school.[@fm04-misha, fm15-misha]
 
 ## Bell's adviser
 

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["fm05-grudge"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm05-grudge"]},
       {"label": "Appearance", "value": "Rugged build, fierce face, scars on his forehead and cheeks", "refs": ["fm11-hunt"]},
       {"label": "Companions", "value": "Scott and Gyle", "refs": ["fm17-charm", "fm18-ogma"]},
       {"section": "Adventurer"},
@@ -47,7 +47,7 @@ When the Black Goliath appears, Mord's group is the closest to it and the first 
 | DanMachi 11 | Hunting the armed monsters for the Guild's bounty, he tells other adventurers to stop picking on the Little Rookie.[@fm11-hunt] His party flees from the lizardman in the sewers.[@fm11-lizardman] At the plaza he roars for Bell to kill the monster, and the boy Lai joins in: "Go get 'im, big brotheeeerrrrrrr!!"[@fm11-cheer] |
 | Minor Myths and Legends 1 | On the night of the Xenos rescue, about thirty adventurers corner Bell in Daedalus Street. Mord switches sides, "I'm gonna throw my lot in with Little Rookie here!", and about half of them follow him. He says Bell owes him a share of the bounty in return, since he once got beaten by a lizardman in the sewers and will not fight the monsters himself.[@ss01-debt] |
 | DanMachi 17 | Under Freya's charm he takes Bell for a member of Freya Familia and begs his forgiveness, remembering none of their past.[@fm17-charm] When the charm breaks he joins the crowd surrounding [[folkvangr|Folkvangr]], hoping to grab Freya Familia's money in the confusion.[@fm17-folkvangr] |
-| DanMachi 18 | Joins Hestia's side, he says, for a share of Freya Familia's fortune. Scott and Gyle tell him he just wants to help Bell, and he protests that he simply has not paid Bell back yet.[@fm18-ogma, fm18-debt] In the war game his raiders throw off their reverse veils and burn the Andhrímnir with magic swords. When [[heith-velvet|Heith]]'s magic heals them, he charges her in a frenzy, and she knocks him out with one blow of her rod.[@fm18-raid, fm18-heith] |
+| DanMachi 18 | Joins Hestia's side, he says, for a share of Freya Familia's fortune. Scott and Gyle tell him he just wants to help Bell, and he protests that he simply has not paid Bell back yet.[@fm18-ogma, fm18-debt] In the war game his raiders throw off their reverse veils and burn the Andhrímnir with [[magic-sword|magic swords]]. When [[heith-velvet|Heith]]'s magic heals them, he charges her in a frenzy, and she knocks him out with one blow of her rod.[@fm18-raid, fm18-heith] |
 | DanMachi 19 | Celebrates the victory with his arm around Bell and spends his share freely.[@fm19-party, fm19-spending] |
 | DanMachi 20 | In the Orariad he, Scott and Gyle lose to the School District's students. Without Bell they have no heart for it, and Mord privately thinks the Familia war worked because he brought everyone together. He assures them Bell will be coming soon.[@fm20-orariad, fm20-soon] |
 

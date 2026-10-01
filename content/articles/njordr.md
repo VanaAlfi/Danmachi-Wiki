@@ -49,7 +49,7 @@ Meren grew from a fishing village into the "Gateway to the Dungeon City" after P
 | Who | Part in the scheme (Sword Oratoria 6) |
 |---|---|
 | Njörðr | Released the violas into the lake and sea; kept fishing while they thinned out the monsters; helped smuggle the pale man's goods out of Meren.[@so06-pact, so06-roles] |
-| Rubart, Guild Branch chief | Controlled the flow of magic stones from Guild headquarters, which were stolen for the powder; kept Meren from signalling Orario for help.[@so06-roles, so06-rubart] |
+| Rubart, Guild Branch chief | Controlled the flow of [[magic-stone|magic stones]] from Guild headquarters, which were stolen for the powder; kept Meren from signalling Orario for help.[@so06-roles, so06-rubart] |
 | Borg Murdock, head of Meren | Processed the powder in the basement of his estate and saw that every ship got a batch.[@so06-roles] |
 | [[ishtar|Ishtar]] Familia | Carried the violas from Orario to Meren, in return for Njörðr financing its activities in the city.[@so06-ishtar, so06-portrait] |
 

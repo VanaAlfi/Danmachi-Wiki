@@ -47,7 +47,7 @@ In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18,
 
 [[lyu-leon|Lyu]] estimates its strength as equal to Level 5. DanMachi 14's narration later compares it with the Level 5 [[amphisbaena|Amphisbaena]], saying the two are similar on paper but the Goliath's regeneration made it stronger in practice. This is a comparison of monsters; the Goliath has no [[falna|Falna]].[@fm05-level5, fm14-compare]
 
-[[bell-cranell|Bell]] destroys its magic stone with a great deal of help from others, and every member of his group returns to the surface alive.[@fm05-battle, fm05-return] The [[guild|Guild]] calls the event a Calamity and penalizes Hestia and [[hermes|Hermes]].[@fm05-return]
+[[bell-cranell|Bell]] destroys its [[magic-stone|magic stone]] with a great deal of help from others, and every member of his group returns to the surface alive.[@fm05-battle, fm05-return] The [[guild|Guild]] calls the event a Calamity and penalizes Hestia and [[hermes|Hermes]].[@fm05-return]
 
 > [!STATEMENT] Hermes's explanation
 > Hermes says the Dungeon hates having gods inside it and was unusually sensitive this time. That is his reading of events; the precise reason is not given.[@fm05-black]

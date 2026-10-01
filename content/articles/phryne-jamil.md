@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Amazon", "refs": ["fm07-waiting"]},
+      {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm07-waiting"]},
       {"label": "Height", "value": "About two meders", "refs": ["fm07-chase", "fm07-ottar"]},
       {"label": "Appearance", "value": "A toad-like face and croaking voice; a huge body with short limbs; short bobbed hair", "refs": ["fm07-waiting", "so06-proposal"]},
       {"section": "Adventurer"},

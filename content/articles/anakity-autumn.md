@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Cat person", "refs": ["so04-aki", "so10-alsha"]},
+      {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["so04-aki", "so10-alsha"]},
       {"label": "Appearance", "value": "Black hair, ears and tail; black eyes", "refs": ["so04-aki", "so11-xenos"]},
       {"label": "Nickname", "value": "Aki", "refs": ["so04-aki"]},
       {"section": "Adventurer"},

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["ar01-name", "fc03-names"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["ar01-name", "fc03-names"]},
       {"label": "Origin", "value": "The Far East; the Gojouno clan", "refs": ["fm14-looks", "ar03-clan"]},
       {"label": "Age", "value": "Seventeen in Astrea Record 3, by her own taunt to Alfia", "refs": ["ar03-seventeen"]},
       {"label": "Appearance", "value": "Long, straight black hair to the waist with bangs cut straight across; black eyes; a kimono", "refs": ["fm14-looks", "fm14-daggers", "ar01-kimono"]},
@@ -30,7 +30,7 @@
   }
 }
 ---
-**Gojouno Kaguya** (printed once as *Kaguya Gojouno*) was a human swordswoman from the Far East and the second-in-command of [[astrea-familia|Astrea Familia]].[@ar01-name, fc03-names] Behind refined manners she had a famously foul mouth, and she was the Familia's best close-range fighter.[@ar01-level, fm14-looks, fm14-rival] She needled [[lyu-leon|Lyu Leon]] constantly and argued with her that justice cannot save everyone.[@ar01-greenhorn, fm14-world] In Astrea Record she draws blood from [[alfia|Alfia]] and cuts down the [[evils|Evils]]' Vito with her clan's art, Five Lights.[@ar02-futaba, ar03-five-lights] Five years before DanMachi 14 she died in the [[juggernaut|Juggernaut]] ambush, giving her life with [[alize-lovell|Alize]] and [[lyra|Lyra]] so that Lyu could live.[@fm14-dream, fm14-lives, fm14-death] Lyu later fights with her quick-draw and, through the spell [[magic#astrea-record-spell|Astrea Record]], with her magic Gokou.[@fm14-quickdraw, fm18-gokou]
+**Gojouno Kaguya** (printed once as *Kaguya Gojouno*) was a human swordswoman from the Far East and the second-in-command of [[astrea-familia|Astrea Familia]].[@ar01-name, fc03-names] Behind refined manners she had a famously foul mouth, and she was the Familia's best close-range fighter.[@ar01-level, fm14-looks, fm14-rival] She needled [[lyu-leon|Lyu Leon]] constantly and argued with her that justice cannot save everyone.[@ar01-greenhorn, fm14-world] In Astrea Record she draws blood from [[alfia|Alfia]] and cuts down the [[evils|Evils]]' [[vito|Vito]] with her clan's art, Five Lights.[@ar02-futaba, ar03-five-lights] Five years before DanMachi 14 she died in the [[juggernaut|Juggernaut]] ambush, giving her life with [[alize-lovell|Alize]] and [[lyra|Lyra]] so that Lyu could live.[@fm14-dream, fm14-lives, fm14-death] Lyu later fights with her quick-draw and, through the spell [[magic#astrea-record-spell|Astrea Record]], with her magic Gokou.[@fm14-quickdraw, fm18-gokou]
 
 ## Name
 

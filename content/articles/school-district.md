@@ -39,7 +39,7 @@ The school's classes are Familias, each led by a god, and it grants the [[falna|
 
 | Person | Connection |
 |---|---|
-| [[leon-verdenberg|Leon Verdenberg]] | Captain of Balder Class and its leading professor, titled *Knight of Knights*; a Level 7, born to half-dwarf parents.[@so13-leon, fm20-leon, fm20-parents] |
+| [[leon-verdenberg|Leon Verdenberg]] | Captain of Balder Class and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
 | [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with [[hestia-familia|Hestia Familia]].[@fm20-nina] |

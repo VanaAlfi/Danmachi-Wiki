@@ -22,7 +22,7 @@
   }
 }
 ---
-The **Amphisbaena** is the two-headed [[monster-rex|Monster Rex]] of Floor 27, able to climb the Great Falls of the Water Capital. The [[guild|Guild]] estimates it at Level 6 in water and about Level 5 in raw ability.[@fm13-amphisbaena] DanMachi 14 compares it on paper with the Black [[goliath|Goliath]].[@fm14-level]
+The **Amphisbaena** is the two-headed [[monster-rex|Monster Rex]] of Floor 27, able to climb the Great Falls of the [[water-capital|Water Capital]]. The [[guild|Guild]] estimates it at Level 6 in water and about Level 5 in raw ability.[@fm13-amphisbaena] DanMachi 14 compares it on paper with the Black [[goliath|Goliath]].[@fm14-level]
 
 ## Abilities
 
@@ -30,7 +30,7 @@ Its blue napalm burns even on water, and a crimson mist from its right head scat
 
 ## DanMachi 13–14
 
-In the crisis of DanMachi 13 the Dungeon brings it back about two weeks early.[@fm13-amphisbaena] In DanMachi 14 the party on Floor 25 kills it: [[mikoto|Mikoto]] pins it with her gravity magic, [[ouka|Ouka]] cuts off the head that makes the mist, and [[aisha-belka|Aisha]], boosted by [[haruhime|Haruhime]], destroys its magic stone.[@fm14-kill] It leaves Amphisbaena bile as a drop item.[@fm14-kill] [[cassandra|Cassandra]]'s visions of the party's deaths do not come true.[@fm14-cassandra]
+In the crisis of DanMachi 13 the Dungeon brings it back about two weeks early.[@fm13-amphisbaena] In DanMachi 14 the party on Floor 25 kills it: [[mikoto|Mikoto]] pins it with her gravity magic, [[ouka|Ouka]] cuts off the head that makes the mist, and [[aisha-belka|Aisha]], boosted by [[haruhime|Haruhime]], destroys its [[magic-stone|magic stone]].[@fm14-kill] It leaves Amphisbaena bile as a drop item.[@fm14-kill] [[cassandra|Cassandra]]'s visions of the party's deaths do not come true.[@fm14-cassandra]
 
 [@fm13-amphisbaena]: FM13 | | Floor 27 Monster Rex; the Guild's estimate; reborn early.
 [@fm14-level]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Its potential compared with the Black Goliath.

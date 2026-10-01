@@ -21,7 +21,7 @@
   }
 }
 ---
-**Asterios** is a black Minotaur among the [[xenos|Xenos]]. He remembers, as a recurring dream, a former battle with [[bell-cranell|Bell Cranell]], and that longing drives his rebirth and his search for Bell.[@fm11-name, fm11-dream] The [[guild|Guild]] classes him as a Level 7 threat; this is a monster classification, not a Status.[@so11-level, fm12-level]
+**Asterios** is a black [[minotaur|Minotaur]] among the [[xenos|Xenos]]. He remembers, as a recurring dream, a former battle with [[bell-cranell|Bell Cranell]], and that longing drives his rebirth and his search for Bell.[@fm11-name, fm11-dream] The [[guild|Guild]] classes him as a Level 7 threat; this is a monster classification, not a Status.[@so11-level, fm12-level]
 
 ## Name
 

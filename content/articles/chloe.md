@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Catperson", "refs": ["fm16-fight"]},
+      {"label": "Race", "value": "[[races#cat-person|Catperson]]", "refs": ["fm16-fight"]},
       {"label": "Occupation", "value": "Waitress at [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm02-chloe", "fc01-recruit"]},
       {"label": "Former work", "value": "Assassin, known in the underworld as Black Cat", "refs": ["fc01-alias", "fc01-past"]},
       {"section": "Adventurer"},

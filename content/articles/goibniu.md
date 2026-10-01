@@ -25,7 +25,7 @@
   }
 }
 ---
-**Goibniu** is a god of smithing and architecture, the head of Goibniu Familia, a Familia of smiths and craftsmen in [[orario|Orario]].[@fm07-renovation, so01-workshop] It is less famous than [[hephaistos|Hephaistos]] Familia, but its work is of equal quality, and it specialises in sturdy custom-made weapons; [[aiz-wallenstein|Aiz]]'s sword Desperate and [[finn-deimne|Finn]]'s Fortia Spear are among its work.[@so01-workshop, so09-sword-air, so01-desperate, ss01-finn] It also takes construction jobs, which DanMachi 7 says makes it unique in Orario.[@fm07-renovation]
+**Goibniu** is a god of smithing and architecture, the head of Goibniu Familia, a Familia of smiths and craftsmen in [[orario|Orario]].[@fm07-renovation, so01-workshop] It is less famous than [[hephaistos|Hephaistos]] Familia, but its work is of equal quality, and it specialises in sturdy custom-made weapons; [[aiz-wallenstein|Aiz]]'s sword [[desperate|Desperate]] and [[finn-deimne|Finn]]'s Fortia Spear are among its work.[@so01-workshop, so09-sword-air, so01-desperate, ss01-finn] It also takes construction jobs, which DanMachi 7 says makes it unique in Orario.[@fm07-renovation]
 
 ## The god
 
@@ -43,7 +43,7 @@ The Familia's workshop, the Three Hammers Forge, stands in a narrow, quiet distr
 | Sword Air | Aiz's first trusted sword, a custom-made Damascus blade presented by Goibniu in Sword Oratoria 9's recollections.[@so09-sword-air, so09-damascus] |
 | Urga | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of adamantite.[@so01-workshop] |
 | The Fortia Spear | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
-| Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item Udaeus Black Sword.[@fc02-ottar] |
+| Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item [[udaeus|Udaeus]] Black Sword.[@fc02-ottar] |
 | Other orders | Lilly's wrist crossbow, made for prums; Mikoto's pair of black and white short swords, bought by Takemikazuchi; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
 | Building | Renovating Hestia Familia's new home, [[hearthstone-manor|Hearthstone Manor]], in four days.[@fm07-renovation] |
 

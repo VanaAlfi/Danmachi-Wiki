@@ -52,7 +52,7 @@ The English editions use two forms. DanMachi 2 and 4â€“10 and Sword Oratoria 1â€
 
 ## How they are gained
 
-A Development Ability is chosen at a Level Up, from the options that the adventurer's accumulated excelia has made available; without the right kind of excelia, an ability is not offered.[@fm02-named, fm04-choice] Only one can be learned at each Level Up, so each choice closes off the others offered that time.[@fm04-choice] Eina calls it a reward for levelling up.[@fm02-named]
+A Development Ability is chosen at a Level Up, from the options that the adventurer's accumulated [[excelia|excelia]] has made available; without the right kind of excelia, an ability is not offered.[@fm02-named, fm04-choice] Only one can be learned at each Level Up, so each choice closes off the others offered that time.[@fm04-choice] Eina calls it a reward for levelling up.[@fm02-named]
 
 - **Sometimes there is no choice, or nothing at all.** When Bell reaches Level 4 only Escape is on offer, and Hestia notes that Development Abilities are rare enough to take whatever appears. Aiz gains none when she reaches Level 5, and only Regen at Level 6.[@fm12-escape, so03-aiz]
 - **A god can delay the choice.** In DanMachi 15 Hestia defers Lilly's Level Up so that she can talk over Resistance and Compounding with the others first.[@fm15-lilly]
@@ -182,7 +182,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 - **Printed as:** Forge; Blacksmith (DanMachi 15); Smith (DanMachi 14 sheet)[@fm08-cards, fm15-welf, sheet.fm14-welf]
 - **Holder:** [[welf-crozzo|Welf Crozzo]], rank I, gained when he reaches Level 2 in DanMachi 6[@fm06-welf, fm08-cards]
 
-Welf joins Bell's party in DanMachi 4 to earn it, because he wants to be a High Smith.[@fm04-forge, fm06-welf] His family's magic swords come from a Skill, not from Forge: see [[skills#blood-of-crozzo|Blood of Crozzo]].[@fm04-forge]
+Welf joins Bell's party in DanMachi 4 to earn it, because he wants to be a High Smith.[@fm04-forge, fm06-welf] His family's [[magic-sword|magic swords]] come from a Skill, not from Forge: see [[skills#blood-of-crozzo|Blood of Crozzo]].[@fm04-forge]
 
 ### Compounding {#compounding}
 

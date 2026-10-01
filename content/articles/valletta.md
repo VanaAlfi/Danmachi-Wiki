@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["ar01-arachnia"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["ar01-arachnia"]},
       {"label": "Alias", "value": "Arachnia", "refs": ["ar01-arachnia", "so08-blacklist"]},
       {"section": "Evils"},
       {"label": "Affiliation", "value": "[[evils|The Evils]]; later Thanatos's remnants", "refs": ["so07-finn", "so07-thanatos"]},
@@ -80,7 +80,7 @@ She first calls it "a type of…barrier magic", then says "this magic isn't a ba
 
 #### The trap {#shaldo-the-trap}
 
-Valletta draws the enraged Bete into the middle of the field while her followers, all armed with magic swords, bombard him with fire, lightning and ice; one blast hits him as he tries to get out.[@shaldo.so08-level4, shaldo.so08-bombard] The elemental attacks come from the magic swords, not from Shaldo.
+Valletta draws the enraged Bete into the middle of the field while her followers, all armed with [[magic-sword|magic swords]], bombard him with fire, lightning and ice; one blast hits him as he tries to get out.[@shaldo.so08-level4, shaldo.so08-bombard] The elemental attacks come from the magic swords, not from Shaldo.
 
 #### Broken by Hati {#shaldo-broken-by-hati}
 

@@ -21,7 +21,7 @@
       {"label": "Name", "value": "Anya Fromel", "refs": ["fm16-name", "ar02-conflict"]},
       {"label": "Printed as", "value": "Ahnya; Ahnya Fromel (DanMachi 16–18); Anya (Astrea Record 2)", "refs": ["fm01-named", "fm16-name", "ar02-conflict"]},
       {"label": "Adventurer title", "value": "Vana Alfi (former)", "refs": ["fc01-fight", "fm16-street"]},
-      {"label": "Race", "value": "Cat person", "refs": ["fm01-named", "fm17-catperson"]},
+      {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["fm01-named", "fm17-catperson"]},
       {"label": "Family", "value": "[[allen-fromel|Allen Fromel]] (older brother)", "refs": ["fm17-past"]},
       {"section": "Affiliation"},
       {"label": "Occupation", "value": "Waitress at [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm01-named", "fc01-tavern"]},

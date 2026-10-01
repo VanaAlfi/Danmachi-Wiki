@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "War tiger; \"weretiger\" in Minor Myths and Legends 2", "refs": ["ar02-gate", "ss02-bar"]},
+      {"label": "Race", "value": "[[races#war-tiger|War tiger]]; \"weretiger\" in Minor Myths and Legends 2", "refs": ["ar02-gate", "ss02-bar"]},
       {"label": "Build", "value": "Head and shoulders taller than his peers", "refs": ["ar02-gate"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[hermes-familia|Hermes Familia]], which he joined at about the same time as Asfi", "refs": ["ar02-gate", "ar02-speech"]},
@@ -24,7 +24,7 @@
   }
 }
 ---
-**Falgar Batros** is a war tiger of [[hermes-familia|Hermes Familia]], a big greatsword fighter who joined at about the same time as [[asfi|Asfi]] and works as her aide.[@ar02-gate, ar02-speech, ar02-aide] In Astrea Record 2, after the death of the Familia's captain [[hermes-familia#lydis|Lydis]], it is Falgar who persuades the despairing Asfi that she is the right person to lead.[@ar02-speech]
+**Falgar Batros** is a [[races#war-tiger|war tiger]] of [[hermes-familia|Hermes Familia]], a big greatsword fighter who joined at about the same time as [[asfi|Asfi]] and works as her aide.[@ar02-gate, ar02-speech, ar02-aide] In Astrea Record 2, after the death of the Familia's captain [[hermes-familia#lydis|Lydis]], it is Falgar who persuades the despairing Asfi that she is the right person to lead.[@ar02-speech]
 
 ## Character
 

@@ -36,7 +36,7 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 
 | Volume | Events |
 |---|---|
-| DanMachi 10 | The hunter [[ikelos-familia#dix-perdix|Dix]] removes her Tear, transforming her. A cursed spearhead cracks her magic stone and she dies declaring her love for Bell, then is brought back to life by [[fels|Fels]]'s [[magic#dia-orpheus|Dia Orpheus]].[@fm10-wiene] |
+| DanMachi 10 | The hunter [[ikelos-familia#dix-perdix|Dix]] removes her Tear, transforming her. A cursed spearhead cracks her [[magic-stone|magic stone]] and she dies declaring her love for Bell, then is brought back to life by [[fels|Fels]]'s [[magic#dia-orpheus|Dia Orpheus]].[@fm10-wiene] |
 | DanMachi 11 | Saves a girl named Ruu from falling rubble. Facing [[aiz-wallenstein|Aiz]], she tears off her own claws and new wing and tells Aiz that Bell rescued her from darkness and loneliness; Aiz lets them go. She returns safely underground after Bell promises they will share a future.[@fm11-wiene] |
 | Sword Oratoria 10 | The same meeting with Aiz, told from Aiz's side: her loneliness moves Aiz.[@so10-wiene] |
 | DanMachi 14 | Takes part in the rescue from [[floor-37|Floor 37]] and asks after Bell.[@fm14-wiene] |

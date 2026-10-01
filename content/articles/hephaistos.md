@@ -27,11 +27,11 @@
 
 ## Hestia's friend
 
-When [[hestia|Hestia]] first came down to the Lower World she lived with Hephaistos Familia, and Hephaistos later gave her an abandoned church to live in.[@fm04-hestia, fm15-church] At Hestia's request she forges the Hestia Knife for [[bell-cranell|Bell]] from her own mythril, engraved with Hestia's blessing so that only someone with that blessing can wield it.[@fm01-knife] Hestia takes on a large debt for it, confirmed in DanMachi 7 as 200 million valis.[@fm01-loan, fm07-debt]
+When [[hestia|Hestia]] first came down to the Lower World she lived with Hephaistos Familia, and Hephaistos later gave her an abandoned church to live in.[@fm04-hestia, fm15-church] At Hestia's request she forges the [[hestia-knife|Hestia Knife]] for [[bell-cranell|Bell]] from her own mythril, engraved with Hestia's blessing so that only someone with that blessing can wield it.[@fm01-knife] Hestia takes on a large debt for it, confirmed in DanMachi 7 as 200 million valis.[@fm01-loan, fm07-debt]
 
 ## Welf Crozzo
 
-[[welf-crozzo|Welf Crozzo]] was a smith of her Familia until DanMachi 6. In DanMachi 5 she sends Hestia the Crozzo magic sword Welf forged, with a warning to him not to put allies at risk for his pride.[@fm05-sword] In DanMachi 8 she oversees the capture of Rakian infiltrators from the Crozzo family and accepts the surrender of Welf's grandfather.[@fm08-rakia]
+[[welf-crozzo|Welf Crozzo]] was a smith of her Familia until DanMachi 6. In DanMachi 5 she sends Hestia the [[magic-sword|Crozzo magic sword]] Welf forged, with a warning to him not to put allies at risk for his pride.[@fm05-sword] In DanMachi 8 she oversees the capture of Rakian infiltrators from the Crozzo family and accepts the surrender of Welf's grandfather.[@fm08-rakia]
 
 In the same volume Welf sees her uncovered face, both eyes, without recoiling. The narration explains that even with Arcanum she could not change the face that made her the goddess of the forge. She challenges him to forge a weapon that satisfies her.[@fm08-face] In DanMachi 15 she judges his magic sword Shikou Kazuki, which DanMachi 14 calls an imitation of her own work.[@fm15-judged, fm14-imitation]
 

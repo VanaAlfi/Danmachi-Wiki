@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Elf", "refs": ["fm09-royman"]},
+      {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["fm09-royman"]},
       {"section": "Guild"},
       {"label": "Position", "value": "Head of [[guild|the Guild]]", "refs": ["fm09-royman", "fm20-royman"]}
     ]

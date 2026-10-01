@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Dwarf", "refs": ["fm18-mia"]},
+      {"label": "Race", "value": "[[races#dwarf|Dwarf]]", "refs": ["fm18-mia"]},
       {"label": "Occupation", "value": "Owner of [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fc01-owner"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]; half-retired, still bearing Freya's blessing", "refs": ["fm18-mia"]},

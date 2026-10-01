@@ -35,7 +35,7 @@ The **corrupted spirit** is a spirit of the Ancient Times that went down into th
 
 ## The spirits of old
 
-When the gods began their descent, spirits acted as their antennas and carried out their will; some gods released them to guide the civilised peoples and drive monsters off the surface. Sword Oratoria 4 compares them to the Falna of the present day. They gave their protection to many heroes, and many were sent into the Dungeon, which is how the Dungeon Oratoria came about.[@so04-ouranos] In Sword Oratoria 5 [[welf-crozzo|Welf]] traces the Crozzo magic swords to a spirit's blood given to his ancestor, and Loki Familia's members silently wonder whether [[aiz-wallenstein|Aiz]]'s wind comes from spirit blood too.[@so05-blood]
+When the gods began their descent, spirits acted as their antennas and carried out their will; some gods released them to guide the civilised peoples and drive monsters off the surface. Sword Oratoria 4 compares them to the Falna of the present day. They gave their protection to many heroes, and many were sent into the Dungeon, which is how the Dungeon Oratoria came about.[@so04-ouranos] In Sword Oratoria 5 [[welf-crozzo|Welf]] traces the [[magic-sword|Crozzo magic swords]] to a spirit's blood given to his ancestor, and Loki Familia's members silently wonder whether [[aiz-wallenstein|Aiz]]'s wind comes from spirit blood too.[@so05-blood]
 
 ## The corrupted spirit
 
@@ -43,7 +43,7 @@ Watching Floor 59 through Fels's eye on Aiz's loin guard, [[ouranos|Ouranos]] re
 
 [[olivas-act|Olivas Act]] tells Loki Familia on Floor 24 that She wants to see the sky, and that the city blocking her view from underground must be destroyed.[@so03-olivas] In the Chamber of Prayers, Fels and Ouranos take the hybrid creatures to be a result of the corrupted spirit as well.[@so04-creatures] In Sword Oratoria 12 [[filvis|Filvis]] explains that a fragment of it was on Floor 27 on the day of the Twenty-Seventh-Floor Nightmare, drawn by the smell of blood and looking for new feelers among the adventurers there.[@so12-feelers]
 
-Its colourful monsters, the caterpillars and the violas, attack other monsters to collect magic stones for it. Finn calls them its "tentacles".[@so04-tentacles, so06-her] Loki explains in Sword Oratoria 6 that the violas prefer other monsters' magic stones even to human flesh.[@so06-dust] From the transformed terrain of Floor 59, and the tentacles that came up from far below to protect the demi-spirit, Ouranos concludes that the spirit's true form lies much deeper, past the sixtieth floor.[@so04-main]
+Its colourful monsters, the caterpillars and the violas, attack other monsters to collect [[magic-stone|magic stones]] for it. Finn calls them its "tentacles".[@so04-tentacles, so06-her] Loki explains in Sword Oratoria 6 that the violas prefer other monsters' magic stones even to human flesh.[@so06-dust] From the transformed terrain of Floor 59, and the tentacles that came up from far below to protect the demi-spirit, Ouranos concludes that the spirit's true form lies much deeper, past the sixtieth floor.[@so04-main]
 
 ## Crystal orbs and seeds
 
@@ -63,7 +63,7 @@ On Floor 59 Loki Familia finds a woman with a giant plant-like lower half: River
 
 ### Gugalanna, the Bull of Heaven {#gugalanna}
 
-In Sword Oratoria 7 a demi-spirit like a giant ox, with a woman's upper body jutting from its forehead, breaks into Knossos while Loki Familia is there; Levis calls its arrival an Irregular.[@so07-bull] It is the "Bull of Heaven" that [[ishtar|Ishtar]] was to receive from the Evils for her revenge on [[freya|Freya]].[@so07-ishtar] [[gareth|Gareth]] guesses it parasitised a power bull. Its bovine half has the strength while its upper half casts magic at great speed.[@so07-cast, so07-frail] [[hyrute-sisters|Tiona]] destroys its legs, and Gareth, Tione and Tiona pull on [[magic#restrict-iorum|Restrict Iorum]]'s whip of light until the spirit's head is torn off.[@so07-legs, so07-head]
+In Sword Oratoria 7 a demi-spirit like a giant ox, with a woman's upper body jutting from its forehead, breaks into Knossos while Loki Familia is there; Levis calls its arrival an [[irregular|Irregular]].[@so07-bull] It is the "Bull of Heaven" that [[ishtar|Ishtar]] was to receive from the Evils for her revenge on [[freya|Freya]].[@so07-ishtar] [[gareth|Gareth]] guesses it parasitised a power bull. Its bovine half has the strength while its upper half casts magic at great speed.[@so07-cast, so07-frail] [[hyrute-sisters|Tiona]] destroys its legs, and Gareth, Tione and Tiona pull on [[magic#restrict-iorum|Restrict Iorum]]'s whip of light until the spirit's head is torn off.[@so07-legs, so07-head]
 
 ### The six demi-spirits of Knossos {#heavens-gate}
 

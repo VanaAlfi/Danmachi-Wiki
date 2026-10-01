@@ -24,7 +24,7 @@
   }
 }
 ---
-The **lambton** is a giant serpent monster from the deep levels of the [[dungeon|Dungeon]]. "Lambton" is the adventurers' nickname; the species' proper name is *wormwell*, from "serpent" and "water well", because it bores through the earth to move between floors.[@fm13-name, so14-name] It normally lives on [[floor-37|Floor 37]].[@fm13-floor] In DanMachi 13 [[rudra-familia#jura-harma|Jura Harma]]'s tamed lambtons attack [[bell-cranell|Bell]]'s party in the Water Capital, and one of them swallows Bell and [[lyu-leon|Lyu]] and burrows down to the deep levels.[@fm13-ambush, fm14-swallowed]
+The **lambton** is a giant serpent monster from the deep levels of the [[dungeon|Dungeon]]. "Lambton" is the adventurers' nickname; the species' proper name is *wormwell*, from "serpent" and "water well", because it bores through the earth to move between floors.[@fm13-name, so14-name] It normally lives on [[floor-37|Floor 37]].[@fm13-floor] In DanMachi 13 [[rudra-familia#jura-harma|Jura Harma]]'s tamed lambtons attack [[bell-cranell|Bell]]'s party in the [[water-capital|Water Capital]], and one of them swallows Bell and [[lyu-leon|Lyu]] and burrows down to the deep levels.[@fm13-ambush, fm14-swallowed]
 
 ## Description
 

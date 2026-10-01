@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["fm01-bell"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm01-bell"]},
       {"label": "Age", "value": "Fourteen in DanMachi 1", "refs": ["fm01-bell"]},
       {"label": "Raised by", "value": "His grandfather, revealed in DanMachi 5 as the god Zeus", "refs": ["fm05-zeus"]},
       {"section": "Adventurer"},
@@ -40,7 +40,7 @@ Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.
 | Level | Reached | Notes |
 |---|---|---|
 | 1 | DanMachi 1 | Receives Hestia's [[falna|Falna]] as her only follower.[@fm01-bell] |
-| 2 | DanMachi 3 | After defeating a Minotaur alone; the fastest Level-up on record. At Denatus he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
+| 2 | DanMachi 3 | After defeating a [[minotaur|Minotaur]] alone; the fastest Level-up on record. At [[denatus|Denatus]] he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
 | 3 | DanMachi 7 | Announced at the start of the volume.[@fm07-level3] |
 | 4 | DanMachi 12 | After surviving his fight with [[asterios|Asterios]]; he gains the Skill Ox Slayer and the title *Rabbit Foot*.[@fm12-level4, fm12-title] |
 | 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks and the Skill Vanadis Tevere.[@fm18-level5, fm18-vanadis] |
@@ -107,7 +107,7 @@ In DanMachi 19, disguised as the student Rapi, Bell pretends to chant so that hi
 
 The bolt is described as scarlet lightning, "electric flames", which bursts on impact.[@firebolt.fm02-first] Lilly compares it to a spell with a long chant: Firebolt trades power for speed and cannot be dodged easily, and it gets stronger with use because it can be used often. Bell notes that its bolts have grown thicker and stronger since his first cast.[@firebolt.fm03-growth]
 
-Against a strong opponent its speed is not enough. In DanMachi 3 its hits cannot pierce the Minotaur's hide; Bell wins by driving the Hestia Knife into the monster and firing repeated Firebolts into the wound, burning it from inside.[@firebolt.fm03-minotaur] In DanMachi 6, [[hyacinthus|Hyacinthus]]'s [[magic#aro-zephyros|Aro Zephyros]] cuts straight through a Firebolt.[@firebolt.fm06-aro]
+Against a strong opponent its speed is not enough. In DanMachi 3 its hits cannot pierce the Minotaur's hide; Bell wins by driving the [[hestia-knife|Hestia Knife]] into the monster and firing repeated Firebolts into the wound, burning it from inside.[@firebolt.fm03-minotaur] In DanMachi 6, [[hyacinthus|Hyacinthus]]'s [[magic#aro-zephyros|Aro Zephyros]] cuts straight through a Firebolt.[@firebolt.fm06-aro]
 
 #### Cost and Mind Down {#firebolt-cost-and-mind-down}
 

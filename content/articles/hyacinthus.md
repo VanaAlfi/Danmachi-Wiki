@@ -26,7 +26,7 @@
 
 ## The War Game
 
-Before the [[war-game|War Game]] of DanMachi 6, Hyacinthus defeats [[bell-cranell|Bell]].[@fm06-hyacinthus] In the Castle Siege he is Apollo Familia's commander; he fights with the magic sword Solar Flamberge and the spell [[#aro-zephyros|Aro Zephyros]], and Bell defeats him in their final duel, winning the War Game for [[hestia-familia|Hestia Familia]].[@fm06-hyacinthus, fm06-duel]
+Before the [[war-game|War Game]] of DanMachi 6, Hyacinthus defeats [[bell-cranell|Bell]].[@fm06-hyacinthus] In the Castle Siege he is Apollo Familia's commander; he fights with the [[magic-sword|magic sword]] Solar Flamberge and the spell [[#aro-zephyros|Aro Zephyros]], and Bell defeats him in their final duel, winning the War Game for [[hestia-familia|Hestia Familia]].[@fm06-hyacinthus, fm06-duel]
 
 ## After the war
 

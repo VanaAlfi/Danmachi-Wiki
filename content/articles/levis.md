@@ -29,7 +29,7 @@
 | Volume | Events |
 |---|---|
 | Sword Oratoria 2 | Defeats Aiz and directs her toward Floor 59.[@so02-levis] |
-| Sword Oratoria 3 | Tears out the magic stone of [[olivas-act|Olivas Act]], killing him, and eats it. She becomes stronger and faster than Aiz at Level 6, who needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] |
+| Sword Oratoria 3 | Tears out the [[magic-stone|magic stone]] of [[olivas-act|Olivas Act]], killing him, and eats it. She becomes stronger and faster than Aiz at Level 6, who needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] |
 | Sword Oratoria 7 | Wounds [[finn-deimne|Finn]] with a curse that prevents healing, and wins a direct duel with Aiz in [[knossos|Knossos]].[@so07-levis] |
 | Sword Oratoria 10 | Loses her left arm to the elves' barrage and regrows it; Ein stops her pursuit on Enyo's orders.[@so10-levis] |
 | Sword Oratoria 11 | Sees through Aiz's diversion but refuses to fight, because Enyo's altar plan is already under way.[@so11-levis] |

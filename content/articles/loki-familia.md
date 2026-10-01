@@ -28,7 +28,7 @@
 
 ## Founding
 
-Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the high elf [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of Lonza she arranged.[@so14-founding]
+Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of Lonza she arranged.[@so14-founding]
 
 ## Leading members
 
@@ -40,14 +40,14 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[aiz-wallenstein|Aiz Wallenstein]] | Joined at seven; Level 6 from DanMachi 2.[@so09-aiz, fm02-aiz] |
 | [[bete-loga|Bete Loga]] | Joined after leaving Víðarr Familia; Level 6 from Sword Oratoria 6.[@so08-bete, so06-bete] |
 | [[raul-nord|Raul Nord]] | Level 4; supervises the Familia's lower ranks.[@so04-raul] |
-| [[narfi|Narfi]] and [[cruz-bussell|Cruz Bussell]] | A human and a chienthrope, both Level 4, who lead the Familia's secondary forces.[@so10-secondary] |
-| [[rakuta|Rakuta]] | Hume bunny supporter whose maps of Knossos underpin Finn's assault plans.[@so10-rakuta, so11-rakuta] |
+| [[narfi|Narfi]] and [[cruz-bussell|Cruz Bussell]] | A human and a [[races#chienthrope|chienthrope]], both Level 4, who lead the Familia's secondary forces.[@so10-secondary] |
+| [[rakuta|Rakuta]] | [[races#hume-bunny|Hume bunny]] supporter whose maps of Knossos underpin Finn's assault plans.[@so10-rakuta, so11-rakuta] |
 
 Finn, Riveria and Gareth reach Level 7 together in Sword Oratoria 14; by DanMachi 20 they are among the five named Level 7s.[@so14-sevens, fm20-sevens]
 
 ## Rivalry with Freya Familia
 
-Sword Oratoria 4 calls [[ottar|Ottar]] one of Loki Familia's longest-standing foes, at the top of its blacklist.[@so04-ottar] In the same volume Freya Familia blocks Loki Familia so that [[bell-cranell|Bell]] faces the Minotaur alone.[@so04-block]
+Sword Oratoria 4 calls [[ottar|Ottar]] one of Loki Familia's longest-standing foes, at the top of its blacklist.[@so04-ottar] In the same volume Freya Familia blocks Loki Familia so that [[bell-cranell|Bell]] faces the [[minotaur|Minotaur]] alone.[@so04-block]
 
 ## History
 

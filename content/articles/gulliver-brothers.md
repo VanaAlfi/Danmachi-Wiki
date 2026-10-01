@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Group"},
       {"label": "Members", "value": "Alfrik, Dvalinn, Berling and Grer", "refs": ["fm16-weapons"]},
-      {"label": "Race", "value": "Prum; quadruplets", "refs": ["fc02-bringar"]},
+      {"label": "Race", "value": "[[races#prum|Prum]]; quadruplets", "refs": ["fc02-bringar"]},
       {"label": "Title", "value": "Bringar, the Four Knights of the Golden Flame", "refs": ["fc02-bringar"]},
       {"section": "Adventurers"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-bringar"]},
@@ -41,7 +41,7 @@ They joined Freya Familia after [[hegni|Hegni]] and [[hedin|Hedin]] and before [
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 4 | With Allen, they keep [[loki-familia|Loki Familia]] away from [[bell-cranell|Bell]]'s fight with the Minotaur.[@so04-bringar] |
+| Sword Oratoria 4 | With Allen, they keep [[loki-familia|Loki Familia]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]].[@so04-bringar] |
 | DanMachi 16 | During the festival they defeat Anya, [[chloe|Chloe]] and [[runoa|Runoa]], who are protecting the false [[syr-flover|Syr]].[@fm16-fight] |
 | DanMachi 18 | In the Familia War, [[lilliluka-erde|Lilly]] uses [[magic#cinder-ella|Cinder Ella]] to pass as Berling and breaks their coordination. Chloe defeats Dvalinn, and Runoa, with [[haruhime|Haruhime]]'s Level Boost, defeats Grer.[@fm18-command, fm18-dvalinn, fm18-grer] |
 | DanMachi 19 | Work as waiters at [[the-benevolent-mistress|The Benevolent Mistress]], wearing white aprons over their armour.[@fm19-aprons] |

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Renart", "refs": ["fm07-name"]},
+      {"label": "Race", "value": "[[races#renart|Renart]]", "refs": ["fm07-name"]},
       {"label": "Name as printed", "value": "Sanjyouno Haruhime (DanMachi 7); Haruhime Sanjouno (later volumes)", "refs": ["fm07-name", "fm15-name"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Ishtar Familia; [[hestia-familia|Hestia Familia]] from DanMachi 7", "refs": ["fm07-history", "fm07-join"]},
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Haruhime** is a renart from the Far East and a sorceress whose spell [[#uchide-no-kozuchi|Uchide no Kozuchi]] temporarily raises another person by a Level.[@fm07-name, fm07-history] Held by [[ishtar-familia|Ishtar Familia]] until DanMachi 7, she then joins [[hestia-familia|Hestia Familia]].[@fm07-join]
+**Haruhime** is a [[races#renart|renart]] from the Far East and a sorceress whose spell [[#uchide-no-kozuchi|Uchide no Kozuchi]] temporarily raises another person by a Level.[@fm07-name, fm07-history] Held by [[ishtar-familia|Ishtar Familia]] until DanMachi 7, she then joins [[hestia-familia|Hestia Familia]].[@fm07-join]
 
 ## Name
 
@@ -106,7 +106,7 @@ Once cast, the boost lasts until its time runs out or Haruhime ends it; knocking
 
 The boost is temporary and does not count as a Level Up. In DanMachi 18, [[anya-fromel|Anya Fromel]], a Level 4, fights at pseudo-Level 5 during the [[war-game|War Game]] only.[@uchide-no-kozuchi.fm18-anya]
 
-Fighting under the boost costs the target experience: they receive less than half the normal excelia, while Haruhime's own development is not reduced by casting it.[@uchide-no-kozuchi.fm15-excelia]
+Fighting under the boost costs the target experience: they receive less than half the normal [[excelia|excelia]], while Haruhime's own development is not reduced by casting it.[@uchide-no-kozuchi.fm15-excelia]
 
 #### Limits {#uchide-no-kozuchi-limits}
 

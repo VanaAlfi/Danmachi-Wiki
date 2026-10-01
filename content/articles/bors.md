@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["so02-bors", "so03-bors"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so02-bors", "so03-bors"]},
       {"label": "Appearance", "value": "Hulking; a patch over his left eye", "refs": ["fm05-boris", "so02-bors"]},
       {"label": "Printed names", "value": "Bors Elder; Bors; Boris (DanMachi 5)", "refs": ["so02-bors", "fm05-boris"]},
       {"section": "Adventurer"},
@@ -32,7 +32,7 @@
 
 Bors is a hulking man with a black patch over his left eye.[@fm05-boris, so02-bors] His motto is that adventurers are outlaws, and he runs Rivira's only storage facility, where adventurers leave spare equipment for a fee.[@so03-bors] He trades information for valis, though he talks quickly enough once [[bete-loga|Bete]] grabs his collar.[@so03-bors] Money moves him: he puts a bounty hunt together in DanMachi 13 and tries to claim a share of a reward in DanMachi 14.[@fm13-bounty, fm14-report]
 
-He once dreamed of becoming a smith and has become something of a weapons expert. After [[aiz-wallenstein|Aiz]] defeats the floor boss Udaeus in Sword Oratoria 2, he talks her into leaving its black sword with him, promising to make it into a great weapon.[@so02-sword] When Aiz asks about it in Minor Myths and Legends 2, he breaks into a sweat and runs off with a fake smile.[@ss02-sword]
+He once dreamed of becoming a smith and has become something of a weapons expert. After [[aiz-wallenstein|Aiz]] defeats the floor boss [[udaeus|Udaeus]] in Sword Oratoria 2, he talks her into leaving its black sword with him, promising to make it into a great weapon.[@so02-sword] When Aiz asks about it in Minor Myths and Legends 2, he breaks into a sweat and runs off with a fake smile.[@ss02-sword]
 
 ## Rivira's head
 

@@ -35,7 +35,7 @@
 | Member | Joins | From | Notes |
 |---|---|---|---|
 | [[bell-cranell|Bell Cranell]] | DanMachi 1 | — | First member; Hestia's only follower through DanMachi 1.[@fm01-found, fm01-bell] |
-| [[lilliluka-erde|Lilliluka Erde]] (Lilly) | DanMachi 6 | [[soma-familia|Soma Familia]] | Converts with both gods' consent, with the Hestia Knife as collateral.[@fm06-lilly] |
+| [[lilliluka-erde|Lilliluka Erde]] (Lilly) | DanMachi 6 | [[soma-familia|Soma Familia]] | Converts with both gods' consent, with the [[hestia-knife|Hestia Knife]] as collateral.[@fm06-lilly] |
 | [[welf-crozzo|Welf Crozzo]] | DanMachi 6 | [[hephaistos-familia|Hephaistos Familia]] | Leaves Hephaistos Familia and converts after reaching Level 2.[@fm06-join] |
 | [[mikoto|Mikoto]] | DanMachi 6 | [[takemikazuchi-familia|Takemikazuchi Familia]] | Converts under the one-year transfer rule.[@fm06-join] |
 | [[haruhime|Haruhime]] | DanMachi 7 | — | Accepted by Hestia.[@fm07-haruhime] |

@@ -40,7 +40,7 @@ Her charm can reach mortals and gods through sight or voice. In DanMachi 17 she 
 
 ## Syr Flover {#syr}
 
-As a mortal persona, Freya uses the appearance, name and history of a girl originally called Syr. That girl received the name Hörn instead, and her [[falna|Falna]] lets her take on Freya's appearance and divinity, but not Arcanum.[@fm16-horn, fm17-prologue] Freya still attends Denatus and other gatherings of the gods in person, because she expects [[loki|Loki]] to see through a stand-in.[@fm17-prologue] See [[syr-flover|Syr Flover]] and [[horn|Hörn]].
+As a mortal persona, Freya uses the appearance, name and history of a girl originally called Syr. That girl received the name Hörn instead, and her [[falna|Falna]] lets her take on Freya's appearance and divinity, but not Arcanum.[@fm16-horn, fm17-prologue] Freya still attends [[denatus|Denatus]] and other gatherings of the gods in person, because she expects [[loki|Loki]] to see through a stand-in.[@fm17-prologue] See [[syr-flover|Syr Flover]] and [[horn|Hörn]].
 
 ## The Odr
 
@@ -58,7 +58,7 @@ In Familia Chronicle 2 Freya mentors Ali, later King Aram of Shalzad, before let
 |---|---|
 | DanMachi 1 | Releases a silverback to test Bell and watches him defeat it.[@fm01-freya, fm17-double] |
 | DanMachi 2 | Picks a [[grimoire|grimoire]] from her own bookcase and leaves it at the tavern for Bell to find.[@fm02-eyes, fm17-double] |
-| DanMachi 3 | Leaves Bell's development to [[ottar|Ottar]], who prepares the Minotaur Bell fights, and watches from the fiftieth floor of Babel.[@fm03-babel, fm03-ottar] |
+| DanMachi 3 | Leaves Bell's development to [[ottar|Ottar]], who prepares the [[minotaur|Minotaur]] Bell fights, and watches from the fiftieth floor of Babel.[@fm03-babel, fm03-ottar] |
 | DanMachi 4 | At Denatus she protects [[hestia-familia|Hestia Familia]] from scrutiny of its Status.[@fm04-denatus] |
 | DanMachi 7 | After [[ishtar|Ishtar]] abducts Bell, sends her Familia against [[ishtar-familia|Ishtar Familia]]; Ishtar is sent back to the heavens and the [[guild|Guild]] fines Freya.[@fm07-ishtar, fm07-fine] |
 | Sword Oratoria 9 | Shelters [[ishtar-familia#tammuz-berrilli|Tammuz]], a former follower of Ishtar, and has Ottar dispose of the assassins sent after him.[@so09-tammuz] |

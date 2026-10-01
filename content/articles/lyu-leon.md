@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Elf", "refs": ["fm15-origins"]},
+      {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["fm15-origins"]},
       {"label": "Home", "value": "Lumirua Forest", "refs": ["fm15-origins"]},
       {"label": "Workplace", "value": "[[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm01-lyu"]},
       {"section": "Adventurer"},
@@ -43,7 +43,7 @@ Astrea Familia is later destroyed and Lyu is its only survivor. She persuades As
 
 ## At The Benevolent Mistress
 
-Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops [[lilliluka-erde|Lilly]] after the first theft of the Hestia Knife and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the El Dorado casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
+Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops [[lilliluka-erde|Lilly]] after the first theft of the [[hestia-knife|Hestia Knife]] and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the El Dorado casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
 
 ## History
 
@@ -59,7 +59,7 @@ In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murd
 
 During the festival of DanMachi 16 she protects the false Syr from [[hegni|Hegni]] and is defeated by him.[@fm16-hegni] In DanMachi 17 she escapes [[freya|Freya]]'s charm with [[asfi|Asfi]], is captured and held under [[folkvangr|Folkvangr]], and is freed by [[horn|Hörn]].[@fm17-lyu]
 
-Before the Familia War of DanMachi 18, Astrea, waiting in Zolingam, updates her twice in succession, from Level 4 to Level 6. It is the first consecutive Level-up since the age of the gods began.[@fm18-double, fc03-stages] In the war she defeats Hegni and helps defeat [[ottar|Ottar]].[@fm18-hegni] During the battle she tells Bell that she loves him; he hears and understands her, but the volume does not show a relationship beginning.[@fm18-confess]
+Before the Familia War of DanMachi 18, Astrea, waiting in [[zolingam|Zolingam]], updates her twice in succession, from Level 4 to Level 6. It is the first consecutive Level-up since the age of the gods began.[@fm18-double, fc03-stages] In the war she defeats Hegni and helps defeat [[ottar|Ottar]].[@fm18-hegni] During the battle she tells Bell that she loves him; he hears and understands her, but the volume does not show a relationship beginning.[@fm18-confess]
 
 ### DanMachi 19–20
 

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Elf", "refs": ["so01-lefiya"]},
+      {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so01-lefiya"]},
       {"label": "Schooling", "value": "[[school-district|The School District]], admitted at eight", "refs": ["so13-admitted"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so01-lefiya"]},

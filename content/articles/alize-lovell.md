@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["fm15-rescue", "fc03-story"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm15-rescue", "fc03-story"]},
       {"label": "Appearance", "value": "Red hair tied in a ponytail; green eyes", "refs": ["fm15-rescue", "fm14-dream"]},
       {"label": "Home", "value": "Stardust Garden, Astrea Familia's home (printed once as Starlight Garden)", "refs": ["ar02-astrea", "fc03-moment", "ar02-deputies"]},
       {"section": "Adventurer"},
@@ -115,7 +115,7 @@ Alize hears out Lyu's troubles, takes her hand to "practice", and Lyu does not p
 
 ### Astrea Record 1
 
-She leads the Familia against an Evils attack on a factory; a fireball fails to burn her, and she boasts that no one should aim fire at Scarlett Harnell.[@ar01-factory] On patrol with Lyu she meets the god who calls himself Eren and steps in front of Lyu: "I don't like the way this guy talks!"[@ar01-eren] Astrea Record 2 identifies Eren as the dark god [[erebus|Erebus]] in disguise.[@ar02-eren] With Kaguya and Lyra she fights the Evils' Vito, and she leads the Familia to a clearing on Floor 18 to calm Lyu and Kaguya after a quarrel.[@ar01-vito, ar01-forest]
+She leads the Familia against an Evils attack on a factory; a fireball fails to burn her, and she boasts that no one should aim fire at Scarlett Harnell.[@ar01-factory] On patrol with Lyu she meets the god who calls himself Eren and steps in front of Lyu: "I don't like the way this guy talks!"[@ar01-eren] Astrea Record 2 identifies Eren as the dark god [[erebus|Erebus]] in disguise.[@ar02-eren] With Kaguya and Lyra she fights the Evils' [[vito|Vito]], and she leads the Familia to a clearing on Floor 18 to calm Lyu and Kaguya after a quarrel.[@ar01-vito, ar01-forest]
 
 When [[valletta|Valletta Grede]] attacks a soup kitchen, Alize and Lyu strike at her; Valletta mocks "two Level Threes" against a Level 5 until Gareth arrives. The two then guide survivors to the evacuation point, [[twilight-manor|Twilight Manor]].[@ar01-gareth, ar01-valletta] At the Guild's council she stops the leaders blaming one another and volunteers Astrea Familia for a raid on the Evils' bases.[@ar01-council] In the raid she and Shakti, Levels 3 and 4, hold off Valletta. Then [[shakti-varma|Shakti]]'s sister Ardee dies in a child's self-detonation, and Alize orders everyone out of the collapsing building.[@ar01-raid] On the first night of the Great Conflict she runs to find Astrea and reaches her and [[hermes|Hermes]] as Erebus shows himself. He tells Astrea she has "you and yours to thank" for still being alive.[@ar01-hunch, ar01-erebus]
 

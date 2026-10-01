@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Dwarf", "refs": ["fm05-leaders"]},
+      {"label": "Race", "value": "[[races#dwarf|Dwarf]]", "refs": ["fm05-leaders"]},
       {"label": "From", "value": "Lonza, where he was a foreman", "refs": ["so14-gareth"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-gareth"]},

@@ -30,15 +30,15 @@
   }
 }
 ---
-**Ushiwakamaru** is the name of the crimson daggers that [[welf-crozzo|Welf Crozzo]] forged for [[bell-cranell|Bell Cranell]] from the Minotaur Horn, the drop item of the Minotaur Bell killed in DanMachi 3. Welf split the horn in two. The smaller half became the first Ushiwakamaru in DanMachi 4; the remaining half became a second, stronger blade, printed as *Ushiwakamaru-Shiki* or *Ushiwakamaru-Nishiki*.[@fm04-horn, fm04-split, fm06-shiki, fm07-table] The two blades are separate weapons, and Bell carries both at once.[@fm07-both]
+**Ushiwakamaru** is the name of the crimson daggers that [[welf-crozzo|Welf Crozzo]] forged for [[bell-cranell|Bell Cranell]] from the [[minotaur|Minotaur]] Horn, the drop item of the Minotaur Bell killed in DanMachi 3. Welf split the horn in two. The smaller half became the first Ushiwakamaru in DanMachi 4; the remaining half became a second, stronger blade, printed as *Ushiwakamaru-Shiki* or *Ushiwakamaru-Nishiki*.[@fm04-horn, fm04-split, fm06-shiki, fm07-table] The two blades are separate weapons, and Bell carries both at once.[@fm07-both]
 
 ## The Minotaur Horn
 
-When Bell's Minotaur turned to ash, only its magic stone and a horn remained. [[lilliluka-erde|Lilly]] sold the stone but kept the horn for him. Under its charred surface it is red; {{inference}} Bell wonders whether that was its original colour or whether his magic caused it, and the novels do not say.[@fm04-horn] Welf finds it in good shape and "quite a bit denser than usual", and explains that Minotaur Horns have a metallic element, so they can be shaped with heat.[@fm04-welf]
+When Bell's Minotaur turned to ash, only its [[magic-stone|magic stone]] and a horn remained. [[lilliluka-erde|Lilly]] sold the stone but kept the horn for him. Under its charred surface it is red; {{inference}} Bell wonders whether that was its original colour or whether his magic caused it, and the novels do not say.[@fm04-horn] Welf finds it in good shape and "quite a bit denser than usual", and explains that Minotaur Horns have a metallic element, so they can be shaped with heat.[@fm04-welf]
 
 ## The first blade
 
-Welf breaks the horn in two with a chisel, sets the larger half aside and forges the smaller.[@fm04-split] The result is a dark red dagger with a very thin edge, a little shorter than Bell's Divine Knife.[@fm04-blade]
+Welf breaks the horn in two with a chisel, sets the larger half aside and forges the smaller.[@fm04-split] The result is a dark red dagger with a very thin edge, a little shorter than Bell's [[hestia-knife|Divine Knife]].[@fm04-blade]
 
 ### Name
 

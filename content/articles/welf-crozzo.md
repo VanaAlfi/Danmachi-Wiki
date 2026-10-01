@@ -26,7 +26,7 @@
   }
 }
 ---
-**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[ares#kingdom-of-rakia|Rakia]]. He is the only living Crozzo who can still forge magic swords.[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
+**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[ares#kingdom-of-rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
 
 ## Name
 
@@ -43,7 +43,7 @@ Welf received his first [[falna|Falna]] from the goddess Phobos on his tenth bir
 | Volume | Events |
 |---|---|
 | DanMachi 2 | Bell buys armour signed "Welf Krozzo", a smith of [[hephaistos-familia|Hephaistos Familia]].[@fm02-krozzo] |
-| DanMachi 4 | Contracts with Bell and joins his party so that he can earn the Development Ability Forge; he forges the dagger [[ushiwakamaru|Ushiwakamaru]] from a Minotaur horn.[@fm04-smith, fm04-horn] |
+| DanMachi 4 | Contracts with Bell and joins his party so that he can earn the Development Ability Forge; he forges the dagger [[ushiwakamaru|Ushiwakamaru]] from a [[minotaur|Minotaur]] horn.[@fm04-smith, fm04-horn] |
 | DanMachi 5 | Reveals his anti-magic spell and, to save Bell, uses his first Crozzo magic sword, which shatters after breaking the Black [[goliath|Goliath]]'s regeneration.[@fm05-wisp] |
 | DanMachi 6 | Reaches Level 2, gains Forge and becomes a High Smith; he leaves Hephaistos Familia, converts to Hestia Familia and forges magic swords for the [[war-game|War Game]].[@fm06-level2] |
 | DanMachi 8 | His father and grandfather come from Rakia to take him back. His magic sword destroys the family's old one, he rejects Rakia, and he confesses his feelings to [[hephaistos|Hephaistos]].[@fm08-wil, fm08-hephaistos] |
@@ -123,7 +123,7 @@ On its first use, against hellhounds on the middle floors, the monsters explode 
 
 ## Hephaistos
 
-In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hephaistos] Shikou Kazuki is progress toward it, but the narration calls it a foothold and an imitation of her craft, and DanMachi 18 still calls it a stepping stone.[@fm14-shikou, fm18-stone]
+DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visits a smithy in [[zolingam|Zolingam]] and sees a redheaded boy working there for room and board, under a name the owner thinks false. He tells her his name is just Welf, and she invites him to join her Familia.[@fm15-zolingam] In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hephaistos] Shikou Kazuki is progress toward it, but the narration calls it a foothold and an imitation of her craft, and DanMachi 18 still calls it a stepping stone.[@fm14-shikou, fm18-stone]
 
 ## Open questions
 
@@ -144,6 +144,7 @@ In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hep
 [@fm14-shikou]: FM14 | Chapter 8: The Voice of the Hammer | Shikou Kazuki.
 [@fm15-phobos]: FM15 | Chapter 5: Blue Flame | Phobos; Vil Crozzo.
 [@fm15-blood]: FM15 | Chapter 5: Blue Flame | First Falna; Blood of Crozzo.
+[@fm15-zolingam]: FM15 | Chapter 5: Blue Flame | "a redheaded boy"; "work for room and board"; "I reckon it’s a fake"; "They were in Zolingam, city of sword smiths."; "Hey, Chief—that boy, would you let me have him?"; "Well, then, Welf, would you like to join my familia?"
 [@fm15-judged]: FM15 | Interlude: That Never-Cooling Iron | Hephaistos judges Shikou Kazuki.
 [@fm15-card]: FM15 | | Welf's Level 2 card; Blacksmith; Veritas Burn.
 [@fm18-stone]: FM18 | Chapter 8: The Great Familia War | "A stepping stone."

@@ -24,7 +24,7 @@
   }
 }
 ---
-**Leon Verdenberg** is the captain of Balder Class and the leading professor of [[school-district|the School District]], titled *Knight of Knights* and also *Ultra Page*.[@so13-leon] He is a Level 7, one of five named by DanMachi 20.[@fm20-leon, fm20-hearing] He was born to two half-dwarf parents.[@fm20-parents]
+**Leon Verdenberg** is the captain of Balder Class and the leading professor of [[school-district|the School District]], titled *Knight of Knights* and also *Ultra Page*.[@so13-leon] He is a Level 7, one of five named by DanMachi 20.[@fm20-leon, fm20-hearing] He was born to two [[races#half-dwarf|half-dwarf]] parents.[@fm20-parents]
 
 ## Teacher
 

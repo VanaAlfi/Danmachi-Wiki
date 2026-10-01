@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Half-elf", "refs": ["fm19-nina"]},
+      {"label": "Race", "value": "[[races#half-elf|Half-elf]]", "refs": ["fm19-nina"]},
       {"label": "Age", "value": "Thirteen", "refs": ["fm19-nina"]},
       {"label": "Sister", "value": "[[eina-tulle|Eina Tulle]]", "refs": ["fm19-nina"]},
       {"section": "Student"},

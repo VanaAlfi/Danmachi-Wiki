@@ -42,7 +42,7 @@ The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Famil
 
 ### Nahza Ersuisu
 
-Nahza Ersuisu is a sleepy-eyed chienthrope, Miach Familia's captain and, until DanMachi 8, its only member.[@fm02-shop, fm15-rivals, fm15-level, fm18-nahza]
+Nahza Ersuisu is a sleepy-eyed [[races#chienthrope|chienthrope]], Miach Familia's captain and, until DanMachi 8, its only member.[@fm02-shop, fm15-rivals, fm15-level, fm18-nahza]
 
 - **Adventurer:** she is a Level 2; it took her six years to level up. In the middle levels a monster nearly burned her alive and ate her right arm, and she has been unable to face monsters since.[@fm04-level] DanMachi 18 says she retired as an adventurer six years before.[@fm18-nahza]
 - **Chemist:** she switched from adventurer to chemist and learned the Development Ability printed in DanMachi 4 as *Synthesize*, which later volumes call [[development-ability#compounding|Compounding]].[@fm04-level, fm15-compounding]

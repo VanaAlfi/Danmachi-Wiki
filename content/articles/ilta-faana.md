@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Amazon", "refs": ["fm10-ilta", "fm18-past"]},
+      {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm10-ilta", "fm18-past"]},
       {"label": "Appearance", "value": "Fiery red hair; wheat-coloured skin", "refs": ["fm10-ilta", "ar01-unit"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[ganesha-familia|Ganesha Familia]]", "refs": ["fm18-past"]},

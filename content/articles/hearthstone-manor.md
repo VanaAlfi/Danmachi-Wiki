@@ -33,7 +33,7 @@
 | DanMachi 19–20 | The former members of [[freya-familia|Freya Familia]] stand guard around the manor to protect [[haruhime|Haruhime]] and [[lyu-leon|Lyu]].[@fm19-guard, fm20-guards] |
 | DanMachi 20 | [[nina-tulle|Nina Tulle]] joins the household as an intern. [[syr-flover|Syr]] visits regularly and asks to stay, since the [[guild|Guild]] has seized [[folkvangr|Folkvangr]] and the tavern is crowded.[@fm20-nina, fm20-syr] |
 
-Familia Chronicle 3 compares it with [[astrea|Astrea]]'s house near Zolingam, which is spacious for a lodge but nothing like Hearthstone Manor.[@fc03-home]
+Familia Chronicle 3 compares it with [[astrea|Astrea]]'s house near [[zolingam|Zolingam]], which is spacious for a lodge but nothing like Hearthstone Manor.[@fc03-home]
 
 [@fm06-manor]: FM06 | | Apollo's manor and gardens pass to Hestia Familia.
 [@fm08-hearthstone]: FM08 | | The home is named Hearthstone Manor.

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Amazon", "refs": ["so08-flowers"]},
+      {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["so08-flowers"]},
       {"label": "Age", "value": "The same as Aiz's, by her own account", "refs": ["ss02-graves"]},
       {"label": "Appearance", "value": "Copper skin; orange eyes; a thick ponytail that swings round her waist", "refs": ["so08-dying", "so08-fishbait", "fm07-lena"]},
       {"label": "Favourite gift", "value": "Forget-me-nots", "refs": ["so08-flowers"]},

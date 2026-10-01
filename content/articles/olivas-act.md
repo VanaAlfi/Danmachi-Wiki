@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human; later a human-monster hybrid", "refs": ["so09-vendetta", "so03-hybrid"]},
+      {"label": "Race", "value": "[[races#human|Human]]; later a [[races#creature|human-monster hybrid]]", "refs": ["so09-vendetta", "so03-hybrid"]},
       {"label": "Appearance", "value": "White hair (silver in Astrea Record 1); yellow-green eyes", "refs": ["so03-hybrid", "so03-her", "ar01-commander"]},
       {"label": "Title", "value": "White Devil, Vendetta", "refs": ["so03-identity", "so09-vendetta"]},
       {"section": "Evils"},
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Olivas Act**, titled *White Devil, Vendetta*, is a human commander of [[evils|the Evils]] and the mastermind of the Twenty-Seventh-Floor Nightmare.[@so03-identity, so09-vendetta] The Guild believed him killed in that incident, but in Sword Oratoria 3 he reappears as a "creature", a hybrid of human and monster, kept alive by a vivid magic stone in his chest.[@so03-identity, so03-revived, so03-hybrid] He is killed by [[levis|Levis]], who tears out his magic stone and eats it.[@so03-death]
+**Olivas Act**, titled *White Devil, Vendetta*, is a human commander of [[evils|the Evils]] and the mastermind of the Twenty-Seventh-Floor Nightmare.[@so03-identity, so09-vendetta] The Guild believed him killed in that incident, but in Sword Oratoria 3 he reappears as a "creature", a hybrid of human and monster, kept alive by a vivid [[magic-stone|magic stone]] in his chest.[@so03-identity, so03-revived, so03-hybrid] He is killed by [[levis|Levis]], who tears out his magic stone and eats it.[@so03-death]
 
 ## The dark age
 

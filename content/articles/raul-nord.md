@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["so04-raul"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so04-raul"]},
       {"label": "Age", "value": "Twenty-one in Sword Oratoria 4", "refs": ["so04-raul"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-raul"]},

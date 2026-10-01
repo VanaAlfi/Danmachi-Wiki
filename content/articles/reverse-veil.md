@@ -38,7 +38,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 
 - **Presence and sound.** [[aiz-wallenstein|Aiz]] follows the invisible Bell by his faint footsteps and presence.[@fm11-aiz] Tiona and Tione pinpoint Welf and Mikoto.[@fm11-sisters] [[bete-loga|Bete]] tracks the noise and air tremor of the veiled group moving over the rooftops, guesses that someone is using an invisibility cloth, and finds their alley.[@so10-bete, fm11-bete] In DanMachi 18 Bell worries that the chime of his charging Skill will give him away even though he is invisible, and it does.[@fm18-bell, fm18-torn]
 - **Wind.** Running fast enough can blow the cloak off: in DanMachi 16 Bell and Syr suddenly reappear in the street when it peels away.[@fm16-escape]
-- **Damage.** An attack that tears the veil ends the invisibility.[@fm18-torn] In DanMachi 18 a blast from magic swords reduces Haruhime's veil to scraps; her goliath-cloth garment underneath protects her, but she cannot turn invisible again.[@fm18-scraps]
+- **Damage.** An attack that tears the veil ends the invisibility.[@fm18-torn] In DanMachi 18 a blast from [[magic-sword|magic swords]] reduces Haruhime's veil to scraps; her goliath-cloth garment underneath protects her, but she cannot turn invisible again.[@fm18-scraps]
 
 ## Scent: conflicting descriptions
 

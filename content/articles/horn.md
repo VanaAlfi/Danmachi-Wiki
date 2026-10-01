@@ -48,7 +48,7 @@ On the second day of the festival in DanMachi 16, Hörn appears as Syr and tries
 
 ### DanMachi 17
 
-While Bell is held in [[folkvangr|Folkvangr]], Hörn frees [[lyu-leon|Lyu]] and returns the Hestia Knife to Bell.[@fm17-horn] She recognises her own feelings for Bell but chooses to remain Hörn. Gravely wounded, she uses Vana Seiðr to show Bell Freya's hidden plea to be saved; Freya orders that she be healed so that she can be judged rather than die.[@fm17-horn, fm17-save]
+While Bell is held in [[folkvangr|Folkvangr]], Hörn frees [[lyu-leon|Lyu]] and returns the [[hestia-knife|Hestia Knife]] to Bell.[@fm17-horn] She recognises her own feelings for Bell but chooses to remain Hörn. Gravely wounded, she uses Vana Seiðr to show Bell Freya's hidden plea to be saved; Freya orders that she be healed so that she can be judged rather than die.[@fm17-horn, fm17-save]
 
 ### DanMachi 18–20
 

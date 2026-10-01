@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["fm05-look"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm05-look"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Hermes Familia", "refs": ["fm05-asfi"]},
       {"label": "Position", "value": "Captain, succeeding Lydis", "refs": ["fm05-asfi", "ar02-captain"]},
@@ -54,7 +54,7 @@ In Sword Oratoria 3 several members of the Familia die in an operation on Floor 
 | Familia Chronicle 1 | Traces a kidnapped girl through the black market to the El Dorado casino.[@fc01-asfi] |
 | Sword Oratoria 11 | Leads an invisible Hermes Familia detachment in the assault on Knossos.[@so11-key] |
 | DanMachi 17 | Is outside the city with [[lyu-leon|Lyu]] when [[freya|Freya]]'s charm covers Orario, so she escapes it, and helps Hestia break it.[@fm17-asfi, fm17-hearth] |
-| DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches [[astrea|Astrea]] in Zolingam.[@fm18-zolingam] |
+| DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches [[astrea|Astrea]] in [[zolingam|Zolingam]].[@fm18-zolingam] |
 
 ## Open questions
 

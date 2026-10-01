@@ -42,7 +42,7 @@ DanMachi 17 states the limit plainly: the helmet makes only "the wearer and thei
 
 ## Countering it
 
-- **Senses.** In DanMachi 5 Bell cannot see Mord, but he can feel the intensity of his gaze and knows where he is.[@fm05-bell] In DanMachi 10 the black minotaur finds Asfi's general location, "by smell or a gut feeling", and sprays the area with crystal shards.[@fm10-broken]
+- **Senses.** In DanMachi 5 Bell cannot see Mord, but he can feel the intensity of his gaze and knows where he is.[@fm05-bell] In DanMachi 10 the black [[minotaur|minotaur]] finds Asfi's general location, "by smell or a gut feeling", and sprays the area with crystal shards.[@fm10-broken]
 - **Marking.** Bell throws crushed blue crystal into Mord's face, and the powder shows his outline and his sword.[@fm05-bell]
 - **Breaking it.** Bell's kick shatters Mord's helmet and he reappears. The minotaur's crystal shards break Asfi's helmet in DanMachi 10.[@fm05-broken, fm10-broken]
 - **Detection items.** In DanMachi 19 Hermes says he once sneaked into the [[school-district|School District]] with a Hades Head, and that the district has since developed magic items that can pierce invisibility magic.[@fm19-detect]

@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
-      {"label": "Race", "value": "Elf", "refs": ["so02-elf"]},
+      {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so02-elf"]},
       {"label": "Familia", "value": "Dionysus Familia, as captain", "refs": ["so04-captain"]},
       {"label": "Also called", "value": "Maenad", "refs": ["so07-maenad"]},
       {"label": "Public Level", "value": "3", "refs": ["so03-level", "so04-captain"]},
@@ -34,7 +34,7 @@ On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her mag
 
 Filvis died protecting her companions in a disaster on Floor 27 and was turned into a creature by a fragment of the [[corrupted-spirit|corrupted spirit]]; Dionysus exploited her despair.[@so12-filvis] Her magic [[#einsel|Einsel]] creates a second body that can think and act on its own, each with half her Status: this is *Ein*, the masked figure in a purple robe.[@so12-einsel] In Sword Oratoria 11 she appears to be killed; Sword Oratoria 12 reveals this as a deception using her two bodies.[@so11-filvis, so12-filvis]
 
-Recombined, she fights at what [[asfi|Asfi]] calls Level 7 strength, though this is a judgement, not a printed Status.[@so12-power] Lefiya pierces her magic stone with a spell after summoning Dio Grail. The dying Filvis splits: one self clings to Dionysus and disappears as he returns to the heavens, and the other stays with Lefiya and crumbles to ash. The text treats both as truly her.[@so12-end]
+Recombined, she fights at what [[asfi|Asfi]] calls Level 7 strength, though this is a judgement, not a printed Status.[@so12-power] Lefiya pierces her [[magic-stone|magic stone]] with a spell after summoning Dio Grail. The dying Filvis splits: one self clings to Dionysus and disappears as he returns to the heavens, and the other stays with Lefiya and crumbles to ash. The text treats both as truly her.[@so12-end]
 
 Her Status sheet at the end of Sword Oratoria 12 lists three [[skills|Skills]]: Fairy Senior, which amplifies her magic according to her grief; Monstrum Union, which marks her as a hybrid; and Dark Light, which changes the wavelength of her magic and adds an enchantment that rejects recovery. See [[skills#filvis-skills|Skills § Filvis Challia's Skills]].[@skills.so12-sheet]
 

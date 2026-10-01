@@ -31,7 +31,7 @@
 | Member | Notes |
 |---|---|
 | [[asfi|Asfi Al Andromeda]] | Captain, titled Perseus; succeeded Lydis during the [[great-conflict|Great Conflict]].[@fm05-asfi, ar02-captain] |
-| [[lulune-louie|Lulune Louie]] | A chienthrope, secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
+| [[lulune-louie|Lulune Louie]] | A [[races#chienthrope|chienthrope]], secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
 | [[falgar-batros|Falgar]] | Fights in the Great Conflict.[@ar02-falgar] |
 | Merrill | A prum mage, a girl with a pointed hat and a short rod. In Sword Oratoria 3 Asfi calls her forward, and her fireball blasts open the fleshy "gate" on Floor 24. In Sword Oratoria 11 the Familia supports Loki Familia with her magic.[@so03-merrill, so11-merrill] In DanMachi 17 she is one of the members who pass Hermes's fragmentary messages along while Freya's charm holds.[@fm17-merrill] |
 | [[#lydis|Lydis]] | Captain until her death in the Great Conflict.[@ar01-lydis, ar02-captain] |

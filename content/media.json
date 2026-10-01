@@ -14324,6 +14324,390 @@
     1920,
     1080
    ]
+  },
+  "ec25c0fb73a9": {
+   "name": "Hestia knife 02.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Hestia_knife_02.jpg",
+   "uploaded": "2017-06-05T17:46:57Z",
+   "sha256": "ec25c0fb73a9058ae223920b1051091b8c78d1aee0ce3e7aeca658f427c499a4",
+   "files": {
+    "full": {
+     "file": "ec25c0fb73a9-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "ec25c0fb73a9-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1600,
+    900
+   ]
+  },
+  "7d7cb71f72b5": {
+   "name": "Hestia Knife - DanMachi Manga.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Hestia_Knife_-_DanMachi_Manga.png",
+   "uploaded": "2016-06-02T09:10:06Z",
+   "sha256": "7d7cb71f72b5d60fc54f0a9447079a00310a72cb2dfe6b1271ffd1e330e295da",
+   "files": {
+    "full": {
+     "file": "7d7cb71f72b5-full.webp",
+     "w": 654,
+     "h": 1019
+    },
+    "th": {
+     "file": "7d7cb71f72b5-th.webp",
+     "w": 193,
+     "h": 300
+    }
+   },
+   "orig": [
+    654,
+    1019
+   ]
+  },
+  "18010f802e99": {
+   "name": "Minotaur Concept Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Minotaur_Concept_Art.png",
+   "uploaded": "2015-08-04T23:28:31Z",
+   "sha256": "18010f802e99ffea17dc4a2c4d84cd46a8e6f46ca5b676e626bab3ed5ce69a12",
+   "files": {
+    "full": {
+     "file": "18010f802e99-full.webp",
+     "w": 565,
+     "h": 1280
+    },
+    "ib": {
+     "file": "18010f802e99-ib.webp",
+     "w": 398,
+     "h": 900
+    }
+   },
+   "orig": [
+    576,
+    1304
+   ]
+  },
+  "7fb9f1359aea": {
+   "name": "Bell vs Minotaur Firebolt.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Bell_vs_Minotaur_Firebolt.png",
+   "uploaded": "2015-10-26T02:19:24Z",
+   "sha256": "7fb9f1359aea01bfb7af570e1dc8c78780b0ff2d1194fad8a20258a4e5e569a1",
+   "files": {
+    "full": {
+     "file": "7fb9f1359aea-full.webp",
+     "w": 716,
+     "h": 600
+    },
+    "th": {
+     "file": "7fb9f1359aea-th.webp",
+     "w": 300,
+     "h": 251
+    }
+   },
+   "orig": [
+    716,
+    600
+   ]
+  },
+  "c78ebabbffa4": {
+   "name": "Misha Flott.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Misha_Flott.png",
+   "uploaded": "2015-08-04T23:53:38Z",
+   "sha256": "c78ebabbffa4af402f2efa149d9c78cbb85e92b5aae59b23ef3334751101980f",
+   "files": {
+    "full": {
+     "file": "c78ebabbffa4-full.webp",
+     "w": 344,
+     "h": 777
+    },
+    "ib": {
+     "file": "c78ebabbffa4-ib.webp",
+     "w": 344,
+     "h": 777
+    }
+   },
+   "orig": [
+    344,
+    777
+   ]
+  },
+  "afb380636102": {
+   "name": "Eina and Misha 1.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Eina_and_Misha_1.png",
+   "uploaded": "2017-09-08T22:00:56Z",
+   "sha256": "afb38063610242bafb121e67905d56a2c6518c3a0fb22f23683b2c2951f734d6",
+   "files": {
+    "full": {
+     "file": "afb380636102-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "afb380636102-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "58b48593ae33": {
+   "name": "Misha and Eina - DanMachi Manga.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Misha_and_Eina_-_DanMachi_Manga.png",
+   "uploaded": "2016-05-28T23:09:17Z",
+   "sha256": "58b48593ae339730d56b5d3266faf1aa706bb9ba845b68bcd21a5b4e3ea14cbb",
+   "files": {
+    "full": {
+     "file": "58b48593ae33-full.webp",
+     "w": 428,
+     "h": 360
+    },
+    "th": {
+     "file": "58b48593ae33-th.webp",
+     "w": 300,
+     "h": 252
+    }
+   },
+   "orig": [
+    428,
+    360
+   ]
+  },
+  "87a879cddf8e": {
+   "name": "Misha Guild Worker.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Misha_Guild_Worker.png",
+   "uploaded": "2023-02-23T18:36:32Z",
+   "sha256": "87a879cddf8e89744e7073b30d8c70967ac2a583d8cf993464aca3e5601f9bce",
+   "files": {
+    "full": {
+     "file": "87a879cddf8e-full.webp",
+     "w": 943,
+     "h": 935
+    },
+    "th": {
+     "file": "87a879cddf8e-th.webp",
+     "w": 300,
+     "h": 297
+    }
+   },
+   "orig": [
+    943,
+    935
+   ]
+  },
+  "79ff51e19764": {
+   "name": "Desperate Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Desperate_Anime.png",
+   "uploaded": "2015-10-08T00:59:36Z",
+   "sha256": "79ff51e19764bc1953fe075c71e5f4ecfbe27e437eaffabad0da97b3a61c49bb",
+   "files": {
+    "full": {
+     "file": "79ff51e19764-full.webp",
+     "w": 610,
+     "h": 1016
+    },
+    "ib": {
+     "file": "79ff51e19764-ib.webp",
+     "w": 500,
+     "h": 833
+    }
+   },
+   "orig": [
+    610,
+    1016
+   ]
+  },
+  "08012c5c2d36": {
+   "name": "Minotaur Magic Stone DanMachi Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Minotaur_Magic_Stone_DanMachi_Anime.png",
+   "uploaded": "2018-07-16T00:09:52Z",
+   "sha256": "08012c5c2d364336c11dfbe09b4dc763575ba52d426ba1b71f9ba7d0569f0b48",
+   "files": {
+    "full": {
+     "file": "08012c5c2d36-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "08012c5c2d36-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "cd00d0ee4c13": {
+   "name": "Magic Sword DanMachi Manga.png",
+   "source": "DanMachi manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Magic_Sword_DanMachi_Manga.png",
+   "uploaded": "2016-06-19T14:59:42Z",
+   "sha256": "cd00d0ee4c130ca84cbf0eb95c627131bc202b1b2f70fa18a513c9aa3d1fe9bc",
+   "files": {
+    "full": {
+     "file": "cd00d0ee4c13-full.webp",
+     "w": 728,
+     "h": 316
+    },
+    "ib": {
+     "file": "cd00d0ee4c13-ib.webp",
+     "w": 500,
+     "h": 217
+    }
+   },
+   "orig": [
+    728,
+    316
+   ]
+  },
+  "acd0c99885fa": {
+   "name": "Udaeus Concept Art.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Udaeus_Concept_Art.png",
+   "uploaded": "2015-08-04T23:28:41Z",
+   "sha256": "acd0c99885fae2c8756f6c2127e5ac62960a0af5518c64fa4e014aa1cce19d10",
+   "files": {
+    "full": {
+     "file": "acd0c99885fa-full.webp",
+     "w": 602,
+     "h": 916
+    },
+    "ib": {
+     "file": "acd0c99885fa-ib.webp",
+     "w": 500,
+     "h": 761
+    }
+   },
+   "orig": [
+    602,
+    916
+   ]
+  },
+  "33ae35eea0d2": {
+   "name": "Udaeus Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Udaeus_Anime.png",
+   "uploaded": "2017-05-12T16:41:57Z",
+   "sha256": "33ae35eea0d23ef526edb0ddef947b558d0c1312233d7abcea490666f351652c",
+   "files": {
+    "full": {
+     "file": "33ae35eea0d2-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "33ae35eea0d2-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "1a4962a7c776": {
+   "name": "Udaeus Sword Oratoria.png",
+   "source": "Sword Oratoria manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Udaeus_Sword_Oratoria.png",
+   "uploaded": "2015-08-14T19:42:47Z",
+   "sha256": "1a4962a7c776cf899e7648e2f76787b6dd02309c3cd93afc90d0a43e9eabcded",
+   "files": {
+    "full": {
+     "file": "1a4962a7c776-full.webp",
+     "w": 889,
+     "h": 762
+    },
+    "th": {
+     "file": "1a4962a7c776-th.webp",
+     "w": 300,
+     "h": 257
+    }
+   },
+   "orig": [
+    889,
+    762
+   ]
+  },
+  "9fc8e6e1cc7b": {
+   "name": "Maria's Orphanage.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Maria%27s_Orphanage.jpg",
+   "uploaded": "2020-05-07T09:28:36Z",
+   "sha256": "9fc8e6e1cc7b705203a242a8aecaeaacb99836f31db3ef2f916b1ee35e334c1e",
+   "files": {
+    "full": {
+     "file": "9fc8e6e1cc7b-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "9fc8e6e1cc7b-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "d0fc42f97c37": {
+   "name": "Maria Martel.jpg",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Maria_Martel.jpg",
+   "uploaded": "2020-05-07T09:28:35Z",
+   "sha256": "d0fc42f97c37a627ff5bf8f3867885b680423b3981c3a4fff4982c222ce38599",
+   "files": {
+    "full": {
+     "file": "d0fc42f97c37-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "d0fc42f97c37-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
   }
  },
  "pages": {
@@ -17712,6 +18096,115 @@
     "caption": "Dormul Bolster"
    },
    "gallery": []
+  },
+  "hestia-knife": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "ec25c0fb73a9",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "7d7cb71f72b5",
+     "caption": ""
+    }
+   ]
+  },
+  "minotaur": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "18010f802e99",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "7fb9f1359aea",
+     "caption": ""
+    }
+   ]
+  },
+  "misha-frot": {
+   "fandom_page": "Misha Flott",
+   "infobox": {
+    "id": "c78ebabbffa4",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "d5cad01d4752",
+     "caption": ""
+    },
+    {
+     "id": "afb380636102",
+     "caption": ""
+    },
+    {
+     "id": "58b48593ae33",
+     "caption": ""
+    },
+    {
+     "id": "a30cd211e9ed",
+     "caption": ""
+    },
+    {
+     "id": "87a879cddf8e",
+     "caption": ""
+    }
+   ]
+  },
+  "desperate": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "79ff51e19764",
+    "caption": ""
+   },
+   "gallery": []
+  },
+  "magic-stone": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "08012c5c2d36",
+    "caption": "A Minotaur's magic stone"
+   },
+   "gallery": []
+  },
+  "magic-sword": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "cd00d0ee4c13",
+    "caption": ""
+   },
+   "gallery": []
+  },
+  "udaeus": {
+   "fandom_page": null,
+   "infobox": {
+    "id": "acd0c99885fa",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "33ae35eea0d2",
+     "caption": ""
+    },
+    {
+     "id": "1a4962a7c776",
+     "caption": ""
+    }
+   ]
+  },
+  "marias-orphanage": {
+   "fandom_page": "Maria's Orphanage",
+   "infobox": {
+    "id": "9fc8e6e1cc7b",
+    "caption": "The church that houses the orphanage"
+   },
+   "gallery": [
+    {
+     "id": "d0fc42f97c37",
+     "caption": "Mother Maria"
+    }
+   ]
   }
  },
  "generated": "2026-10-01",

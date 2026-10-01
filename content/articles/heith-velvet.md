@@ -90,7 +90,7 @@ While it lasts, a pattern of light like a compressed magic circle appears on the
 
 #### Limits {#ars-gullveig-limits}
 
-The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’t break", and even [[hedin|Hedin]]'s [[magic#caurus-hildr|Caurus Hildr]] does not overcome it at once, though it is "a Level 4’s magic".[@ars-gullveig.fm18-hedin] Its weakness is Mind. Hedin tells her, "Your magic isn’t eternal. It’s finite": Heith's Mind is a cut above other healers of her Level, but Hedin, whom even Riveria acknowledges as having the highest total Mind in the city, keeps his barrage going to outlast her.[@ars-gullveig.fm18-hedin]
+The narration calls it an auto-heal that "even Crozzo’s [[magic-sword|magic swords]] couldn’t break", and even [[hedin|Hedin]]'s [[magic#caurus-hildr|Caurus Hildr]] does not overcome it at once, though it is "a Level 4’s magic".[@ars-gullveig.fm18-hedin] Its weakness is Mind. Hedin tells her, "Your magic isn’t eternal. It’s finite": Heith's Mind is a cut above other healers of her Level, but Hedin, whom even Riveria acknowledges as having the highest total Mind in the city, keeps his barrage going to outlast her.[@ars-gullveig.fm18-hedin]
 
 {{nocite}} Notable uses and open questions for Ars Gullveig are on the combined page: [[magic#ars-gullveig|Magic § Ars Gullveig]].
 

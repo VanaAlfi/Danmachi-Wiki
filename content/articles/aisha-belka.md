@@ -38,7 +38,7 @@ She converts and advances to Level 4; DanMachi 10 confirms her new Familia is He
 |---|---|
 | DanMachi 12 | Leads the combat formation of the joint expedition and, boosted by Haruhime, fights at a Level 5 equivalent, but the enhanced moss huge wounds her.[@fm12-aisha] |
 | DanMachi 13 | Commands the battle with the [[lambton|lambton]] on Floor 25 and beheads it with Hell Kaios.[@fm13-aisha] |
-| DanMachi 14 | Commands the fight against the [[amphisbaena|Amphisbaena]] and, boosted by Haruhime, destroys its magic stone with Hell Kaios. She knows Haruhime's magic well enough to time boosts so an extra fighter stays boosted.[@fm14-aisha, fm14-haruhime] |
+| DanMachi 14 | Commands the fight against the [[amphisbaena|Amphisbaena]] and, boosted by Haruhime, destroys its [[magic-stone|magic stone]] with Hell Kaios. She knows Haruhime's magic well enough to time boosts so an extra fighter stays boosted.[@fm14-aisha, fm14-haruhime] |
 | DanMachi 15 | Advises [[hestia|Hestia]] to hold back Haruhime's promotion.[@fm15-aisha] |
 ## Magic {#magic}
 

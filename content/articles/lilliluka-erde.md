@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Prum", "refs": ["fm02-lilly"]},
+      {"label": "Race", "value": "[[races#prum|Prum]]", "refs": ["fm02-lilly"]},
       {"label": "Role", "value": "Supporter; later the party's commander", "refs": ["fm02-lilly", "fm18-command"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Soma Familia; [[hestia-familia|Hestia Familia]] from DanMachi 6", "refs": ["fm02-lilly", "fm06-lilly"]},
@@ -32,7 +32,7 @@
 
 Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She deliberately goes six months without a Status update so that her earnings will not be noticed.[@fm03-status]
 
-In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's Divine Wine through willpower and persuades Soma to stop the fighting.[@fm06-soma] Hestia puts up the Hestia Knife as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
+In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's Divine Wine through willpower and persuades Soma to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
 
 ## Hestia Familia
 

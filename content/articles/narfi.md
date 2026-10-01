@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["so05-blondes", "so08-resent"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so05-blondes", "so08-resent"]},
       {"label": "Hair", "value": "Blonde", "refs": ["so05-blondes"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-support", "so08-resent"]},
@@ -39,13 +39,13 @@
 | Volume | Events |
 |---|---|
 | Sword Oratoria 4 | Named among the support members for the expedition to Floor 59. She hands [[hyrute-sisters|Tiona]] her weapon Urga in battle and, in tears, gives her a potion afterwards.[@so04-support, so04-urga, so04-potion] |
-| Sword Oratoria 5 | With the younger Familia members, she sees the usually calm Alicia's anger at the Crozzo magic swords.[@so05-crozzo] On the way home Finn sends Cruz and her back to check on Riveria's group.[@so05-check] |
+| Sword Oratoria 5 | With the younger Familia members, she sees the usually calm Alicia's anger at the [[magic-sword|Crozzo magic swords]].[@so05-crozzo] On the way home Finn sends Cruz and her back to check on Riveria's group.[@so05-check] |
 | Sword Oratoria 6 | At Port Meren, the governor Borg Murdock turns her and Alicia away from his door.[@so06-murdock] She brings Aiz word of Amazons at the pier, and Aiz sends her to fetch the others.[@so06-pier, so06-fetch] When she and the other girls shout to warn Aiz, [[phryne-jamil|Phryne]] throws an ax at them, and Aiz blocks it with her sword.[@so06-ax] |
 | Sword Oratoria 7 | Trapped in Knossos, she is one of only three second-tier members left with Gareth, fighting with twin blades. Gareth shields them with his body against waves of fire and has her take the shield while he breaks through an adamantite wall with his fists.[@so07-greenhorns, so07-shield, so07-hands] |
 | Sword Oratoria 8 | Like Alicia and Cruz, she resents Bete after [[leene-arshe|Leene]]'s death. When Loki explains what Bete's insults meant, she hangs her head in shame.[@so08-resent, so08-shame] |
 | Sword Oratoria 9 | Carries messages between groups in the war with Rakia.[@so09-messenger] On Floor 18, with Aiz and [[lefiya|Lefiya]], she examines a door into Knossos.[@so09-door] |
 | Sword Oratoria 10 | As leaders of the secondary forces, she and Cruz protect the people of [[daedalus-street|Daedalus Street]] from a swarm of monsters.[@so10-leaders] During the rescue of Riveria's elf squad she is told to heal Alicia's group and lead them back. At Finn's order she and the others carry the wounded siren [[rei|Rei]] out like a comrade.[@so10-rearguard, so10-siren] |
-| Sword Oratoria 11 | Admits she is scared of fighting beside monsters, remembering the black minotaur's howl.[@so11-uneasy] Gareth leaves the rear to her and Cruz during the first assault.[@so11-rear] |
+| Sword Oratoria 11 | Admits she is scared of fighting beside monsters, remembering the black [[minotaur|minotaur]]'s howl.[@so11-uneasy] Gareth leaves the rear to her and Cruz during the first assault.[@so11-rear] |
 | Sword Oratoria 12 | Searches books for clues with Aiz.[@so12-books] In the reserve squad on the tenth floor of Knossos she warns Cruz of approaching monsters, and [[bell-cranell|Bell]] cuts them down; his fighting reminds her of Aiz.[@so12-reserve, so12-bell] |
 | Sword Oratoria 13 | She and the other Level 4s of the reserve force do not level up in this update.[@so13-update] |
 | Sword Oratoria 14 | At the party for the three Level 7s she shouts that Loki Familia has surpassed [[freya-familia|Freya Familia]], and Lefiya ends up carrying her to bed.[@so14-party, so14-bed] |

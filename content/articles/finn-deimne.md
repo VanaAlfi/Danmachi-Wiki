@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Prum", "refs": ["fm05-leaders"]},
+      {"label": "Race", "value": "[[races#prum|Prum]]", "refs": ["fm05-leaders"]},
       {"label": "Born", "value": "Deimne; took the name Finn (\"light\")", "refs": ["so14-finn"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]], its first member", "refs": ["so14-finn"]},

@@ -39,7 +39,7 @@ In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer
 
 {{nocite}} The novels describe the item differently from scene to scene. They are recorded here as descriptions, not as different kinds of item:
 
-- Sword Oratoria 2: a bottle "the same color as magic stones", filled with "a clear liquid".[@so02-rivira]
+- Sword Oratoria 2: a bottle "the same color as [[magic-stone|magic stones]]", filled with "a clear liquid".[@so02-rivira]
 - Sword Oratoria 3: a vial of "a clear red liquid" with a small crystal floating in it.[@so03-lulune]
 - Familia Chronicle 1: a small vial containing "a scarlet liquid and fragment of crystal".[@fc01-ted]
 

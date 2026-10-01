@@ -25,7 +25,7 @@ The **Juggernaut** is a monster the Dungeon produces as an immune response. When
 
 ## Nature
 
-A Juggernaut is extraordinarily fast and deadly, with claws that pierce armour and the ability to reflect magic, but comparatively little endurance.[@fm13-juggernaut] It is short-lived and leaves neither a magic stone nor drop items; the deeper the floor it is born on, the stronger it is. DanMachi 14 speculates that its whole body might be one enormous magic stone.[@fm14-nature, fm14-stone] Losing its head or having its chest pierced need not kill it; destroying its whole body does.[@fm14-nature]
+A Juggernaut is extraordinarily fast and deadly, with claws that pierce armour and the ability to reflect magic, but comparatively little endurance.[@fm13-juggernaut] It is short-lived and leaves neither a [[magic-stone|magic stone]] nor drop items; the deeper the floor it is born on, the stronger it is. DanMachi 14 speculates that its whole body might be one enormous magic stone.[@fm14-nature, fm14-stone] Losing its head or having its chest pierced need not kill it; destroying its whole body does.[@fm14-nature]
 
 ## Astrea Familia
 

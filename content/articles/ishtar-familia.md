@@ -47,7 +47,7 @@ Ishtar kept a ring of handsome male servants around her, Tammuz chief among them
 - **[[#samira|Samira]]**, who oversaw the Killing Stone ritual.[@fm07-ritual]
 - **[[lena-tully|Lena Tully]]**, a young Amazon of the Berbera.[@fm07-lena]
 - **Sharay**, a mage whose curse stops [[aiz-wallenstein|Aiz]] using magic at Port Meren; see [[magic#sharay-silencing-curse|Sharay's silencing curse]].[@so06-curse]
-- **[[haruhime|Haruhime]]**, the renart whose power to raise others was to be sacrificed, through a [[killing-stone|Killing Stone]], to end Freya Familia.[@fm07-sacrifice, fm07-tool]
+- **[[haruhime|Haruhime]]**, the [[races#renart|renart]] whose power to raise others was to be sacrificed, through a [[killing-stone|Killing Stone]], to end Freya Familia.[@fm07-sacrifice, fm07-tool]
 
 ## The Berbera {#berbera}
 

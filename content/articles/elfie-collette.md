@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Human", "refs": ["so09-girls"]},
+      {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so09-girls"]},
       {"label": "Roommate", "value": "[[lefiya|Lefiya Viridis]]", "refs": ["so09-girls", "so13-letter"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so09-girls", "so12-hostages"]},

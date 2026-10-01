@@ -59,7 +59,7 @@
 | Volume | Events |
 |---|---|
 | Astrea Record 1 | In the Great Conflict, the Familia's workshops and forges stand in the north of the city, beside [[freya-familia|Freya Familia]]'s forces.[@ar01-north] |
-| Astrea Record 3 | Its smiths support Freya Familia with magic swords, and their bombardment holds back the [[evils|Evils]] at the barricades.[@ar03-swords] |
+| Astrea Record 3 | Its smiths support Freya Familia with [[magic-sword|magic swords]], and their bombardment holds back the [[evils|Evils]] at the barricades.[@ar03-swords] |
 | Sword Oratoria 1 | [[bete-loga|Bete]]'s boots Frosvirt are a second-tier Superior made by the Familia.[@so01-frosvirt] |
 | Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Ten smiths, Tsubaki among them, travel with the fifteen Loki Familia adventurers.[@so03-largest, so04-expedition] By agreement, Loki Familia hands over most of the drop items from the depths, including the valgang-dragon's fangs and scales.[@so05-drops] On the eighteenth floor a smith of the expedition recognises Welf.[@fm05-welf] |
 | DanMachi 8 | The Familia helps catch [[ares#kingdom-of-rakia|Rakia]]'s infiltrators in the city; they surrender to its members.[@fm08-rakia, fm08-surrender] Sword Oratoria 9 says Finn shared his information with the Familia, which took the glory.[@so09-rakia] |
@@ -68,7 +68,7 @@
 | Sword Oratoria 13 | Some of its High Smiths are among those killed by the demi-spirit's attack in Knossos, and are mourned at the funerals that follow.[@so13-dead] |
 | DanMachi 17 | Almost all its members, the master smiths included, surround [[folkvangr|Folkvangr]] from the south and west, alongside Loki Familia, while an angry Hephaistos tells Freya she will have to pay.[@fm17-siege] |
 | DanMachi 18 | With Loki Familia barred, it is the only Familia able to fully support Hestia in the Great Familia War. Its smiths forge magic swords under Hephaistos's strict judgement and fight at the coalition's centre.[@fm18-home, fm18-center] [[hedin|Hedin]] provokes them into wasting many of the swords, and [[allen-fromel|Allen]] picks off its smiths and tears Hephaistos's flower, eliminating the Familia.[@fm18-hedin, fm18-out] |
-| Familia Chronicle 3 | Word in Zolingam is that the Familia buys raw materials there and supports several workshops; many residents have become Hephaistos's followers.[@fc03-zolingam] |
+| Familia Chronicle 3 | Word in [[zolingam|Zolingam]] is that the Familia buys raw materials there and supports several workshops; many residents have become Hephaistos's followers.[@fc03-zolingam] |
 
 ## Open questions
 

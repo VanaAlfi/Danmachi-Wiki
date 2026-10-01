@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Chienthrope", "refs": ["so05-cruz", "so08-resent"]},
+      {"label": "Race", "value": "[[races#chienthrope|Chienthrope]]", "refs": ["so05-cruz", "so08-resent"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so05-cruz"]},
       {"label": "Level", "value": "4", "refs": ["so07-scout", "so10-leaders", "so11-junior"]},
@@ -23,7 +23,7 @@
   }
 }
 ---
-**Cruz Bussell** is a chienthrope adventurer of [[loki-familia|Loki Familia]], a reticent Level 4 among its junior members.[@so05-cruz, so07-scout, so11-junior] With [[narfi|Narfi]] he leads the Familia's secondary forces.[@so10-leaders] In Sword Oratoria 10 he leads the squad watching [[hestia-familia|Hestia Familia]]'s manor. Later, in a passage under [[daedalus-street|Daedalus Street]], he accepts [[hermes|Hermes]]'s price, his squad's withdrawal, for a key to [[knossos|Knossos]].[@so10-squad, so10-bargain]
+**Cruz Bussell** is a [[races#chienthrope|chienthrope]] adventurer of [[loki-familia|Loki Familia]], a reticent Level 4 among its junior members.[@so05-cruz, so07-scout, so11-junior] With [[narfi|Narfi]] he leads the Familia's secondary forces.[@so10-leaders] In Sword Oratoria 10 he leads the squad watching [[hestia-familia|Hestia Familia]]'s manor. Later, in a passage under [[daedalus-street|Daedalus Street]], he accepts [[hermes|Hermes]]'s price, his squad's withdrawal, for a key to [[knossos|Knossos]].[@so10-squad, so10-bargain]
 
 ## Character
 

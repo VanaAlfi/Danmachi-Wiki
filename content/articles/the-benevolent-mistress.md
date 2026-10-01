@@ -57,7 +57,7 @@ Familia Chronicle 1's story "That Is a Benevolent Tavern: ~Girl Meets Girls~" sh
 
 ### The main story
 
-Bell Cranell meets Syr at the tavern the morning after [[aiz-wallenstein|Aiz]] rescues him from a Minotaur.[@fm01-syr] In Familia Chronicle 1's casino story, set later, Anya, Chloe and Runoa wash dishes while discussing Syr's gambling.[@fc01-casino]
+Bell Cranell meets Syr at the tavern the morning after [[aiz-wallenstein|Aiz]] rescues him from a [[minotaur|Minotaur]].[@fm01-syr] In Familia Chronicle 1's casino story, set later, Anya, Chloe and Runoa wash dishes while discussing Syr's gambling.[@fc01-casino]
 
 In DanMachi 17, [[freya|Freya]]'s charm rewrites the city's memories, but Mia and Anya still remember Syr.[@fm17-memory] Freya then reveals to Anya that she had been living at the tavern as Syr.[@fm17-reveal]
 

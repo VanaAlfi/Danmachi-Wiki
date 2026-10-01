@@ -30,7 +30,7 @@ The goddess [[penia|Penia]], who rules over poverty, settled in the district cen
 
 ## Maria's Orphanage
 
-At the centre of the district, an abandoned church houses Maria's Orphanage, an unofficial home for at least twenty children.[@fm08-orphanage] [[syr-flover|Syr]] secretly supports it.[@fm08-syr] Its rear garden hides an underground room and an unrecorded passage into Knossos, which the [[xenos|Xenos]] use to escape in DanMachi 11.[@fm11-orphanage]
+At the centre of the district, an abandoned church houses [[marias-orphanage|Maria's Orphanage]], an unofficial home for at least twenty children.[@fm08-orphanage] [[syr-flover|Syr]] secretly supports it.[@fm08-syr] Its rear garden hides an underground room and an unrecorded passage into Knossos, which the [[xenos|Xenos]] use to escape in DanMachi 11.[@fm11-orphanage]
 
 ## Events
 

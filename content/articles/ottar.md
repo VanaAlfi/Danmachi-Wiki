@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Boaz", "refs": ["fc02-boaz"]},
+      {"label": "Race", "value": "[[races#boaz|Boaz]]", "refs": ["fc02-boaz"]},
       {"label": "Named by", "value": "[[freya|Freya]], who found him as a small child", "refs": ["fc02-origin"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["so04-captain"]},
@@ -28,13 +28,13 @@
   }
 }
 ---
-**Ottar** is a boaz and the captain of [[freya-familia|Freya Familia]], titled *Warlord*. Sword Oratoria 4 calls him the strongest warrior in [[orario|Orario]].[@fc02-boaz, so04-captain] He is Level 7 from Astrea Record 3, and in DanMachi 18 is described as a Level 7 on the cusp of Level 8.[@ar03-seven, fm18-ottar]
+**Ottar** is a [[races#boaz|boaz]] and the captain of [[freya-familia|Freya Familia]], titled *Warlord*. Sword Oratoria 4 calls him the strongest warrior in [[orario|Orario]].[@fc02-boaz, so04-captain] He is Level 7 from Astrea Record 3, and in DanMachi 18 is described as a Level 7 on the cusp of Level 8.[@ar03-seven, fm18-ottar]
 
 ## Early life
 
 [[freya|Freya]] found Ottar as an abandoned small child and gave him his name. She looked after him from time to time and gave him her blessing only several years later.[@fc02-origin] He reached Level 2 two years after receiving the [[falna|Falna]], although he had spent only one of those years fighting.[@fc02-origin] At seventeen he was Level 5 and the Familia's undisputed second-in-command. [[mia-grand|Mia Grand]], then captain, trained him, but she left the Familia before he could settle things with her.[@fc02-origin, fc02-mia]
 
-Every Level Up he made after Level 5 was connected with [[zeus-and-hera-familias|Zeus Familia]] or Hera Familia.[@fc02-zeus] He later defeats the [[monster-rex|Monster Rex]] Udaeus alone and has its drop item made into a great sword, which Freya names *Supreme Black Sword*.[@fc02-sword]
+Every Level Up he made after Level 5 was connected with [[zeus-and-hera-familias|Zeus Familia]] or Hera Familia.[@fc02-zeus] He later defeats the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]] alone and has its drop item made into a great sword, which Freya names *Supreme Black Sword*.[@fc02-sword]
 
 ## Level history
 
@@ -100,7 +100,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 | Volume | Events |
 |---|---|
 | DanMachi 2 | Freya considers sending him to take [[bell-cranell|Bell]] a book, then decides to leave it at the tavern instead.[@fm02-book] |
-| DanMachi 3 | Argues that Bell needs an adventure to break his shell, then prepares and trains the Minotaur that Bell fights.[@fm03-minotaur] |
+| DanMachi 3 | Argues that Bell needs an adventure to break his shell, then prepares and trains the [[minotaur|Minotaur]] that Bell fights.[@fm03-minotaur] |
 | Sword Oratoria 4 | Blocks [[loki-familia|Loki Familia]] so that Bell faces the Minotaur alone, speaking of Bell casting off his shell.[@so04-captain] |
 | Sword Oratoria 9 | With a few others, disposes of the assassins sent after [[ishtar-familia#tammuz-berrilli|Tammuz]], whom Freya is sheltering.[@so09-tammuz] |
 | DanMachi 11 | Steers [[asterios|Asterios]] toward Bell, blocks Finn on Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios] |

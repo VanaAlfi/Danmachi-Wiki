@@ -33,11 +33,11 @@ The first Babel was shorter. It was destroyed when the gods first came down to t
 |---|---|
 | 4–8 | [[hephaistos|Hephaistos]] Familia's shops; [[bell-cranell|Bell]] first meets [[welf-crozzo|Welf]] in its shop and rest area on the eighth floor.[@fm02-babel, fm04-babel] |
 | Up to 20 | [[guild|Guild]] tenants.[@fm02-babel] |
-| 30 | Where the thousandth Denatus is held.[@fm04-babel] |
+| 30 | Where the thousandth [[denatus|Denatus]] is held.[@fm04-babel] |
 | 50 | [[freya|Freya]]'s vantage point over the city.[@fm03-babel] |
 | Above | Residences of the gods.[@fm02-babel] |
 
-Babel also houses a medical centre, where Bell recovers after his fight with the Minotaur in DanMachi 3.[@fm03-clinic]
+Babel also houses a medical centre, where Bell recovers after his fight with the [[minotaur|Minotaur]] in DanMachi 3.[@fm03-clinic]
 
 ## Events
 

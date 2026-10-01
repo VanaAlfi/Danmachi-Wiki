@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Sisters"},
-      {"label": "Race", "value": "Amazon", "refs": ["fm02-sisters", "fm05-sisters"]},
+      {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm02-sisters", "fm05-sisters"]},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-tione"]},
       {"label": "Level", "value": "6 each, from Sword Oratoria 6", "refs": ["so06-sisters"]},
       {"label": "Development Ability", "value": "Dive, gained at Level 6", "refs": ["so06-sisters"]},

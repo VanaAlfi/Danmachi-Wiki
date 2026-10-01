@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
-  "aliases": [],
+  "aliases": ["Fia", "Lett"],
   "spoilers": "DanMachi Vols. 8–19 and Sword Oratoria Vols. 10–12",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia"],
   "infobox": {
@@ -27,7 +27,7 @@ The **Xenos** are monsters of [[dungeon|the Dungeon]] with minds of their own. I
 
 ## Nature
 
-Xenos dream of their lives as earlier monsters. Ouranos's theory is that monsters' souls return to the Dungeon and are reborn until longing, or the Dungeon's will, gives them self-awareness.[@fm09-reborn] Ordinary monsters attack them; the Xenos kill them and eat their magic stones to survive and grow stronger.[@fm09-reborn]
+Xenos dream of their lives as earlier monsters. Ouranos's theory is that monsters' souls return to the Dungeon and are reborn until longing, or the Dungeon's will, gives them self-awareness.[@fm09-reborn] Ordinary monsters attack them; the Xenos kill them and eat their [[magic-stone|magic stones]] to survive and grow stronger.[@fm09-reborn]
 
 They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Floor 20, reached through an underwater passage; there are several between the middle and deep levels.[@fm09-village]
 
@@ -39,7 +39,9 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[wiene|Wiene]] | A vouivre girl whom [[bell-cranell|Bell]] finds on Floor 19; [[hestia|Hestia]] names her Wiene.[@fm09-wiene] |
 | [[gros|Gros]] | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
 | [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
-| [[asterios|Asterios]] | A black Minotaur who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
+| [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
+| Fia | A red-haired harpy, more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
+| Lett | A "gentlemanly" red-cap goblin with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 
 ## History
 
@@ -49,7 +51,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | DanMachi 10 | Xenos are freed from the hunters' prison in [[knossos|Knossos]]; the fighting spills into [[daedalus-street|Daedalus Street]], and Bell's public defence of Wiene wrecks his reputation.[@fm10-freed, fm10-reputation] |
 | DanMachi 11 | Hermes's staged attack fails when Bell trusts Gros; the Xenos escape and return safely to a Hidden Village. Ouranos spreads a false story that Loki Familia exterminated them.[@fm11-gros, fm11-village, fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep them secret, and [[finn-deimne|Finn]] forms a limited alliance with them for the assault on Knossos.[@so10-compact] |
-| DanMachi 14 | On Ouranos's orders, Xenos help rescue Bell and [[lyu-leon|Lyu]] from [[floor-37|Floor 37]].[@fm14-rescue] |
+| DanMachi 14 | On Ouranos's orders, Xenos help rescue Bell and [[lyu-leon|Lyu]] from [[floor-37|Floor 37]].[@fm14-rescue] Lett's group, Fia among them, goes through the secret passage on the eighteenth floor towards the [[water-capital|Water Capital]], disguised in robes, while Rei's group stays in Knossos. They had pledged to come to Bell's aid.[@fm14-lett] |
 
 The alliance with Loki Familia is limited to the Knossos campaign; Finn declines to promise peace or coexistence afterwards.[@so10-compact] Their existence remains hidden from the public.[@fm11-cover]
 
@@ -77,3 +79,9 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm14-rescue]: FM14 | Chapter 8: The Voice of the Hammer | Ouranos's mission for the Xenos.
 [@so10-gros]: SO10 | | Gros spares Bell; Rei shields Alicia.
 [@so10-compact]: SO10 | | The Loki–Ouranos compact; Finn's limited alliance.
+[@fm09-lett]: FM09 | Chapter 5: Heretics | "Lett and his team started observing you upstairs, on the nineteenth floor."
+[@fm10-fia]: FM10 | Chapter 7: The King of Atrocity | "The harpy named Fia"; "deep-red hair"; "much more interested in the surface and its inhabitants than anyone else".
+[@fm10-captured]: FM10 | Chapter 7: The King of Atrocity | "Ranieh’s band has been slaughtered; Wiene and Fia, captured."
+[@fm10-cages]: FM10 | Chapter 9: Dreams of Beasts | "The harpy Fia was in the first cage in the row"; "Lido left Fia in Lett’s care".
+[@fm11-separated]: FM11 | | Rei: "Fia was with us, but when things got too intense, she fell from the sky…and Lett went after her"; "red-cap goblin, harpy".
+[@fm14-lett]: FM14 | Chapter 8: The Voice of the Hammer | "the harpy Fia"; "Lett, the gentlemanly red-cap goblin"; "a battle-ax far too large for its size"; "Rei had taken charge of the group that remained in Knossos"; "We made a pledge to Mr. Bell!"

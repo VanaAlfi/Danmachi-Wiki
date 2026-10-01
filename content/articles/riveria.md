@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "High elf, of royal blood", "refs": ["so01-riveria"]},
+      {"label": "Race", "value": "[[races#high-elf|High elf]], of royal blood", "refs": ["so01-riveria"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "7, from Sword Oratoria 14", "refs": ["so14-sevens"]},
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Riveria Ljos Alf** is a high elf of royal blood and [[loki-familia|Loki Familia]]'s leading mage, called [[orario|Orario]]'s most powerful magic user.[@so01-riveria, fm05-leaders] The gods gave her the title *Nine Hell*.[@so03-titles] She is Level 7 from Sword Oratoria 14.[@so14-sevens]
+**Riveria Ljos Alf** is a [[races#high-elf|high elf]] of royal blood and [[loki-familia|Loki Familia]]'s leading mage, called [[orario|Orario]]'s most powerful magic user.[@so01-riveria, fm05-leaders] The gods gave her the title *Nine Hell*.[@so03-titles] She is Level 7 from Sword Oratoria 14.[@so14-sevens]
 
 ## Early life
 
@@ -179,7 +179,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 #### Effects {#via-shilheim-effects}
 
-- **A dome over a group.** In Sword Oratoria 4 it surrounds all thirteen members of the party, Riveria included.[@via-shilheim.so04-cast] In Sword Oratoria 10 it shields unconscious townspeople from the black minotaur's lightning while the street around them is destroyed.[@via-shilheim.so10-city]
+- **A dome over a group.** In Sword Oratoria 4 it surrounds all thirteen members of the party, Riveria included.[@via-shilheim.so04-cast] In Sword Oratoria 10 it shields unconscious townspeople from the black [[minotaur|minotaur]]'s lightning while the street around them is destroyed.[@via-shilheim.so10-city]
 - **Held in readiness.** In the Knossos assault of Sword Oratoria 10 Riveria keeps the spell on standby with a magic circle five meders across in radius; her elves run in formation inside it, and she releases the barrier the moment an enemy volley comes, protecting all eleven of them.[@via-shilheim.so10-standby, via-shilheim.so10-release]
 
 #### Limits {#via-shilheim-limits}
@@ -293,7 +293,7 @@ Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as 
 
 | Volume | Events |
 |---|---|
-| DanMachi 2 | Recognises [[bell-cranell|Bell]]'s Mind Down and accompanies Aiz against the [[monster-rex|Monster Rex]] Udaeus.[@fm02-riveria] |
+| DanMachi 2 | Recognises [[bell-cranell|Bell]]'s Mind Down and accompanies Aiz against the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-riveria] |
 | DanMachi 3 | Closes [[lilliluka-erde|Lilly]]'s wounds with healing magic, and sees that Bell's SS ability is beyond normal limits.[@fm03-riveria] |
 | Sword Oratoria 10 | Leads the raid into [[knossos|Knossos]], keeping it going with her magic, and secures keys and part of the map.[@so10-riveria] |
 | Sword Oratoria 11 | Commands the diversion force on Floor 12.[@so11-riveria] |

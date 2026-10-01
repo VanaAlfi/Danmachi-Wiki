@@ -23,7 +23,7 @@
   }
 }
 ---
-A **Status** is the record a god writes on a follower's back through the [[falna|Falna]]. It reflects the follower's excelia, the measure of what they have accomplished and how well.[@fm01-status] It is made up of a [[level|Level]], five basic abilities, and slots for magic and Skills whose number depends on the strength of the person's spiritual "container".[@so01-status]
+A **Status** is the record a god writes on a follower's back through the [[falna|Falna]]. It reflects the follower's [[excelia|excelia]], the measure of what they have accomplished and how well.[@fm01-status] It is made up of a [[level|Level]], five basic abilities, and slots for magic and Skills whose number depends on the strength of the person's spiritual "container".[@so01-status]
 
 ## Parts of a Status
 

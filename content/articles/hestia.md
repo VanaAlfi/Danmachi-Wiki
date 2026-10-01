@@ -39,7 +39,7 @@ When she came down she chose to remain able to fall ill like a mortal.[@ss01-hes
 
 She sets household rules for her followers: a ten o'clock curfew, telling her which floor they are heading to, and shared meals.[@ss01-hestia] She keeps Bell's Skill off the Status copies she gives him, and in DanMachi 8 explains it to the other members after he has left the room.[@fm01-hidden, fm08-hestia]
 
-For Bell she obtains the Hestia Knife from Hephaistos on a thirty-year loan.[@fm01-knife] In DanMachi 7 her personal debt for it is confirmed at 200 million valis.[@fm07-debt]
+For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a thirty-year loan.[@fm01-knife] In DanMachi 7 her personal debt for it is confirmed at 200 million valis.[@fm07-debt]
 
 ## History
 

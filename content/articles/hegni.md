@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Race", "value": "Dark elf", "refs": ["fc02-pair"]},
+      {"label": "Race", "value": "[[races#dark-elf|Dark elf]]", "refs": ["fc02-pair"]},
       {"label": "Former position", "value": "King of the dark elves of Heodenings", "refs": ["fc02-past"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},

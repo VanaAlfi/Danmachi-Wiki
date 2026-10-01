@@ -25,12 +25,12 @@
 ---
 **Yamato Mikoto** is an adventurer from the Far East. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card]
 
-The novels usually print her name given name first, *Mikoto Yamato*. At her first Denatus in DanMachi 4, Loki reads it from the Guild's papers as *Yamato Mikoto*, remarking that names from the Far East are "backward". This wiki gives Far Eastern names family name first.[@fm04-name, ss01-name]
+The novels usually print her name given name first, *Mikoto Yamato*. At her first [[denatus|Denatus]] in DanMachi 4, Loki reads it from the Guild's papers as *Yamato Mikoto*, remarking that names from the Far East are "backward". This wiki gives Far Eastern names family name first.[@fm04-name, ss01-name]
 
 ## Abilities
 
 - **[[#futsu-no-mitama|Futsu no Mitama]]**, her magic, creates a gravity field that crushes everything inside it to the ground, including Mikoto herself. DanMachi 6 prints it as *Futsu no Tama*.[@fm05-mikoto, fm06-gravity]
-- **[[skills#yatano-crows|Yatano Black Crow]]** and **Yatano White Crow** are Skills, not spells, revealed in DanMachi 7: the first senses monsters she has gained excelia from, the second senses her allies, and using them drains Mind. Her DanMachi 15 card lists both under Skills. She uses the first to keep watch in DanMachi 9.[@fm07-crow, fm09-crow, fm15-card]
+- **[[skills#yatano-crows|Yatano Black Crow]]** and **Yatano White Crow** are Skills, not spells, revealed in DanMachi 7: the first senses monsters she has gained [[excelia|excelia]] from, the second senses her allies, and using them drains Mind. Her DanMachi 15 card lists both under Skills. She uses the first to keep watch in DanMachi 9.[@fm07-crow, fm09-crow, fm15-card]
 - Her DanMachi 8 card lists the Development Ability Immunity.[@fm08-card]
 
 ## Magic {#magic}

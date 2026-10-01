@@ -32,7 +32,7 @@
 
 ## Innate and acquired magic
 
-A book Bell reads in DanMachi 2 divides magic into two kinds. **Innate** magic belongs to certain races by birth and is trained from childhood through rituals; it is limited in type but often strong. **Acquired** magic comes with the Falna, takes almost any form, and depends heavily on the person's excelia.[@fm02-kinds] The same book says that "Magic is interest": what a person cares about, hates or longs for shapes the magic their Falna produces.[@fm02-kinds] Sword Oratoria 14 shows elves casting innate magic without a Falna: see [[#elven-innate-magic|Gale Blast and Flare Burn]].[@elven-innate-magic.so14-chase]
+A book Bell reads in DanMachi 2 divides magic into two kinds. **Innate** magic belongs to certain races by birth and is trained from childhood through rituals; it is limited in type but often strong. **Acquired** magic comes with the Falna, takes almost any form, and depends heavily on the person's [[excelia|excelia]].[@fm02-kinds] The same book says that "Magic is interest": what a person cares about, hates or longs for shapes the magic their Falna produces.[@fm02-kinds] Sword Oratoria 14 shows elves casting innate magic without a Falna: see [[#elven-innate-magic|Gale Blast and Flare Burn]].[@elven-innate-magic.so14-chase]
 
 Magic can also be forced into a Status by a **[[grimoire|grimoire]]**, a book that makes its reader learn magic. Only someone who has mastered the Development Abilities Magic Control and Enigma can make one, and it can be used only once.[@fm02-grimoire] [[bell-cranell|Bell]] learns [[#firebolt|Firebolt]] this way, and [[haruhime|Haruhime]]'s [[#kokonoe|Kokonoe]] also comes from a grimoire.[@fm02-grimoire, fm12-grimoire]
 
@@ -113,7 +113,7 @@ A Status lists spells, [[skills|Skills]] and [[development-ability|Development A
 - In Sword Oratoria 8 Loki compares Bete's [[#hati|Hati]] with Tiona and Tione's "Berserk magic", though Berserk is called a Skill elsewhere in Sword Oratoria.[@so08-berserk, so07-berserk]
 - Mikoto's Yatano Black Crow and White Crow, which sense enemies and allies, are listed under Skills on her DanMachi 15 card, not Magic.[@fm15-cards]
 
-Magic swords are weapons, not spells. They do not occupy a Magic slot, though DanMachi 14 notes that Welf's new sword also drains its user's Mind.[@fm14-sword]
+[[magic-sword|Magic swords]] are weapons, not spells. They do not occupy a Magic slot, though DanMachi 14 notes that Welf's new sword also drains its user's Mind.[@fm14-sword]
 
 ## Status sheets in the illustrations {#status-sheets}
 
@@ -239,7 +239,7 @@ Firebolt appears on Bell's Status in DanMachi 2, after he reads a book borrowed 
 
 - Bell's first card shows the name *Firebolt* in the Magic slot, described only as Swift-Strike Magic, and nothing that looks like an incantation. Hestia guesses that it needs none and that saying "Firebolt" may trigger it, and stops him saying the name indoors.[@firebolt.fm02-card, firebolt.fm02-trigger]
 - The first cast bears this out: Bell says the name and the bolt fires, "conjured in an instant".[@firebolt.fm02-first]
-- [[lilliluka-erde|Lilly]] later calls it magic with "no spell" and "lightning speed", and onlookers at the Minotaur fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-minotaur]
+- [[lilliluka-erde|Lilly]] later calls it magic with "no spell" and "lightning speed", and onlookers at the [[minotaur|Minotaur]] fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-minotaur]
 
 **Trigger:** the spell name, *Firebolt*, spoken aloud. The text often prints it in capitals or stretched out ("FIREBOLT!!"); these are ways of showing him shouting, not different forms of the spell.[@firebolt.fm02-first, firebolt.fm03-minotaur]
 
@@ -251,7 +251,7 @@ In DanMachi 19, disguised as the student Rapi, Bell pretends to chant so that hi
 
 The bolt is described as scarlet lightning, "electric flames", which bursts on impact.[@firebolt.fm02-first] Lilly compares it to a spell with a long chant: Firebolt trades power for speed and cannot be dodged easily, and it gets stronger with use because it can be used often. Bell notes that its bolts have grown thicker and stronger since his first cast.[@firebolt.fm03-growth]
 
-Against a strong opponent its speed is not enough. In DanMachi 3 its hits cannot pierce the Minotaur's hide; Bell wins by driving the Hestia Knife into the monster and firing repeated Firebolts into the wound, burning it from inside.[@firebolt.fm03-minotaur] In DanMachi 6, [[hyacinthus|Hyacinthus]]'s [[#aro-zephyros|Aro Zephyros]] cuts straight through a Firebolt.[@firebolt.fm06-aro]
+Against a strong opponent its speed is not enough. In DanMachi 3 its hits cannot pierce the Minotaur's hide; Bell wins by driving the [[hestia-knife|Hestia Knife]] into the monster and firing repeated Firebolts into the wound, burning it from inside.[@firebolt.fm03-minotaur] In DanMachi 6, [[hyacinthus|Hyacinthus]]'s [[#aro-zephyros|Aro Zephyros]] cuts straight through a Firebolt.[@firebolt.fm06-aro]
 
 #### Cost and Mind Down {#firebolt-cost-and-mind-down}
 
@@ -1033,7 +1033,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 | Volume | Use |
 |---|---|
-| Sword Oratoria 2 | Riveria gives it to [[aiz-wallenstein|Aiz]] during her fight with the floor boss Udaeus.[@veil-breath.so02-aiz] |
+| Sword Oratoria 2 | Riveria gives it to [[aiz-wallenstein|Aiz]] during her fight with the floor boss [[udaeus|Udaeus]].[@veil-breath.so02-aiz] |
 | Sword Oratoria 4 | In the deep floors it shields Lefiya and her rescuers, then the whole party, from the dragons' fire.[@veil-breath.so04-party] |
 | Astrea Record 3 | Riveria leaves it on every member of [[astrea-familia|Astrea Familia]] as a parting gift before they face Alfia.[@veil-breath.ar03-astrea] |
 | Sword Oratoria 12 | Lefiya summons it to protect Aisha, Lyu, Asfi and herself from Filvis.[@veil-breath.so12-lefiya] |
@@ -1637,7 +1637,7 @@ The sword flashes as if drawn in an instant and gives birth to five slashes that
 #### Five Lights {#gokou-five-lights}
 
 > [!INFERENCE] Probably the Gojouno clan's Five Lights
-> Astrea Record 3 says that the Gojouno bloodline passes on identical Skills and spells, and that the clan's highest art is a paired Skill and spell, both called Five Lights. The spell simply conjures five magic slashes at whatever angles the user wishes, and it takes great swordsmanship to make it inescapable. Kaguya uses it against Vito after an ultrashort chant, "Begone, twisted brute. Ill-omened flower of death.", and the call "Iai Strike: Five Lights!"[@gokou.ar03-five] The description matches Gokou's, so Gokou is probably the English name DanMachi 18 and Familia Chronicle 3 give to the same spell; no passage says so. For the Skill half, see [[skills#five-lights|Skills § Five Lights]].[@gokou.ar03-five, gokou.fm18-ottar]
+> Astrea Record 3 says that the Gojouno bloodline passes on identical Skills and spells, and that the clan's highest art is a paired Skill and spell, both called Five Lights. The spell simply conjures five magic slashes at whatever angles the user wishes, and it takes great swordsmanship to make it inescapable. Kaguya uses it against [[vito|Vito]] after an ultrashort chant, "Begone, twisted brute. Ill-omened flower of death.", and the call "Iai Strike: Five Lights!"[@gokou.ar03-five] The description matches Gokou's, so Gokou is probably the English name DanMachi 18 and Familia Chronicle 3 give to the same spell; no passage says so. For the Skill half, see [[skills#five-lights|Skills § Five Lights]].[@gokou.ar03-five, gokou.fm18-ottar]
 
 #### Notable uses {#gokou-notable-uses}
 
@@ -1750,7 +1750,7 @@ In DanMachi 14 and 18 Aisha opens with a short call before the lines above: "Com
 - The wave is released through her weapon, which she drives into the ground or throws down; magical energy runs down the blade and follows the shock wave.[@hell-kaios.fm07-bell, hell-kaios.fm12-crabs, hell-kaios.fm13-lambton]
 - In DanMachi 7 it grows to twice Bell's size before he meets it with an Argonaut-charged broadsword.[@hell-kaios.fm07-bell]
 - In DanMachi 13 it forms a cutting wave four meders long that beheads the lambton, collar and all.[@hell-kaios.fm13-lambton]
-- In DanMachi 14, while boosted by [[haruhime|Haruhime]], it tears into the [[amphisbaena|Amphisbaena]] and shatters its magic stone.[@hell-kaios.fm14-amphisbaena]
+- In DanMachi 14, while boosted by [[haruhime|Haruhime]], it tears into the [[amphisbaena|Amphisbaena]] and shatters its [[magic-stone|magic stone]].[@hell-kaios.fm14-amphisbaena]
 
 #### Notable uses {#hell-kaios-notable-uses}
 
@@ -3119,7 +3119,7 @@ Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Fami
 
 ### Dialv Dis {#dialv-dis}
 
-**Dialv Dis** is a fire spell of Vena Dis, the younger of the Dis sisters: a silver-haired dark elf and vice-captain of [[apate-and-alecto-familias|Alecto Familia]], one of the most extreme groups among the [[evils|Evils]]. Her elder sister Dina, a white elf, is its captain.[@dialv-dis.ar01-sisters] Magic circles appear in the sky and release pillars of hellfire onto the targets below.[@dialv-dis.ar01-churches, dialv-dis.ar03-ten]
+**Dialv Dis** is a fire spell of Vena Dis, the younger of the Dis sisters: a silver-haired [[races#dark-elf|dark elf]] and vice-captain of [[apate-and-alecto-familias|Alecto Familia]], one of the most extreme groups among the [[evils|Evils]]. Her elder sister Dina, a white elf, is its captain.[@dialv-dis.ar01-sisters] Magic circles appear in the sky and release pillars of hellfire onto the targets below.[@dialv-dis.ar01-churches, dialv-dis.ar03-ten]
 
 - **User:** Vena Dis, vice-captain of Alecto Familia ([[evils|Evils]])[@dialv-dis.ar01-sisters, dialv-dis.ar01-churches]
 - **Effect:** Pillars of hellfire from magic circles overhead[@dialv-dis.ar01-churches, dialv-dis.ar03-ten]

@@ -126,9 +126,9 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 | DanMachi 1 | Joins Hestia, is saved from a Minotaur by Aiz, and begins growing at an unusual rate. Kills the silverback that Freya releases.[@fm01-bell, fm01-silverback] |
 | DanMachi 2 | Learns Firebolt and rescues [[lilliluka-erde|Lilliluka Erde]].[@fm02-firebolt, fm02-lilly] |
 | DanMachi 3 | Defeats the Minotaur that [[ottar|Ottar]] has trained for him and reaches Level 2.[@fm03-level2] |
-| DanMachi 5 | Is forced down to [[floor-18|Floor 18]] with his party, where they fight the Black [[goliath|Goliath]]. Bell destroys it with a charged strike.[@fm05-goliath] |
+| DanMachi 5 | Is forced down to [[floor-18|Floor 18]] with his party, where they fight the Black [[goliath|Goliath]]. Bell destroys it with a charged strike.[@fm05-goliath] Before that, the adventurer [[mord-latro|Mord Latro]] kidnaps Hestia and ambushes Bell with the invisibility of the Hades Head; Bell later saves Mord from the Goliath's monsters.[@mord.fm05-kidnap, mord.fm05-saved] |
 | DanMachi 6 | Loses to [[hyacinthus|Hyacinthus]], then trains with Aiz and [[hyrute-sisters|Tiona]], and defeats Hyacinthus to win the [[war-game|War Game]] against Apollo Familia.[@fm06-training, fm06-wargame] |
-| DanMachi 7 | Reaches Level 3 and rescues [[haruhime|Haruhime]] from Ishtar Familia.[@fm07-level3, fm07-haruhime] |
+| DanMachi 7 | Reaches Level 3 and rescues [[haruhime|Haruhime]] from [[ishtar-familia|Ishtar Familia]].[@fm07-level3, fm07-haruhime] |
 | DanMachi 9–10 | Shelters the [[xenos|Xenos]] girl [[wiene|Wiene]] and chooses to help the Xenos, at the cost of his reputation.[@fm09-wiene, fm10-xenos] |
 | DanMachi 11 | Accepts Asterios's rematch and loses; the fight largely restores his reputation.[@fm11-asterios, fm11-reputation] |
 | DanMachi 12 | Reaches Level 4.[@fm12-level4] |
@@ -165,6 +165,8 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm05-death]: FM05 | Chapter 3: Dungeon Death March | The grandfather faked his death.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | Zeus as Bell's grandfather.
 [@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Bell destroys the Black Goliath.
+[@mord.fm05-kidnap]: FM05 | Chapter 5: The Outlaws’ Party | Mord uses the invisibility of the item from Hermes to kidnap Hestia; the duel on the plateau.
+[@mord.fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | Bell uses Mord's greatsword to save him from the bugbears.
 [@fm06-wargame]: FM06 | Chapter 5: Our War Game | Bell defeats Hyacinthus.
 [@fm06-training]: FM06 | | Training with Aiz and Tiona.
 [@fm07-level3]: FM07 | Chapter 1: Smooth Sailing? | Level 3 announced.

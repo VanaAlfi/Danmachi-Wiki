@@ -30,7 +30,7 @@ The [[evils|Evils]] send a god into the Dungeon as bait; an unnamed Evils god re
 
 ## The monster
 
-Delphyne has a huge, misshapen, snake-like body, and later grows toxic purple wings like a butterfly's. It regenerates quickly, closing wounds and re-forming shattered scales.[@ar03-delphyne, ar03-wings, ar03-regen] Lyra of Astrea Familia judges it as mighty as the strongest floor bosses and at least Level 6 or 7 — an assessment, not a Status.[@ar03-level]
+Delphyne has a huge, misshapen, snake-like body, and later grows toxic purple wings like a butterfly's. It regenerates quickly, closing wounds and re-forming shattered scales.[@ar03-delphyne, ar03-wings, ar03-regen] [[lyra|Lyra]] of Astrea Familia judges it as mighty as the strongest floor bosses and at least Level 6 or 7 — an assessment, not a Status.[@ar03-level]
 
 ## Destruction
 

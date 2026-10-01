@@ -29,7 +29,7 @@
 
 ## The Hringhorni
 
-The school's ship, the Hringhorni, is round, about 700 meders across, and has separate layers for control, living and study.[@so13-ship] More than ten thousand people live aboard, counting its crew.[@fm19-people] It was once a sea fortress used by Zeus, Hera and Poseidon Familias in their campaign against the Leviathan, and it returns to the port of Meren for maintenance.[@so13-ship]
+The school's ship, the Hringhorni, is round, about 700 meders across, and has separate layers for control, living and study.[@so13-ship] More than ten thousand people live aboard, counting its crew.[@fm19-people] It was once a sea fortress used by Zeus, Hera and Poseidon Familias in their campaign against the Leviathan, and it returns to the port of [[njordr#port-meren|Meren]] for maintenance.[@so13-ship]
 
 ## How it works
 

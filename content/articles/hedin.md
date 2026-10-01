@@ -46,7 +46,7 @@ Hedin and Hegni were the kings of rival white-elf and dark-elf states on the isl
 > [!NOTE] Two sides of DanMachi 17
 > Hedin calls himself Freya's spear and shield while training Bell under her orders, but his actions also clear Bell's path. DanMachi 19 confirms that his help in the war was decisive.[@fm17-hedin, fm19-hedin]
 
-{{nocite}} Related magic: the Dis sisters' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
+{{nocite}} Related magic: the [[apate-and-alecto-familias#alecto-familia|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
 
 ## Magic {#magic}
 

@@ -22,7 +22,7 @@
   }
 }
 ---
-**Levis** is a red-haired creature in human form who serves the corrupted spirit and works with the god [[dionysus|Dionysus]], known as Enyo. At first she is mistaken for a monster tamer.[@so02-levis, so12-enyo] She hunts for "Aria" and calls [[aiz-wallenstein|Aiz]] by that name; Aiz tells her that Aria is her mother.[@so03-aria]
+**Levis** is a red-haired creature in human form who serves the [[corrupted-spirit|corrupted spirit]] and works with the god [[dionysus|Dionysus]], known as Enyo. At first she is mistaken for a monster tamer.[@so02-levis, so12-enyo] She hunts for "Aria" and calls [[aiz-wallenstein|Aiz]] by that name; Aiz tells her that Aria is her mother.[@so03-aria]
 
 ## Against Aiz
 

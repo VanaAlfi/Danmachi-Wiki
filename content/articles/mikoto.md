@@ -1,16 +1,16 @@
 ---
 {
-  "title": "Mikoto Yamato",
+  "title": "Yamato Mikoto",
   "category": "characters",
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Far Eastern adventurer who leaves Takemikazuchi Familia for Hestia Familia in DanMachi 6; her gravity spell pins enemies to the ground.",
-  "aliases": ["Mikoto"],
+  "aliases": ["Mikoto", "Mikoto Yamato"],
   "spoilers": "DanMachi Vols. 5–18, Sword Oratoria Vol. 12 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "haruhime", "bell-cranell", "welf-crozzo", "war-game", "magic"],
   "infobox": {
-    "title": "Mikoto Yamato",
+    "title": "Yamato Mikoto",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
@@ -23,7 +23,9 @@
   }
 }
 ---
-**Mikoto Yamato** is an adventurer from the Far East. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card]
+**Yamato Mikoto** is an adventurer from the Far East. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card]
+
+The novels usually print her name given name first, *Mikoto Yamato*. At her first Denatus in DanMachi 4, Loki reads it from the Guild's papers as *Yamato Mikoto*, remarking that names from the Far East are "backward". This wiki gives Far Eastern names family name first.[@fm04-name, ss01-name]
 
 ## Abilities
 
@@ -33,13 +35,13 @@
 
 ## Magic {#magic}
 
-{{nocite}} Mikoto Yamato's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
+{{nocite}} Yamato Mikoto's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
 
 ### Futsu no Mitama {#futsu-no-mitama}
 
-**Futsu no Mitama** is the magic of Mikoto Yamato. When her chant is complete, a sword of violet light descends and a dome of increased gravity forms around its target, forcing everything inside to the ground.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm15-card] The field does not spare Mikoto if she stands inside it, and holding it against something stronger than her hurts her badly.[@futsu-no-mitama.fm06-war, futsu-no-mitama.fm14-second]
+**Futsu no Mitama** is the magic of Yamato Mikoto. When her chant is complete, a sword of violet light descends and a dome of increased gravity forms around its target, forcing everything inside to the ground.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm15-card] The field does not spare Mikoto if she stands inside it, and holding it against something stronger than her hurts her badly.[@futsu-no-mitama.fm06-war, futsu-no-mitama.fm14-second]
 
-- **User:** Mikoto Yamato[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm15-card]
+- **User:** Yamato Mikoto[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm15-card]
 - **Status entry:** Gravity magic; increases gravity within a certain area[@futsu-no-mitama.fm15-card]
 - **Maximum range:** Fifty meders in every direction (DanMachi 6)[@futsu-no-mitama.fm06-war]
 - **Chant:** Seven printed pieces (DanMachi 6), ending "Shinbu Tousei"[@futsu-no-mitama.fm06-war, futsu-no-mitama.fm14-second]
@@ -79,7 +81,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 - **Gravity dome.** A force field drops from the sword's hilt ten meders above the Black [[goliath|Goliath]] and forms a dome that drives it to its knees.[@futsu-no-mitama.fm05-goliath]
 - **Area.** In the DanMachi 6 [[war-game|War Game]] it spreads fifty meders in every direction, its maximum range, trapping twenty-two enemies and Mikoto herself. Anything that touches its outer layer, physical or magical, is forced to the ground.[@futsu-no-mitama.fm06-war]
 - **Reach.** Against the [[amphisbaena|Amphisbaena]] she places the sword at maximum range so that the gravity pulls down the tree-root dome above the monster.[@futsu-no-mitama.fm14-first] Later she chants underwater and pins the dragon, though the gravity crushes her too.[@futsu-no-mitama.fm14-second]
-- **Deflection.** In Sword Oratoria 12, boosted by [[haruhime|Haruhime]]'s Level Boost, her field bends a demi-spirit's blast of light into the floor. She cannot cancel the spell itself, only change its path.[@futsu-no-mitama.so12-shield]
+- **Deflection.** In Sword Oratoria 12, boosted by [[haruhime|Haruhime]]'s Level Boost, her field bends a [[corrupted-spirit|demi-spirit]]'s blast of light into the floor. She cannot cancel the spell itself, only change its path.[@futsu-no-mitama.so12-shield]
 - **Focus.** In DanMachi 18 she narrows it to the smallest possible area to cage the [[gulliver-brothers|Gulliver brothers]]; Berling eventually breaks out.[@futsu-no-mitama.fm18-cage]
 
 #### Limits {#futsu-no-mitama-limits}
@@ -96,7 +98,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 |---|---|
 | DanMachi 5 | Takemikazuchi Familia's party pushes monsters onto [[bell-cranell|Bell]]'s party (a "pass parade"); she later pins down the Black [[goliath|Goliath]] with Futsu no Mitama.[@fm05-mikoto, fm05-goliath] |
 | DanMachi 6 | Converts to Hestia Familia under the one-year rule. In the [[war-game|War Game]], her gravity field traps twenty-two enemy fighters along with herself.[@fm06-join, fm06-gravity] |
-| DanMachi 7 | Infiltrates Ishtar Familia's palace and deliberately makes a spell backfire to open Bell's way to Haruhime.[@fm07-crow] |
+| DanMachi 7 | Infiltrates [[ishtar-familia|Ishtar Familia]]'s palace and deliberately makes a spell backfire to open Bell's way to Haruhime.[@fm07-crow] |
 | DanMachi 8 | Receives a sword from Takemikazuchi and another from [[welf-crozzo|Welf]]; Haruhime secretly boosts her against the Goliath.[@fm08-card] |
 | DanMachi 9 | Finds the underwater passage into the [[xenos|Xenos]]' territory on Floor 20.[@fm09-crow] |
 | DanMachi 12 | Uses the quick-draw technique Zekka.[@fm12-mikoto] |
@@ -118,6 +120,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 [@fm12-mikoto]: FM12 | | Zekka.
 [@fm14-mikoto]: FM14 | | Mikoto and the Amphisbaena.
 [@fm15-card]: FM15 | | Level 2 card (Futsu no Mitama under Magic; the Yatano crows under Skills); the withheld Skill; her history with Haruhime.
+[@fm04-name]: FM04 | Chapter 1: Denatus | Loki: "she’s from one of those Far East places, so her name’s backward…Little Miss Yamato Mikoto!"
 [@ss01-name]: SS01 | | "Mikoto Yamato."
 [@futsu-no-mitama.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Chant pieces; sword of light; gravity dome; the Goliath rises; Takemikazuchi's warning.
 [@futsu-no-mitama.fm06-war]: FM06 | Chapter 5: Our War Game | Seven-piece chant; "Futsu no Tama!"; fifty meders; twenty-two enemies.

@@ -38,7 +38,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[lido|Lido]] | Scarlet lizardman and the Xenos' current leader; a dual-sword fighter.[@fm09-lido] |
 | [[wiene|Wiene]] | A vouivre girl whom [[bell-cranell|Bell]] finds on Floor 19; [[hestia|Hestia]] names her Wiene.[@fm09-wiene] |
 | [[gros|Gros]] | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
-| [[rei|Rei]] | Shields Alicia of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
+| [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black Minotaur who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 
 ## History

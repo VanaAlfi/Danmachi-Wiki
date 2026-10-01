@@ -54,4 +54,4 @@ After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Bene
 
 [@fm18-lyra]: FM18 | Chapter 9: Flower Language for You |
 [@fm18-remisto]: FM18 | Chapter 9: Flower Language for You | Allen covers his ears and is still affected.
-[@ar03-lyre]: AR03 | Chapter 3: Eden’s Demise |
+[@ar03-lyre]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "a type of accessory called a Silence Lyre"; "custom-made to counter Alfia".

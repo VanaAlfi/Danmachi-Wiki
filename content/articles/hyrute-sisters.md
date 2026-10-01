@@ -23,15 +23,15 @@
   }
 }
 ---
-**Tiona** and **Tione Hyrute** are Amazon sisters of [[loki-familia|Loki Familia]], famous top-class adventurers.[@fm02-sisters, fm05-sisters] Both advance from Level 5 to Level 6 in Sword Oratoria 6 and gain the Development Ability Dive.[@so06-sisters] Their childhood in Telskyura, and Tiona's protection of her sister, are revealed in the same volume.[@so06-sisters]
+**Tiona** and **Tione Hyrute** are Amazon sisters of [[loki-familia|Loki Familia]], famous top-class adventurers.[@fm02-sisters, fm05-sisters] Both advance from Level 5 to Level 6 in Sword Oratoria 6 and gain the Development Ability Dive.[@so06-sisters] Their childhood in [[kali-familia|Telskyura]], and Tiona's protection of her sister, are revealed in the same volume.[@so06-sisters]
 
 ## Tiona
 
-Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats Bache but refuses to kill her.[@so06-sisters]
+Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters]
 
 ## Tione
 
-Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats Argana.[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster Gugalanna.[@so07-tione]
+Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione]
 
 ## Together
 

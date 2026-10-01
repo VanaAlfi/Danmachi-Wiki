@@ -27,10 +27,10 @@
 | Volume | Events |
 |---|---|
 | DanMachi 10 | Fights [[ganesha-familia|Ganesha Familia]] and [[loki-familia|Loki Familia]] to protect the Xenos' retreat, and survives on the surface.[@fm10-rei] |
-| Sword Oratoria 10 | Asks for dialogue, and shields Alicia of Loki Familia from [[levis|Levis]] because she hopes to become her friend; [[riveria|Riveria]] heals her.[@so10-rei] |
+| Sword Oratoria 10 | Asks for dialogue, and shields [[alicia-forestlight|Alicia]] of Loki Familia from [[levis|Levis]] because she hopes to become her friend; [[riveria|Riveria]] heals her.[@so10-rei] |
 | Sword Oratoria 11 | Guides the Xenos through [[knossos|Knossos]] by echolocation, and breaks away to save [[finn-deimne|Finn]] from the living flesh during the escape.[@so11-rei] |
 | DanMachi 14 | Leads some of the Xenos on a separate mission for [[ouranos|Ouranos]] during the rescue of Bell and [[lyu-leon|Lyu]].[@fm14-rei] |
-| Sword Oratoria 12 | Sheltered in secret at Twilight Manor, she helps find the hostages and, on Finn's order, carries Bell straight to the demi-spirit Nidhogg.[@so12-rei] |
+| Sword Oratoria 12 | Sheltered in secret at [[twilight-manor|Twilight Manor]], she helps find the hostages and, on Finn's order, carries Bell straight to the [[corrupted-spirit|demi-spirit]] [[corrupted-spirit#nidhogg|Nidhogg]].[@so12-rei] |
 
 [@fm09-rei]: FM09 | | A founding golden siren; her question; her song.
 [@fm10-rei]: FM10 | | Rei protects the retreat.

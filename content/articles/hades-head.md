@@ -33,7 +33,7 @@ The item is printed *Hades Head* throughout. One sentence in DanMachi 11, compar
 
 ## Effect
 
-In DanMachi 5 the invisibility is described as lasting as long as the helmet is worn, with no Mind or strength needed.[@fm05-mord] The wearer's weapon disappears with them: Mord's sword is as invisible as his body.[@fm05-bell]
+In DanMachi 5 the invisibility is described as lasting as long as the helmet is worn, with no Mind or strength needed.[@fm05-mord] The wearer's weapon disappears with them: [[mord-latro|Mord]]'s sword is as invisible as his body.[@fm05-bell]
 
 DanMachi 17 states the limit plainly: the helmet makes only "the wearer and their equipment" invisible. Carrying [[hestia|Hestia]] through the air, Asfi cannot hide her too, so she flies high enough to use the clouds as cover.[@fm17-limit]
 

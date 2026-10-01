@@ -30,13 +30,13 @@
 
 After Monsterphilia, Dionysus receives a coloured monster stone from his elf follower, later revealed as Filvis. He uses the stones, and his own murdered former followers, to pose as a victim investigating the crimes and to undermine Loki's trust in [[ouranos|Ouranos]].[@so01-stone, so12-enyo] Loki points out that he always kept her from cooperating with the [[guild|Guild]].[@so12-guild]
 
-He drinks Divine Wine on purpose until a righteous false persona sincerely believes in its role; while intoxicated, his apparent sincerity is real.[@so12-wine] He also intoxicates the goddess Penia and his followers, secretly moves them to her Familia, and sends her back to the heavens so that their sealed [[falna|Falna]] makes it look as if he himself has died.[@so12-penia]
+He drinks Divine Wine on purpose until a righteous false persona sincerely believes in its role; while intoxicated, his apparent sincerity is real.[@so12-wine] He also intoxicates the goddess [[penia|Penia]] and his followers, secretly moves them to her Familia, and sends her back to the heavens so that their sealed [[falna|Falna]] makes it look as if he himself has died.[@so12-penia]
 
 ## Enyo
 
-As Enyo, Dionysus works through Filvis and the creature [[levis|Levis]] to unite the remnants of the [[evils|Evils]] and the corrupted spirit's underground forces. His goal is [[orario|Orario]]'s destruction and the terror of mortals, not the revenge he professes to Loki.[@so12-enyo, so12-orders] His fifteen-year plan fails because [[bell-cranell|Bell]]'s six months of growth fall outside it.[@so12-plan]
+As Enyo, Dionysus works through Filvis and the creature [[levis|Levis]] to unite the remnants of the [[evils|Evils]] and the [[corrupted-spirit|corrupted spirit]]'s underground forces. His goal is [[orario|Orario]]'s destruction and the terror of mortals, not the revenge he professes to Loki.[@so12-enyo, so12-orders] His fifteen-year plan fails because [[bell-cranell|Bell]]'s six months of growth fall outside it.[@so12-plan]
 
-When his plan with the demi-spirit Nidhogg fails, he returns himself to the heavens while embracing one real self of Filvis.[@so12-end]
+When his plan with the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] fails, he returns himself to the heavens while embracing one real self of Filvis.[@so12-end]
 
 [@so01-dionysus]: SO01 | Chapter 5: To Battle | Dionysus and his elf follower.
 [@so01-filvis]: SO01 | | Filvis, captain of Dionysus Familia.

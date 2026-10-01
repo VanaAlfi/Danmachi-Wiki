@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A poor, densely built district in the southeast of Orario, laid out as a labyrinth by the architect Daedalus; its sewers hide an entrance to Knossos.",
   "aliases": ["Labyrinth District"],
-  "spoilers": "DanMachi Vols. 1–16 and Sword Oratoria Vols. 1, 7 and 10–11",
+  "spoilers": "DanMachi Vols. 1–16 and Sword Oratoria Vols. 1, 7 and 10–12",
   "related": ["orario", "knossos", "xenos", "bell-cranell", "syr-flover", "asterios"],
   "infobox": {
     "title": "Daedalus Street",
@@ -24,6 +24,10 @@
 ---
 **Daedalus Street** is a poor, densely built district of [[orario|Orario]], laid out as a labyrinth on the surface and named after its architect, Daedalus. Its routes are so tangled that outsiders may not find their way out; red arrows called *ariadne* serve as signposts.[@fm01-daedalus] Sword Oratoria 1 calls it Orario's second labyrinth, in the southeast of the city.[@so01-daedalus] It was begun about a thousand years ago, and its sewers hide an entrance to [[knossos|Knossos]].[@so07-daedalus]
 
+## Penia
+
+The goddess [[penia|Penia]], who rules over poverty, settled in the district centuries ago and is called its ruler. She preaches the virtues of poverty in its square and gives most of the offerings she receives back to the poor, who almost all support her.[@penia.so07-giving, penia.so10-ruler] Sword Oratoria 12 reveals that [[dionysus|Dionysus]] used her as a scapegoat and killed her.[@penia.so12-killed]
+
 ## Maria's Orphanage
 
 At the centre of the district, an abandoned church houses Maria's Orphanage, an unofficial home for at least twenty children.[@fm08-orphanage] [[syr-flover|Syr]] secretly supports it.[@fm08-syr] Its rear garden hides an underground room and an unrecorded passage into Knossos, which the [[xenos|Xenos]] use to escape in DanMachi 11.[@fm11-orphanage]
@@ -39,6 +43,9 @@ At the centre of the district, an abandoned church houses Maria's Orphanage, an 
 | DanMachi 16 | Syr makes her confession to Bell in a secluded park in the district known only to the two of them.[@fm16-park] |
 
 [@fm01-daedalus]: FM01 | | A poor district laid out as a labyrinth; ariadne.
+[@penia.so07-giving]: SO07 | | Penia preaching in the square; she gifts most of the offerings back to the poor of Daedalus Street; "The matriarch of the slums".
+[@penia.so10-ruler]: SO10 | Chapter 2: Someone Named Fool | "Penia had settled into the labyrinthine district centuries ago, and she was the ruler of Daedalus Street."
+[@penia.so12-killed]: SO12 | Chapter 6: The Divine Providence of Despair | "Penia was really a magnificent cover for me."; "…And then you killed Penia here."
 [@so01-daedalus]: SO01 | Chapter 5: To Battle | "Orario's second labyrinth—Daedalus Street."
 [@so01-crowd]: SO01 | Chapter 5: To Battle | The crowd at the entrance.
 [@so07-daedalus]: SO07 | | A thousand-year-old surface labyrinth; the sewer entrance to Knossos.

@@ -32,7 +32,7 @@ On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her mag
 
 ## The truth
 
-Filvis died protecting her companions in a disaster on Floor 27 and was turned into a creature by a fragment of the corrupted spirit; Dionysus exploited her despair.[@so12-filvis] Her magic [[#einsel|Einsel]] creates a second body that can think and act on its own, each with half her Status: this is *Ein*, the masked figure in a purple robe.[@so12-einsel] In Sword Oratoria 11 she appears to be killed; Sword Oratoria 12 reveals this as a deception using her two bodies.[@so11-filvis, so12-filvis]
+Filvis died protecting her companions in a disaster on Floor 27 and was turned into a creature by a fragment of the [[corrupted-spirit|corrupted spirit]]; Dionysus exploited her despair.[@so12-filvis] Her magic [[#einsel|Einsel]] creates a second body that can think and act on its own, each with half her Status: this is *Ein*, the masked figure in a purple robe.[@so12-einsel] In Sword Oratoria 11 she appears to be killed; Sword Oratoria 12 reveals this as a deception using her two bodies.[@so11-filvis, so12-filvis]
 
 Recombined, she fights at what [[asfi|Asfi]] calls Level 7 strength, though this is a judgement, not a printed Status.[@so12-power] Lefiya pierces her magic stone with a spell after summoning Dio Grail. The dying Filvis splits: one self clings to Dionysus and disappears as he returns to the heavens, and the other stays with Lefiya and crumbles to ash. The text treats both as truly her.[@so12-end]
 

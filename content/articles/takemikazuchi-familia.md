@@ -37,7 +37,7 @@ In the Far East, Takemikazuchi and other gods led a poor shrine that took in chi
 | DanMachi 8 | Takemikazuchi gives Mikoto the black sword Chizan, keeping its white partner, Tenka, until her return. Ouka has reached Level 2.[@fm08-chizan, fm08-ouka] |
 | DanMachi 11 | Ouka and Chigusa see for themselves that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] |
 | DanMachi 12 | Ouka joins the joint expedition and is boosted by Haruhime's [[magic#kokonoe|Kokonoe]].[@fm12-ouka] |
-| DanMachi 13 | Chigusa destroys the lambton's last sensory pit with an arrow forged by [[welf-crozzo|Welf]].[@fm13-chigusa] |
+| DanMachi 13 | Chigusa destroys the [[lambton|lambton]]'s last sensory pit with an arrow forged by [[welf-crozzo|Welf]].[@fm13-chigusa] |
 | DanMachi 14 | Ouka, with Mikoto's gravity, cuts off one of the [[amphisbaena|Amphisbaena]]'s heads. His group has already guessed much about the Xenos, and Takemikazuchi is left to explain the rest to them.[@fm14-ouka, fm14-xenos] |
 
 [@fm05-mikoto]: FM05 | | Mikoto of Takemikazuchi Familia.

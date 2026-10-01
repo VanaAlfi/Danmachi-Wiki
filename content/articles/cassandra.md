@@ -83,7 +83,7 @@ Only one line is printed, in DanMachi 12, before the name: "Oh sunlight, may you
 
 #### Limits {#soul-light-limits}
 
-- **Parasitic ivy:** in DanMachi 12 it cannot remove the ivy tormenting Chigusa and Luvis; the healing light even spurs the ivy's growth.[@soul-light.fm12-ivy]
+- **Parasitic ivy:** in DanMachi 12 it cannot remove the ivy tormenting Chigusa and [[modi-and-magni-familias#luvis-lilix|Luvis]]; the healing light even spurs the ivy's growth.[@soul-light.fm12-ivy]
 - **Cursed wounds:** in DanMachi 18 it cannot fully close Daphne's wounds, because [[hegni|Hegni]]'s cursed sword obstructs healing.[@soul-light.fm18-daphne]
 
 {{nocite}} Notable uses and open questions for Soul Light are on the combined page: [[magic#soul-light|Magic § Soul Light]].

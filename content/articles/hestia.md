@@ -49,7 +49,7 @@ For Bell she obtains the Hestia Knife from Hephaistos on a thirty-year loan.[@fm
 | DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black [[goliath|Goliath]], and the [[guild|Guild]] fines her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
 | DanMachi 6 | Accepts [[apollo|Apollo]]'s challenge to a [[war-game|War Game]] and wins it. She puts up the Hestia Knife as collateral so that [[lilliluka-erde|Lilly]] can convert, then disbands Apollo Familia, exiles Apollo and moves into his former manor.[@fm06-lilly, fm06-manor] |
 | DanMachi 7 | Accepts [[haruhime|Haruhime]] into the Familia.[@fm07-debt] |
-| DanMachi 8 | Is kidnapped by Ares. She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |
+| DanMachi 8 | Is kidnapped by [[ares|Ares]], and shelters in [[edas-village|Edas Village]] after falling into a gorge; there she speaks to the dying elder Kam as his lost goddess Brigit would.[@fm08-edas] She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |
 | DanMachi 11 | Directs the rescue of the stranded [[xenos|Xenos]].[@fm11-xenos] |
 | DanMachi 12 | Updates Bell to Level 4.[@fm12-vesta] |
 | DanMachi 16 | Is working at [[the-benevolent-mistress|The Benevolent Mistress]] during the festival. She follows Bell with [[aiz-wallenstein|Aiz]], and recognizes that the "[[syr-flover|Syr]]" on the second day shows a divinity that doesn't match her memories.[@fm16-tavern] |
@@ -81,6 +81,7 @@ In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin 
 [@fm06-gods]: FM06 | | Gods cannot be permanently killed by mortals.
 [@fm07-debt]: FM07 | | Debt of 200 million valis; Haruhime accepted.
 [@fm08-hestia]: FM08 | Chapter 2: The Prum’s Proposal |
+[@fm08-edas]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Edas Village; "Thank you, Kam. Thank you for your love."; "Lady Brigit, I…I, too."
 [@fm08-rebirth]: FM08 | | Ares; purification and rebirth; Hestia's promise.
 [@fm08-hearthstone]: FM08 | | The home is named Hearthstone Manor.
 [@fm11-xenos]: FM11 | | The Xenos rescue.

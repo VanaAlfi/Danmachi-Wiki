@@ -46,7 +46,7 @@ Finn leads through planning. In Astrea Record 1 he directs [[orario|Orario]]'s d
 | Sword Oratoria 7 | [[levis|Levis]] wounds him with a curse that prevents healing; he survives, orders the retreat and leaves the rear to Gareth.[@so07-finn] |
 | Sword Oratoria 10 | Recognises the Xenos' intelligence; Bell and Gros's refusal of [[hermes|Hermes]]'s choice changes him, and he forms a limited alliance with the Xenos against Knossos.[@so10-finn] |
 | Sword Oratoria 11 | Plans the five-front assault on [[knossos|Knossos]] and orders a precautionary retreat.[@so11-finn] |
-| Sword Oratoria 12 | Commands six fronts at once, hands two of them to Lilly, and identifies the demi-spirit Nidhogg as the real target.[@so12-finn] |
+| Sword Oratoria 12 | Commands six fronts at once, hands two of them to Lilly, and identifies the [[corrupted-spirit|demi-spirit]] [[corrupted-spirit#nidhogg|Nidhogg]] as the real target.[@so12-finn] |
 | DanMachi 18 | Judges [[ottar|Ottar]] to be on the verge of Level 8.[@fm18-braver] |
 
 ## Skills {#skills}

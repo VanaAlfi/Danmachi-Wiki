@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Animal-person fighter of Loki Familia from the Beastmen of the Plains, formerly captain of Víðarr Familia; Level 6 from Sword Oratoria 6.",
   "aliases": ["Bete", "Fenris"],
-  "spoilers": "DanMachi Vols. 1–18 and Sword Oratoria Vols. 1–13",
+  "spoilers": "DanMachi Vols. 1, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13 and Minor Myths and Legends Vol. 2",
   "related": ["aiz-wallenstein", "haruhime", "tsubaki", "bell-cranell", "horn", "magic"],
   "infobox": {
     "title": "Bete Loga",
@@ -33,6 +33,10 @@
 A dragon destroyed Bete's tribe on the plains: his parents and sister were killed.[@so08-plains] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove]
 
 Sword Oratoria 8 presents his contempt for weakness as a response to these losses.[@so08-hati]
+
+The healer [[leene-arshe|Leene Arshe]], who loved him, is killed in Knossos in Sword Oratoria 7. Bete mocks her as she dies, and the Familia turns against him. Later [[raul-nord|Raul]] realises that Bete was telling them he does not want to lose them again, even in their next lives.[@leene.so08-death, leene.so08-raul] Minor Myths and Legends 2 gives his last words to her: "How many times have your hands saved me? You’ve done enough."[@leene.ss02-memory]
+
+The young Amazon [[lena-tully|Lena Tully]], formerly of [[ishtar-familia|Ishtar Familia]], falls for him after he beats her at Port Meren. In Sword Oratoria 8 she trades what she saw of Ishtar's key for a Dungeon date. When assassins hunt the former Ishtar Familia Amazons, she runs to draw them away from him and is left for dead.[@lena.so08-meet, lena.so08-run] She survives thanks to [[amid|Amid]]'s anti-curse elixir, and finds forget-me-nots, the gift she had told him she liked best, on the grave made for her; only he could have left them.[@lena.so08-flowers, lena.so08-alive, lena.so08-graves]
 
 ## Abilities
 
@@ -122,6 +126,14 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so08-vidarr]: SO08 | Chapter 2: Did Someone Order a Wolf? | Víðarr Familia; Fenris; the vice-captain.
 [@so08-drove]: SO08 | Chapter 3: Unshed Tears | Driving his former comrades away.
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Hati; Frosvirt; Valletta; the reconciliation.
+[@leene.so08-death]: SO08 | Prologue: Scorn of the Strong | Leene Arshe dying in Knossos; Bete's words; her peaceful smile.
+[@leene.so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?"
+[@leene.ss02-memory]: SS02 | | "How many times have your hands saved me? You’ve done enough."
+[@lena.so08-meet]: SO08 | Chapter 1: Lonely Wolf | "You’re one of those whores from Ishtar Familia we fought in Meren…!"; "I’m Lena! Lena Tully!"
+[@lena.so08-flowers]: SO08 | Chapter 2: Did Someone Order a Wolf? | "There’s nothing that makes me happier than getting forget-me-nots!!"
+[@lena.so08-run]: SO08 | Chapter 3: Unshed Tears | The assassins focus on Lena; "Win for me, okay, Bete Loga? —And don’t die."; the black dagger.
+[@lena.so08-alive]: SO08 | Chapter 5: Battered Wolf | "Yoo-hoo, Bete Loga!"; Amid's elixir; Riveria kept her survival secret.
+[@lena.so08-graves]: SO08 | Epilogue: Instead of Good-bye— | Lena's grave; "There was only one person who could have left this on her grave."; the bouquet of forget-me-nots.
 [@skills.so10-solmani]: SO10 | Interlude: Their Respective Battles | Solmani, his rare sprinting Skill.
 [@skills.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Úlfheðinn, Fenris Wolf, Solmani.
 [@so12-bete]: SO12 | | Pseudo-Level 7 against Filvis.

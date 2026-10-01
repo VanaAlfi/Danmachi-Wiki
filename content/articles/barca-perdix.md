@@ -26,7 +26,7 @@
   }
 }
 ---
-**Barca Perdix** is a descendant of the architect Daedalus and the man who keeps building and running [[knossos|Knossos]], the labyrinth whose completion has been his family's obsession for a thousand years.[@so07-orb, so11-life, so11-collapse] He follows [[thanatos|Thanatos]], the god of [[evils|the Evils]]' remnants, and is a hexer who forges their cursed weapons.[@so07-god, so11-life] He is the elder half-brother of [[ikelos-familia#dix-perdix|Dix Perdix]], who shares his mother.[@so07-dix, so11-life] In Sword Oratoria 11 he fuses with a corrupted spirit's seed and dies as a monster.[@so11-fusion, so11-end]
+**Barca Perdix** is a descendant of the architect Daedalus and the man who keeps building and running [[knossos|Knossos]], the labyrinth whose completion has been his family's obsession for a thousand years.[@so07-orb, so11-life, so11-collapse] He follows [[thanatos|Thanatos]], the god of [[evils|the Evils]]' remnants, and is a hexer who forges their cursed weapons.[@so07-god, so11-life] He is the elder half-brother of [[ikelos-familia#dix-perdix|Dix Perdix]], who shares his mother.[@so07-dix, so11-life] In Sword Oratoria 11 he fuses with a [[corrupted-spirit|corrupted spirit]]'s seed and dies as a monster.[@so11-fusion, so11-end]
 
 ## Appearance and character
 
@@ -40,7 +40,7 @@ He and Dix despised each other. Barca saw his brother, who hated Knossos, as an 
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 7 | Thanatos finds him digging and asks for help with Loki Familia.[@so07-barca] Barca lures Loki Familia's party into a trap built by "my ancestor" and escapes through closing doors.[@so07-trap] From a pedestal with a large crimson orb, which only he and a few others can operate, he controls Knossos's orichalcum doors and watches the intruders on a film of water.[@so07-orb] The Evils lacked the money to finish Knossos, which is why they made a deal with Njörðr's Meren smuggling, and why [[ishtar|Ishtar]]'s funding mattered.[@so07-funds] When a demi-spirit tears through the labyrinth, he goes into a fit, and the Evils lose remote control of the doors.[@so07-fit, so07-doors] |
+| Sword Oratoria 7 | Thanatos finds him digging and asks for help with Loki Familia.[@so07-barca] [[hyrute-sisters|Tiona and Tione]] recognise him as the man in the portrait drawn by [[njordr|Njörðr]], who made the deal with "the sea god in Meren"; he says something like that happened.[@so07-picture] Barca lures Loki Familia's party into a trap built by "my ancestor" and escapes through closing doors.[@so07-trap] From a pedestal with a large crimson orb, which only he and a few others can operate, he controls Knossos's orichalcum doors and watches the intruders on a film of water.[@so07-orb] The Evils lacked the money to finish Knossos, which is why they made a deal with Njörðr's [[njordr#port-meren|Meren]] smuggling, and why [[ishtar|Ishtar]]'s funding mattered.[@so07-funds] When a demi-spirit tears through the labyrinth, he goes into a fit, and the Evils lose remote control of the doors.[@so07-fit, so07-doors] |
 | Sword Oratoria 8 | [[valletta|Valletta]] has Thanatos tell Barca to make as many cursed weapons as he can.[@so08-weapons] Valletta counts on their wounds killing almost every Amazon they strike, since [[amid|Amid]] cannot heal them all alone.[@so08-amazons] |
 | Sword Oratoria 10 | Opens the labyrinth's walls with his eye to release violas into the city.[@so10-violas] [[riveria|Riveria]] uses a captured key to undo the doors he lowers.[@so10-key] |
 
@@ -59,6 +59,7 @@ Amid's [[magic#dia-frater|Dia Frater]] burns the curse away while its own curse 
 > - Whether the Barca Monster died of Dia Frater or of something else; Finn finds it already dead.[@so11-end]
 
 [@so07-barca]: SO07 | Chapter 2: Dungeon Trap | Thanatos accosts the digging Barca; a human; one eye hidden by long bangs, a dark bag under the other; his lifeless voice.
+[@so07-picture]: SO07 | Chapter 2: Dungeon Trap | "—The guy from the picture!"; "the human who made that deal with the sea god in Meren"; "Something like that happened, yes…"
 [@so07-trap]: SO07 | Chapter 2: Dungeon Trap | "I am called…Barca. Nothing more."; not a fighter, a mage or hexer perhaps; "my ancestor’s trap"; escape through a door.
 [@so07-eye]: SO07 | Chapter 2: Dungeon Trap | He sweeps aside his bangs to reveal his left eye.
 [@so07-god]: SO07 | Chapter 3: Feast of the Dead | "Barca and his god, Thanatos".

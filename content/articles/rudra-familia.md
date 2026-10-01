@@ -49,7 +49,7 @@ After her goddess left, Lyu hunted down Rudra Familia and those connected with i
 
 ## Jura Harma
 
-Jura Harma is a catman tamer known as the *Slaver Cat*, extremely tall and thin even for a catman, with a crude ear ornament made from a monster's bone.[@fm13-jura] He has only one hand.[@fm13-jura, fm14-revenge] Lyu remembers him five years earlier as one of the better tamers, but below those of Ganesha Familia; in DanMachi 13 his lambton, a serpent monster, coils around him to protect him and obeys him like an extension of his own body.[@fm13-lambton]
+Jura Harma is a catman tamer known as the *Slaver Cat*, extremely tall and thin even for a catman, with a crude ear ornament made from a monster's bone.[@fm13-jura] He has only one hand.[@fm13-jura, fm14-revenge] Lyu remembers him five years earlier as one of the better tamers, but below those of Ganesha Familia; in DanMachi 13 his [[lambton|lambton]], a serpent monster, coils around him to protect him and obeys him like an extension of his own body.[@fm13-lambton]
 
 - **Hiding.** After Lyu's attack he hid in [[knossos|Knossos]], the "gloomy dungeon" he mentions to [[bors|Bors]].[@fm13-jura] He left after [[bell-cranell|Bell]]'s clash with Ikelos Familia, expecting the Guild to find his hideout, and started his plan.[@fm13-plan]
 - **The magic items.** He smuggled out of Knossos a set of forbidden whips and collars made by the Evils' Remnants, which let weak tamers, or people with no taming ability at all, control monsters even from the deep levels.[@fm13-items, fm13-collar]

@@ -39,7 +39,7 @@ Eina enrolled in the [[school-district|School District]] at six and was recommen
 
 Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] Her hieroglyph reading has limits: she did well in theological studies and can read and write simple hieroglyphs, but the complex characters on Bell's back are too much for her. She takes this for an extra layer of protection by Hestia, not realising it is only the goddess's bad handwriting.[@fm02-glyphs] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear salamander wool.[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
 
-In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Familia]].[@fm03-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
+In DanMachi 3 she applies for a formal investigation into [[soma-familia|Soma Familia]].[@fm03-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees, Luvis and Dormul of [[modi-and-magni-familias|Modi and Magni Familias]], propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
 
 ## Later volumes
 

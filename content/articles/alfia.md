@@ -62,7 +62,7 @@ In Astrea Record 1 Alfia defeats Riveria and [[gareth|Gareth]].[@ar01-alfia] Exp
 #### Effect {#satanas-verion-effect}
 
 - **A wall of sound.** In Astrea Record 1 a single "Gospel" scatters more than twenty of Ganesha Familia's fighters in a church and throws [[shakti-varma|Shakti]] and Ardee against the wall, while the hooded Alfia escapes. Shakti takes it at first for some kind of vacuum wave.[@satanas-verion.ar01-church]
-- **Damage without a direct hit.** In Astrea Record 2 it hurls Kaguya into the ruins and shatters her sword. Lyra dodges the blast but is still knocked down, bleeding from her eyes, ears and mouth, and realises: "It wasn't wind or light. It was sound!!" Alfia agrees: "my magic is sound".[@satanas-verion.ar02-sound]
+- **Damage without a direct hit.** In Astrea Record 2 it hurls [[gojouno-kaguya|Kaguya]] into the ruins and shatters her sword. [[lyra|Lyra]] dodges the blast but is still knocked down, bleeding from her eyes, ears and mouth, and realises: "It wasn't wind or light. It was sound!!" Alfia agrees: "my magic is sound".[@satanas-verion.ar02-sound]
 - **Speed and reach.** Lyra judges it an ultra-short chant with huge range, which even outclasses [[riveria|Riveria]] in a straight contest of magic.[@satanas-verion.ar02-sound]
 
 #### Rugio {#satanas-verion-rugio}
@@ -103,7 +103,7 @@ Late in Astrea Record 3 a "Gospel" aimed at Lyu does not fire; Alfia begins coug
 #### Effect {#silentium-eden-effect}
 
 - **Nullifying magic.** In Astrea Record 1 Alfia answers [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]] with "Ataraxia", and a wall of sound fills the street and erases the blizzard "as though it was never there".[@silentium-eden.ar01-riveria] In Astrea Record 3 a barrage of fire, lightning and arctic wind disperses "as though colliding with an invisible wall".[@silentium-eden.ar03-barrage]
-- **Always on.** Lyra points out that Alfia's gestures and one-word "casts" are for show: the flames on Alize's sword vanished where Alfia touched it, with no spell cast at all. It is a passive enchantment, "like your fire enchantment, or the Sword Princess's wind", protecting her from any magic. That is why she seemed to cast two spells at once.[@silentium-eden.ar03-passive] Alfia replies that understanding it changes nothing.[@silentium-eden.ar03-passive]
+- **Always on.** Lyra points out that Alfia's gestures and one-word "casts" are for show: the flames on [[alize-lovell|Alize]]'s sword vanished where Alfia touched it, with no spell cast at all. It is a passive enchantment, "like your fire enchantment, or the Sword Princess's wind", protecting her from any magic. That is why she seemed to cast two spells at once.[@silentium-eden.ar03-passive] Alfia replies that understanding it changes nothing.[@silentium-eden.ar03-passive]
 
 #### Costs {#silentium-eden-costs}
 

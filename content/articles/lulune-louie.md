@@ -28,7 +28,7 @@
 
 ## The courier
 
-In Sword Oratoria 2 a client in a black robe pays Lulune to collect a package in [[rivira|Rivira]] and bring it to the surface. The adventurer Hashana, who had retrieved it, handed it to her and was murdered.[@so02-courier] When [[aiz-wallenstein|Aiz]] and [[lefiya|Lefiya]] find her, frightened, she admits that Hermes asked her to keep her rank-up secret and that she is Level 3. The client evidently knew this.[@so02-level] She hands Aiz the package: a crystal orb holding a female fetus.[@so02-orb]
+In Sword Oratoria 2 a client in a black robe pays Lulune to collect a package in [[rivira|Rivira]] and bring it to the surface. The adventurer [[hashana|Hashana]], who had retrieved it, handed it to her and was murdered.[@so02-courier] When [[aiz-wallenstein|Aiz]] and [[lefiya|Lefiya]] find her, frightened, she admits that Hermes asked her to keep her rank-up secret and that she is Level 3. The client evidently knew this.[@so02-level] She hands Aiz the package: a crystal orb holding a female fetus.[@so02-orb]
 
 In Sword Oratoria 3 the "washed-up old mage" who hires Aiz, [[fels|Fels]], says it was the one who contacted Lulune.[@so03-fels] The black-robed figure approaches Lulune again, and she refuses at first, given the danger the last quest put her in.[@so03-again] Aiz has already heard from her that Hermes reports false Levels for his followers so that his Familia can stay in the middle of the pack.[@so03-levels]
 
@@ -44,7 +44,7 @@ On the Floor 24 expedition of Sword Oratoria 3, Aiz is impressed by Lulune's acr
 | Sword Oratoria 7 | Escorts Hermes to a meeting of the three gods.[@so07-escort] |
 | Sword Oratoria 10 | Introduced as "the thief of Hermes Familia" when she reports on a suspicious Familia.[@so10-thief] |
 | Sword Oratoria 11 | After Asfi wounds [[barca-perdix|Barca]], Lulune flips through Daedalus's Notebook "with an ungodly speed" and broadcasts the locations of Knossos's key facilities by oculus.[@so11-notebook, so11-broadcast] With her guidance the squads no longer need to fear getting lost.[@so11-guide] |
-| Sword Oratoria 12 | Brings a masked elf to join Asfi's group; Asfi assigns her and the Berbera to protect [[haruhime|Haruhime]].[@so12-elf] |
+| Sword Oratoria 12 | Brings a masked elf to join Asfi's group; Asfi assigns her and the [[ishtar-familia#berbera|Berbera]] to protect [[haruhime|Haruhime]].[@so12-elf] |
 | DanMachi 17 | While [[freya|Freya]]'s spell twists the city, Hermes leaves fragments of a message with his followers, including "Lulune next".[@fm17-message] She delivers the firewood prepared with ichor, as Asfi's letter instructed, without knowing why.[@fm17-firewood] |
 | DanMachi 20 | Helps [[bell-cranell|Bell]] through the gate inspection.[@fm20-gate] |
 | Minor Myths and Legends 2 | Bete makes her gather every vial of antivenin she has.[@ss02-antivenin] Aiz finds her and Asfi drinking with the rest of Hermes Familia.[@ss02-drinking] |

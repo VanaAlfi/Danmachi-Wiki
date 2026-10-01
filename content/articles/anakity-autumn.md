@@ -6,8 +6,8 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Black-haired cat person of Loki Familia, known as Aki, who leads its second-string members. A Level 4 titled Alsha, she becomes Loki Familia's eighth first-tier adventurer at Level 5 in Sword Oratoria 13.",
-  "aliases": ["Aki", "Alsha"],
-  "spoilers": "Sword Oratoria Vols. 4, 5, 7 and 10–13",
+  "aliases": ["Aki", "Alsha", "Anakitty", "Anakitty Autumn"],
+  "spoilers": "Sword Oratoria Vols. 4, 5, 7, 10–13 and Astrea Record Vol. 2",
   "related": ["loki-familia", "raul-nord", "finn-deimne", "knossos", "lilliluka-erde", "bete-loga"],
   "infobox": {
     "title": "Anakity Autumn",
@@ -38,6 +38,7 @@ Anakity has black hair and black-furred ears and tail.[@so04-aki, so04-tail] Swo
 
 | Volume | Events |
 |---|---|
+| Astrea Record 2 | During the Great Conflict, aged fourteen, she helps civilians to safety with Raul; the two later defend the god [[goibniu|Goibniu]] while he repairs the Bridge of Heroes. This volume prints her name *Anakitty Autumn*.[@ar02-anakitty, ar02-bridge] |
 | Sword Oratoria 4 | Finn puts her in command of the party left at the camp while the first-tier members go ahead; she steadies the panicking Raul.[@so04-aki] |
 | Sword Oratoria 7 | Trapped in Knossos, she, Raul and three others tend the critically wounded Finn.[@so07-finn] With [[valletta|Valletta]]'s assassins closing in, they carry out Raul's plan: each leads a huge pass parade of monsters, and Aki leaps over the assassins' heads so that the swarm, drawn by magic-stone powder, falls on them.[@so07-parade] Raul and Aki bring the wounded Finn to safety.[@so07-carry] |
 | Sword Oratoria 10 | Tracks a humanoid monster by scent with [[bete-loga|Bete]].[@so10-scent] She commands Loki Familia's forces in the passages under the Labyrinth District and serves as Finn's aide.[@so10-command, so10-aide] |
@@ -53,6 +54,8 @@ In Sword Oratoria 10 Anakity sees through Lilly's disguise, and Finn changes his
 
 When Finn tells the Familia in Sword Oratoria 11 that he trusts the [[xenos|Xenos]], Anakity asks whether he still does, given that some members have had friends, family or lovers killed by monsters. He says he does. She studies him, then says "Then I have nothing else to say" and sits down. Because she has agreed, the other members accept his decision.[@so11-xenos] The narration says only she could have won them over, as the head of the second-string forces; she respects the leaders but would defy them if their actions were illogical.[@so11-xenos]
 
+[@ar02-anakitty]: AR02 | | "Her name was Anakitty Autumn, a fourteen-year-old who joined the familia about the same time Raul did."; helping an old woman to safety.
+[@ar02-bridge]: AR02 | Chapter 4: Those Who Struggle | Raul and Anakitty at the bridge; Goibniu: "Take care of these interlopers."
 [@so04-aki]: SO04 | Last Chapter: To Adventure | "Anakity Autumn"; Level 4, second-tier, like Raul; "Aki" because her name is hard to pronounce; shoulder-length black hair, black ears and tail; scouted by Loki; leads the party remaining in the camp.
 [@so04-tail]: SO04 | First Chapter: And the Boy… | "The cat girl in black—Aki"; her black tail the same colour as her waist-length hair.
 [@so05-joined]: SO05 | | "Raul and I joined around the same time"; Aiz already Level Two.

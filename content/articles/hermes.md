@@ -31,7 +31,7 @@ The Familia works nominally as a delivery service, which lets it pass through ch
 
 ## Bell and Zeus
 
-In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked his death and is in hiding, and that he sent Hermes to see how Bell was doing.[@fm05-death] He joins the rescue party sent down to Bell, lends the adventurer Mord a helmet of invisibility to test Bell against human malice, and afterwards addresses Zeus by name as Bell's grandfather.[@fm05-hermes, fm05-zeus] The Guild penalises Hestia and Hermes for the [[floor-18|Floor 18]] incident.[@fm05-penalty]
+In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked his death and is in hiding, and that he sent Hermes to see how Bell was doing.[@fm05-death] He joins the rescue party sent down to Bell, lends the adventurer [[mord-latro|Mord]] a helmet of invisibility to test Bell against human malice, and afterwards addresses Zeus by name as Bell's grandfather.[@fm05-hermes, fm05-zeus] The Guild penalises Hestia and Hermes for the [[floor-18|Floor 18]] incident.[@fm05-penalty]
 
 ## Trials behind the scenes
 

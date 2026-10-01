@@ -37,7 +37,7 @@ After the [[juggernaut|Juggernaut]] incident, Gale Wind is officially recorded a
 
 ## Background
 
-Lyu comes from Lumirua Forest, where her clan guards the holy tree. She rejects the elves' prejudices, and in [[orario|Orario]] meets Alize, who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
+Lyu comes from Lumirua Forest, where her clan guards the holy tree. She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
 
 Astrea Familia is later destroyed and Lyu is its only survivor. She persuades Astrea to leave Orario and then takes revenge on those responsible and anyone connected to them, which gets her blacklisted by the Guild.[@fm05-past] After her revenge, [[syr-flover|Syr]] finds and nurses her, and [[mia-grand|Mia]] gives her a place at the tavern.[@fc01-rescue]
 
@@ -237,9 +237,10 @@ Later in DanMachi 18 the opening line is printed again without "the", followed b
 | Name as printed | Companion | What it does |
 |---|---|---|
 | [[#agris-arvensis|Agris Arvensis]] (also printed *Agaris Alvesince*) | Alize Lovell | Fire enchantment on arms, legs and weapon[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast] |
-| [[magic#gokou|Gokou]] | Kaguya Gojouno | "A magic that merely created a magic slash in the positions she set"; Kaguya combined it with her draw to make five slashes from all sides[@astrea-record-spell.fm18-gokou] |
+| [[magic#gokou|Gokou]] | [[gojouno-kaguya|Gojouno Kaguya]] | "A magic that merely created a magic slash in the positions she set"; Kaguya combined it with her draw to make five slashes from all sides[@astrea-record-spell.fm18-gokou] |
 | [[magic#rea-vindemia|Rea Vindemia]] | Maryu, the Familia's only healer | Area healing; Lyu's own [[#noa-heal|Noa Heal]] targets one person and is slow[@astrea-record-spell.fm18-maryu, astrea-record-spell.ar03-maryu] |
-| "Moose Mine", "Irivute" | Not stated | Named in Familia Chronicle 3 alongside the other companions' powers[@astrea-record-spell.fc03-others] |
+| "Moose Mine" | Not stated; probably [[lyra|Lyra]] {{inference}} | Not described. Familia Chronicle 3 follows the shout with "The shrewd prum tactician who set traps", and Lyra was the Familia's prum strategist[@astrea-record-spell.fc03-others, astrea-record-spell.fc03-moose] |
+| "Irivute" | Not stated | Named in Familia Chronicle 3 alongside the other companions' powers[@astrea-record-spell.fc03-others] |
 
 DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, including a dedicated healer's area-healing spell.[@astrea-record-spell.fm19-eina]
 
@@ -262,11 +263,12 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 
 #### Name and spell key {#agris-arvensis-name-and-spell-key}
 
-{{nocite}} The English volumes print the name three ways; this wiki uses *Agris Arvensis*, the only form printed in two volumes:
+{{nocite}} The English volumes print the name three ways; this wiki uses *Agris Arvensis*, the only form printed in more than one volume:
 
 | Volume | Caster | Printed as |
 |---|---|---|
 | Astrea Record 3 | Alize | "Agallis Arvesynce!"[@agris-arvensis.ar03-alize] |
+| DanMachi 14 | Alize, in Lyu's memory | "Agris Arvensis!"[@agris-arvensis.fm14-alize] |
 | Familia Chronicle 3 | Lyu | "Agris Arvensis!"[@agris-arvensis.fc03-lyu] |
 | DanMachi 18 | Lyu | "Agris Arvensis!" and later "Agaris Alvesince!"[@agris-arvensis.fm18-lyu, agris-arvensis.fm18-ottar] |
 
@@ -275,7 +277,7 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 
 Alize's illustrated Status sheet in Astrea Record 3 (Level 4) lists the spell as *Agallis Arvesynce*, an enchantment with fire attribute, and gives its chant as a single word: "Alga".[@agris-arvensis.ar03-sheet] Earlier in the same volume the narration calls her shout of the spell's name "Alize’s chant".[@agris-arvensis.ar03-alize] In the final battle with [[alfia|Alfia]] the text prints the word three times, "Alga! Alga! Alga!!", and each time she speaks it more of her energy is drawn into her magic and the fires around her grow.[@agris-arvensis.ar03-alga]
 
-The next line printed is "Alvarna!", with no speaker named. {{inference}} It may be Alize's spell key, printed in a third form beside "Arvellia" and "Alveria".[@agris-arvensis.ar03-alga] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
+The next line printed is "Alvarna!", with no speaker named. {{inference}} It may be Alize's spell key, printed in a third form beside "Arvellia" and "Alveria".[@agris-arvensis.ar03-alga] Later in the same chapter, in Alize and Lyu's combined attack on Alfia, Lyu's "Luminous Wind!" is followed by "Arveria!", again with no speaker named; the narration describes a blaze of fire and starlight. {{inference}} This is probably Alize's spell key in a fourth spelling.[@agris-arvensis.ar03-arveria] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
 
 #### Effect {#agris-arvensis-effect}
 
@@ -347,6 +349,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@astrea-record-spell.fc03-card]: FC03 | The Locus of Stars | Status: Astrea Record in the Magic slot, "Inherited justice"; the third spell.
 [@astrea-record-spell.fc03-cast]: FC03 | The Locus of Stars | Name first; the chant; hieroglyph sanctuary; "—Justice will go on!!"; "Agris Arvensis!".
 [@astrea-record-spell.fc03-others]: FC03 | The Locus of Stars | "Gokou", "Moose Mine", "Irivute"; the other companions' powers.
+[@astrea-record-spell.fc03-moose]: FC03 | The Locus of Stars | "Moose Mine!" followed by "The shrewd prum tactician who set traps."; Lyu's list: "the prum strategist, Lyra".
 [@astrea-record-spell.fc03-nature]: FC03 | The Locus of Stars | Astrea: "a magic that Lyu alone can use"; ichor; mental state; conversion.
 [@astrea-record-spell.fc03-minddown]: FC03 | The Locus of Stars | Light Mind Down from excessive use.
 [@astrea-record-spell.fm18-cast]: FM18 | Chapter 9: Flower Language for You | The DanMachi 18 chant; the sanctuary; Hegni breaks through; "—Justice returns!"; "Agris Arvensis!".
@@ -356,7 +359,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@astrea-record-spell.ar03-maryu]: AR03 | Chapter 4: Apocalypse Cometh | Maryu casts Rea Vindemia.
 [@astrea-record-spell.fm19-eina]: FM19 | Chapter 1: V-V-V for Victory Party | "Her new Astrea Record skill"; a healer's area-healing spell.
 [@agris-arvensis.ar03-alize]: AR03 | Chapter 4: Apocalypse Cometh | "Agallis Arvesynce!"; arm, legs and sword aflame; "Scarlett Harnell".
-[@agris-arvensis.fm14-alize]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Scarlett Harnell"; fire enchantment; flames in her boots; "Arvellia!!", "the spell key for her enchantment".
+[@agris-arvensis.fm14-alize]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Alize: "Agris Arvensis!"; "Scarlett Harnell"; fire enchantment; flames in her boots; "Arvellia!!", "the spell key for her enchantment".
 [@agris-arvensis.fc03-lyu]: FC03 | The Locus of Stars | "Agris Arvensis!"; flames on Lyu's arms, legs and wooden sword.
 [@agris-arvensis.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | "Agris Arvensis!"; "Scarlet Harnell’s—Alize Lovell’s magic!!!"; explosive acceleration.
 [@agris-arvensis.fm18-hegni]: FM18 | Chapter 9: Flower Language for You | Lyu's control less precise than Alize's; "Alveria!" defeats Hegni.
@@ -369,3 +372,4 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@noa-heal.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Noa Heal, healing magic; affected by the environment; boosted in forested areas.
 [@agris-arvensis.ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Agallis Arvesynce, enchantment, fire attribute, chant "Alga".
 [@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".
+[@agris-arvensis.ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Luminous Wind!" then "Arveria!"; "The pair’s combined attack"; "a flash of fire and starlight".

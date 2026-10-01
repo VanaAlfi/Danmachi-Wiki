@@ -23,17 +23,17 @@
   }
 }
 ---
-**Ishtar** is a goddess who ruled [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]] through Ishtar Familia.[@fm07-ishtar, fm07-quarter] Jealous of [[freya|Freya]], she plans to strike at her, and in DanMachi 7 she abducts [[bell-cranell|Bell Cranell]]. [[freya-familia|Freya Familia]] then overwhelms her Familia and she is sent back to the heavens.[@fm07-ishtar, so07-hermes]
+**Ishtar** is a goddess who ruled [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]] through [[ishtar-familia|Ishtar Familia]].[@fm07-ishtar, fm07-quarter] Jealous of [[freya|Freya]], she plans to strike at her, and in DanMachi 7 she abducts [[bell-cranell|Bell Cranell]]. [[freya-familia|Freya Familia]] then overwhelms her Familia and she is sent back to the heavens.[@fm07-ishtar, so07-hermes]
 
 ## Plans against Freya
 
-Ishtar plans to use [[haruhime|Haruhime]]'s Level Boost, sealed with Haruhime's soul in a [[killing-stone|Killing Stone]], and spread it through the stone's shards to her followers for a war against Freya.[@fm07-ishtar] Sword Oratoria 7 shows that she also financed the [[evils|Evils]] in [[knossos|Knossos]] for five years, in exchange for the monster Gugalanna, the Bull of Heaven, to use against Freya.[@so07-ishtar] Ishtar Familia acted as a go-between for the Evils.[@so06-contact]
+Ishtar plans to use [[haruhime|Haruhime]]'s Level Boost, sealed with Haruhime's soul in a [[killing-stone|Killing Stone]], and spread it through the stone's shards to her followers for a war against Freya.[@fm07-ishtar] Sword Oratoria 7 shows that she also financed the [[evils|Evils]] in [[knossos|Knossos]] for five years, in exchange for the monster [[corrupted-spirit#gugalanna|Gugalanna]], the Bull of Heaven, to use against Freya.[@so07-ishtar] Ishtar Familia acted as a go-between for the Evils.[@so06-contact]
 
 ## Bell and her fall
 
 Bell's Status first catches Ishtar's eye for its Luck, and then for a particular Skill she reads on it.[@fm07-skill] She cannot charm him, because his Skill protects him from her charm.[@fm07-ishtar, fm07-charm] [[hermes|Hermes]] had given Ishtar information about Bell, and Sword Oratoria 7 confirms that he deliberately set Ishtar and Freya against each other, judging Ishtar a danger to Orario.[@fm07-hermes, so07-hermes]
 
-After she abducts Bell, Freya Familia overwhelms Ishtar Familia and Freya sends Ishtar back to the heavens. The Pleasure Quarter is left badly damaged, though no one is killed, and the [[guild|Guild]] fines Freya.[@fm07-quarter] Freya takes in Ishtar's follower Tammuz and keeps his Daedalus Orb.[@so09-tammuz, so11-orb]
+After she abducts Bell, Freya Familia overwhelms Ishtar Familia and Freya sends Ishtar back to the heavens. The Pleasure Quarter is left badly damaged, though no one is killed, and the [[guild|Guild]] fines Freya.[@fm07-quarter] Freya takes in Ishtar's follower [[ishtar-familia#tammuz-berrilli|Tammuz]] and keeps his Daedalus Orb.[@so09-tammuz, so11-orb]
 
 ## Open questions
 

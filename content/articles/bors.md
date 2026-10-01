@@ -39,7 +39,7 @@ He once dreamed of becoming a smith and has become something of a weapons expert
 | Volume | Events |
 |---|---|
 | DanMachi 5 | When the Black [[goliath|Goliath]] attacks, [[asfi|Asfi]] asks him to rally the town. He first wants to flee, then orders every adventurer out against it and threatens to bar anyone who runs from the town.[@fm05-boris, fm05-goliath] |
-| Sword Oratoria 2 | Takes charge after Hashana's murder, but cannot read the dead man's Status and sends for elves who can.[@so02-hieroglyphs] He hands the investigation to [[finn-deimne|Finn]] and seals the town at his request.[@so02-seal] Afterwards he leads the rebuilding with speeches the narration says are really about money.[@so02-rebuild] |
+| Sword Oratoria 2 | Takes charge after [[hashana|Hashana]]'s murder, but cannot read the dead man's Status and sends for elves who can.[@so02-hieroglyphs] He hands the investigation to [[finn-deimne|Finn]] and seals the town at his request.[@so02-seal] Afterwards he leads the rebuilding with speeches the narration says are really about money.[@so02-rebuild] |
 | Sword Oratoria 3 | Tells [[lefiya|Lefiya]] that every party [[filvis|Filvis]] works with dies, that adventurers call her "Banshee", and that she survived the Twenty-Seventh-Floor Nightmare about six years earlier.[@so03-filvis] |
 | DanMachi 9 | Rivira's adventurers try to convince him, "the man at the top of Rivira's hierarchy", that they saw a talking monster.[@fm09-talking] |
 | DanMachi 12 | Gives [[bell-cranell|Bell]]'s party eggs to celebrate its first expedition. When an adventurer is killed outside town, a witness names the Gale Wind.[@fm12-eggs, fm12-murder] |
@@ -62,7 +62,7 @@ Bors also recovered a fragment of Lyu's broken wooden sword, Alvs Lumina, and ga
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 12 | Fighting violas above ground in the city's northwest, where cheap weapons fail against their skin, he is moved to tears when the god Goibniu opens his Familia's stockpile of top-tier weapons to the defenders.[@so12-violas] |
+| Sword Oratoria 12 | Fighting violas above ground in the city's northwest, where cheap weapons fail against their skin, he is moved to tears when the god [[goibniu|Goibniu]] opens his Familia's stockpile of top-tier weapons to the defenders.[@so12-violas] |
 | DanMachi 18 | Joins the coalition against [[freya-familia|Freya Familia]]. His goddess signed up and dragged him along, he says, but he also owes Bell and Lyu his life and is "payin' my debt".[@fm18-join] He commands the right wing with [[daphne|Daphne Laulos]].[@fm18-wing] [[hegni|Hegni]] cuts him down with the others, as part of Daphne's plan to make Hegni use up his attacks.[@fm18-hegni] |
 | DanMachi 19 | Celebrates the coalition's share of Freya Familia's fortune.[@fm19-party] Rivira dislikes the [[school-district|School District]]'s students, but he agrees to escort Bell's squad of them below Floor 18 as a protection quest, saying he owes Bell more than he can ever repay.[@fm19-quest] |
 | DanMachi 20 | Tells Bell why no one does business on Floor 28: it is too deep, and there are too few customers.[@fm20-garden] |

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Familia of the god Ganesha, which hosts the Monsterphilia festival, is the only Familia allowed to keep live monsters in Orario, and helps keep the city's order.",
   "aliases": [],
-  "spoilers": "DanMachi Vols. 1–19, Sword Oratoria Vols. 1–12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
+  "spoilers": "DanMachi Vols. 1, 9, 10, 18–20, Sword Oratoria Vols. 1, 2, 11, 12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
   "infobox": {
     "title": "Ganesha Familia",
@@ -16,6 +16,7 @@
       {"section": "Familia"},
       {"label": "Deity", "value": "Ganesha", "refs": ["fm01-ganesha"]},
       {"label": "Captain", "value": "Shakti Varma, titled Ankusha", "refs": ["fc01-shakti"]},
+      {"label": "Second-in-command", "value": "[[ilta-faana|Ilta Faana]], titled Paluza", "refs": ["fm18-ilta", "so12-paluza"]},
       {"label": "Known for", "value": "Hosting Monsterphilia; keeping live monsters", "refs": ["fm01-ganesha", "fm09-monsters"]}
     ]
   }
@@ -31,10 +32,13 @@ Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use
 
 The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood and Dharmas Algo, the second a passive boost for Familia members around her.[@skills.ar02-sheet] The same sheet lists two spells, Ghana Avimutta and Dia Kaumudi; see [[magic#ardee-varma-spells|Magic § Ardee Varma's spells]].[@ardee-varma-spells.ar02-sheet]
 
+The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. She was one of the city's most lawless newcomers until Shakti and her sister caught and punished her, and she now calls Shakti "sister".[@fm18-ilta, so12-paluza] In DanMachi 20 she and Shakti win the third round of the Orariad against the School District.[@fm20-orariad]
+
 ## History
 
 | Volume | Events |
 |---|---|
+| Sword Oratoria 2 | Its Level 4 member [[hashana|Hashana Dorlia]], on a secret quest, is murdered in [[rivira|Rivira]] by [[levis|Levis]]. The Familia insists that she be named as his killer and blacklisted by the Guild.[@so02-hashana, so02-blacklist] |
 | DanMachi 10 | [[asterios|Asterios]] defeats Ganesha Familia's adventurers.[@fm10-asterios] |
 | Sword Oratoria 11 | Evacuates and guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]].[@so11-ganesha] |
 | Sword Oratoria 12 | Members of the Familia are among those killed in the final battle.[@so12-losses] |
@@ -46,7 +50,12 @@ The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's s
 [@fm09-network]: FM09 | | Ganesha knows the plan.
 [@fm10-purpose]: FM10 | | Monsterphilia's hidden purpose.
 [@fm10-asterios]: FM10 | | Asterios and Ganesha Familia.
+[@so02-hashana]: SO02 | Chapter 2: Incident | "His name was Hashana Dorlia, a former member of…" "…Ganesha Familia."; "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
+[@so02-blacklist]: SO02 | Chapter 6: Parched Scream | Ganesha Familia insists the red-haired woman be known as Hashana's killer and blacklisted by the Guild.
+[@fm18-ilta]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "the Amazon second in command Ilta Faana"; caught and punished by Shakti and her sister.
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Guarding the shaft.
+[@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | Orariad round three won by Ilta Faana and Shakti Varma.
+[@so12-paluza]: SO12 | Chapter 4: Nameless Heroes | "Paluza—Ilta Faana"; "This is it, sister!"
 [@so01-trance]: SO01 | Chapter 4: Between Tranquility and Turbulence | The guards in a trance.
 [@so11-ganesha]: SO11 | | Evacuating Daedalus Street.
 [@so12-losses]: SO12 | | Ganesha Familia's dead.

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Loki, founded with Finn Deimne as its first member, which with Freya Familia drove Zeus and Hera Familias out of Orario. It is the Familia of Aiz Wallenstein.",
   "aliases": [],
-  "spoilers": "DanMachi Vols. 5–20, Sword Oratoria Vols. 1–14 and Astrea Record Vol. 2",
+  "spoilers": "DanMachi Vols. 5–20, Sword Oratoria Vols. 1–14 and Astrea Record Vols. 2 and 3",
   "related": ["aiz-wallenstein", "bete-loga", "freya-familia", "knossos", "xenos", "orario"],
   "infobox": {
     "title": "Loki Familia",
@@ -24,7 +24,7 @@
   }
 }
 ---
-**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is Twilight Manor, on the northern edge of the city.[@fm06-home, fm06-twilight]
+**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is [[twilight-manor|Twilight Manor]], on the northern edge of the city.[@fm06-home, fm06-twilight]
 
 ## Founding
 
@@ -40,6 +40,8 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[aiz-wallenstein|Aiz Wallenstein]] | Joined at seven; Level 6 from DanMachi 2.[@so09-aiz, fm02-aiz] |
 | [[bete-loga|Bete Loga]] | Joined after leaving Víðarr Familia; Level 6 from Sword Oratoria 6.[@so08-bete, so06-bete] |
 | [[raul-nord|Raul Nord]] | Level 4; supervises the Familia's lower ranks.[@so04-raul] |
+| [[narfi|Narfi]] and [[cruz-bussell|Cruz Bussell]] | A human and a chienthrope, both Level 4, who lead the Familia's secondary forces.[@so10-secondary] |
+| [[rakuta|Rakuta]] | Hume bunny supporter whose maps of Knossos underpin Finn's assault plans.[@so10-rakuta, so11-rakuta] |
 
 Finn, Riveria and Gareth reach Level 7 together in Sword Oratoria 14; by DanMachi 20 they are among the five named Level 7s.[@so14-sevens, fm20-sevens]
 
@@ -52,7 +54,8 @@ Sword Oratoria 4 calls [[ottar|Ottar]] one of Loki Familia's longest-standing fo
 | Volume | Events |
 |---|---|
 | Astrea Record 2 | Fights in the [[great-conflict|Great Conflict]]; [[alfia|Alfia]] sees that Aiz now belongs to the Familia.[@ar02-loki] |
-| Sword Oratoria 4–6 | Expedition to Floor 59, where Aiz destroys a demi-spirit; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
+| Astrea Record 3 | Its oldest members, the veterans [[noir-dyne-and-bahra|Noir, Dyne and Bahra]], who had taught Finn, Riveria and Gareth, leave [[twilight-manor|Twilight Manor]] against Loki's wishes to charge the monster horde, and die there.[@ar03-mentors, ar03-veterans] |
+| Sword Oratoria 4–6 | Expedition to Floor 59, where Aiz destroys a [[corrupted-spirit|demi-spirit]]; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
 | Sword Oratoria 7 | First attempt on Knossos, which Loki counts as a defeat; she makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
 | DanMachi 10–11 | Pursues the [[xenos|Xenos]] through [[daedalus-street|Daedalus Street]]; afterwards [[ouranos|Ouranos]] spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep the Xenos secret; Finn forms a limited alliance with them for the assault on [[knossos|Knossos]].[@so10-compact, so10-alliance] |
@@ -84,6 +87,9 @@ Sword Oratoria 4 calls [[ottar|Ottar]] one of Loki Familia's longest-standing fo
 [@so04-ottar]: SO04 | First Chapter: And the Boy… | Ottar as a longstanding foe.
 [@so04-block]: SO04 | First Chapter: And the Boy… | Freya Familia blocks Loki Familia.
 [@so04-raul]: SO04 | | Raul Nord, Level 4.
+[@so10-secondary]: SO10 | Chapter 2: Someone Named Fool | "The leaders of the secondary forces—the Level-4 chienthrope Cruz and human girl Narfi".
+[@so10-rakuta]: SO10 | Chapter 5: Brave Soul! | "It was the hume bunny Rakuta. There was a reason why Finn had sent her along with Lefiya for their romp in the deep levels: her genius at mapping."
+[@so11-rakuta]: SO11 | Chapter 2: The Decisive Battle Intermission | Finn "tapped the map Rakuta had created".
 [@so04-59]: SO04 | | Aiz destroys the Floor 59 demi-spirit.
 [@so06-bete]: SO06 | | Bete reaches Level 6.
 [@so07-knossos]: SO07 | | Loki's verdict on the first Knossos operation.
@@ -95,3 +101,5 @@ Sword Oratoria 4 calls [[ottar|Ottar]] one of Loki Familia's longest-standing fo
 [@so11-assault]: SO11 | | The first Knossos assault.
 [@so12-enyo]: SO12 | | Dionysus exposed as Enyo.
 [@ar02-loki]: AR02 | Intermission: While the Scales of Justice Tremble | "It seems the girl is now yours."
+[@ar03-mentors]: AR03 | Prologue: Last Intermission | Noir Sachsen, "one of several mentors who taught Finn, Riveria, and Gareth"; Dyne and Bahra, "the three veterans of Loki Familia".
+[@ar03-veterans]: AR03 | Chapter 6: The Nameless Heroes | The three veterans charge the monster horde; Olivas's volley kills Bahra, Dyne and Noir.

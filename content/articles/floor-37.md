@@ -35,7 +35,7 @@ Its earth and stone are a cloudy white, its rooms immense, its ceilings too high
 | Delphyne | During the [[great-conflict|Great Conflict]], a god's use of Arcanum here gives birth to the dragon [[delphyne|Delphyne]].[@ar03-delphyne] |
 | Astrea Familia | The chamber where [[astrea-familia|Astrea Familia]] died is on this floor.[@fm14-palace] |
 | Udaeus | [[aiz-wallenstein|Aiz]] defeats Udaeus alone and reaches Level 6.[@fm02-rex] |
-| [[bell-cranell|Bell]] and [[lyu-leon|Lyu]] | In DanMachi 13 a lambton carries Bell and Lyu down here. They survive four days and four nights; Bell later counts eight times he nearly died. The [[juggernaut|Juggernaut]] follows them, and they destroy it before the rescue party arrives.[@fm13-floor, fm14-four, ss01-survival] |
+| [[bell-cranell|Bell]] and [[lyu-leon|Lyu]] | In DanMachi 13 a [[lambton|lambton]] carries Bell and Lyu down here. They survive four days and four nights; Bell later counts eight times he nearly died. The [[juggernaut|Juggernaut]] follows them, and they destroy it before the rescue party arrives.[@fm13-floor, fm14-four, ss01-survival] |
 
 They find a shelter with three skeletons and gear from a failed expedition; who these adventurers were is unknown.[@fm14-shelter]
 

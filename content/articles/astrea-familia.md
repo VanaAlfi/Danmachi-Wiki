@@ -3,19 +3,20 @@
   "title": "Astrea Familia",
   "category": "familias",
   "status": "complete",
-  "reviewed": "2026-09-30",
+  "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of Astrea, goddess of justice and order. It fought the Evils through Orario's dark ages, and was destroyed in an ambush five years before DanMachi 13, leaving Lyu Leon as its only survivor.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 5–19, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
-  "related": ["lyu-leon", "hermes", "ouranos", "knossos", "dungeon", "magic"],
+  "related": ["lyu-leon", "alize-lovell", "gojouno-kaguya", "lyra", "hermes", "ouranos", "knossos", "dungeon", "magic"],
   "infobox": {
     "title": "Astrea Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
       {"label": "Deity", "value": "Astrea, goddess of justice and order", "refs": ["fm05-astrea"]},
-      {"label": "Captain", "value": "Alize Lovell", "refs": ["fm15-alize"]},
+      {"label": "Captain", "value": "[[alize-lovell|Alize Lovell]]", "refs": ["fm15-alize"]},
+      {"label": "Home", "value": "Stardust Garden (printed once as Starlight Garden)", "refs": ["ar01-home", "ar02-starlight"]},
       {"label": "Guild rank", "value": "B", "refs": ["fc01-record"]},
       {"label": "Deepest floor", "value": "41", "refs": ["fc01-record"]},
       {"section": "Fate"},
@@ -29,13 +30,13 @@
 
 ## Members
 
-The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm18-names]
+The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm14-ten, fm15-circle] Astrea Record 2 prints Maryu's name as *Marieux*.[@ar02-marieux]
 
 | Member | Notes |
 |---|---|
-| Alize Lovell | Captain; Lyu's closest guide. Printed *Alizé Rovel* in Familia Chronicle 1.[@fm15-alize, fc01-alize] |
-| Kaguya Gojouno | The Familia's strongest close-range fighter, who argued that applied justice must accept unavoidable sacrifice.[@fm14-kaguya] |
-| Lyra | A prum who taught Lyu that justice lies in continuing to struggle to save one more person.[@fm14-lyra] |
+| [[alize-lovell|Alize Lovell]] | Captain; Lyu's closest guide. Printed *Alizé Rovel* in Familia Chronicle 1.[@fm15-alize, fc01-alize] |
+| [[gojouno-kaguya|Gojouno Kaguya]] | Vice-captain (printed *Gojouno Kaguya*) and the Familia's strongest close-range fighter, who told Lyu they were not strong enough to rescue the whole world.[@fm14-kaguya] |
+| [[lyra|Lyra]] | The prum strategist, who taught Lyu that "Knowledge is a weapon" and that she must turn knowledge into wisdom.[@fm14-lyra] |
 | [[lyu-leon|Lyu Leon]] | Titled Gale Wind; the only survivor.[@fm05-astrea] |
 
 Astrea Record 3 names two of the members' [[skills|Skills]]: Alize's [[skills#rubrud-beckia|Rubrud Beckia]], which Lyu stops her explaining to Alfia, and Kaguya's [[skills#five-lights|Five Lights]], one half of the Gojouno clan's paired Skill and spell.[@skills.ar03-rubrud, skills.ar03-fivelights] Alize's character sheet at the end of that volume adds a second Skill, [[skills#batrea-acras|Batrea Acras]], and sets out Rubrud Beckia's three conditions.[@skills.ar03-sheet]
@@ -65,10 +66,12 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@fm13-ambush]: FM13 | | The ambush and the Juggernaut.
 [@fm13-ouranos]: FM13 | | Ouranos on the Juggernaut.
 [@fm14-alize]: FM14 | | Alize, Kaguya and Lyra's sacrifice.
-[@fm14-kaguya]: FM14 | | Kaguya.
-[@fm14-lyra]: FM14 | | Lyra.
+[@fm14-kaguya]: FM14 | Special Chapter: Recollection of Justice | "Gojouno Kaguya."; "a Level 4 adventurer and the vice-captain"; "Don’t think we’re strong enough to rescue the whole world."
+[@fm14-lyra]: FM14 | | Special chapter "Reminiscence of Justice" (not in the evidence map): "Knowledge is a weapon."; "turn what you know into wisdom".
+[@fm14-ten]: FM14 | Chapter 9: Hello, Deep Levels | Lyu's dream: "Kaguya, Lyra, Noin, Neze." / "Asta, Lyana, Celty, Iska, Maryu."
+[@fm15-circle]: FM15 | Chapter 6: Meetings and Oaths | Alize and the welcome circle: "Noin, Neze, Lyra, Asta, Lyana, Kaguya, Celty, Iska, Maryu."
 [@fm15-alize]: FM15 | Chapter 6: Meetings and Oaths | Alize recruits Lyu.
-[@fm18-names]: FM18 | Chapter 9: Flower Language for You | The ten companions; Astrea Record in battle.
+[@fm18-names]: FM18 | Chapter 9: Flower Language for You | Astrea Record in battle: Alize's, Kaguya's and Maryu's spells.
 [@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Astrea in Zolingam.
 [@fm19-bond]: FM19 | Chapter 1: V-V-V for Victory Party | Astrea's ichor remains in Lyu's back.
 [@fc01-record]: FC01 | | Rank B; eleven second-tier members; Floor 41; twenty-one floor bosses.
@@ -76,6 +79,9 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@fc03-home]: FC03 | The Locus of Stars | Stars' Rest.
 [@fc03-record]: FC03 | The Locus of Stars | Astrea Record survives conversion.
 [@ar01-astrea]: AR01 | | Astrea Familia in the Great Conflict.
+[@ar01-home]: AR01 | Chapter 1: Astrea Familia | "This was where the members of Astrea Familia called home—Stardust Garden."
+[@ar02-starlight]: AR02 | Chapter 3: A Gray Wildflower | "the Starlight Garden" (elsewhere in AR02 "Stardust Garden").
+[@ar02-marieux]: AR02 | | "Neze, Marieux, and Iska" (Astrea, printed heading Chapter 7, not in the evidence map); Marieux heals Kaguya (Chapter 9).
 [@ar03-delphyne]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Delphyne defeated.
 [@skills.ar03-rubrud]: AR03 | Chapter 4: Apocalypse Cometh | Alize's Skill, Rubrud Beckia.
 [@skills.ar03-fivelights]: AR03 | Chapter 7: What She Wished For | The Gojouno clan's paired Skill and spell, Five Lights.

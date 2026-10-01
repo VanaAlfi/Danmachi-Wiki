@@ -31,7 +31,7 @@ Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]], 
 
 ## The Black Dragon
 
-The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Quests.[@so07-dragon] In DanMachi 20 Leon tells of an ancient hero who took its eye and drove it from the western lands, and of a great spirit who gave up its own body to seal it in the [[valley-of-dragons|Valley of Dragons]]. The sleeping Black Dragon's breath sometimes opens a way for other dragons to escape.[@fm20-valley] On the Bridge of Heroes, an empty place opposite the hero Albert waits for the final hero who will defeat the Black Dragon.[@fm16-bridge]
+The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Quests.[@so07-dragon] In DanMachi 20 Leon tells of an ancient hero who took its eye and drove it from the western lands, and of a great spirit who gave up its own body to seal it in the [[valley-of-dragons|Valley of Dragons]]. The sleeping Black Dragon's breath sometimes opens a way for other dragons to escape.[@fm20-valley] On the Bridge of Heroes, an empty place opposite the hero Albert waits for the final hero who will defeat the Black Dragon.[@fm16-bridge] In the Beor Mountains, [[edas-village|Edas Village]] keeps and reveres scales it says the Black Dragon shed as it fled north after heroes drove it out of Orario; monsters fear them and stay away.[@fm08-scales]
 
 ## Preparations in the covered volumes
 
@@ -50,6 +50,7 @@ The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Ques
 [@fm16-bridge]: FM16 | | The Bridge of Heroes.
 [@fm17-pledge]: FM17 | | Freya's pledge.
 [@fm19-jewel]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "For the Black Dragon hunt…no, for the promised time."
+[@fm08-scales]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "one of the Black Dragon’s scales"; "after heroes drove him from Orario, the Black Dragon fled north"; monsters fear the scales.
 [@fm20-valley]: FM20 | Chapter 3: The World, The Festival, and Reality | The one-eyed dragon; the Valley of Dragons.
 [@so07-dragon]: SO07 | Epilogue: To Be Yearned After | "The One-Eyed Dragon—the last of the Three Great Quests."
 [@so09-quests]: SO09 | Chapter 4: Those Who Remain, Those Left Behind | Behemoth, Leviathan and the Black Dragon.

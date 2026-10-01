@@ -109,7 +109,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#other-abilities|Bulwark]] | Gareth | Not described[@sheet.so07-gareth] |
 | [[#other-abilities|Initiative]] | Finn | Not described[@sheet.so08-finn] |
 | [[#other-abilities|Sturdy Body]] | Ottar | Not described[@sheet.fc02-ottar] |
-| [[#other-abilities|Conflagrate]] | Alize | Not described[@sheet.ar03-alize] |
+| [[#other-abilities|Conflagrate]] | [[alize-lovell|Alize]] | Not described[@sheet.ar03-alize] |
 | [[#other-abilities|Slash]] | Leon | Not described[@sheet.fm20-leon] |
 | [[#other-abilities|Supreme Attack]] | Leon | Not described[@sheet.fm20-leon] |
 | [[#other-abilities|Speed]] | Raul | Not described[@sheet.so11-raul] |
@@ -126,7 +126,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 #### Limits {#abnormal-resistance-limits}
 
-- **Rank:** Hashana of [[ganesha-familia|Ganesha Familia]], at rank G, would have been protected from almost any poison, even one made by an expert; Bell and Mikoto, with it at a low rank, are still hurt by the dark fungus spores.[@so02-hashana, fm09-immunity]
+- **Rank:** [[hashana|Hashana]] of [[ganesha-familia|Ganesha Familia]], at rank G, would have been protected from almost any poison, even one made by an expert; Bell and Mikoto, with it at a low rank, are still hurt by the dark fungus spores.[@so02-hashana, fm09-immunity]
 - **Curses:** it gives no protection against curses.[@fm10-curse]
 - **Charm:** it should not be able to block a goddess's Charm.[@fm07-charm]
 - **Drugs:** a sleeping drug made by a skilled herbalist nearly puts Lyu to sleep despite her well-developed Resistance.[@fc01-lyu]
@@ -137,7 +137,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 |---|---|---|
 | [[bell-cranell|Bell Cranell]] | I at Level 3; H; G from DanMachi 15 | [@fm07-card, ss01-bell, fm15-bell, fm20-bell] |
 | [[aiz-wallenstein|Aiz Wallenstein]] | G | [@so01-aiz, so06-cards, so11-aiz] |
-| [[mikoto|Mikoto Yamato]] | I | [@fm08-cards, fm15-mikoto] |
+| [[mikoto|Yamato Mikoto]] | I | [@fm08-cards, fm15-mikoto] |
 | [[lilliluka-erde|Lilliluka Erde]] | I, chosen at Level 2 | [@fm15-lilly, sheet.fm15-lilly] |
 | [[lefiya|Lefiya Viridis]] | I | [@sheet.so02-lefiya, so06-cards, so12-lefiya] |
 | [[lyu-leon|Lyu Leon]] | I at Level 3; G from Level 4 | [@sheet.ar01-lyu, sheet.fm13-lyu, fc03-cards] |

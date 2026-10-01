@@ -43,7 +43,7 @@ Loki Familia believed she was long dead. In Sword Oratoria 7 she explains that d
 
 Valletta reappears in Sword Oratoria 7 inside [[knossos|Knossos]], directing the trap set for [[loki-familia|Loki Familia]]. She deliberately shows Finn one of the labyrinth's keys, an orb carved with a D, and vows to kill him herself.[@so07-finn, so07-key] [[thanatos|Thanatos]] says he picked up Valletta and her crew after they lost their patron; she still fights as a Level 5.[@so07-thanatos, so07-level]
 
-In Sword Oratoria 8 she operates from Knossos and then from a base in the ruins of [[pleasure-quarter|the Pleasure Quarter]], with a crew of assassins identified as Sekhmet Familia.[@so08-coat, so08-assassins] She taunts [[bete-loga|Bete Loga]] by claiming the murder of his fallen companions in Knossos, among them the healer Leene: "It was me! All of it!"[@so08-admit]
+In Sword Oratoria 8 she operates from Knossos and then from a base in the ruins of [[pleasure-quarter|the Pleasure Quarter]], with a crew of assassins identified as Sekhmet Familia.[@so08-coat, so08-assassins] She taunts [[bete-loga|Bete Loga]] by claiming the murder of his fallen companions in Knossos, among them the healer [[leene-arshe|Leene]]: "It was me! All of it!"[@so08-admit]
 
 ## Death
 

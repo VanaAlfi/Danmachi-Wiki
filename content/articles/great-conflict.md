@@ -37,7 +37,7 @@ The god [[erebus|Erebus]] leads the Evils, joined by [[zald|Zald]] and [[alfia|A
 | Event | Details |
 |---|---|
 | [[ottar|Ottar]] defeats Zald | And advances to Level 7.[@ar03-ottar] |
-| Astrea Familia overcomes Alfia | All eleven of its adventurers then reach Level 4.[@ar03-end] |
+| Astrea Familia overcomes Alfia | Astrea updates all eleven of its adventurers at once, and [[alize-lovell|Alize]] announces that they are all Level 4.[@ar03-rankup] Earlier in the same volume [[lyra|Lyra]] is called Level 2, so the prints do not agree; see [[lyra#level|her Level section]].[@ar03-lyra] |
 | [[delphyne|Delphyne]] falls | The dragon Delphyne is destroyed; [[aiz-wallenstein|Aiz]] strikes its exposed core with support from [[riveria|Riveria]], [[gareth|Gareth]] and [[astrea-familia|Astrea Familia]].[@ar03-delphyne, ar03-end] |
 | Erebus returned | Taken into custody and sent back to the heavens by Astrea.[@ar03-end] |
 
@@ -61,6 +61,8 @@ In the epilogue of Astrea Record 3, [[hermes|Hermes]] tells [[bell-cranell|Bell]
 [@ar03-delphyne]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Delphyne destroyed.
 [@ar03-ottar]: AR03 | | Ottar defeats Zald.
 [@ar03-end]: AR03 | | The end of the war.
+[@ar03-rankup]: AR03 | Chapter 9: A Hero’s Trail | "Level 4 girls"; "rank up all eleven of them"; Lyra: "eleven levels worth of improvement".
+[@ar03-lyra]: AR03 | Chapter 4: Apocalypse Cometh | Alfia: "that Level Two prum has outwitted me for a second time".
 [@ar03-freya]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Freya Familia's leaders reach Level 6.
 [@ar03-seven]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Hermes on the Seven Days of Death.
 [@ar03-extra]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | The private family history.

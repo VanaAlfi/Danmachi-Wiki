@@ -57,7 +57,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 - **The Daedalus Street battle (DanMachi 11).** Hestia Familia uses several veils while helping the Xenos escape, as described above.[@fm11-bell, fm11-welf, fm11-gros]
 - **Knossos (Sword Oratoria 12).** Fels moves alone through the labyrinth using "the reversible veil" and other magic items, avoiding every kind of detection, to find the points of the enemy's magic circle.[@so12-fels] The narration credits that with the combination of items, not the veil alone.
 - **The escape with Syr (DanMachi 16).** Bell borrows a veil and a scent remover from the hidden store of the mage Lenoa, an acquaintance of Fels, to slip away from [[freya-familia|Freya Familia]]'s surveillance with [[syr-flover|Syr]].[@fm16-escape]
-- **The Familia War (DanMachi 18).** [[lilliluka-erde|Lilly]] has Haruhime put on a veil so that neither the enemy nor the watching city can see who is casting the Level Boost.[@fm18-haruhime] She also gives veils to raiders, and Mord's unit casts them off to ambush the Andhrímnir.[@fm18-raiders] Even so, [[hedin|Hedin]] reads her formation in detail, including where the invisible reserves have gone; the text does not say he sees through the cloth.[@fm18-hedin]
+- **The Familia War (DanMachi 18).** [[lilliluka-erde|Lilly]] has Haruhime put on a veil so that neither the enemy nor the watching city can see who is casting the Level Boost.[@fm18-haruhime] She also gives veils to raiders, and [[mord-latro|Mord]]'s unit casts them off to ambush the Andhrímnir.[@fm18-raiders] Even so, [[hedin|Hedin]] reads her formation in detail, including where the invisible reserves have gone; the text does not say he sees through the cloth.[@fm18-hedin]
 
 ## Open questions
 

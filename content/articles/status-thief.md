@@ -33,7 +33,7 @@ In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at
 
 ## Using it
 
-In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer's back and traces precise patterns with his fingers, using it to loosen the lock and "pick" it open. A mass of hieroglyphs appears.[@so02-rivira] The Status still has to be read: [[bors|Bors]] cannot read divine hieroglyphs, but Riveria and [[aiz-wallenstein|Aiz]] can, and identify the dead man as Hashana Dorlia, formerly of [[ganesha-familia|Ganesha Familia]].[@so02-read] The item therefore works on the dead.
+In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer's back and traces precise patterns with his fingers, using it to loosen the lock and "pick" it open. A mass of hieroglyphs appears.[@so02-rivira] The Status still has to be read: [[bors|Bors]] cannot read divine hieroglyphs, but Riveria and [[aiz-wallenstein|Aiz]] can, and identify the dead man as [[hashana|Hashana Dorlia]], formerly of [[ganesha-familia|Ganesha Familia]].[@so02-read] The item therefore works on the dead.
 
 ### Descriptions of the item
 

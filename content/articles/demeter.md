@@ -31,11 +31,12 @@
 Demeter Familia is a farming and commerce Familia: it grows grain, vegetables and fruit and sells them in Orario, and Sword Oratoria 12 says most of the produce brought into the city is its harvest.[@so01-wine, so12-suspect, fc01-runoa] Because she runs farms and a base outside the walls, Demeter is the one goddess allowed to come and go freely, without the Guild's usual formalities.[@so12-suspect] The Familia also buys strange fruit and seeds that adventurers find in the Dungeon and tries to grow them.[@ss01-farm] Its home is Wheat Hall, in the north of the city.[@fc01-runoa]
 
 - **Runoa.** [[runoa|Runoa Faust]] contracted with Demeter only to have her Status updated; it was her fifth membership, and she was free to convert at any time. She feels at ease in Demeter's company.[@fc01-runoa]
+- **Persephone.** A follower of Demeter. In Minor Myths and Legends 1 Demeter sends her to fetch rinne herbs for [[miach-familia|Miach]], and goddesses gossiping about Bell say that even Persephone was impressed by his gardening.[@ss01-persephone, ss01-gossip] In Familia Chronicle 1 Demeter tells Runoa that Persephone wanted to meet her.[@fc01-persephone] She is among the hostages of Sword Oratoria 12 (see below).[@so12-confession]
 - **The dark age.** In Astrea Record 1 Demeter Familia organises the food distribution for the poor that Astrea Familia joins.[@ar01-food] In Sword Oratoria 9's flashback, Demeter is handing out food when [[loki|Loki]] introduces her to the young [[aiz-wallenstein|Aiz]], whom she hugs.[@so09-aiz]
 
 ## The goddess
 
-[[hestia|Hestia]] greets her in a bathhouse in DanMachi 2 with "it's been a long time!"[@fm02-baths] She is one of the harvest goddesses honoured at the Goddess Festival in DanMachi 16, and the festival is opened every year by her proclamation.[@fm16-festival] In DanMachi 18 Hestia is told that Demeter will not help against [[freya|Freya]]: her Familia is exhausted, and she gets along with Freya.[@fm18-freya] {{statement}} Before the Familia War, a waitress of the Benevolent Mistress tells [[anya-fromel|Anya]]: "We begged Lord Njǫrðr and Lady Demeter."[@fm18-waitresses] After the war Demeter comes with Astrea and Njörðr to Freya's island.[@fm18-island]
+[[hestia|Hestia]] greets her in a bathhouse in DanMachi 2 with "it's been a long time!"[@fm02-baths] She is one of the harvest goddesses honoured at the Goddess Festival in DanMachi 16, and the festival is opened every year by her proclamation.[@fm16-festival] In DanMachi 18 Hestia is told that Demeter will not help against [[freya|Freya]]: her Familia is exhausted, and she gets along with Freya.[@fm18-freya] {{statement}} Before the Familia War, a waitress of the Benevolent Mistress tells [[anya-fromel|Anya]]: "We begged Lord [[njordr|Njǫrðr]] and Lady Demeter."[@fm18-waitresses] After the war Demeter comes with Astrea and Njörðr to Freya's island.[@fm18-island]
 
 ## Enyo's scapegoat
 
@@ -43,7 +44,7 @@ In Sword Oratoria 1 Demeter pours Loki a glass of wine and teases Dionysus.[@so0
 
 [[hermes|Hermes]] finds her there alone. She insists that she is the mastermind, but he refuses to believe it.[@so12-hermes, so12-confession] She then tells him the truth. A god she had gone to look into kidnapped Persephone and her other followers, and when she refused to obey he killed them one by one until she gave in. Through the Falna she could feel the number of her Blessings shrinking whenever she tried to send a signal.[@so12-confession] Takemikazuchi had noticed something was wrong and asked Hermes to help her.[@so12-confession] Enyo, she tells Hermes, is Dionysus.[@so12-enyo]
 
-During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'s reserve forces find the surviving hostages on the tenth floor, emaciated, and carry them out; Elfie hugs Persephone. Many others held there had been killed to make a point to Demeter.[@so12-rescue] Afterwards Demeter helps the Guild give the official account of the events credibility, and is even willing to take the blame herself.[@so13-statement]
+During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'s reserve forces find the surviving hostages on the tenth floor, emaciated, and carry them out; [[elfie-collette|Elfie]] hugs Persephone. Many others held there had been killed to make a point to Demeter.[@so12-rescue] Afterwards Demeter helps the Guild give the official account of the events credibility, and is even willing to take the blame herself.[@so13-statement]
 
 ## Open questions
 
@@ -65,5 +66,8 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 [@so12-rescue]: SO12 | Chapter 7: Final War II | Demeter Familia's emaciated followers; Elfie hugs Persephone; the tenth floor; those killed to make a point to Demeter.
 [@so13-statement]: SO13 | | Demeter lends credibility to the official statement; beloved as kind and caring; willing to carry the blame.
 [@ss01-farm]: SS01 | | Demeter in a straw hat, honey-coloured hair; a commerce-focused Familia; Dungeon fruit and seeds cultivated.
+[@ss01-persephone]: SS01 | | Story "Familia Panacea" (not in the evidence map): "Oh, Persephone! Bring me some rinne herbs, will you?"
+[@ss01-gossip]: SS01 | | Gods' gossip about Bell, near the end of the volume (not placed): "Even Persephone was impressed."; "Persephone seems to like him".
+[@fc01-persephone]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Persephone also wanted to meet you."
 [@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Wheat Hall in the north of Orario; Runoa's contract, her fifth membership; farms producing wheat, vegetables and fruit.
 [@ar01-food]: AR01 | | "It’s Demeter Familia who organized the whole thing"; feeding the poor.

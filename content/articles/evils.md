@@ -32,9 +32,9 @@ In the [[great-conflict|Great Conflict]] the Evils are led by the god [[erebus|E
 
 Remnants of the Evils later hide in [[knossos|Knossos]], which serves as their base in Sword Oratoria.[@so07-base] [[rudra-familia|Rudra Familia]], which ambushed Astrea Familia with the [[juggernaut|Juggernaut]], was one of their allies; [[lyu-leon|Lyu]] destroyed it.[@fm13-ambush, fc01-rudra] Magic items they made in Knossos, whips and collars that let weaker tamers control monsters, are smuggled out by [[rudra-familia#jura-harma|Jura]] in DanMachi 13.[@fm13-remnants]
 
-Sword Oratoria 12 reveals that the god [[dionysus|Dionysus]], under the name Enyo, brought the Evils and the corrupted spirit's forces together, aiming at Orario's destruction.[@so12-enyo]
+Sword Oratoria 12 reveals that the god [[dionysus|Dionysus]], under the name Enyo, brought the Evils and the [[corrupted-spirit|corrupted spirit]]'s forces together, aiming at Orario's destruction.[@so12-enyo]
 
-{{nocite}} Related magic: [[valletta|Valletta]]'s [[magic#shaldo|Shaldo]] and the Dis sisters' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
+{{nocite}} Related magic: [[valletta|Valletta]]'s [[magic#shaldo|Shaldo]] and the [[apate-and-alecto-familias#alecto-familia|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
 
 ## Open questions
 

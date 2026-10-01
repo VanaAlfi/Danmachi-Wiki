@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Renart sorceress from the Far East, formerly held by Ishtar Familia, who joins Hestia Familia in DanMachi 7. Her magic Uchide no Kozuchi raises others by a Level.",
-  "aliases": ["Sanjyouno Haruhime", "Haruhime Sanjouno"],
+  "aliases": ["Sanjyouno Haruhime", "Haruhime Sanjouno", "Sanjouno Haruhime"],
   "spoilers": "DanMachi Vols. 7–20 and Sword Oratoria Vols. 6 and 12",
   "related": ["hestia-familia", "bell-cranell", "level", "hestia", "magic"],
   "infobox": {
@@ -25,15 +25,15 @@
   }
 }
 ---
-**Haruhime** is a renart from the Far East and a sorceress whose spell [[#uchide-no-kozuchi|Uchide no Kozuchi]] temporarily raises another person by a Level.[@fm07-name, fm07-history] Held by Ishtar Familia until DanMachi 7, she then joins [[hestia-familia|Hestia Familia]].[@fm07-join]
+**Haruhime** is a renart from the Far East and a sorceress whose spell [[#uchide-no-kozuchi|Uchide no Kozuchi]] temporarily raises another person by a Level.[@fm07-name, fm07-history] Held by [[ishtar-familia|Ishtar Familia]] until DanMachi 7, she then joins [[hestia-familia|Hestia Familia]].[@fm07-join]
 
 ## Name
 
-DanMachi 7 prints her name in the Far Eastern order, *Sanjyouno Haruhime*; later volumes print *Haruhime Sanjouno*.[@fm07-name, fm15-name] This wiki uses *Haruhime*, as the novels mostly do.
+DanMachi 7 prints her name in the Far Eastern order, *Sanjyouno Haruhime*; later volumes print *Haruhime Sanjouno*.[@fm07-name, fm15-name] This wiki uses *Haruhime*, as the novels mostly do, and gives her full name in the Japanese order, *Sanjouno Haruhime*.
 
 ## Ishtar Familia
 
-Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises Phryne's strength.[@so06-caster]
+Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises [[phryne-jamil|Phryne]]'s strength.[@so06-caster]
 
 [[bell-cranell|Bell]] breaks the Killing Stone and rescues her. After Ishtar is sent back to the heavens, Haruhime asks to join Hestia Familia.[@fm07-rescue, fm07-join]
 
@@ -176,7 +176,7 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 | Volume | Use |
 |---|---|
 | DanMachi 12 | First use; five people boosted at once.[@kokonoe.fm12-kokonoe] |
-| DanMachi 13 | Saves Mind by making only two boosts, for [[welf-crozzo|Welf]] and [[ouka|Ouka]], against the lambton.[@kokonoe.fm13-two] |
+| DanMachi 13 | Saves Mind by making only two boosts, for [[welf-crozzo|Welf]] and [[ouka|Ouka]], against the [[lambton|lambton]].[@kokonoe.fm13-two] |
 | DanMachi 18 | Deploys five of her six tails to hold the line in the Familia War.[@kokonoe.fm18-six] |
 | Sword Oratoria 12 | Sustains boosts on five fighters; her last tail raises the Level 6 [[bete-loga|Bete]] to pseudo-Level 7.[@kokonoe.so12-boost] |
 

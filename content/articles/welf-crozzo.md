@@ -26,7 +26,7 @@
   }
 }
 ---
-**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of Rakia. He is the only living Crozzo who can still forge magic swords.[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
+**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[ares#kingdom-of-rakia|Rakia]]. He is the only living Crozzo who can still forge magic swords.[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
 
 ## Name
 
@@ -42,7 +42,7 @@ Welf received his first [[falna|Falna]] from the goddess Phobos on his tenth bir
 
 | Volume | Events |
 |---|---|
-| DanMachi 2 | Bell buys armour signed "Welf Krozzo", a smith of Hephaistos Familia.[@fm02-krozzo] |
+| DanMachi 2 | Bell buys armour signed "Welf Krozzo", a smith of [[hephaistos-familia|Hephaistos Familia]].[@fm02-krozzo] |
 | DanMachi 4 | Contracts with Bell and joins his party so that he can earn the Development Ability Forge; he forges the dagger [[ushiwakamaru|Ushiwakamaru]] from a Minotaur horn.[@fm04-smith, fm04-horn] |
 | DanMachi 5 | Reveals his anti-magic spell and, to save Bell, uses his first Crozzo magic sword, which shatters after breaking the Black [[goliath|Goliath]]'s regeneration.[@fm05-wisp] |
 | DanMachi 6 | Reaches Level 2, gains Forge and becomes a High Smith; he leaves Hephaistos Familia, converts to Hestia Familia and forges magic swords for the [[war-game|War Game]].[@fm06-level2] |
@@ -105,7 +105,7 @@ On its first use, against hellhounds on the middle floors, the monsters explode 
 
 - **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting at [[rivira|Rivira]]; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm06-war]
 - **Monster attacks that use magic.** It detonates the Black [[goliath|Goliath]]'s howl, though the monster at once prepares another.[@will-o-the-wisp.fm05-goliath]
-- **Magic circles.** In Sword Oratoria 12 Welf's cast beats a demi-spirit's high-speed casting, and all the magic circles around it go off in a chain of explosions.[@will-o-the-wisp.so12-spirit]
+- **Magic circles.** In Sword Oratoria 12 Welf's cast beats a [[corrupted-spirit|demi-spirit]]'s high-speed casting, and all the magic circles around it go off in a chain of explosions.[@will-o-the-wisp.so12-spirit]
 - **Selective blast.** In DanMachi 18 the heat haze detonates the magic that [[allen-fromel|Allen]] and his guards have prepared, while seeming to avoid Bell's path. The text does not say it can always spare allies.[@will-o-the-wisp.fm18-allen]
 
 #### Limits {#will-o-the-wisp-limits}

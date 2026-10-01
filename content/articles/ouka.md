@@ -1,16 +1,16 @@
 ---
 {
-  "title": "Ouka Kashima",
+  "title": "Kashima Ouka",
   "category": "characters",
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Captain of Takemikazuchi Familia, from the Far East; a towering Level 2 axe-and-shield fighter who fights alongside Hestia Familia on its expeditions.",
-  "aliases": ["Ouka"],
+  "aliases": ["Ouka", "Ouka Kashima"],
   "spoilers": "DanMachi Vols. 5–15",
   "related": ["takemikazuchi-familia", "mikoto", "chigusa", "haruhime", "bell-cranell"],
   "infobox": {
-    "title": "Ouka Kashima",
+    "title": "Kashima Ouka",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
@@ -22,7 +22,7 @@
   }
 }
 ---
-**Ouka Kashima** is the captain of [[takemikazuchi-familia|Takemikazuchi Familia]].[@fm05-ouka, fm11-name] He grew up at a poor Far Eastern shrine that took in orphans, with [[mikoto|Mikoto]] and [[chigusa|Chigusa]], and befriended [[haruhime|Haruhime]] there as a child.[@fm15-shrine]
+**Kashima Ouka** is the captain of [[takemikazuchi-familia|Takemikazuchi Familia]]. The novels print his name *Ouka Kashima*; this wiki gives Far Eastern names family name first.[@fm05-ouka, fm11-name] He grew up at a poor Far Eastern shrine that took in orphans, with [[mikoto|Mikoto]] and [[chigusa|Chigusa]], and befriended [[haruhime|Haruhime]] there as a child.[@fm15-shrine]
 
 ## Appearance and equipment
 
@@ -35,10 +35,10 @@ By DanMachi 12 his weapon is the Kougou battle-ax. Welf forged it from varmath, 
 | Volume | Events |
 |---|---|
 | DanMachi 5 | To save Chigusa on Floor 13, he orders a pass parade that pushes monsters onto [[bell-cranell|Bell]]'s party. Later he nearly dies shielding the exhausted Bell from the Black [[goliath|Goliath]].[@fm05-parade, fm05-ouka] |
-| DanMachi 8 | Takemikazuchi says that Chigusa and Ouka reached Level 2 during the skirmishes with Ishtar Familia, although DanMachi 5 had already called Ouka Level 2 (see Open questions).[@fm08-ouka, fm05-level] |
+| DanMachi 8 | Takemikazuchi says that Chigusa and Ouka reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]], although DanMachi 5 had already called Ouka Level 2 (see Open questions).[@fm08-ouka, fm05-level] |
 | DanMachi 11 | Sees for himself that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] |
 | DanMachi 12 | Joins the joint expedition; Haruhime's [[magic#kokonoe|Kokonoe]] boosts him with four others, and he praises Bell's renewed fighting.[@fm12-boost, fm12-praise] |
-| DanMachi 13 | Haruhime saves Mind by boosting only him and [[welf-crozzo|Welf]] in the fight against the lambton.[@fm13-ouka] |
+| DanMachi 13 | Haruhime saves Mind by boosting only him and [[welf-crozzo|Welf]] in the fight against the [[lambton|lambton]].[@fm13-ouka] |
 | DanMachi 14 | Uses his technique Kokuu: Devouring Tiger, with Mikoto's gravity, to cut off the [[amphisbaena|Amphisbaena]]'s right head. His group has already guessed much about the Xenos.[@fm14-ouka, fm14-xenos] |
 
 ## Open questions

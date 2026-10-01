@@ -34,7 +34,7 @@ DanMachi 5 introduces Asfi as a human woman with a symmetrical face, "brilliant 
 
 ## Hermes Familia
 
-Asfi succeeds Lydis as captain during the [[great-conflict|Great Conflict]] of Astrea Record 2.[@ar02-captain] Hermes Familia works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide]
+Asfi succeeds [[hermes-familia#lydis|Lydis]] as captain during the [[great-conflict|Great Conflict]] of Astrea Record 2.[@ar02-captain] Hermes Familia works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide]
 
 In Sword Oratoria 3 several members of the Familia die in an operation on Floor 24.[@so03-losses]
 

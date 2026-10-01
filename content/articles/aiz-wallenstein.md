@@ -126,7 +126,7 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How Aiz is related to the hero Albert, if at all.[@fm15-grave, fm20-albert]
-> - Where Aria is now, and why Levis and the corrupted spirit mistake Aiz for her.[@so03-aria, so10-parents]
+> - Where Aria is now, and why Levis and the [[corrupted-spirit|corrupted spirit]] mistake Aiz for her.[@so03-aria, so10-parents]
 > - In Astrea Record 2 [[alfia|Alfia]] calls her the "Dungeon girl"; the full meaning of that name is not explained.[@ar02-aiz]
 
 [@fm01-aiz]: FM01 | | Loki Familia swordswoman, Level 5; saves Bell; her apology.

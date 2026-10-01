@@ -23,7 +23,7 @@
   }
 }
 ---
-**Hephaistos** is the goddess of the forge and the head of Hephaistos Familia, a Familia of master smiths.[@fm01-hephaistos, fm04-masters] Its main store stands on Northwest Main Street, and it also has shops in [[babel|Babel]].[@fm08-store, fm02-babel]
+**Hephaistos** is the goddess of the forge and the head of [[hephaistos-familia|Hephaistos Familia]], a Familia of master smiths.[@fm01-hephaistos, fm04-masters] Its main store stands on Northwest Main Street, and it also has shops in [[babel|Babel]].[@fm08-store, fm02-babel]
 
 ## Hestia's friend
 

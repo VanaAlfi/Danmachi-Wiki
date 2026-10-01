@@ -102,7 +102,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 | DanMachi 2 | Freya considers sending him to take [[bell-cranell|Bell]] a book, then decides to leave it at the tavern instead.[@fm02-book] |
 | DanMachi 3 | Argues that Bell needs an adventure to break his shell, then prepares and trains the Minotaur that Bell fights.[@fm03-minotaur] |
 | Sword Oratoria 4 | Blocks [[loki-familia|Loki Familia]] so that Bell faces the Minotaur alone, speaking of Bell casting off his shell.[@so04-captain] |
-| Sword Oratoria 9 | With a few others, disposes of the assassins sent after Tammuz, whom Freya is sheltering.[@so09-tammuz] |
+| Sword Oratoria 9 | With a few others, disposes of the assassins sent after [[ishtar-familia#tammuz-berrilli|Tammuz]], whom Freya is sheltering.[@so09-tammuz] |
 | DanMachi 11 | Steers [[asterios|Asterios]] toward Bell, blocks Finn on Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios] |
 | Sword Oratoria 11 | Trains [[aiz-wallenstein|Aiz Wallenstein]] in secret for seven days and teaches her to control her anti-monster flame.[@so11-aiz] |
 | DanMachi 17 | Captures Bell and defeats [[lyu-leon|Lyu]] during Freya's seizure; later takes the wounded [[horn|Hörn]] from Bell and follows Freya's order that she must live to be judged.[@fm17-ottar] |

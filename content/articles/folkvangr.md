@@ -23,7 +23,7 @@
   }
 }
 ---
-**Folkvangr** is the home of [[freya-familia|Freya Familia]]: a walled estate with a wide lawn, in [[orario|Orario]]'s fifth district between South Main and Southeast Main. It is the opposite of [[loki-familia|Loki Familia]]'s home, Twilight Manor, in the north.[@fm07-folkvangr]
+**Folkvangr** is the home of [[freya-familia|Freya Familia]]: a walled estate with a wide lawn, in [[orario|Orario]]'s fifth district between South Main and Southeast Main. It is the opposite of [[loki-familia|Loki Familia]]'s home, [[twilight-manor|Twilight Manor]], in the north.[@fm07-folkvangr]
 
 ## The estate
 

@@ -56,11 +56,11 @@ Ishtar intended to seal Haruhime's soul in a Killing Stone, break it into pieces
 
 ### The first stone
 
-[[aisha-belka|Aisha]] destroyed Ishtar Familia's first Killing Stone. Phryne "disciplined" her brutally and dragged her before Ishtar; afterwards the younger Amazons Aisha looked after were kept under threat, which the narration calls Ishtar's punishment.[@fm07-aisha] The brothel built as the stage for the ritual had been ready three years before DanMachi 7, when the stone, which had taken years to acquire, was destroyed.[@fm07-garden]
+[[aisha-belka|Aisha]] destroyed [[ishtar-familia|Ishtar Familia]]'s first Killing Stone. [[phryne-jamil|Phryne]] "disciplined" her brutally and dragged her before Ishtar; afterwards the younger Amazons Aisha looked after were kept under threat, which the narration calls Ishtar's punishment.[@fm07-aisha] The brothel built as the stage for the ritual had been ready three years before DanMachi 7, when the stone, which had taken years to acquire, was destroyed.[@fm07-garden]
 
 ### The second stone
 
-Hermes tells Bell that on the night they met in [[pleasure-quarter|the Pleasure Quarter]] he was delivering a Killing Stone to Ishtar.[@fm07-delivery] [[mikoto|Mikoto]] finds the ritual papers, which say the Berbera will act "once the Killing Stone has been delivered by Hermes Familia".[@fm07-papers] Hermes says he did not know what the cargo was until he saw it.[@fm07-asfi]
+Hermes tells Bell that on the night they met in [[pleasure-quarter|the Pleasure Quarter]] he was delivering a Killing Stone to Ishtar.[@fm07-delivery] [[mikoto|Mikoto]] finds the ritual papers, which say the [[ishtar-familia#berbera|Berbera]] will act "once the Killing Stone has been delivered by Hermes Familia".[@fm07-papers] Hermes says he did not know what the cargo was until he saw it.[@fm07-asfi]
 
 For the ritual, the Floating Garden and its altar were built to strengthen the stone: used alone, it risked splitting the soul. Under the full moon, the stone, a fist-sized blood-red crystal set on the hilt of a ceremonial longsword, was to be driven into Haruhime so that her soul would cross into it.[@fm07-garden-altar, fm07-sword]
 
@@ -70,7 +70,7 @@ As the longsword is raised, Bell leaps over the guard and shatters the stone wit
 
 - In DanMachi 10, Aisha says one of her reasons for joining [[hermes-familia|Hermes Familia]], which runs a delivery service and knows the black market, was to be the first to hear if "a certain stone" reached the city.[@fm10-aisha] {{inference}} In context this means another Killing Stone; the passage does not name it.
 - In DanMachi 12 Aisha tells Haruhime that Ishtar never let her read a [[grimoire|grimoire]] because a smashed Killing Stone would allow only one power.[@fm12-aisha]
-- In DanMachi 18, when Haruhime is about to reveal her Level Boost in public, Samira, agreeing with Lena, warns that it could cause "another huge commotion like with the killing stone". The narration recalls that Samira had willingly taken part in "the ritual to create the killing stone".[@fm18-warning]
+- In DanMachi 18, when Haruhime is about to reveal her Level Boost in public, [[ishtar-familia#samira|Samira]], agreeing with [[lena-tully|Lena]], warns that it could cause "another huge commotion like with the killing stone". The narration recalls that Samira had willingly taken part in "the ritual to create the killing stone".[@fm18-warning]
 
 {{nocite}} DanMachi 7 separates two steps, making the stone from its components and the ritual that seals a soul in it; DanMachi 18's "ritual to create" looks back at the second.
 

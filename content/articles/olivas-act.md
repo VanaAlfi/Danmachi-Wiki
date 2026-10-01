@@ -29,7 +29,7 @@
 
 ## The dark age
 
-In Astrea Record Olivas is one of the Evils' commanders, a Level 3 and one of the organisation's top members.[@ar01-commander] He greets the giant [[zald|Zald]] as "Apostle of chaos, Evils commander", and Zald looks at him as a lowly worm.[@ar01-commander] When news of the [[guild|Guild]]'s council leaks, he reads it to [[valletta|Valletta]] and the other leaders, and talks of the [[great-conflict|Great Conflict]] allies Apate Familia and Alecto Familia.[@ar01-leak] In the fighting he crushes an adventurer's skull with his fist.[@ar01-violence]
+In Astrea Record Olivas is one of the Evils' commanders, a Level 3 and one of the organisation's top members.[@ar01-commander] He greets the giant [[zald|Zald]] as "Apostle of chaos, Evils commander", and Zald looks at him as a lowly worm.[@ar01-commander] When news of the [[guild|Guild]]'s council leaks, he reads it to [[valletta|Valletta]] and the other leaders, and talks of the [[great-conflict|Great Conflict]] allies [[apate-and-alecto-familias|Apate Familia]] and Alecto Familia.[@ar01-leak] In the fighting he crushes an adventurer's skull with his fist.[@ar01-violence]
 
 In Astrea Record 2 he brutally defeats [[asfi|Asfi]] before a crowd. [[lyu-leon|Lyu]] then cuts through his troops, and his followers beg him to retreat.[@ar02-asfi, ar02-lyu, ar02-retreat] Afterwards the narration speaks of Olivas's defeat, and of the girls of [[astrea-familia|Astrea Familia]] having repelled his assault.[@ar02-defeat, ar02-repelled] In Astrea Record 3 he leaves the battlefield with the other lieutenants.[@ar03-retreat]
 
@@ -39,7 +39,7 @@ Sword Oratoria 9's flashback to the same era calls him Vendetta, "one of the lea
 
 [[asfi|Asfi]] gives his record in Sword Oratoria 3: a wanted man, estimated Level 3, whose god has returned to Heaven and whose Familia was wiped out. He was the mastermind of the Twenty-Seventh-Floor Nightmare. Familias fighting for the Guild cornered him, monsters devoured him, and his death was thought confirmed when the shredded remains of his lower body were found.[@so03-identity] [[filvis|Filvis Challia]], one of that day's survivors, recognises him with hatred.[@so03-filvis]
 
-{{statement}} In Sword Oratoria 7 Valletta says the Evils "egged on ol' Olivas" in the Nightmare and pretended that all of them had died.[@so07-valletta] Sword Oratoria 12 adds that a fragment of the corrupted spirit was in the lower floors that day, drawn by the smell of blood and looking for new feelers. On that same day Olivas became a creature, and so did Filvis.[@so12-spirit, so12-filvis]
+{{statement}} In Sword Oratoria 7 Valletta says the Evils "egged on ol' Olivas" in the Nightmare and pretended that all of them had died.[@so07-valletta] Sword Oratoria 12 adds that a fragment of the [[corrupted-spirit|corrupted spirit]] was in the lower floors that day, drawn by the smell of blood and looking for new feelers. On that same day Olivas became a creature, and so did Filvis.[@so12-spirit, so12-filvis]
 
 ## The creature
 

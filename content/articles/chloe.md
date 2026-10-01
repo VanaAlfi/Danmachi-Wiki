@@ -31,7 +31,7 @@
 
 Chloe was raised in a criminal Familia known in secret across the continent, trained from birth in poisons and knives. An assassin she thought of as an older sister was in fact her mother; she died shielding Chloe on a failed mission, and Chloe learned the truth afterwards.[@fc01-past] She then asked the Familia's goddess to let her leave. Her release came only after a series of deadly assignments, including killing a Level 3 knight of an empire with a single knife.[@fc01-past]
 
-In Orario she had her Status updated by the god Njörðr. She had seen him smuggling goods into the city and used that to pressure him into the arrangement.[@fc01-njordr]
+In Orario she had her Status updated by the god [[njordr|Njörðr]]. She had seen him smuggling goods into the city and used that to pressure him into the arrangement.[@fc01-njordr]
 
 By the time of Familia Chronicle 1's tavern story, set before the main series, Chloe is sixteen.[@fc01-age] She is tired of the work: Orario's adventurers are strong enough that the preparations for each killing eat up her whole fee, and she complains that "assassination here just doesn't pay off" and wonders whether she should quit.[@fc01-age] That age belongs to that story; the covered novels do not give her age in the main series.
 

@@ -28,7 +28,7 @@
 
 ## Structure
 
-Its doors open only with keys that use the magic of a *D*-marked eye, an eye inherited in the Daedalus bloodline.[@fm10-knossos, so11-eye] DanMachi 10 reveals an entrance on [[floor-18|Floor 18]], and Sword Oratoria 9 confirms that it reaches that far.[@fm10-reach, so09-floor18] [[ikelos-familia#dix-perdix|Dix]] says construction reaches the middle levels and only about 30 percent of the planned design is finished.[@fm10-dix] In Sword Oratoria 11 the Evils' base is on the ninth underground level and the main demi-spirit chamber on the tenth, with a connection to the Dungeon's Floor 12.[@so11-levels]
+Its doors open only with keys that use the magic of a *D*-marked eye, an eye inherited in the Daedalus bloodline.[@fm10-knossos, so11-eye] DanMachi 10 reveals an entrance on [[floor-18|Floor 18]], and Sword Oratoria 9 confirms that it reaches that far.[@fm10-reach, so09-floor18] [[ikelos-familia#dix-perdix|Dix]] says construction reaches the middle levels and only about 30 percent of the planned design is finished.[@fm10-dix] In Sword Oratoria 11 the Evils' base is on the ninth underground level and the main [[corrupted-spirit|demi-spirit]] chamber on the tenth, with a connection to the Dungeon's Floor 12.[@so11-levels]
 
 ## The Daedalus line
 
@@ -43,7 +43,7 @@ The descendants of Daedalus inherit the marked eye, his notebook and a duty to k
 | Sword Oratoria 10 | [[riveria|Riveria]]'s raid secures two Orbs and part of the map.[@so10-raid] |
 | DanMachi 11 | The Xenos escape through Knossos after the fighting in Daedalus Street.[@fm11-escape] |
 | Sword Oratoria 11 | [[asfi|Asfi]] re-creates a working key, and the allies capture Daedalus's notebook, which gives them the layout.[@so11-key] |
-| Sword Oratoria 12 | The decisive assault spans the ninth to twelfth levels; six ritual chambers surround central Orario, and the demi-spirit Nidhogg waits in a hidden chamber.[@so12-assault] |
+| Sword Oratoria 12 | The decisive assault spans the ninth to twelfth levels; six ritual chambers surround central Orario, and the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] waits in a hidden chamber.[@so12-assault] |
 | DanMachi 19 | After being conquered, Knossos is under [[guild|Guild]] management, in practice under [[ouranos|Ouranos]]'s control; [[fels|Fels]] sets up facilities inside it.[@fm19-guild] |
 
 ## Open questions

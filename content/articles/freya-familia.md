@@ -62,7 +62,7 @@ During the [[great-conflict|Great Conflict]] told in Astrea Record, Ottar is Lev
 
 ### DanMachi 1–15
 
-Freya's interest in [[bell-cranell|Bell Cranell]] draws in her Familia. Ottar prepares and trains the Minotaur that Bell faces in DanMachi 3, and in Sword Oratoria 4 Ottar, Allen and the Bringar keep Loki Familia away from that fight.[@fm03-minotaur, so04-captain] In DanMachi 7, after [[ishtar|Ishtar]] abducts Bell, the Familia overwhelms Ishtar Familia and Ishtar is sent back to the heavens; Freya pays a Guild fine for the attack.[@fm07-ishtar, fm07-fine] In DanMachi 11 Ottar steers [[asterios|Asterios]] toward Bell, blocks Loki Familia under Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios]
+Freya's interest in [[bell-cranell|Bell Cranell]] draws in her Familia. Ottar prepares and trains the Minotaur that Bell faces in DanMachi 3, and in Sword Oratoria 4 Ottar, Allen and the Bringar keep Loki Familia away from that fight.[@fm03-minotaur, so04-captain] In DanMachi 7, after [[ishtar|Ishtar]] abducts Bell, the Familia overwhelms [[ishtar-familia|Ishtar Familia]] and Ishtar is sent back to the heavens; Freya pays a Guild fine for the attack.[@fm07-ishtar, fm07-fine] In DanMachi 11 Ottar steers [[asterios|Asterios]] toward Bell, blocks Loki Familia under Freya's orders, and throws Bell the great sword he uses in the rematch.[@fm11-asterios]
 
 ### The Goddess Festival and Bell's seizure
 

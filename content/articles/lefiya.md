@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Elf mage of Loki Familia, titled Thousand Elf, who can reproduce other elves' spells; a School District graduate who admires Aiz Wallenstein. Level 4 from Sword Oratoria 12.",
   "aliases": ["Thousand Elf", "Lefiya"],
-  "spoilers": "Sword Oratoria Vols. 1–13 and Minor Myths and Legends Vol. 2",
+  "spoilers": "Sword Oratoria Vols. 1–7, 9, 11–13 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "riveria", "bete-loga", "school-district", "development-ability", "magic"],
   "infobox": {
     "title": "Lefiya Viridis",
@@ -26,11 +26,11 @@
   }
 }
 ---
-**Lefiya Viridis** is an elf mage of [[loki-familia|Loki Familia]], titled *Thousand Elf*.[@so01-lefiya] Her spell [[#elf-ring|Elf Ring]] lets her summon and cast the magic of other elves, such as [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-lefiya] She deeply admires [[aiz-wallenstein|Aiz Wallenstein]].[@so04-secret, ss02-lefiya] She is Level 3 in Sword Oratoria 1 and reaches Level 4 in Sword Oratoria 12.[@so01-lefiya, so12-level4]
+**Lefiya Viridis** is an elf mage of [[loki-familia|Loki Familia]], titled *Thousand Elf*.[@so01-lefiya] Her spell [[#elf-ring|Elf Ring]] lets her summon and cast the magic of other elves, such as [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-lefiya] She deeply admires [[aiz-wallenstein|Aiz Wallenstein]].[@so04-secret, ss02-lefiya] She is Level 3 in Sword Oratoria 1 and reaches Level 4 in Sword Oratoria 12.[@so01-lefiya, so12-level4] In the Familia she shares a room with the mage [[elfie-collette|Elfie Collette]]; after [[filvis|Filvis]]'s death she is moved to another room, out of consideration for Elfie, who has cried herself out trying to cheer her up.[@elfie.so09-girls, elfie.so11-room]
 
 ## School District
 
-Lefiya passed the [[school-district|School District]]'s entrance interview at eight, winning one of six places among twelve hundred applicants.[@so13-admitted] Years earlier, when her old squad was nearly wiped out by a [[goliath|Goliath]], Aiz, [[hyrute-sisters|Tiona]] and Tione rescued them, and Aiz told Lefiya to use her magic.[@so13-rescue] In Sword Oratoria 13 she returns to the School District as a recruiter and instructor.[@so13-return]
+Lefiya passed the [[school-district|School District]]'s entrance interview at eight, winning one of six places among twelve hundred applicants.[@so13-admitted] Years earlier, when her old squad was nearly wiped out by a [[goliath|Goliath]], Aiz, [[hyrute-sisters|Tiona]] and Tione rescued them, and Aiz told Lefiya to use her magic.[@so13-rescue] In Sword Oratoria 13 she returns to the School District as a recruiter and instructor.[@so13-return] When she was a student, Loki Familia's recruiters there had been [[anakity-autumn|Anakity]] and [[alicia-forestlight|Alicia Forestlight]], and Alicia may have been the first adventurer she aspired to be like.[@alicia.so13-recruit, alicia.so13-advice]
 
 ## Magic and Status
 
@@ -165,8 +165,8 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 #### What she can summon {#elf-ring-what-she-can-summon}
 
 - Riveria's spells: Wynn Fimbulvetr in Sword Oratoria 1, [[magic#rea-laevateinn|Rea Laevateinn]] in Sword Oratoria 3 and 13, and her healing magic [[magic#luna-aldis|Luna Aldis]] in Sword Oratoria 12.[@elf-ring.so01-summon, elf-ring.so03-rea, elf-ring.so12-heal, elf-ring.so13-rea] She also summons Riveria's protective [[magic#veil-breath|Veil Breath]] in Sword Oratoria 12 and 13.[@veil-breath.so12-lefiya, veil-breath.so13-students]
-- [[filvis|Filvis]]'s protective barrier [[magic#dio-grail|Dio Grail]], which blocks the corrupted spirit's magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final] In Sword Oratoria 13 she also summons Filvis's lightning, [[magic#dio-thyrsos|Dio Thyrsos]], as rapid fire.[@dio-thyrsos.so13-lefiya]
-- The ice spell of her familia colleague Alicia Forestlight, [[magic#hail-dust|Hail Dust]], in Sword Oratoria 13.[@elf-ring.so13-alicia]
+- [[filvis|Filvis]]'s protective barrier [[magic#dio-grail|Dio Grail]], which blocks the [[corrupted-spirit|corrupted spirit]]'s magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final] In Sword Oratoria 13 she also summons Filvis's lightning, [[magic#dio-thyrsos|Dio Thyrsos]], as rapid fire.[@dio-thyrsos.so13-lefiya]
+- The ice spell of her familia colleague [[alicia-forestlight|Alicia Forestlight]], [[magic#hail-dust|Hail Dust]], in Sword Oratoria 13.[@elf-ring.so13-alicia]
 
 #### Requirements: a conflict between volumes {#elf-ring-requirements-a-conflict-between-volumes}
 
@@ -254,3 +254,7 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@fusillade-fallarica.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Fusillade Fallarica, wide-range attack magic, fire element.
 [@elf-ring.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Elf Ring, Summon Burst; only elvish magic can be summoned; trigger and effect must be known; Mind for both.
 [@elf-ring.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Elf Ring, Summon Burst; only elven magic; trigger and effects must be known; Mind for both.
+[@elfie.so09-girls]: SO09 | | "Lefiya’s roommate, the magic user Elfie".
+[@elfie.so11-room]: SO11 | Epilogue: Whodunit | Elfie reduced to tears trying to cheer Lefiya up; Lefiya moved to a different room.
+[@alicia.so13-recruit]: SO13 | Fairy Canon: 2 | Anakity and Alicia, the recruiters when Lefiya was a student.
+[@alicia.so13-advice]: SO13 | Fairy Canon: 2 | "Alicia may have been the first adventurer that Lefiya aspired to be like."

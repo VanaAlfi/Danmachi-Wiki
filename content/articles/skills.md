@@ -31,7 +31,7 @@
     {"anchor": "command-call", "title": "Command Call", "summary": "Lilliluka Erde's second Skill: when she shouts, her directions reach further, telepathically, to people with the same Falna. DanMachi 18 probably calls the same Skill Mind Call.", "aliases": ["Mind Call"]},
     {"anchor": "blood-of-crozzo", "title": "Blood of Crozzo", "summary": "The Crozzo family's hereditary Skill, held by Welf Crozzo: it lets him make magic swords and raise their power while forging. Every blessed Crozzo gains it.", "aliases": ["Crozzo bloodline", "Crozzo Blood"]},
     {"anchor": "veritas-burn", "title": "Veritas Burn", "summary": "Welf Crozzo's second Skill, from DanMachi 15: resistance to flame and stronger fire-element attacks.", "aliases": []},
-    {"anchor": "yatano-crows", "title": "Yatano Black Crow and Yatano White Crow", "summary": "Mikoto Yamato's two detection Skills: Black Crow senses monsters she has met before, White Crow senses members of her own Familia. Both drain Mind.", "aliases": ["Yatano Black Crow", "Yatano White Crow"]},
+    {"anchor": "yatano-crows", "title": "Yatano Black Crow and Yatano White Crow", "summary": "Yamato Mikoto's two detection Skills: Black Crow senses monsters she has met before, White Crow senses members of her own Familia. Both drain Mind.", "aliases": ["Yatano Black Crow", "Yatano White Crow"]},
     {"anchor": "mikuzume-no-hou", "title": "Mikuzume no Hou", "summary": "Haruhime's Skill from DanMachi 15, which makes her magic more effective and her Mind use more efficient.", "aliases": []},
     {"anchor": "avenger", "title": "Avenger", "summary": "Aiz Wallenstein's rare Skill, the most potent among Loki's followers: her power rises with her desire for revenge against monsters. Joined with Airiel it becomes Tempest Avenger.", "aliases": ["Tempest Avenger"]},
     {"anchor": "fairy-cannon", "title": "Fairy Cannon", "summary": "Lefiya Viridis's magic-boosting Skill: it raises her magic power and doubles the power of her attack magic.", "aliases": []},
@@ -46,7 +46,7 @@
     {"anchor": "aero-mana", "title": "Aero Mana", "summary": "Lyu Leon's Skill that raises her attack strength the faster she runs.", "aliases": []},
     {"anchor": "astrae-varmas", "title": "Astrae Varmas", "summary": "Lyu Leon's fourth Skill, from Level 5: a passive Falna effect that strengthens the Skills, Mind and magic of those who share her god's ichor and gives everyone in range resistance to psychological corruption.", "aliases": []},
     {"anchor": "rubrud-beckia", "title": "Rubrud Beckia", "summary": "Alize Lovell's Skill, named in Astrea Record 3 before Lyu stops her explaining it. Alfia notes that it greatly raises her speed and power.", "aliases": []},
-    {"anchor": "five-lights", "title": "Five Lights", "summary": "The highest art of the Gojouno clan, a paired Skill and spell both called Five Lights, used by Kaguya Gojouno in Astrea Record 3.", "aliases": ["Iai Strike: Five Lights"]},
+    {"anchor": "five-lights", "title": "Five Lights", "summary": "The highest art of the Gojouno clan, a paired Skill and spell both called Five Lights, used by Gojouno Kaguya in Astrea Record 3.", "aliases": ["Iai Strike: Five Lights"]},
     {"anchor": "vana-arganture", "title": "Vana Arganture", "summary": "Ottar's active-trigger Skill tied to his beast transformation: strength close to a Level Up, at a heavy cost in stamina and Mind.", "aliases": ["Beast transformation"]},
     {"anchor": "laurel-wreath", "title": "Laurel Wreath", "summary": "Daphne Laulos's rare Skill: when she is exhausted or near death her endurance rises and her skin turns to bark.", "aliases": []},
     {"anchor": "deus-ambrosia", "title": "Deus Ambrosia", "summary": "Zald's Rare Skill, activated by eating: what he eats boosts his stats, the more the stronger it was. He ate the Behemoth.", "aliases": []},
@@ -102,7 +102,7 @@ DanMachi 5 names **Limit Release**: a temporary state in which the surroundings 
 
 ## Keeping Skills secret {#keeping-skills-secret}
 
-Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that working out an opponent's magic and Skills matters as much as technique, because trump cards often decide a fight.[@so10-sussing] In Astrea Record 3, when Alize starts to explain her Skill to Alfia in the middle of a battle, Lyu cuts her off.[@rubrud-beckia.ar03-alfia] Hestia hides Liaris Freese from Bell himself, and at the Denatus of DanMachi 18 she picks her words so that the gods will not learn what it does.[@fm01-gods, liaris-freese.fm18-denatus]
+Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that working out an opponent's magic and Skills matters as much as technique, because trump cards often decide a fight.[@so10-sussing] In Astrea Record 3, when [[alize-lovell|Alize]] starts to explain her Skill to Alfia in the middle of a battle, Lyu cuts her off.[@rubrud-beckia.ar03-alfia] Hestia hides Liaris Freese from Bell himself, and at the Denatus of DanMachi 18 she picks her words so that the gods will not learn what it does.[@fm01-gods, liaris-freese.fm18-denatus]
 
 ## Skills, magic and Development Abilities {#skills-magic-and-development-abilities}
 
@@ -134,8 +134,8 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#command-call|Command Call]] | Lilliluka Erde | Communication | Shouted directions carry further, telepathically, to those with the same Falna[@command-call.fm15-card] |
 | [[#blood-of-crozzo|Blood of Crozzo]] | Welf Crozzo | Hereditary; smithing | Making magic swords, and raising their power while forging[@blood-of-crozzo.fm15-card] |
 | [[#veritas-burn|Veritas Burn]] | Welf Crozzo | Fire | Resistance to flame; stronger fire-element attacks[@veritas-burn.fm15-card] |
-| [[#yatano-crows|Yatano Black Crow]] | Mikoto Yamato | Detection | Senses monsters of kinds she has met before[@yatano.fm15-card] |
-| [[#yatano-crows|Yatano White Crow]] | Mikoto Yamato | Detection | Senses members of her own Familia[@yatano.fm15-card] |
+| [[#yatano-crows|Yatano Black Crow]] | Yamato Mikoto | Detection | Senses monsters of kinds she has met before[@yatano.fm15-card] |
+| [[#yatano-crows|Yatano White Crow]] | Yamato Mikoto | Detection | Senses members of her own Familia[@yatano.fm15-card] |
 | [[#mikuzume-no-hou|Mikuzume no Hou]] | Haruhime | Magic support | More effective magic; more efficient Mind use[@mikuzume-no-hou.fm15-card] |
 | [[#avenger|Avenger]] | Aiz Wallenstein | Revenge | Much greater power against monsters, driven by her desire for revenge[@avenger.so12-loki] |
 | [[#fairy-cannon|Fairy Cannon]] | Lefiya Viridis | Magic support | More magic power; attack magic doubled[@fairy-cannon.so12-card] |
@@ -161,7 +161,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#astrae-varmas|Astrae Varmas]] | Lyu Leon | Party (same ichor) | Strengthens allies of the same god; resistance to psychological corruption for all in range[@fc03-lyu-card5] |
 | [[#rubrud-beckia|Rubrud Beckia]] | Alize Lovell | Conditional boosts | Stats rise in combat, in a crisis and against a powerful foe[@sheet.ar03-alize] |
 | [[#batrea-acras|Batrea Acras]] | Alize Lovell | Skill and spell support | Stronger Skills in close combat; stronger spells[@sheet.ar03-alize] |
-| [[#five-lights|Five Lights]] | Kaguya Gojouno | Hereditary; paired with a spell | Not described apart from the spell[@five-lights.ar03-clan] |
+| [[#five-lights|Five Lights]] | [[gojouno-kaguya|Gojouno Kaguya]] | Hereditary; paired with a spell | Not described apart from the spell[@five-lights.ar03-clan] |
 | [[#vana-arganture|Vana Arganture]] | Ottar | Beast transformation | Strength close to a Level Up, at great cost[@vana-arganture.fm18-skill] |
 | [[#stultus-ottar|Stultus Ottar]] | Ottar | Battle boost | Heal and Spirit Heal in battle; all abilities enhanced[@sheet.fc02-ottar] |
 | [[#laurel-wreath|Laurel Wreath]] | Daphne Laulos | Endurance | Higher endurance when exhausted or near death; skin turns to bark[@laurel-wreath.fm18-daphne] |
@@ -349,9 +349,9 @@ When he activates it, as while forging Shirahime in Minor Myths and Legends 1, f
 
 ### Yatano Black Crow and Yatano White Crow {#yatano-crows}
 
-[[mikoto|Mikoto Yamato]] has two detection Skills. **Yatano Black Crow** senses monsters of kinds she has gained excelia from before; **Yatano White Crow** senses allies who share her god's ichor, so she can find members of her own Familia.[@yatano.fm07-reveal, yatano.fm15-card]
+[[mikoto|Yamato Mikoto]] has two detection Skills. **Yatano Black Crow** senses monsters of kinds she has gained excelia from before; **Yatano White Crow** senses allies who share her god's ichor, so she can find members of her own Familia.[@yatano.fm07-reveal, yatano.fm15-card]
 
-- **Holder:** Mikoto Yamato[@yatano.fm15-card]
+- **Holder:** Yamato Mikoto[@yatano.fm15-card]
 - **Status entries:** Both search an area regardless of concealment and are active triggers. Black Crow is limited to monsters, and only kinds she has met; White Crow to members with the same Falna.[@yatano.fm15-card]
 - **First described:** DanMachi 7[@yatano.fm07-reveal]
 - **Cost:** Mind, for as long as they are active[@yatano.fm07-reveal]
@@ -367,7 +367,7 @@ Their range depends on her Status and condition: about thirty meders at full str
 | DanMachi 7 | White Crow leads her through [[pleasure-quarter|the Pleasure Quarter]] in search of Bell; she had already used it to follow him during the ambush.[@yatano.fm07-reveal] |
 | DanMachi 9 | Black Crow keeps the party safe from ambushes on the twentieth floor.[@yatano.fm09-guard] |
 | DanMachi 12 | It makes her the natural scout on the water floors.[@yatano.fm12-scout] |
-| DanMachi 13 | Black Crow tracks the lambton after it burrows underground.[@yatano.fm13-lambton] |
+| DanMachi 13 | Black Crow tracks the [[lambton|lambton]] after it burrows underground.[@yatano.fm13-lambton] |
 | DanMachi 14 | Under Level Boost, Black Crow keeps track of the Amphisbaena even underwater.[@yatano.fm14-amphisbaena] |
 
 ### Mikuzume no Hou {#mikuzume-no-hou}
@@ -437,7 +437,7 @@ It drains her Mind, all the more because she is combining two spells, and she mu
 - **Also called:** Fairy Force (Loki's name, rejected by Riveria)[@alf-regina.so10-name]
 - **Kind:** A party Skill for elves[@alf-regina.so10-effect, alf-regina.so10-name]
 
-Its Mind recovery is much stronger than the automatic recovery of the Development Ability Spirit Healing, though far weaker than the demi-spirit's recharge on the fifty-ninth floor.[@alf-regina.so10-effect] It does not heal in full, as Riveria tells her squad.[@alf-regina.so10-limit] Finn ordered the surprise attack on [[knossos|Knossos]] knowing of this Skill, which lets an elven squad keep its magic up in a vast labyrinth.[@alf-regina.so10-effect] In Sword Oratoria 10 Levis sees the jade circle and can tell only that it is a rare Skill.[@alf-regina.so10-levis]
+Its Mind recovery is much stronger than the automatic recovery of the Development Ability Spirit Healing, though far weaker than the [[corrupted-spirit|demi-spirit]]'s recharge on the fifty-ninth floor.[@alf-regina.so10-effect] It does not heal in full, as Riveria tells her squad.[@alf-regina.so10-limit] Finn ordered the surprise attack on [[knossos|Knossos]] knowing of this Skill, which lets an elven squad keep its magic up in a vast labyrinth.[@alf-regina.so10-effect] In Sword Oratoria 10 Levis sees the jade circle and can tell only that it is a rare Skill.[@alf-regina.so10-levis]
 
 When Riveria developed it, Loki wanted an elf-only squad built around her and tried to call it "Fairy Force"; Riveria refused the showy name, though the elves of the squad use it among themselves.[@alf-regina.so10-name]
 
@@ -449,7 +449,7 @@ Both [[hyrute-sisters|Tiona and Tione Hyrute]] have a Skill called **Berserk**, 
 - **Printed as:** Berserk; "Berserker skill" in Sword Oratoria 6 and 12[@berserk.so06-berserker, berserk.so12-tiona]
 - **Status entry:** Tiona's Sword Oratoria 3 sheet, printed *Berserker*: strength increases after taking damage. Tione's Sword Oratoria 4 sheet, printed *Berserk*: attack power increases on taking damage, and the effect grows with her anger.[@sheet.so03-tiona, sheet.so04-tione]
 
-In Sword Oratoria 6 Tione's Berserk builds against Argana, though Argana's power grows too.[@berserk.so06-tione, berserk.so06-berserker] In Sword Oratoria 7 the enemy's curses and anti-Status magic only make Tione angrier, so her strength rises and their weakening effects are reversed; later her Berserk-backed fist drops the demi-spirit to its knees.[@berserk.so07-cruz, berserk.so07-spirit] Tiona combines hers with [[#intense-heat|Intense Heat]].[@intense-heat.so07-legs, berserk.so12-tiona]
+In Sword Oratoria 6 Tione's Berserk builds against [[kali-familia#argana-kalif|Argana]], though Argana's power grows too.[@berserk.so06-tione, berserk.so06-berserker] In Sword Oratoria 7 the enemy's curses and anti-Status magic only make Tione angrier, so her strength rises and their weakening effects are reversed; later her Berserk-backed fist drops the demi-spirit to its knees.[@berserk.so07-cruz, berserk.so07-spirit] Tiona combines hers with [[#intense-heat|Intense Heat]].[@intense-heat.so07-legs, berserk.so12-tiona]
 
 Loki's phrase "Berserk magic" in Sword Oratoria 8 is loose wording for this Skill.[@berserk.so08-loki] It is unrelated to Finn's spell Hell Finegas.[@so07-hellfinegas]
 
@@ -460,7 +460,7 @@ Loki's phrase "Berserk magic" in Sword Oratoria 8 is loose wording for this Skil
 - **Holder:** Tiona Hyrute[@intense-heat.so06-bache]
 - **Status entry:** Increases all abilities when she is near death (Sword Oratoria 3 sheet)[@sheet.so03-tiona]
 
-With Berserk and Intense Heat both at full power, she takes out Gugalanna's legs in Sword Oratoria 7, and in Sword Oratoria 12 the two together carve apart one face of the spirit altar.[@intense-heat.so07-legs, berserk.so12-tiona]
+With Berserk and Intense Heat both at full power, she takes out [[corrupted-spirit#gugalanna|Gugalanna]]'s legs in Sword Oratoria 7, and in Sword Oratoria 12 the two together carve apart one face of the spirit altar.[@intense-heat.so07-legs, berserk.so12-tiona]
 
 ### Backdraft {#backdraft}
 
@@ -578,9 +578,9 @@ In the story, Alfia notices how much Alize's speed and power have risen and says
 
 ### Five Lights {#five-lights}
 
-The Gojouno clan of the Far East discovered that their bloodline passes on certain Skills and spells, so that every member has identical abilities. The clan's highest art is a paired Skill and spell, both called **Five Lights**. The spell simply conjures five magic slashes at whatever angles the user chooses; making it an inescapable cage of blades takes extraordinary swordsmanship.[@five-lights.ar03-clan] Kaguya Gojouno of Astrea Familia uses it after an ultrashort chant, calling "Iai Strike: Five Lights!", to cut down Vito.[@five-lights.ar03-vito]
+The Gojouno clan of the Far East discovered that their bloodline passes on certain Skills and spells, so that every member has identical abilities. The clan's highest art is a paired Skill and spell, both called **Five Lights**. The spell simply conjures five magic slashes at whatever angles the user chooses; making it an inescapable cage of blades takes extraordinary swordsmanship.[@five-lights.ar03-clan] Gojouno Kaguya of Astrea Familia uses it after an ultrashort chant, calling "Iai Strike: Five Lights!", to cut down Vito.[@five-lights.ar03-vito]
 
-- **Holder:** Kaguya Gojouno[@five-lights.ar03-vito]
+- **Holder:** Gojouno Kaguya[@five-lights.ar03-vito]
 - **Kind:** Hereditary, paired with a spell of the same name[@five-lights.ar03-clan]
 
 > [!INFERENCE] Gokou

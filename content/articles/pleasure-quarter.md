@@ -25,7 +25,7 @@
   }
 }
 ---
-**The Pleasure Quarter** is [[orario|Orario]]'s red-light district, also called the Night District.[@fm07-arrival] Until DanMachi 7 it was the territory of [[ishtar|Ishtar]] Familia, which earned much of its income there and ruled it from the palace Belit Babili.[@fm07-ishtar, fm07-palace] That volume ends with [[freya-familia|Freya Familia]] destroying Ishtar Familia and leaving the district in ruins.[@fm07-aftermath]
+**The Pleasure Quarter** is [[orario|Orario]]'s red-light district, also called the Night District.[@fm07-arrival] Until DanMachi 7 it was the territory of [[ishtar|Ishtar]] Familia, which earned much of its income there and ruled it from the palace Belit Babili.[@fm07-ishtar, fm07-palace] That volume ends with [[freya-familia|Freya Familia]] destroying [[ishtar-familia|Ishtar Familia]] and leaving the district in ruins.[@fm07-aftermath]
 
 ## Location
 

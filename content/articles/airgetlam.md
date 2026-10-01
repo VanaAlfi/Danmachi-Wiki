@@ -55,7 +55,7 @@ In DanMachi 19, Nahza's right sleeve is tied up. She and Miach expect their shar
 
 ## Other prosthetic arms
 
-The elf Luvis, who loses his right arm on the expedition of DanMachi 12, plans to have Dian Cecht Familia make him "the best prosthetic arm out there", going into debt to do it.[@fm12-luvis] In DanMachi 18 Bell assumes that the arm under Luvis's glove is a silver prosthesis like Nahza's.[@fm18-luvis] Neither passage calls Luvis's arm an airgetlám, and this wiki does not treat them as the same item.
+The elf [[modi-and-magni-familias#luvis-lilix|Luvis]], who loses his right arm on the expedition of DanMachi 12, plans to have Dian Cecht Familia make him "the best prosthetic arm out there", going into debt to do it.[@fm12-luvis] In DanMachi 18 Bell assumes that the arm under Luvis's glove is a silver prosthesis like Nahza's.[@fm18-luvis] Neither passage calls Luvis's arm an airgetlám, and this wiki does not treat them as the same item.
 
 ## Open questions
 

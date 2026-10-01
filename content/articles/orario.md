@@ -26,7 +26,7 @@
 
 ## Babel
 
-Babel is the white tower standing directly over the Dungeon's entrance, acting as its lid.[@fm01-babel] The first, shorter tower was destroyed when the gods first descended and was rebuilt with their help.[@fm02-babel] Hephaistos Familia has shops on its lower floors, Guild tenants occupy floors up to the twentieth, and gods live on the floors above.[@fm02-babel] Freya watches the city from the fiftieth floor.[@fm03-babel] In DanMachi 17 its roof, the point in Orario closest to the heavens, becomes the centre of the altar from which [[hestia|Hestia]] breaks Freya's charm.[@fm17-babel]
+Babel is the white tower standing directly over the Dungeon's entrance, acting as its lid.[@fm01-babel] The first, shorter tower was destroyed when the gods first descended and was rebuilt with their help.[@fm02-babel] [[hephaistos-familia|Hephaistos Familia]] has shops on its lower floors, Guild tenants occupy floors up to the twentieth, and gods live on the floors above.[@fm02-babel] Freya watches the city from the fiftieth floor.[@fm03-babel] In DanMachi 17 its roof, the point in Orario closest to the heavens, becomes the centre of the altar from which [[hestia|Hestia]] breaks Freya's charm.[@fm17-babel]
 
 ## Main Streets and districts
 
@@ -37,7 +37,7 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 | West Main | [[the-benevolent-mistress|The Benevolent Mistress]]; the street with the most adventurers.[@fm01-streets, fc01-west] Sword Oratoria 9's flashback instead reaches the tavern from East Main.[@so09-tavern] |
 | Northwest Main | Called Adventurers Way; Hephaistos Familia's main store and many weapon and item shops.[@so01-northwest, fm08-store] |
 | Between Northwest and West Main | The ruined church under which Hestia and [[bell-cranell|Bell]] first live.[@fm01-streets] |
-| Third district | The [[pleasure-quarter|Pleasure Quarter]], left badly damaged after Freya Familia's attack on Ishtar Familia in DanMachi 7.[@fm07-quarter] |
+| Third district | The [[pleasure-quarter|Pleasure Quarter]], left badly damaged after Freya Familia's attack on [[ishtar-familia|Ishtar Familia]] in DanMachi 7.[@fm07-quarter] |
 | Fifth district | [[folkvangr|Folkvangr]], home of [[freya-familia|Freya Familia]], between South Main and Southeast Main.[@fm07-folkvangr] |
 | Sixth district | Part of the southwest quarter.[@fm16-sixth] |
 | [[daedalus-street|Daedalus Street]] | A poor, densely built district laid out as a surface labyrinth and named for its architect; red arrows called *ariadne* mark the way, and its sewers hide an entrance to [[knossos|Knossos]].[@fm01-daedalus, so07-daedalus] |

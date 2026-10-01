@@ -25,7 +25,7 @@
   }
 }
 ---
-**Tsubaki Collbrande** is the captain and Master Smith of Hephaistos Familia, a half-dwarf who wears a patch over her left eye.[@fm14-tsubaki, so05-tsubaki, fm08-look] She is a Level 5 adventurer.[@fm08-tsubaki] She sometimes goes down to the deep levels just to see how her weapons perform, and that passion, along with her skill in battle, has earned her the nickname *Cyclops*.[@fm11-cyclops]
+**Tsubaki Collbrande** is the captain and Master Smith of [[hephaistos-familia|Hephaistos Familia]], a half-dwarf who wears a patch over her left eye.[@fm14-tsubaki, so05-tsubaki, fm08-look] She is a Level 5 adventurer.[@fm08-tsubaki] She sometimes goes down to the deep levels just to see how her weapons perform, and that passion, along with her skill in battle, has earned her the nickname *Cyclops*.[@fm11-cyclops]
 
 ## Appearance
 
@@ -42,7 +42,7 @@ With [[welf-crozzo|Welf Crozzo]], a fellow member of Hephaistos Familia until Da
 | Volume | Events |
 |---|---|
 | Sword Oratoria 4 | Accompanies Loki Familia's expedition with Hephaistos Familia's smiths.[@so04-tsubaki] |
-| DanMachi 8 | Helps [[rivira|Rivira]]'s adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of Rakia's infiltrators.[@fm08-goliath, fm08-tsubaki] |
+| DanMachi 8 | Helps [[rivira|Rivira]]'s adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of [[ares#kingdom-of-rakia|Rakia]]'s infiltrators.[@fm08-goliath, fm08-tsubaki] |
 | DanMachi 11 | Sent by [[hephaistos|Hephaistos]] to help Welf and his Familia rescue the [[xenos|Xenos]].[@fm11-cyclops] |
 | Sword Oratoria 10 | Covertly supports the Xenos' escape with ice magic swords.[@so10-tsubaki] |
 | DanMachi 14 | Leads [[anya-fromel|Anya]], [[chloe|Chloe]] and [[runoa|Runoa]] into the Water Capital to rescue the stranded expedition, and joins the rescue on [[floor-37|Floor 37]].[@fm14-tsubaki, fm14-rescue] |

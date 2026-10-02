@@ -55,16 +55,16 @@ Defeating a strong enemy such as a Monster Rex alone can be the great feat that 
 > - What caused the early Goliath of Sword Oratoria 13.[@so13-early]
 
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex defined; Aiz and Udaios.
-[@fm04-dragons]: FM04 | | Infant dragons as upper-level bosses.
+[@fm04-dragons]: FM04 | Chapter 3: The Smith’s Situation | Infant dragons as upper-level bosses.
 [@fm05-goliath]: FM05 | | Floor 17, Great Wall of Sorrows, size and respawn interval.
 [@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it. Yen Press prints "more than seven meders tall".
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.
-[@fm08-goliath]: FM08 | | Level 4 classification.
-[@fm13-amphisbaena]: FM13 | | The Amphisbaena; its early rebirth.
+[@fm08-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Level 4 classification.
+[@fm13-amphisbaena]: FM13 | Chapter 2: The Prophetess of Tragedy | The Amphisbaena; its early rebirth.
 [@fm14-amphisbaena]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The Amphisbaena's potential.
-[@so02-udaeus]: SO02 | | Udaeus.
+[@so02-udaeus]: SO02 | Chapter 6: Parched Scream | Udaeus.
 [@so02-container]: SO02 | Chapter 6: Parched Scream | Defeating a Monster Rex alone.
 [@so03-udaeus]: SO03 | Chapter 1: The Black Robe’s Invitation | The Level 6 update credits Udaeus.
 [@so13-early]: SO13 | Chapter 5: The Mirror’s Voice | Two days early; individual variation.
 [@fc01-astrea]: FC01 | | Astrea Familia's record.
-[@fc02-udaeus]: FC02 | | Ottar and Udaeus; the Black Sword drop.
+[@fc02-udaeus]: FC02 | The Origin of the Strongest | Ottar and Udaeus; the Black Sword drop.

@@ -249,7 +249,7 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fm13-name]: FM13 | | Name occurrence recorded in the project name registry; scene not reviewed for this article.
 [@fm08-sing]: FM08 | Chapter 5: The City Girl’s Secret |
 [@fm14-rescue]: FM14 | Chapter 8: The Voice of the Hammer |
-[@fm16-name]: FM16 | | Full name printed as “Ahnya Fromel”.
+[@fm16-name]: FM16 | Chapter 6: The Wish’s Cost | Full name printed as “Ahnya Fromel”.
 [@fm16-ch1]: FM16 | Chapter 1: A Stormy Love Letter |
 [@fm16-pay]: FM16 | Chapter 2: A Tearful and Painful Festival Eve |
 [@fm16-scent]: FM16 | | Trailing Syr's date by scent.
@@ -283,7 +283,7 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
 [@fc01-precedes]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
 [@fc02-past]: FC02 | Their Various Pasts |
-[@fc02-ali]: FC02 | | Allen and Ali on the eve of battle.
+[@fc02-ali]: FC02 | Ali and the 8 Followers | Allen and Ali on the eve of battle.
 [@fc02-illusion]: FC02 | Ali and the 8 Followers |
 [@ar02-conflict]: AR02 | Chapter 3: A Gray Wildflower |
 [@ss01-eyewitness]: SS01 | Eyewitness Account: The Malfunctioning Elf |

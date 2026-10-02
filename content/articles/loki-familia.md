@@ -66,7 +66,7 @@ Sword Oratoria 13 reports a wave of Level-ups: almost all the Level 2 members re
 
 ### Recruiting {#recruiting}
 
-The Familia is not eager to recruit from the [[school-district|School District]]: in Sword Oratoria 13 a student has heard that Loki "had only grudgingly engaged with it last time". Even so, its recruiters are given "pride of place" as the first allowed aboard.[@so13-recruiting]
+The Familia is not eager to recruit from the [[school-district|School District]]: in Sword Oratoria 13 Lefiya, herself a former student, has heard that Loki "had only grudgingly engaged with it last time". Even so, its recruiters are given "pride of place" as the first allowed aboard.[@so13-recruiting]
 
 ## Rivalry with Freya Familia
 
@@ -125,7 +125,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so08-bete]: SO08 | | Bete joins Loki Familia.
 [@so09-aiz]: SO09 | | Aiz receives Loki's blessing at seven.
 [@so09-riveria]: SO09 | | Riveria raises Aiz.
-[@so10-compact]: SO10 | | The Loki–Ouranos compact.
+[@so10-compact]: SO10 | Chapter 6: The Hero’s Self-Denial | The Loki–Ouranos compact.
 [@so10-alliance]: SO10 | | Finn's limited alliance with the Xenos.
 [@so11-assault]: SO11 | | The first Knossos assault.
 [@so12-enyo]: SO12 | | Dionysus exposed as Enyo.

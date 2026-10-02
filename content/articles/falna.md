@@ -75,35 +75,35 @@ Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Gu
 > - How Skills are acquired, beyond the racial patterns mentioned.[@fm01-skills]
 > - Whether there is any absolute ceiling on basic abilities beyond the ranks Bell reaches.[@fm03-ss, fm18-sss]
 
-[@fm01-status]: FM01 | | Falna, blood and hieroglyphs; Status as a record of excelia.
-[@fm01-familia]: FM01 | | A Familia is a god-led group.
-[@fm01-excelia]: FM01 | | Excelia from ability use and stronger opponents.
+[@fm01-status]: FM01 | Chapter 1: World, Reality, and Desire | Falna, blood and hieroglyphs; Status as a record of excelia.
+[@fm01-familia]: FM01 | Chapter 1: World, Reality, and Desire | A Familia is a god-led group.
+[@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Excelia from ability use and stronger opponents.
 [@fm01-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Members of one race tend to develop similar Skills: elves strengthen magic, dwarves strength.
 [@fm01-ja-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 150): obtaining a Skill is itself rare. Yen Press prints that it "was not fully understood how skills were acquired".
-[@fm01-magic]: FM01 | | At most three magics.
-[@fm01-abilities]: FM01 | | Basic abilities and ranks.
-[@fm01-levelup]: FM01 | | A Level Up boosts every basic ability.
+[@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics.
+[@fm01-abilities]: FM01 | Chapter 1: World, Reality, and Desire | Basic abilities and ranks.
+[@fm01-levelup]: FM01 | Chapter 1: World, Reality, and Desire | A Level Up boosts every basic ability.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@so01-ceiling]: SO01 | Chapter 3: White Rabbit | Ordinary ceiling of 999.
 [@fm03-ss]: FM03 | Chapter 4: The Meaning of Adventure | Bell's SS value.
 [@fm18-sss]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | SSS values.
 [@fm02-free]: FM02 | | Free people have no Falna or Status.
 [@fm02-privacy]: FM02 | | Status is private; Level and Familia are reported to the Guild.
-[@fm04-potential]: FM04 | | Falna unlocks inner potential.
+[@fm04-potential]: FM04 | Chapter 1: Denatus | Falna unlocks inner potential.
 [@fm04-hidden]: FM04 | | Values reset at Level Up; hidden parameter; Advanced Ability.
-[@fm04-denatus]: FM04 | | Status taboo at Denatus.
-[@fm06-conversion]: FM06 | | How conversion works; one-year rule.
+[@fm04-denatus]: FM04 | Chapter 1: Denatus | Status taboo at Denatus.
+[@fm06-conversion]: FM06 | Chapter 4: Those Who Gather | How conversion works; one-year rule.
 [@fm06-lilly]: FM06 | Chapter 4: Those Who Gather | Lilly's conversion.
-[@fm06-join]: FM06 | | Welf and Mikoto join Hestia Familia.
-[@fm08-trace]: FM08 | | The first god can sense whether the follower lives.
-[@fm08-lock]: FM08 | | Status lock.
+[@fm06-join]: FM06 | Chapter 4: Those Who Gather | Welf and Mikoto join Hestia Familia.
+[@fm08-trace]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): The first god can sense whether the follower lives.
+[@fm08-lock]: FM08 | Chapter 2: The Prum’s Proposal | Status lock.
 [@fm08-aging]: FM08 | | Higher Levels slow aging.
 [@fm11-eina]: FM11 | Chapter 7: The Return of the Hero | Eina has never received Falna.
-[@fm15-trace]: FM15 | | Soma senses Lilly's growth.
+[@fm15-trace]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Soma senses Lilly's growth.
 [@fm17-wait]: FM17 | | Six months is too short for Bell to convert.
 [@fm17-bell]: FM17 | Chapter 1: The Opening of Hostilities | Freya demands Bell's conversion; it never happens.
 [@fm18-conversions]: FM18 | Chapter 9: Flower Language for You | Chloe's and Runoa's conversions.
 [@fm19-lyu]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu released by Astrea and accepted into Hestia Familia.
 [@fm19-school]: FM19 | Chapter 3: School Life in Another World | The School District grants Falna.
-[@fc01-thief]: FC01 | | A Status Thief exposes the real name and patron god.
+[@fc01-thief]: FC01 | Crush the Grand Casino! | A Status Thief exposes the real name and patron god.
 [@fc01-contracts]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Status-update contracts.

@@ -31,7 +31,7 @@
 
 ## Early life
 
-Born Deimne, he took the name *Finn*, meaning "light", after his parents died saving him when he was ten, and vowed to restore the prums. At fourteen he became Loki's first follower, saved the town of Preblica, and then helped recruit [[riveria|Riveria]] and [[gareth|Gareth]].[@so14-finn] His first [[falna|Falna]] held two powerful Skills and the magic [[#hell-finegas|Hell Finegas]], which raises all his abilities at the cost of his judgement.[@so14-finn]
+Born Deimne, he took the name *Finn*, meaning "light", after his parents died saving him when he was ten, and vowed to restore the prums. At fourteen he became Loki's first follower, saved the town of Preblica, and then helped recruit [[riveria|Riveria]] and [[gareth|Gareth]].[@so14-finn] His first [[falna|Falna]] held two powerful Skills, [[skills#finn-skills|Prum Spirit and Noble Brave]], and the magic [[#hell-finegas|Hell Finegas]], which raises all his abilities at the cost of his judgement.[@so14-finn]
 
 ## Leader
 
@@ -123,14 +123,9 @@ His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir
 
 {{nocite}} Notable uses and open questions for Tir na Nog are on the combined page: [[magic#tir-na-nog|Magic § Tir na Nog]].
 
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - The names of the two Skills in his first Falna.[@so14-finn]
-
 [@fm05-leaders]: FM05 | Chapter 4: Dungeon Resort? | Loki Familia's highest-ranking adventurer and field general.
 [@fm05-ja-leaders]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraph 148): the prum hero Finn Deimne, the head of Loki Familia; the captain's rank is supported elsewhere in the volume, but a word for field general was not located in the Japanese of this volume.
-[@fm08-finn]: FM08 | | Level 6; over forty; the proposal to Lilly.
+[@fm08-finn]: FM08 | Chapter 2: The Prum’s Proposal | Level 6; over forty; the proposal to Lilly.
 [@fm11-finn]: FM11 | | Finn halts his troops.
 [@fm18-braver]: FM18 | Chapter 9: Flower Language for You | "Braver acknowledged it."
 [@so03-titles]: SO03 | Chapter 1: The Black Robe’s Invitation | "Braver" Finn Deimne.
@@ -139,13 +134,13 @@ His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir
 [@so10-finn]: SO10 | | Finn and the Xenos.
 [@so11-finn]: SO11 | | The five-front assault.
 [@so12-finn]: SO12 | | Six fronts; Nidhogg.
-[@so14-finn]: SO14 | | His name, vow and first Falna; the founding.
+[@so14-finn]: SO14 | | His name, vow and first Falna (the Status card printed as an image, p. 38, and the Level 1 sheet, p. 180: Hell Finegas; Skills Prum Spirit and Noble Brave); the founding.
 [@skills.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): five Skills.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7.
 [@ar01-finn]: AR01 | | Directing the defence.
 [@ar03-finn]: AR03 | | The deception across the city.
 [@hell-finegas.so04-cast]: SO04 | Last Chapter: To Adventure | "Ultrashort chant"; crimson eyes; battle lust; reduced rational thought; no more orders.
-[@hell-finegas.so06-argana]: SO06 | | Chant and release against Argana.
+[@hell-finegas.so06-argana]: SO06 | | Printed heading "Chapter 6: War’s End" (not in the evidence map): Chant and release against Argana.
 [@hell-finegas.so07-choice]: SO07 | Chapter 2: Dungeon Trap | "Hell Finegas or nothing"; "patented Berserker spell".
 [@hell-finegas.so12-refuse]: SO12 | Chapter 6: The Divine Providence of Despair | Refuses to use it and leave the squads without a commander.
 [@hell-finegas.so14-village]: SO14 | Chapter 1: The Prum’s Adventure | Chant and release; battle lust; breaks his limits; berserker without judgment.

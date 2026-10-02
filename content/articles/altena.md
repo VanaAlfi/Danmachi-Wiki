@@ -50,7 +50,7 @@ The School District's students recall a time "When Altena demanded our magic ite
 [@fm19-projector]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "a magical projector that the School District’s Alchemy Department made in collaboration with Altena".
 [@fm20-demand]: FM20 | Chapter 1: Orario Rumble | "When Altena demanded our magic items, or Dizara tried to occupy the Hringhorni"; "whenever the School District meets unreasonable demands in any land".
 [@fm20-welcome]: FM20 | Chapter 2: Lion and then Sword Princess | "the city of Altena eagerly announced that they would happily welcome the School District with open arms".
-[@so13-destinations]: SO13 | Chapter 2: Nostalgic Schoolhouse | "the nation of magic, Altena"; destinations of graduating students.
-[@so13-nassen]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Nassen wants to be a researcher in Altena…"
+[@so13-destinations]: SO13 | Fairy Canon: 1 | "the nation of magic, Altena"; destinations of graduating students.
+[@so13-nassen]: SO13 | Fairy Canon: 1 | "Nassen wants to be a researcher in Altena…"
 [@so13-rumour]: SO13 | Chapter 2: Nostalgic Schoolhouse | "There was one about how Altena was targeting you out of jealousy!"
 [@ss02-trade]: SS02 | Mirage in a Sea of Sand | "The nations of Kaios have become increasingly dependent on trade with Altena in recent years, such as for the construction of the desert ships."

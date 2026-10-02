@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Cat-person spearman of Freya Familia, titled Vana Freya and called the fastest adventurer; Anya Fromel's older brother and the Familia's second-in-command.",
-  "aliases": ["Vana Freya"],
+  "aliases": ["Vana Freya", "City's Fastest", "fastest in the city"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vol. 4, Familia Chronicle Vols. 1 and 2, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["anya-fromel", "freya-familia", "freya", "syr-flover", "ottar", "the-benevolent-mistress", "magic"],
   "infobox": {
@@ -21,13 +21,14 @@
       {"label": "Position", "value": "Second-in-command", "refs": ["fm16-second"]},
       {"label": "Level", "value": "6", "refs": ["so04-allen", "fc02-allen"]},
       {"label": "Title", "value": "Vana Freya", "refs": ["fm16-allen"]},
+      {"label": "Also called", "value": "The city's fastest", "refs": ["ar03-fastest", "so12-fastest"]},
       {"label": "Weapon", "value": "Silver spear", "refs": ["fc01-fastest"]},
       {"label": "Magic", "value": "[[#glarinese-fromel|Glarinese Fromel]]", "refs": ["fm18-magic"]}
     ]
   }
 }
 ---
-**Allen Fromel** is a cat-person spearman of [[freya-familia|Freya Familia]], titled *Vana Freya*, and the Familia's second-in-command.[@fc02-allen, fm16-allen, fm16-second] He is the older brother of [[anya-fromel|Anya Fromel]], his only blood relation.[@fm16-allen] He is known as the fastest adventurer.[@fc01-fastest]
+**Allen Fromel** is a cat-person spearman of [[freya-familia|Freya Familia]], titled *Vana Freya*, and the Familia's second-in-command.[@fc02-allen, fm16-allen, fm16-second] He is the older brother of [[anya-fromel|Anya Fromel]], his only blood relation.[@fm16-allen] He is known as the fastest adventurer.[@fc01-fastest] Astrea Record 3 says he "had earned himself the title of the city’s fastest"; DanMachi 18 has him "claim the title of fastest in the city", and Sword Oratoria 12 joins the two names: "Vana Freya—the city’s fastest".[@ar03-fastest, fm18-fastest, so12-fastest] In Minor Myths and Legends 2 the "City’s Fastest" ranking usually lists Vana Freya first, then Bete and Aiz.[@ss02-fastest]
 
 ## Early life
 
@@ -123,3 +124,7 @@ Glarinese Fromel has to be chanted, and Allen has to slow down to do it. On his 
 [@glarinese-fromel.fm18-chant]: FM18 | Chapter 9: Flower Language for You | The full chant, casting while leaping back; Anya never knew he had magic; the charge.
 [@glarinese-fromel.fm18-effect]: FM18 | Chapter 9: Flower Language for You | "Allen’s one and only magic": agility, strength relative to speed, no upper limit.
 [@glarinese-fromel.fm18-second]: FM18 | Chapter 9: Flower Language for You | The second cast near the house of the gods; Welf's Ignis Fatuus.
+[@ar03-fastest]: AR03 | | Printed heading "Chapter 1: March and Break" (not in the evidence map): "a catman who had earned himself the title of the city’s fastest".
+[@fm18-fastest]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Eina's documents: "the famed chariot who bested Vanargand to claim the title of fastest in the city".
+[@so12-fastest]: SO12 | Chapter 7: Final War II | "he had another title, Vana Freya—the city’s fastest".
+[@ss02-fastest]: SS02 | Girls×Cross: Four Paths of a Half Year | The "City’s Fastest" ranking: "Usually it goes Vana Freya, Bete, Aiz".

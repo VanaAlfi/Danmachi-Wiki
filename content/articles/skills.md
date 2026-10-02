@@ -521,7 +521,7 @@ Both fit what DanMachi 1 says of dwarves, who usually develop Skills that improv
 | **Command Howl** | Once his voice passes a certain volume, it carries further; in a melee the extension grows with the size of the battle.[@sheet.so08-finn] |
 | **Ail mac Midna** | Resistance to sleep and a greater ability to stay awake for long periods; more endurance against fire.[@sheet.so08-finn] |
 
-Command Howl reads much like the first part of Lilly's [[#command-call|Command Call]], which adds telepathic transmission to those with the same Falna.[@sheet.so08-finn, command-call.fm15-card] Sword Oratoria 14 says Finn's first Falna already held two powerful Skills; it does not say which.[@so14-finn]
+Command Howl reads much like the first part of Lilly's [[#command-call|Command Call]], which adds telepathic transmission to those with the same Falna.[@sheet.so08-finn, command-call.fm15-card] Finn's first Falna, in Sword Oratoria 14, already held two powerful Skills, Prum Spirit and Noble Brave, as his Status card there (printed as an image) and his Level 1 sheet show.[@so14-finn]
 
 ## Skills of Astrea Familia {#astrea-familia-skills}
 
@@ -693,7 +693,6 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 
 {{nocite}} The novels mention some Skills without naming them:
 
-- [[finn-deimne|Finn]]'s first Falna held two powerful Skills alongside Hell Finegas.[@so14-finn]
 - The Skill Hestia held back from Mikoto in DanMachi 15.[@fm15-withheld]
 - Ottar's automatic-healing Skill, mentioned in DanMachi 18; possibly [[#stultus-ottar|Stultus Ottar]].[@vana-arganture.fm18-skill, sheet.fc02-ottar]
 - The transformation Skills of werewolves, tied to the full moon; Bete's is [[#ulfhedinn|Úlfheðinn]].[@fm18-beast, so08-moon, sheet.so05-bete]
@@ -711,7 +710,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@fm18-beast]: FM18 | Chapter 9: Flower Language for You | Transformation among beast people; tied to Skills after the Falna; werewolves; Ottar's trigger.
 [@so08-moon]: SO08 | Chapter 5: Battered Wolf | A werewolf transforming under the moon.
 [@so10-sussing]: SO10 | Interlude: Their Respective Battles | Working out an opponent's magic and Skills.
-[@so14-finn]: SO14 | | Finn's first Falna: two Skills and Hell Finegas.
+[@so14-finn]: SO14 | Chapter 1: The Prum’s Adventure | Finn's first Falna: "Two powerful skills right off the bat"; the Status card printed as an image, p. 38, and the Level 1 sheet, p. 180: Hell Finegas; Skills Prum Spirit and Noble Brave.
 [@so12-wisp]: SO12 | Chapter 7: Final War II | Will-o'-the-Wisp called Welf's rare Skill.
 [@fm09-cinder]: FM09 | | Cinder Ella called a skill in narration.
 [@so07-hellfinegas]: SO07 | Chapter 2: Dungeon Trap | Hell Finegas as Finn's "Berserker spell".

@@ -342,7 +342,7 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; "the ultimate protection spell"; the dome around thirteen.
 [@via-shilheim.so04-shattered]: SO04 | Last Chapter: To Adventure | Fire Storm shatters the barrier; Gareth shields the party.
 [@via-shilheim.so04-residue]: SO04 | Last Chapter: To Adventure | The spirit absorbs the barrier's residue.
-[@via-shilheim.so10-city]: SO10 | | "Riveria, the barrier!"; townspeople shielded; others hit.
+[@via-shilheim.so10-city]: SO10 | Chapter 2: Someone Named Fool | "Riveria, the barrier!"; townspeople shielded; others hit.
 [@via-shilheim.so10-standby]: SO10 | Chapter 5: Brave Soul! | Last line; standby; five-meder radius.
 [@via-shilheim.so10-release]: SO10 | Chapter 5: Brave Soul! | Released to stop a volley; eleven elves.
 [@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.

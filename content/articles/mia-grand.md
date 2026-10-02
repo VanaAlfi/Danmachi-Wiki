@@ -3,11 +3,11 @@
   "title": "Mia Grand",
   "category": "characters",
   "status": "complete",
-  "reviewed": "2026-09-30",
+  "reviewed": "2026-10-02",
   "continuity": "light-novel",
-  "summary": "Dwarf owner of The Benevolent Mistress, known to her staff as Mama Mia; a Level 6 former captain of Freya Familia who still bears Freya's blessing.",
-  "aliases": ["Mama Mia", "Demi Ymir"],
-  "spoilers": "DanMachi Vols. 16–19, Sword Oratoria Vol. 9 and Familia Chronicle Vols. 1–2",
+  "summary": "Dwarf owner of The Benevolent Mistress, known to her staff as Mama Mia; a Level 6 former captain of Freya Familia who still bears Freya's blessing, and a gruff, kind tavern keeper who will not tolerate brawls.",
+  "aliases": ["Mama Mia", "Demi Ymir", "Mother Mia", "Mommy Mia"],
+  "spoilers": "DanMachi Vols. 1, 2, 4–6, 14–19, Sword Oratoria Vol. 9 and Familia Chronicle Vols. 1 and 2",
   "related": ["the-benevolent-mistress", "freya-familia", "freya", "syr-flover", "ottar", "anya-fromel", "lyu-leon", "chloe", "runoa"],
   "infobox": {
     "title": "Mia Grand",
@@ -27,6 +27,12 @@
 ---
 **Mia Grand** is a dwarf and the owner of [[the-benevolent-mistress|The Benevolent Mistress]]; her staff call her "Mama Mia".[@fc01-owner, fm16-pay] She is a Level 6 adventurer titled *Demi Ymir* and was captain of [[freya-familia|Freya Familia]] before [[ottar|Ottar]]. She half-retired from the Familia during [[orario|Orario]]'s dark ages but still bears [[freya|Freya]]'s blessing.[@fm18-mia]
 
+## Character {#character}
+
+Mia's frame, "Despite being a dwarf", is "absolutely imposing".[@fm02-mia] She runs her tavern with a heavy hand. In DanMachi 4, when adventurers start a fight, she smashes the counter into a V with her fist: "If you wanna brawl, take it outside. This place is for eatin’ and drinkin’." Their leader is sent off with his fallen friends, but only after paying, dropping "all his money onto the floor" in fear.[@fm04-brawl] Her waitresses dread her scoldings, and [[lyu-leon|Lyu]] calls her "Mother Mia".[@fm15-scold, fm06-mother] She has no patience for gods' errands: "I’m not a messenger for fool gods," she tells [[hermes|Hermes]] when he asks her to carry word to Freya.[@fm05-hermes]
+
+She is gruff but kind. She hires "all types of girls with questionable backgrounds and welcomes them with open arms".[@fm01-mia] She tells [[bell-cranell|Bell]] "Real men don’t brood over nothin’!" over the grimoire he read, and suggests his first ale at his Level-up party.[@fm02-mia, fm04-ale] Her cooking is what people miss: trapped in the deep levels in DanMachi 14, Lyu tells Bell she wants "to eat a warm meal made by Mama Mia".[@fm14-meal] Praise from her is rare; even [[mikoto|Mikoto]]'s housework earns only a grudging "Heh, so there is someone who can do real work after all, huh?"[@fm16-mikoto]
+
 ## Freya Familia
 
 Mia met Freya long ago, when she was a young dwarf and found the goddess crying in a field of flowers.[@fm18-mia]
@@ -39,13 +45,13 @@ When Freya, caught crying, prepares to charm her into forgetting, Mia's body jer
 
 She came through Freya Familia's harsh "baptism" in [[folkvangr|Folkvangr]] and knows all of Freya's followers well.[@fm18-mia]
 
-Ottar grew up in the Familia while Mia was there, and she trained him. By the time the later executives joined, she had already left, and he never settled things with her.[@fc02-ottar] Freya describes the arrangement from her side: in exchange for letting Mia half-retire, she began working at Mia's tavern as [[syr-flover|Syr]].[@fm17-prologue]
+Ottar grew up in the Familia while Mia was there, and she trained him. By the time the later executives joined, she had already left, and he never settled things with her.[@fc02-ottar] Freya describes the arrangement from her side: in exchange for letting Mia half-retire, she began working at Mia's tavern as [[syr-flover|Syr]], and Mia "made no effort to hide her distaste for the situation".[@fm17-prologue]
 
 Mia swore to Freya that if the goddess ever met her *Odr*, she would not stand in the way.[@fm18-mia]
 
 ## The Benevolent Mistress
 
-Sword Oratoria 9's recollections show the tavern newly built in the dark times, with Mia meaning it as a refuge of food and laughter; there she stops the young, drunken [[aiz-wallenstein|Aiz Wallenstein]]'s rampage with a sword.[@so09-founding, so09-aiz]
+DanMachi 1 says that she founded the tavern after she "got permission from the god of her Familia to retire from dungeon crawling and open up shop".[@fm01-mia] Sword Oratoria 9's recollections show the tavern newly built in the dark times, with Mia meaning it as a refuge of food and laughter; there she stops the young, drunken [[aiz-wallenstein|Aiz Wallenstein]]'s rampage with a sword.[@so09-founding, so09-aiz]
 
 Before DanMachi 1, Mia takes in [[lyu-leon|Lyu]] after Syr finds her, and in Familia Chronicle 1 she ends a fight between four of her waitresses and puts [[chloe|Chloe]] and [[runoa|Runoa]] to work.[@fc01-lyu, fc01-recruit] Chloe and Runoa are ordered to work off 100 million valis in damage to her property.[@fc01-bill] [[anya-fromel|Anya]], Chloe and Runoa all owe Mia money and are paid very little.[@fm16-pay]
 
@@ -73,7 +79,16 @@ After the war Mia is among those who welcome Syr back to the tavern.[@fm18-syr] 
 [@so09-founding]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | Newly built tavern; Mia's purpose.
 [@so09-aiz]: SO09 | | Mia stops young Aiz.
 [@fm16-pay]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | "Mama Mia"; the waitresses' debts.
-[@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of Mia's half-retirement.
+[@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of Mia's half-retirement; "She made no effort to hide her distaste for the situation, naturally."
+[@fm02-mia]: FM02 | Chapter 4: Divine Wine | "Despite being a dwarf, her frame is absolutely imposing."; "Real men don’t brood over nothin’!"
+[@fm04-brawl]: FM04 | Chapter 2: Changing Environment, New Relationships | Mia's fist in the V-shaped counter; "If you wanna brawl, take it outside. This place is for eatin’ and drinkin’."; "all his money onto the floor".
+[@fm04-ale]: FM04 | Chapter 2: Changing Environment, New Relationships | "Mia suggests that I try ale for the first time".
+[@fm06-mother]: FM06 | Chapter 4: Those Who Gather | Lyu: "Mother Mia will scold me again."
+[@fm15-scold]: FM15 | Interlude: Elven Unrest | "enduring Mia’s terrible scoldings".
+[@fm05-hermes]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): "I’m not a messenger for fool gods."
+[@fm01-mia]: FM01 | Chapter 2: That’s Why I Run | "She got permission from the god of her Familia to retire from dungeon crawling and open up shop."; "Mia employs all types of girls with questionable backgrounds and welcomes them with open arms."
+[@fm14-meal]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "…I want to eat a warm meal made by Mama Mia."
+[@fm16-mikoto]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Heh, so there is someone who can do real work after all, huh?"
 [@fm17-memory]: FM17 | Chapter 4: Those Left Behind | Mia and Anya remember Syr.
 [@fm17-bell]: FM17 | | Mia encourages Bell.
 [@fm18-mia]: FM18 | Chapter 9: Flower Language for You | Loki's request; Mia's history and her promise.

@@ -54,18 +54,18 @@ When Asfi, in Astrea Record 2, begs him to take over because she cannot be the c
 [@ar01-vice]: AR01 | | "Falgar was much more suited to this!"
 [@ar01-flames]: AR01 | | Asfi and the war tiger Falgar on a gambling house as Orario burns.
 [@ar02-gate]: AR02 | | "His name was Falgar Batros, a war tiger who stood head and shoulders over his peers"; he carries townsfolk away from the flames.
-[@ar02-rations]: AR02 | | "Rations are being handed out!"; Falgar with his greatsword and shield upon his back.
-[@ar02-aide]: AR02 | | The east part of town undefended; Falgar "supposed to be operating as her aide"; "Understood," said Falgar, nodding in place of Asfi.
-[@ar02-speech]: AR02 | | "Because you care more than anyone else here!"; joined at the same time as Asfi; his promise to Lydis; "you don’t want to be captain yourself"; "You take Thane and lead our people."
-[@ar02-deputy]: AR02 | | "the loyal war tiger who served as her deputy"; Asfi's bombs and his greatsword.
+[@ar02-rations]: AR02 | Chapter 2: Wavering Justice | "Rations are being handed out!"; Falgar with his greatsword and shield upon his back.
+[@ar02-aide]: AR02 | Chapter 4: Those Who Struggle | The east part of town undefended; Falgar "supposed to be operating as her aide"; "Understood," said Falgar, nodding in place of Asfi.
+[@ar02-speech]: AR02 | Chapter 4: Those Who Struggle | "Because you care more than anyone else here!"; joined at the same time as Asfi; his promise to Lydis; "you don’t want to be captain yourself"; "You take Thane and lead our people."
+[@ar02-deputy]: AR02 | Chapter 8: A Tragic Performance | "the loyal war tiger who served as her deputy"; Asfi's bombs and his greatsword.
 [@ar02-olivas]: AR02 | | Olivas toys with Asfi; Falgar cannot cut a path to her; "Falgar and the rest of Hermes Familia were also on their last legs."
 [@ar02-crowd]: AR02 | | Too injured to fight, he addresses the crowd: "Lend them your strength."
 [@ar02-end]: AR02 | | "You were right, Falgar. I do know what needs to be done."
-[@ar03-ghost]: AR03 | | "The place is a ghost town"; "The Bowstring Blade…"
+[@ar03-ghost]: AR03 | Prologue: Last Intermission | "The place is a ghost town"; "The Bowstring Blade…"
 [@ar03-casino]: AR03 | | The Casino in the south; Falgar with dozens of Berbera.
 [@ar03-charge]: AR03 | | "You’re finally here, Asfi!"; "All units, no more defending!"
 [@ar03-post]: AR03 | | Falgar cannot desert his post.
-[@ar03-level7]: AR03 | | Ottar's one attack wipes out the horde; "The power of a Level Seven!!"
+[@ar03-level7]: AR03 | Chapter 6: The Nameless Heroes | Ottar's one attack wipes out the horde; "The power of a Level Seven!!"
 [@so03-squads]: SO03 | Chapter 3: A Hideous Beauty | "Falgar, Thane, make two squads".
 [@so03-greatsword]: SO03 | Chapter 4: White-Haired Devil | "the war tiger Falgar, who was wielding a greatsword".
 [@so03-command]: SO03 | Chapter 4: White-Haired Devil | "Falgar, take command!"

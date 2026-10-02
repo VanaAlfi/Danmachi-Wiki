@@ -54,7 +54,7 @@ The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Ques
 [@fm06-quests]: FM06 | | The Three Great Quests; Zeus and Hera Familias.
 [@fm06-zeus]: FM06 | | Zeus and Hera Familias were the strongest.
 [@fm15-vacuum]: FM15 | | The power vacuum after their fall.
-[@fm16-bridge]: FM16 | | The Bridge of Heroes.
+[@fm16-bridge]: FM16 | Chapter 5: The Proof of ( ) | The Bridge of Heroes.
 [@fm17-pledge]: FM17 | | Freya's pledge.
 [@fm19-jewel]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "For the Black Dragon hunt…no, for the promised time."
 [@fm08-scales]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "one of the Black Dragon’s scales"; "after heroes drove him from Orario, the Black Dragon fled north"; monsters fear the scales.
@@ -62,11 +62,11 @@ The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Ques
 [@so07-dragon]: SO07 | Epilogue: To Be Yearned After | "The One-Eyed Dragon—the last of the Three Great Quests."
 [@so09-quests]: SO09 | Chapter 4: Those Who Remain, Those Left Behind | Behemoth, Leviathan and the Black Dragon.
 [@so13-levels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | A Level 8 and a Level 9.
-[@so13-ship]: SO13 | | The Hringhorni and the Leviathan campaign.
+[@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The Hringhorni and the Leviathan campaign.
 [@fm06-titles]: FM06 | | Printed heading "Chapter 2: Shall We Dance?" (not in the evidence map): "the Terrestrial Tyrant, Behemoth, then the Ruler of the Sea, Leviathan".
 [@ar03-parts]: AR03 | Chapter 8: The Price of Talent | Riveria: "Glutton and Silence" in the slaying of the Leviathan and the Behemoth.
 [@fm20-hringhorni]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon: the floating fortress, its round layers, Leviathan's Fins, the cornerstone of the school.
 [@so06-seal]: SO06 | Chapter 2: Port Meren | The Leviathan's skeleton on the tunnel's lid; "The “Leviathan Seal,” as the Guild officially called it."
-[@fc02-levels]: FC02 | | Zeus's Level 8 and Hera's Level 9.
+[@fc02-levels]: FC02 | The Origin of the Strongest | Zeus's Level 8 and Hera's Level 9.
 [@ar03-zald]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
 [@ar03-alfia]: AR03 | Chapter 5: Playing the Violence Card | "Against the Black Dragon, we were powerless."

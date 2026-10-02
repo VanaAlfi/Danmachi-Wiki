@@ -29,7 +29,7 @@ A Juggernaut is extraordinarily fast and deadly, with claws that pierce armour a
 
 ## Astrea Familia
 
-Five years before DanMachi 13, [[rudra-familia|Rudra Familia]]'s ambush with Inferno Stones set off a Juggernaut that killed ten members of [[astrea-familia|Astrea Familia]], leaving [[lyu-leon|Lyu]] as the only survivor.[@fm13-ambush] It broke Lyu's wooden sword, Alvs Lumina.[@fc03-lumina]
+Five years before DanMachi 13, [[rudra-familia|Rudra Familia]]'s ambush with Inferno Stones set off a Juggernaut that killed ten members of [[astrea-familia|Astrea Familia]], leaving [[lyu-leon|Lyu]] as the only survivor.[@fm13-ambush] It broke Lyu's wooden sword, [[equipment#alvs-lumina|Alvs Lumina]].[@fc03-lumina]
 
 ## DanMachi 13–14
 
@@ -42,13 +42,13 @@ On Floor 37 it eats other monsters to graft new limbs and armour, which begin to
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How long a Juggernaut lives, and exactly how much damage causes one to be born.[@fm14-nature]
 
-[@fm13-juggernaut]: FM13 | | Ouranos names it; its abilities; the Floor 27 massacre; Jura.
-[@fm13-damage]: FM13 | | The Dungeon's response to excessive damage.
+[@fm13-juggernaut]: FM13 | Chapter 5: Calamity Arrives | Ouranos names it; its abilities; the Floor 27 massacre; Jura.
+[@fm13-damage]: FM13 | Chapter 5: Calamity Arrives | The Dungeon's response to excessive damage.
 [@fm13-ambush]: FM13 | | Astrea Familia's destruction.
 [@fm13-collar]: FM13 | Chapter 5: Calamity Arrives | The collar and the whip.
-[@fm14-nature]: FM14 | | No magic stone or drops; short-lived; deeper is stronger; how to kill it.
+[@fm14-nature]: FM14 | Chapter 11: Where the Will to Kill Leads | No magic stone or drops; short-lived; deeper is stronger; how to kill it.
 [@fm14-stone]: FM14 | Chapter 11: Where the Will to Kill Leads | "One enormous magic stone."
 [@fm14-pursuit]: FM14 | | The collar's effect; the pursuit.
-[@fm14-end]: FM14 | | Grafted armour; Luminous Wind.
+[@fm14-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Grafted armour; Luminous Wind.
 [@fm14-rescue]: FM14 | Epilogue: You’ll Be Back II | The rescuers hear the fight.
 [@fc03-lumina]: FC03 | The Locus of Stars | Alvs Lumina broken by the Juggernaut.

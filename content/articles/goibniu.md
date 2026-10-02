@@ -22,7 +22,7 @@
   }
 }
 ---
-**Goibniu** is a god of smithing and architecture and the head of [[goibniu-familia|Goibniu Familia]], a Familia of smiths and craftsmen in [[orario|Orario]] whose custom weapons include [[aiz-wallenstein|Aiz]]'s [[desperate|Desperate]] and [[finn-deimne|Finn]]'s Fortia Spear.[@fm07-renovation, so01-workshop, so01-desperate, ss01-finn]
+**Goibniu** is a god of smithing and architecture and the head of [[goibniu-familia|Goibniu Familia]], a Familia of smiths and craftsmen in [[orario|Orario]] whose custom weapons include [[aiz-wallenstein|Aiz]]'s [[desperate|Desperate]] and [[finn-deimne|Finn]]'s [[equipment#fortia-spear|Fortia Spear]].[@fm07-renovation, so01-workshop, so01-desperate, ss01-finn]
 
 ## The god
 
@@ -58,6 +58,6 @@ His Familia's home, the Three Hammers Forge between North Main and Northwest Mai
 [@so13-rebuilding]: SO13 | | "Goibniu, god of construction and the forge" helping the rebuilding.
 [@so13-test]: SO13 | Chapter 3: Class is in Session | Goibniu's pure devotion to craftsmanship; every student failed his test.
 [@ss01-finn]: SS01 | | The Fortia Spear restored; the prum girl's crossbow order; Finn's leftover material.
-[@ar01-hephaistos]: AR01 | | "Now, what about you, Goibniu?"; his home in the northwest of town.
+[@ar01-hephaistos]: AR01 | Chapter 9: The Opening Act of Evil | "Now, what about you, Goibniu?"; his home in the northwest of town.
 [@ar02-bridge]: AR02 | Chapter 4: Those Who Struggle | Goibniu fixing the bridge; "We need this bridge…If it falls, we all fall."; the six cultists.
 [@ar03-lyu]: AR03 | | The wooden sword from a branch of the holy tree; the captain of Goibniu Familia; Goibniu as substitute mage; a rush job.

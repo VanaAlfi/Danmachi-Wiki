@@ -3,35 +3,54 @@
   "title": "Royman Mardeel",
   "category": "characters",
   "status": "complete",
-  "reviewed": "2026-09-30",
+  "reviewed": "2026-10-02",
   "continuity": "light-novel",
-  "summary": "Elf head of the Guild, who runs its daily business while Ouranos remains its hidden leader, and who is kept outside the secret of the Xenos.",
-  "aliases": ["Royman"],
-  "spoilers": "DanMachi Vols. 9–20 and Minor Myths and Legends Vol. 2",
-  "related": ["guild", "ouranos", "xenos", "freya", "school-district"],
+  "summary": "Elf head of the Guild, over 150 years old, who runs its daily business while Ouranos remains its hidden leader; nicknamed the Guild's Pig, shrewd and fearful for the city's standing, and kept outside the secret of the Xenos.",
+  "aliases": ["Royman", "Guild's Pig"],
+  "spoilers": "DanMachi Vols. 9–11 and 17–20, Sword Oratoria Vols. 2, 12, 13, Familia Chronicle Vol. 1, Astrea Record Vols. 1 and 2 and Minor Myths and Legends Vol. 2",
+  "related": ["guild", "ouranos", "eina-tulle", "finn-deimne", "xenos", "freya", "school-district"],
   "infobox": {
     "title": "Royman Mardeel",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["fm09-royman"]},
+      {"label": "Age", "value": "Over 150 in Sword Oratoria 2", "refs": ["so02-age"]},
       {"section": "Guild"},
-      {"label": "Position", "value": "Head of [[guild|the Guild]]", "refs": ["fm09-royman", "fm20-royman"]}
+      {"label": "Position", "value": "Head of [[guild|the Guild]], promoted a little over ten years before Sword Oratoria 2", "refs": ["fm09-royman", "fm20-royman", "so02-age"]},
+      {"label": "Also called", "value": "The Guild's Pig", "refs": ["fm09-pig", "so02-pig"]}
     ]
   }
 }
 ---
 **Royman Mardeel** is an elf and the head of [[guild|the Guild]].[@fm09-royman] The Guild's true leader is the god [[ouranos|Ouranos]]; Royman passes on Ouranos's secret mission in DanMachi 9 without being told the secret of the [[xenos|Xenos]].[@fm09-royman, fm09-network]
 
+His nickname is "the Guild’s Pig". He has served at the Guild for over a century, and his extravagant life since he reached his post has left him obese.[@fm09-pig] He is "hated by every elf in Orario"; even [[riveria|Riveria]] considers him the "shame of her race".[@so02-pig, fc01-pig] Sword Oratoria 2 says he rose to head of the Guild "a little more than ten years" earlier and, at "over 150 years old", gives "the final yes or no for every major decision" while living in luxury.[@so02-age]
+
+## Character {#character}
+
+The narration paints him as "Corrupt, rotund", oozing money and power, and in Sword Oratoria 12 as "Selfish and devoted": a man who "would use anything in his power".[@fc01-pig, so12-devoted] He is no fool; [[hermes|Hermes]] calls him "a shrewd one".[@fm11-shrewd]
+
+Above all he fears for the city's standing. In the dark age of Astrea Record 1 he insists that "Without Zeus and Hera" the Guild must "maintain our legitimacy", while [[allen-fromel|Allen]] calls him a "fat pig" who only cares about keeping his seat; in Astrea Record 2 [[finn-deimne|Finn]] tells him: "Chin up, Royman. No more of that wailing."[@ar01-allen, ar02-finn] In Familia Chronicle 1 he orders the factions to clear a casino's main hall first, "desperate to prevent Orario’s reputation from dropping".[@fc01-casino] In DanMachi 18, "more scared than anyone of seeing the city’s strength drop", he keeps [[loki-familia|Loki Familia]] out of the War Game; though [[freya|Freya]]'s charm had "completely violated" his mind, he still sides with her Familia for the city's sake.[@fm18-fear]
+
+He is hard on those below him. In DanMachi 9 he looks [[eina-tulle|Eina]] over, grunts "like a pig" and berates her, and in DanMachi 19 he shouts her down when she argues against the Shaft plan.[@fm09-eina, fm19-shaft] He also fears the gods: Sword Oratoria 13 says that his inconsistent public account of [[dionysus|Dionysus]]'s end "was born of his fear of the god and out of respect for his followers".[@so13-dionysus]
+
 ## History
 
 | Volume | Events |
 |---|---|
-| DanMachi 9 | Transmits Ouranos's secret mission to [[hestia-familia|Hestia Familia]] through [[eina-tulle|Eina]].[@fm09-royman] |
-| DanMachi 11 | Even he is not told the full agreement about the Xenos.[@fm11-secret] |
-| Minor Myths and Legends 2 | [[hedin|Hedin]] forces him to reveal the route [[freya|Freya]] took into the desert.[@ss02-royman] |
-| DanMachi 18 | Hopes [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]] will join forces, like [[zeus-and-hera-familias|Zeus and Hera Familias]], to reach Thalia's Ice Garden; he gives [[finn-deimne|Finn]] a frozen, broken short sword as a clue.[@fm18-royman] After Freya's defeat he at first tries to protect her, but cannot resist the victors' demands.[@fm18-dissolved] |
-| DanMachi 20 | Hoping to keep the fame of the shaft project for the Guild, he nonetheless signs the [[school-district|School District]]'s proposal to cooperate.[@fm20-royman] |
+| Astrea Record 1 | Dresses down the adventurers over the [[evils|Evils]]' attacks; Allen answers him with open contempt and Finn steps in.[@ar01-allen] |
+| Astrea Record 2 | Finn rallies the despairing Royman.[@ar02-finn] |
+| Familia Chronicle 1 | At the casino, puts Orario's reputation ahead of relieving the VIP room.[@fc01-casino] |
+| DanMachi 9 | Transmits Ouranos's secret mission to [[hestia-familia|Hestia Familia]] through Eina.[@fm09-royman] |
+| DanMachi 10 | Makes a dire appeal to Ouranos during the city's panic and is calmed by the god's assurances.[@fm10-ouranos] |
+| DanMachi 11 | Accepts Finn's offer to deal with the monsters in [[daedalus-street|Daedalus Street]].[@fm11-finn] Even he is not told the full agreement about the Xenos.[@fm11-secret] |
+| Sword Oratoria 12 | Has secretly taken the lead in the Guild's support for the second assault on [[knossos|Knossos]]; when the city is attacked he sends every Familia he can to pacify the monsters, cursing Finn.[@so12-knossos, so12-devoted] |
+| Minor Myths and Legends 2 | [[hedin|Hedin]] forces him to reveal the route Freya took into the desert.[@ss02-royman] |
+| DanMachi 17 | When Freya's charm breaks, he orders: "Protect Freya Familia!!!"[@fm17-protect] |
+| DanMachi 18 | Hopes Loki Familia and [[freya-familia|Freya Familia]] will join forces, like [[zeus-and-hera-familias|Zeus and Hera Familias]], to reach Thalia's Ice Garden; he gives Finn a frozen, broken short sword as a clue.[@fm18-royman] After Freya's defeat he at first tries to protect her, but cannot resist the victors' demands.[@fm18-dissolved] |
+| DanMachi 19 | Defends the Shaft plan against Eina.[@fm19-shaft] |
+| DanMachi 20 | His high-handed demand for half of the [[school-district|School District]]'s [[metals#orichalcum|orichalcum]] backfires, and he takes "double his usual dose of stomach medicine".[@fm20-orichalcum] Hoping to keep the fame of the shaft project for the Guild, he nonetheless signs the School District's proposal to cooperate.[@fm20-royman] |
 
 [@fm09-royman]: FM09 | | Elf head of the Guild; Ouranos's mission through Eina.
 [@fm09-network]: FM09 | | Royman outside the Xenos secret.
@@ -40,3 +59,21 @@
 [@fm18-dissolved]: FM18 | Epilogue: Double Cast | Royman after Freya's defeat.
 [@fm20-royman]: FM20 | Epilogue: Beautiful World | Guild Chief Royman signs the proposal.
 [@ss02-royman]: SS02 | | Hedin and Royman.
+[@fm09-pig]: FM09 | Chapter 4: Mission | Over a century at the Guild; extravagance and debauchery, "resulting in his obese figure"; nickname "the Guild’s Pig".
+[@so02-pig]: SO02 | Chapter 4: Orb | "Royman Mardeel was hated by every elf in Orario."; Riveria thinks him the "shame of her race".
+[@fc01-pig]: FC01 | Crush the Grand Casino! | "Corrupt, rotund, oozing money and"; "Royman was loathed by the other elves living in Orario", hence the moniker.
+[@so02-age]: SO02 | Chapter 4: Orb | "promoted to his current position a little more than ten years ago"; "Now over 150 years old"; "the final yes or no for every major decision"; "living in the lap of luxury".
+[@so12-devoted]: SO12 | Chapter 7: Final War II | "Selfish and devoted, the man would use anything in his power. The Guild’s Pig."; "Grrr, Finn! You bastard!"
+[@fm11-shrewd]: FM11 | | Printed heading "Chapter 2: Diverging Strands, Intersecting Plans" (not in the evidence map): Hermes: "Royman is a shrewd one, eh?"
+[@ar01-allen]: AR01 | Chapter 6: Assemblies of Light and Dark | "Without Zeus and Hera, we must make efforts to maintain our legitimacy"; Allen: "you fat pig!"; "all you care about is keepin’ your greasy little backside glued to that seat".
+[@ar02-finn]: AR02 | Chapter 2: Wavering Justice | Finn: "Chin up, Royman. No more of that wailing."
+[@fc01-casino]: FC01 | Crush the Grand Casino! | "Hurry up and clear up the disorder in the hall!"; "desperate to prevent Orario’s reputation from dropping".
+[@fm18-fear]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "Even after his mind had been completely violated, Royman still sided with Freya Familia."; "more scared than anyone of seeing the city’s strength drop".
+[@fm09-eina]: FM09 | Chapter 4: Mission | "Royman’s eyes traced the curves firmly held in place by her suit"; "grunting like a pig".
+[@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Royman snapped back with a shout."
+[@so13-dionysus]: SO13 | | Printed heading "Prologue: The Sequel to Loss and Resolve" (not in the evidence map): "The inconsistency in Royman’s explanation was born of his fear of the god and out of respect for his followers."
+[@fm10-ouranos]: FM10 | Chapter 8: City Panic | "the dire appeal of the highest-ranking person in the Guild, Royman Mardeel"; "Royman finally regained a sense of calm".
+[@fm11-finn]: FM11 | | Printed heading "Chapter 1: The White Rabbit Brought Low" (not in the evidence map): Royman, "who had launched into negotiation mode after hearing Finn’s explanation, waited for a moment, then nodded".
+[@so12-knossos]: SO12 | Chapter 6: The Divine Providence of Despair | "secretly taken the lead in supporting the second assault on Knossos"; "Royman’s overweight body was drenched in sweat".
+[@fm17-protect]: FM17 | Chapter 5: The End of Her World | "Protect Freya Familia!!! Send out the order to halt all fighting!"
+[@fm20-orichalcum]: FM20 | Chapter 2: Lion and then Sword Princess | "taking double his usual dose of stomach medicine"; "Mr. Royman was apparently rather high-handed"; "They demanded a whole half of the orichalcum".

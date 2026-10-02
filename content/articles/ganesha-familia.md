@@ -55,7 +55,7 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@fm09-network]: FM09 | | Ganesha knows the plan.
 [@fm10-standing]: FM10 | Chapter 6: Before the Storm | "This was Ganesha Familia’s home, Iam Ganesha."; "it was also Orario’s largest familia in terms of membership"; "They possessed an S Rank and were worthy of being mentioned alongside Loki Familia and Freya Familia."; "had members stationed at all of Orario’s gates"; "Average citizens held them in high esteem."
 [@fm10-first-tier]: FM10 | Chapter 9: Dreams of Beasts | "Ganesha Familia had more first-tier adventurers than any other familia in Orario, eleven in total. All of them might only have been at Level 5".
-[@fm10-purpose]: FM10 | | Monsterphilia's hidden purpose.
+[@fm10-purpose]: FM10 | Chapter 6: Before the Storm | Monsterphilia's hidden purpose.
 [@fm10-asterios]: FM10 | | Asterios and Ganesha Familia.
 [@so02-hashana]: SO02 | Chapter 2: Incident | "His name was Hashana Dorlia, a former member of…" "…Ganesha Familia."; "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
 [@so02-blacklist]: SO02 | Chapter 6: Parched Scream | Ganesha Familia insists the red-haired woman be known as Hashana's killer and blacklisted by the Guild.

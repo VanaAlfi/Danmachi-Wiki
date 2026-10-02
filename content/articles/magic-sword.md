@@ -45,7 +45,7 @@ The Crozzo Magic Swords are weapons of legend, known throughout the world; the o
 
 - **The elves' grudge.** The flames of Crozzo swords in the Rakian wars reached the forests of the elves, who had no part in the war; the number of elves who lost their villages is almost uncountable. [[alicia-forestlight|Alicia]] says the Crozzos burned her home.[@so05-elves]
 - **Rakia's battalion.** In DanMachi 8 [[ares|Ares]] hopes to use Welf's power to revive Rakia's magic-sword battalion.[@fm08-battalion]
-- **Welf's swords.** In DanMachi 18 one of Welf's swords keeps taking Allen's thrusts without breaking, an expression of its maker's persistence.[@fm18-consumable] In DanMachi 14 he forges Shikou Kazuki, whose flame burns a whole swarm (see [[welf-crozzo|Welf Crozzo]]).[@fm14-kazuki]
+- **Welf's swords.** In DanMachi 18 one of Welf's swords keeps taking Allen's thrusts without breaking, an expression of its maker's persistence.[@fm18-consumable] In DanMachi 14 he forges [[equipment#shikou-kazuki|Shikou Kazuki]], whose flame burns a whole swarm (see [[welf-crozzo|Welf Crozzo]]).[@fm14-kazuki]
 
 ## Open questions
 

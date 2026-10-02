@@ -50,7 +50,7 @@ At the Monsterphilia of DanMachi 1 and Sword Oratoria 1, two separate plots set 
 
 {{nocite}} The incident echoes through later volumes:
 
-- **Later echoes:** the Guild's reputation suffers from "the Monsterphilia incident" onward.[@so13-guild, fm09-guild] Fels sends a golem into the sewers afterwards, and the Guild grows uptight about escaped monsters.[@fm10-golem, fm11-uptight] Lefiya remembers her cowardice that day.[@so04-lefiya]
+- **Later echoes:** the Guild's reputation suffers from "the Monsterphilia incident" onward.[@so13-guild, fm09-guild] Fels sends a [[equipment#golem|golem]] into the sewers afterwards, and the Guild grows uptight about escaped monsters.[@fm10-golem, fm11-uptight] Lefiya remembers her cowardice that day.[@so04-lefiya]
 
 ## Open questions
 
@@ -86,7 +86,7 @@ At the Monsterphilia of DanMachi 1 and Sword Oratoria 1, two separate plots set 
 [@so04-lefiya]: SO04 | First Chapter: And the Boy… | "the cowardice she’d shown during the Monsterphilia".
 [@so05-apology]: SO05 | | Ganesha "apologizing for the debacle at the Monsterphilia"; "those violas you speak of".
 [@so05-robe]: SO05 | | "Loki had threatened to go to the Guild with a report about the goddess of beauty’s antics at Monsterphilia"; "I’ll offer you the robe for your silence."
-[@so10-prohibited]: SO10 | | "Aside from the Monsterphilia, bringing beasts out of the labyrinth was strictly prohibited."
+[@so10-prohibited]: SO10 | Chapter 1: Omen | "Aside from the Monsterphilia, bringing beasts out of the labyrinth was strictly prohibited."
 [@so12-enyo]: SO12 | Chapter 6: The Divine Providence of Despair | "You did it to search for Aria."; "the charmed monsters started rampaging first"; "Enyo had missed the timing to unleash all the man-eating flowers waiting in the sewer system".
 [@so12-misfired]: SO12 | Chapter 8: A Heroes’ Chorus | "The man-eating flowers at Monsterphilia: That was part of the enemy’s plan that had misfired when it coincided with Freya’s game."
 [@so13-guild]: SO13 | | "From the Monsterphilia incident to the armed monsters appearing on the surface"; "a heavy toll on the Guild’s reputation".

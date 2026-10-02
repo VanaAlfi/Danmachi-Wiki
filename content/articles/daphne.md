@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Former Apollo Familia commander who joins Miach Familia with her friend Cassandra Illion; a level-headed field leader who trains Lilly in command on the joint expedition and leads the coalition's right wing in the Great Familia War.",
-  "aliases": ["Daphne"],
+  "aliases": ["Daphne", "Laurus Fuga"],
   "spoilers": "DanMachi Vols. 6–18",
   "related": ["cassandra", "miach-familia", "apollo", "lilliluka-erde", "magic", "skills"],
   "infobox": {
@@ -17,6 +17,7 @@
       {"label": "Familia", "value": "Apollo Familia; [[miach-familia|Miach Familia]] from DanMachi 8", "refs": ["fm06-intro", "fm08-join"]},
       {"label": "Level", "value": "2 in DanMachi 6; 3 after the joint expedition", "refs": ["fm06-intro", "fm15-level"]},
       {"label": "Role", "value": "Field commander", "refs": ["fm13-commander", "fm18-wing"]},
+      {"label": "Also called", "value": "Laurus Fuga", "refs": ["fm18-laurus", "fm19-laurus"]},
       {"label": "Magic", "value": "[[#raumure|Raumure]]", "refs": ["sheet.fm14-daphne"]},
       {"label": "Skills", "value": "[[skills#helios-passion|Helios Passion]], [[skills#laurel-wreath|Laurel Wreath]]", "refs": ["sheet.fm14-daphne"]}
     ]
@@ -43,7 +44,7 @@ In DanMachi 14, when Cassandra insists that the party must flee east, Daphne sti
 
 ## Level 3 and the Great Familia War
 
-Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, after [[aisha-belka|Aisha]], the second in line to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing]
+Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, after [[aisha-belka|Aisha]], the second in line to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing] When a first-tier adventurer bears down on her party, its members call on her as "Laurus Fuga" for a decision; in DanMachi 19 [[ouka|Ouka]] says they "were simply following Laurus Fuga’s order".[@fm18-laurus, fm19-laurus]
 
 Against [[hegni|Hegni]] she holds on far longer than expected because of her rare Skill [[skills#laurel-wreath|Laurel Wreath]], which raises her endurance when she is exhausted or close to death.[@fm18-laurel] Her party draws attack after attack out of Hegni's cursed sword so that he uses them up.[@fm18-lure]
 
@@ -115,3 +116,5 @@ Her DanMachi 14 Status sheet (Level 2) words it as protection magic that increas
 [@raumure.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The chant; "protection magic, similar to enchantments"; endurance and agility; her only magic; the deity.
 [@raumure.fm14-mikoto]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | With Level Boost, Daphne saves Mikoto.
 [@raumure.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 165 (Level 2): Raumure, protection magic; Defense up, Agility greatly up; proportional to magic power.
+[@fm18-laurus]: FM18 | Chapter 8: The Great Familia War | "What are you doing, Laurus Fuga?!"; the party seeks "a decision from their commander".
+[@fm19-laurus]: FM19 | Chapter 1: V-V-V for Victory Party | Ouka: "We were simply following Laurus Fuga’s order to let the enemy cut us down".

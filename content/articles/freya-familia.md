@@ -89,11 +89,11 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 > - What Ottar still needs for Level 8.[@fm18-ottar, fm20-ottar]
 > - Whether the expedition Freya pledged to Ouranos will happen.[@fm17-pledge]
 
-[@fc01-owner]: FC01 | | Mia Grand owns the tavern.
+[@fc01-owner]: FC01 | Crush the Grand Casino! | Mia Grand owns the tavern.
 [@fm01-freya]: FM01 | | Freya introduced as a goddess of beauty.
 [@fm03-minotaur]: FM03 | | Ottar prepares and trains the Minotaur under Freya's delegation.
 [@fm06-zeus]: FM06 | | Loki and Freya Familias expel Zeus and Hera Familias.
-[@fm07-folkvangr]: FM07 | | Folkvangr's location.
+[@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location.
 [@fm07-ishtar]: FM07 | | The attack on Ishtar Familia; Ishtar sent back.
 [@fm07-fine]: FM07 | Epilogue: If Surrounded by Kindness… | The Guild fine.
 [@fm11-asterios]: FM11 | | Ottar and the rematch with Asterios.

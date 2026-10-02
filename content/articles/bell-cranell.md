@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
-  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi"],
+  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi", "Record Holder", "Regulus Arne"],
   "spoilers": "DanMachi Vols. 1–20 and Astrea Record Vol. 3",
   "related": ["hestia-familia", "hestia", "skills", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
@@ -20,7 +20,8 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[hestia-familia|Hestia Familia]]", "refs": ["fm01-bell"]},
       {"label": "Level", "value": "5, from DanMachi 18 (see [[#levels|Levels]])", "refs": ["fm18-level5"]},
-      {"label": "Titles", "value": "Little Rookie; later Rabbit Foot", "refs": ["fm04-rookie", "fm12-title"]},
+      {"label": "Titles", "value": "Little Rookie; later Rabbit Foot; Regulus Arne from DanMachi 20", "refs": ["fm04-rookie", "fm12-title", "fm20-regulus"]},
+      {"label": "Also called", "value": "The record holder", "refs": ["fm04-record", "ss01-record"]},
       {"label": "Magic", "value": "[[#firebolt|Firebolt]]", "refs": ["fm02-firebolt"]},
       {"label": "Skills", "value": "[[skills#liaris-freese|Liaris Freese]], [[skills#argonaut|Argonaut]], [[skills#ox-slayer|Ox Slayer]], [[skills#vanadis-tevere|Vanadis Tevere]]", "refs": ["fm01-hidden", "fm04-argonaut", "fm12-level4", "fm18-vanadis"]}
     ]
@@ -40,10 +41,10 @@ Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.
 | Level | Reached | Notes |
 |---|---|---|
 | 1 | DanMachi 1 | Receives Hestia's [[falna|Falna]] as her only follower.[@fm01-bell] |
-| 2 | DanMachi 3 | After defeating a [[minotaur|Minotaur]] alone; the fastest Level-up on record. At [[denatus|Denatus]] he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
+| 2 | DanMachi 3 | After defeating a [[minotaur|Minotaur]] alone; the fastest Level-up on record. At [[denatus|Denatus]] he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] From then on he is known as "the record holder".[@fm04-record, ss01-record] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
 | 3 | DanMachi 7 | Announced at the start of the volume.[@fm07-level3] |
 | 4 | DanMachi 12 | After surviving his fight with [[asterios|Asterios]]; he gains the Skill Ox Slayer and the title *Rabbit Foot*.[@fm12-level4, fm12-title] |
-| 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks and the Skill Vanadis Tevere.[@fm18-level5, fm18-vanadis] |
+| 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks and the Skill Vanadis Tevere.[@fm18-level5, fm18-vanadis] In DanMachi 20 the Denatus first postpones "the question of Bell’s second name"; in the epilogue it gives him the title *Regulus Arne*, "One who brings hope", and Hestia "had no choice but to raise her hands in defeat".[@fm20-postpone, fm20-regulus] |
 
 At Level 5 Bell finds that each ability point takes far more effort than before, and his growth slows.[@fm20-level5]
 
@@ -159,9 +160,9 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm02-lilly]: FM02 | | Lilly rescued.
 [@fm03-level2]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
 [@fm03-swift]: FM03 | Chapter 2: Ox and Hare Special Training | Firebolt as Swift-Strike Magic.
-[@fm04-rookie]: FM04 | | The title Little Rookie.
+[@fm04-rookie]: FM04 | Chapter 1: Denatus | The title Little Rookie.
 [@fm04-luck]: FM04 | Chapter 1: Denatus | Bell chooses Luck.
-[@fm04-argonaut]: FM04 | | Argonaut on the Level 2 card.
+[@fm04-argonaut]: FM04 | Chapter 1: Denatus | Argonaut on the Level 2 card.
 [@fm05-death]: FM05 | Chapter 3: Dungeon Death March | The grandfather faked his death.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | Zeus as Bell's grandfather.
 [@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson, and "the last hero your Familia left behind"; two lines earlier he says plain grandson, and the man who raised Bell is called his foster parent in Chapter 3. Yen Press prints "grandson".
@@ -179,7 +180,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm11-asterios]: FM11 | Chapter 7: The Return of the Hero | The rematch.
 [@fm11-reputation]: FM11 | Epilogue: And So I Start to Run Again | His reputation repaired.
 [@fm12-level4]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 update; Ox Slayer.
-[@fm12-title]: FM12 | | The title Rabbit Foot.
+[@fm12-title]: FM12 | Chapter 1: Rabbit Close-Up | The title Rabbit Foot.
 [@fm12-charge]: FM12 | Chapter 2: Adventure Intermission | Argonaut's four-minute limit.
 [@fm13-juggernaut]: FM13 | | The Juggernaut; the fall to Floor 37.
 [@fm14-arm]: FM14 | | Survival on Floor 37; Amid rebuilds his arm.
@@ -192,7 +193,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm20-argonaut]: FM20 | Chapter 4: The Knight’s Afterglow | Five-minute full charge.
 [@fm18-odr]: FM18 | Chapter 9: Flower Language for You | Bell refuses to be Freya's Odr; her flower scattered.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Bell's promise to Syr.
-[@fm19-rapi]: FM19 | | The Rapi Flemish cover.
+[@fm19-rapi]: FM19 | Chapter 2: School Heaven and Hell | The Rapi Flemish cover.
 [@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper (the English sheet lists Liaris Freese, the Japanese sheet does not).
 [@fm20-parents]: FM20 | Epilogue: Beautiful World | Bell never knew his parents.
 [@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father; "My sister entrusted him to Zeus"; the child is not named.
@@ -211,3 +212,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@firebolt.fm13-reflect]: FM13 | Chapter 5: Calamity Arrives | Seventeen shots; reflection; Dual Charge.
 [@firebolt.fm19-fake]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Borrowed chant; loss of control; Ignis Fatuus.
 [@firebolt.fm19-fake2]: FM19 | | Fake incantation used again with a normal Firebolt.
+[@fm04-record]: FM04 | Chapter 2: Changing Environment, New Relationships | "He’s the record holder now."; "Seriously? You’re Little Rookie?! The new record holder!"
+[@ss01-record]: SS01 | | Printed heading "Observations of a Mage" (not in the evidence map): "His aliases of Little Rookie and Record Holder are no mere embellishment."
+[@fm20-postpone]: FM20 | Chapter 1: Orario Rumble | Magni and Modi "postpone the question of Bell’s second name for the moment".
+[@fm20-regulus]: FM20 | Epilogue: Beautiful World | "Bell Cranell, who had been given the title Regulus Arne"; "One who brings hope"; the name proposed at Denatus and "officially accepted".

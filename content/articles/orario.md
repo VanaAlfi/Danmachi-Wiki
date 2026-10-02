@@ -55,21 +55,21 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 | DanMachi 17 | Freya's charm covers the whole city and rewrites what it believes; Hestia breaks it from Babel.[@fm17-charm, fm17-babel] |
 | DanMachi 18 | The Familia War is shown to the city; afterwards Folkvangr is placed under Guild management.[@fm19-broadcast, fm18-folkvangr] |
 
-[@fm01-orario]: FM01 | | The Labyrinth City over the Dungeon; the Guild.
+[@fm01-orario]: FM01 | Chapter 1: World, Reality, and Desire | The Labyrinth City over the Dungeon; the Guild.
 [@fm01-layout]: FM01 | | Circular city; eight Main Streets.
-[@fm01-babel]: FM01 | | Babel as the Dungeon's lid.
+[@fm01-babel]: FM01 | Chapter 4: That’s Why I Want to Help | Babel as the Dungeon's lid.
 [@fm01-streets]: FM01 | Chapter 5: The Goddess’s Prank | Main Streets named by direction; West Main; the church.
 [@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
-[@fm01-daedalus]: FM01 | | Daedalus Street and its ariadne.
+[@fm01-daedalus]: FM01 | Chapter 6: Bump of Chicken! | Daedalus Street and its ariadne.
 [@fm01-monsterphilia]: FM01 | Chapter 5: The Goddess’s Prank | Monsters loose during Monsterphilia.
-[@fm02-babel]: FM02 | | Babel's history and floors.
+[@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | Babel's history and floors.
 [@fm03-babel]: FM03 | Chapter 3: Black Raid | Freya on the fiftieth floor.
 [@fm07-quarter]: FM07 | Epilogue: If Surrounded by Kindness… | The third district after the attack.
-[@fm07-folkvangr]: FM07 | | Folkvangr's location.
+[@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location.
 [@fm08-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Hephaistos Familia's store on Northwest Main.
-[@fm11-rematch]: FM11 | | The rematch in Central Park.
+[@fm11-rematch]: FM11 | Chapter 7: The Return of the Hero | The rematch in Central Park.
 [@fm16-sixth]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | "The sixth district in the southwest quarter."
-[@fm16-festival]: FM16 | | The Goddess Festival.
+[@fm16-festival]: FM16 | Chapter 1: A Stormy Love Letter | The Goddess Festival.
 [@fm17-charm]: FM17 | Chapter 1: The Opening of Hostilities | The charm covers the city.
 [@fm17-babel]: FM17 | Chapter 5: The End of Her World | Hestia's altar on Babel.
 [@fm18-folkvangr]: FM18 | Epilogue: Double Cast | Folkvangr under Guild management.

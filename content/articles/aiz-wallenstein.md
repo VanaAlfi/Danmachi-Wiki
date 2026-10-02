@@ -162,7 +162,7 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 [@so12-avenger]: SO12 | Chapter 5: Final War | Avenger.
 [@ar02-level]: AR02 | | Aiz at nine, Level 3.
 [@ar02-aiz]: AR02 | Intermission: While the Scales of Justice Tremble | The "Dungeon girl".
-[@ar03-aiz]: AR03 | | Level 4 after the war.
+[@ar03-aiz]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Level 4 after the war.
 [@airiel.so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel."; her only spell; an enchantment.
 [@airiel.so01-rafaga]: SO01 | Chapter 2: Dungeon Confusion | Lil Rafaga named as a finishing move, at Loki's suggestion.
 [@airiel.so01-twoslash]: SO01 | Chapter 2: Dungeon Confusion | Two slashes in the time of one; the borrowed blade nearly breaks.
@@ -175,7 +175,7 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 [@airiel.so07-rage]: SO07 | Chapter 4: The Sword’s Wind Calls | Two "Awaken, Tempest" calls, then "RAGE, TEMPEST!!".
 [@airiel.so09-first]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | First activation at seven; the black wyvern.
 [@airiel.so09-mother]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "Mother's…wind."
-[@airiel.so11-mind]: SO11 | | Out of Mind while training with Ottar.
+[@airiel.so11-mind]: SO11 | Chapter 3: The True Face of a God | Out of Mind while training with Ottar.
 [@airiel.so11-tempest]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Tempest!" as she unleashes Airiel.
 [@airiel.so12-avenger]: SO12 | Chapter 5: Final War | "Tempest" / "Avenger"; the forbidden chant.
 [@airiel.so12-white]: SO12 | Chapter 8: A Heroes’ Chorus | White wind; "Tempest!".

@@ -30,7 +30,7 @@
 
 ## The weapon {#weapon}
 
-- **Weight:** Urga and [[gareth|Gareth]]'s Roland Ax are "two of the heaviest custom-made weapons around". In Sword Oratoria 4 [[tsubaki|Tsubaki]] nonetheless swings Urga one-handed while holding the ax in her other hand.[@so04-tsubaki]
+- **Weight:** Urga and [[gareth|Gareth]]'s [[equipment#roland-series|Roland Ax]] are "two of the heaviest custom-made weapons around". In Sword Oratoria 4 [[tsubaki|Tsubaki]] nonetheless swings Urga one-handed while holding the ax in her other hand.[@so04-tsubaki]
 - **Cost:** the second Urga took the High Smiths more time and resources than even Aiz's [[desperate|Desperate]].[@so02-second] Tiona and Aiz go into the Dungeon partly to repay the loan for it.[@so02-loan]
 - **Use:** Tiona spins it in one hand and, on the expedition of Sword Oratoria 4, her supporter Narfi passes it to her in battle.[@so02-second, so04-narfi] Sword Oratoria 10 calls it the weapon least suited to capturing monsters alive.[@so10-capture]
 
@@ -43,7 +43,7 @@
 | Sword Oratoria 4 | While Urga is being finished, Tiona complains about the Durandal sword Roland Blade: "This isn’t Urga!" (see [[desperate#durandal-weapons|Durandal weapons]]).[@so04-roland] |
 | Sword Oratoria 6 | Tiona has Urga fixed up at Goibniu Familia. Later, [[raul-nord|Raul]] is left carrying it to her, and complains that "her Urga almost broke my back".[@so06-repair, so06-raul, so06-back] |
 | Sword Oratoria 7 | Against the demi-spirit Gugalanna, Urga cracks, and then one of its blades shatters. Tiona fights on with it as a one-bladed greatsword (see [[corrupted-spirit#gugalanna|Gugalanna]]).[@so07-cracked, so07-broken] |
-| Sword Oratoria 10 | Facing a golem made of adamantite, "just like her Urga", Tiona finds the attacks of her companions deflected.[@so10-adamantite] |
+| Sword Oratoria 10 | Facing a [[equipment#golem|golem]] made of adamantite, "just like her Urga", Tiona finds the attacks of her companions deflected.[@so10-adamantite] |
 | DanMachi 17 | Tiona stands with Urga ready against Freya Familia.[@fm17-ready] |
 
 [@so01-loved]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga, and knew exactly how to use it."

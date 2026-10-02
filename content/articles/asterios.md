@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A black Minotaur among the Xenos who remembers a former battle with Bell Cranell and seeks him out again; classed by the Guild as a Level 7 threat.",
   "aliases": ["Black Minotaur"],
-  "spoilers": "DanMachi Vols. 9–12 and Sword Oratoria Vols. 10–12",
+  "spoilers": "DanMachi Vols. 9–12 and Sword Oratoria Vols. 11 and 12",
   "related": ["xenos", "bell-cranell", "lido", "fels", "aiz-wallenstein", "ottar"],
   "infobox": {
     "title": "Asterios",
@@ -16,6 +16,7 @@
       {"section": "Xenos"},
       {"label": "Kind", "value": "Black Minotaur", "refs": ["fm11-name"]},
       {"label": "Guild classification", "value": "Level 7", "refs": ["so11-level", "fm12-level"]},
+      {"label": "Weapon", "value": "The Labrys, a double-bladed ax", "refs": ["fm10-labrys"]},
       {"label": "Rival", "value": "[[bell-cranell|Bell Cranell]]", "refs": ["fm11-name"]}
     ]
   }
@@ -26,6 +27,14 @@
 ## Name
 
 The black Minotaur is first named Asterios in DanMachi 10; in DanMachi 11 he tells Bell his name himself.[@fm10-asterios, fm11-name] He is the strongest of the Xenos, stronger than their leader [[lido|Lido]].[@fm09-strongest]
+
+## Appearance and weapon {#appearance}
+
+When the adventurers first meet him in DanMachi 10 he is simply "A black minotaur" brandishing "a double-sided ax, a Labrys"; each single-handed swing of the Labrys shatters the floor and fells large trees.[@fm10-labrys] After losing his right arm to Aiz he fights with the Labrys in his left hand.[@fm11-rematch]
+
+## The rematch {#rematch}
+
+Asterios "had no ulterior motives": "All he sought was a rematch with his old opponent."[@fm11-will] Their fight in DanMachi 11 runs through the streets in front of [[loki-familia|Loki Familia]] and the townsfolk. [[ottar|Ottar]] throws a sword down into the plaza at their feet, Asterios loses his left eye, and he charges Bell into the great hall of [[babel|Babel]] before declaring: "Now we are even…"[@fm11-rematch] The narration adds that the onlookers saw his "iron-strong will to fight and kill".[@fm11-will]
 
 ## History
 
@@ -49,3 +58,6 @@ The black Minotaur is first named Asterios in DanMachi 10; in DanMachi 11 he tel
 [@fm12-level]: FM12 | Chapter 1: Rabbit Close-Up | A Level 7 monster; Bell's promotion.
 [@so11-level]: SO11 | | The Guild classifies him as Level 7.
 [@so12-asterios]: SO12 | Chapter 7: Final War II | Asterios returns.
+[@fm10-labrys]: FM10 | Chapter 9: Dreams of Beasts | "It brandished a double-sided ax, a Labrys."; "The floor shattered with every single-handed swing of its double-bladed Labrys. It felled large trees"; "A black minotaur…?!"
+[@fm11-rematch]: FM11 | Chapter 7: The Return of the Hero | "the Sword Princess had cut off his arm, rather than the left side where he held the Labrys"; Ottar's sword "landing point-down in the center of the plaza at the feet of Bell and Asterios"; "whose left eye had been obliterated"; "the grand hall on the first story of Babel"; "Now we are even…"
+[@fm11-will]: FM11 | Epilogue: And So I Start to Run Again | "Asterios had no ulterior motives."; "All he sought was a rematch with his old opponent."; "his iron-strong will to fight and kill".

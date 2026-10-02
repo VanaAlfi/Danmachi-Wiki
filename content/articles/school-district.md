@@ -83,24 +83,24 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@fm19-people]: FM19 | Chapter 3: School Life in Another World | More than ten thousand aboard.
 [@fm19-falna]: FM19 | Chapter 3: School Life in Another World | The School District grants Falna.
 [@fm19-interview]: FM19 | Chapter 3: School Life in Another World | The interview with the gods.
-[@fm19-eina]: FM19 | | Eina enrolled at six.
-[@fm19-rapi]: FM19 | | Bell as Rapi Flemish.
+[@fm19-eina]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Eina enrolled at six.
+[@fm19-rapi]: FM19 | Chapter 2: School Heaven and Hell | Bell as Rapi Flemish.
 [@fm20-leon]: FM20 | Chapter 2: Lion and then Sword Princess | Leon, Knight of Knights, Level 7.
 [@fm20-parents]: FM20 | | Leon's half-dwarf parents.
 [@fm20-nina]: FM20 | Chapter 1: Orario Rumble | Nina of Balder Class.
 [@fm20-orariad]: FM20 | | The Orariad, ending 2–2–1.
 [@fm20-reconcile]: FM20 | Epilogue: Beautiful World | The draw, the reconciliation and the shaft.
-[@so13-ship]: SO13 | | The Hringhorni.
+[@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The Hringhorni.
 [@so13-classes]: SO13 | | Deity-led classes.
 [@so13-balder]: SO13 | | Balder.
 [@so13-admission]: SO13 | | Admission and graduation.
-[@so13-practice]: SO13 | | Dungeon practice stops at Floor 15.
+[@so13-practice]: SO13 | Chapter 3: Class is in Session | Dungeon practice stops at Floor 15.
 [@so13-leon]: SO13 | | Leon, captain of Balder Class.
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | Lefiya's admission.
 [@so13-bardain]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Ha-ha! Rulebreaker Bardain!"; "I’m Bardain! A bull person, as you can see!"; "Generous and always smiling, Bardain was like everyone’s older brother"; "Bardain often dragged him and Lefiya into fights and messes."; "Bardain wants to be an imperial knight."
 [@so13-meren]: SO13 | Chapter 2: Nostalgic Schoolhouse | Meren, the only harbour for the 700-meder ship; Orario's part in founding the School District; Meren's shipyards built it.
 [@so13-recruiting]: SO13 | Chapter 2: Nostalgic Schoolhouse | Orario's recruiting season; recruiters; the School District's original purpose.
-[@so13-graduation]: SO13 | Chapter 2: Nostalgic Schoolhouse | No fixed graduation; the triennial return the busiest time for admissions.
+[@so13-graduation]: SO13 | Fairy Canon: 1 | No fixed graduation; the triennial return the busiest time for admissions.
 [@so13-class-names]: SO13 | Chapter 2: Nostalgic Schoolhouse | Familias called classes: "Iðunn Familia became Iðunn Class".
 [@so13-prefect]: SO13 | Chapter 2: Nostalgic Schoolhouse | "The Alchemy Department’s ace and a prefect."
 [@so13-loki-first]: SO13 | Chapter 2: Nostalgic Schoolhouse | Loki Familia's recruiters first allowed aboard.

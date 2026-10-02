@@ -93,4 +93,4 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@fc01-rumours]: FC01 | Crush the Grand Casino! | "Ganesha Familia is getting all the credit"; "envoys of justice who had returned"; "Ganesha Familia stopped their investigation".
 [@ss02-allen]: SS02 | The Night Before a Grand Casino Infiltration | "bring me an invitation to the casino!"; "he did infiltrate the casino".
 [@ss02-anna]: SS02 | | "Not he…She. The brave, dashing young woman who saved me."
-[@so13-lands]: SO13 | Chapter 2: Nostalgic Schoolhouse | "the city of pleasures, Santorio Vega".
+[@so13-lands]: SO13 | Fairy Canon: 1 | "the city of pleasures, Santorio Vega".

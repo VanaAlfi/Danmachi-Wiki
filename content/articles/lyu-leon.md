@@ -298,7 +298,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 > - A complete list of the spells Astrea Record can reproduce.[@fm18-record]
 
 [@fm01-lyu]: FM01 | Chapter 5: The G♥ddess’s Prank | Lyu at the tavern.
-[@fm02-knife]: FM02 | | The Hestia Knife returned.
+[@fm02-knife]: FM02 | Chapter 2: The Supporter’s Situation | The Hestia Knife returned.
 [@fm05-past]: FM05 | Chapter 4: Dungeon Resort? | Lyu Lyon, Gale Wind; Astrea Familia's end and her revenge.
 [@fm05-goliath]: FM05 | | The Black Goliath battle.
 [@fm06-join]: FM06 | Chapter 4: Those Who Gather | Lyu joins the War Game.
@@ -314,7 +314,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@fm18-confess]: FM18 | Chapter 9: Flower Language for You | Lyu's confession.
 [@fm18-record]: FM18 | Chapter 9: Flower Language for You | Astrea Record in battle.
 [@fm19-lyu]: FM19 | Chapter 1: V-V-V for Victory Party | Joining Hestia Familia; the registered name.
-[@fm19-rank]: FM19 | | Rank B.
+[@fm19-rank]: FM19 | Chapter 1: V-V-V for Victory Party | Rank B.
 [@fm20-lyu]: FM20 | | Lyu and Bell.
 [@fc01-name]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Printed as Lyu Leon.
 [@fc01-rescue]: FC01 | | Syr's rescue; Mia's welcome.
@@ -323,7 +323,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@fc03-magic]: FC03 | The Locus of Stars | Astrea Record; Luminous Wind.
 [@skills.fc03-cards]: FC03 | The Locus of Stars | Level 5 and 6 cards: Fairy Serenade, Mind Load, Aero Mana, Astrae Varmas.
 [@skills.ar01-sheet]: AR01 | | Illustrated character sheet, pp. 262–263 (Level 3): Fairy Serenade, Mind Load.
-[@so05-heal]: SO05 | | Noah Heal.
+[@so05-heal]: SO05 | Chapter 3: ⅓ Pure Passion | Noah Heal.
 [@ar01-lyu]: AR01 | | Lyu at fourteen.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
 [@luminous-wind.fm05-cast]: FM05 | Chapter 6: Praise to the Heroes | Version A chant in three pieces; hundreds of orbs.

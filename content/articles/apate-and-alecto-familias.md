@@ -53,7 +53,7 @@ They need regular tuning by skilled mages and hexers after every battle. Without
 
 Dina Dis is the captain and Vena Dis the vice-captain.[@ar01-alecto] They are elf twins, Dina the elder with fair skin and Vena the younger with tanned skin.[@ar03-twins] Astrea Record 1 calls them broken: they take pleasure only in their victims' suffering, and they rival Valletta in the number of adventurers and townspeople they have killed.[@ar01-alecto] They are feared for combining Dina's close-range blades, a pair of stilettos, with Vena's long-range magic, and their own subordinates know that they kill anyone who displeases them, friend or foe.[@ar01-hegni, ar03-strike] Their spells are on the Magic page: Vena's [[magic#dialv-dis|Dialv Dis]], Dina's curse [[magic#dialv-stige|Dialv Stige]], and [[magic#dialv-otua|Dialv Otua]].
 
-In Astrea Record 3 Dina's curse lets the sisters share their abilities, which brings them close to the power of two Level 6s.[@ar03-dina] At the Amphitheatrum, Hedin and Hegni secretly swap weapons. Hedin lures Vena into casting her third spell, then, with Hegni's cursed sword Victim Abyss, makes a fifty-meder thrust that pierces her magic circle and her breast, so that the spell backfires on her. Hegni, holding Hedin's rhomphaia, cuts Dina down. Vena survives the explosion only because of the Defense she took from her sister, and Hedin's lightning destroys her.[@ar03-swap, ar03-dis, ar03-vena]
+In Astrea Record 3 Dina's curse lets the sisters share their abilities, which brings them close to the power of two Level 6s.[@ar03-dina] At the Amphitheatrum, Hedin and Hegni secretly swap weapons. Hedin lures Vena into casting her third spell, then, with Hegni's cursed sword [[equipment#victim-abyss|Victim Abyss]], makes a fifty-meder thrust that pierces her magic circle and her breast, so that the spell backfires on her. Hegni, holding Hedin's rhomphaia, cuts Dina down. Vena survives the explosion only because of the Defense she took from her sister, and Hedin's lightning destroys her.[@ar03-swap, ar03-dis, ar03-vena]
 
 ## Defeat
 
@@ -64,21 +64,21 @@ Valletta's officers report that Apate Familia and Alecto Familia have both taken
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Whether the two Familias' deities appear in person, and what became of them.[@ar01-apate, ar03-report]
 
-[@ar01-alecto]: AR01 | | "There were two groups considered extreme even by the Evils’ standards"; Alecto Familia; Dina and Vena Dis, captain and vice-captain; "Broken".
-[@ar01-basram]: AR01 | | Apate Familia's forces the strongest in the Evils; "Apate’s lapdog"; the captain, vice-captain and officers already killed by Freya Familia; Basram's priest's habit.
-[@ar01-apate]: AR01 | | "Basram’s goddess, Apate. Her domain was injustice."
-[@ar01-osiris]: AR01 | | "They’re Osiris Familia!"; twelve years before; converted after Orario threw them out; drugs and curses.
+[@ar01-alecto]: AR01 | Chapter 9: The Opening Act of Evil | "There were two groups considered extreme even by the Evils’ standards"; Alecto Familia; Dina and Vena Dis, captain and vice-captain; "Broken".
+[@ar01-basram]: AR01 | Chapter 9: The Opening Act of Evil | Apate Familia's forces the strongest in the Evils; "Apate’s lapdog"; the captain, vice-captain and officers already killed by Freya Familia; Basram's priest's habit.
+[@ar01-apate]: AR01 | Chapter 11: Absolute Evil | "Basram’s goddess, Apate. Her domain was injustice."
+[@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | "They’re Osiris Familia!"; twelve years before; converted after Orario threw them out; drugs and curses.
 [@ar01-spirit]: AR01 | | Spirit infusion; daggers in their necks; no great spirits; forty-two spirits and thirty-four warriors; twelve spirit warriors at Level 5; spells without chants.
 [@ar01-hegni]: AR01 | | The Dis sisters ambush Hegni; Dina's twin stiletto daggers; Vena's magic sword; blade mastery and long-range magic.
-[@ar02-gullivers]: AR02 | | "kill us and bring to life a more powerful warrior. One who can strike down Apate Familia in our place."
+[@ar02-gullivers]: AR02 | Chapter 2: Wavering Justice | "kill us and bring to life a more powerful warrior. One who can strike down Apate Familia in our place."
 [@ar02-tuning]: AR02 | | "Two more days, and everything will be ready"; tuning by mages and hexers; body and spirit rejecting each other.
 [@ar03-strike]: AR03 | | Basram and the Amphitheatrum; Apate and Alecto as the bulk of the strike force; the Dis sisters slaughtering friend or foe.
 [@ar03-amphitheatrum]: AR03 | | Hedin's lightning strikes eight spirit warriors; Hegni slices one in half.
-[@ar03-basram]: AR03 | | Alfrik severs the arm with the staff; the final spirit dagger; Alfrik's spear through its heart; "Master Basram?! All units, retreat!!"
-[@ar03-twins]: AR03 | | "The elven twins, the elder Dina and the younger Vena"; fair and tanned skin.
-[@ar03-dina]: AR03 | | Dialv Stige mixes ability scores; "the sisters’ power level approached that of two Level 6s".
+[@ar03-basram]: AR03 | Chapter 6: The Nameless Heroes | Alfrik severs the arm with the staff; the final spirit dagger; Alfrik's spear through its heart; "M-Master Basram?! A-all units, retreat!!"
+[@ar03-twins]: AR03 | Chapter 6: The Nameless Heroes | "The elven twins, the elder Dina and the younger Vena"; fair and tanned skin.
+[@ar03-dina]: AR03 | Chapter 6: The Nameless Heroes | Dialv Stige mixes ability scores; "the sisters’ power level approached that of two Level 6s".
 [@ar03-swap]: AR03 | | Hedin holds Hegni's Victim Abyss and Hegni Hedin's rhomphaia Dizaria; the fifty-meder thrust pierces Vena's magic circle and breast; an Ignis Fatuus.
 [@ar03-dis]: AR03 | Chapter 6: The Nameless Heroes | Hegni's blade cuts Dina from shoulder to hip; Vena escaped death "due to her stolen defense".
 [@ar03-vena]: AR03 | Chapter 6: The Nameless Heroes | Hedin's lightning; "there was nothing left of Vena".
-[@ar03-report]: AR03 | | "Apate and Alecto have both taken heavy damage from Freya Familia!"; the Dis sisters and Basram killed.
-[@ar03-finn]: AR03 | | The survivors heading south; the ambush on the brothel roof; "He’s wiped out both Apate’s and Alecto’s forces!"
+[@ar03-report]: AR03 | Chapter 7: What She Wished For | "Apate and Alecto have both taken heavy damage from Freya Familia!"; the Dis sisters and Basram killed.
+[@ar03-finn]: AR03 | Chapter 7: What She Wished For | The survivors heading south; the ambush on the brothel roof; "He’s wiped out both Apate’s and Alecto’s forces!"

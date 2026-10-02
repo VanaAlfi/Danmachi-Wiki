@@ -48,7 +48,7 @@ Welf received his first [[falna|Falna]] from the goddess Phobos on his tenth bir
 | DanMachi 6 | Reaches Level 2, gains Forge and becomes a High Smith; he leaves Hephaistos Familia, converts to Hestia Familia and forges magic swords for the [[war-game|War Game]].[@fm06-level2] |
 | DanMachi 8 | His father and grandfather come from Rakia to take him back. His magic sword destroys the family's old one, he rejects Rakia, and he confesses his feelings to [[hephaistos|Hephaistos]].[@fm08-wil, fm08-hephaistos] |
 | DanMachi 12 | Receives the title *Ignis, the Ever Burning*.[@fm12-ignis] |
-| DanMachi 14 | On Floor 26 he forges Shikou Kazuki, a magic sword that uses its wielder's own magic instead of a stored charge.[@fm14-shikou] |
+| DanMachi 14 | On Floor 26 he forges [[equipment#shikou-kazuki|Shikou Kazuki]], a magic sword that uses its wielder's own magic instead of a stored charge.[@fm14-shikou] |
 | DanMachi 15 | Hephaistos judges Shikou Kazuki; he gains the Skill Veritas Burn.[@fm15-judged, fm15-card] |
 
 ## Abilities
@@ -140,15 +140,15 @@ DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visit
 [@fm06-level2]: FM06 | | Level 2, High Smith; conversion.
 [@fm08-wil]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Wil Crozzo, head of the fallen Crozzo family of Rakia.
 [@fm08-hephaistos]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | The promise to Hephaistos.
-[@fm12-ignis]: FM12 | | "Ignis, the Ever Burning."
+[@fm12-ignis]: FM12 | Chapter 1: Rabbit Close-Up | "Ignis, the Ever Burning."
 [@fm14-shikou]: FM14 | Chapter 8: The Voice of the Hammer | Shikou Kazuki.
 [@fm15-phobos]: FM15 | Chapter 5: Blue Flame | Phobos; Vil Crozzo.
 [@fm15-blood]: FM15 | Chapter 5: Blue Flame | First Falna; Blood of Crozzo.
 [@fm15-zolingam]: FM15 | Chapter 5: Blue Flame | "a redheaded boy"; "work for room and board"; "I reckon it’s a fake"; "They were in Zolingam, city of sword smiths."; "Hey, Chief—that boy, would you let me have him?"; "Well, then, Welf, would you like to join my familia?"
 [@fm15-judged]: FM15 | Interlude: That Never-Cooling Iron | Hephaistos judges Shikou Kazuki.
-[@fm15-card]: FM15 | | Welf's Level 2 card; Blacksmith; Veritas Burn.
+[@fm15-card]: FM15 | Interlude: That Never-Cooling Iron | Welf's Level 2 card; Blacksmith; Veritas Burn.
 [@fm18-stone]: FM18 | Chapter 8: The Great Familia War | "A stepping stone."
-[@so05-blood]: SO05 | | The first Crozzo's spirit blood; Welf's rejection of the legacy.
+[@so05-blood]: SO05 | Interlude: Flip Side of the Compromise | The first Crozzo's spirit blood; Welf's rejection of the legacy.
 [@will-o-the-wisp.fm05-first]: FM05 | Chapter 2: How Many Meders to a Safe Return? | First use on hellhounds; chant and spell name; "anti-magic Magic".
 [@will-o-the-wisp.fm05-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Mechanism; timing; very short spell needing preparation; earlier test.
 [@will-o-the-wisp.fm05-ja-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Japanese original (file part0013, paragraphs 497 and 499): Welf asked the guys of the same Familia, plural, and says they too knew the risk. Yen Press prints "one of the guys in my Familia".

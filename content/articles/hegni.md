@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Dark-elf swordsman of Freya Familia, titled Dáinsleif; a former king of Heodenings whose magic turns his timid self into a fierce warrior.",
-  "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord"],
+  "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord", "black and white knights", "white and black knights"],
   "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {
@@ -26,7 +26,7 @@
   }
 }
 ---
-**Hegni Ragnar** is a dark-elf swordsman of [[freya-familia|Freya Familia]], titled *Dáinsleif*. He is usually paired with the white elf [[hedin|Hedin Selrand]], though they are not related.[@fc02-pair, ar01-hegni] The gods also call him the "Sick Edge Lord".[@fm16-hegni]
+**Hegni Ragnar** is a dark-elf swordsman of [[freya-familia|Freya Familia]], titled *Dáinsleif*. He is usually paired with the white elf [[hedin|Hedin Selrand]], though they are not related.[@fc02-pair, ar01-hegni] Together they are known as "the black and white knights"; DanMachi 18 also prints "the white and black knights".[@fc02-knights, so12-knights, fm18-knights] The gods also call him the "Sick Edge Lord".[@fm16-hegni]
 
 ## Heodenings
 
@@ -35,7 +35,7 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 ## Abilities
 
 - His magic, also called [[#dainsleif|Dáinsleif]], changes his personality: it lets the timid, nervous elf become the warrior he imagines himself to be.[@fc02-magic] Minor Myths and Legends 2 treats this battle persona as a changed expression of the same person, not a separate one.[@ss02-hegni]
-- His curse sword **Victim Abyss** reaches beyond its visible tip and is made to fight swordsmen at the front line.[@fm16-sword] Wounds from it take time to heal.[@fm17-cuts]
+- His curse sword **[[equipment#victim-abyss|Victim Abyss]]** reaches beyond its visible tip and is made to fight swordsmen at the front line.[@fm16-sword] Wounds from it take time to heal.[@fm17-cuts]
 
 ## Magic {#magic}
 
@@ -147,3 +147,6 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 [@dainsleif.ss02-core]: SS02 | | Still the same person; the alter ego's name; mixed thoughts.
 [@burn-dain.fc02-ottar]: FC02 | The Origin of the Strongest | The chant; a super-short cast; "a short-range explosive fire spell"; against Ottar.
 [@burn-dain.fm18-allen]: FM18 | Chapter 9: Flower Language for You | The hidden chant; "Burn Dáin!"; Allen blown away at super-close range.
+[@fc02-knights]: FC02 | Ali and the 8 Followers | "Together, they were known as the black and white knights."
+[@so12-knights]: SO12 | Chapter 7: Final War II | "The black and white knights."
+[@fm18-knights]: FM18 | Chapter 9: Flower Language for You | "both kings died—and the white and black knights were born"; also "the black and white knights".

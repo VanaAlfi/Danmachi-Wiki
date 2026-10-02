@@ -79,14 +79,14 @@ A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozu
 [@so13-past]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | Zeus and Hera's Level 8 and Level 9.
 [@so14-highest]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7 as the highest rank; the "Level Six" line.
 [@fm03-feat]: FM03 | | A great feat and high-quality excelia.
-[@fm03-d]: FM03 | | "All their basic stats are above D."
+[@fm03-d]: FM03 | Chapter 4: The Meaning of Adventure | "All their basic stats are above D."
 [@fm03-ja-d]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c2VG, paragraph 226): an ability evaluation of the sixth stage or higher, reaching D, is what first gives the qualification to rank up; there is no word for "all", and the number of abilities is not stated. Yen Press prints "All their basic stats are above D."
 [@fm03-bell]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
 [@fm04-hidden]: FM04 | | Values reset; hidden parameter.
 [@fm04-choice]: FM04 | | One Development Ability per Level Up.
 [@fm08-aging]: FM08 | | Higher Levels slow aging.
 [@fm10-upper]: FM10 | Chapter 9: Dreams of Beasts | Zanis as a Level 2 upper-class adventurer.
-[@fm15-rank]: FM15 | | "At least one ability to the sixth rank."
+[@fm15-rank]: FM15 | Interlude: Does Cinderella Dream of Happiness? | "At least one ability to the sixth rank."
 [@fm15-haruhime]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Haruhime's promotion held back.
 [@fm17-second]: FM17 | Chapter 5: The End of Her World | Bell as a second-tier adventurer.
 [@fm18-double]: FM18 | Chapter 9: Flower Language for You | The consecutive Level-up.

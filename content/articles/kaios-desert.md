@@ -67,5 +67,5 @@ Bofman Fazoul tells Freya that the whole Kaios region accepts slavery, unlike [[
 [@ss02-kavir]: SS02 | Mirage in a Sea of Sand | "The harsh desert environment of Kaios is famous for producing many second-tier adventurers called kavir. Even Aisha Belka of the Berbera found her start among these dunes."
 [@fm07-designs]: FM07 | Chapter 2: Run, Cranell | "Cultural designs of the Kaios Desert, architecture from the Dizara Region…"
 [@so08-building]: SO08 | Chapter 1: Lonely Wolf | "a building situated right next to one of the city walls to the southeastern corner of Orario’s already southeastern-most third district"; "a four-story abode that drew heavily from the culture and architecture of the Kaios Desert of the middle continent".
-[@so13-dream]: SO13 | Chapter 2: Nostalgic Schoolhouse | "a sea of sand called the Kaios Desert".
+[@so13-dream]: SO13 | Fairy Canon: 1 | "a sea of sand called the Kaios Desert".
 [@so13-students]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Students who made up their minds could choose at any point to disembark from the ship and leave as a graduate."; "the sea nation, Dizara; the Kaios Desert…and countless other countries and regions"; "Hearing stories about my roommate from the Empire to the Kaios Desert!"

@@ -7,6 +7,9 @@
   "continuity": "light-novel",
   "summary": "The god Ikelos's Familia of monster hunters and smugglers, led in the field by Dix Perdix. From a base inside Knossos it captures and sells Xenos until DanMachi 10, when it is wiped out, Dix is killed and Ikelos is exiled from Orario.",
   "aliases": ["Dix", "Dix Perdix", "Hazer", "Gran"],
+  "sections": [
+    {"anchor": "dix-perdix", "title": "Dix Perdix", "summary": "Goggle-wearing leader of Ikelos Familia's hunters, addressed as Hazer; Barca Perdix's half-brother, killed in DanMachi 10.", "aliases": ["Dix", "Hazer"]}
+  ],
   "spoilers": "DanMachi Vols. 9 and 10 and Sword Oratoria Vols. 7 and 11",
   "related": ["ikelos", "xenos", "knossos", "hermes", "asterios", "wiene", "magic"],
   "infobox": {

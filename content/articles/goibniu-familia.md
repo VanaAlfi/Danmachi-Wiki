@@ -39,7 +39,7 @@
 | Desperate | Aiz's saber, a Superior weapon made by the Familia's High Smiths and a Durandal that never breaks, though it needs sharpening.[@so01-desperate, so01-goibniu] |
 | Sword Air | Aiz's first trusted sword, a custom-made [[metals#damascus|Damascus]] blade presented by Goibniu in Sword Oratoria 9's recollections.[@so09-sword-air, so09-damascus] |
 | [[urga|Urga]] | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of [[metals#adamantite|adamantite]].[@so01-workshop] |
-| The Fortia Spear | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
+| The [[equipment#fortia-spear|Fortia Spear]] | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
 | Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item [[udaeus|Udaeus]] Black Sword.[@fc02-ottar] |
 | Other orders | Lilly's wrist crossbow, made for prums; Mikoto's pair of black and white short swords, bought by [[takemikazuchi|Takemikazuchi]]; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
 | Building | Renovating Hestia Familia's new home, [[hearthstone-manor|Hearthstone Manor]], in four days: "that’s Goibniu Familia for you—fast and efficient."[@fm07-renovation, fm07-fast] |
@@ -68,6 +68,6 @@
 [@so12-smiths]: SO12 | Chapter 7: Final War II | "Judging it the right thing to do, the smiths of Goibniu Familia"; "were calling out to the adventurers, bringing weapons to those who were on the front lines."; "top-tier gear made by Goibniu Familia".
 [@ss01-finn]: SS01 | | The Fortia Spear restored; the prum girl's crossbow order; Finn's leftover material.
 [@fc02-ottar]: FC02 | The Origin of the Strongest | The custom sword from Goibniu Familia; Udaeus Black Sword.
-[@ar01-hephaistos]: AR01 | | "Now, what about you, Goibniu?"; his home in the northwest of town.
+[@ar01-hephaistos]: AR01 | Chapter 9: The Opening Act of Evil | "Now, what about you, Goibniu?"; his home in the northwest of town.
 [@ar03-captain]: AR03 | Prologue: Last Intermission | "Made from a branch of the holy tree, just as you requested,"; "replied the forgemaster, captain of Goibniu Familia"; "It works perfectly as a sword, of course, but you can also use it like a staff to amplify the power of your magic."
 [@ar03-lyu]: AR03 | | The wooden sword from a branch of the holy tree; the captain of Goibniu Familia; Goibniu as substitute mage; a rush job.

@@ -57,7 +57,7 @@ At DanMachi 4's [[denatus|Denatus]], when the gods start naming Mikoto, he jumps
 
 In DanMachi 6 Mikoto bows to the floor and asks to go and help [[bell-cranell|Bell]] in the [[war-game|War Game]]. He had come to the same conclusion: "One year…Such a long time." He tells her to learn from Hestia's followers and "come back stronger than ever", and she converts to [[hestia-familia|Hestia Familia]] for a year.[@fm06-conversion] He watches the War Game from his home.[@fm06-watch]
 
-In DanMachi 8 he refuses the money Mikoto brings for the shrine and tells her to spend it on her party.[@fm08-money] After her outburst at his behaviour with women, it is he who suggests a going-away party for her. There he gives her the dagger Chizan, the female of a pair, and keeps the male, Tenka: "And the other one shall be yours on the day you come back to us."[@fm08-gift, fm08-chizan] He carries Tenka when he trains her in DanMachi 12.[@fm12-training]
+In DanMachi 8 he refuses the money Mikoto brings for the shrine and tells her to spend it on her party.[@fm08-money] After her outburst at his behaviour with women, it is he who suggests a going-away party for her. There he gives her the dagger [[equipment#tenka-and-chizan|Chizan]], the female of a pair, and keeps the male, Tenka: "And the other one shall be yours on the day you come back to us."[@fm08-gift, fm08-chizan] He carries Tenka when he trains her in DanMachi 12.[@fm12-training]
 
 ## Other appearances
 

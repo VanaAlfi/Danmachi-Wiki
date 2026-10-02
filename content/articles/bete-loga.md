@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Animal-person fighter of Loki Familia from the Beastmen of the Plains, formerly captain of Víðarr Familia; Level 6 from Sword Oratoria 6.",
-  "aliases": ["Bete", "Fenris", "Vanargand"],
+  "aliases": ["Bete", "Fenris", "Vanargand", "Selenia"],
   "spoilers": "DanMachi Vols. 1, 10, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13 and Minor Myths and Legends Vol. 2",
   "related": ["aiz-wallenstein", "haruhime", "tsubaki", "bell-cranell", "horn", "magic"],
   "infobox": {
@@ -31,7 +31,7 @@
 
 ## Past
 
-A dragon destroyed Bete's tribe on the plains: his parents and sister were killed.[@so08-plains] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove]
+A dragon destroyed Bete's tribe on the plains: his parents and sister were killed.[@so08-plains] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), Selenia, bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
 
 Sword Oratoria 8 presents his contempt for weakness as a response to these losses.[@so08-hati]
 
@@ -41,7 +41,7 @@ The young Amazon [[lena-tully|Lena Tully]], formerly of [[ishtar-familia|Ishtar 
 
 ## Abilities
 
-- **[[#hati|Hati]]** is his own magic, which he long refused to use. It drains damage, growing stronger the more he is hurt. His boots Frosvirt, made for him by [[tsubaki|Tsubaki]], are a weaker version of it.[@so08-hati]
+- **[[#hati|Hati]]** is his own magic, which he long refused to use. It drains damage, growing stronger the more he is hurt. His boots [[equipment#frosvirt|Frosvirt]], made for him by [[tsubaki|Tsubaki]], are a weaker version of it.[@so08-hati]
 - **[[skills#solmani|Solmani]]** is a powerful, rare Skill that raises his strength and agility as he accelerates.[@skills.so10-solmani]
 - His Sword Oratoria 5 Status sheet also lists **[[skills#ulfhedinn|Úlfheðinn]]**, which in moonlight transforms him into a werewolf, greatly raises all his abilities and neutralises abnormal statuses, and **[[skills#fenris-wolf|Fenris Wolf]]**, which raises his running speed.[@skills.so05-sheet]
 
@@ -127,6 +127,9 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@fm10-vanargand]: FM10 | Chapter 9: Dreams of Beasts | "“Vanargand” Bete Loga."
 [@so12-vanargand]: SO12 | Chapter 8: A Heroes’ Chorus | "Vanargand Bete Loga."
 [@so08-vidarr]: SO08 | Chapter 2: Did Someone Order a Wolf? | Víðarr Familia; Fenris; the vice-captain.
+[@so08-father]: SO08 | Chapter 1: Lonely Wolf | "Bete’s father had always heeded the teachings of his ancestors"; "young Bete revered them all, from his tradition-honoring father"; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home."
+[@ar01-selenia]: AR01 | Chapter 9: The Opening Act of Evil | "I’m with Vidar Familia! My name’s Selenia, and I’m bringing these civilians to safety!"
+[@ar03-selenia]: AR03 | Chapter 5: Playing the Violence Card | "Ignoring Selenia’s cries, the gray wolf allowed the beat of the boar man’s war drums to flow through him".
 [@so08-drove]: SO08 | Chapter 3: Unshed Tears | Driving his former comrades away.
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Hati; Frosvirt; Valletta; the reconciliation.
 [@leene.so08-death]: SO08 | Prologue: Scorn of the Strong | Leene Arshe dying in Knossos; Bete's words; her peaceful smile.

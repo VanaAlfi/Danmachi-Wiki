@@ -95,4 +95,4 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@fm19-arm]: FM19 | Chapter 1: V-V-V for Victory Party | A new airgetlám from the reward; not the old loans; "I even reached Level Three".
 [@ar01-slane]: AR01 | Chapter 9: The Opening Act of Evil | "I’m heading onto the battlefield to serve as Miach’s escort"; "In her other, she held her weapon, a bow."; "It was a chienthrope from Miach Familia called Nahza Ersuisu."; "Come, Slane, my captain. Let’s go."
 [@ss01-charm]: SS01 | | Episode Miach: the blue flower; "For a god, you can be really dense sometimes."
-[@ss01-home]: SS01 | | Episode Miach: "a group dedicated to brewing and selling potions and other healing items"; the house off West Main Street.
+[@ss01-home]: SS01 | | Familia Panacea: "a group dedicated to brewing and selling potions and other healing items"; the house off West Main Street.

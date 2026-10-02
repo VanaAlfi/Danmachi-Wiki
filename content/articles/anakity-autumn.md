@@ -54,7 +54,7 @@ In Sword Oratoria 10 Anakity sees through Lilly's disguise, and Finn changes his
 
 When Finn tells the Familia in Sword Oratoria 11 that he trusts the [[xenos|Xenos]], Anakity asks whether he still does, given that some members have had friends, family or lovers killed by monsters. He says he does. She studies him, then says "Then I have nothing else to say" and sits down. Because she has agreed, the other members accept his decision.[@so11-xenos] The narration says only she could have won them over, as the head of the second-string forces; she respects the leaders but would defy them if their actions were illogical.[@so11-xenos]
 
-[@ar02-anakitty]: AR02 | | "Her name was Anakitty Autumn, a fourteen-year-old who joined the familia about the same time Raul did."; helping an old woman to safety.
+[@ar02-anakitty]: AR02 | Chapter 2: Wavering Justice | "Her name was Anakitty Autumn, a fourteen-year-old who joined the familia about the same time Raul did."; helping an old woman to safety.
 [@ar02-bridge]: AR02 | Chapter 4: Those Who Struggle | Raul and Anakitty at the bridge; Goibniu: "Take care of these interlopers."
 [@so04-aki]: SO04 | Last Chapter: To Adventure | "Anakity Autumn"; Level 4, second-tier, like Raul; "Aki" because her name is hard to pronounce; shoulder-length black hair, black ears and tail; scouted by Loki; leads the party remaining in the camp.
 [@so04-tail]: SO04 | First Chapter: And the Boy… | "The cat girl in black—Aki"; her black tail the same colour as her waist-length hair.

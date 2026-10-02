@@ -91,13 +91,13 @@ Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-
 [@fm07-fine]: FM07 | Epilogue: If Surrounded by Kindness… | The Guild fine.
 [@fm11-asterios]: FM11 | | The rematch with Asterios.
 [@fm16-horn]: FM16 | Chapter 6: The Wish’s Cost | The exchange of names; Hörn's magic.
-[@fm16-odr]: FM16 | | Syr defines an Odr.
+[@fm16-odr]: FM16 | Chapter 5: The Proof of ( ) | Syr defines an Odr.
 [@fm16-rejected]: FM16 | Epilogue: “Alea Iacta Est” II | After the rejection.
 [@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of the Syr persona and of attending Denatus.
 [@fm17-seizure]: FM17 | Chapter 1: The Opening of Hostilities | The conversion demand and the charm over the city.
 [@fm17-charm]: FM17 | | Reach of the charm.
 [@fm17-horn]: FM17 | | Hörn exposes Freya's plea to be saved.
-[@fm17-authority]: FM17 | | Beauty as divine authority, not Arcanum.
+[@fm17-authority]: FM17 | Chapter 2: Alone Inside a Sandbox | Beauty as divine authority, not Arcanum.
 [@fm17-hearth]: FM17 | Chapter 5: The End of Her World | Virgin goddesses as a check on beauty; Hestia purges the charm.
 [@fm17-love]: FM17 | Chapter 5: The End of Her World | "I fell in love with your soul at first sight."
 [@fm17-wager]: FM17 | Chapter 5: The End of Her World | The Familia War declared.
@@ -113,7 +113,7 @@ Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-
 [@so09-tammuz]: SO09 | Chapter 2: A Brief Calm | Tammuz sheltered.
 [@so10-orb]: SO10 | Interlude: A Private Conversation Between Gods | The Orb given to Hermes.
 [@fc01-lyu]: FC01 | | Freya finds and nurses Lyu.
-[@fc01-alias]: FC01 | | The Maximilian alias.
+[@fc01-alias]: FC01 | Crush the Grand Casino! | The Maximilian alias.
 [@fc01-casino]: FC01 | Crush the Grand Casino! | The poker game.
 [@fc02-ali]: FC02 | Ali and the 8 Followers | Ali/King Aram.
 [@fc02-origin]: FC02 | The Origin of the Strongest | Ottar.

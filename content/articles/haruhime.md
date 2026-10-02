@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Renart sorceress from the Far East, formerly held by Ishtar Familia, who joins Hestia Familia in DanMachi 7. Her magic Uchide no Kozuchi raises others by a Level.",
-  "aliases": ["Sanjyouno Haruhime", "Haruhime Sanjouno", "Sanjouno Haruhime"],
+  "aliases": ["Sanjyouno Haruhime", "Haruhime Sanjouno", "Sanjouno Haruhime", "Rikkou Kinshu"],
   "spoilers": "DanMachi Vols. 7–20 and Sword Oratoria Vols. 6 and 12",
   "related": ["hestia-familia", "bell-cranell", "level", "hestia", "magic"],
   "infobox": {
@@ -19,6 +19,7 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Ishtar Familia; [[hestia-familia|Hestia Familia]] from DanMachi 7", "refs": ["fm07-history", "fm07-join"]},
       {"label": "Level", "value": "1; 2 by DanMachi 18", "refs": ["fm08-party", "fm18-level2"]},
+      {"label": "Title", "value": "Rikkou Kinshu, from DanMachi 20", "refs": ["fm20-title"]},
       {"label": "Magic", "value": "[[#uchide-no-kozuchi|Uchide no Kozuchi]], [[#kokonoe|Kokonoe]]", "refs": ["fm07-history", "fm12-kokonoe", "fm15-card"]},
       {"label": "Skill", "value": "[[skills#mikuzume-no-hou|Mikuzume no Hou]]", "refs": ["fm15-card"]}
     ]
@@ -41,7 +42,7 @@ Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with
 
 She joins Bell's party as a supporter and sorceress, and in DanMachi 8 secretly boosts Mikoto during the fight with the [[goliath|Goliath]].[@fm08-party] In DanMachi 9 she becomes the closest carer, after Bell, of the [[xenos|Xenos]] girl [[wiene|Wiene]], and she embraces Wiene again when they are reunited.[@fm09-wiene, fm11-wiene]
 
-In DanMachi 15 her Status qualifies her for Level 2, but Hestia holds the promotion back on [[aisha-belka|Aisha]]'s advice, without telling her.[@fm15-held] She has levelled up by the Familia War of DanMachi 18.[@fm18-level2] In DanMachi 20 the former [[freya-familia|Freya Familia]] members stand guard around [[hearthstone-manor|Hearthstone Manor]] to protect her and [[lyu-leon|Lyu]].[@fm20-guards]
+In DanMachi 15 her Status qualifies her for Level 2, but Hestia holds the promotion back on [[aisha-belka|Aisha]]'s advice, without telling her.[@fm15-held] She has levelled up by the Familia War of DanMachi 18.[@fm18-level2] At the Denatus of DanMachi 20 the gods name her *Rikkou Kinshu* ("She’s only Level Two, but that’s some final boss energy") and [[lilliluka-erde|Lilly]] *Little Marshal*; with help from Hephaistos, Miach and Takemikazuchi, Hestia shuts down the other gods' joke names and wins "inoffensive names for the two of them".[@fm20-title] In DanMachi 20 the former [[freya-familia|Freya Familia]] members stand guard around [[hearthstone-manor|Hearthstone Manor]] to protect her and [[lyu-leon|Lyu]].[@fm20-guards]
 
 ## Magic
 
@@ -198,7 +199,7 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@fm11-wiene]: FM11 | Chapter 5: Ultra Soul! | Reunion with Wiene.
 [@fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe; nine tails possible, five usable.
 [@fm14-interval]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Recast interval.
-[@fm15-name]: FM15 | | Printed as "Haruhime Sanjouno".
+[@fm15-name]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Printed as "Haruhime Sanjouno".
 [@fm15-card]: FM15 | | Haruhime's Level 1 card: Magic and Skill.
 [@fm15-held]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Promotion held back.
 [@fm18-level2]: FM18 | Chapter 8: The Great Familia War | Level 2; six tails.
@@ -207,10 +208,10 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@so06-caster]: SO06 | | The veiled caster; Phryne boosted.
 [@so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.
 [@uchide-no-kozuchi.so06-phryne]: SO06 | | Phryne raised to Level-6 combat power; spell unnamed.
-[@uchide-no-kozuchi.fm07-named]: FM07 | | Spell named; Aisha and Bell boosted.
+[@uchide-no-kozuchi.fm07-named]: FM07 | Chapter 6: Yearning of a Hero | Spell named; Aisha and Bell boosted.
 [@uchide-no-kozuchi.fm07-chant]: FM07 | Chapter 6: Yearning of a Hero | Full chant with "Grow"; hammer of light; the boost persists until it expires or she ends it.
 [@uchide-no-kozuchi.fm09-duration]: FM09 | Chapter 5: Heretics | Fifteen-minute duration with sufficient Mind.
-[@uchide-no-kozuchi.fm11-rescue]: FM11 | | Bell's rescue sprint; about ten minutes before another boost.
+[@uchide-no-kozuchi.fm11-rescue]: FM11 | Chapter 5: Ultra Soul! | Bell's rescue sprint; about ten minutes before another boost.
 [@uchide-no-kozuchi.fm11-hammer]: FM11 | Chapter 5: Ultra Soul! | "—Grow."; no magic circle; hammer of light falls on Aisha.
 [@uchide-no-kozuchi.fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe's tails.
 [@uchide-no-kozuchi.fm14-boost]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "level boost" in lower case; "Grow. Uchide no Kozuchi!"
@@ -224,8 +225,9 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@kokonoe.fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe; nine tails possible, five usable.
 [@kokonoe.fm12-chant]: FM12 | Chapter 6: The Hero’s Sacred Flame | From the grimoire; name first; full chant; "Concatenated Casting"; "Dance!"
 [@kokonoe.fm14-name]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Kokonoe!"
-[@kokonoe.fm13-two]: FM13 | | Two boosts in the lambton battle.
+[@kokonoe.fm13-two]: FM13 | Chapter 4: Countdown | Two boosts in the lambton battle.
 [@kokonoe.fm15-card]: FM15 | | Haruhime's Level 1 card.
 [@kokonoe.fm18-six]: FM18 | Chapter 8: The Great Familia War | Six tails; Mind cost per tail.
 [@kokonoe.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Full chant in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
 [@kokonoe.so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.
+[@fm20-title]: FM20 | Chapter 1: Orario Rumble | "And Haruhime will be Rikkou Kinshu!"; Lilly "the Little Marshal"; Hestia wins "inoffensive names for the two of them".

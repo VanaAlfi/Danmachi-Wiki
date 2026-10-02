@@ -264,7 +264,7 @@ A **cow** is named once, among Nina's School District friends in DanMachi 19: "a
 - **Kinds:** "Just like animal people", fairies are "classified by their element and place of origin": salamanders, sylphs, undines, gnomes and others.[@fm05-elements] The demi-spirits' chants call on Tonitrus, "Incarnate of thunder", and on Lux, Shade and Undine.[@so04-chants, so12-chants]
 - **Rank:** there are many lesser spirits such as gnomes in Orario; intermediate spirits have dwindled, and great spirits are now the stuff of legend.[@fc03-spirits]
 - **Gnomes:** spirits of the earth, who love jewels and rare metals and live in mines. Gnomes get on well in human society, and some run safe points for valuables.[@fm04-fairies, so14-gnomes, so12-gnomes]
-- **Spirit cloths:** salamander wool resists fire and undine cloth resists water; Gareth carries gnome toga and Tonitrus mohair flags.[@fm05-elements, so12-cloth]
+- **Spirit cloths:** [[equipment#salamander-wool|salamander wool]] resists fire and [[equipment#undine-cloth|undine cloth]] resists water; Gareth carries gnome toga and Tonitrus mohair flags.[@fm05-elements, so12-cloth]
 - **No children:** spirits cannot have offspring.[@fm08-children, so05-children] Even so, [[welf-crozzo|Welf]]'s Crozzo line traces its magic swords to a fairy's blood given to its Ancestor (see [[magic-sword|Magic sword]]).[@fm04-fairies]
 
 ### Creatures {#creature}

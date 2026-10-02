@@ -10,7 +10,8 @@
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
   "sections": [
-    {"anchor": "ranieh", "title": "Ranieh", "summary": "An arachne Xenos who distrusted surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushed her own magic stone rather than be abused, and her acid led the Xenos to one of the hunters.", "aliases": []}
+    {"anchor": "ranieh", "title": "Ranieh", "summary": "An arachne Xenos who distrusted surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushed her own magic stone rather than be abused, and her acid led the Xenos to one of the hunters.", "aliases": ["Ranye"]},
+    {"anchor": "fia", "title": "Fia", "summary": "A red-haired harpy Xenos, more curious about the surface than any of the others; captured with Wiene by Ikelos Familia's hunters in DanMachi 10 and freed in Knossos.", "aliases": ["Fear"]}
   ],
   "infobox": {
     "title": "Xenos",
@@ -43,7 +44,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[gros|Gros]] | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
 | [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
-| Fia | A red-haired [[monsters#harpy|harpy]], more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
+| [[#fia|Fia]] | A red-haired [[monsters#harpy|harpy]], more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
 | Lett | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 | [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
 | [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; killed by Ikelos Familia's hunters in DanMachi 10.[@fm10-ranieh, fm10-death] |
@@ -55,6 +56,10 @@ Ranieh is an arachne: she has the upper body of a woman and the many legs of a s
 In DanMachi 10 Ranieh leads a party of six, among them Wiene and the harpy Fia, through the Dungeon.[@fm10-ranieh] When Wiene hears cries for help, Ranieh leads them to a crucified [[monsters#siren|siren]]. She ignores [[gros|Gros]], who warns her through a paired crystal that it may be a trap, and the party is ambushed by [[ikelos-familia|Ikelos Familia]]'s hunters.[@fm10-trap] With both arms and all her legs broken, she is captured. When the hunters move to abuse her, she spits acid onto three of them, and as they stab her she tears out her own magic stone and crushes it, crying "I’d never let you have it!!"[@fm10-death]
 
 Gros, who saw her death through the crystal, calls on the Xenos to avenge "Ranieh, Orde, Cliff, and Foh".[@fm10-revenge] One of the hunters she burned takes refuge in [[rivira|Rivira]], and the smell of her acid leads the Xenos there; the narration says "That was her goal all along."[@fm10-acid] Minor Myths and Legends 1 shows her earlier in the Hidden Village on the twentieth floor, offering to teach the newly arrived, weeping Wiene "how things work around here", to Lido's alarm.[@ss01-ranieh]
+
+## Fia {#fia}
+
+Fia is a [[monsters#harpy|harpy]] with "deep-red hair flowing past her shoulders", who seems about the same age as [[wiene|Wiene]]; on the journey in DanMachi 10 she walks beside the newcomer to reassure her.[@fm10-fia2] She is "much more interested in the surface and its inhabitants than anyone else", always with a question to ask.[@fm10-fia] Captured with Wiene when Ranieh's band is ambushed, she is found in the first cage of the hunters' hold and left in Lett's care.[@fm10-captured, fm10-cages] In DanMachi 11 she falls from the sky during the flight and Lett goes after her; the separated Xenos later find Bell's group by following Haruhime's magical light.[@fm11-separated, fm11-reunion] In DanMachi 14, hooded among Lett's group, she "smiled brightly at the teary-eyed Lilly".[@fm14-lett]
 
 ## History
 
@@ -77,11 +82,11 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm09-xenos]: FM09 | | About forty intelligent monsters; their nature and hopes.
 [@fm09-ouranos]: FM09 | | Ouranos and Fels's secret network.
 [@fm09-reborn]: FM09 | | Dreams of past lives; the rebirth theory; magic stones.
-[@fm09-village]: FM09 | | The Floor 20 Hidden Village.
+[@fm09-village]: FM09 | Chapter 5: Heretics | The Floor 20 Hidden Village.
 [@fm09-lido]: FM09 | | Lido.
 [@fm09-wiene]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hestia names Wiene.
 [@fm09-bell]: FM09 | | Bell welcomed into the Hidden Village.
-[@fm09-ikelos]: FM09 | | Ikelos Familia's hunters.
+[@fm09-ikelos]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Ikelos Familia's hunters.
 [@fm10-freed]: FM10 | Chapter 9: Dreams of Beasts | The prison in Knossos.
 [@fm10-reputation]: FM10 | | Bell's reputation.
 [@fm11-gros]: FM11 | | Gros and Hermes's plan.
@@ -90,7 +95,7 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm11-cover]: FM11 | | The false extermination story; secrecy.
 [@fm12-fels]: FM12 | Chapter 1: Rabbit Close-Up | Fels on the future.
 [@fm14-rescue]: FM14 | Chapter 8: The Voice of the Hammer | Ouranos's mission for the Xenos.
-[@so10-gros]: SO10 | | Gros spares Bell; Rei shields Alicia.
+[@so10-gros]: SO10 | Chapter 6: The Hero’s Self-Denial | Gros spares Bell; Rei shields Alicia.
 [@so10-compact]: SO10 | | The Loki–Ouranos compact; Finn's limited alliance.
 [@fm09-lett]: FM09 | Chapter 5: Heretics | "Lett and his team started observing you upstairs, on the nineteenth floor."
 [@fm10-ranieh]: FM10 | Chapter 7: The King of Atrocity | "an arachne, a harpy, a formoire, a hippogriff, a war shadow"; "Her name was Ranieh."; "an arachne Xenos"; "arachnes typically had compound eyes"; "better command of the language spoken by people than most Xenos".
@@ -103,5 +108,7 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm10-fia]: FM10 | Chapter 7: The King of Atrocity | "The harpy named Fia"; "deep-red hair"; "much more interested in the surface and its inhabitants than anyone else".
 [@fm10-captured]: FM10 | Chapter 7: The King of Atrocity | "Ranieh’s band has been slaughtered; Wiene and Fia, captured."
 [@fm10-cages]: FM10 | Chapter 9: Dreams of Beasts | "The harpy Fia was in the first cage in the row"; "Lido left Fia in Lett’s care".
+[@fm10-fia2]: FM10 | Chapter 7: The King of Atrocity | "came to walk beside her to reassure her"; "Fia seemed about the same age as their new companion, with deep-red hair flowing past her shoulders".
+[@fm11-reunion]: FM11 | Chapter 5: Ultra Soul! | "There they stand, Lett the red-cap next to Fia the harpy."; "they saw Haruhime’s magical light".
 [@fm11-separated]: FM11 | | Rei: "Fia was with us, but when things got too intense, she fell from the sky…and Lett went after her"; "red-cap goblin, harpy".
 [@fm14-lett]: FM14 | Chapter 8: The Voice of the Hammer | "the harpy Fia"; "Lett, the gentlemanly red-cap goblin"; "a battle-ax far too large for its size"; "Rei had taken charge of the group that remained in Knossos"; "We made a pledge to Mr. Bell!"

@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Elf mage and archer of Loki Familia from the north of the continent, a Level 4 veteran and second-in-command of Riveria's elf squad. Hail Dust is her ice spell. In Sword Oratoria 10 the Xenos siren Rei shields her from Levis's blade, which shatters her belief that monsters are absolute evil.",
-  "aliases": ["Alicia"],
+  "aliases": ["Alicia", "Elleaf"],
   "spoilers": "Sword Oratoria Vols. 4–14, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "lefiya", "riveria", "rei", "magic", "valley-of-dragons"],
   "infobox": {
@@ -21,6 +21,7 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-support", "so13-hail"]},
       {"label": "Level", "value": "2 in the Great Conflict; 4 by Sword Oratoria 8", "refs": ["ar03-battlements", "so08-reserve", "so11-group", "ss02-elves"]},
       {"label": "Role", "value": "Second-in-command of [[riveria|Riveria]]'s elf squad; spotter for [[lefiya|Lefiya]]'s support fire", "refs": ["so10-squad", "so09-spotter"]},
+      {"label": "Title", "value": "Probably Elleaf", "refs": ["so13-elleaf", "so10-alsha"]},
       {"label": "Weapons", "value": "Short bow and magic", "refs": ["so10-squad", "ar03-battlements"]},
       {"label": "Magic", "value": "[[magic#hail-dust|Hail Dust]]", "refs": ["so13-hail"]}
     ]
@@ -36,6 +37,8 @@ Alicia comes from the north of the continent. Sword Oratoria 13 says she hails f
 Sword Oratoria 5 calls her normally calm, composed and sisterly, and contrasts her fierce elven pride with Lefiya's more open-minded upbringing.[@so05-crozzo] That pride shows twice in the same camp. When she learns that [[welf-crozzo|Welf]] is a Crozzo, she screams that the Crozzo family burned her home and left many elven tribes with no forest to return to; [[tsubaki|Tsubaki]] calms her by explaining that Welf has disowned his lineage.[@so05-crozzo] Later, when [[bell-cranell|Bell]]'s retelling of the hero Albert's story raises the question of whether Albert had a child, and Bell names the high-elf queen among the women of his party, she and Lefiya furiously defend the queen as an eternal saint. In that volume her name is printed *Celdia*; Sword Oratoria 13 and 14 print *Seldia*.[@so05-celdia, so13-why]
 
 Sword Oratoria 11 calls her gentle as an elder of the group, with elven pride and fastidiousness underneath.[@so11-testimony] She leads the elves who knock Loki into the sand on a [[njordr#port-meren|Meren]] beach to protect Riveria, and in Minor Myths and Legends 2 she heads a procession of elves following Riveria, who sighs that she does not wish to be treated like royalty.[@so06-beach, ss02-elves] In Sword Oratoria 8 she protests that [[bete-loga|Bete]]'s contempt for the weak goes far beyond being socially inept; the narration notes that, as a Level 4 in the reserve crew, she has likely hit a wall in her own abilities.[@so08-reserve]
+
+In Sword Oratoria 13, when she and [[anakity-autumn|Anakity]] arrive at the [[school-district|School District]] as Loki Familia's recruiters, the students greet "A black-furred cat person and an amber-haired elf" as "Alsha and Elleaf".[@so13-elleaf] {{inference}} *Alsha* is Anakity's title, so *Elleaf* is presumably Alicia's; the checked text does not say so outright.[@so10-alsha, so13-elleaf]
 
 ## In the Familia
 
@@ -111,3 +114,5 @@ Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her 
 [@so13-advice]: SO13 | Fairy Canon: 2 | "The special privilege of youth is the chance to err."; the first adventurer Lefiya aspired to be like.
 [@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | Pride in Riveria's Level 7; Alicia organises the clean-up.
 [@ss02-elves]: SS02 | | "a long procession of elves headed by the Level 4 adventurer Alicia".
+[@so13-elleaf]: SO13 | Chapter 3: Class is in Session | "A black-furred cat person and an amber-haired elf…Alsha and Elleaf?!"; the two are Anakity and Alicia, come to recruit.
+[@so10-alsha]: SO10 | Chapter 5: Brave Soul! | Anakity: "Her second name was Alsha".

@@ -52,7 +52,7 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 
 - **Five years earlier:** the city's traditions had become hollow and its smiths haughty, and they angered the spirits so badly that the city was nearly annihilated. Astrea arrived and made peace. Since then, what is taken from the woods and mountains is carefully managed, the smiths give the spirits offerings and entertainment at annual festivals, and Astrea lives outside the city to watch over the forest.[@fc03-spirits, fc03-peace]
 - **The spirit forge:** an emerald-glowing structure like an inverted hourglass, standing beside the great Blackliza workshop.[@fc03-forge] It strengthens a weapon far beyond ordinary work and proves its worth in magic swords and superior gear. Only smiths who commune with the spirits and bring back "a spirit’s tear" may use it.[@fc03-spirits]
-- **Spirit materials:** Zolingam also receives salamander wool, undine cloth and other spirit materials. A small amount reaches Orario, possibly through Hephaistos Familia's store in [[babel|Babel]].[@fc03-spirits]
+- **Spirit materials:** Zolingam also receives [[equipment#salamander-wool|salamander wool]], [[equipment#undine-cloth|undine cloth]] and other spirit materials. A small amount reaches Orario, possibly through Hephaistos Familia's store in [[babel|Babel]].[@fc03-spirits]
 - **Yufie:** a spirit "living in the woods of Zolingam (age unknown)", a girl-like figure of great magic whose den only Astrea normally visits.[@fc03-yufie] For spirits in general, see [[races#spirit|Races]].[@fc03-yufie]
 
 ## Stars' Rest {#stars-rest}
@@ -69,7 +69,7 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 |---|---|
 | DanMachi 15 | After Welf leaves Rakia, [[hephaistos|Hephaistos]], visiting a Zolingam smithy on a contract, sees a redheaded boy who works there for room and board. He gives his name as Welf, and she invites him to join her Familia.[@fm15-welf] |
 | Familia Chronicle 3 | Five years after Astrea's arrival, Lyu reaches Zolingam to have her Status updated. Astrea releases her stored [[excelia|excelia]] in stages, keeps her there to adjust, and has Cecille finish her weapon.[@fc03-home, fc03-stages, fc03-reason] |
-| DanMachi 18 | Lyu reaches Zolingam with the help of Hermes and [[asfi|Asfi]]. Her wooden sword Alvs Lumina is reborn as the stardust sword Alvs Iustitia. Lyu, Astrea and the new followers then return to Orario for the Familia War.[@fm18-east, fm18-greatest, fm18-return] |
+| DanMachi 18 | Lyu reaches Zolingam with the help of Hermes and [[asfi|Asfi]]. Her wooden sword [[equipment#alvs-lumina|Alvs Lumina]] is reborn as the stardust sword [[equipment#alvs-iustitia|Alvs Iustitia]]. Lyu, Astrea and the new followers then return to Orario for the Familia War.[@fm18-east, fm18-greatest, fm18-return] |
 | DanMachi 19 | Lyu escorts Astrea back to Zolingam, which she calls "that final act of familial piety".[@fm19-escort] |
 
 [@fc03-arrival]: FC03 | | "Zolingam. The sword-smithing city."; "across the Alv Mountains and then even farther out east"; walls "some thirty meders high"; dwarves at the gate; Hermes's pass; ore deposits and mines.

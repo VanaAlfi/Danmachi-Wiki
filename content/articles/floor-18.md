@@ -67,17 +67,17 @@ At the eastern edge of the forest, regenerating quartz hides an [[metals#orichal
 > - How far below Floor 18 Knossos reaches.[@fm10-reach]
 
 [@fm03-loki]: FM03 | | Loki Familia's destination.
-[@fm05-safe]: FM05 | | Under Resort, safe point, crystal ceiling, migration from Floor 19.
-[@fm05-rivira]: FM05 | | Rivira's location, name and trade.
+[@fm05-safe]: FM05 | Chapter 4: Dungeon Resort? | Under Resort, safe point, crystal ceiling, migration from Floor 19.
+[@fm05-rivira]: FM05 | Chapter 4: Dungeon Resort? | Rivira's location, name and trade.
 [@fm05-goliath]: FM05 | | The Floor 17 Goliath.
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.
 [@fm05-return]: FM05 | Epilogue: The One Who Targets the Rabbit | The party reaches Floor 18 and survives.
 [@fm07-guidance]: FM07 | | Guild guidance for Level 2 parties.
 [@fm08-goliath]: FM08 | | Rivira organizes the Goliath's extermination.
-[@fm10-rivira]: FM10 | | The Xenos destroy Rivira's 334th version.
+[@fm10-rivira]: FM10 | Chapter 8: City Panic | The Xenos destroy Rivira's 334th version.
 [@fm10-knossos]: FM10 | | The Floor 18 entrance to Knossos.
 [@fm10-reach]: FM10 | Chapter 9: Dreams of Beasts | Knossos reaches at least Floor 18.
-[@fm12-lower]: FM12 | | Floor 25 begins the lower levels.
+[@fm12-lower]: FM12 | Chapter 3: New World ~Water Island~ | Floor 25 begins the lower levels.
 [@so02-sign]: SO02 | Chapter 2: Incident | Rivira's sign and count.
 [@so05-forest]: SO05 | | The forest, food, Crystal Grove and Rogue Town.
-[@so13-goliath]: SO13 | | A Goliath's fall blocks the passage to Floor 18.
+[@so13-goliath]: SO13 | Chapter 5: The Mirror’s Voice | A Goliath's fall blocks the passage to Floor 18.

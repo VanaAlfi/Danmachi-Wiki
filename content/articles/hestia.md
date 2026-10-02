@@ -6,7 +6,7 @@
   "reviewed": "2026-09-29",
   "continuity": "light-novel",
   "summary": "Goddess and head of Hestia Familia, who gives Bell Cranell his Falna and, in DanMachi 17, breaks Freya's charm over Orario with her sacred hearth.",
-  "aliases": ["Vesta"],
+  "aliases": ["Vesta", "Loli Big Boobs"],
   "spoilers": "DanMachi Vols. 1–19 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "bell-cranell", "falna", "skills", "freya", "the-benevolent-mistress"],
   "infobox": {
@@ -29,11 +29,13 @@
 ---
 **Hestia** is a goddess and the head of [[hestia-familia|Hestia Familia]]. She gives [[bell-cranell|Bell Cranell]] his [[falna|Falna]] and hides his rapid-growth Skill, [[skills#liaris-freese|Liaris Freese]], from him.[@fm01-goddess, fm01-hidden] In DanMachi 12 she explains that *Vesta*, another of her divine names, means sacred flame.[@fm12-vesta]
 
+Other gods call her "Loli Big Boobs", "making fun of her otherworldly bust"; at the Denatus of DanMachi 4 Bell is "Loli Big Boobs’s child".[@fm01-loli, fm04-loli]
+
 ## Arrival in Orario
 
 Hestia came down to the Lower World about six months before Bell arrived in [[orario|Orario]]. She repeatedly failed to recruit anyone, and [[hephaistos|Hephaistos]] gave her an abandoned church to live in and a job.[@fm15-descent] She had been turned down fifty times before she found Bell, and together they founded Hestia Familia.[@fm01-found] She approached him after recognizing him as another lost child.[@fm15-descent]
 
-When she came down she chose to remain able to fall ill like a mortal.[@ss01-hestia]
+Gods cannot usually fall ill, she tells Bell, but when they came down from the heavens they made it so that they could.[@ss01-hestia]
 
 She works part-time at a [[jyaga-maru-kun|Jyaga Maru Kun]] stall on North Main Street, earning thirty vals an hour.[@fm04-stall] By DanMachi 13 she also works at "Hephaistos’s place".[@fm13-jobs]
 
@@ -71,28 +73,30 @@ In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin 
 > - Why the Dungeon reacted so strongly to her presence in DanMachi 5; Hermes only remarks that it was unusually sensitive.[@fm05-goliath]
 > - What formal limits, if any, bind Syr under the arrangement Hestia allows in DanMachi 19.[@fm19-syr]
 
-[@fm01-goddess]: FM01 | | Goddess and head of Hestia Familia; gives Bell his Falna.
+[@fm01-goddess]: FM01 | Chapter 1: World, Reality, and Desire | Goddess and head of Hestia Familia; gives Bell his Falna.
 [@fm04-stall]: FM04 | A Campanella to the Goddess | "a street stand that was situated on North Main Street"; "She worked six hours today at 30 vals per hour."
 [@fm13-jobs]: FM13 | Chapter 2: The Prophetess of Tragedy | "I’m off from Hephaistos’s place and Jyaga Maru Kun, too."
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm01-found]: FM01 | | Fifty failed recruitments before Bell; the Familia is founded.
 [@fm01-knife]: FM01 | Chapter 5: The Goddess’s Prank | Hephaistos: "I don’t care if it takes one hundred years, you will repay me."
-[@fm05-rescue]: FM05 | | Savings spent on the rescue; Hestia enters the Dungeon.
+[@fm05-rescue]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Savings spent on the rescue; Hestia enters the Dungeon.
 [@fm05-goliath]: FM05 | Chapter 5: The Outlaws’ Party | The Dungeon reacts to divine presence.
 [@fm05-fine]: FM05 | Epilogue: The One Who Targets the Rabbit | The Guild penalizes Hestia and Hermes.
 [@fm06-lilly]: FM06 | Chapter 4: Those Who Gather | The Hestia Knife as collateral for Lilly's conversion.
 [@fm06-manor]: FM06 | | War Game victory; Apollo's property and manor.
-[@fm06-gods]: FM06 | | Gods cannot be permanently killed by mortals.
+[@fm06-gods]: FM06 | Chapter 3: Outbreak | Gods cannot be permanently killed by mortals.
 [@fm07-debt]: FM07 | | Debt of 200 million valis; Haruhime accepted.
 [@fm08-hestia]: FM08 | Chapter 2: The Prum’s Proposal |
 [@fm08-edas]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Edas Village; "Thank you, Kam. Thank you for your love."; "Lady Brigit, I…I, too."
-[@fm08-rebirth]: FM08 | | Ares; purification and rebirth; Hestia's promise.
-[@fm08-hearthstone]: FM08 | | The home is named Hearthstone Manor.
+[@fm08-rebirth]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Ares; purification and rebirth; Hestia's promise.
+[@fm08-hearthstone]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): The home is named Hearthstone Manor.
 [@fm11-xenos]: FM11 | | The Xenos rescue.
-[@fm12-vesta]: FM12 | | Level 4 update; Vesta.
+[@fm12-vesta]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 update; Vesta.
 [@fm15-descent]: FM15 | | Arrival, failed recruitment, the church and Hephaistos's help.
 [@fm16-tavern]: FM16 | | Hestia at the tavern; the second-day Syr.
 [@fm17-hearth]: FM17 | Chapter 5: The End of Her World | Hestia purges the charm.
-[@fm17-domain]: FM17 | | The sacred hearth as Hestia's domain.
+[@fm17-domain]: FM17 | Chapter 5: The End of Her World | The sacred hearth as Hestia's domain.
 [@fm19-syr]: FM19 | Chapter 1: V-V-V for Victory Party | Syr allowed to remain.
 [@ss01-hestia]: SS01 | | Susceptibility to illness; household rules.
+[@fm01-loli]: FM01 | Chapter 1: World, Reality, and Desire | Other gods' name for her, "making fun of her otherworldly bust".
+[@fm04-loli]: FM04 | Chapter 1: Denatus | "why don’t ya leave after we’ve given Loli Big Boobs’s child a name?"

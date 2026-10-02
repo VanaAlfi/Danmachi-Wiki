@@ -102,7 +102,7 @@ Part of the [[pleasure-quarter|Pleasure Quarter]] is built in Far Eastern style,
 [@fm20-plum]: FM20 | Chapter 1: Orario Rumble | "The goddess looked like she had just bitten into a Far Eastern dried plum".
 [@so06-meren]: SO06 | Chapter 2: Port Meren | "travelers from the Far East or various island and ocean nations first needed to pass through Meren".
 [@so07-palace]: SO07 | | Printed heading "Chapter 1: Orario Now" (not in the evidence map): "the Dragon Palace of the fairy tales of the Far East".
-[@so13-scarletite]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Scarletite is a miraculous metal created in the Far East. That alone is enough to make it equal to orichalcum in value and rarity."
+[@so13-scarletite]: SO13 | Fairy Canon: 1 | "Scarletite is a miraculous metal created in the Far East. That alone is enough to make it equal to orichalcum in value and rarity."
 [@ar01-nadeshiko]: AR01 | Chapter 1: Astrea Familia | "what those in the Far East termed a yamato nadeshiko—the embodiment of modest femininity".
 [@ar02-iai]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): "Kaguya had resheathed her sword"; "Iai Strike: Gleaming Blade!"; "A technique from the Far East?!"
 [@ar03-noir]: AR03 | | Printed heading "Chapter 1: March and Break" (not in the evidence map): "It was a single-edged blade, based on those from the Far East, and its name was Undying Vow."

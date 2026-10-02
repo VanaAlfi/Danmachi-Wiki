@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Healer and prophetic dreamer, formerly of Apollo Familia, who joins Miach Familia with her friend Daphne Laulos. Her dreams foretell disasters that almost no one believes; in DanMachi 13–14 she steers her party away from the fate her dream foretold.",
-  "aliases": ["Cassandra"],
+  "aliases": ["Cassandra", "Mirabilis"],
   "spoilers": "DanMachi Vols. 6–18 and Minor Myths and Legends Vol. 1",
   "related": ["daphne", "miach-familia", "apollo", "bell-cranell", "magic", "skills"],
   "infobox": {
@@ -17,6 +17,7 @@
       {"label": "Familia", "value": "Apollo Familia; [[miach-familia|Miach Familia]] from DanMachi 8", "refs": ["fm06-intro", "fm08-join"]},
       {"label": "Level", "value": "2 in DanMachi 6; 3 after the joint expedition", "refs": ["fm06-intro", "fm15-level"]},
       {"label": "Role", "value": "Healer", "refs": ["fm12-healer"]},
+      {"label": "Also called", "value": "Mirabilis (by Welf, DanMachi 13)", "refs": ["fm13-mirabilis"]},
       {"label": "Magic", "value": "[[#soul-light|Soul Light]], [[#cure-ephialtes|Cure Ephialtes]]", "refs": ["sheet.fm14-cassandra"]},
       {"label": "Skill", "value": "[[skills#five-dimension-troia|Five-Dimension Troia]]", "refs": ["sheet.fm14-cassandra"]}
     ]
@@ -40,6 +41,7 @@ After the War Game, Cassandra's dream leads her back to [[apollo-familia|Apollo 
 - **How they come:** she always takes a nap before any big event, with leaves of the sleep herb Argelica beside her pillow, in order to dream. The dreams show vague images accompanied by prophetic verses, and they invariably hint at coming disasters. She did the same before Apollo Familia's expeditions and before the War Game.[@fm13-dreams]
 - **What they say:** the first part usually outlines a future she cannot interfere with. Sometimes the dream also holds a warning about how to avoid it, but those warnings are abstract or allegorical and hard to interpret.[@fm13-outline]
 - **Disbelief:** Daphne never believes the dreams, and neither does anyone else; "It was like she was cursed." Cassandra herself feels her dreams are a curse. Bell is the exception: he believed her, and she is sure some kind of fate lets him push that curse aside.[@fm13-curse] Minor Myths and Legends 1 also speaks of "Cassandra’s curse": no one she tells ever believes her oracles.[@ss01-curse]
+- **Mirabilis:** in DanMachi 13 [[welf-crozzo|Welf]] tells Bell that "our prophetic Mirabilis" helped him make the [[goliath-robe#goliath-scarf|Goliath Scarf]]: "she was the one who suggested I make it".[@fm13-mirabilis]
 
 ## The Water Capital catastrophe
 
@@ -135,3 +137,4 @@ The Level 2 sheet gives it a single note: it dispels harm. On the same sheet Sou
 [@soul-light.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Cast into the centre of the fighting; "Recovery is coming!"
 [@soul-light.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, wide-area recovery magic, area varies with Mind; Cure Ephialtes.
 [@soul-light.fm18-daphne]: FM18 | Chapter 9: Flower Language for You | Daphne's wounds; Hegni's cursed sword obstructs healing.
+[@fm13-mirabilis]: FM13 | Chapter 2: The Prophetess of Tragedy | Welf: "our prophetic Mirabilis helped me out"; "she was the one who suggested I make it".

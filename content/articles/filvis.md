@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Elf captain of Dionysus Familia and Lefiya's friend, revealed in Sword Oratoria 12 to be a creature serving Dionysus, the Evils' mastermind Enyo.",
-  "aliases": ["Ein", "Maenad"],
+  "aliases": ["Ein", "Maenad", "Banshee"],
   "spoilers": "Sword Oratoria Vols. 2–13, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 2",
   "related": ["lefiya", "loki-familia", "knossos", "loki", "riveria", "magic"],
   "infobox": {
@@ -16,7 +16,7 @@
       {"section": "Adventurer"},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so02-elf"]},
       {"label": "Familia", "value": "Dionysus Familia, as captain", "refs": ["so04-captain"]},
-      {"label": "Also called", "value": "Maenad", "refs": ["so07-maenad"]},
+      {"label": "Also called", "value": "Banshee (an adventurers' nickname); Maenad", "refs": ["so03-banshee", "so07-maenad"]},
       {"label": "Public Level", "value": "3", "refs": ["so03-level", "so04-captain"]},
       {"label": "Magic", "value": "[[#dio-thyrsos|Dio Thyrsos]]; [[#dio-grail|Dio Grail]]; [[#einsel|Einsel]]", "refs": ["dio-thyrsos.so03-cast", "dio-grail.so04-teach", "einsel.so12-undo"]},
       {"label": "Skills", "value": "[[skills#filvis-skills|Fairy Senior, Monstrum Union, Dark Light]]", "refs": ["skills.so12-sheet"]}
@@ -27,6 +27,8 @@
 **Filvis Challia** is the elf captain of [[dionysus-familia|Dionysus Familia]] and a friend of [[lefiya|Lefiya Viridis]].[@so04-captain, so05-filvis] Publicly known as a Level 3, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
 
 ## Filvis and Lefiya
+
+Adventurers call her "Banshee", "The party-killing elf"; in Sword Oratoria 3 [[bors|Bors]] tells Lefiya that it is not her title: "That’s just what we call her."[@so03-banshee] Sword Oratoria 12 traces the name to the Twenty-Seventh-Floor Nightmare, after which Bors saw her wandering [[rivira|Rivira]] "seemingly dead on the inside".[@so12-banshee]
 
 On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her magic [[#dio-grail|Dio Grail]] saved the Floor 59 expedition, challenging her belief that she and her magic are unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, begs her to leave [[orario|Orario]], and promises her a trip to [[wishe-forest|Wishe Forest]].[@ss02-filvis, so11-filvis]
 
@@ -124,15 +126,15 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 
 [@so02-elf]: SO02 | | "The elf called Filvis", beside Dionysus.
 [@so03-level]: SO03 | Chapter 2: Let’s Party? | "My familia’s only Level Three adventurer."
-[@so04-captain]: SO04 | | "A Level 3 magic swordsman and the captain of Dionysus Familia."
+[@so04-captain]: SO04 | First Chapter: And the Boy… | "A Level 3 magic swordsman and the captain of Dionysus Familia."
 [@so07-maenad]: SO07 | Chapter 4: The Sword’s Wind Calls | Called "Maenad".
 [@so05-filvis]: SO05 | | Floor 18; Dio Grail and the Floor 59 party.
 [@so07-filvis]: SO07 | | Knossos with Lefiya.
 [@so11-filvis]: SO11 | | Her plea; her apparent death.
 [@so12-filvis]: SO12 | | Her death on Floor 27; the creature; Dionysus.
 [@skills.so12-sheet]: SO12 | | Illustrated Status sheet at the end of the volume: Fairy Senior, Monstrum Union, Dark Light.
-[@so12-einsel]: SO12 | | Einsel and Ein.
-[@so12-power]: SO12 | | Level 7–class strength.
+[@so12-einsel]: SO12 | Chapter 6: The Divine Providence of Despair | Einsel and Ein.
+[@so12-power]: SO12 | Chapter 8: A Heroes’ Chorus | Level 7–class strength.
 [@so12-end]: SO12 | | Lefiya's Dio Grail and Filvis's sword; the split; her end.
 [@ss02-filvis]: SS02 | | Filvis protects Lefiya.
 [@dio-thyrsos.so03-cast]: SO03 | Chapter 4: White-Haired Devil | "Purge, cleansing lightning!"; Concurrent Casting; "short-trigger-spell magic".
@@ -151,3 +153,5 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@dio-thyrsos.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0, "Creature (Elf)"): Dio Thyrsos, Dio Grail and Einsel under Magic.
 [@dio-grail.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Dio Grail, barrier spell; obstructs physical and magical attacks.
 [@einsel.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Einsel, cloning magic.
+[@so03-banshee]: SO03 | Chapter 3: A Hideous Beauty | Bors: "That’s just what we call her. That elf’s title is something else."; "The party-killing elf—Banshee."
+[@so12-banshee]: SO12 | Chapter 6: The Divine Providence of Despair | "That had been the origin of the name Banshee"; "seemingly dead on the inside".

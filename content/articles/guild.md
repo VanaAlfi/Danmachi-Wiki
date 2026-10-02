@@ -70,8 +70,8 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
 [@fm01-eina]: FM01 | | Eina as Bell's adviser.
 [@fm02-privacy]: FM02 | | Level and Familia reported to the Guild.
-[@fm02-limit]: FM02 | | Floor 12 limit for Level 1.
-[@fm02-blacklist]: FM02 | | Blacklisting.
+[@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1.
+[@fm02-blacklist]: FM02 | Chapter 5: Reset | Blacklisting.
 [@fm04-rank]: FM04 | | Registration and Familia ranks.
 [@fm05-calamity]: FM05 | Epilogue: The One Who Targets the Rabbit | "Calamity."
 [@fm07-board]: FM07 | Chapter 1: Smooth Sailing? | The bulletin board.
@@ -90,7 +90,7 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@fm10-hermes]: FM10 | | Printed heading "Epilogue: The Decision’s Cost" (not in the evidence map): "Beneath Guild Headquarters, in the Chamber of Prayers, Ouranos at his altar and Hermes were conducting a secret meeting amid the light of four torches in the darkness."
 [@so12-royman]: SO12 | Chapter 6: The Divine Providence of Despair | "Royman hurriedly knelt in acknowledgment and dashed out of the Chamber of Prayers, conveying his master’s divine will through the city."
 [@fm09-ouranos]: FM09 | | Ouranos as the true leader.
-[@fm09-royman]: FM09 | | Royman, elf head of the Guild.
+[@fm09-royman]: FM09 | Chapter 4: Mission | Royman, elf head of the Guild.
 [@fm09-mission]: FM09 | | Guild missions.
 [@fm12-expedition]: FM12 | | Mandatory expeditions.
 [@fm14-report]: FM14 | Epilogue: You’ll Be Back II | The Guild accepts Bors's report.

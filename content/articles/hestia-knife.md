@@ -65,7 +65,7 @@ In DanMachi 7 Bell's party finds the loan contract: two hundred million valis, s
 | DanMachi 18 | As Bell rises to face [[ottar|Ottar]], the knife "reacted to his growth" and blazes; its indigo slash strikes Ottar through his black greatsword.[@fm18-growth, fm18-ottar] |
 | DanMachi 20 | In his duel with [[leon-verdenberg|Leon]], Bell lets flame and lightning erupt from the Hestia Knife and calls "Firebolt!".[@fm20-firebolt] |
 
-In DanMachi 14 and 18 Bell lists the Hestia Knife and Hakugen as his weapons.[@fm14-weapons, fm18-weapons]
+In DanMachi 14 and 18 Bell lists the Hestia Knife and [[equipment#hakugen|Hakugen]] as his weapons.[@fm14-weapons, fm18-weapons]
 
 ## Open questions
 

@@ -128,7 +128,7 @@ Spheres of light in different colours surround [[bell-cranell|Bell]]. His wounds
 > - What the crimson jewel of DanMachi 19 will do.[@fm19-jewel]
 
 [@fm09-fels]: FM09 | | The Sage; the Philosopher's Stone; the skeleton; Fels the Fool; Ouranos's agent.
-[@fm10-fels]: FM10 | | Former Level 4; Dia Orpheus restores Wiene.
+[@fm10-fels]: FM10 | Chapter 10: The Fool | Former Level 4; Dia Orpheus restores Wiene.
 [@fm11-fels]: FM11 | Epilogue: And So I Start to Run Again | Fels heals the Xenos and Asterios.
 [@fm12-fels]: FM12 | Chapter 1: Rabbit Close-Up | The deepest floor.
 [@fm13-fels]: FM13 | | Cages in Knossos.

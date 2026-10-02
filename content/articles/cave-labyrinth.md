@@ -50,7 +50,7 @@ The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirtee
 
 ## Floors 13–14 {#floors-13-14}
 
-- **Guidance:** the thirteenth and fourteenth floors are recommended for Level 2 adventurers with basic abilities from I to H. The monsters of the thirteenth floor are not much stronger than those of the twelfth, and Hard Armoreds are also found in the middle levels.[@fm04-fortress] Under the Guild's guidelines, the thirteenth floor is "the first boundary where Level 1s can’t progress any further".[@fm20-guild] Level 2 adventurers are generally held to be safe from the thirteenth to the twenty-fourth floor.[@fm07-level-two] Before Bell's party first goes down, Eina makes salamander wool for everyone a condition.[@fm04-wool]
+- **Guidance:** the thirteenth and fourteenth floors are recommended for Level 2 adventurers with basic abilities from I to H. The monsters of the thirteenth floor are not much stronger than those of the twelfth, and Hard Armoreds are also found in the middle levels.[@fm04-fortress] Under the Guild's guidelines, the thirteenth floor is "the first boundary where Level 1s can’t progress any further".[@fm20-guild] Level 2 adventurers are generally held to be safe from the thirteenth to the twenty-fourth floor.[@fm07-level-two] Before Bell's party first goes down, Eina makes [[equipment#salamander-wool|salamander wool]] for everyone a condition.[@fm04-wool]
 - **Accidents:** the upper floors see the most deaths overall, but leaving them aside, the thirteenth floor has the most accidents, because there "the difficulty spikes after getting past the upper floors".[@ss01-accidents, fm16-thirteenth]
 - **Monsters:** [[monsters#hellhound|hellhounds]] are usually to blame when a party is reported wiped out on the thirteenth or fourteenth floor.[@fm05-hellhounds] [[al-miraj|Al-miraj]] first appear on the thirteenth floor and are found only on the thirteenth and fourteenth.[@fm05-almiraj, fm05-only]
 - **Resources:** the thirteenth floor yields a special mineral; in DanMachi 7 Bell's party mines it from a dead-end wall: blood onyx, banded blood-red and coal-black.[@fm06-quests, fm07-onyx] The fourteenth floor has a pantry where quartz is gathered.[@fm07-pantry]
@@ -60,7 +60,7 @@ The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirtee
 - **Deeper:** after a long fall, Lilly judges from the colour of the walls, the width of the tunnels, the lack of light and the complexity of the layout that the party is on the fifteenth floor rather than the fourteenth or thirteenth.[@fm05-fifteenth]
 - **Minotaurs:** [[minotaur|Minotaurs]] are found only from the lower fifteenth floor down; DanMachi 4 gives the fifteenth as the earliest floor for them.[@fm01-minotaurs, fm04-minotaurs] A [[monsters#liger-fang|liger fang]] that appears on the fourteenth floor in DanMachi 7 is an Irregular, a monster that should not appear until the fifteenth.[@fm07-liger]
 - **The School District's limit:** students may go only as far as the fifteenth floor.[@so13-fifteenth]
-- **The collapse:** in DanMachi 19 and Sword Oratoria 13 a mass birth of [[monsters#bad-bat|bad bats]] from the walls and ceiling breaks the fifteenth floor's balance and the walls collapse. Every route back to the fourteenth floor is sealed.[@fm19-collapse, so13-collapse]
+- **The collapse:** in DanMachi 19 a mass birth of [[monsters#bad-bat|bad bats]] from the walls and ceiling breaks the fifteenth floor's balance and the walls collapse.[@fm19-collapse] In Sword Oratoria 13 the bats come from the ceiling instead of the walls; the ceiling, riddled with holes from their birth, falls, the ground gives way and several floors cave in.[@so13-collapse] Every route back to the fourteenth floor is sealed.[@fm19-collapse, so13-collapse]
 
 ## Floor 17 and the Great Wall of Sorrows {#floor-17}
 
@@ -98,11 +98,11 @@ The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirtee
 [@so08-seventeenth]: SO08 | Chapter 2: Did Someone Order a Wolf? | "the Dungeon’s middle levels, the “Cave Labyrinth.”"; "the stronghold of the third-tier adventurers".
 [@so13-tunnels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | "Because it is the Cave Labyrinth"; "always in the process of opening and closing".
 [@so13-fifteenth]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | "Students were given permission to advance only as far as the Cave Labyrinth and only to the fifteenth floor."
-[@so13-collapse]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | "an entire number erupted all around the fifteenth floor at the same time"; "Multiple floors had collapsed".
+[@so13-collapse]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | "an entire number erupted all around the fifteenth floor at the same time"; "Instead of coming out of the walls, they came out of the ceiling."; "The ceiling was filled with holes from the birth of so many monsters"; "Multiple floors had collapsed".
 [@so13-wall]: SO13 | Chapter 5: The Mirror’s Voice | "They had reached the massive room at the end of the seventeenth floor."; "The Great Wall of Sorrows."
 [@fm12-gray]: FM12 | Chapter 3: New World ~Water Island~ | "just like in the Cave Labyrinth in the middle levels"; "the gray stone structure of that floor".
 [@fm13-maze]: FM13 | Chapter 3: The True Intentions of Gale Wind | "It’s not a tidy hole like those in the Stone Cavern Maze."
-[@fm19-cave]: FM19 | | "When we reach the Cave Labyrinth on the thirteenth floor".
+[@fm19-cave]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "When we reach the Cave Labyrinth on the thirteenth floor".
 [@fm19-collapse]: FM19 | | "the fifteenth floor’s equilibrium breaks, and the walls collapse"; "Every route back to the fourteenth floor has been sealed off."
 [@fm19-sixteenth]: FM19 | | "I spread out the maps of the sixteenth and seventeenth floors"; "we dropped down to the sixteenth floor".
 [@fm19-rivira]: FM19 | | "the people in Rivira are the ones who usually slay Goliath".

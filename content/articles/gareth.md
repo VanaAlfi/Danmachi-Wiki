@@ -3,12 +3,12 @@
   "title": "Gareth Landrock",
   "category": "characters",
   "status": "complete",
-  "reviewed": "2026-09-30",
+  "reviewed": "2026-10-02",
   "continuity": "light-novel",
-  "summary": "Dwarf warrior of Loki Familia, titled Elgarm, known for plowing through enemies and absorbing any attack. Level 7 from Sword Oratoria 14.",
-  "aliases": ["Elgarm", "Gareth", "Galess Landrock", "Yorger"],
-  "spoilers": "DanMachi Vols. 5 and 8, Sword Oratoria Vols. 4–14 and Astrea Record Vols. 2 and 3",
-  "related": ["loki-familia", "finn-deimne", "riveria", "aiz-wallenstein", "knossos", "magic"],
+  "summary": "Dwarf warrior of Loki Familia and one of its three leaders with Finn and Riveria, titled Elgarm, known for plowing through enemies and absorbing any attack. Level 7 from Sword Oratoria 14.",
+  "aliases": ["Elgarm", "Gareth", "Galess Landrock", "Yorger", "Peerless Wall"],
+  "spoilers": "DanMachi Vols. 4, 5, 8, 10, 11, 17, Sword Oratoria Vols. 1, 2, 4–12, 14, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 2",
+  "related": ["loki-familia", "finn-deimne", "riveria", "aiz-wallenstein", "bete-loga", "knossos", "magic"],
   "infobox": {
     "title": "Gareth Landrock",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -18,19 +18,49 @@
       {"label": "From", "value": "Lonza, where he was a foreman", "refs": ["so14-gareth"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-gareth"]},
-      {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-gareth", "so14-sevens"]},
+      {"label": "Position", "value": "One of its three leaders, with [[finn-deimne|Finn]] and [[riveria|Riveria]]", "refs": ["so02-three"]},
+      {"label": "Level", "value": "6 from after the Great Conflict; 7 from Sword Oratoria 14", "refs": ["ar03-level6", "fm08-gareth", "so14-sevens"]},
       {"label": "Title", "value": "Elgarm", "refs": ["so04-elgarm"]},
+      {"label": "Also called", "value": "The Peerless Wall", "refs": ["ar01-dusty"]},
+      {"label": "Weapons", "value": "Battle-ax and shield", "refs": ["ar01-evils", "fm11-hiyo"]},
       {"label": "Magic", "value": "[[#earth-raid|Earth Raid]]", "refs": ["earth-raid.so07-sheet"]},
       {"label": "Skills", "value": "[[skills#gareth-skills|Dvergr Enhance, Ardigalea]]", "refs": ["skills.so07-sheet"]}
     ]
   }
 }
 ---
-**Gareth Landrock** is a dwarf warrior of [[loki-familia|Loki Familia]].[@fm08-gareth] The gods gave him the title *Elgarm* for his ability to plow through enemies and absorb any attack; he is said to be able to carry a damaged galleon to shore on his own.[@so04-elgarm] He is Level 7 from Sword Oratoria 14.[@so14-sevens]
+**Gareth Landrock** is a dwarf warrior of [[loki-familia|Loki Familia]] and, with [[finn-deimne|Finn]] and [[riveria|Riveria]], one of its three leaders.[@fm08-gareth, so02-three] The gods gave him the title *Elgarm* for his ability to plow through enemies and absorb any attack; he is said to be able to carry a damaged galleon to shore on his own.[@so04-elgarm] Astrea Record 1 also calls him "the Peerless Wall".[@ar01-dusty] He is Level 7 from Sword Oratoria 14.[@so14-sevens]
+
+## Appearance and equipment {#appearance}
+
+Gareth is an old dwarf with a long, magnificent beard, which he strokes as he talks; Sword Oratoria 1 has his "beady eyes" looking out from deep within his helmet.[@ar01-dusty, ar01-alize, so01-eyes] Sword Oratoria 4 calls him "A veteran soldier of herculean strength who truly embodied the dwarven race": a natural attacker who came to rule the back of the rear guard as "an impenetrable wall", his fists "like hammers" and his burly frame "like the world’s sturdiest shield".[@so04-wall]
+
+In battle he wears heavy armour and a helmet, with a shield under his mantle.[@fm10-ikelos, so11-squad, fm11-hiyo] His usual weapon is a battle-ax "nearly as tall as he", which he twirls "with no more effort than he would a paper fan"; he also strikes with its pommel and with his "boulder-like fists".[@ar01-evils] Other weapons appear too: a war hammer in Sword Oratoria 1, a giant [[desperate|Durandal]] ax that [[tsubaki|Tsubaki]] delivers to Loki Familia's specification in Sword Oratoria 4 ("A lot lighter than I expected!"), and twin axes later in that volume.[@so01-hammer, so04-durandal, so04-twin] In the final battle of Sword Oratoria 12 he holds "a gnome toga spirit flag in his right hand and a Tonitrus mohair spirit flag in his left hand", which cancel earth and lightning spells.[@so12-flags]
+
+## Character {#character}
+
+Gareth counts himself among the "dusty old heroes" who must not deny the next generation its chance to change the world.[@ar01-dusty] In Astrea Record 1 [[alize-lovell|Alize]] greets him as "old man Gareth", to the dismay of [[lyu-leon|Lyu]], for whom "the venerable dwarf was the definition of a celebrity"; Alize explains that she is "so annoying, he doesn’t know how to get rid of me", and Gareth agrees.[@ar01-alize]
+
+He fights to protect others. When the [[evils|Evils]] attack in Astrea Record 1 he sends the girls to shelter the crowd and charges into the attackers to draw their spells and magic swords onto himself: to spare the buildings and civilians, "the old dwarf would gladly shoulder any pain".[@ar01-evils] In DanMachi 11 he takes the full blast of the magic sword Hiyo on his shield in front of the adventurers beside him, and laughs with his beard frozen: "Feels about the same strength as Riveria’s magic."[@fm11-hiyo]
+
+At home he keeps order: Sword Oratoria 2 has him scolding Aiz and the others for "Such a ruckus at the crack o’ dawn" until breakfast.[@so02-scold] He enjoys a drink, but at the camp party of Sword Oratoria 5 he turns down Tsubaki's challenge ("Show me that liver of steel!") because he has his position to consider, and promises her one back on the surface.[@so05-drink]
+
+## Finn and Riveria {#finn-and-riveria}
+
+Gareth, Finn and Riveria lead Loki Familia together; Sword Oratoria 2 calls the three Level 6s its "top commanders as well as their strongest warriors".[@so02-three] Gareth teases Finn about the "ambition in those pint-size bones of yours", and when Finn says he has been trying to mellow out, he laughs: "You, Finn? Don’t make me laugh!"[@so04-finn] Finn is the youngest of the commanders, and when he explains his plan for the attack on [[knossos|Knossos]] in Sword Oratoria 11, Riveria and Gareth share "the sort of happiness that a parent might have watching their child growing up".[@so11-parent] In Sword Oratoria 10 the three fight side by side for "the first time in a long while".[@so10-three] In Sword Oratoria 12 Riveria and Gareth, "The two had known Finn longest", see at once that the orders reaching them come from a false Finn, and Gareth plays along.[@so12-act]
+
+They also rise together. When the three reach Level 7 at the same moment, Loki throws a party for those she sees as the Familia's "oldest members"; "How many times have we leveled up together now?" Gareth muses, and he tells Finn that "With Zeus and Hera gone, Level Seven is the pinnacle".[@so14-party]
+
+## The younger members {#younger-members}
+
+- **Aiz:** as a child, "Aiz preferred Gareth’s company" to Finn's and Riveria's: he did not talk much, and he treated pain as "just another experience Aiz could benefit from".[@so09-aiz]
+- **Tiona and Tione:** in Sword Oratoria 6, knocking an Amazon flying, he recalls sending Tiona flying "not more than five years ago", when he first met "those two ragamuffins".[@so06-ragamuffins]
+- **Bete:** when Finn, Riveria and Gareth call [[bete-loga|Bete]] in over his harshness, he opens up only "after a few of his usual exchanges of blows with Gareth".[@so08-bete] Sparring alone with him in Minor Myths and Legends 2, Bete "never managed to land so much as a scratch on the seasoned dwarf".[@ss02-spar]
+- **Raul:** in Sword Oratoria 1 Gareth shields [[raul-nord|Raul]] from the pale-green new monsters with a war hammer.[@so01-hammer]
 
 ## Joining Loki Familia
 
-Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and a foreman in the village of Lonza, bound there by guilt over its poverty. He refused Loki's offer of an immediate blessing, fighting a [[lambton|lambton]] without one, and joined only once a rescue in the Celcebo mines and a solution for Lonza released him. He then insisted on fighting [[finn-deimne|Finn]]; the text does not say who won.[@so14-gareth]
+Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and a foreman in the village of Lonza, bound there by guilt over its poverty. He refused Loki's offer of an immediate blessing, fighting a [[lambton|lambton]] without one, and joined only once a rescue in the Celcebo mines and a solution for Lonza released him. He then insisted on fighting [[finn-deimne|Finn]]; the text does not say who won.[@so14-gareth] Loki got him drinking: tipsy, the man who "ordinarily never said a word" began to talk, and he admitted to himself that "she was a good drinking partner for him".[@so14-drink]
 
 Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fifteen-year-old troublemaker who "cared more than anyone" when it came to his friends; it was he who lost his temper and injured Aina, earning Riveria's wrath. When the lambton attacks the miners, Yorger charges it with his pickax to protect Gareth. Afterwards he presses a bag packed for the road into Gareth's hands: "Big Bro, go with them! Please start your journey!" "We’ll make something of this ourselves, even without you. So live your dream!" At the send-off Gareth raises "the pickax given to him by Yorger and the others".[@so14-yorger]
 
@@ -38,11 +68,24 @@ Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fiftee
 
 | Volume | Events |
 |---|---|
-| Astrea Record 2–3 | Fights in the [[great-conflict|Great Conflict]]; he sees the dragon [[delphyne|Delphyne]] regenerate and explains that [[zald|Zald]] ate the Behemoth's flesh to win.[@ar02-loki, ar03-delphyne, ar03-behemoth] |
-| DanMachi 8 | At Level 6, routs [[ares#kingdom-of-rakia|Rakia]]'s cavalry single-handed.[@fm08-gareth] |
+| Astrea Record 1 | Keeps watch over a food distribution for Loki Familia, then holds off a band of the Evils alone while Alize and Lyu lead civilians to [[twilight-manor|Twilight Manor]]. At the end of the volume he and Riveria fall to [[alfia|Alfia]].[@ar01-alize, ar01-evils, ar01-alfia] |
+| Astrea Record 2 | Laid low by "that witch", he misses much of the fighting. Later, leading a contingent of adventurers, he advises [[asfi|Asfi]] "as a veteran" and asks [[hermes-familia|Hermes Familia]] to track down Zald, Alfia and the god Erebus.[@ar02-loki, ar02-witch, ar02-asfi] |
+| Astrea Record 3 | Fights in the [[great-conflict|Great Conflict]]; he sees the dragon [[delphyne|Delphyne]] regenerate and explains that [[zald|Zald]] ate the Behemoth's flesh to win. Afterwards he, Finn and Riveria all reach Level 6.[@ar03-delphyne, ar03-behemoth, ar03-level6] |
+| Sword Oratoria 1 | Protects Raul with a war hammer against the new monsters.[@so01-hammer] |
+| DanMachi 4 | Leads the second group of Loki Familia's expedition.[@fm04-group] |
+| Sword Oratoria 4 | Carries a Durandal ax on the expedition. Among the [[monsters#valgang-dragon|valgang dragons]] he spins a great dragon "like a giant hammer", then, his armour charred by wyvern fire, holds the line with twin axes until Finn's group comes down.[@so04-durandal, so04-wall, so04-twin] |
+| Sword Oratoria 5 | His giant shield helps hold off the spray of the [[monsters#poison-vermis|poison vermis]].[@so05-vermis] |
+| Sword Oratoria 6 | In a cave near Meren he fights the Amazons of [[kali-familia|Kali Familia]], tossing his ax aside to face them with his fists.[@so06-ragamuffins] |
 | Sword Oratoria 7 | Shields his party from Inferno Stones, punches through [[metals#adamantite|adamantite]] and helps destroy the monster [[corrupted-spirit#gugalanna|Gugalanna]]; Finn leaves him in charge of the rear.[@so07-gareth, so07-finn] |
+| DanMachi 8 | At Level 6, routs [[ares#kingdom-of-rakia|Rakia]]'s cavalry single-handed.[@fm08-gareth] |
 | Sword Oratoria 9 | Teaches the young [[aiz-wallenstein|Aiz]] to look after her weapons and herself; in the present he finds and destroys a coastal route into [[knossos|Knossos]].[@so09-gareth] |
-| Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and [[xenos|Xenos]].[@so10-gareth] |
+| Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and [[xenos|Xenos]].[@so10-gareth] Summoned by Finn, he crosses axes with [[levis|Levis]], "the creature who’d defeated both the Sword Princess and Braver".[@so10-levis] |
+| DanMachi 10 | Sent by Finn to circle behind whoever is directing the Xenos, he comes up behind [[fels|Fels]]; later he leaves [[ikelos|Ikelos]] on a rooftop and strikes the black minotaur fighting Aiz from behind.[@fm10-fels, fm10-ikelos] |
+| DanMachi 11 | In the battle of [[daedalus-street|Daedalus Street]] his ax brings walls down ("I’ll have to pay for those"), and he takes the Hiyo's blizzard on his shield.[@fm11-walls, fm11-hiyo] |
+| Sword Oratoria 11 | Commands the south-western squad in the first strike on Knossos; [[dionysus|Dionysus]] lends him his Familia.[@so11-squad] |
+| Sword Oratoria 12 | Leads the third squad in the final battle with two spirit flags, and plays along when a false Finn takes command.[@so12-flags, so12-act] |
+| Sword Oratoria 14 | Reaches Level 7 with Finn and Riveria.[@so14-sevens, so14-party] |
+| DanMachi 17 | When [[freya|Freya]]'s charm breaks, he faces the [[gulliver-brothers|Gulliver brothers]], who call him a "Washed-up old dwarf".[@fm17-gulliver] |
 
 ## Skills {#skills}
 
@@ -76,7 +119,7 @@ His Level 1 sheet in Sword Oratoria 14 has no Magic entry; it lists only the Ski
 
 ## Name
 
-DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
+DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders] Astrea Record 1 calls him "the Peerless Wall", once.[@ar01-dusty]
 
 ## Open questions
 
@@ -85,7 +128,7 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
 
 [@fm05-leaders]: FM05 | Chapter 4: Dungeon Resort? | "The strong, wise dwarf elder is Galess Landrock."
 [@fm08-gareth]: FM08 | Prologue: Attack of the War God | Gareth against Rakia's cavalry.
-[@so04-elgarm]: SO04 | | Elgarm.
+[@so04-elgarm]: SO04 | Last Chapter: To Adventure | "His ability to plow through enemies and absorb any attack was what had inspired the gods to give him his alias—Elgarm."; "he could carry a damaged galleon to shore single-handedly".
 [@so07-gareth]: SO07 | | Inferno Stones; Gugalanna.
 [@skills.so07-sheet]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Dvergr Enhance, Ardigalea.
 [@so07-finn]: SO07 | | Finn leaves the rear to Gareth.
@@ -99,3 +142,38 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders]
 [@ar03-behemoth]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
 [@earth-raid.so07-sheet]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Magic Earth Raid.
 [@earth-raid.so14-sheet]: SO14 | | Illustrated Status sheet, p. 184 (Level 1): no Magic entry; Skill Dvergr Enhance.
+[@so02-three]: SO02 | Chapter 5: The Battle of Rivira | "all three Level 6 adventurers made up Loki Familia’s top commanders as well as their strongest warriors".
+[@ar01-dusty]: AR01 | Chapter 2: Eren | "the old dwarf Gareth Landrock"; "stroking his magnificent beard"; "dusty old heroes"; "a man known as the Peerless Wall".
+[@ar01-alize]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): "old man Gareth"; "his long, impressive beard"; "the venerable dwarf was the definition of a celebrity"; "so annoying, he doesn’t know how to get rid of me".
+[@ar01-evils]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): the battle-ax "nearly as tall as he"; "with no more effort than he would a paper fan"; "boulder-like fists"; "the old dwarf would gladly shoulder any pain".
+[@ar01-alfia]: AR01 | Chapter 10: Conquerors | Riveria falls first; "Then it was Gareth, dropping his shield."
+[@ar02-witch]: AR02 | | Printed heading "Prologue: A City Shrouded in Darkness" (not in the evidence map): "that witch laid me low"; Gareth and Riveria "were defeated by Alfia, the Level 7 witch".
+[@ar02-asfi]: AR02 | Chapter 4: Those Who Struggle | "greatax slung across his shoulder"; "offered Asfi advice as a veteran"; Hermes Familia to find "Zald, Alfia, and the dark god Erebus".
+[@ar03-level6]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Hermes: "Braver, Nine Hell, and Elgarm all reached Level 6."
+[@so01-eyes]: SO01 | Chapter 2: Dungeon Confusion | "Gareth adjusted his helmet, beady eyes looking out from deep within."
+[@so01-hammer]: SO01 | Chapter 2: Dungeon Confusion | Gareth protecting Raul, "wielding a war hammer heavy enough to shake the ground on impact"; "the pale-green monsters".
+[@so02-scold]: SO02 | Chapter 1: The Average Day | "Such a ruckus at the crack o’ dawn!"; "scolded by the dwarf Gareth Landrock until breakfast was served".
+[@fm04-group]: FM04 | Chapter 3: The Smith’s Situation | "Gareth had been in charge of the second group."
+[@so04-finn]: SO04 | First Chapter: And the Boy… | "More ambition in those pint-size bones of yours"; "And here I’ve been trying to mellow out"; "You, Finn? Don’t make me laugh!"
+[@so04-durandal]: SO04 | Last Chapter: To Adventure | Finn to Tsubaki: "These are exactly according to specification."; "Durandal, huh? A lot lighter than I expected!"
+[@so04-wall]: SO04 | Last Chapter: To Adventure | "The dwarf spun that great dragon like a giant hammer"; "A veteran soldier of herculean strength who truly embodied the dwarven race"; "an impenetrable wall"; "His fists were like hammers".
+[@so04-twin]: SO04 | Last Chapter: To Adventure | "He crossed his twin axes in front of his chest."; "His armor was visibly charred from wyvern fire"; "We’ve gotta hold out till Finn and the others get down here".
+[@so05-vermis]: SO05 | | Printed heading "Chapter 1: Passage and the Present" (not in the evidence map): "Gareth and his giant shield" against the poison vermis's spray.
+[@so05-drink]: SO05 | | Printed heading "Chapter 2: Rabbit Rookie" (not in the evidence map): Tsubaki: "Oi, Gareth! Show me that liver of steel!"; "I have me position to consider."
+[@so06-ragamuffins]: SO06 | | Printed heading "Chapter 6: War’s End" (not in the evidence map): "Reminds me of the first time I met those two ragamuffins."; Tiona sent flying "not more than five years ago"; "tossing aside his ax".
+[@so08-bete]: SO08 | Chapter 5: Battered Wolf | Riveria: "Finn, Gareth, and I were forced to call him in for a talk"; "after a few of his usual exchanges of blows with Gareth".
+[@so09-aiz]: SO09 | Recollections Chapter 2: Are You a Sword? | "Aiz preferred Gareth’s company to the rest"; "he did not talk much"; pain as "just another experience Aiz could benefit from".
+[@so10-levis]: SO10 | Chapter 6: The Hero’s Self-Denial | Gareth "crossed blades with Levis"; "the creature who’d defeated both the Sword Princess and Braver".
+[@so10-three]: SO10 | Chapter 6: The Hero’s Self-Denial | "the first time in a long while that the three of them were fighting together".
+[@fm10-fels]: FM10 | Chapter 10: The Fool | Finn "ordered Gareth to circle behind the strange figure watching over the battle"; "A dwarf’s low voice came from behind Fels."
+[@fm10-ikelos]: FM10 | Chapter 10: The Fool | "equipped with heavy armor"; "had dropped off Ikelos on top of a nearby building"; "sliced the beast’s back with his massive battle-ax".
+[@fm11-walls]: FM11 | Chapter 5: Ultra Soul! | "Guess I got carried away. I’ll have to pay for those"
+[@fm11-hiyo]: FM11 | Chapter 5: Ultra Soul! | The blizzard "unleashed by the Hiyo"; "pulled his shield from beneath his mantle"; "Feels about the same strength as Riveria’s magic."
+[@so11-parent]: SO11 | Chapter 2: The Decisive Battle Intermission | Finn "was still the youngest member of the familia’s commanders"; "the sort of happiness that a parent might have watching their child growing up".
+[@so11-squad]: SO11 | Chapter 4: Avengers ~Knossos War~ | "given command of the southwestern squad, fully equipped with a helmet and heavy armor"; Dionysus: "Feel free to use my familia members to your heart’s content."
+[@so12-flags]: SO12 | Chapter 5: Final War | "a gnome toga spirit flag in his right hand and a Tonitrus mohair spirit flag in his left hand"; "the third squad".
+[@so12-act]: SO12 | Chapter 7: Final War II | "The two had known Finn longest."; "Got more wily tricks up your sleeve, huh?"; "playing up the act".
+[@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | Loki's party for the three; "as the oldest members"; "How many times have we leveled up together now?"; "With Zeus and Hera gone, Level Seven is the pinnacle."
+[@so14-drink]: SO14 | Chapter 3: The Dwarf’s Embarking | "he ordinarily never said a word"; "she was a good drinking partner for him".
+[@fm17-gulliver]: FM17 | Chapter 5: The End of Her World | "Washed-up old dwarf!"; "Gareth Landrock and the Gulliver brothers were staring each other down".
+[@ss02-spar]: SS02 | | Printed heading "A Man’s Pride" (not in the evidence map): Bete "never managed to land so much as a scratch on the seasoned dwarf".

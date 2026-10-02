@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Amazon sisters of Loki Familia, famous top-class adventurers; both reach Level 6 in Sword Oratoria 6. Tiona trains Bell with Aiz in DanMachi 6.",
-  "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters"],
+  "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters", "Amazon the Slasher", "Jormungand"],
   "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 1, 2, 4–7 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
   "infobox": {
@@ -17,6 +17,7 @@
       {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm02-sisters", "fm05-sisters"]},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-tione"]},
       {"label": "Level", "value": "6 each, from Sword Oratoria 6", "refs": ["so06-sisters"]},
+      {"label": "Titles", "value": "Tiona: Amazon the Slasher; Tione: Jormungand", "refs": ["fm11-slasher", "fm10-titles", "so04-jormungand"]},
       {"label": "Development Ability", "value": "Dive, gained at Level 6", "refs": ["so06-sisters"]},
       {"label": "Skills", "value": "Both: [[skills#berserk|Berserk]]. Tiona: [[skills#intense-heat|Intense Heat]]. Tione: [[skills#backdraft|Backdraft]]", "refs": ["skills.so06-berserk", "skills.so06-heat"]}
     ]
@@ -27,11 +28,11 @@
 
 ## Tiona
 
-Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by [[goibniu-familia|Goibniu Familia]].[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters]
+Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by [[goibniu-familia|Goibniu Familia]].[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the intelligent monsters are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters] Her title is printed *Amazon the Slasher* (DanMachi 11) and, in DanMachi 10's roll of "Orario’s strongest adventurers", simply *Amazon*.[@fm11-slasher, fm10-titles] In Minor Myths and Legends 2 she haggles with Lulu, an Amazon stall owner, to get a boy a fair price for his old equipment: "Three hundred thousand!!"[@ss02-lulu]
 
 ## Tione
 
-Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione]
+Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione] Her title is *Jormungand*: "Tione Hyrute—the Jormungand."[@so04-jormungand, fm10-titles]
 
 ## Together
 
@@ -82,11 +83,11 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 
 {{nocite}} Notable uses and open questions for Restrict Iorum are on the combined page: [[magic#restrict-iorum|Magic § Restrict Iorum]].
 
-[@fm02-sisters]: FM02 | | "Two Amazonian sisters."
+[@fm02-sisters]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "Two Amazonian sisters."
 [@fm05-sisters]: FM05 | Chapter 4: Dungeon Resort? | "The Amazonian Hyrute sisters," famous top-class adventurers.
 [@fm06-tiona]: FM06 | | Training Bell with Aiz.
 [@fm08-tione]: FM08 | | Tione Hyrute, Finn's field commander.
-[@fm11-tiona]: FM11 | | Tiona lets Wiene escape.
+[@fm11-tiona]: FM11 | Chapter 5: Ultra Soul! | Tiona lets Wiene escape.
 [@fm17-sisters]: FM17 | | Aiz, Tiona, Tione and Lyu against Hegni.
 [@so01-urga]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga".
 [@so02-urga]: SO02 | Chapter 2: Incident | "the hulking double-bladed sword Urga"; "from Goibniu Familia".
@@ -95,8 +96,12 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@skills.so06-berserk]: SO06 | Chapter 5: A Duo of Sun and Moon | Berserk: Tiona's, the same as her sister's; Tione's fury.
 [@skills.so06-heat]: SO06 | Chapter 5: A Duo of Sun and Moon | Intense Heat, a rare skill; Backdraft; the same activation requirements.
 [@so06-tione]: SO06 | | Seldas; Argana.
-[@so07-tiona]: SO07 | | Tiona and Gugalanna.
-[@so07-tione]: SO07 | | Berserk; Restrict Iorum.
+[@so07-tiona]: SO07 | Chapter 4: The Sword’s Wind Calls | Tiona and Gugalanna.
+[@so07-tione]: SO07 | Chapter 5: Battle of Tears | Berserk; Restrict Iorum.
 [@ss02-tiona]: SS02 | | Tiona's childhood and books.
 [@restrict-iorum.so07-cast]: SO07 | Chapter 5: Battle of Tears | The full chant; no magic circle; "restrictive magic"; hit rate; "one for ten on a floor boss".
 [@restrict-iorum.so04-sheet]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Restrict Iorum, restraining magic; chance-based; success rises with Magic.
+[@fm10-titles]: FM10 | Chapter 9: Dreams of Beasts | The roll of "Orario’s strongest adventurers" names Tiona with the title Amazon and Tione with Jormungand.
+[@fm11-slasher]: FM11 | Chapter 5: Ultra Soul! | "Amazon the Slasher and Jormungand had intercepted them".
+[@so04-jormungand]: SO04 | Last Chapter: To Adventure | "Tione Hyrute—the Jormungand."
+[@ss02-lulu]: SS02 | My Memory | "The stall owner’s name turned out to be Lulu, and she refused to budge on the price."; Tiona: "Three hundred thousand!!"

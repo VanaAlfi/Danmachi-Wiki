@@ -102,13 +102,13 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 
 {{nocite}} Notable uses and open questions for Dia Frater are on the combined page: [[magic#dia-frater|Magic § Dia Frater]].
 
-[@fm14-arm]: FM14 | | Amid rebuilds Bell's arm.
+[@fm14-arm]: FM14 | Epilogue: You’ll Be Back II | Amid rebuilds Bell's arm.
 [@fm14-best]: FM14 | Epilogue: You’ll Be Back II | "The best healer in the city."
 [@fm15-amid]: FM15 | Prologue: Adventurers’ Rest | Amid scolds Bell.
 [@fm18-amid]: FM18 | Chapter 8: The Great Familia War | Amid Teasanare, Dea Saint, of Dian Cecht Familia.
 [@fm18-healers]: FM18 | Chapter 8: The Great Familia War | The silver saint and the golden witch compared.
 [@so07-amid]: SO07 | | Amid treats Finn.
-[@so08-amid]: SO08 | | Lifting the curse; the elixir from her blood.
+[@so08-amid]: SO08 | Chapter 5: Battered Wolf | Lifting the curse; the elixir from her blood.
 [@so08-elixir]: SO08 | Epilogue: Instead of Good-bye— | Amid's curse-repelling potion saves the Amazons.
 [@so11-amid]: SO11 | | Dia Frater and the cursed enemy.
 [@ss01-healers]: SS01 | | The two great healers.

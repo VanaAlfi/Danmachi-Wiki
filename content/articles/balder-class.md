@@ -109,7 +109,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@fm20-malik]: FM20 | Chapter 3: The World, The Festival, and Reality | "The Level Five Balder Class instructor, Malik Alfort takes it!!!"
 [@so13-alisa]: SO13 | Chapter 2: Nostalgic Schoolhouse | "I am Alisa Ragast. I shall be your guide."; "Lefiya and Alisa had both belonged to Balder Class."; "the student council president who always took charge".
 [@so13-emblem]: SO13 | Chapter 2: Nostalgic Schoolhouse | "The ray of light and ship crest—the emblem of Balder Class—was proof she".
-[@so13-lefiya]: SO13 | Chapter 2: Nostalgic Schoolhouse | "As a member of Balder Class, Lefiya was quickly blessed with good friends".
+[@so13-lefiya]: SO13 | Fairy Canon: 1 | "As a member of Balder Class, Lefiya was quickly blessed with good friends".
 [@so13-leon]: SO13 | Chapter 3: Class is in Session | "the captain of Balder Class, Leon Verdenberg".
 [@so13-cells]: SO13 | Chapter 3: Class is in Session | "those who choose combat disciplines are arranged into four-man cells"; "You will be instructing Seventh Squad."
 [@so13-lefiya-squad]: SO13 | Chapter 3: Class is in Session | "Lefiya had, for better or worse, been part of the 7th Squad as"

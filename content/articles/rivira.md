@@ -61,13 +61,13 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 > - Whether Sword Oratoria 2's count should read 334 or 344.[@so02-sign]
 > - How the town was rebuilt after its destruction in DanMachi 10.[@fm10-rivira]
 
-[@fm05-rivira]: FM05 | | Rivira's location, name, count and trade.
+[@fm05-rivira]: FM05 | Chapter 4: Dungeon Resort? | Rivira's location, name, count and trade.
 [@fm05-bors]: FM05 | | Bors and the Black Goliath.
 [@fm08-goliath]: FM08 | | Rivira organises the Goliath's extermination.
-[@fm10-rivira]: FM10 | | The Xenos destroy Rivira's 334th version.
+[@fm10-rivira]: FM10 | Chapter 8: City Panic | The Xenos destroy Rivira's 334th version.
 [@fm13-framed]: FM13 | Chapter 4: Countdown | The framing of the Gale Wind and the hunting party.
 [@fm14-bors]: FM14 | Epilogue: You’ll Be Back II | Bors's report.
-[@fm17-snitch]: FM17 | | The Status Snitch from Rivira.
+[@fm17-snitch]: FM17 | Chapter 2: Alone Inside a Sandbox | The Status Snitch from Rivira.
 [@fm17-charm]: FM17 | | The charm and the Dungeon; Rivira summoned to the surface.
 [@fm19-rivira]: FM19 | Chapter 1: V-V-V for Victory Party | Rivira plays along.
 [@so02-sign]: SO02 | Chapter 2: Incident | The sign's count.

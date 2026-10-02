@@ -165,7 +165,7 @@ The narration says it could be neither dodged nor blocked, but Lyra throws herse
 > - Whether Alfia is the unnamed young Hera Familia prodigy who defeated [[ottar|Ottar]] in Familia Chronicle 2; the identification is likely but not stated.[@fc02-opponents]
 
 [@ar01-alfia]: AR01 | | Former Hera Level 7; defeats Riveria and Gareth.
-[@ar01-silence]: AR01 | | "Alfia, the Silence!"
+[@ar01-silence]: AR01 | Chapter 10: Conquerors | "Alfia, the Silence!"
 [@ar02-level]: AR02 | | "Alfia, the Level 7 witch."
 [@ar03-family]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia; her nephew; her self-blame; her hopes.
 [@ar03-zeus]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | The blood of a child of Hera and of one of Zeus's; "My sister entrusted him to Zeus"; the child is not named.
@@ -188,7 +188,7 @@ The narration says it could be neither dodged nor blocked, but Lyra throws herse
 [@satanas-verion.ar03-again]: AR03 | Chapter 9: A Hero’s Trail | "Gospel!" again.
 [@satanas-verion.ar03-genos-third]: AR03 | Chapter 9: A Hero’s Trail | A third ability, neither her sound wave nor her enchantment.
 [@silentium-eden.ar01-riveria]: AR01 | | "Ataraxia"; Wynn Fimbulvetr erased by a wall of sound.
-[@silentium-eden.ar01-report]: AR01 | | "Immune to…magical and nonmagical attack".
+[@silentium-eden.ar01-report]: AR01 | Chapter 11: Absolute Evil | "Immune to…magical and nonmagical attack".
 [@silentium-eden.ar03-barrage]: AR03 | | "Ataraxia"; the barrage disperses.
 [@silentium-eden.ar03-passive]: AR03 | Chapter 4: Apocalypse Cometh | "A passive enchantment"; the gestures are for show; Alize's flames.
 [@silentium-eden.ar03-mind]: AR03 | Chapter 4: Apocalypse Cometh | It must drain her Mind; "outwitted me".

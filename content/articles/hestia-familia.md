@@ -203,7 +203,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm04-invitations]: FM04 | A Campanella to the Goddess | Daily invitations turned down; "an unknown group with no reputation".
 [@fm04-church]: FM04 | A Campanella to the Goddess | The home's location between Northwest and West Main Streets.
 [@fm05-return]: FM05 | Epilogue: The One Who Targets the Rabbit | The party survives; Guild secrecy and penalty.
-[@fm05-rescue]: FM05 | | The Familia's savings spent on the rescue.
+[@fm05-rescue]: FM05 | Chapter 2: How Many Meders to a Safe Return? | The Familia's savings spent on the rescue.
 [@fm05-mikoto-level2]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Ouka and Mikoto, Takemikazuchi Familia's only Level 2s.
 [@fm06-fine]: FM06 | Chapter 1: The Furious Rabbit | The Guild's fine of "a few thousand vals" (cited by the body heading; FM06 has no contents list).
 [@fm06-church]: FM06 | Chapter 3: Outbreak | Apollo Familia's assault; the old church collapses.
@@ -237,7 +237,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm08-joint]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Joint party with Takemikazuchi Familia; word of the magic swords' maker in Rivira.
 [@fm08-surveillance]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Loki Familia and the Guild have the Familia, especially Welf, watched.
 [@fm08-middle]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "a middle-ranking familia".
-[@fm08-hearthstone]: FM08 | | The home is named Hearthstone Manor.
+[@fm08-hearthstone]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): The home is named Hearthstone Manor.
 [@fm09-harbor]: FM09 | Chapter 1: An Irregular Girl | Harbouring a monster would finish the Familia.
 [@fm09-church]: FM09 | Chapter 3: The World and Reality and Monsters | The former home under the church, with Wiene.
 [@fm09-mission]: FM09 | Chapter 4: Mission | The secret mission only Hestia Familia may know.

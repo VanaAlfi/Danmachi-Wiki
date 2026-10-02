@@ -5,23 +5,25 @@
   "status": "complete",
   "reviewed": "2026-10-02",
   "continuity": "light-novel",
-  "summary": "The rare metals of the English novels: adamantite mined in the Dungeon and its lighter processed form, dir adamantite; mythril; orichalcum, the master ingot of Durandal weapons; Damascus; and the Far East's scarletite. One combined page with a section per metal.",
-  "aliases": ["Rare metals", "Rare metal", "Ores and metals"],
-  "spoilers": "DanMachi Vols. 1, 7, 10, 12–15, 19, 20, Sword Oratoria Vols. 2, 3, 6, 7, 9, 11, 13, 14, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 2",
-  "related": ["knossos", "desperate", "hestia-knife", "school-district", "welf-crozzo", "hephaistos-familia", "goibniu-familia", "dungeon"],
+  "summary": "The rare metals and ores of the English novels: adamantite mined in the Dungeon and its lighter processed form, dir adamantite; mythril; orichalcum, the master ingot of Durandal weapons; Damascus; the Far East's scarletite; varmath from the lower levels; and seiros, the white ore mages favour. One combined page with a section per metal.",
+  "aliases": ["Rare metals", "Rare metal", "Ores and metals", "Ores", "Ore"],
+  "spoilers": "DanMachi Vols. 1, 7, 10–15, 19, 20, Sword Oratoria Vols. 2, 3, 6, 7, 9–11, 13, 14, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 2",
+  "related": ["knossos", "desperate", "hestia-knife", "school-district", "welf-crozzo", "hephaistos-familia", "goibniu-familia", "dungeon", "equipment"],
   "sections": [
-    {"anchor": "adamantite", "title": "Adamantite", "summary": "One of the finest rare metals, mined in the Dungeon and purest from the deep levels; exceedingly hard to forge. Knossos's passages are built of it, and dir adamantite is its lighter processed form.", "aliases": ["Dir adamantite", "Dir-adamantite"]},
+    {"anchor": "adamantite", "title": "Adamantite", "summary": "One of the finest rare metals, mined in the Dungeon and purest from the deep levels; exceedingly hard to forge. Knossos's passages are built of it, and dir adamantite is its lighter processed form.", "aliases": ["Dir adamantite", "Dir-adamantite", "Dual adamantite", "Dual-adamantite"]},
     {"anchor": "mythril", "title": "Mythril", "summary": "Lighter and stronger than iron, easy to work and highly conductive of magic; the Hestia Knife is forged from it. Also printed mithril.", "aliases": ["Mithril"]},
     {"anchor": "orichalcum", "title": "Orichalcum", "summary": "The densest rare metal, a master ingot made by blending materials with mortal techniques; Durandal weapons such as Desperate are forged from it, and Knossos's doors are made of it.", "aliases": ["Master ingot"]},
     {"anchor": "damascus", "title": "Damascus", "summary": "A foreign material, also called rippled steel, used to forge weapons; Aiz's custom sword in Sword Oratoria 9 is made of it.", "aliases": ["Damascus steel", "Rippled steel"]},
-    {"anchor": "scarletite", "title": "Scarletite", "summary": "A miraculous metal created in the Far East, equal to orichalcum in value and rarity.", "aliases": []}
+    {"anchor": "scarletite", "title": "Scarletite", "summary": "A miraculous metal created in the Far East, equal to orichalcum in value and rarity.", "aliases": []},
+    {"anchor": "varmath", "title": "Varmath", "summary": "A high-quality Dungeon ore from the lower levels, also printed valmars: Ouka's battle-ax Kougou and the School District's arenas are made of it.", "aliases": ["Valmars", "Valmarth"]},
+    {"anchor": "seiros", "title": "Seiros", "summary": "A white ore that mages favour; Lefiya's staff and the high elves' castle are made of it.", "aliases": ["Seiros ore"]}
   ],
   "infobox": {
     "title": "Metals",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Rare metals"},
-      {"label": "Kinds", "value": "Adamantite, dir adamantite, mythril, orichalcum, Damascus, scarletite (see [[#index|Index]])", "refs": ["fm14-adamantite", "fm01-mythril", "fm10-orichalcum", "fm10-damascus", "so13-scarletite"]},
+      {"label": "Kinds", "value": "Adamantite, dir adamantite, mythril, orichalcum, Damascus, scarletite; the ores varmath and seiros (see [[#index|Index]])", "refs": ["fm14-adamantite", "fm01-mythril", "fm10-orichalcum", "fm10-damascus", "so13-scarletite", "fm12-varmath", "so03-seiros"]},
       {"label": "From the Dungeon", "value": "Adamantite; natural ingots", "refs": ["fc01-vault", "fm14-ingot"]},
       {"label": "Highest grade", "value": "Orichalcum", "refs": ["so07-orichalcum"]},
       {"label": "Leading maker of orichalcum", "value": "The [[school-district|School District]]'s Alchemy Department", "refs": ["fm19-alchemy"]}
@@ -31,7 +33,7 @@
 ---
 **Rare metals** are the materials of the best weapons and armour in the English novels. Some come from the [[dungeon|Dungeon]] itself: on DanMachi 14's expedition [[welf-crozzo|Welf]] finds "a natural Dungeon ingot, glittering with the sheen of rare metal", and in Sword Oratoria 2 Tiona is delighted to find rare metal just beneath the surface of a Dungeon wall.[@fm14-ingot, so02-rare] Gnomes, the spirits of the earth, love rare metals, ores and jewels and can find veins of minerals and ores.[@so14-gnomes]
 
-{{nocite}} This page gathers the named metals, one searchable section per metal, like the [[magic|Magic]] and [[monsters|Monsters]] pages.
+{{nocite}} This page gathers the named metals and ores, one searchable section per metal, like the [[magic|Magic]] and [[monsters|Monsters]] pages. The weapons and armour made from them are on [[equipment|Equipment]].
 
 ## Index {#index}
 
@@ -42,6 +44,8 @@
 | [[#orichalcum|Orichalcum]] | Indestructible; Durandal weapons; Knossos's doors | Blended with mortal techniques; the School District's alchemists.[@fm10-orichalcum, fm19-alchemy] |
 | [[#damascus|Damascus]] | Rippled steel; Aiz's sword in Sword Oratoria 9 | Imported from outside Orario.[@so09-damascus] |
 | [[#scarletite|Scarletite]] | As valuable and rare as orichalcum | Created in the Far East.[@so13-scarletite] |
+| [[#varmath|Varmath]] | Ouka's battle-ax and shield; the School District's arenas | A Dungeon ore of the lower levels.[@fm12-varmath, fm19-arena] |
+| [[#seiros|Seiros]] | Lefiya's staff; the high elves' castle | A white ore.[@so03-seiros, so14-seiros] |
 
 ## Adamantite {#adamantite}
 
@@ -49,13 +53,13 @@
 
 [[knossos|Knossos]] has "hallways constructed with adamantite" behind its orichalcum doors.[@fm10-knossos, so07-knossos]
 
-**Dir adamantite** is "a lighter, processed version of the metal".[@fm14-adamantite] Welf forges Bell's armour from it: durable and lightweight, by DanMachi 12 it is on its "fifth reincarnation".[@fm12-armor] In DanMachi 13 its shield, which had withstood even the black minotaur's blows, is demolished.[@fm13-shield] In DanMachi 15 a healer's cast is made of dir adamantite instead of plaster.[@fm15-cast] The text prints both *dir adamantite* and *dir-adamantite*.[@fm12-armor, fm14-adamantite]
+**Dir adamantite** is "a lighter, processed version of the metal".[@fm14-adamantite] Welf forges Bell's armour from it: durable and lightweight, by DanMachi 12 it is on its "fifth reincarnation".[@fm12-armor] In DanMachi 13 its shield, which had withstood even the black minotaur's blows, is demolished.[@fm13-shield] In DanMachi 15 a healer's cast is made of dir adamantite instead of plaster.[@fm15-cast] The text prints both *dir adamantite* and *dir-adamantite*; DanMachi 10, 11 and 13 print *dual adamantite* (DanMachi 11 also *dual-adamantite*) for the same armour (see [[equipment#pyonkichi|Pyonkichi]]).[@fm12-armor, fm14-adamantite, fm10-dual, fm11-dual, fm13-dual]
 
 ## Mythril {#mythril}
 
 "Lighter and stronger than iron, mythril was also far more malleable and easier to work with."[@fm01-mythril] The [[hestia-knife|Hestia Knife]] is forged from Hephaistos's mythril.[@fm01-knife] Forged mythril is very strong ("Even top-class adventurers can’t snap ’em") and very conductive of magic.[@fm07-shackles] Welf explains that mithril is easy to work with and conducts magical power well, so "Mithril weapons are common for fighters who combine magic and ordinary combat ability".[@fm12-welf]
 
-- Bete's mythril boots, Frosvirt, absorb magic.[@so03-frosvirt]
+- Bete's mythril boots, [[equipment#frosvirt|Frosvirt]], absorb magic.[@so03-frosvirt]
 - In Meren a mythril grating seals the sewer outlet against large monsters, and mythril, the most expensive ingot, is reserved for the boats of the wealthy.[@so06-grate, so06-boats]
 - In Sword Oratoria 11 [[asfi|Asfi]] holds up a mythril orb, the key she made for Knossos.[@so11-key]
 
@@ -76,6 +80,16 @@ Damascus steel is "a foreign material used to forge weapons".[@fm10-damascus] In
 ## Scarletite {#scarletite}
 
 "Scarletite is a miraculous metal created in the Far East", equal to orichalcum in value and rarity; in Sword Oratoria 13 a School District student argues for recycling it into orichalcum.[@so13-scarletite] See also [[far-east|Far East]].[@so13-scarletite]
+
+## Varmath {#varmath}
+
+Varmath is "a high-quality Dungeon ore" found only in the lower levels. [[hephaistos|Hephaistos]] gives some to [[welf-crozzo|Welf]], who forges [[ouka|Ouka]]'s battle-ax [[equipment#kougou|Kougou]] from it and his shield from the leftovers.[@fm12-varmath, fm14-varmath] Shields "made of hard white valmars" hold against a monster's charge in DanMachi 13, but in DanMachi 14 Ouka sees "the hard valmars surface" melting like wax.[@fm13-valmars, fm14-valmars] It is "a material that’s also used for weapon and gear manufacturing": the [[school-district|School District]] has arenas built of it, among them "an arena hewn from valmars ore" where classes compete.[@fm19-arena, so13-arena] In Sword Oratoria 10 "countless tools made of Valmars" are broken digging through a wall of the labyrinth, and in Sword Oratoria 6 the great seal at the bottom of Lolog Lake looks to be "constructed of either seiros or varmath".[@so10-valmars, so06-seal]
+
+**Name:** DanMachi 12 and 14 and Sword Oratoria 6 print *varmath*; DanMachi 13, 14 and 19 and Sword Oratoria 13 print *valmars*, and Sword Oratoria 10 *Valmars*. Fandom's *Valmarth* is a search alias.[@fm12-varmath, fm13-valmars, so10-valmars, so06-seal]
+
+## Seiros {#seiros}
+
+Seiros is a white ore that "mages were rather fond of"; [[lefiya|Lefiya]]'s staff [[equipment#forests-teardrop|Forest's Teardrop]] is made from it.[@so03-seiros] When [[lyu-leon|Lyu]] ran away from her home, she took "only some seiros ore to use as traveling money".[@fm15-seiros] In the Alf Royal Woods, the high elves' home, the castle at the base of the royal sacred tree is "built of seiros" ([[riveria|Riveria]]'s room is near its top).[@so14-seiros] In Familia Chronicle 1 gossip says that Felnas, a small country with economic difficulties, has found "a mountain of seiros in a forest within their territory".[@fc01-seiros] The seal at Lolog Lake may be seiros or varmath.[@so06-seal]
 
 [@fm01-mythril]: FM01 | Chapter 5: The Goddess’s Prank | Mythril chosen from a case of metals and alloys; "Lighter and stronger than iron" (cited by the body heading, printed "The G♥ddess’s Prank").
 [@fm01-knife]: FM01 | Chapter 6: Bump of Chicken! | The Hestia Knife forged from Hephaistos's mythril (cited by the body heading, printed "Bump ◆ of ◆ Chicken!").
@@ -103,6 +117,21 @@ Damascus steel is "a foreign material used to forge weapons".[@fm10-damascus] In
 [@so09-damascus]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | Aiz's Damascus sword from Goibniu Familia; "rippled steel".
 [@so09-cracks]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | The Damascus sword cracks.
 [@so11-key]: SO11 | Chapter 5: Obsession Manifest | Asfi's mythril orb.
-[@so13-scarletite]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Scarletite is a miraculous metal created in the Far East".
+[@so13-scarletite]: SO13 | Fairy Canon: 1 | "Scarletite is a miraculous metal created in the Far East".
 [@so14-gnomes]: SO14 | Chapter 3: The Dwarf’s Embarking | Gnomes, rare metals and veins of ore.
 [@ss02-market]: SS02 | My Memory | Weapons forged from Damascus steel in a market.
+[@fm10-dual]: FM10 | Chapter 9: Dreams of Beasts | "the dual adamantite mixed into the fifth incarnation of Pyonkichi".
+[@fm11-dual]: FM11 | Chapter 5: Ultra Soul! | "The dual adamantite armor that Welf had forged for him".
+[@fm13-dual]: FM13 | Chapter 5: Calamity Arrives | "Its dual adamantite flashed."
+[@fm12-varmath]: FM12 | Chapter 6: The Hero’s Sacred Flame | "Welf had forged it for Ouka using varmath, a high-quality Dungeon ore that Hephaistos had given him as part present, part assignment. It was found only in the lower levels."
+[@fm13-valmars]: FM13 | Chapter 4: Countdown | "The shields made of hard white valmars, too, stood up to the task."
+[@fm14-varmath]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "his huge battle-ax made from the high-quality ore varmath".
+[@fm14-valmars]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Ouka gulped as he looked down at the hard valmars surface only to find it melting like wax."
+[@fm19-arena]: FM19 | Chapter 2: School Heaven and Hell | "Made of valmars from the Dungeon, a material that’s also used for weapon and gear manufacturing".
+[@so13-arena]: SO13 | Chapter 3: Class is in Session | "They were in an arena hewn from valmars ore, a practice ground in one corner of the academic layer also used for interclass competitions."
+[@so10-valmars]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "they had broken countless tools made of Valmars".
+[@so06-seal]: SO06 | Chapter 2: Port Meren | "It appeared to be constructed of either seiros or varmath".
+[@so03-seiros]: SO03 | Chapter 4: White-Haired Devil | "Made from a white ore called seiros that mages were rather fond of".
+[@fm15-seiros]: FM15 | Chapter 6: Meetings and Oaths | "Lyu ran away from her home—alone, taking only some seiros ore to use as traveling money."
+[@so14-seiros]: SO14 | Chapter 2: The High Elf’s Departure | "The castle, built of seiros, sat squarely at the base of the tree, and Riveria’s room in it was nearly on the highest floor."
+[@fc01-seiros]: FC01 | Crush the Grand Casino! | "Isn’t Felnas that small country…?"; "It seems they found a mountain of seiros in a forest within their territory."

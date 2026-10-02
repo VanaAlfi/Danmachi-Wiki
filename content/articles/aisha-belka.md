@@ -98,9 +98,9 @@ In DanMachi 14 and 18 Aisha opens with a short call before the lines above: "Com
 
 [@fm07-aisha]: FM07 | | Level 3 Antianeira; Haruhime; the Killing Stone; Hell Kaios; her sealed Status.
 [@fm09-level]: FM09 | | Level 4 after converting.
-[@fm10-hermes]: FM10 | | Hermes Familia confirmed.
+[@fm10-hermes]: FM10 | Chapter 8: City Panic | Hermes Familia confirmed.
 [@fm12-aisha]: FM12 | | The expedition; the moss huge.
-[@fm13-aisha]: FM13 | | The lambton.
+[@fm13-aisha]: FM13 | Chapter 4: Countdown | The lambton.
 [@fm14-aisha]: FM14 | | The Amphisbaena.
 [@fm14-haruhime]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Aisha and Haruhime.
 [@fm15-aisha]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Aisha's advice.

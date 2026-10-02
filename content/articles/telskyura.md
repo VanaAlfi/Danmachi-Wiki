@@ -57,7 +57,7 @@ Kali claims the country was "like that even before I came along", and that she o
 | Sword Oratoria 12 | The warriors of Telskyura fight with Orario's forces in the final battle at [[knossos|Knossos]], and "Telskyura’s strongest warrior" tears off a tentacle of the enemy.[@so12-warriors, so12-strongest] |
 | Minor Myths and Legends 2 | After "settling their business with the island nation of Telskyura", Aiz, Lefiya and the Hyrute sisters stay in Meren, where Kali invites Aiz to come back to Telskyura to fight all she wants.[@ss02-island] |
 
-In Sword Oratoria 14's look back at Loki Familia's founding, one of the three founders wants to go west "to see Telskyura, where the Amazons’ unending battles unfold"; [[gareth|Gareth]] objects to "a holy land of female warriors closed off from the world".[@so14-founders]
+In Sword Oratoria 14's look back at Loki Familia's founding, [[gareth|Gareth]] wants to go west "to see Telskyura, where the Amazons’ unending battles unfold"; [[riveria|Riveria]] objects that a dwarf has no business in "a holy land of female warriors closed off from the world".[@so14-founders]
 
 ## Open questions
 

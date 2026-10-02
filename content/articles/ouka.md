@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Captain of Takemikazuchi Familia, from the Far East; a towering Level 2 axe-and-shield fighter who fights alongside Hestia Familia on its expeditions.",
-  "aliases": ["Ouka", "Ouka Kashima"],
+  "aliases": ["Ouka", "Ouka Kashima", "Masuratakeo"],
   "spoilers": "DanMachi Vols. 5–15",
   "related": ["takemikazuchi-familia", "mikoto", "chigusa", "haruhime", "bell-cranell"],
   "infobox": {
@@ -16,6 +16,7 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[takemikazuchi-familia|Takemikazuchi Familia]]", "refs": ["fm05-ouka"]},
       {"label": "Position", "value": "Captain", "refs": ["fm05-ouka"]},
+      {"label": "Also called", "value": "Masuratakeo (DanMachi 13)", "refs": ["fm13-masuratakeo"]},
       {"label": "Level", "value": "2 (the novels differ on when; see below)", "refs": ["fm05-level", "fm08-ouka"]},
       {"label": "Weapon", "value": "The Kougou battle-ax and a shield, forged by [[welf-crozzo|Welf]]", "refs": ["fm12-kougou"]}
     ]
@@ -28,7 +29,7 @@
 
 Ouka is an intimidating man of broad build whose height reaches about 190 celch (the Yen Press text says "standing more than 190 celch tall, with wide, muscular shoulders").[@fm05-look, fm05-ja-look] He fights with Far Eastern martial arts as well as his weapons.[@fm12-kougou]
 
-By DanMachi 12 his weapon is the Kougou battle-ax. Welf forged it from varmath, a high-quality ore found only in the Dungeon's lower levels that [[hephaistos|Hephaistos]] had given him as part present, part assignment, and used the leftovers for Ouka's shield. Although the materials had cost him nothing, Welf charged 700,000 valis for the set, a steep discount.[@fm12-kougou]
+By DanMachi 12 his weapon is the [[equipment#kougou|Kougou]] battle-ax. Welf forged it from [[metals#varmath|varmath]], a high-quality ore found only in the Dungeon's lower levels that [[hephaistos|Hephaistos]] had given him as part present, part assignment, and used the leftovers for Ouka's shield. Although the materials had cost him nothing, Welf charged 700,000 valis for the set, a steep discount.[@fm12-kougou]
 
 ## History
 
@@ -38,7 +39,7 @@ By DanMachi 12 his weapon is the Kougou battle-ax. Welf forged it from varmath, 
 | DanMachi 8 | [[takemikazuchi|Takemikazuchi]] says that Chigusa and Ouka reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]], although DanMachi 5 had already called Ouka Level 2 (see Open questions).[@fm08-ouka, fm05-level] |
 | DanMachi 11 | Sees for himself that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] |
 | DanMachi 12 | Joins the joint expedition; Haruhime's [[magic#kokonoe|Kokonoe]] boosts him with four others, and he praises Bell's renewed fighting.[@fm12-boost, fm12-praise] |
-| DanMachi 13 | Haruhime saves Mind by boosting only him and [[welf-crozzo|Welf]] in the fight against the [[lambton|lambton]].[@fm13-ouka] |
+| DanMachi 13 | Haruhime saves Mind by boosting only him and [[welf-crozzo|Welf]] in the fight against the [[lambton|lambton]].[@fm13-ouka] Aisha's order calls the two "Ignis and Masuratakeo". {{inference}} *Ignis* is Welf's title, so *Masuratakeo* is presumably Ouka's.[@fm13-masuratakeo] |
 | DanMachi 14 | Uses his technique Kokuu: Devouring Tiger, with Mikoto's gravity, to cut off the [[amphisbaena|Amphisbaena]]'s right head. His group has already guessed much about the Xenos.[@fm14-ouka, fm14-xenos] |
 
 ## Open questions
@@ -58,6 +59,7 @@ By DanMachi 12 his weapon is the Kougou battle-ax. Welf forged it from varmath, 
 [@fm12-boost]: FM12 | Chapter 6: The Hero’s Sacred Flame | Ouka boosted.
 [@fm12-praise]: FM12 | Chapter 2: Adventure Intermission | Ouka praises Bell.
 [@fm13-ouka]: FM13 | | The lambton.
-[@fm14-ouka]: FM14 | | Kokuu and the Amphisbaena.
+[@fm14-ouka]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Kokuu and the Amphisbaena.
 [@fm14-xenos]: FM14 | Epilogue: You’ll Be Back II | Ouka's group and the Xenos.
 [@fm15-shrine]: FM15 | | The Far Eastern shrine.
+[@fm13-masuratakeo]: FM13 | Chapter 4: Countdown | Aisha: "just boost Ignis and Masuratakeo on the front line!"; the order is "to boost the levels of Welf and Ouka".

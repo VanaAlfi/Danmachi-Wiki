@@ -114,12 +114,12 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 
 [@fm05-mikoto]: FM05 | | Level 2 of Takemikazuchi Familia; the pass parade; Futsu no Mitama.
 [@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Mikoto's magic against the Goliath.
-[@fm06-join]: FM06 | | Mikoto converts.
+[@fm06-join]: FM06 | Chapter 4: Those Who Gather | Mikoto converts.
 [@fm06-gravity]: FM06 | Chapter 5: Our War Game | Futsu no Tama traps twenty-two combatants.
 [@fm07-crow]: FM07 | | Yatano Black and White Crow; Belit Babili; Ignis Fatuus.
 [@fm08-card]: FM08 | | Level 2 card; Immunity; new swords; Haruhime's boost.
 [@fm09-crow]: FM09 | | Yatano Black Crow; the Frontier passage.
-[@fm12-mikoto]: FM12 | | Zekka.
+[@fm12-mikoto]: FM12 | Chapter 6: The Hero’s Sacred Flame | Zekka.
 [@fm14-mikoto]: FM14 | | Mikoto and the Amphisbaena.
 [@fm15-card]: FM15 | | Level 2 card (Futsu no Mitama under Magic; the Yatano crows under Skills); the withheld Skill; her history with Haruhime.
 [@fm04-name]: FM04 | Chapter 1: Denatus | Loki: "she’s from one of those Far East places, so her name’s backward…Little Miss Yamato Mikoto!"

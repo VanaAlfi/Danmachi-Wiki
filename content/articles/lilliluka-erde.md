@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Prum supporter who leaves Soma Familia for Hestia Familia in DanMachi 6 and becomes its tactician; her magic Cinder Ella changes her appearance.",
-  "aliases": ["Lilly", "Little Marshal"],
+  "aliases": ["Lilly", "Little Marshal", "Bom Cornwall"],
   "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vol. 12 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "bell-cranell", "hestia", "falna", "welf-crozzo", "haruhime", "freya-familia", "magic"],
   "infobox": {
@@ -36,7 +36,7 @@ In DanMachi 6 Zanis demands at least ten million valis for her release and later
 
 ## Hestia Familia
 
-In DanMachi 4 [[welf-crozzo|Welf]] joins Bell and Lilly, making a three-person party.[@fm04-cell] In the War Game against [[apollo-familia|Apollo Familia]] she uses [[#cinder-ella|Cinder Ella]] to pass as the enemy's Luan for four days and opens the castle's west gate.[@fm06-luan] In DanMachi 8 she turns down a marriage proposal from [[finn-deimne|Finn]] of [[loki-familia|Loki Familia]].[@fm08-card] She at first argues that sheltering the [[xenos|Xenos]] girl [[wiene|Wiene]] endangers the Familia, then uses Cinder Ella to rescue Wiene from a mob.[@fm09-wiene]
+In DanMachi 4 [[welf-crozzo|Welf]] joins Bell and Lilly, making a three-person party.[@fm04-cell] In the War Game against [[apollo-familia|Apollo Familia]] she uses [[#cinder-ella|Cinder Ella]] to pass as the enemy's Luan for four days and opens the castle's west gate.[@fm06-luan] In DanMachi 8 she turns down a marriage proposal from [[finn-deimne|Finn]] of [[loki-familia|Loki Familia]].[@fm08-card] The same volume shows her looking after Bom Cornwall, owner of the shop the Gnome Trader, who puts her up for a night when she runs from home.[@fm08-bom] She at first argues that sheltering the [[xenos|Xenos]] girl [[wiene|Wiene]] endangers the Familia, then uses Cinder Ella to rescue Wiene from a mob.[@fm09-wiene]
 
 In DanMachi 12 she trains as an expedition commander under [[daphne|Daphne]].[@fm12-commander] In DanMachi 15 she reaches Level 2 and chooses the Development Ability Resistance.[@fm15-card, fm15-resistance] Disguised as an elf, she buys flowers from the couple who once turned her away; they express regret, and she leaves without revealing herself.[@fm15-flowers]
 
@@ -106,7 +106,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 
 [@fm02-lilly]: FM02 | | Prum supporter of Soma Familia; theft, exploitation and Bell's rescue.
 [@fm03-stolen]: FM03 | Chapter 1: The Kenki Approches | Her savings stolen.
-[@fm03-status]: FM03 | | Six months without an update.
+[@fm03-status]: FM03 | Chapter 2: Ox and Hare Special Training | Six months without an update.
 [@fm03-ja-status]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 374 and 392): Lilly says she has gone nearly half a year without updating her Status even once; she reached the fund-raising quota but did not hand the money in, so that others would not think she had any, and being unable to update is called the harmful side effect of that.
 [@fm03-cinder]: FM03 | Chapter 2: Ox and Hare Special Training | Limits of Cinder Ella.
 [@fm04-cell]: FM04 | | The three-person party.
@@ -119,12 +119,13 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@fm11-aruru]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Cinder Ella and monsters; no Status gain.
 [@fm12-commander]: FM12 | | Training under Daphne.
 [@fm15-card]: FM15 | | Final Level 1 Status; Cinder Ella, Arter Assist, Command Call; Level 2.
-[@fm15-resistance]: FM15 | | Lilly chooses Resistance.
+[@fm15-resistance]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Lilly chooses Resistance.
 [@fm15-flowers]: FM15 | Interlude: Does Cinderella Dream of Happiness? | The flower shop.
 [@fm18-command]: FM18 | Chapter 9: Flower Language for You | Lilly commands; Cinder Ella against the Bringar.
 [@fm18-mindcall]: FM18 | Chapter 9: Flower Language for You | Mind Call.
-[@fm20-marshal]: FM20 | | "Little Marshal".
-[@so12-fronts]: SO12 | | Lilly commands Riveria's and Gareth's fronts as Finn.
+[@fm20-marshal]: FM20 | Chapter 1: Orario Rumble | "Cute little Lilly will be the Little Marshal!"
+[@fm08-bom]: FM08 | Chapter 2: The Prum’s Proposal | "The shop owner’s name was Bom Cornwall."; "Mr. Bom, please don’t forget to eat the food Lilly brought."; "She went directly to the Gnome Trader after running out of her home last night."
+[@so12-fronts]: SO12 | Chapter 7: Final War II | Lilly commands Riveria's and Gareth's fronts as Finn.
 [@so12-command]: SO12 | Chapter 7: Final War II | Lilly directing the fighting.
 [@cinder-ella.fm02-release]: FM02 | Chapter 5: Reset | "Stroke of midnight’s bell."; changes her appearance.
 [@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only; cat ears appear.

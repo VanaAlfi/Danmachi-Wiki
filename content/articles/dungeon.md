@@ -100,24 +100,24 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 > - The Dungeon's origin, purpose, full depth and what lies at the bottom.[@fm01-mystery]
 > - What Thalia's Ice Garden is; DanMachi 18 gives only its place between Floors 60 and 61.[@fm18-icegarden]
 
-[@fm01-dungeon]: FM01 | | The Dungeon beneath Orario; the Guild.
+[@fm01-dungeon]: FM01 | Chapter 1: World, Reality, and Desire | The Dungeon beneath Orario; the Guild.
 [@fm01-walls]: FM01 | | Walls repair and give birth to monsters; maps.
-[@fm01-stones]: FM01 | | Magic stones and drop items.
-[@fm01-mystery]: FM01 | | One of the three great mysteries; its bottom unknown.
+[@fm01-stones]: FM01 | Chapter 2: That’s Why I Run | Magic stones and drop items.
+[@fm01-mystery]: FM01 | Chapter 4: That’s Why I Want to Help | One of the three great mysteries; its bottom unknown.
 [@fm01-bands]: FM01 | | Floor bands are Dungeon floors, not Levels.
 [@fm01-tower]: FM01 | Chapter 5: The Goddess’s Prank | The Guild manages the tower, "the lid of the Dungeon" (cited by the body heading, printed "The G♥ddess’s Prank").
 [@fm02-upper]: FM02 | | Floors 1–12 and recommended abilities; Level 2 monsters from Floor 13.
-[@fm02-limit]: FM02 | | Floor 12 limit for Level 1 adventurers.
+[@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1 adventurers.
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex; Floor 37 and Udaios.
 [@fm02-babel]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Babel once no bigger than the buildings around it.
-[@fm04-middle]: FM04 | | Floors 13–14, the Middle Fortress.
+[@fm04-middle]: FM04 | Epilogue: Next Stage | Floors 13–14, the Middle Fortress.
 [@fm04-pantries]: FM04 | | Monster parties; pantries.
 [@fm04-floor44]: FM04 | Chapter 3: The Smith’s Situation | The forty-fourth floor: heat and Flaming Rocks.
 [@fm03-size]: FM03 | Chapter 5: A Hero’s Desire | "the fortieth floor is rumored to rival Orario itself in size and scale".
 [@fm13-record]: FM13 | Chapter 4: Countdown | Astrea Familia's registered record: the forty-first floor.
 [@fm14-safepoint]: FM14 | Chapter 9: Hello, Deep Levels | "The first safety point in the deep levels is on the thirty-ninth floor."
 [@fm04-mother]: FM04 | Quest X Quest | Monsters live off their "mother," the Dungeon.
-[@fm05-safe]: FM05 | | Floor 18, the Under Resort.
+[@fm05-safe]: FM05 | Chapter 4: Dungeon Resort? | Floor 18, the Under Resort.
 [@fm05-safepoint]: FM05 | Chapter 4: Dungeon Resort? | A safe point where no monsters are born.
 [@fm05-sensed]: FM05 | Chapter 5: The Outlaws’ Party | The Dungeon senses the deities and sends the Goliath.
 [@fm06-quests]: FM06 | | The Three Great Quests.
@@ -127,19 +127,19 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 [@fm09-ouranos]: FM09 | Chapter 5: Heretics | Ouranos, among the first gods to descend, helped build the "lid"; his Familia became the Guild.
 [@fm09-frontier]: FM09 | Chapter 5: Heretics | The Guild's map data; Frontiers; the Xenos' base camps.
 [@fm12-sealed]: FM12 | Chapter 3: New World ~Water Island~ | The Dungeon sealed under Babel.
-[@fm12-lower]: FM12 | | Floor 25 and the Water Capital.
+[@fm12-lower]: FM12 | Chapter 3: New World ~Water Island~ | Floor 25 and the Water Capital.
 [@fm12-expedition]: FM12 | | Mandatory Guild expeditions.
 [@fm12-deepzone]: FM12 | Chapter 2: Adventure Intermission | Hephaistos on expedition missions: "the Deep Zone"; the results that count.
-[@fm13-juggernaut]: FM13 | | The Dungeon's response to excessive damage.
+[@fm13-juggernaut]: FM13 | Chapter 5: Calamity Arrives | The Dungeon's response to excessive damage.
 [@fm13-mother]: FM13 | Chapter 2: The Prophetess of Tragedy | "The Dungeon is the mother of monsters, as they say in Orario."
 [@fm13-alive]: FM13 | Chapter 5: Calamity Arrives | "The Dungeon is alive."
-[@fm14-deep]: FM14 | | Floor 37 in the deep levels.
+[@fm14-deep]: FM14 | Chapter 9: Hello, Deep Levels | Floor 37 in the deep levels.
 [@fm14-immune]: FM14 | Chapter 13: Beyond a Thousand Darknesses | The Juggernaut's immune ability.
 [@fm17-keystone]: FM17 | Chapter 2: Alone Inside a Sandbox | Orario the lid on the great pit; Ouranos the keystone.
 [@fm18-icegarden]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | A relic from Thalia's Ice Garden, between Floors 60 and 61.
 [@fm19-record]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The Floor 71 record.
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The Dungeon "just barely made manageable" by Babel and Ouranos's prayers.
-[@fm20-garden]: FM20 | | Under Garden, the Floor 28 safe point.
+[@fm20-garden]: FM20 | Chapter 1: Orario Rumble | Under Garden, the Floor 28 safe point.
 [@fm20-gorge]: FM20 | Chapter 1: Orario Rumble | Floor 29, the start of the Tangled Gorge.
 [@fm20-alliance]: FM20 | Chapter 2: Lion and then Sword Princess | Loki Familia's expedition with Cyclops, Dea Saint and others.
 [@fm20-floor67]: FM20 | Chapter 4: The Knight’s Afterglow | A monster Zeus and Hera found on Floor 67.

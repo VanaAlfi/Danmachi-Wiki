@@ -71,21 +71,21 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many magic and Skill slots a given "container" allows; the novels give only the three-spell limit.[@so01-status, fm01-magic]
 
-[@fm01-status]: FM01 | | Falna, blood and hieroglyphs; Status as a record of excelia.
-[@fm01-abilities]: FM01 | | Basic abilities and ranks.
-[@fm01-excelia]: FM01 | | Excelia from ability use and stronger opponents.
-[@fm01-magic]: FM01 | | At most three magics.
+[@fm01-status]: FM01 | Chapter 1: World, Reality, and Desire | Falna, blood and hieroglyphs; Status as a record of excelia.
+[@fm01-abilities]: FM01 | Chapter 1: World, Reality, and Desire | Basic abilities and ranks.
+[@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Excelia from ability use and stronger opponents.
+[@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm02-privacy]: FM02 | | Status is private; Level and Familia are reported to the Guild.
 [@fm04-hidden]: FM04 | | Values reset at Level Up; hidden parameter.
 [@fm04-choice]: FM04 | | One Development Ability per Level Up.
-[@fm04-argonaut]: FM04 | | Argonaut on Bell's Level 2 card.
+[@fm04-argonaut]: FM04 | Chapter 1: Denatus | Argonaut on Bell's Level 2 card.
 [@fm04-utility]: FM04 | Chapter 1: Denatus | Bell's Level 2 card lists Utility.
-[@fm08-lock]: FM08 | | Status lock.
+[@fm08-lock]: FM08 | Chapter 2: The Prum’s Proposal | Status lock.
 [@fm17-snitch]: FM17 | | Status Thief, Status Snitch and Freya's emblem.
 [@fm18-sheet]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Bell's last Level 4 update and his Level 5 card.
 [@fm18-wargame]: FM18 | | Updates allowed during the Familia War.
 [@so01-status]: SO01 | Chapter 2: Dungeon Confusion | The parts of a Status and the container.
-[@fc01-thief]: FC01 | | A Status Thief exposes the real name and patron god.
+[@fc01-thief]: FC01 | Crush the Grand Casino! | A Status Thief exposes the real name and patron god.
 [@fc01-contracts]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Status-update contracts.
 [@fc03-card]: FC03 | The Locus of Stars | Lyu's card prints Endurance.

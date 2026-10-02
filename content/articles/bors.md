@@ -56,7 +56,7 @@ In DanMachi 14 he reaches [[hestia-familia|Hestia Familia]]'s rescue party and t
 
 Back on the surface, the half-healed Bors shouts at the [[guild|Guild]]'s reception desk that Rudra Familia, not the Gale Wind, caused the deaths, and that "the elf tried to protect us to the last".[@fm14-report] Aisha explains that this is how he repays Lyu for saving his life; as a second-tier adventurer and Rivira's head, he is believed. He also tries to claim a share of the bounty and of the reward for Jura Harma, and is refused. The Guild accepts the report that the Gale Wind died.[@fm14-report]
 
-Bors also recovered a fragment of Lyu's broken wooden sword, Alvs Lumina, and gave it to her when she was leaving [[orario|Orario]].[@fc03-lumina]
+Bors also recovered a fragment of Lyu's broken wooden sword, [[equipment#alvs-lumina|Alvs Lumina]], and gave it to her when she was leaving [[orario|Orario]].[@fc03-lumina]
 
 ## Later volumes
 

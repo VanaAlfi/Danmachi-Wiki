@@ -31,7 +31,7 @@ Barrier devices made by [[school-district|the School District]] stand around the
 
 ## Attacks
 
-Dragon attacks from beyond the School District's barrier are increasing in DanMachi 19.[@fm19-attacks] In Sword Oratoria 13, two students cite the region's suffering as their reason for becoming adventurers.[@so13-valley]
+Dragon attacks from beyond the School District's barrier are increasing in DanMachi 19.[@fm19-attacks] In Sword Oratoria 13 the student Luke of the [[balder-class#seventh-squad|7th Squad]] points to the valley, where more and more vicious dragons appear, as he argues that the world's suffering is growing; and [[alicia-forestlight|Alicia Forestlight]] of Loki Familia, whose village lies in the north not far from the valley, tells School District students that she became an adventurer to destroy the dragons that threatened her people's homes and forests.[@so13-valley]
 
 ## Open questions
 
@@ -45,4 +45,4 @@ Dragon attacks from beyond the School District's barrier are increasing in DanMa
 [@fm20-broken]: FM20 | Chapter 4: The Knight’s Afterglow | "School District's barrier appears to be broken as well."
 [@fm20-wall]: FM20 | | The Great Dragon Wall.
 [@fm19-attacks]: FM19 | | Increasing dragon attacks.
-[@so13-valley]: SO13 | | Luke and Alicia's motivation.
+[@so13-valley]: SO13 | Chapter 3: Class is in Session | Luke's outburst to Lefiya (Chapter 3) and Alicia's answer to the students when Lefiya was one of them (Fairy Canon: 2): "It’s the valley of dragons!"; "I hail from a village in the north, not far from the valley of dragons."

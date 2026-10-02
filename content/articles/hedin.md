@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "White-elf mage of Freya Familia, titled Hildsleif; a former king of Heodenings who trains Bell in DanMachi 16–17 and turns against the Familia for Freya's sake in the Familia War.",
-  "aliases": ["Hedin", "Hildsleif"],
+  "aliases": ["Hedin", "Hildsleif", "black and white knights", "white and black knights"],
   "spoilers": "DanMachi Vols. 16–20, Sword Oratoria Vol. 13, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["hegni", "freya-familia", "freya", "bell-cranell", "syr-flover", "ottar", "magic"],
   "infobox": {
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the [[races#dark-elf|dark elf]] [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin]
+**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the [[races#dark-elf|dark elf]] [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] Together they are known as "the black and white knights"; DanMachi 18 also prints "the white and black knights".[@fc02-knights, so12-knights, fm18-knights] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin]
 
 ## Heodenings
 
@@ -156,3 +156,6 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@laurus-hildr.fm18-bell]: FM18 | Chapter 9: Flower Language for You | "Sing forever…indestructible…saint."; third and final magic; heals, then lightning; not on himself; all his Mind.
 [@laurus-hildr.fm18-effect]: FM18 | Chapter 9: Flower Language for You | Speed of perception; slashes like Caurus Hildr; with Level Boost against Ottar.
 [@laurus-hildr.fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | "Laurus Hildr, the enchantment Master cast on me."
+[@fc02-knights]: FC02 | Ali and the 8 Followers | "Together, they were known as the black and white knights."
+[@so12-knights]: SO12 | Chapter 7: Final War II | "The black and white knights."
+[@fm18-knights]: FM18 | Chapter 9: Flower Language for You | "both kings died—and the white and black knights were born"; also "the black and white knights".

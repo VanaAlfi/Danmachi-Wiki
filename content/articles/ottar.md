@@ -120,7 +120,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@fc02-origin]: FC02 | The Origin of the Strongest | Found and named by Freya; his first Level Up; Level 5 at seventeen.
 [@fc02-mia]: FC02 | The Origin of the Strongest | Mia had already left.
 [@fc02-zeus]: FC02 | The Origin of the Strongest | Level Ups after Level 5 tied to Zeus and Hera.
-[@fc02-sword]: FC02 | | Udaeus defeated alone; the Supreme Black Sword.
+[@fc02-sword]: FC02 | The Origin of the Strongest | Udaeus defeated alone; the Supreme Black Sword.
 [@fm02-book]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Freya's grimoire.
 [@fm03-minotaur]: FM03 | | The Minotaur's training.
 [@fm11-asterios]: FM11 | | Asterios, Finn and the great sword.
@@ -134,7 +134,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@fm20-sevens]: FM20 | Chapter 2: Lion and then Sword Princess | The Level 7s.
 [@so04-captain]: SO04 | First Chapter: And the Boy… | Captain and Warlord; blocking Loki Familia.
 [@so09-tammuz]: SO09 | Chapter 2: A Brief Calm | Tammuz's assassins.
-[@so11-aiz]: SO11 | | Training Aiz.
+[@so11-aiz]: SO11 | Chapter 3: The True Face of a God | Training Aiz.
 [@so14-line]: SO14 | Prologue: Accomplishments and Reminiscences | The "Level Six" line.
 [@ar01-ottar]: AR01 | Chapter 6: Assemblies of Light and Dark | The only Level 6 in Orario.
 [@ar03-seven]: AR03 | | Zald defeated; Level 7.

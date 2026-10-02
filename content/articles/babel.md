@@ -46,12 +46,12 @@ Babel also houses a medical centre, where Bell recovers after his fight with the
 | DanMachi 11 | [[asterios|Asterios]] crashes through Babel's ground floor with Bell, breaking open the shaft to Floor 1, before returning underground.[@fm11-babel] |
 | DanMachi 17 | Its roof, the point in Orario closest to the heavens, becomes the centre of the altar from which [[hestia|Hestia]] breaks Freya's charm.[@fm17-babel] |
 
-[@fm01-babel]: FM01 | | The white tower over the Dungeon's entrance.
+[@fm01-babel]: FM01 | Chapter 4: That’s Why I Want to Help | The white tower over the Dungeon's entrance.
 [@fm01-layout]: FM01 | | Circular city around Babel.
 [@fm01-streets]: FM01 | Chapter 5: The Goddess’s Prank | Main Streets named by direction from Babel.
-[@fm02-babel]: FM02 | | Babel's history and floors.
+[@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | Babel's history and floors.
 [@fm03-babel]: FM03 | Chapter 3: Black Raid | Freya on the fiftieth floor.
 [@fm03-clinic]: FM03 | | Babel's medical centre.
 [@fm04-babel]: FM04 | | Floor 30 and Denatus; Floor 8 and Welf.
-[@fm11-babel]: FM11 | | Asterios breaks into Babel.
+[@fm11-babel]: FM11 | Chapter 7: The Return of the Hero | Asterios breaks into Babel.
 [@fm17-babel]: FM17 | Chapter 5: The End of Her World | Hestia's altar on Babel.

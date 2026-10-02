@@ -58,5 +58,5 @@ Ouranos and Fels support the Xenos; [[hermes|Hermes]] and [[ganesha|Ganesha]] kn
 [@fm17-offer]: FM17 | Chapter 2: Alone Inside a Sandbox | Freya's offer.
 [@fm17-ouranos]: FM17 | | The altar; the coded hints.
 [@fm19-knossos]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Knossos under his control.
-[@so10-compact]: SO10 | | The Loki–Ouranos compact.
+[@so10-compact]: SO10 | Chapter 6: The Hero’s Self-Denial | The Loki–Ouranos compact.
 [@ar02-makhia]: AR02 | Intermission: While the Scales of Justice Tremble | "Ouranos has not given up on Makhia."

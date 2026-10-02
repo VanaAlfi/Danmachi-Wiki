@@ -200,7 +200,7 @@ Lilly is offered it at Level 2 and is tempted, since she could make her own poti
 - **Printed as:** Enigma; Mystery (Sword Oratoria 7)[@fm05-enigma, so07-mystery]
 - **Holders:** [[asfi|Asfi Al Andromeda]], one of fewer than five people in Orario with it (the Yen Press text prints "one of only five"); the Sage, now [[fels|Fels]]; Barca Perdix[@fm05-enigma, fm05-ja-enigma, fm09-sage, so07-mystery]
 
-Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged sandals Talaria and her copy of a [[knossos|Knossos]] key.[@so02-enigma, so03-talaria, so11-asfi]
+Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged sandals [[equipment#talaria|Talaria]] and her copy of a [[knossos|Knossos]] key.[@so02-enigma, so03-talaria, so11-asfi]
 
 ### Mage {#mage}
 
@@ -252,7 +252,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 
 ### Dive {#dive}
 
-**Dive** lets its holders swim like fish, with the same basic effects as Undine cloth; Lefiya thinks it fairly rare.[@so06-dive] DanMachi 12 says that only adventurers with special underwater abilities can fight water-dwelling monsters on equal terms in their own territory.[@fm12-water]
+**Dive** lets its holders swim like fish, with the same basic effects as [[equipment#undine-cloth|Undine cloth]]; Lefiya thinks it fairly rare.[@so06-dive] DanMachi 12 says that only adventurers with special underwater abilities can fight water-dwelling monsters on equal terms in their own territory.[@fm12-water]
 
 - **Holders:** [[hyrute-sisters|Tiona and Tione Hyrute]], G on their sheets[@sheet.so03-tiona, sheet.so04-tione]
 - **Printed as:** Dive; Drive (Tiona's Sword Oratoria 3 sheet, probably a misprint)[@sheet.so03-tiona, sheet.so04-tione, so06-dive]
@@ -390,7 +390,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@fm15-mikoto]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Mikoto's card: Resistance I.
 [@fm18-bell]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Escape I→G; Rapid Attacks I and what it does; "development ability".
 [@fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | Luck F, Immunity G, Escape G, Successive Attacks I.
-[@ss01-bell]: SS01 | Fairy Romantica | Bell's Level 3 card: Luck H, Immunity H.
+[@ss01-bell]: SS01 | Goddess Intermission | Bell's Level 3 card: Luck H, Immunity H.
 [@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Runoa's card: Punch H, Crush I, Brawler I.
 [@fc01-chloe]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe's card: Immunity G, Synthesis H, Escape I.
 [@fc01-lyu]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Lyu's Resistance against a herbalist's sleeping drug.

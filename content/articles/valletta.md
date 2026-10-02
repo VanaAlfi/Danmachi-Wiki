@@ -115,7 +115,7 @@ In Astrea Record 1, set years earlier, the narration remarks that if Valletta "h
 [@so08-blacklist]: SO08 | Chapter 4: Lonesome Night | On the Guild's blacklist for six years; the alias Arachnia.
 [@so08-death]: SO08 | Chapter 5: Battered Wolf | Hati's flames; "if you kill me, you’ll never…never find the key!!"; burned to blackened ash.
 [@so09-past]: SO09 | | Arachnia leads an attack on the home of a Familia supporting the Guild.
-[@so10-loss]: SO10 | | "The enemy had lost a skilled commander in Arachnia, Valletta Grede."
+[@so10-loss]: SO10 | Chapter 2: Someone Named Fool | "The enemy had lost a skilled commander in Arachnia, Valletta Grede."
 [@shaldo.ar01-valletta]: AR01 | | "If Valletta had been versed in magic…"
 [@shaldo.so08-bombard]: SO08 | Chapter 5: Battered Wolf | Magic swords; Bete hit trying to flee.
 [@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; long chant; Mind; dissipates; a trap; Status Down.

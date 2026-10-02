@@ -38,7 +38,7 @@ In DanMachi 5 the invisibility is described as lasting as long as the helmet is 
 DanMachi 17 states the limit plainly: the helmet makes only "the wearer and their equipment" invisible. Carrying [[hestia|Hestia]] through the air, Asfi cannot hide her too, so she flies high enough to use the clouds as cover.[@fm17-limit]
 
 > [!NOTE] A possible exception
-> In DanMachi 19 [[hermes|Hermes]] borrows a spare Hades Head and a spare pair of Talaria from Asfi's room. Bell says that after Hermes had him wear the helmet, "we became invisible", and later that Hermes pulls off "the one that kept us invisible while falling", after which Hermes himself remains invisible.[@fm19-hermes, fm19-decoy] The passage does not say whether a second helmet was involved. This wiki records both DanMachi 17's rule and this passage without choosing between them.
+> In DanMachi 19 [[hermes|Hermes]] borrows a spare Hades Head and a spare pair of [[equipment#talaria|Talaria]] from Asfi's room. Bell says that after Hermes had him wear the helmet, "we became invisible", and later that Hermes pulls off "the one that kept us invisible while falling", after which Hermes himself remains invisible.[@fm19-hermes, fm19-decoy] The passage does not say whether a second helmet was involved. This wiki records both DanMachi 17's rule and this passage without choosing between them.
 
 ## Countering it
 

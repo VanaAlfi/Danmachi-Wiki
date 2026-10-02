@@ -46,7 +46,7 @@ She is hot-tempered and outspoken. She rages at the Guild's unexplained order to
 | DanMachi 18 | Ganesha Familia keeps watch over the Familia War; Shakti assigns her group the cliffs.[@fm18-cliff] When [[lyu-leon|Lyu]] joins the fight against the rules, Ilta urges Shakti to look the other way so that Freya Familia can be put in its place.[@fm18-judges] |
 | DanMachi 20 | She and Shakti win the third round of the [[orariad|Orariad]], a tag-team match in the [[school-district|School District]]'s arena; the stunned students call them "Paluza and Ankusha…Orario's strongest guardians".[@fm20-orariad] |
 
-[@ar01-unit]: AR01 | | "the red-haired Amazon Ilta Faana bathed in the blood of her foes, leading a unit of Ganesha Familia adventurers".
+[@ar01-unit]: AR01 | Chapter 11: Absolute Evil | "the red-haired Amazon Ilta Faana bathed in the blood of her foes, leading a unit of Ganesha Familia adventurers".
 [@fm10-ilta]: FM10 | Chapter 8: City Panic | "the wheat-skinned Amazon with fiery red hair"; "First-tier adventurer Ilta Faana"; the Guild's order to tame the monsters.
 [@fm10-sister]: FM10 | Chapter 8: City Panic | "The Amazon Ilta referred to her as a sister, recognizing her strength (by force)".
 [@fm10-siren]: FM10 | Chapter 9: Dreams of Beasts | The golden-winged siren's sound blast; Aisha deflects the feather bullets; "Defend us while we tame!"; the whip in her right hand.

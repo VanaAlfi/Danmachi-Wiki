@@ -55,7 +55,7 @@ Bell scatters Freya's flower and the coalition wins. No one dies in the War Game
 [@fm06-manor]: FM06 | | Apollo's property and manor.
 [@fm17-declare]: FM17 | Chapter 5: The End of Her World | "It's a war game!"; Freya's stakes.
 [@fm18-orza]: FM18 | | Orza; the coalition and the flower-capture rules.
-[@fm18-updates]: FM18 | | Status updates allowed during the battle.
+[@fm18-updates]: FM18 | Chapter 9: Flower Language for You | Status updates allowed during the battle.
 [@fm18-conversions]: FM18 | Chapter 9: Flower Language for You | Chloe's and Runoa's conversions.
 [@fm18-flower]: FM18 | Chapter 9: Flower Language for You | Bell scatters Freya's flower.
 [@fm18-nodeath]: FM18 | Epilogue: Double Cast | No one died.

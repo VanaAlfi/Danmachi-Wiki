@@ -79,7 +79,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 > - Who led the two Familias; the only name given is Maxim, under whose leadership Zald's group fell to the Black Dragon.[@ar03-blood]
 > - Where Zeus and Hera are now.[@fm06-fall, ar03-blood]
 
-[@ar01-dark-age]: AR01 | | Prologue: "Zeus and Hera’s defeat at the hands of the Black Dragon was the harbinger of the Age of Darkness."
+[@ar01-dark-age]: AR01 | Prologue: The Unforgettable Melody of Justice | Prologue: "Zeus and Hera’s defeat at the hands of the Black Dragon was the harbinger of the Age of Darkness."
 [@ar01-thousand]: AR01 | Chapter 1: Astrea Familia | "Zeus and Hera ruled over Orario for a thousand years without a single threat to their existence."
 [@ar01-rivals]: AR01 | Chapter 6: Assemblies of Light and Dark | Rivals harboured unreported Level 6 or Level 7 captains; Zeus and Hera came out on top.
 [@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | Osiris Familia, twelve years ago; several Level 6s and the Level 7 captain Melty Zara; thrown out by Orario.

@@ -68,8 +68,8 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 [@fm08-office]: FM08 | Chapter 2: The Prum’s Proposal | Several high towers; Finn's room: rug, marble fireplace, grandfather clock, tapestry of an armoured goddess.
 [@fm10-spires]: FM10 | Chapter 8: City Panic | The reception room of "the compound famous for its long, tall spires".
 [@fm18-parlour]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | The parlor of Loki Familia's home, Twilight Manor.
-[@ar01-office]: AR01 | | "the office of the Twilight Manor, Loki Familia headquarters, located in the north of Orario".
+[@ar01-office]: AR01 | Chapter 2: Eren | "the office of the Twilight Manor, Loki Familia headquarters, located in the north of Orario".
 [@ar01-park]: AR01 | | Loki relocated the remaining members from the Twilight Manor to Central Park.
-[@ar03-strongholds]: AR03 | | The five designated strongholds; "our very own Twilight Manor"; the northern point.
+[@ar03-strongholds]: AR03 | Prologue: Last Intermission | The five designated strongholds; "our very own Twilight Manor"; the northern point.
 [@ar03-gates]: AR03 | | "The Twilight Manor is in your hands while I’m gone."; Noir on Finn foisting the work "on your elders"; it stood not far from the northeastern gates.
 [@ar03-defence]: AR03 | | Noir before the gates of Twilight Manor; Dyne and Bahra; Alicia on the battlements.

@@ -43,7 +43,7 @@ In DanMachi 14, when Cassandra insists that the party must flee east, Daphne sti
 
 ## Level 3 and the Great Familia War
 
-Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and elixirs.[@fm18-potions] In the battle she is a valuable Level 3 fighter and, after [[aisha-belka|Aisha]], the second in line to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing]
+Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, after [[aisha-belka|Aisha]], the second in line to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing]
 
 Against [[hegni|Hegni]] she holds on far longer than expected because of her rare Skill [[skills#laurel-wreath|Laurel Wreath]], which raises her endurance when she is exhausted or close to death.[@fm18-laurel] Her party draws attack after attack out of Hegni's cursed sword so that he uses them up.[@fm18-lure]
 

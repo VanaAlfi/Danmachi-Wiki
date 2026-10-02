@@ -37,8 +37,8 @@
 | Work | Details |
 |---|---|
 | Desperate | Aiz's saber, a Superior weapon made by the Familia's High Smiths and a Durandal that never breaks, though it needs sharpening.[@so01-desperate, so01-goibniu] |
-| Sword Air | Aiz's first trusted sword, a custom-made Damascus blade presented by Goibniu in Sword Oratoria 9's recollections.[@so09-sword-air, so09-damascus] |
-| [[urga|Urga]] | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of adamantite.[@so01-workshop] |
+| Sword Air | Aiz's first trusted sword, a custom-made [[metals#damascus|Damascus]] blade presented by Goibniu in Sword Oratoria 9's recollections.[@so09-sword-air, so09-damascus] |
+| [[urga|Urga]] | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of [[metals#adamantite|adamantite]].[@so01-workshop] |
 | The Fortia Spear | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
 | Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item [[udaeus|Udaeus]] Black Sword.[@fc02-ottar] |
 | Other orders | Lilly's wrist crossbow, made for prums; Mikoto's pair of black and white short swords, bought by [[takemikazuchi|Takemikazuchi]]; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
@@ -50,7 +50,7 @@
 |---|---|
 | Astrea Record 3 | Its captain delivers Lyu's wooden sword, made "from a branch of the holy tree"; it works as a sword and as a staff that amplifies magic.[@ar03-captain] |
 | Sword Oratoria 12 | When monsters reach the surface, its smiths bring weapons to the adventurers on the front lines, and Bors's group seizes "top-tier gear made by Goibniu Familia".[@so12-smiths] |
-| DanMachi 19 | Knossos's orichalcum doors are to be stripped down "with the help of Goibniu Familia" and reused for the Shaft plan.[@fm19-shaft] |
+| DanMachi 19 | Knossos's [[metals#orichalcum|orichalcum]] doors are to be stripped down "with the help of Goibniu Familia" and reused for the Shaft plan.[@fm19-shaft] |
 
 [@fm07-unique]: FM07 | Chapter 1: Smooth Sailing? | "the architects responsible for the renovation—members of the Goibniu Familia"; "His familia is quite unique in Orario, taking construction jobs upon request. Of course, the blacksmiths and craftsmen in Goibniu Familia are well known and have quite a following. Though not as popular as Hephaistos Familia, I know that there are several upper-class adventurers who prefer their work above all."
 [@fm07-renovation]: FM07 | Chapter 1: Smooth Sailing? | The renovation by Goibniu Familia; "a deity of smithing and architecture"; construction jobs; Lilly's wrist bow gun designed for prums; four days; "a rather stout body, not much different from a dwarf’s".

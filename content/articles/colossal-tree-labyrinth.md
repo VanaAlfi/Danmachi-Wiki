@@ -36,7 +36,7 @@ The **Colossal Tree Labyrinth** is the region of the [[dungeon|Dungeon]] from th
 
 ## Dangers {#dangers}
 
-Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyond as a completely different world".[@fm09-dangers] Its monsters include [[monsters#bugbear|bugbears]] and [[monsters#mad-beetle|mad beetles]], and [[monsters#gun-libellula|gun libellulas]] and [[monsters#firebird|firebirds]] that attack from range. Many are good at inflicting status effects, so plenty of antidotes help, and the Development Ability Immunity is "the key to clearing floors in the Colossal Tree Labyrinth".[@fm09-dangers]
+Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyond as a completely different world".[@fm09-dangers] Its monsters include [[monsters#bugbear|bugbears]] and [[monsters#mad-beetle|mad beetles]], and [[monsters#gun-libellula|gun libellulas]] and [[monsters#firebird|firebirds]] that attack from range. Many are good at inflicting status effects, so plenty of [[potions#antidote|antidotes]] help, and the Development Ability Immunity is "the key to clearing floors in the Colossal Tree Labyrinth".[@fm09-dangers]
 
 - **Insects and fungi:** the region is infamous for its many insect monsters, and for mushroom-like monsters that hide among giant fungi and release clouds of poisonous gas.[@fm09-fungi]
 - **Irregular attacks:** DanMachi 12 says what sets the region apart is "the huge number of Irregular attacks", such as poison, and that monsters appear more often than on the upper floors (see [[irregular|Irregular]]).[@fm12-irregular]

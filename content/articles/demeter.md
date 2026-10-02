@@ -44,7 +44,7 @@ In Sword Oratoria 1 Demeter pours Loki a glass of wine and teases Dionysus.[@so0
 
 [[hermes|Hermes]] finds her there alone. She insists that she is the mastermind, but he refuses to believe it.[@so12-hermes, so12-confession] She then tells him the truth. A god she had gone to look into kidnapped Persephone and her other followers, and when she refused to obey he killed them one by one until she gave in. Through the Falna she could feel the number of her Blessings shrinking whenever she tried to send a signal.[@so12-confession] [[takemikazuchi|Takemikazuchi]] had noticed something was wrong and asked Hermes to help her.[@so12-confession] Enyo, she tells Hermes, is Dionysus.[@so12-enyo]
 
-During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'s reserve forces find the surviving hostages on the tenth floor, emaciated, and carry them out; [[elfie-collette|Elfie]] hugs Persephone. Many others held there had been killed to make a point to Demeter.[@so12-rescue] Afterwards Demeter helps the Guild give the official account of the events credibility, and is even willing to take the blame herself.[@so13-statement]
+During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'s reserve forces find the surviving hostages, emaciated, in hidden rooms on the ninth, tenth and eleventh floors and carry them out; on the ninth [[elfie-collette|Elfie]] hugs Persephone. Many others held on the tenth floor had been killed to make a point to Demeter.[@so12-rescue] Afterwards Demeter helps the Guild give the official account of the events credibility, and is even willing to take the blame herself.[@so13-statement]
 
 ## Open questions
 
@@ -63,7 +63,7 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 [@so12-hermes]: SO12 | Chapter 6: The Divine Providence of Despair | Hermes confronts her; "Demeter, the Goddess of Fertility".
 [@so12-confession]: SO12 | Chapter 6: The Divine Providence of Despair | "I’m the mastermind!"; Persephone and the others kidnapped; killed one by one; the number of Blessings; Takemikazuchi's request.
 [@so12-enyo]: SO12 | Chapter 6: The Divine Providence of Despair | "Enyo’s true identity is—" "—Dionysus."
-[@so12-rescue]: SO12 | Chapter 7: Final War II | Demeter Familia's emaciated followers; Elfie hugs Persephone; the tenth floor; those killed to make a point to Demeter.
+[@so12-rescue]: SO12 | Chapter 7: Final War II | Demeter Familia's emaciated followers; the ninth, tenth and eleventh floors; Elfie hugs Persephone; those killed on the tenth to make a point to Demeter.
 [@so13-statement]: SO13 | | Demeter lends credibility to the official statement; beloved as kind and caring; willing to carry the blame.
 [@ss01-farm]: SS01 | | Demeter in a straw hat, honey-coloured hair; a commerce-focused Familia; Dungeon fruit and seeds cultivated.
 [@ss01-persephone]: SS01 | | Story "Familia Panacea" (not in the evidence map): "Oh, Persephone! Bring me some rinne herbs, will you?"

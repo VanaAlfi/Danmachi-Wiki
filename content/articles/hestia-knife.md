@@ -24,7 +24,7 @@
   }
 }
 ---
-The **Hestia Knife** is [[bell-cranell|Bell Cranell]]'s black dagger, forged by the goddess [[hephaistos|Hephaistos]] from her own mythril and engraved with [[hestia|Hestia]]'s hieroglyphs.[@fm01-case, fm01-alive] It is a living weapon: it grows stronger as its wielder does, and only someone with Hestia's blessing can use it.[@fm01-alive] Hestia paid for it with a loan of two hundred million valis from [[hephaistos-familia|Hephaistos Familia]].[@fm07-loan, fm07-story]
+The **Hestia Knife** is [[bell-cranell|Bell Cranell]]'s black dagger, forged by the goddess [[hephaistos|Hephaistos]] from her own [[metals#mythril|mythril]] and engraved with [[hestia|Hestia]]'s hieroglyphs.[@fm01-case, fm01-alive] It is a living weapon: it grows stronger as its wielder does, and only someone with Hestia's blessing can use it.[@fm01-alive] Hestia paid for it with a loan of two hundred million valis from [[hephaistos-familia|Hephaistos Familia]].[@fm07-loan, fm07-story]
 
 ## Making and name
 

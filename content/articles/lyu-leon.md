@@ -131,7 +131,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 #### Effects {#luminous-wind-effects}
 
 - **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5 (the Yen Press text says "Hundreds of small orbs"); Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[magic#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
-- **Power.** In Familia Chronicle 1 it bends and then blows open a vault door made of several layers of adamantite.[@luminous-wind.fc01-vault]
+- **Power.** In Familia Chronicle 1 it bends and then blows open a vault door made of several layers of [[metals#adamantite|adamantite]].[@luminous-wind.fc01-vault]
 - **Concentrated.** In DanMachi 14 Lyu pours all her remaining Mind into forty-seven large orbs to destroy the Juggernaut.[@luminous-wind.fm14-end]
 - **Controlled.** In Familia Chronicle 3 she fires a single orb at her own feet to break free of a trap.[@luminous-wind.fc03-uranda]
 

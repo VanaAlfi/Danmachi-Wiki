@@ -34,7 +34,7 @@ The school's ship, the Hringhorni, is round, about 700 meders across, and has se
 
 ## Founding and purpose {#founding}
 
-Orario was heavily involved in establishing the School District.[@so13-meren] Its original purpose was "to gather people from all over the world in the Labyrinth City", and Orario's recruiting season during its visits has been held since its founding.[@so13-recruiting] In DanMachi 19 the [[guild|Guild]] relies on "the deal made when it was established", still in force, to obtain the School District's orichalcum.[@fm19-deal]
+Orario was heavily involved in establishing the School District.[@so13-meren] Its original purpose was "to gather people from all over the world in the Labyrinth City", and Orario's recruiting season during its visits has been held since its founding.[@so13-recruiting] In DanMachi 19 the [[guild|Guild]] relies on "the deal made when it was established", still in force, to obtain the School District's [[metals#orichalcum|orichalcum]].[@fm19-deal]
 
 ## How it works
 

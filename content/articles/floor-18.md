@@ -58,7 +58,7 @@ The [[xenos|Xenos]] destroy the 334th Rivira in DanMachi 10 while hunting [[ikel
 
 ## Knossos entrance
 
-At the eastern edge of the forest, regenerating quartz hides an orichalcum gate that opens with a Daedalus eye-key. It leads into Knossos, the man-made labyrinth that wraps around the Dungeon.[@fm10-knossos] Knossos reaches at least as deep as Floor 18; no complete map of its extent is given.[@fm10-reach]
+At the eastern edge of the forest, regenerating quartz hides an [[metals#orichalcum|orichalcum]] gate that opens with a Daedalus eye-key. It leads into Knossos, the man-made labyrinth that wraps around the Dungeon.[@fm10-knossos] Knossos reaches at least as deep as Floor 18; no complete map of its extent is given.[@fm10-reach]
 
 ## Open questions
 

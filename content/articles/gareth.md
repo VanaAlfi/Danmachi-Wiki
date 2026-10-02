@@ -40,7 +40,7 @@ Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fiftee
 |---|---|
 | Astrea Record 2–3 | Fights in the [[great-conflict|Great Conflict]]; he sees the dragon [[delphyne|Delphyne]] regenerate and explains that [[zald|Zald]] ate the Behemoth's flesh to win.[@ar02-loki, ar03-delphyne, ar03-behemoth] |
 | DanMachi 8 | At Level 6, routs [[ares#kingdom-of-rakia|Rakia]]'s cavalry single-handed.[@fm08-gareth] |
-| Sword Oratoria 7 | Shields his party from Inferno Stones, punches through adamantite and helps destroy the monster [[corrupted-spirit#gugalanna|Gugalanna]]; Finn leaves him in charge of the rear.[@so07-gareth, so07-finn] |
+| Sword Oratoria 7 | Shields his party from Inferno Stones, punches through [[metals#adamantite|adamantite]] and helps destroy the monster [[corrupted-spirit#gugalanna|Gugalanna]]; Finn leaves him in charge of the rear.[@so07-gareth, so07-finn] |
 | Sword Oratoria 9 | Teaches the young [[aiz-wallenstein|Aiz]] to look after her weapons and herself; in the present he finds and destroys a coastal route into [[knossos|Knossos]].[@so09-gareth] |
 | Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and [[xenos|Xenos]].[@so10-gareth] |
 

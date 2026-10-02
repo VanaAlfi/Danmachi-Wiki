@@ -26,11 +26,11 @@
   }
 }
 ---
-**Lena Tully** is a young Amazon of the [[ishtar-familia#berbera|Berbera]], formerly of [[ishtar-familia|Ishtar Familia]].[@fm07-lena, so10-copy] She falls in love with [[bete-loga|Bete Loga]] after he beats her at Port Meren.[@so08-meet] In Sword Oratoria 8 she trades what she once saw of Ishtar's key to [[knossos|Knossos]] for a "Dungeon date". Caught with Bete when assassins hunt down former Ishtar Familia members, she runs to draw them away from him and is left for dead.[@so08-deal, so08-run, so08-dying] Days later she reappears, saved by [[amid|Amid]]'s anti-curse elixir.[@so08-alive]
+**Lena Tully** is a young Amazon of the [[ishtar-familia#berbera|Berbera]], formerly of [[ishtar-familia|Ishtar Familia]].[@fm07-lena, so10-copy] She falls in love with [[bete-loga|Bete Loga]] after he beats her at Port Meren.[@so08-meet] In Sword Oratoria 8 she trades what she once saw of Ishtar's key to [[knossos|Knossos]] for a "Dungeon date". Caught with Bete when assassins hunt down former Ishtar Familia members, she runs to draw them away from him and is left for dead.[@so08-deal, so08-run, so08-dying] Days later she reappears, saved by [[amid|Amid]]'s anti-curse [[potions#elixir|elixir]].[@so08-alive]
 
 ## Ishtar Familia
 
-As the Familia collapses in DanMachi 7, [[aisha-belka|Aisha]] tells Lena to lead the others out.[@fm07-lena] Lena later says that [[phryne-jamil|Phryne]] and the older Amazons were always sending her round the temple on errands. Once Phryne told her to find Ishtar's weak point; she slipped into Ishtar's room and saw, through a hidden door, a secret vault with a mythril ball in a small box. The vice captain, [[ishtar-familia#tammuz-berrilli|Tammuz]], caught her and chased her out, telling her to "forget everything I saw".[@so08-vault]
+As the Familia collapses in DanMachi 7, [[aisha-belka|Aisha]] tells Lena to lead the others out.[@fm07-lena] Lena later says that [[phryne-jamil|Phryne]] and the older Amazons were always sending her round the temple on errands. Once Phryne told her to find Ishtar's weak point; she slipped into Ishtar's room and saw, through a hidden door, a secret vault with a [[metals#mythril|mythril]] ball in a small box. The vice captain, [[ishtar-familia#tammuz-berrilli|Tammuz]], caught her and chased her out, telling her to "forget everything I saw".[@so08-vault]
 
 At Port Meren in Sword Oratoria 6 she aimed a scimitar at Bete's back after he had subdued Phryne, and he punched her in the stomach. He does not remember her face; she remembers him.[@so08-meet]
 

@@ -30,7 +30,7 @@
 
 ## Character
 
-Leene wears glasses and usually braids her long hair.[@so04-braids, so05-bath] Sword Oratoria 4 counts her among Loki Familia's second-tier members.[@so04-second] She is a healer: after the Floor 59 expedition she cares for the wounded with [[riveria|Riveria]] and the other healers, and in Sword Oratoria 6 she heals [[hyrute-sisters|Tiona]] after the rite at Meren, which takes considerable time.[@so05-healer, so06-tiona] At Meren she and [[anakity-autumn|Anakity]] also check that the mythril grating on Orario's sewer outflow is in place.[@so06-grate]
+Leene wears glasses and usually braids her long hair.[@so04-braids, so05-bath] Sword Oratoria 4 counts her among Loki Familia's second-tier members.[@so04-second] She is a healer: after the Floor 59 expedition she cares for the wounded with [[riveria|Riveria]] and the other healers, and in Sword Oratoria 6 she heals [[hyrute-sisters|Tiona]] after the rite at Meren, which takes considerable time.[@so05-healer, so06-tiona] At Meren she and [[anakity-autumn|Anakity]] also check that the [[metals#mythril|mythril]] grating on Orario's sewer outflow is in place.[@so06-grate]
 
 When Tiona asks the girls whom they like in Sword Oratoria 7, Leene shyly names "Mister Bete". The twins can't believe it, but she says he can be gallant and is a good person deep down.[@so07-bete] Tiona later tells Bete, "Leene liked you, you know?"[@so08-tiona]
 

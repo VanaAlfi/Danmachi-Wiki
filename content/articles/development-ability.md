@@ -218,7 +218,7 @@ Without it a caster can still work wonders: the young Riveria, at Level 1, alrea
 
 ### Spirit Healing {#spirit-healing}
 
-**Spirit Healing** makes the holder's Mind recover constantly: after spending magic energy they regain it little by little without a long rest, so magic potions become almost unnecessary. Casters are said to weep for joy on acquiring it, and Aiz knows no one but Riveria who has it.[@so03-aiz] Riveria's [[skills#alf-regina|Alf Regina]] recovers Mind much faster than its automatic recovery.[@so10-spirit]
+**Spirit Healing** makes the holder's Mind recover constantly: after spending magic energy they regain it little by little without a long rest, so [[potions#magic-potion|magic potions]] become almost unnecessary. Casters are said to weep for joy on acquiring it, and Aiz knows no one but Riveria who has it.[@so03-aiz] Riveria's [[skills#alf-regina|Alf Regina]] recovers Mind much faster than its automatic recovery.[@so10-spirit]
 
 - **Printed as:** Regen (Sword Oratoria 3); Spirit Healing (Sword Oratoria 6, 10 and 11)[@so03-aiz, so06-cards, sheet.so10-aiz, so11-aiz]
 

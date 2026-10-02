@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of Astrea, goddess of justice and order. It fought the Evils through Orario's dark ages, and was destroyed in an ambush five years before DanMachi 13, leaving Lyu Leon as its only survivor.",
-  "aliases": [],
+  "aliases": ["Noin", "Neze", "Asta", "Lyana", "Celty", "Iska", "Maryu", "Marieux"],
   "spoilers": "DanMachi Vols. 5–19, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
   "related": ["lyu-leon", "alize-lovell", "gojouno-kaguya", "lyra", "hermes", "ouranos", "knossos", "dungeon", "magic"],
   "infobox": {

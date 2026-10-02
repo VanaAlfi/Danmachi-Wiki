@@ -36,7 +36,7 @@ Miach is a handsome god with long marine-blue hair tied at the neck, who wears a
 
 Miach Familia was once in the middle of the ranks, strong enough to compete with **[[dian-cecht-familia|Dian Cecht Familia]]** in selling potions.[@fm04-arm] In Astrea Record 1, set in the dark age, its captain is named Slane, and Nahza, then a fighter with a bow, goes into battle as Miach's escort.[@ar01-slane] Then Nahza lost her right arm to a monster. Miach took out a loan to buy her the [[airgetlam|airgetlám]], a silver prosthetic arm made by Dian Cecht Familia, and when the other members found out about the debt they all left. "All that stayed with Lord Miach was a useless former adventurer and a colossal loan," Nahza says.[@fm04-arm] The two Familias remain business rivals.[@fm15-rivals]
 
-In the side story "Quest X Quest" of DanMachi 4, [[lilliluka-erde|Lilly]] exposes one of Nahza's potions as watered down, a common scam.[@fm04-scam] Nahza then creates a new item from monster eggs and Blue Papillon Wings, the first **double potion**, which restores both physical strength and mental energy. Miach offers twenty of them to the god [[dian-cecht|Dian Cecht]], whose follower [[amid|Amid]] vouches for the potion, so that their sale will cover that month's payment on the loan.[@fm04-double]
+In the side story "Quest X Quest" of DanMachi 4, [[lilliluka-erde|Lilly]] exposes one of Nahza's potions as watered down, a common scam.[@fm04-scam] Nahza then creates a new item from monster eggs and Blue Papillon Wings, the first **[[potions#dual-potion|double potion]]**, which restores both physical strength and mental energy. Miach offers twenty of them to the god [[dian-cecht|Dian Cecht]], whose follower [[amid|Amid]] vouches for the potion, so that their sale will cover that month's payment on the loan.[@fm04-double]
 
 The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Familia War of DanMachi 18, the narration says the massive loans taken out for it were "far from being paid back".[@fm18-loan] In DanMachi 19 she and Miach expect their share of the War Game reward to pay for a new airgetlám, but not to pay off the loans for the old one.[@fm19-arm]
 
@@ -63,7 +63,7 @@ Nahza Ersuisu is a sleepy-eyed [[races#chienthrope|chienthrope]], Miach Familia'
 | DanMachi 4 | "Quest X Quest": the watered-down potions, the story of the airgetlám, and the first double potions.[@fm04-scam, fm04-arm, fm04-double] |
 | DanMachi 8 | Daphne and Cassandra join.[@fm08-join] |
 | DanMachi 12–14 | Daphne and Cassandra take part in the joint expedition.[@fm12-join] |
-| DanMachi 18 | The Familia helps mass-produce potions and elixirs for the Great Familia War, and fights in the coalition; Nahza sacrifices the airgetlám.[@fm18-potions, fm18-loan] |
+| DanMachi 18 | The Familia helps mass-produce potions and [[potions#elixir|elixirs]] for the Great Familia War, and fights in the coalition; Nahza sacrifices the airgetlám.[@fm18-potions, fm18-loan] |
 | DanMachi 19 | The War Game share is to fund a new arm; Nahza is Level 3.[@fm19-arm] |
 
 ## Name

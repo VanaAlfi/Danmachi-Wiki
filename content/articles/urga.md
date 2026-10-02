@@ -26,7 +26,7 @@
   }
 }
 ---
-**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of adamantite by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] *Urga* is "The Amazon word for “great destruction.”"[@so06-name]
+**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of [[metals#adamantite|adamantite]] by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] *Urga* is "The Amazon word for “great destruction.”"[@so06-name]
 
 ## The weapon {#weapon}
 

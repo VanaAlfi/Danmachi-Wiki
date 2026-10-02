@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Loki, founded with Finn Deimne as its first member, which with Freya Familia drove Zeus and Hera Familias out of Orario. Ranked S by the Guild and often called the city's strongest Familia, it is the Familia of Aiz Wallenstein.",
-  "aliases": ["Giant Killers"],
+  "aliases": ["Giant Killers", "Cynthia", "Sharon", "Arcus", "Olba", "Lloyd", "Anju"],
   "spoilers": "DanMachi Vols. 1, 2, 5, 6, 8, 11, 17–20, Sword Oratoria Vols. 1, 2, 4–14 and Astrea Record Vols. 2 and 3",
   "related": ["loki", "finn-deimne", "riveria", "gareth", "aiz-wallenstein", "bete-loga", "hyrute-sisters", "lefiya", "twilight-manor", "freya-familia", "knossos", "xenos", "dungeon", "orario"],
   "infobox": {
@@ -57,6 +57,8 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[anakity-autumn|Anakity Autumn]] (Aki) | Cat person titled *Alsha*; Level 4 in Sword Oratoria 4 and Level 5 from Sword Oratoria 13.[@so04-aki, so10-alsha, so13-level] |
 | [[alicia-forestlight|Alicia Forestlight]] | Elf; a Level 4 in the Familia's reserve crew by Sword Oratoria 8.[@so08-reserve] |
 | [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A healer and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
+
+Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
 
 ### Fighting strength {#fighting-strength}
 
@@ -156,4 +158,9 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so10-alsha]: SO10 | Chapter 5: Brave Soul! | "Her second name was Alsha"; one of the best Level 4s in the city.
 [@so12-level4]: SO12 | | Lefiya at Level 4.
 [@so13-level]: SO13 | Chapter 1: Girl’s Revolution | "Anakity Level Five"; Loki Familia's eighth first-tier adventurer.
+[@so07-cynthia]: SO07 | Chapter 3: Feast of the Dead | "Elfie! Cynthia! Outta the way!"
+[@so07-losses]: SO07 | Chapter 5: Battle of Tears | Riveria: seven dead or missing.
+[@so11-cynthia]: SO11 | Chapter 6: And Then the God Smiled | "Cynthia! Halberd!"
+[@so12-sharon]: SO12 | Chapter 7: Final War II | "Sharon, a second-tier adventurer from Loki Familia".
+[@so13-level4s]: SO13 | Chapter 1: Girl’s Revolution | "Sharon, Olba, and Arcus reached Level Four".
 [@so13-recruiting]: SO13 | Chapter 2: Nostalgic Schoolhouse | Loki "only grudgingly engaged" with recruiting last time; its recruiters first aboard.

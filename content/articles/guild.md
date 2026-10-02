@@ -43,6 +43,8 @@
 
 Receptionists are chosen partly for their looks, because their rapport with adventurers affects morale and the flow of magic stones. Advisers are discouraged from growing close to adventurers, since repeated deaths take a toll on staff.[@fm08-guild]
 
+[[eina-tulle|Eina]]'s boss is Chief Rehmer, a chienthrope, who appears in the flashback of DanMachi 15; in DanMachi 19 he brings her to the meeting of Royman and the Guild's leadership on the second floor of the headquarters, where the Shaft plan is discussed.[@fm15-rehmer, fm19-rehmer]
+
 ## Headquarters
 
 The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Yen Press's DanMachi 1 prints West Main Street for it, but the Japanese original of that volume agrees with Sword Oratoria 1 and DanMachi 8.[@fm01-west, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
@@ -74,6 +76,8 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@fm05-calamity]: FM05 | Epilogue: The One Who Targets the Rabbit | "Calamity."
 [@fm07-board]: FM07 | Chapter 1: Smooth Sailing? | The bulletin board.
 [@fm08-guild]: FM08 | | Receptionists and advisers.
+[@fm15-rehmer]: FM15 | Chapter 4: Guild Alone | "Chief Rehmer"; Eina's boss, a chienthrope.
+[@fm19-rehmer]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Rehmer and Eina at the leadership's meeting on the second floor.
 [@fm08-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Guild headquarters on Adventurers Way.
 [@so01-pantheon]: SO01 | Chapter 3: White Rabbit | "Built from white marble with the front lined with a series of large pillars, this building was called the Pantheon, temple of the gods. Several monuments stood on the front lawn, greeting the adventurers traveling through the front doors."
 [@ar01-pantheon]: AR01 | Chapter 6: Assemblies of Light and Dark | "On Northwest Main Street, the road known as Adventurers Way, stood an impressive building. It was a grand construction meant to resemble the Pantheon, and many people considered it one of the city center’s primary landmarks."; "a room large enough to house hundreds"; "This assembly consisted of familia captains, their seconds, and other top officers."

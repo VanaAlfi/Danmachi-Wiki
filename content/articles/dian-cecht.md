@@ -30,7 +30,7 @@ Dian Cecht looks like a middle-aged god with greying hair and a beard. In DanMac
 
 ## Miach
 
-Dian Cecht Familia made the silver arm, the [[airgetlam|airgetlám]], for which Miach went into debt. In DanMachi 4 Dian Cecht gives Miach one day to pay that month's instalment. That night Miach brings him twenty of Nahza's new double potions; Amid confirms their value, and he roars in frustration but takes them.[@fm04-dian, fm04-double]
+Dian Cecht Familia made the silver arm, the [[airgetlam|airgetlám]], for which Miach went into debt. In DanMachi 4 Dian Cecht gives Miach one day to pay that month's instalment. That night Miach brings him twenty of Nahza's new [[potions#dual-potion|double potions]]; Amid confirms their value, and he roars in frustration but takes them.[@fm04-dian, fm04-double]
 
 Their rivalry goes back to the dark age. In Astrea Record 1, when the [[evils|Evils]] attack the city, he and Miach open their medical stores to anyone in need.[@ar01-supplies] When Miach says he will go to [[central-park|Central Park]] and leave Dian Cecht in charge, "the white-haired old man" snaps back: "What, and let you steal all the glory?" Miach persuades him that one of them must stay to heal the north-western front.[@ar01-quarrel] In Astrea Record 2 the city's relief camps call on both gods for help.[@ar02-camps]
 

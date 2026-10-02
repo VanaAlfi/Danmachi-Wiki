@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The vast underground labyrinth beneath Orario, sealed under Babel Tower and held in check by Ouranos's prayers. Its walls give birth to monsters, and adventurers descend it floor by floor; its bottom is unknown.",
   "aliases": ["Labyrinth", "Great Hole", "Deep Zone"],
-  "spoilers": "DanMachi Vols. 1, 2, 4–6, 8, 9, 12–14, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
+  "spoilers": "DanMachi Vols. 1–6, 8, 9, 12–14, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["upper-levels", "cave-labyrinth", "floor-18", "colossal-tree-labyrinth", "water-capital", "floor-37", "monsters", "rivira", "monster-rex", "irregular", "goliath", "level", "babel", "ouranos", "guild", "orario", "three-great-quests"],
   "infobox": {
     "title": "The Dungeon",
@@ -58,6 +58,8 @@ For the first twelve floors, the recommended basic abilities run from I–H on F
 
 ### Known deep floors {#deep-floors}
 
+- **Floor 39:** "The first safety point in the deep levels".[@fm14-safepoint]
+- **Floors 40–41:** the fortieth floor is rumoured to rival Orario itself in size; Astrea Familia's record registered with the Guild was the forty-first floor.[@fm03-size, fm13-record]
 - **Floor 44:** a floor of "sweltering heat", with a burning crimson floor and Flaming Rocks; DanMachi 4 calls it "A stage of the Dungeon’s lower levels".[@fm04-floor44]
 - **Floor 49:** the Moitra Sands, where the floor boss Balror lives and [[monsters#fomoire|Fomoire]] attack Loki Familia in Sword Oratoria 1.[@fc02-moitra, so01-camp]
 - **Floor 50:** a safe point where monsters are not born; Loki Familia camps there.[@so01-camp]
@@ -111,6 +113,9 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 [@fm04-middle]: FM04 | | Floors 13–14, the Middle Fortress.
 [@fm04-pantries]: FM04 | | Monster parties; pantries.
 [@fm04-floor44]: FM04 | Chapter 3: The Smith’s Situation | The forty-fourth floor: heat and Flaming Rocks.
+[@fm03-size]: FM03 | Chapter 5: A Hero’s Desire | "the fortieth floor is rumored to rival Orario itself in size and scale".
+[@fm13-record]: FM13 | Chapter 4: Countdown | Astrea Familia's registered record: the forty-first floor.
+[@fm14-safepoint]: FM14 | Chapter 9: Hello, Deep Levels | "The first safety point in the deep levels is on the thirty-ninth floor."
 [@fm04-mother]: FM04 | Quest X Quest | Monsters live off their "mother," the Dungeon.
 [@fm05-safe]: FM05 | | Floor 18, the Under Resort.
 [@fm05-safepoint]: FM05 | Chapter 4: Dungeon Resort? | A safe point where no monsters are born.

@@ -34,7 +34,7 @@ On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her mag
 
 Filvis died protecting her companions in a disaster on Floor 27 and was turned into a creature by a fragment of the [[corrupted-spirit|corrupted spirit]]; Dionysus exploited her despair.[@so12-filvis] Her magic [[#einsel|Einsel]] creates a second body that can think and act on its own, each with half her Status: this is *Ein*, the masked figure in a purple robe.[@so12-einsel] In Sword Oratoria 11 she appears to be killed; Sword Oratoria 12 reveals this as a deception using her two bodies.[@so11-filvis, so12-filvis]
 
-Recombined, she fights at what [[asfi|Asfi]] calls Level 7 strength, though this is a judgement, not a printed Status.[@so12-power] Lefiya pierces her [[magic-stone|magic stone]] with a spell after summoning Dio Grail. The dying Filvis splits: one self clings to Dionysus and disappears as he returns to the heavens, and the other stays with Lefiya and crumbles to ash. The text treats both as truly her.[@so12-end]
+Recombined, she fights at what [[asfi|Asfi]] calls Level 7 strength, though this is a judgement, not a printed Status.[@so12-power] After summoning Dio Grail against Filvis's lightning, Lefiya drives Filvis's own sword into her [[magic-stone|magic stone]]. The dying Filvis splits: one self clings to Dionysus and disappears as he returns to the heavens, and the other stays with Lefiya and crumbles to ash. The text treats both as truly her.[@so12-end]
 
 Her Status sheet at the end of Sword Oratoria 12 lists three [[skills|Skills]]: Fairy Senior, which amplifies her magic according to her grief; Monstrum Union, which marks her as a hybrid; and Dark Light, which changes the wavelength of her magic and adds an enchantment that rejects recovery. See [[skills#filvis-skills|Skills § Filvis Challia's Skills]].[@skills.so12-sheet]
 
@@ -133,7 +133,7 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@skills.so12-sheet]: SO12 | | Illustrated Status sheet at the end of the volume: Fairy Senior, Monstrum Union, Dark Light.
 [@so12-einsel]: SO12 | | Einsel and Ein.
 [@so12-power]: SO12 | | Level 7–class strength.
-[@so12-end]: SO12 | | Lefiya's spell; the split; her end.
+[@so12-end]: SO12 | | Lefiya's Dio Grail and Filvis's sword; the split; her end.
 [@ss02-filvis]: SS02 | | Filvis protects Lefiya.
 [@dio-thyrsos.so03-cast]: SO03 | Chapter 4: White-Haired Devil | "Purge, cleansing lightning!"; Concurrent Casting; "short-trigger-spell magic".
 [@dio-thyrsos.so05-short]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's spells: "not more than a single phrase".

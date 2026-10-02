@@ -27,7 +27,7 @@
 
 ## Hestia's friend
 
-When [[hestia|Hestia]] first came down to the Lower World she lived with Hephaistos Familia, and Hephaistos later gave her an abandoned church to live in.[@fm04-hestia, fm15-church] At Hestia's request she forges the [[hestia-knife|Hestia Knife]] for [[bell-cranell|Bell]] from her own mythril, engraved with Hestia's blessing so that only someone with that blessing can wield it.[@fm01-knife] Hestia takes on a large debt for it, confirmed in DanMachi 7 as 200 million valis.[@fm01-loan, fm07-debt]
+When [[hestia|Hestia]] first came down to the Lower World she lived with Hephaistos Familia, and Hephaistos later gave her an abandoned church to live in.[@fm04-hestia, fm15-church] At Hestia's request she forges the [[hestia-knife|Hestia Knife]] for [[bell-cranell|Bell]] from her own [[metals#mythril|mythril]], engraved with Hestia's blessing so that only someone with that blessing can wield it.[@fm01-knife] Hestia takes on a large debt for it, confirmed in DanMachi 7 as 200 million valis.[@fm01-loan, fm07-debt]
 
 ## Welf Crozzo
 

@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Freya, one of Orario's two strongest until its defeat in the Familia War of DanMachi 18, after which the Guild dissolves it.",
-  "aliases": ["Van"],
+  "aliases": ["Van", "Remilia", "Rask"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 4, Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["freya", "ottar", "allen-fromel", "hedin", "hegni", "horn", "mia-grand", "anya-fromel", "syr-flover", "hestia-familia", "war-game"],
   "infobox": {
@@ -40,6 +40,7 @@
 | [[heith-velvet|Heith Velvet]] | Vana Mardel | 4 | Healer and representative of the Andhrímnir; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
 | [[horn|Hörn]] | none | — | Freya's attendant, known as "Nameless" because Freya refused to let the gods give her a title.[@fm16-horn] |
 | Van | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; sent to reinforce Hegni's unit in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
+| Remilia and Rask | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |
 
 Former members include [[mia-grand|Mia Grand]], the Level 6 *Demi Ymir* and captain before Ottar, who now owns [[the-benevolent-mistress|The Benevolent Mistress]],[@fm18-mia, fc01-owner] and Anya Fromel (*Vana Alfi*), who was sent away after a Deep Levels expedition in which she nearly died.[@fm17-anya, fm18-allen]
 
@@ -99,6 +100,8 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@fm16-syr]: FM16 | | Who in the Familia knows about Syr.
 [@fm16-hedin]: FM16 | | Hedin's title; his plan to guard Syr's date.
 [@fm16-horn]: FM16 | Chapter 6: The Wish’s Cost | Hörn's attempt and her position in the Familia.
+[@fm17-guards]: FM17 | Chapter 5: The End of Her World | "My impromptu guards are Remilia and Rask."
+[@fm18-guards]: FM18 | Chapter 9: Flower Language for You | Rask and Remilia, guards for the house of the gods, pass on Freya's order.
 [@ar01-van]: AR01 | Chapter 9: The Opening Act of Evil | "Van! Go and reinforce Hegni’s unit to the south!"; "Van, the half-prum adventurer waiting below, reacted quickly and followed his new orders."
 [@fm16-van]: FM16 | Chapter 4: Full Princess Panic! | "Van was charged with leading one of the units guarding Syr. In his thirties, he had an attractive, androgynous face, was short, had an odd air about him, and in general appeared to be a somewhat sloppy sort of man."; "So it was Van’s squad…Mindless fools, do you wish to tarnish Lady Freya’s honor?"; "the half-prum Van was running amok".
 [@fm17-van]: FM17 | Chapter 3: The Field of Battle | "a fellow Level 4, Van, is supposed to look after me as I go through my daily activities"; "Van spins in my direction, his twin blades hurtling toward my chest."

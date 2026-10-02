@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The wiki's bestiary: what the novels say about the Dungeon's monsters in general, an index of species, and a section for each species without a page of its own, arranged by depth: the upper levels from goblin to infant dragon, then the middle levels from hellhound and liger fang through the Colossal Tree Labyrinth's species to the mammoth fool, the wyvern, the moss huge and the green dragon, the lower levels' Water Capital species from blue crab to voltemeria, the poison vermis, the bloodsaurus and the blue dragon, the deep levels' warriors of Floor 37 and the peluda, the ooze, the Fomoire, black rhinos, deformis spiders, Cadmus and the valgang dragon, then the violas and viskum, the gargoyle, the unicorn, the ogre and the basilisk.",
   "aliases": ["Bestiary", "Monster", "Vouivre", "Vouivres", "Vouivre's Tear", "Prosperity Stone", "Lizardman", "Lizardmen", "Lizardman elite", "Violas", "Viola", "Man-eating flowers", "Carnivorous plants", "Flower monsters", "Gargoyle", "Gargoyles", "Hellhound", "Hellhounds", "Hell hounds", "Baskerville", "Baskervilles", "Hellhound Fangs", "Goblin", "Kobold", "Kobolds", "Dungeon lizard", "Dungeon Lizard", "War shadow", "Wall Shadow", "Woe shadow", "Orde", "Frog shooter", "Frog shooters", "Killer ant", "Killer ants", "Purple moth", "Purple Moth Scales", "Needle rabbit", "Orc", "Orcs", "Imp", "Imps", "Bad bat", "Bad bats", "Silverback", "Silverbacks", "Hard Armored", "Hard Armoreds", "Infant dragon", "Infant dragons", "Liger fang", "Liger fangs", "Bugbear", "Bugbears", "Mad beetle", "Mad beetles", "Gun libellula", "Gun libellulas", "Gun liberla", "Firebird", "Firebirds", "Dark fungus", "Dark fungi", "Battle boar", "Battle boars", "Swordstag", "Swordstags", "Sword stag", "Troll", "Trolls", "Bloodstained Troll", "Deadly hornet", "Deadly hornets", "Bloody hive", "Mammoth fool", "Mammoth fools", "Blue crab", "Blue crabs", "Raider fish", "Aqua serpent", "Aqua serpents", "Crystal turtle", "Crystal turtles", "Devil mosquito", "Devil mosquitoes", "Iguaçu", "Iguacu", "Iguazu", "Harpy", "Harpies", "Siren", "Sirens", "Mermaid", "Mermaids", "Merman", "Mermen", "Light quartz", "Light quartzes", "Kelpie", "Kelpies", "Lamia", "Lamias", "Voltemeria", "Voltemerias", "Voltimeria", "Wyvern", "Wyverns", "Ill wyvern", "Ill wyverns", "Black Wyvern", "Moss huge", "Poison vermis", "Poison graveyards", "Ooze", "Oozes", "Slime", "Valgang dragon", "Valgang dragons", "Dragon's Urn", "Dragon Urn", "Unicorn", "Unicorns", "Unicorn's Cup", "Ogre", "Ogres", "Green dragon", "Green dragons", "Treasure keepers", "Bloodsaurus", "Bloodsauruses", "Almalosaurus", "Spinoaxe", "Blue dragon", "Aurora dragon", "Peluda", "Peludas", "Fomoire", "Formoire", "Formoires", "Moitra formoire", "Foh", "Black rhino", "Black rhinos", "Black rhino horn", "Deformis spider", "Deformis spiders", "Cadmus", "Cadmus Hide", "Cadmus Springs", "Viskum", "Viscum", "Basilisk", "Basilisks", "Arachne", "Arachnes", "Hippogriff", "Cliff", "Griffin", "Griffins", "Barbarian", "Barbarians", "Loup-garou", "Loup-garous", "Skull sheep", "Spartoi", "Obsidian soldier", "Obsidian soldiers"],
-  "spoilers": "DanMachi Vols. 1–5, 7–16, 19, 20, Sword Oratoria Vols. 1–7, 9, 10, 12–14, Familia Chronicle Vols. 1–3, Astrea Record Vols. 2 and 3 and Minor Myths and Legends Vols. 1 and 2",
+  "spoilers": "DanMachi Vols. 1–5, 7–16, 19, 20, Sword Oratoria Vols. 1–10 and 12–14, Familia Chronicle Vols. 1–3, Astrea Record Vols. 2 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["dungeon", "magic-stone", "irregular", "monster-rex", "xenos", "corrupted-spirit", "al-miraj", "minotaur"],
   "sections": [
     {"anchor": "goblin", "title": "Goblin", "summary": "The weakest monster in the Dungeon, found with kobolds on floors 1 to 4 and in stronger forms on 8 and 9; goblins also live outside the Dungeon.", "aliases": []},
@@ -78,7 +78,8 @@
     {"anchor": "basilisk", "title": "Basilisk", "summary": "A fire-breathing serpent of the dragon family with a petrifying poison, feared in Kaios; Ottar kills Resheph Familia's tamed basilisk.", "aliases": ["Basilisks"]},
     {"anchor": "arachne", "title": "Arachne", "summary": "Humanoid spider monsters with a woman's upper body, spider legs, webbing and acid; the only one located in the checked text is Ranieh of the Xenos.", "aliases": ["Arachnes"]},
     {"anchor": "hippogriff", "title": "Hippogriff", "summary": "A flying monster known in the checked text only through Cliff of the Xenos, killed by Ikelos Familia's hunters in DanMachi 10.", "aliases": ["Cliff"]},
-    {"anchor": "griffin", "title": "Griffin", "summary": "Winged monsters known in the checked text only as Xenos of the Hidden Village in DanMachi 9 and 10.", "aliases": ["Griffins"]}
+    {"anchor": "griffin", "title": "Griffin", "summary": "Winged monsters known in the checked text only as Xenos of the Hidden Village in DanMachi 9 and 10.", "aliases": ["Griffins"]},
+    {"anchor": "briefly-named", "title": "Briefly named monsters", "summary": "Twenty-three species named only once or twice in the checked text, from the dungeon worm and hobgoblin to the Dragon's Urn's venom scorpions and the Kaios Desert's sand worms.", "aliases": ["Afanc", "Carbuncle", "Crystal urchin", "Desert lizard", "Dodora", "Dungeon fly", "Dungeon worm", "Flame rock", "Flaming Rocks", "Grand Treant", "Hobgoblin", "Metal rabbit", "Metal Rabbit Hair", "Nameless dragon", "Old bison", "Power bull", "Sand scorpion", "Sand worm", "Scylla", "Silver worm", "Thunder snake", "Venom scorpion", "Venom sky centipede dragon", "Virga", "Vulture hunter"]}
   ],
   "infobox": {
     "title": "Monsters",
@@ -183,6 +184,7 @@
 | [[#arachne|Arachne]] | Not located; Ranieh of the Xenos | A humanoid spider with webbing and acid[@arachne.fm09-humanoid, arachne.fm10-ranieh] |
 | [[#hippogriff|Hippogriff]] | Not located; Cliff of the Xenos | A cheerful flier[@hippogriff.fm10-cliff] |
 | [[#griffin|Griffin]] | Not located; Xenos of the Hidden Village | Winged monsters with sharp beaks[@griffin.fm09-village, griffin.fm10-bell] |
+| [[#briefly-named|Briefly named monsters]] | Various | Twenty-three species named only in passing, in one table[@brief.fm05-worm, brief.so04-urn, brief.fc02-ali] |
 
 ## Upper levels {#upper-levels}
 
@@ -288,7 +290,7 @@ The **infant dragon** is a wingless, four-legged dragon with thick amber scales 
 - **Tells:** before spitting fire, a hellhound raises its hindquarters, lowers its head, and shows sparks between its teeth.[@hellhound.fm05-spit]
 - **Defences:** hellhounds are the reason [[eina-tulle|Eina]] insists on salamander wool for Bell's party; the Japanese says it is solely because of them (the Yen Press text says "the main reason").[@hellhound.fm05-baskerville, hellhound.fm05-ja-baskerville] Being fire-breathers, they resist fire magic unusually well.[@hellhound.fm05-resist] [[welf-crozzo|Welf]]'s [[magic#will-o-the-wisp|Will-o'-the-Wisp]] makes the hellhounds detonate as their own fire builds up; the Japanese says their flame is magic power burned inside the body, which the spell triggers.[@hellhound.fm05-wisp, hellhound.fm05-ja-wisp] [[asfi|Asfi]] glues their mouths shut with sticky vials before they can fire.[@hellhound.fm05-asfi]
 - **Drops:** a quest posted in DanMachi 4 asks for "Hellhound Fangs x10".[@hellhound.fm04-fangs]
-- **Company:** they often hunt alongside [[al-miraj|al-miraj]]. In Sword Oratoria 13 Lefiya singles out their fire breath as a threat to her squad.[@hellhound.fm07-pack, hellhound.so13-lefiya] Among the Xenos, the hellhound Helga carries the al-miraj [[al-miraj#aruru|Aruru]].[@hellhound.so12-helga]
+- **Company:** they often hunt alongside [[al-miraj|al-miraj]]. In Sword Oratoria 13 Lefiya singles out their fire breath as a threat to her squad.[@hellhound.fm07-pack, hellhound.so13-lefiya] Among the Xenos, the hellhound Helga goes about with the al-miraj [[al-miraj#aruru|Aruru]]; in Sword Oratoria 12 the two track down Asterios on Fels's orders.[@hellhound.so12-helga]
 
 ### Liger fang {#liger-fang}
 
@@ -607,6 +609,65 @@ The only **hippogriff** located in the checked text is Cliff of the [[xenos|Xeno
 
 **Griffins** appear in the checked text only among the [[xenos|Xenos]]. In DanMachi 9 a griffin circles above the Hidden Village with a harpy and a gargoyle when Bell's party arrives; in DanMachi 10 a griffin's eyes smoulder "with anger that the hippogriff had been murdered", and when the Xenos run wild, a griffin catches Bell between jumps before a troll's club strikes them both.[@griffin.fm09-village, griffin.fm10-bell, griffin.fm10-wild]
 
+## Briefly named monsters {#briefly-named}
+
+{{nocite}} Species named only once or twice in the checked text, too briefly for sections of their own. Every name is searchable.
+
+| Monster | Where | In brief |
+|---|---|---|
+| Afanc | Floor 27 | Named with the [[#lamia|lamia]] and the dodora as monsters "that normally appeared for the first time on the twenty-seventh floor".[@brief.fm14-floor27] |
+| Carbuncle | Not stated; very rare | Among the "extremely rare monsters" caged by the hunters in Knossos (DanMachi 10); "one secret carbuncle crystal" can meet the first expedition's item requirement; the [[#blue-dragon|blue dragon]] is "up there with carbuncles in rarity".[@brief.fm10-cages, brief.fm12-mission, brief.fm19-rarity] |
+| Crystal urchin | Lower levels | A fast-rolling monster that Chloe cuts into slivers in the [[water-capital|Water Capital]] (DanMachi 14).[@brief.fm14-urchin] |
+| Desert lizard | The surface (Kaios Desert) | A two-meder-long, four-legged carnivore; on the desert journey of Familia Chronicle 2, [[allen-fromel|Allen]]'s silver spear kills them faster than Ali can follow.[@brief.fc02-lizard, brief.fc02-ali] |
+| Dodora | Floor 27 | Named with the lamia and the afanc.[@brief.fm14-floor27] |
+| Dungeon fly | Not stated | "a harmless monster that continuously generates light", glimpsed by Bell in a Pleasure Quarter estate (DanMachi 7).[@brief.fm07-fly] |
+| Dungeon worm | Middle levels | Bursts out of a Dungeon wall (DanMachi 5) or out of a hole in the ground (DanMachi 19); printed *Dungeon Worm* and *dungeon worm*.[@brief.fm05-worm, brief.fm08-worm, brief.fm19-worm] |
+| Flame rock | Deep levels | Printed *Flaming Rocks* on Floor 44 in DanMachi 4; deep-level monsters whose drop items are the highly flammable Inferno Stones.[@brief.fm04-flaming, brief.fm13-inferno, brief.so03-inferno] |
+| Grand Treant | Knossos | A monster that a crystal orb fetus parasitizes in Sword Oratoria 12 (see [[corrupted-spirit#heavens-gate|the six demi-spirits of Knossos]]).[@brief.so12-treant] |
+| Hobgoblin | Upper levels | "a stronger species of goblin often found higher up in the Dungeon"; one is two meders tall.[@brief.so03-hobgoblin, brief.so03-hob2] |
+| Metal rabbit | Not stated | A herd attacks Bell's party in DanMachi 12; its drop item, Metal Rabbit Hair, makes "extremely light" equipment (DanMachi 2).[@brief.fm12-herd, brief.fm02-hair] |
+| Nameless dragon | From the deep floors | An infant dragon that Levis's side captured and brought up; the crystal orb fetus of [[corrupted-spirit#nidhogg|Nidhogg]] was attached to it (Sword Oratoria 12).[@brief.so12-nameless] |
+| Old bison | Not stated | Known from Bell's new leg holster of "old bison leather", far stronger than the old one (DanMachi 12).[@brief.fm12-bison] |
+| Power bull | Knossos | The monster parasitized to make the "power bull femanoid" demi-spirit that Gareth, Tiona and Tione fought (see [[corrupted-spirit#gugalanna|Gugalanna]]).[@brief.so07-bull, brief.so08-bull] |
+| Sand scorpion | The surface (Kaios Desert) | Dismembered by Allen on the same journey.[@brief.fc02-ali] |
+| Sand worm | The surface (Kaios Desert) | Moves underground and bursts out when it senses prey; one attacks Freya's party in Familia Chronicle 2 and has its head blown backward.[@brief.fc02-sandworm] |
+| Scylla | Legend; caged in Knossos | "the legendary half-human/half-octopus beast that was said to once roam the coastlines" (Sword Oratoria 2); named among the caged monsters with human characteristics (DanMachi 10).[@brief.so02-scylla, brief.fm10-cages] |
+| Silver worm | The Dragon's Urn | With venom scorpions and thunder snakes, beyond "some kind of invisible line of demarcation" (Sword Oratoria 4).[@brief.so04-urn] |
+| Thunder snake | The Dragon's Urn | As above; Aiz ploughs through them.[@brief.so04-urn, brief.so04-aiz] |
+| Venom scorpion | The Dragon's Urn | As above.[@brief.so04-urn, brief.so04-aiz] |
+| Venom sky centipede dragon | Floor 67 | A monster Zeus and Hera discovered on the sixty-seventh floor (DanMachi 20).[@brief.fm20-centipede] |
+| Virga | Deep levels | A hooded figure calls the acid-spitting caterpillar monsters that herd Loki Familia "my virgas" (Sword Oratoria 4).[@brief.so04-virga] |
+| Vulture hunter | The surface (Kaios Desert) | A winged monster; Allen clips their wings and skewers them.[@brief.fc02-ali] |
+
+[@brief.fm02-hair]: FM02 | Chapter 2: The Supporter’s Situation | Forged from the drop item "Metal Rabbit Hair"; "extremely light".
+[@brief.fm04-flaming]: FM04 | Chapter 3: The Smith’s Situation | "a group of monsters called Flaming Rocks" on Floor 44.
+[@brief.fm05-worm]: FM05 | Chapter 3: Dungeon Death March | "a Dungeon Worm came bursting out of the wall".
+[@brief.fm07-fly]: FM07 | Chapter 2: Run, Cranell | "a Dungeon Fly—a harmless monster that continuously generates light".
+[@brief.fm08-worm]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): Welf finishes off the dungeon worm.
+[@brief.fm10-cages]: FM10 | Chapter 9: Dreams of Beasts | Lamia, Scylla, mermaids and "extremely rare monsters like a carbuncle" in the hunters' prison.
+[@brief.fm12-bison]: FM12 | Chapter 2: Adventure Intermission | "a new holster made of old bison leather".
+[@brief.fm12-herd]: FM12 | Chapter 2: Adventure Intermission | "a herd of Metal Rabbits".
+[@brief.fm12-mission]: FM12 | Chapter 3: New World ~Water Island~ | "one secret carbuncle crystal".
+[@brief.fm13-inferno]: FM13 | Chapter 4: Countdown | Inferno Stones, drop items from flame rocks, deep-level monsters.
+[@brief.fm14-floor27]: FM14 | Chapter 8: The Voice of the Hammer | "A lamia, an afanc, and a dodora".
+[@brief.fm14-urchin]: FM14 | Chapter 8: The Voice of the Hammer | Chloe and the crystal urchin.
+[@brief.fm19-rarity]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): the aurora dragon "up there with carbuncles in rarity".
+[@brief.fm19-worm]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): a dungeon worm out of a hole in the ground.
+[@brief.fm20-centipede]: FM20 | Chapter 4: The Knight’s Afterglow | "a venom sky centipede dragon"; found by Zeus and Hera on Floor 67.
+[@brief.fc02-sandworm]: FC02 | Ali and the 8 Followers | The sand worm.
+[@brief.fc02-lizard]: FC02 | Ali and the 8 Followers | "The giant desert lizard", two meders long.
+[@brief.fc02-ali]: FC02 | Ali and the 8 Followers | Allen's silver spear: desert lizards, sand scorpions and vulture hunters.
+[@brief.so02-scylla]: SO02 | Chapter 5: The Battle of Rivira | The legendary Scylla, as a comparison.
+[@brief.so03-hobgoblin]: SO03 | Chapter 3: A Hideous Beauty | "a hobgoblin, a stronger species of goblin".
+[@brief.so03-hob2]: SO03 | Chapter 4: White-Haired Devil | "a two-meder-tall hobgoblin".
+[@brief.so03-inferno]: SO03 | Chapter 4: White-Haired Devil | A drop item from flame rocks in the deep levels, highly flammable.
+[@brief.so04-urn]: SO04 | Last Chapter: To Adventure | "Venom scorpions, thunder snakes, silver worms".
+[@brief.so04-aiz]: SO04 | Last Chapter: To Adventure | Aiz ploughs through venom scorpions and thunder snakes.
+[@brief.so04-virga]: SO04 | Last Chapter: To Adventure | "Don’t let them escape, my virgas."; the hooded figure's caterpillars.
+[@brief.so07-bull]: SO07 | Chapter 5: Battle of Tears | Gareth: "a power bull that thing parasitized".
+[@brief.so08-bull]: SO08 | Chapter 1: Lonely Wolf | "the power bull femanoid".
+[@brief.so12-treant]: SO12 | Chapter 5: Final War | "The crystal orb fetus is parasitizing a Grand Treant".
+[@brief.so12-nameless]: SO12 | Chapter 8: A Heroes’ Chorus | The nameless infant dragon brought up from the deep floors.
 [@so03-core]: SO03 | Chapter 5: Hell and Hell | "Destroying it would turn the entire monster into a mountain of ash."; "in the central chest area as was normal for monsters".
 [@fm05-rating]: FM05 | | "there’s a reason that these rabbits are classified as Level 2 monsters"; "surprisingly dangerous in groups".
 [@fm05-middle]: FM05 | | "All the monsters in the upper levels could only attack from short range"; "the difference in intelligence between the monsters of the upper and middle levels was worlds apart".

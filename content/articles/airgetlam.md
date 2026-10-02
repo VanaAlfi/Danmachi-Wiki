@@ -41,7 +41,7 @@ The arm is made of a smooth, polished silver metal and looks almost exactly like
 
 ## Why a prosthesis
 
-The novels treat a lost limb as something healing cannot restore. In DanMachi 11 Bell reflects that even an elixir cannot bring back [[wiene|Wiene]]'s lost claws and wing, or Nahza would not need a prosthetic arm.[@fm11-wiene] In DanMachi 14 Bell's own badly injured arm can be reconstructed only because all its parts were kept; had any been lost, he would have needed an artificial arm like Nahza's.[@fm14-bell]
+The novels treat a lost limb as something healing cannot restore. In DanMachi 11 Bell reflects that even an [[potions#elixir|elixir]] cannot bring back [[wiene|Wiene]]'s lost claws and wing, or Nahza would not need a prosthetic arm.[@fm11-wiene] In DanMachi 14 Bell's own badly injured arm can be reconstructed only because all its parts were kept; had any been lost, he would have needed an artificial arm like Nahza's.[@fm14-bell]
 
 ## Sacrifice in the Familia War
 

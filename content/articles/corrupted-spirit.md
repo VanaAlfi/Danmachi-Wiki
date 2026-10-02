@@ -35,7 +35,7 @@ The **corrupted spirit** is a spirit of the Ancient Times that went down into th
 
 ## The spirits of old
 
-When the gods began their descent, spirits acted as their antennas and carried out their will; some gods released them to guide the civilised peoples and drive monsters off the surface. Sword Oratoria 4 compares them to the Falna of the present day. They gave their protection to many heroes, and many were sent into the Dungeon, which is how the Dungeon Oratoria came about.[@so04-ouranos] In Sword Oratoria 5 [[welf-crozzo|Welf]] traces the [[magic-sword|Crozzo magic swords]] to a spirit's blood given to his ancestor, and Loki Familia's members silently wonder whether [[aiz-wallenstein|Aiz]]'s wind comes from spirit blood too.[@so05-blood]
+When the gods began their descent, spirits acted as their antennas and carried out their will; some gods released them to guide the civilised peoples and drive monsters off the surface. Sword Oratoria 4 compares them to the Falna of the present day. They gave their protection to many heroes, and many were sent into the Dungeon, which is how the [[dungeon-oratoria|Dungeon Oratoria]] came about.[@so04-ouranos] In Sword Oratoria 5 [[welf-crozzo|Welf]] traces the [[magic-sword|Crozzo magic swords]] to a spirit's blood given to his ancestor, and Loki Familia's members silently wonder whether [[aiz-wallenstein|Aiz]]'s wind comes from spirit blood too.[@so05-blood]
 
 ## The corrupted spirit
 

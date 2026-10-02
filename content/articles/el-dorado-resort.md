@@ -37,7 +37,7 @@ Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign
 
 - **El Dorado Resort:** financed and established by Santorio Vega, it has the Guild's cooperation and contracts [[ganesha-familia|Ganesha Familia]] for security.[@fc01-grand, fc01-district]
 - **Entry:** only the rich get in. Holders of a Gold Card have special passes, and Bell enters on the introduction of [[mord-latro|Mord]], who holds one.[@fc01-entry, fc01-bell]
-- **The vault:** under the casino, an adamantite vault holds its riches, a room befitting a place billed as "The Golden City".[@fc01-vault]
+- **The vault:** under the casino, an [[metals#adamantite|adamantite]] vault holds its riches, a room befitting a place billed as "The Golden City".[@fc01-vault]
 - **Santorio Vega:** Sword Oratoria 13 lists it among the world's lands as "the city of pleasures".[@so13-lands]
 
 ## Familia Chronicle 1 {#story}

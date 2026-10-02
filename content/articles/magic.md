@@ -1255,7 +1255,7 @@ Bete's illustrated Status sheet in Sword Oratoria 5 (Level 5) lists Hati under M
 
 Sword Oratoria 8 prints the chant in seven pieces, from the opening to the last line; between them it speaks of three wounds and of rage, fate, tears and lost companions. His enemies attack him throughout, and he makes no move to dodge.[@hati.so08-cast]
 
-Sword Oratoria 12 prints three of the middle lines again, split by other action, before the release. The wording differs slightly from Sword Oratoria 8, for example "Dry the tears!" for "And dry thy tears", and "unleash" for "release".[@hati.so08-cast, hati.so12-filvis] These are recorded as print variants, and the Sword Oratoria 12 print is partial.
+Sword Oratoria 12 prints the whole chant again in seven pieces, split by other action, before the release. The wording differs slightly from Sword Oratoria 8: the opening reads "Chained Fenris, king of wolves!" for "Chained Fros, king of the wolves", and there are "Dry the tears!" for "And dry thy tears" and "unleash" for "release".[@hati.so08-cast, hati.so12-filvis] These are recorded as print variants.
 
 #### Effects {#hati-effects}
 
@@ -3722,7 +3722,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@hati.so08-cast]: SO08 | Chapter 5: Battered Wolf | Chant in seven pieces; "Hati."; the pyre; four flames.
 [@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits.
 [@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
-[@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | Partial chant; flaming wolf; Fusillade Fallarica strengthens it.
+[@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | The whole chant again in seven pieces ("Chained Fenris, king of wolves!"); flaming wolf; Fusillade Fallarica strengthens it.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
 [@luminous-wind.fm05-cast]: FM05 | Chapter 6: Praise to the Heroes | Version A chant in three pieces; hundreds of orbs.
 [@luminous-wind.fm05-ja-cast]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 651): countless large orbs of light wrapped in green wind, born around Lyu and fired all at once into the Goliath; no number is given. Yen Press prints "Hundreds of small orbs".

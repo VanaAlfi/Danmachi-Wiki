@@ -53,7 +53,7 @@ The **Far East** is a distant region across the ocean from the Continent. Travel
 | Games | *Shogi*, the Far Eastern board game, and Far Eastern board-game strategy.[@fm15-shogi, fm18-board] |
 | Food | Spicy Far Eastern pepper; Far Eastern dried plums; Mikoto's sweetened fried eggs.[@fm16-pepper, fm20-plum, fm09-eggs] |
 | Stories | A princess saved from a demon by a young, nameless warrior, "one of the oldest stories in the Far East"; the samurai Issen Douji, who fought over a thousand [[monsters#ogre|ogres]] to protect a girl; the Dragon Palace of Far Eastern fairy tales.[@fm07-story, fm07-issen, so07-palace] |
-| Materials | Scarletite, "a miraculous metal created in the Far East", equal to orichalcum in value and rarity.[@so13-scarletite] |
+| Materials | [[metals#scarletite|Scarletite]], "a miraculous metal created in the Far East", equal to [[metals#orichalcum|orichalcum]] in value and rarity.[@so13-scarletite] |
 
 Stories also travel the other way: Haruhime says that many stories of Orario have reached the Far East, and that the city always appealed to her.[@fm07-stories]
 

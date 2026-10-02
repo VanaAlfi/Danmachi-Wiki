@@ -30,7 +30,7 @@
 - **A saber.** Beside Tiona's huge weapon it looks like a toothpick, but no matter how many bodies it pierces, "the silver saber never lost its luster".[@so01-saber]
 - **Durandal.** Forged by smiths with a god's blessing, it was given "a superior characteristic: Durandal, the Unbreaking"; it is physically impossible for it to snap in combat.[@so01-saber]
 - **Upkeep.** It does need sharpening to keep its edge. Such weapons usually need no serious maintenance, but Aiz is not a normal adventurer.[@so01-sharpen] Its repairs, the forty-million-valis bill and the rapier Goibniu lends her meanwhile are described on [[goibniu|Goibniu]]'s page.
-- **Orichalcum.** Sword Oratoria 7 calls orichalcum "the master ingot, integral in the creation of the Durandal from which Superior-grade weapons, like Aiz's Desperate, were forged".[@so07-orichalcum] DanMachi 10 likewise says orichalcum can be forged into "unbreakable Durandal-class items".[@fm10-orichalcum]
+- **[[metals#orichalcum|Orichalcum]].** Sword Oratoria 7 calls orichalcum "the master ingot, integral in the creation of the Durandal from which Superior-grade weapons, like Aiz's Desperate, were forged".[@so07-orichalcum] DanMachi 10 likewise says orichalcum can be forged into "unbreakable Durandal-class items".[@fm10-orichalcum]
 
 ## History
 

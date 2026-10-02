@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the god Soma, whose divine wine was used as a reward that drove its members to fight over it; Lilly's first Familia, reformed after DanMachi 6.",
-  "aliases": ["Kanu"],
+  "aliases": ["Kanu", "Zanis", "Zanis Lustra", "Chandra", "Chandra Ihit"],
   "spoilers": "DanMachi Vols. 2–15",
   "related": ["soma", "lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
   "sections": [

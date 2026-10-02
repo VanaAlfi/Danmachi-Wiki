@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The god Ikelos's Familia of monster hunters and smugglers, led in the field by Dix Perdix. From a base inside Knossos it captures and sells Xenos until DanMachi 10, when it is wiped out, Dix is killed and Ikelos is exiled from Orario.",
-  "aliases": ["Dix", "Dix Perdix", "Hazer"],
+  "aliases": ["Dix", "Dix Perdix", "Hazer", "Gran"],
   "spoilers": "DanMachi Vols. 9 and 10 and Sword Oratoria Vols. 7 and 11",
   "related": ["ikelos", "xenos", "knossos", "hermes", "asterios", "wiene", "magic"],
   "infobox": {
@@ -34,6 +34,8 @@ Ikelos is a god with wheat-coloured skin and navy-blue hair.[@fm10-exile] When [
 ## Dix Perdix
 
 Dix Perdix is the goggle-wearing leader of the hunters, with red eyes and a wickedly curved red spear.[@fm09-hunters, fm10-dix, fm10-spear]
+
+Among his hunters is Gran, a tall, muscular, bald man with a black tattoo over most of his face. In DanMachi 10 he kills Orde with one flash of his greatsword, yet cowers at a single angry word from Dix; later he reports to Dix the monsters that swept through the eighteenth floor and Orario's state of emergency.[@fm10-gran, fm10-gran-news]
 
 - **Level:** [[asfi|Asfi]] says he became a second-tier Level 4 nearly ten years earlier; in the fight with [[bell-cranell|Bell]] he says "I'm Level Five".[@fm10-dix, fm10-level]
 - **Title:** [[fels|Fels]] addresses him as "Hazer, Dix Perdix".[@fm10-hazer]
@@ -67,6 +69,8 @@ Loki Familia brings Ikelos before the Guild, where he admits his Familia's black
 [@fm09-buyers]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's inquiry: an estate belonging to Elurian royalty.
 [@fm09-ikelos]: FM09 | Chapter 3: The World and Reality and Monsters | Hermes and Ikelos: the smuggling ring; the Evils candidate list; "I didn’t give those orders"; "as long as they keep me entertained".
 [@fm09-sell]: FM09 | Chapter 5: Heretics | The hunters smuggle Xenos out of the city and sell them to gourmets.
+[@fm10-gran]: FM10 | Chapter 7: The King of Atrocity | Gran, the tattooed hunter, kills Orde with his greatsword; Dix's rebuke.
+[@fm10-gran-news]: FM10 | Chapter 8: City Panic | Gran's report to Dix.
 [@fm10-dix]: FM10 | Chapter 6: Before the Storm | "Dix Perdix"; Ikelos Familia's leader; a second-tier Level 4 nearly ten years ago.
 [@fm10-hazer]: FM10 | Chapter 9: Dreams of Beasts | Fels: "Hazer, Dix Perdix…So you’re the mastermind."
 [@fm10-daedalus]: FM10 | Chapter 9: Dreams of Beasts | The descendants; "One thousand years"; the base in Knossos.

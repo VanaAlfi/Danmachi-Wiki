@@ -29,7 +29,7 @@ The **Orariad** is the contest of representatives between [[orario|Orario]] and 
 
 ## The quarrel {#quarrel}
 
-The Guild had high-handedly requisitioned the School District's orichalcum, claiming Ouranos's permission; the Yen Press text has Syr say they demanded "a whole half" of it, but the Japanese gives no fraction. The students demand that the requisition be withdrawn. Until it is, they threaten to halt all recruitment and internships and even to cut ties with Orario.[@fm20-demand, fm20-half] For the School District, orichalcum is "the pride and manifestation" of its research.[@fm20-pride] Leon explains that the Guild wants it for a great plan: to dig a giant shaft into the Dungeon as an elevator to carry people and materials quickly to the lower floors and the depths.[@fm20-shaft]
+The Guild had high-handedly requisitioned the School District's [[metals#orichalcum|orichalcum]], claiming Ouranos's permission; the Yen Press text has Syr say they demanded "a whole half" of it, but the Japanese gives no fraction. The students demand that the requisition be withdrawn. Until it is, they threaten to halt all recruitment and internships and even to cut ties with Orario.[@fm20-demand, fm20-half] For the School District, orichalcum is "the pride and manifestation" of its research.[@fm20-pride] Leon explains that the Guild wants it for a great plan: to dig a giant shaft into the Dungeon as an elevator to carry people and materials quickly to the lower floors and the depths.[@fm20-shaft]
 
 ## The declaration {#declaration}
 

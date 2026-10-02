@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The quests to slay the three monsters that escaped the Dungeon in ancient times: the Behemoth, the Leviathan and the Black Dragon. Only the Black Dragon remains.",
-  "aliases": ["Black Dragon", "One-Eyed Dragon"],
+  "aliases": ["Black Dragon", "One-Eyed Dragon", "Leviathan", "Ruler of the Sea", "Leviathan Seal", "Leviathan's Fins", "Behemoth", "Terrestrial Tyrant"],
   "spoilers": "DanMachi Vols. 6, 15–20, Sword Oratoria Vols. 7, 9 and 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["dungeon", "great-conflict", "school-district", "freya-familia", "fels", "aiz-wallenstein"],
   "infobox": {
@@ -28,6 +28,13 @@
 Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]], with a Level 8 and a Level 9 at their head.[@fm06-zeus, so13-levels, fc02-levels] They killed the Behemoth and the Leviathan fifteen years before DanMachi 6.[@fm06-quests] In the campaign against the Leviathan they used a sea fortress, with the help of Poseidon Familia; it is now the Hringhorni, the ship of [[school-district|the School District]].[@so13-ship]
 
 [[zald|Zald]] of Zeus Familia ate the Behemoth's flesh to win, and its poison has slowly eaten away at him ever since.[@ar03-zald] Against the Black Dragon, as [[alfia|Alfia]] of Hera Familia later says, they were powerless.[@ar03-alfia] Their defeat left the power vacuum that the [[evils|Evils]] exploited in Orario's dark age.[@fm15-vacuum]
+
+## The Behemoth and the Leviathan {#leviathan}
+
+DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts]
+
+- **The Hringhorni:** in DanMachi 20 [[leon-verdenberg|Leon]] explains that the School District's ship was originally a floating fortress, a foothold for fighting the Leviathan, which could capsize ships just by twisting its body. Its round layers are the remnants of that foothold, and its blue wings are the drop item Leviathan's Fins. Leon himself slipped into the battle, and he calls it the cornerstone of the school.[@fm20-hringhorni]
+- **The Leviathan Seal:** after the Leviathan's defeat Zeus and Hera Familias brought back its skeleton and used it on the lid of the tunnel under Lolog Lake, completing what the Guild officially calls the Leviathan Seal; monsters flee from its bones as they do from the Black Dragon's scales (see [[njordr#port-meren|Port Meren]]).[@so06-seal]
 
 ## The Black Dragon
 
@@ -56,6 +63,10 @@ The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Ques
 [@so09-quests]: SO09 | Chapter 4: Those Who Remain, Those Left Behind | Behemoth, Leviathan and the Black Dragon.
 [@so13-levels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | A Level 8 and a Level 9.
 [@so13-ship]: SO13 | | The Hringhorni and the Leviathan campaign.
+[@fm06-titles]: FM06 | | Printed heading "Chapter 2: Shall We Dance?" (not in the evidence map): "the Terrestrial Tyrant, Behemoth, then the Ruler of the Sea, Leviathan".
+[@ar03-parts]: AR03 | Chapter 8: The Price of Talent | Riveria: "Glutton and Silence" in the slaying of the Leviathan and the Behemoth.
+[@fm20-hringhorni]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon: the floating fortress, its round layers, Leviathan's Fins, the cornerstone of the school.
+[@so06-seal]: SO06 | Chapter 2: Port Meren | The Leviathan's skeleton on the tunnel's lid; "The “Leviathan Seal,” as the Guild officially called it."
 [@fc02-levels]: FC02 | | Zeus's Level 8 and Hera's Level 9.
 [@ar03-zald]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
 [@ar03-alfia]: AR03 | Chapter 5: Playing the Violence Card | "Against the Black Dragon, we were powerless."

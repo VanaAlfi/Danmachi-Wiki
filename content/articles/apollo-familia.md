@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of the god Apollo, a Guild rank D Familia of over a hundred adventurers that hunted Bell Cranell through Orario in DanMachi 6, lost the War Game to Hestia Familia and was disbanded; its manor became Hearthstone Manor.",
-  "aliases": ["Apollo's Familia", "Luan", "Luan Espel", "Louann", "Ruan", "Ruan Espel"],
+  "aliases": ["Apollo's Familia", "Luan", "Luan Espel", "Louann", "Ruan", "Ruan Espel", "Lissos"],
   "spoilers": "DanMachi Vols. 6–9, 12, 13, 15, 17, 18, 20, Sword Oratoria Vol. 10 and Minor Myths and Legends Vol. 1",
   "related": ["apollo", "hyacinthus", "daphne", "cassandra", "war-game", "hestia-familia", "hearthstone-manor", "lilliluka-erde"],
   "sections": [
@@ -42,7 +42,7 @@
 {{nocite}} The War Game itself is told on the [[war-game|War Game]] page and on [[apollo|Apollo]]'s; this section follows the Familia.
 
 - **The Celebration:** a day after a brawl between Apollo Familia's members and Bell in a bar, the Familia hosts a Celebration at which each deity must bring one follower, "a god and human mixer party of sorts".[@fm06-celebration, fm06-emblem]
-- **The pursuit:** the whole Familia then hunts Bell through the city ("The full force of Apollo Familia was overwhelming"), and it destroys the church that was Hestia Familia's home. It had made an arrangement with [[soma-familia|Soma Familia]]'s Zanis, who joined the plan to capture Bell "for money".[@fm06-pursuit, fm09-church, fm06-zanis]
+- **The pursuit:** the whole Familia then hunts Bell through the city ("The full force of Apollo Familia was overwhelming"), and it destroys the church that was Hestia Familia's home. It had made an arrangement with [[soma-familia|Soma Familia]]'s Zanis, who joined the plan to capture Bell "for money".[@fm06-pursuit, fm09-church, fm06-zanis] One of the hunters' team leaders is Lissos, "a rather handsome elf even by their standards", who wears a scarf over his mouth and had led the attack on the church.[@fm06-lissos]
 - **The War Game:** a Castle Siege at the castle ruins of Shreme, which [[ganesha-familia|Ganesha Familia]] first cleared of thieves and marauders; Apollo Familia defended, with a time limit of three days.[@fm06-siege] The odds were "twenty-to-one in Apollo Familia’s favor".[@fm06-odds] An attack involving [[lyu-leon|Lyu]] and a magic-sword assault cut Apollo Familia's forces "by almost 80 percent", and Hestia Familia won; the "betrayal" by the prum Luan was Lilly in disguise (see [[#luan-espel|Luan Espel]]).[@fm06-eighty, fm06-luan-captured, fm06-disbanded]
 
 ## Disbanding and afterwards {#afterwards}
@@ -76,6 +76,7 @@ DanMachi 8 says that, unlike Daphne and Cassandra, "no one came to him with an o
 [@fm06-prize]: FM06 | | Printed heading "Epilogue: Hestia Familia" (not in the evidence map): "It was a prize from the War Game—the building that Apollo Familia had once called home was now theirs."
 [@fm07-manor]: FM07 | Chapter 1: Smooth Sailing? | "The manor, constructed of solid stone and wood, was three stories tall."; "When it was still owned by Apollo Familia, over one hundred adventurers had called this place home."; "Wait, I remember you…Miss Cassandra? Miss Daphne?"; "I fought against them in the War Game—both are former members of Apollo Familia."
 [@fm08-luan]: FM08 | Chapter 2: The Prum’s Proposal | "Former members of Apollo Familia had been released and been given the chance to join another familia of their choice…Luan, it seemed, had taken a job as a waiter at this bar and café."; "He might have been a former member of the middle-class Apollo Familia, but unlike third-tier members like Daphne and Cassandra, no one came to him with an offer."; "all the talk turned to his apparent"; "during the battle at Shreme Castle"; "His reputation as the"; "Trojan Horse"; "The real Luan never made it to the battlefield and spent the entire time locked in a storage container somewhere in the city."; "But Lilly has heard that Lord Miach offered you a place in his familia."; "Why the hell would I join such a weak familia that’s drowning in debt?"
+[@fm06-lissos]: FM06 | Chapter 3: Outbreak | "Have Lissos’s team cut them off!"; the scarfed elf who led the attack on the church; "Lissos, a rather handsome elf even by their standards".
 [@fm09-church]: FM09 | Chapter 3: The World and Reality and Monsters | "The church itself was destroyed by Apollo Familia during the lead-up to the War Game".
 [@fm12-expedition]: FM12 | Chapter 2: Adventure Intermission | "Like Hestia Familia, Apollo Familia had organized a combined expedition when it rose to rank D."; "The books that had been on the shelves when they took over the building from Apollo Familia were still there".
 [@fm13-commander]: FM13 | Chapter 2: The Prophetess of Tragedy | "Cassandra’s old friend, whom she had known since their time together in Apollo Familia"; "Daphne had been pushed into the role of commander in Apollo Familia".

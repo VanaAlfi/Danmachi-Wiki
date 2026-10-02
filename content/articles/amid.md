@@ -35,7 +35,7 @@ Amid's healing covers a broad area, and she is thought to win over Heith in raw 
 | Volume | Events |
 |---|---|
 | Sword Oratoria 7 | Treats [[finn-deimne|Finn]] after [[levis|Levis]]'s curse, which prevents normal healing.[@so07-amid] |
-| Sword Oratoria 8 | The only healer shown able to lift a certain curse directly, she makes a limited anti-curse elixir from her own blood, which saves most of the afflicted Amazons.[@so08-amid, so08-elixir] |
+| Sword Oratoria 8 | The only healer shown able to lift a certain curse directly, she makes a limited anti-curse [[potions#elixir|elixir]] from her own blood, which saves most of the afflicted Amazons.[@so08-amid, so08-elixir] |
 | Sword Oratoria 11 | Keeps the assault force going with Dia Frater, and turns its curse-removing effect alone on the cursed [[barca-perdix|Barca]] Monster, which is afterwards found dead.[@so11-amid] |
 | DanMachi 14 | Rebuilds [[bell-cranell|Bell]]'s badly damaged left arm after the [[juggernaut|Juggernaut]]; [[lyu-leon|Lyu]] notes it is still the same length.[@fm14-arm, fm14-best] |
 | DanMachi 15 | Scolds Bell for overworking the arm at a follow-up appointment.[@fm15-amid] |

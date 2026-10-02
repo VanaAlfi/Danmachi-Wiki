@@ -37,7 +37,7 @@ Sword Oratoria 8 presents his contempt for weakness as a response to these losse
 
 The healer [[leene-arshe|Leene Arshe]], who loved him, is killed in Knossos in Sword Oratoria 7. Bete mocks her as she dies, and the Familia turns against him. Later [[raul-nord|Raul]] realises that Bete was telling them he does not want to lose them again, even in their next lives.[@leene.so08-death, leene.so08-raul] Minor Myths and Legends 2 gives his last words to her: "How many times have your hands saved me? You’ve done enough."[@leene.ss02-memory]
 
-The young Amazon [[lena-tully|Lena Tully]], formerly of [[ishtar-familia|Ishtar Familia]], falls for him after he beats her at Port Meren. In Sword Oratoria 8 she trades what she saw of Ishtar's key for a Dungeon date. When assassins hunt the former Ishtar Familia Amazons, she runs to draw them away from him and is left for dead.[@lena.so08-meet, lena.so08-run] She survives thanks to [[amid|Amid]]'s anti-curse elixir, and finds forget-me-nots, the gift she had told him she liked best, on the grave made for her; only he could have left them.[@lena.so08-flowers, lena.so08-alive, lena.so08-graves]
+The young Amazon [[lena-tully|Lena Tully]], formerly of [[ishtar-familia|Ishtar Familia]], falls for him after he beats her at Port Meren. In Sword Oratoria 8 she trades what she saw of Ishtar's key for a Dungeon date. When assassins hunt the former Ishtar Familia Amazons, she runs to draw them away from him and is left for dead.[@lena.so08-meet, lena.so08-run] She survives thanks to [[amid|Amid]]'s anti-curse [[potions#elixir|elixir]], and finds forget-me-nots, the gift she had told him she liked best, on the grave made for her; only he could have left them.[@lena.so08-flowers, lena.so08-alive, lena.so08-graves]
 
 ## Abilities
 
@@ -80,7 +80,7 @@ Bete's illustrated Status sheet in Sword Oratoria 5 (Level 5) lists Hati under M
 
 Sword Oratoria 8 prints the chant in seven pieces, from the opening to the last line; between them it speaks of three wounds and of rage, fate, tears and lost companions. His enemies attack him throughout, and he makes no move to dodge.[@hati.so08-cast]
 
-Sword Oratoria 12 prints three of the middle lines again, split by other action, before the release. The wording differs slightly from Sword Oratoria 8, for example "Dry the tears!" for "And dry thy tears", and "unleash" for "release".[@hati.so08-cast, hati.so12-filvis] These are recorded as print variants, and the Sword Oratoria 12 print is partial.
+Sword Oratoria 12 prints the whole chant again in seven pieces, split by other action, before the release. The wording differs slightly from Sword Oratoria 8: the opening reads "Chained Fenris, king of wolves!" for "Chained Fros, king of the wolves", and there are "Dry the tears!" for "And dry thy tears" and "unleash" for "release".[@hati.so08-cast, hati.so12-filvis] These are recorded as print variants.
 
 #### Effects {#hati-effects}
 
@@ -144,5 +144,5 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@hati.so08-cast]: SO08 | Chapter 5: Battered Wolf | Chant in seven pieces; "Hati."; the pyre; four flames.
 [@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits.
 [@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
-[@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | Partial chant; flaming wolf; Fusillade Fallarica strengthens it.
+[@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | The whole chant again in seven pieces ("Chained Fenris, king of wolves!"); flaming wolf; Fusillade Fallarica strengthens it.
 [@hati.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hati, enchant spell, fire attribute, Magic Drain, Damage Drain.

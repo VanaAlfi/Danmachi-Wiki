@@ -51,7 +51,7 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 
 [@fm01-ganesha]: FM01 | | Ganesha and Monsterphilia.
 [@fm01-gate]: FM01 | Chapter 5: The Goddess’s Prank | Guards at the west gate.
-[@fm09-monsters]: FM09 | | The only Familia allowed live monsters.
+[@fm09-monsters]: FM09 | Chapter 4: Mission | The only Familia allowed live monsters.
 [@fm09-network]: FM09 | | Ganesha knows the plan.
 [@fm10-standing]: FM10 | Chapter 6: Before the Storm | "This was Ganesha Familia’s home, Iam Ganesha."; "it was also Orario’s largest familia in terms of membership"; "They possessed an S Rank and were worthy of being mentioned alongside Loki Familia and Freya Familia."; "had members stationed at all of Orario’s gates"; "Average citizens held them in high esteem."
 [@fm10-first-tier]: FM10 | Chapter 9: Dreams of Beasts | "Ganesha Familia had more first-tier adventurers than any other familia in Orario, eleven in total. All of them might only have been at Level 5".

@@ -39,8 +39,8 @@
     {"anchor": "magic-resistance", "title": "Magic Resistance", "summary": "A Development Ability on the cards of Riveria, Gareth, Finn, Lefiya, Lyu and Ottar; also printed Magic Defense.", "aliases": ["Magic Defense"]},
     {"anchor": "pummel", "title": "Pummel", "summary": "A fist-fighting Development Ability on the sheets of Tiona, Tione, Bete, Gareth and Leon; Runoa's Punch is probably the same.", "aliases": ["Punch"]},
     {"anchor": "fracture", "title": "Fracture", "summary": "A Development Ability on the sheets of Tiona, Gareth, Ottar and Leon; Runoa's Crush is probably the same.", "aliases": ["Crush"]},
-    {"anchor": "other-abilities", "title": "Other Development Abilities", "summary": "Abilities known only by name from Status cards and sheets: Healing Power, Healing, Bulwark, Initiative, Sturdy Body, Conflagrate, Slash, Supreme Attack, Speed, Brawler and Heavy Guard.", "aliases": ["Healing Power", "Healing", "Bulwark", "Initiative", "Sturdy Body", "Conflagrate", "Slash", "Supreme Attack", "Speed", "Brawler", "Heavy Guard"]},
-    {"anchor": "lent-abilities", "title": "Abilities lent by Skills and magic", "summary": "Development Abilities some Skills and spells grant for a while: Lancer (Dia Phiana), Escape (Helios Passion), Heal and Spirit Heal (Stultus Ottar), Supreme Light (Blaze of the Round).", "aliases": ["Lancer", "Heal", "Spirit Heal", "Supreme Light"]}
+    {"anchor": "other-abilities", "title": "Other Development Abilities", "summary": "Abilities known only by name from Status cards and sheets: Healing Power, Healing, Bulwark, Initiative, Sturdy Body, Conflagrate, Slash, Supreme Attack, Speed, Brawler and Heavy Guard.", "aliases": ["Healing Power", "Healing", "Bulwark", "Initiative", "Sturdy Body", "Conflagrate", "Slash", "Supreme Attack", "Speed", "Brawler", "Heavy Guard", "Strong Body", "Strong Defense", "Fire Flash"]},
+    {"anchor": "lent-abilities", "title": "Abilities lent by Skills and magic", "summary": "Development Abilities some Skills and spells grant for a while: Lancer (Dia Phiana), Escape (Helios Passion), Heal and Spirit Heal (Stultus Ottar), Supreme Light (Blaze of the Round).", "aliases": ["Lancer", "Heal", "Spirit Heal", "Supreme Light", "Spearman"]}
   ]
 }
 ---
@@ -371,7 +371,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@fm04-forge]: FM04 | Chapter 3: The Smith’s Situation | Welf wants Forge; magic swords and Forge.
 [@fm04-nahza]: FM04 | Quest X Quest | Synthesize: better items and medicine; Nahza.
 [@fm05-enigma]: FM05 | Chapter 3: Dungeon Death March | Asfi, one of five with Enigma.
-[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario, and also an item maker of the age. Yen Press prints "one of only five" and calls it an Advanced Ability; the same idiom is printed "only five" for the party at the Goliath (file part0027, paragraph 617).
+[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario, and also an item maker of the age. Yen Press prints "one of only five" and calls it an Advanced Ability; the same idiom is printed "only five" for the party at the Goliath (file part0025, paragraph 617).
 [@fm05-conjure]: FM05 | Chapter 6: Praise to the Heroes | Conjure: magic circles, power and range.
 [@fm06-welf]: FM06 | Chapter 1: The Furious Rabbit | Welf reaches Level 2 and gains Forge.
 [@fm07-card]: FM07 | Chapter 6: Yearning of a Hero | Bell's Level 3 card: Luck H, Immunity I.

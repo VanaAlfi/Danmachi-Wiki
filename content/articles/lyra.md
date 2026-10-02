@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Prum strategist of Astrea Familia: a cynical trickster who fought with bladed boomerangs and home-made bombs and taught Lyu that knowledge is a weapon. In the Great Conflict she saw through Alfia's magic-cancelling enchantment and stopped her final spell with a shield made by Perseus. Five years before DanMachi 13 she was the first of the three who held off the Juggernaut so that Lyu could live.",
-  "aliases": ["Slyle"],
+  "aliases": ["Slyle", "Aegis"],
   "spoilers": "DanMachi Vols. 13–15, Familia Chronicle Vols. 1 and 3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
   "related": ["astrea-familia", "lyu-leon", "alize-lovell", "gojouno-kaguya", "astrea", "great-conflict", "finn-deimne", "alfia", "asfi", "juggernaut"],
   "infobox": {

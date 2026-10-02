@@ -63,5 +63,5 @@ She is hot-tempered and outspoken. She rages at the Guild's unexplained order to
 [@so12-squads]: SO12 | Chapter 4: Nameless Heroes | "Paluza—Ilta Faana will be in the second".
 [@so12-revenge]: SO12 | Chapter 4: Nameless Heroes | "We’ll protect the peace of the city and get revenge for Hashana!"; Ganesha Familia's second-in-command.
 [@so12-gate]: SO12 | Chapter 5: Final War | Riveria's second squad; the crimson tentacles at the gate Ganesha Familia could not break through.
-[@so12-force]: SO12 | Chapter 8: A Heroes’ Chorus | "Ganesha Familia’s force, led by Ilta".
+[@so12-force]: SO12 | Chapter 8: A Heroes’ Chorus | Ganesha Familia's "force, led by Ilta".
 [@so12-fallback]: SO12 | Chapter 8: A Heroes’ Chorus | "Ilta’s order thundered"; Riveria's Rea Laevateinn.

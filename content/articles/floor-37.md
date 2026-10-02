@@ -44,11 +44,11 @@ They find a shelter with three skeletons and gear from a failed expedition; who 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who the adventurers found dead in the shelter were.[@fm14-shelter]
 
-[@fm02-fortress]: FM02 | | Floor 37, the Lower Fortress; Spartoi.
+[@fm02-fortress]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Floor 37, the Lower Fortress; Spartoi.
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Aiz and Udaios.
 [@fm13-floor]: FM13 | | The floor's appearance; the lambton.
 [@fm14-palace]: FM14 | | The White Palace; its walls, zones and staircase; Astrea Familia's chamber.
-[@fm14-deep]: FM14 | | Floor 37 in the deep levels.
+[@fm14-deep]: FM14 | Chapter 9: Hello, Deep Levels | Floor 37 in the deep levels.
 [@fm14-four]: FM14 | Epilogue: You’ll Be Back II | Four days on the floor.
 [@fm14-shelter]: FM14 | | The shelter and the skeletons.
 [@fm14-spring]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "A spring on the thirty-seventh floor…?"; "Lyu had never heard of such a thing."; "To think that this was here below the Colosseum"; "The sound of the thirty-seventh floor’s lone spring".

@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Loki, founded with Finn Deimne as its first member, which with Freya Familia drove Zeus and Hera Familias out of Orario. Ranked S by the Guild and often called the city's strongest Familia, it is the Familia of Aiz Wallenstein.",
-  "aliases": ["Giant Killers", "Cynthia", "Sharon", "Arcus", "Olba", "Lloyd", "Anju"],
+  "aliases": ["Giant Killers", "Cynthia", "Sharon", "Arcus", "Olba", "Lloyd", "Anju", "Orba", "Carmillia", "Carmilia", "Kalos", "Liza", "Crea", "Karna", "Karuna"],
   "spoilers": "DanMachi Vols. 1, 2, 5, 6, 8, 11, 17–20, Sword Oratoria Vols. 1, 2, 4–14 and Astrea Record Vols. 2 and 3",
   "related": ["loki", "finn-deimne", "riveria", "gareth", "aiz-wallenstein", "bete-loga", "hyrute-sisters", "lefiya", "twilight-manor", "freya-familia", "knossos", "xenos", "dungeon", "orario"],
   "infobox": {
@@ -38,7 +38,7 @@ Its emblem is the trickster's mark, "a comedic smile", flown on its flags in the
 
 ## Founding
 
-Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of Lonza she arranged.[@so14-founding]
+Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of Lonza she arranged.[@so14-founding] Ten days after leaving Preblica, Loki and Finn reach Karna, an inn town in the continent's central region and "a key transit hub", where Loki declares "That’s why it’s gotta be an elf!"; after Riveria joins, they celebrate there.[@so14-karna, so14-karna2]
 
 ## Leading members
 
@@ -58,7 +58,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[alicia-forestlight|Alicia Forestlight]] | Elf; a Level 4 in the Familia's reserve crew by Sword Oratoria 8.[@so08-reserve] |
 | [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A healer and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
 
-Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
+Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter Carmillia, she is told to "Give Rabbit Foot a longsword!"[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
 
 ### Fighting strength {#fighting-strength}
 
@@ -164,3 +164,8 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so12-sharon]: SO12 | Chapter 7: Final War II | "Sharon, a second-tier adventurer from Loki Familia".
 [@so13-level4s]: SO13 | Chapter 1: Girl’s Revolution | "Sharon, Olba, and Arcus reached Level Four".
 [@so13-recruiting]: SO13 | Chapter 2: Nostalgic Schoolhouse | Loki "only grudgingly engaged" with recruiting last time; its recruiters first aboard.
+[@so07-olba]: SO07 | Chapter 3: Feast of the Dead | "Cruz! Olba! Gimme some light!"; "Cruz and Olba pointed their portable magic-stone lanterns".
+[@so12-olba]: SO12 | Chapter 7: Final War II | "an exhausted Level-3 animal person from Loki Familia"; "Olba provided a shoulder for her to lean on".
+[@so12-carmillia]: SO12 | Chapter 7: Final War II | "his eyes drifted behind them to a girl, who had larger weapons attached to her backpack"; "Carmillia! Give Rabbit Foot a longsword!"
+[@so14-karna]: SO14 | Chapter 2: The High Elf’s Departure | "They were currently in the southwest of the continent’s central region in a town called Karna."; "Ten days had passed since they left Preblica"; "That’s why it’s gotta be an elf!"
+[@so14-karna2]: SO14 | Chapter 3: The Dwarf’s Embarking | "This town’s name is Karna, an inn town where many travelers and merchants come and go on most days. It’s a key transit hub."; "a quick little party to celebrate Rivvy entering the familia".

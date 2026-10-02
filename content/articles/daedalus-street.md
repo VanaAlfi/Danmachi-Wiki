@@ -46,7 +46,7 @@ At the centre of the district, an abandoned church houses [[marias-orphanage|Mar
 [@penia.so07-giving]: SO07 | | Penia preaching in the square; she gifts most of the offerings back to the poor of Daedalus Street; "The matriarch of the slums".
 [@penia.so10-ruler]: SO10 | Chapter 2: Someone Named Fool | "Penia had settled into the labyrinthine district centuries ago, and she was the ruler of Daedalus Street."
 [@penia.so12-killed]: SO12 | Chapter 6: The Divine Providence of Despair | "Penia was really a magnificent cover for me."; "…And then you killed Penia here."
-[@so01-daedalus]: SO01 | Chapter 5: To Battle | "Orario's second labyrinth—Daedalus Street."
+[@so01-daedalus]: SO01 | Chapter 5: To Battle | "close to Orario’s second"; the text puts "labyrinth" in quotation marks before "Daedalus Street."
 [@so01-crowd]: SO01 | Chapter 5: To Battle | The crowd at the entrance.
 [@so07-daedalus]: SO07 | | A thousand-year-old surface labyrinth; the sewer entrance to Knossos.
 [@fm08-orphanage]: FM08 | Chapter 5: The City Girl’s Secret | Maria's Orphanage.

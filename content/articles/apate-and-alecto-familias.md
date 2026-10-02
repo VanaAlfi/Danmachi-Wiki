@@ -10,7 +10,7 @@
   "spoilers": "Astrea Record Vols. 1–3",
   "related": ["evils", "great-conflict", "freya-familia", "gulliver-brothers", "hedin", "hegni"],
   "sections": [
-    {"anchor": "apate-familia", "title": "Apate Familia", "summary": "Evils Familia of the goddess Apate, whose domain is injustice. Its priest Basram fields twelve Level 5 \"spirit warriors\" made from former Osiris Familia adventurers; the Gulliver brothers kill him in Astrea Record 3.", "aliases": ["Basram", "Spirit warriors"]},
+    {"anchor": "apate-familia", "title": "Apate Familia", "summary": "Evils Familia of the goddess Apate, whose domain is injustice. Its priest Basram fields twelve Level 5 \"spirit warriors\" made from former Osiris Familia adventurers; the Gulliver brothers kill him in Astrea Record 3.", "aliases": ["Basram", "Spirit warriors", "Spirit soldiers"]},
     {"anchor": "alecto-familia", "title": "Alecto Familia", "summary": "Evils Familia led by the elf twins Dina and Vena Dis, captain and vice-captain, notorious killers whose spells are Dialv Stige and Dialv Dis. Hegni and Hedin kill them in Astrea Record 3.", "aliases": ["Dis sisters", "Dina Dis", "Vena Dis"]}
   ],
   "infobox": {
@@ -35,7 +35,9 @@
 
 ## Apate Familia {#apate-familia}
 
-Apate, Basram's goddess, has injustice as her domain.[@ar01-apate] Astrea Record 1 says the Familia's forces were the strongest among the Evils, on a par with Alecto Familia's. By then Freya Familia had already killed its captain, vice-captain and all its notable officers, so Basram, a past-middle-aged animal person in a black and purple priest's habit, has to lead from the front.[@ar01-basram] The [[gulliver-brothers|Gulliver brothers]] call him "Apate’s lapdog" and hate him.[@ar01-basram]
+Apate, Basram's goddess, has injustice as her domain.[@ar01-apate] Astrea Record 1 says the Familia's forces were the strongest among the Evils, on a par with Alecto Familia's. By then Freya Familia had already killed its captain, vice-captain and all its notable officers, so Basram, a past-middle-aged animal person in a black and purple priest's habit, has to lead from the front.[@ar01-basram] The [[gulliver-brothers|Gulliver brothers]] call him "Apate’s lapdog" and hate him.[@ar01-basram] Before them he proclaims the Familia's creed: "Yes, we are Apate’s disciples!", "Exactors of her will", who "will reshape this world according to the whims of chaos".[@ar01-creed]
+
+Astrea Record 2 calls the spirit warriors "the backbone of the Evils’ elite forces": without them [[valletta|Valletta]] and the other Evils could not "initiate any large-scale maneuvers", so the fighting had been "mostly limited to skirmishes". Basram himself, "an older yet well-built animal man", admits that "there is no substitute for a purebred first-class adventurer" and that he brings "shame upon the name of my mistress, Apate".[@ar02-backbone] In Astrea Record 3, when the battle at the Amphitheatrum turns against him, he drops his "gentle facade" in fury. His ringed staff is "the only means of controlling" the warriors: after his death an officer carries it off with the survivors, and their acting leader uses it to set the last four spirit warriors on [[finn-deimne|Finn]].[@ar03-facade, ar03-staff]
 
 ### The spirit warriors
 
@@ -82,3 +84,7 @@ Valletta's officers report that Apate Familia and Alecto Familia have both taken
 [@ar03-vena]: AR03 | Chapter 6: The Nameless Heroes | Hedin's lightning; "there was nothing left of Vena".
 [@ar03-report]: AR03 | Chapter 7: What She Wished For | "Apate and Alecto have both taken heavy damage from Freya Familia!"; the Dis sisters and Basram killed.
 [@ar03-finn]: AR03 | Chapter 7: What She Wished For | The survivors heading south; the ambush on the brothel roof; "He’s wiped out both Apate’s and Alecto’s forces!"
+[@ar01-creed]: AR01 | Chapter 11: Absolute Evil | "A living mockery of all that Orario’s protectors stood for."; "Yes, we are Apate’s disciples!"; "Exactors of her will! We are the ones who will reshape this world according to the whims of chaos!"
+[@ar02-backbone]: AR02 | | Printed heading "Chapter 11: Warriors’ Last Supper: FINAL WAR EVE" (not in the evidence map): "an older yet well-built animal man"; "For all our trickery, there is no substitute for a purebred first-class adventurer. I bring shame upon the name of my mistress, Apate."; "It was Basram’s spirit warriors that formed the backbone of the Evils’ elite forces. Without them, Valletta and the other Evils were unable to initiate any large-scale maneuvers."; "mostly limited to skirmishes until now".
+[@ar03-facade]: AR03 | Chapter 6: The Nameless Heroes | "As the reality of defeat set in on his army’s side, Basram roared with anger."; "No longer concerned with keeping up his gentle facade, Basram swung his ringed staff in fury."; "the magic item in Basram’s hand—the only means of controlling the dark priest’s heretical creations"; "one Apate Familia officer raised his voice, then hurriedly retrieved the blood-soaked staff before fleeing the Amphitheatrum alongside the other spirit warriors".
+[@ar03-staff]: AR03 | Chapter 7: What She Wished For | "the surviving forces included four spirit warriors, and the means of controlling them—Basram’s staff"; "Though not as distinguished as the Dis Sisters, the other followers of Apate were a cut above the Evils’ rank and file."; "Their acting leader immediately took Basram’s staff in hand".

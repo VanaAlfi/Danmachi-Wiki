@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Cat-person spearman of Freya Familia, titled Vana Freya and called the fastest adventurer; Anya Fromel's older brother and the Familia's second-in-command.",
-  "aliases": ["Vana Freya", "City's Fastest", "fastest in the city"],
+  "aliases": ["Vana Freya", "City's Fastest", "fastest in the city", "Seale"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vol. 4, Familia Chronicle Vols. 1 and 2, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["anya-fromel", "freya-familia", "freya", "syr-flover", "ottar", "the-benevolent-mistress", "magic"],
   "infobox": {

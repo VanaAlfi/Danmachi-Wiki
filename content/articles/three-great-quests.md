@@ -6,8 +6,8 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The quests to slay the three monsters that escaped the Dungeon in ancient times: the Behemoth, the Leviathan and the Black Dragon. Only the Black Dragon remains.",
-  "aliases": ["Black Dragon", "One-Eyed Dragon", "Leviathan", "Ruler of the Sea", "Leviathan Seal", "Leviathan's Fins", "Behemoth", "Terrestrial Tyrant"],
-  "spoilers": "DanMachi Vols. 6, 15–20, Sword Oratoria Vols. 7, 9 and 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
+  "aliases": ["Black Dragon", "One-Eyed Dragon", "Leviathan", "Ruler of the Sea", "Leviathan Seal", "Leviathan's Fins", "Behemoth", "Terrestrial Tyrant", "Leviathan's Blue Fin", "Black Desert", "Dedyne", "Dedine"],
+  "spoilers": "DanMachi Vols. 6, 8, 15–20, Sword Oratoria Vols. 6, 7, 9 and 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["dungeon", "great-conflict", "school-district", "freya-familia", "fels", "aiz-wallenstein"],
   "infobox": {
     "title": "The Three Great Quests",
@@ -31,14 +31,14 @@ Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]], 
 
 ## The Behemoth and the Leviathan {#leviathan}
 
-DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts]
+DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts] In the same volume Dedyne, where the Evils' "unblessed followers" had been active before the Great Conflict, is recalled as the "home of the Black Desert, where the battle with the Behemoth was fought".[@ar03-dedyne]
 
 - **The Hringhorni:** in DanMachi 20 [[leon-verdenberg|Leon]] explains that the School District's ship was originally a floating fortress, a foothold for fighting the Leviathan, which could capsize ships just by twisting its body. Its round layers are the remnants of that foothold, and its blue wings are the drop item Leviathan's Fins. Leon himself slipped into the battle, and he calls it the cornerstone of the school.[@fm20-hringhorni]
 - **The Leviathan Seal:** after the Leviathan's defeat Zeus and Hera Familias brought back its skeleton and used it on the lid of the tunnel under Lolog Lake, completing what the Guild officially calls the Leviathan Seal; monsters flee from its bones as they do from the Black Dragon's scales (see [[njordr#port-meren|Port Meren]]).[@so06-seal]
 
 ## The Black Dragon
 
-The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Quests.[@so07-dragon] In DanMachi 20 Leon tells of an ancient hero who took its eye and drove it from the western lands, and of a great spirit who gave up its own body to seal it in the [[valley-of-dragons|Valley of Dragons]]. The sleeping Black Dragon's snore sometimes opens a way for other dragons to escape (the Yen Press text says its breath).[@fm20-valley] On the Bridge of Heroes, an empty place opposite the hero Albert waits for the final hero who will defeat the Black Dragon.[@fm16-bridge] In the Beor Mountains, [[edas-village|Edas Village]] keeps and reveres scales it says the Black Dragon shed as it fled north after heroes drove it out of Orario; monsters fear them and stay away.[@fm08-scales]
+The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Quests.[@so07-dragon] In DanMachi 20 Leon tells of an ancient hero who took its eye and drove it from the western lands, and of a great spirit who gave up its own body to seal it in the [[valley-of-dragons|Valley of Dragons]]. The sleeping Black Dragon's snore sometimes opens a way for other dragons to escape (the Yen Press text says its breath).[@fm20-valley] On the Bridge of Heroes, an empty place opposite the hero Albert waits for the final hero who will defeat the Black Dragon.[@fm16-bridge] In the [[beor-mountains|Beor Mountains]], [[edas-village|Edas Village]] keeps and reveres scales it says the Black Dragon shed as it fled north after heroes drove it out of Orario; monsters fear them and stay away.[@fm08-scales]
 
 ## Preparations in the covered volumes
 
@@ -70,3 +70,4 @@ The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Ques
 [@fc02-levels]: FC02 | The Origin of the Strongest | Zeus's Level 8 and Hera's Level 9.
 [@ar03-zald]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
 [@ar03-alfia]: AR03 | Chapter 5: Playing the Violence Card | "Against the Black Dragon, we were powerless."
+[@ar03-dedyne]: AR03 | Chapter 8: The Price of Talent | Riveria: "The first were the actions of unblessed followers in Dedyne"; "Dedyne…home of the Black Desert, where the battle with the Behemoth was fought…"

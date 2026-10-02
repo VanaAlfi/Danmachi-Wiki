@@ -94,9 +94,9 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@fm03-minotaur]: FM03 | | Ottar prepares and trains the Minotaur under Freya's delegation.
 [@fm06-zeus]: FM06 | | Loki and Freya Familias expel Zeus and Hera Familias.
 [@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location.
-[@fm07-ishtar]: FM07 | | The attack on Ishtar Familia; Ishtar sent back.
+[@fm07-ishtar]: FM07 | Epilogue: If Surrounded by Kindness… | The attack on Ishtar Familia; Ishtar sent back.
 [@fm07-fine]: FM07 | Epilogue: If Surrounded by Kindness… | The Guild fine.
-[@fm11-asterios]: FM11 | | Ottar and the rematch with Asterios.
+[@fm11-asterios]: FM11 | Chapter 7: The Return of the Hero | Ottar and the rematch with Asterios.
 [@fm16-syr]: FM16 | | Who in the Familia knows about Syr.
 [@fm16-hedin]: FM16 | | Hedin's title; his plan to guard Syr's date.
 [@fm16-horn]: FM16 | Chapter 6: The Wish’s Cost | Hörn's attempt and her position in the Familia.

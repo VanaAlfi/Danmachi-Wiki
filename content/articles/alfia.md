@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Former Level 7 of Hera Familia, titled the Silence, whose late twin sister left her son with Zeus; the boy is evidently Bell Cranell. She joins Erebus in the Great Conflict and dies after Astrea Familia defeats her.",
-  "aliases": ["Silence"],
+  "aliases": ["Silence", "Metelia", "Meteria"],
   "spoilers": "Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["zald", "erebus", "great-conflict", "bell-cranell", "astrea-familia", "three-great-quests", "magic"],
   "infobox": {

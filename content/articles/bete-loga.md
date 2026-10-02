@@ -6,8 +6,8 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Animal-person fighter of Loki Familia from the Beastmen of the Plains, formerly captain of Víðarr Familia; Level 6 from Sword Oratoria 6.",
-  "aliases": ["Bete", "Fenris", "Vanargand", "Selenia"],
-  "spoilers": "DanMachi Vols. 1, 10, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13 and Minor Myths and Legends Vol. 2",
+  "aliases": ["Bete", "Fenris", "Vanargand", "Selenia", "Luna", "Renee", "Reene"],
+  "spoilers": "DanMachi Vols. 1, 10, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["aiz-wallenstein", "haruhime", "tsubaki", "bell-cranell", "horn", "magic"],
   "infobox": {
     "title": "Bete Loga",
@@ -31,7 +31,7 @@
 
 ## Past
 
-A dragon destroyed Bete's tribe on the plains: his parents and sister were killed.[@so08-plains] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), Selenia, bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
+A dragon destroyed Bete's tribe on the plains: his father, his mother and his sister, Luna, were killed, and so was the girl born on the same day as him, his childhood friend, whom he had trained to "claim her for his own"; over her remains he cries "Renee…!"[@so08-plains, so08-renee] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), Selenia, bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
 
 Sword Oratoria 8 presents his contempt for weakness as a response to these losses.[@so08-hati]
 
@@ -149,3 +149,4 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
 [@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | The whole chant again in seven pieces ("Chained Fenris, king of wolves!"); flaming wolf; Fusillade Fallarica strengthens it.
 [@hati.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hati, enchant spell, fire attribute, Magic Drain, Damage Drain.
+[@so08-renee]: SO08 | Chapter 1: Lonely Wolf | "Father…Mother…Luna…"; "There had been a girl, too—born on the same day"; "he could claim her for his own"; "His mother; his sister, Luna"; "Renee…!"

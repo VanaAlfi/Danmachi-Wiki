@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Dark-elf swordsman of Freya Familia, titled Dáinsleif; a former king of Heodenings whose magic turns his timid self into a fierce warrior.",
-  "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord", "black and white knights", "white and black knights"],
+  "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord", "black and white knights", "white and black knights", "Heodenings", "Hjadningavíg", "Hjaðningavíg"],
   "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {

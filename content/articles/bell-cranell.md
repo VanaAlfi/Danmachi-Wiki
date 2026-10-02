@@ -6,8 +6,8 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
-  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi", "Record Holder", "Regulus Arne"],
-  "spoilers": "DanMachi Vols. 1–20 and Astrea Record Vol. 3",
+  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi", "Record Holder", "Regulus Arne", "Dald"],
+  "spoilers": "DanMachi Vols. 1–20, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "hestia", "skills", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
     "title": "Bell Cranell",
@@ -138,6 +138,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 | DanMachi 17 | Is taken by Freya and trained in Folkvangr; he learns the truth about Freya and Syr and resolves to save her.[@fm17-seizure, fm17-folkvangr] |
 | DanMachi 18 | Reaches Level 5, helps defeat Ottar, refuses to be Freya's Odr and scatters her flower to win the Familia War.[@fm18-level5, fm18-odr] |
 | DanMachi 19 | Enters the [[school-district|School District]] under the name Rapi Flemish.[@fm19-rapi] |
+| Minor Myths and Legends 1 | In "Blue Twilight" Bell has the knife Welf made him sharpened by Dald, a dwarf who makes "a living honing adventurers’ weapons" and to whom [[eina-tulle|Eina]] introduced him as a beginner. Bell donates his old knife, which Dald hangs on a wall of weapons, though "Most of the names up on that wall died a while back".[@ss01-dald] |
 
 ## Relationships
 
@@ -216,3 +217,4 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@ss01-record]: SS01 | | Printed heading "Observations of a Mage" (not in the evidence map): "His aliases of Little Rookie and Record Holder are no mere embellishment."
 [@fm20-postpone]: FM20 | Chapter 1: Orario Rumble | Magni and Modi "postpone the question of Bell’s second name for the moment".
 [@fm20-regulus]: FM20 | Epilogue: Beautiful World | "Bell Cranell, who had been given the title Regulus Arne"; "One who brings hope"; the name proposed at Denatus and "officially accepted".
+[@ss01-dald]: SS01 | | Printed heading "Blue Twilight" (not in the evidence map): "The proprietor, a dwarf named Dald"; "Mr. Dald makes a living honing adventurers’ weapons"; "Miss Eina introduced me to him when I was just starting out"; "taking the weapon that Welf made for me"; "Most of the names up on that wall died a while back."

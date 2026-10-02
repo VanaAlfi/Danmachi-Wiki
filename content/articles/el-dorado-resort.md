@@ -6,8 +6,8 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Orario's greatest casino, the \"Grand Casino\" in the Shopping District, built and backed by the Paradise City, Santorio Vega, and beyond the Guild's oversight. In Familia Chronicle 1 Lyu and Syr enter it disguised as a count and countess to rescue Anna Kreiz, and expose its owner, \"Terry Cervantes\", as the criminal Ted.",
-  "aliases": ["Grand Casino", "The Grand Casino", "Casino", "Paradise City", "Santorio Vega", "The Golden City", "Terry Cervantes", "Ted", "Anna Kreiz", "Karen Kreiz", "Huey Kreiz", "Ariud Maximilian", "Sirène", "Crush the Grand Casino!"],
-  "spoilers": "Sword Oratoria Vol. 13, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 2",
+  "aliases": ["Grand Casino", "The Grand Casino", "Casino", "Paradise City", "Santorio Vega", "The Golden City", "Terry Cervantes", "Ted", "Anna Kreiz", "Karen Kreiz", "Huey Kreiz", "Ariud Maximilian", "Sirène", "Crush the Grand Casino!", "Mayrustra", "Meilstora", "Opera Country Meilstora", "Maelstra"],
+  "spoilers": "Sword Oratoria Vols. 13 and 14, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 2",
   "related": ["lyu-leon", "syr-flover", "status-thief", "ganesha-familia", "mord-latro", "bell-cranell", "astrea-familia", "mia-grand", "asfi"],
   "sections": [
     {"anchor": "ted", "title": "Terry Cervantes (Ted)", "summary": "The dwarf owner of El Dorado Resort, really Ted, a former bookie for illegal gambling dens who had taken the identity of the real Terry Cervantes; exposed by Lyu with the Status Thief.", "aliases": ["Terry Cervantes", "Ted"]},
@@ -33,7 +33,7 @@
 
 ## The casinos of Orario {#casinos}
 
-Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign money and know-how from places such as Mayrustra, the Country of Opera, and the Paradise City, Santorio Vega. The Theater and the casinos of the Shopping District came from this.[@fc01-district] Gambling became the city's biggest industry after magic-stone items. The Guild had to tread carefully around the casinos, and their foreign investors took full control, making them practically extraterritorial: "the one place in Orario that the law can’t reach".[@fc01-district]
+Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign money and know-how from places such as Mayrustra, the Country of Opera, and the Paradise City, Santorio Vega. The Theater and the casinos of the Shopping District came from this.[@fc01-district] Gambling became the city's biggest industry after magic-stone items. The Guild had to tread carefully around the casinos, and their foreign investors took full control, making them practically extraterritorial: "the one place in Orario that the law can’t reach".[@fc01-district] {{inference}} The *Maelstra* of Sword Oratoria 14, whose "famed opera" Finn wants to see, is probably the same country.[@so14-maelstra]
 
 - **El Dorado Resort:** financed and established by Santorio Vega, it has the Guild's cooperation and contracts [[ganesha-familia|Ganesha Familia]] for security.[@fc01-grand, fc01-district]
 - **Entry:** only the rich get in. Holders of a Gold Card have special passes, and Bell enters on the introduction of [[mord-latro|Mord]], who holds one.[@fc01-entry, fc01-bell]
@@ -94,3 +94,4 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@ss02-allen]: SS02 | The Night Before a Grand Casino Infiltration | "bring me an invitation to the casino!"; "he did infiltrate the casino".
 [@ss02-anna]: SS02 | | "Not he…She. The brave, dashing young woman who saved me."
 [@so13-lands]: SO13 | Fairy Canon: 1 | "the city of pleasures, Santorio Vega".
+[@so14-maelstra]: SO14 | Epilogue: Three Unchanging Vows | Finn: "I’d like to go north to Maelstra, though. Their famed opera is apparently putting on a performance about the Phiana knights."

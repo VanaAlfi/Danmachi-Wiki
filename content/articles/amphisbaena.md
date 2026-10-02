@@ -32,8 +32,8 @@ Its blue napalm burns even on water, and a crimson mist from its right head scat
 
 In the crisis of DanMachi 13 the Dungeon brings it back about two weeks early.[@fm13-amphisbaena] In DanMachi 14 the party on Floor 25 kills it: [[mikoto|Mikoto]] pins it with her gravity magic, [[ouka|Ouka]] cuts off the head that makes the mist, and [[aisha-belka|Aisha]], boosted by [[haruhime|Haruhime]], destroys its [[magic-stone|magic stone]].[@fm14-kill] It leaves Amphisbaena bile as a drop item.[@fm14-kill] [[cassandra|Cassandra]]'s visions of the party's deaths do not come true.[@fm14-cassandra]
 
-[@fm13-amphisbaena]: FM13 | | Floor 27 Monster Rex; the Guild's estimate; reborn early.
+[@fm13-amphisbaena]: FM13 | Chapter 2: The Prophetess of Tragedy | Floor 27 Monster Rex; the Guild's estimate; reborn early.
 [@fm14-level]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Its potential compared with the Black Goliath.
-[@fm14-napalm]: FM14 | | Blue napalm and crimson mist; the collapse.
-[@fm14-kill]: FM14 | | The kill; its drop item.
+[@fm14-napalm]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Blue napalm and crimson mist; the collapse.
+[@fm14-kill]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The kill; its drop item.
 [@fm14-cassandra]: FM14 | | Cassandra's prophecy.

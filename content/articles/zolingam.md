@@ -11,7 +11,7 @@
   "related": ["astrea", "astrea-familia", "lyu-leon", "hephaistos", "hephaistos-familia", "welf-crozzo", "hermes", "asfi", "races"],
   "sections": [
     {"anchor": "spirits", "title": "Zolingam's spirits and the spirit forge", "summary": "The spirits of Zolingam's forests and mountains, angered five years before Familia Chronicle 3 and calmed by Astrea; the spirit forge, open only to smiths who bring back a spirit's tear; the spirit Yufie.", "aliases": ["Spirit forge", "Spirit's tear", "Yufie"]},
-    {"anchor": "stars-rest", "title": "Stars' Rest", "summary": "Astrea's home in the forest east of Zolingam, where she lives with six girls, among them Cecille, Iselina, Schau and Uranda.", "aliases": ["Stars' Rest", "Cecille", "Iselina", "Schau", "Uranda"]}
+    {"anchor": "stars-rest", "title": "Stars' Rest", "summary": "Astrea's home in the forest east of Zolingam, where she lives with six girls, among them Cecille, Iselina, Schau and Uranda.", "aliases": ["Stars' Rest", "Cecille", "Iselina", "Schau", "Uranda", "Cecille Blackliza", "Cecil Blackliza"]}
   ],
   "infobox": {
     "title": "Zolingam",
@@ -59,7 +59,7 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 
 **Stars' Rest** is the home that Astrea established after leaving Orario five years before Familia Chronicle 3. It is a two-storey wooden house in the forest east of the city's workshops, like Astrea Familia's old home, the Stardust Garden. Six girls live there with her as her followers.[@fc03-home] Astrea says it is still the same [[astrea-familia|Astrea Familia]], though it looks like a new one from outside.[@fc03-home]
 
-- **Cecille:** a blue-haired human, Level 2, and the only one of the girls born in Zolingam.[@fc03-cecille, fc03-level, fc03-born] Her family of smiths runs one of the city's largest workshops, and her father would not let her use the spirit forge. When Astrea calmed the spirits, she asked Cecille to make a weapon for someone she would meet again. It was Lyu's.[@fc03-forge, fc03-family, fc03-reason]
+- **Cecille:** Cecille Blackliza, a blue-haired human, Level 2, and the only one of the girls born in Zolingam; the youngest of the eight children of the head of the Blackliza workshop and his only daughter.[@fc03-cecille, fc03-level, fc03-born, fc03-blackliza] Her family of smiths runs one of the city's largest workshops, and her father would not let her use the spirit forge. When Astrea calmed the spirits, she asked Cecille to make a weapon for someone she would meet again. It was Lyu's.[@fc03-forge, fc03-family, fc03-reason]
 - **Iselina:** a [[races#werewolf|werewolf]], Level 2, who joined because of what Astrea had done for the city.[@fc03-level, fc03-others, fc03-peace]
 - **Schau and Uranda:** a prum girl and a black-haired human girl, both Level 1.[@fc03-others, fc03-forge-day]
 
@@ -96,3 +96,4 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 [@fm18-greatest]: FM18 | Chapter 9: Flower Language for You | "With Hermes and Asfi’s information and help, she had reached Zolingam"; "The greatest sword-making city in the world"; Alvs Lumina reborn as Alvs Iustitia.
 [@fm18-return]: FM18 | Chapter 9: Flower Language for You | "Lyu and Astrea and her new followers had been on their way back from Zolingam".
 [@fm19-escort]: FM19 | Chapter 1: V-V-V for Victory Party | "I was able to escort her to Zolingam safely."
+[@fc03-blackliza]: FC03 | The Locus of Stars | "She was born to the Blackliza family, a prestigious and noted family."; "Cecille’s father was the current head of the Blackliza workshop, and he had eight children. She was the youngest and the only daughter."

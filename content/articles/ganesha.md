@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The elephant-masked god of Ganesha Familia, Orario's city watch, known as the God of the Masses. He hosts gods' parties in his statue-shaped home and stages the yearly Monsterphilia, which Ouranos entrusted to him to prepare the city for the Xenos, and he puts the safety of the city's people first.",
-  "aliases": ["God of the Masses", "Lord of the Masses", "Lord of Hosts", "Neo Ganesha"],
+  "aliases": ["God of the Masses", "Lord of the Masses", "Lord of Hosts", "Neo Ganesha", "Ibly Archer", "Ibri Achaa", "Fire Inferno Flame"],
   "spoilers": "DanMachi Vols. 1, 4, 6, 8–12, 18, 20, Sword Oratoria Vols. 1, 2, 5, 9, 11, 12 and Astrea Record Vols. 1–3",
   "related": ["ganesha-familia", "shakti-varma", "monsterphilia", "ouranos", "xenos", "hestia", "denatus", "war-game"],
   "sections": [
@@ -76,7 +76,7 @@ At a Denatus in Sword Oratoria 5 he apologises for the debacle and swears "on th
 
 ## Commentator
 
-At the [[war-game|War Game]] of DanMachi 6 Ganesha joins his follower Ibly Archer, "the chattering fireball himself", on a stage in front of Guild headquarters as guest commentator. He adds nothing but "—I am Ganesha!" and his poses, and Ibly tells him to go home if he has nothing to say.[@fm06-commentary, fm06-poses] His Familia does not fight in DanMachi 18's war against [[freya-familia|Freya Familia]], and he commentates again. Asked whether the rules favour the coalition, he answers seriously: "Even that’s not enough of a handicap."[@fm18-watch, fm18-handicap] In DanMachi 20 he commentates the [[orariad|Orariad]] and calls Ilta and Shakti, the winners of its third round, "my beloved followers". For a round held aboard the School District's ship, he and Ibly are the only commentators allowed on board; later he shares the commentators' table with Hermes.[@fm20-commentary, fm20-hermes]
+At the [[war-game|War Game]] of DanMachi 6 Ganesha joins his follower Ibly Archer, "the chattering fireball himself", also known as "the Fire Inferno Flame", on a stage in front of Guild headquarters as guest commentator. He adds nothing but "—I am Ganesha!" and his poses, and Ibly tells him to go home if he has nothing to say.[@fm06-commentary, fm06-poses] His Familia does not fight in DanMachi 18's war against [[freya-familia|Freya Familia]], and he commentates again. Asked whether the rules favour the coalition, he answers seriously: "Even that’s not enough of a handicap."[@fm18-watch, fm18-handicap] In DanMachi 20 he commentates the [[orariad|Orariad]] and calls Ilta and Shakti, the winners of its third round, "my beloved followers". For a round held aboard the School District's ship, he and Ibly are the only commentators allowed on board; later he shares the commentators' table with Hermes.[@fm20-commentary, fm20-hermes]
 
 ## Hestia at the gate
 
@@ -97,7 +97,7 @@ In Astrea Record 2 he wails beside Astrea that he has failed his children: "That
 [@fm01-ja-home]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 358): the home is called Aiamu Ganēsha, the English words "I am Ganesha" in katakana.
 [@fm04-denatus]: FM04 | Chapter 1: Denatus | "Another mysterious one wore a large elephant mask."; "Hmmm, Ganesha, do you have any thoughts?" "……I am Ganesha!"
 [@fm06-home]: FM06 | | Takemikazuchi: "I only know of one god who prefers to hold Celebrations at home, and that’s Ganesha."
-[@fm06-commentary]: FM06 | Chapter 5: Our War Game | "the chattering fireball himself, Ganesha Familia’s Ibly Archer!"; "A temporary stage had been built in the front garden of the Guild headquarters."; "—I am Ganesha!"; "If you don’t feel like adding anything to the commentary, please go home, Lord Ganesha!"
+[@fm06-commentary]: FM06 | Chapter 5: Our War Game | "the chattering fireball himself, Ganesha Familia’s Ibly Archer!"; "Some of you may already know me as the Fire Inferno Flame."; "A temporary stage had been built in the front garden of the Guild headquarters."; "—I am Ganesha!"; "If you don’t feel like adding anything to the commentary, please go home, Lord Ganesha!"
 [@fm06-poses]: FM06 | Chapter 5: Our War Game | "Ganesha struck manly poses in the middle of the stage".
 [@fm08-looks]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "His dark skin, long black hair, and perfectly toned muscles were one thing, but the elephant mask hiding his face from view caught the most attention."; "he struck a bizarre pose".
 [@fm08-hestia]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Hestia "was familiar with the mask-wearing god"; "did her best to tolerate it".

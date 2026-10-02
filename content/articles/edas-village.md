@@ -10,7 +10,7 @@
   "spoilers": "DanMachi Vols. 8, 18, 20, Sword Oratoria Vols. 9 and 10 and Minor Myths and Legends Vol. 2",
   "related": ["hestia", "bell-cranell", "aiz-wallenstein", "ares", "three-great-quests", "loki"],
   "sections": [
-    {"anchor": "kam", "title": "Kam", "summary": "The elderly elder of Edas Village, once the only follower of the goddess Brigit, who died saving him more than fifty years earlier. He shelters Bell, Aiz and Hestia, and dies hearing Hestia speak to him as Brigit would.", "aliases": ["Kam", "Brigit", "Rina"]}
+    {"anchor": "kam", "title": "Kam", "summary": "The elderly elder of Edas Village, once the only follower of the goddess Brigit, who died saving him more than fifty years earlier. He shelters Bell, Aiz and Hestia, and dies hearing Hestia speak to him as Brigit would.", "aliases": ["Kam", "Brigit", "Rina", "Caam", "Brigid"]}
   ],
   "infobox": {
     "title": "Edas Village",
@@ -26,7 +26,7 @@
   }
 }
 ---
-**Edas Village** is a small hidden village deep in the Beor Mountain Range, in a valley surrounded by steep cliffs.[@fm08-village] Its people are those who abandoned the world or were driven out of it, and black scales shed by the Black Dragon keep monsters away.[@so09-village, fm08-scales] In DanMachi 8 and Sword Oratoria 9, [[bell-cranell|Bell]], [[aiz-wallenstein|Aiz]] and [[hestia|Hestia]] shelter there after [[ares|Ares]]'s kidnapping of Hestia, and its elder, Kam, dies during their stay.[@fm08-village, fm08-death, so09-arrival]
+**Edas Village** is a small hidden village deep in the [[beor-mountains|Beor Mountain Range]], in a valley surrounded by steep cliffs.[@fm08-village] Its people are those who abandoned the world or were driven out of it, and black scales shed by the Black Dragon keep monsters away.[@so09-village, fm08-scales] In DanMachi 8 and Sword Oratoria 9, [[bell-cranell|Bell]], [[aiz-wallenstein|Aiz]] and [[hestia|Hestia]] shelter there after [[ares|Ares]]'s kidnapping of Hestia, and its elder, Kam, dies during their stay.[@fm08-village, fm08-death, so09-arrival]
 
 ## The village
 

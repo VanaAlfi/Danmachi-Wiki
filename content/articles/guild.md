@@ -6,8 +6,8 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The body that governs Dungeon affairs in Orario: it registers Familias and adventurers, ranks Familias, runs the Exchange for magic stones, and assigns advisers and missions.",
-  "aliases": ["Guild", "Guild Headquarters", "Pantheon"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1, 2 and 12, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
+  "aliases": ["Guild", "Guild Headquarters", "Pantheon", "Rose", "Rose Fannett", "Sophie", "Sofi"],
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1, 2, 9 and 12, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
   "sections": [
     {"anchor": "chamber-of-prayers", "title": "Chamber of Prayers", "summary": "The underground temple beneath Guild Headquarters where Ouranos sits at his altar, lit by four torches; the Guild's secret business is done there.", "aliases": []}
   ],
@@ -42,6 +42,8 @@
 | Penalties | Blacklisting can revoke registration, confiscate loot without payment and lead to imprisonment.[@fm02-blacklist] |
 
 Receptionists are chosen partly for their looks, because their rapport with adventurers affects morale and the flow of magic stones. Advisers are discouraged from growing close to adventurers, since repeated deaths take a toll on staff.[@fm08-guild]
+
+Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who has sworn off adventurers because they "always break their promises"; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi]
 
 [[eina-tulle|Eina]]'s boss is Chief Rehmer, a chienthrope, who appears in the flashback of DanMachi 15; in DanMachi 19 he brings her to the meeting of Royman and the Guild's leadership on the second floor of the headquarters, where the Shaft plan is discussed.[@fm15-rehmer, fm19-rehmer]
 
@@ -100,3 +102,8 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@so01-northwest]: SO01 | Chapter 3: White Rabbit | Adventurers Way.
 [@so02-ouranos]: SO02 | | Ouranos founded the Guild.
 [@ss01-guild]: SS01 | | Advisers and starter gear for new Familias.
+[@fm08-rose]: FM08 | Chapter 4: Beloved Bodyguard | "But, Rose, you’ve sworn off adventurers, haven’t you?"; "Adventurers always break their promises."
+[@fm15-rose]: FM15 | Chapter 4: Guild Alone | "Kid wants an elf! Sophie, you wanna take him?"; "Sophie was a beautiful elven woman who had entered the Guild at the same time Rose had"; "always among the top two most popular employees"; "adventurers who aren’t going to last"; "want to bet on how long that kid has?"
+[@fm15-rose2]: FM15 | | Printed heading "Interlude: I, His Adviser" (not in the evidence map): "Rose was a beautiful werewolf woman with long red hair"; "a capable coordinator".
+[@so09-rose]: SO09 | Recollections Chapter 1: The Young Girl’s Beginnings | "The bored werewolf receptionist waiting at the counter"; "You can stop with the formal greetings, Rose."; Riveria and the girl's registration sheet.
+[@so09-sofi]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "a man—a god—with orange hair talking to a receptionist"; "Were you lonely without me, Sofi?!"; "a lovely elf gives me the cold shoulder".

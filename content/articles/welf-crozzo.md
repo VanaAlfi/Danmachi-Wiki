@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Smith from the fallen Crozzo family, the only one of them still able to forge magic swords. He joins Bell's party in DanMachi 4 and Hestia Familia in DanMachi 6.",
-  "aliases": ["Welf Krozzo", "Ignis", "Vil Crozzo", "Wil Crozzo"],
+  "aliases": ["Welf Krozzo", "Ignis", "Vil Crozzo", "Wil Crozzo", "Crozzo the First"],
   "spoilers": "DanMachi Vols. 2–19 and Sword Oratoria Vols. 5 and 12",
   "related": ["hestia-familia", "bell-cranell", "lilliluka-erde", "hestia", "development-ability", "falna", "magic"],
   "infobox": {

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The healing items adventurers carry into the Dungeon: potions, high potions and elixirs for the body, magic potions for Mind, Miach Familia's dual potions for both, and antidotes for poison. One combined page with a section per item.",
   "aliases": ["Potion", "Healing potion", "Healing items"],
-  "spoilers": "DanMachi Vols. 1, 2, 4–9, 11–15, 18, 19, Sword Oratoria Vols. 1, 3–5, 8, 11, 12, Familia Chronicle Vol. 3 and Astrea Record Vol. 2",
+  "spoilers": "DanMachi Vols. 1, 2, 4–9, 11–15, 18, 19, Sword Oratoria Vols. 1–5, 8, 11, 12, 14, Familia Chronicle Vol. 3 and Astrea Record Vol. 2",
   "related": ["miach-familia", "dian-cecht-familia", "amid", "development-ability", "monsters", "dungeon"],
   "sections": [
     {"anchor": "potion", "title": "Potion", "summary": "The basic healing potion: blue liquid in a round flask that restores physical strength; Miach Familia's cheapest cost 500 vals.", "aliases": ["Healing potion", "Health potion", "Recovery potion", "Normal potion"]},
@@ -59,7 +59,7 @@ The basic potion restores physical strength.[@fm05-severe] In DanMachi 1 Bell fi
 
 ## High potion {#high-potion}
 
-In DanMachi 2 [[miach-familia|Nahza]] offers Bell a high potion "worth tens of thousands of vals"; both belong to poor Familias.[@fm02-highprice] With elixirs, high potions are the only potions that can clot blood and save someone with deep gashes, broken bones and other severe injuries.[@fm05-severe] In DanMachi 5 Hestia revives Bell by pouring one of Miach's high potions over his face.[@fm05-hestia] Miach Familia gives Hestia Familia substantial discounts on its high potions and dual potions.[@fm06-discount]
+In DanMachi 2 [[miach-familia|Nahza]] offers Bell a high potion "worth tens of thousands of vals"; both belong to poor Familias.[@fm02-highprice] With elixirs, high potions are the only potions that can clot blood and save someone with deep gashes, broken bones and other severe injuries.[@fm05-severe] In DanMachi 5 Hestia revives Bell by pouring one of Miach's high potions over his face.[@fm05-hestia] Miach Familia gives Hestia Familia substantial discounts on its high potions and dual potions.[@fm06-discount] Running out is dangerous: after their fall in DanMachi 5 the party counts "Four potions and two antidotes; no high potions made it", and after the Goliath fight there are "no high potions left" for Bell, against whose injuries "A normal potion would have almost no effect".[@fm05-nohigh, fm05-goliath] They also have limits: a high potion can mend a broken bone "but…apparently they can force it to heal at the wrong angle if it isn’t set properly", as can other healing items and magic.[@fm09-bone] In Sword Oratoria 2 Tiona asks Amid for "high potions, please! The good stuff, and lots of them!"; in Sword Oratoria 4 an exhausted dwarf drinks one "in place of liquor"; and in the Great Familia War [[mia-grand|Mia]] closes her own wound with half a high potion and pours the rest over Bell and Lyu.[@so02-amid, so04-liquor, fm18-mia]
 
 ## Elixir {#elixir}
 
@@ -67,7 +67,7 @@ Elixirs are sold in fancy bottles.[@fm02-shop] In Sword Oratoria 1 an elixir is 
 
 {{nocite}} Special elixirs appear in the story:
 - **Against curses:** on the day of the attack in Sword Oratoria 8, [[amid|Amid]] distils "an elixir with anti-curse properties" from her own curse-exposed blood.[@so08-anticurse]
-- **For the Xenos:** in Sword Oratoria 12 the [[xenos|Xenos]] are running out of the elixirs made by [[fels|Fels]]. In DanMachi 19 Fels plans "an elixir spring" in the Dungeon.[@so12-fels, fm19-spring]
+- **For the Xenos:** in Sword Oratoria 12 the [[xenos|Xenos]] are running out of the elixirs made by [[fels|Fels]]. In DanMachi 19 Fels, who now uses [[knossos|Knossos]] as a base, plans a plant there to produce medicinal herbs and "an elixir spring".[@so12-fels, fm19-spring]
 - **Nahza's elixir:** in DanMachi 18 Nahza resolves to try "the elixirs that were always out of reach", and her newly developed elixir is carried into the Familia War.[@fm18-nahza, fm18-newelixir]
 - **Tiger Cub Elixir:** Sword Oratoria 3 prints *Tiger Cub Elixir*, poured over Asfi; DanMachi 13 lists "two vials of Tiger Cub Elixir High Dual Potion" among a party's items.[@so03-tiger, fm13-tiger]
 
@@ -75,13 +75,13 @@ The School District offers an elective called Elixirs.[@fm19-electives]
 
 ## Magic potion {#magic-potion}
 
-A magic potion is "Medicine that healed the mind".[@fm02-mind] In DanMachi 2 [[miach-familia|Nahza]] sells Bell one for 8,700 vals, throwing in two potions to make an even 9,000; in DanMachi 4 he counts that magic potion as the deciding factor in a desperate battle.[@fm02-highprice, fm04-mind] Magic potions keep casters from Mind Down: Astrea hands one to Lyu on the verge of it, and in the Familia War Haruhime works through her whole stock.[@fc03-mind, fm18-mindown]
+A magic potion is "Medicine that healed the mind".[@fm02-mind] In DanMachi 2 [[miach-familia|Nahza]] sells Bell one for 8,700 vals, throwing in two potions to make an even 9,000; in DanMachi 4 he counts that magic potion as the deciding factor in a desperate battle.[@fm02-highprice, fm04-mind] Magic potions keep casters from Mind Down: Astrea hands one to Lyu on the verge of it, and in the Familia War Haruhime works through her whole stock.[@fc03-mind, fm18-mindown] In Sword Oratoria 4 Finn calls "Raul, ready a magic potion!" and Aiz drains it mid-run before returning to the front; in Sword Oratoria 14 [[riveria|Riveria]], kept going by the magic potions Aina supplies, passes out on reaching the sunlight, having "blown through Mind Down and all the way to absolute empty".[@so04-raul, so14-riveria] After the Xenos affair Lido offers Haruhime "a really old magic potion that belonged to an adventurer", and in Astrea Record 2 Kaguya, with no waterskin, tosses the parched Lyra a magic potion instead.[@fm11-lido, ar02-lyra]
 
 Stronger kinds are printed in three forms: *high-mind potion* (DanMachi 7), *high-magic potion*, sold with the Dian Cecht Familia seal (Sword Oratoria 4), and *high magic potion* (DanMachi 18).[@fm07-highmind, so04-highmagic, fm18-highmagic]
 
 ## Dual potion {#dual-potion}
 
-The dual potion restores physical strength and Mind together. In DanMachi 4 [[miach|Miach]] presents it to [[dian-cecht|Dian Cecht]] as his Familia's latest product, "the first of its kind", which Dian Cecht Familia could sell at a high price; Miach and Nahza race to produce it after collecting eggs in the Deep Forest Seoro.[@fm04-double] It is Nahza's creation and Miach Familia's signature product.[@fm05-nahza, fm08-signature] Dual potions normally cost tens of thousands of vals.[@fm06-discount]
+The dual potion restores physical strength and Mind together. In DanMachi 4 [[miach|Miach]] presents it to [[dian-cecht|Dian Cecht]] as his Familia's latest product, "the first of its kind", which Dian Cecht Familia could sell at a high price; Miach and Nahza race to produce it after collecting eggs in the Deep Forest Seoro.[@fm04-double] It is Nahza's creation and Miach Familia's signature product.[@fm05-nahza, fm08-signature] Dual potions normally cost tens of thousands of vals.[@fm06-discount] In the War Game of DanMachi 6 Bell fights on after Argonaut "despite drinking one of Nahza’s dual potions"; in DanMachi 9 he uses a Dual Potion on [[wiene|Wiene]]'s broken leg, and Mikoto, her Mind "little more than fumes", drinks a whole one; in DanMachi 11 he gulps down "several dual potions that Hestia gave him".[@fm06-wargame, fm09-dual-wiene, fm09-dual-mikoto, fm11-dual]
 
 **Name:** DanMachi 4, 5 and 8 print *double potion*; DanMachi 6 and later volumes print *dual potion*, sometimes capitalised *Dual Potion*.[@fm04-double, fm05-nahza, fm08-signature, fm06-discount, fm09-dual, fm18-newelixir]
 
@@ -131,3 +131,17 @@ Antidotes are green fluid in cylindrical tubes, and Miach Familia's carry its em
 [@so11-ultimate]: SO11 | Chapter 4: Avengers ~Knossos War~ | "an elixir, the ultimate healing item".
 [@so12-fels]: SO12 | Chapter 6: The Divine Providence of Despair | The elixirs made by Fels for the Xenos.
 [@ar02-health]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): "three health potions and one magic potion".
+[@fm05-nohigh]: FM05 | Chapter 2: How Many Meders to a Safe Return? | "Four potions and two antidotes; no high potions made it…"
+[@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | "There were no high potions left. To say the boy was critically injured would be an understatement. A normal potion would have almost no effect."
+[@fm09-bone]: FM09 | Chapter 1: An Irregular Girl | "High potions can mend a broken bone, but…apparently they can force it to heal at the wrong angle if it isn’t set properly. The same is true for other healing items and magic".
+[@so02-amid]: SO02 | Chapter 1: The Average Day | "Amid, high potions, please! The good stuff, and lots of them!"
+[@so04-liquor]: SO04 | Last Chapter: To Adventure | "Some proper dwarven stuff…"; "before taking out a high potion and gulping it down in place of liquor".
+[@fm18-mia]: FM18 | Chapter 9: Flower Language for You | "Mia used part of the high potion to close the wound on her torso, and then poured the remaining half of the high potion and the high magic potion over Bell’s and Lyu’s heads."
+[@so04-raul]: SO04 | Last Chapter: To Adventure | "Raul, ready a magic potion!"; "Aiz grabbed the magic potion from Raul mid-run, finishing it off quickly before returning to the front line."
+[@so14-riveria]: SO14 | Chapter 3: The Dwarf’s Embarking | "continually forced to drink magic potions Aina had been supplying her, Riveria passed out the moment she stepped into the sunlight"; "She had blown through Mind Down and all the way to absolute empty."
+[@fm11-lido]: FM11 | Epilogue: And So I Start to Run Again | "Thank you for healing us all with your magic."; "I have a really old magic potion that belonged to an adventurer, if you want it…"
+[@ar02-lyra]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): "With no waterskin to offer, she tossed the parched prum girl a magic potion instead."
+[@fm06-wargame]: FM06 | Chapter 5: Our War Game | "Using Argonaut had taken a heavy toll on his body despite drinking one of Nahza’s dual potions."
+[@fm09-dual-wiene]: FM09 | Chapter 1: An Irregular Girl | "her broken leg is hideous. I reach into my leg holster and take out a Dual Potion made by Miach Familia."
+[@fm09-dual-mikoto]: FM09 | Chapter 5: Heretics | "Mind was little more than fumes after triggering her Skill so many times. She took out a Dual Potion, drank the whole thing".
+[@fm11-dual]: FM11 | Chapter 6: A Deity’s Scheme | "He put his gear back on and gulped down several dual potions that Hestia gave him to get back in top form."

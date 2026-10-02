@@ -49,7 +49,7 @@ Ouranos and Fels support the Xenos; [[hermes|Hermes]] and [[ganesha|Ganesha]] kn
 [@so05-prayers]: SO05 | | Prayers and gods in the Dungeon; the Dungeon changing.
 [@fm09-ouranos]: FM09 | | The Guild's true leader; support for the Xenos.
 [@fm09-fels]: FM09 | | Fels as his agent.
-[@fm09-theory]: FM09 | | His theory of monster souls.
+[@fm09-theory]: FM09 | Chapter 5: Heretics | His theory of monster souls.
 [@fm09-network]: FM09 | | Who knows about the Xenos.
 [@fm11-cover]: FM11 | | The false extermination story.
 [@fm12-deepest]: FM12 | Chapter 1: Rabbit Close-Up | The deepest floor; the Will of Ouranos.

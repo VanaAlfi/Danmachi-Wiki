@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "High elf of royal blood and Loki Familia's leading mage, titled Nine Hell; Aiz Wallenstein's teacher and parent figure. Level 7 from Sword Oratoria 14.",
-  "aliases": ["Nine Hell", "Riveria", "Reveria"],
+  "aliases": ["Nine Hell", "Riveria", "Reveria", "Rishena"],
   "spoilers": "DanMachi Vols. 2–10, Sword Oratoria Vols. 1–14 and Astrea Record Vols. 1 and 3",
   "related": ["loki-familia", "finn-deimne", "gareth", "aiz-wallenstein", "lefiya", "eina-tulle", "magic"],
   "infobox": {
@@ -29,7 +29,7 @@
 
 ## Early life
 
-At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
+Lefiya says that all the elves' nobles, Riveria included, are descended from Rishena, the younger sister of the eternal saint Celdia of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
 
 ## Skills {#skill}
 
@@ -352,7 +352,7 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
 [@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
 [@veil-breath.ar03-astrea]: AR03 | Chapter 4: Apocalypse Cometh | "Gather, breath of the earth—my name is Alf! Veil Breath!"; Astrea Familia protected.
-[@luna-aldis.so12-cast]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya pauses the chant for Arcs Ray, resumes; "My name is Alf / Luna Aldis!"; "Riveria’s healing magic".
+[@luna-aldis.so12-cast]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya pauses the chant for Arcs Ray, resumes; "My name is Alf" and "Luna Aldis!" (two printed lines); "Riveria’s healing magic".
 [@riveria-nine-spells.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Magic Vas Windheim, Via Shilheim and Van Alheim, each "Concurrent Casting" with three levels.
 [@riveria-nine-spells.so14-sheet]: SO14 | | Illustrated Status sheet, p. 182 (Level 1): Magic Vas Windheim only; attack magic, "Chained casting", three levels.
 [@riveria-nine-spells.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; three types with three levels; nine spells; Rea Laevateinn "the longest in her arsenal".
@@ -362,3 +362,4 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@via-shilheim.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): defense magic Via Shilheim; levels Liv Ilusio, Veil Breath, Via Shilheim.
 [@veil-breath.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): defense magic Via Shilheim, level 2 Veil Breath.
 [@luna-aldis.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): healing magic Van Alheim; levels Fil Eldis, Luna Aldis, Van Alheim.
+[@so05-rishena]: SO05 | Interlude: Flip Side of the Compromise | Lefiya: "All our nobles are descended from Lady Celdia’s younger sister Lady Rishena! Including our very own Lady Riveria!"; Alicia: "Lady Celdia is an eternal saint!"

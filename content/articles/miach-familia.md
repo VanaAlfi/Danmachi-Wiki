@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The god Miach's small, debt-ridden Familia of potion makers, close friends of Hestia Familia. Its captain Nahza Ersuisu was long its only member; Daphne Laulos and Cassandra Illion join after the War Game.",
   "aliases": ["Nahza", "Nahza Ersuisu", "Nazha"],
-  "spoilers": "DanMachi Vols. 1–19, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 1–19, Astrea Record Vol. 1 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["miach", "hestia-familia", "cassandra", "daphne", "airgetlam", "amid", "magic"],
   "infobox": {
     "title": "Miach Familia",
@@ -46,10 +46,14 @@ The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Famil
 
 Nahza Ersuisu is a sleepy-eyed [[races#chienthrope|chienthrope]], Miach Familia's captain and, until DanMachi 8, its only member.[@fm02-shop, fm15-rivals, fm15-level, fm18-nahza]
 
+- **Manner:** the dog ears on her head "twitch happily" when Bell agrees to buy, and she smiles lazily with "half-lidded eyes". "As usual, Nahza looks like she could fall asleep at any moment", her tail "lazily swishing"; DanMachi 18 calls her one "who always had an indifferent look on her face".[@fm02-nahza, fm04-nahza, fm18-nahza-war]
 - **Adventurer:** she is a Level 2; it took her six years to level up. In the middle levels a monster nearly burned her alive and ate her right arm, and she has been unable to face monsters since.[@fm04-level] DanMachi 18 says she retired as an adventurer six years before.[@fm18-nahza]
 - **Chemist:** she switched from adventurer to chemist and learned the Development Ability printed in DanMachi 4 as *Synthesize*, which later volumes call [[development-ability#compounding|Compounding]].[@fm04-level, fm15-compounding]
 - **Magic:** her one spell, [[magic#darbh-daol|Darbh Daol]], manifested when she lost her arm. In the Great Familia War she holds out the airgetlám to catch Berling's ax so that she can cast it.[@fm18-loan]
 - **Level 3:** after the Great Familia War she reaches Level 3.[@fm19-arm]
+- **Archer:** she fights with "a longbow that stood just as tall as she did", held steady with her silver arm. On the surface quest of DanMachi 4's "Quest X Quest" she keeps "enough space between her and the monsters to prevent Nahza’s traumatic memories from triggering" and shoots, "grinning from ear to ear"; in DanMachi 6 her arrows force Apollo Familia's hunters to take cover among the buildings, though [[hyacinthus|Hyacinthus]] dodges every one; in DanMachi 9 she watches over Hestia from a rooftop with Daphne and Cassandra, ready to use "her Sniper skills".[@fm04-nahza, fm06-nahza, fm09-nahza] In the Great Familia War she shoots Crozzo magic swords "that resembled arrows" from atop a ten-meder column, a "sniping that checked even first-tier adventurers", while the Berbera hold off "the einherjar trying to erase the troublesome archer".[@fm18-nahza-war]
+- **Fear of monsters:** losing her arm "robbed her of the courage to fight monsters", and she has "always fought while maintaining some insurance"; facing Freya Familia in DanMachi 18, even she is "scared".[@fm18-nahza-war] In DanMachi 5, when Hestia resolves to go and save Bell herself, Nahza hands her a pouch full of potions: "This is all I can do…Sorry I can’t join you…"[@fm05-nahza]
+- **Miach and rivals:** "We’ve known each other for so long. I feel the most at ease with Nahza by my side," Miach tells Hestia in DanMachi 13.[@fm13-nahza] In Minor Myths and Legends 2 she meets [[amid|Amid]] over a customer: "Haven’t you stolen enough from us already?… This customer is mine."[@ss02-nahza]
 
 ### Daphne Laulos and Cassandra Illion
 
@@ -96,3 +100,11 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@ar01-slane]: AR01 | Chapter 9: The Opening Act of Evil | "I’m heading onto the battlefield to serve as Miach’s escort"; "In her other, she held her weapon, a bow."; "It was a chienthrope from Miach Familia called Nahza Ersuisu."; "Come, Slane, my captain. Let’s go."
 [@ss01-charm]: SS01 | | Episode Miach: the blue flower; "For a god, you can be really dense sometimes."
 [@ss01-home]: SS01 | | Familia Panacea: "a group dedicated to brewing and selling potions and other healing items"; the house off West Main Street.
+[@fm02-nahza]: FM02 | Chapter 4: Divine Wine | "The dog ears on top of Nahza’s head twitch happily when she hears my response"; "the lazily smiling Nahza with her half-lidded eyes".
+[@fm04-nahza]: FM04 | Quest X Quest | "her drowsy eyes opening just enough for me to notice"; "As usual, Nahza looks like she could fall asleep at any moment."; "Her tail is lazily swishing back and forth behind her."; "It was a longbow that stood just as tall as she did. Holding the weapon steady with her silver arm, she nocked an arrow using her left hand."; "There was enough space between her and the monsters to prevent Nahza’s traumatic memories from triggering."; "Nahza, grinning from ear to ear, unleashed another arrow".
+[@fm05-nahza]: FM05 | Chapter 2: How Many Meders to a Safe Return? | "she was going to save Bell herself"; "She handed her a pouch full of vials, a large amount of potions."; "This is all I can do…Sorry I can’t join you…"; "Acknowledging the trauma that the chienthrope girl had regarding monsters, Hestia accepted the pouch."
+[@fm06-nahza]: FM06 | Chapter 3: Outbreak | "Nahza frowned as she watched Hyacinthus dodge every one of her arrows."; "The hunters had to use the architecture for cover against Nahza’s arrows."
+[@fm09-nahza]: FM09 | Chapter 5: Heretics | "her longbow set and arrow nocked"; "Nahza, Daphne, and Cassandra had taken up positions around the appointed meeting place and watched over Hestia from afar."; "Nahza would use her Sniper skills to eliminate the threat".
+[@fm13-nahza]: FM13 | Chapter 2: The Prophetess of Tragedy | "it’s always been just Nahza and me"; "We’ve known each other for so long. I feel the most at ease with Nahza by my side".
+[@fm18-nahza-war]: FM18 | Chapter 8: The Great Familia War | "Even Nahza, who always had an indifferent look on her face, couldn’t avoid being scared."; "Nahza had set up atop a ten meder-tall column"; "A long-range attack using Crozzo magic swords."; "Her sniping that checked even first-tier adventurers had extended the life of the left wing."; "Nahza was firing saber-style magic swords that resembled arrows."; "the einherjar trying to erase the troublesome archer"; "Nahza Ersuisu had always fought while maintaining some insurance."; "had robbed her of the courage to fight monsters".
+[@ss02-nahza]: SS02 | My Memory | "Nahza Ersuisu," Amid said; "Haven’t you stolen enough from us already?"; "This customer is mine."

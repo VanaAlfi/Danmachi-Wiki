@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Half-elf Guild employee and Bell Cranell's Dungeon adviser; a School District graduate and the older sister of Nina Tulle.",
-  "aliases": ["Fairy Break"],
+  "aliases": ["Fairy Break", "Aina", "Aina Tulle"],
   "spoilers": "DanMachi Vols. 1–19, Sword Oratoria Vol. 14 and Minor Myths and Legends Vol. 1",
   "related": ["bell-cranell", "nina-tulle", "hermes", "falna", "orario", "maris-hackard"],
   "infobox": {

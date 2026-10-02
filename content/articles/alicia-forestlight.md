@@ -114,5 +114,5 @@ Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her 
 [@so13-advice]: SO13 | Fairy Canon: 2 | "The special privilege of youth is the chance to err."; the first adventurer Lefiya aspired to be like.
 [@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | Pride in Riveria's Level 7; Alicia organises the clean-up.
 [@ss02-elves]: SS02 | | "a long procession of elves headed by the Level 4 adventurer Alicia".
-[@so13-elleaf]: SO13 | Chapter 3: Class is in Session | "A black-furred cat person and an amber-haired elf…Alsha and Elleaf?!"; the two are Anakity and Alicia, come to recruit.
+[@so13-elleaf]: SO13 | Fairy Canon: 2 | "A black-furred cat person and an amber-haired elf…Alsha and Elleaf?!"; the two are Anakity and Alicia, come to recruit.
 [@so10-alsha]: SO10 | Chapter 5: Brave Soul! | Anakity: "Her second name was Alsha".

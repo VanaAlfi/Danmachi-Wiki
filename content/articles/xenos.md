@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
-  "aliases": ["Fia", "Lett", "Ranieh"],
+  "aliases": ["Fia", "Lett", "Ranieh", "Orde", "Aude", "Foh", "Cliff", "Gryuu", "Gryu"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
   "sections": [
@@ -48,6 +48,10 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | Lett | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 | [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
 | [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; killed by Ikelos Familia's hunters in DanMachi 10.[@fm10-ranieh, fm10-death] |
+| Orde | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
+| Foh | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
+| Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
+| Gryuu | A dragon who led the Xenos before Lido: "his dragon body can’t move like it used to" (DanMachi 9). DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[monsters#mermaid|Mari]].[@fm09-gryuu, fm14-gryu] |
 
 ## Ranieh {#ranieh}
 
@@ -59,7 +63,7 @@ Gros, who saw her death through the crystal, calls on the Xenos to avenge "Ranie
 
 ## Fia {#fia}
 
-Fia is a [[monsters#harpy|harpy]] with "deep-red hair flowing past her shoulders", who seems about the same age as [[wiene|Wiene]]; on the journey in DanMachi 10 she walks beside the newcomer to reassure her.[@fm10-fia2] She is "much more interested in the surface and its inhabitants than anyone else", always with a question to ask.[@fm10-fia] Captured with Wiene when Ranieh's band is ambushed, she is found in the first cage of the hunters' hold and left in Lett's care.[@fm10-captured, fm10-cages] In DanMachi 11 she falls from the sky during the flight and Lett goes after her; the separated Xenos later find Bell's group by following Haruhime's magical light.[@fm11-separated, fm11-reunion] In DanMachi 14, hooded among Lett's group, she "smiled brightly at the teary-eyed Lilly".[@fm14-lett]
+Fia is a [[monsters#harpy|harpy]] with "deep-red hair flowing past her shoulders", who seems about the same age as [[wiene|Wiene]]; on the journey in DanMachi 10 she walks beside the newcomer to reassure her.[@fm10-fia2] She is "much more interested in the surface and its inhabitants than anyone else", always with a question to ask.[@fm10-fia] Captured with Wiene when Ranieh's band is ambushed, she is found in the first cage of the hunters' hold and left in Lett's care.[@fm10-captured, fm10-cages] When the hold falls into chaos under Dix's curse, Fels asks, "Lett, Fia, can you escape from here?", and "Airborne but unsteady", she flies off with the red-cap holding one of her legs, over their crazed brethren.[@fm10-flight] In DanMachi 11 she falls from the sky during the flight and Lett goes after her; the separated Xenos later find Bell's group by following Haruhime's magical light.[@fm11-separated, fm11-reunion] In the Water Capital of DanMachi 12, wild harpies and sirens "uglier than old crones" make Bell realize "how far Rei and Fia have deviated from the norms of their race".[@fm12-norms] In DanMachi 14, hooded among Lett's group, she "smiled brightly at the teary-eyed Lilly".[@fm14-lett] She and Lett, in adventurers' costumes, are among the Xenos who came "to rescue Hestia Familia".[@fm14-costumes] In Sword Oratoria 12's final battle in Knossos she and Lett speak "in fluent Koine", their words "tinged with fear",[@so12-fia] and in Minor Myths and Legends 1 a Xenos teases Rei that "even Fia and Aruru will get to Bell before you!"[@ss01-fia]
 
 ## History
 
@@ -112,3 +116,12 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm11-reunion]: FM11 | Chapter 5: Ultra Soul! | "There they stand, Lett the red-cap next to Fia the harpy."; "they saw Haruhime’s magical light".
 [@fm11-separated]: FM11 | | Rei: "Fia was with us, but when things got too intense, she fell from the sky…and Lett went after her"; "red-cap goblin, harpy".
 [@fm14-lett]: FM14 | Chapter 8: The Voice of the Hammer | "the harpy Fia"; "Lett, the gentlemanly red-cap goblin"; "a battle-ax far too large for its size"; "Rei had taken charge of the group that remained in Knossos"; "We made a pledge to Mr. Bell!"
+[@fm10-party]: FM10 | Chapter 7: The King of Atrocity | "the hulking formoire named Foh"; "Despite his massive and intimidating frame, Foh had a kind heart."; "various howls and grunts"; "transforming him into a living wall"; "his large mace"; "Cliff the hippogriff preferred to be airborne"; "The lighthearted and cheerful monster also enjoyed teasing those around him."; "The war shadow Orde, though unable to produce any sounds, was always the first into combat".
+[@fm10-deaths]: FM10 | Chapter 7: The King of Atrocity | "A greatsword appeared from behind Dix’s shadow and cut Orde in half."; "Foh was completely run through"; "Foh was dead. Orde and Cliff had been killed as well."
+[@fm09-gryuu]: FM09 | Chapter 5: Heretics | Lido: "Gryuu used to hold that title, but his dragon body can’t move like it used to. So I’m leading everyone in his stead now."
+[@fm14-gryu]: FM14 | Epilogue: You’ll Be Back II | "there’s no village caretaker like Gryu or Mari down there".
+[@fm10-flight]: FM10 | Chapter 9: Dreams of Beasts | Fels: "Lett, Fia, can you escape from here?"; "Airborne but unsteady, the red-cap took hold of one of her legs."; "passing over their crazed brethren".
+[@fm12-norms]: FM12 | | Printed heading "Chapter 5: Bride of the Water Capital" (not in the evidence map): "Both are uglier than old crones"; "how far Rei and Fia have deviated from the norms of their race".
+[@fm14-costumes]: FM14 | Chapter 8: The Voice of the Hammer | "They had done it all to rescue Hestia Familia"; "If an outsider had seen Lett and Fia in their costumes, they wouldn’t have been the least bit suspicious".
+[@so12-fia]: SO12 | Chapter 5: Final War | "Fia the harpy and Lett the red-cap spoke in fluent Koine, comments tinged with fear."
+[@ss01-fia]: SS01 | | Printed heading "Monstrous Longing, and a Sage’s Enlightenment" (not in the evidence map): "even Fia and Aruru will get to Bell before you!"

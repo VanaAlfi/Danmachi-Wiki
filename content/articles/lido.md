@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Scarlet lizardman and leader of the Xenos, a skilled dual-sword fighter who welcomes Bell into the Hidden Village in DanMachi 9.",
-  "aliases": [],
+  "aliases": ["Lyd"],
   "spoilers": "DanMachi Vols. 9–11",
   "related": ["xenos", "wiene", "asterios", "bell-cranell", "ouranos"],
   "infobox": {

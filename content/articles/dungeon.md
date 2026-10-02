@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The vast underground labyrinth beneath Orario, sealed under Babel Tower and held in check by Ouranos's prayers. Its walls give birth to monsters, and adventurers descend it floor by floor; its bottom is unknown.",
-  "aliases": ["Labyrinth", "Great Hole", "Deep Zone"],
+  "aliases": ["Labyrinth", "Great Hole", "Deep Zone", "Balror", "Balor"],
   "spoilers": "DanMachi Vols. 1–6, 8, 9, 12–14, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["upper-levels", "cave-labyrinth", "floor-18", "colossal-tree-labyrinth", "water-capital", "floor-37", "monsters", "rivira", "monster-rex", "irregular", "goliath", "level", "babel", "ouranos", "guild", "orario", "three-great-quests"],
   "infobox": {

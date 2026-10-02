@@ -103,7 +103,7 @@ Leon contrasts it with [[ottar|Ottar]]'s beast transformation, which boosts his 
 [@fm19-proposal]: FM19 | | Leon's proposed adventure.
 [@fm20-leon]: FM20 | Chapter 2: Lion and then Sword Princess | "Knight of Knights … Level Seven."
 [@fm20-hearing]: FM20 | Epilogue: Beautiful World | Leon's Level 7 hearing.
-[@fm20-parents]: FM20 | | Born to half-dwarf parents.
+[@fm20-parents]: FM20 | Chapter 3: The World, The Festival, and Reality | Born to half-dwarf parents.
 [@fm20-legacy]: FM20 | | Leon and the legacy of Zeus and Hera.
 [@fm20-valley]: FM20 | Chapter 3: The World, The Festival, and Reality | The Valley of Dragons and its seal.
 [@fm20-draw]: FM20 | Epilogue: Beautiful World | The fight recorded as a draw.

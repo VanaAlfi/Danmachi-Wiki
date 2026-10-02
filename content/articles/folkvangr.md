@@ -42,10 +42,10 @@ Members below the first tier fight daily battle royals that would kill them, whi
 | DanMachi 18 | After the Familia War it is placed under [[guild|Guild]] management, while Freya Familia's other wealth is divided among the coalition.[@fm18-guild] |
 | DanMachi 20 | [[syr-flover|Syr]] cannot come and go there because the Guild has seized it.[@fm20-seized] |
 
-[@fm07-folkvangr]: FM07 | | Folkvangr's location; Twilight Manor in the north.
+[@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location; Twilight Manor in the north.
 [@fm16-field]: FM16 | | The walled field and manor; the emergency meeting.
 [@fm17-estate]: FM17 | | Death matches; Sessrúmnir; the manor's rooms.
-[@fm17-einherjar]: FM17 | | The einherjar and the Andhrímnir.
+[@fm17-einherjar]: FM17 | Chapter 3: The Field of Battle | The einherjar and the Andhrímnir.
 [@fm17-bell]: FM17 | Chapter 5: The End of Her World | More than two weeks in Folkvangr.
 [@fm17-lyu]: FM17 | | Lyu imprisoned; her escape.
 [@fm18-heith]: FM18 | Chapter 8: The Great Familia War | Heith's background.

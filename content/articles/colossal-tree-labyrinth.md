@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Dungeon's nineteenth to twenty-fourth floors, entered through the roots of the Central Tree on Floor 18: passages walled in tree bark, lit by blue wall moss and full of rare plants, where poison-dealing insect monsters make Immunity the key to progress. Wiene is found there, the Xenos have a village there, and the colossal tree's roots hang over the Water Capital below.",
-  "aliases": ["Colossal Tree", "nineteenth floor", "twentieth floor", "twenty-first floor", "twenty-second floor", "twenty-third floor", "twenty-fourth floor", "Floor 19", "Floor 20", "Floor 21", "Floor 22", "Floor 23", "Floor 24", "Central Tree", "Pantry"],
+  "aliases": ["Colossal Tree", "nineteenth floor", "twentieth floor", "twenty-first floor", "twenty-second floor", "twenty-third floor", "twenty-fourth floor", "Floor 19", "Floor 20", "Floor 21", "Floor 22", "Floor 23", "Floor 24", "Central Tree", "Pantry", "Lamp Moss", "Akarigoke"],
   "spoilers": "DanMachi Vols. 9, 10, 12–14, 19, 20 and Sword Oratoria Vols. 2 and 3",
   "related": ["dungeon", "floor-18", "water-capital", "wiene", "xenos", "corrupted-spirit", "irregular", "development-ability"],
   "infobox": {
@@ -29,7 +29,7 @@ The **Colossal Tree Labyrinth** is the region of the [[dungeon|Dungeon]] from th
 
 ## The floors {#floors}
 
-- **Walls:** the walls and ceilings are covered in thick tree bark, so that adventurers seem to walk through "a hollowed-out tree trunk". Instead of the light sources of the floors above, patches of wall moss give a soft blue glow.[@so03-walls, fm09-twentieth]
+- **Walls:** the walls and ceilings are covered in thick tree bark, so that adventurers seem to walk through "a hollowed-out tree trunk". Instead of the light sources of the floors above, patches of wall moss give a soft blue glow.[@so03-walls, fm09-twentieth] On the nineteenth floor Lilly scrapes some into a pouch: "This plant—often called Lamp Moss—is the only source of light on this floor", and Bell has heard that it "sells for about the same price as the crystals from the eighteenth floor".[@fm09-lampmoss]
 - **Plants:** strange leaves, large mushrooms and flowers with silver sap line the halls, and most of these plants do not exist on the surface. Some rooms hold lush flower beds.[@so03-plants] Many of them are main ingredients for potions and items, rarities chemists would love to have.[@fm09-plants]
 - **The colossal tree:** above the Great Falls of the twenty-fifth floor, the roots of an enormous tree, five meders across, spread over the ceiling; the falls seem to begin there.[@fm12-roots] In DanMachi 14 part of those roots falls into the [[water-capital|Water Capital]], apparently because the part of the twenty-fifth floor holding them was destroyed, and the roots later burn.[@fm14-fall, fm14-fire]
 - **Middle levels:** DanMachi 9 says the middle levels end at the twenty-third floor, and that going on to the twenty-fourth needs a Status above Level 2. DanMachi 12 calls the twenty-fourth floor "the lowest of the middle levels".[@fm09-dangers, fm12-irregular]
@@ -79,3 +79,4 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 [@fm14-lizardmen]: FM14 | | "a higher-rank version of the lizardmen that appear in the Colossal Tree Labyrinth"; "between Level 3 and Level 4".
 [@fm19-floor]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "We’re currently on the twenty-second floor, in the Colossal Tree Labyrinth."
 [@fm20-return]: FM20 | Chapter 1: Orario Rumble | "We made it through the Tangled Gorge, the Water Capital, the Colossal Tree Labyrinth".
+[@fm09-lampmoss]: FM09 | Chapter 5: Heretics | "This plant—often called Lamp Moss—is the only source of light on this floor."; "Lamp Moss sells for about the same price as the crystals from the eighteenth floor"; "It was the Lamp Moss Lilly had harvested on the nineteenth floor."

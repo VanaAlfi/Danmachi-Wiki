@@ -1182,6 +1182,15 @@ REDIRECT = """<!doctype html>
 """
 
 
+CATEGORY_REDIRECT = """<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title} – {site}</title><meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={target}"><link rel="canonical" href="{target}">
+<link rel="stylesheet" href="../assets/classic.css"></head>
+<body><p style="margin:2em">The “{title}” category has a single page, <a href="{target}">{page}</a>.</p></body></html>
+"""
+
+
 def write(rel: str, text: str):
     path = DIST / rel
     path.parent.mkdir(parents=True, exist_ok=True)
@@ -1208,6 +1217,13 @@ def build():
     for page in site.pages:
         write(page.url, site.plain_page(page, active=page.slug))
     for cat in SITE["categories"]:
+        members = site.in_category(cat["id"])
+        if len(members) == 1:
+            # A category with a single page redirects straight to that page (Magic, Skills, Development Abilities).
+            only = members[0]
+            write(f"category/{cat['id']}.html", CATEGORY_REDIRECT.format(
+                title=esc(cat["title"]), page=esc(only.title), target=esc(f"../{only.url}"), site=esc(SITE["name"])))
+            continue
         write(f"category/{cat['id']}.html", site.category_page(cat))
     # Former article URLs that now live as a section of another page ("former_slug" in front-matter sections).
     for art in site.articles:

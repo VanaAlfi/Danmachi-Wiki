@@ -56,7 +56,7 @@ Classes are divided into squads, each drawn from a single class, whose members r
 
 ## Visits to Orario {#visits}
 
-Each return is Orario's recruiting season. With the school's cooperation every Familia holds sessions promoting itself, and the school may ask a Familia to send a recruiter for a longer stay, generally one of the largest Familias that many students want to join.[@so13-recruiting] In Sword Oratoria 13 [[loki-familia|Loki Familia]]'s recruiters are the first allowed aboard (see [[loki-familia#recruiting|Recruiting]]).[@so13-loki-first] In DanMachi 19 students may enter Orario and begin internships three days after the school's arrival, but the Combat Studies Department's first task is hands-on study in the Dungeon.[@fm19-internships] [[hestia-familia|Hestia Familia]] stays out of "the fight for talent" (see [[hestia-familia#recruitment|Recruitment]]).[@fm19-talent]
+Each return is Orario's recruiting season. With the school's cooperation every Familia holds sessions promoting itself, and the school may ask a Familia to send a recruiter for a longer stay, generally one of the largest Familias that many students want to join.[@so13-recruiting] In Sword Oratoria 13 [[loki-familia|Loki Familia]]'s recruiters are the first allowed aboard (see [[loki-familia#recruiting|Recruiting]]).[@so13-loki-first] In DanMachi 19, on Bell's first day of classes, Leon announces that students may enter Orario and begin internships three days later, but that the Combat Studies Department's first task is hands-on study in the Dungeon.[@fm19-internships] [[hestia-familia|Hestia Familia]] stays out of "the fight for talent" (see [[hestia-familia#recruitment|Recruitment]]).[@fm19-talent]
 
 ## People
 
@@ -65,7 +65,7 @@ Each return is Orario's recruiting season. With the school's cooperation every F
 | [[leon-verdenberg|Leon Verdenberg]] | Captain of [[balder-class|Balder Class]] and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
-| Bardain | A bull person and Lefiya's classmate, "Rulebreaker Bardain", who dragged her and their friend Nassen into fights and messes and wanted to become an imperial knight. His wish to see the eighteenth floor led twelve students into the [[cave-labyrinth|Cave Labyrinth]], where he lost an arm rescuing Alisa and Nassen before Aiz and Tiona of Loki Familia saved them (Sword Oratoria 13).[@so13-bardain, so13-rescue] |
+| Bardain | A bull person and Lefiya's classmate, "Rulebreaker Bardain", who dragged her and their friend Nassen into fights and messes and wanted to become an imperial knight. His wish to see the eighteenth floor led twelve students into the [[cave-labyrinth|Cave Labyrinth]], where he lost an arm rescuing Alisa and Nassen before Aiz and Tiona of Loki Familia saved them (Sword Oratoria 13).[@so13-bardain, so13-bardain-fc, so13-rescue] |
 | [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with [[hestia-familia|Hestia Familia]].[@fm20-nina] |
 | [[bell-cranell|Bell Cranell]] | Enters in DanMachi 19 under the name Rapi Flemish.[@fm19-rapi] |
 
@@ -97,7 +97,8 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@so13-practice]: SO13 | Chapter 3: Class is in Session | Dungeon practice stops at Floor 15.
 [@so13-leon]: SO13 | | Leon, captain of Balder Class.
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | Lefiya's admission.
-[@so13-bardain]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Ha-ha! Rulebreaker Bardain!"; "I’m Bardain! A bull person, as you can see!"; "Generous and always smiling, Bardain was like everyone’s older brother"; "Bardain often dragged him and Lefiya into fights and messes."; "Bardain wants to be an imperial knight."
+[@so13-bardain]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Ha-ha! Rulebreaker Bardain!"
+[@so13-bardain-fc]: SO13 | Fairy Canon: 1 | "I’m Bardain! A bull person, as you can see!"; "Generous and always smiling, Bardain was like everyone’s older brother"; "Bardain often dragged him and Lefiya into fights and messes."; "Bardain wants to be an imperial knight."
 [@so13-meren]: SO13 | Chapter 2: Nostalgic Schoolhouse | Meren, the only harbour for the 700-meder ship; Orario's part in founding the School District; Meren's shipyards built it.
 [@so13-recruiting]: SO13 | Chapter 2: Nostalgic Schoolhouse | Orario's recruiting season; recruiters; the School District's original purpose.
 [@so13-graduation]: SO13 | Fairy Canon: 1 | No fixed graduation; the triennial return the busiest time for admissions.

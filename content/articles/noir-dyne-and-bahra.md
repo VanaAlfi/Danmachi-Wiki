@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Loki Familia's three oldest members: the human swordsman Noir Sachsen, the dwarf Dyne and the Amazon Bahra, veterans who converted from other Familias and taught the young Finn, Riveria and Gareth. In Astrea Record 3 they lead the city's old adventurers into the monster horde to buy time in the Great Conflict, and die there.",
-  "aliases": ["Noir", "Noir Sachsen", "Bowstring Blade", "Dyne", "Bahra", "Undying Vow", "Loki Familia veterans"],
+  "aliases": ["Noir", "Noir Sachsen", "Bowstring Blade", "Dyne", "Bahra", "Undying Vow", "Loki Familia veterans", "Dain", "Bara"],
   "spoilers": "Astrea Record Vols. 1–3",
   "related": ["loki-familia", "finn-deimne", "raul-nord", "great-conflict", "olivas-act", "twilight-manor", "evils", "ottar"],
   "infobox": {

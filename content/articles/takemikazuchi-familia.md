@@ -51,7 +51,7 @@ In the Far East, Takemikazuchi and other gods led a poor shrine that took in chi
 [@fm11-witness]: FM11 | | Ouka and Chigusa witness the Xenos.
 [@fm11-asuka]: FM11 | Chapter 6: A Deity’s Scheme | Ouka: "Chigusa! Work with Asuka to get those kids out of here!!"
 [@fm12-ouka]: FM12 | Chapter 6: The Hero’s Sacred Flame | Ouka among those boosted.
-[@fm13-chigusa]: FM13 | | Chigusa's arrow.
+[@fm13-chigusa]: FM13 | Chapter 4: Countdown | Chigusa's arrow.
 [@fm14-ouka]: FM14 | | Ouka and the Amphisbaena.
 [@fm14-xenos]: FM14 | Epilogue: You’ll Be Back II | Ouka's group and the Xenos.
 [@fm15-shrine]: FM15 | | The Far Eastern shrine.

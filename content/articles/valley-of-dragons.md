@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The land where the one-eyed Black Dragon is sealed by a great spirit's storm; dragons escape from it through tears caused by the sleeping dragon's snore.",
-  "aliases": [],
+  "aliases": ["Dragon Valley"],
   "spoilers": "DanMachi Vols. 19–20 and Sword Oratoria Vol. 13",
   "related": ["three-great-quests", "school-district", "leon-verdenberg", "bell-cranell"],
   "infobox": {

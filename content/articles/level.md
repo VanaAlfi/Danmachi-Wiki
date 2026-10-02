@@ -83,7 +83,7 @@ A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozu
 [@fm03-ja-d]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c2VG, paragraph 226): an ability evaluation of the sixth stage or higher, reaching D, is what first gives the qualification to rank up; there is no word for "all", and the number of abilities is not stated. Yen Press prints "All their basic stats are above D."
 [@fm03-bell]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
 [@fm04-hidden]: FM04 | | Values reset; hidden parameter.
-[@fm04-choice]: FM04 | | One Development Ability per Level Up.
+[@fm04-choice]: FM04 | Chapter 1: Denatus | One Development Ability per Level Up.
 [@fm08-aging]: FM08 | | Higher Levels slow aging.
 [@fm10-upper]: FM10 | Chapter 9: Dreams of Beasts | Zanis as a Level 2 upper-class adventurer.
 [@fm15-rank]: FM15 | Interlude: Does Cinderella Dream of Happiness? | "At least one ability to the sixth rank."

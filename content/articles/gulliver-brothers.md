@@ -48,6 +48,10 @@ Familia Chronicle 2 tells their past. The four were born in an industrial city a
 
 Their strength is acting "in unison without words or even glances", which leads many to count the four Level 5s equal to any Level 6; even as craftsmen, "the four brothers always knew what the others were thinking".[@fm16-teamwork, fc02-past-g] They squabble among themselves, as over the breakfast tomatoes in DanMachi 17, but close ranks at once against an outsider: in Familia Chronicle 2 they stop bickering to turn on Allen, while the eldest, Alfrik, tries to hold the other three back.[@fm17-tomatoes, fc02-allen-g] Alfrik is the calm one, "Unlike his brutal and merciless younger brothers".[@fm17-alfrik] DanMachi 18 says what drives them: "They had always hated themselves. But even more than that, they had always prayed for the goddess’s safety."[@fm18-loyalty]
 
+## In the desert war {#desert-war}
+
+In [[ali|Ali]]'s war of Familia Chronicle 2 the brothers act as Freya's guards and scouts. Alfrik reports that they "combed through the entire residence" for assassins, and the four carry off the guide Bofman for punishment, to the terror of the freed slaves.[@fc02-guards] At Shalzad's hidden fortress, whose garrison has been slaughtered, Alfrik reads the attack while his brothers report the arrows loosed from a rear passage, the remnants of stronger magic and "characters written in blood".[@fc02-fortress-g] By night they drive fleeing Warsa squads toward Leodo as bait, Dvalinn and Berling running ahead while "Grer with his greatsword was left with the eldest brother", until they have "wiped out all of the Warsa forces in the vicinity".[@fc02-bait] On the day of the battle they stand on separate dunes, "their voices overlapping despite being so far away from each other, as if they were telepathic", and with Allen they corner Warsa's fourth division and reserves.[@fc02-sindh]
+
 ## History
 
 | Volume | Events |
@@ -88,3 +92,7 @@ Sword Oratoria 12 prints the family name once as *Gullivar* ("Alfrik Gullivar").
 [@ar01-library]: AR01 | Chapter 11: Absolute Evil | "Hedin and Alfrik had visited the Guild library, poring over chronicles of old battles"; "the likenesses of Osiris Familia".
 [@ar03-basram]: AR03 | Chapter 5: Playing the Violence Card | "the Gullivers, holding their own against Basram’s spirit warriors".
 [@so12-flags-g]: SO12 | Chapter 7: Final War II | "Alfrik Gullivar"; "they quickly stole all the flags that Tsubaki and Loki Familia"; "Those four small frames nullified the tremendous storm of magic blasts by working as one."
+[@fc02-guards]: FC02 | Ali and the 8 Followers | "We combed through the entire residence to be sure no assassins or suspicious elements were here"; "Leaving the restraint and torture of Bofman to his brothers"; "The former slaves were startled by the sudden appearance of the Gulliver brothers and started sweating bullets in terror".
+[@fc02-fortress-g]: FC02 | Ali and the 8 Followers | "the eldest Gulliver brother lifted the faceguard of his sand-colored helm"; "passage in the rear where they loosed a fusillade of arrows at those who tried to flee"; "Some of the magic remnants are a bit stronger."; "there are characters written in blood".
+[@fc02-bait]: FC02 | Ali and the 8 Followers | "Dvalinn, Berling, you two guide them toward Leodo."; "Grer with his greatsword was left with the eldest brother."; "Alfrik and the others guarding the perimeter around Leodo have wiped out all of the Warsa forces in the vicinity."
+[@fc02-sindh]: FC02 | Ali and the 8 Followers | "their voices overlapping despite being so far away from each other, as if they were telepathic"; "the fourth division and reserve forces were cornered by a catman and four prums".

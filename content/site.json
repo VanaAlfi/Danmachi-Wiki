@@ -48,8 +48,6 @@
     {"slug": "level", "title": "Level", "category": "terminology"},
     {"slug": "status", "title": "Status", "category": "terminology"},
     {"slug": "war-game", "title": "War Game", "category": "terminology"},
-    {"slug": "magia-kreis", "title": "Magia Kreis", "category": "magic"},
-    {"slug": "kokonoe", "title": "Kokonoe", "category": "magic"},
     {"slug": "ganesha", "title": "Ganesha", "category": "deities"},
     {"slug": "takemikazuchi", "title": "Takemikazuchi", "category": "deities"},
     {"slug": "soma", "title": "Soma", "category": "deities"},

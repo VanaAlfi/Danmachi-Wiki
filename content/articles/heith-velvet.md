@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Healer of Freya Familia and representative of its healers, the Andhrímnir; titled Vana Mardel and known as the golden witch, a Level 4 who can fight like a first-tier adventurer.",
-  "aliases": ["Vana Mardel", "Golden witch"],
+  "aliases": ["Vana Mardel", "Golden witch", "Rona", "Ilda", "Lona", "Ilde"],
   "spoilers": "DanMachi Vols. 17–20 and Minor Myths and Legends Vol. 1",
   "related": ["freya-familia", "folkvangr", "horn", "hedin", "freya", "magic"],
   "infobox": {
@@ -23,7 +23,7 @@
   }
 }
 ---
-**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers]
+**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells Rona and Ilda to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"[@fm18-rona, fm18-rona2]
 
 ## Background
 
@@ -90,7 +90,7 @@ While it lasts, a pattern of light like a compressed magic circle appears on the
 
 #### Limits {#ars-gullveig-limits}
 
-The narration calls it an auto-heal that "even Crozzo’s [[magic-sword|magic swords]] couldn’t break", and even [[hedin|Hedin]]'s [[magic#caurus-hildr|Caurus Hildr]] does not overcome it at once, though it is "a Level 4’s magic".[@ars-gullveig.fm18-hedin] Its weakness is Mind. Hedin tells her, "Your magic isn’t eternal. It’s finite": Heith's Mind is a cut above other healers of her Level, but Hedin, whom even Riveria acknowledges as having the highest total Mind in the city, keeps his barrage going to outlast her.[@ars-gullveig.fm18-hedin]
+The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’t break" (see [[magic-sword|Magic sword]]), and even [[hedin|Hedin]]'s [[magic#caurus-hildr|Caurus Hildr]] does not overcome it at once, though it is "a Level 4’s magic".[@ars-gullveig.fm18-hedin] Its weakness is Mind. Hedin tells her, "Your magic isn’t eternal. It’s finite": Heith's Mind is a cut above other healers of her Level, but Hedin, whom even Riveria acknowledges as having the highest total Mind in the city, keeps his barrage going to outlast her.[@ars-gullveig.fm18-hedin]
 
 {{nocite}} Notable uses and open questions for Ars Gullveig are on the combined page: [[magic#ars-gullveig|Magic § Ars Gullveig]].
 
@@ -107,3 +107,5 @@ The narration calls it an auto-heal that "even Crozzo’s [[magic-sword|magic sw
 [@zeo-gullveig.fm18-cast]: FM18 | Chapter 8: The Great Familia War | The chant in three pieces; golden magic circle; the einherjar revived.
 [@ars-gullveig.fm18-ars]: FM18 | Chapter 8: The Great Familia War | Cast in advance; "auto-heal"; regeneration in the flames; rare magic.
 [@ars-gullveig.fm18-hedin]: FM18 | Chapter 9: Flower Language for You | "Ars Gullveig!" under Hedin's lightning; "a Level 4’s magic"; "It’s finite"; the Mind contest.
+[@fm18-rona]: FM18 | Chapter 8: The Great Familia War | "you will support me, Rona, Ilda"; "The healers and herbalists known as the Andhrímnir snapped to attention".
+[@fm18-rona2]: FM18 | Chapter 9: Flower Language for You | "I will heal Hegni! He will rise at once! Rona! You and the others tend to the Einherjar!"

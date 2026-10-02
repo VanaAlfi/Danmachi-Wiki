@@ -6,8 +6,8 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Goddess of fertility and the harvest whose Familia grows most of Orario's food. In Sword Oratoria 12 she is suspected of being Enyo, but she has been forced into silence by Dionysus, who holds her followers hostage.",
-  "aliases": ["Demeter Familia", "Wheat Hall", "Persephone"],
-  "spoilers": "DanMachi Vols. 16 and 18, Sword Oratoria Vols. 1, 9, 11–13, Familia Chronicle Vol. 1, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
+  "aliases": ["Demeter Familia", "Wheat Hall", "Persephone", "Damia"],
+  "spoilers": "DanMachi Vols. 2, 16 and 18, Sword Oratoria Vols. 1, 9, 11–13, Familia Chronicle Vol. 1, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
   "related": ["dionysus", "runoa", "hermes", "loki", "freya", "hestia"],
   "infobox": {
     "title": "Demeter",
@@ -36,11 +36,11 @@ Demeter Familia is a farming and commerce Familia: it grows grain, vegetables an
 
 ## The goddess
 
-[[hestia|Hestia]] greets her in a bathhouse in DanMachi 2 with "it's been a long time!"[@fm02-baths] She is one of the harvest goddesses honoured at the [[elegia#goddess-festival|Goddess Festival]] in DanMachi 16, and the festival is opened every year by her proclamation.[@fm16-festival] In DanMachi 18 Hestia is told that Demeter will not help against [[freya|Freya]]: her Familia is exhausted, and she gets along with Freya.[@fm18-freya] {{statement}} Before the Familia War, a waitress of the Benevolent Mistress tells [[anya-fromel|Anya]]: "We begged Lord Njǫrðr and Lady Demeter." (see [[njordr|Njörðr]])[@fm18-waitresses] During the war Demeter comes with Astrea and Njörðr to Freya's island.[@fm18-island]
+[[hestia|Hestia]] greets her in a bathhouse in DanMachi 2 with "it's been a long time!"[@fm02-baths] She is one of the harvest goddesses honoured at the [[elegia#goddess-festival|Goddess Festival]] in DanMachi 16, with Damia, Hathor and [[freya|Freya]], and the festival is opened every year by her proclamation.[@fm16-festival] In DanMachi 18 Hestia is told that Demeter will not help against [[freya|Freya]]: her Familia is exhausted, and she gets along with Freya.[@fm18-freya] {{statement}} Before the Familia War, a waitress of the Benevolent Mistress tells [[anya-fromel|Anya]]: "We begged Lord Njǫrðr and Lady Demeter." (see [[njordr|Njörðr]])[@fm18-waitresses] During the war Demeter comes with Astrea and Njörðr to Freya's island.[@fm18-island]
 
 ## Enyo's scapegoat
 
-In Sword Oratoria 1 Demeter pours Loki a glass of wine and teases Dionysus.[@so01-wine] In Sword Oratoria 12 an investigation reported to [[ouranos|Ouranos]] and [[fels|Fels]] turns up enough evidence to suspect her of being Enyo; Fels refuses at first to believe it. She alone could leave the city freely, as the smuggling of [[xenos|Xenos]] and man-eating flowers required, and she alone could gather the special grapes used for the divine wine that drugged Dionysus.[@so12-suspect] Then Demeter Familia vanishes, goddess and all, and is traced to a storehouse in the Beor Mountains north of Orario.[@so12-storehouse]
+In Sword Oratoria 1 Demeter pours Loki a glass of wine and teases Dionysus.[@so01-wine] In Sword Oratoria 12 an investigation reported to [[ouranos|Ouranos]] and [[fels|Fels]] turns up enough evidence to suspect her of being Enyo; Fels refuses at first to believe it. She alone could leave the city freely, as the smuggling of [[xenos|Xenos]] and man-eating flowers required, and she alone could gather the special grapes used for the divine wine that drugged Dionysus.[@so12-suspect] Then Demeter Familia vanishes, goddess and all, and is traced to a storehouse in the [[beor-mountains|Beor Mountains]] north of Orario.[@so12-storehouse]
 
 [[hermes|Hermes]] finds her there alone. She insists that she is the mastermind, but he refuses to believe it.[@so12-hermes, so12-confession] She then tells him the truth. A god she had gone to look into kidnapped Persephone and her other followers, and when she refused to obey he killed them one by one until she gave in. Through the Falna she could feel the number of her Blessings shrinking whenever she tried to send a signal.[@so12-confession] [[takemikazuchi|Takemikazuchi]] had noticed something was wrong and asked Hermes to help her.[@so12-confession] Enyo, she tells Hermes, is Dionysus.[@so12-enyo]
 

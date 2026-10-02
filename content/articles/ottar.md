@@ -61,7 +61,7 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 **Hildis Vini** is Ottar's one and only magic.[@hildis-vini.fc02-udaeus] It is a simple enhancement spell: golden light covers him and his weapon and raises the weapon's power, and with Ottar's strength behind it the result is devastating.[@hildis-vini.ar03-zald, hildis-vini.fm18-slash]
 
 - **User:** Ottar[@hildis-vini.fc02-udaeus]
-- **Type:** Enhancement ("not even an enchantment")[@hildis-vini.fm18-slash]
+- **Type:** Enhancement ("It wasn’t even an enchantment")[@hildis-vini.fm18-slash]
 - **Status entry:** "???"; no description printed[@hildis-vini.fc02-sheet]
 - **Effect:** Raises his weapon's power[@hildis-vini.ar03-zald, hildis-vini.fm20-afterglow]
 - **Chant:** Short; three sentences[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
@@ -87,7 +87,7 @@ Familia Chronicle 2 and DanMachi 18 both call it a short cast.[@hildis-vini.fc02
 
 Ottar describes it himself in Astrea Record 3: golden light envelops his body and his sword, turning it into "a blade of radiant light"; the spell "did nothing but raise my weapon's power", but his strength crossed with his magic makes a force no one can stand against.[@hildis-vini.ar03-zald]
 
-DanMachi 18 insists that it is "a simple enhancement spell", "not even an enchantment", so it should not let him hit anything beyond his blade's reach. Yet his enhanced slash cuts through the air and blows away everything in its path.[@hildis-vini.fm18-slash] In DanMachi 20 [[leon-verdenberg|Leon]] explains the reason: his and Ottar's enhancement magic only increases physical strength and weapon power, and it is a separate technique, the *afterglow*, that lets them "erase the distance" and strike far-off targets.[@hildis-vini.fm20-afterglow]
+DanMachi 18 insists that it is "a simple enhancement spell": "It wasn’t even an enchantment", so it should not let him hit anything beyond his blade's reach. Yet his enhanced slash cuts through the air and blows away everything in its path.[@hildis-vini.fm18-slash] In DanMachi 20 [[leon-verdenberg|Leon]] explains the reason: his and Ottar's enhancement magic only increases physical strength and weapon power, and it is a separate technique, the *afterglow*, that lets them "erase the distance" and strike far-off targets.[@hildis-vini.fm20-afterglow]
 
 #### Casting it in battle {#hildis-vini-casting-it-in-battle}
 

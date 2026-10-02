@@ -10,7 +10,7 @@
   "spoilers": "DanMachi Vol. 18, Sword Oratoria Vols. 6, 7, 13, Familia Chronicle Vol. 1, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["loki", "chloe", "demeter", "barca-perdix", "ishtar", "riveria"],
   "sections": [
-    {"anchor": "port-meren", "title": "Port Meren", "summary": "Orario's port to the southwest on the brackish Lolog Lake, where Njörðr Familia runs the fishing; once Poseidon Familia's base.", "aliases": ["Meren", "Lolog Lake", "Nóatún"]}
+    {"anchor": "port-meren", "title": "Port Meren", "summary": "Orario's port to the southwest on the brackish Lolog Lake, where Njörðr Familia runs the fishing; once Poseidon Familia's base.", "aliases": ["Meren", "Lolog Lake", "Nóatún", "Melen"]}
   ],
   "infobox": {
     "title": "Njörðr",

@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The contest of representatives between Orario and the School District in DanMachi 20, declared by Hermes and sponsored by the Denatus to settle the quarrel over the Guild's demand for the School District's orichalcum. Over six days the sides split four contests, and the final bout, Leon Verdenberg against Bell, is broken off by a dragon: a 2-2-1 draw that Leon and Balder had planned all along.",
-  "aliases": ["Orichalcum requisition", "Shaft plan", "Battle of representatives"],
+  "aliases": ["Orichalcum requisition", "Shaft plan", "Battle of representatives", "Nernati", "Nernatti"],
   "spoilers": "DanMachi Vol. 20",
   "related": ["school-district", "balder-class", "leon-verdenberg", "hermes", "balder", "denatus", "royman", "bell-cranell", "nina-tulle", "war-game"],
   "infobox": {

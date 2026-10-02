@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of Astrea, goddess of justice and order. It fought the Evils through Orario's dark ages, and was destroyed in an ambush five years before DanMachi 13, leaving Lyu Leon as its only survivor.",
-  "aliases": ["Noin", "Neze", "Asta", "Lyana", "Celty", "Iska", "Maryu", "Marieux"],
+  "aliases": ["Noin", "Neze", "Asta", "Lyana", "Celty", "Iska", "Maryu", "Marieux", "Lyana Lietz", "Ryana Lietz", "Asta Nox", "Asta Knox", "Maryu Réage", "Maryuu Reage", "Noin Unic", "Neze Rankett", "Iska Bra", "Celty Srowa"],
   "spoilers": "DanMachi Vols. 5–19, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
   "related": ["lyu-leon", "alize-lovell", "gojouno-kaguya", "lyra", "hermes", "ouranos", "knossos", "dungeon", "magic"],
   "infobox": {
@@ -30,7 +30,7 @@
 
 ## Members
 
-The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm14-ten, fm15-circle] Astrea Record 2 prints Maryu's name as *Marieux*.[@ar02-marieux]
+The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm14-ten, fm15-circle] Astrea Record 2 prints Maryu's name as *Marieux*.[@ar02-marieux] Familia Chronicle 3 gives the companions' full names when Lyu tells Astrea's new followers about their predecessors: "the human attacker, Noin Unic", "the dwarf defender, the brave Asta Nox, who protected everyone with her small frame", "the werewolf middle guard, Neze Rankett", "the Amazon brawler, Iska Bra", "the human healer, Maryu Réage, who was a beacon of tolerance and motherliness", "the human wandering mage, Lyana Lietz", from [[altena|Altena]], and the elf Celty Srowa, "the only one actually younger than Lyu".[@fc03-lietz, fc03-names]
 
 | Member | Notes |
 |---|---|
@@ -86,3 +86,5 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@skills.ar03-rubrud]: AR03 | Chapter 4: Apocalypse Cometh | Alize's Skill, Rubrud Beckia.
 [@skills.ar03-fivelights]: AR03 | Chapter 7: What She Wished For | The Gojouno clan's paired Skill and spell, Five Lights.
 [@skills.ar03-sheet]: AR03 | | Illustrated character sheet, pp. 266–267 (Level 4): Batrea Acras, Rubrud Beckia.
+[@fc03-lietz]: FC03 | The Locus of Stars | "About the human wandering mage, Lyana Lietz, who originally came from the distant magical land of Altena."
+[@fc03-names]: FC03 | The Locus of Stars | "She was happy to tell Schau and the others about their great predecessors"; "the human attacker, Noin Unic"; "the brave Asta Nox"; "the werewolf middle guard, Neze Rankett"; "the Amazon brawler, Iska Bra"; "the human healer, Maryu Réage"; "Celty Srowa, who was the only one actually younger than Lyu".

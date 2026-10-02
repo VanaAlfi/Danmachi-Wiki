@@ -10,7 +10,7 @@
   "spoilers": "DanMachi Vols. 2–15",
   "related": ["soma", "lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
   "sections": [
-    {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": []}
+    {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": ["Canoe Belway", "Gedo", "Ged Raish"]}
   ],
   "infobox": {
     "title": "Soma Familia",
@@ -55,7 +55,7 @@ By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped usin
 > - How much Soma knew about the individual crimes committed within his Familia.[@fm06-soma]
 
 [@fm02-soma]: FM02 | | Soma's divine wine and reward cycle.
-[@fm02-lilly]: FM02 | | Lilly born into Soma Familia.
+[@fm02-lilly]: FM02 | Chapter 5: Reset | Lilly born into Soma Familia.
 [@fm02-kanu]: FM02 | Chapter 5: Reset | "Get this, Kanu. The runt had a magic sword!"; "An adult male animal person, the one called Kanu"; "I suggest you leave it all on the ground."; "K-killer ant…?!"
 [@fm02-decoy]: FM02 | Chapter 5: Reset | "A key to a gnome rental storage unit"; "Buy us some time."; "Without money, you’re useless."
 [@fm03-cargo]: FM03 | Chapter 4: The Meaning of Adventure | "a group of Amazons fighting against a giant of a man"; "a goddess’s plan to keep things interesting"; "protect a large cargo box"; "loot from the lower Dungeon"; "crushing one of Kanu’s allies into a pulp"; "a massive cleaver that happened to be in the cargo box".
@@ -71,5 +71,5 @@ By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped usin
 [@fm06-apology]: FM06 | Chapter 5: Our War Game | Soma's apology; conditions improve.
 [@fm10-zanis]: FM10 | Chapter 9: Dreams of Beasts | Zanis Rustra stripped of his position.
 [@fm10-chandra]: FM10 | Chapter 9: Dreams of Beasts | Chandra Ihit; the end of the reward system.
-[@fm15-soma]: FM15 | | Soma senses Lilly's growth.
+[@fm15-soma]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Soma senses Lilly's growth.
 [@fm17-arcanum]: FM17 | Chapter 3: The Field of Battle | Ouranos: "Whether it be Hephaistos’s forging or Soma’s wine…Freya’s beauty falls within the same bounds."; "That was not the same as arcanum."

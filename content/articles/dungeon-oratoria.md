@@ -6,7 +6,7 @@
   "reviewed": "2026-10-02",
   "continuity": "light-novel",
   "summary": "The epic of the heroes of the Ancient Times, first written over a thousand years ago and copied ever since. Bell's grandfather gave him a picture-book version, his childhood 'bible'; its final chapter tells of Albert, the strongest hero.",
-  "aliases": ["Labyrinth's scripture", "Hulrand of Water and Light"],
+  "aliases": ["Labyrinth's scripture", "Hulrand of Water and Light", "Ivelda", "Evelda", "Hulrand", "Fulland Howls", "Dine", "Belinda Altanetta", "Couple's Pendant"],
   "spoilers": "DanMachi Vols. 1, 2, 6, 7, 15, 16, Sword Oratoria Vols. 4, 5, 14 and Minor Myths and Legends Vol. 1",
   "related": ["bell-cranell", "three-great-quests", "elegia", "corrupted-spirit", "aiz-wallenstein", "races"],
   "infobox": {
@@ -35,8 +35,9 @@ Sword Oratoria 4 traces its origin to the spirits, who gave heroes their protect
 - **Albert:** "the strongest hero in the Dungeon Oratoria", who appears in its final chapter; his death marked the beginning of the age of the gods. He also appears in many other tales, though the copy at hand in DanMachi 16 does not give his name Valdstejn (see [[three-great-quests|The Three Great Quests]]).[@fm15-albert, fm16-final, fm16-valdstejn]
 - **The great spirit:** Sword Oratoria 5 speaks of "the great spirit of the Dungeon Oratoria", Aria, closely connected to the life of Albert the Great (see [[aiz-wallenstein|Aiz Wallenstein]]).[@so05-aria]
 - **The final monster:** a "cruel and merciless monster" appears in the book's final chapter.[@fm06-scripture]
-- **Hulrand of Water and Light:** a well-known epic in the book, tied to Hulrand's Cathedral in Orario.[@fm16-hulrand]
+- **Hulrand of Water and Light:** a well-known epic in the book, tied to Hulrand's Cathedral in Orario.[@fm16-hulrand] In DanMachi 16 Bell tells Syr the story: the knight Hulrand swore his love to a spirit, but "in the end, he chose the saint" who had long supported him; the spirit's tears formed a lake and she tried to kill him, yet she died protecting him from monsters, and he raised the cathedral, where her coffin is still kept. She "never once revealed her name" and is "only described as an undine, a water spirit", so the cathedral bears the knight's name; the saint is not named in the checked text either.[@fm16-epic] DanMachi 16's equipment card for a *Couple's Pendant*, whose two halves are inscribed in Koine with *Knight* and *Spirit*, quotes the saint's soliloquy from the epic's sixth chapter.[@fm16-pendant]
 - **Seldia:** Sword Oratoria 14 says that the eternal saint Seldia, the first high elf to leave the forest, features in it; Sword Oratoria 5 prints her name *Celdia* (see [[races#high-elf|High elf]]).[@so14-seldia, so05-celdia]
+- **Ivelda:** asked who the women in Albert's party were, Bell names "the Amazonian empress Ivelda" and the high elf queen Celdia (Sword Oratoria 5). In DanMachi 16 "the Amazon empress Ivelda" is among the thirty-one heroes whose statues line the Bridge of Heroes, with the knight Hulrand, Saruon, Galzanef, Sidhu, Sphia and the high elf saint Seldia.[@so05-ivelda, fm16-heroes]
 - **The heroes' graves:** the [[elegia#first-graveyard|First Graveyard]] is the grave of the ancient heroes whose exploits fill the book.[@fm15-graveyard]
 
 ## Bell and the book {#bell}
@@ -62,3 +63,7 @@ The book was [[bell-cranell|Bell]]'s grandfather's "bible", "filled with stories
 [@so05-celdia]: SO05 | Interlude: Flip Side of the Compromise | "the high elf queen, Celdia".
 [@so14-seldia]: SO14 | Chapter 2: The High Elf’s Departure | "the eternal saint Seldia, who featured in the Dungeon Oratoria".
 [@ss01-classic]: SS01 | | "Dungeon Oratoria’s a classic" (story heading not in the evidence map).
+[@fm16-epic]: FM16 | Chapter 4: Full Princess Panic! | "When Hulrand met the spirit, he swore his love to her"; "in the end, he chose the saint"; "her tears formed a lake"; "She sacrificed herself to save Hulrand’s life."; "he raised this cathedral here"; "The spirit who was with Hulrand never once revealed her name"; "only described as an undine, a water spirit".
+[@fm16-pendant]: FM16 | Epilogue: “Alea Iacta Est” II | Equipment card "COUPLE’S PENDANT": "A SILVER ACCESSORY CREATED BY LINKING TOGETHER TWO PAIRED PIECES."; "KNIGHT AND SPIRIT ARE INSCRIBED IN KOINE ON THE TWO HALVES."; "Extract from chapter six of Hulrand of Water and Light, the saint’s soliloquy."
+[@so05-ivelda]: SO05 | Interlude: Flip Side of the Compromise | Bell, asked about the women in Albert's party: "There was, uh…the Amazonian empress Ivelda and…the high elf queen, Celdia."
+[@fm16-heroes]: FM16 | Chapter 5: The Proof of ( ) | "The Bridge of Heroes…"; "the thirty-one heroes who had accomplished the most impressive feats"; "The knight Hulrand is there. As is Saruon, descendant of the wolfen emperor. And the Amazon empress Ivelda."

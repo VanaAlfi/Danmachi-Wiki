@@ -6,7 +6,7 @@
   "reviewed": "2026-09-29",
   "continuity": "light-novel",
   "summary": "Mia Grand's three-storey stone tavern on West Main Street in Orario, where Syr, Anya, Lyu, Chloe and Runoa work.",
-  "aliases": ["Benevolent Mistress"],
+  "aliases": ["Benevolent Mistress", "Hostess of Fertility", "Mei", "May"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 9, Familia Chronicle Vol. 1 and Astrea Record Vol. 2",
   "related": ["anya-fromel", "mia-grand", "syr-flover", "lyu-leon", "chloe", "runoa", "orario"],
   "infobox": {
@@ -76,6 +76,7 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 | [[lyu-leon|Lyu]] | Waitress | Joins in Familia Chronicle 1's tavern story.[@fc01-recruit] |
 | [[chloe|Chloe]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
 | [[runoa|Runoa]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
+| Mei | Staff | A catgirl who "made all of the tavern’s signature dishes" for the welcome party in Familia Chronicle 1; in DanMachi 16 Syr hushes Runoa so as not to "wake Mei and the others".[@fc01-mei, fm16-mei] |
 
 {{nocite}} This is not a complete staff list; other waitresses appear in group scenes without names.
 
@@ -105,3 +106,5 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 [@fm18-syr]: FM18 | Epilogue: Double Cast |
 [@fm20-bed]: FM20 | Chapter 1: Orario Rumble | Syr's account.
 [@ar02-conflict]: AR02 | Chapter 3: A Gray Wildflower |
+[@fc01-mei]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "The catgirl Mei made all of the tavern’s signature dishes and lined them up on the table."
+[@fm16-mei]: FM16 | Chapter 1: A Stormy Love Letter | "Shhh. You’re too loud, Runoa. You’ll wake Mei and the others."

@@ -11,9 +11,9 @@
   "related": ["daedalus-street", "syr-flover", "bell-cranell", "hestia", "wiene", "finn-deimne", "asterios", "knossos"],
   "sections": [
     {"anchor": "maria", "title": "Mother Maria", "summary": "The elderly woman who runs the orphanage: once left behind by an adventurer, she took in an abandoned child and then many more.", "aliases": ["Maria"]},
-    {"anchor": "lai", "title": "Lai", "summary": "The human boy who has lived at the orphanage longest and wants to be an adventurer; he throws a rock at the barbarian to save Bell.", "aliases": []},
+    {"anchor": "lai", "title": "Lai", "summary": "The human boy who has lived at the orphanage longest and wants to be an adventurer; he throws a rock at the barbarian to save Bell.", "aliases": ["Rye"]},
     {"anchor": "fina", "title": "Fina", "summary": "The chienthrope girl who leads the children with Lai; printed twice as Fiona.", "aliases": ["Fiona"]},
-    {"anchor": "ruu", "title": "Ruu", "summary": "The dreamy half-elf child whom Wiene shields from falling rubble in DanMachi 11.", "aliases": []},
+    {"anchor": "ruu", "title": "Ruu", "summary": "The dreamy half-elf child whom Wiene shields from falling rubble in DanMachi 11.", "aliases": ["Roux"]},
     {"anchor": "ossian", "title": "Ossian", "summary": "A small prum boy of the orphanage who tells Finn in Sword Oratoria 10 that his stories make him feel brave.", "aliases": []}
   ],
   "infobox": {
@@ -45,15 +45,17 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 ## Mother Maria {#maria}
 
-**Mother Maria** is an elderly woman with long black hair tied up on her head, thin but calm; all the children call her "Mother".[@fm08-maria] DanMachi 11 calls her "the elderly nun".[@fm11-maria] She was once one of the women left behind by an adventurer, and never joined a Familia. She took in a child abandoned on a rainy night and raised it as her own; as that happened again and again, the orphanage came to be. "At first, it was out of pity."[@fm08-maria, fm08-origin] She fears for the children who dream of the Dungeon.[@fm08-dungeon]
+**Mother Maria** is an elderly woman with long black hair tied up on her head, thin but calm; all the children call her "Mother".[@fm08-maria] DanMachi 11 calls her "the elderly nun".[@fm11-maria] She was once one of the women left behind by an adventurer, and never joined a Familia. She took in a child abandoned on a rainy night and raised it as her own; as that happened again and again, the orphanage came to be. "At first, it was out of pity."[@fm08-maria, fm08-origin] She fears for the children who dream of the Dungeon.[@fm08-dungeon] In DanMachi 11 she and [[syr-flover|Syr]] visit the other orphanages of the Labyrinth District to urge them to evacuate.[@fm11-evacuate] When Ruu goes missing, "the elderly nun" begs Ouka and Chigusa to find him and goes with them to show the way to the church; in the plaza, separated from the children, she screams "Run, everyone!!"[@fm11-maria, fm11-search, fm11-plaza] Afterwards she leads the children to Hestia Familia's home to apologise to Bell.[@fm12-visit] At the harvest festival of DanMachi 16, when Bell explains why he has brought Syr, "Maria’s concern is replaced by a gentle, motherly smile"; in DanMachi 18 she can only hug the children tight as they watch Bell in the Great Familia War.[@fm16-maria, fm18-hug]
 
 ## Lai {#lai}
 
 **Lai** ("just Lai") is a human boy who has lived at the orphanage the longest and turns eleven in DanMachi 8. His skin is covered in small scratches, and he keeps asking Bell about the Dungeon; Bell is sure he wants to be an adventurer.[@fm08-lai] When a [[monsters#barbarian|barbarian]] attacks Bell in the passage behind the orphanage, Lai throws a rock at it to draw it away.[@fm08-barbarian]
 
+After the Xenos affair of DanMachi 11 Lai steps in front of Fina and Ruu "as if to protect the other two" and asks Bell, "Why did you do it?", his voice full of "the same judgment, hatred, and disappointment as the other townsfolk", before walking away.[@fm11-why, fm11-traitor] When Ruu goes missing he and Fina beg Ouka and Chigusa for help and cling to Ouka, ignoring Maria.[@fm11-search] In the plaza, when the black minotaur steps toward the three children, Lai, who "had felt Bell had betrayed him", watches Bell fight, hears Mord and yells "Go get ’im, big brotheeeerrrrrrr!!"[@fm11-lai-cheer] He comes with Maria to apologise in DanMachi 12.[@fm12-visit] In Sword Oratoria 10 he meets Finn but "could not bring himself to be happy", and drags Ossian away in case "One of the monsters might show up".[@so10-lai] At the harvest festival of DanMachi 16 he proudly tells Bell that the children helped a dwarf brew the ale they sell, and in DanMachi 18 he chokes up cheering Bell on.[@fm16-stall, fm18-watch]
+
 ## Fina {#fina}
 
-**Fina** is a [[races#chienthrope|chienthrope]] girl with long cream-coloured hair and a cream-coloured tail. She and Lai are the oldest of the children and their leaders.[@fm08-fina, fm16-fina] DanMachi 18 prints her name twice as *Fiona*.[@fm18-watch]
+**Fina** is a [[races#chienthrope|chienthrope]] girl with long cream-coloured hair and a cream-coloured tail. She and Lai are the oldest of the children and their leaders.[@fm08-fina, fm16-fina] DanMachi 18 prints her name twice as *Fiona*.[@fm18-watch] In DanMachi 8 she and Lai tell Bell they heard the voice in the ruins "as a test of courage", and when they go down to find it "Fina is a little frightened".[@fm08-courage] In DanMachi 11, after the Xenos affair, she can only say "B-big brother…" before she and Ruu follow Lai away from Bell;[@fm11-turn] later, in the plaza, her and Ruu's "earnest cheers" ring out with Mord's shouts during Bell's fight with [[asterios|Asterios]].[@fm11-cheers] At the orphanage's party in DanMachi 16 she clings to Bell and asks where he and Syr will "spend the night", until Maria covers her mouth.[@fm16-party]
 
 ## Ruu {#ruu}
 
@@ -61,10 +63,13 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 - **DanMachi 11:** Ruu runs back to the orphanage alone and is found holding a kitten when a building collapses. [[wiene|Wiene]] shields Ruu; to onlookers it looks as if the monster attacked the child.[@fm11-ruu, fm11-wiene]
 - **DanMachi 12:** "Big brother…You were right. Thank you…for fighting for all of us." Bell feels the words affirm the Xenos.[@fm12-ruu]
+- **Later:** in Sword Oratoria 10 the other orphans scream Ruu's name as they chase after the runaway half-elf.[@so10-ruu] At the harvest festival Ruu clings to Bell's arm and, with Fina, brings guests into the dance; in DanMachi 18 Ruu sobs "as he tried to cheer Bell on", and in DanMachi 20 Lai, Fina and Ruu lean over the railings, "screaming their lungs out" for Bell.[@fm16-ruu, fm16-dance, fm18-hug, fm20-cheer]
 
 ## Ossian {#ossian}
 
-**Ossian** is a small [[races#prum|prum]] boy of the orphanage.[@so10-ossian, fm16-ossian] In Sword Oratoria 10 he tells [[finn-deimne|Finn]] that he is "short and not very strong" and teased at the orphanage, but that Finn's adventures make him feel brave. Finn answers as Braver, though he feels empty.[@so10-ossian] Syr then comes to take the children home, as Maria is worried.[@so10-syr] At the harvest festival of DanMachi 16 he falls while dancing, and Syr hugs him.[@fm16-ossian]
+**Ossian** is a small [[races#prum|prum]] boy of the orphanage.[@so10-ossian, fm16-ossian] In Sword Oratoria 10 he tells [[finn-deimne|Finn]] that he is "short and not very strong" and teased at the orphanage, but that Finn's adventures make him feel brave. Finn answers as Braver, though he feels empty.[@so10-ossian] Syr then comes to take the children home, as Maria is worried.[@so10-syr] At the harvest festival of DanMachi 16 he falls while dancing, and Syr hugs him.[@fm16-ossian] Encouraged by her, he "manages to crack a smile", and Syr says, "I just wanted Ossian and everyone to smile."[@fm16-smile]
+
+In Sword Oratoria 10 Lai drags him away from Finn in case the monsters appear, and he pleads that he does not want "to be betrayed again"; leaving, he glances back at Finn once more.[@so10-lai] During Bell's fight with the gargoyle he watches "in shock", and "The disappointment in his eyes gradually faded".[@so10-ossian-plaza]
 
 ## History {#history}
 
@@ -114,3 +119,18 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 [@so10-ossian]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "I-I’m short and not very strong"; "everyone at the orphanage makes fun of me"; "Ossian!"; Finn's answer as Braver.
 [@so10-syr]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | Syr: "Miss Maria is getting worried. Why don’t we all head back?"
 [@so12-hestia]: SO12 | Chapter 2: An Evil Omen | "residents of the slum had been moved to temporary residences in the northwest"; Hestia "had developed an attachment to the orphanage".
+[@fm08-courage]: FM08 | Chapter 5: The City Girl’s Secret | "Lai and Fina tell me about how they walked through here in the middle of the night recently as a test of courage and heard it firsthand."; "Lai is excited, Fina is a little frightened, and Ruu is the same as always."
+[@fm11-turn]: FM11 | | Printed heading "Chapter 1: The White Rabbit Brought Low" (not in the evidence map): "B-big brother…" says Fina; "Fina and Ruu glance at me. Then, without a word, they follow Lai."
+[@fm11-cheers]: FM11 | Chapter 7: The Return of the Hero | "Mord’s thundering shouts echoed alongside Fina’s and Ruu’s earnest cheers."
+[@fm16-party]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Big Brother!" Fina cheerfully clings onto me.; "Big Bro! Where are you going to spend the night with Big Sis?"; "Maria covers the innocent little girl’s mouth".
+[@fm11-search]: FM11 | | Printed heading "Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze" (not in the evidence map): "Lai’s and Fina’s requests surprised Chigusa and Ouka."; "Ignoring her, he and Fina clung to Ouka before she could tell them it was too dangerous."; "Please let me go with you! I’ll show you the way to the church!"
+[@fm11-why]: FM11 | | Printed heading "Chapter 1: The White Rabbit Brought Low" (not in the evidence map): "As I stand there silently, Lai, the human, leans forward as if to protect the other two."; "Why did you do it?"; "his voice full of the same judgment, hatred, and disappointment as the other townsfolk".
+[@fm11-lai-cheer]: FM11 | Chapter 7: The Return of the Hero | "It took a step toward Lai, Fina, and Ruu as if it was searching for something."; "Lai had felt Bell had betrayed him, yet his memories of him were happy."; "Lai turned his head to look at Mord’s"; "Go get ’im, big brotheeeerrrrrrr!!"
+[@so10-lai]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "it seemed as if Lai wanted to celebrate meeting a first-tier adventurer, but for some reason, he could not bring himself to be happy"; "One of the monsters might show up"; "grabbing Ossian’s arm to drag him away"; "The young boy spoke as though he was pleading, saying, I don’t want to be betrayed again."; "After glancing back at Finn one more time, he followed Lai and the other two."
+[@so10-ossian-plaza]: SO10 | Chapter 6: The Hero’s Self-Denial | "Among a group of human, chienthrope, and half-elf orphans, Ossian the prum boy was there, watching Bell’s battle in shock. The disappointment in his eyes gradually faded".
+[@so10-ruu]: SO10 | Interlude: Their Respective Battles | "screamed the other orphans who chased after the half-elf".
+[@fm16-maria]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "the reason we came here is because I thought that Syr would be able to enjoy herself here with them"; "Maria’s concern is replaced by a gentle, motherly smile."
+[@fm16-stall]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Lai and the other children from the orphanage have their own little stall open, too."; "A nice older dwarf said ale is the best for making money during a festival! And we helped him brew it!"; "Lai says, puffing his chest out proudly".
+[@fm16-dance]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Fina and Ruu take them by the hand and bring them into the dance circle."
+[@fm16-smile]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Encouraged by Syr’s beaming face, Ossian manages to crack a smile, too."; "I just wanted Ossian and everyone to smile."
+[@fm18-hug]: FM18 | Chapter 9: Flower Language for You | "The half-elf Ruu started to sob as he tried to cheer Bell on"; "Maria, the children’s mother, was at a loss for words, too, as she watched, unable to do anything but hug them tight."

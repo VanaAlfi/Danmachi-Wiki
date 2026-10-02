@@ -6,8 +6,8 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Elf adventurer known as Gale Wind, the last survivor of Astrea Familia, a waitress at The Benevolent Mistress, and from DanMachi 19 a member of Hestia Familia.",
-  "aliases": ["Lyu Lyon", "Gale Wind", "Lyu Astrea"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1 and 3",
+  "aliases": ["Lyu Lyon", "Gale Wind", "Lyu Astrea", "Lumirua Forest", "Lyumilua Forest", "Ryumilua Forest"],
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["the-benevolent-mistress", "hestia-familia", "bell-cranell", "syr-flover", "anya-fromel", "freya-familia", "hegni", "rivira", "magic"],
   "infobox": {
     "title": "Lyu Leon",
@@ -37,7 +37,7 @@ After the [[juggernaut|Juggernaut]] incident, Gale Wind is officially recorded a
 
 ## Background
 
-Lyu comes from Lumirua Forest, where her clan guards the holy tree. She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
+Lyu comes from Lumirua Forest, where her clan guards the holy tree; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
 
 Astrea Familia is later destroyed and Lyu is its only survivor. She persuades Astrea to leave Orario and then takes revenge on those responsible and anyone connected to them, which gets her blacklisted by the Guild.[@fm05-past] After her revenge, [[syr-flover|Syr]] finds and nurses her, and [[mia-grand|Mia]] gives her a place at the tavern.[@fc01-rescue]
 
@@ -374,3 +374,5 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@agris-arvensis.ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Agallis Arvesynce, enchantment, fire attribute, chant "Alga".
 [@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".
 [@agris-arvensis.ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Luminous Wind!" then "Arveria!"; "The pair’s combined attack"; "a flash of fire and starlight".
+[@ar01-lyumilua]: AR01 | | Printed heading "Chapter 4: Questioning Justice" (not in the evidence map): "if any of these turn out to be from Lyumilua Forest, where Lyu is from"; "the elves of Lyumilua Forest are the most prideful of all".
+[@ar02-lyumilua]: AR02 | | Printed heading "Chapter 11: Warriors’ Last Supper: FINAL WAR EVE" (not in the evidence map): "From Lyumilua Forest, where you were born."

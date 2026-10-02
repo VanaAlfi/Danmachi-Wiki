@@ -34,7 +34,7 @@ DanMachi 7 prints her name in the Far Eastern order, *Sanjyouno Haruhime*; later
 
 ## Ishtar Familia
 
-Haruhime was disowned at eleven, five years before DanMachi 7, and ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises [[phryne-jamil|Phryne]]'s strength.[@so06-caster]
+Haruhime was disowned at eleven, five years before DanMachi 7, after she ate, half asleep, "an extremely valuable divine offering": purified rice cakes that a visiting prum aristocrat was carrying to their deity Amaterasu.[@fm07-offering] She ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises [[phryne-jamil|Phryne]]'s strength.[@so06-caster]
 
 [[bell-cranell|Bell]] breaks the Killing Stone and rescues her. After Ishtar is sent back to the heavens, Haruhime asks to join Hestia Familia.[@fm07-rescue, fm07-join]
 
@@ -231,3 +231,4 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@kokonoe.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Full chant in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
 [@kokonoe.so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.
 [@fm20-title]: FM20 | Chapter 1: Orario Rumble | "And Haruhime will be Rikkou Kinshu!"; Lilly "the Little Marshal"; Hestia wins "inoffensive names for the two of them".
+[@fm07-offering]: FM07 | Chapter 2: Run, Cranell | "I was disowned when I was eleven."; "I ate an extremely valuable divine offering that was carried by one of my father’s guests."; "an offering of purified rice cakes to their deity Amaterasu"; "Haruhime ate all of them while sleepwalking".

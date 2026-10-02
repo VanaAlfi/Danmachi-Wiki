@@ -10,7 +10,7 @@
   "sections": [
     {"anchor": "dix-perdix", "title": "Dix Perdix", "summary": "Goggle-wearing leader of Ikelos Familia's hunters, addressed as Hazer; Barca Perdix's half-brother, killed in DanMachi 10.", "aliases": ["Dix", "Hazer"]}
   ],
-  "spoilers": "DanMachi Vols. 9 and 10 and Sword Oratoria Vols. 7 and 11",
+  "spoilers": "DanMachi Vols. 9, 10, 13 and Sword Oratoria Vols. 7 and 11",
   "related": ["ikelos", "xenos", "knossos", "hermes", "asterios", "wiene", "magic"],
   "infobox": {
     "title": "Ikelos Familia",
@@ -46,6 +46,10 @@ Among his hunters is Gran, a tall, muscular, bald man with a black tattoo over m
 - **The spear:** custom-made by a mage with a curse built in, so that what it cuts will not heal, even with potions or magic, while the curse lasts. He warns Bell that one bad hit will kill him.[@fm10-spear]
 - **Daedalus's heir:** he is one of Daedalus's descendants, whose ancestors spent a thousand years building Knossos without the Guild finding out. His "Daedalus Eye" lets him move anywhere in the labyrinth, and he was forced to read the blueprints in the Daedalus Notebook.[@fm10-daedalus, fm10-eye]
 - **His half-brother:** [[barca-perdix|Barca Perdix]], the "Hexer" who builds Knossos's traps, shares his mother but not his father. Barca had become "nothing more than a function" for expanding the labyrinth; Dix was shown the notebook only after he had a self of his own, suffered for it, and despised Knossos. Their only fraternal feeling was not trying to kill each other, for their mutual benefit.[@so07-barca, so11-brothers]
+- **Origin:** Ikelos tells [[hermes|Hermes]] that Daedalus "went a bit off the deep end after seeing the Dungeon" and left his notebook and blueprint to his descendants, who "did whatever it took to complete their dungeon", even "kidnapping women to make sure there would always be someone working on their piece". Dix was born from one such abductee; Ikelos calls it "Cursed blood…as Dix puts it."[@fm10-origin]
+- **Character:** he laughs as he fights, and in DanMachi 10 he toys with Bell, "smacking him around for fun with a smile". Ikelos tells him,"You better make me laugh this time as well, Dix." When Fels asks his hunters why they follow him, one answers that "it’s fun as hell" and that Dix brings them "all the money and women we could ever want": "Monsters are nothing but toys!"[@fm10-toying, fm09-laugh]
+- **Hunting Wiene:** with his god looking into Hestia Familia, Dix has his men "stake out Hestia Familia’s home" in DanMachi 9; in DanMachi 10 he seizes [[wiene|Wiene]] by her "silver-blue hair". After his death the last surviving hunter, Gran, hurls Dix's spearhead at her.[@fm09-stakeout, fm10-wiene, fm10-spearhead]
+- **Legacy:** DanMachi 13 recalls "the crimes of Ikelos Familia, headed by the brutal hunter Dix Perdix", as what brought [[knossos|Knossos]] to light and led to the Guild's operation to conquer it.[@fm13-knossos]
 
 ## Trafficking the Xenos
 
@@ -87,3 +91,10 @@ Loki Familia brings Ikelos before the Guild, where he admits his Familia's black
 [@so07-barca]: SO07 | Chapter 3: Feast of the Dead | Barca and Dix "share the same mother"; the red spear; Barca the Hexer.
 [@so07-bete]: SO07 | Chapter 4: The Sword’s Wind Calls | Bete defeats the curse by downing its victims; Dix's arms broken; escape through a door.
 [@so11-brothers]: SO11 | Chapter 5: Obsession Manifest | Born of the same womb; the notebook; mutual benefit their one fraternal feeling.
+[@fm10-origin]: FM10 | Chapter 9: Dreams of Beasts | Ikelos to Hermes: "Daedalus…Dix’s forefather went a bit off the deep end after seeing the Dungeon."; "did whatever it took to complete their dungeon"; "kidnapping women to make sure there would always be someone working on their piece"; "Ikelos went on to say that Dix was born from one such abductee."; "Cursed blood…as Dix puts it."
+[@fm10-toying]: FM10 | Chapter 9: Dreams of Beasts | "Dix was just toying with Bell, smacking him around for fun with a smile."; Fels: "Why do you follow that man’s orders?"; "’Cause it’s fun as hell, why else? Do what Dix says, and all the money and women we could ever want come to us! Monsters are nothing but toys!"
+[@fm09-laugh]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Ikelos: "You better make me laugh this time as well, Dix."
+[@fm09-stakeout]: FM09 | Epilogue: Boundless Malice | "Thanks to his deity investigating Hestia Familia"; "Dix had instructed his subordinates to stake out Hestia Familia’s home."
+[@fm10-wiene]: FM10 | Chapter 9: Dreams of Beasts | "Dix grabbed a fistful of the vouivre’s silver-blue hair with a faint grin on his lips."
+[@fm10-spearhead]: FM10 | Chapter 10: The Fool | "It was Ikelos Familia’s Gran."; "lost in his own rage, hurled Dix’s spearhead at Wiene".
+[@fm13-knossos]: FM13 | Chapter 1: Young Cranell’s Case File | "the crimes of Ikelos Familia, headed by the brutal hunter Dix Perdix, brought its existence to light".

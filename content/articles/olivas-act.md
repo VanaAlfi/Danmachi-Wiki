@@ -29,7 +29,7 @@
 
 ## The dark age
 
-In Astrea Record Olivas is one of the Evils' commanders, a Level 3 and one of the organisation's top members.[@ar01-commander] He greets the giant [[zald|Zald]] as "Apostle of chaos, Evils commander", and Zald looks at him as a lowly worm.[@ar01-commander] When news of the [[guild|Guild]]'s council leaks, he reads it to [[valletta|Valletta]] and the other leaders, and talks of the [[great-conflict|Great Conflict]] allies [[apate-and-alecto-familias|Apate Familia]] and Alecto Familia.[@ar01-leak] In the fighting he crushes an adventurer's skull with his fist.[@ar01-violence]
+In Astrea Record Olivas is one of the Evils' commanders, a Level 3 and one of the organisation's top members.[@ar01-commander] When the giant [[zald|Zald]] asks who he is, he introduces himself as "Apostle of chaos, Evils commander", and Zald looks at him as a lowly worm.[@ar01-commander] When news of the [[guild|Guild]]'s council leaks, he reads it to [[valletta|Valletta]] and the other leaders, and talks of the [[great-conflict|Great Conflict]] allies [[apate-and-alecto-familias|Apate Familia]] and Alecto Familia.[@ar01-leak] In the fighting he crushes an adventurer's skull with his fist.[@ar01-violence]
 
 In Astrea Record 2 he brutally defeats [[asfi|Asfi]] before a crowd. [[lyu-leon|Lyu]] then cuts through his troops, and his followers beg him to retreat.[@ar02-asfi, ar02-lyu, ar02-retreat] Afterwards the narration speaks of Olivas's defeat, and of the girls of [[astrea-familia|Astrea Familia]] having repelled his assault.[@ar02-defeat, ar02-repelled] In Astrea Record 3 he leaves the battlefield with the other lieutenants.[@ar03-retreat]
 

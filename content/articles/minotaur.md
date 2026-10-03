@@ -51,7 +51,7 @@ The victory makes Bell Level 2 in just over a month, by far the fastest Level Up
 | Volume | Encounter |
 |---|---|
 | DanMachi 5 | On the middle floors [[welf-crozzo|Welf]] meets a Minotaur for the first time and is so overwhelmed he forgets to breathe.[@fm05-welf] |
-| DanMachi 10 | A black minotaur appears in the Dungeon, something no one has heard of before. It is [[asterios|Asterios]], one of the [[xenos|Xenos]], described on his own page.[@fm10-black] |
+| DanMachi 10 | A black minotaur appears in the Dungeon, a monster that [[asfi|Asfi]], for all her knowledge, has never heard of. It is [[asterios|Asterios]], one of the [[xenos|Xenos]], described on his own page.[@fm10-black] |
 | DanMachi 19 | Bell's School District squad meets three Minotaurs, its first, and Bell kills them.[@fm19-minotaurs] Earlier in the volume Eina remarks that only half a year ago he was being chased by one on the fifth floor.[@fm19-memory] |
 
 Bell's Skill [[skills#ox-slayer|Ox Slayer]], which appears on his Level 4 card in DanMachi 12, enhances all his abilities "exponentially" when he fights minotaurs; the narration ties it to his struggle with "his old adversary".[@fm12-oxslayer]

@@ -100,7 +100,7 @@ Only one line is printed, in DanMachi 12, before the name: "Oh sunlight, may you
 
 #### Status entry {#cure-ephialtes-status-entry}
 
-The Level 2 sheet gives it a single note: it dispels harm. On the same sheet Soul Light is described as wide-area recovery magic, and her Skill [[skills#five-dimension-troia|Five-Dimension Troia]] is listed separately.[@cure-ephialtes.fm14-sheet]
+The Status entry on the Level 2 sheet is a single note: it dispels harm. The sheet's note on her staff, the Holy Crystal Rod, adds that Cassandra assumes the spell is for reversing the effects of poison and does not realise that it can also reverse the effects of curses. On the same sheet Soul Light is described as wide-area recovery magic, and her Skill [[skills#five-dimension-troia|Five-Dimension Troia]] is listed separately.[@cure-ephialtes.fm14-sheet]
 
 {{nocite}} Notable uses and open questions for Cure Ephialtes are on the combined page: [[magic#cure-ephialtes|Magic § Cure Ephialtes]].
 
@@ -131,7 +131,7 @@ The Level 2 sheet gives it a single note: it dispels harm. On the same sheet Sou
 [@fm18-daphne]: FM18 | Chapter 9: Flower Language for You | Hegni; she heals Daphne with all her Mind.
 [@ss01-curse]: SS01 | Plight of the Prophet | "Cassandra’s curse": no one believes her oracles.
 [@sheet.fm14-cassandra]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, Cure Ephialtes; Five-Dimension Troia; the Rabbit Charm.
-[@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia.
+[@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, pp. 166-167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia; the Holy Crystal Rod note: Cassandra assumes Cure Ephialtes reverses poison and does not realise it also reverses curses.
 [@soul-light.fm12-area]: FM12 | Chapter 6: The Hero’s Sacred Flame | Area healing, about ten meders; adjusts to the wounds.
 [@soul-light.fm12-ivy]: FM12 | | "Oh sunlight, may you beat back ruin. Soul light."; rare healing; the ivy grows.
 [@soul-light.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Cast into the centre of the fighting; "Recovery is coming!"

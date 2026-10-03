@@ -1405,7 +1405,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 
 - **Opening words:** "Distant forest sky…"[@luminous-wind.fc01-casino, luminous-wind.fm14-bridge]
 - **Excerpt (final line before the release):** "Imbue the light of stardust and strike down my enemy."[@luminous-wind.fc01-casino, luminous-wind.fm14-bridge]
-- Familia Chronicle 1 prints this version in full twice, in six pieces the first time.[@luminous-wind.fc01-casino, luminous-wind.fc01-tavern] DanMachi 14 prints it on the bridge in Chapter 12 and again in the Chapter 13 flashback to [[astrea-familia|Astrea Familia]]'s last fight.[@luminous-wind.fm14-bridge, luminous-wind.fm14-flashback]
+- Familia Chronicle 1 prints this version in full twice, in six pieces the first time.[@luminous-wind.fc01-casino, luminous-wind.fc01-tavern] DanMachi 14 prints it on the bridge in Chapter 12, again in the Chapter 13 flashback to [[astrea-familia|Astrea Familia]]'s last fight, and a third time in seven pieces, split by the fight, before she destroys the Juggernaut.[@luminous-wind.fm14-bridge, luminous-wind.fm14-flashback, luminous-wind.fm14-end]
 
 {{inference}} Version A and Version B are the same spell in two translations: they follow the same order of images (the forest sky, the stars of the night, a plea for starlight's protection, the wandering wind, the light of stardust), but no line is worded the same.[@luminous-wind.so05-cast, luminous-wind.fc01-casino]
 
@@ -1414,7 +1414,6 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 | Volume | What is printed |
 |---|---|
 | DanMachi 13 | Three short fragments, heard by Bell while he chases Lyu, then the release. Their wording fits neither version; for example, the opening is "Now, far away—in the infinite heavens—".[@luminous-wind.fm13-jura] |
-| DanMachi 14 | The last two lines of Version B only, before she destroys the Juggernaut.[@luminous-wind.fm14-end] |
 | DanMachi 17, DanMachi 20, Familia Chronicle 3 | Only the final line of Version B joined to the spell name. In DanMachi 17 the narration says she finishes a cast "she had been murmuring softly"; in DanMachi 20 a party member asks whether she was Concurrent Casting; the English does not name the speaker, and the Japanese address to Lyu shows it is not Bell but most likely the commander, Lilly.[@luminous-wind.fm17-escape, luminous-wind.fm20-cast, luminous-wind.fc03-uranda] |
 
 {{nocite}} These are partial prints, not a shorter version of the spell: in each case the text shows or implies that the rest of the chant was recited off-page.
@@ -2351,12 +2350,12 @@ Only one line is printed, in DanMachi 12, before the name: "Oh sunlight, may you
 
 #### Status entry {#cure-ephialtes-status-entry}
 
-The Level 2 sheet gives it a single note: it dispels harm. On the same sheet Soul Light is described as wide-area recovery magic, and her Skill [[skills#five-dimension-troia|Five-Dimension Troia]] is listed separately.[@cure-ephialtes.fm14-sheet]
+The Status entry on the Level 2 sheet is a single note: it dispels harm. The sheet's note on her staff, the Holy Crystal Rod, adds that Cassandra assumes the spell is for reversing the effects of poison and does not realise that it can also reverse the effects of curses. On the same sheet Soul Light is described as wide-area recovery magic, and her Skill [[skills#five-dimension-troia|Five-Dimension Troia]] is listed separately.[@cure-ephialtes.fm14-sheet]
 
 #### Open questions {#cure-ephialtes-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - What kinds of harm it dispels, its chant, and whether she uses it anywhere in the story.[@cure-ephialtes.fm14-sheet]
+> - Whether it dispels other kinds of harm besides poison and curses, its chant, and whether she uses it anywhere in the story.[@cure-ephialtes.fm14-sheet]
 
 ### Raumure {#raumure}
 
@@ -3734,7 +3733,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@luminous-wind.fm13-jura]: FM13 | Chapter 3: The True Intentions of Gale Wind | Fragments heard by Bell; passage blasted.
 [@luminous-wind.fm14-bridge]: FM14 | Chapter 12: Forlorn Hope in the Dungeon | Version B on the bridge.
 [@luminous-wind.fm14-flashback]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Version B in the flashback.
-[@luminous-wind.fm14-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Last lines only; forty-seven orbs.
+[@luminous-wind.fm14-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Version B in seven pieces before the final blow; forty-seven orbs.
 [@luminous-wind.fm17-escape]: FM17 | Chapter 5: The End of Her World | Final line only; "murmuring softly".
 [@luminous-wind.fm20-cast]: FM20 | Chapter 1: Orario Rumble | Final line only; "Were you concurrent casting?!" (speaker unnamed in the English; the Japanese uses an address Bell never uses for Lyu).
 [@luminous-wind.fc03-card]: FC03 | The Locus of Stars | Level 5 and 6 cards; Magic Control strengthens it.
@@ -4027,7 +4026,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@earth-raid.so07-sheet]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Magic Earth Raid.
 [@earth-raid.so14-sheet]: SO14 | | Illustrated Status sheet, p. 184 (Level 1): no Magic entry; Skill Dvergr Enhance.
 [@ardee-varma-spells.ar02-sheet]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): Magic Ghana Avimutta and Dia Kaumudi.
-[@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia.
+[@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, pp. 166-167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia; the Holy Crystal Rod note: Cassandra assumes Cure Ephialtes reverses poison and does not realise it also reverses curses.
 [@blaze-of-the-round.fm20-cast]: FM20 | Chapter 4: The Knight’s Afterglow | "Ring out, remnant light. Twelve seats of greatness." "Blaze of the Round."; a one-handed sword of golden light; Bell shatters it.
 [@blaze-of-the-round.fm20-gable]: FM20 | Chapter 4: The Knight’s Afterglow | "You’ve cleared Percil. Next is Gable."; twin blades; seventy-seven Firebolts; "Gable has been cleared. Now Darbazar."
 [@blaze-of-the-round.fm20-buff]: FM20 | Chapter 4: The Knight’s Afterglow | Nina: a buff; Leon: eleven weapons, "a very inefficient spell"; the boosted abilities; Ottar's transformation; Darbazar's heavy blows.

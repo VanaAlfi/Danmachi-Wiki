@@ -36,9 +36,9 @@ DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes
 
 ## Background {#background}
 
-The narration of DanMachi 5 tells how her winged sandals came to be: "Long ago, the young queen of an island nation" longed to travel the skies and "used Enigma to create an item that made her dream come true".[@fm05-talaria] In DanMachi 8 [[ares#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
+The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma (the Yen Press text says "the young queen of an island nation", who "used Enigma to create an item that made her dream come true").[@fm05-talaria] In DanMachi 8 [[ares#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
 
-{{inference}} Since Enigma is Asfi's own ability, the two passages point to her royal birth; the narration says "queen" and Marius "princess", and the checked text adds nothing more about her homeland.[@fm05-talaria, fm08-marius]
+{{inference}} Since Enigma is Asfi's own ability, the two passages point to her royal birth; in the Japanese the narration and Marius both speak of a princess of a sea nation (Yen Press prints "queen" in DanMachi 5), and the checked text adds nothing more about her homeland.[@fm05-talaria, fm08-marius]
 
 ## Hermes Familia
 
@@ -86,7 +86,7 @@ Perseus's items "were said to grant the user Magic and Skills through the power 
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many Hermes Familia members died on Floor 24 in Sword Oratoria 3, and who they were.[@so03-losses]
-> - Whether Asfi is the "young queen" of DanMachi 5 and the "princess" of Marius's rumour, and which island nation she came from.[@fm05-talaria, fm08-marius]
+> - Whether Asfi is the princess of DanMachi 5 and of Marius's rumour, and which nation she came from.[@fm05-talaria, fm08-marius]
 
 [@fm05-asfi]: FM05 | | Captain; Perseus; Enigma; Rivira's defence.
 [@fm05-look]: FM05 | | "Asfi, the human woman"; silver glasses; aqua-blue hair; white cloak and winged sandals.
@@ -110,7 +110,7 @@ Perseus's items "were said to grant the user Magic and Skills through the power 
 [@ar02-captain]: AR02 | Chapter 2: Wavering Justice | Hermes: "Asfi. From now on, you lead the familia."; "Lydis is dead"; "You’re the captain now."
 [@fm05-name]: FM05 | Chapter 3: Dungeon Death March | "Asfi Al Andromeda."; "The title she had received from the gods was" Jack-of-All-Trades, Perseus; Ouka: "…Andromeda, where should we search?"
 [@fm05-decoy]: FM05 | Chapter 6: Praise to the Heroes | "Andromeda is going to be the decoy, so get those spells going!"; "Asfi silently cried to herself as she and Lyu raced out".
-[@fm05-talaria]: FM05 | Chapter 6: Praise to the Heroes | "Winged sandals, Talaria. A high-level magic item reserved for Perseus herself."; "Long ago, the young queen of an island nation"; "used Enigma to create an item that made her dream come true".
+[@fm05-talaria]: FM05 | Chapter 6: Praise to the Heroes | "Winged sandals, Talaria. A high-level magic item reserved for Perseus herself."; "Long ago, the young queen of an island nation"; "used Enigma to create an item that made her dream come true". The Japanese original has a princess (with the reading *girl*) of a certain sea nation, with no word for queen; DanMachi 8's rumour names the same sea nation.
 [@fm05-hades]: FM05 | Chapter 4: Dungeon Resort? | "A magic item forged by the one and only Perseus."; "Perseus’s items were said to grant the user Magic and Skills through the power of" Enigma; the black helmet Hades Head.
 [@fm05-hate]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): Hermes: "Without you, things would fall apart pretty quick."; "…I hate this."
 [@fm06-excelia]: FM06 | Chapter 1: The Furious Rabbit | Cited by the body heading (DanMachi 6 has no contents list): the largest shares of excelia went to "Asfi and Lyu because they held the Goliath at bay the longest".

@@ -15,7 +15,7 @@
     {"anchor": "elixir", "title": "Elixir", "summary": "The most expensive healing potion, at least 500,000 valis a bottle at Dian Cecht Familia; it cannot restore lost limbs.", "aliases": ["Elixirs", "Tiger Cub Elixir"]},
     {"anchor": "magic-potion", "title": "Magic potion", "summary": "Medicine that restores Mind and holds off Mind Down; stronger kinds are printed high magic potion, high-magic potion and high-mind potion.", "aliases": ["Magic potions", "High magic potion", "High-magic potion", "High-mind potion"]},
     {"anchor": "dual-potion", "title": "Dual potion", "summary": "Nahza of Miach Familia's invention, restoring both physical strength and Mind; also printed double potion; her later high dual potion restores both completely.", "aliases": ["Double potion", "Dual Potion", "High dual potion", "High Dual Potion"]},
-    {"anchor": "antidote", "title": "Antidote", "summary": "Green fluid in a cylindrical tube that cures poison; rare antidotes are needed against poison vermis and Amphisbaena.", "aliases": ["Antidotes"]}
+    {"anchor": "antidote", "title": "Antidote", "summary": "Green fluid in a cylindrical tube that cures poison; a rare antidote is needed against the poison vermis.", "aliases": ["Antidotes"]}
   ],
   "infobox": {
     "title": "Potions",
@@ -89,7 +89,7 @@ The dual potion restores physical strength and Mind together. In DanMachi 4 [[mi
 
 ## Antidote {#antidote}
 
-Antidotes are green fluid in cylindrical tubes, and Miach Familia's carry its emblem.[@fm02-shop, fm09-emblem] On floors whose monsters inflict status effects a large supply of antidotes helps, but the Development Ability Immunity is held to be the key.[@fm09-immunity] Some poisons need more: the [[monsters#poison-vermis|poison vermis]]'s calls for a "rare, expensive antidote", which Bete fetches from the surface for Loki Familia in Sword Oratoria 5, and Asfi sets about developing an antidote for the [[amphisbaena|Amphisbaena]]'s poison.[@so05-antidote, fm14-asfi] Against another poison in DanMachi 14 "The only treatment was a high-quality antidote or detoxifying magic".[@fm14-quality]
+Antidotes are green fluid in cylindrical tubes, and Miach Familia's carry its emblem.[@fm02-shop, fm09-emblem] On floors whose monsters inflict status effects a large supply of antidotes helps, but the Development Ability Immunity is held to be the key.[@fm09-immunity] Some poisons need more: the [[monsters#poison-vermis|poison vermis]]'s calls for a "rare, expensive antidote", which Bete fetches from the surface for Loki Familia in Sword Oratoria 5.[@so05-antidote] The [[amphisbaena|Amphisbaena]]'s blue napalm is another matter: Amid's anti-napalm heal puts out the flames and heals the burns, and Asfi secretly developed a magic item that also puts them out, though it does not heal (the Yen Press text once calls it "an antidote").[@fm14-asfi] Against another poison in DanMachi 14 "The only treatment was a high-quality antidote or detoxifying magic".[@fm14-quality]
 
 [@fm01-price]: FM01 | Chapter 2: That’s Why I Run | "one healing potion costs 500 vals a pop".
 [@fm02-highprice]: FM02 | Chapter 4: Divine Wine | Nahza's high potion "worth tens of thousands of vals"; an item for 8,700 vals with two potions for 9,000.
@@ -113,7 +113,7 @@ Antidotes are green fluid in cylindrical tubes, and Miach Familia's carry its em
 [@fm12-ivy]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): potions and antidotes useless against the ivy.
 [@fm12-highdual]: FM12 | Chapter 6: The Hero’s Sacred Flame | Nahza's new High Dual Potions restore physical and mental strength.
 [@fm13-tiger]: FM13 | Chapter 4: Countdown | "two vials of Tiger Cub Elixir High Dual Potion".
-[@fm14-asfi]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Asfi develops an antidote for Amphisbaena.
+[@fm14-asfi]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Ways to put out the Amphisbaena's blue napalm: Amid's anti-napalm heal "not only snuffed out flames, it also healed the skin they had burned"; Perseus "had developed a similar magic item", "an antidote" in the Yen Press text: "It didn’t help with recovery, but it was universally acknowledged to put out flames."
 [@fm14-quality]: FM14 | Chapter 12: Forlorn Hope in the Dungeon | "a high-quality antidote or detoxifying magic".
 [@fm15-compounding]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Compounding, the herbalists' Development Ability for medicines and recovery potions.
 [@fm18-nahza]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Nahza: "I’ll try the elixirs that were always out of reach, too."

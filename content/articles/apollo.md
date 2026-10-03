@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "Often called Phoebus, a god who loves too much: he once asked Hestia to marry him, set his heart on claiming Bell Cranell, hunted him through Orario and challenged Hestia to the War Game of DanMachi 6, lost, and was exiled from Orario.",
+  "summary": "A god who loves too much: he once asked Hestia to marry him, set his heart on claiming Bell Cranell, hunted him through Orario and challenged Hestia to the War Game of DanMachi 6, lost, and was exiled from Orario.",
   "aliases": ["Phallus the Passionate", "Phoebus"],
   "spoilers": "DanMachi Vols. 5, 6, 8, 20 and Minor Myths and Legends Vol. 1",
   "related": ["apollo-familia", "war-game", "hestia", "hestia-familia", "bell-cranell", "hearthstone-manor"],
@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["fm05-apollo"]},
-      {"label": "Also called", "value": "Phoebus; *Phallus the Passionate* among the gods", "refs": ["fm08-loves", "fm06-apollo"]},
+      {"label": "Also called", "value": "Phoebus; *Phallus the Passionate* among the gods", "refs": ["fm06-phoebus", "fm06-apollo"]},
       {"section": "Familia"},
       {"label": "Head of", "value": "[[apollo-familia|Apollo Familia]], until he disbands it", "refs": ["fm06-apollo"]},
       {"label": "Captain", "value": "[[hyacinthus|Hyacinthus]]", "refs": ["fm06-hyacinthus"]},
@@ -28,7 +28,7 @@
 
 ## Character {#character}
 
-- **A god who loves too much:** often called Phoebus, Apollo "is a god who loves too much": once a child captures his interest, "he loves them fully and deeply until the end". When one of his children dies he weeps "day in and day out for months on end", wears the child's trinket "day and night" and treats a tree growing from the grave "like a holy site".[@fm08-loves] He once asked Hestia to marry him, which is why she dislikes him.[@fm06-banquet, fm08-loves]
+- **A god who loves too much:** in DanMachi 8 Bell recalls that Apollo is also called by his title Phallus (the Yen Press text says "Often called Phoebus") and "is a god who loves too much": once a child captures his interest, "he loves them fully and deeply until the end". When one of his children dies he weeps "day in and day out for months on end", wears the child's trinket "day and night" and treats a tree growing from the grave "like a holy site".[@fm08-loves] He once asked Hestia to marry him, which is why she dislikes him.[@fm06-banquet, fm08-loves]
 - **Passion:** Bell sees in him "Passion that has gone too far, burning bright like the sun", "A god whose desires carry him to comical lengths". Man or woman does not matter to him, and "Once he sees something he likes, he’ll stop at nothing in his lustful pursuit"; [[daphne|Daphne]] says he "chases any child he likes to the ends of the earth. At least until he has them."[@fm06-banquet, fm06-chases]
 - **Bell:** Apollo "had a habit of indulging in everything new and fresh" and probably first heard of Bell with the rumours of a new record holder; his craving for the boy "was on the verge of driving him insane".[@fm06-craving]
 - **A byword:** in DanMachi 20 the gods still say, "We don’t need another Apollo."[@fm20-another]
@@ -53,7 +53,8 @@ After losing, Apollo releases his followers, disbands [[apollo-familia|Apollo Fa
 [@fm06-freya]: FM06 | Chapter 4: Those Who Gather | "My, my, Apollo. Are you frightened?"; "The deity with the power to control love itself took a shot at the pride of the god who loves too passionately."; "a large group of male deities sided with Freya and voted to allow the addition of outsiders".
 [@fm06-craving]: FM06 | Chapter 4: Those Who Gather | "He wasn’t sure when he first knew of the boy—most likely when the rumors of a new record holder came to light. Apollo had a habit of indulging in everything new and fresh."; "Apollo’s craving for the boy was on the verge of driving him insane."
 [@fm06-terrifying]: FM06 | Chapter 5: Our War Game | "Even in Tenkai, he had never seen Hestia be so terrifying."
-[@fm08-loves]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Often called Phoebus, he once offered Hestia his hand in marriage. Apollo is a god who loves too much."; "Once a child captures Apollo’s interest, he loves them fully and deeply until the end."; "Crying day in and day out for months on end. If said child wore some kind of trinket, Apollo would wear it day and night. If a tree started growing from where the child was buried, he would treat it like a holy site."
+[@fm08-loves]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Often called Phoebus, he once offered Hestia his hand in marriage. Apollo is a god who loves too much."; "Once a child captures Apollo’s interest, he loves them fully and deeply until the end."; "Crying day in and day out for months on end. If said child wore some kind of trinket, Apollo would wear it day and night. If a tree started growing from where the child was buried, he would treat it like a holy site." The Japanese original gives his title Phallus (written *tragic love*) where the English prints "Often called Phoebus", calls him a god *of many loves*, and Hermes's line has no "for months on end".
+[@fm06-phoebus]: FM06 | | Printed heading "Chapter 1: The Furious Rabbit" (not in the evidence map): "The Sun’s Favored Child, Phoebus Apollo".
 [@fm20-another]: FM20 | Chapter 1: Orario Rumble | "We don’t need another Apollo."
 [@ss01-venue]: SS01 | | Printed heading "Shall We Dance? 2" (not in the evidence map): "We are in the north of Orario, in a building that could easily be mistaken for a royal palace. It is the very same place where Lord Apollo’s party was hosted, a venue owned and operated by the Guild."
 [@fm06-apollo]: FM06 | | Phallus the Passionate; the War Game; the outsider rule; exile.

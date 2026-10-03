@@ -237,6 +237,7 @@ sup.cite a:visited { color: var(--link); }
 .ref-note { color: var(--text-subtle); }
 
 /* inline evidence labels, in the style of inline maintenance tags: [editorial inference] */
+.altform { font-size: 82%; color: var(--text-subtle); }
 .badge { font-size: 85%; font-style: italic; color: var(--text-subtle); white-space: nowrap; text-transform: lowercase; cursor: help; }
 .badge::before { content: "["; font-style: normal; }
 .badge::after { content: "]"; font-style: normal; }

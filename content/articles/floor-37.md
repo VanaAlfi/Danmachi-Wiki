@@ -33,7 +33,7 @@ Its earth and stone are a cloudy white, its rooms immense, its ceilings too high
 | Event | Details |
 |---|---|
 | Delphyne | During the [[great-conflict|Great Conflict]], a god's use of [[tenkai-and-gekai#arcanum|Arcanum]] here gives birth to the dragon [[delphyne|Delphyne]].[@ar03-delphyne] |
-| Astrea Familia | The chamber where [[astrea-familia|Astrea Familia]] died is on this floor.[@fm14-palace] |
+| Astrea Familia | Lyu came to the deep levels many times with [[astrea-familia|Astrea Familia]], which reached Floor 41, and still knows this floor's main route by heart.[@fm14-palace] |
 | Udaeus | [[aiz-wallenstein|Aiz]] defeats Udaeus alone and reaches Level 6.[@fm02-rex] |
 | [[bell-cranell|Bell]] and [[lyu-leon|Lyu]] | In DanMachi 13 a [[lambton|lambton]] carries Bell and Lyu down here. They survive four days and four nights; Bell later counts eight times he nearly died. The [[juggernaut|Juggernaut]] follows them, and they destroy it before the rescue party arrives.[@fm13-floor, fm14-four, ss01-survival] |
 
@@ -47,7 +47,7 @@ They find a shelter with three skeletons and gear from a failed expedition; who 
 [@fm02-fortress]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Floor 37, the Lower Fortress; Spartoi.
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Aiz and Udaios.
 [@fm13-floor]: FM13 | | The floor's appearance; the lambton.
-[@fm14-palace]: FM14 | | The White Palace; its walls, zones and staircase; Astrea Familia's chamber.
+[@fm14-palace]: FM14 | | The White Palace; its walls, zones and staircase; Astrea Familia reached the forty-first floor, and Lyu knows the main route.
 [@fm14-deep]: FM14 | Chapter 9: Hello, Deep Levels | Floor 37 in the deep levels.
 [@fm14-four]: FM14 | Epilogue: You’ll Be Back II | Four days on the floor.
 [@fm14-shelter]: FM14 | | The shelter and the skeletons.

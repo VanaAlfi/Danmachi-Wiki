@@ -37,7 +37,7 @@
 | [[hedin|Hedin Selrand]] | Hildsleif | 6 | White elf.[@fc02-execs, fm16-hedin] |
 | [[hegni|Hegni Ragnar]] | Dáinsleif | 6 | [[races#dark-elf|Dark elf]]; often paired with Hedin although they are not related.[@fc02-execs, ar01-hegni] |
 | Alfrik, Dvalinn, Berling and Grer Gulliver | Bringar | 5 | Prum quadruplets whose teamwork is counted the best in the Dungeon.[@fc02-execs] |
-| [[heith-velvet|Heith Velvet]] | Vana Mardel | 4 | Healer and representative of the Andhrímnir; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
+| [[heith-velvet|Heith Velvet]] | Vana Mardöll | 4 | Healer and representative of the Andhrímnir; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
 | [[horn|Hörn]] | none | — | Freya's attendant, known as "Nameless" because Freya refused to let the gods give her a title.[@fm16-horn] |
 | Van | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; sent to reinforce Hegni's unit in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
 | Remilia and Rask | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |

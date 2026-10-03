@@ -14,12 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|ヘルン}}", "refs": ["fm16-horn-ja"]},
       {"label": "Born as", "value": "Syr, a mortal girl", "refs": ["fm16-names"]},
       {"label": "Name from", "value": "[[freya|Freya]], in exchange for her own", "refs": ["fm16-names"]},
       {"section": "Freya Familia"},
       {"label": "Position", "value": "Freya's attendant and head chamberlain", "refs": ["fm16-chamberlain"]},
       {"label": "Title", "value": "None; known as \"Nameless\"", "refs": ["fm16-nameless"]},
-      {"label": "Magic", "value": "Vana Seiðr", "refs": ["fm16-names"]}
+      {"label": "Magic", "value": "Vana Seiðr", "refs": ["fm16-names"]},
+      {"label": "Also printed", "value": "{{small|*Helen* (Familia Chronicle 2)}}", "refs": ["fc02-helen"]}
     ]
   }
 }
@@ -30,7 +32,7 @@
 
 Hörn is allowed at Freya's side as more than a servant, and normally waits on her at [[babel|Babel]] or the Familia's home.[@fm16-chamberlain] She is an upper-class adventurer, but because Freya refused to let the gods give her a title she is called "Nameless".[@fm16-nameless]
 
-Familia Chronicle 2 prints the name *Helen* for Freya's attendant in the scenes about the exchange of names. It is very probably the same person, but the volumes do not say so outright.[@fc02-helen] {{inference}}
+Familia Chronicle 2 prints the name *Helen* for Freya's attendant in the scenes about the exchange of names.[@fc02-helen] The Japanese edition gives her there the same name as in the later volumes, so *Helen* is Yen Press's rendering of Hörn.[@fc02-helen-ja]
 
 ## Vana Seiðr
 
@@ -60,7 +62,6 @@ In DanMachi 19 Freya has formally pardoned her, but her former comrades make her
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How long Vana Seiðr lasts, its range and Mind cost, and whether it heals wounds or only hides them.[@fm17-senses, fm17-save]
-> - Whether Familia Chronicle 2's Helen is Hörn.[@fc02-helen]
 
 [@fm16-chamberlain]: FM16 | Chapter 1: A Stormy Love Letter | "The goddess's attendant, Hörn… the head chamberlain."
 [@fm16-nameless]: FM16 | | "Nameless".
@@ -80,3 +81,5 @@ In DanMachi 19 Freya has formally pardoned her, but her former comrades make her
 [@fm19-horn]: FM19 | Chapter 1: V-V-V for Victory Party | Pardon and atonement.
 [@fm20-horn]: FM20 | Chapter 1: Orario Rumble | Hörn at the tavern.
 [@fc02-helen]: FC02 | Their Various Pasts | Helen.
+[@fc02-helen-ja]: FC02 | | The Japanese edition names Freya's attendant in the scenes about the exchange of names with the same name as in the later volumes.
+[@fm16-horn-ja]: FM16 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

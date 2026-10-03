@@ -52,7 +52,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 | Volume | Events |
 |---|---|
 | Familia Chronicle 1 | At the [[el-dorado-resort|Grand Casino]] she sees Lyu, one of the very few people who know both Lyu's face and that she is alive, and lets her act. Lyu slips her the [[status-thief|Status Thief]] vial that exposes the casino's owner.[@fc01-casino] |
-| DanMachi 10 | Commands Ganesha Familia's force against the armed monsters, the [[xenos|Xenos]], on [[floor-18|Floor 18]], where the Guild has ordered them tamed. She fights with fists and whip.[@fm10-faith, fm10-subjugation, fm11-recovery] Then a single blow from the black [[minotaur|minotaur]], later called [[asterios|Asterios]], smashes her into a tree and leaves her motionless.[@fm10-asterios] Asterios counts her among the few adventurers he could not easily dispatch.[@fm10-asterios-view] |
+| DanMachi 10 | Commands Ganesha Familia's force against the armed monsters, the [[xenos|Xenos]], on [[floor-18|Floor 18]], where the Guild has ordered them tamed. She fights with fists and whip.[@fm10-faith, fm10-subjugation, fm11-recovery] Then a single blow from the black [[minotaur|minotaur]], later called [[asterios|Asterios]], smashes her into a tree and leaves her motionless.[@fm10-asterios] Later that day [[lido|Lido]], the Xenos' leader, counts her among the few adventurers he could not easily dispatch.[@fm10-asterios-view] |
 | DanMachi 11 | Recovering in bed at the Familia's home, she tells Ganesha, who had told her about the Xenos, that she feels both fierce anger and sympathy toward them; their hesitation cost Ganesha Familia lives.[@fm11-recovery] |
 | Sword Oratoria 11 | Guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]]; Ganesha tells her and Ilta that they need not be avengers for the murdered [[hashana|Hashana]].[@so11-daedalus] |
 | DanMachi 18 | Insists that Ganesha Familia do its duty and prepare the battlefield for the Familia War against [[freya-familia|Freya Familia]], and explains the politics to the angry Ilta.[@fm18-ilta] She opens the bridge to the Orza ruins for the coalition.[@fm18-bridge] |
@@ -67,7 +67,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 [@fm10-faith]: FM10 | Chapter 8: City Panic | "We serve the Lord of the Masses, Ganesha."
 [@fm10-subjugation]: FM10 | Chapter 9: Dreams of Beasts | Taming whips passed to Shakti; a troll sent flying with a punch; her whip.
 [@fm10-asterios]: FM10 | Chapter 9: Dreams of Beasts | WHAM; Shakti against the tree; facedown and motionless.
-[@fm10-asterios-view]: FM10 | Chapter 10: The Fool | Excluding Ganesha Familia's elite, Shakti and Dix, he could handily dispatch any foot soldier.
+[@fm10-asterios-view]: FM10 | Chapter 10: The Fool | Lido, fighting Tione: excluding Ganesha Familia's elite, Shakti and Dix, he could handily dispatch any foot soldier.
 [@fm11-recovery]: FM11 | | Indigo-haired; seriously injured on the mission to the eighteenth floor; told about the Xenos; the Guild ordered her to tame the monsters; "Fierce anger, and also sympathy".
 [@fm14-adi]: FM14 | Special Chapter: Recollection of Justice | "Why did Shakti’s younger sister, Adi, die?"
 [@fm18-ilta]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Ilta's protest; Shakti and her sister caught and punished Ilta; politics; the preparations for the war game.

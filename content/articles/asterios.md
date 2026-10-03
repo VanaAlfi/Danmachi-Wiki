@@ -46,7 +46,7 @@ For Bell the encounter is decisive: "Bell had been lost since he met the Xenos, 
 
 | Volume | Events |
 |---|---|
-| DanMachi 10 | Defeats [[ganesha-familia|Ganesha Familia]], [[aisha-belka|Aisha]], [[asfi|Asfi]] and [[lyu-leon|Lyu]], kills the hunter [[ikelos-familia#dix-perdix|Dix]], and loses his right arm to [[aiz-wallenstein|Aiz]] before escaping alive to the surface.[@fm10-asterios] |
+| DanMachi 10 | Defeats [[ganesha-familia|Ganesha Familia]], [[aisha-belka|Aisha]], [[asfi|Asfi]] and [[lyu-leon|Lyu]], kills the hunter [[ikelos-familia#dix-perdix|Dix]], and, on the surface, loses his right arm to [[aiz-wallenstein|Aiz]] before escaping underground alive; [[finn-deimne|Finn]] judges that he went down into the sewers.[@fm10-asterios] |
 | DanMachi 11 | Asks Bell for a rematch and wins it, declares their score even, and returns underground. [[fels|Fels]] restores his arm, and he goes to train in the deep levels for their final battle.[@fm11-name, fm11-fels] |
 | DanMachi 12 | Bell's fight with him earns Bell his promotion to Level 4 and the Skill Ox Slayer.[@fm12-level] |
 | Sword Oratoria 12 | Aruru and Helga track him down in the deep levels "on secret orders from Fels", and he is "begged to return from his solo training journey"; he rejoins the Xenos and destroys one of the spirit altars in [[knossos|Knossos]] with a charge.[@so12-return, so12-asterios] |

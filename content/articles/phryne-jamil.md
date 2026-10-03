@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm07-waiting"]},
-      {"label": "Height", "value": "About two meders", "refs": ["fm07-chase", "fm07-ottar"]},
+      {"label": "Height", "value": "At least two meders", "refs": ["fm07-waiting", "fm07-chase", "fm07-ottar"]},
       {"label": "Appearance", "value": "A toad-like face and croaking voice; a huge body with short limbs; short bobbed hair", "refs": ["fm07-waiting", "so06-proposal"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[ishtar-familia|Ishtar Familia]], captain", "refs": ["fm07-eina", "so06-proposal"]},
@@ -30,7 +30,7 @@
 
 ## Appearance and character
 
-DanMachi 7 describes a massive Amazon about two meders tall, with a frog's face and a croaking voice; Sword Oratoria 6 adds strangely short limbs, a large bust and short bobbed hair.[@fm07-waiting, fm07-chase, so06-proposal] [[aisha-belka|Aisha]] calls her "toad", and others call her "the toad" or "that frog".[@fm07-waiting, ar03-charge, so08-aisha] She is as fast as she is strong: Bell is shaken to see her dodge his Firebolt without warning, a speed that does not match her build.[@fm07-firebolt]
+DanMachi 7 describes a massive Amazon at least two meders tall, with tiny, muscular limbs, a mushroom of black hair, a frog's face and a croaking voice; Sword Oratoria 6 also gives her strangely short limbs and short bobbed hair, and adds a large bust.[@fm07-waiting, fm07-chase, so06-proposal] [[aisha-belka|Aisha]] calls her "toad", and others call her "the toad" or "that frog".[@fm07-waiting, ar03-charge, so08-aisha] She is as fast as she is strong: Bell is shaken to see her dodge his Firebolt without warning, a speed that does not match her build.[@fm07-firebolt]
 
 She believes herself the most beautiful woman alive. She tells Aisha that no other woman measures up, and that even Ishtar only "comes close".[@fm07-waiting] With men she is predatory. Ishtar's servant [[ishtar-familia#tammuz-berrilli|Tammuz]] says she forces aphrodisiac on any man she catches and leaves only "the empty shell of a man".[@fm07-aphrodisiac] She keeps a room of her own beyond a secret tunnel into [[daedalus-street|Daedalus Street]], which even Ishtar does not know about.[@fm07-room]
 
@@ -96,7 +96,7 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Where she goes after DanMachi 7, and whether she joins another Familia: the later volumes show her only in memories and in Aisha's remark.[@fm07-hotel, so08-aisha]
 
-[@fm07-waiting]: FM07 | Chapter 2: Run, Cranell | "The massive blob of a woman—or rather, Amazon"; the croaking voice; "He’s my prey; get your own"; "Lady Ishtar comes close, but I’m out of her league"; "Read the writing on the wall, toad."
+[@fm07-waiting]: FM07 | Chapter 2: Run, Cranell | "she stands at least two meders tall"; "her tiny limbs"; the black hair like "a black mushroom"; "The massive blob of a woman—or rather, Amazon"; the croaking voice; "He’s my prey; get your own"; "Lady Ishtar comes close, but I’m out of her league"; "Read the writing on the wall, toad."
 [@fm07-chase]: FM07 | Chapter 2: Run, Cranell | Phryne drops from above; "All two meders of the massive woman"; the Amazons pile onto her.
 [@fm07-eina]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Eina: the Berbera's leader, "Androctonus, the Man Slayer"; "Phryne Jamil is a top-class adventurer at Level Five"; she once fought the Kenki head-to-head.
 [@fm07-feast]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "I forbid any of you to feast—especially Phryne."

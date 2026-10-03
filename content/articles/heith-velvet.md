@@ -5,8 +5,8 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "Healer of Freya Familia and representative of its healers, the Andhrímnir; titled Vana Mardel and known as the golden witch, a Level 4 who can fight like a first-tier adventurer.",
-  "aliases": ["Vana Mardel", "Golden witch", "Rona", "Ilda", "Lona", "Ilde"],
+  "summary": "Healer of Freya Familia and representative of its healers, the Andhrímnir; titled Vana Mardöll and known as the golden witch, a Level 4 who can fight like a first-tier adventurer.",
+  "aliases": ["Vana Mardöll", "Vana Mardel", "Golden witch", "Rona", "Ilda", "Lona", "Ilde"],
   "spoilers": "DanMachi Vols. 17–20 and Minor Myths and Legends Vol. 1",
   "related": ["freya-familia", "folkvangr", "horn", "hedin", "freya", "magic"],
   "infobox": {
@@ -14,16 +14,17 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ヘイズ・ベルベット}}", "refs": ["fm18-heith-ja"]},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fm18-heith"]},
       {"label": "Role", "value": "Healer; representative of the Andhrímnir", "refs": ["fm17-heith"]},
       {"label": "Level", "value": "4", "refs": ["fm18-heith"]},
-      {"label": "Title", "value": "Vana Mardel", "refs": ["fm18-heith"]},
+      {"label": "Title", "value": "Vana Mardöll ({{ja|ヴァナ・マルデル}}) {{small|printed *Vana Mardel*}}", "refs": ["fm18-heith", "fm18-heith-ja"]},
       {"label": "Magic", "value": "[[#zeo-gullveig|Zeo Gullveig]]; [[#ars-gullveig|Ars Gullveig]]", "refs": ["fm17-zeo", "fm18-ars"]}
     ]
   }
 }
 ---
-**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardel*.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells Rona and Ilda to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"[@fm18-rona, fm18-rona2]
+**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardöll* {{small|(printed *Vana Mardel*)}}.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells Rona and Ilda to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"[@fm18-rona, fm18-rona2]
 
 ## Background
 
@@ -97,6 +98,7 @@ The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’
 [@fm17-heith]: FM17 | | Heith and the Andhrímnir; Bell; Hörn.
 [@fm17-zeo]: FM17 | | Zeo Gullveig.
 [@fm18-heith]: FM18 | Chapter 8: The Great Familia War | Level 4; Vana Mardel; the two great healers; her background.
+[@fm18-heith-ja]: FM18 | | The Japanese edition prints her name and the reading of her title in katakana; the infobox gives those printed forms.
 [@fm18-ars]: FM18 | Chapter 8: The Great Familia War | Ars Gullveig.
 [@fm18-hedin]: FM18 | Chapter 9: Flower Language for You | Hedin exhausts the healers' formation.
 [@fm18-stay]: FM18 | Epilogue: Double Cast | Freya's parting order.

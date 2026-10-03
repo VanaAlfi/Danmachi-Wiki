@@ -167,6 +167,8 @@ BADGE = re.compile(r"\{\{(statement|inference|unresolved|unverified)\}\}")
 # Japanese original for names and chants only (user decision, 1 Oct 2026): {{ja|日本語}} or {{ja|日本語|romanisation}}.
 JA = re.compile(r"\{\{ja\|([^{}|]+?)(?:\|([^{}|]+?))?\}\}")
 JA_SPAN = re.compile(r'<span lang="ja" class="ja">[^<]*</span>')
+# A printed spelling this wiki does not use, shown last and small (user decision, 3 Oct 2026): {{small|printed *Vana Mardel*}}.
+SMALL = re.compile(r"\{\{small\|([^{}]+?)\}\}")
 HEADING = re.compile(r"^(#{2,4})\s+(.*?)(?:\s+\{#([\w-]+)\})?\s*$")
 LISTITEM = re.compile(r"^(\s*)(?:[-*]|(\d+)\.)\s+(.*)$")
 DIRECTIVE = re.compile(r"^\{\{([\w-]+)\}\}$")
@@ -199,6 +201,7 @@ class Renderer:
         t = ITAL.sub(r"<em>\1</em>", t)
         t = BADGE.sub(self._badge, t)
         t = JA.sub(self._ja, t)
+        t = SMALL.sub(r'<small class="altform">\1</small>', t)
         return t
 
     def _ja(self, m):

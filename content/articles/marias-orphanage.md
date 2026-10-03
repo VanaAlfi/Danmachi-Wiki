@@ -40,7 +40,7 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 - **Children:** besides humans, there are "many mixed children", animal people, prums "and even a timid Amazon".[@fm08-races] Many children Maria raised ignored her pleas and went into the Dungeon to help the orphanage, and became like the adventurers who left families behind.[@fm08-dungeon]
 - **Garden:** Maria and the children grow vegetables in the yard behind the church. Beyond it, among ruins, a stone slab door opens onto an underground passage.[@fm08-garden, fm11-passage] Bell later realises that this stairway, like the tunnels under the Pleasure Quarter, is part of Daedalus's legacy (see [[knossos|Knossos]]).[@fm10-legacy]
-- **Syr:** Syr tells Bell she "grew up in this slum" without parents, and comes for the same reasons that Maria opened the orphanage.[@fm08-syr]
+- **Syr:** Syr tells Bell she "grew up in this slum" without parents, and comes for reasons similar to Maria's (the Yen Press text says "for the same reasons").[@fm08-syr]
 - **Hestia:** by Sword Oratoria 12, [[hestia|Hestia]] has grown attached to the orphanage, often giving donations and telling the children tales of her followers.[@so12-hestia]
 
 ## Mother Maria {#maria}
@@ -49,13 +49,13 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 ## Lai {#lai}
 
-**Lai** ("just Lai") is a human boy who has lived at the orphanage the longest and turns eleven in DanMachi 8. His skin is covered in small scratches, and he keeps asking Bell about the Dungeon; Bell is sure he wants to be an adventurer.[@fm08-lai] When a [[monsters#barbarian|barbarian]] attacks Bell in the passage behind the orphanage, Lai throws a rock at it to draw it away.[@fm08-barbarian]
+**Lai** ("just Lai") is a human boy, the eldest child at the orphanage, who turns eleven in DanMachi 8 (the Yen Press text says he "has lived here the longest"). His skin is covered in small scratches, and he keeps asking Bell about the Dungeon; Bell thinks he may long to be an adventurer.[@fm08-lai] When a [[monsters#barbarian|barbarian]] attacks Bell in the passage behind the orphanage, Lai throws a rock at it to draw it away.[@fm08-barbarian]
 
 After the Xenos affair of DanMachi 11 Lai steps in front of Fina and Ruu "as if to protect the other two" and asks Bell, "Why did you do it?", his voice full of "the same judgment, hatred, and disappointment as the other townsfolk", before walking away.[@fm11-why, fm11-traitor] When Ruu goes missing he and Fina beg Ouka and Chigusa for help and cling to Ouka, ignoring Maria.[@fm11-search] In the plaza, when the black minotaur steps toward the three children, Lai, who "had felt Bell had betrayed him", watches Bell fight, hears Mord and yells "Go get ’im, big brotheeeerrrrrrr!!"[@fm11-lai-cheer] He comes with Maria to apologise in DanMachi 12.[@fm12-visit] In Sword Oratoria 10 he meets Finn but "could not bring himself to be happy", and drags Ossian away in case "One of the monsters might show up".[@so10-lai] At the harvest festival of DanMachi 16 he proudly tells Bell that the children helped a dwarf brew the ale they sell, and in DanMachi 18 he chokes up cheering Bell on.[@fm16-stall, fm18-watch]
 
 ## Fina {#fina}
 
-**Fina** is a [[races#chienthrope|chienthrope]] girl with long cream-coloured hair and a cream-coloured tail. She and Lai are the oldest of the children and their leaders.[@fm08-fina, fm16-fina] DanMachi 18 prints her name twice as *Fiona*.[@fm18-watch] In DanMachi 8 she and Lai tell Bell they heard the voice in the ruins "as a test of courage", and when they go down to find it "Fina is a little frightened".[@fm08-courage] In DanMachi 11, after the Xenos affair, she can only say "B-big brother…" before she and Ruu follow Lai away from Bell;[@fm11-turn] later, in the plaza, her and Ruu's "earnest cheers" ring out with Mord's shouts during Bell's fight with [[asterios|Asterios]].[@fm11-cheers] At the orphanage's party in DanMachi 16 she clings to Bell and asks where he and Syr will "spend the night", until Maria covers her mouth.[@fm16-party]
+**Fina** is a [[races#chienthrope|chienthrope]] girl with long cream-coloured hair and a cream-coloured tail. She is the same age as Lai and one of the older children (the Yen Press text says "the oldest of the kids, and the leaders").[@fm08-fina, fm16-fina] DanMachi 18 prints her name twice as *Fiona*.[@fm18-watch] In DanMachi 8 she and Lai tell Bell they heard the voice in the ruins "as a test of courage", and when they go down to find it "Fina is a little frightened".[@fm08-courage] In DanMachi 11, after the Xenos affair, she can only say "B-big brother…" before she and Ruu follow Lai away from Bell;[@fm11-turn] later, in the plaza, her and Ruu's "earnest cheers" ring out with Mord's shouts during Bell's fight with [[asterios|Asterios]].[@fm11-cheers] At the orphanage's party in DanMachi 16 she clings to Bell and asks where he and Syr will "spend the night", until Maria covers her mouth.[@fm16-party]
 
 ## Ruu {#ruu}
 
@@ -91,12 +91,12 @@ In Sword Oratoria 10 Lai drags him away from Finn in case the monsters appear, a
 [@fm08-why]: FM08 | Chapter 5: The City Girl’s Secret | Syr: "this kind of place isn’t all that uncommon on Daedalus Street"; children abandoned in the slum.
 [@fm08-funding]: FM08 | Chapter 5: The City Girl’s Secret | "several compassionate goddesses lend their assistance"; other places "funded by a group of familias".
 [@fm08-dungeon]: FM08 | Chapter 5: The City Girl’s Secret | Children "choosing to help the orphanage by going into the Dungeon".
-[@fm08-lai]: FM08 | Chapter 5: The City Girl’s Secret | "The human boy, Lai—“just Lai”—has lived here the longest. He’ll turn eleven this year."; "this boy wants to be an adventurer".
+[@fm08-lai]: FM08 | Chapter 5: The City Girl’s Secret | "The human boy, Lai—“just Lai”—has lived here the longest. He’ll turn eleven this year."; "this boy wants to be an adventurer". The Japanese original calls him the eldest of the orphanage, puts his scrapes on his face, and has Bell think he *may* long to be an adventurer.
 [@fm08-fina]: FM08 | Chapter 5: The City Girl’s Secret | "The chienthrope, Fina"; "She and Lai are the oldest of the kids, and the leaders."; "long cream-colored hair".
 [@fm08-ruu]: FM08 | Chapter 5: The City Girl’s Secret | "The half-elf Ruu is a year younger than Lai, and a strange child."; "I seriously can’t tell if this kid is a boy or girl."
 [@fm08-races]: FM08 | Chapter 5: The City Girl’s Secret | "many mixed children at the orphanage, along with humans, animal people, prums, and even a timid Amazon".
 [@fm08-garden]: FM08 | Chapter 5: The City Girl’s Secret | "Mother Maria and the children are growing their own vegetables."
-[@fm08-syr]: FM08 | Chapter 5: The City Girl’s Secret | Syr: "The truth is…I grew up in this slum."; she comes "for the same reasons that Maria chose to open the orphanage".
+[@fm08-syr]: FM08 | Chapter 5: The City Girl’s Secret | Syr: "The truth is…I grew up in this slum."; she comes "for the same reasons that Maria chose to open the orphanage". The Japanese original says *similar* reasons, and Syr says she *too* grew up in the slum.
 [@fm08-quest]: FM08 | Chapter 5: The City Girl’s Secret | The children's quest: "investigate a “mysterious voice”".
 [@fm08-barbarian]: FM08 | Chapter 5: The City Girl’s Secret | "These things belong in the Deep Zone!"; "Lai, inside the chamber, throws a rock at the monster"; "a single silver javelin".
 [@fm10-legacy]: FM10 | Chapter 9: Dreams of Beasts | "the stairwell behind the orphanage"; "Daedalus’s legacy was ingrained into Orario’s very core".

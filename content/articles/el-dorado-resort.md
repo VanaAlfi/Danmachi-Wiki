@@ -63,7 +63,7 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 
 ## Anna Kreiz {#anna-kreiz}
 
-**Anna Kreiz** is the daughter of Karen and Huey Kreiz, who work in a small magic-stone store in the western district.[@fc01-kreiz] She is pretty and good-natured, has turned down proposals from male gods, and delivers flowers across the city for the shop where she works.[@fc01-target] In Minor Myths and Legends 2 she confesses to her parents that she has fallen in love with "The brave, dashing young woman who saved me".[@ss02-anna]
+**Anna Kreiz** is the daughter of Karen and Huey Kreiz, who work in a small magic-stone store in the western district.[@fc01-kreiz] She is pretty and good-natured, has turned down proposals from male gods, and delivers flowers across the city for the shop where she works.[@fc01-target] At the casino Terry presents her among his mistresses ("Pleased to…meet you…My name is Anna."), attractive enough that the wealthy guests are "nodding in appreciation"; she does not understand the card game and is "on the verge of tears" as he pulls her close.[@fc01-anna-vip] When Ted drags her into the vault, she throws herself flat just before it explodes, and Lyu, still disguised as the count, "wrapped one arm around Anna’s waist as she blushed".[@fc01-anna-vault] At the carriage home she begins to confess her love to her rescuer ("you put your life on the line to save me") until Lyu reveals: "I’m a woman, just like you". "The romantic tale that had set her heart aflutter crumbled pitifully."[@fc01-anna-confess] Later she catches her father drinking in a bar: "You promised you wouldn’t drink anymore!"[@fc01-anna-father] In Minor Myths and Legends 2 she sighs at her window, her mother sees "the face of a girl in love", and she confesses that she has fallen in love with "The brave, dashing young woman who saved me", to her parents' dismay.[@ss02-anna-sigh, ss02-anna]
 
 [@fc01-kreiz]: FC01 | Crush the Grand Casino! | "The woman’s name was Karen and her husband’s was Huey."; "the ­magic-­stone manufacturing business"; "wager my daughter, Anna"; "losing his daughter and his house".
 [@fc01-target]: FC01 | Crush the Grand Casino! | "Some male gods even proposed to her."; "At the flower shop she worked at"; "out and about delivering things"; "they were after the girl from the beginning".
@@ -92,6 +92,11 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@fc01-after]: FC01 | Crush the Grand Casino! | "locked away in one of the Guild’s solitary cells"; "the owner had been replaced"; the women "sent back to their homelands".
 [@fc01-rumours]: FC01 | Crush the Grand Casino! | "Ganesha Familia is getting all the credit"; "envoys of justice who had returned"; "Ganesha Familia stopped their investigation".
 [@ss02-allen]: SS02 | The Night Before a Grand Casino Infiltration | "bring me an invitation to the casino!"; "he did infiltrate the casino".
-[@ss02-anna]: SS02 | | "Not he…She. The brave, dashing young woman who saved me."
+[@ss02-anna]: SS02 | | Printed heading "And at that Moment, Lyu Leon Shivered" (not in the evidence map): "Not he…She. The brave, dashing young woman who saved me."
 [@so13-lands]: SO13 | Fairy Canon: 1 | "the city of pleasures, Santorio Vega".
 [@so14-maelstra]: SO14 | Epilogue: Three Unchanging Vows | Finn: "I’d like to go north to Maelstra, though. Their famed opera is apparently putting on a performance about the Phiana knights."
+[@fc01-anna-vip]: FC01 | Crush the Grand Casino! | "Pleased to…meet you…My name is Anna."; "nodding in appreciation"; "She did not understand the game, but was on the verge of tears"
+[@fc01-anna-vault]: FC01 | Crush the Grand Casino! | "Anna suddenly lay flat on the ground. The next instant, the vault exploded with an enormous boom."; "The handsome elf wrapped one arm around Anna’s waist as she blushed"
+[@fc01-anna-confess]: FC01 | Crush the Grand Casino! | "you put your life on the line to save me"; "I’m a woman, just like you"; "The romantic tale that had set her heart aflutter crumbled pitifully."
+[@fc01-anna-father]: FC01 | Crush the Grand Casino! | "You promised you wouldn’t drink anymore!"
+[@ss02-anna-sigh]: SS02 | | Printed heading "And at that Moment, Lyu Leon Shivered" (not in the evidence map): "That’s the face of a girl in love."; "This was the fabled yuri of which the gods spoke!"

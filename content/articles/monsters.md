@@ -214,7 +214,7 @@ Kobolds are dog-headed monsters that usually wander alone or in pairs and attack
 
 ### Dungeon lizard {#dungeon-lizard}
 
-A four-legged lizard with scaly brown skin, as long as Bell is tall including its tail. It appears on floors 2 to 4 and is in the "same class as goblins and kobolds".[@dungeon-lizard.fm01-lizard]
+A four-legged lizard with scaly brown skin, as long as Bell is tall including its tail. It appears on floors 2 to 4 and is in the "same class as goblins and kobolds".[@dungeon-lizard.fm01-lizard] In DanMachi 1 one senses Bell's blade and makes "straight for the wall", but he is faster and plunges his dagger "deep into the lizard’s back"; later he dispatches a Dungeon Lizard and a goblin together "even though it was two on one".[@dungeon-lizard.fm01-fight] In DanMachi 10 he meets "a dungeon lizard climbing on the wall" among a group of kobolds.[@dungeon-lizard.fm10-wall]
 
 ### War shadow {#war-shadow}
 
@@ -477,7 +477,7 @@ Their songs are a known danger: [[asfi|Asfi]]'s [[silence-lyra|Silence Lyra]] (A
 
 ### Light quartz {#light-quartz}
 
-**Light quartzes** are "inorganic monsters that float about adventurers’ heads": purple crystals the size of bucklers with a single pale-yellow, eyelike organ. They cannot fight at close range; their one attack is a beam of light that burns lines into the Dungeon's crystal floor and walls. "The typical way to defeat a light quartz is to get it to emit all its power, then attack it while it’s recharging."[@light-quartz.fm13-beam] They are met from the twenty-fifth floor to the twenty-seventh.[@lower-levels.fm12-shore, light-quartz.fm14-27th]
+**Light quartzes** are "inorganic monsters that float about adventurers’ heads": purple crystals the size of bucklers with a single pale-yellow, eyelike organ. They cannot fight at close range; their one attack is a beam of light that burns lines into the Dungeon's crystal floor and walls. "The typical way to defeat a light quartz is to get it to emit all its power, then attack it while it’s recharging."[@light-quartz.fm13-beam] They are met from the twenty-fifth floor to the twenty-seventh.[@lower-levels.fm12-shore, light-quartz.fm14-27th] In DanMachi 13, travelling with Bors's party, Bell hears "Shit, it’s a light quartz!" and swings his black scarf "like a whip, or rather a chain": "It blocks and repels the beams from multiple light quartzes before crashing straight into them!" The crushed light quartzes "either go silent as the light disappears from their eyes or lose their magic stones and turn to ash".[@light-quartz.fm13-scarf]
 
 ### Kelpie {#kelpie}
 
@@ -509,7 +509,7 @@ Bloodsauruses also live on the surface. In DanMachi 4 Bell's party meets several
 
 ### Blue dragon {#blue-dragon}
 
-The **blue dragon**, "also known as an aurora dragon", is "A rare monster from the lower floors", "up there with carbuncles in rarity": a long dragon of about ten meders with blue-and-white scales and winglike fins, which swims through the air trailing "red, green, blue, and purple folds of light".[@blue-dragon.fm19-aurora] In DanMachi 19 one appears above the adventurers and students of the [[school-district|School District]]; flying out of reach, it can only be brought down with magic, arrows or other long-range attacks.[@blue-dragon.fm19-aurora]
+The **blue dragon**, "also known as an aurora dragon", is "A rare monster from the lower floors", "up there with carbuncles in rarity": a long dragon of about ten meders with blue-and-white scales and winglike fins, which swims through the air trailing "red, green, blue, and purple folds of light".[@blue-dragon.fm19-aurora] In DanMachi 19 one appears above the adventurers and students of the [[school-district|School District]]; flying out of reach, it can only be brought down with magic, arrows or other long-range attacks.[@blue-dragon.fm19-aurora] Bors spots it first: "Oh! You’re in luck, brats! It’s a blue dragon!" From "more than twenty meders overhead" it unleashes breath attacks; "The crystals corroded all around them", and the water's surface gives off "a putrid smoke". [[nina-tulle|Nina]]'s purifying barrier, Lagriell Krisheim, cleanses even "the aurora of the blue dragon, which had such a higher potential than the half-elf girl’s".[@blue-dragon.fm19-breath]
 
 ## Deep levels {#deep-levels}
 
@@ -569,7 +569,7 @@ In Sword Oratoria 1 [[aiz-wallenstein|Aiz]] and Tiona take on a horde of black r
 
 ### Deformis spider {#deformis-spider}
 
-The **deformis spider** is "an absolutely terrifying red and purple spider, with eight hairy legs and many menacing eyes" of the deep levels. In Sword Oratoria 1 one bursts out of the wall beside [[lefiya|Lefiya]]; in Sword Oratoria 4, where black rhinos and deformis spiders attack from every angle, another drags her toward its hole with its massive thread.[@deformis-spider.so01-spider, black-rhino.so04-horn, deformis-spider.so04-thread]
+The **deformis spider** is "an absolutely terrifying red and purple spider, with eight hairy legs and many menacing eyes" of the deep levels. In Sword Oratoria 1 one bursts out of the wall beside [[lefiya|Lefiya]]; in Sword Oratoria 4, where black rhinos and deformis spiders attack from every angle, another drags her toward its hole with its massive thread.[@deformis-spider.so01-spider, black-rhino.so04-horn, deformis-spider.so04-thread] In Sword Oratoria 1 [[hyrute-sisters|Tione]] kills the first by twisting her Kukri throwing knife out of its neck: "The still-twitching deformis spider split in two pieces". The same volume ranks Cadmus, "the strongest monster on the fifty-first floor", far above them: "Even swarms of black rhinos and deformis spiders wouldn’t stand a chance."[@deformis-spider.so01-tione] In Sword Oratoria 11 [[asfi|Asfi]] names "the compound eye of a deformis spider" among the Dungeon items with which "it was possible to replicate" the eye of Daedalus's descendants, which serves as the key to [[knossos|Knossos]], and so makes a copy of the Daedalus Orb.[@deformis-spider.so11-eye]
 
 ### Cadmus {#cadmus}
 
@@ -637,7 +637,7 @@ The **ogre** is a horned monster that the text mostly uses as a comparison: [[ud
 
 ### Basilisk {#basilisk}
 
-The **basilisk** is a giant serpent and "unmistakably a member of the dragon family", which breathes fire and spreads a paralyzing toxin "that seemed to petrify those afflicted by it". In ancient times basilisks destroyed countless cities, and tales of them are still told all over Kaios (see [[kaios-desert|Kaios Desert]]).[@basilisk.fc02-tales] In Familia Chronicle 2 a tamed basilisk is "Resheph’s trump card" in the war of [[ali|Ali]]'s story; it kills its own tamer, and [[ottar|Ottar]] splits it down the middle with one tremendous slash.[@basilisk.fc02-ottar]
+The **basilisk** is a giant serpent and "unmistakably a member of the dragon family", which breathes fire and spreads a paralyzing toxin "that seemed to petrify those afflicted by it". In ancient times basilisks destroyed countless cities, and tales of them are still told all over Kaios (see [[kaios-desert|Kaios Desert]]).[@basilisk.fc02-tales] In Familia Chronicle 2 a tamed basilisk is "Resheph’s trump card" in the war of [[ali|Ali]]'s story. It appears behind Gorza's main force from the direction of the supply lines ("I-it can’t be…a basilisk?!"), a name that "every resident of the desert realm knew from bedtime stories", and tramples the soldiers in its path.[@basilisk.fc02-supply] The collar around one of its fangs, a fang "as large as a grown man", "might not have been a finished product": the basilisk kills its own tamer with its tail and turns its gaze on [[ottar|Ottar]], who splits it down the middle with one tremendous slash.[@basilisk.fc02-supply, basilisk.fc02-ottar]
 
 ### Arachne {#arachne}
 
@@ -645,7 +645,7 @@ The **arachne** is "the humanoid spider". The arachne of the [[xenos|Xenos]], [[
 
 ### Hippogriff {#hippogriff}
 
-The only **hippogriff** located in the checked text is Cliff of the [[xenos|Xenos]], who "preferred to be airborne" and was "lighthearted and cheerful". In DanMachi 10 he travels with Ranieh's party, dives at Ikelos Familia's hunters "over and over from high above", and is brought down by a spell and killed with spears.[@hippogriff.fm10-cliff]
+The only **hippogriff** located in the checked text is Cliff of the [[xenos|Xenos]], who "preferred to be airborne" and was "lighthearted and cheerful". In DanMachi 10 he travels with Ranieh's party, dives at Ikelos Familia's hunters "over and over from high above", and is brought down by a spell and killed with spears.[@hippogriff.fm10-cliff] Earlier, when giant insects attack the party, Ranieh calls "Fia, Cliff!", and the harpy leaps "with the mightily howling hippogriff" to clear the skies with "feathery projectiles and a razor-sharp beak"; after his death, "A griffin’s eyes smoldered with anger that the hippogriff had been murdered."[@hippogriff.fm10-skies]
 
 ### Griffin {#griffin}
 
@@ -1197,3 +1197,11 @@ The only **hippogriff** located in the checked text is Cliff of the [[xenos|Xeno
 [@dark-fungus.fm09-wall]: FM09 | Chapter 5: Heretics | "It’s not a wall—they’re dark fungi!!"; "the Swift-Strike Magic slammed into the colony of dark fungi directly behind it".
 [@dark-fungus.so03-skewer]: SO03 | Chapter 3: A Hideous Beauty | "she dashed through the poisonous cloud and skewered the dark fungi before finishing off the rest".
 [@brief.fm12-urchin]: FM12 | Chapter 6: The Hero’s Sacred Flame | "As Mikoto leaped out into the path of the crystallus urchin, it hurtled forward, cutting up the monsters in its way."; "bisected the hard body of the crystallus urchin"
+[@dungeon-lizard.fm01-fight]: FM01 | Chapter 5: The Goddess’s Prank | "The Dungeon Lizard must have sensed my blade. It made straight for the wall."; "I plunge my blade deep into the lizard’s back."; "I didn’t have any trouble dispatching the Dungeon Lizard and the goblin, even though it was two on one."
+[@dungeon-lizard.fm10-wall]: FM10 | Chapter 7: The King of Atrocity | "Several kobolds and a dungeon lizard climbing on the wall appear as I meander through the Dungeon halls."
+[@hippogriff.fm10-skies]: FM10 | Chapter 7: The King of Atrocity | "Fia, Cliff!"; "leaped with the mightily howling hippogriff"; "feathery projectiles and a razor-sharp beak"; "A griffin’s eyes smoldered with anger that the hippogriff had been murdered."
+[@deformis-spider.so01-tione]: SO01 | Chapter 2: Dungeon Confusion | "She grabbed the handle of her Kukri throwing knife, still embedded in the beast’s neck"; "The still-twitching deformis spider split in two pieces"; "Therefore, it was the strongest monster on the fifty-first floor."; "Even swarms of black rhinos and deformis spiders wouldn’t stand a chance."
+[@deformis-spider.so11-eye]: SO11 | Chapter 5: Obsession Manifest | "the compound eye of a deformis spider"; "it was possible to replicate your family’s eye with items from the Dungeon"; "the eyes of Daedalus’s descendants were used to make the keys"
+[@light-quartz.fm13-scarf]: FM13 | Chapter 3: The True Intentions of Gale Wind | "Shit, it’s a light quartz!"; "I’m wielding it like a whip, or rather a chain."; "It blocks and repels the beams from multiple light quartzes before crashing straight into them!"
+[@basilisk.fc02-supply]: FC02 | Ali and the 8 Followers | "I-it can’t be…a basilisk?!"; "It was a name that every resident of the desert realm knew from bedtime stories."; "the monster trampled the soldiers in its path"; "might not have been a finished product"
+[@blue-dragon.fm19-breath]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): "Oh! You’re in luck, brats! It’s a blue dragon!"; "Unleashing breath attacks from more than twenty meders overhead"; "The crystals corroded all around them."; "Even the aurora of the blue dragon, which had such a higher potential than the half-elf girl’s."

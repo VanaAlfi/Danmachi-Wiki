@@ -19,6 +19,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|イシュタル・ファミリア}}", "refs": ["fm07-ishtar-familia-ja"]},
       {"label": "Deity", "value": "[[ishtar|Ishtar]]", "refs": ["fm07-eina", "fm07-meeting"]},
       {"label": "Territory", "value": "The whole [[pleasure-quarter|Pleasure Quarter]]", "refs": ["fm07-eina"]},
       {"label": "Home", "value": "Belit Babili", "refs": ["fm07-search"]},
@@ -37,7 +38,7 @@
 
 [[eina-tulle|Eina]] tells [[bell-cranell|Bell]] that Ishtar Familia earned a great deal in the Dungeon by day, but drew 40 percent of its income from the Pleasure Quarter in the third district. About 90 percent of its members were women, most of them Amazons.[@fm07-eina] Its home was the palace Belit Babili, and when Phryne makes off with Bell the search draws in the whole Familia: animal people, elves and noncombatants, adventurers and prostitutes alike.[@fm07-search] Ishtar's leading Amazons meet in a room on the twentieth floor of the home.[@fm07-meeting] [[haruhime|Haruhime]] is not on the Guild's roster, and Eina guesses she is a noncombatant without a Blessing.[@fm07-eina]
 
-Ishtar kept a ring of handsome male servants around her, Tammuz chief among them.[@fm07-servants] Her Charm weighed on her followers: [[aisha-belka|Aisha]] felt it more than anyone else in the room and could not even think against her goddess, though she kept her own will.[@fm07-charm] DanMachi 18 sets Samira, who took part in the Killing Stone ritual willingly, against Aisha, who could not resist the Charm, and [[lena-tully|Lena]] and others, who were threatened.[@fm18-samira]
+Ishtar kept a ring of handsome male servants around her, Tammuz chief among them.[@fm07-servants] Her Charm weighed on her followers: [[aisha-belka|Aisha]] could never have rebelled against her goddess anyway, though she kept her own will.[@fm07-charm] DanMachi 18 sets Samira, who took part in the Killing Stone ritual willingly, against Aisha, who could not resist the Charm, and [[lena-tully|Lena]] and others, who were threatened.[@fm18-samira]
 
 {{nocite}} Members named in the novels include:
 
@@ -51,9 +52,9 @@ Ishtar kept a ring of handsome male servants around her, Tammuz chief among them
 
 ## The Berbera {#berbera}
 
-The Berbera were the Familia's leaders and its strongest Amazon warriors.[@fm07-meeting] Eina says most of them were Level 3, apart from their Level 5 leader Phryne.[@fm07-eina] On the night of the ritual, half of the Berbera, including almost every member of Level 3 or higher, more than a hundred Amazons, gathered in the Floating Garden.[@fm07-ritual] DanMachi 14 recalls them in the Dungeon: they killed the [[amphisbaena|Amphisbaena]] many times, a monster that usually took more than twenty Berbera, and in the deep levels Haruhime was dragged into battle to chant for them while Amazons fell around her.[@fm14-amphisbaena, fm14-deep]
+The Berbera were the Familia's leaders and its strongest Amazon warriors.[@fm07-meeting] Eina says most of them were Level 3, apart from their Level 5 leader Phryne.[@fm07-eina] On the night of the ritual, most of the Berbera posted in the palace, including almost every member of Level 3 or higher, more than a hundred Amazons, gathered in the Floating Garden.[@fm07-ritual] DanMachi 14 recalls them in the Dungeon: they killed the [[amphisbaena|Amphisbaena]] many times, a monster that usually took more than twenty Berbera, and in the deep levels Haruhime was dragged into battle to chant for them while Amazons fell around her.[@fm14-amphisbaena, fm14-deep]
 
-After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's crew, most of them Level 3, still meet for drinks although they have all converted to different Familias.[@so08-drinks] DanMachi 19 still calls them "Lady Ishtar's Berbera", one of the powerful groups that earned the Familia its A rank.[@fm19-rank]
+After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's crew, most of them Level 3, still meet for drinks although they have all converted to different Familias.[@so08-drinks] DanMachi 19 recalls that the Familia was rank A before it was disbanded.[@fm19-rank]
 
 ## History
 
@@ -88,7 +89,7 @@ In DanMachi 18 she commands the reserves guarding Haruhime. Haruhime decides to 
 | DanMachi 8 | Goes after "hunky knights" in [[ares#kingdom-of-rakia|Rakia]]'s forward camp with Aisha.[@fm08-samira] |
 | Sword Oratoria 12 | Her howl sends the held-back Berbera charging.[@so12-charge] |
 | DanMachi 19 | Has levelled up after the war game.[@fm19-levels] |
-| Minor Myths and Legends 1 | Points Bell out to Aisha.[@ss01-berbera] |
+| Minor Myths and Legends 1 | Out with Aisha when the group spots Bell.[@ss01-berbera] |
 
 ## Tammuz Berrilli {#tammuz-berrilli}
 
@@ -102,9 +103,9 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@fm07-search]: FM07 | Chapter 5: Killing Stone | "Ishtar Familia’s home, Belit Babili"; Phryne takes Bell; the entire Familia, "including animal people, elves, and noncombatants", joins the search.
 [@fm07-servants]: FM07 | Chapter 5: Killing Stone | The ring of shirtless servants; "A dark-skinned human, Ishtar’s preferred servant, Tammuz".
 [@fm07-sacrifice]: FM07 | Chapter 5: Killing Stone | Haruhime's ability, "the reason she would be sacrificed for the benefit of Ishtar Familia to become the power that ends Freya Familia".
-[@fm07-charm]: FM07 | Chapter 6: Yearning of a Hero | Aisha "felt the effects of Ishtar’s Charm far more than anyone else"; the younger Amazons trust her more than Phryne.
+[@fm07-charm]: FM07 | Chapter 6: Yearning of a Hero | Aisha under Ishtar's Charm (the Japanese edition, file c7DR, paragraph 215, says she could never have rebelled anyway); the younger Amazons trust her more than Phryne.
 [@fm07-second]: FM07 | Chapter 6: Yearning of a Hero | "He may not look it, but Tammuz is Level Four."; "her familia’s second in command".
-[@fm07-ritual]: FM07 | Chapter 6: Yearning of a Hero | "Half of Ishtar Familia’s Berbera, including almost all the members Level 3 and higher"; over one hundred Amazons; Samira overseeing the preparations.
+[@fm07-ritual]: FM07 | Chapter 6: Yearning of a Hero | most of the Berbera posted in the palace, including almost all the members Level 3 and higher (the Japanese edition, file c8AX, paragraph 213); over one hundred Amazons; Samira overseeing the preparations.
 [@fm07-mikoto]: FM07 | Chapter 6: Yearning of a Hero | "Hey, Phryne, Aisha. Let me have her!"; Samira had not been part of the rabbit hunt; Haruhime in tears as Samira beats Mikoto.
 [@fm07-tool]: FM07 | Chapter 6: Yearning of a Hero | Phryne: "This here is our tool! One that we’ll use to smash Freya’s lot to bits!"
 [@fm07-attack]: FM07 | Chapter 7: Goddess War | "Freya Familia hadn’t waited for Ishtar Familia to declare war, and they’d attacked first"; the mission "to incapacitate enemy personnel".
@@ -121,7 +122,7 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@fm18-noga]: FM18 | Chapter 9: Flower Language for You | Samira destroying her own limbs as she fights; her shoulder skewered, she headbutts Noga.
 [@fm18-tammuz]: FM18 | Chapter 9: Flower Language for You | A Level 4 human knocked out in one blow; "Tammuz?!"
 [@fm19-levels]: FM19 | Chapter 1: V-V-V for Victory Party | "Ms. Samira, Ms. Lena, and several other Berbera also leveled up."
-[@fm19-rank]: FM19 | Chapter 1: V-V-V for Victory Party | "Ishtar Familia was A before it was disbanded"; "Lady Ishtar’s Berbera".
+[@fm19-rank]: FM19 | Chapter 1: V-V-V for Victory Party | "Ishtar Familia was A before it was disbanded". The Japanese edition (file part0017, paragraph 24) speaks of Lady Ishtar's Familia.
 [@ar01-tammuz]: AR01 | Chapter 9: The Opening Act of Evil | "Tammuz… Tell the Berbera to keep any rats from sniffing around our borders. I don’t care what happens beyond them."
 [@ar01-aisha]: AR01 | Chapter 9: The Opening Act of Evil | "We’ve only just joined"; "Then let’s go, Samira! Let’s have some fun!"
 [@ar02-berbera]: AR02 | Intermission: While the Scales of Justice Tremble | "Have the Berbera deploy south to intercept the other enemy force moving in from the southwest!"
@@ -144,4 +145,5 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@so12-join]: SO12 | Chapter 6: The Divine Providence of Despair | "Antianeira Aisha Belka and the Berbera of the former Ishtar Familia".
 [@so12-guard]: SO12 | Chapter 7: Final War II | Asfi: "Lulune, you and the rest of the Berbera protect Haruhime Sanjouno, no matter what it takes."
 [@so12-charge]: SO12 | Chapter 8: A Heroes’ Chorus | "Samira howled, and the Berbera who had been kept out of the fight on strict orders charged as one."
-[@ss01-berbera]: SS01 | | "Eyewitness Account: The Berbera": Samira points out Bell to Aisha while they are out with "her colleagues from the old Ishtar Familia".
+[@ss01-berbera]: SS01 | | "Eyewitness Account: The Berbera": Aisha is out with Samira and her colleagues from the old Ishtar Familia when one of them points out Bell. The Japanese edition (file part0087, paragraphs 3–5) does not say who speaks.
+[@fm07-ishtar-familia-ja]: FM07 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

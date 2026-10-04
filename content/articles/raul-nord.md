@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ラウル・ノールド}}", "refs": ["fm11-raul-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so04-raul"]},
       {"label": "Age", "value": "Twenty-one in Sword Oratoria 4", "refs": ["so04-raul"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]; in Orario about a year before the Great Conflict", "refs": ["so04-raul", "ar02-raul"]},
       {"label": "Level", "value": "4", "refs": ["so04-level", "so13-raul"]},
-      {"label": "Title", "value": "High Novice", "refs": ["fm11-novice"]}
+      {"label": "Title", "value": "High Novice ({{ja|超凡夫}}, written *super-ordinary man*)", "refs": ["fm11-novice", "fm11-raul-ja"]}
     ]
   }
 }
@@ -66,3 +67,4 @@ Raul had been in [[orario|Orario]] only about a year when the [[great-conflict|G
 [@so01-raul]: SO01 | Chapter 2: Dungeon Confusion | "Gareth, the latter carrying Raul’s limp body over his shoulder".
 [@so01-command]: SO01 | Chapter 3: White Rabbit | Riveria: "Raul, take command for this battle. Finn believes you are ready to gain some experience."
 [@ar02-bridge]: AR02 | Chapter 4: Those Who Struggle | "The Bridge of Heroes?"; "Not much room for me back at the forge"; "We need this bridge"; "If it falls, we all fall."; "Raul began to cry, and so did Anakitty"; "A total of six cultists appeared at the far end of the bridge"; "Under the eternal gaze of heroes past, Raul and Anakitty earned their promotion to Level 2."
+[@fm11-raul-ja]: FM11 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning super-ordinary man, with the reading High Novice; the infobox gives the printed name and the kanji.

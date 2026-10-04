@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|フレイヤ・ファミリア}}", "refs": ["fm18-freya-familia-ja"]},
       {"label": "Deity", "value": "[[freya|Freya]]", "refs": ["fm01-freya"]},
       {"label": "Home", "value": "Folkvangr, in the fifth district between South Main and Southeast Main", "refs": ["fm07-folkvangr"]},
       {"label": "Captain", "value": "[[ottar|Ottar]], the Warlord", "refs": ["so04-captain"]},
@@ -36,10 +37,10 @@
 | [[allen-fromel|Allen Fromel]] | Vana Freya | 6 | Cat person; second-in-command in DanMachi 16; older brother of [[anya-fromel|Anya Fromel]].[@fm16-allen, fc02-execs] |
 | [[hedin|Hedin Selrand]] | Hildsleif | 6 | White elf.[@fc02-execs, fm16-hedin] |
 | [[hegni|Hegni Ragnar]] | Dáinsleif | 6 | [[races#dark-elf|Dark elf]]; often paired with Hedin although they are not related.[@fc02-execs, ar01-hegni] |
-| Alfrik, Dvalinn, Berling and Grer Gulliver | Bringar | 5 | Prum quadruplets whose teamwork is counted the best in the Dungeon.[@fc02-execs] |
+| Alfrik, Dvalinn, Berling and Grer Gulliver | Bringar | 5 | Prum quadruplets whose teamwork is counted the best in Orario.[@fc02-execs] |
 | [[heith-velvet|Heith Velvet]] | Vana Mardöll | 4 | Healer and representative of the Andhrímnir; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
 | [[horn|Hörn]] | none | — | Freya's attendant, known as "Nameless" because Freya refused to let the gods give her a title.[@fm16-horn] |
-| Van | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; sent to reinforce Hegni's unit in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
+| Van | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; told by Hedin to deploy Hegni's unit south of the church in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
 | Remilia and Rask | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |
 
 Former members include [[mia-grand|Mia Grand]], the Level 6 *Demi Ymir* and captain before Ottar, who now owns [[the-benevolent-mistress|The Benevolent Mistress]],[@fm18-mia, fc01-owner] and Anya Fromel (*Vana Alfi*), who was sent away after a Deep Levels expedition in which she nearly died.[@fm17-anya, fm18-allen]
@@ -50,7 +51,7 @@ Ottar was the first. At seventeen he was Level 5 and second-in-command; after hi
 
 ## Organisation
 
-Only recognised second-tier members and the core forces know that [[syr-flover|Syr]] exists; members below Level 2 do not. Ordinarily one or two first-tier adventurers guard her.[@fm16-syr]
+Only recognised second-tier members and the core forces know that [[syr-flover|Syr]] exists; members at Level 2 and below do not. Ordinarily one or two first-tier adventurers guard her.[@fm16-syr]
 
 ### Folkvangr and the einherjar {#folkvangr}
 
@@ -97,12 +98,12 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@fm07-ishtar]: FM07 | Epilogue: If Surrounded by Kindness… | The attack on Ishtar Familia; Ishtar sent back.
 [@fm07-fine]: FM07 | Epilogue: If Surrounded by Kindness… | The Guild fine.
 [@fm11-asterios]: FM11 | Chapter 7: The Return of the Hero | Ottar and the rematch with Asterios.
-[@fm16-syr]: FM16 | | Who in the Familia knows about Syr.
+[@fm16-syr]: FM16 | | Who in the Familia knows about Syr. The Japanese edition (file part0029, paragraphs 297 and 298) says members at Level 2 or below are not told of her existence; only second-tier adventurers recognised for their strength are.
 [@fm16-hedin]: FM16 | | Hedin's title; his plan to guard Syr's date.
 [@fm16-horn]: FM16 | Chapter 6: The Wish’s Cost | Hörn's attempt and her position in the Familia.
 [@fm17-guards]: FM17 | Chapter 5: The End of Her World | "My impromptu guards are Remilia and Rask."
 [@fm18-guards]: FM18 | Chapter 9: Flower Language for You | Rask and Remilia, guards for the house of the gods, pass on Freya's order.
-[@ar01-van]: AR01 | Chapter 9: The Opening Act of Evil | "Van! Go and reinforce Hegni’s unit to the south!"; "Van, the half-prum adventurer waiting below, reacted quickly and followed his new orders."
+[@ar01-van]: AR01 | Chapter 9: The Opening Act of Evil | "Van, the half-prum adventurer waiting below, reacted quickly and followed his new orders." The Japanese edition (file c4VY, paragraph 358) has Hedin tell Van to deploy Hegni's unit south of the church.
 [@fm16-van]: FM16 | Chapter 4: Full Princess Panic! | "Van was charged with leading one of the units guarding Syr. In his thirties, he had an attractive, androgynous face, was short, had an odd air about him, and in general appeared to be a somewhat sloppy sort of man."; "So it was Van’s squad…Mindless fools, do you wish to tarnish Lady Freya’s honor?"; "the half-prum Van was running amok".
 [@fm17-van]: FM17 | Chapter 3: The Field of Battle | "a fellow Level 4, Van, is supposed to look after me as I go through my daily activities"; "Van spins in my direction, his twin blades hurtling toward my chest."
 [@fm16-allen]: FM16 | Chapter 6: The Wish’s Cost | Allen as Vana Freya and Anya's brother.
@@ -126,7 +127,7 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@fm20-guards]: FM20 | Chapter 1: Orario Rumble | Guards; Folkvangr seized.
 [@fm20-ottar]: FM20 | Chapter 2: Lion and then Sword Princess | Ottar still a Level 7 benchmark.
 [@so04-captain]: SO04 | First Chapter: And the Boy… | Ottar as captain; Vana Freya and Bringar block Loki Familia.
-[@fc02-execs]: FC02 | Ali and the 8 Followers | The executives, their races and Levels.
+[@fc02-execs]: FC02 | Ali and the 8 Followers | The executives, their races and Levels; the Gulliver brothers: "their teamwork was indisputably the best in the Labyrinth City".
 [@fc02-origin]: FC02 | The Origin of the Strongest | Ottar's rise; order of recruitment.
 [@fc02-pasts]: FC02 | Their Various Pasts | Heodenings; the Fromel siblings.
 [@ar01-ottar]: AR01 | Chapter 6: Assemblies of Light and Dark | Ottar the only Level 6 in Orario.
@@ -135,3 +136,4 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@ar02-allen]: AR02 | Chapter 2: Wavering Justice | Allen at Level 5, Ottar at 6.
 [@ar03-ottar]: AR03 | | Ottar defeats Zald and reaches Level 7.
 [@ar03-hegni]: AR03 | Epilogue: On and on Down the Unending Road of Justice | The other leaders reach Level 6.
+[@fm18-freya-familia-ja]: FM18 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

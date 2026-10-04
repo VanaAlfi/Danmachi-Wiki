@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ミィシャ・フロット}}", "refs": ["fm08-misha-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so02-misha", "fm11-outburst"]},
       {"label": "Height", "value": "150 celch", "refs": ["so02-misha", "fm11-outburst"]},
       {"label": "Hair", "value": "Pink (\"peach-pink\", \"cherry blossom–colored\")", "refs": ["fm08-friend", "so02-misha", "fm15-recruits"]},
@@ -26,11 +27,11 @@
   }
 }
 ---
-**Misha Frot** is a human receptionist at the [[guild|Guild]] and the friend and coworker of [[eina-tulle|Eina Tulle]] since their school days.[@so02-misha, fm08-friend] She is short, at 150 celch, with peach-pink hair and a round, baby face, unusual among the Guild's receptionists.[@so02-misha] DanMachi 15 prints her surname *Frott*.[@fm15-recruits, fm15-drinks]
+**Misha Frot** is a human receptionist at the [[guild|Guild]] and the friend and coworker of [[eina-tulle|Eina Tulle]] since their school days.[@so02-misha, fm08-friend] She is short, at 150 celch, with peach-pink hair and a round, baby face, unusual among the Guild's receptionists.[@so02-misha] DanMachi 15 prints her surname *Frott*, the spelling the Japanese edition supports.[@fm15-recruits, fm15-drinks, fm08-misha-ja]
 
 ## Character
 
-- **Looks.** Her pink hair swishes as she waves, and she has "a highly expressive face and cute features".[@fm08-friend] Sword Oratoria 2 calls her eyes innocent.[@so02-misha]
+- **Looks.** Her pink hair swishes as she waves, and she has "a highly expressive face and cute features".[@fm08-friend] Sword Oratoria 2 calls her looks innocent.[@so02-misha]
 - **Manner.** She is cheerful and loud, "totally disproportionate to her tiny 150-celch frame", often in tears or hungry, and leans on Eina.[@fm11-outburst, fm08-friend, fm04-paperwork]
 - **Adventurer rankings.** She loves the weekly adventurer rankings, as she did back at the [[school-district|School District]].[@ss01-rankings]
 - **Reputation.** When the Guild needs a School District graduate for a meeting in DanMachi 19, it chooses Eina over Misha, who "might've thrown this whole meeting into chaos".[@fm19-graduate] School District students still speak of "the Miracle of Frot": five years earlier she passed despite a Z on the Guild practice exam.[@fm19-miracle]
@@ -70,9 +71,10 @@ Misha and Eina were schoolmates, both graduated from the School District, and en
 [@fm17-royman]: FM17 | Chapter 5: The End of Her World | "Protect Freya Familia!!!"; "Misha interjected on hearing the order"; "E-Eina! I’m not sure how to feel about it, but we should probably do what he…!"
 [@fm19-graduate]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Misha graduated from the School District, too…"; "Frot wouldn’t have worked."
 [@fm19-miracle]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): "five years ago, there was the Miracle of Frot! She passed even though she got a Z on the practice exam!"
-[@so02-misha]: SO02 | Chapter 4: Orb | Loki: "Oh, Misha."; "Misha Frot worked at the Guild as one of the receptionists"; met "at the Monsterphilia"; "standing at 150 celch"; "peach-pink hair".
+[@so02-misha]: SO02 | Chapter 4: Orb | Loki: "Oh, Misha."; "Misha Frot worked at the Guild as one of the receptionists"; met "at the Monsterphilia"; "standing at 150 celch"; "peach-pink hair". The Japanese edition (file c2AJ, paragraph 10) speaks of her innocent looks.
 [@so03-request]: SO03 | | "startling the receptionist behind the counter, Misha Frot"; "Frot, don’t tell me…You lost it?"
 [@so04-application]: SO04 | First Chapter: And the Boy… | "Misha Frot cheerfully replied as she accepted the application parchment from Gareth."
 [@so06-welcome]: SO06 | Chapter 1: Quest Results & Next Quest | "Misha Frot at your service! Welcome back!"
 [@so12-royman]: SO12 | Chapter 7: Final War II | "Tulle! See to it that every familia works together! Frot is useless!"; "Frot, go to the Benevolent Mistress!"
 [@ss01-rankings]: SS01 | Bell Cranell☆Ranking: Events of a Half Year | "this week’s adventurer rankings"; "You always did, even back at the School District."
+[@fm08-misha-ja]: FM08 | | The Japanese edition prints her name in katakana, the surname with a doubled t (Frott); the infobox gives that printed form.

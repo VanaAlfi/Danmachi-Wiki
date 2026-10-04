@@ -17,6 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Organisation"},
+      {"label": "Japanese", "value": "{{ja|ギルド}}", "refs": ["fm01-guild-ja"]},
       {"label": "Founder and true leader", "value": "[[ouranos|Ouranos]]", "refs": ["so02-ouranos", "fm09-ouranos"]},
       {"label": "Head", "value": "Royman Mardeel, an elf", "refs": ["fm09-royman"]},
       {"label": "Headquarters", "value": "Northwest Main Street, called Adventurers Way", "refs": ["so01-northwest", "fm01-ja-hq"]},
@@ -36,14 +37,14 @@
 | Registration | Familias register with the Guild; only an adventurer's Level and Familia are reported to it.[@fm04-rank, fm02-privacy] |
 | Familia ranks | Every Familia is ranked from I to S; higher ranks bring greater public trust and higher taxes.[@fm04-rank] |
 | Advisers | Staff such as [[eina-tulle|Eina Tulle]] advise new adventurers; new Familias receive guidance and starter gear.[@fm01-eina, ss01-guild] |
-| Dungeon limits | Level 1 adventurers may not go below Floor 12.[@fm02-limit] |
+| Dungeon limits | The eleventh and twelfth floors are held to be the deepest that Level 1 adventurers can clear, a standard of ability rather than a Guild rule.[@fm02-limit] |
 | Expeditions | Familias of rank D and above must take part in periodic Guild expeditions.[@fm12-expedition] |
 | Missions | A mission is a direct Guild order that a Familia cannot refuse.[@fm09-mission] |
 | Penalties | Blacklisting can revoke registration, confiscate loot without payment and lead to imprisonment.[@fm02-blacklist] |
 
 Receptionists are chosen partly for their looks, because their rapport with adventurers affects morale and the flow of magic stones. Advisers are discouraged from growing close to adventurers, since repeated deaths take a toll on staff.[@fm08-guild]
 
-Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who has sworn off adventurers because they "always break their promises"; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi]
+Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi]
 
 [[eina-tulle|Eina]]'s boss is Chief Rehmer, a chienthrope, who appears in the flashback of DanMachi 15; in DanMachi 19 he brings her to the meeting of Royman and the Guild's leadership on the second floor of the headquarters, where the Shaft plan is discussed.[@fm15-rehmer, fm19-rehmer]
 
@@ -51,7 +52,7 @@ Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Ros
 
 The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Yen Press's DanMachi 1 prints West Main Street for it, but the Japanese original of that volume agrees with Sword Oratoria 1 and DanMachi 8.[@fm01-west, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
 
-The building is called the **Pantheon**, "temple of the gods": it is built of white marble, its front lined with large pillars, with monuments on the front lawn that greet adventurers at the doors.[@so01-pantheon] Astrea Record 1 calls it "a grand construction meant to resemble the Pantheon", one of the city centre's primary landmarks, and has the top adventurers of the Familias meet there in a room large enough for hundreds.[@ar01-pantheon] Its crowds of adventurers can rival those on the street outside.[@so02-crowds] In DanMachi 8 the soldiers captured from Rakia are held in chambers deep inside it.[@fm08-chambers]
+The building is called the **Pantheon**, "temple of the gods": it is built of white marble, its front lined with large pillars, with monuments on the front lawn that greet adventurers at the doors.[@so01-pantheon] Astrea Record 1 calls it "a grand construction meant to resemble the Pantheon", one of the city centre's primary landmarks, and has the top adventurers of the Familias meet there in a large conference room seating more than a hundred.[@ar01-pantheon] Its crowds of adventurers can rival those on the street outside.[@so02-crowds] In DanMachi 8 the soldiers captured from Rakia are held in chambers deep inside it.[@fm08-chambers]
 
 ### Chamber of Prayers {#chamber-of-prayers}
 
@@ -72,7 +73,7 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
 [@fm01-eina]: FM01 | | Eina as Bell's adviser.
 [@fm02-privacy]: FM02 | | Level and Familia reported to the Guild.
-[@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1.
+[@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1. The Japanese edition (file c5J8, paragraph 49) calls the eleventh and twelfth floors the deepest a Level 1 adventurer is considered able to clear.
 [@fm02-blacklist]: FM02 | Chapter 5: Reset | Blacklisting.
 [@fm04-rank]: FM04 | | Registration and Familia ranks.
 [@fm05-calamity]: FM05 | Epilogue: The One Who Targets the Rabbit | "Calamity."
@@ -82,7 +83,7 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@fm19-rehmer]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Rehmer and Eina at the leadership's meeting on the second floor.
 [@fm08-store]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Guild headquarters on Adventurers Way.
 [@so01-pantheon]: SO01 | Chapter 3: White Rabbit | "Built from white marble with the front lined with a series of large pillars, this building was called the Pantheon, temple of the gods. Several monuments stood on the front lawn, greeting the adventurers traveling through the front doors."
-[@ar01-pantheon]: AR01 | Chapter 6: Assemblies of Light and Dark | "On Northwest Main Street, the road known as Adventurers Way, stood an impressive building. It was a grand construction meant to resemble the Pantheon, and many people considered it one of the city center’s primary landmarks."; "a room large enough to house hundreds"; "This assembly consisted of familia captains, their seconds, and other top officers."
+[@ar01-pantheon]: AR01 | Chapter 6: Assemblies of Light and Dark | "On Northwest Main Street, the road known as Adventurers Way, stood an impressive building. It was a grand construction meant to resemble the Pantheon, and many people considered it one of the city center’s primary landmarks."; "This assembly consisted of familia captains, their seconds, and other top officers." The Japanese edition (file c3GG, paragraph 5) gives a large conference room seating more than a hundred.
 [@so02-crowds]: SO02 | Chapter 1: The Average Day | "Working their way through the Pantheon’s massive crowds of adventurers that could rival the throng on the main street outside, they made their way to a large bulletin board."
 [@fm08-chambers]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "The captured enemy soldiers were held in chambers deep in the Pantheon, far out of sight."
 [@fm11-chamber]: FM11 | | Printed heading "Chapter 2: Diverging Strands, Intersecting Plans" (not in the evidence map): "The sound of the rain did not penetrate the underground temple built beneath Guild Headquarters. In the Chamber of Prayers, illuminated by four torches, Ouranos sat still as a statue while looking down on Royman, head of the Guild".
@@ -102,8 +103,9 @@ Beneath the headquarters lies the **Chamber of Prayers**, an underground temple 
 [@so01-northwest]: SO01 | Chapter 3: White Rabbit | Adventurers Way.
 [@so02-ouranos]: SO02 | | Ouranos founded the Guild.
 [@ss01-guild]: SS01 | | Advisers and starter gear for new Familias.
-[@fm08-rose]: FM08 | Chapter 4: Beloved Bodyguard | "But, Rose, you’ve sworn off adventurers, haven’t you?"; "Adventurers always break their promises."
+[@fm08-rose]: FM08 | Chapter 4: Beloved Bodyguard | "But, Rose, you’ve sworn off adventurers, haven’t you?". The Japanese edition (file part0024, paragraphs 173–176) has her say adventurers are absolutely out of the question, for nothing good comes from being with people in a hurry to die.
 [@fm15-rose]: FM15 | Chapter 4: Guild Alone | "Kid wants an elf! Sophie, you wanna take him?"; "Sophie was a beautiful elven woman who had entered the Guild at the same time Rose had"; "always among the top two most popular employees"; "adventurers who aren’t going to last"; "want to bet on how long that kid has?"
 [@fm15-rose2]: FM15 | | Printed heading "Interlude: I, His Adviser" (not in the evidence map): "Rose was a beautiful werewolf woman with long red hair"; "a capable coordinator".
 [@so09-rose]: SO09 | Recollections Chapter 1: The Young Girl’s Beginnings | "The bored werewolf receptionist waiting at the counter"; "You can stop with the formal greetings, Rose."; Riveria and the girl's registration sheet.
 [@so09-sofi]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "a man—a god—with orange hair talking to a receptionist"; "Were you lonely without me, Sofi?!"; "a lovely elf gives me the cold shoulder".
+[@fm01-guild-ja]: FM01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.

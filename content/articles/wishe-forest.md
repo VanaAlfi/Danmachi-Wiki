@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Elven village"},
+      {"label": "Japanese", "value": "{{ja|ウィーシェの森}}", "refs": ["so13-wishe-ja"]},
       {"label": "Location", "value": "The great river of trees across the centre of the Continent; a harbour lies to the south of it", "refs": ["so13-open", "so13-school"]},
       {"label": "Named after", "value": "Wishe, one of the three great bards", "refs": ["so13-bard"]},
       {"label": "Known for", "value": "Openness to other races; strong magic; the sacred tree's crown of light", "refs": ["so13-open", "so03-magic", "so11-crown"]},
@@ -42,7 +43,7 @@ The village's sacred tree, the Great Tree, is famed for its crown of light. In S
 
 ## Lefiya's childhood
 
-As a child Lefiya begged travellers at the village tavern for stories and dreamed of "a sea of sand called the Kaios Desert" and of the Dungeon. She had a secret garden of little white flowers, reached through a tunnel of tilted trees.[@so13-dream] On her eighth birthday news came that the [[school-district|School District]] had stopped at the port town to the south; her parents let her go without argument, and asked only to hear what she saw and learned in the world, "just like Wishe did".[@so13-school] Back in the forest she had also heard countless stories about the Dungeon.[@so13-pit]
+As a child Lefiya begged travellers at the village tavern for stories and dreamed of "a sea of sand called the Kaios Desert" and of the Dungeon. She had a secret garden of little white flowers, reached through a tunnel of tilted trees.[@so13-dream] When she was eight, news came that the [[school-district|School District]] had stopped at the port town to the south; her parents let her go without argument, and asked only to hear what she saw and learned in the world, "just like Wishe did".[@so13-school] Back in the forest she had also heard countless stories about the Dungeon.[@so13-pit]
 
 ## The café Wishe
 
@@ -57,7 +58,8 @@ In Orario a café named Wishe, "an elf establishment", stands on a narrow side s
 [@so13-open]: SO13 | Fairy Canon: 1 | "Lefiya’s home, Wishe Forest, was an unusual place."; "Located in the great river of trees that spread across the center of the continent, Wishe Forest was a transit hub for merchants and travelers crossing the continent."; "drew a distinct line between themselves and the outside world"; "Sociable, compatible with other races, and possessing magic powers that stood out even among fellow elves."; "That was the trademark of a Wishe Forest elf."
 [@so13-bard]: SO13 | Fairy Canon: 1 | "My fellow elves, leave the woods and gaze upon the world."; "one of the three great bards whose names survived from the distant past"; "an uninhibited, rootless traveler"; "recovered the forest where Wishe was born from the monsters that had taken it over"; "taking the bard’s name for the village".
 [@so13-dream]: SO13 | Fairy Canon: 1 | "a sea of sand called the Kaios Desert"; "a field of countless little white flowers that only Lefiya knew about"; "the sacred tree of Wishe Forest, famed for its crown of light".
-[@so13-school]: SO13 | Fairy Canon: 1 | "The School District showed up in the port town to the south!"; "It was the day she turned eight."; "Per Wishe’s teachings, they encouraged their children setting out into the world."; "just like Wishe did".
+[@so13-school]: SO13 | Fairy Canon: 1 | "The School District showed up in the port town to the south!"; "Per Wishe’s teachings, they encouraged their children setting out into the world."; "just like Wishe did". The Japanese edition (file part0021, paragraph 46) says it was a day when Lefiya was eight.
 [@so13-pit]: SO13 | Fairy Canon: 2 | "Lefiya had heard countless stories about the Dungeon back in Wishe Forest."
 [@so13-cafe]: SO13 | Fairy Canon: 2 | "It was a shop by the name of Wishe nestled on a narrow side street in the southwest of Orario."
 [@fm18-cafe]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "this is an elf establishment"; "The café was called Wishe."; "the café where Hedin had carried off a certain young boy, and also where Finn had consulted the same boy".
+[@so13-wishe-ja]: SO13 | | The Japanese edition prints the name in katakana with the word for forest; the infobox gives that printed form.

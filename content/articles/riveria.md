@@ -14,11 +14,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|リヴェリア・リヨス・アールヴ}}", "refs": ["fm05-riveria-ja"]},
       {"label": "Race", "value": "[[races#high-elf|High elf]], of royal blood", "refs": ["so01-riveria"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "7, from Sword Oratoria 14", "refs": ["so14-sevens"]},
-      {"label": "Title", "value": "Nine Hell", "refs": ["so03-titles"]},
+      {"label": "Title", "value": "Nine Hell ({{ja|九魔姫}}, written *nine-magic princess*)", "refs": ["so03-titles", "fm05-riveria-ja"]},
       {"label": "Magic", "value": "Nine spells in three kinds; see [[#riveria-nine-spells|the full list]]", "refs": ["so04-nine", "riveria-nine-spells.so06-sheet"]},
       {"label": "Skills", "value": "[[skills#fairy-anthem|Fairy Anthem]], [[skills#alf-regina|Alf Regina]]", "refs": ["skills.so06-sheet", "skills.so10-alf"]}
     ]
@@ -69,11 +70,11 @@ Her spells come in three kinds, attack, defence and healing, each at three level
 | Print | Ending of the second piece |
 |---|---|
 | Sword Oratoria 1 (Riveria; Lefiya through Elf Ring) | "…—My name is Alf!"[@wynn-fimbulvetr.so01-riveria, wynn-fimbulvetr.so01-lefiya] |
-| Sword Oratoria 14 (Riveria's first cast) | "…, advent of the end—My name is Alf!"[@wynn-fimbulvetr.so14-first] |
-| Astrea Record 1 (Riveria against Alfia) | "…, advent of the end—my name is Alf!"[@wynn-fimbulvetr.ar01-alfia] |
+| Sword Oratoria 14 (Riveria's first cast) | "…, advent of the end—My name is Alf!" The Japanese first and second casts end {{ja|吹雪け、三度の厳冬──我が名はアールヴ|fubuke, mitabi no gentō — waga na wa Āruvu}}, *Blow, thrice-harsh winter — my name is Alf*, with no "advent of the end"; the phrase ends only the third cast, which is chained into Rea Laevateinn: {{ja|吹雪け、三度の厳冬────終焉の訪れ|fubuke, mitabi no gentō — shūen no otozure}}.[@wynn-fimbulvetr.so14-first] |
+| Astrea Record 1 (Riveria against Alfia) | "…, advent of the end—my name is Alf!" The Japanese ends this cast as in the first row, *Blow, thrice-harsh winter — my name is Alf*, with no "advent of the end".[@wynn-fimbulvetr.ar01-alfia] |
 | Sword Oratoria 4 (concatenated) | "…—advent of the end." The chant does not end there: she continues into Rea Laevateinn's lines.[@wynn-fimbulvetr.so04-concat] |
 
-{{nocite}} The phrase "advent of the end" appears only in the Sword Oratoria 14, Astrea Record 1 and Sword Oratoria 4 prints. This wiki does not decide whether it belongs to every cast; it is recorded where it is printed.
+{{nocite}} The phrase "advent of the end" appears only in the Sword Oratoria 14, Astrea Record 1 and Sword Oratoria 4 prints. In the Japanese of Sword Oratoria 14 it closes only the cast that is chained into the next tier; a plain cast ends with "my name is Alf" (see the first row), and so does the Astrea Record 1 cast.
 
 #### First cast {#wynn-fimbulvetr-first-cast}
 
@@ -216,7 +217,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 - **Protection:** when Riveria casts it, it can protect an adventurer even from a [[monsters#valgang-dragon|valgang dragon]]'s great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the fifty-second floor, it cancels most of a fireball's damage.[@veil-breath.so04-party]
 - **Healing:** as a side effect, it heals; in Sword Oratoria 12 [[aisha-belka|Aisha]]'s fractured bones mend under it.[@veil-breath.so12-lefiya]
-- **Targets:** Sword Oratoria 2 describes it settling on "a single target".[@veil-breath.so02-aiz] Other scenes show it covering several people at once: Lefiya and her three rescuers, the whole Loki Familia party, four fighters, or every member of Astrea Familia.[@veil-breath.so04-party, veil-breath.so12-lefiya, veil-breath.ar03-astrea] This wiki records both descriptions.
+- **Targets:** Sword Oratoria 2 describes it protecting its target.[@veil-breath.so02-aiz] Other scenes show it covering several people at once: Lefiya and her three rescuers, the whole Loki Familia party, four fighters, or every member of Astrea Familia.[@veil-breath.so04-party, veil-breath.so12-lefiya, veil-breath.ar03-astrea]
 
 {{nocite}} Notable uses and open questions for Veil Breath are on the combined page: [[magic#veil-breath|Magic § Veil Breath]].
 
@@ -301,7 +302,7 @@ Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as 
 
 ## Name
 
-DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
+DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual name there.[@fm06-reveria, fm06-reveria-ja]
 
 ## Open questions
 
@@ -328,8 +329,8 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@wynn-fimbulvetr.so01-lefiya]: SO01 | Chapter 5: To Battle | Summoned through Elf Ring; three monsters frozen.
 [@wynn-fimbulvetr.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; nine spells; "advent of the end"; ice to flame.
 [@wynn-fimbulvetr.so06-bridge]: SO06 | | Bridge of sea ice; immense Mind.
-[@wynn-fimbulvetr.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | First cast; "advent of the end—My name is Alf!"; knights frozen.
-[@wynn-fimbulvetr.ar01-alfia]: AR01 | | Riveria's chant against Alfia, cancelled by Ataraxia.
+[@wynn-fimbulvetr.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | First cast; "advent of the end—My name is Alf!"; knights frozen. The Japanese edition (file part0020, paragraph 375; part0023, paragraph 51; part0025, paragraph 45) ends the first and second casts with my name is Alf and the third, chained cast with advent of the end.
+[@wynn-fimbulvetr.ar01-alfia]: AR01 | | Riveria's chant against Alfia, cancelled by Ataraxia. The Japanese edition (file c67J, paragraph 124) ends the cast with my name is Alf.
 [@wynn-fimbulvetr.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
 [@wynn-fimbulvetr.so14-cave]: SO14 | Chapter 3: The Dwarf’s Embarking | Ice cave in the collapse; past Mind Down.
 [@rea-laevateinn.so01-wall]: SO01 | | Prologue: the end of the long incantation; pillars of flame; allies safe inside the circle.
@@ -347,7 +348,7 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@via-shilheim.so10-release]: SO10 | Chapter 5: Brave Soul! | Released to stop a volley; eleven elves.
 [@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.
 [@via-shilheim.fm10-smoke]: FM10 | Chapter 10: The Fool | Kept up because the smoke might be poisonous.
-[@veil-breath.so02-aiz]: SO02 | Chapter 6: Parched Scream | The line and name; "Riveria’s support magic"; single target; set time; slight healing.
+[@veil-breath.so02-aiz]: SO02 | Chapter 6: Parched Scream | The line and name; "Riveria’s support magic"; set time; slight healing. The Japanese edition (file c55N, paragraph 45) calls it a robe of light that raises resistance to physical and magic attacks and protects the target.
 [@veil-breath.so04-party]: SO04 | | "Veil Breath!!" from the fifty-second floor; fireball damage cancelled; the whole party protected.
 [@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
 [@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
@@ -363,3 +364,5 @@ DanMachi 6 prints her name as *Reveria*.[@fm06-reveria]
 [@veil-breath.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): defense magic Via Shilheim, level 2 Veil Breath.
 [@luna-aldis.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): healing magic Van Alheim; levels Fil Eldis, Luna Aldis, Van Alheim.
 [@so05-rishena]: SO05 | Interlude: Flip Side of the Compromise | Lefiya: "All our nobles are descended from Lady Celdia’s younger sister Lady Rishena! Including our very own Lady Riveria!"; Alicia: "Lady Celdia is an eternal saint!"
+[@fm05-riveria-ja]: FM05 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning nine-magic princess, with the reading Nine Hell; the infobox gives the printed name and the kanji.
+[@fm06-reveria-ja]: FM06 | | The Japanese edition gives her usual name in this passage.

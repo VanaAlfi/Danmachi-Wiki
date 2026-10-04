@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|アイシャ・ベルカ}}", "refs": ["fm07-aisha-ja"]},
       {"label": "Familia", "value": "Ishtar Familia; [[hermes-familia|Hermes Familia]] from DanMachi 9–10", "refs": ["fm07-aisha", "fm10-hermes"]},
       {"label": "Level", "value": "3 in DanMachi 7; 4 after her conversion", "refs": ["fm07-aisha", "fm09-level"]},
-      {"label": "Title", "value": "Antianeira", "refs": ["fm07-aisha"]},
+      {"label": "Title", "value": "Antianeira ({{ja|麗傑}}, written *beautiful heroine*)", "refs": ["fm07-aisha", "fm07-aisha-ja"]},
       {"label": "Magic", "value": "[[#hell-kaios|Hell Kaios]]", "refs": ["fm07-aisha", "fm13-aisha"]}
     ]
   }
@@ -63,6 +64,8 @@ She converts and advances to Level 4; DanMachi 10 confirms her new Familia is He
 
 > Come, reckless conqueror! Oh brave warrior, oh strong hero, oh covetous, cruel champion. Prove your desire for the queen’s girdle. My famished blade is Hippolyta!
 
+In the Japanese edition DanMachi 14 gives the whole chant: {{ja|来れ、蛮勇の覇者。雄々しき戦士よ、たくましき豪傑よ、欲深き非道の英傑よ。女帝の帝帯が欲しくば証明せよ。我が身を満たし我が身を貫き、我が身を殺し証明せよ。飢える我が刃はヒッポリュテー|kitare, ban'yū no hasha. ooshiki senshi yo, takumashiki gōketsu yo, yokubukaki hidō no eiketsu yo. ō no obi ga hoshikuba shōmei seyo. waga mi o mitashi waga mi o tsuranuki, waga mi o koroshi shōmei seyo. ueru waga na wa Hipporyutē}}. The first line, printed "Come, reckless conqueror!", is part of the chant. The challenge is *if you want the empress's girdle, prove it*: Aisha says *ō no obi*, *the ruler's girdle*, and *empress* and *imperial sash* are the written meaning. The third line goes on *fill my body, pierce my body, kill my body and prove it*, which DanMachi 14's English leaves out. In the last line she says *my name* (*waga na*); *blade* is the written meaning.[@hell-kaios.fm14-amphisbaena] DanMachi 7 gives the same lines from the second on, and DanMachi 12 the second, the start of the third and the last.[@hell-kaios.fm07-chant, hell-kaios.fm12-crabs]
+
 {{nocite}} **Notes and other printed variants**
 
 {{nocite}} The chant is several lines long. The novels print it in two different English translations; they are kept apart here and not merged.
@@ -81,16 +84,16 @@ DanMachi 12 prints two lines before the release, and calls the technique a Concu
 - **Excerpt (start of the first printed line):** "Oh brave warrior, oh strong hero…"[@hell-kaios.fm12-crabs]
 - **Last line:** "My famished blade is Hippolyta!"[@hell-kaios.fm12-crabs, hell-kaios.fm14-amphisbaena, hell-kaios.fm18-war]
 
-{{inference}} The two versions follow the same pattern: an address to a warrior hero, a challenge ("the Empress's throne" in DanMachi 7, "the queen's girdle" later), and a last line naming the blade. They are best read as two translations of one chant; the name in the last line changes from *Hipporyute* to *Hippolyta*.[@hell-kaios.fm07-chant, hell-kaios.fm12-crabs] DanMachi 7 also prints a line with no printed counterpart in the later version.[@hell-kaios.fm07-chant]
+The two versions are one chant: the Japanese edition prints the same lines in DanMachi 7, 12 and 14, an address to a warrior hero, a challenge for the empress's girdle, the demand that the challenger fill, pierce and kill her body to prove it, and a last line giving the name Hippolytē. *Hipporyute* and *Hippolyta* are two English spellings of that one name.[@hell-kaios.fm07-chant, hell-kaios.fm12-crabs, hell-kaios.fm14-amphisbaena]
 
-{{nocite}} **Opening call**
+{{nocite}} **First line**
 
-In DanMachi 14 and 18 Aisha opens with a short call before the lines above: "Come, reckless conqueror!"[@hell-kaios.fm14-amphisbaena, hell-kaios.fm18-war] Earlier in DanMachi 14 a similar call, "With me, brave conqueror!", is printed alone as she starts a Concurrent Chant to draw the monster's attention.[@hell-kaios.fm14-decoy] DanMachi 7 and 12 do not print an opening call; whether it is always part of the chant is not stated.
+In DanMachi 14 and 18 Aisha begins with "Come, reckless conqueror!"[@hell-kaios.fm14-amphisbaena, hell-kaios.fm18-war] Earlier in DanMachi 14, "With me, brave conqueror!" is printed alone as she starts a Concurrent Chant to draw the monster's attention; in the Japanese edition both are the same line, the chant's first, set inside the chant brackets like the others.[@hell-kaios.fm14-decoy, hell-kaios.fm14-amphisbaena] DanMachi 7 and 12 do not print it.
 
 #### Effects {#hell-kaios-effects}
 
 - The wave is released through her weapon, which she drives into the ground or throws down; magical energy runs down the blade and follows the shock wave.[@hell-kaios.fm07-bell, hell-kaios.fm12-crabs, hell-kaios.fm13-lambton]
-- In DanMachi 7 it grows to twice Bell's size before he meets it with an Argonaut-charged broadsword.[@hell-kaios.fm07-bell]
+- In DanMachi 7 it is far larger than Bell when he meets it with an Argonaut-charged broadsword.[@hell-kaios.fm07-bell]
 - In DanMachi 13 it forms a cutting wave four meders long that beheads the lambton, collar and all.[@hell-kaios.fm13-lambton]
 - In DanMachi 14, while boosted by [[haruhime|Haruhime]], it tears into the [[amphisbaena|Amphisbaena]] and shatters its magic stone.[@hell-kaios.fm14-amphisbaena]
 
@@ -104,10 +107,11 @@ In DanMachi 14 and 18 Aisha opens with a short call before the lines above: "Com
 [@fm14-aisha]: FM14 | | The Amphisbaena.
 [@fm14-haruhime]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Aisha and Haruhime.
 [@fm15-aisha]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Aisha's advice.
-[@hell-kaios.fm07-chant]: FM07 | | Concurrent Casting; four chant lines ending "Hipporyute".
-[@hell-kaios.fm07-bell]: FM07 | | "Hell Kaios!"; crimson shock wave; Bell's charged broadsword.
-[@hell-kaios.fm12-crabs]: FM12 | | Two chant lines ending "Hippolyta"; Concurrent Chant; shark-fin wave.
+[@hell-kaios.fm07-chant]: FM07 | | Concurrent Casting; four chant lines ending "Hipporyute". The Japanese edition (file cAT9, paragraphs 134–147) gives the later chant's lines from the second on.
+[@hell-kaios.fm07-bell]: FM07 | | "Hell Kaios!"; crimson shock wave; Bell's charged broadsword. The Japanese edition (file cAT9, paragraph 221) calls it a crimson slashing wave far larger than himself.
+[@hell-kaios.fm12-crabs]: FM12 | | Two chant lines ending "Hippolyta"; Concurrent Chant; shark-fin wave. The Japanese edition (file part0022, paragraphs 10 and 14) gives the chant's second line, the start of its third and its last.
 [@hell-kaios.fm13-lambton]: FM13 | Chapter 4: Countdown | Podao thrown down; four-meder cutting wave; lambton beheaded.
-[@hell-kaios.fm14-decoy]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "With me, brave conqueror!"; decoy chant.
-[@hell-kaios.fm14-amphisbaena]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Opening call and chant; the magic stone shattered.
+[@hell-kaios.fm14-decoy]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "With me, brave conqueror!"; decoy chant. The Japanese edition (file cAP, paragraph 346) prints it inside the chant brackets, the same first line as at the later cast.
+[@hell-kaios.fm14-amphisbaena]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Opening call and chant; the magic stone shattered. The Japanese edition (file cAP, paragraphs 1397–1406) gives the chant quoted in the text.
 [@hell-kaios.fm18-war]: FM18 | Chapter 9: Flower Language for You | Opening call; last line; a crimson wave through the opponent's guard.
+[@fm07-aisha-ja]: FM07 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning beautiful heroine, with the reading Antianeira; the infobox gives the printed name and the kanji.

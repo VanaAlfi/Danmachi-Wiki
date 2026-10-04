@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Region"},
+      {"label": "Japanese", "value": "{{ja|カイオス砂漠}}", "refs": ["ss02-kaios-ja"]},
       {"label": "Also called", "value": "The Grand Sand Sea", "refs": ["fc02-region"]},
       {"label": "Location", "value": "South-west of the centre of the Continent", "refs": ["fc02-region"]},
       {"label": "Divided by", "value": "The giant Nire River, into east and west", "refs": ["fc02-nire"]},
@@ -70,3 +71,4 @@ Bofman Fazoul tells Freya that the whole Kaios region accepts slavery, unlike [[
 [@so13-dream]: SO13 | Fairy Canon: 1 | "a sea of sand called the Kaios Desert".
 [@so13-students]: SO13 | Fairy Canon: 1 | "Students who made up their minds could choose at any point to disembark from the ship and leave as a graduate."; "the sea nation, Dizara; the Kaios Desert…and countless other countries and regions"
 [@so13-roommate]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Hearing stories about my roommate from the Empire to the Kaios Desert!"
+[@ss02-kaios-ja]: SS02 | | The Japanese edition prints the name in katakana with the word for desert; the infobox gives that printed form.

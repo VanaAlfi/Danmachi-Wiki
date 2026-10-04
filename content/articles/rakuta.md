@@ -41,7 +41,7 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 | Sword Oratoria 8 | Her party from Knossos is in tears when Bete's confession is heard.[@so08-confession] |
 | Sword Oratoria 10 | With Riveria's elf squad, she hears the founding god's divine will and Fels's explanation of the Xenos.[@so10-xenos] |
 | Sword Oratoria 12 | Cries out at the sight of a dragon.[@so12-dragon] After the battle she happily hugs the [[monsters#siren|siren]] [[rei|Rei]], to the siren's surprise.[@so12-rei] |
-| Minor Myths and Legends 2 | On the eve of the second assault she follows [[gareth|Gareth]] to the graves of Loki Familia's fallen, where Bete is paying his respects. Bete threatens to turn her into rabbit stew if she talks, but she shouts after him that they will win, and he agrees.[@ss02-graves] |
+| Minor Myths and Legends 2 | On the eve of the second assault she follows [[gareth|Gareth]] to the graves of Loki Familia's fallen, where Bete is paying his respects. Bete orders her to tell no one, but she shouts after him that they will win, and he agrees.[@ss02-graves] |
 
 [@so02-supporter]: SO02 | Chapter 6: Parched Scream | "Lefiya, Rakuta, are you ready?"; to earn money, a party "now seven strong"; "Finn gave the order to move out"; "The second supporter, a newly ranked-up Level 3 adventurer named Rakuta, looked very nervous."
 [@so02-loot]: SO02 | Chapter 6: Parched Scream | Lefiya and Rakuta return with their bags full of loot.
@@ -65,4 +65,4 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 [@so12-hidden]: SO12 | Chapter 8: A Heroes’ Chorus | "The mapper Rakuta also had a copy"; no giant spaces hidden nearby.
 [@so12-dragon]: SO12 | Chapter 8: A Heroes’ Chorus | "A…a dragon?!" Rakuta cried out.
 [@so12-rei]: SO12 | Chapter 8: A Heroes’ Chorus | "Rakuta the hume bunny hugged the siren who had slowly descended to the floor, shocking her."
-[@ss02-graves]: SS02 | | "In Place of Flowers, the Wolf Howls": Gareth and Rakuta at the graves; "Speak a word of this, and I’ll turn you into rabbit stew."; "We will win this fight!"
+[@ss02-graves]: SS02 | | "In Place of Flowers, the Wolf Howls": Gareth and Rakuta at the graves; "We will win this fight!" The Japanese edition (file part0059, paragraphs 14 and 16) has Bete order her to tell no one.

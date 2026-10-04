@@ -18,6 +18,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ヘルメス・ファミリア}}", "refs": ["fm17-hermes-familia-ja"]},
       {"label": "Deity", "value": "[[hermes|Hermes]]", "refs": ["fm05-asfi"]},
       {"label": "Captain", "value": "[[asfi|Asfi Al Andromeda]], after Lydis", "refs": ["fm05-asfi", "fm05-ja-asfi", "ar02-captain"]},
       {"label": "Public role", "value": "Delivery service", "refs": ["fm09-delivery"]}
@@ -25,7 +26,7 @@
   }
 }
 ---
-**Hermes Familia** is the Familia of the god [[hermes|Hermes]], led by [[asfi|Asfi Al Andromeda]].[@fm05-asfi, fm05-ja-asfi] It works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate where black-market goods are being smuggled.[@fm09-delivery]
+**Hermes Familia** is the Familia of the god [[hermes|Hermes]], led by [[asfi|Asfi Al Andromeda]].[@fm05-asfi, fm05-ja-asfi] It works nominally as a delivery service, and the [[guild|Guild]] sends it outside the city to investigate where black-market goods are being smuggled, which is one of the reasons it can pass through checkpoints freely.[@fm09-delivery]
 
 ## Members
 
@@ -55,7 +56,7 @@ On the night of the Great Conflict, Lydis gave her life so that a band of upper-
 Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and dark green eyes. She is Level 2, but little known in Orario, since she usually handles the Familia's operations outside the city, as a spy or travelling with Hermes.[@ss01-laurier]
 
 - **The Great Conflict:** in Astrea Record 2, Hermes says that only he, Laurier and a few lower-class adventurers used the secret route through the [[beor-mountains|Beor Mountain Range]] to bring supplies into the besieged city.[@ar02-laurier]
-- **DanMachi 9:** back from tracking illicit sales outside the city, Laurier reports that the sale of monsters is confirmed. In an estate of Elurian royalty, chained monsters were kept in underground cells, and one asked with its last breath for a message to be taken to its comrades. She is distraught that a monster "spoke to me and asked for help!"[@fm09-laurier] Minor Myths and Legends 1 says that she uncovered "the captured Xenos" in that mansion.[@ss01-laurier] (See [[xenos|Xenos]] and [[ikelos-familia|Ikelos Familia]].)
+- **DanMachi 9:** back from tracking illicit sales outside the city, Laurier reports that the sale of monsters is confirmed. In an estate of Elurian royalty, chained monsters were kept in underground cells, and one asked with its last breath that a heavily scarred monster horn, a drop item, be delivered to its comrades. She is distraught that a monster "spoke to me and asked for help!"[@fm09-laurier] Minor Myths and Legends 1 says that she uncovered "the captured Xenos" in that mansion.[@ss01-laurier] (See [[xenos|Xenos]] and [[ikelos-familia|Ikelos Familia]].)
 - **The rescue:** in a story printed at the end of DanMachi 16 and again in Minor Myths and Legends 1, Hermes sends her to win the confidence of another Familia's party by posing as a solo adventurer. The party abandons her to monsters in the middle levels. Bell, trained by [[hedin|Hedin]], who was ready to stage an "accident" himself, saves her and escorts her back, and she falls for him.[@fm16-laurier, ss01-rescue]
 - **Sword Oratoria 12:** Hermes passes word that "Laurier and the others" are not to move out until he says so.[@so12-laurier]
 - **After the War Game:** collecting votes for the adventurer rankings, Laurier meets [[horn|Hörn]] and then Bell, who remembers his promise to go shopping with her. When Hörn draws a knife on Bell, Laurier defends him, and the two women go on fighting, then arguing, after Hestia has taken Bell away.[@ss01-horn]
@@ -77,7 +78,7 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 [@fm05-asfi]: FM05 | | Asfi, captain of Hermes Familia.
 [@fm05-ja-asfi]: FM05 | | Japanese original (file part0011, paragraph 220): Hermes calls Asfi the head of his Familia, half joking; the Yen Press text drops the word, so the English of this volume does not print the title.
 [@fm06-penalty]: FM06 | | The Guild's penalty of half their assets.
-[@fm09-delivery]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Delivery work and investigations.
+[@fm09-delivery]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Delivery work and investigations: "This was one of the reasons that Hermes Familia, which nominally worked as a delivery service, could pass through various checkpoints at will."
 [@fm10-aisha]: FM10 | | Aisha in Hermes Familia.
 [@fm17-firewood]: FM17 | Chapter 5: The End of Her World | The firewood.
 [@so02-lulune]: SO02 | | Lulune Louie, secretly Level 3.
@@ -89,7 +90,7 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 [@ss01-laurier]: SS01 | Is it Wrong to Fake an Accident to Try to Pick Up Girls in the Dungeon? | "At Level 2, she was also a capable adventurer"; "usually in charge of operations outside the city"; "the captured Xenos being kept in a mansion belonging to Elurian nobility".
 [@ss01-rescue]: SS01 | Is it Wrong to Fake an Accident to Try to Pick Up Girls in the Dungeon? | "M-my name is Laurier. You saved my life, Bell Cranell."; "a younger human with white hair and red eyes was precisely her type".
 [@ss01-horn]: SS01 | Bell Cranell☆Ranking: Events of a Half Year | "…I think Laurier Swall might just have made the biggest blunder of her career."; "we said we’d go shopping or something?"; "Go on without me, Bell!"
-[@fm09-laurier]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "Laurier and the others have returned."; "The sale of monsters has been confirmed."; "an estate belonging to Elurian royalty"; "It spoke to me and asked for help!"
+[@fm09-laurier]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "Laurier and the others have returned."; "The sale of monsters has been confirmed."; "a heavily scarred monster horn—a drop item"; "It spoke to me and asked for help!" The Japanese edition (file cXP, paragraph 772) says an Elurian noble's mansion.
 [@fm16-laurier]: FM16 | | Story after the Afterword: "Work your way in by disguising yourself as a solo"; "I was about to hit them with a blast or two"; "That was what Laurier, the elf girl, thought".
 [@so12-laurier]: SO12 | Chapter 4: Nameless Heroes | "Tell Laurier and the others not to move out until I give the word."
 [@ar02-laurier]: AR02 | | "The only ones who went in and out of that secret route through the Beor Mountain Range were me, Laurier".
@@ -107,3 +108,4 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 [@so03-thane]: SO03 | Chapter 3: A Hideous Beauty | "Falgar, Thane, make two squads and take the others to investigate."
 [@so11-thane]: SO11 | Chapter 5: Obsession Manifest | "Falgar! Thane! Leave the vanguard to Loki Familia".
 [@fm17-thane]: FM17 | Chapter 5: The End of Her World | "Hermes left a tiny update of information with Thane".
+[@fm17-hermes-familia-ja]: FM17 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

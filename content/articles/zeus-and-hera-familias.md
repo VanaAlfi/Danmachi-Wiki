@@ -29,7 +29,7 @@
 
 ## A thousand years at the top
 
-Astrea Record 1 says Zeus and Hera ruled Orario for a thousand years without a threat to their existence and were what every Familia aspired to be.[@ar01-thousand] A veteran recalls in DanMachi 20 that the city held "Zeus and Hera, and then there was everyone else".[@fm20-heroes] Loki calls them the city's "big mom 'n' pop".[@so06-mompop]
+Astrea Record 1 says Zeus and Hera ruled Orario for a thousand years without a threat to their existence and were what every Familia aspired to be.[@ar01-thousand] A veteran recalls in DanMachi 20 that the city held "Zeus and Hera, and then there was everyone else".[@fm20-heroes] Loki admits that her own Familia still lacks the long seasoning of Zeus's and Hera's.[@so06-mompop]
 
 Rival Familias of their time hid Level 6 and even Level 7 captains from the [[guild|Guild]], but Zeus and Hera always came out on top.[@ar01-rivals] Osiris Familia, with several Level 6s and a Level 7 captain, Melty Zara, attacked them and lost; that was twelve years before Astrea Record 1, and Orario then threw Osiris Familia out.[@ar01-osiris] A Loki Familia veteran remembers their wars with Horus and Sobek as "a Great Conflict every night".[@ar03-horus]
 
@@ -37,7 +37,7 @@ Rival Familias of their time hid Level 6 and even Level 7 captains from the [[gu
 
 The strongest adventurer in the world was a Zeus follower, "the Level-8 supreme"; Hera's strongest, "the world's scariest woman", was the Level-9 empress.[@fc02-ottar] Sword Oratoria 13 counts their downfall as the loss of a Level 8 and a Level 9.[@so13-levels]
 
-DanMachi 20 remembers them as violent and twisted, refusing to tolerate weakness. Hera's followers were the more twisted in personality and conduct (the Yen Press text says "the former", which would be Zeus's, but the Japanese says the latter), and whenever one of Zeus's followers caused trouble, they hunted him down, just as Hera chased Zeus for his debauchery.[@fm20-heroes] They beat down the young adventurers of the next generation again and again. Leon Verdenberg says he, [[ottar|Ottar]], [[finn-deimne|Finn]] and the others were always dragged into their messes.[@fm20-leon] In Astrea Record 3 [[riveria|Riveria]] and [[gareth|Gareth]] can respond decisively to Alfia only because Zeus's and Hera's followers had beaten them so soundly and so often.[@ar03-feuds] Every Level Up Ottar made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-ottar]
+DanMachi 20 remembers them as violent and twisted, refusing to tolerate weakness. Hera's followers were the more twisted in personality and conduct (the Yen Press text says "the former", which would be Zeus's, but the Japanese says the latter), and whenever one of Zeus's followers caused trouble, they hunted him down, just as Hera chased Zeus for his debauchery.[@fm20-heroes] They beat down the young adventurers of the next generation again and again. Leon Verdenberg says he, [[ottar|Ottar]], [[finn-deimne|Finn]] and the others were always dragged into their messes.[@fm20-leon] In Astrea Record 3 [[riveria|Riveria]] and [[gareth|Gareth]] can quickly prepare their decisive-battle gear against Alfia only because Zeus's and Hera's followers had beaten them so soundly and so often.[@ar03-feuds] Every Level Up Ottar made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-ottar]
 
 Looking back, the veteran of DanMachi 20 thinks they were always spurring the younger fighters on.[@fm20-spur] {{statement}} [[leon-verdenberg|Leon]] says that on the Leviathan campaign he saw what heroes were, and that "the afterglow of those heroes hasn't faded".[@fm20-leon] His finishing technique is one, he says, that his generation "stole like bandits" from them.[@fm20-technique]
 
@@ -47,10 +47,10 @@ Looking back, the veteran of DanMachi 20 thinks they were always spurring the yo
 
 - **Deepest floor.** Their record of Floor 71 still stands in DanMachi 19.[@fm19-record] The deep level called the Dragon's Urn had been reached only by them.[@ar03-urn] They discovered a centipede dragon on Floor 67 and estimated its potential at Level 7.[@fm20-centipede] In Sword Oratoria 6, Loki Familia is the first to reach Floor 59 since Zeus and Hera.[@so06-59]
 - **What they could not find.** In DanMachi 18 [[royman|Royman]] says they did not find the key to Thalia's Ice Garden, and brought back only a small trinket from it.[@fm18-garden]
-- **Development Abilities.** Astrea Record 3 credits their Familias with discovering how to unlock [[development-ability|Development Abilities]].[@ar03-unlock]
+- **Development Abilities.** Astrea Record 3 says their Familias reported to the Guild the conditions for acquiring [[development-ability|Development Abilities]].[@ar03-unlock]
 - **The Leviathan.** With Poseidon Familia's help they fought the sea dragon from a huge sea fortress, now the ship of the [[school-district|School District]].[@so13-ship] With Poseidon Familia they also sealed the hole beneath Lolog Lake, using the Leviathan's skeleton as the lid.[@so06-lake]
-- **The Black Dragon.** The last beast "was too strong and wiped them out"; both Familias lost their strongest followers in the battle.[@fm06-fall] Sword Oratoria 13 says the dragon had grown stronger over the centuries than Orario or even the gods had estimated.[@so13-levels] [[zald|Zald]] speaks of his group being "wiped out by the Black Dragon under Maxim's leadership".[@ar03-blood]
-- **Aegis.** Zeus Familia handed down a legendary shield, Aegis, which every member of Hera Familia feared. In Astrea Record 3 Hermes gives Astrea Familia a design based on it, and they use it against [[alfia|Alfia]].[@ar03-aegis]
+- **The Black Dragon.** The last beast "was too strong and wiped them out"; both Familias lost their strongest followers in the battle.[@fm06-fall] Sword Oratoria 13 says the dragon had grown stronger over a thousand years than Orario or even the gods had estimated.[@so13-levels] [[zald|Zald]] speaks of the time after their captain, Maxim, and the others lost to the Black Dragon.[@ar03-blood]
+- **Aegis.** Zeus Familia handed down a legendary shield, Aegis, which every member of Hera Familia knew. In Astrea Record 3 Hermes gives Astrea Familia a prototype shield (the Japanese word means *original form*), and they use it against [[alfia|Alfia]].[@ar03-aegis]
 
 ## Fall and exile
 
@@ -76,7 +76,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Who led the two Familias; the only name given is Maxim, under whose leadership Zald's group fell to the Black Dragon.[@ar03-blood]
+> - Who led Hera Familia; Astrea Record 3 names Maxim as the captain of Zald's Familia, Zeus Familia.[@ar03-blood]
 > - Where Zeus and Hera are now.[@fm06-fall, ar03-blood]
 
 [@ar01-dark-age]: AR01 | Prologue: The Unforgettable Melody of Justice | Prologue: "Zeus and Hera’s defeat at the hands of the Black Dragon was the harbinger of the Age of Darkness."
@@ -88,11 +88,11 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@ar03-horus]: AR03 | Prologue: Last Intermission | "When Zeus and Hera were warring with Horus and Sobek? It was like a Great Conflict every night!"
 [@ar03-remnants]: AR03 | | Zald and Alfia, "the remnants of Zeus’s and Hera’s familias"; the two forces that ruled Orario for a thousand years.
 [@ar03-urn]: AR03 | | "The Dragon’s Urn is a deep level that only Zeus and Hera have ever reached."
-[@ar03-feuds]: AR03 | | The long feuds with Zeus and Hera; Riveria and Gareth beaten so soundly and so often.
+[@ar03-feuds]: AR03 | | The long feuds with Zeus and Hera; Riveria and Gareth beaten so soundly and so often. The Japanese edition (file c2HE, paragraph 187) says the many defeats let them prepare their decisive-battle gear quickly.
 [@ar03-final]: AR03 | Chapter 7: What She Wished For | Zald dies; the goddess closes his eyes: "The final remnant of Zeus Familia is no more."
-[@ar03-unlock]: AR03 | Chapter 8: The Price of Talent | Zeus and Hera discovered how to unlock Advanced Abilities.
-[@ar03-aegis]: AR03 | Chapter 9: A Hero’s Trail | Hermes's design, "based on one of Zeus’s old shields"; "Aegis"; feared by every member of Hera Familia.
-[@ar03-blood]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "The blood of a child of Hera…as does the blood of one of Zeus’s"; "under Maxim’s leadership"; "Zeus may have been my patron"; "My sister entrusted him to Zeus."
+[@ar03-unlock]: AR03 | Chapter 8: The Price of Talent | Zeus and Hera reported the conditions for Development Abilities. The Japanese edition (file c7UR, paragraph 21) says they reported them to the Guild, among maps and growth models.
+[@ar03-aegis]: AR03 | Chapter 9: A Hero’s Trail | The shield from Hermes; "Aegis"; known to every member of Hera Familia. The Japanese edition (file c86J, paragraphs 132–138) has Hermes give them the prototype (original) shield and says every member of Hera Familia knew the Aegis.
+[@ar03-blood]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "The blood of a child of Hera…as does the blood of one of Zeus’s"; "Zeus may have been my patron"; "My sister entrusted him to Zeus." The Japanese edition (file c9X3, paragraphs 57 and 60) calls the father the very lowest-ranking man among them, and has Zald learn of the child after their captain, Maxim, and the others lost to the Black Dragon.
 [@fc02-ottar]: FC02 | The Origin of the Strongest | Defeats by Zeus and Hera followers; "the Level-8 supreme"; "the Level-9 empress"; every Level Up after Level 5 related to them.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | "Rejoice, Great Lord Zeus! Your grandson is the real deal! The last hero your Familia left behind!"
 [@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson. Yen Press prints "grandson".
@@ -107,11 +107,11 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@fm20-leon]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon: "Ottar, Finn, and the others, and I were always getting dragged into their messes"; the Leviathan; "the afterglow of those heroes hasn’t faded".
 [@fm20-technique]: FM20 | Chapter 4: The Knight’s Afterglow | "The ultimate technique that we…stole like bandits."
 [@fm20-centipede]: FM20 | Chapter 4: The Knight’s Afterglow | A monster Zeus and Hera discovered on the sixty-seventh floor; estimated potential Level Seven.
-[@so06-mompop]: SO06 | Chapter 1: Quest Results & Next Quest | Loki: "the big mom ’n’ pop, Zeus and Hera".
+[@so06-mompop]: SO06 | Chapter 1: Quest Results & Next Quest | Loki compares her Familia with Zeus's and Hera's. The Japanese edition (file c6F, paragraph 121) has her say it still lacks their seasoning.
 [@so06-59]: SO06 | Chapter 1: Quest Results & Next Quest | The first to reach the fifty-ninth floor since Zeus and Hera.
 [@so06-lake]: SO06 | Chapter 2: Port Meren | With Poseidon Familia they closed the hole under the lake; the Leviathan's skeleton as the lid.
 [@so09-successor]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | Finn: "They want a successor to Zeus and Hera"; "we were the ones who ran them out of the city in the first place."
 [@so13-dark-age]: SO13 | | Prologue: "the age of darkness when Zeus and Hera disappeared and the Evils rose".
 [@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The platform used against the Leviathan with Poseidon Familia.
-[@so13-levels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | The Black Dragon's strength surpassed estimates; "two great factions who possessed a Level 8 and a Level 9".
+[@so13-levels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | The Black Dragon's strength surpassed estimates; "two great factions who possessed a Level 8 and a Level 9". The Japanese edition (file part0033, paragraph 61) says over a thousand years.
 [@so14-pinnacle]: SO14 | Prologue: Accomplishments and Reminiscences | "With Zeus and Hera gone, Level Seven is the pinnacle."

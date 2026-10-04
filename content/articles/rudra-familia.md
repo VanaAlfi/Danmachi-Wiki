@@ -14,11 +14,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ルドラ・ファミリア}}", "refs": ["fm14-rudra-familia-ja"]},
       {"label": "Patron god", "value": "Rudra", "refs": ["ar02-rudra", "fm14-rudra"]},
       {"label": "Allegiance", "value": "[[evils|The Evils]]", "refs": ["fm13-jura", "fc01-final"]},
       {"label": "Known member", "value": "Jura Harma, a tamer", "refs": ["fm13-jura"]},
       {"label": "Enemy", "value": "[[astrea-familia|Astrea Familia]]", "refs": ["fm13-feud", "fm14-ambush"]},
-      {"label": "Fate", "value": "Destroyed by [[lyu-leon|Lyu Leon]]; Rudra expelled; Jura killed in DanMachi 13", "refs": ["fm14-revenge", "fm13-death"]}
+      {"label": "Fate", "value": "Destroyed by [[lyu-leon|Lyu Leon]]; Rudra to be sent back to Heaven; Jura killed in DanMachi 13", "refs": ["fm14-revenge", "fm13-death"]}
     ]
   }
 }
@@ -29,7 +30,7 @@
 
 Rudra is a dark-skinned god with short crimson hair, built "as sturdily as the strongest adventurer"; the narration says his name means "the most frightening one".[@ar02-rudra] In Astrea Record 2 he meets [[erebus|Erebus]] beneath the city and complains that Erebus has "invited ruin" on his Familia and on Thanatos's. Rudra reports that his part, which "is on its way", has gone sickeningly well, and leaves scorch marks on Erebus's clothes where he touched him.[@ar02-rudra]
 
-After Lyu burns his Familia's hideout, Rudra comes out of hiding and stands before her, laughing, in the flames. He tells her he had wanted to invite her into his Familia. Lyu cannot bring herself to kill a god. With no one left to protect him, the [[guild|Guild]] decides to capture and expel him.[@fm14-rudra]
+After Lyu burns his Familia's hideout, Rudra comes out of hiding and stands before her, laughing, in the flames. He tells her he had wanted to invite her into his Familia. Lyu cannot bring herself to kill a god. With no one left to protect him, the [[guild|Guild]] decides to capture him and send him back to Heaven.[@fm14-rudra]
 
 ## In the dark age
 
@@ -37,7 +38,7 @@ In Astrea Record 1, members of Rudra Familia are among the high-ranking Evils, a
 
 ## The trap in the Dungeon
 
-Five years before DanMachi 13, Jura and his companions deliberately spread information that drew Astrea Familia into the Dungeon; [[guild|Guild]] members with links to their faction leaked it.[@fm14-leak] Astrea Familia followed its enemy down to the deep levels, where Rudra Familia set off more than a hundred Inferno Stones over a wide area.[@fm14-ambush] {{statement}} Jura says they wanted to bury Astrea Familia alive, but "those tough bastards didn't die", and his own side ended up on the defensive.[@fm13-feud]
+Five years before DanMachi 13, Jura and his companions deliberately spread information that drew Astrea Familia into the Dungeon; [[guild|Guild]] members with links to their faction leaked it.[@fm14-leak] Astrea Familia followed its enemy down to the lower levels, where Rudra Familia set off more than a hundred Inferno Stones over a wide area.[@fm14-ambush] {{statement}} Jura says they wanted to bury Astrea Familia alive, but "those tough bastards didn't die", and his own side ended up on the defensive.[@fm13-feud]
 
 The scale of the explosions provoked the Dungeon's defensive response: it spawned the Juggernaut to eliminate the source of the damage, an event [[ouranos|Ouranos]] had never foreseen.[@fm13-feud] The monster attacked Astrea Familia, and also turned on Rudra Familia.[@fm14-ambush] Ten of Astrea Familia died, two at Level 3 and eight at Level 4.[@fm13-ambush]
 
@@ -64,7 +65,6 @@ After the battle, the story that spreads is that Jura Harma and other survivors 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who led Rudra Familia, and how many members it had.[@fm14-revenge]
 > - What Rudra's "part" was in Astrea Record 2; the scene does not say.[@ar02-rudra]
-> - Where Rudra went after his expulsion.[@fm14-rudra]
 
 [@ar01-church]: AR01 | | "Some of those she incapacitated were high-ranking Evils. Rudra Familia and other Level Threes."
 [@ar02-rudra]: AR02 | | The god Rudra: dark skin, short crimson hair; ruin upon the familias of Rudra and Thanatos; "My part in this is done"; "the most frightening one"; scorch marks.
@@ -82,9 +82,10 @@ After the battle, the story that spreads is that Jura Harma and other survivors 
 [@fm13-ambush]: FM13 | Chapter 5: Calamity Arrives | "Two had been Level Three. Eight had been Level Four."
 [@fm13-death]: FM13 | Chapter 5: Calamity Arrives | Jura reappears; "Stand, monster of mine!"; the tail; cleaved in two.
 [@fm14-leak]: FM14 | Chapter 9: Hello, Deep Levels | Jura and others spread the information; Guild members with links to their faction leaked it.
-[@fm14-ambush]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Their longstanding enemy; the deep levels; more than one hundred explosives; "Rudra Familia’s final trap"; the damage spreads to Rudra Familia.
+[@fm14-ambush]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Their longstanding enemy; more than one hundred explosives; "Rudra Familia’s final trap"; the damage spreads to Rudra Familia. The Japanese edition (file cA0W, paragraphs 12 and 268; file c5FX, paragraph 856) puts the pursuit and the trap in the lower levels.
 [@fm14-revenge]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Lyu's revenge; the hideout; "she sliced off his arm and then his ear"; the leader killed; the hideout burned.
-[@fm14-rudra]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Rudra appears; she cannot kill a deity; the Guild decides to capture and expel him; "I wanted to invite you into our familia."
+[@fm14-rudra]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Rudra appears; she cannot kill a deity; "I wanted to invite you into our familia." The Japanese edition (file cA0W, paragraph 317) says the Guild had decided to capture him and send him back, the series' word for a god's return to Heaven.
 [@fm14-story]: FM14 | Epilogue: You’ll Be Back II | "Jura Harma…and what other survivors of Rudra Familia finally kicked the bucket. And Gale Wind died along with them."
 [@fm14-bors]: FM14 | Epilogue: You’ll Be Back II | "It was those pieces of shit from Rudra Familia!"; "the prize money for Jura Harma".
 [@so12-dionysus]: SO12 | Chapter 8: A Heroes’ Chorus | Dionysus: "after her and Rudra’s followers went and killed each other, she became a nonproblem."
+[@fm14-rudra-familia-ja]: FM14 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

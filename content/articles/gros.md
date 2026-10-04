@@ -29,7 +29,7 @@ His body is "composed of ash-colored rock", with "red stone eyes, incapable of t
 
 ## Character {#character}
 
-Gros has been one of the Xenos "from the start", with [[lido|Lido]] and [[rei|Rei]].[@fm09-founders-g] He is the one who insisted on testing Bell's party before the Xenos trusted them.[@fm09-test] When the hunters of [[ikelos-familia|Ikelos Familia]] massacre and kidnap his brethren, his hatred boils over; ironically, "it was the oculus Fels had given him that pushed Gros over the edge". He destroys the Xenos' only [[oculus|oculus]] link to the surface, pushes Lido aside and calls the Xenos to action: "Revenge!! Revenge for Ranieh, Orde, Cliff, and Foh!! Rescue our brethren!!"[@fm10-revenge] After [[bell-cranell|Bell]] helps them, Lido teases him: "So, Gros? Seems there are trustworthy humans after all!"[@fm10-lido]
+Gros has been one of the Xenos "from the start", with [[lido|Lido]] and [[rei|Rei]].[@fm09-founders-g] He is the one who insisted on testing Bell's party before the Xenos trusted them.[@fm09-test] When the hunters of [[ikelos-familia|Ikelos Familia]] massacre and kidnap his brethren, his hatred boils over; ironically, "it was the oculus Fels had given him that pushed Gros over the edge". He destroys the Xenos' only [[oculus|oculus]] link to the surface, pushes Lido aside and calls the Xenos to action: revenge, to avenge Ranieh and the others and take back their brethren.[@fm10-revenge] After [[bell-cranell|Bell]] helps them, Lido teases him: "So, Gros? Seems there are trustworthy humans after all!"[@fm10-lido]
 
 In DanMachi 11 he volunteers for [[hermes|Hermes]]'s staged attack: "Since I used to abhor humans, I’m best for this role."[@fm11-volunteer] Among the Xenos he is blunt. In Minor Myths and Legends 1 a tactless remark of his sets [[wiene|Wiene]] crying again, and the others shout at him ("Is your head made out of rocks?!").[@ss01-gros] In Sword Oratoria 12 he cuts short Lido's chatter, and the narration calls him Lido's "old friend".[@so12-gros]
 
@@ -49,7 +49,7 @@ In DanMachi 11 he volunteers for [[hermes|Hermes]]'s staged attack: "Since I use
 [@so10-gros]: SO10 | | Gros and Finn.
 [@fm09-founders-g]: FM09 | Chapter 5: Heretics | "Lido, Rei, and Gros were members from the start."
 [@fm09-test]: FM09 | Chapter 5: Heretics | Lido: "you insisted on testing them"; "Its body composed of ash-colored rock, the gargoyle called Gros".
-[@fm10-revenge]: FM10 | Chapter 7: The King of Atrocity | "Gros’s stone claw ripped the crystal from his grasp and destroyed it"; "it was the oculus Fels had given him that pushed Gros over the edge"; "red stone eyes, incapable of tears"; "Revenge!! Revenge for Ranieh, Orde, Cliff, and Foh!! Rescue our brethren!!"; "Gros spread his ash-colored wings".
+[@fm10-revenge]: FM10 | Chapter 7: The King of Atrocity | "Gros’s stone claw ripped the crystal from his grasp and destroyed it"; "it was the oculus Fels had given him that pushed Gros over the edge"; "red stone eyes, incapable of tears"; "Gros spread his ash-colored wings". The Japanese edition (file cUX, paragraph 616) has Gros cry to avenge Ranieh and the others and take back their brethren.
 [@fm10-lido]: FM10 | Chapter 9: Dreams of Beasts | Lido: "So, Gros? Seems there are trustworthy humans after all!"
 [@fm11-volunteer]: FM11 | Chapter 6: A Deity’s Scheme | "Since I used to abhor humans, I’m best for this role."
 [@ss01-gros]: SS01 | | Printed heading "The Xenos" (not in the evidence map): "It was the gargoyle, Gros, who chimed in with that tactless remark."; "Is your head made out of rocks?!"

@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
+      {"label": "Japanese", "value": "{{ja|ベオル山地}}", "refs": ["fm08-beor-ja"]},
       {"label": "Where", "value": "Directly north of [[orario|Orario]]", "refs": ["fm08-north"]},
       {"label": "Terrain", "value": "Peaks forming \"a natural fortress\"; harsh weather", "refs": ["so09-fortress"]},
       {"label": "Settlement", "value": "[[edas-village|Edas Village]]", "refs": ["fm08-edas"]},
@@ -22,11 +23,11 @@
   }
 }
 ---
-The **Beor Mountains**, printed both *Beor Mountain Range* and *Beor Mountains*, lie "Directly north from Orario".[@fm08-north, fm09-harpies] Sword Oratoria 9 calls the range "a collection of peaks that formed a natural fortress"; monsters "that emerged from the Dungeon millennia ago and settled here in the Beor Mountain Range" still roam it.[@so09-fortress, fm08-monsters]
+The **Beor Mountains**, printed both *Beor Mountain Range* and *Beor Mountains*, lie "Directly north from Orario".[@fm08-north, fm09-harpies] Sword Oratoria 9 calls the range "a collection of peaks that formed a natural fortress"; monsters descended from the Originals that went out onto the surface still roam it.[@so09-fortress, fm08-monsters]
 
 ## Rakia's forces and Edas Village {#edas-village}
 
-In DanMachi 8 [[asfi|Asfi]] is on a "mission to rescue the goddess" [[hestia|Hestia]] from the army of [[ares|Rakia]], and [[bell-cranell|Bell]] and [[aiz-wallenstein|Aiz]] run "through the unforgiving terrain of the Beor Mountain Range underneath a gray sky".[@fm08-pursuit] "Deep in the Beor Mountain Range, Ares’s triumphant howl echoed through a mountain road overlooking a beautiful green valley"; the monsters of the range attack.[@fm08-ares, fm08-monsters] [[edas-village|Edas Village]] "is located deep in the Beor Mountain Range", "a well-hidden small town in one of the valleys"; Bell and his companions leave it on the fifth morning after they arrived "as refugees lost in the Beor Mountain Range".[@fm08-edas, fm08-leave] Sword Oratoria 9 tells the same days from Aiz's side, under the range's "Harsh weather".[@so09-rakia, so09-fortress]
+In DanMachi 8 [[asfi|Asfi]] is on a "mission to rescue the goddess" [[hestia|Hestia]] from the army of [[ares|Rakia]], and [[bell-cranell|Bell]] and [[aiz-wallenstein|Aiz]] run "through the unforgiving terrain of the Beor Mountain Range underneath a gray sky".[@fm08-pursuit] Deep in the range, on a steep mountain road with a valley opening on one side, Ares's loud laughter rings out; the monsters of the range attack.[@fm08-ares, fm08-monsters] [[edas-village|Edas Village]] "is located deep in the Beor Mountain Range", "a well-hidden small town in one of the valleys"; Bell and his companions leave it on the fifth morning after they arrived "as refugees lost in the Beor Mountain Range".[@fm08-edas, fm08-leave] Sword Oratoria 9 tells the same days from Aiz's side, under the range's "Harsh weather".[@so09-rakia, so09-fortress]
 
 ## The caldera lake {#caldera}
 
@@ -42,8 +43,8 @@ The [[war-game|Familia War]] of DanMachi 18 is fought among ruins "in a caldera 
 
 [@fm08-north]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Directly north from Orario was the Beor Mountain Range."
 [@fm08-pursuit]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Asfi's "mission to rescue the goddess"; "Bell and Aiz ran through the unforgiving terrain of the Beor Mountain Range underneath a gray sky."
-[@fm08-ares]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Deep in the Beor Mountain Range, Ares’s triumphant howl echoed through a mountain road overlooking a beautiful green valley."
-[@fm08-monsters]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "monsters that emerged from the Dungeon millennia ago and settled here in the Beor Mountain Range are swarming in to attack us!"
+[@fm08-ares]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Ares on the mountain road. The Japanese edition (file part0030, paragraph 694) gives a steep mountain road with a valley on one side and Ares's loud laughter.
+[@fm08-monsters]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Monsters swarm in to attack. The Japanese edition (file part0030, paragraph 841) calls them descendants of the Originals that went out onto the surface.
 [@fm08-edas]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Edas Village is located deep in the Beor Mountain Range. Surrounded by steep cliffs, it’s a well-hidden small town in one of the valleys."
 [@fm08-leave]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "On the fifth morning after we came here as refugees lost in the Beor Mountain Range, we say our last good-byes to the villagers and set a course for Orario."
 [@fm09-harpies]: FM09 | Chapter 1: An Irregular Girl | "I encountered harpies when I was stranded in the Beor Mountains not too long ago".
@@ -54,3 +55,4 @@ The [[war-game|Familia War]] of DanMachi 18 is fought among ruins "in a caldera 
 [@fm20-north]: FM20 | Chapter 2: Lion and then Sword Princess | "I head north to the base of the Beor Mountains. Following the map included with Lord Balder’s letter".
 [@fm20-journey]: FM20 | Chapter 3: The World, The Festival, and Reality | "The journey continued with the Beor Mountains to the west and the Alv Mountains to the east."
 [@fm20-scale]: FM20 | Chapter 3: The World, The Festival, and Reality | "I glimpsed a trace of the terror of the Black Dragon in the Beor Mountains, too—in Edas village where the dragon’s scale was worshipped."
+[@fm08-beor-ja]: FM08 | | The Japanese edition prints the name in katakana with the word for mountain range; the infobox gives that printed form.

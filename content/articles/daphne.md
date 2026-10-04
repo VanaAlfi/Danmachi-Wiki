@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ダフネ・ラウロス}}", "refs": ["fm06-daphne-ja"]},
       {"label": "Familia", "value": "Apollo Familia; [[miach-familia|Miach Familia]] from DanMachi 8", "refs": ["fm06-intro", "fm08-join"]},
       {"label": "Level", "value": "2 in DanMachi 6; 3 after the joint expedition", "refs": ["fm06-intro", "fm15-level"]},
       {"label": "Role", "value": "Field commander", "refs": ["fm13-commander", "fm18-wing"]},
@@ -44,7 +45,7 @@ In DanMachi 14, when Cassandra insists that the party must flee east, Daphne sti
 
 ## Level 3 and the Great Familia War
 
-Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, after [[aisha-belka|Aisha]], the second in line to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing] When a first-tier adventurer bears down on her party, its members call on her as "Laurus Fuga" for a decision; in DanMachi 19 [[ouka|Ouka]] says they "were simply following Laurus Fuga’s order".[@fm18-laurus, fm19-laurus]
+Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, with [[aisha-belka|Aisha]] and Tsubaki, one of the three named to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing] When a first-tier adventurer bears down on her party, its members call on her as "Laurus Fuga" for a decision; in DanMachi 19 [[ouka|Ouka]] says they "were simply following Laurus Fuga’s order".[@fm18-laurus, fm19-laurus]
 
 Against [[hegni|Hegni]] she holds on far longer than expected because of her rare Skill [[skills#laurel-wreath|Laurel Wreath]], which raises her endurance when she is exhausted or close to death.[@fm18-laurel] Her party draws attack after attack out of Hegni's cursed sword so that he uses them up.[@fm18-lure]
 
@@ -73,7 +74,7 @@ The novels mention her short hair.[@fm06-hair, fm07-recruit]
 
 The chant is short; DanMachi 14 prints it once, then the name.[@raumure.fm14-cast]
 
-- **Chant:** "Follow blindly the sun in the sky. Blossom, armor of laurel, so that all will flee from thee."[@raumure.fm14-cast]
+- **Chant:** "Follow blindly the sun in the sky. Blossom, armor of laurel, so that all will flee from thee."[@raumure.fm14-cast] The Japanese chant is {{ja|追従せし空の太陽。全ては汝から逃れるため──咲け、月桂樹の鎧|tsuijū seshi sora no kagayaki. subete wa nanji kara nogareru tame — sake, seiju no kago}}, *Radiance of the sky that pursues; all is to flee from thee — bloom, armour of laurel*: the one who flees is the caster, from the pursuing sun.[@raumure.fm14-cast]
 - **Name:** "Raumure."[@raumure.fm14-cast]
 
 She draws a circle in the air with her dagger as she completes it.[@raumure.fm14-cast]
@@ -107,14 +108,15 @@ Her DanMachi 14 Status sheet (Level 2) words it as protection magic that increas
 [@fm13-curse]: FM13 | Chapter 2: The Prophetess of Tragedy | Daphne never believed in Cassandra's prophetic dreams.
 [@fm14-believe]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "What I believe in is Cassandra Illion!"; her vote tips the scales.
 [@fm15-level]: FM15 | Interlude: Elven Unrest | Both level up; Lilly thanks Daphne for her guidance.
-[@fm18-potions]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Helping Miach mass-produce potions and elixirs.
-[@fm18-command]: FM18 | Chapter 8: The Great Familia War | Chain of command: Aisha, Daphne, then Tsubaki; Daphne a Level 3.
+[@fm18-potions]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Helping Miach mass-produce potions and elixirs. The Japanese edition (file part0017, paragraph 135) says they make (refine) them.
+[@fm18-command]: FM18 | Chapter 8: The Great Familia War | Lilly's successors in command: Aisha, Daphne and Tsubaki; Daphne a Level 3. The Japanese edition (file part0021, paragraph 524) lists the three as Lilly's successors.
 [@fm18-wing]: FM18 | Chapter 8: The Great Familia War | Daphne and Bors command the right wing.
 [@fm18-laurel]: FM18 | Chapter 9: Flower Language for You | Laurel Wreath: endurance when exhausted or near death.
 [@fm18-lure]: FM18 | Chapter 9: Flower Language for You | Drawing out Hegni's sword attacks to use up his stock.
 [@sheet.fm14-daphne]: FM14 | | Illustrated Status sheet, p. 165 (Level 2): Raumure; Helios Passion, Laurel Wreath; Fencer Laureate.
-[@raumure.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The chant; "protection magic, similar to enchantments"; endurance and agility; her only magic; the deity.
+[@raumure.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The chant; "protection magic, similar to enchantments"; endurance and agility; her only magic; the deity. The Japanese edition (file cAP, paragraph 418) gives the chant quoted in the text; its laurel is glossed as sacred tree, its armour as cage.
 [@raumure.fm14-mikoto]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | With Level Boost, Daphne saves Mikoto.
 [@raumure.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 165 (Level 2): Raumure, protection magic; Defense up, Agility greatly up; proportional to magic power.
 [@fm18-laurus]: FM18 | Chapter 8: The Great Familia War | "What are you doing, Laurus Fuga?!"; the party seeks "a decision from their commander".
 [@fm19-laurus]: FM19 | Chapter 1: V-V-V for Victory Party | Ouka: "We were simply following Laurus Fuga’s order to let the enemy cut us down".
+[@fm06-daphne-ja]: FM06 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

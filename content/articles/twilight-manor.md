@@ -14,26 +14,27 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
+      {"label": "Japanese", "value": "{{ja|黄昏の館}}", "refs": ["ar03-twilight-manor-ja"]},
       {"label": "Owner", "value": "[[loki-familia|Loki Familia]]", "refs": ["so01-towers", "ar01-office"]},
-      {"label": "Where", "value": "North of [[orario|Orario]], not far from the northeastern gates", "refs": ["ar01-office", "fm07-north", "ar03-gates"]},
+      {"label": "Where", "value": "Due north of [[orario|Orario]], near a city gate", "refs": ["ar01-office", "fm07-north", "ar03-gates"]},
       {"section": "Buildings"},
-      {"label": "Layout", "value": "A tall central tower ringed by six towers, joined at the base and by stone bridges higher up", "refs": ["so02-towers"]},
+      {"label": "Layout", "value": "A tall central tower ringed by seven towers, joined at the base and by stone bridges higher up", "refs": ["so02-towers"]},
       {"label": "Look", "value": "Dark red towers like spears; the Trickster flag on the highest", "refs": ["so01-towers"]},
       {"label": "Rooms named", "value": "Loki's room at the top of the central tower; Finn's office in the northernmost tower; dining hall; parlour; courtyard", "refs": ["so02-towers", "so02-loki", "so01-dining", "fm18-parlour", "so13-courtyard"]}
     ]
   }
 }
 ---
-**Twilight Manor** is the home of [[loki-familia|Loki Familia]], in the north of [[orario|Orario]].[@ar01-office, fm07-north] It is a cluster of tall towers rather than a single house: a large central tower ringed by six others, joined at their bases and by stone bridges higher up.[@so02-towers] During the [[great-conflict|Great Conflict]] it was one of the five strongholds where the city's residents took refuge.[@ar03-strongholds]
+**Twilight Manor** is the home of [[loki-familia|Loki Familia]], in the north of [[orario|Orario]].[@ar01-office, fm07-north] It is a cluster of tall towers rather than a single house: a large central tower ringed by seven others, joined at their bases and by stone bridges higher up.[@so02-towers] During the [[great-conflict|Great Conflict]] it was one of the five strongholds where the city's residents took refuge.[@ar03-strongholds]
 
 ## The buildings
 
-Sword Oratoria 1 describes a line of dark red towers that stand like spears above the city and look like flames when the sunlight catches them; the flag of the Trickster flies from the highest.[@so01-towers] DanMachi 10 calls it a compound famous for its long, tall spires.[@fm10-spires] Seen from afar at night, its lit towers rise like a castle.[@so14-castle]
+Sword Oratoria 1 describes a line of dark red towers that stand like spears above the city and look like flames when the sunlight catches them; the flag of the Trickster flies from the highest.[@so01-towers] DanMachi 10 calls it a mansion famous under the name *Long Mansion*.[@fm10-spires] Seen from afar at night, its lit towers rise like a castle.[@so14-castle]
 
-Sword Oratoria 2 gives the most detailed description. The six outer towers vary in shape and height; they are joined at the base into a ring around the free-standing central tower, and bridges link them on the upper floors. Three towers house the Familia's men and four its women. Shared rooms such as the archives and the cafeteria are spread across the towers, and the narration calls the place "loosely supervised chaos".[@so02-towers]
+Sword Oratoria 2 gives the most detailed description. The seven outer towers vary in shape and height; they are joined at the base into a ring around the free-standing central tower, and bridges link them on the upper floors. Three towers house the Familia's men and four its women. Shared rooms such as the archives and the cafeteria are spread across the towers, and the narration calls the place "loosely supervised chaos".[@so02-towers]
 
 - **Loki's room** is the highest room of the central tower, full of glass bottles and odd items.[@so02-loki, so07-loki]
-- **Finn's office and private quarters** are in the northernmost tower.[@so02-towers] DanMachi 8 describes the room: a thick, colourful rug, a marble fireplace, a tall grandfather clock, a black wooden desk heaped with paperwork, and a tapestry of an armoured goddess holding a spear.[@fm08-office]
+- **Finn's office and private quarters** are in the northernmost tower.[@so02-towers] DanMachi 8 describes the room: a rug that recalls a crown of flowers, a white stone fireplace, a tall grandfather clock, a black wooden desk heaped with paperwork, and a tapestry of an armoured goddess holding a spear.[@fm08-office]
 - **The dining hall.** Loki has always told her followers "We live together, we eat together", so after an expedition nearly the whole Familia crowds into its narrow hall.[@so01-dining] Finn, Riveria and Gareth's Level 7 party in Sword Oratoria 14 is held in the grand dining hall.[@so14-party]
 - **The parlour and reception room**, where the leaders meet.[@fm10-spires, fm18-parlour]
 - **The courtyard**, the open ground around the central tower, used for training; [[lefiya|Lefiya]] trains with [[bete-loga|Bete]] there in Sword Oratoria 13.[@so13-courtyard]
@@ -53,8 +54,8 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 
 [@so01-towers]: SO01 | Chapter 3: White Rabbit | Dark red towers like spears; the flag of the Trickster on the highest tower; "Loki Familia’s home, Twilight Manor."
 [@so01-dining]: SO01 | Chapter 3: White Rabbit | "We live together, we eat together."; the crowded narrow hall.
-[@so02-towers]: SO02 | Chapter 1: The Average Day | Several high towers; the central tower and the remaining six; stone bridges; three towers for men and four for women; Finn's quarters and office in the northernmost tower.
-[@so02-loki]: SO02 | Chapter 1: The Average Day | "In the highest room of the Twilight Manor’s central tower"; Loki among glass bottles and unique items.
+[@so02-towers]: SO02 | Chapter 1: The Average Day | Several high towers; stone bridges; three towers for men and four for women; Finn's quarters and office in the northernmost tower. The Japanese edition (file cA7, paragraphs 100 and 101) has seven spires in all round the central tower.
+[@so02-loki]: SO02 | Chapter 1: The Average Day | "In the highest room of the Twilight Manor’s central tower"; Loki among glass bottles and unique items. The Japanese edition (file cA7, paragraph 217) says liquor bottles.
 [@so07-loki]: SO07 | Epilogue: To Be Yearned After | Loki's room on the top floor of the central tower; the Pleasure Quarter on fire; windows of Twilight Manor popping open.
 [@so10-lawn]: SO10 | Chapter 1: Omen | "On the lawn of Twilight Manor"; Loki, Dionysus and Filvis.
 [@so12-rei]: SO12 | Chapter 2: An Evil Omen | Rei brought to Twilight Manor "under strictest secrecy".
@@ -65,11 +66,12 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 [@fm06-gate]: FM06 | Chapter 4: Those Who Gather | Bell outside the Twilight Manor; "You there, halt!"; "State your business!"
 [@fm07-north]: FM07 | Chapter 5: Killing Stone | Folkvangr as "the polar opposite of Loki Familia’s home, Twilight Manor, in the north".
 [@fm07-loki]: FM07 | Chapter 6: Yearning of a Hero | Loki watches from the tallest tower of Twilight Manor; her followers' windows open.
-[@fm08-office]: FM08 | Chapter 2: The Prum’s Proposal | Several high towers; Finn's room: rug, marble fireplace, grandfather clock, tapestry of an armoured goddess.
-[@fm10-spires]: FM10 | Chapter 8: City Panic | The reception room of "the compound famous for its long, tall spires".
+[@fm08-office]: FM08 | Chapter 2: The Prum’s Proposal | Several high towers; Finn's room: a rug like a crown of flowers, a white stone fireplace (the Japanese edition, file part0018, paragraph 657), grandfather clock, tapestry of an armoured goddess.
+[@fm10-spires]: FM10 | Chapter 8: City Panic | The reception room. The Japanese edition (file c2BU, paragraph 221) calls the manor a mansion famed under the name Long Mansion.
 [@fm18-parlour]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | The parlor of Loki Familia's home, Twilight Manor.
 [@ar01-office]: AR01 | Chapter 2: Eren | "the office of the Twilight Manor, Loki Familia headquarters, located in the north of Orario".
 [@ar01-park]: AR01 | | Loki relocated the remaining members from the Twilight Manor to Central Park.
 [@ar03-strongholds]: AR03 | Prologue: Last Intermission | The five designated strongholds; "our very own Twilight Manor"; the northern point.
-[@ar03-gates]: AR03 | | "The Twilight Manor is in your hands while I’m gone."; Noir on Finn foisting the work "on your elders"; it stood not far from the northeastern gates.
+[@ar03-gates]: AR03 | | "The Twilight Manor is in your hands while I’m gone."; Noir on Finn foisting the work "on your elders". The Japanese edition (file cTV, paragraph 273) says the manor stands due north of Orario, near a city gate.
 [@ar03-defence]: AR03 | | Noir before the gates of Twilight Manor; Dyne and Bahra; Alicia on the battlements.
+[@ar03-twilight-manor-ja]: AR03 | | The Japanese edition writes the name in kanji meaning manor of twilight; the infobox gives that written form.

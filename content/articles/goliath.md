@@ -30,7 +30,7 @@ The **Goliath** is the [[monster-rex|Monster Rex]] of Floor 17. It is born from 
 
 ## Monster Rex
 
-A Monster Rex exists alone on its floor, takes a long time to be reborn, and is said to be two Levels above the ordinary monsters of that floor.[@fm02-rex] Because the Goliath blocks the way to Floor 18, the adventurers of [[rivira|Rivira]] organize its extermination.[@fm08-goliath]
+A Monster Rex exists alone on its floor, takes a long time to be reborn, and is said to be two or more Levels above the ordinary monsters of that floor.[@fm02-rex] Because the Goliath blocks the way to Floor 18, the adventurers of [[rivira|Rivira]] organize its extermination.[@fm08-goliath]
 
 ## The regular Goliath
 
@@ -67,7 +67,7 @@ In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18,
 > - Why the Dungeon was so sensitive to Hestia's presence in DanMachi 5.[@fm05-black]
 > - Why the Sword Oratoria 13 Goliath appeared before its expected time.[@so13-early]
 
-[@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex: single, slow rebirth, two Levels above the floor's monsters.
+[@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex: single, slow rebirth, two or more Levels above the floor's monsters. The Japanese edition (file c2ZU, paragraph 103) says two or more.
 [@fm05-goliath]: FM05 | Chapter 3: Dungeon Death March | Floor 17, Great Wall of Sorrows, size and respawn interval.
 [@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it; the Black Goliath's body is likewise said to extend to as much as seven (file part0027, paragraph 79). Yen Press prints "more than seven meders tall".
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.

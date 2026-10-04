@@ -14,8 +14,9 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Place"},
+      {"label": "Japanese", "value": "{{ja|闘技場}}, written *arena*", "refs": ["fm14-colosseum-ja"]},
       {"label": "Floor", "value": "[[floor-37|Floor 37]], in the east of the Warrior Zone, between the Second and Third Walls", "refs": ["fm14-map"]},
-      {"label": "Nickname", "value": "The Bottomless Goblet", "refs": ["fm14-goblet"]},
+      {"label": "Nickname", "value": "The Bottomless Goblet ({{ja|無限の盃}}, *the infinite cup*)", "refs": ["fm14-goblet", "fm14-colosseum-ja"]},
       {"label": "Shape", "value": "Six stepped plates around a round arena, about as wide as Babel", "refs": ["fm14-shape"]},
       {"label": "Appeared", "value": "About thirty years ago, by the Guild's records", "refs": ["fm14-history"]},
       {"section": "Danger"},
@@ -82,3 +83,4 @@ In DanMachi 15 Bell tells Eina, in short, that he "used an explosive, which made
 [@fm15-eina]: FM15 | | "We were about to die trying to escape the Colosseum, so I used an explosive, which made the floor collapse".
 [@fm15-lyu]: FM15 | Interlude: Elven Unrest | "After the boy had caused the collapse of the Colosseum, he’d played dead".
 [@so01-coliseum]: SO01 | Chapter 5: To Battle | "The Coliseum, located in eastern Orario"; "the main event of the Monsterphilia".
+[@fm14-colosseum-ja]: FM14 | | The Japanese edition writes the name in kanji meaning arena, with the reading Colosseum, and calls it the infinite cup; the infobox gives both.

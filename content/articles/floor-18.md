@@ -44,8 +44,7 @@ Its businesses trade by exchange at very high prices, and adventurers use their 
 
 The [[xenos|Xenos]] destroy the 334th Rivira in DanMachi 10 while hunting [[ikelos-familia|Ikelos Familia]].[@fm10-rivira]
 
-> [!UNRESOLVED] 334 or 344?
-> In Sword Oratoria 2 the town's sign reads 344, while the explanation right after it speaks of the 334th version after 333 destructions. Both numbers are printed, and the text does not say which is intended.[@so02-sign]
+Sword Oratoria 2 also counts the town as its 334th version, after 333 destructions.[@so02-sign]
 
 ## Events
 
@@ -63,7 +62,6 @@ At the eastern edge of the forest, regenerating quartz hides an [[metals#orichal
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether Rivira's count is 334 or 344 in Sword Oratoria 2.[@so02-sign]
 > - How far below Floor 18 Knossos reaches.[@fm10-reach]
 
 [@fm03-loki]: FM03 | | Loki Familia's destination.
@@ -78,6 +76,6 @@ At the eastern edge of the forest, regenerating quartz hides an [[metals#orichal
 [@fm10-knossos]: FM10 | | The Floor 18 entrance to Knossos.
 [@fm10-reach]: FM10 | Chapter 9: Dreams of Beasts | Knossos reaches at least Floor 18.
 [@fm12-lower]: FM12 | Chapter 3: New World ~Water Island~ | Floor 25 begins the lower levels.
-[@so02-sign]: SO02 | Chapter 2: Incident | Rivira's sign and count.
+[@so02-sign]: SO02 | Chapter 2: Incident | Rivira's sign and count. The Japanese edition (file cWG, paragraphs 18 and 19) reads 334 for the number on the gate and for the town's version.
 [@so05-forest]: SO05 | | The forest, food, Crystal Grove and Rogue Town.
 [@so13-goliath]: SO13 | Chapter 5: The Mirror’s Voice | A Goliath's fall blocks the passage to Floor 18.

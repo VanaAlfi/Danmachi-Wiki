@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|シル・フローヴァ}}", "refs": ["fm16-syr-ja"]},
       {"label": "Appears as", "value": "A waitress at [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm01-syr", "fm01-west"]},
       {"label": "In truth", "value": "The mortal persona of [[freya|Freya]]", "refs": ["fm17-prologue"]},
       {"label": "Name taken from", "value": "The mortal girl now called [[horn|Hörn]]", "refs": ["fm16-names"]},
@@ -29,7 +30,7 @@
 
 ## The persona {#persona}
 
-Freya took the appearance, name and history of a mortal girl called Syr. In exchange the girl received the divine name [[horn|Hörn]], and her [[falna|Falna]] lets her take on Freya's appearance and divinity, though not [[tenkai-and-gekai#arcanum|Arcanum]].[@fm16-names, fm17-prologue] Freya still goes to [[denatus|Denatus]] in person, because she expects [[loki|Loki]] would see through a stand-in.[@fm17-prologue]
+Freya took the name and history of a mortal girl called Syr; the face is Freya's own girl form from heaven, regained through the name exchange. In exchange the girl received the divine name [[horn|Hörn]], and her [[falna|Falna]] lets her take on Freya's appearance and divinity, though not [[tenkai-and-gekai#arcanum|Arcanum]].[@fm16-names, fm17-prologue] Freya still goes to [[denatus|Denatus]] in person, because she expects [[loki|Loki]] would see through a stand-in.[@fm17-prologue]
 
 Within [[freya-familia|Freya Familia]] only recognised second-tier members and the core forces know that Syr exists, and one or two first-tier adventurers usually guard her.[@fm16-guard] [[allen-fromel|Allen Fromel]] is among her guards; in Minor Myths and Legends 2 he obtains her invitation to the casino.[@ss02-invite]
 
@@ -71,7 +72,7 @@ In DanMachi 20 Syr visits [[hearthstone-manor|Hearthstone Manor]] and asks to st
 [@fm16-odr]: FM16 | | Syr defines an Odr.
 [@fm16-names]: FM16 | Chapter 6: The Wish’s Cost | The exchange of names; the second-day Syr.
 [@fm16-rejected]: FM16 | Epilogue: “Alea Iacta Est” II | "Syr's time is over."
-[@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of the persona.
+[@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of the persona. The Japanese edition (file part0013, paragraphs 24 to 37) has Hörn give the name and the history, while the face is the girl form Freya herself used in Tenkai, regained once she received the name Syr.
 [@fm17-memory]: FM17 | Chapter 4: Those Left Behind | Mia and Anya remember Syr.
 [@fm17-support]: FM17 | Chapter 5: The End of Her World | The grimoire and amulet; Syr's tears.
 [@fm17-double]: FM17 | Double Role I | Freya's recollection.
@@ -84,3 +85,4 @@ In DanMachi 20 Syr visits [[hearthstone-manor|Hearthstone Manor]] and asks to st
 [@fc01-casino]: FC01 | Crush the Grand Casino! | The poker game.
 [@ss02-invite]: SS02 | The Night Before a Grand Casino Infiltration | Allen procures the invitation.
 [@ss02-cards]: SS02 | Beginner’s Luck? | Bell's winning hand.
+[@fm16-syr-ja]: FM16 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

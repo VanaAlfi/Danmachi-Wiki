@@ -33,9 +33,9 @@ The early English volumes do not use the name. Yen Press's DanMachi 1 and 2 call
 
 - **Recipe:** "mashed potatoes mixed with seasoning, rolled in batter, and deep-fried". Hestia's stand seems to have a potion as its secret ingredient.[@fm04-stand] Sword Oratoria 9 describes "some kind of flattened potato snack" coated in breading and fried.[@so09-first] The herbs used to make them come in from outside the city wall.[@fm08-herbs]
 - **Price:** an ordinary one costs thirty vals.[@fm02-price, fm15-bell] Two azuki-cream (red bean and cream) ones, fried in batter, cost Aiz eighty vals in DanMachi 3; the Yen Press text prints "sweet-bean potato puffs" and puffs "with frosting on them".[@fm03-stall, fm03-ja-stall] The "hyper-ultra-jumbo Jyaga Maru Kun deluxe" costs a hundred times as much: 3,000 valis, for a snack five hands long.[@fm17-deluxe]
-- **Flavours:** sweet bean, Aiz's favourite in DanMachi 2 and 3 (in the Japanese DanMachi 3 her order is azuki cream, which may be the red beans and cream flavour below); red beans and cream; grape cream; salty.[@fm02-tiona, fm03-stall, ss01-aiz, so13-elfie, fc03-salty] "Green tea–flavored Jyaga Maru Kun" is the password Aiz is given for a bar in Sword Oratoria 3.[@so03-password] By Minor Myths and Legends 2 the stalls have changed their flavours.[@ss02-flavours]
-- **Stalls:** besides Hestia's stand on North Main Street there are a store on East Main Street, stalls on Southwest Main Street, stalls at the [[monsterphilia|Monsterphilia]], and stalls "in the most out-of-the-way places".[@ss01-aiz, ss02-flavours, so01-monsterphilia, fm08-stalls] [[takemikazuchi-familia|Takemikazuchi]] also makes fried potato puffs, and is "Still losing in sales to Hestia’s place up north".[@fm05-takemikazuchi]
-- **History:** in Sword Oratoria 9's recollections of Aiz's early years in [[loki-familia|Loki Familia]], during the Dark Ages, [[loki|Loki]] says the stall "just started up recently". Loki remembers its jingle: "The bundle of joy that makes every mouth in the city water".[@so09-first, so09-dark] In DanMachi 19, [[nina-tulle|Nina Tulle]] says that Jyaga Maru Kun "originated in Orario" and is popular in the [[school-district|School District]] too. Hestia had called it "a worldwide franchise".[@fm19-shop]
+- **Flavours:** azuki cream, Aiz's favourite (Yen Press: "sweet-bean" in DanMachi 2 and 3, "red beans and cream" in Minor Myths and Legends 1); grape cream; salty.[@fm02-tiona, fm03-stall, ss01-aiz, so13-elfie, fc03-salty] "Green tea–flavored Jyaga Maru Kun" is the password Aiz is given for a bar in Sword Oratoria 3.[@so03-password] By Minor Myths and Legends 2 the stalls have changed their flavours.[@ss02-flavours]
+- **Stalls:** besides Hestia's stand on North Main Street there are a shop to the east, stalls on Southwest Main Street, stalls at the [[monsterphilia|Monsterphilia]], and stalls "in the most out-of-the-way places".[@ss01-aiz, ss02-flavours, so01-monsterphilia, fm08-stalls] [[takemikazuchi-familia|Takemikazuchi]] also makes fried potato puffs, and is "Still losing in sales to Hestia’s place up north".[@fm05-takemikazuchi]
+- **History:** in Sword Oratoria 9's recollections of Aiz's early years in [[loki-familia|Loki Familia]], during the Dark Ages, [[loki|Loki]] says the stall "just started up recently". Loki remembers its jingle: "The bundle of joy that makes every mouth in the city water".[@so09-first, so09-dark] In DanMachi 19, [[nina-tulle|Nina Tulle]] says that Jyaga Maru Kun "originated in Orario" and is popular in the [[school-district|School District]] too. Hestia had called it worldwide.[@fm19-shop]
 
 In the School District's stylish shop, Nina orders a drink with a Jyaga Maru Kun stuck in it, and Bell orders the plainest thing he can see, a hojicha-pepper one. Two cost two hundred ragnars.[@fm19-shop]
 
@@ -54,12 +54,12 @@ In the School District's stylish shop, Nina orders a drink with a Jyaga Maru Kun
 | DanMachi 13 | Hestia now works both at "Hephaistos’s place" and at Jyaga Maru Kun.[@fm13-jobs] |
 | DanMachi 17 | While Bell is held by [[freya-familia|Freya Familia]], Hestia skips her shifts for days, until the owner comes beating on the door. To keep her job she begs [[hermes|Hermes]] to buy the deluxe, and he pays 3,000 valis.[@fm17-shifts, fm17-deluxe] |
 | DanMachi 20 | During the [[orariad|Orariad]], Hestia is selling Jyaga Maru Kun in "this prime sales slot".[@fm20-orariad] |
-| Minor Myths and Legends 1 | The East Main Street store makes over a thousand Jyaga Maru Kun too many, and Hestia puts Aiz to work selling them. Crowds come for one "touched by Aiz herself".[@ss01-aiz] |
+| Minor Myths and Legends 1 | A shop to the east makes far too many Jyaga Maru Kun, and Hestia's stall must sell a thousand; Hestia puts Aiz to work selling them. Crowds come for one "touched by Aiz herself".[@ss01-aiz] |
 
 Loki calls Hestia "That busty Jyaga Maru midget tramp" and similar names.[@so04-favourite, so05-tramp, so06-tramp]
 
 > [!NOTE] Two accounts of the accident
-> DanMachi 4 says that Hestia set up the fryer wrongly, it "exploded in her face", there were no injuries, and the repairs came out of her pay. DanMachi 15, telling of the time before she met Bell, says that her mistake with the cooking equipment burned the whole stall to the ground and left her in heavy debt. The volumes do not say whether these are one accident or two.[@fm04-pay, fm15-hestia]
+> DanMachi 4 says that Hestia set up the fryer wrongly, it "exploded in her face", no one was hurt except Hestia, charred black, and the repairs came out of her pay. DanMachi 15, telling of the time before she met Bell, says that her mistake with the cooking equipment burned the whole stall to the ground and left her in heavy debt. The volumes do not say whether these are one accident or two.[@fm04-pay, fm15-hestia]
 
 ## Aiz Wallenstein {#aiz}
 
@@ -68,7 +68,7 @@ Jyaga Maru Kun is one of Aiz's "secret guilty pleasures"; Sword Oratoria 4 calls
 ## Others {#others}
 
 - **[[lilliluka-erde|Lilly]]:** as a hungry child in [[soma-familia|Soma Familia]], she is handed one of the snacks by [[soma|Soma]] himself.[@fm15-lilly]
-- **[[wiene|Wiene]]:** Hestia wins her favour by feeding her Jyaga Maru Kun scraps. [[fels|Fels]] reports that Wiene has "inherited the goddess’s love of Jyaga Maru Kun".[@ss01-wiene]
+- **[[wiene|Wiene]]:** Hestia wins her over with a feeding campaign of Jyaga Maru Kun, the goddess's trump card, and Wiene delights in them; [[fels|Fels]] notes that Wiene has been tamed by the goddess.[@ss01-wiene]
 - **[[al-miraj#aruru|Aruru]] and Helga:** [[cassandra|Cassandra]] feeds the Xenos she hides on pieces of Jyaga Maru Kun; "they liked the potato snacks".[@fm11-cassandra]
 - **[[elfie-collette|Elfie]]:** when [[lefiya|Lefiya]] apologises for keeping her away from [[elegia|Elegia]], Elfie asks only for "a grape cream Jyaga Maru Kun".[@so13-elfie]
 - **[[lyu-leon|Lyu]]:** masked in Astrea Record 3, she tells the young Aiz they once fought "over the last Jyaga Maru Kun", a lie.[@ar03-lyu]
@@ -91,11 +91,11 @@ In Astrea Record 1, Ardee of [[ganesha-familia|Ganesha Familia]] lets a thief go
 [@fm03-stall]: FM03 | Chapter 3: Black Raid | "Tiona told me about a potato puffs stand over there."; "Two sweet-bean potato puffs, please."; "That’s eighty vals".
 [@fm03-ja-stall]: FM03 | Chapter 3: Black Raid | Japanese original (file c23U, paragraphs 162, 178 and 180): Aiz orders two Jyaga Maru Kun of the azuki-cream flavour; the puffs are coated in batter and fried by another clerk, and Hestia wraps them and names the price, eighty vals. Yen Press prints "frosting", where the Japanese has the frying batter.
 [@fm04-stand]: FM04 | A Campanella to the Goddess | "a street stand that was situated on North Main Street"; "Crispy Potato Puffs"; "mashed potatoes mixed with seasoning, rolled in batter, and deep-fried"; a potion "as a secret ingredient".
-[@fm04-pay]: FM04 | A Campanella to the Goddess | "She worked six hours today at 30 vals per hour."; "everything exploded in her face"; repairs "taken out of her paycheck".
+[@fm04-pay]: FM04 | A Campanella to the Goddess | "She worked six hours today at 30 vals per hour."; "everything exploded in her face"; repairs "taken out of her paycheck". The Japanese edition (file c5KW, paragraph 68) says no one was hurt except Hestia, charred black.
 [@fm05-takemikazuchi]: FM05 | | Takemikazuchi "would once again be making fried potato puffs"; "Still losing in sales to Hestia’s place up north".
 [@fm07-puffs]: FM07 | Chapter 1: Smooth Sailing? | "Jyaga Maru Kun—crispy potato puffs—alone with the goddess in the hidden room under the old church".
 [@fm08-herbs]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "the same Jyaga Maru Kun street stand as she did"; "a shipment of herbs that we use to make the potato puffs"; "outside the wall".
-[@fm08-ganesha]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Ganesha: "Jyaga Maru Kun are bundles of joy that bring tears of happiness to the eyes of the people!"
+[@fm08-ganesha]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Ganesha: "Jyaga Maru Kun are bundles of joy". The Japanese edition (file part0030, paragraph 437) has him call it a lump of vitality that nourishes the city, without which someone will be crying again today.
 [@fm08-stalls]: FM08 | Chapter 5: The City Girl’s Secret | "the random Jyaga Maru Kun street stands in the most out-of-the-way places".
 [@fm11-shifts]: FM11 | | "My shifts at the Jyaga Maru Kun stand have been canceled as well…"
 [@fm11-cassandra]: FM11 | | Interlude: "feed them pieces of Jyaga Maru Kun"; "Incidentally, they liked the potato snacks."
@@ -105,8 +105,8 @@ In Astrea Record 1, Ardee of [[ganesha-familia|Ganesha Familia]] lets a thief go
 [@fm15-hestia]: FM15 | | "a mistake with the cooking equipment at the Jyaga Maru Kun stall"; "burning to the ground"; "a heavy debt"; Loki "would stop by her Jyaga Maru Kun stall just to make fun of her".
 [@fm15-lilly]: FM15 | | "Soma wordlessly approached her"; "he held out one of the Jyaga Maru Kun snacks".
 [@fm17-shifts]: FM17 | Chapter 5: The End of Her World | "She had skipped her shift at work for several days in a row"; "the owner of the Jyaga Maru Kun shop was mad"; "while her precious follower was all alone".
-[@fm17-deluxe]: FM17 | Chapter 5: The End of Her World | "The hyper-ultra-jumbo Jyaga Maru Kun deluxe!"; "a hundred times the usual price in gold coins (3,000 valis)"; "five hands long".
-[@fm19-shop]: FM19 | Chapter 3: School Life in Another World | "Jyaga Maru Kun originated in Orario, didn’t it?"; "a worldwide franchise"; "One hojicha-pepper Jyaga Maru Kun."; "Two hundred ragnars."
+[@fm17-deluxe]: FM17 | Chapter 5: The End of Her World | "The hyper-ultra-jumbo Jyaga Maru Kun deluxe!"; "a hundred times the usual price in gold coins (3,000 valis)"; "five hands long". The Japanese edition (file S0, paragraph 930) says about five fists' worth.
+[@fm19-shop]: FM19 | Chapter 3: School Life in Another World | "Jyaga Maru Kun originated in Orario, didn’t it?"; "One hojicha-pepper Jyaga Maru Kun."; "Two hundred ragnars." The Japanese edition (file part0021, paragraph 405) has Hestia call it worldwide.
 [@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | "dishing out Jyaga Maru Kuns during this prime sales slot".
 [@so01-monsterphilia]: SO01 | Chapter 4: Between Tranquility and Turbulence | "Aizuu, Jyaga Marukun is first on our list!"; "one of Aiz’s secret guilty pleasures".
 [@so03-password]: SO03 | Chapter 2: Let’s Party? | "Green tea–flavored Jyaga Maru Kun."; "the password the darkly dressed client had given her".
@@ -118,10 +118,10 @@ In Astrea Record 1, Ardee of [[ganesha-familia|Ganesha Familia]] lets a thief go
 [@so09-first]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | "Apparently, it just started up recently."; "some kind of flattened potato snack"; "That was Aiz’s introduction to Jyaga Maru Kun."; "a third Jyaga Maru Kun".
 [@so13-elfie]: SO13 | Chapter 2: Nostalgic Schoolhouse | Lefiya "dodging Elegia"; "When she tried to apologize"; "You can buy me a grape cream Jyaga Maru Kun when we get back!"
 [@fc03-salty]: FC03 | | "a salty Jyaga Maru Kun".
-[@ss01-aiz]: SS01 | | "At the Jyaga Maru Kun stall on North Main Street"; "Red beans and cream, please."; "The store over on East Main Street"; "touched by Aiz herself".
-[@ss01-wiene]: SS01 | | "feeding the dragon girl Jyaga Maru Kun scraps"; "inherited the goddess’s love of Jyaga Maru Kun".
+[@ss01-aiz]: SS01 | | "At the Jyaga Maru Kun stall on North Main Street"; "Red beans and cream, please."; "touched by Aiz herself". The Japanese edition (file part0023, paragraphs 7 and 13) has Aiz order the azuki cream flavour of DanMachi 3, and says a shop over to the east misheard an order and made a lot of extras, so that Hestia's shop must sell a thousand too.
+[@ss01-wiene]: SS01 | | Hestia's feeding campaign; Fels's note. The Japanese edition (file part0054, paragraph 6; part0062, paragraphs 80–81) calls it a feeding campaign with the goddess's trump card, Jyaga Maru Kun, and has Fels note that Wiene has been tamed.
 [@ss02-flavours]: SS02 | Girls×Cross: Four Paths of a Half Year | "her usual visit to the Jyaga Maru Kun stands"; "Southwest Main Street"; "They changed the flavors".
 [@ar01-bogan]: AR01 | Prologue: The Unforgettable Melody of Justice | "he had supplied Bell and Hestia with Jyaga Maru Kun when the two were destitute"; "Bogan".
 [@ar01-ardee]: AR01 | Chapter 2: Eren | "It was a baked yam, steaming and wrapped in paper."; "I can let you have my Jyaga Maru Kun".
 [@ar03-lyu]: AR03 | | "we got into a fight over the last Jyaga Maru Kun one time!"; "a big, fat lie".
-[@ar03-bogan]: AR03 | Epilogue: On and on Down the Unending Road of Justice | "But I was forgiven."; "Written on it was a girl’s name."; "We’ll have that Jyaga Maru Kun some other time".
+[@ar03-bogan]: AR03 | Epilogue: On and on Down the Unending Road of Justice | "But I was forgiven."; "Written on it was a girl’s name."; "We’ll have that Jyaga Maru Kun some other time". The Japanese edition (file c9M1, paragraph 64) lists her older sister, read as family, among those who left flowers.

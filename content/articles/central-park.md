@@ -49,7 +49,7 @@
 
 {{nocite}} See [[great-conflict|The Great Conflict]] for the war as a whole.
 
-- **Astrea Record 1:** when the Evils attack, [[loki|Loki]] moves her Familia to Central Park, and [[freya|Freya]] sends hers there too. [[finn-deimne|Finn]] has a perimeter raised, and lower-class adventurers build barricades from broken planks and empty ale casks.[@ar01-base]
+- **Astrea Record 1:** when the Evils attack, [[loki|Loki]] moves her Familia to Central Park, and [[freya|Freya]] sends hers there too. [[finn-deimne|Finn]] has a perimeter raised, and lower-class adventurers build barricades from rubble and tavern barrels.[@ar01-base]
 - **Astrea Record 2:** Central Park becomes the allies' forward base and true headquarters, with Guild Headquarters second. On the night before the final battle, every Familia gathers there to hear Finn speak.[@ar02-base, ar02-guild, ar02-speech]
 - **Astrea Record 3:** layers of ice encircle Central Park, and the foot of Babel becomes the most fortified place in the city.[@ar03-ice, ar03-fortress] When [[zald|Zald]] reaches it and meets [[ottar|Ottar]], mages on the rooftops raise barriers that trap him inside; the Evils' commander [[valletta|Valletta]] had been made to believe that most of the city's forces were gathered there to deal with Zald and [[alfia|Alfia]].[@ar03-barrier, ar03-forces] The first duel ends with Ottar on one knee, but the sound of fighting from Central Park starts up again: "Ottar still stands".[@ar03-duel, ar03-stands] The Evils then drive their monsters at Central Park, and a ring of silver and black light tears apart every monster that approaches.[@ar03-monsters, ar03-ring]
 - **The end:** the defeated conqueror lies in Central Park, just south of Babel's gates. Later crowds pack it to see their foe's execution.[@ar03-aftermath, ar03-execution]
@@ -73,7 +73,7 @@
 [@so03-circle]: SO03 | Chapter 1: The Black Robe’s Invitation | "Central Park, the point where all eight main streets converged"; "Adventurers streamed into the circular park from every direction."
 [@so12-size]: SO12 | Chapter 3: Rabbit Oracle | "That would make it a little bigger than Central Park".
 [@so12-army]: SO12 | Chapter 6: The Divine Providence of Despair | "the strongest army gathered in Central Park at the base of Babel".
-[@ar01-base]: AR01 | Chapter 9: The Opening Act of Evil | "Send them to Central Park"; "Loki had relocated the remaining members of her familia from the Twilight Manor to Central Park."; "Let’s erect a perimeter around Central Park"; barricades of "broken planks of wood and empty ale casks".
+[@ar01-base]: AR01 | Chapter 9: The Opening Act of Evil | "Send them to Central Park"; "Loki had relocated the remaining members of her familia from the Twilight Manor to Central Park."; "Let’s erect a perimeter around Central Park"; barricades of rubble and tavern barrels (the Japanese edition, file c4VY, paragraph 281).
 [@ar02-base]: AR02 | | "They’re setting up a forward base in Central Park"; "our true headquarters from now on".
 [@ar02-guild]: AR02 | Chapter 2: Wavering Justice | "Guild Headquarters located in southwest Orario, now the second-most important base of operations in the city after Central Park".
 [@ar02-speech]: AR02 | Epilogue: All You Need Is Justice | "Familia members from all across the city had gathered there."; "Central Park erupted into howls."

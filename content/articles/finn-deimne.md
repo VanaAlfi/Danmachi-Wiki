@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|フィン・ディムナ}}", "refs": ["fm08-finn-ja"]},
       {"label": "Race", "value": "[[races#prum|Prum]]", "refs": ["fm05-leaders"]},
       {"label": "Born", "value": "Deimne; took the name Finn (\"light\")", "refs": ["so14-finn"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]], its first member", "refs": ["so14-finn"]},
       {"label": "Position", "value": "Captain and field general", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-finn", "so14-sevens"]},
-      {"label": "Title", "value": "Braver", "refs": ["so03-titles"]},
+      {"label": "Title", "value": "Braver ({{ja|勇者}}, written *hero*)", "refs": ["so03-titles", "fm08-finn-ja"]},
       {"label": "Magic", "value": "[[#hell-finegas|Hell Finegas]], [[#tir-na-nog|Tir na Nog]]", "refs": ["so14-finn", "tir-na-nog.so08-sheet"]},
       {"label": "Skills", "value": "[[skills#finn-skills|Prum Spirit, Noble Brave, Dia Phiana, Command Howl, Ail mac Midna]]", "refs": ["skills.so08-sheet"]}
     ]
@@ -31,7 +32,7 @@
 
 ## Early life
 
-Born Deimne, he took the name *Finn*, meaning "light", after his parents died saving him when he was ten, and vowed to restore the prums. At fourteen he became Loki's first follower, saved the town of Preblica, and then helped recruit [[riveria|Riveria]] and [[gareth|Gareth]].[@so14-finn] His first [[falna|Falna]] held two powerful Skills, [[skills#finn-skills|Prum Spirit and Noble Brave]], and the magic [[#hell-finegas|Hell Finegas]], which raises all his abilities at the cost of his judgement.[@so14-finn]
+Born Deimne, he took the name *Finn*, meaning "light", after his parents died saving him when he was ten, and vowed to restore the prums. At fourteen he became Loki's first follower, saved the village of Preblica, and then helped recruit [[riveria|Riveria]] and [[gareth|Gareth]].[@so14-finn] His first [[falna|Falna]] held two powerful Skills, [[skills#finn-skills|Prum Spirit and Noble Brave]], and the magic [[#hell-finegas|Hell Finegas]], which raises all his abilities at the cost of his judgement.[@so14-finn]
 
 ## Leader
 
@@ -134,7 +135,7 @@ His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir
 [@so10-finn]: SO10 | | Finn and the Xenos.
 [@so11-finn]: SO11 | | The five-front assault.
 [@so12-finn]: SO12 | | Six fronts; Nidhogg.
-[@so14-finn]: SO14 | | His name, vow and first Falna (the Status card printed as an image, p. 38, and the Level 1 sheet, p. 180: Hell Finegas; Skills Prum Spirit and Noble Brave); the founding.
+[@so14-finn]: SO14 | | His name, vow and first Falna (the Status card printed as an image, p. 38, and the Level 1 sheet, p. 180: Hell Finegas; Skills Prum Spirit and Noble Brave); the founding. The Japanese edition calls Preblica a village throughout.
 [@skills.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): five Skills.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7.
 [@ar01-finn]: AR01 | | Directing the defence.
@@ -150,3 +151,4 @@ His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir
 [@tir-na-nog.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Magic Hell Finegas only.
 [@hell-finegas.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Hell Finegas, enhancement magic; second spell Tir na Nog.
 [@hell-finegas.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Hell Finegas, enhancement magic, "battle lust"; no other spell.
+[@fm08-finn-ja]: FM08 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning hero, with the reading Braver; the infobox gives the printed name and the kanji.

@@ -5,14 +5,14 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "The Dungeon's first twelve floors, where Level 1 adventurers work: pale blue halls with goblins and kobolds on floors 1 to 4, green walls and the first real dangers on 5 to 7, grassy yellow plains on 8 and 9, and fog, dead-tree weapons and larger monsters on 10 to 12, where infant dragons serve as the bosses.",
+  "summary": "The Dungeon's first twelve floors, where Level 1 adventurers work: pale blue halls with goblins and kobolds on floors 1 to 4, green walls and the first real dangers on 5 to 7, grassy plains with wood-coloured walls on 8 and 9, and fog, dead-tree weapons and larger monsters on 10 to 12, where infant dragons serve as the bosses.",
   "aliases": ["Upper floors", "Upper Levels", "Upper dungeon", "Floors 1–12", "Floor 1", "Floor 2", "Floor 3", "Floor 4", "Floor 5", "Floor 6", "Floor 7", "Floor 8", "Floor 9", "Floor 10", "Floor 11", "Floor 12", "first floor", "second floor", "third floor", "fourth floor", "fifth floor", "sixth floor", "seventh floor", "eighth floor", "ninth floor", "tenth floor", "eleventh floor", "twelfth floor", "Beginning Road", "Onset Road", "Landform", "Landforms", "Blue papillon", "Blue Papilio"],
   "spoilers": "DanMachi Vols. 1–4, 10, 11, 15, 16, 19, Sword Oratoria Vols. 1, 3–5, 9–12, Astrea Record Vol. 2 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["dungeon", "cave-labyrinth", "monsters", "babel", "guild", "level", "minotaur", "knossos"],
   "sections": [
     {"anchor": "floors-1-4", "title": "Floors 1–4", "summary": "The Dungeon's first four floors: pale blue halls entered through the Beginning Road under Babel, with goblins and kobolds, and no pantries on the first two floors.", "aliases": ["Floor 1", "Floor 2", "Floor 3", "Floor 4", "first floor", "second floor", "third floor", "fourth floor", "Beginning Road", "Onset Road", "Jackbird"]},
     {"anchor": "floors-5-7", "title": "Floors 5–7", "summary": "Where the walls turn green, the layout grows complicated and monsters are born more often; the war shadow and killer ant, the 'newbie killers', live here. Aiz saves Bell from a Minotaur on the fifth floor.", "aliases": ["Floor 5", "Floor 6", "Floor 7", "fifth floor", "sixth floor", "seventh floor"]},
-    {"anchor": "floors-8-9", "title": "Floors 8–9", "summary": "Grass-floored rooms with yellow, mossy walls and a single sun-like light, where stronger goblins and kobolds appear. Bell fights the Minotaur on the ninth floor.", "aliases": ["Floor 8", "Floor 9", "eighth floor", "ninth floor"]},
+    {"anchor": "floors-8-9", "title": "Floors 8–9", "summary": "Grass-floored rooms with wood-coloured, mossy walls and a single sun-like light, where stronger goblins and kobolds appear. Bell fights the Minotaur on the ninth floor.", "aliases": ["Floor 8", "Floor 9", "eighth floor", "ninth floor"]},
     {"anchor": "floors-10-12", "title": "Floors 10–12", "summary": "The fog-filled floors where large monsters, dead-tree landforms and monster parties begin; the eleventh and twelfth floors hold the Hard Armored and the infant dragon, the bosses of the upper levels.", "aliases": ["Floor 10", "Floor 11", "Floor 12", "tenth floor", "eleventh floor", "twelfth floor", "Landform", "Landforms", "Dungeon gimmick"]}
   ],
   "infobox": {
@@ -20,22 +20,23 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Region"},
+      {"label": "Japanese", "value": "{{ja|上層}}", "refs": ["fm04-upper-ja"]},
       {"label": "Floors", "value": "1–12", "refs": ["so01-upper", "so03-twelve"]},
       {"label": "Entrance", "value": "The spiral staircase beneath [[babel|Babel]], then the Beginning Road", "refs": ["fm10-road", "so09-first"]},
       {"label": "Below", "value": "The [[cave-labyrinth|Cave Labyrinth]], from the thirteenth floor", "refs": ["fm04-room", "ss01-thirteen"]},
       {"section": "Adventurers"},
       {"label": "Guild limit", "value": "Floor 12 is the lowest a Level 1 may enter", "refs": ["fm02-limit"]},
-      {"label": "Workforce", "value": "More than half of all adventurers", "refs": ["fm02-common"]},
+      {"label": "Level 1 adventurers", "value": "Half of all adventurers", "refs": ["fm02-common"]},
       {"label": "Bosses", "value": "No [[monster-rex|Monster Rex]]; [[monsters#infant-dragon|infant dragons]] act as the bosses", "refs": ["fm04-boss", "so09-boss"]}
     ]
   }
 }
 ---
-The **upper levels** (also the *upper floors*) are the first twelve floors of [[dungeon|the Dungeon]].[@so01-upper, so03-twelve] The twelfth floor is "the last of what’s commonly known as the upper floors"; below it the [[cave-labyrinth|Cave Labyrinth]] begins the middle levels.[@ss01-twelfth, ss01-thirteen] Common knowledge says Level 1 adventurers can manage these floors, and more than half of all adventurers work on them. The [[guild|Guild]] does not let a Level 1 go below the twelfth floor.[@fm02-common, fm02-limit]
+The **upper levels** (also the *upper floors*) are the first twelve floors of [[dungeon|the Dungeon]].[@so01-upper, so03-twelve] The twelfth floor is "the last of what’s commonly known as the upper floors"; below it the [[cave-labyrinth|Cave Labyrinth]] begins the middle levels.[@ss01-twelfth, ss01-thirteen] Common knowledge says Level 1 adventurers can manage these floors, and half of all adventurers are Level 1; the eleventh and twelfth floors are held to be the deepest a Level 1 can clear, a standard of ability rather than a [[guild|Guild]] rule.[@fm02-common, fm02-limit]
 
 ## Overview {#overview}
 
-- **Floors and monsters:** each floor bears its own monsters, and most monsters stay on the floor where they were born. The deeper the floor, the stronger the monsters.[@fm01-floors] Monsters seen out of place are usually found two floors above or below their recorded floor.[@fm04-strays]
+- **Floors and monsters:** each floor bears its own monsters, and most monsters stay on the floor where they were born. The deeper the floor, the stronger the monsters.[@fm01-floors] Monsters seen out of place are generally held to stray at most two floors above or below their recorded floor.[@fm04-strays]
 - **Size:** the Dungeon widens with depth. The fifth floor is about the size of [[central-park|Central Park]], and the narrow upper floors make a full expedition party "the very definition of a traffic jam".[@fm03-wider] Because there is less room and there are many more lower-class adventurers, people run into one another constantly.[@fm10-wide] For the same reason the [[xenos|Xenos]] avoid the floors above the tenth.[@so12-xenos]
 - **Light:** no sunlight reaches the Dungeon, yet it is always bright enough to see; the ceiling of the first floor is speckled with tiny lights like sparks.[@fm01-light]
 - **Accidents:** most accidents happen on floors 1 to 12. Eina's explanation, as Bell remembers it, is that the floors simply hold far more adventurers, so mistakes there are far more common.[@fm16-accidents, ss01-accidents]
@@ -58,7 +59,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 
 - **Walls and monsters:** the walls of the first four floors are pale blue, and the monsters are usually just [[monsters#goblin|goblins]] and [[monsters#kobold|kobolds]], with few kinds of either.[@fm02-floors] [[monsters#dungeon-lizard|Dungeon lizards]] appear on floors 2 to 4.[@fm01-lizard] The monsters nearer the fourth floor are a little stronger and smarter, but this is the easiest region for new adventurers.[@fm02-floors]
 - **The first floor:** it is "neatly carved out of its stone like a man-made labyrinth", with pale blue walls as far as the eye can see.[@ss01-first] A goblin is "One of the monsters native to the first floor".[@so09-first]
-- **The way in:** adventurers go down a spiral staircase beneath [[babel|Babel]] to the first floor's main passage.[@fm10-road] Its printed name varies: the *Beginning Road* (DanMachi 10, Sword Oratoria 9), *Onset Road* (Sword Oratoria 4) and "The beginner’s road" (DanMachi 19).[@fm10-road, so09-first, so04-road, fm19-road]
+- **The way in:** adventurers go down a spiral staircase beneath [[babel|Babel]] to the first floor's main passage.[@fm10-road] Its printed name varies: the *Beginning Road* (DanMachi 10, Sword Oratoria 9), *Onset Road* (Sword Oratoria 4) and "The beginner’s road" (DanMachi 19); the Japanese has one name for all of them, written *the road of the beginning*.[@fm10-road, so09-first, so04-road, fm19-road, fm10-road-ja]
 - **Pantries:** the first two floors have none.[@fm04-pantries]
 - **A rare monster:** the jackbird, a hen-like creature that can only run, seldom appears in the Dungeon; its golden egg sells for at least a million valis. In Minor Myths and Legends 1 Bell and [[hestia|Hestia]] meet one on the first floor.[@ss01-jackbird]
 - **Leveling:** a Familia can raise its low-Level members on shallow floors; Hestia Familia takes [[haruhime|Haruhime]] to the third floor for this, a practice "often referred to as “leveling.”"[@fm15-leveling]
@@ -66,16 +67,16 @@ The [[school-district|School District]]'s own rules for its students are stricte
 
 ## Floors 5–7 {#floors-5-7}
 
-- **The change:** "Everything changed on the fifth level." The walls turn green, the layout grows more complicated, and unpleasant monsters appear in larger numbers.[@fm02-fifth] Bell knows he has gone too far when the pale blue walls turn light green.[@fm02-green] Monsters are born from the walls much more often from the lower fifth floor down, and the birthing interval on the seventh floor is much shorter than on the fourth.[@fm01-births, fm02-fifth]
+- **The change:** "Everything changed on the fifth level." The walls turn green, the layout grows more complicated, and unpleasant monsters appear in larger numbers.[@fm02-fifth] Bell knows he has gone too far when the pale blue walls turn light green.[@fm02-green] Monsters are born from the walls much more often from the lower fifth floor down, and from the fifth floor the birthing interval is far shorter than on the fourth.[@fm01-births, fm02-fifth]
 - **The first obstacle:** many overconfident adventurers die here; for newcomers, floors 5 to 7 are "their first major obstacle".[@fm02-fifth]
 - **Monsters:** the sixth floor's [[monsters#war-shadow|war shadow]] (printed *Wall Shadow* in DanMachi 1) and the seventh floor's [[monsters#killer-ant|killer ant]] are each called a "newbie killer".[@fm01-sixth, fm02-ant] [[monsters#frog-shooter|Frog shooters]], [[monsters#purple-moth|purple moths]] and [[monsters#needle-rabbit|needle rabbits]] also live in the upper levels (see [[monsters#upper-levels|Monsters]]). The blue papillon, a rare butterfly monster, is said to appear on the lower seventh floor; in DanMachi 4 Bell and [[lilliluka-erde|Lilly]] wait for one in a pantry in the deepest corner of that floor.[@fm04-papillon]
 - **A place for magic:** mages test their spells on the fifth floor, since magic used on the surface could damage the city. [[lefiya|Lefiya]] keeps a cavern at the west end of the floor for her practice.[@ss02-magic, so04-lefiya]
 
 ## Floors 8–9 {#floors-8-9}
 
-- **Plains:** the walls are yellow and covered in moss, and short grass covers the floor, so that these floors look like a vast prairie. The light is gathered into one spot, "like the sun over a massive plain".[@fm02-eighth] The lower ninth floor has a ceiling ten meders high.[@fm03-ceiling]
+- **Plains:** the walls are wood-coloured and covered in moss, and short grass covers the floor, so that these floors look like a vast prairie. The light is gathered into one spot, "like the sun over a massive plain".[@fm02-eighth] The lower ninth floor has a ceiling ten meders high or more.[@fm03-ceiling]
 - **Monsters:** no new species appear; instead there are stronger goblins and kobolds, a review of the floors above, so floors 8 and 9 "should be relatively easy".[@fm02-eighth]
-- **The Minotaur on the ninth floor:** in DanMachi 3 Bell meets a [[minotaur|Minotaur]] in "A wide room with a thick, grassy floor and yellow walls" on the ninth floor ("W-why is there a Minotaur on the ninth floor…?") and slays it.[@fm03-minotaur] DanMachi 4 explains the alarm that followed: monsters out of place are usually met two floors above or below their recorded floor, but Minotaurs are first encountered on the fifteenth floor, "six floors below", and "this was not the first time a Minotaur had been seen in the upper levels".[@fm04-minotaur] [[aiz-wallenstein|Aiz]] watched the fight, and it stays with [[loki-familia|Loki Familia]]: in Sword Oratoria 5 [[gareth|Gareth]] regrets that he was in the rearguard "while that young’un was workin’ his miracle on the ninth floor".[@so04-ninth, so05-gareth]
+- **The Minotaur on the ninth floor:** in DanMachi 3 Bell meets a [[minotaur|Minotaur]] in a wide room on the ninth floor with wood-coloured walls and a floor overgrown with low grasses and flowers ("W-why is there a Minotaur on the ninth floor…?") and slays it.[@fm03-minotaur] DanMachi 4 explains the alarm that followed: monsters out of place are generally held to stray at most two floors above or below their recorded floor, but Minotaurs are first encountered on the fifteenth floor, "six floors below", and "this was not the first time a Minotaur had been seen in the upper levels".[@fm04-minotaur] [[aiz-wallenstein|Aiz]] watched the fight, and it stays with [[loki-familia|Loki Familia]]: in Sword Oratoria 5 [[gareth|Gareth]] regrets that he was in the rearguard "while that young’un was workin’ his miracle on the ninth floor".[@so04-ninth, so05-gareth]
 - **Knossos:** in Sword Oratoria 12 the alliance enters Knossos from the Dungeon's ninth floor, through an entrance dug for the Guild's mission and two other routes dug in secret. Knossos has no connection with the Dungeon between the ninth and twelfth floors.[@so12-knossos] Earlier in that volume the [[xenos|Xenos]], who usually keep away from these crowded floors, reach the ninth floor unnoticed with Ouranos's help and clear "the green flesh from inside the Dungeon", while [[ganesha-familia|Ganesha Familia]] digs from the surface.[@so12-xenos]
 
 ## Floors 10–12 {#floors-10-12}
@@ -84,7 +85,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 - **Landforms:** the Dungeon arms its monsters. On the tenth floor dead, leafless trees stand in the rooms, and monsters such as [[monsters#orc|orcs]] use them as clubs. A landform is "the Dungeon’s own armory"; landforms first appear on the tenth floor and grow back almost at once, so adventurers cut them down before monsters arrive.[@fm02-trees, fm02-landform]
 - **Large monsters:** large-category monsters first appear on the tenth floor; there are none down to the ninth.[@fm02-large] [[monsters#imp|Imps]] are far more common there than orcs.[@fm03-imps]
 - **Monster parties:** from around the tenth floor, monsters may suddenly be born in large numbers in one room, a "monster party".[@fm04-party, fm19-party] Below the tenth floor the layout and difficulty become "especially hostile".[@fm02-hostile]
-- **The eleventh and twelfth floors:** [[monsters#hard-armored|Hard Armoreds]] first appear on the eleventh floor, and their defence is the best in the upper levels. With them, [[monsters#silverback|silverbacks]] make the lower eleventh floor extremely dangerous for Level 1 adventurers.[@fm04-eleventh] Most parties there are preparing for the middle levels, so many Level 2 adventurers work these floors.[@fm04-eleventh]
+- **The eleventh and twelfth floors:** [[monsters#hard-armored|Hard Armoreds]] first appear on the eleventh floor, and their defence is the best in the upper levels. With them, [[monsters#silverback|silverbacks]] are the eleventh floor's signature monsters.[@fm04-eleventh] Most parties there are preparing for the middle levels, so many Level 2 adventurers work these floors.[@fm04-eleventh]
 - **Bosses:** the rare [[monsters#infant-dragon|infant dragon]] appears only on the lower eleventh and twelfth floors. There is no [[monster-rex|Monster Rex]] on these floors, so infant dragons are the bosses of the upper levels.[@fm04-boss, so09-boss]
 - **The way down:** a room on the lower twelfth floor connects to the thirteenth.[@fm04-room]
 
@@ -124,16 +125,16 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@fm19-seventh]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Reaching the seventh floor on their first day".
 [@fm19-dragon]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "the infant dragon that the School District set as a grade requirement".
 [@fm19-party]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Monster parties can start happening at the tenth floor and down."
-[@fm02-common]: FM02 | Chapter 2: The Supporter’s Situation | "Level One adventurers could conquer lower levels one to twelve"; "More than half of all adventurers worked on the top twelve floors."
+[@fm02-common]: FM02 | Chapter 2: The Supporter’s Situation | "Level One adventurers could conquer lower levels one to twelve". The Japanese edition (file c1H5, paragraph 70) says half of all adventurers are Level 1.
 [@fm02-norms]: FM02 | Chapter 2: The Supporter’s Situation | "adventurers with a status of I or H could work in levels one through four"; "Level Two category monsters would appear beginning with level thirteen".
 [@fm02-floors]: FM02 | Chapter 2: The Supporter’s Situation | "The walls on levels one through four were a pale blue"; "usually just goblins and kobolds"; "a little stronger and smarter".
-[@fm02-fifth]: FM02 | Chapter 2: The Supporter’s Situation | "Everything changed on the fifth level."; "the birthing interval of monsters was much shorter on the seventh than the fourth"; "their first major obstacle".
+[@fm02-fifth]: FM02 | Chapter 2: The Supporter’s Situation | "Everything changed on the fifth level."; "their first major obstacle". The Japanese edition (file c19D, paragraph 85) says births are far faster from the fifth floor than on the fourth.
 [@fm02-ant]: FM02 | Chapter 1: Date, Then Supporter | "a monster that first shows up on lower level seven"; "“newbie killer,” just like the Wall Shadow on the sixth level".
 [@fm02-green]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "Whoops. I’m on the fifth level…"; "the pale blue walls have turned light green".
-[@fm02-limit]: FM02 | Chapter 5: Reset | "the lowest level that Level One adventurers are allowed to enter is the twelfth level".
+[@fm02-limit]: FM02 | Chapter 5: Reset | The deepest floors for Level 1 adventurers. The Japanese edition (file c5J8, paragraph 49) calls the eleventh and twelfth floors the deepest a Level 1 adventurer is considered able to clear.
 [@fm02-hostile]: FM02 | Chapter 5: Reset | "the layout and difficulty of the Dungeon get especially hostile below level ten".
 [@fm02-large]: FM02 | Chapter 5: Reset | "Large-category monsters. There are none of them down to level nine."
-[@fm02-eighth]: FM02 | Chapter 5: Reset | "The walls in these levels are yellow and covered in moss."; "like the sun over a massive plain"; "Conquering levels eight and nine should be relatively easy."
+[@fm02-eighth]: FM02 | Chapter 5: Reset | "like the sun over a massive plain"; "Conquering levels eight and nine should be relatively easy." The Japanese edition (file c5J8, paragraph 192) gives wood-coloured walls.
 [@fm02-fog]: FM02 | Chapter 5: Reset | "a cloud of mist hovering in this floor"; "the bright “sun” shining down from above is gone"; "the first time that visibility has been an issue in the Dungeon".
 [@fm02-trees]: FM02 | Chapter 5: Reset | "There are leafless, limbless dead trees scattered all around."
 [@fm02-landform]: FM02 | Chapter 5: Reset | "A landform—the Dungeon’s own armory."; "Two of the orcs grab landform weapons"; "Landforms first appear on level ten"; "these dead trees grow back almost instantly".
@@ -147,12 +148,12 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@fm03-wider]: FM03 | Chapter 5: A Hero’s Desire | "It’s common knowledge that the Dungeon gets wider with each floor."; "The fifth floor is about the same size as Central Park."; "the very definition of a traffic jam".
 [@fm03-room]: FM03 | Chapter 2: Ox and Hare Special Training | "The stairs connecting to the ninth are behind me."; "the only room on the lower tenth that doesn’t have any fog".
 [@fm03-imps]: FM03 | Chapter 2: Ox and Hare Special Training | "These little monsters are far more common than orcs down here."
-[@fm03-ninth]: FM03 | Chapter 4: The Meaning of Adventure | "A wide room with a thick, grassy floor and yellow walls."; "why is there a Minotaur on the ninth floor".
-[@fm03-ceiling]: FM03 | Chapter 5: A Hero’s Desire | "the ten-meder-high ceiling of the lower-ninth floor".
-[@fm04-strays]: FM04 | Prologue: Fastest Boy in the Alleys | "the monsters were encountered two floors above or below their recorded origin point".
+[@fm03-ninth]: FM03 | Chapter 4: The Meaning of Adventure | "why is there a Minotaur on the ninth floor". The Japanese edition (file c3JP, paragraph 164) gives a wide floor with wood-coloured walls, overgrown with low grasses and flowers.
+[@fm03-ceiling]: FM03 | Chapter 5: A Hero’s Desire | The ceiling of the lower ninth floor. The Japanese edition (file c43D, paragraph 304) says ten meders or more.
+[@fm04-strays]: FM04 | Prologue: Fastest Boy in the Alleys | The usual range of strays. The Japanese edition (file c37, paragraph 16) says the general view is at most two floors up or down.
 [@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "MINOTAUR SIGHTED IN UPPER LEVELS."; "this Minotaur was spotted on the ninth level".
 [@fm04-party]: FM04 | Chapter 3: The Smith’s Situation | "monsters will suddenly emerge in large numbers in the same room, starting around the tenth floor"; "A “monster party,” that’s what this is called."
-[@fm04-eleventh]: FM04 | Chapter 3: The Smith’s Situation | "“Hard Armoreds.” They first appear on the eleventh floor."; "an extremely dangerous place for Level 1 adventurers"; "preparing to venture forth into the middle levels".
+[@fm04-eleventh]: FM04 | Chapter 3: The Smith’s Situation | "“Hard Armoreds.” They first appear on the eleventh floor."; "preparing to venture forth into the middle levels". The Japanese edition (file c2R2, paragraph 70) calls the silverback, with the Hard Armored, the eleventh floor's signature monster.
 [@fm04-boss]: FM04 | Chapter 3: The Smith’s Situation | "a rare monster that only appears on the lower eleventh and twelfth floors"; "infant dragons are the bosses of the upper levels".
 [@fm04-dragon]: FM04 | Chapter 3: The Smith’s Situation | "The flames are headed toward the infant dragon."; "a victim of the electric inferno".
 [@fm04-room]: FM04 | Epilogue: Next Stage | "They had reached their destination on the lower twelfth floor: the room that connected to the thirteenth."
@@ -180,7 +181,9 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@ss01-jackbird]: SS01 | | "a rare monster that seldom appears in the Dungeon"; "the jackbird’s golden egg, which sells for at least a million valis".
 [@ss01-hestia]: SS01 | | "as long as we stick to the first floor, who’ll know?"
 [@ss02-magic]: SS02 | | "a necessary precaution when practicing and evaluating magic"; "a cavern in the west end of the floor".
-[@fm03-minotaur]: FM03 | Chapter 4: The Meaning of Adventure | "A wide room with a thick, grassy floor and yellow walls. We’re on the ninth floor"; "W-why is there a Minotaur on the ninth floor…?"
-[@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "In most cases, the monsters were encountered two floors above or below their recorded origin point. But this Minotaur was spotted on the ninth level, meaning that it had somehow journeyed up from the Middle Fortress. The earliest floor where Minotaurs were usually encountered was the fifteenth, six floors below."; "The fact that this was not the first time a Minotaur had been seen in the upper levels was what really made the adventurers’ blood run cold."
+[@fm03-minotaur]: FM03 | Chapter 4: The Meaning of Adventure | "We’re on the ninth floor"; "W-why is there a Minotaur on the ninth floor…?" The Japanese edition (file c3JP, paragraph 164) gives a wide floor with wood-coloured walls, overgrown with low grasses and flowers.
+[@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "But this Minotaur was spotted on the ninth level, meaning that it had somehow journeyed up from the Middle Fortress. The earliest floor where Minotaurs were usually encountered was the fifteenth, six floors below."; "The fact that this was not the first time a Minotaur had been seen in the upper levels was what really made the adventurers’ blood run cold."
 [@so04-ninth]: SO04 | Last Chapter: To Adventure | "lost in memories of the event she’d witnessed up on the ninth floor"; "The boy Bell had fought the great bull on the ninth floor."
 [@so05-gareth]: SO05 | | Printed heading "Chapter 2: Rabbit Rookie" (not in the evidence map): "I was with ye and the others in the rearguard while that young’un was workin’ his miracle on the ninth floor".
+[@fm04-upper-ja]: FM04 | | The Japanese edition calls the region by the kanji for upper levels; the infobox gives it.
+[@fm10-road-ja]: FM10 | | The Japanese edition has one name for the way in, written the road of the beginning, in DanMachi 1, 10 and 19 and Sword Oratoria 4 and 9.

@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ヘスティア・ファミリア}}", "refs": ["fm06-hestia-familia-ja"]},
       {"label": "Deity", "value": "[[hestia|Hestia]]", "refs": ["fm01-found"]},
       {"label": "Founded", "value": "With Bell Cranell as its first member", "refs": ["fm01-found", "fm04-founded"]},
       {"label": "Captain", "value": "[[bell-cranell|Bell Cranell]]", "refs": ["fm07-leader", "fm20-captain"]},
@@ -60,7 +61,7 @@ In DanMachi 1 Bell explains that some people call a Familia a team: "Team Loki o
 
 ### Recruitment {#recruitment}
 
-Before DanMachi 1 Hestia's invitations are turned down every day: the Familia is "an unknown group with no reputation", and the goddess's lack of dignity is the bigger problem.[@fm04-invitations]
+Before DanMachi 1 Hestia's invitations are turned down every day: the Familia is "an unknown group with no reputation", and the goddess's undignified figure is also a problem.[@fm04-invitations]
 
 After the War Game Hestia's recruiting posters, headed by the new emblem, bring more than fifty applicants to the manor. Lilly calls the Familia "the talk of the town", above all among adventurers new to Orario, and Bell and Hestia celebrate that they are no longer "the baby familia", three months after it all began.[@fm07-recruits] Before the interviews start, Mikoto finds a "two-hundred-million-valis loan contract" signed by Hestia and Hephaistos Familia, and every candidate walks away.[@fm07-loan] Among them were [[daphne|Daphne]] and [[cassandra|Cassandra]], formerly of Apollo Familia.[@fm08-daphne] Rumours spread that the Familia is "about to crumble under the weight of debt", and the chance of new recruits is put at zero.[@fm07-rumours]
 
@@ -91,15 +92,15 @@ Every Familia in [[orario|Orario]] is ranked by the Guild from S to I, the scale
 |---|---|---|
 | I | First week, before DanMachi 1 | The lowest rank, for the "newly formed and dirt-poor" Familia.[@fm04-rank] |
 | H | After Bell reaches Level 2 | Bell is still the only member, but the Guild cannot keep the Familia at rank I now that he is an upper-class adventurer; its taxes rise.[@ss01-rank] |
-| E | DanMachi 7 | The War Game victory and Bell's Level-up; Lilly expects about one million valis a year in taxes.[@fm07-rank-e] |
+| E | DanMachi 7 | The War Game victory and Bell's Level-up; Lilly expects more than a million valis a year in taxes.[@fm07-rank-e] |
 | D | DanMachi 12 | Bell reaches Level 4; the Familia becomes subject to Guild expeditions.[@fm12-rank] |
 | B | DanMachi 19 | Lyu's conversion. "More than a few" at the Guild argued for A.[@fm19-elite] Internally the Guild's leadership treats it as "B (S)", because Freya is now Hestia's subordinate and her former forces remain in Orario.[@fm19-rank] |
 
-In DanMachi 8 the Guild already counts the Familia as "a middle-ranking familia".[@fm08-middle] In DanMachi 15 accepting the expedition penalty keeps it "a middle-tier faction in the eyes of the city" a little longer.[@fm15-middle]
+In DanMachi 8 the Familia is now "a middle-ranking familia" of the city.[@fm08-middle] In DanMachi 15 accepting the expedition penalty keeps it "a middle-tier faction in the eyes of the city" a little longer.[@fm15-middle]
 
 ### B (S) {#b-s}
 
-Hestia is officially in charge of [[syr-flover|Syr]], so [[ottar|Ottar]] and Freya's other followers stay in the city and go on clearing the Dungeon. In Bell's words the Familia "has absorbed the enormous power of Freya Familia", though it cannot give them orders.[@fm19-bs] With [[folkvangr|Folkvangr]] confiscated by the Guild, Van and others of Freya's followers base themselves in the Dungeon and take turns watching over Hearthstone Manor, which Bell thinks is probably "the safest place in the world".[@fm19-guards] In DanMachi 20, when the Guild wants them in the [[orariad|Orariad]], the einherjar count officially as "unaffiliated adventurers awaiting conversion"; the Guild argues that they are effectively part of Hestia Familia, but the Denatus will not let Freya Familia take part.[@fm20-einherjar]
+Hestia is officially in charge of [[syr-flover|Syr]], so [[ottar|Ottar]] and Freya's other followers stay in the city and go on clearing the Dungeon. In Bell's words the Familia "has absorbed the enormous power of Freya Familia", though it cannot give them orders.[@fm19-bs] With [[folkvangr|Folkvangr]] confiscated by the Guild, Van and others of Freya's followers move their main battlefield to the Dungeon, exploring it daily, and take turns quietly guarding Hearthstone Manor, which Bell thinks is probably "the safest place in the world".[@fm19-guards] In DanMachi 20, when the Guild wants them in the [[orariad|Orariad]], the einherjar count officially as "unaffiliated adventurers awaiting conversion"; the Guild argues that they are effectively part of Hestia Familia, but the Denatus will not let Freya Familia take part.[@fm20-einherjar]
 
 ## Home and emblem {#home}
 
@@ -154,19 +155,19 @@ Hestia accepts Apollo's challenge. In the Castle Siege, Hestia Familia attacks a
 
 ### DanMachi 7: the debt and the Pleasure Quarter
 
-Hestia's first recruiting drive ends when the debt comes to light (see [[#recruitment|Recruitment]]).[@fm07-loan] The Familia is drawn into the affairs of [[ishtar-familia|Ishtar Familia]], "One of the elite groups within Orario, with a vendetta against Hestia Familia"; Hermes warns that the Familia "wouldn’t stand a chance" in a skirmish.[@fm07-ishtar, fm07-hermes] At the end of the volume Haruhime asks to join, and Hestia welcomes her: "Welcome to the family, officially."[@fm07-haruhime]
+Hestia's first recruiting drive ends when the debt comes to light (see [[#recruitment|Recruitment]]).[@fm07-loan] The Familia is drawn into the affairs of [[ishtar-familia|Ishtar Familia]], one of the city's foremost fighting forces, whose Berbera would come to punish them if they took Haruhime; Hermes warns that the Familia "wouldn’t stand a chance" in a skirmish.[@fm07-ishtar, fm07-hermes] At the end of the volume Haruhime asks to join, and Hestia welcomes her: "Welcome to the family, officially."[@fm07-haruhime]
 
 ### DanMachi 8
 
-When Orario's forces meet the army of [[ares#kingdom-of-rakia|Rakia]], Hestia Familia is not summoned to the front, having too few members to qualify.[@fm08-front] On its joint trip with Takemikazuchi Familia, word spreads in [[rivira|Rivira]] that the maker of the legendary magic swords is a member of Hestia Familia.[@fm08-joint] [[loki-familia|Loki Familia]], having worked out that Rakia's real objective is Welf, has the Familia, and Welf above all, watched with the Guild's help.[@fm08-surveillance]
+When Orario's forces meet the army of [[ares#kingdom-of-rakia|Rakia]], Hestia Familia is not summoned to the front, in consideration of its numbers and its recent expansion; Hermes says he asked the Guild to leave it out.[@fm08-front] On its joint trip with Takemikazuchi Familia, word spreads in [[rivira|Rivira]] that the maker of the legendary magic swords is a member of Hestia Familia.[@fm08-joint] [[loki-familia|Loki Familia]], having worked out that Rakia's real objective is Welf, has the Familia, and Welf above all, watched by Tsubaki's group, under the Guild's instructions.[@fm08-surveillance]
 
 ### DanMachi 9–11: the Xenos
 
-In DanMachi 9 the Familia takes in [[wiene|Wiene]], a vouivre who can talk, knowing that if word got out that it was harbouring a monster, "Hestia Familia is finished".[@fm09-harbor] The Guild sends Bell a secret mission which "Hestia Familia is the only group allowed to know", and [[ikelos-familia|Ikelos Familia]]'s Dix has its home staked out.[@fm09-mission, fm09-stakeout] In DanMachi 10 Ouranos sends Bell and the Familia to a Xenos Hidden Village as bait to draw out Ikelos Familia's hunters.[@fm10-bait] On [[daedalus-street|Daedalus Street]] the members can side neither with the [[xenos|Xenos]] nor with Loki Familia, since protecting the monsters as well would ruin the Familia.[@fm10-street] In DanMachi 11 they escort the hidden Xenos to [[knossos|Knossos]] while Bell fights the black Minotaur, [[asterios|Asterios]].[@fm11-escort]
+In DanMachi 9 the Familia takes in [[wiene|Wiene]], a vouivre who can talk, knowing that if word got out that it was harbouring a monster, "Hestia Familia is finished".[@fm09-harbor] The Guild sends Bell a secret mission which "Hestia Familia is the only group allowed to know", and [[ikelos-familia|Ikelos Familia]]'s Dix has its home staked out.[@fm09-mission, fm09-stakeout] In DanMachi 10 Ouranos sends Bell and the Familia to a Xenos Hidden Village as bait to draw out Ikelos Familia's hunters.[@fm10-bait] On [[daedalus-street|Daedalus Street]] the members waver throughout over whether to side with the [[xenos|Xenos]] or with Loki Familia, since protecting the monsters as well would ruin the Familia.[@fm10-street] In DanMachi 11 they escort the hidden Xenos to [[knossos|Knossos]] while Bell fights the black Minotaur, [[asterios|Asterios]].[@fm11-escort]
 
 ### Expeditions as a rank-D Familia {#expeditions}
 
-Once the Familia reaches rank D it must take part in periodic Guild expeditions; more than half of the party has to come from the assigned Familia, and failure brings a penalty.[@fm12-rank] Its first expedition sets out exactly five months after Bell arrived in Orario.[@fm12-departure] As its host, Hestia Familia orders Undine battle clothes for the whole party.[@fm12-host] In DanMachi 13–14 Bell and Lyu fall to [[floor-37|Floor 37]], and the rest of the Familia reaches the thirty-seventh floor with [[lido|Lido]] and the Xenos to rescue them.[@fm19-strength, fm20-rescue] The joint expedition technically fails because the required drop item is not collected, and in DanMachi 15 Lilly takes the penalty payment to the Guild.[@fm15-penalty]
+Once the Familia reaches rank D it must take part in periodic Guild expeditions; more than half of the Familia's own members must take part, and failure brings a penalty.[@fm12-rank] Its first expedition sets out exactly five months after Bell arrived in Orario.[@fm12-departure] As its host, Hestia Familia orders Undine battle clothes for the whole party.[@fm12-host] In DanMachi 13–14 Bell and Lyu fall to [[floor-37|Floor 37]], and the rest of the Familia reaches the thirty-seventh floor with [[lido|Lido]] and the Xenos to rescue them.[@fm19-strength, fm20-rescue] The joint expedition technically fails because the required drop item is not collected, and in DanMachi 15 Lilly takes the penalty payment to the Guild.[@fm15-penalty]
 
 In DanMachi 15 Lilly reaches Level 2, and the rank-D Familia goes to "a floor entirely unsuited to their experience level" to train Haruhime.[@fm15-lilly-level2, fm15-haruhime]
 
@@ -180,7 +181,7 @@ In DanMachi 17 Freya seizes Bell, and Hestia breaks her charm over the city. The
 
 ### DanMachi 19–20
 
-Bell reflects that the Familia "has grown at a dizzying rate", so Familias that grew slowly through steady work probably resent it.[@fm19-recruiting] After his time as a student at the School District, Bell returns to the Familia at the start of DanMachi 20.[@fm20-return] For the Orariad the Guild calls on Hestia Familia, Bell above all, to win public support; its second round is held at the site of the War Game against Apollo Familia, "six months ago".[@fm20-einherjar, fm20-orariad]
+Bell reflects that the Familia "has grown at a dizzying rate", so Familias that grew slowly through steady work probably resent it.[@fm19-recruiting] After his time as a student at the School District, Bell returns to the Familia at the start of DanMachi 20.[@fm20-return] For the Orariad the Guild calls on Hestia Familia, Bell above all, to win public support; its second round is held at the site of the War Game against Apollo Familia, fought more than six months before.[@fm20-einherjar, fm20-orariad]
 
 ## Open questions
 
@@ -190,7 +191,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 
 [@fm01-found]: FM01 | | Hestia's failed recruitments; the Familia founded with Bell.
 [@fm01-bell]: FM01 | | Bell is the only member.
-[@fm01-team]: FM01 | Chapter 1: World, Reality, and Desire | "Team Loki or Team Hestia".
+[@fm01-team]: FM01 | Chapter 1: World, Reality, and Desire | "Team Loki or Team Hestia". The Japanese edition (file cFB, paragraph 85) says the Loki faction or the Hestia faction.
 [@fm01-base]: FM01 | Chapter 2: That’s Why I Run | The base: the hidden room under an old church.
 [@fm01-solo]: FM01 | Chapter 2: That’s Why I Run | The only member; no supporter.
 [@fm01-poor]: FM01 | Chapter 4: That’s Why I Want to Help | "among the poorest of the poor Familias".
@@ -200,7 +201,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm03-level2]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
 [@fm04-rank]: FM04 | A Campanella to the Goddess | Side story before DanMachi 1: ranks from S to I; trust, respect and fear; rank I; taxes rise with rank.
 [@fm04-founded]: FM04 | A Campanella to the Goddess | Founded three days earlier; Bell's registration; Hestia's part-time job; "a bottom-tier group".
-[@fm04-invitations]: FM04 | A Campanella to the Goddess | Daily invitations turned down; "an unknown group with no reputation".
+[@fm04-invitations]: FM04 | A Campanella to the Goddess | Daily invitations turned down; "an unknown group with no reputation". The Japanese edition (file c5KW, paragraph 75) says her undignified figure is also a problem.
 [@fm04-church]: FM04 | A Campanella to the Goddess | The home's location between Northwest and West Main Streets.
 [@fm05-return]: FM05 | Epilogue: The One Who Targets the Rabbit | The party survives; Guild secrecy and penalty.
 [@fm05-rescue]: FM05 | Chapter 2: How Many Meders to a Safe Return? | The Familia's savings spent on the rescue.
@@ -223,31 +224,31 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm07-loan]: FM07 | Chapter 1: Smooth Sailing? | The 200-million-valis loan contract signed by Hestia and Hephaistos Familia; the candidates leave.
 [@fm07-rumours]: FM07 | Chapter 1: Smooth Sailing? | Rumours of the debt; no new recruits.
 [@fm07-accounts]: FM07 | Chapter 1: Smooth Sailing? | Lilly the accountant; the War Game winnings spent.
-[@fm07-rank-e]: FM07 | Chapter 1: Smooth Sailing? | Rank E after the War Game and Bell's Level-up; about one million valis a year in taxes.
+[@fm07-rank-e]: FM07 | Chapter 1: Smooth Sailing? | Rank E after the War Game and Bell's Level-up; more than a million valis a year in taxes. The Japanese edition (file cKT, paragraph 307) says over a million a year.
 [@fm07-mine]: FM07 | Chapter 1: Smooth Sailing? | Hestia: the loan is hers to repay.
 [@fm07-albella]: FM07 | Chapter 4: Yoshiwara x Utakata | The Albella Trading Company's quest for one million valis.
 [@fm07-hermes]: FM07 | Chapter 4: Yoshiwara x Utakata | Hermes: the Familia would not stand a chance in a skirmish.
-[@fm07-ishtar]: FM07 | Chapter 5: Killing Stone | Ishtar Familia's vendetta.
+[@fm07-ishtar]: FM07 | Chapter 5: Killing Stone | Ishtar Familia's threat. The Japanese edition (file c6NY, paragraphs 225–226) says the Berbera, one of the city's foremost fighting forces, would come to punish them.
 [@fm07-haruhime]: FM07 | Epilogue: If Surrounded by Kindness… | Haruhime asks to join; Hestia welcomes her.
-[@fm08-front]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): not summoned to the front against Rakia.
+[@fm08-front]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): not summoned to the front against Rakia. The Japanese edition (file part0015, paragraph 93) says the Guild did not summon it in consideration of its numbers and recent expansion (Hermes's request, file part0013, paragraph 148).
 [@fm08-meals]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): the cooking rota.
 [@fm08-housesitters]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): "a prime piece of real estate"; Takemikazuchi and Miach Familias house-sit.
 [@fm08-daphne]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): Daphne and Cassandra at the first recruiting event.
 [@fm08-mikoto-year]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): Mikoto gone for a year.
 [@fm08-joint]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Joint party with Takemikazuchi Familia; word of the magic swords' maker in Rivira.
-[@fm08-surveillance]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Loki Familia and the Guild have the Familia, especially Welf, watched.
-[@fm08-middle]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "a middle-ranking familia".
+[@fm08-surveillance]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Under the Guild's instructions, Loki Familia has Tsubaki's group watch the Familia, especially Welf. The Japanese edition (file part0021, paragraphs 676–680) says so.
+[@fm08-middle]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "a middle-ranking familia". The Japanese edition (file part0030, paragraph 406) calls it now one of the city's mid-tier factions.
 [@fm08-hearthstone]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): The home is named Hearthstone Manor.
 [@fm09-harbor]: FM09 | Chapter 1: An Irregular Girl | Harbouring a monster would finish the Familia.
 [@fm09-church]: FM09 | Chapter 3: The World and Reality and Monsters | The former home under the church, with Wiene.
 [@fm09-mission]: FM09 | Chapter 4: Mission | The secret mission only Hestia Familia may know.
 [@fm09-stakeout]: FM09 | Epilogue: Boundless Malice | Dix's men stake out the home.
 [@fm10-bait]: FM10 | Chapter 6: Before the Storm | Ouranos's mission: bait for Ikelos Familia's hunters.
-[@fm10-street]: FM10 | Chapter 10: The Fool | Unable to side with either the Xenos or Loki Familia.
+[@fm10-street]: FM10 | Chapter 10: The Fool | Wavering throughout over which side to take. The Japanese edition (file c81J, paragraph 385) says so.
 [@fm11-hephaistos]: FM11 | | Printed heading "Chapter 2: Diverging Strands, Intersecting Plans" (not in the evidence map): Finn: Hephaistos is "friends with Hestia Familia".
 [@fm11-escort]: FM11 | Chapter 7: The Return of the Hero | Escorting the hidden Xenos to Knossos.
 [@fm12-level4]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 update; Ox Slayer.
-[@fm12-rank]: FM12 | Chapter 2: Adventure Intermission | Rank D and the expedition requirement; more than half the party; a penalty, generally a fine.
+[@fm12-rank]: FM12 | Chapter 2: Adventure Intermission | Rank D and the expedition requirement; a penalty, generally a fine. The Japanese edition (file part0014, paragraph 73) makes it a condition that a majority of the Familia's members take part.
 [@fm12-party]: FM12 | Chapter 2: Adventure Intermission | The expedition party.
 [@fm12-workshop]: FM12 | Chapter 2: Adventure Intermission | Welf's workshop behind the manor.
 [@fm12-departure]: FM12 | Chapter 2: Adventure Intermission | A High Smith to guard the home; departure five months after Bell's arrival.
@@ -278,10 +279,10 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm18-victory]: FM18 | Epilogue: Double Cast | The coalition's victory.
 [@fm19-lyu]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu's conversion and registered name.
 [@fm19-rank]: FM19 | Chapter 1: V-V-V for Victory Party | Rank B, treated internally as B (S).
-[@fm19-elite]: FM19 | Chapter 1: V-V-V for Victory Party | Six members; two first-tier adventurers, one a Level 6; arguments for A; "A small, elite faction".
+[@fm19-elite]: FM19 | Chapter 1: V-V-V for Victory Party | Six members; two first-tier adventurers, one a Level 6; arguments for A; "A small, elite faction". The Japanese edition (file part0017, paragraph 25) says an ultra-small elite faction.
 [@fm19-debt]: FM19 | Chapter 1: V-V-V for Victory Party | Still "a significant debt".
 [@fm19-bs]: FM19 | Chapter 1: V-V-V for Victory Party | Hestia in charge of Syr; Freya's followers stay; "absorbed the enormous power of Freya Familia".
-[@fm19-guards]: FM19 | Chapter 1: V-V-V for Victory Party | Folkvangr confiscated; the einherjar guard the manor.
+[@fm19-guards]: FM19 | Chapter 1: V-V-V for Victory Party | Folkvangr confiscated; the einherjar guard the manor. The Japanese edition (file part0017, paragraph 52) says they moved their main battlefield to the Dungeon and take turns house-sitting, or rather covertly guarding, the manor.
 [@fm19-commander]: FM19 | Chapter 1: V-V-V for Victory Party | "Our commander Lilly".
 [@fm19-strength]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu's roles; no gaps; the party at Level 3 or higher with the Level Boost; the others reached the thirty-seventh floor with Lido and the Xenos.
 [@fm19-recruiting]: FM19 | Chapter 2: School Heaven and Hell | No recruiting from the School District; the cold shoulder; few applicants since the debt; "grown at a dizzying rate".
@@ -295,5 +296,6 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm20-ready]: FM20 | Chapter 1: Orario Rumble | Welf and Mikoto boosted to Level 3; ready for the twenty-ninth floor without Aisha's group.
 [@fm20-nina-join]: FM20 | Chapter 1: Orario Rumble | Nina urged to join.
 [@fm20-einherjar]: FM20 | Chapter 2: Lion and then Sword Princess | The einherjar as "unaffiliated adventurers awaiting conversion"; the Guild calls on Hestia Familia and Bell.
-[@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | The War Game site, six months on.
+[@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | The War Game site, more than six months on. The Japanese edition (file J14, paragraph 486) says more than six months ago.
 [@ss01-rank]: SS01 | | Rank H after Bell's Level 2; household rules.
+[@fm06-hestia-familia-ja]: FM06 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

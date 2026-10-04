@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|エイナ・チュール}}", "refs": ["fm01-eina-ja"]},
       {"label": "Race", "value": "[[races#half-elf|Half-elf]]", "refs": ["fm01-eina"]},
       {"label": "Age", "value": "Nineteen in DanMachi 2 and 8", "refs": ["fm02-eina", "fm08-eina"]},
       {"label": "Family", "value": "Younger sister [[nina-tulle|Nina]]; mother Aina", "refs": ["fm19-nina", "so14-aina"]},
@@ -77,4 +78,5 @@ In DanMachi 3 she files a report asking the Guild to recommend that [[soma-famil
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The shaft plan.
 [@so14-aina]: SO14 | | Aina and Riveria.
 [@ss01-adviser]: SS01 | | Eina becomes Bell's adviser.
-[@fm19-fairy]: FM19 | Chapter 3: School Life in Another World | Bell's thoughts on Nina's smile: "The Guild’s famed merciless instruction: Fairy Break."
+[@fm19-fairy]: FM19 | Chapter 3: School Life in Another World | Bell's thoughts on Nina's smile: "The Guild’s famed merciless instruction: Fairy Break." The Japanese edition (file part0021, paragraph 611) says the Guild's famous half-elf's thorough instruction.
+[@fm01-eina-ja]: FM01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

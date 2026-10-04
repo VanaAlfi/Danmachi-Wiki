@@ -19,10 +19,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Modi Familia"},
+      {"label": "Japanese", "value": "{{ja|モージ・ファミリア}}", "refs": ["fm18-modi-magni-ja"]},
       {"label": "Deity", "value": "[[#modi-and-magni|Modi]]", "refs": ["fm12-quest", "fm18-denatus"]},
       {"label": "Members", "value": "Elves", "refs": ["fm12-epilogue", "fm18-scouts"]},
       {"label": "Known member", "value": "[[#luvis-lilix|Luvis Lilix]], Level 3", "refs": ["fm08-luvis", "fm12-epilogue"]},
       {"section": "Magni Familia"},
+      {"label": "Japanese", "value": "{{ja|マグニ・ファミリア}}", "refs": ["fm18-modi-magni-ja"]},
       {"label": "Deity", "value": "[[#modi-and-magni|Magni]]", "refs": ["fm12-quest", "fm18-denatus"]},
       {"label": "Members", "value": "Dwarves only", "refs": ["fm12-epilogue", "fm18-center"]},
       {"label": "Known member", "value": "[[#dormul-bolster|Dormul Bolster]], Level 3", "refs": ["fm08-dormul", "fm14-rivira"]},
@@ -54,7 +56,7 @@ At the Denatus of DanMachi 20 the gods call the naming ceremony to order with "M
 
 ## Luvis Lilix {#luvis-lilix}
 
-**Luvis Lilix** is a Level 3 elf of Modi Familia, with long golden hair, a longbow and a quiver.[@fm08-luvis, fm12-epilogue, so12-knossos] Eina was once his adviser, and he fell for her as Dormul did.[@fm08-luvis] DanMachi 17 prints his name *Ruvis* twice.[@fm17-ruvis]
+**Luvis Lilix** is a Level 3 elf of Modi Familia, with golden hair, a short bow and a quiver.[@fm08-luvis, fm12-epilogue, so12-knossos] Eina was once his adviser, and he fell for her as Dormul did.[@fm08-luvis] DanMachi 17 prints his name *Ruvis* twice.[@fm17-ruvis]
 
 - **The Water Capital.** In DanMachi 12 Hestia Familia finds him bleeding, his right arm gone from the elbow down. An enhanced [[monsters#moss-huge|moss huge]], a monster that eats [[magic-stone|magic stones]], had routed his party of four Level 3s.[@fm12-arm, fm12-quest] He is carried through the lower levels by the expedition, and swears secrecy on "Her Majesty the queen of the elves" when [[aisha-belka|Aisha]] demands it before Haruhime's Level Boost.[@fm12-dormul, fm12-secret]
 - **The oath.** Recovering in Rivira, he plans to have [[dian-cecht-familia|Dian Cecht Familia]] make him the best prosthetic arm, and swears "on the name of Luvis Lilix" to repay Bell, "comrade of the elves".[@fm12-epilogue]
@@ -63,10 +65,10 @@ At the Denatus of DanMachi 20 the gods call the naming ceremony to order with "M
 
 ## Dormul Bolster {#dormul-bolster}
 
-**Dormul Bolster** is a Level 3 dwarf of Magni Familia. At around 170 celches he is tall for a dwarf; he has narrow eyes, goes unshaven, and speaks with a country accent.[@fm08-dormul, fm12-dormul] He fights with war hammers in heavy armour.[@fm08-fight, fm12-dormul] His surname, *Bolster*, was located only in DanMachi 14.[@fm14-rivira] Eina was his adviser too, and he keeps bumping into her "by chance" to ask her to lunch.[@fm08-dormul]
+**Dormul Bolster** is a Level 3 dwarf of Magni Familia. At around 170 celches he is tall for a dwarf; he has curved, smiling eyes and no beard, and speaks with a country accent.[@fm08-dormul, fm12-dormul] He fights with war hammers in heavy armour.[@fm08-fight, fm12-dormul] His surname, *Bolster*, was located only in DanMachi 14.[@fm14-rivira] Eina was his adviser too, and he keeps bumping into her "by chance" to ask her to lunch.[@fm08-dormul]
 
 - **Beloved Bodyguard (DanMachi 8).** Hooded and following Eina, he corners her and Bell, her hired bodyguard, in an alley and attacks Bell. He had reached Level 3 nearly three years earlier, but Bell outfights him and cuts through the handle of his hammer-shaped magic weapon; its head falls on Dormul's own head.[@fm08-fight] Luvis, also hooded, turns out to have been following her as well. Both confess, and Eina declares that Bell "is the right person for me".[@fm08-gods, fm08-end]
-- **The Water Capital (DanMachi 12).** His party has found the missing adventurers' corpses. Out of items and [[magic-sword|magic swords]], he asks to join Hestia Familia's party, and he and his dwarves carry the wounded elves.[@fm12-dormul] When the situation looks hopeless he offers to act as a decoy so the others can escape.[@fm12-decoys]
+- **The Water Capital (DanMachi 12).** His party has found the missing adventurers' corpses. Out of items and [[magic-sword|magic swords]], he asks to join Hestia Familia's party, and he and his dwarves carry the wounded elves.[@fm12-dormul] When the situation looks hopeless he and Luvis offer to stay behind as decoys so the others can escape, and Dormul cries that someone must warn the surface.[@fm12-decoys]
 - **DanMachi 14.** In Rivira he argues with Luvis over who will go to Bell's party's aid.[@fm14-rivira]
 - **DanMachi 18.** He calls Hestia Familia "dwarven brothers".[@fm18-pledge] The dwarf-only Magni Familia stands at the centre of the coalition's shield wall, which the einherjar's charge breaks at once.[@fm18-center]
 - **DanMachi 19–20.** He and his dwarves roar at the victory party.[@fm19-party] The Guild rates the Tangled Gorge's most dangerous dinosaur three stars, the top of its local scale; Dormul once called it a "four star".[@fm20-gorge]
@@ -91,8 +93,8 @@ At the Denatus of DanMachi 20 the gods call the naming ceremony to order with "M
 > - Whether the Guild rating in Sword Oratoria 12 ("their familia") covers both Familias or one.[@so12-knossos]
 > - The Familias' captains, sizes and ranks.[@so12-knossos]
 
-[@fm08-dormul]: FM08 | Chapter 4: Beloved Bodyguard | 170 celch, "taller than most of his kin"; long, thin eyes, unshaven; "Currently Level 3"; Eina once his adviser; invitations to lunch.
-[@fm08-luvis]: FM08 | Chapter 4: Beloved Bodyguard | "long golden hair"; longbow and quiver; "this Level 3 elf"; Eina once his adviser.
+[@fm08-dormul]: FM08 | Chapter 4: Beloved Bodyguard | 170 celch, "taller than most of his kin"; "Currently Level 3"; Eina once his adviser; invitations to lunch. The Japanese edition (file part0024, paragraph 62) says he keeps no beard and his eyes are always curved like a bow.
+[@fm08-luvis]: FM08 | Chapter 4: Beloved Bodyguard | "this Level 3 elf"; Eina once his adviser. The Japanese edition (file part0024, paragraphs 82 and 682) gives him golden hair and a quiver and bow on his back, later taking out a short bow.
 [@fm08-fight]: FM08 | Chapter 4: Beloved Bodyguard | Dormul in a hooded robe in the alley; war hammer; "reached Level 3 nearly three years ago"; the hammer-shaped magic weapon's handle cut; the head falls on him.
 [@fm08-gods]: FM08 | Chapter 4: Beloved Bodyguard | "So ye’re the one?"; Luvis under the hood; "their deities’ instructions"; "two bored gods"; "their two love-struck followers"; "I won the bet"; "Luvis, Daddy just struck it rich gambling."
 [@fm08-end]: FM08 | Chapter 4: Beloved Bodyguard | "Bell is the right person for me!!"; "Dormul and Luvis staggered backward".
@@ -100,7 +102,7 @@ At the Denatus of DanMachi 20 the gods call the naming ceremony to order with "M
 [@fm12-quest]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): the monster that eats magic stones; "four members, all Level 3"; "Aside from us in Modi Familia, that dwarf Dormul’s familia, Magni Familia, received the same request."
 [@fm12-dormul]: FM12 | | Printed heading "Chapter 5: Bride of the Water Capital" (not in the evidence map): "Luvis, Luvis!! Ye are alive!!"; "around 170 celches"; brown heavy armour, battle hammers; the corpses; "we can still do the work of a supporter!"
 [@fm12-secret]: FM12 | Chapter 6: The Hero’s Sacred Flame | Aisha: "You will never speak of what is about to happen"; "I swear on the name of Her Majesty the queen of the elves."
-[@fm12-decoys]: FM12 | Chapter 6: The Hero’s Sacred Flame | "Use us as decoys and escape if ye can!"
+[@fm12-decoys]: FM12 | Chapter 6: The Hero’s Sacred Flame | The Japanese edition (file part0024, paragraphs 538 to 542) gives the decoy line to Luvis, in the elf's speech, and the call to warn the surface about the monster to Dormul; the two declare it together.
 [@fm12-epilogue]: FM12 | Epilogue: Gale Wind’s News | "other elves from Modi Familia and dwarves from Magni Familia"; the boundary line; the prosthetic from Dian Cecht Familia; "I swear on the name of Luvis Lilix"; "comrade of the elves".
 [@fm13-rivira]: FM13 | Chapter 2: The Prophetess of Tragedy | "Luvis, Dormul, and the other members of Modi Familia and Magni Familia would stay behind in Rivira."
 [@fm14-rivira]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Dormul Bolster raised his voice"; "his empty right sleeve"; "the members of Magni and Modi familias ranked highest"; "We dwarves will go to Bell’s party"; Tsubaki's party.
@@ -117,3 +119,4 @@ At the Denatus of DanMachi 20 the gods call the naming ceremony to order with "M
 [@fm19-party]: FM19 | Chapter 1: V-V-V for Victory Party | "Mr. Dormul and the dwarves of Magni Familia all roar"; Luvis's "pure Alv Spring Water".
 [@fm20-gorge]: FM20 | Chapter 1: Orario Rumble | The twenty-ninth floor, the Tangled Gorge; "Mr. Luvis and Mr. Dormul have had trouble getting past this area"; "a four star".
 [@fm20-denatus]: FM20 | Chapter 1: Orario Rumble | "Let’s get this party started! Magni and Modi!"; "I, Magni, propose that we postpone"; "I, Modi, second the motion".
+[@fm18-modi-magni-ja]: FM18 | | The Japanese edition prints both Familias' names in katakana; the infobox gives those printed forms.

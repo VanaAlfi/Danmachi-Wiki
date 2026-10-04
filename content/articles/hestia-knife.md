@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|ヘスティア・ナイフ}}; also {{ja|神様のナイフ}}, *the god's knife*", "refs": ["fm02-hestia-knife-ja"]},
       {"label": "Type", "value": "Dagger, black from tip to handle, with a black sheath", "refs": ["fm01-case"]},
       {"label": "Maker", "value": "[[hephaistos|Hephaistos]], with a little help from Hestia", "refs": ["fm01-case", "fm07-story"]},
       {"label": "Material", "value": "Hephaistos's mythril, engraved with Hestia's hieroglyphs", "refs": ["fm01-alive"]},
@@ -54,7 +55,7 @@ In DanMachi 2 a gnome antique dealer, shown the knife by a thief, finds that it 
 
 ## The price
 
-In DanMachi 7 Bell's party finds the loan contract: two hundred million valis, signed by Hestia and by Hephaistos Familia.[@fm07-loan] Hestia explains that she practically forced her friend to forge the knife; it is the only one of its kind, and probably only the goddess of the forge could make it, so it is extremely valuable.[@fm07-story] [[welf-crozzo|Welf]], formerly of Hephaistos Familia, had always wondered who forged it, "hieroglyphs and all".[@fm07-story]
+In DanMachi 7 Bell's party finds the loan contract: two hundred million valis, signed by Hestia and by Hephaistos Familia.[@fm07-loan] Hestia explains that she practically forced her friend to forge the knife; it is the only one of its kind, and probably only the goddess of the forge could make it, so it is extremely valuable.[@fm07-story] [[welf-crozzo|Welf]], formerly of Hephaistos Familia, had long wondered whose work the knife was, since it bore a logotype, a maker's mark: so it was the goddess herself.[@fm07-story]
 
 ## In battle
 
@@ -85,7 +86,7 @@ In DanMachi 14 and 18 Bell lists the Hestia Knife and [[equipment#hakugen|Hakuge
 [@fm02-target]: FM02 | Chapter 5: Reset | "the Hephaistos Familia knife he carried had been her target".
 [@fm02-lilly]: FM02 | Chapter 5: Reset | Lilly "held it out to Bell"; "he took the Hestia Knife from her".
 [@fm07-loan]: FM07 | Chapter 1: Smooth Sailing? | "Two hundred million valis."; "Loan Contract"; Hestia's signature; "Hephaistos Familia".
-[@fm07-story]: FM07 | Chapter 1: Smooth Sailing? | "the whole story behind the Divine Knife"; "she practically forced her friend Hephaistos to forge it"; "the only one like it in the world"; Welf: "hieroglyphs and all".
+[@fm07-story]: FM07 | Chapter 1: Smooth Sailing? | "the whole story behind the Divine Knife"; "she practically forced her friend Hephaistos to forge it"; "the only one like it in the world"; Welf on the knife's logotype. The Japanese edition (file cKT, paragraph 294) has him speak of a logotype, a maker's mark.
 [@fm14-charge]: FM14 | Chapter 12: Forlorn Hope in the Dungeon | "He’d charged weapons like the greatswords and the Hestia Knife quite a few times".
 [@fm14-weapons]: FM14 | Chapter 9: Hello, Deep Levels | "we’ve got Hakugen, the Hestia Knife, and Lyu’s two shortswords".
 [@fm14-hieroglyphs]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "The hieroglyphs on the Divine Knife gripped in his hand pulsated with light".
@@ -94,3 +95,4 @@ In DanMachi 14 and 18 Bell lists the Hestia Knife and [[equipment#hakugen|Hakuge
 [@fm18-growth]: FM18 | Chapter 9: Flower Language for You | "The Hestia Knife in his clenched fist reacted to his growth".
 [@fm18-ottar]: FM18 | Chapter 9: Flower Language for You | "The Hestia Knife unleashed an indigo slash, striking Ottar through his black greatsword."
 [@fm20-firebolt]: FM20 | Chapter 4: The Knight’s Afterglow | "flame, and lightning erupt from the Hestia Knife"; "Firebolt!"
+[@fm02-hestia-knife-ja]: FM02 | | The Japanese edition calls the knife both Hestia Knife, in katakana, and the god's knife, in kanji; DanMachi 1's Japanese writes the god's knife with the reading Hestia over it, so the English Divine Knife and Goddess Knife render the same name.

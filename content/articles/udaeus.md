@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monster"},
+      {"label": "Japanese", "value": "{{ja|ウダイオス}}", "refs": ["so02-udaeus-ja"]},
       {"label": "Type", "value": "[[monster-rex|Monster Rex]] (floor boss) of [[floor-37|Floor 37]]", "refs": ["so02-udaeus"]},
       {"label": "Rating", "value": "Level 6", "refs": ["so02-udaeus"]},
-      {"label": "Form", "value": "A jet-black skeleton, a spartoi grown huge, over ten meders tall with no lower body", "refs": ["so02-form", "so02-pikes"]},
+      {"label": "Form", "value": "A jet-black skeleton, a spartoi grown huge, close to ten meders tall from the pelvis up, with no lower body", "refs": ["so02-form", "so02-pikes"]},
       {"label": "Respawn", "value": "About three months", "refs": ["so02-udaeus", "fc02-awake"]},
       {"label": "Drop item", "value": "Udaeus Black Sword (rare)", "refs": ["fc02-sword", "fc02-blade"]},
       {"label": "Also printed", "value": "Udaios (DanMachi 2)", "refs": ["fm02-udaios"]}
@@ -28,7 +29,7 @@
 
 ## The monster
 
-- **Form.** Over ten meders tall even with its lower body underground, with a forward-leaning spine, horns like an [[monsters#ogre|ogre]]'s on its skull, and small crimson flames for eyes.[@so02-form] In truth it has no lower body at all.[@so02-pikes]
+- **Form.** Close to ten meders tall from the pelvis up, with its lower body underground, with a forward-leaning spine, horns like an [[monsters#ogre|ogre]]'s on its skull, and small crimson flames for eyes.[@so02-form] In truth it has no lower body at all.[@so02-pikes]
 - **Pikes.** It fills its chamber with black pikes (pila) that shoot from the floor, makes anyone who throws caution to the wind "an instant pincushion", and seals the exits so that no one can leave until it is defeated.[@so02-pikes, fc02-awake] Its bones are bound by magic energy at the joints, which lets the skinless monster move in any direction.[@so02-joints]
 - **Spartoi.** Floor 37 is also home to ordinary spartoi, which fight alongside it.[@so02-spartoi]
 - **Respawn.** Like every Monster Rex it has a fixed respawn time. Loki Familia had defeated it with its full strength three months before Aiz's fight.[@so02-udaeus]
@@ -64,7 +65,7 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 
 [@fm02-udaios]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "walked calmly toward Udaios, the Monster Rex".
 [@so02-udaeus]: SO02 | Chapter 6: Parched Scream | "The Monster Rex that resided on the thirty-seventh floor"; "Level Six, Udaeus."; "Monster Rex all had a predetermined respawn time."; Loki Familia "had defeated this monster using its full combat strength" three months earlier.
-[@so02-form]: SO02 | Chapter 6: Parched Scream | "a spartoi that had just kept on growing"; "Every bone that composed its body was jet black."; "over ten meders tall"; "two horns similar to an ogre’s".
+[@so02-form]: SO02 | Chapter 6: Parched Scream | "a spartoi that had just kept on growing"; "Every bone that composed its body was jet black."; "two horns similar to an ogre’s". The Japanese edition (file c42M, paragraph 344) says the part from the pelvis up comes close to ten meders in height.
 [@so02-riveria]: SO02 | Chapter 6: Parched Scream | "The elf was still close to the entrance to the room."
 [@so02-pikes]: SO02 | Chapter 6: Parched Scream | "an instant pincushion"; "Udaeus didn’t have a lower body to begin with."; "the black pillars would block their only route of escape".
 [@so02-joints]: SO02 | Chapter 6: Parched Scream | "skinless and muscle-less Udaeus"; "The Magic energy center between each of its bones also acted like the glue".
@@ -82,3 +83,4 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 [@fc02-blade]: FC02 | The Origin of the Strongest | "A first-tier blade made from the rare drop item Udaeus Black Sword."; "knelt on one knee like a knight".
 [@fm14-attack]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "The hideous mountain of swords swallowed up the two adventurers."; "Damn—this is the floor boss Udaeus’s attack—"; "Lyu shuddered".
 [@fm20-weaker]: FM20 | Chapter 4: The Knight’s Afterglow | "the centipede dragon’s estimated potential is a Level Seven"; "this one is weaker than Udaeus"; "I-I’ve never fought Udaeus before, though!"
+[@so02-udaeus-ja]: SO02 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.

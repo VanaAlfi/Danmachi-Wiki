@@ -43,7 +43,7 @@ During the fighting of Sword Oratoria 10, Cruz's squad holds the underground pas
 | Sword Oratoria 9 | With [[gareth|Gareth]]'s group he finds a hidden passage outside the city, through which the man-eating flowers were taken out.[@so09-passage] |
 | Sword Oratoria 10 | His squad patrols Daedalus Street, and with Narfi he protects its residents from monsters.[@so10-patrol, so10-leaders] He leads the squad watching Hearthstone Manor, where Lefiya volunteers. When she storms the manor's door, he and [[elfie-collette|Elfie]] drag her away.[@so10-squad, so10-door] DanMachi 11 shows the same watch from Bell's side: Cruz and a few others are watching him.[@fm11-watch] |
 | Sword Oratoria 11 | Gareth leaves the rear to him and Narfi during the first assault on Knossos.[@so11-rear] |
-| Sword Oratoria 12 | In the reserve squad freeing Demeter Familia's followers on the tenth floor of Knossos, Enyo's cruelty shakes him. [[bell-cranell|Bell]] rescues the squad, and Cruz says he may finally understand how Lefiya feels. He hands Bell a longsword and leaves the fight to him.[@so12-reserve, so12-lefiya, so12-sword] |
+| Sword Oratoria 12 | In the reserve squad freeing Demeter Familia's followers on the tenth floor of Knossos, Enyo's cruelty shakes him. [[bell-cranell|Bell]] rescues the squad, and Cruz says he may finally understand how Lefiya feels. He hands Bell a greatsword, as Bell asked, and leaves the fight to him.[@so12-reserve, so12-lefiya, so12-sword] |
 | Sword Oratoria 13 | With Raul he is baffled when Lefiya chooses Bete as her teacher.[@so13-bete] He and the other Level 4s of the reserve force do not level up in this update.[@so13-update] |
 | Sword Oratoria 14 | Marvels that Finn, Riveria and Gareth reached Level 7 at the same time.[@so14-three] |
 
@@ -71,7 +71,7 @@ During the fighting of Sword Oratoria 10, Cruz's squad holds the underground pas
 [@so11-door]: SO11 | Chapter 4: Avengers ~Knossos War~ | The key in her right hand, "the one that Cruz had received in the bargain with Hermes".
 [@so12-reserve]: SO12 | Chapter 7: Final War II | "Cruz the chienthrope"; the tenth floor; "Cruz had a hard time maintaining his cool at the sight of Enyo’s ruthlessness."
 [@so12-lefiya]: SO12 | Chapter 7: Final War II | "…I think I might finally understand how Lefiya feels," Cruz said.
-[@so12-sword]: SO12 | Chapter 7: Final War II | "Rabbit Foot! Here’s a longsword."; "I’ll leave this to you."
+[@so12-sword]: SO12 | Chapter 7: Final War II | "I’ll leave this to you." The Japanese edition (file c698, paragraphs 876 and 897) has Bell ask for a greatsword and Cruz hand him one as ordered.
 [@so13-bete]: SO13 | Chapter 1: Girl’s Revolution | Raul and Cruz shaking their heads, pleading with Lefiya to rethink.
 [@so13-update]: SO13 | Chapter 1: Girl’s Revolution | "Raul, Alicia, Cruz, Narfi, and the other Level 4s" would have to wait for their next chance.
 [@so14-three]: SO14 | Prologue: Accomplishments and Reminiscences | "Still…for all three to level up at the same time…" Cruz mused.

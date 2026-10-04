@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ベル・クラネル}}", "refs": ["fm12-bell-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm01-bell"]},
       {"label": "Age", "value": "Fourteen in DanMachi 1", "refs": ["fm01-bell"]},
       {"label": "Raised by", "value": "His grandfather, revealed in DanMachi 5 as the god Zeus", "refs": ["fm05-zeus"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[hestia-familia|Hestia Familia]]", "refs": ["fm01-bell"]},
       {"label": "Level", "value": "5, from DanMachi 18 (see [[#levels|Levels]])", "refs": ["fm18-level5"]},
-      {"label": "Titles", "value": "Little Rookie; later Rabbit Foot; Regulus Arne from DanMachi 20", "refs": ["fm04-rookie", "fm12-title", "fm20-regulus"]},
+      {"label": "Titles", "value": "Little Rookie ({{ja|未完の少年}}, written *the unfinished boy*); later Rabbit Foot ({{ja|白兎の脚}}, written *the white rabbit's legs*); Regulus Arne ({{ja|獅兎の光}}, written *light of the lion rabbit*) from DanMachi 20", "refs": ["fm04-rookie", "fm12-title", "fm20-regulus", "fm12-bell-ja", "fm05-bell-title-ja", "fm20-bell-title-ja"]},
       {"label": "Also called", "value": "The record holder", "refs": ["fm04-record", "ss01-record"]},
       {"label": "Magic", "value": "[[#firebolt|Firebolt]]", "refs": ["fm02-firebolt"]},
       {"label": "Skills", "value": "[[skills#liaris-freese|Liaris Freese]], [[skills#argonaut|Argonaut]], [[skills#ox-slayer|Ox Slayer]], [[skills#vanadis-tevere|Vanadis Tevere]]", "refs": ["fm01-hidden", "fm04-argonaut", "fm12-level4", "fm18-vanadis"]}
@@ -32,7 +33,7 @@
 
 ## Background
 
-Bell was raised in a small town by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god [[zeus|Zeus]], who faked his death and went into hiding; Bell does not learn this. In the Japanese Hermes calls Bell Zeus's {{ja|義孫|gison}}, a grandson by adoption, where Yen Press prints "grandson".[@fm05-death, fm05-zeus, fm05-ja-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of [[hera|Hera]], entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-parents, fm05-zeus] In DanMachi 20 Bell still says he never knew his parents.[@fm20-parents]
+Bell was raised in a village by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god [[zeus|Zeus]], who faked his death and went into hiding; Bell does not learn this. In the Japanese Hermes calls Bell Zeus's {{ja|義孫|gison}}, a grandson by adoption, where Yen Press prints "grandson".[@fm05-death, fm05-zeus, fm05-ja-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of [[hera|Hera]], entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-parents, fm05-zeus] The DanMachi 20 narration says Bell had a rearing parent, his grandfather, but no parents.[@fm20-parents]
 
 Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.[@fm15-rejections]
 
@@ -151,9 +152,9 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Why Zeus faked his death and where he is now.[@fm05-death]
 > - Whether Bell will learn who his parents were.[@ar03-parents, fm20-parents]
-> - When Bell first learned the name and purpose of Liaris Freese; the Yen Press Status sheet he reads in DanMachi 20 includes it (the Japanese sheet does not), but no conversation about it is shown.[@fm20-level5]
+> - Whether and when Bell learns the name and purpose of Liaris Freese: the update paper Hestia hands him in DanMachi 20 still lists only his other three Skills.[@fm20-level5]
 
-[@fm01-bell]: FM01 | | Human, fourteen, Hestia's only follower; his hometown and grandfather; Aiz's rescue.
+[@fm01-bell]: FM01 | | Human, fourteen, Hestia's only follower; his hometown and grandfather; Aiz's rescue. The Japanese edition (file cFB, paragraph 12) calls his home a village in the countryside.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm01-silverback]: FM01 | | The silverback.
 [@fm02-firebolt]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Firebolt learned; Mind Down.
@@ -195,9 +196,9 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm18-odr]: FM18 | Chapter 9: Flower Language for You | Bell refuses to be Freya's Odr; her flower scattered.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Bell's promise to Syr.
 [@fm19-rapi]: FM19 | Chapter 2: School Heaven and Hell | The Rapi Flemish cover.
-[@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper (the English sheet lists Liaris Freese, the Japanese sheet does not).
-[@fm20-parents]: FM20 | Epilogue: Beautiful World | Bell never knew his parents.
-[@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father; "My sister entrusted him to Zeus"; the child is not named.
+[@fm20-level5]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5; the Status paper. The Japanese edition's paper lists only Argonaut, Ox Slayer and Vanadis Tevere.
+[@fm20-parents]: FM20 | Epilogue: Beautiful World | The Japanese edition (file p-026, paragraph 48) says that Bell Cranell had a parent who raised him, but no parents.
+[@ar03-parents]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia, Alfia and the unnamed father; "My sister entrusted him to Zeus"; the child is not named. The Japanese edition (file c9X3, paragraph 57) calls the father the very lowest-ranking man in Zeus Familia.
 [@firebolt.fm02-card]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Status card: Firebolt, Swift-Strike Magic; no incantation shown.
 [@firebolt.fm02-trigger]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Hestia: the name alone may trigger it.
 [@firebolt.fm02-first]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | First cast; "electric flames"; conjured in an instant.
@@ -216,5 +217,8 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm04-record]: FM04 | Chapter 2: Changing Environment, New Relationships | "He’s the record holder now."; "Seriously? You’re Little Rookie?! The new record holder!"
 [@ss01-record]: SS01 | | Printed heading "Observations of a Mage" (not in the evidence map): "His aliases of Little Rookie and Record Holder are no mere embellishment."
 [@fm20-postpone]: FM20 | Chapter 1: Orario Rumble | Magni and Modi "postpone the question of Bell’s second name for the moment".
-[@fm20-regulus]: FM20 | Epilogue: Beautiful World | "Bell Cranell, who had been given the title Regulus Arne"; "One who brings hope"; the name proposed at Denatus and "officially accepted".
+[@fm20-regulus]: FM20 | Epilogue: Beautiful World | "Bell Cranell, who had been given the title Regulus Arne"; "One who brings hope"; the name proposed at Denatus and "officially accepted". The Japanese edition (file J26, paragraph 33) calls it the afterglow passed from Zeus and Hera to the next generation, from the lion to the rabbit, and one that sings of hope.
 [@ss01-dald]: SS01 | | Printed heading "Blue Twilight" (not in the evidence map): "The proprietor, a dwarf named Dald"; "Mr. Dald makes a living honing adventurers’ weapons"; "Miss Eina introduced me to him when I was just starting out"; "taking the weapon that Welf made for me"; "Most of the names up on that wall died a while back."
+[@fm12-bell-ja]: FM12 | | The Japanese edition prints his name in katakana and writes his title Rabbit Foot in kanji meaning the white rabbit's legs, with the reading Rabbit Foot; the infobox gives the printed name and the kanji.
+[@fm05-bell-title-ja]: FM05 | | The Japanese edition writes Little Rookie in kanji meaning the unfinished boy, with the reading Little Rookie.
+[@fm20-bell-title-ja]: FM20 | | The Japanese edition writes his title in kanji meaning light of the lion rabbit, with the reading Regulus Arne.

@@ -52,16 +52,15 @@ DanMachi 10 credits the crystals to Fels, "once known as the Sage". They were ex
 
 Destroying one crystal of a pair cuts the connection. In DanMachi 10 [[gros|Gros]] tears Lido's surface crystal from his hand and destroys it, leaving the Xenos with no link to the surface.[@fm10-gros] In DanMachi 11 Fels crushes a blue crystal at [[hermes|Hermes]]'s unspoken command, and Hestia's voice is cut off.[@fm11-hermes] At the climax of the Familia War, Lilly's Skill Mind Call carries the critical information to Welf and Bell "in place of the broken oculus".[@fm18-mindcall]
 
-## A possible exception
+## A relay
 
-> [!NOTE] Watching through the wrong crystal
-> In Minor Myths and Legends 1 the Xenos, hiding in the sewers, watch what happens to Bell through their own oculus, "possibly due to interference from Hestia’s paired crystal".[@ss01-xenos] The narration offers this only as a possibility. It does not fit easily with DanMachi 10's statement that an oculus works only with its twin, and this wiki leaves the question open.[@fm10-pairs, ss01-xenos]
+> [!NOTE] Listening in through a second pair
+> In Minor Myths and Legends 1 the Xenos, hiding in the sewers, follow what happens to Bell: Hestia's group has put Bell's twin crystal next to Fels's oculus in the command post, and that oculus's own twin, with the Xenos in the sewers, relays the voices. Each crystal still speaks only to its own twin.[@ss01-xenos, fm10-pairs]
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - When Fels first made oculi, what they are made of, their maximum range, and whether a crystal can be re-paired.[@fm10-babel, fm10-pairs]
-> - How the Xenos could see Bell through a crystal not paired with his.[@ss01-xenos]
 
 [@fm10-babel]: FM10 | Chapter 7: The King of Atrocity | Babel's ceiling crystal; twin crystals by Fels; hard to make; the owl's eye.
 [@fm10-pairs]: FM10 | Chapter 7: The King of Atrocity | Only with its paired twin; Fels's bulky robe; Lido's surface link.
@@ -80,4 +79,4 @@ Destroying one crystal of a pair cuts the connection. In DanMachi 10 [[gros|Gros
 [@so12-lilly]: SO12 | Chapter 7: Final War II | Oculi for both squads; bystanders can hear; Lilly becomes Finn.
 [@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | Ouranos hears Erebus through an oculus.
 [@ar02-ouranos]: AR02 | | Ouranos speaks with Fels through an oculus.
-[@ss01-xenos]: SS01 | | The Xenos watch Bell through their own oculus.
+[@ss01-xenos]: SS01 | | The Xenos follow Bell through an oculus in the sewers. The Japanese edition (file part0067, paragraphs 3, 4 and 9) says Hestia's group had put Bell's twin crystal near Fels's oculus, so that the Xenos in the sewers could hear everything of his situation, voice after voice.

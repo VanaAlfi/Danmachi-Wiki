@@ -28,7 +28,7 @@
 
 ## How it works
 
-A Status is a divine record of the follower's own history. Excelia measures both how much they have accomplished and how well.[@fm01-status] Using a basic ability earns excelia for that ability, and fighting a stronger opponent earns it faster.[@fm01-excelia]
+A Status is a divine record of the follower's own history. Excelia measures both how much they have accomplished and how well.[@fm01-status] The number beside each basic ability's rank measures proficiency, which rises only when that ability is put to work; fighting a stronger opponent earns excelia faster.[@fm01-excelia]
 
 The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] Getting a [[skills|Skill]] is itself rare, and some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills, fm01-ja-skills]
 
@@ -77,12 +77,12 @@ Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Gu
 
 [@fm01-status]: FM01 | Chapter 1: World, Reality, and Desire | Falna, blood and hieroglyphs; Status as a record of excelia.
 [@fm01-familia]: FM01 | Chapter 1: World, Reality, and Desire | A Familia is a god-led group.
-[@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Excelia from ability use and stronger opponents.
+[@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Proficiency from ability use; excelia faster against stronger opponents. The Japanese edition (file cFB, paragraphs 180–186) calls the number beside each rank proficiency, which changes only when the ability is put to work, and keeps excelia for the experience the gods read.
 [@fm01-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Members of one race tend to develop similar Skills: elves strengthen magic, dwarves strength.
 [@fm01-ja-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 150): obtaining a Skill is itself rare. Yen Press prints that it "was not fully understood how skills were acquired".
-[@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics.
+[@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics. The Japanese edition (file cFB, paragraph 193) gives the number of magic slots as at least one and at most three.
 [@fm01-abilities]: FM01 | Chapter 1: World, Reality, and Desire | Basic abilities and ranks.
-[@fm01-levelup]: FM01 | Chapter 1: World, Reality, and Desire | A Level Up boosts every basic ability.
+[@fm01-levelup]: FM01 | Chapter 1: World, Reality, and Desire | A Level Up boosts every basic ability. The Japanese edition (file cFB, paragraph 181) says a Level Up applies an enhancement that exceeds the basic-ability corrections; it does not say that every basic ability rises.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@so01-ceiling]: SO01 | Chapter 3: White Rabbit | Ordinary ceiling of 999.
 [@fm03-ss]: FM03 | Chapter 4: The Meaning of Adventure | Bell's SS value.

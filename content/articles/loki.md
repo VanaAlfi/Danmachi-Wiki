@@ -29,7 +29,7 @@
 
 ## Appearance and character {#character}
 
-- **Looks:** Loki has vermilion hair and eyes. Her eyes are so long and thin that they usually look like lines across her face, and she is often described squinting.[@fm02-vermilion, fm01-eyes, fm04-ponytail] She ties her light red hair in a short ponytail; for the Banquet of the Gods in Sword Oratoria 1 she wears a black dress and puts her hair up in a bun.[@fm04-ponytail, so01-dress]
+- **Looks:** Loki has vermilion hair and eyes. Her eyes are so long and thin that they usually look like lines across her face, and she is often described squinting.[@fm02-vermilion, fm01-eyes, fm04-ponytail] She wears her vermilion hair tied back; for the Banquet of the Gods in Sword Oratoria 1 she wears a black dress and puts her hair up in a bun.[@fm04-ponytail, so01-dress]
 - **The trickster:** in [[tenkai-and-gekai|Tenkai]] Loki was a prankster who enjoyed causing confusion, "quite the troublemaker" as Freya remembers her. She has changed a good deal since starting her Familia.[@fm01-tenkai, so01-tenkai] To Hestia she is "a trickster with an unmatched reputation for mischief in the heavens".[@fm15-hestia]
 - **Hestia:** whenever Loki sees Hestia she has to tease her, and the narration gives the reason as Hestia's bust, which Loki lacks. At [[ganesha|Ganesha]]'s *Celebration of the Gods* in DanMachi 1 their quarrel ends with Loki pulling Hestia's cheeks.[@fm01-banquet] Loki calls her "Itty-Bitty" (printed *Itty Bitty* in DanMachi 11).[@so01-itty, fm15-hestia, fm11-bell]
 - **Freya:** in DanMachi 1 Loki confronts Freya in a café, demands to know what she is scheming, and warns that if it gets in her way she will end it herself.[@fm01-cafe] She calls Freya's power to see souls the "rot in hell, you lousy cheater" power.[@fm02-eyes]
@@ -46,7 +46,7 @@ Newly come down to the Lower World near Preblica, Loki made the fourteen-year-ol
 |---|---|
 | Astrea Record 1 | Over tea with Freya and Astrea, Loki scorns Astrea's ideal of justice.[@ar01-tea] |
 | Astrea Record 2 | In the [[great-conflict|Great Conflict]] she works at [[guild|Guild]] Headquarters beside Finn. A report of nine gods sent back to the heavens, of whom only six were the allies', leads the two to suspect that the [[evils|Evils]]' true goal lies below the city; news of an attack cuts them off.[@ar02-booze, ar02-list] |
-| Astrea Record 3 | She cheers [[ottar|Ottar]]'s victory with the rest of the city: "You defeated him!"[@ar03-ottar] |
+| Astrea Record 3 | She cheers [[ottar|Ottar]]'s victory with the rest of the city: he has overcome the wall of Zeus and Hera, a thousand years of history.[@ar03-ottar] |
 | DanMachi 1 | Teases Hestia at Ganesha's Celebration of the Gods and confronts Freya in a café, with [[aiz-wallenstein|Aiz]] at her side.[@fm01-banquet, fm01-cafe] |
 | DanMachi 2 | Explains [[soma-familia|Soma Familia]]'s wine and reward system to [[eina-tulle|Eina]], and announces Aiz's promotion to [[level|Level 6]].[@fm02-loki] |
 | DanMachi 4 | Runs the [[denatus|Denatus]], because most of her Familia is away on an expedition and she was bored.[@fm04-denatus] |
@@ -72,7 +72,7 @@ Newly come down to the Lower World near Preblica, Loki made the fourteen-year-ol
 [@fm02-loki]: FM02 | | Soma's wine; Aiz's Level 6.
 [@fm02-eyes]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "the “rot in hell, you lousy cheater” power".
 [@fm02-vermilion]: FM02 | Chapter 4: Divine Wine | "Loki’s vermillion hair and eyes".
-[@fm04-ponytail]: FM04 | Chapter 1: Denatus | "her light red hair tied into a short ponytail, smiled with narrowed eyes".
+[@fm04-ponytail]: FM04 | Chapter 1: Denatus | Loki smiling with narrowed eyes. The Japanese edition (file cMS, paragraph 122) gives her vermilion hair tied back.
 [@fm04-denatus]: FM04 | Chapter 1: Denatus | "Why does Loki get to run the show?"; "Most of her Familia is out on an expedition"; "Basically, she was bored."
 [@fm11-bell]: FM11 | | "The deities’ve got their eyes on you"; "I’m interested in you these days, too. You’re pretty feisty for one of Itty Bitty’s kids."
 [@fm15-hestia]: FM15 | | "it really is Itty-Bitty!"; "a trickster with an unmatched reputation for mischief in the heavens".
@@ -94,4 +94,4 @@ Newly come down to the Lower World near Preblica, Loki made the fourteen-year-ol
 [@ar02-booze]: AR02 | Chapter 8: A Tragic Performance | "Why’s a god like me gotta do all this work?"; "in a bathtub full of booze".
 [@ar02-list]: AR02 | Chapter 8: A Tragic Performance | "this report names only six of our allied familias"; "This whole time, there true goal wasn’t up here, it was down in the—!"
 [@ar02-loki]: AR02 | Intermission: While the Scales of Justice Tremble | "It seems the girl is now yours."
-[@ar03-ottar]: AR03 | Chapter 6: The Nameless Heroes | "You defeated him! The mightiest being this city has ever known!"
+[@ar03-ottar]: AR03 | Chapter 6: The Nameless Heroes | Loki's cry at Ottar's victory. The Japanese edition (file c61A, paragraphs 16–17) has her cry that he has overcome the wall of Zeus and Hera, a thousand years of history.

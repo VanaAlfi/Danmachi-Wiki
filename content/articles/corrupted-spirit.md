@@ -19,6 +19,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "The corrupted spirit"},
+      {"label": "Japanese", "value": "{{ja|穢れた精霊}}", "refs": ["so12-corrupted-spirit-ja"]},
       {"label": "Origin", "value": "A spirit of the Ancient Times that went into the Dungeon and was consumed by a monster", "refs": ["so04-ouranos", "so06-her"]},
       {"label": "Called", "value": "\"Her\" by the creatures", "refs": ["so03-olivas", "so06-her"]},
       {"label": "Main body", "value": "Probably beyond Floor 60 (Ouranos's inference)", "refs": ["so04-main"]},
@@ -39,7 +40,7 @@ When the gods began their descent, spirits acted as their antennas and carried o
 
 ## The corrupted spirit
 
-Watching Floor 59 through Fels's eye on Aiz's loin guard, [[ouranos|Ouranos]] recognises one of the spirits of old. It must have been consumed by a monster and has kept its sense of self for all those years, though its state depends on the monster that consumed it; it has become a monster governed by feeding and stealing. "That which you see there…is already corrupted."[@so04-ouranos] Sword Oratoria 6 sums it up as a messenger of the gods, devoured again and again by the monsters of the depths, still alive and constantly changing its form.[@so06-her]
+Watching Floor 59 through Fels's eye on Aiz's loin guard, [[ouranos|Ouranos]] recognises one of the spirits of old. It must have been consumed by a monster and has kept its sense of self for all those years, though its state depends on the monster that consumed it; it has become a monster governed by feeding and stealing. "That which you see there…is already corrupted."[@so04-ouranos] Sword Oratoria 6 sums it up as a messenger of the gods that lived on after being eaten by a monster, its nature inverted.[@so06-her]
 
 [[olivas-act|Olivas Act]] tells Loki Familia on Floor 24 that She wants to see the sky, and that the city blocking her view from underground must be destroyed.[@so03-olivas] In the [[guild#chamber-of-prayers|Chamber of Prayers]], Fels and Ouranos take the hybrid creatures to be a result of the corrupted spirit as well.[@so04-creatures] In Sword Oratoria 12 [[filvis|Filvis]] explains that a fragment of it was on Floor 27 on the day of the Twenty-Seventh-Floor Nightmare, drawn by the smell of blood and looking for new feelers among the adventurers there.[@so12-feelers]
 
@@ -49,7 +50,7 @@ Its colourful monsters, the caterpillars and the [[monsters#violas|violas]], att
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 2 | [[lulune-louie|Lulune]] shows Aiz and [[lefiya|Lefiya]] the orb she was hired to carry: a clear shell holding green liquid and a female-looking fetus with a heartbeat. Holding it makes Aiz ill.[@so02-orb] During the attack on [[rivira|Rivira]] the fetus breaks out, seeps into a dead monster like a parasite and transforms it.[@so02-parasite] |
+| Sword Oratoria 2 | [[lulune-louie|Lulune]] shows Aiz and [[lefiya|Lefiya]] the orb she was hired to carry: a clear shell holding green liquid and a female-looking fetus with a heartbeat. Holding it makes Aiz ill.[@so02-orb] During the attack on [[rivira|Rivira]] the fetus breaks out, seeps into a dying man-eating flower like a parasite and transforms it.[@so02-parasite] |
 | Sword Oratoria 3 | The orb had been carried out of the Dungeon by [[hashana|Hashana]], hired by a mysterious client; he had retrieved it on the thirtieth floor.[@so03-hashana, so03-thirtieth] On Floor 24 an orb with a female fetus sits at the base of a quartz pillar in the pantry, guarded by Olivas; a man in a purple robe tears it off and escapes.[@so03-olivas, so03-stolen] |
 | Sword Oratoria 4 | Finn concludes that the fetus seen on Floor 24 grows by eating monsters' magic stones into a female creature and then a demi-spirit, and that the enemy is growing orbs and sending them up, as if to summon a mature spirit above ground.[@so04-finn] |
 | Sword Oratoria 7 | In Knossos Aiz finds a laboratory with seven broken, empty tanks. Her blood reacts, and she realises they once held crystal-orb fetuses brought up to the surface.[@so07-tanks] |
@@ -88,7 +89,7 @@ The name comes from the murals of Knossos. In Sword Oratoria 7 [[thanatos|Thanat
 > - Whether all the seeds it has produced are accounted for.[@so11-seed, so12-seven]
 
 [@so02-orb]: SO02 | Chapter 4: Orb | The light-green crystal orb with a fetus; its heartbeat; Aiz's reaction.
-[@so02-parasite]: SO02 | Chapter 5: The Battle of Rivira | The fetus seeps into the dead monster like a parasite and changes it.
+[@so02-parasite]: SO02 | Chapter 5: The Battle of Rivira | The fetus seeps into the dying man-eating flower like a parasite and changes it. The Japanese edition (file c2YT, paragraph 214) says the flower was on the verge of death.
 [@so03-hashana]: SO03 | Chapter 1: The Black Robe’s Invitation | The orb a mysterious client hired Hashana to carry out of the Dungeon.
 [@so03-thirtieth]: SO03 | Chapter 2: Let’s Party? | "The thirtieth floor—the place where Hashana had first retrieved the orb."
 [@so03-olivas]: SO03 | Chapter 5: Hell and Hell | "She wants to see the sky!"; the fetus at the base of the pillar; "The metropolis that blocks the hole must be obliterated!"
@@ -105,7 +106,7 @@ The name comes from the murals of Knossos. In Sword Oratoria 7 [[thanatos|Thanat
 [@so04-finn]: SO04 | Epilogue: Scenario Gone Wild | Finn: the crystal-orb fetus becomes a demi-spirit; summoning a mature spirit aboveground; Loki Familia barely won.
 [@so05-demi]: SO05 | | The fifty-ninth floor's "abominable fiend called the" corrupted spirit (printed in inner quotation marks); "It was a half-spirit, half-monster hybrid known as a demi-spirit."
 [@so05-blood]: SO05 | Interlude: Flip Side of the Compromise | Crozzo's swords and the blessing of an ancient spirit; "Was it possible that Aiz, too…?"
-[@so06-her]: SO06 | Chapter 1: Quest Results & Next Quest | The "her" the creatures referred to; a messenger of the gods devoured time and again; fetuses evolving into demi-spirits.
+[@so06-her]: SO06 | Chapter 1: Quest Results & Next Quest | The "her" the creatures referred to; a messenger of the gods eaten by a monster, its nature inverted; fetuses evolving into demi-spirits. The Japanese edition (file cJU, paragraph 48) says a messenger of the gods that lived on after being eaten by a monster, its nature inverted.
 [@so06-dust]: SO06 | Chapter 5: A Duo of Sun and Moon | The violas like other monsters' magic stones even more than human flesh.
 [@so07-tanks]: SO07 | Chapter 3: Feast of the Dead | Seven tanks; "This vessel had once housed a crystal orb fetus."
 [@so07-bull]: SO07 | Chapter 4: The Sword’s Wind Calls | "How did Gugalanna get here of all places?"; an ox with a woman's body at its forehead.
@@ -132,3 +133,4 @@ The name comes from the murals of Knossos. In Sword Oratoria 7 [[thanatos|Thanat
 [@so12-legend]: SO12 | Chapter 3: Rabbit Oracle | "A dragon called Nidhogg isn’t showing up in aaany of the books!"; "Nidhogg is probably some really old fairy tale."; "This is the spirits’ six-ring that destroyed the evil dragon Nidhogg, right?"; "There isn’t a hero in the story of Nidhogg."; "Instead, six great spirits appear at the behest of a deity."; "And they sacrificed their lives to defeat Nidhogg."; "the six great spirits of the Ancient Times who created the spell rings and vanquished Nidhogg"; "The ancient ultimate spell that destroyed Nidhogg will be resurrected in Orario?"
 [@so12-bluff]: SO12 | Chapter 8: A Heroes’ Chorus | "he had prepared the spirits’ six rings to keep the true goal, Nidhogg, hidden by his bluff"; "The nameless dragon had gotten some strength from Nidhogg, which then flowed to the spirits, enhancing them as if it were a Monster Rex."
 [@so12-end]: SO12 | Chapter 8: A Heroes’ Chorus | "Nidhogg noticed Bell Cranell and raised a dreadful roar, but its movements were dull. With the ritual progressing this far, it had become little more than a bomb waiting to go off."; "The song of self-destruction that Nidhogg was chanting had been stopped."; "The reality that Nidhogg had been destroyed by the Hero’s Attack."
+[@so12-corrupted-spirit-ja]: SO12 | | The Japanese edition calls it by a name meaning defiled spirit; the infobox gives that written form.

@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ナルヴィ}}", "refs": ["so12-narfi-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so05-blondes", "so08-resent"]},
       {"label": "Hair", "value": "Blonde", "refs": ["so05-blondes"]},
       {"section": "Adventurer"},
@@ -82,3 +83,4 @@
 [@so13-update]: SO13 | Chapter 1: Girl’s Revolution | "Raul, Alicia, Cruz, Narfi, and the other Level 4s" would have to wait for their next chance.
 [@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | "We’ve finally surpassed Freya Familia!"
 [@so14-bed]: SO14 | Prologue: Accomplishments and Reminiscences | Lefiya carrying Narfi and others back to their rooms.
+[@so12-narfi-ja]: SO12 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

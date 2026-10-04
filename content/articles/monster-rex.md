@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "The Guild's name for a floor boss: a monster that exists singly on its floor, takes a long time to be reborn, and is said to be two Levels above that floor's other monsters.",
+  "summary": "The Guild's name for a floor boss: a monster that exists singly on its floor, takes a long time to be reborn, and is said to be two or more Levels above that floor's other monsters.",
   "aliases": ["Floor boss"],
   "spoilers": "DanMachi Vols. 2–14, Sword Oratoria Vols. 2 and 13, and Familia Chronicle Vols. 1–2",
   "related": ["goliath", "floor-18", "dungeon", "level", "aiz-wallenstein", "ottar"],
@@ -16,13 +16,13 @@
       {"section": "Term"},
       {"label": "Also called", "value": "Floor boss", "refs": ["fm02-rex"]},
       {"label": "Per floor", "value": "Only one at a time", "refs": ["fm02-rex"]},
-      {"label": "Strength", "value": "Said to be two Levels above the floor's other monsters", "refs": ["fm02-rex"]},
+      {"label": "Strength", "value": "Said to be two or more Levels above the floor's other monsters", "refs": ["fm02-rex"]},
       {"label": "Rebirth", "value": "Much slower than ordinary monsters", "refs": ["fm02-rex"]}
     ]
   }
 }
 ---
-A **Monster Rex** is a monster of a kind the Dungeon allows only one of on a floor at a time, and which takes much longer than ordinary monsters to be reborn after it is killed. The [[guild|Guild]] has known of them since ancient times. Each is said to be two Levels above the other monsters on its floor, and adventurers call them "floor bosses"; usually many adventurers must work together to bring one down.[@fm02-rex]
+A **Monster Rex** is a monster of a kind the Dungeon allows only one of on a floor at a time, and which takes much longer than ordinary monsters to be reborn after it is killed. The [[guild|Guild]] has known of them since ancient times. Each is said to be two or more Levels above the other monsters on its floor, and adventurers call them "floor bosses"; usually many adventurers must work together to bring one down.[@fm02-rex]
 
 ## Known Monster Rexes
 
@@ -54,7 +54,7 @@ Defeating a strong enemy such as a Monster Rex alone can be the great feat that 
 > - Why the Dungeon allows only one Monster Rex per floor; DanMachi 2 suggests only that they may be too strong or too big.[@fm02-rex]
 > - What caused the early Goliath of Sword Oratoria 13.[@so13-early]
 
-[@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex defined; Aiz and Udaios.
+[@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex defined; Aiz and Udaios. The Japanese edition (file c2ZU, paragraph 103) says two or more Levels above the Level estimated for each floor.
 [@fm04-dragons]: FM04 | Chapter 3: The Smith’s Situation | Infant dragons as upper-level bosses.
 [@fm05-goliath]: FM05 | | Floor 17, Great Wall of Sorrows, size and respawn interval.
 [@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it. Yen Press prints "more than seven meders tall".

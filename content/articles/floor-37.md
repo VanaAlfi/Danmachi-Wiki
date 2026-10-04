@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "A deep-level floor called the White Palace: a vast maze of five ring walls, home to the Monster Rex Udaeus, where Astrea Familia died and Bell and Lyu survive four days.",
-  "aliases": ["White Palace", "Lower Fortress"],
+  "aliases": ["White Palace"],
   "spoilers": "DanMachi Vols. 2, 13–14, Sword Oratoria Vol. 2, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "monster-rex", "juggernaut", "lyu-leon", "bell-cranell", "astrea-familia", "delphyne"],
   "infobox": {
@@ -14,7 +14,8 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Floor"},
-      {"label": "Also called", "value": "The White Palace; the Lower Fortress", "refs": ["fm14-palace", "fm02-fortress"]},
+      {"label": "Japanese", "value": "{{ja|37階層}}", "refs": ["fm14-floor37-ja"]},
+      {"label": "Also called", "value": "The White Palace ({{ja|白宮殿}})", "refs": ["fm14-palace", "fm14-floor37-ja"]},
       {"label": "Band", "value": "Deep levels", "refs": ["fm14-deep"]},
       {"label": "Monster Rex", "value": "Udaeus", "refs": ["fm02-rex", "so02-rex"]},
       {"label": "Monsters", "value": "Spartoi, among others", "refs": ["fm02-fortress"]}
@@ -22,7 +23,7 @@
   }
 }
 ---
-**Floor 37** of [[dungeon|the Dungeon]] lies in the deep levels. Called the White Palace, it is a concentric maze of five Ring Walls, large enough to hold all of [[orario|Orario]].[@fm14-palace, fm14-deep] DanMachi 2 calls it the Lower Fortress, home to [[monsters#spartoi|Spartoi]] and to the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-fortress, fm02-rex, so02-rex]
+**Floor 37** of [[dungeon|the Dungeon]] lies in the deep levels. Called the White Palace, it is a concentric maze of five Ring Walls, large enough to hold all of [[orario|Orario]].[@fm14-palace, fm14-deep] DanMachi 2 places it in the deep levels, home to [[monsters#spartoi|Spartoi]] and to the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-fortress, fm02-rex, so02-rex]
 
 ## The White Palace
 
@@ -44,7 +45,7 @@ They find a shelter with three skeletons and gear from a failed expedition; who 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who the adventurers found dead in the shelter were.[@fm14-shelter]
 
-[@fm02-fortress]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Floor 37, the Lower Fortress; Spartoi.
+[@fm02-fortress]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Floor 37 in the deep levels; Spartoi. The Japanese edition (file c2ZU, paragraph 20) speaks of the deep-level zone here.
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Aiz and Udaios.
 [@fm13-floor]: FM13 | | The floor's appearance; the lambton.
 [@fm14-palace]: FM14 | | The White Palace; its walls, zones and staircase; Astrea Familia reached the forty-first floor, and Lyu knows the main route.
@@ -54,4 +55,5 @@ They find a shelter with three skeletons and gear from a failed expedition; who 
 [@fm14-spring]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "A spring on the thirty-seventh floor…?"; "Lyu had never heard of such a thing."; "To think that this was here below the Colosseum"; "The sound of the thirty-seventh floor’s lone spring".
 [@so02-rex]: SO02 | Chapter 6: Parched Scream | "The Monster Rex that resided on the thirty-seventh floor."
 [@ss01-survival]: SS01 | | Story "Deep-Floor Survival": "This all happened before we discovered the spring on the thirty-seventh floor."; "There may be a pantry, but nothing more."; the pantry fluid; eight near-deaths (story "Whenever the Adviser and the Loli-Goddess Drink").
-[@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | "Born from divine transgression on the thirty-seventh floor."
+[@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne born from the thirty-seventh floor. The Japanese edition (file c370, paragraph 10) says drawn by divine power and born from the thirty-seventh floor.
+[@fm14-floor37-ja]: FM14 | | The Japanese edition names the floor by its number and calls it the White Palace, written in kanji with that reading; the infobox gives both.

@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ニイナ・チュール}}", "refs": ["fm19-nina-ja"]},
       {"label": "Race", "value": "[[races#half-elf|Half-elf]]", "refs": ["fm19-nina"]},
       {"label": "Age", "value": "Thirteen", "refs": ["fm19-nina"]},
       {"label": "Sister", "value": "[[eina-tulle|Eina Tulle]]", "refs": ["fm19-nina"]},
@@ -79,7 +80,7 @@ No volume prints the whole chant; each print gives different pieces, and they ar
 
 | Print | What is printed |
 |---|---|
-| DanMachi 19 | "Bloom, second sacred mount—", then, as she finishes, "—My name is Alf!" and the name. She had only just learned the spell.[@lagriell-krisheim.fm19-cast] |
+| DanMachi 19 | "Bloom, second sacred mount—", then, as she finishes, "—My name is Alf!" and the name. She casts it on the run, imitating the Concurrent Casting she had only just been taught.[@lagriell-krisheim.fm19-cast] |
 | DanMachi 20 (camp) | "My name is Alf—Lagriell Krisheim!"[@lagriell-krisheim.fm20-camp] |
 | DanMachi 20 (the centipede dragon) | "Lullaby of wind, cradle of flowers!", then the name.[@lagriell-krisheim.fm20-dragma] |
 
@@ -93,7 +94,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 
 #### Limits {#lagriell-krisheim-limits}
 
-- **Direct attacks:** it has no way to stop direct physical and magic attacks; when the dragon gives up its breath and dives to bite, Nina can do nothing.[@lagriell-krisheim.fm19-effect]
+- **Direct attacks:** it is a ward, not a barrier, so it has no way to stop direct physical and magic attacks; when the dragon gives up its breath and dives to bite, Nina can do nothing.[@lagriell-krisheim.fm19-effect]
 - **Strain:** holding the field drains her. She sinks to her knees against the miasma and, exhausted, calls [[bell-cranell|Bell]] by his cover name.[@lagriell-krisheim.fm20-dragma] At the camp she falls asleep as soon as she is persuaded to rest.[@lagriell-krisheim.fm20-camp]
 
 {{nocite}} Notable uses and open questions for Lagriell Krisheim are on the combined page: [[magic#lagriell-krisheim|Magic § Lagriell Krisheim]].
@@ -124,7 +125,8 @@ In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she ar
 [@magia-kreis.fm20-twenty]: FM20 | Chapter 1: Orario Rumble | Twenty minutes at Level 2.
 [@magia-kreis.fm20-later]: FM20 | Chapter 4: The Knight’s Afterglow | Magia Kreis in the later fighting.
 [@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice). The Japanese chant's first noun means holy ring, not stem.
-[@lagriell-krisheim.fm19-cast]: FM19 | | "Bloom, second sacred mount—"; "—My name is Alf!"; the field of white flowers; the spell she had just learned.
-[@lagriell-krisheim.fm19-effect]: FM19 | | "A rare magic"; cleanses every debuff; prevents curses and psychological attacks; continuous healing; no defence against direct attacks.
+[@lagriell-krisheim.fm19-cast]: FM19 | | "Bloom, second sacred mount—"; "—My name is Alf!"; the field of white flowers. The Japanese edition (file part0025, paragraphs 1228–1229) has her chant on the run, imitating the Concurrent Casting she had only just been taught.
+[@lagriell-krisheim.fm19-effect]: FM19 | | "A rare magic"; cleanses every debuff; prevents curses and psychological attacks; continuous healing; no defence against direct attacks. The Japanese edition (file part0027, paragraphs 4–19) calls it a ward and says it cannot stop direct attacks and magic because it is not a barrier.
 [@lagriell-krisheim.fm20-camp]: FM20 | Chapter 3: The World, The Festival, and Reality | "My name is Alf—Lagriell Krisheim!"; the camp in the black wasteland.
 [@lagriell-krisheim.fm20-dragma]: FM20 | Chapter 4: The Knight’s Afterglow | "Nina, cast Krisheim!"; "Lullaby of wind, cradle of flowers!"; dragma; the strain.
+[@fm19-nina-ja]: FM19 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

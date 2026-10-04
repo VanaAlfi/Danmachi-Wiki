@@ -14,7 +14,8 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Country"},
-      {"label": "Called", "value": "The magic country; the nation of magic", "refs": ["fc02-power", "so13-destinations"]},
+      {"label": "Japanese", "value": "{{ja|アルテナ}}", "refs": ["fm19-altena-ja"]},
+      {"label": "Called", "value": "The magic country; the nation of magic ({{ja|魔導大国}}, written *great nation of magic*)", "refs": ["fc02-power", "so13-destinations", "fm19-altena-ja"]},
       {"label": "Standing", "value": "A major global power alongside Orario", "refs": ["fc02-power"]},
       {"label": "Belief", "value": "The supremacy of magic: \"Magic is everything\"", "refs": ["fc02-belief"]},
       {"label": "Products", "value": "Desert ships, magic gauges, magic stones, wine", "refs": ["fc02-power", "fm19-gauges", "fc03-stones", "fc01-wine"]}
@@ -31,12 +32,12 @@ Altena believes fundamentally in the supremacy of magic: it is elitist towards m
 ## Trade and products
 
 - **Desert ships.** Altena makes the world's first desert-sailing ships, giant magic items produced by dozens of mages, and has recently begun selling them in the [[kaios-desert|Kaios Desert]]. The one Freya rides is driven by magic power drawn from over thirty slaves held below deck, and Bofman calls controlling a ship with magic "rather fitting for Altena".[@fc02-power, fc02-ship] Because a desert ship cannot run without magic power, it is not for the masses, but it could open a new kind of trade in the desert; Altena and the other countries of the Continent do not want Orario to have a monopoly on good ideas.[@fc02-monopoly] By Minor Myths and Legends 2 the nations of the Kaios depend more and more on trade with Altena.[@ss02-trade]
-- **Magic gauges and stones.** In DanMachi 19 a workshop full of flasks holds magic gauges imported from Altena, and its occupant means to make "something that equals Altena’s underground palace".[@fm19-gauges] In Familia Chronicle 3 Cecille uses Altena-made magic stones, ground into a fine powder, as a catalyst for an elf's magic.[@fc03-stones] The [[school-district|School District]]'s Alchemy Department made a magical projector in collaboration with Altena.[@fm19-projector]
+- **Magic gauges and stones.** In DanMachi 19 a workshop full of flasks holds magic gauges made with Altena's technology, and its occupant means to make "something that equals Altena’s underground palace".[@fm19-gauges] In Familia Chronicle 3 Cecille uses Altena-made magic stones, ground into a fine powder, as a catalyst for an elf's magic.[@fc03-stones] The [[school-district|School District]]'s Alchemy Department made a magical projector in collaboration with Altena.[@fm19-projector]
 - **Wine.** At El Dorado's Grand Casino a guest orders "A thirty-year-old Altena wine" as a card signal.[@fc01-wine]
 
 ## Altena and the School District
 
-The School District's students recall a time "When Altena demanded our magic items", one of the unreasonable demands they fought back against.[@fm20-demand] In DanMachi 20, when the School District threatens to leave Orario's port without a new deal, the city of Altena eagerly announces that it would welcome the School District with open arms.[@fm20-welcome] Altena is one of the destinations where students leave the ship as graduates; one student, Nassen, wants to be a researcher there.[@so13-destinations, so13-nassen] Among the rumours about [[lefiya|Lefiya]] that reach the School District is one that "Altena was targeting you out of jealousy".[@so13-rumour]
+The School District's students recall a time "When Altena demanded our magic items", one of the unreasonable demands they fought back against.[@fm20-demand] In DanMachi 20, when the School District threatens to leave Orario's port without a new deal, Altena, the great magic nation, eagerly announces that it would welcome the School District with open arms.[@fm20-welcome] Altena is one of the destinations where students leave the ship as graduates; one student, Nassen, wants to be a researcher there.[@so13-destinations, so13-nassen] Among the rumours about [[lefiya|Lefiya]] that reach the School District is one that "Altena was targeting you out of jealousy".[@so13-rumour]
 
 [@fc01-wine]: FC01 | Crush the Grand Casino! | "A ­thirty-­year-­old Altena wine, please."
 [@fc02-power]: FC02 | Ali and the 8 Followers | "Was this ship made in Altena?"; "Alongside Orario, the magic country of Altena was considered another major global power"; "Produced from the dedicated work of dozens of mages, it was the world’s first desert-sailing ship."
@@ -46,11 +47,12 @@ The School District's students recall a time "When Altena demanded our magic ite
 [@fc03-lyana]: FC03 | The Locus of Stars | "About the human wandering mage, Lyana Lietz, who originally came from the distant magical land of Altena."
 [@fc03-stones]: FC03 | The Locus of Stars | "Cecille decided to use Altena-made magic stones ground into a fine powder".
 [@fm19-careers]: FM19 | Chapter 3: School Life in Another World | "Imperial knights, Dizaran marines, court mages of Altena…and adventurers in Orario."
-[@fm19-gauges]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "magic gauges imported from Altena and a massive number of flasks"; "I’ll make something that equals Altena’s underground palace."
+[@fm19-gauges]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "I’ll make something that equals Altena’s underground palace." The Japanese edition (file part0023, paragraph 119) calls them magic gauges made with Altena's technology.
 [@fm19-projector]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "a magical projector that the School District’s Alchemy Department made in collaboration with Altena".
 [@fm20-demand]: FM20 | Chapter 1: Orario Rumble | "When Altena demanded our magic items, or Dizara tried to occupy the Hringhorni"; "whenever the School District meets unreasonable demands in any land".
-[@fm20-welcome]: FM20 | Chapter 2: Lion and then Sword Princess | "the city of Altena eagerly announced that they would happily welcome the School District with open arms".
+[@fm20-welcome]: FM20 | Chapter 2: Lion and then Sword Princess | Altena's welcome. The Japanese edition (file J12, paragraph 81) names the great magic nation of Altena.
 [@so13-destinations]: SO13 | Fairy Canon: 1 | "the nation of magic, Altena"; destinations of graduating students.
 [@so13-nassen]: SO13 | Fairy Canon: 1 | "Nassen wants to be a researcher in Altena…"
 [@so13-rumour]: SO13 | Chapter 2: Nostalgic Schoolhouse | "There was one about how Altena was targeting you out of jealousy!"
 [@ss02-trade]: SS02 | Mirage in a Sea of Sand | "The nations of Kaios have become increasingly dependent on trade with Altena in recent years, such as for the construction of the desert ships."
+[@fm19-altena-ja]: FM19 | | The Japanese edition prints the name in katakana and also writes it in kanji meaning great nation of magic, with the reading Altena; the infobox gives both.

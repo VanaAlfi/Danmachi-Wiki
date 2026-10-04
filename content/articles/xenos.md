@@ -18,6 +18,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monsters"},
+      {"label": "Japanese", "value": "{{ja|異端児}}, written *heretic children*", "refs": ["fm10-xenos-ja"]},
       {"label": "Nature", "value": "Intelligent monsters with will and emotion", "refs": ["fm09-xenos"]},
       {"label": "Number", "value": "About forty in DanMachi 9", "refs": ["fm09-xenos"]},
       {"label": "Leader", "value": "Lido, a lizardman", "refs": ["fm09-lido"]},
@@ -51,7 +52,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | Orde | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
 | Foh | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
 | Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
-| Gryuu | A dragon who led the Xenos before Lido: "his dragon body can’t move like it used to" (DanMachi 9). DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[monsters#mermaid|Mari]].[@fm09-gryuu, fm14-gryu] |
+| Gryuu | A dragon who led the Xenos before Lido: "his dragon body can’t move like it used to" (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[monsters#mermaid|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
 
 ## Ranieh {#ranieh}
 
@@ -59,7 +60,7 @@ Ranieh is an arachne: she has the upper body of a woman and the many legs of a s
 
 In DanMachi 10 Ranieh leads a party of six, among them Wiene and the harpy Fia, through the Dungeon.[@fm10-ranieh] When Wiene hears cries for help, Ranieh leads them to a crucified [[monsters#siren|siren]]. She ignores [[gros|Gros]], who warns her through a paired crystal that it may be a trap, and the party is ambushed by [[ikelos-familia|Ikelos Familia]]'s hunters.[@fm10-trap] With both arms and all her legs broken, she is captured. When the hunters move to abuse her, she spits acid onto three of them, and as they stab her she tears out her own magic stone and crushes it, crying "I’d never let you have it!!"[@fm10-death]
 
-Gros, who saw her death through the crystal, calls on the Xenos to avenge "Ranieh, Orde, Cliff, and Foh".[@fm10-revenge] One of the hunters she burned takes refuge in [[rivira|Rivira]], and the smell of her acid leads the Xenos there; the narration says "That was her goal all along."[@fm10-acid] Minor Myths and Legends 1 shows her earlier in the Hidden Village on the twentieth floor, offering to teach the newly arrived, weeping Wiene "how things work around here", to Lido's alarm.[@ss01-ranieh]
+Gros, who saw her death through the crystal, calls on the Xenos to avenge Ranieh and the others.[@fm10-revenge] One of the hunters she burned takes refuge in [[rivira|Rivira]], and the scent of her venom, left behind like a thread, leads the Xenos there.[@fm10-acid] Minor Myths and Legends 1 shows her earlier in the Hidden Village on the twentieth floor, offering to teach the newly arrived, weeping Wiene "how things work around here", to Lido's alarm.[@ss01-ranieh]
 
 ## Fia {#fia}
 
@@ -106,8 +107,8 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm10-hatred]: FM10 | Chapter 7: The King of Atrocity | "Ranieh was part of the group of Xenos that detested the people who lived on the surface."; "Nothing of their cruelty, their cunning."
 [@fm10-trap]: FM10 | Chapter 7: The King of Atrocity | "A-a voice……"; "Wait, Ranieh. Do nothing until we arrive."; "It could be a trap"; "It was a lone siren, both her wings nailed in place with steel stakes."
 [@fm10-death]: FM10 | Chapter 7: The King of Atrocity | "Both arms and all spider legs broken"; "She opened her jaws wide and spat some fluid onto the three men"; "Ranieh’s was highly acidic"; "Even…if I die—I’d never let you have it!!"; "the magic stone shattered".
-[@fm10-revenge]: FM10 | Chapter 7: The King of Atrocity | "He shared a set of twin crystals with Ranieh."; "Revenge for Ranieh, Orde, Cliff, and Foh!!"
-[@fm10-acid]: FM10 | Chapter 9: Dreams of Beasts | "You reek of arachne acid!!"; "That was her goal all along."
+[@fm10-revenge]: FM10 | Chapter 7: The King of Atrocity | "He shared a set of twin crystals with Ranieh.". The Japanese edition (file cUX, paragraph 616) has Gros cry to avenge Ranieh and the others and take back their brethren.
+[@fm10-acid]: FM10 | Chapter 9: Dreams of Beasts | "You reek of arachne acid!!". The Japanese edition (file c3E7, paragraph 19) says the Xenos' target was the scent of venom the arachne left like a thread.
 [@ss01-ranieh]: SS01 | | "Allow me to teach her how things work around here."; "Ranieh, you stay back! You want to scare her off already?!"
 [@fm10-fia]: FM10 | Chapter 7: The King of Atrocity | "The harpy named Fia"; "deep-red hair"; "much more interested in the surface and its inhabitants than anyone else".
 [@fm10-captured]: FM10 | Chapter 7: The King of Atrocity | "Ranieh’s band has been slaughtered; Wiene and Fia, captured."
@@ -123,5 +124,7 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm10-flight]: FM10 | Chapter 9: Dreams of Beasts | Fels: "Lett, Fia, can you escape from here?"; "Airborne but unsteady, the red-cap took hold of one of her legs."; "passing over their crazed brethren".
 [@fm12-norms]: FM12 | | Printed heading "Chapter 5: Bride of the Water Capital" (not in the evidence map): "Both are uglier than old crones"; "how far Rei and Fia have deviated from the norms of their race".
 [@fm14-costumes]: FM14 | Chapter 8: The Voice of the Hammer | "They had done it all to rescue Hestia Familia"; "If an outsider had seen Lett and Fia in their costumes, they wouldn’t have been the least bit suspicious".
-[@so12-fia]: SO12 | Chapter 5: Final War | "Fia the harpy and Lett the red-cap spoke in fluent Koine, comments tinged with fear."
+[@so12-fia]: SO12 | Chapter 5: Final War | "Fia the harpy and Lett the red-cap spoke in fluent Koine, comments tinged with fear." The Japanese edition (file c2DW, paragraph 355) says fluent human speech.
 [@ss01-fia]: SS01 | | Printed heading "Monstrous Longing, and a Sage’s Enlightenment" (not in the evidence map): "even Fia and Aruru will get to Bell before you!"
+[@fm10-xenos-ja]: FM10 | | The Japanese edition writes the name in kanji meaning heretic children, with the reading Xenos; the infobox gives the kanji.
+[@fm14-gryu-ja]: FM14 | | The Japanese edition writes his name as the reading of the kanji for wood dragon, the word Sword Oratoria 14's Japanese reads as green dragon; DanMachi 9's Japanese writes it the same way.

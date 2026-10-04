@@ -25,15 +25,15 @@
   }
 }
 ---
-A **Killing Stone**, also called **Sesshouseki**, is a forbidden magic item created by synthesising a tamamo stone with a toba stone.[@fm07-asfi] Its use seals a [[races#renart|renart]]'s soul inside it, so that renart sorcery can be passed to other races, while the renart is left a soulless shell.[@fm07-soul] In DanMachi 7 [[ishtar|Ishtar]] Familia prepares to use one on [[haruhime|Haruhime]], and [[bell-cranell|Bell Cranell]] shatters it before the ritual is complete.[@fm07-plan, fm07-shattered]
+A **Killing Stone**, also called **Sesshouseki**, is a forbidden magic item created by synthesising a tamamo stone with a toba stone.[@fm07-asfi] Its use seals a [[races#renart|renart]]'s soul inside it, so that others can use renart sorcery, while the renart is left a soulless shell.[@fm07-soul] In DanMachi 7 [[ishtar|Ishtar]] Familia prepares to use one on [[haruhime|Haruhime]], and [[bell-cranell|Bell Cranell]] shatters it before the ritual is complete.[@fm07-plan, fm07-shattered]
 
 ## What it is made of
 
 {{statement}} The explanation comes from gods and adventurers discussing the stone after [[hermes|Hermes]] admits he delivered one to Ishtar.[@fm07-asfi]
 
 - **Tamamo stone.** [[asfi|Asfi]] names it as one ingredient. Asked where the material comes from, Hermes answers: "From the ashes of a renart." [[takemikazuchi|Takemikazuchi]] says its original purpose was to strengthen a renart's own sorcery.[@fm07-asfi]
-- **Toba stone.** [[lilliluka-erde|Lilly]] identifies it as *lunatic light*. [[welf-crozzo|Welf]] describes an ore that gains magical attributes and glows different colours under the moon, used by some smiths; Takemikazuchi adds that it is almost never used in [[orario|Orario]], since there is no moonlight in the Dungeon.[@fm07-toba]
-- **Synthesis.** Toba stones are most effective under a full moon; a toba stone synthesised with a tamamo stone at full power makes a Killing Stone.[@fm07-toba]
+- **Toba stone.** [[lilliluka-erde|Lilly]] identifies it as *lunatic light*. [[welf-crozzo|Welf]] describes an ore that gains magical attributes and glows different colours under the moon, used by some smiths; Takemikazuchi adds that it is not on the market in [[orario|Orario]], since there is no moonlight in the Dungeon.[@fm07-toba]
+- **The full moon.** At the full moon the Killing Stone, its two stones already fused, turns into a devil's stone.[@fm07-toba]
 
 Hermes remarks that, surprisingly, Killing Stones were created by renarts themselves.[@fm07-soul] Who made the stone Ishtar received is not stated.
 
@@ -41,7 +41,7 @@ Hermes remarks that, surprisingly, Killing Stones were created by renarts themse
 
 {{statement}} As Asfi, Hermes and Takemikazuchi explain it:[@fm07-soul, fm07-shards]
 
-- The renart's magical power, "no, soul", is sealed in the stone. If everything is set up right, their sorcery can then be used by another; Hermes calls it "basically a [[magic-sword|magic sword]] that doesn't break". The price is that the renart becomes a soulless shell, alive but not among the living, which is why the stones are forbidden.[@fm07-soul]
+- The renart's magical power, "no, soul", is sealed in the stone. If everything is set up right, their sorcery can then be used by another; Hermes calls it a magic item no less than a [[magic-sword|magic sword]]. The price is that the renart becomes a soulless shell, alive but not among the living, which is why the stones are forbidden.[@fm07-soul]
 - A whole stone cannot release all its energy, so Killing Stones are shattered. Each shard can unleash as much sorcery as the original, without trigger spells.[@fm07-shards]
 - If the stone is returned to the renart, they awaken and can live normally, provided their body was not harmed while their soul was absent. If a shard is lost or broken, they will never be normal again, even if every other piece is returned.[@fm07-shards]
 - {{statement}} Aisha later says that a smashed Killing Stone allows only a single power to be used.[@fm12-aisha]
@@ -56,7 +56,7 @@ Ishtar intended to seal Haruhime's soul in a Killing Stone, break it into pieces
 
 ### The first stone
 
-[[aisha-belka|Aisha]] destroyed [[ishtar-familia|Ishtar Familia]]'s first Killing Stone. [[phryne-jamil|Phryne]] "disciplined" her brutally and dragged her before Ishtar; afterwards the younger Amazons Aisha looked after were kept under threat, which the narration calls Ishtar's punishment.[@fm07-aisha] The brothel built as the stage for the ritual had been ready three years before DanMachi 7, when the stone, which had taken years to acquire, was destroyed.[@fm07-garden]
+[[aisha-belka|Aisha]] destroyed [[ishtar-familia|Ishtar Familia]]'s first Killing Stone. [[phryne-jamil|Phryne]] "disciplined" her brutally and dragged her before Ishtar; afterwards the younger Amazons Aisha looked after were kept under threat, which the narration calls Ishtar's punishment.[@fm07-aisha] The annex built as the stage for the ritual was begun five years before DanMachi 7 and had stood idle since a prostitute destroyed the stone, which was hard to obtain, three years before.[@fm07-garden]
 
 ### The second stone
 
@@ -64,7 +64,7 @@ Hermes tells Bell that on the night they met in [[pleasure-quarter|the Pleasure 
 
 For the ritual, the Floating Garden and its altar were built to strengthen the stone: used alone, it risked splitting the soul. Under the full moon, the stone, a fist-sized blood-red crystal set on the hilt of a ceremonial longsword, was to be driven into Haruhime so that her soul would cross into it.[@fm07-garden-altar, fm07-sword]
 
-As the longsword is raised, Bell leaps over the guard and shatters the stone with the tip of the [[hestia-knife|Hestia Knife]], and the altar's red light fades.[@fm07-shattered] The Amazons' years of preparation are ruined, but Bell knows that Ishtar Familia could obtain another stone; he has only reset the situation.[@fm07-reset]
+As the longsword is raised, Bell leaps over the guard; his [[hestia-knife|Hestia Knife]]'s slash grazes the stone and the impact alone shatters it, and the altar's red light fades.[@fm07-shattered] The Amazons' years of preparation are ruined, but Bell knows that Ishtar Familia could obtain another stone; he has only reset the situation.[@fm07-reset]
 
 ## Afterwards
 
@@ -83,15 +83,15 @@ As the longsword is raised, Bell leaps over the guard and shatters the stone wit
 [@fm07-delivery]: FM07 | Chapter 4: Yoshiwara x Utakata | Hermes: "I delivered an item called a Killing Stone."
 [@fm07-papers]: FM07 | Chapter 5: Killing Stone | Ritual papers: delivery by Hermes Familia.
 [@fm07-asfi]: FM07 | Chapter 5: Killing Stone | Sesshouseki; tamamo and toba stones; renart ashes; original purpose.
-[@fm07-toba]: FM07 | Chapter 5: Killing Stone | Lunatic light; moonlight; synthesis at the full moon.
-[@fm07-soul]: FM07 | Chapter 5: Killing Stone | Soul sealed; sorcery passed on; soulless shell; made by renarts.
+[@fm07-toba]: FM07 | Chapter 5: Killing Stone | Lunatic light; moonlight; the full moon. The Japanese edition (file c6NY, paragraphs 10–11) says lunatic light is not on the market in Orario and that at the full moon the fused Killing Stone turns into a devil's stone.
+[@fm07-soul]: FM07 | Chapter 5: Killing Stone | Soul sealed; sorcery passed on; soulless shell; made by renarts. The Japanese edition (file c6NY, paragraphs 15 and 20) says it lets a third party use renart sorcery and calls it a magic item no less than a magic sword.
 [@fm07-shards]: FM07 | Chapter 5: Killing Stone | Stones shatter; shards need no trigger spells; returning the stone; "morality stone".
 [@fm07-plan]: FM07 | Chapter 5: Killing Stone | Ishtar's plan against Freya Familia.
 [@fm07-aisha]: FM07 | Chapter 6: Yearning of a Hero | Aisha destroyed the first stone and was punished.
-[@fm07-garden]: FM07 | Chapter 6: Yearning of a Hero | The ritual stage, ready three years earlier.
+[@fm07-garden]: FM07 | Chapter 6: Yearning of a Hero | The ritual stage, begun five years earlier. The Japanese edition (file c8AX, paragraph 4) says building began five years before, the stone was hard to obtain, and the annex stood idle after a prostitute destroyed it three years before.
 [@fm07-garden-altar]: FM07 | Chapter 6: Yearning of a Hero | The garden and altar strengthen the stone.
 [@fm07-sword]: FM07 | Chapter 6: Yearning of a Hero | The blood-red crystal on the ceremonial longsword.
-[@fm07-shattered]: FM07 | Chapter 6: Yearning of a Hero | Bell shatters the stone with the Hestia Knife.
+[@fm07-shattered]: FM07 | Chapter 6: Yearning of a Hero | Bell's slash shatters the stone. The Japanese edition (file c8AX, paragraphs 595–596) says the slash grazed the stone and the impact alone smashed it.
 [@fm07-reset]: FM07 | Chapter 6: Yearning of a Hero | Ishtar Familia could obtain a new stone.
 [@fm10-aisha]: FM10 | Chapter 8: City Panic | Aisha joined Hermes Familia to hear if "a certain stone" arrived.
 [@fm12-aisha]: FM12 | Chapter 2: Adventure Intermission | A smashed Killing Stone allows only one power.

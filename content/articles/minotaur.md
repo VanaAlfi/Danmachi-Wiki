@@ -44,7 +44,7 @@ The last of them reaches the lower fifth floor, where it corners Bell, then a ne
 
 On the ninth floor, the trained Minotaur confronts Bell and Lilly.[@fm03-ninth] Bell's Firebolt cannot wound its body, and his short sword only scratches it.[@fm03-ninth, fm03-fight] The Minotaur has been trained to use its great sword and is wary of the [[hestia-knife|Hestia Knife]] (the Yen Press text says it "had been trained very well", while in the Japanese Bell finds its movements crude).[@fm03-fight, fm03-ja-fight] Bell cuts through its right wrist with the knife, so that its hand flies off with the sword (the Yen Press text has him kick the flat of the cleaver), catches the sword and fights it with the sword, and at the end drives the Hestia Knife into its body and fires Firebolt after Firebolt through the blade until its upper body bursts apart.[@fm03-fight, fm03-ja-fight, fm03-death]
 
-The victory makes Bell Level 2 in just over a month, by far the fastest Level Up on record. The town wonders how a Level 1 could kill a Level 2 monster such as a Minotaur, and some say he was simply lucky.[@fm04-record, fm05-luck] At [[denatus|Denatus]], Freya says that Ottar has been "dueling Minotaur after Minotaur for fun" in the middle levels.[@fm04-freya]
+The victory makes Bell Level 2 in just over a month, by far the fastest Level Up on record. The town wonders how a Level 1 could kill a Level 2 monster such as a Minotaur, and some say he was simply lucky.[@fm04-record, fm05-luck] At [[denatus|Denatus]], [[ishtar|Ishtar]] taunts [[freya|Freya]] that one of her followers has been "dueling Minotaur after Minotaur for fun" in the middle levels.[@fm04-freya]
 
 ## Later encounters
 
@@ -54,7 +54,7 @@ The victory makes Bell Level 2 in just over a month, by far the fastest Level Up
 | DanMachi 10 | A black minotaur appears in the Dungeon, a monster that [[asfi|Asfi]], for all her knowledge, has never heard of. It is [[asterios|Asterios]], one of the [[xenos|Xenos]], described on his own page.[@fm10-black] |
 | DanMachi 19 | Bell's School District squad meets three Minotaurs, its first, and Bell kills them.[@fm19-minotaurs] Earlier in the volume Eina remarks that only half a year ago he was being chased by one on the fifth floor.[@fm19-memory] |
 
-Bell's Skill [[skills#ox-slayer|Ox Slayer]], which appears on his Level 4 card in DanMachi 12, enhances all his abilities "exponentially" when he fights minotaurs; the narration ties it to his struggle with "his old adversary".[@fm12-oxslayer]
+Bell's Skill [[skills#ox-slayer|Ox Slayer]], which appears on his Level 4 card in DanMachi 12, greatly raises all his abilities when he fights the fierce-bull type, minotaurs among them; the narration ties it to his struggle with "his old adversary".[@fm12-oxslayer]
 
 ## Open questions
 
@@ -80,10 +80,10 @@ Bell's Skill [[skills#ox-slayer|Ox Slayer]], which appears on his Level 4 card i
 [@fm04-horn]: FM04 | Chapter 2: Changing Environment, New Relationships | Lilly kept the horn that remained, with the magic stone.
 [@fm04-split]: FM04 | Chapter 3: The Smith’s Situation | The horn split; the smaller half was forged into the dagger.
 [@fm04-record]: FM04 | Chapter 1: Denatus | "Reaching Level 2 in just over a month was by far and away the fastest level-up on record"; "a Level 1 adventurer managed to take down a Level 2 monster like a Minotaur".
-[@fm04-freya]: FM04 | Chapter 1: Denatus | Freya: "dueling Minotaur after Minotaur for fun".
+[@fm04-freya]: FM04 | Chapter 1: Denatus | Ishtar to Freya: "Just roaming around the middle levels, dueling Minotaur after Minotaur for fun, yes?" (the follower is unnamed: "one of your house"); Freya answers, "Hee-hee, you may be right."
 [@fm05-luck]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): "the only reason he defeated a Minotaur is that he was lucky enough to land this Magic attack".
 [@fm05-welf]: FM05 | Chapter 3: Dungeon Death March | "Welf was so overwhelmed by his first encounter with a Minotaur that he forgot to breathe."
 [@fm10-black]: FM10 | Chapter 9: Dreams of Beasts | "A black minotaur…?!"; "She’d never heard of anything like this."
-[@fm12-oxslayer]: FM12 | Chapter 1: Rabbit Close-Up | "Ox Slayer"; "When fighting minotaurs, all abilities are exponentially enhanced"; "a slayer-type skill"; "his old adversary".
+[@fm12-oxslayer]: FM12 | Chapter 1: Rabbit Close-Up | "Ox Slayer"; a super-high correction to all abilities against the fierce-bull type (the Japanese edition, file part0012, paragraphs 50 and 51); "a slayer-type skill"; "his old adversary".
 [@fm19-memory]: FM19 | Chapter 1: V-V-V for Victory Party | Eina: "only half a year ago you were being chased around by a minotaur on the fifth floor".
 [@fm19-minotaurs]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): "three minotaurs"; "their first encounter with minotaurs"; "swinging its massive nature weapon down"; Bell ends them.

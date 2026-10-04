@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm10-shakti", "fc03-shakti"]},
-      {"label": "Height", "value": "170 celch", "refs": ["fm10-shakti"]},
+      {"label": "Height", "value": "Easily over 170 celch", "refs": ["fm10-shakti"]},
       {"label": "Hair", "value": "Blue (printed bluish, indigo and azure)", "refs": ["fm10-shakti", "fm11-recovery", "fc01-casino"]},
       {"label": "Sister", "value": "Ardee Varma (printed Adi in DanMachi 14 and Familia Chronicle 3), died in the dark age", "refs": ["ar01-ardee", "fm14-adi", "fc03-shakti"]},
       {"section": "Adventurer"},
@@ -31,11 +31,11 @@
 
 ## Appearance and character
 
-Shakti is tall, at 170 celch, with blue hair cut precisely at the nape of her neck; DanMachi 10 calls her a ravishing beauty with an intelligent poise.[@fm10-shakti] The colour is printed "bluish", "indigo" and "azure" in different volumes.[@fm10-shakti, fm11-recovery, fc01-casino] Her younger sister thought her strict and stern.[@fc03-adi] Her faith in her god sets the tone for the Familia: "We serve the Lord of the Masses, Ganesha," she tells her restless officers.[@fm10-faith] The first-tier Amazon [[ilta-faana|Ilta Faana]] calls her "sister" and defers to her.[@fm10-shakti] Shakti and Ardee once caught and punished Ilta, who had been one of the city's most lawless newcomers.[@fm18-ilta]
+Shakti is tall, easily over 170 celch, with blue hair cut precisely at the nape of her neck; DanMachi 10 calls her a ravishing beauty with an intelligent poise.[@fm10-shakti] The colour is printed "bluish", "indigo" and "azure" in different volumes.[@fm10-shakti, fm11-recovery, fc01-casino] Her younger sister thought her strict and stern.[@fc03-adi] Her faith in her god sets the tone for the Familia: "We serve the Lord of the Masses, Ganesha," she tells her restless officers.[@fm10-faith] The first-tier Amazon [[ilta-faana|Ilta Faana]] calls her "sister" and defers to her.[@fm10-shakti] Shakti and Ardee once caught and punished Ilta, who had been one of the city's most lawless newcomers.[@fm18-ilta]
 
 ## The dark age
 
-In Astrea Record 1, set in Orario's dark age, Shakti leads Ganesha Familia against the Evils and is a bosom friend of Astrea Familia's captain, [[alize-lovell|Alize]].[@ar01-alize] She and Ardee raid a black-market church, where a hooded woman, later revealed as [[alfia|Alfia]], has already knocked out the Evils inside; with one spell she throws more than twenty of Shakti's fighters, Shakti included, against the wall.[@ar01-church] At the council of Familia leaders Shakti reports the unknown woman who beat about thirty trained warriors, herself among them.[@ar01-council]
+In Astrea Record 1, set in Orario's dark age, Shakti leads Ganesha Familia against the Evils and is a sworn ally of Astrea Familia's captain, [[alize-lovell|Alize]].[@ar01-alize] She and Ardee raid a black-market church, where a hooded woman, later revealed as [[alfia|Alfia]], has already knocked out the Evils inside; with one spell she throws more than twenty of Shakti's fighters, Shakti included, against the wall.[@ar01-church] At the council of Familia leaders Shakti reports the unknown woman who beat about thirty trained warriors, herself among them.[@ar01-council]
 
 Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level 4, fights the Level 5 Valletta alongside Alize, using teamwork against her higher Status.[@ar01-valletta] During the fight a little girl in Evils robes attacks Ardee. Ardee lowers her sword to save her, and the girl sets off a bomb concealed on her body. Valletta crows that the god [[thanatos|Thanatos]] tricked the child into it with a promise of seeing her parents again. Nothing is left of Ardee to bury but her sword.[@ar01-ardee] Bloodied and dazed, Shakti carries the screaming Lyu out of the collapsing building.[@ar01-rescue]
 
@@ -63,11 +63,11 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Her current Level; the main series calls her first-tier without giving a number.[@fm10-shakti]
 
-[@fm10-shakti]: FM10 | Chapter 8: City Panic | "The head of Ganesha Familia, Shakti Varma"; bluish hair; 170 celch; metal boots and brass knuckles; "Ganesha’s Cane, Ankusha"; a first-tier human adventurer; Ilta calls her sister.
+[@fm10-shakti]: FM10 | Chapter 8: City Panic | "The head of Ganesha Familia, Shakti Varma"; bluish hair; easily over 170 celch; metal boots and brass knuckles; "Ganesha’s Cane, Ankusha"; a first-tier human adventurer; Ilta calls her sister. The Japanese edition (file c2BU, paragraph 518) says easily over 170 celch.
 [@fm10-faith]: FM10 | Chapter 8: City Panic | "We serve the Lord of the Masses, Ganesha."
 [@fm10-subjugation]: FM10 | Chapter 9: Dreams of Beasts | Taming whips passed to Shakti; a troll sent flying with a punch; her whip.
 [@fm10-asterios]: FM10 | Chapter 9: Dreams of Beasts | WHAM; Shakti against the tree; facedown and motionless.
-[@fm10-asterios-view]: FM10 | Chapter 10: The Fool | Lido, fighting Tione: excluding Ganesha Familia's elite, Shakti and Dix, he could handily dispatch any foot soldier.
+[@fm10-asterios-view]: FM10 | Chapter 10: The Fool | Lido, fighting Tione, excepts only Shakti among those he could handily dispatch; the Japanese edition (file c7C6, paragraph 123) counts Ganesha Familia's other first-tier adventurers and Dix among them.
 [@fm11-recovery]: FM11 | | Indigo-haired; seriously injured on the mission to the eighteenth floor; told about the Xenos; the Guild ordered her to tame the monsters; "Fierce anger, and also sympathy".
 [@fm14-adi]: FM14 | Special Chapter: Recollection of Justice | "Why did Shakti’s younger sister, Adi, die?"
 [@fm18-ilta]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Ilta's protest; Shakti and her sister caught and punished Ilta; politics; the preparations for the war game.
@@ -78,7 +78,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 [@fc01-casino]: FC01 | Crush the Grand Casino! | Azure hair; friends from the Dark Age; one of very few who knew Lyu's face and that she was alive; the vial slipped into her hand.
 [@fc03-shakti]: FC03 | The Locus of Stars | "Shakti Varma, who had overlooked her trespass"; "a human Lyu respected"; her younger sister Adi Varma.
 [@fc03-adi]: FC03 | Girl in Twilight | "Her older sister, Shakti, was strict and stern".
-[@ar01-alize]: AR01 | Chapter 1: Astrea Familia | "Shakti Varma, the captain of Ganesha Familia"; bosom friends with Alize.
+[@ar01-alize]: AR01 | Chapter 1: Astrea Familia | "Shakti Varma, the captain of Ganesha Familia"; sworn allies with Alize. The Japanese edition (file cGA, paragraph 66) says they could fairly be called sworn allies.
 [@ar01-church]: AR01 | | The church raid; the hooded woman's spell; Shakti rises using her spear.
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | The woman who defeated "around thirty trained warriors, including me".
 [@ar01-valletta]: AR01 | Chapter 8: Sound of Life | Valletta the sole Level 5; her foes Levels 4 and 3, Shakti and Alize.

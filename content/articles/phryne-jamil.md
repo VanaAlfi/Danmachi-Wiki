@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|フリュネ・ジャミール}}", "refs": ["fm07-phryne-ja"]},
       {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm07-waiting"]},
       {"label": "Height", "value": "At least two meders", "refs": ["fm07-waiting", "fm07-chase", "fm07-ottar"]},
       {"label": "Appearance", "value": "A toad-like face and croaking voice; a huge body with short limbs; short bobbed hair", "refs": ["fm07-waiting", "so06-proposal"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[ishtar-familia|Ishtar Familia]], captain", "refs": ["fm07-eina", "so06-proposal"]},
       {"label": "Level", "value": "5", "refs": ["fm07-eina", "so06-proposal"]},
-      {"label": "Title", "value": "Androctonus, the Man Slayer", "refs": ["fm07-eina", "so06-duels"]},
+      {"label": "Title", "value": "Androctonus, the Man Slayer ({{ja|男殺し}}, written *man killer*)", "refs": ["fm07-eina", "so06-duels", "fm07-phryne-ja"]},
       {"label": "Weapons", "value": "Great battle-axes, often one in each hand", "refs": ["fm07-axes", "so06-axes"]}
     ]
   }
@@ -30,7 +31,7 @@
 
 ## Appearance and character
 
-DanMachi 7 describes a massive Amazon at least two meders tall, with tiny, muscular limbs, a mushroom of black hair, a frog's face and a croaking voice; Sword Oratoria 6 also gives her strangely short limbs and short bobbed hair, and adds a large bust.[@fm07-waiting, fm07-chase, so06-proposal] [[aisha-belka|Aisha]] calls her "toad", and others call her "the toad" or "that frog".[@fm07-waiting, ar03-charge, so08-aisha] She is as fast as she is strong: Bell is shaken to see her dodge his Firebolt without warning, a speed that does not match her build.[@fm07-firebolt]
+DanMachi 7 describes a massive Amazon at least two meders tall, with tiny, muscular limbs, a mushroom of black hair, a frog's face and a croaking voice; Sword Oratoria 6 also gives her strangely short limbs and short bobbed hair, and adds a hugely thick torso.[@fm07-waiting, fm07-chase, so06-proposal] [[aisha-belka|Aisha]] calls her "toad", and others call her "the toad" or "that frog".[@fm07-waiting, ar03-charge, so08-aisha] She is as fast as she is strong: Bell is shaken to see her dodge his Firebolt without warning, a speed that does not match her build.[@fm07-firebolt]
 
 She believes herself the most beautiful woman alive. She tells Aisha that no other woman measures up, and that even Ishtar only "comes close".[@fm07-waiting] With men she is predatory. Ishtar's servant [[ishtar-familia#tammuz-berrilli|Tammuz]] says she forces aphrodisiac on any man she catches and leaves only "the empty shell of a man".[@fm07-aphrodisiac] She keeps a room of her own beyond a secret tunnel into [[daedalus-street|Daedalus Street]], which even Ishtar does not know about.[@fm07-room]
 
@@ -38,7 +39,7 @@ Within her Familia she rules by fear. After Aisha destroyed the first [[killing-
 
 ## Rivalry with Aiz
 
-Phryne hates Aiz, the record-breaker who overtook her in status, fame and strength, "the same way that Ishtar despised Freya".[@so06-duels] [[eina-tulle|Eina]] tells Bell that a few years before DanMachi 7, when Phryne still had the higher Level, she fought Aiz head-on and nearly beat her; Aiz has since passed her by reaching Level 6.[@fm07-eina] Sword Oratoria 6 counts three earlier duels:
+Phryne hates Aiz, the record-breaker who overtook her in status, fame and strength, "the same way that Ishtar despised Freya".[@so06-duels] [[eina-tulle|Eina]] tells Bell that many years before DanMachi 7, when Phryne still had the higher Level, Aiz nearly lost to her; Aiz has since passed her by reaching Level 6.[@fm07-eina] Sword Oratoria 6 counts three earlier duels:
 
 | Duel | Result |
 |---|---|
@@ -98,7 +99,7 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 
 [@fm07-waiting]: FM07 | Chapter 2: Run, Cranell | "she stands at least two meders tall"; "her tiny limbs"; the black hair like "a black mushroom"; "The massive blob of a woman—or rather, Amazon"; the croaking voice; "He’s my prey; get your own"; "Lady Ishtar comes close, but I’m out of her league"; "Read the writing on the wall, toad."
 [@fm07-chase]: FM07 | Chapter 2: Run, Cranell | Phryne drops from above; "All two meders of the massive woman"; the Amazons pile onto her.
-[@fm07-eina]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Eina: the Berbera's leader, "Androctonus, the Man Slayer"; "Phryne Jamil is a top-class adventurer at Level Five"; she once fought the Kenki head-to-head.
+[@fm07-eina]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Eina: the Berbera's leader, "Androctonus, the Man Slayer"; "Phryne Jamil is a top-class adventurer at Level Five"; Aiz once nearly lost to her. The Japanese edition (file c3DU, paragraph 210) says many years ago.
 [@fm07-feast]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "I forbid any of you to feast—especially Phryne."
 [@fm07-takes-bell]: FM07 | Chapter 5: Killing Stone | Phryne knocks the other Berbera unconscious and takes Bell out of the cargo box; the whole Familia searches.
 [@fm07-aphrodisiac]: FM07 | Chapter 5: Killing Stone | Tammuz: "Phryne forces an enormous amount of aphrodisiac down the throat of any man she catches."
@@ -119,7 +120,7 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 [@fm07-beaten]: FM07 | Chapter 7: Goddess War | Ottar catches her hand and ax handle; his punch sends her flying into the front garden.
 [@fm07-plea]: FM07 | Chapter 7: Goddess War | Allen, Hegni, Hedin and the Gulliver brothers surround her; "S-SPARE MEEEE!"; "Even that Freya looks ugly next to me!"; Ottar's fury.
 [@fm07-hotel]: FM07 | Epilogue: If Surrounded by Kindness… | "found that toad beaten to a pulp in the front garden"; shut up in the back room of a hotel.
-[@so06-proposal]: SO06 | Chapter 3: Kingdom of the Amazons | "A warm-up for the fight with Freya"; short limbs, large bust, short bobbed hair, toad-like profile; "Phryne Jamil, Ishtar Familia’s captain. At Level 5, she was the strongest in the familia."
+[@so06-proposal]: SO06 | Chapter 3: Kingdom of the Amazons | "A warm-up for the fight with Freya"; short limbs, a hugely thick torso, short bobbed hair, toad-like profile; "Phryne Jamil, Ishtar Familia’s captain. At Level 5, she was the strongest in the familia." The Japanese edition (file c2XS, paragraph 130) says a hugely thick torso.
 [@so06-armor]: SO06 | | The bag of vermilion armour brought from Orario; "Prepare yourselfffff, Haruhime!"
 [@so06-duels]: SO06 | Chapter 5: A Duo of Sun and Moon | "Androctonus, the Man Slayer"; three duels with Aiz; "The same way that Ishtar despised Freya, in fact."
 [@so06-boost]: SO06 | Chapter 5: A Duo of Sun and Moon | Tiny light particles drifting up from Phryne's face.
@@ -135,6 +136,7 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 [@ar03-charge]: AR03 | Chapter 5: Playing the Violence Card | "Whoa! It’s the toad!"; Aisha's sword, Phryne's charge and Samira's blows.
 [@fm09-lido]: FM09 | Chapter 5: Heretics | Bell suspects the lizardman's potential strength could exceed Phryne's.
 [@fm11-aiz]: FM11 | Chapter 5: Ultra Soul! | "She was stronger than Phryne and faster than Dix."
-[@fm14-amphisbaena]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | A band of Level 3 Berberas "and even more crucially, the Level 5 Phryne".
+[@fm14-amphisbaena]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Berbera of Level 3 and higher "and even more crucially, the Level 5 Phryne". The Japanese edition (file cAP, paragraph 109) says Berbera of Level 3 or higher.
 [@fm14-deep]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Even Phryne, a first-tier adventurer, was often wounded so badly she vomited blood."
 [@so10-aiz]: SO10 | Interlude: Their Respective Battles | "the first-tier adventurer Phryne Jamil, who’d attacked her when they had fought Ishtar Familia in Meren"; the light particles.
+[@fm07-phryne-ja]: FM07 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning man killer, with the reading Androctonus; the infobox gives the printed name and the kanji.

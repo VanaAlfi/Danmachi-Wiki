@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|アスフィ・アル・アンドロメダ}}", "refs": ["fm05-asfi-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm05-look"]},
       {"label": "Age", "value": "Fifteen in Astrea Record 2", "refs": ["ar02-falgar"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[hermes-familia|Hermes Familia]]", "refs": ["fm05-asfi"]},
       {"label": "Position", "value": "Vice-captain under Lydis; captain from Astrea Record 2", "refs": ["ar01-vice", "fm05-asfi", "fm05-ja-asfi", "ar02-captain"]},
       {"label": "Level", "value": "4", "refs": ["so03-level"]},
-      {"label": "Title", "value": "Jack-of-All-Trades, Perseus", "refs": ["fm05-asfi", "fm05-name"]},
+      {"label": "Title", "value": "Jack-of-All-Trades, Perseus ({{ja|万能者}}, written *one who can do anything*)", "refs": ["fm05-asfi", "fm05-name", "fm05-asfi-ja"]},
       {"label": "Also called", "value": "Andromeda", "refs": ["fm05-name", "fm05-decoy"]},
       {"label": "Development Ability", "value": "Enigma; fewer than five holders in Orario", "refs": ["fm05-asfi", "fm05-ja-enigma"]},
       {"label": "Items", "value": "Talaria (flight); [[hades-head|Hades Head]] (invisibility); Silence Lyra, as modified by her", "refs": ["fm08-talaria", "fm05-hades", "fm18-lyra"]}
@@ -36,15 +37,15 @@ DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes
 
 ## Background {#background}
 
-The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma (the Yen Press text says "the young queen of an island nation", who "used Enigma to create an item that made her dream come true").[@fm05-talaria] In DanMachi 8 [[ares#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
+The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma.[@fm05-talaria] In DanMachi 8 [[ares#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
 
-{{inference}} Since Enigma is Asfi's own ability, the two passages point to her royal birth; in the Japanese the narration and Marius both speak of a princess of a sea nation (Yen Press prints "queen" in DanMachi 5), and the checked text adds nothing more about her homeland.[@fm05-talaria, fm08-marius]
+{{inference}} Since Enigma is Asfi's own ability, the two passages point to her royal birth; the narration and Marius both speak of a princess of a sea nation, and the checked text adds nothing more about her homeland.[@fm05-talaria, fm08-marius]
 
 ## Hermes Familia
 
 In Astrea Record 1 Asfi is the Familia's vice-captain under [[hermes-familia#lydis|Lydis]], who leaves her "all the boring work"; the narration says she was forever "pushed around by the likes of Hermes, or the captain, or Hermes, or also Hermes".[@ar01-vice] Over lunch in Astrea Record 2, Lydis asks her to "take over as captain after I die", which Asfi takes for one of her tasteless jokes.[@ar02-lunch] On the night of the [[great-conflict|Great Conflict]] Lydis dies so that other adventurers can escape, and [[hermes|Hermes]] tells Asfi: "Lydis is dead" and "You’re the captain now."[@ar02-lunch, ar02-captain] At fifteen, "the same as Lyu", she stumbles at every turn and is kept from disaster only by [[falgar-batros|Falgar]]'s advice; yet "No one worked themselves to the bone more than Asfi."[@ar02-falgar]
 
-Hermes Familia works nominally as a delivery service, which lets it pass through checkpoints freely; the [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide] As captain she puts her party first: in the same volume, when [[lulune-louie|Lulune]] begs her to help Aiz, she refuses to waste time worrying about a top-class adventurer.[@so03-first]
+Hermes Familia works nominally as a delivery service, and the [[guild|Guild]] sends it outside the city to investigate black-market smuggling, which is one of the reasons it can pass through checkpoints freely.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide] As captain she puts her party first: in the same volume, when [[lulune-louie|Lulune]] begs her to help Aiz, she refuses to waste time worrying about a top-class adventurer.[@so03-first]
 
 In Sword Oratoria 3 several members of the Familia die in an operation on Floor 24.[@so03-losses]
 
@@ -58,7 +59,7 @@ Asfi and [[lyu-leon|Lyu]] were both fifteen in the dark age, and in Astrea Recor
 
 ## Items
 
-Perseus's items "were said to grant the user Magic and Skills through the power of" Enigma.[@fm05-hades] Her professional pride is real: in Sword Oratoria 11, after seeing [[fels|Fels]]'s [[oculus|oculus]], she says "As an item maker myself, I didn’t want to lose."[@so11-pride]
+Perseus's items are said to give powers on a par with Magic and Skills, through Enigma.[@fm05-hades] Her professional pride is real: in Sword Oratoria 11, after seeing [[fels|Fels]]'s [[oculus|oculus]], she says "As an item maker myself, I didn’t want to lose."[@so11-pride]
 
 - **[[equipment#talaria|Talaria]]** lets her fly; in DanMachi 8 she uses it to scout from the air.[@fm08-talaria] DanMachi 5 calls it "A high-level magic item reserved for Perseus herself".[@fm05-talaria] Its flight depends on the user's Status: in Sword Oratoria 12, as a pseudo-Level 5 under a Level Boost, she flies much faster than normal.[@so12-flight]
 - **[[hades-head|Hades Head]]** is her helmet of invisibility, "A magic item forged by the one and only Perseus".[@fm05-hades]
@@ -96,7 +97,7 @@ Perseus's items "were said to grant the user Magic and Skills through the power 
 [@fm05-oil]: FM05 | Chapter 6: Praise to the Heroes | Burst Oil leaves no mark on the Goliath's skin.
 [@so03-oil]: SO03 | Chapter 3: A Hideous Beauty | Burst Oil; the obia flare; middle-level monsters reduced to cinders.
 [@fm08-talaria]: FM08 | | Talaria and the search for Hestia.
-[@fm09-hermes]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's delivery work and investigations.
+[@fm09-hermes]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's delivery work and investigations: "They traveled outside the city at the behest of the Guild to investigate where the products were being smuggled. This was one of the reasons that Hermes Familia, which nominally worked as a delivery service, could pass through various checkpoints at will."
 [@fm11-notebook]: FM11 | | The forged notebook.
 [@fm17-asfi]: FM17 | Chapter 1: The Opening of Hostilities | Asfi and Lyu outside the city.
 [@fm17-hearth]: FM17 | Chapter 5: The End of Her World | Hestia purges the charm.
@@ -110,15 +111,15 @@ Perseus's items "were said to grant the user Magic and Skills through the power 
 [@ar02-captain]: AR02 | Chapter 2: Wavering Justice | Hermes: "Asfi. From now on, you lead the familia."; "Lydis is dead"; "You’re the captain now."
 [@fm05-name]: FM05 | Chapter 3: Dungeon Death March | "Asfi Al Andromeda."; "The title she had received from the gods was" Jack-of-All-Trades, Perseus; Ouka: "…Andromeda, where should we search?"
 [@fm05-decoy]: FM05 | Chapter 6: Praise to the Heroes | "Andromeda is going to be the decoy, so get those spells going!"; "Asfi silently cried to herself as she and Lyu raced out".
-[@fm05-talaria]: FM05 | Chapter 6: Praise to the Heroes | "Winged sandals, Talaria. A high-level magic item reserved for Perseus herself."; "Long ago, the young queen of an island nation"; "used Enigma to create an item that made her dream come true". The Japanese original has a princess (with the reading *girl*) of a certain sea nation, with no word for queen; DanMachi 8's rumour names the same sea nation.
-[@fm05-hades]: FM05 | Chapter 4: Dungeon Resort? | "A magic item forged by the one and only Perseus."; "Perseus’s items were said to grant the user Magic and Skills through the power of" Enigma; the black helmet Hades Head.
-[@fm05-hate]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): Hermes: "Without you, things would fall apart pretty quick."; "…I hate this."
+[@fm05-talaria]: FM05 | Chapter 6: Praise to the Heroes | "Winged sandals, Talaria. A high-level magic item reserved for Perseus herself."; "used Enigma to create an item that made her dream come true". The Japanese edition (file part0027, paragraphs 641 and 642) says the sandals were made long ago by the princess of a certain sea nation, who longed for the sky more than anyone; DanMachi 8's rumour names the same sea nation.
+[@fm05-hades]: FM05 | Chapter 4: Dungeon Resort? | "A magic item forged by the one and only Perseus."; the black helmet Hades Head. The Japanese edition (file part0023, paragraph 334) says these Enigma items are said to give a power on a par with Magic and Skills.
+[@fm05-hate]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): Hermes: "Without you, things would fall apart pretty quick."; "…I hate this." The Japanese edition (file part0011, paragraphs 220–221) has Hermes say that the other members are grateful, that they have it easy thanks to her and that he relies on her too; her answer is that she has had enough.
 [@fm06-excelia]: FM06 | Chapter 1: The Furious Rabbit | Cited by the body heading (DanMachi 6 has no contents list): the largest shares of excelia went to "Asfi and Lyu because they held the Goliath at bay the longest".
 [@fm07-rage]: FM07 | Chapter 5: Killing Stone | Asfi "rapped on the wooden door with all her burning rage before throwing it open"; "Lord Hermes!"
 [@fm08-marius]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Marius's chain; "a god stole you, a beautiful young princess, from an island nation"; "Not as if that nation would ever admit it!"
 [@fm10-mission]: FM10 | Chapter 6: Before the Storm | Ikelos Familia "broke off their pursuit"; "Asfi’s mission ended in failure."
 [@fm11-circles]: FM11 | | Printed heading "Chapter 2: Diverging Strands, Intersecting Plans" (not in the evidence map): "our selfish deity is always driving me so hard"; "Don’t worry, Aisha, you’ll get used to it".
-[@fm12-mother]: FM12 | Chapter 1: Rabbit Close-Up | "I ask you to not hate him."; "like a mother minding a troublesome child".
+[@fm12-mother]: FM12 | Chapter 1: Rabbit Close-Up | "I ask you to not hate him."; "like a mother minding a troublesome child". The Japanese edition (file part0012, paragraph 166) says like a guardian with a troublesome child.
 [@fm13-lyu]: FM13 | Chapter 1: Young Cranell’s Case File | Lyu: "I want to take part in your search"; "All the better if it was Gale Wind."
 [@fm17-perseus]: FM17 | Chapter 5: The End of Her World | "Who cares about einherjar? I’m Perseus."
 [@so03-first]: SO03 | Chapter 4: White-Haired Devil | Lulune pleads for Aiz; Asfi says "it was a waste of time to worry about a top-class adventurer"; "Asfi’s first priority was the safety of her party."
@@ -129,3 +130,4 @@ Perseus's items "were said to grant the user Magic and Skills through the power 
 [@ar01-vice]: AR01 | | Printed heading "Chapter 3: Busy People" (not in the evidence map): "pushed around by the likes of Hermes, or the captain, or Hermes, or also Hermes"; Lyu "sensed a kinship"; Hermes: "Vice-captain"; Lydis: "you have to do all the boring work".
 [@ar02-lunch]: AR02 | Chapter 4: Those Who Struggle | Lydis: "Asfi, take over as captain after I die, would ya?"; "just another one of the captain’s tasteless jokes"; "Lydis gave her life so that a band of upper-class adventurers could escape with theirs".
 [@ar02-falgar]: AR02 | Chapter 4: Those Who Struggle | "stumbling at every turn"; "Falgar’s constant advice"; "just a fifteen-year-old girl, the same as Lyu"; "No one worked themselves to the bone more than Asfi."
+[@fm05-asfi-ja]: FM05 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning one who can do anything, with the reading Perseus; the infobox gives the printed name and the kanji.

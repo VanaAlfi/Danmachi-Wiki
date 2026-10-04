@@ -47,7 +47,7 @@ In DanMachi 6 Soma tests Lilly with the divine wine. When she resists it, he cha
 
 ## Afterwards
 
-By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped using the wine as a reward and makes saleable wines for a modest profit.[@fm10-chandra] In DanMachi 15 Soma senses Lilly's advancement and congratulates her from afar, but does not approach her, believing he abandoned her.[@fm15-soma]
+By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped using the wine as a reward; its cellar now develops fine wines to serve to the members, paid for out of Soma's pocket money.[@fm10-chandra] In DanMachi 15 Soma senses Lilly's advancement and congratulates her from afar, but does not approach her, believing he abandoned her.[@fm15-soma]
 
 ## Open questions
 
@@ -70,6 +70,6 @@ By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped usin
 [@fm06-lilly]: FM06 | Chapter 4: Those Who Gather | Lilly's conversion.
 [@fm06-apology]: FM06 | Chapter 5: Our War Game | Soma's apology; conditions improve.
 [@fm10-zanis]: FM10 | Chapter 9: Dreams of Beasts | Zanis Rustra stripped of his position.
-[@fm10-chandra]: FM10 | Chapter 9: Dreams of Beasts | Chandra Ihit; the end of the reward system.
+[@fm10-chandra]: FM10 | Chapter 9: Dreams of Beasts | Chandra Ihit; the end of the reward system. The Japanese edition (file c3E7, paragraph 544) says the cellar is turning into a place that develops fine wines to serve to the members, within the god's pocket money.
 [@fm15-soma]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Soma senses Lilly's growth.
 [@fm17-arcanum]: FM17 | Chapter 3: The Field of Battle | Ouranos: "Whether it be Hephaistos’s forging or Soma’s wine…Freya’s beauty falls within the same bounds."; "That was not the same as arcanum."

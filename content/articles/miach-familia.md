@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ミアハ・ファミリア}}", "refs": ["fm04-miach-familia-ja"]},
       {"label": "Patron god", "value": "[[miach|Miach]]", "refs": ["fm01-miach"]},
       {"label": "Business", "value": "Brewing and selling potions and other healing items", "refs": ["fm01-miach", "ss01-home"]},
       {"label": "Home", "value": "Its shop, which doubles as the Familia's home", "refs": ["fm02-shop"]},
@@ -93,7 +94,7 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@fm15-soft]: FM15 | | Miach "a soft touch"; he and his Familia helped Hestia many times.
 [@fm15-compounding]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Compounding: "the ability that Miss Nahza has".
 [@fm15-level]: FM15 | Interlude: Elven Unrest | Two Level 3s; the tax; Daphne calls Nahza "Captain".
-[@fm18-potions]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Mass-producing potions and elixirs.
+[@fm18-potions]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Mass-producing potions and elixirs. The Japanese edition (file part0017, paragraph 135) says they make (refine) them.
 [@fm18-nahza]: FM18 | Chapter 8: The Great Familia War | Nahza Ersuisu; retired six years ago; the lost arm.
 [@fm18-loan]: FM18 | Chapter 9: Flower Language for You | The airgetlám against Berling's ax; loans "far from being paid back"; Darbh Daol.
 [@fm19-arm]: FM19 | Chapter 1: V-V-V for Victory Party | A new airgetlám from the reward; not the old loans; "I even reached Level Three".
@@ -108,3 +109,4 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@fm13-nahza]: FM13 | Chapter 2: The Prophetess of Tragedy | "it’s always been just Nahza and me"; "We’ve known each other for so long. I feel the most at ease with Nahza by my side".
 [@fm18-nahza-war]: FM18 | Chapter 8: The Great Familia War | "Even Nahza, who always had an indifferent look on her face, couldn’t avoid being scared."; "Nahza had set up atop a ten meder-tall column"; "A long-range attack using Crozzo magic swords."; "Her sniping that checked even first-tier adventurers had extended the life of the left wing."; "Nahza was firing saber-style magic swords that resembled arrows."; "the einherjar trying to erase the troublesome archer"; "Nahza Ersuisu had always fought while maintaining some insurance."; "had robbed her of the courage to fight monsters".
 [@ss02-nahza]: SS02 | My Memory | "Nahza Ersuisu," Amid said; "Haven’t you stolen enough from us already?"; "This customer is mine."
+[@fm04-miach-familia-ja]: FM04 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

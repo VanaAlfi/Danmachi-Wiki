@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Healer"},
+      {"label": "Japanese", "value": "{{ja|アミッド・テアサナーレ}}", "refs": ["fm14-amid-ja"]},
       {"label": "Familia", "value": "Dian Cecht Familia", "refs": ["fm18-amid"]},
       {"label": "Level", "value": "2", "refs": ["ss02-amid"]},
-      {"label": "Title", "value": "Dea Saint", "refs": ["fm18-amid", "ss02-amid"]},
+      {"label": "Title", "value": "Dea Saint ({{ja|戦場の聖女}}, written *saint of the battlefield*)", "refs": ["fm18-amid", "ss02-amid", "fm14-amid-ja"]},
       {"label": "Magic", "value": "Dia Frater", "refs": ["so11-amid"]}
     ]
   }
@@ -26,7 +27,7 @@
 
 In Minor Myths and Legends 2 she is nineteen, under 150 celch tall and Level 2.[@ss02-amid] In the same volume [[hyrute-sisters|Tiona]] spots her in a crowd by "a head of silver hair".[@ss02-hair]
 
-When [[aiz-wallenstein|Aiz]] comes to her in Minor Myths and Legends 2 to ask how to do first aid, so as not to use up potions in training, Amid answers with a gentle smile and cannot hide her pride that a younger adventurer has come to her for help and advice.[@ss02-firstaid] In that volume's later story "Girls×Cross: Four Paths of a Half Year", set months after the Enyo incident, she has secretly lent [[lefiya|Lefiya]] a book on magical healing, which Lefiya reads on a day off.[@ss02-lefiya]
+When [[aiz-wallenstein|Aiz]] comes to her in Minor Myths and Legends 2 to ask how to do first aid, so as not to use up potions in training, Amid answers with a gentle smile and is simply glad that a younger adventurer has come to rely on her, as a healer and an elder.[@ss02-firstaid] In that volume's later story "Girls×Cross: Four Paths of a Half Year", set months after the Enyo incident, she has secretly lent [[lefiya|Lefiya]] a book on magical healing, which Lefiya reads on a day off.[@ss02-lefiya]
 
 ## Healing
 
@@ -114,10 +115,10 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 [@ss01-healers]: SS01 | | The two great healers.
 [@ss02-amid]: SS02 | | Nineteen; Level 2; Dea Saint; the Unicorn Cup.
 [@ss02-hair]: SS02 | My Memory | Tiona spots "a head of silver hair".
-[@ss02-firstaid]: SS02 | | Aiz asks about first aid; Amid's pride at being asked for advice.
+[@ss02-firstaid]: SS02 | | Aiz asks about first aid; Amid glad to be asked for advice. The Japanese edition (file part0023, paragraph 11) says she is simply glad that Aiz came to rely on her as a healer and an elder.
 [@ss02-lefiya]: SS02 | Girls×Cross: Four Paths of a Half Year | Amid has secretly lent Lefiya a book on magical healing.
 [@dia-frater.ar01-first]: AR01 | | Northwest Main Street; the chant in two pieces; hours of healing.
-[@dia-frater.ar03-carried]: AR03 | Chapter 5: Playing the Violence Card | Closing line and name; carried on Nahza's shoulders.
+[@dia-frater.ar03-carried]: AR03 | Chapter 5: Playing the Violence Card | Closing line and name; carried on Nahza's back. The Japanese edition (file c3YC, paragraph 666) says she heals from Nahza's back.
 [@dia-frater.so08-finn]: SO08 | Chapter 2: Did Someone Order a Wolf? | Only her magic made headway against the curse on Finn.
 [@dia-frater.so08-bete]: SO08 | Chapter 4: Lonesome Night | Treating Bete; close to Mind Down.
 [@dia-frater.so11-zone]: SO11 | Chapter 4: Avengers ~Knossos War~ | Opening line; "Five-meter perimeter"; diamond circle; heals everything; Enigma.
@@ -128,3 +129,4 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 [@dia-frater.so11-withdraw]: SO11 | Chapter 6: And Then the God Smiled | She heals herself but withdraws.
 [@dia-frater.so12-flicker]: SO12 | Chapter 6: The Divine Providence of Despair | The opening line; her circle flickers under attack.
 [@dia-frater.fm18-heith]: FM18 | Chapter 8: The Great Familia War | Amid and Heith compared.
+[@fm14-amid-ja]: FM14 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning saint of the battlefield, with the reading Dea Saint; the infobox gives the printed name and the kanji.

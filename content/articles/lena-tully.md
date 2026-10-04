@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|レナ・タリー}}", "refs": ["so12-lena-ja"]},
       {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["so08-flowers"]},
       {"label": "Age", "value": "The same as Aiz's, by her own account", "refs": ["ss02-graves"]},
-      {"label": "Appearance", "value": "Copper skin; orange eyes; a thick ponytail that swings round her waist", "refs": ["so08-dying", "so08-fishbait", "fm07-lena"]},
+      {"label": "Appearance", "value": "Copper skin; orange eyes; long hair tied back", "refs": ["so08-dying", "so08-fishbait", "fm07-lena"]},
       {"label": "Favourite gift", "value": "Forget-me-nots", "refs": ["so08-flowers"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[ishtar-familia|Ishtar Familia]] until its fall in DanMachi 7", "refs": ["fm07-lena", "so10-copy"]},
@@ -65,7 +66,7 @@ At the graveyard Lena prays for the friends who did not survive. On the gravesto
 | Sword Oratoria 13 | Bursts in on [[lefiya|Lefiya]]'s Dungeon training with Bete, sees a new rival, and is kicked away.[@so13-lefiya] |
 | DanMachi 18 | With [[ishtar-familia#samira|Samira]] in the reserves guarding [[haruhime|Haruhime]] during the war game, she fears Haruhime's secret will come out. She then holds the line beside Samira.[@fm18-reserves] |
 | DanMachi 19 | Has levelled up after the war game.[@fm19-levels] |
-| Minor Myths and Legends 2 | Makes Bete eat cake from her spoon as the price of what she knows about the key, and [[bell-cranell|Bell]] walks in on them.[@ss02-date] Five nights into Rakia's attack, Bete takes her along because the way into Knossos is still unresolved.[@ss02-wolf] At the graves of her friends she lays forget-me-nots, tells [[aiz-wallenstein|Aiz]] they are the same age, and leaves to find out how many children Bete wants.[@ss02-graves] |
+| Minor Myths and Legends 2 | Makes Bete eat cake from her spoon as the price of what she knows about the key, and [[bell-cranell|Bell]] walks in on them.[@ss02-date] Five nights into Rakia's attack, Bete takes her along because the way into Knossos is still unresolved.[@ss02-wolf] At the graves of her friends she lays forget-me-nots, tells [[aiz-wallenstein|Aiz]] they are the same age, and asks her to find out secretly how many children Bete wants.[@ss02-graves] |
 
 ## Names
 
@@ -77,7 +78,7 @@ DanMachi 19 prints her name once as *Rena*.[@fm19-rena]
 > - Which Familia she joins after Ishtar Familia. Sword Oratoria 8 says the former members all converted, and DanMachi 18 counts the remaining Berbera among Hathor's followers, but neither names Lena's Familia directly.[@so08-drinks, fm18-reserves]
 > - Her present Level: DanMachi 19 says only that she levelled up.[@fm19-levels]
 
-[@fm07-lena]: FM07 | Chapter 7: Goddess War | "Lena, lead the others outta here."; "Lena’s thick ponytail swung around her waist as she rushed up to her beloved leader."
+[@fm07-lena]: FM07 | Chapter 7: Goddess War | "Lena, lead the others outta here."; Lena rushes up to her leader, swinging her tied-back long hair (the Japanese edition, file cA4Z, paragraph 118).
 [@so08-drinks]: SO08 | Chapter 1: Lonely Wolf | The former Ishtar Familia members "had all converted to different familias after Ishtar’s return to the upper world".
 [@so08-meet]: SO08 | Chapter 1: Lonely Wolf | "You’re one of those whores from Ishtar Familia we fought in Meren…!"; the scimitar at his back; the punch to her stomach; "I’m Lena! Lena Tully!"
 [@so08-fate]: SO08 | Chapter 2: Did Someone Order a Wolf? | "mine’s more like an alarm going off"; "it’s made me believe in fate!"
@@ -99,11 +100,12 @@ DanMachi 19 prints her name once as *Rena*.[@fm19-rena]
 [@so10-copy]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | The key copied from memory and "the testimony of the former Ishtar Familia member Lena".
 [@so11-left]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Aisha went along with Hestia Familia on their expedition! And she told me to not get involved"; "You’re in the minor leagues."; "Stay with Ganesha Familia aboveground."
 [@so12-arrive]: SO12 | Chapter 7: Final War II | "Bete Loga, your wifey is here!"; Aisha and the Berbera of ex–Ishtar Familia.
-[@so12-bete]: SO12 | Chapter 8: A Heroes’ Chorus | "Lena Tully could not protect Bete Loga. … But Lena Tully could make Bete Loga mad."; he crushes her hand and rises.
+[@so12-bete]: SO12 | Chapter 8: A Heroes’ Chorus | "Lena Tully could not protect Bete Loga. … But Lena Tully could make Bete Loga mad."; he grips her hand as if to crush it and rises. The Japanese edition (file c8BX, paragraph 887) says so.
 [@so13-lefiya]: SO13 | Chapter 2: Nostalgic Schoolhouse | "A new rival appeared from the most unexpected angle?!"; Lena kicked away.
 [@fm18-reserves]: FM18 | Chapter 9: Flower Language for You | Lena and Samira in the reserves; "Lena was right. Hathor’s followers, including Samira and the remaining Berbera, were the only ones left."; Samira and Lena hold the line.
 [@fm19-levels]: FM19 | Chapter 1: V-V-V for Victory Party | "Ms. Samira, Ms. Lena, and several other Berbera also leveled up."
 [@fm19-rena]: FM19 | Chapter 1: V-V-V for Victory Party | "Ms. Rena agrees with animated gestures" (printed spelling).
 [@ss02-date]: SS02 | | "Secrets of the Date": Lena feeds Bete cake outside a café off North Main Street; "Oh, look, it’s Little Rookie!"
 [@ss02-wolf]: SS02 | | "Afterward: The Girl and the Wolf": the fifth night after Rakia's attack; Bete brings Lena Tully because of the key.
-[@ss02-graves]: SS02 | Paths So Far, an Unending Journey | "We’re the same age, aren’t we?"; the pale blue forget-me-nots; "how many kids Bete Loga wants!"
+[@ss02-graves]: SS02 | Paths So Far, an Unending Journey | "We’re the same age, aren’t we?"; the pale blue forget-me-nots; "how many kids Bete Loga wants!" The Japanese edition (file part0074, paragraph 410) has her ask Aiz to find this out for her in secret.
+[@so12-lena-ja]: SO12 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

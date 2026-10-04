@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "The crimson daggers Welf Crozzo forged for Bell from the Minotaur Horn: the original Ushiwakamaru (nicknamed Minotan) and a stronger second blade, Ushiwakamaru-Shiki or -Nishiki, made from the other half of the horn.",
+  "summary": "The crimson daggers Welf Crozzo forged for Bell from the Minotaur Horn: the original Ushiwakamaru (nicknamed Minotan) and a stronger second blade, Ushiwakamaru-Nishiki, made from the other half of the horn.",
   "aliases": ["Minotan", "The Young Bull", "Ushiwakamaru-Nishiki", "Ushiwakamaru Nishiki", "Ushiwakamaru-Shiki", "Minotaur Horn"],
   "spoilers": "DanMachi Vols. 4–12 and Minor Myths and Legends Vol. 1",
   "related": ["welf-crozzo", "bell-cranell", "mikoto", "asterios", "hyacinthus", "war-game"],
@@ -14,13 +14,15 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "First blade"},
+      {"label": "Japanese", "value": "{{ja|牛若丸}}", "refs": ["fm06-ushiwakamaru-ja"]},
       {"label": "Type", "value": "Dagger, about 15 celch long", "refs": ["fm04-dagger"]},
       {"label": "Maker", "value": "[[welf-crozzo|Welf Crozzo]]", "refs": ["fm04-split", "fm05-profile"]},
       {"label": "Material", "value": "The smaller half of a Minotaur Horn", "refs": ["fm04-split"]},
       {"label": "Nickname", "value": "Minotan", "refs": ["fm04-name", "fm05-profile"]},
       {"label": "Fate", "value": "Shattered by Asterios's Labrys (DanMachi 11)", "refs": ["fm11-broken"]},
       {"section": "Second blade"},
-      {"label": "Printed as", "value": "Ushiwakamaru-Shiki; Ushiwakamaru-Nishiki; Ushiwakamaru Nishiki", "refs": ["fm06-shiki", "fm07-table", "fm07-nishiki"]},
+      {"label": "Japanese", "value": "{{ja|牛若丸弍式}}, written *Ushiwakamaru type two*", "refs": ["fm06-nishiki-ja"]},
+      {"label": "Printed as", "value": "Ushiwakamaru-Nishiki; Ushiwakamaru Nishiki {{small|printed *Ushiwakamaru-Shiki* in DanMachi 6}}", "refs": ["fm07-table", "fm07-nishiki", "fm06-shiki"]},
       {"label": "Material", "value": "The remaining half of the horn", "refs": ["fm06-shiki"]},
       {"label": "Fate", "value": "Lost in Knossos (DanMachi 10–11)", "refs": ["fm10-dix", "fm11-knossos"]},
       {"section": "Owner"},
@@ -34,11 +36,11 @@
 
 ## The Minotaur Horn
 
-When Bell's Minotaur turned to ash, only its [[magic-stone|magic stone]] and a horn remained. [[lilliluka-erde|Lilly]] sold the stone but kept the horn for him. Under its charred surface it is red; {{inference}} Bell wonders whether that was its original colour or whether his magic caused it, and the novels do not say.[@fm04-horn] Welf finds it in good shape and "quite a bit denser than usual", and explains that Minotaur Horns have a metallic element, so they can be shaped with heat.[@fm04-welf]
+When Bell's Minotaur turned to ash, only its [[magic-stone|magic stone]] and a horn remained. The stone has been exchanged, and Bell kept the horn. Under its charred surface it is red; {{inference}} Bell wonders whether that was its original colour or whether his magic caused it, and the novels do not say.[@fm04-horn] Welf finds it in good shape and harder than usual, and explains that Minotaur Horns have a metallic element, so they can be shaped with heat.[@fm04-welf]
 
 ## The first blade
 
-Welf breaks the horn in two with a chisel, sets the larger half aside and forges the smaller.[@fm04-split] The result is a dark red dagger with a very thin edge, a little shorter than Bell's [[hestia-knife|Divine Knife]].[@fm04-blade]
+Welf breaks the horn in two with a chisel, sets the larger half aside and forges the smaller.[@fm04-split] The result is a bright scarlet dagger with a translucent, keen edge, a little shorter than Bell's [[hestia-knife|Divine Knife]].[@fm04-blade]
 
 ### Name
 
@@ -66,7 +68,7 @@ DanMachi 6 prints *Ushiwakamaru-Shiki*.[@fm06-shiki] DanMachi 7 prints *Ushiwaka
 
 ## Later history
 
-- **Both blades.** In DanMachi 7 Bell carries the Hestia Knife and "both blades forged from a red Minotaur Horn"; later both named daggers lie on the same table.[@fm07-both, fm07-table]
+- **Both blades.** In DanMachi 7 Bell carries the Hestia Knife and both crimson blades made from the Minotaur's horn; later both named daggers lie on the same table.[@fm07-both, fm07-table]
 - **Borrowed by Mikoto.** In DanMachi 7 [[mikoto|Mikoto]] uses Bell's Ushiwakamaru in place of her broken katana.[@fm07-mikoto]
 - **The second blade is lost.** In DanMachi 10 the hunter [[ikelos-familia#dix-perdix|Dix]] knocks Ushiwakamaru-Nishiki out of Bell's hand, and Bell draws "the spare Ushiwakamaru" from behind his back.[@fm10-dix] In DanMachi 11 Bell sets out armed with the Hestia Knife and Ushiwakamaru, noting that his other crimson dagger is still lying in [[knossos|Knossos]], where he lost it.[@fm11-knossos]
 - **The first blade breaks.** In Bell's rematch with [[asterios|Asterios]] in DanMachi 11, a blow from the Labrys shatters Ushiwakamaru.[@fm11-broken]
@@ -80,21 +82,23 @@ DanMachi 6 prints *Ushiwakamaru-Shiki*.[@fm06-shiki] DanMachi 7 prints *Ushiwaka
 > - Whether Bell ever recovers Ushiwakamaru-Nishiki from Knossos.[@fm11-knossos]
 > - Why the horn is red, and how strong the first blade's fire element is.[@fm04-horn, fm05-profile]
 
-[@fm04-horn]: FM04 | Chapter 2: Changing Environment, New Relationships | Lilly kept the horn; red under the char; Bell's uncertainty.
-[@fm04-welf]: FM04 | Chapter 3: The Smith’s Situation | Denser than usual; Minotaur Horns have a metallic element.
+[@fm04-horn]: FM04 | Chapter 2: Changing Environment, New Relationships | Bell kept the horn (the Japanese edition, file c1ER, paragraph 24); red under the char; Bell's uncertainty.
+[@fm04-welf]: FM04 | Chapter 3: The Smith’s Situation | Harder than usual (the Japanese edition, file c2R2, paragraph 713); Minotaur Horns have a metallic element.
 [@fm04-split]: FM04 | Chapter 3: The Smith’s Situation | The horn split; the smaller half forged.
-[@fm04-blade]: FM04 | Chapter 3: The Smith’s Situation | Dark red blade, a little shorter than the Divine Knife.
+[@fm04-blade]: FM04 | Chapter 3: The Smith’s Situation | Bright scarlet blade (the Japanese edition, file c43H, paragraphs 24–25), a little shorter than the Divine Knife.
 [@fm04-name]: FM04 | Chapter 3: The Smith’s Situation | "The Young Bull, Ushiwakamaru" or "the Bull Dagger, Minotan".
 [@fm04-dagger]: FM04 | Epilogue: Next Stage | About 15 celch; a Hard Armored's magic stone shattered.
 [@fm05-profile]: FM05 | | Item profile at the back of the volume: nickname Minotan; slight fire element; the dream.
 [@fm05-ja-profile]: FM05 | Epilogue: The One Who Targets the Rabbit | Japanese original (the item profile, a page-size image in the back matter): made by Welf, the first instalment of a weapon series; a crimson short blade with the nickname Minotan; the drop item Minotaur Horn as material, with a slight fire effect; the blade is somewhat short but high-powered, at present surpassing the Hestia Knife; when Bell put it under his pillow and slept, an extremely strong fierce bull appeared in his dream and he was nearly killed. Yen Press prints "first of its kind", "surprisingly destructive despite small size" and "a raging Minotaur".
 [@fm06-shiki]: FM06 | Chapter 5: Our War Game | Ushiwakamaru-Shiki from the remaining half; the Solar Flamberge broken.
-[@fm07-both]: FM07 | Chapter 4: Yoshiwara x Utakata | "Both blades forged from a red Minotaur Horn".
+[@fm07-both]: FM07 | Chapter 4: Yoshiwara x Utakata | Both blades. The Japanese edition (file c4J0, paragraph 281) says two crimson blades made from the Minotaur's horn.
 [@fm07-table]: FM07 | Chapter 5: Killing Stone | Ushiwakamaru and Ushiwakamaru-Nishiki on the same table.
 [@fm07-nishiki]: FM07 | Chapter 4: Yoshiwara x Utakata | "Ushiwakamaru Nishiki" without a hyphen.
 [@fm07-mikoto]: FM07 | Chapter 6: Yearning of a Hero | Mikoto uses Bell's Ushiwakamaru.
 [@fm10-dix]: FM10 | Chapter 9: Dreams of Beasts | Nishiki knocked away; the spare Ushiwakamaru drawn.
 [@fm11-knossos]: FM11 | Chapter 3: The Night Before Battle | The other crimson dagger still in Knossos.
 [@fm11-broken]: FM11 | Chapter 7: The Return of the Hero | Ushiwakamaru shattered by the Labrys.
-[@fm12-hakugen]: FM12 | Chapter 2: Adventure Intermission | Hakugen, sharper than the lost Ushiwakamaru.
+[@fm12-hakugen]: FM12 | Chapter 2: Adventure Intermission | Hakugen, sharper than the lost Ushiwakamaru. The Japanese edition (file part0014, paragraph 666) says its power, or rather its sharpness, is far above.
 [@ss01-prep]: SS01 | To a Sword About to be Born | Ushiwakamaru-Nishiki among Welf's War Game work.
+[@fm06-ushiwakamaru-ja]: FM06 | | The Japanese edition writes the name in kanji; the infobox gives that written form.
+[@fm06-nishiki-ja]: FM06 | | The Japanese edition writes the second blade's name in kanji meaning Ushiwakamaru type two, read Ushiwakamaru Nishiki.

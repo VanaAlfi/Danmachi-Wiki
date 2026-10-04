@@ -43,7 +43,7 @@ His Familia's home, the Three Hammers Forge between North Main and Northwest Mai
 | Astrea Record 3 | With no trained mage free, Goibniu himself helps with the magical work on [[lyu-leon|Lyu]]'s wooden sword, which the captain calls a rush job.[@ar03-lyu] |
 | Sword Oratoria 1 | Lends Aiz a rapier while Desperate is repaired, telling her that most blades would not last a week in her hands.[@so01-goibniu] |
 | Sword Oratoria 2 | The rapier comes back shattered after the [[monsterphilia|Monsterphilia]]; Desperate's repair costs about forty million valis, which sends Aiz into the Dungeon to earn it.[@so02-forge, so02-bill] |
-| Minor Myths and Legends 1 | Returns Finn's restored spear and tells him that a prum girl has ordered a crossbow. Finn asks him to put his leftover material toward her new weapon.[@ss01-finn] |
+| Minor Myths and Legends 1 | Returns Finn's restored spear and tells him that a prum girl came the other day to order a weapon. Finn asks him to put his leftover material toward her new weapon.[@ss01-finn] |
 | Sword Oratoria 12 | When monsters reach the surface, he opens his Familia's stockpile and hands top-tier weapons to adventurers such as [[bors|Bors]]'s group.[@so12-stockpile] |
 | Sword Oratoria 13 | Helps the Guild rebuild the damaged city.[@so13-rebuilding] |
 
@@ -57,7 +57,7 @@ His Familia's home, the Three Hammers Forge between North Main and Northwest Mai
 [@so12-stockpile]: SO12 | Chapter 7: Final War II | "Old Man Goibniu"; "I’m opening my familia’s stockpile."; Bors's group.
 [@so13-rebuilding]: SO13 | | "Goibniu, god of construction and the forge" helping the rebuilding.
 [@so13-test]: SO13 | Chapter 3: Class is in Session | Goibniu's pure devotion to craftsmanship; every student failed his test.
-[@ss01-finn]: SS01 | | The Fortia Spear restored; the prum girl's crossbow order; Finn's leftover material.
+[@ss01-finn]: SS01 | | The Fortia Spear restored; the prum girl's weapon order; Finn's leftover material. The Japanese edition (file part0082, paragraphs 6 and 23) says she came to order a weapon, later called the squirrel's walnut-shooter.
 [@ar01-hephaistos]: AR01 | Chapter 9: The Opening Act of Evil | "Now, what about you, Goibniu?"; his home in the northwest of town.
 [@ar02-bridge]: AR02 | Chapter 4: Those Who Struggle | Goibniu fixing the bridge; "We need this bridge…If it falls, we all fall."; the six cultists.
 [@ar03-lyu]: AR03 | | The wooden sword from a branch of the holy tree; the captain of Goibniu Familia; Goibniu as substitute mage; a rush job.

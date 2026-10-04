@@ -13,13 +13,14 @@
     {"anchor": "third-squad", "title": "3rd Squad", "summary": "Balder Class's \"worst party\" of Level 2 problem students: Nina Tulle, the dwarf Iglin, the dark elf Legi and the prum Chris, joined by Bell as Rapi Flemish in DanMachi 19.", "aliases": ["Third Squad", "Worst party", "Iglin", "Legi", "Christia Elvia", "Chris"]},
     {"anchor": "rapi-flemish", "title": "Rapi Flemish", "summary": "Bell Cranell's disguise as a hume bunny student of the School District in DanMachi 19, arranged by Hermes in exchange for watching over the 3rd Squad.", "aliases": ["Rapi"]},
     {"anchor": "seventh-squad", "title": "7th Squad", "summary": "Balder Class's elite squad: the Level 3s Luke Fowl and Nano (Natalinoe Cladfield), the elf archer Miliria and the werewolf scout Cole, instructed by Lefiya in Sword Oratoria 13.", "aliases": ["Seventh Squad", "Natalinoe Cladfield", "Nano", "Luke Fowl", "Miliria", "Cole"]},
-    {"anchor": "alisa-ragast", "title": "Alisa Ragast", "summary": "Balder Class's prefect and student council president, Lefiya's friend and former squadmate.", "aliases": []}
+    {"anchor": "alisa-ragast", "title": "Alisa Ragast", "summary": "Balder Class's prefect, Lefiya's friend and former squadmate.", "aliases": []}
   ],
   "infobox": {
     "title": "Balder Class",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Class"},
+      {"label": "Japanese", "value": "{{ja|バルドル・クラス}}", "refs": ["fm19-balder-class-ja"]},
       {"label": "Part of", "value": "The [[school-district|School District]], one of its ten classes", "refs": ["fm19-classes"]},
       {"label": "God", "value": "[[balder|Balder]]", "refs": ["fm19-classes", "so13-classes"]},
       {"label": "Captain", "value": "[[leon-verdenberg|Leon Verdenberg]]", "refs": ["so13-leon"]},
@@ -37,7 +38,7 @@
 
 The School District has as many classes as patron gods; DanMachi 19 counts ten, among them Balder, Idun and Bragi Classes.[@so13-classes, fm19-classes] Students who choose combat disciplines are put into four-person squads within their class. Gods and teachers form the squads from students they think fit well together. Sometimes they group badly unbalanced students in the hope that they will spark each other.[@so13-cells, so13-classes]
 
-- **Prefects:** a class prefect represents the class and may discipline students; DanMachi 20 likens the post to an assistant teacher or a Familia's deputy captain.[@fm20-prefect]
+- **Prefects:** a class prefect represents the class and may discipline students; DanMachi 20 likens the post to an assistant teacher or, in Familia terms, a candidate for the Familia's cadre.[@fm20-prefect]
 - **Instructors:** Malik Alfort, a Level 5 Balder Class instructor, wins the mage contest of the [[orariad|Orariad]].[@fm20-malik]
 
 ## 3rd Squad {#third-squad}
@@ -78,7 +79,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 
 ## Alisa Ragast {#alisa-ragast}
 
-**Alisa Ragast** guides Loki and Lefiya when they come aboard in Sword Oratoria 13. She and Lefiya were both in Balder Class: Lefiya was the model student, Alisa the student council president who always took charge.[@so13-alisa] Loki remembers her as "the cute little glasses girl who was always with Lefiya".[@so13-alisa-glasses] Her skill in alchemy "was unbelievable", and her teachers thought her "uniquely suited for a career in industrial manufacturing"; in Sword Oratoria 13 she is "The Alchemy Department’s ace and a prefect". She set out to become a teacher because she was "crushing on a certain instructor", but "her determination to become an instructor was genuine".[@so13-alisa-ace] Lefiya remembers her as "a cringeworthy example of a maiden in love".[@so13-alisa-love] The two met as roommates ("So you’re my new roommate. I’m Alisa."), and with Bardain and Nassen they were "considered inseparable and were placed in the same squad".[@so13-alisa-roommate] She is a prefect and clashes often with Luke.[@so13-emblem, so13-prefect] When a rescue is mounted, Balder keeps her aboard ("Alisa, please remain here."); asked what she thought on meeting Lefiya again, she remembers moments when "an elf with long, jet-black hair, who Alisa had never met, seemed to overlap with Lefiya".[@so13-alisa-balder] In DanMachi 20 she slams her hands down on the desk in the student council room as the Orariad is planned: "A promise from the Guild’s pig isn’t worth the paper it’s written on". A Balder Class prefect "has the authority and discretion to personally discipline students", a post "equivalent to a deputy captain in a familia".[@fm20-alisa-council] At the opening of the Orariad she swears the athletes' oath for the students.[@fm20-oath]
+**Alisa Ragast** guides Loki and Lefiya when they come aboard in Sword Oratoria 13. She and Lefiya were both in Balder Class: Lefiya was the model student, Alisa the class president who always took charge.[@so13-alisa] Loki remembers her as "the cute little glasses girl who was always with Lefiya".[@so13-alisa-glasses] Her skill in alchemy "was unbelievable", and her teachers thought her "uniquely suited for a career in industrial manufacturing"; in Sword Oratoria 13 she is "The Alchemy Department’s ace and a prefect". She set out to become a teacher because she was "crushing on a certain instructor", but "her determination to become an instructor was genuine".[@so13-alisa-ace] Lefiya remembers her as "a cringeworthy example of a maiden in love".[@so13-alisa-love] The two met as roommates ("So you’re my new roommate. I’m Alisa."), and with Bardain and Nassen they were "considered inseparable and were placed in the same squad".[@so13-alisa-roommate] She is a prefect and clashes often with Luke.[@so13-emblem, so13-prefect] When a rescue is mounted, Balder keeps her aboard ("Alisa, please remain here."); asked what she thought on meeting Lefiya again, she remembers moments when "an elf with long, jet-black hair, who Alisa had never met, seemed to overlap with Lefiya".[@so13-alisa-balder] In DanMachi 20 she slams her hands down on the desk in the student council room as the Orariad is planned: "A promise from the Guild’s pig isn’t worth the paper it’s written on". A Balder Class prefect "has the authority and discretion to personally discipline students", a post likened in Familia terms to a candidate for the cadre.[@fm20-alisa-council] At the opening of the Orariad she swears the athletes' oath for the students.[@fm20-oath]
 
 [@fm19-student]: FM19 | Chapter 3: School Life in Another World | "your major is Combat Studies. And, like myself, you are a part of Balder Class".
 [@fm19-classes]: FM19 | Chapter 3: School Life in Another World | "there are ten classes, apparently. Balder Class, of course, but also Idun Class".
@@ -103,11 +104,11 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@fm20-secret]: FM20 | Chapter 1: Orario Rumble | "Iglin and the others in the squad also didn’t seem like they knew".
 [@fm20-nina]: FM20 | Chapter 1: Orario Rumble | "I am Nina Tulle from the School District’s Balder Class!"
 [@fm20-reunion]: FM20 | Chapter 2: Lion and then Sword Princess | "Iglin, Legi, and Chris…everyone from the 3rd Squad!"; "I’m sorry you had to find out the truth that way."
-[@fm20-prefect]: FM20 | Chapter 2: Lion and then Sword Princess | "Alisa Ragast was a Balder Class prefect"; "equivalent to a deputy captain in a familia".
+[@fm20-prefect]: FM20 | Chapter 2: Lion and then Sword Princess | "Alisa Ragast was a Balder Class prefect". The Japanese edition (file p-012, paragraph 1130) likens the post to junior faculty and, in Familia terms, to a candidate for the cadre.
 [@fm20-eina]: FM20 | Chapter 2: Lion and then Sword Princess | "Eina, who had been a member of Balder Class back when she was".
 [@fm20-oath]: FM20 | Chapter 3: The World, The Festival, and Reality | "the student representative, Alisa"; "swore to have a fair and sporting competition".
 [@fm20-malik]: FM20 | Chapter 3: The World, The Festival, and Reality | "The Level Five Balder Class instructor, Malik Alfort takes it!!!"
-[@so13-alisa]: SO13 | Chapter 2: Nostalgic Schoolhouse | "I am Alisa Ragast. I shall be your guide."; "Lefiya and Alisa had both belonged to Balder Class."; "the student council president who always took charge".
+[@so13-alisa]: SO13 | Chapter 2: Nostalgic Schoolhouse | "I am Alisa Ragast. I shall be your guide."; "Lefiya and Alisa had both belonged to Balder Class." The Japanese edition (file part0019, paragraph 104) calls her the class president who ran everyone.
 [@so13-emblem]: SO13 | Chapter 2: Nostalgic Schoolhouse | "The ray of light and ship crest—the emblem of Balder Class—was proof she".
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | "As a member of Balder Class, Lefiya was quickly blessed with good friends".
 [@so13-leon]: SO13 | Chapter 3: Class is in Session | "the captain of Balder Class, Leon Verdenberg".
@@ -135,4 +136,5 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@so13-alisa-love]: SO13 | Fairy Canon: 2 | "If she had not known Alisa, who was a cringeworthy example of a maiden in love"
 [@so13-alisa-roommate]: SO13 | Fairy Canon: 1 | "So you’re my new roommate. I’m Alisa. What’s your name?"; "the four of them were considered inseparable and were placed in the same squad"
 [@so13-alisa-balder]: SO13 | Chapter 5: The Mirror’s Voice | "Alisa, please remain here."; "Alisa, what did you think when you met Lefiya again?"; "an elf with long, jet-black hair, who Alisa had never met, seemed to overlap with Lefiya"
-[@fm20-alisa-council]: FM20 | Chapter 2: Lion and then Sword Princess | "Alisa Ragast slammed her hands down on the desk in the student council room."; "A promise from the Guild’s pig isn’t worth the paper it’s written on"; "has the authority and discretion to personally discipline students"; "equivalent to a deputy captain in a familia"
+[@fm20-alisa-council]: FM20 | Chapter 2: Lion and then Sword Princess | "Alisa Ragast slammed her hands down on the desk in the student council room."; "A promise from the Guild’s pig isn’t worth the paper it’s written on"; "has the authority and discretion to personally discipline students". The Japanese edition (file p-012, paragraph 1130) likens the post to junior faculty and, in Familia terms, to a candidate for the cadre.
+[@fm19-balder-class-ja]: FM19 | | The Japanese edition prints the class's name in katakana; the infobox gives that printed form.

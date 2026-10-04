@@ -63,7 +63,7 @@ Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-
 
 ### Soul Light {#soul-light}
 
-**Soul Light** is the healing magic of Cassandra Illion of Miach Familia: a light "that resembles sunlight", an "exceedingly rare form of healing" able to close any bloody wound.[@soul-light.fm12-ivy] DanMachi 12 and 14 print it *Soul light*; DanMachi 18 prints *Soul Light*.[@soul-light.fm12-ivy, soul-light.fm14-cast, soul-light.fm18-daphne]
+**Soul Light** ({{ja|ソールライト}}, read *Sōru Raito*; *Sōru* is the usual Japanese spelling of *Sol*, the sun)[@soul-light.fm12-ja] is the healing magic of Cassandra Illion of Miach Familia: a light "that resembles sunlight", a rare form of healing, which in DanMachi 12 closes every bloody wound on the patients.[@soul-light.fm12-ivy] DanMachi 12 and 14 print it *Soul light*; DanMachi 18 prints *Soul Light*.[@soul-light.fm12-ivy, soul-light.fm14-cast, soul-light.fm18-daphne]
 
 - **User:** Cassandra Illion of Miach Familia[@soul-light.fm12-ivy, soul-light.fm12-area]
 - **Type:** Healing, including area healing[@soul-light.fm12-area]
@@ -133,7 +133,8 @@ The Status entry on the Level 2 sheet is a single note: it dispels harm. The she
 [@sheet.fm14-cassandra]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, Cure Ephialtes; Five-Dimension Troia; the Rabbit Charm.
 [@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, pp. 166-167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia; the Holy Crystal Rod note: Cassandra assumes Cure Ephialtes reverses poison and does not realise it also reverses curses.
 [@soul-light.fm12-area]: FM12 | Chapter 6: The Hero’s Sacred Flame | Area healing, about ten meders; adjusts to the wounds.
-[@soul-light.fm12-ivy]: FM12 | | "Oh sunlight, may you beat back ruin. Soul light."; rare healing; the ivy grows.
+[@soul-light.fm12-ivy]: FM12 | | "Oh sunlight, may you beat back ruin. Soul light."; rare healing; the ivy grows. The Japanese edition (file part0018, paragraphs 5–7) says the rare healing magic closes all the bloody wounds.
+[@soul-light.fm12-ja]: FM12 | | The Japanese edition prints the spell's name in katakana, Sōru Raito; Sōru is the usual Japanese spelling of Sol, while soul is written differently.
 [@soul-light.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Cast into the centre of the fighting; "Recovery is coming!"
 [@soul-light.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, wide-area recovery magic, area varies with Mind; Cure Ephialtes.
 [@soul-light.fm18-daphne]: FM18 | Chapter 9: Flower Language for You | Daphne's wounds; Hegni's cursed sword obstructs healing.

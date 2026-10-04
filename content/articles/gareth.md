@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ガレス・ランドロック}}", "refs": ["fm10-gareth-ja"]},
       {"label": "Race", "value": "[[races#dwarf|Dwarf]]", "refs": ["fm05-leaders"]},
       {"label": "From", "value": "Lonza, where he was a foreman", "refs": ["so14-gareth"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-gareth"]},
       {"label": "Position", "value": "One of its three leaders, with [[finn-deimne|Finn]] and [[riveria|Riveria]]", "refs": ["so02-three"]},
       {"label": "Level", "value": "6 from after the Great Conflict; 7 from Sword Oratoria 14", "refs": ["ar03-level6", "fm08-gareth", "so14-sevens"]},
-      {"label": "Title", "value": "Elgarm", "refs": ["so04-elgarm"]},
+      {"label": "Title", "value": "Elgarm ({{ja|重傑}}, written *heavy hero*)", "refs": ["so04-elgarm", "fm10-gareth-ja"]},
       {"label": "Also called", "value": "The Peerless Wall", "refs": ["ar01-dusty"]},
       {"label": "Weapons", "value": "Battle-ax and shield", "refs": ["ar01-evils", "fm11-hiyo"]},
       {"label": "Magic", "value": "[[#earth-raid|Earth Raid]]", "refs": ["earth-raid.so07-sheet"]},
@@ -41,7 +42,7 @@ In battle he wears heavy armour and a helmet, with a shield under his mantle.[@f
 
 Gareth counts himself among the "dusty old heroes" who must not deny the next generation its chance to change the world.[@ar01-dusty] In Astrea Record 1 [[alize-lovell|Alize]] greets him as "old man Gareth", to the dismay of [[lyu-leon|Lyu]], for whom "the venerable dwarf was the definition of a celebrity"; Alize explains that she is "so annoying, he doesn’t know how to get rid of me", and Gareth agrees.[@ar01-alize]
 
-He fights to protect others. When the [[evils|Evils]] attack in Astrea Record 1 he sends the girls to shelter the crowd and charges into the attackers to draw their spells and magic swords onto himself: to spare the buildings and civilians, "the old dwarf would gladly shoulder any pain".[@ar01-evils] In DanMachi 11 he takes the full blast of the magic sword Hiyo on his shield in front of the adventurers beside him, and laughs with his beard frozen: "Feels about the same strength as Riveria’s magic."[@fm11-hiyo]
+He fights to protect others. When the [[evils|Evils]] attack in Astrea Record 1 he sends the girls to shelter the crowd and charges into the attackers to draw their spells and magic swords onto himself: to spare the buildings and civilians, "the old dwarf would gladly shoulder any pain".[@ar01-evils] In DanMachi 11 he takes the full blast of the magic sword Hiyo (*ice hawk*) on his shield in front of the adventurers beside him, and laughs with his beard frozen: "Feels about the same strength as Riveria’s magic."[@fm11-hiyo, fm11-hiyo-ja]
 
 At home he keeps order: Sword Oratoria 2 has him scolding Aiz and the others for "Such a ruckus at the crack o’ dawn" until breakfast.[@so02-scold] He enjoys a drink, but at the camp party of Sword Oratoria 5 he turns down Tsubaki's challenge ("Show me that liver of steel!") because he has his position to consider, and promises her one back on the surface.[@so05-drink]
 
@@ -49,7 +50,7 @@ At home he keeps order: Sword Oratoria 2 has him scolding Aiz and the others for
 
 Gareth, Finn and Riveria lead Loki Familia together; Sword Oratoria 2 calls the three Level 6s its "top commanders as well as their strongest warriors".[@so02-three] Gareth teases Finn about the "ambition in those pint-size bones of yours", and when Finn says he has been trying to mellow out, he laughs: "You, Finn? Don’t make me laugh!"[@so04-finn] Finn is the youngest of the commanders, and when he explains his plan for the attack on [[knossos|Knossos]] in Sword Oratoria 11, Riveria and Gareth share "the sort of happiness that a parent might have watching their child growing up".[@so11-parent] In Sword Oratoria 10 the three fight side by side for "the first time in a long while".[@so10-three] In Sword Oratoria 12 Riveria and Gareth, "The two had known Finn longest", see at once that the orders reaching them come from a false Finn, and Gareth plays along.[@so12-act]
 
-They also rise together. When the three reach Level 7 at the same moment, Loki throws a party for those she sees as the Familia's "oldest members"; "How many times have we leveled up together now?" Gareth muses, and he tells Finn that "With Zeus and Hera gone, Level Seven is the pinnacle".[@so14-party]
+They also rise together. When the three reach Level 7 at the same moment, Loki throws a party for those she sees as the Familia's "oldest members"; Loki marvels at how many times the three have levelled up together; Gareth tells Finn that he, who always said he wanted fame, should speak first, and Riveria adds that "With Zeus and Hera gone, Level Seven is the pinnacle".[@so14-party]
 
 ## The younger members {#younger-members}
 
@@ -62,7 +63,7 @@ They also rise together. When the three reach Level 7 at the same moment, Loki t
 
 Before joining he was an exceptional dwarf warrior without a [[falna|Falna]] and a foreman in the village of Lonza, bound there by guilt over its poverty. He refused Loki's offer of an immediate blessing, fighting a [[lambton|lambton]] without one, and joined only once a rescue in the Celcebo mines and a solution for Lonza released him. He then insisted on fighting [[finn-deimne|Finn]]; the text does not say who won.[@so14-gareth] Loki got him drinking: tipsy, the man who "ordinarily never said a word" began to talk, and he admitted to himself that "she was a good drinking partner for him".[@so14-drink]
 
-Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fifteen-year-old troublemaker who "cared more than anyone" when it came to his friends; it was he who lost his temper and injured Aina, earning Riveria's wrath. When the lambton attacks the miners, Yorger charges it with his pickax to protect Gareth. Afterwards he presses a bag packed for the road into Gareth's hands: "Big Bro, go with them! Please start your journey!" "We’ll make something of this ourselves, even without you. So live your dream!" At the send-off Gareth raises "the pickax given to him by Yorger and the others".[@so14-yorger]
+Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fifteen-year-old troublemaker who "cared more than anyone" when it came to his friends; it was he who lost his temper and injured Aina, earning Riveria's wrath. When the lambton attacks the miners, Yorger charges it with his pickax to protect Gareth. Afterwards he presses a bag packed for the road into Gareth's hands: "Big Bro, go with them! Please start your journey!" "We’ll make something of this ourselves, even without you. So live your dream!" At the send-off Gareth raises the hammer given to him by Yorger and the others.[@so14-yorger]
 
 ## History
 
@@ -136,7 +137,7 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders] Astrea Record 1 
 [@so10-gareth]: SO10 | | The surface battle and the rescue.
 [@so14-gareth]: SO14 | | Lonza; the lambton; Celcebo; the fight with Finn.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7.
-[@so14-yorger]: SO14 | Chapter 3: The Dwarf’s Embarking | "Yorger was one of the youngsters he had taken under his wing, a noisy troublemaker who never thought about the consequences of what he was doing."; "lost his temper and injured Aina, earning Riveria’s wrath"; "when it came to his friends, he cared more than anyone"; "he was still just fifteen"; "Yorger clenched his pickax in his hands and leaped at the lambton"; "Big Bro, go with them! Please start your journey!"; "Yorger pressed a bag, already packed for the road, into his hands"; "We’ll make something of this ourselves, even without you. So live your dream!"; "the pickax given to him by Yorger and the others".
+[@so14-yorger]: SO14 | Chapter 3: The Dwarf’s Embarking | "Yorger was one of the youngsters he had taken under his wing, a noisy troublemaker who never thought about the consequences of what he was doing."; "lost his temper and injured Aina, earning Riveria’s wrath"; "when it came to his friends, he cared more than anyone"; "he was still just fifteen"; "Yorger clenched his pickax in his hands and leaped at the lambton"; "Big Bro, go with them! Please start your journey!"; "Yorger pressed a bag, already packed for the road, into his hands"; "We’ll make something of this ourselves, even without you. So live your dream!". The Japanese edition (file part0034, paragraph 468) says he raises the hammer he received from Yorger and the others.
 [@ar02-loki]: AR02 | Epilogue: All You Need Is Justice | Riveria and Gareth in the Great Conflict.
 [@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne regenerates.
 [@ar03-behemoth]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
@@ -173,7 +174,9 @@ DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders] Astrea Record 1 
 [@so11-squad]: SO11 | Chapter 4: Avengers ~Knossos War~ | "given command of the southwestern squad, fully equipped with a helmet and heavy armor"; Dionysus: "Feel free to use my familia members to your heart’s content."
 [@so12-flags]: SO12 | Chapter 5: Final War | "a gnome toga spirit flag in his right hand and a Tonitrus mohair spirit flag in his left hand"; "the third squad".
 [@so12-act]: SO12 | Chapter 7: Final War II | "The two had known Finn longest."; "Got more wily tricks up your sleeve, huh?"; "playing up the act".
-[@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | Loki's party for the three; "as the oldest members"; "How many times have we leveled up together now?"; "With Zeus and Hera gone, Level Seven is the pinnacle."
+[@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | Loki's party for the three; "as the oldest members"; "How many times have we leveled up together now?"; "With Zeus and Hera gone, Level Seven is the pinnacle." The Japanese edition (file part0011, paragraphs 147 and 163 to 166) gives the first line to Loki, by her dialect, the line about fame to Gareth and the Level Seven line to Riveria.
 [@so14-drink]: SO14 | Chapter 3: The Dwarf’s Embarking | "he ordinarily never said a word"; "she was a good drinking partner for him".
 [@fm17-gulliver]: FM17 | Chapter 5: The End of Her World | "Washed-up old dwarf!"; "Gareth Landrock and the Gulliver brothers were staring each other down".
 [@ss02-spar]: SS02 | | Printed heading "A Man’s Pride" (not in the evidence map): Bete "never managed to land so much as a scratch on the seasoned dwarf".
+[@fm10-gareth-ja]: FM10 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning heavy hero, with the reading Elgarm; the infobox gives the printed name and the kanji.
+[@fm11-hiyo-ja]: FM11 | | The Japanese edition writes the sword's name in kanji meaning ice hawk.

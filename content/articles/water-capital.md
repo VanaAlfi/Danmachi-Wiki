@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Region"},
+      {"label": "Japanese", "value": "{{ja|水の迷都}}, written *water labyrinth city*", "refs": ["fm12-water-capital-ja"]},
       {"label": "Floors", "value": "25–27", "refs": ["fm13-region"]},
       {"label": "Layout", "value": "Three caverns linked by the Great Falls, each with a plunge pool", "refs": ["fm12-capital", "fm13-region"]},
       {"label": "Above", "value": "The Colossal Tree Labyrinth; reached from the twenty-fourth floor", "refs": ["fm12-tree", "fm12-entrance"]},
@@ -45,7 +46,7 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 | DanMachi 13 | Bors's hunting party comes down to catch Gale Wind ([[lyu-leon|Lyu]]); following Cassandra's prophecy, Aisha stays behind on the twenty-fifth floor while a chosen party goes on to the twenty-seventh, where they find a huge hole never seen before.[@fm13-region, fm13-depths, fm13-hole] |
 | DanMachi 14 | After the [[juggernaut|Juggernaut]]'s birth and a chain of explosions, the floor boss [[amphisbaena|Amphisbaena]] appears out of its usual interval, and the labyrinth of the twenty-fifth floor collapses.[@fm14-irregular, fm14-collapse] While the Dungeon repairs the twenty-fifth floor, no new monsters spawn on any of the region's three floors.[@fm14-repair] |
 
-[@fm12-capital]: FM12 | Chapter 3: New World ~Water Island~ | "the three large caverns linked across three floors by a single waterfall are called the Water Capital of the Dungeon"; "the New World".
+[@fm12-capital]: FM12 | Chapter 3: New World ~Water Island~ | "the three large caverns linked across three floors by a single waterfall are called the Water Capital of the Dungeon"; "the New World". The Japanese edition (file part0016, paragraph 48) calls the Water Capital itself the Dungeon's mystery that has made adventurers call it the New World.
 [@fm12-layout]: FM12 | Chapter 3: New World ~Water Island~ | "The twenty-fifth through twenty-seventh floors have a multistory structure."; passages "at the depth of the plunge pools".
 [@fm12-tree]: FM12 | Chapter 3: New World ~Water Island~ | "The Great Falls pour out from the vicinity of the twenty-fifth floor’s ceiling"; "traces of the Colossal Tree Labyrinth".
 [@fm12-entrance]: FM12 | Chapter 3: New World ~Water Island~ | "at the far southern tip of this floor, at the end of the connecting passageway from the twenty-fourth floor"; "harpies and other bird-type monsters".
@@ -56,7 +57,7 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 [@fm13-region]: FM13 | Chapter 2: The Prophetess of Tragedy | "The Water Capital began on the twenty-fifth floor and continued to the twenty-seventh"; "a plunge pool as huge as a lake".
 [@fm13-depths]: FM13 | Chapter 2: The Prophetess of Tragedy | "the end point of the Great Falls on the twenty-seventh floor, which was the lowest level of the Water Capital"; Aisha stays on the twenty-fifth floor.
 [@fm13-lizardmen]: FM13 | Chapter 3: The True Intentions of Gale Wind | "Mermen."; "an underwater version of lizardmen"; "among the stronger opponents we’re likely to encounter on the twenty-sixth floor".
-[@fm13-hole]: FM13 | Chapter 2: The Prophetess of Tragedy | "I’ve never seen a huge hole like this on the twenty-seventh floor…".
+[@fm13-hole]: FM13 | Chapter 3: The True Intentions of Gale Wind | "I’ve never seen a huge hole like this on the twenty-seventh floor…".
 [@fm14-irregular]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "a chain of explosions so great it seemed the entire Water Capital would be demolished"; Amphisbaena's roar across "all three floors of the Water Capital".
 [@fm14-collapse]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "the entire Water Capital shook as a mass of debris" hurtled to the ground.
 [@fm14-repair]: FM14 | Chapter 8: The Voice of the Hammer | "no new monsters were currently being spawned on any of the Water Capital’s three floors".
@@ -65,3 +66,4 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 [@fm20-gorge]: FM20 | Chapter 1: Orario Rumble | "the Tangled Gorge"; "the Water Capital, which ends on the twenty-seventh floor"; "From the twenty-ninth to the thirty-second floor".
 [@fm20-garden]: FM20 | Chapter 1: Orario Rumble | "The Under Garden."; "the second safe point, following the Under Resort on the eighteenth floor"; "its position on the twenty-eighth floor".
 [@fm20-few]: FM20 | Chapter 1: Orario Rumble | "there are a lot fewer parties capable of getting through the Water Capital and making it to the twenty-eighth floor".
+[@fm12-water-capital-ja]: FM12 | | The Japanese edition writes the name in kanji meaning water labyrinth city, read as water capital; the infobox gives the kanji.

@@ -15,6 +15,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Term"},
+      {"label": "Japanese", "value": "{{ja|発展アビリティ}}", "refs": ["fm04-development-ability-ja"]},
       {"label": "Printed as", "value": "Advanced Ability (earlier volumes); development ability (later volumes)", "refs": ["fm02-named", "fm12-escape"]},
       {"label": "Part of", "value": "An adventurer's [[status|Status]], listed with the basic abilities", "refs": ["fm04-choice", "so01-aiz"]},
       {"section": "Rules"},
@@ -25,7 +26,7 @@
   },
   "sections": [
     {"anchor": "abnormal-resistance", "title": "Abnormal Resistance", "summary": "The Development Ability that protects against poison and other status ailments, most often printed as Immunity and also as Resistance. The commonest ability on the printed Status cards.", "aliases": ["Immunity", "Resistance"], "former_slug": "abnormal-resistance"},
-    {"anchor": "hunter", "title": "Hunter", "summary": "Raises the basic abilities against monsters of kinds the adventurer has fought extensively; only available at Level 2.", "aliases": []},
+    {"anchor": "hunter", "title": "Hunter", "summary": "Raises the basic abilities against kinds of monster the adventurer has fought before; only available at the Level 2 rank-up.", "aliases": []},
     {"anchor": "luck", "title": "Luck", "summary": "Bell Cranell's unprecedented Development Ability, chosen at Level 2; its effect is unknown.", "aliases": []},
     {"anchor": "forge", "title": "Forge", "summary": "The smith's Development Ability that lets them give weapons and armour special properties; also printed Blacksmith and Smith.", "aliases": ["Blacksmith", "Smith"]},
     {"anchor": "compounding", "title": "Compounding", "summary": "The item-maker's Development Ability for better potions and medicine; also printed Synthesize and Synthesis.", "aliases": ["Synthesize", "Synthesis"]},
@@ -56,7 +57,7 @@ A Development Ability is chosen at a Level Up, from the options that the adventu
 
 - **Sometimes there is no choice, or nothing at all.** When Bell reaches Level 4 only Escape is on offer, and Hestia notes that Development Abilities are rare enough to take whatever appears. Aiz gains none when she reaches Level 5, and only Regen at Level 6.[@fm12-escape, so03-aiz]
 - **A god can delay the choice.** In DanMachi 15 Hestia defers Lilly's Level Up so that she can talk over Resistance and Compounding with the others first.[@fm15-lilly]
-- **The system was mapped by [[zeus-and-hera-familias|Zeus and Hera]].** Astrea Record 3 says their Familias discovered how to unlock Development Abilities.[@ar03-unlock]
+- **The system was mapped by [[zeus-and-hera-familias|Zeus and Hera]].** Astrea Record 3 says their Familias reported to the Guild, one by one, the conditions for acquiring Development Abilities.[@ar03-unlock]
 - **Items can need several.** Fels's magic items needed several Development Abilities to make, and a grimoire needs both Mage (printed Magic Control) and Enigma, so its maker must be at least Level 3.[@fm10-fels, fm02-grimoire]
 
 ## Ranks
@@ -90,7 +91,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | Ability | Holders | What it does |
 |---|---|---|
 | [[#abnormal-resistance|Abnormal Resistance]] | Bell, Aiz, Lefiya, Lilly, Mikoto, Lyu and many others | Protects against poison and ailments[@fm04-immunity] |
-| [[#hunter|Hunter]] | Aiz, Lyu, Bete, Finn, Raul, Ottar | Stronger against monsters fought many times[@fm04-hunter] |
+| [[#hunter|Hunter]] | Aiz, Lyu, Bete, Finn, Raul, Ottar, Alize | Stronger against kinds of monster fought before[@fm04-hunter] |
 | [[#luck|Luck]] | Bell | Unknown[@fm04-luck] |
 | [[#forge|Forge]] | Welf; many smiths | Special properties in forged items[@fm02-named] |
 | [[#compounding|Compounding]] | Nahza, Chloe | Better items and medicine[@fm04-nahza, fm15-lilly] |
@@ -114,7 +115,6 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#other-abilities|Supreme Attack]] | Leon | Not described[@sheet.fm20-leon] |
 | [[#other-abilities|Speed]] | Raul | Not described[@sheet.so11-raul] |
 | [[#other-abilities|Brawler]] | Runoa | Not described[@fc01-runoa] |
-| [[#other-abilities|Heavy Guard]] | — | Named only[@fm02-named] |
 
 ## Abilities described in the text {#described-abilities}
 
@@ -122,7 +122,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 **Abnormal Resistance** protects against monster poison and other ailments. DanMachi 4 calls it very basic but highly valued in the Dungeon, and relatively easy to acquire because so many adventurers breathe the spores of [[monsters#purple-moth|purple moths]] in the [[upper-levels|upper levels]].[@fm04-immunity] Lilly chooses it at Level 2 because it passively prevents harmful Status ailments, which Dungeon expeditions all but require.[@fm15-lilly]
 
-- **Printed as:** Immunity (most volumes); Abnormal Resistance (Sword Oratoria 6 and 12); Resistance (DanMachi 15 and 19, Familia Chronicle 1 and 3)[@fm04-immunity, so06-cards, so12-lefiya, fm15-lilly, fc03-cards]
+- **Printed as:** Immunity (most volumes); Abnormal Resistance (Sword Oratoria 6 and 12); Resistance (DanMachi 15 and 19, Familia Chronicle 1 and 3) {{small|printed *Heavy Guard* in DanMachi 2}}[@fm04-immunity, so06-cards, so12-lefiya, fm15-lilly, fc03-cards, fm02-named]
 
 #### Limits {#abnormal-resistance-limits}
 
@@ -157,7 +157,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 ### Hunter {#hunter}
 
-**Hunter** temporarily raises the basic abilities when fighting a type of monster the adventurer has plenty of experience with. It can be learned only at Level 2 and needs an enormous amount of excelia from the same monsters, so it is hard to get; adventurers want it, and the gods value it for its rarity.[@fm04-hunter] Bell is offered it at Level 2 but chooses Luck.[@fm04-luck]
+**Hunter** raises the basic abilities in fights against kinds of monster the adventurer has fought before and gained excelia from. It can appear only at the Level 2 rank-up, and its condition, repelling a great many monsters in a short time, makes it extremely hard to get; it counts as a precious ability, popular with adventurers and gods alike.[@fm04-hunter] Bell is offered it at Level 2 but chooses Luck.[@fm04-luck]
 
 | Holder | Rank | Where |
 |---|---|---|
@@ -167,6 +167,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | Finn Deimne | E | [@sheet.so08-finn] |
 | Raul Nord | H | [@sheet.so11-raul] |
 | Ottar | E | [@sheet.fc02-ottar] |
+| Alize Lovell | H | [@sheet.ar03-alize-ja] |
 
 ### Luck {#luck}
 
@@ -240,7 +241,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 
 ### Successive Attacks {#successive-attacks}
 
-**Successive Attacks** makes attacks stronger the more of them the holder lands in quick succession, according to the Guild's information as Bell remembers it.[@fm18-bell]
+**Successive Attacks** ({{ja|連攻}}, *successive attacks*)[@successive-attacks.fm18-ja] makes attacks stronger the more of them the holder lands in quick succession, according to the Guild's information as Bell remembers it.[@fm18-bell]
 
 - **Printed as:** Rapid Attacks (DanMachi 18); Successive Attacks (DanMachi 20, Familia Chronicle 3); Chain Attack (Sword Oratoria 8 sheet)[@fm18-bell, fm20-bell, fc03-cards, sheet.so08-finn]
 
@@ -252,13 +253,13 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 
 ### Dive {#dive}
 
-**Dive** lets its holders swim like fish, with the same basic effects as [[equipment#undine-cloth|Undine cloth]]; Lefiya thinks it fairly rare.[@so06-dive] DanMachi 12 says that only adventurers with special underwater abilities can fight water-dwelling monsters on equal terms in their own territory.[@fm12-water]
+**Dive** ({{ja|潜水}}, *diving*)[@dive.so06-ja] lets its holders swim like fish, with the same basic effects as [[equipment#undine-cloth|Undine cloth]]; Lefiya thinks it fairly rare.[@so06-dive] DanMachi 12 says that only adventurers with special underwater abilities can fight water-dwelling monsters on equal terms in their own territory.[@fm12-water]
 
 - **Holders:** [[hyrute-sisters|Tiona and Tione Hyrute]], G on their sheets[@sheet.so03-tiona, sheet.so04-tione]
 - **Printed as:** Dive; Drive (Tiona's Sword Oratoria 3 sheet, probably a misprint)[@sheet.so03-tiona, sheet.so04-tione, so06-dive]
 
 > [!UNRESOLVED] When they gained it
-> Sword Oratoria 6 says the sisters learned Dive at their recent Level Up to Level 6, but their Level 5 sheets in Sword Oratoria 3 and 4 already list it at rank G.[@so06-dive, sheet.so03-tiona, sheet.so04-tione]
+> Dive is obtained at a Level Up; the sisters learned to fight underwater before they came to Orario, and their Level 5 sheets in Sword Oratoria 3 and 4 already list it at rank G.[@so06-dive, sheet.so03-tiona, sheet.so04-tione]
 
 ## Abilities known from Status cards and sheets {#card-abilities}
 
@@ -339,7 +340,6 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 | Supreme Attack | Leon Verdenberg, I | His spell Blaze of the Round greatly boosts it when its eleventh trial is destroyed.[@sheet.fm20-leon] |
 | Speed | Raul Nord, I | Raul's sheet lists no magic or Skills.[@sheet.so11-raul] |
 | Brawler | Runoa Faust, I | [@fc01-runoa] |
-| Heavy Guard | — | Named in DanMachi 2 as an ability many adventurers gain; no holder or effect is given.[@fm02-named] |
 
 ## Abilities lent by Skills and magic {#lent-abilities}
 
@@ -357,15 +357,13 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - What Luck actually does: its effect on chance, what it covers and how its rank changes the effect.[@fm04-luck, fc01-luck]
 > - What the abilities known only from cards and sheets do, from Swordsman and Magic Resistance to Speed.[@so01-aiz, sheet.so11-raul]
-> - What Heavy Guard is; it may be one of the abilities printed under another name.[@fm02-named]
 > - What decides which options are offered at a Level Up, beyond accumulated excelia.[@fm04-choice]
-> - Lefiya's Sword Oratoria 13 sheet prints *Hunter H* in the place her in-text card in the same volume gives to Magic Control H; her Sword Oratoria 2 sheet prints her as Level 5 when the text has her at Level 3.[@sheet.so13-lefiya, sheet.so13-p26, sheet.so02-lefiya]
 
-[@fm02-named]: FM02 | Chapter 1: Date, Then Supporter | Advanced Abilities chosen at a Level Up; a reward; Forge and Hephaistos Familia's smiths; Heavy Guard, Magic Control and Enigma; the Philosopher's Stone.
+[@fm02-named]: FM02 | Chapter 1: Date, Then Supporter | Advanced Abilities chosen at a Level Up; a reward; Forge and Hephaistos Familia's smiths; Heavy Guard, Magic Control and Enigma; the Philosopher's Stone. The Japanese edition (file c5Z, paragraph 276) names Abnormal Resistance, Magic and Mystery as typical Development Abilities.
 [@fm02-grimoire]: FM02 | Chapter 4: Divine Wine | Grimoires need Magic Control and Enigma; a maker of at least Level 3.
 [@fm04-choice]: FM04 | Chapter 1: Denatus | Specialised abilities; options depend on excelia; one per Level Up.
-[@fm04-immunity]: FM04 | Chapter 1: Denatus | Immunity: poison and ailments; basic but valued; purple moths.
-[@fm04-hunter]: FM04 | Chapter 1: Denatus | Hunter: Level 2 only; much excelia from the same monsters.
+[@fm04-immunity]: FM04 | Chapter 1: Denatus | Immunity: poison and ailments; basic but valued; purple moths. The Japanese edition (file c87, paragraph 84) calls Immunity unglamorous and gained at a relatively early stage.
+[@fm04-hunter]: FM04 | Chapter 1: Denatus | Hunter: Level 2 only. The Japanese edition (file c87, paragraph 85) gives its condition as repelling a great many monsters in a short time, and its effect as stronger abilities in fights with a kind of monster fought before.
 [@fm04-luck]: FM04 | Chapter 1: Denatus | Luck: never seen before; the speculations; Bell chooses it.
 [@fm04-card]: FM04 | Chapter 1: Denatus | Bell's Level 2 card: Luck I.
 [@fm04-forge]: FM04 | Chapter 3: The Smith’s Situation | Welf wants Forge; magic swords and Forge.
@@ -405,7 +403,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@so03-aiz]: SO03 | Chapter 1: The Black Robe’s Invitation | Knight I→H; none at Level 5; Regen I at Level 6, only Riveria's until then.
 [@so03-talaria]: SO03 | Chapter 4: White-Haired Devil | Talaria, made with Enigma.
 [@so06-cards]: SO06 | Chapter 1: Quest Results & Next Quest | Aiz: Hunter G, Abnormal Resistance G, Swordsman H, Spirit Healing I; Lefiya: Mage H, Abnormal Resistance I.
-[@so06-dive]: SO06 | Chapter 2: Port Meren | Dive: learned at the recent Level Up; Undine cloth; rare.
+[@so06-dive]: SO06 | Chapter 2: Port Meren | Dive: obtained at a Level Up (the Japanese edition, file c12J, paragraphs 217 to 224, where the sisters date their underwater fighting to before Orario); Undine cloth; rare.
 [@so07-mystery]: SO07 | Chapter 3: Feast of the Dead | Barca: "a wielder of the Mystery ability".
 [@so10-spirit]: SO10 | Chapter 5: Brave Soul! | Spirit Healing's automatic Mind recovery.
 [@so11-aiz]: SO11 | Chapter 4: Avengers ~Knossos War~ | Aiz: Hunter G, Immunity G, Knight I, Spirit Healing I.
@@ -413,9 +411,9 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@so11-amid]: SO11 | Chapter 4: Avengers ~Knossos War~ | Amid's magic circle without the mage ability.
 [@so12-lefiya]: SO12 | Chapter 4: Nameless Heroes | Lefiya's Level 4 card: Conjure H, Abnormal Resistance I, Magic Resistance I.
 [@so14-riveria]: SO14 | Chapter 3: The Dwarf’s Embarking | Riveria without the mage ability.
-[@ar03-unlock]: AR03 | Chapter 8: The Price of Talent | Zeus and Hera discovered how to unlock Advanced Abilities.
+[@ar03-unlock]: AR03 | Chapter 8: The Price of Talent | Zeus and Hera reported the conditions for Development Abilities. The Japanese edition (file c7UR, paragraph 21) says they reported them to the Guild, among maps and growth models.
 [@sheet.so01-aiz]: SO01 | | Illustrated Status sheet, p. 226 (Level 5): Hunter G, Immunity G, Knight I.
-[@sheet.so02-lefiya]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Conjure H, Immunity I.
+[@sheet.so02-lefiya]: SO02 | | Illustrated Status sheet, p. 228 (Level 3 on the Japanese edition's sheet, image page c5M4, as in the text): Conjure H, Immunity I.
 [@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Pummel G, Drive G, Immunity H, Fracture I.
 [@sheet.so04-tione]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Pummel G, Dive G, Immunity H, Healing Power I.
 [@sheet.so05-bete]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hunter G, Immunity G, Pummel G, Healing Power H.
@@ -424,7 +422,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@sheet.so08-finn]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Hunter E, Immunity E, Magic Resistance H, Initiative H, Chain Attack H; Dia Phiana lends Lancer.
 [@sheet.so10-aiz]: SO10 | | Illustrated Status sheet, p. 300 (Level 6): Hunter G, Immunity G, Knight H, Spirit Healing I.
 [@sheet.so11-raul]: SO11 | | Illustrated Status sheet at the end of the volume (Level 4): Hunter H, Immunity H, Speed I; no magic or Skills.
-[@sheet.so13-lefiya]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Hunter H, Immunity I, Magic Defense I.
+[@sheet.so13-lefiya]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Immunity I, Magic Defense I. The Japanese edition's sheet (image page part0043) lists Mage H first, as her card in the same volume does.
 [@sheet.so13-p26]: SO13 | | Level 4 update printed as an image, p. 26: Magic Control H, Immunity I, Magic Defense I.
 [@sheet.fm13-lyu]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Hunter G, Immunity G, Magic Resistance I.
 [@sheet.fm14-daphne]: FM14 | | Illustrated Status page, p. 165 (Level 2): Immunity I; Helios Passion lends Escape.
@@ -438,3 +436,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@sheet.ar01-lyu]: AR01 | | Illustrated character sheet, pp. 262–263 (Level 3): Hunter H, Immunity I.
 [@sheet.ar02-ardee]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Immunity H, Healing I.
 [@sheet.ar03-alize]: AR03 | | Illustrated character sheet, pp. 266–267 (Level 4): Immunity I, Conflagrate I.
+[@sheet.ar03-alize-ja]: AR03 | | Illustrated character sheet (Level 4) in the Japanese edition (file c9VS, the sheet image after the Epilogue): Hunter H, Abnormal Resistance I, Conflagrate I.
+[@successive-attacks.fm18-ja]: FM18 | | The Japanese edition names the ability with the kanji for successive attacks.
+[@dive.so06-ja]: SO06 | | The Japanese edition names the ability with the kanji for diving.
+[@fm04-development-ability-ja]: FM04 | | The Japanese edition calls them by a name meaning development abilities, the second word in katakana; the infobox gives it.

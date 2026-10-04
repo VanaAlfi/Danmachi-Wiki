@@ -14,10 +14,11 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Group"},
+      {"label": "Japanese", "value": "{{ja|ガリバー兄弟}}", "refs": ["fm16-gulliver-ja"]},
       {"label": "Members", "value": "Alfrik, Dvalinn, Berling and Grer, in order of age", "refs": ["fm16-weapons", "fm16-names"]},
       {"label": "Race", "value": "[[races#prum|Prum]]; quadruplets", "refs": ["fc02-bringar"]},
       {"label": "Origin", "value": "Orphaned craftsmen from an industrial city", "refs": ["fc02-past-g"]},
-      {"label": "Title", "value": "Bringar, the Four Knights of the Golden Flame", "refs": ["fc02-bringar"]},
+      {"label": "Title", "value": "Bringar, the Four Knights of the Golden Flame ({{ja|炎金の四戦士}}, written *four warriors of flame and gold*)", "refs": ["fc02-bringar", "fm16-gulliver-ja"]},
       {"section": "Adventurers"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-bringar"]},
       {"label": "Level", "value": "4 in Astrea Record 1; 5 in Familia Chronicle 2 and DanMachi 16", "refs": ["ar01-levels", "fc02-bringar", "fm16-teamwork"]}
@@ -57,7 +58,7 @@ In [[ali|Ali]]'s war of Familia Chronicle 2 the brothers act as Freya's guards a
 | Volume | Events |
 |---|---|
 | Astrea Record 1 | Alfrik and Hedin have studied old battles in the Guild library, and so recognise Osiris Familia among the Evils' fighters.[@ar01-library] |
-| Astrea Record 3 | Hold their own against Basram's spirit warriors.[@ar03-basram] |
+| Astrea Record 3 | Driven back by Basram's spirit soldiers.[@ar03-basram] |
 | Familia Chronicle 2 | In [[ali|Ali]]'s war in the Kaios Desert they rampage through Warsa's army.[@fc02-desert] |
 | Sword Oratoria 4 | With Allen, they keep [[loki-familia|Loki Familia]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]].[@so04-bringar] |
 | Sword Oratoria 12 | Join the final battle: they take the [[equipment#spirit-cloth|spirit flag]]s from [[tsubaki|Tsubaki]] and Loki Familia and charge through the enemy's magic, which "Those four small frames nullified" by working as one.[@so12-flags-g] |
@@ -90,9 +91,10 @@ Sword Oratoria 12 prints the family name once as *Gullivar* ("Alfrik Gullivar").
 [@fm17-gulliver]: FM17 | Chapter 5: The End of Her World | "Washed-up old dwarf!"; "Gareth Landrock and the Gulliver brothers were staring each other down".
 [@fm18-loyalty]: FM18 | Chapter 9: Flower Language for You | "That was the impetus that drove Alfrik and his brothers. They had always hated themselves."; "they had always prayed for the goddess’s safety".
 [@ar01-library]: AR01 | Chapter 11: Absolute Evil | "Hedin and Alfrik had visited the Guild library, poring over chronicles of old battles"; "the likenesses of Osiris Familia".
-[@ar03-basram]: AR03 | Chapter 5: Playing the Violence Card | "the Gullivers, holding their own against Basram’s spirit warriors".
+[@ar03-basram]: AR03 | Chapter 5: Playing the Violence Card | The Gullivers against Basram's spirit soldiers. The Japanese edition (file c3YC, paragraph 744) says the spirit soldiers drive them back.
 [@so12-flags-g]: SO12 | Chapter 7: Final War II | "Alfrik Gullivar"; "they quickly stole all the flags that Tsubaki and Loki Familia"; "Those four small frames nullified the tremendous storm of magic blasts by working as one."
 [@fc02-guards]: FC02 | Ali and the 8 Followers | "We combed through the entire residence to be sure no assassins or suspicious elements were here"; "Leaving the restraint and torture of Bofman to his brothers"; "The former slaves were startled by the sudden appearance of the Gulliver brothers and started sweating bullets in terror".
 [@fc02-fortress-g]: FC02 | Ali and the 8 Followers | "the eldest Gulliver brother lifted the faceguard of his sand-colored helm"; "passage in the rear where they loosed a fusillade of arrows at those who tried to flee"; "Some of the magic remnants are a bit stronger."; "there are characters written in blood".
 [@fc02-bait]: FC02 | Ali and the 8 Followers | "Dvalinn, Berling, you two guide them toward Leodo."; "Grer with his greatsword was left with the eldest brother."; "Alfrik and the others guarding the perimeter around Leodo have wiped out all of the Warsa forces in the vicinity."
 [@fc02-sindh]: FC02 | Ali and the 8 Followers | "their voices overlapping despite being so far away from each other, as if they were telepathic"; "the fourth division and reserve forces were cornered by a catman and four prums".
+[@fm16-gulliver-ja]: FM16 | | The Japanese edition prints the family name in katakana with the word for brothers, and writes their title in kanji meaning four warriors of flame and gold, with the reading Bringar; the infobox gives the printed name and the kanji.

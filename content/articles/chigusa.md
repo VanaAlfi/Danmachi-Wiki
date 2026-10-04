@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ヒタチ・千草}}", "refs": ["fm12-chigusa-ja"]},
       {"label": "Familia", "value": "[[takemikazuchi-familia|Takemikazuchi Familia]]", "refs": ["fm05-parade"]},
       {"label": "Level", "value": "1 in DanMachi 5; 2 by DanMachi 8", "refs": ["fm05-level", "fm08-level"]},
       {"label": "Weapon", "value": "Bow", "refs": ["fm13-chigusa"]}
@@ -30,7 +31,7 @@ DanMachi 5 introduces her as "a girl whose eyes were covered by her bangs".[@fm0
 | Volume | Events |
 |---|---|
 | DanMachi 5 | To save her on Floor 13, Ouka orders the pass parade that pushes monsters onto [[bell-cranell|Bell]]'s party.[@fm05-parade, fm05-ouka] Still Level 1, she joins the rescue party as its supporter, carrying weapons and potions.[@fm05-level] |
-| DanMachi 8 | Takemikazuchi says that she and Ouka reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]].[@fm08-level] |
+| DanMachi 8 | Takemikazuchi says that she and another member, Asuka, reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]].[@fm08-level] |
 | DanMachi 11 | Sees for herself that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] |
 | DanMachi 12 | Two members of Takemikazuchi Familia level up, and the gods discuss a title for Chigusa at [[denatus|Denatus]], calling her shy.[@fm12-denatus] |
 | DanMachi 13 | Destroys the [[lambton|lambton]]'s last sensory pit with an arrow forged by [[welf-crozzo|Welf]].[@fm13-chigusa] |
@@ -41,7 +42,7 @@ DanMachi 5 introduces her as "a girl whose eyes were covered by her bangs".[@fm0
 > - The title she receives; the Denatus scene does not settle it.[@fm12-denatus]
 
 [@fm05-level]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Bangs over her eyes; "still Level 1"; the rescue party's supporter.
-[@fm08-level]: FM08 | | "Chigusa and Ouka reached Level Two" during the Ishtar skirmishes.
+[@fm08-level]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map). The Japanese edition (file part0015, paragraph 275) has Takemikazuchi say that Chigusa and Asuka reached Level 2 in the Ishtar affair.
 [@fm15-ouka]: FM15 | | "Helplessly enamored with Ouka" in the shrine flashback.
 [@fm05-parade]: FM05 | Chapter 2: How Many Meders to a Safe Return? | The pass parade on Floor 13.
 [@fm05-ouka]: FM05 | | Ouka orders the pass parade to save Chigusa.
@@ -49,3 +50,4 @@ DanMachi 5 introduces her as "a girl whose eyes were covered by her bangs".[@fm0
 [@fm12-denatus]: FM12 | Chapter 1: Rabbit Close-Up | "Chigusa Hitachi…She's shy"; two members level up.
 [@fm13-chigusa]: FM13 | | Chigusa's arrow.
 [@fm15-shrine]: FM15 | | The Far Eastern shrine.
+[@fm12-chigusa-ja]: FM12 | | The Japanese edition prints her name family name first, the given name in kanji with the reading Chigusa; the infobox gives that printed form.

@@ -58,6 +58,8 @@ Fels was once Level 4 and can heal at a high level. In DanMachi 10 the spell [[#
 
 {{nocite}} The chant is extremely long and is printed in eight pieces, split by the narration and by scenes elsewhere in Orario. 
 
+In the Japanese edition four of the lines differ in sense: the second piece asks *your voice*, which even the power of healing cannot reach, to wait ({{ja|治癒の権能をもってしても届かざる汝の声よ──どうか待っていてほしい|chiyu no kennō o motte shite mo todokazaru nanji no koe yo — dōka matte ite hoshii}}); the third opens with *the King's judgment* ({{ja|王の審判|ō no shinpan}}); the fifth commands the gate to open and calls on *the King of the Underworld* ({{ja|冥王|ō}}); and the last is {{ja|嗚呼、私は振り返らない|ā, watashi wa furikaeranai}}, *Ah, I will not look back*, the vow of Orpheus in the myth the spell is named for.[@dia-orpheus.fm10-cast]
+
 - **Opening (excerpt):** "O untrodden domain, O forbidden wall."[@dia-orpheus.fm10-cast]
 - **Middle pieces:** they invoke the Rod of Asclepius, the gates of Charon and the river of time, and say the price has already been paid.[@dia-orpheus.fm10-cast]
 - **Last piece (excerpt):** "Yes, I will not turn away."[@dia-orpheus.fm10-cast]
@@ -89,17 +91,17 @@ After the fighting of DanMachi 11, Fels heals the Xenos, tends [[asterios|Asteri
 
 ### Dia Panacea {#dia-panacea}
 
-**Dia Panacea** is a healing spell of Fels's. In Fels's words it is "healing magic that alleviates all types of injuries and ailments, similar to an elixir".[@dia-panacea.fm10-bell] It is a different spell from Fels's resurrection magic, [[#dia-orpheus|Dia Orpheus]].[@dia-panacea.fm10-bell]
+**Dia Panacea** is a healing spell of Fels's. In Fels's words it is healing magic that alleviates all types of injuries and ailments, the same as an elixir: what is called full-healing magic.[@dia-panacea.fm10-bell] It is a different spell from Fels's resurrection magic, [[#dia-orpheus|Dia Orpheus]].[@dia-panacea.fm10-bell]
 
 - **User:** Fels[@dia-panacea.fm10-bell]
-- **Type:** Healing, "similar to an elixir"[@dia-panacea.fm10-bell]
+- **Type:** Healing, the same as an elixir (full-healing magic)[@dia-panacea.fm10-bell]
 - **Chant:** Short; printed in full[@dia-panacea.fm10-bell]
 
 #### Incantation {#dia-panacea-incantation}
 
 DanMachi 10 prints the chant once, then the name:[@dia-panacea.fm10-bell]
 
-- **Chant:** "Rod of Asclepius, Asclepius’s motherly light. By the power regeneration, all shall be healed."[@dia-panacea.fm10-bell]
+- **Chant:** "Rod of Asclepius, Asclepius’s motherly light. By the power regeneration, all shall be healed."[@dia-panacea.fm10-bell] The Japanese chant is {{ja|ピオスの蛇杖、ピオネの母光。治癒の権能をもって交わり、全てを癒せ|Piosu no tsue, Pione no hikari. chiyu no kennō o motte majiwari, subete o iyase}}, *Serpent staff of Pios, mother-light of Pione; joined by the power of healing, heal all*: Pios and Pione are Asclepius and his wife Epione, the mother of Panacea.[@dia-panacea.fm10-bell]
 - **Name:** "Dia Panacea."[@dia-panacea.fm10-bell]
 
 The patterns on Fels's glove shine like a magic user's staff, and a white magic circle appears; the narration calls it a perfectly executed Concurrent Casting.[@dia-panacea.fm10-bell]
@@ -141,7 +143,7 @@ Spheres of light in different colours surround [[bell-cranell|Bell]]. His wounds
 [@ss01-fels]: SS01 | | Age; the owl; the "haunted" workshop.
 [@dia-orpheus.fm10-panacea]: FM10 | Chapter 9: Dreams of Beasts | Dia Panacea heals Bell; Concurrent Casting; its chant.
 [@dia-orpheus.fm11-heal]: FM11 | Epilogue: And So I Start to Run Again | Fels heals the Xenos and restores Asterios's preserved arm.
-[@dia-orpheus.fm10-cast]: FM10 | Chapter 10: The Fool | Extremely long chant; resurrection magic of the Sage; all of Fels's Mind.
+[@dia-orpheus.fm10-cast]: FM10 | Chapter 10: The Fool | Extremely long chant; resurrection magic of the Sage; all of Fels's Mind. The Japanese edition (file c93B, paragraphs 1 to 42) gives the chant in the same eight pieces; the lines quoted in Japanese in the text are paragraphs 5, 8, 31 and 39.
 [@dia-orpheus.fm10-result]: FM10 | Chapter 10: The Fool | Wiene returns; "my first success"; eight hundred years; a Status slot.
 [@dia-orpheus.ar02-ouranos]: AR02 | Chapter 4: Those Who Struggle | Ouranos forbids resurrection.
-[@dia-panacea.fm10-bell]: FM10 | Chapter 9: Dreams of Beasts | The chant; the glove; Concurrent Casting; "similar to an elixir"; Bell healed.
+[@dia-panacea.fm10-bell]: FM10 | Chapter 9: Dreams of Beasts | The chant; the glove; Concurrent Casting; "similar to an elixir"; Bell healed. The Japanese edition (file c59K, paragraphs 1099 and 1105) gives the chant quoted in the text and has Fels call the spell the same as an elixir, what is called full-healing magic.

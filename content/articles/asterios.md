@@ -30,7 +30,7 @@ The black Minotaur is first named Asterios in DanMachi 10; in DanMachi 11 he tel
 
 ## Appearance and weapon {#appearance}
 
-When the adventurers first meet him in DanMachi 10 he is simply "A black minotaur" brandishing "a double-sided ax, a Labrys"; each single-handed swing of the Labrys shatters the floor and fells large trees.[@fm10-labrys] After losing his right arm to Aiz he fights with the Labrys in his left hand.[@fm11-rematch]
+When the adventurers first meet him in DanMachi 10 he is simply "A black minotaur" brandishing "a double-sided ax, a Labrys"; each single-handed swing of the Labrys shatters the floor, and his arms sweep foes aside like great trees.[@fm10-labrys] After losing his right arm to Aiz he fights with the Labrys in his left hand.[@fm11-rematch]
 
 ## The rematch {#rematch}
 
@@ -49,7 +49,7 @@ For Bell the encounter is decisive: "Bell had been lost since he met the Xenos, 
 | DanMachi 10 | Defeats [[ganesha-familia|Ganesha Familia]], [[aisha-belka|Aisha]], [[asfi|Asfi]] and [[lyu-leon|Lyu]], kills the hunter [[ikelos-familia#dix-perdix|Dix]], and, on the surface, loses his right arm to [[aiz-wallenstein|Aiz]] before escaping underground alive; [[finn-deimne|Finn]] judges that he went down into the sewers.[@fm10-asterios] |
 | DanMachi 11 | Asks Bell for a rematch and wins it, declares their score even, and returns underground. [[fels|Fels]] restores his arm, and he goes to train in the deep levels for their final battle.[@fm11-name, fm11-fels] |
 | DanMachi 12 | Bell's fight with him earns Bell his promotion to Level 4 and the Skill Ox Slayer.[@fm12-level] |
-| Sword Oratoria 12 | Aruru and Helga track him down in the deep levels "on secret orders from Fels", and he is "begged to return from his solo training journey"; he rejoins the Xenos and destroys one of the spirit altars in [[knossos|Knossos]] with a charge.[@so12-return, so12-asterios] |
+| Sword Oratoria 12 | Aruru and Helga track him down in the deep levels "on secret orders from Fels", and he is forcibly called back from his solo training; he rejoins the Xenos and destroys one of the spirit altars in [[knossos|Knossos]] with a charge.[@so12-return, so12-asterios] |
 
 ## Open questions
 
@@ -64,13 +64,13 @@ For Bell the encounter is decisive: "Bell had been lost since he met the Xenos, 
 [@fm12-level]: FM12 | Chapter 1: Rabbit Close-Up | A Level 7 monster; Bell's promotion.
 [@so11-level]: SO11 | | The Guild classifies him as Level 7.
 [@so12-asterios]: SO12 | Chapter 7: Final War II | Asterios returns.
-[@fm10-labrys]: FM10 | Chapter 9: Dreams of Beasts | "It brandished a double-sided ax, a Labrys."; "The floor shattered with every single-handed swing of its double-bladed Labrys. It felled large trees"; "A black minotaur…?!"
+[@fm10-labrys]: FM10 | Chapter 9: Dreams of Beasts | "It brandished a double-sided ax, a Labrys."; "The floor shattered with every single-handed swing of its double-bladed Labrys."; "A black minotaur…?!" The Japanese edition (file c59K, paragraph 362) says he swept them aside with arms like great trees.
 [@fm11-rematch]: FM11 | Chapter 7: The Return of the Hero | "the Sword Princess had cut off his arm, rather than the left side where he held the Labrys"; Ottar's sword "landing point-down in the center of the plaza at the feet of Bell and Asterios"; "whose left eye had been obliterated"; "the grand hall on the first story of Babel"; "Now we are even…"
 [@fm11-will]: FM11 | Epilogue: And So I Start to Run Again | "Asterios had no ulterior motives."; "All he sought was a rematch with his old opponent."; "his iron-strong will to fight and kill".
 [@fm11-names]: FM11 | Chapter 7: The Return of the Hero | "My name is Asterios."; "Tell me your name," Asterios implored him again.
 [@fm11-rightside]: FM11 | Chapter 7: The Return of the Hero | "Even the wind coming off the weapon might injure him"; "Bell abandoned his pride and aimed relentlessly for the monster’s right side, where the Sword Princess had cut off his arm"; "Asterios smiled"; "Asterios had come to this battle after Aiz and many other adventurers had injured him."
-[@so12-return]: SO12 | Chapter 7: Final War II | "Aruru and Helga tracked down Asterios’s location on secret orders from Fels."; "Asterios had been begged to return from his solo training journey in the deep levels".
-[@fm12-bounty]: FM12 | Chapter 1: Rabbit Close-Up | "officially, it had been designated a subspecies of black rhino, a creature found in the deep levels"; "They’d recorded it as a first-class bounty monster"; "making it as dangerous as a Monster Rex".
+[@so12-return]: SO12 | Chapter 7: Final War II | "Aruru and Helga tracked down Asterios’s location on secret orders from Fels." The Japanese edition (file c698, paragraph 462) says he was forcibly called back from his solo training in the deep levels.
+[@fm12-bounty]: FM12 | Chapter 1: Rabbit Close-Up | "officially, it had been designated a subspecies of black rhino, a creature found in the deep levels"; "They’d recorded it as a first-class bounty monster"; "making it as dangerous as a Monster Rex". The Japanese edition (file part0012, paragraph 17) says that, strictly speaking, it is a subspecies of the black rhino.
 [@fm11-rumours]: FM11 | Epilogue: And So I Start to Run Again | "People said that while Bell Cranell had been battling the violent black minotaur, Loki Familia had exterminated the others. In fact, the rumors were started on the orders of Ouranos, who knew the whole story."
 [@so10-unreadable]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "Unlike the other armed monsters, it didn’t seem to have any higher reasoning. It seemed to be only a creature starved for combat"; "If the monsters were rational, Finn could predict their movements, but that black minotaur alone was unreadable."
 [@so12-grin]: SO12 | Chapter 8: A Heroes’ Chorus | "The jet-black minotaur spoke in brusque human words for the first time that battle and then smiled. That brutal grin masked an irrepressible hunger, and that glimpse of reasoning was consumed by his battle instincts."

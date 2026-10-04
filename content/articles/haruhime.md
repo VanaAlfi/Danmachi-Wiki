@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|サンジョウノ・春姫}}", "refs": ["fm07-haruhime-ja"]},
       {"label": "Race", "value": "[[races#renart|Renart]]", "refs": ["fm07-name"]},
       {"label": "Name as printed", "value": "Sanjyouno Haruhime (DanMachi 7); Haruhime Sanjouno (later volumes)", "refs": ["fm07-name", "fm15-name"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Ishtar Familia; [[hestia-familia|Hestia Familia]] from DanMachi 7", "refs": ["fm07-history", "fm07-join"]},
       {"label": "Level", "value": "1; 2 by DanMachi 18", "refs": ["fm08-party", "fm18-level2"]},
-      {"label": "Title", "value": "Rikkou Kinshu, from DanMachi 20", "refs": ["fm20-title"]},
+      {"label": "Title", "value": "Rikkou Kinshu ({{ja|六光金主}}, written *six lights, gold master*), from DanMachi 20", "refs": ["fm20-title", "fm20-haruhime-title-ja"]},
       {"label": "Magic", "value": "[[#uchide-no-kozuchi|Uchide no Kozuchi]], [[#kokonoe|Kokonoe]]", "refs": ["fm07-history", "fm12-kokonoe", "fm15-card"]},
       {"label": "Skill", "value": "[[skills#mikuzume-no-hou|Mikuzume no Hou]]", "refs": ["fm15-card"]}
     ]
@@ -34,7 +35,7 @@ DanMachi 7 prints her name in the Far Eastern order, *Sanjyouno Haruhime*; later
 
 ## Ishtar Familia
 
-Haruhime was disowned at eleven, five years before DanMachi 7, after she ate, half asleep, "an extremely valuable divine offering": purified rice cakes that a visiting prum aristocrat was carrying to their deity Amaterasu.[@fm07-offering] She ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises [[phryne-jamil|Phryne]]'s strength.[@so06-caster]
+Haruhime was disowned at eleven, five years before DanMachi 7, after she ate, half asleep, "an extremely valuable divine offering": sacred food that a visiting prum official was carrying to their deity Amaterasu.[@fm07-offering] She ended up with Ishtar Familia in [[pleasure-quarter|the Pleasure Quarter]]. [[mikoto|Mikoto]] knew her as a child in the Far East.[@fm07-history] [[ishtar|Ishtar]] plans to seal her magic and her soul in a [[killing-stone|Killing Stone]], a forbidden magic item made by combining a tamamo stone and a toba stone.[@fm07-history, fm07-stone] In Sword Oratoria 6 she is Ishtar Familia's veiled caster, whose unnamed boosting spell raises [[phryne-jamil|Phryne]]'s strength.[@so06-caster]
 
 [[bell-cranell|Bell]] breaks the Killing Stone and rescues her. After Ishtar is sent back to the heavens, Haruhime asks to join Hestia Familia.[@fm07-rescue, fm07-join]
 
@@ -80,13 +81,15 @@ The spell is named *Uchide no Kozuchi* from DanMachi 7 onward; *Level Boost* is 
 
 > —Grow. That power and that vessel. Breadth of wealth and breadth of wishes. Until the bell tolls, bring forth glory and illusion. —Grow. Confine divine offerings within this body. This golden light bestowed from above. Into the hammer and into the ground, may it bestow good fortune upon you. —Grow.
 
+In the Japanese edition the first line agrees in sense with the print, and the second is {{ja|神饌を食らいしこの体。神に賜いしこの金光。槌へと至り土へと還り、どうか貴方へ祝福を|kami o kuraishi kono karada. kami ni tamaishi kono konkō. tsuchi e to itari tsuchi e to kaeri, dōka anata e shukufuku o}}, *This body that devoured the sacred offering; this golden light granted by the gods; reaching the hammer and returning to the earth, please, a blessing upon you*. It speaks of Haruhime herself, who ate the offerings as a child: she says *kami*, the word for a god, and *sacred offering* is the written meaning; *tsuchi* is both *hammer* and *earth*. The third call is drawn out, {{ja|大きくなぁれ|ōkiku naare}}.[@uchide-no-kozuchi.fm07-chant, fm07-offering]
+
 {{nocite}} **Notes and other printed variants**
 
 {{nocite}} The chant is printed with the same wording in every full print. 
 
 - **Structure:** Haruhime begins with "—Grow.", recites two lines, each followed by "Grow", and then names the spell.[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm12-kokonoe]
 - **Excerpt (first line):** "That power and that vessel. Breadth of wealth and breadth of wishes."[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm12-kokonoe, uchide-no-kozuchi.fm18-chant]
-- **Second line:** asks that divine offerings be confined in the body and that the golden light, sent into the hammer and the ground, bring good fortune.[@uchide-no-kozuchi.fm07-chant]
+- **Second line:** speaks of the body that devoured the sacred offering and the golden light granted by the gods, which reaches the hammer and returns to the earth, and asks a blessing on the target.[@uchide-no-kozuchi.fm07-chant]
 - **Release:** "Uchide no Kozuchi."[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm11-hammer]
 
 | Volume | What is printed |
@@ -97,7 +100,7 @@ The spell is named *Uchide no Kozuchi* from DanMachi 7 onward; *Level Boost* is 
 | DanMachi 14 | Only "Grow. Uchide no Kozuchi!"[@uchide-no-kozuchi.fm14-boost] |
 | DanMachi 18 | The full sequence after Kokonoe, ending "Uchide no Kozuchi—Dance!"[@uchide-no-kozuchi.fm18-chant] |
 
-As she chants, a cloud of golden light forms above her and becomes a hammer of light, which falls on the target. DanMachi 11 notes that she forms no magic circle, a sign of the spell's peculiar nature.[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm11-hammer] Casting it through Kokonoe is described as linking two spells' chants: DanMachi 12 calls this "Concatenated Casting", and DanMachi 18 "chained casting".[@uchide-no-kozuchi.fm12-kokonoe, uchide-no-kozuchi.fm18-chant]
+As she chants, a cloud of golden light forms above her and becomes a hammer of light, which falls on the target. DanMachi 11 notes that, magic circle or not, the spell gives off golden magic light even before it takes effect, which marks it out as peculiar.[@uchide-no-kozuchi.fm07-chant, uchide-no-kozuchi.fm11-hammer] Casting it through Kokonoe is described as linking two spells' chants: DanMachi 12 calls this "Concatenated Casting", and DanMachi 18 "chained casting".[@uchide-no-kozuchi.fm12-kokonoe, uchide-no-kozuchi.fm18-chant]
 
 #### Effects {#uchide-no-kozuchi-effects}
 
@@ -172,7 +175,7 @@ DanMachi 12 calls this linking of two chants "Concatenated Casting"; DanMachi 18
 
 #### Tails {#kokonoe-tails}
 
-The spell can make up to nine tails, but in DanMachi 12 she can produce only five.[@kokonoe.fm12-kokonoe] After reaching Level 2 before the Familia War of DanMachi 18, she can handle six; each extra tail costs more Mind, and she can use fewer when she needs to.[@kokonoe.fm18-six]
+The spell can make up to nine tails, but in DanMachi 12 she can produce only five.[@kokonoe.fm12-kokonoe] After reaching Level 2 before the Familia War of DanMachi 18, she can handle six, and her Mind itself has grown, so using five no longer brings on the Mind Down it caused on the expedition to the lower levels.[@kokonoe.fm18-six]
 
 | Volume | Use |
 |---|---|
@@ -209,10 +212,10 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.
 [@uchide-no-kozuchi.so06-phryne]: SO06 | | Phryne raised to Level-6 combat power; spell unnamed.
 [@uchide-no-kozuchi.fm07-named]: FM07 | Chapter 6: Yearning of a Hero | Spell named; Aisha and Bell boosted.
-[@uchide-no-kozuchi.fm07-chant]: FM07 | Chapter 6: Yearning of a Hero | Full chant with "Grow"; hammer of light; the boost persists until it expires or she ends it.
+[@uchide-no-kozuchi.fm07-chant]: FM07 | Chapter 6: Yearning of a Hero | Full chant with "Grow"; hammer of light; the boost persists until it expires or she ends it. The Japanese edition (file c8AX, paragraphs 706–731) gives the chant; its second line and third call are quoted in the text.
 [@uchide-no-kozuchi.fm09-duration]: FM09 | Chapter 5: Heretics | Fifteen-minute duration with sufficient Mind.
 [@uchide-no-kozuchi.fm11-rescue]: FM11 | Chapter 5: Ultra Soul! | Bell's rescue sprint; about ten minutes before another boost.
-[@uchide-no-kozuchi.fm11-hammer]: FM11 | Chapter 5: Ultra Soul! | "—Grow."; no magic circle; hammer of light falls on Aisha.
+[@uchide-no-kozuchi.fm11-hammer]: FM11 | Chapter 5: Ultra Soul! | "—Grow."; golden light before it takes effect; hammer of light falls on Aisha. The Japanese edition (file c4DR, paragraph 705) says it gives off golden magic light before it takes effect, whether or not there is a magic circle.
 [@uchide-no-kozuchi.fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe's tails.
 [@uchide-no-kozuchi.fm14-boost]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "level boost" in lower case; "Grow. Uchide no Kozuchi!"
 [@uchide-no-kozuchi.fm15-limits]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Target, duration and recast limits.
@@ -227,8 +230,10 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@kokonoe.fm14-name]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Kokonoe!"
 [@kokonoe.fm13-two]: FM13 | Chapter 4: Countdown | Two boosts in the lambton battle.
 [@kokonoe.fm15-card]: FM15 | | Haruhime's Level 1 card.
-[@kokonoe.fm18-six]: FM18 | Chapter 8: The Great Familia War | Six tails; Mind cost per tail.
+[@kokonoe.fm18-six]: FM18 | Chapter 8: The Great Familia War | Six tails; five used. The Japanese edition (file part0021, paragraph 1076) says her Mind itself grew with the Level Up, so the Mind Down that five tails caused on the lower-levels expedition is no longer a worry.
 [@kokonoe.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Full chant in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
 [@kokonoe.so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.
 [@fm20-title]: FM20 | Chapter 1: Orario Rumble | "And Haruhime will be Rikkou Kinshu!"; Lilly "the Little Marshal"; Hestia wins "inoffensive names for the two of them".
-[@fm07-offering]: FM07 | Chapter 2: Run, Cranell | "I was disowned when I was eleven."; "I ate an extremely valuable divine offering that was carried by one of my father’s guests."; "an offering of purified rice cakes to their deity Amaterasu"; "Haruhime ate all of them while sleepwalking".
+[@fm07-offering]: FM07 | Chapter 2: Run, Cranell | "I was disowned when I was eleven."; "I ate an extremely valuable divine offering that was carried by one of my father’s guests.". The Japanese edition (file c1YJ, paragraphs 624–637) calls the guest a prum official and the offering sacred food to their deity Amaterasu.
+[@fm07-haruhime-ja]: FM07 | | The Japanese edition prints her name family name first, the given name in kanji with the reading Haruhime; the infobox gives that printed form.
+[@fm20-haruhime-title-ja]: FM20 | | The Japanese edition writes her title in kanji meaning six lights, gold master, with its reading in kana; the Title row gives the kanji.

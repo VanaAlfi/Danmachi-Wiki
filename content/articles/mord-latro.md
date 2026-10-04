@@ -42,7 +42,7 @@ When the Black Goliath appears, Mord's group is the closest to it and the first 
 | Volume | Events |
 |---|---|
 | DanMachi 6 | Bets one hundred thousand valis on Bell in the War Game, to his companions' disbelief, and wins.[@fm06-bet, fm06-win] |
-| DanMachi 8 | Now fully accepting Bell as a fellow adventurer, he joins Rivira's extermination of the Goliath on Floor 17. He has started going on adventures again after years at Level 2, and when the fight turns he yells, "Little Rookie, HELP MEEEE!!"[@fm08-help, fm08-goliath] |
+| DanMachi 8 | Now fully accepting Bell as a fellow adventurer, he joins Rivira's extermination of the Goliath on Floor 17. He has started going on adventures after years at Level 2, and when the fight turns he yells, "Little Rookie, HELP MEEEE!!"[@fm08-help, fm08-goliath] |
 | Familia Chronicle 1 | Proudly shows off the Gold Card that he, Scott and Guile won by spending a fortune at the Casino Strip, and gets Bell into the [[el-dorado-resort|Grand Casino]].[@fc01-casino, fc01-card] Because they owe Lyu for Floor 18, they tearfully agree to start a riot that keeps attention away from the VIP room, and are thrown out of the Casino Strip.[@fc01-riot, fc01-thrown] |
 | DanMachi 11 | Hunting the armed monsters for the Guild's bounty, he tells other adventurers to stop picking on the Little Rookie.[@fm11-hunt] His party flees from the [[monsters#lizardman|lizardman]] in the sewers.[@fm11-lizardman] At the plaza he roars for Bell to kill the monster, and the boy Lai joins in: "Go get 'im, big brotheeeerrrrrrr!!"[@fm11-cheer] |
 | Minor Myths and Legends 1 | On the night of the Xenos rescue, about thirty adventurers corner Bell in Daedalus Street. Mord switches sides, "I'm gonna throw my lot in with Little Rookie here!", and about half of them follow him. He says Bell owes him a share of the bounty in return, since he once got beaten by a lizardman in the sewers and will not fight the monsters himself.[@ss01-debt] |
@@ -76,7 +76,7 @@ The full name Mord Latro is first printed in DanMachi 8.[@fm08-goliath] His comp
 [@fm06-bet]: FM06 | Chapter 5: Our War Game | "—one hundred thousand on the rabbit!"; "Hit your head or something, Mord?!"
 [@fm06-win]: FM06 | Chapter 5: Our War Game | Mord thought he was the only winner, until he saw Nahza.
 [@fm08-help]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Rivira's extermination of the Goliath; "UOAHHHHHHHHHHH!! Little Rookie, HELP MEEEEEEEEE!!"
-[@fm08-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Third-tier adventurer Mord Latro"; he came to accept Bell; "The man had spent many years at Level 2"; he had started to go on adventures once again.
+[@fm08-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Third-tier adventurer Mord Latro"; he came to accept Bell; "The man had spent many years at Level 2"; he had started to go on adventures; the Japanese edition (file part0021, paragraph 162) calls him a man who had only swaggered.
 [@fm11-hunt]: FM11 | | Scars on his forehead and cheeks; the bounty; "So stop picking on the Little Rookie!!"
 [@fm11-lizardman]: FM11 | | "It’s…the lizardman!"; "With a chorus of wretched screams, Mord and the others fled at full speed."
 [@fm11-cheer]: FM11 | Chapter 7: The Return of the Hero | "Kill the damn monnnnnnnsterrrrrrrrr!"; "It was Mord, the rogue adventurer."; "Go get ’im, big brotheeeerrrrrrr!!"

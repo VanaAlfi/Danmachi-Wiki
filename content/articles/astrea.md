@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|アストレア}}", "refs": ["ar03-astrea-ja"]},
       {"label": "Type", "value": "Goddess of justice and order", "refs": ["fm05-astrea"]},
       {"label": "Hair", "value": "Walnut", "refs": ["ar02-funeral"]},
       {"label": "Eyes", "value": "Indigo, \"the same color as the sea of stars\"", "refs": ["ar02-funeral"]},
@@ -24,7 +25,7 @@
   }
 }
 ---
-**Astrea** is the goddess of justice and order and the head of [[astrea-familia|Astrea Familia]].[@fm05-astrea] After the Familia was destroyed, [[lyu-leon|Lyu]] persuaded her to leave [[orario|Orario]] before taking her revenge.[@fm05-astrea] DanMachi 6 prints her name as *Astria*.[@fm06-astria]
+**Astrea** is the goddess of justice and order and the head of [[astrea-familia|Astrea Familia]].[@fm05-astrea] After the Familia was destroyed, [[lyu-leon|Lyu]] persuaded her to leave [[orario|Orario]] before taking her revenge.[@fm05-astrea] DanMachi 6 once prints her name {{small|*Astria*}}; the Japanese has her usual name there.[@fm06-astria, fm06-astria-ja]
 
 ## Appearance and character {#character}
 
@@ -38,11 +39,11 @@
 
 During the [[great-conflict|Great Conflict]] Astrea stands with the other gods at the mass graves of those killed on the first night. When [[hermes|Hermes]] calls the prayers a mortal custom, she finishes his thought: "if we do not pray for them, who will?"[@ar02-funeral] She treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-astrea, ar02-justice] She explains that restoring the city with [[tenkai-and-gekai#arcanum|Arcanum]] could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum]
 
-In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus] At the end Erebus asks her to "End it". She asks whether he loves the world, and he says he does. She then passes judgment and her blade sends him back to the heavens, a golden pillar of light that the whole city cheers, but the goddess "would never forget his necessity".[@ar03-end]
+In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus] At the end Erebus asks her to "End it". She asks whether he loves the world, and he says he does. She then passes judgment and her blade sends him back to the heavens, a giant pillar of light that the whole city cheers, but the goddess will not forget that necessary evil.[@ar03-end]
 
 ## After Orario {#after-orario}
 
-Before Astrea left Orario she told Lyu, "please forget about justice", and Lyu went on to take her revenge.[@fm14-forget] In DanMachi 14 Lyu understands that Astrea said it for Lyu's own sake: she forsook her own justice to protect Lyu, carried half the burden of her vengeance, and believed that justice would live in Lyu again.[@fm14-protect]
+Before Astrea left Orario she told Lyu, "please forget about justice", and Lyu went on to take her revenge.[@fm14-forget] In DanMachi 14 Lyu understands that Astrea said it for Lyu's own sake: she forsook her own justice to protect Lyu, shouldered a share of her vengeance herself, and believed that justice would live in Lyu again.[@fm14-protect]
 
 Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Zolingam]]. She lives there with six girls; two, Cecille and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes]
 
@@ -50,8 +51,8 @@ In DanMachi 18 Lyu comes to her in Zolingam. Astrea updates her through two [[le
 
 [@fm05-astrea]: FM05 | Chapter 4: Dungeon Resort? | Goddess of justice and order; Lyu persuades her to leave.
 [@fm06-astria]: FM06 | Chapter 4: Those Who Gather | Printed as "Astria".
-[@fm14-forget]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyu…please forget about justice."; "Lyu exacted her revenge swiftly."
-[@fm14-protect]: FM14 | Epilogue: You’ll Be Back II | "She told me to forget about justice for my own sake…"; "She had carried half the burden of Lyu’s vengeance."
+[@fm14-forget]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyu…please forget about justice."; "Lyu exacted her revenge swiftly." The Japanese edition (file cA0W, paragraph 301) says cast justice aside.
+[@fm14-protect]: FM14 | Epilogue: You’ll Be Back II | "She told me to forget about justice for my own sake…" The Japanese edition (file cD0B, paragraph 236) says she shouldered a share of Lyu's revenge herself.
 [@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Astrea in Zolingam; Alvs Iustitia; the new Familia.
 [@fm19-bond]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu's Falna released; the ichor remains.
 [@fc01-ted]: FC01 | Crush the Grand Casino! | "Goddess Astrea offered you one more chance"; "Perhaps she wanted to believe in the children’s ability to improve and rehabilitate".
@@ -66,4 +67,6 @@ In DanMachi 18 Lyu comes to her in Zolingam. Astrea updates her through two [[le
 [@ar02-astrea]: AR02 | | Astrea and Erebus.
 [@ar02-arcanum]: AR02 | | Arcanum and the city.
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Astrea confronts Erebus.
-[@ar03-end]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "End it, Astrea. For real, this time."; "Do you love this world?"; "Erebus, you will face judgment for your crimes."; "But the goddess would never forget his necessity."
+[@ar03-end]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "End it, Astrea. For real, this time."; her question, her judgment and what she will not forget. The Japanese edition (file c8ZY, paragraph 347; c9H2, paragraphs 6, 12 and 15) has her ask whether he loved the lower world, judge the evil god Erebus and send him up in a giant pillar of light; she will not forget that necessary evil.
+[@ar03-astrea-ja]: AR03 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm06-astria-ja]: FM06 | | The Japanese edition gives her usual name in this passage.

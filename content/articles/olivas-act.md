@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|オリヴァス・アクト}}", "refs": ["so12-olivas-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]; later a [[races#creature|human-monster hybrid]]", "refs": ["so09-vendetta", "so03-hybrid"]},
       {"label": "Appearance", "value": "White hair (silver in Astrea Record 1); yellow-green eyes", "refs": ["so03-hybrid", "so03-her", "ar01-commander"]},
-      {"label": "Title", "value": "White Devil, Vendetta", "refs": ["so03-identity", "so09-vendetta"]},
+      {"label": "Title", "value": "White Devil, Vendetta ({{ja|白髪鬼}}, written *white-haired demon*)", "refs": ["so03-identity", "so09-vendetta", "so12-olivas-ja"]},
       {"section": "Evils"},
       {"label": "Affiliation", "value": "[[evils|The Evils]], a commander", "refs": ["ar01-commander", "so09-vendetta"]},
       {"label": "Level", "value": "3 (an estimate in Sword Oratoria 3)", "refs": ["ar01-commander", "so03-identity"]},
@@ -86,3 +87,4 @@ When he turns on [[aiz-wallenstein|Aiz]] with "Die, Sword Princess!", she cuts d
 [@so12-spirit]: SO12 | Chapter 6: The Divine Providence of Despair | The corrupted spirit on the twenty-seventh floor, drawn by blood, looking for new feelers; Olivas Act the mastermind.
 [@so12-filvis]: SO12 | Chapter 6: The Divine Providence of Despair | "Lord Dionysus did not tell me"; the same day Filvis and Olivas became creatures.
 [@ss02-pantry]: SS02 | Paths So Far, an Unending Journey | Levis and "the second creature, Olivas Act"; many of Hermes Familia lost.
+[@so12-olivas-ja]: SO12 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning white-haired demon, with the reading Vendetta; the infobox gives the printed name and the kanji.

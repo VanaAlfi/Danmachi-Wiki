@@ -14,14 +14,15 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|リリルカ・アーデ}}", "refs": ["fm08-lilly-ja"]},
       {"label": "Race", "value": "[[races#prum|Prum]]", "refs": ["fm02-lilly"]},
       {"label": "Role", "value": "Supporter; later the party's commander", "refs": ["fm02-lilly", "fm18-command"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Soma Familia; [[hestia-familia|Hestia Familia]] from DanMachi 6", "refs": ["fm02-lilly", "fm06-lilly"]},
       {"label": "Level", "value": "1; 2 from DanMachi 15", "refs": ["fm15-card"]},
-      {"label": "Title", "value": "Little Marshal", "refs": ["fm20-marshal"]},
+      {"label": "Title", "value": "Little Marshal ({{ja|小人の大師}}, written *great master of the small folk*)", "refs": ["fm20-marshal", "fm20-lilly-title-ja"]},
       {"label": "Magic", "value": "[[#cinder-ella|Cinder Ella]]", "refs": ["fm15-card"]},
-      {"label": "Skills", "value": "[[skills#artel-assist|Artel Assist]], [[skills#command-call|Command Call]] (probably also printed as Mind Call)", "refs": ["fm08-card", "fm15-card", "fm18-mindcall"]}
+      {"label": "Skills", "value": "[[skills#artel-assist|Artel Assist]], [[skills#command-call|Command Call]] (also read Mind Call)", "refs": ["fm08-card", "fm15-card", "fm18-mindcall"]}
     ]
   }
 }
@@ -45,9 +46,9 @@ In the Familia War of DanMachi 18 she commands the coalition and uses Cinder Ell
 ## Abilities
 
 - **Cinder Ella** changes her appearance to the form she pictures while casting. It works best when copying a real form, has limits on how far it can change her body size, and can even imitate small monsters, but it never raises her Status.[@fm15-card, fm03-cinder, fm11-aruru]
-- **[[skills#artel-assist|Artel Assist]]** helps her carry loads; it activates above a certain weight and grows with it. DanMachi 15 prints the name as *Arter Assist*.[@fm08-card, fm15-card]
+- **[[skills#artel-assist|Artel Assist]]** helps her carry loads: once the weight of her equipment passes a threshold, it applies a correction that grows with the weight. DanMachi 15 prints the name as *Arter Assist*.[@fm08-card, fm15-card]
 - **[[skills#command-call|Command Call]]**, which appears at the update that lets her reach Level 2, extends how far her shouted instructions carry, telepathically, but only to people with the same Falna.[@fm15-card]
-- **Mind Call** is the name DanMachi 18 gives to the Skill she developed at her Level Up, which allows telepathic contact with people who share her blessing. It is probably Command Call under another name, not a third Skill {{inference}}.[@fm18-mindcall, fm15-card]
+- **Mind Call** is the name DanMachi 18 gives to the Skill she developed at her Level Up, which allows telepathic contact with people who share her blessing. It is Command Call: the Japanese writes the same Skill name, with Mind Call as a second reading.[@fm18-mindcall, fm15-card]
 
 ## Magic {#magic}
 
@@ -62,6 +63,7 @@ In the Familia War of DanMachi 18 she commands the coalition and uses Cinder Ell
 - **Limit:** Cannot give her a higher Status than her own[@cinder-ella.fm11-limits]
 - **Activation:** "Your scars are mine. My scars are mine."[@cinder-ella.fm08-card, cinder-ella.fm15-card]
 - **Release:** "Stroke of midnight’s bell."[@cinder-ella.fm08-card, cinder-ella.fm15-card]
+- **Japanese (DanMachi 8 card):** the activation is {{ja|貴方の刻印は私のもの。私の刻印は私のもの|anata no kizu wa watashi no mono. watashi no kizu wa watashi no mono}}: she says *kizu*, *scars*, and *marks* is the written meaning. The release is {{ja|響く十二時のお告げ|hibiku jūniji no otsuge}}, *the resounding twelve-o'clock tidings*: the Japanese names twelve o'clock, not midnight, and has no bell.[@cinder-ella.fm08-card]
 
 #### Status entry {#cinder-ella-status-entry}
 
@@ -93,8 +95,8 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 
 #### Magic or Skill? {#cinder-ella-magic-or-skill}
 
-> [!NOTE] Loose wording in the narration
-> Both Status cards list Cinder Ella under Magic.[@cinder-ella.fm08-card, cinder-ella.fm15-card] DanMachi 9's narration twice calls it a "skill" ("her Cinder Ella skill", "her magic skill, Cinder Ella").[@cinder-ella.fm09-skill] This wiki follows the Status cards.
+> [!NOTE] Magic, not a Skill
+> Both Status cards list Cinder Ella under Magic,[@cinder-ella.fm08-card, cinder-ella.fm15-card] and DanMachi 9's narration calls it transformation magic.[@cinder-ella.fm09-skill]
 
 {{nocite}} Notable uses and open questions for Cinder Ella are on the combined page: [[magic#cinder-ella|Magic § Cinder Ella]].
 
@@ -114,7 +116,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@fm06-lilly]: FM06 | Chapter 4: Those Who Gather | Conversion; the Hestia Knife as collateral.
 [@fm06-luan]: FM06 | | Posing as Luan.
 [@fm06-paid]: FM06 | Chapter 5: Our War Game | Payment; Soma's apology.
-[@fm08-card]: FM08 | | Level 1 Status; Artel Assist; Finn's proposal.
+[@fm08-card]: FM08 | | Level 1 Status; Artel Assist; Finn's proposal. The Japanese edition (file part0018, paragraphs 118–119) gives Artel Assist as a correction once the equipment load passes a certain amount, proportional to the weight.
 [@fm09-wiene]: FM09 | | Wiene.
 [@fm11-aruru]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Cinder Ella and monsters; no Status gain.
 [@fm12-commander]: FM12 | | Training under Daphne.
@@ -122,7 +124,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@fm15-resistance]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Lilly chooses Resistance.
 [@fm15-flowers]: FM15 | Interlude: Does Cinderella Dream of Happiness? | The flower shop.
 [@fm18-command]: FM18 | Chapter 9: Flower Language for You | Lilly commands; Cinder Ella against the Bringar.
-[@fm18-mindcall]: FM18 | Chapter 9: Flower Language for You | Mind Call.
+[@fm18-mindcall]: FM18 | Chapter 9: Flower Language for You | Mind Call. The Japanese edition (file part0031, paragraph 387) writes it with the same kanji as Command Call (file part0021, paragraph 1078).
 [@fm20-marshal]: FM20 | Chapter 1: Orario Rumble | "Cute little Lilly will be the Little Marshal!"
 [@fm08-bom]: FM08 | Chapter 2: The Prum’s Proposal | "The shop owner’s name was Bom Cornwall."; "Mr. Bom, please don’t forget to eat the food Lilly brought."; "She went directly to the Gnome Trader after running out of her home last night."
 [@so12-fronts]: SO12 | Chapter 7: Final War II | Lilly commands Riveria's and Gareth's fronts as Finn.
@@ -136,8 +138,8 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise. Yen Press prints that she can transform into anything she could clearly picture in her mind.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
 [@cinder-ella.fm06-luan]: FM06 | Chapter 5: Our War Game | "Luan the traitor" was Lilly in disguise; the west gate.
-[@cinder-ella.fm08-card]: FM08 | Chapter 2: The Prum’s Proposal | Status card: Trigger Spell and Release Spell.
-[@cinder-ella.fm09-skill]: FM09 | | Narration calls it a skill.
+[@cinder-ella.fm08-card]: FM08 | Chapter 2: The Prum’s Proposal | Status card: Trigger Spell and Release Spell. The Japanese edition (file part0018, paragraphs 114–115) gives the chant formula and the spell-releasing formula quoted in the text.
+[@cinder-ella.fm09-skill]: FM09 | | The narration on Lilly's disguise. The Japanese edition (file cXP, paragraph 210; file c3PE, paragraph 95) calls it transformation magic both times.
 [@cinder-ella.fm11-chase]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Both chants; poses as Aruru.
 [@cinder-ella.fm11-limits]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Cannot take a higher Status or a monster's potential.
 [@cinder-ella.fm11-finn]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Poses as Finn; must imitate personality.
@@ -147,3 +149,5 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@cinder-ella.fm18-dispel]: FM18 | Chapter 9: Flower Language for You | Disguise as Berling dispelled by a spear.
 [@cinder-ella.ss01-activation]: SS01 | | Activation chant spoken.
 [@cinder-ella.so12-finn]: SO12 | Chapter 7: Final War II | Activation chant; transforms into Finn.
+[@fm08-lilly-ja]: FM08 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm20-lilly-title-ja]: FM20 | | The Japanese edition writes her title in kanji meaning great master of the small folk, with the reading Little Marshal.

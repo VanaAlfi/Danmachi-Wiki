@@ -14,10 +14,11 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ヒュアキントス}}", "refs": ["fm06-hyacinthus-ja"]},
       {"label": "Familia", "value": "Apollo Familia", "refs": ["fm06-hyacinthus"]},
       {"label": "Position", "value": "Captain", "refs": ["fm06-hyacinthus"]},
       {"label": "Level", "value": "3", "refs": ["fm06-hyacinthus"]},
-      {"label": "Title", "value": "Sun's Favored Child, Phoebus Apollo", "refs": ["fm06-hyacinthus"]}
+      {"label": "Title", "value": "Sun's Favored Child, Phoebus Apollo ({{ja|太陽の光寵童}}, written *the sun's favoured child of light*)", "refs": ["fm06-hyacinthus", "fm06-hyacinthus-ja"]}
     ]
   }
 }
@@ -37,7 +38,7 @@ When Apollo is exiled from [[orario|Orario]], a small group of his followers, in
 
 ### Aro Zephyros {#aro-zephyros}
 
-**Aro Zephyros** is the magic of Hyacinthus, Apollo Familia's general in the War Game. After a chant, a ring of fire the size of his body forms between his hands; he throws it like a discus, and the burning disk homes in on its target. A second word, *Rubele*, makes it explode.[@aro-zephyros.fm06-duel, aro-zephyros.fm06-rubele] It is shown once, in his duel with [[bell-cranell|Bell]] at the end of the DanMachi 6 [[war-game|War Game]].[@aro-zephyros.fm06-duel]
+**Aro Zephyros** ({{ja|西風の火輪}}, written *the west wind's ring of fire*) is the magic of Hyacinthus, Apollo Familia's general in the War Game. After a chant, a ring of fire the size of his body forms between his hands; he throws it like a discus, and the burning disk homes in on its target. A second word, *Rubele* ({{ja|赤華}}, written *red flower*), makes it explode.[@fm06-aro-ja, aro-zephyros.fm06-duel, aro-zephyros.fm06-rubele] It is shown once, in his duel with [[bell-cranell|Bell]] at the end of the DanMachi 6 [[war-game|War Game]].[@aro-zephyros.fm06-duel]
 
 - **User:** Hyacinthus[@aro-zephyros.fm06-duel]
 - **Effect:** A homing disk of fire, the size of a torso[@aro-zephyros.fm06-duel]
@@ -77,3 +78,5 @@ When Apollo is exiled from [[orario|Orario]], a small group of his followers, in
 [@fm08-alumni]: FM08 | | Those who follow Apollo out.
 [@aro-zephyros.fm06-duel]: FM06 | Chapter 5: Our War Game | Chant in four pieces; Firebolt fails to stop it; burning disk; homing.
 [@aro-zephyros.fm06-rubele]: FM06 | Chapter 5: Our War Game | "Rubele!"; the disk explodes; Bell's arm disabled.
+[@fm06-hyacinthus-ja]: FM06 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the sun's favoured child of light, with the reading Phoebus Apollo; the infobox gives the printed name and the kanji.
+[@fm06-aro-ja]: FM06 | | The Japanese edition writes the spell's name in kanji meaning the west wind's ring of fire, with the reading Aro Zephyros, and its second word in kanji meaning red flower, read Rubele.

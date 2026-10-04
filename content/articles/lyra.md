@@ -14,10 +14,11 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ライラ}}", "refs": ["ar01-lyra-ja"]},
       {"label": "Race", "value": "[[races#prum|Prum]]", "refs": ["fm14-teach"]},
       {"label": "Height", "value": "Less than 120 celches", "refs": ["fm14-teach"]},
       {"label": "Age", "value": "Two years older than Lyu", "refs": ["fm14-teach"]},
-      {"label": "Hair", "value": "Short; dyed peach (DanMachi 14, Familia Chronicle 3), pink (Astrea Record)", "refs": ["fm14-teach", "fc03-traps", "ar01-pink", "ar02-pink"]},
+      {"label": "Hair", "value": "Short; dyed peach (DanMachi 14, Familia Chronicle 3), pink (Astrea Record 2)", "refs": ["fm14-teach", "fc03-traps", "ar02-pink"]},
       {"label": "Also called", "value": "Slyle (see [[#name|Name]])", "refs": ["ar02-slyle", "ar03-slyle"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[astrea-familia|Astrea Familia]], one of its first members", "refs": ["fc03-drinks", "ar02-search"]},
@@ -43,9 +44,9 @@ The accessory [[silence-lyra|Silence Lyra]] is a different thing, and the checke
 
 ## Appearance and character
 
-Lyra is a prum, less than 120 celches tall and physically weaker than Lyu; as a prum she is "the height of other races' children".[@fm14-teach, fm14-lessons, ar02-escape] Her "tender, innocent eyes" do not match her words, and she is two years older than Lyu.[@fm14-teach] DanMachi 14 says her short hair is dyed peach, which she thinks "super-cool", and Familia Chronicle 3 also calls her peach-haired; the Astrea Record volumes call her pink-haired.[@fm14-teach, fc03-traps, ar01-pink, ar02-pink]
+Lyra is a prum, less than 120 celches tall and physically weaker than Lyu; as a prum she is "the height of other races' children".[@fm14-teach, fm14-lessons, ar02-escape] Her "tender, innocent eyes" do not match her words, and she is two years older than Lyu.[@fm14-teach] DanMachi 14 says her short hair is dyed peach, which she thinks "super-cool", and Familia Chronicle 3 also calls her peach-haired; Astrea Record 2 calls her pink-haired.[@fm14-teach, fc03-traps, ar02-pink]
 
-Lyu remembers her as "the dry-witted prum" and as "sly, coarse Lyra".[@ar01-names, fc03-schau] She speaks bluntly: when [[shakti-varma|Shakti]]'s [[ganesha-familia|Ganesha Familia]] arrives after a fight is over, she asks, "You call yourself the city watch?" The narration says her harsh words come "from a place of genuine concern".[@ar01-watch] Kaguya calls her the most "ill-natured prum" she has ever known.[@ar02-heroic]
+Lyu remembers her as "the dry-witted prum" and as "sly, coarse Lyra".[@ar01-names, fc03-schau] She speaks bluntly: when [[shakti-varma|Shakti]]'s [[ganesha-familia|Ganesha Familia]] arrives after a fight is over, she asks, "You call yourself the city watch?" The narration calls her scornful remark a warning and a call to caution.[@ar01-watch] Kaguya calls her the most "ill-natured prum" she has ever known.[@ar02-heroic]
 
 Her grumbling has a purpose. Whenever trouble arises she always has something to say and never lets a silence linger, and the others, though they would never admit it, are grateful for the wisecracks that make them smile.[@ar02-chatter] Astrea Record 3 calls her "the coolheaded brain of the party", whose mantra is to plan for the worst and hope for the best.[@ar03-slyle]
 
@@ -106,11 +107,11 @@ Familia Chronicle 3's short story set two years after the Great Conflict shows L
 
 - Before the battle she carries a round shield almost as big as herself, which is unusual for someone who fights from the back. She says Finn told her to take it, that she has no idea how it will help, and that Perseus made it for her; Asfi, exhausted, blames "Slyle".[@ar03-shield, ar03-asfi] {{inference}} The shield is presumably the item she asked Asfi for in Astrea Record 2.[@ar02-item]
 - In the battle with Alfia, Kaguya splits off to fight Vito and orders Lyra to make up for her absence.[@ar03-kaguya] Lyra strikes Alfia with a shield bash, then explains that Alfia's protection, [[magic#silentium-eden|Silentium Eden]], is not a barrier spell but an enchantment that is always on and must be draining her Mind. Alfia admits that "that Level Two prum has outwitted me for a second time".[@ar03-passive]
-- When Alfia casts her final spell, [[magic#genos-angelus|Genos Angelus]], Lyra throws herself in front of it behind her shield. The shield neutralises the spell and shatters. She explains that the earlier shield bash let it take Alfia's own Silentium Eden; Perseus made it with "that Cyclops" to a design from [[hermes|Hermes]], based on [[zeus-and-hera-familias|Zeus Familia]]'s shield Aegis.[@ar03-genos] (See [[alfia#genos-angelus-stopped-by-lyra|Alfia § Stopped by Lyra]].)
+- When Alfia casts her final spell, [[magic#genos-angelus|Genos Angelus]], Lyra throws herself in front of it behind her shield. The shield neutralises the spell and shatters. She explains that the earlier shield bash let it take Alfia's own Silentium Eden; Perseus made it with "that Cyclops" from a prototype shield (the Japanese word means *original form*) that [[hermes|Hermes]] gave them, the one [[zeus-and-hera-familias|Zeus]] is said to have had: the Aegis.[@ar03-genos] (See [[alfia#genos-angelus-stopped-by-lyra|Alfia § Stopped by Lyra]].)
 - Facing [[delphyne|Delphyne]], she argues that they cannot win without an edge; she judges it at least Level 6 or 7. After Astrea updates the whole Familia, Lyra proposes "a real raid battle", asks Riveria for a buff, and is one of the eight fighters who close in on the dragon.[@ar03-delphyne, ar03-rankup]
 - After Erebus is captured, she kicks a stone in anger.[@ar03-erebus]
 
-Before the battle Lyra tells Neze that she has no idea how the shield is meant to help; after Genos Angelus the narration says Finn had told her about Alfia's spell "far in advance", and that her move to the front line had only been made to look like covering for Kaguya.[@ar03-shield, ar03-genos] {{inference}} Her earlier remark may have been another act.
+Before the battle Lyra tells Neze that she has no idea how the shield is meant to help; after Genos Angelus the narration says she had got every piece of information from Finn, Alfia's third spell included, and that her move to the front line had only been made to look like covering for Kaguya.[@ar03-shield, ar03-genos] {{inference}} Her earlier remark may have been another act.
 
 ## Death {#death}
 
@@ -118,9 +119,9 @@ On the day before the Familia's last expedition, the Familia's prum asks whether
 
 In the Dungeon Lyra sniffs out [[rudra-familia|Rudra Familia]]'s trap and warns everyone, so the Familia escapes the blasts of its Inferno Stones.[@fm14-sniffed] Then the [[juggernaut|Juggernaut]] appears. When only four of them are left, magic reflected off the monster's shell has melted both of Lyra's eyes, and she cannot see.[@fm14-blind]
 
-Alize asks Kaguya and Lyra to give their lives to save Lyu. Lyra says she puts her own life first, but as the weakest she will probably die first anyway, so she goes along with the plan; the narration adds that she "wasn't one to make a losing bet".[@fm14-lives]
+Alize asks Kaguya and Lyra to give their lives to save Lyu. Lyra says she puts her own life first, but as the weakest she will probably die first anyway, so she goes along with the plan, laughing bravely that she never bets on a gamble she cannot win.[@fm14-lives]
 
-She is the first of the three to die. Blind, she falls to one stroke of the Juggernaut's claws, but just before she dies she sets off a bomb she has held behind her back, one of the finest she ever made. It takes off the Juggernaut's right arm, and Kaguya uses the moment to drive her sword into its chest.[@fm14-death] Lyu, unable even to gather her companions' remains, flees past the bodies of Lyra and Kaguya.[@fm14-corpses] The rest of the story is told on [[astrea-familia#destruction|Astrea Familia]] and [[lyu-leon|Lyu Leon]].
+She is the first of the three to die. Blind, she falls to one stroke of the Juggernaut's claws, but just before she dies she sets off a bomb she has held behind her back, one of the finest she ever made. It takes off the Juggernaut's right arm, and Kaguya uses the moment to cut at its legs.[@fm14-death] Lyu, unable even to gather her companions' remains, flees past the bodies of Lyra and Kaguya.[@fm14-corpses] The rest of the story is told on [[astrea-familia#destruction|Astrea Familia]] and [[lyu-leon|Lyu Leon]].
 
 ## Later memories
 
@@ -128,7 +129,7 @@ She is the first of the three to die. Blind, she falls to one stroke of the Jugg
 |---|---|
 | Astrea Record 1 | At the grave of mementos on Floor 18, Lyu names her friends; Lyra is "the dry-witted prum".[@ar01-names, ar01-grave] |
 | DanMachi 14 | Lyu dreams of the day before the last expedition, when Lyra teases her.[@fm14-dream] A special chapter, "Reminiscence of Justice", recalls Lyra's lessons.[@fm14-teach, fm14-lessons] Near death, Lyu imagines Lyra crossly pulling her ear; when her companions turn to her, Lyra "smiled spitefully", hands behind her head.[@fm14-light] Against the Juggernaut, Lyu calls one of her last orbs of light "Lyra", and it pushes her forward "like an older sister".[@fm14-orb] |
-| DanMachi 15 | Lyu hears Kaguya's and Lyra's voices calling her a "good-for-nothing elf". The flashback to Lyu's joining lists Lyra in the welcome circle.[@fm15-voices, fm15-circle] |
+| DanMachi 15 | In her mind, Lyu hears Kaguya's and Lyra's voices calling her a "good-for-nothing elf". The flashback to Lyu's joining lists Lyra in the welcome circle.[@fm15-voices, fm15-circle] |
 | Minor Myths and Legends 1 | Flustered, Lyu imagines "the sneering grins of Kaguya and Lyra".[@ss01-grins] |
 | Familia Chronicle 3 | Lyu thinks Lyra would have put her on cleaning duty.[@fc03-cleaning] She sees the prum Schau as the brains of her party, "just like Lyra once had", and expects that Lyra would have laid "another layer or two of traps".[@fc03-traps] Schau, a prum in Astrea's new Familia, says that hearing about Lyra gave her hope and that she wants to be like her.[@fc03-schau] Lyu also recalls Lyra asking whether Astrea was "kind of crazy".[@fc03-crazy] |
 
@@ -168,12 +169,12 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@fm14-level]: FM14 | | Special Chapter: Reminiscence of Justice. "a respected Level Three adventurer"; Finn's proposal; "Braver was avoiding you recently"; "dreamed of marrying into wealth".
 [@fm14-sniffed]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Inferno Stones; "thanks to the prum Lyra, who had sniffed out the trap".
 [@fm14-blind]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Four members of Astrea Familia remained"; "It got my eyes…"; both eyes melted by reflected magic.
-[@fm14-lives]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Kaguya, Lyra. Please give me your lives."; "I’m the weakest of us all."; "she wasn’t one to make a losing bet".
-[@fm14-death]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyra was the first to give up her life."; "one of the finest bombs the nimble-fingered girl had made"; the right arm; Kaguya's thrust.
+[@fm14-lives]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Kaguya, Lyra. Please give me your lives."; "I’m the weakest of us all."; "she wasn’t one to make a losing bet". The Japanese edition (file cA0W, paragraph 153) gives the losing bet as Lyra's own words.
+[@fm14-death]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyra was the first to give up her life."; "one of the finest bombs the nimble-fingered girl had made"; the right arm; Kaguya's attack. The Japanese edition (file cA0W, paragraphs 201 to 203) has Kaguya drive a high-speed slash into the enemy's legs.
 [@fm14-corpses]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "The corpses of Lyra and Kaguya"; "unable even to collect the remains".
 [@fm14-light]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyra might crossly pull on her ear"; "Lyra smiled spitefully, her hands laced behind her head."
 [@fm14-orb]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyra."; "like an older sister pushing her forward with a smile".
-[@fm15-voices]: FM15 | Interlude: Elven Unrest | ““You good-for-nothing elf!””
+[@fm15-voices]: FM15 | Interlude: Elven Unrest | "In some distant corner of her mind, Lyu could hear Kaguya’s and Lyra’s voices"; "You good-for-nothing elf!"
 [@fm15-strays]: FM15 | Chapter 6: Meetings and Oaths | "Jeez, you brought another one of your strays in?"; Alize scolds Kaguya, "And Lyra!"
 [@fm15-circle]: FM15 | Chapter 6: Meetings and Oaths | "Noin, Neze, Lyra, Asta, Lyana, Kaguya, Celty, Iska, Maryu."
 [@ss01-grins]: SS01 | Eyewitness Account: The Malfunctioning Elf | "the sneering grins of Kaguya and Lyra".
@@ -190,11 +191,10 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@ar01-grave]: AR01 | Prologue: The Unforgettable Melody of Justice | Lyu's grave of mementos "in the eastern forests of the eighteenth floor"; no bodies beneath it.
 [@ar01-names]: AR01 | Prologue: The Unforgettable Melody of Justice | "Kaguya…Lyra…"; "The rebellious rival, the dry-witted prum."
 [@ar01-factory]: AR01 | Prologue: The Unforgettable Melody of Justice | "A bladed boomerang"; "its prum wielder"; "Lyra, take Iska and Maryu and clear out the next section!"
-[@ar01-watch]: AR01 | Chapter 1: Astrea Familia | "You call yourself the city watch?"; Shakti: "Lyra’s right."; "from a place of genuine concern".
+[@ar01-watch]: AR01 | Chapter 1: Astrea Familia | "You call yourself the city watch?"; Shakti: "Lyra’s right.". The Japanese edition (file cGA, paragraph 103) calls her scornful remark a warning and a call to caution.
 [@ar01-hero]: AR01 | Chapter 2: Eren | "Who else? My hero!"; "marryin’ the hero of our people"; Kaguya: "a sleazy, cunning little brat".
 [@ar01-vito]: AR01 | Chapter 2: Eren | Floor 18; Vito; "Lyra’s boomerangs"; "from the rear ... tossing boomerangs and bombs".
 [@ar01-clearing]: AR01 | Chapter 2: Eren | "the eastern part of the forest on the eighteenth floor"; Lyana's burial wish; "Count me in."
-[@ar01-pink]: AR01 | Chapter 2: Eren | "the pink-haired prum".
 [@ar01-eren]: AR01 | | Eren; "I’m glad they have someone level-headed on their side."; "Ignore him, Leon".
 [@ar01-trap]: AR01 | Chapter 8: Sound of Life | "her position at the center of the squad"; Valletta's ambush; "Lyra flitted between her enemies’ greatswords"; "I know a trap when I see one."
 [@ar01-ardee]: AR01 | Chapter 8: Sound of Life | "It was Lyra who figured it out before anybody else."; she holds Lyu back; "They’re all rigged to blow!"
@@ -223,7 +223,8 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@ar03-kaguya]: AR03 | Chapter 4: Apocalypse Cometh | "Make up for my absence, prum!"
 [@ar03-passive]: AR03 | Chapter 4: Apocalypse Cometh | The shield bash; "it’s a passive enchantment"; Mind; "that Level Two prum has outwitted me for a second time".
 [@ar03-slyle]: AR03 | Chapter 8: The Price of Talent | "The coolheaded brain of the party"; "Plan for the worst, hope for the best"; "You’re right, Slyle".
-[@ar03-genos]: AR03 | Chapter 9: A Hero’s Trail | The shield shatters; "That was my Silentium Eden!"; "that Cyclops"; "Hermes gave us the design"; Aegis; "far in advance".
+[@ar03-genos]: AR03 | Chapter 9: A Hero’s Trail | The shield shatters; "That was my Silentium Eden!"; "that Cyclops"; the shield from Hermes; Aegis. The Japanese edition (file c86J, paragraphs 130–138) has Lyra say they got the prototype (original) shield from Hermes, and says she had all the information from Finn.
 [@ar03-delphyne]: AR03 | Chapter 9: A Hero’s Trail | "That monster’s way too strong!"; "at least 6 or 7".
 [@ar03-rankup]: AR03 | Chapter 9: A Hero’s Trail | "Level 4 girls"; "eleven levels worth of improvement"; "rank up all eleven"; "Give us a buff, Nine Hell."; the eight fighters.
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Lyra kicks a stone; "That guy pisses me off!"
+[@ar01-lyra-ja]: AR01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

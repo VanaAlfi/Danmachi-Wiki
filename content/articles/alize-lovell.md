@@ -14,17 +14,18 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|アリーゼ・ローヴェル}}", "refs": ["ar01-alize-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm15-rescue", "fc03-story"]},
       {"label": "Appearance", "value": "Red hair tied in a ponytail; green eyes", "refs": ["fm15-rescue", "fm14-dream"]},
       {"label": "Home", "value": "Stardust Garden, Astrea Familia's home (printed once as Starlight Garden)", "refs": ["ar02-astrea", "fc03-moment", "ar02-deputies"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[astrea-familia|Astrea Familia]], captain", "refs": ["fm15-home", "ar01-captain"]},
-      {"label": "Title", "value": "Scarlett Harnell (DanMachi 18: Scarlet Harnell)", "refs": ["ar01-factory", "fm14-death", "fm18-hegni"]},
+      {"label": "Title", "value": "Scarlett Harnell ({{ja|紅の正花}}, written *crimson true flower*; DanMachi 18: Scarlet Harnell)", "refs": ["ar01-factory", "fm14-death", "fm18-hegni", "ar01-alize-ja"]},
       {"label": "Level", "value": "Hoping for Level 2 when she meets Lyu; 3 in Astrea Record 1; 4 after Alfia's defeat in Astrea Record 3", "refs": ["fm15-intro", "ar01-valletta", "ar01-raid", "ar03-level4", "ar03-sheet"]},
       {"label": "Weapon", "value": "Crimson Order, a one-handed sword", "refs": ["ar02-crimson", "ar03-armor"]},
       {"label": "Magic", "value": "[[magic#agris-arvensis|Agris Arvensis]], a fire enchantment", "refs": ["fm14-death", "ar03-agallis"]},
       {"label": "Skills", "value": "[[skills#rubrud-beckia|Rubrud Beckia]], [[skills#batrea-acras|Batrea Acras]]", "refs": ["ar03-rubrud", "ar03-sheet"]},
-      {"label": "Development Abilities", "value": "[[development-ability#abnormal-resistance|Immunity]] I, [[development-ability#other-abilities|Conflagrate]] I", "refs": ["ar03-sheet"]},
+      {"label": "Development Abilities", "value": "[[development-ability#hunter|Hunter]] H, [[development-ability#abnormal-resistance|Immunity]] I, [[development-ability#other-abilities|Conflagrate]] I", "refs": ["ar03-sheet", "ar03-sheet-ja"]},
       {"section": "Fate"},
       {"label": "Died", "value": "Five years before DanMachi 14, fighting the [[juggernaut|Juggernaut]] in the Dungeon", "refs": ["fm14-dream", "fm14-death"]}
     ]
@@ -38,7 +39,7 @@
 - **Alize Lovell** is printed in Astrea Record 1–3, DanMachi 14, 15 and 18, Familia Chronicle 3 and Minor Myths and Legends 1. DanMachi 13, 17, 19 and 20 print only *Alize*.[@ar01-captain, fm15-rescue, fm14-dream, fm18-hegni, fc03-story, ss01-thumbs, fm13-cry, fm17-hand, fm19-bond, fm20-joined]
 - **Alizé Rovel** is the form in Familia Chronicle 1: the full name once, and *Alizé* 14 times in all.[@fc01-alize]
 - **Scarlett Harnell**, her title, is printed so in Astrea Record 1 and 3 and DanMachi 14. DanMachi 18 prints *Scarlet Harnell*.[@ar01-factory, ar03-agallis, fm14-death, fm18-hegni]
-- The narration of DanMachi 14 also calls her "the scarlet sword princess".[@fm14-death]
+- The narration of DanMachi 14 also calls her *the scarlet swordswoman*.[@fm14-death]
 
 ## Background
 
@@ -56,7 +57,7 @@ When Alize brings Lyu home, Kaguya and Lyra greet them, one asking whether she h
 
 ### Captain
 
-In Astrea Record 1 she gives the orders in the field, leads the evening debrief and lifts the others' spirits; Maryu says they would never have joined her without her "unbeatable enthusiasm".[@ar01-factory, ar01-meeting] She attends the Guild's council of Familia leaders with Kaguya.[@ar01-council] She is a close friend of [[shakti-varma|Shakti Varma]], captain of [[ganesha-familia|Ganesha Familia]].[@ar01-shakti] When the Evils overrun a district in Astrea Record 2, [[finn-deimne|Finn]] calls on "Astrea Familia… Alize Lovell!" to answer.[@ar02-finn]
+In Astrea Record 1 she gives the orders in the field, leads the evening debrief and lifts the others' spirits; Maryu says that this is the Alize they followed.[@ar01-factory, ar01-meeting] She attends the Guild's council of Familia leaders with Kaguya.[@ar01-council] She is a close friend of [[shakti-varma|Shakti Varma]], captain of [[ganesha-familia|Ganesha Familia]].[@ar01-shakti] When the Evils overrun a district in Astrea Record 2, [[finn-deimne|Finn]] calls on "Astrea Familia… Alize Lovell!" to answer.[@ar02-finn]
 
 She hides her own doubts from the others. As a captain and "a second-class adventurer", Astrea Record 2 says, she could not let anyone see her struggles; she tells Astrea that "the serious me" comes out only when she is alone.[@ar02-poverty, ar02-astrea]
 
@@ -115,7 +116,7 @@ Alize hears out Lyu's troubles, takes her hand to "practice", and Lyu does not p
 
 ### Astrea Record 1
 
-She leads the Familia against an Evils attack on a factory; a fireball fails to burn her, and she boasts that no one should aim fire at Scarlett Harnell.[@ar01-factory] On patrol with Lyu she meets the god who calls himself Eren and steps in front of Lyu: "I don't like the way this guy talks!"[@ar01-eren] Astrea Record 2 identifies Eren as the dark god [[erebus|Erebus]] in disguise.[@ar02-eren] With Kaguya and Lyra she fights the Evils' [[vito|Vito]], and she leads the Familia to a clearing on Floor 18 to calm Lyu and Kaguya after a quarrel.[@ar01-vito, ar01-forest]
+She leads the Familia against an Evils attack on a factory; a fireball fails to burn her, and she boasts that no one should aim fire at Scarlett Harnell.[@ar01-factory] On patrol with Lyu she meets the god who calls himself Eren and steps in front of Lyu, crying that the way he talks is somehow lewd and telling Lyu to get away from him.[@ar01-eren] Astrea Record 2 identifies Eren as the dark god [[erebus|Erebus]] in disguise.[@ar02-eren] With Kaguya and Lyra she fights the Evils' [[vito|Vito]], and she leads the Familia to a clearing on Floor 18 to calm Lyu and Kaguya after a quarrel.[@ar01-vito, ar01-forest]
 
 When [[valletta|Valletta Grede]] attacks a soup kitchen, Alize and Lyu strike at her; Valletta mocks "two Level Threes" against a Level 5 until Gareth arrives. The two then guide survivors to the evacuation point, [[twilight-manor|Twilight Manor]].[@ar01-gareth, ar01-valletta] At the Guild's council she stops the leaders blaming one another and volunteers Astrea Familia for a raid on the Evils' bases.[@ar01-council] In the raid she and Shakti, Levels 3 and 4, hold off Valletta. Then [[shakti-varma|Shakti]]'s sister Ardee dies in a child's self-detonation, and Alize orders everyone out of the collapsing building.[@ar01-raid] On the first night of the Great Conflict she runs to find Astrea and reaches her and [[hermes|Hermes]] as Erebus shows himself. He tells Astrea she has "you and yours to thank" for still being alive.[@ar01-hunch, ar01-erebus]
 
@@ -136,7 +137,7 @@ In the last exchange she and Lyu rush in together. As Lyu calls "Luminous Wind!"
 - **[[magic#agris-arvensis|Agris Arvensis]]** is a powerful fire enchantment that sheathes her arms, legs and sword in an armour of flames. It is why the gods called her Scarlett Harnell. Gathered in her boots, the flames give explosive speed.[@fm14-death, ar03-agallis] Her Status sheet in Astrea Record 3 lists it as *Agallis Arvesynce*, an enchantment of fire attribute with the chant "Alga".[@ar03-sheet] In the final fight with Alfia she shouts "Alga!" three times, each time pouring more of her energy into the flames.[@ar03-alga]
 - **Rubrud Beckia.** Alfia notices how much Alize's speed and power have grown and guesses at a rare Skill. Alize starts to explain [[skills#rubrud-beckia|Rubrud Beckia]], and Lyu cuts her off.[@ar03-rubrud] The Status sheet sets out its three conditions and lists a second Skill, [[skills#batrea-acras|Batrea Acras]].[@ar03-sheet]
 - DanMachi 14 says she had an unusual skill that gave her a first-tier adventurer's strength although she was second-tier. {{inference}} This may be Rubrud Beckia, but DanMachi 14 does not name it.[@fm14-death, ar03-rubrud]
-- **Development Abilities:** the same sheet lists [[development-ability#abnormal-resistance|Immunity]] I and [[development-ability#other-abilities|Conflagrate]] I.[@ar03-sheet]
+- **Development Abilities:** the same sheet lists [[development-ability#hunter|Hunter]] H, [[development-ability#abnormal-resistance|Immunity]] I and [[development-ability#other-abilities|Conflagrate]] I.[@ar03-sheet, ar03-sheet-ja]
 
 {{nocite}} **The spell's printed names:**
 
@@ -196,7 +197,7 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@fm14-lyra]: FM14 | | Special chapter "Reminiscence of Justice" (not in the evidence map): Lyu went "to Alize first, then Lyra".
 [@fm14-trap]: FM14 | Chapter 13: Beyond a Thousand Darknesses | The Inferno Stone trap; Jura Harma, "still young then"; "this will be the last of your evil schemes"; the Juggernaut emerges.
 [@fm14-choice]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Alize's tears for Iska and Maryu; four remain; "Please give me your lives."; "I want to save Leon."; "But I know Leon will make the right choices."; "I need you to stay here and chant."; "Please…promise me, Leon."; "Those words were a curse."
-[@fm14-death]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Alize was last."; "Agris Arvensis!"; the unusual skill; "Scarlett Harnell"; "the scarlet sword princess"; impaled on purpose; "Arvellia!!", "the spell key for her enchantment"; "along with the girl pinned to his hand".
+[@fm14-death]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Alize was last."; "Agris Arvensis!"; the unusual skill; "Scarlett Harnell"; impaled on purpose; "Arvellia!!", "the spell key for her enchantment"; "along with the girl pinned to his hand". The Japanese edition (file cA0W, paragraph 215) calls her the scarlet swordswoman.
 [@fm14-after]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Alize was not there. Lyu had blotted her out."; the grave on the eighteenth floor; "the life that Alize and all the others had given her".
 [@fm14-guilt]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "I…killed my friend Alize with these two hands…"; "Alize had led her."; Alize's words come back.
 [@fm14-vision]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Leon, you can’t come here. We won’t let you."; "Liar."; "Justice is still alive within you!"; "Alize smiled."
@@ -237,18 +238,18 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar01-grave]: AR01 | Prologue: The Unforgettable Melody of Justice | The grave on the eighteenth floor, seven years on; "…And Alize."; "the one Lyu respected above all others".
 [@ar01-factory]: AR01 | Prologue: The Unforgettable Melody of Justice | Alize gives orders; "make sure your target isn’t Scarlett Harnell!"; "flanked by her ten compatriots".
 [@ar01-captain]: AR01 | Chapter 1: Astrea Familia | "Her name was Alize Lovell, and she was the captain of Astrea Familia"; "He-hem! I’m so great!"
-[@ar01-shakti]: AR01 | Chapter 1: Astrea Familia | Shakti Varma; "the two were bosom friends".
+[@ar01-shakti]: AR01 | Chapter 1: Astrea Familia | Shakti Varma; "the two were bosom friends". The Japanese edition (file cGA, paragraph 66) says they could fairly be called sworn allies.
 [@ar01-home]: AR01 | Chapter 1: Astrea Familia | Alize runs to Astrea; "Doesn’t read the mood at all!"
-[@ar01-meeting]: AR01 | Chapter 1: Astrea Familia | The debrief; "I never can win against you"; "unbeatable enthusiasm"; "You’re amazing, Alize."; the oath, "by the sword and wings of justice!"
+[@ar01-meeting]: AR01 | Chapter 1: Astrea Familia | The debrief; "I never can win against you"; "You’re amazing, Alize."; the oath, "by the sword and wings of justice!" The Japanese edition (file cUX, paragraph 66) has Maryu say that this is the Alize they followed.
 [@ar01-patrol]: AR01 | Chapter 2: Eren | Patrol with Lyu; "Three years since Alize saved me"; Alize quotes Lyu's first words; Leah.
-[@ar01-eren]: AR01 | Chapter 2: Eren | "I’m Alize Lovell!"; "Captain of Astrea Familia!"; "I don’t like the way this guy talks!"
+[@ar01-eren]: AR01 | Chapter 2: Eren | "I’m Alize Lovell!"; "Captain of Astrea Familia!". The Japanese edition (file c1BK, paragraph 17) has her cry that the way he talks is somehow lewd and tell Lyu to get away.
 [@ar01-vito]: AR01 | Chapter 2: Eren | Alize, Kaguya and Lyra against Vito.
-[@ar01-forest]: AR01 | Chapter 2: Eren | The crystal clearing on the eighteenth floor; the talk of graves; "Your sense of justice is beautiful, Leon."; "Promise me you’ll stay like that forever…"
+[@ar01-forest]: AR01 | Chapter 2: Eren | The crystal clearing on the eighteenth floor; the talk of graves; "Your sense of justice is beautiful, Leon."; "Promise me you’ll stay like that forever…" The Japanese edition (file c1BK, paragraphs 359–370) has her say that Lyra and Kaguya are praising Lyu's justice as lovely and that Lyu must stay as she is; the narration calls it a promise.
 [@ar01-gareth]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): the soup kitchen; "old man Gareth"; "race doesn’t matter!"; "I always wanted to be born a dwarf!"
 [@ar01-valletta]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): Alize's straight sword; "How could two Level Threes possibly hope to defeat a Level Five?!"; the evacuation.
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | Alize and Kaguya at the council; "Why do we have to sit around pointing fingers?"; "Astrea Familia will take one!"
 [@ar01-raid]: AR01 | Chapter 8: Sound of Life | Valletta against Shakti and Alize, "Levels 4 and 3 respectively"; Ardee's death; "Shakti! Lyra! Kaguya! Pull out!!"
-[@ar01-hunch]: AR01 | Chapter 11: Absolute Evil | "It’s Lady Astrea"; "She’s in trouble!"; Lyra trusts "Alize’s uncanny hunch"; "We’re all going home together".
+[@ar01-hunch]: AR01 | Chapter 11: Absolute Evil | "It’s Lady Astrea"; "She’s in trouble!"; Lyra trusts "Alize’s uncanny hunch"; her order to hold on and live (the Japanese edition, file c6WV, paragraph 138: captain's orders, hold on, and live).
 [@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | Alize finds Astrea and Hermes; "You have you and yours to thank for that."; the pillars of light.
 [@ar02-stones]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): the stones; "I’m sorry."; "We were weak"; the slap; Leah's teddy bear.
 [@ar02-noanswer]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): "I don’t have an answer for you right now."; "If I lied to Leon, I’d be lying to myself"; Kaguya and Lyra "since the very beginning".
@@ -279,3 +280,5 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar03-after]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "Can you give me a piggyback?"; "Let’s go visit Adi’s grave after this."
 [@ar03-lyu]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Lyu at the grave on the eighteenth floor; "Alize"; "All of you. One day…I think I’d like to start my journey again."
 [@ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Magic Agallis Arvesynce (enchantment, fire attribute, chant "Alga"); Skills Rubrud Beckia (three conditions) and Batrea Acras; Development Abilities Immunity I and Conflagrate I (as recorded on the Magic, Skills and Development Abilities pages).
+[@ar03-sheet-ja]: AR03 | | Illustrated Status sheet (Level 4) in the Japanese edition (file c9VS, the sheet image after the Epilogue): three Development Abilities, Hunter H first, then Abnormal Resistance I and Conflagrate I.
+[@ar01-alize-ja]: AR01 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning crimson true flower, with the reading Scarlett Harnell; the infobox gives the printed name and the kanji.

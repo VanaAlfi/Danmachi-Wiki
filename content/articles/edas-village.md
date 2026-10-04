@@ -30,13 +30,13 @@
 
 ## The village
 
-Edas Village was originally an elf settlement from the Ancient Times. About a thousand years ago, after the gods came down, its young elves left to see the world and the older elves began to accept other races.[@fm08-village] Since then it has taken in people who could not face their lives, people fleeing danger, and couples eloping from families that rejected them.[@fm08-village] Sword Oratoria 9 adds demi-humans in trouble and even stray adventurers chased out of [[orario|Orario]]. More than half the villagers descend from such wanderers, which makes them tolerant of outsiders.[@so09-village] No deities live there.[@so09-festival]
+Edas Village was originally an elf settlement from the Ancient Times. Over more than a thousand years its ways gradually changed: with the gods' descent its young elves, curious about the outside world, left, and hermits of other races came in instead.[@fm08-village] It has taken in people who had given up on their lives, people fleeing danger, and people who eloped for a love that could not be.[@fm08-village] Sword Oratoria 9 adds demi-humans in trouble and even stray adventurers chased out of [[orario|Orario]]. More than half the villagers descend from such wanderers, which makes them tolerant of outsiders.[@so09-village] No deities live there.[@so09-festival]
 
 **The dragon's scales.** The village's story is that after heroes drove the Black Dragon out of Orario, it fled north and shed scales over this valley.[@fm08-scales] Monsters fear the scales and stay away, so the village has no fear of monster attacks; the villagers both revere the dragon and dread the day its power is unleashed.[@fm08-scales] One scale stands on a pedestal in a hut, with offerings of food before it.[@fm08-shrine] Most of the others stand around the village along the edge of the forest, "like stone monuments".[@so09-scales] For the Black Dragon itself, see [[three-great-quests|The Three Great Quests]].
 
 Seeing the scales, Bell wonders whether "the one-eyed dragon" left more traces like them elsewhere in the world.[@fm08-shrine]
 
-**The festival.** The village holds an annual fertility festival.[@fm08-festival] With no god of their own, the villagers, young and old, crowd round Hestia during it.[@so09-festival]
+**The festival.** The village holds a festival praying for a good harvest.[@fm08-festival] With no god of their own, the villagers, young and old, crowd round Hestia during it.[@so09-festival]
 
 ## Bell, Aiz and Hestia in the village
 
@@ -59,7 +59,7 @@ Seeing the scales, Bell wonders whether "the one-eyed dragon" left more traces l
 
 **Kam** is the elder of Edas Village: an elderly, sick human with dull white hair and a small beard, who walks with a cane.[@fm08-village, so09-kam] He shelters Hestia in his house, and his daughter Rina and his grown sons look after the guests.[@fm08-village, fm08-rina]
 
-More than fifty years earlier he was the only follower of a goddess. They loved each other, and he had sworn to protect her with his life. When monsters attacked them on a journey, she pushed him off a cliff into the sea, saving him at the cost of her life on earth, and returned to [[tenkai-and-gekai|Tenkai]].[@fm08-story] He wandered into the Beor Mountains meaning to die, but found the village, which took him in. He left his sealed Status alone as the last trace of their bond, and in time became the village elder.[@fm08-story] He tells Aiz he was at first furious with the villagers for saving him, but they would not give up on him and took his hand.[@so09-talk]
+More than fifty years earlier he was the only follower of a goddess. They loved each other, and he had sworn to protect her with his life. When monsters attacked them on a journey, she pushed him off a cliff, saving him at the cost of her life on earth, and returned to [[tenkai-and-gekai|Tenkai]].[@fm08-story] He wandered into the Beor Mountains meaning to die, but found the village, which took him in. He left his sealed Status alone as the last trace of their bond, and in time became the village elder.[@fm08-story] He tells Aiz he was at first furious with the villagers for saving him, but they would not give up on him and took his hand.[@so09-talk]
 
 Unable to marry after losing his goddess, he adopted every child with nowhere to go: orphans of a plague and abandoned children. Rina and his sons are not related to him by blood.[@fm08-story] Bell had noticed the odd age gap, and that no one of an age to be their mother lived in the house.[@fm08-rina] Kam asks Bell to protect his goddess.[@fm08-story] To Aiz he says, "You remind me of myself", and prays that someone will fill the hole in her heart.[@so09-talk]
 
@@ -72,13 +72,13 @@ On his deathbed he tells Hestia that meeting her brought back memories of his go
 > - Brigit's Familia and where Kam came from were not located in the checked text.[@fm08-story]
 > - Kam's age is not stated; only that he lost his goddess more than fifty years earlier.[@fm08-story]
 
-[@fm08-fall]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Hestia trips over a soldier's legs and falls "into the gorge overlooking the rough river rapids"; Bell "flew off the edge of the cliff in pursuit".
-[@fm08-village]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "an elderly gentleman named Kam"; "deep in the Beor Mountain Range"; "The village elder, Kam, opened his home to us."; "originally an elf settlement"; "about 1,000 years ago"; "young couples eloping".
+[@fm08-fall]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Hestia, knocked aside by the soldiers' legs (the Japanese edition, file part0030, paragraph 775), falls "into the gorge overlooking the rough river rapids"; Bell "flew off the edge of the cliff in pursuit".
+[@fm08-village]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "an elderly gentleman named Kam"; "deep in the Beor Mountain Range"; "The village elder, Kam, opened his home to us."; "originally an elf settlement"; "young couples eloping". The Japanese edition (file part0030, paragraphs 924 to 926) says its ways changed over more than a thousand years: with the gods' descent the young elves left, and hermits of other races came in instead.
 [@fm08-rina]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Kam’s daughter, Rina"; "several of Kam’s adult sons"; the age gap; no one "the right age to be their mother".
-[@fm08-festival]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Today is our annual fertility festival."
+[@fm08-festival]: FM08 | Chapter 6: A Certain Goddess’s Love Song | The Japanese edition (file part0030, paragraph 937) calls it a village festival praying for abundance.
 [@fm08-scales]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "one of the Black Dragon’s scales"; "after heroes drove him from Orario, the Black Dragon fled north"; "Monsters are so afraid of them"; "revere the monster as well as live in fear of it".
 [@fm08-shrine]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "evidence left behind by the one-eyed dragon in other parts of the world"; a scale "Up on a pedestal" with offerings in a hut.
-[@fm08-story]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "I was her only follower"; "more than fifty years ago"; pushed "off the edge of a cliff and into the sea"; "The Status on his back had been sealed"; "Adopted."; "please protect your goddess."
+[@fm08-story]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "I was her only follower"; "more than fifty years ago"; pushed off a cliff by his goddess (the Japanese edition, file part0030, paragraph 1088); "The Status on his back had been sealed"; "Adopted."; "please protect your goddess."
 [@fm08-death]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "my beloved goddess, Brigit"; "Blond hair, deep-red eyes"; "Brigit’s a good friend of mine!"; "Thank you, Kam. Thank you for your love."; "Lady Brigit, I…I, too."; "Those were Kam’s last words."
 [@so09-arrival]: SO09 | | Printed heading "Chapter 3: From the North Mountains" (not in the evidence map): "the residents of Edas Village"; "After falling into the valley, they had been attacked by monsters"; Rina dresses Aiz.
 [@so09-kam]: SO09 | | Printed heading "Chapter 3: From the North Mountains" (not in the evidence map): "His name was Kam. With dull white hair and a small beard"; "walked with a cane"; "some kind of sickness".

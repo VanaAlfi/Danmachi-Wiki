@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ハシャーナ・ドルリア}}", "refs": ["so02-hashana-ja"]},
       {"label": "Familia", "value": "[[ganesha-familia|Ganesha Familia]]", "refs": ["so02-status", "so05-ganesha"]},
       {"label": "Level", "value": "4", "refs": ["so02-status"]},
-      {"label": "Epithet", "value": "\"the Strong Fist Warrior\", as Bors calls him", "refs": ["so02-status"]},
+      {"label": "Epithet", "value": "\"the Strong Fist Warrior\", as Bors calls him ({{ja|剛闘士}}, written *mighty fighter*, read as his name)", "refs": ["so02-status", "so02-hashana-ja"]},
       {"label": "Development Ability", "value": "[[development-ability#abnormal-resistance|Immunity]]", "refs": ["so02-immunity"]},
       {"section": "Death"},
       {"label": "Killed by", "value": "[[levis|Levis]]", "refs": ["so02-face", "so05-ganesha"]},
@@ -29,11 +30,11 @@
 
 ## Death in Rivira
 
-A headless body is found in a room at Willy's inn in Rivira. The man had paid with a bag of [[magic-stone|magic stones]] instead of a Familia emblem, so no one knows who he is, and a woman in a robe who went into the room with him has vanished.[@so02-inn] [[bors|Bors]] has a [[status-thief|Status Thief]] used to open the dead man's Status. [[riveria|Riveria]] and [[aiz-wallenstein|Aiz]] read it: he was Hashana Dorlia, of Ganesha Familia.[@so02-status] The room panics, and Bors remembers him as "the Strong Fist Warrior Hashana", a Level 4.[@so02-status] Poison is ruled out, because his Status shows the Development Ability Immunity; in this passage it is said to be "listed under his Skills".[@so02-immunity]
+A body with its head crushed is found in a room at Willy's inn in Rivira. The man had paid with an extraordinarily valuable [[magic-stone|magic stone]] instead of a Familia emblem, so no one knows who he is, and a woman in a robe who went into the room with him has vanished.[@so02-inn] [[bors|Bors]] has a [[status-thief|Status Thief]] used to open the dead man's Status. [[riveria|Riveria]] and [[aiz-wallenstein|Aiz]] read it: he was Hashana Dorlia, of Ganesha Familia.[@so02-status] The room panics, and Bors remembers him as "the Strong Fist Warrior Hashana", a Level 4.[@so02-status] Poison is ruled out, because his Status shows the Development Ability Immunity in its ability column.[@so02-immunity]
 
 [[finn-deimne|Finn]] finds that the killer broke his neck before crushing his head, with no sign of a struggle, and that his pack had been torn apart in a search.[@so02-body] A bloodstained quest form survives: "Floor thirty…Alone, collect…Secretly…"[@so02-quest] Bors says Hashana was famous but rarely came to Rivira. The innkeeper Willy remembers that he always wore a helmet much like [[ganesha|Ganesha]]'s mask, but never full plate armour, and the plate armour in the room bears no Ganesha Familia emblem.[@so02-quest] Riveria concludes that he hid his identity to carry out the quest without telling his Familia, and Finn has Bors seal the town, sure that the killer has not yet found what she was looking for.[@so02-quest, so02-seal]
 
-[[lulune-louie|Lulune Louie]] later explains that she had been hired to meet a man in full plate armour at a bar and take a package from him; he handed it over at once. Free of his quest, he then let his guard down with the woman who invited him to the inn.[@so02-handover] The killer turns out to be the red-haired woman Levis. After breaking his neck she cut off his face to wear as a mask, which is why the body had no head, and she stayed in Rivira disguised as a man while the investigation looked only for women.[@so02-face]
+[[lulune-louie|Lulune Louie]] later explains that she had been hired to meet a man in full plate armour at a bar and take a package from him; he handed it over at once. Free of his quest, he then let his guard down with the woman who invited him to the inn.[@so02-handover] The killer turns out to be the red-haired woman Levis. After breaking his neck she cut off his face to wear as a mask and crushed the head to hide it, and she stayed in Rivira disguised as a man while the investigation looked only for women.[@so02-face]
 
 ## Afterwards
 
@@ -51,14 +52,14 @@ In Sword Oratoria 2 [[fels|Fels]] tells [[ouranos|Ouranos]] that "Hashana, the o
 > [!INFERENCE] The gatekeeper in DanMachi 15
 > When Bell first arrives at Orario's gate in DanMachi 15, one of the two gatekeepers is a dark-skinned, scruffy-bearded adventurer whose Familia crest is an elephant's head, and his Guild colleague calls him Hashana. He laughs when Bell says he has come to meet people in the Dungeon.[@fm15-gate] Hashana Dorlia's body is described as dark wheat-coloured, and Ganesha wears an elephant mask, so this is probably the same man, before his death; the passage gives no surname or Familia name.[@fm15-gate, so02-quest, so05-ganesha]
 
-[@so02-inn]: SO02 | Chapter 2: Incident | The robed woman; the bag of magic stones in place of an emblem; "no one at this point had come to Rivira looking for a lost ally"; "Oi, where’s that Status Thief?!"
-[@so02-status]: SO02 | Chapter 2: Incident | Riveria and Aiz read the divine hieroglyphs; "His name was Hashana Dorlia, a former member of…" "…Ganesha Familia."; "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
-[@so02-immunity]: SO02 | | "The Advanced Ability ‘Immunity’ is listed under his Skills"; "Someone of Hashana’s prowess would hardly be affected by even the most potent toxins".
+[@so02-inn]: SO02 | Chapter 2: Incident | The robed woman; an extraordinarily valuable magic stone in place of an emblem; "no one at this point had come to Rivira looking for a lost ally"; "Oi, where’s that Status Thief?!" The Japanese edition (file cWG, paragraphs 103, 134 and 150) gives the crushed head and the single magic stone.
+[@so02-status]: SO02 | Chapter 2: Incident | Riveria and Aiz read the divine hieroglyphs; his name and Familia, Hashana Dorlia of Ganesha Familia (the Japanese edition, file cWG, paragraphs 178–179, gives Ganesha Familia as his affiliation); "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
+[@so02-immunity]: SO02 | | "Someone of Hashana’s prowess would hardly be affected by even the most potent toxins". The Japanese edition (file c1R7, paragraph 46) places Immunity in the ability column of his Status.
 [@so02-body]: SO02 | | Finn: "these wounds suggest the neck was broken first"; no signs of a struggle; the torn backpack.
 [@so02-quest]: SO02 | | "Floor thirty…Alone, collect…Secretly…"; "That guy was pretty famous, but he almost never showed up in Rivira"; the helmet like Ganesha's; the "dark wheat-colored corpse"; no Ganesha Familia emblem on the plates; Riveria on his concealed identity.
 [@so02-seal]: SO02 | | "Bors, would you seal off the town, for a bit?"; "If said item wasn’t recovered, the killer can’t exactly go back empty-handed."
 [@so02-handover]: SO02 | Chapter 4: Orb | Lulune: the man in full-plated armour at a predetermined bar; the package handed over at once; Hashana lets his guard down.
-[@so02-face]: SO02 | Chapter 5: The Battle of Rivira | "After breaking Hashana’s neck, she literally cut his face off."; the mask of flesh; the investigation focused only on women.
+[@so02-face]: SO02 | Chapter 5: The Battle of Rivira | "After breaking Hashana’s neck, she literally cut his face off."; the mask of flesh; the investigation focused only on women. The Japanese edition (file c2YT, paragraphs 121–122) says she crushed the head to hide the flayed face.
 [@so02-fels]: SO02 | Chapter 5: The Battle of Rivira | "Hashana, the one who took up that quest, has been killed."; "What about the delivery girl?"
 [@so02-aftermath]: SO02 | Chapter 6: Parched Scream | Ganesha Familia insists she be known as Hashana's killer and blacklisted; only upper-class adventurers told of the murder.
 [@so02-thirtieth]: SO02 | Chapter 6: Parched Scream | The thirtieth-floor investigation finds nothing; "Where had he found the crystal orb?"
@@ -68,3 +69,4 @@ In Sword Oratoria 2 [[fels|Fels]] tells [[ouranos|Ouranos]] that "Hashana, the o
 [@so11-ilta]: SO11 | Chapter 4: Avengers ~Knossos War~ | "We lost Hashana in this mess, too, after all."; "We don’t have to be avengers."
 [@so12-ilta]: SO12 | Chapter 4: Nameless Heroes | "We’ll protect the peace of the city and get revenge for Hashana!"
 [@fm15-gate]: FM15 | Chapter 1: A Day of Departure, a Day of Beginning | A crest "patterned after an elephant’s head, the emblem of his patron deity’s faction"; "The dark-skinned, scruffy-bearded adventurer"; "Hashana, we’re on duty," his Guild mate reminds him.
+[@so02-hashana-ja]: SO02 | | The Japanese edition prints his name in katakana and writes the epithet in kanji meaning mighty fighter, with his name as the reading; the infobox gives the printed name and the kanji.

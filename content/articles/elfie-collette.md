@@ -23,11 +23,11 @@
   }
 }
 ---
-**Elfie Collette** is a human mage of [[loki-familia|Loki Familia]] and [[lefiya|Lefiya Viridis]]'s roommate.[@so09-girls, so12-hostages] She is cheerful and curious, more interested in trends and gossip than in her studies, and she worries constantly about Lefiya.[@ss02-rankings, so11-eye, so13-scared] In Sword Oratoria 11 she glimpses an eye through a crack in a wall of [[knossos|Knossos]]; in Sword Oratoria 12 she leads the reserve force back to the hidden room behind it, where [[demeter|Demeter]] Familia's followers are held.[@so11-eye, so12-hostages]
+**Elfie Collette** is a human mage of [[loki-familia|Loki Familia]] and [[lefiya|Lefiya Viridis]]'s roommate.[@so09-girls, so12-hostages] She is cheerful and curious, fond of trends and gossip, and she worries constantly about Lefiya.[@ss02-rankings, so11-eye, so13-scared] In Sword Oratoria 11 she glimpses an eye through a crack in a wall of [[knossos|Knossos]]; in Sword Oratoria 12 she leads the reserve force back to the hidden room behind it, where [[demeter|Demeter]] Familia's followers are held.[@so11-eye, so12-hostages]
 
 ## Character
 
-Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her in full as she streams out fire magic from her staff.[@so09-girls, so12-hostages] She describes herself as a bundle of curiosity, which in Sword Oratoria 11 makes her stop in the middle of an operation to peer into a crack in a wall.[@so11-eye] Minor Myths and Legends 2 says she cares more for trend-chasing and gossip than for her studies, and has been spending a lot of time around the gods. She brings Lefiya the gods' adventurer rankings, and it is from her that Lefiya hears Bete is on a date with a girl from another Familia.[@ss02-rankings, ss02-gossip] In Sword Oratoria 14 she teases [[raul-nord|Raul]] at the Level 7 party, and Lefiya ends up carrying her to bed.[@so14-party]
+Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her in full as she streams out fire magic from her staff.[@so09-girls, so12-hostages] She describes herself as a bundle of curiosity, which in Sword Oratoria 11 makes her stop in the middle of an operation to peer into a crack in a wall.[@so11-eye] Minor Myths and Legends 2 says she loves trends and gossip and has been corrupted by the gods' slang. She brings Lefiya the gods' adventurer rankings, and it is from her that Lefiya hears Bete is on a date with a girl from another Familia.[@ss02-rankings, ss02-gossip] In Sword Oratoria 14 she teases [[raul-nord|Raul]] at the Level 7 party, and Lefiya ends up carrying her to bed.[@so14-party]
 
 ## Lefiya's roommate
 
@@ -72,4 +72,4 @@ Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her i
 [@so13-reunion]: SO13 | Chapter 5: The Mirror’s Voice | "leaving your good old roommate Elfie behind"; complaining to hide her tears.
 [@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | "teased Elfie, already a little tipsy"; Lefiya carrying Elfie over her shoulder.
 [@ss02-gossip]: SS02 | | "I heard from Elfie that Bete’s on a date with a girl from another familia!!"
-[@ss02-rankings]: SS02 | Girls×Cross: Four Paths of a Half Year | Elfie with the rankings; "more interested in trend-chasing and gossip than her own studies"; hanging around the gods.
+[@ss02-rankings]: SS02 | Girls×Cross: Four Paths of a Half Year | Elfie with the rankings; trends and gossip; the gods' slang. The Japanese edition (file part0077, paragraphs 10 and 21) says she loves trends and gossip and has been corrupted by the gods' slang.

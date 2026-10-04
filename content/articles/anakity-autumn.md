@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|アナキティ・オータム}}", "refs": ["so04-anakity-ja"]},
       {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["so04-aki", "so10-alsha"]},
       {"label": "Appearance", "value": "Black hair, ears and tail; black eyes", "refs": ["so04-aki", "so11-xenos"]},
       {"label": "Nickname", "value": "Aki", "refs": ["so04-aki"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-aki"]},
-      {"label": "Title", "value": "Alsha", "refs": ["so10-alsha"]},
+      {"label": "Title", "value": "Alsha ({{ja|貴猫}}, written *noble cat*)", "refs": ["so10-alsha", "so13-alsha-ja"]},
       {"label": "Level", "value": "4 in Sword Oratoria 4; 5 from Sword Oratoria 13", "refs": ["so04-aki", "so13-level"]},
       {"label": "Weapon", "value": "A one-handed sword", "refs": ["so10-detachment"]}
     ]
@@ -74,3 +75,5 @@ When Finn tells the Familia in Sword Oratoria 11 that he trusts the [[xenos|Xeno
 [@so12-squad]: SO12 | Chapter 5: Final War | Second-in-command and de facto commander of the fifth squad.
 [@so12-trap]: SO12 | Chapter 5: Final War | The pitfall; "Bete, Lefiya, and several others fell through a shaft".
 [@so13-level]: SO13 | Chapter 1: Girl’s Revolution | "Anakity Level Five"; Loki Familia's eighth first-tier adventurer; Raul joined at the same time.
+[@so04-anakity-ja]: SO04 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@so13-alsha-ja]: SO13 | | The Japanese edition writes her title in kanji meaning noble cat, with the reading Alsha.

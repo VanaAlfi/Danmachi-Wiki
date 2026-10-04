@@ -18,6 +18,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "City"},
+      {"label": "Japanese", "value": "{{ja|剣製都市}} ({{ja|ゾーリンゲン}}), written *sword-making city*", "refs": ["fm18-zolingam-ja"]},
       {"label": "Type", "value": "Industrial sword-smithing city; a walled fortress city", "refs": ["fc03-arrival"]},
       {"label": "Location", "value": "Far to the east of [[orario|Orario]], across the Alv Mountains", "refs": ["fc03-arrival", "fm18-east"]},
       {"label": "Walls", "value": "Some thirty meders high, guarded by dwarves", "refs": ["fc03-arrival"]},
@@ -95,5 +96,6 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 [@fm18-east]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "She is apparently in Zolingam, far to the east."
 [@fm18-greatest]: FM18 | Chapter 9: Flower Language for You | "With Hermes and Asfi’s information and help, she had reached Zolingam"; "The greatest sword-making city in the world"; Alvs Lumina reborn as Alvs Iustitia.
 [@fm18-return]: FM18 | Chapter 9: Flower Language for You | "Lyu and Astrea and her new followers had been on their way back from Zolingam".
-[@fm19-escort]: FM19 | Chapter 1: V-V-V for Victory Party | "I was able to escort her to Zolingam safely."
+[@fm19-escort]: FM19 | Chapter 1: V-V-V for Victory Party | "I was able to escort her to Zolingam safely." The Japanese edition (file part0015, paragraph 303) has Lyu call it the filial piety allowed to her.
 [@fc03-blackliza]: FC03 | The Locus of Stars | "She was born to the Blackliza family, a prestigious and noted family."; "Cecille’s father was the current head of the Blackliza workshop, and he had eight children. She was the youngest and the only daughter."
+[@fm18-zolingam-ja]: FM18 | | The Japanese edition writes the city's name in kanji meaning sword-making city, with the reading Zōringen; the infobox gives the kanji and the reading.

@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ヘグニ・ラグナール}}", "refs": ["fm18-hegni-ja"]},
       {"label": "Race", "value": "[[races#dark-elf|Dark elf]]", "refs": ["fc02-pair"]},
       {"label": "Former position", "value": "King of the dark elves of Heodenings", "refs": ["fc02-past"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},
       {"label": "Level", "value": "5 in Astrea Record 1; 6 by DanMachi 16", "refs": ["ar01-hegni", "fm16-hegni"]},
-      {"label": "Title", "value": "Dáinsleif", "refs": ["ar01-hegni"]},
+      {"label": "Title", "value": "Dáinsleif ({{ja|黒妖の魔剣}}, written *the dark fairy's magic sword*)", "refs": ["ar01-hegni", "fm18-hegni-ja"]},
       {"label": "Magic", "value": "[[#dainsleif|Dáinsleif]]", "refs": ["fc02-magic"]},
       {"label": "Weapon", "value": "The curse sword Victim Abyss", "refs": ["fm16-sword"]}
     ]
@@ -47,7 +48,7 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 
 {{nocite}} Not to be confused with a sword of the same name:
 
-- In Minor Myths and Legends 1 a back-alley dealer shows [[aiz-wallenstein|Aiz]] a sword called Dáinsleif; the text does not connect it with Hegni.[@dainsleif.ss01-sword]
+- In Minor Myths and Legends 1 a back-alley dealer shows [[aiz-wallenstein|Aiz]] a sword called Dáinsleif; the text does not connect it with Hegni. In the Japanese its name is written *blood-mad cursed sword*, with a reading spelled differently from Hegni's title.[@dainsleif.ss01-sword, ss01-dainsleve-ja]
 
 - **User:** Hegni Ragnar[@dainsleif.fc02-cast]
 - **Type:** Rare magic that alters the caster's personality[@dainsleif.fc02-cast, dainsleif.fm18-cast]
@@ -103,7 +104,7 @@ Both prints give the same single sentence, then the name, and both call it a sup
 
 #### Effect {#burn-dain-effect}
 
-An eruption of flame pours from his outstretched arm, lit brighter by the black magic circle at his feet.[@burn-dain.fc02-ottar] In DanMachi 18 it strikes [[allen-fromel|Allen]] "at super-close range" and blows him away; Allen escapes the worst by throwing himself into the air.[@burn-dain.fm18-allen]
+An eruption of flame pours from his outstretched arm, lit brighter by the black magic circle at his feet.[@burn-dain.fc02-ottar] In DanMachi 18 it strikes [[allen-fromel|Allen]] "at super-close range" and blows him away; he kicks off the ground to evade, but, unwounded until then, he is hit.[@burn-dain.fm18-allen]
 
 {{nocite}} Notable uses and open questions for Burn Dáin are on the combined page: [[magic#burn-dain|Magic § Burn Dáin]].
 
@@ -146,7 +147,9 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 [@dainsleif.ss01-sword]: SS01 | | A sword called Dáinsleif offered to Aiz.
 [@dainsleif.ss02-core]: SS02 | | Still the same person; the alter ego's name; mixed thoughts.
 [@burn-dain.fc02-ottar]: FC02 | The Origin of the Strongest | The chant; a super-short cast; "a short-range explosive fire spell"; against Ottar.
-[@burn-dain.fm18-allen]: FM18 | Chapter 9: Flower Language for You | The hidden chant; "Burn Dáin!"; Allen blown away at super-close range.
+[@burn-dain.fm18-allen]: FM18 | Chapter 9: Flower Language for You | The hidden chant; "Burn Dáin!"; Allen blown away at super-close range. The Japanese edition (file part0027, paragraphs 1021–1025) says he kicked off to evade, yet the chariot, without a wound until then, was hit.
 [@fc02-knights]: FC02 | Ali and the 8 Followers | "Together, they were known as the black and white knights."
 [@so12-knights]: SO12 | Chapter 7: Final War II | "The black and white knights."
 [@fm18-knights]: FM18 | Chapter 9: Flower Language for You | "both kings died—and the white and black knights were born"; also "the black and white knights".
+[@fm18-hegni-ja]: FM18 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the dark fairy's magic sword, with the reading Dáinsleif; the infobox gives the printed name and the kanji.
+[@ss01-dainsleve-ja]: SS01 | | The Japanese edition writes the dealer's sword in kanji meaning blood-mad cursed sword, with a reading spelled differently from Hegni's title.

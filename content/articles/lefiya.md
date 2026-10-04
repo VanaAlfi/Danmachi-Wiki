@@ -38,7 +38,7 @@ Lefiya passed the [[school-district|School District]]'s entrance interview at ei
 - **[[#arcs-ray|Arcs Ray]]** and **[[#fusillade-fallarica|Fusillade Fallarica]]** are her own attack spells.[@so01-lefiya, so03-lefiya]
 - **Elf Ring** summons other elves' spells, including the Dio Grail of her friend [[filvis|Filvis]].[@so01-lefiya, so05-lefiya]
 - She learns **Concurrent Casting**, casting while moving and fighting.[@so04-lefiya]
-- Her Skill **[[skills#fairy-cannon|Fairy Cannon]]** raises her magic power and doubles her attack magic; it already backs her Arcs Ray in Sword Oratoria 3.[@skills.so12-card, skills.so03-fairy]
+- Her Skill **[[skills#fairy-cannon|Fairy Cannon]]** amplifies the effects of her magic and doubles the boost for attack magic; it already backs her Arcs Ray in Sword Oratoria 3.[@skills.so12-card, skills.so03-fairy]
 - **[[skills#double-cannon|Double Cannon]]**, a rare Skill that appears when she reaches Level 4, lets her keep one finished spell on standby while she chants another, and fire it with the key "Cannon".[@skills.so12-card, skills.so12-standby]
 
 Her Sword Oratoria 6 card lists the Development Abilities [[development-ability#mage|Mage]] and [[development-ability#abnormal-resistance|Abnormal Resistance]]. Although eligible for Level 4 then, she delays the promotion to raise her Magic further.[@so06-lefiya] Her Mage, at rank H, is printed as Conjure in Sword Oratoria 2 and 12 and as Magic Control in Sword Oratoria 13; at Level 4 she adds [[development-ability#magic-resistance|Magic Resistance]].[@devab.so02-sheet, skills.so12-card, devab.so13-card]
@@ -55,7 +55,7 @@ Her Sword Oratoria 6 card lists the Development Abilities [[development-ability#
 
 Lefiya's Level 4 card in Sword Oratoria 12 lists Arcs Ray under Magic: single-target magic that homes in on its designated target.[@arcs-ray.so12-card]
 
-Her illustrated Status sheets in Sword Oratoria 2 and 13 give the same two notes: single-target magic that homes in on its designated target. The Sword Oratoria 2 sheet (printed "Lv.5") spells it "hones in".[@arcs-ray.so02-sheet, arcs-ray.so13-sheet]
+Her illustrated Status sheets in Sword Oratoria 2 and 13 give the same two notes: single-target magic that homes in on its designated target. The Sword Oratoria 2 sheet spells it "hones in".[@arcs-ray.so02-sheet, arcs-ray.so13-sheet]
 
 #### Incantation {#arcs-ray-incantation}
 
@@ -137,15 +137,15 @@ In a crowded melee in Sword Oratoria 13, Lefiya can use it only for her first at
 **Elf Ring** is the third spell of Lefiya Viridis. It is a *Summon Burst*: after chanting it, she can chant and cast another elf's magic as if it were her own.[@elf-ring.so12-card, elf-ring.so01-summon] Because it gives her access to a whole library of spells, the gods gave her the title *Thousand Elf*.[@elf-ring.so01-summon]
 
 - **User:** Lefiya Viridis[@elf-ring.so12-card]
-- **Status entry:** Summon Burst; elves only; must know chant and effects; Mind for both spells[@elf-ring.so12-card]
+- **Status entry:** Summon Burst; elven magic only; must fully grasp the chant and effects; Mind for both spells[@elf-ring.so12-card]
 - **Chant:** Five printed pieces, ending "Please—give me strength"; then the summoned spell's own chant[@elf-ring.so01-summon, elf-ring.so03-rea]
 - **Sign:** Her golden magic circle turns jade[@elf-ring.so01-summon, elf-ring.so03-rea]
 
 #### Status entry {#elf-ring-status-entry}
 
-Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four notes: Summon Burst; only able to be cast by an elf; she must know the chant and effects beforehand; and it expends Mind for this spell and the summoned magic.[@elf-ring.so12-card]
+Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four notes: Summon Burst; only elven magic can be activated; she must fully grasp the chant and the summoned spell's effects; and it expends Mind for this spell and the summoned magic.[@elf-ring.so12-card]
 
-Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with four similar notes: only elven magic can be summoned; the trigger and the spell's effects must be known; and Mind is spent on both this spell and the summoned one. Where the Sword Oratoria 12 card says "only able to be cast by an elf", both sheets limit what it can summon to elven magic.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
+Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with the same four notes.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
 
 #### Incantation {#elf-ring-incantation}
 
@@ -174,14 +174,13 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 > [!NOTE] Two descriptions of what Lefiya must know
 > - Sword Oratoria 1 says she can duplicate any elvish magic whose incantation she can recite **or** whose effects she fully understands, after seeing it at least once.[@elf-ring.so01-summon]
 > - Sword Oratoria 4 says it requires a complete understanding of the magic's effects **and** the proper chant.[@elf-ring.so04-reqs]
-> - The Sword Oratoria 12 Status card says she must know the chant **and** the effects beforehand.[@elf-ring.so12-card]
-> - The Status sheets in Sword Oratoria 2 and 13 likewise say the trigger **and** the spell's effects must be known.[@elf-ring.so02-sheet, elf-ring.so13-sheet]
+> - The Sword Oratoria 12 Status card and the Status sheets in Sword Oratoria 2 and 13 say she must fully grasp the chant **and** the summoned spell's effects.[@elf-ring.so12-card, elf-ring.so02-sheet, elf-ring.so13-sheet]
 >
 > This wiki follows the Status card and sheets, which agree with Sword Oratoria 4, and records the earlier "either/or" wording rather than silently dropping it.
 
 #### Cost and limits {#elf-ring-cost-and-limits}
 
-Elf Ring takes a long time to cast and uses an enormous amount of Mind, since she pays for Elf Ring and then for the summoned spell.[@elf-ring.so01-summon, elf-ring.so12-card] In Sword Oratoria 3 she needs about three minutes of chanting to summon Rea Laevateinn, while allies hold off the monsters.[@elf-ring.so03-rea] In Sword Oratoria 13 she realises she had assumed every summon had to be large and powerful to be worth the cost, and starts summoning smaller spells.[@elf-ring.so13-assume] In a crowded melee later in the volume, she rules out summons with long chants altogether.[@elf-ring.so13-crowd]
+Elf Ring takes a long time to cast and uses an enormous amount of Mind, since she pays for Elf Ring and then for the summoned spell.[@elf-ring.so01-summon, elf-ring.so12-card] In Sword Oratoria 3 she needs about three minutes of chanting to summon Rea Laevateinn, while allies hold off the monsters.[@elf-ring.so03-rea] In Sword Oratoria 13 she realises she had assumed every summon had to be large and powerful to be worth the cost, and starts summoning smaller spells.[@elf-ring.so13-assume] In a crowded melee later in the volume, she rules out any new summon, since each needs two chants, while still holding one summoned spell ready on her left hand.[@elf-ring.so13-crowd]
 
 Lefiya's Skill Double Cannon, which holds one finished spell in reserve while she chants another, is a separate Skill, not part of Elf Ring.[@elf-ring.so12-card]
 
@@ -212,7 +211,7 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@so07-lefiya]: SO07 | | Knossos's exit; the retreat.
 [@so11-lefiya]: SO11 | | Filvis's apparent death.
 [@so12-level4]: SO12 | | Level 4.
-[@skills.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Fairy Cannon and Double Cannon under Skills.
+[@skills.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Fairy Cannon and Double Cannon under Skills. The Japanese edition (file c1PZ, paragraphs 348–356) gives Fairy Cannon as magic effects amplified, the boost doubled for attack magic only.
 [@skills.so03-fairy]: SO03 | Chapter 4: White-Haired Devil | Arcs Ray backed by Fairy Cannon.
 [@skills.so12-standby]: SO12 | Chapter 8: A Heroes’ Chorus | Double Cannon, a rare Skill: one spell on standby while chanting another.
 [@devab.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Conjure H, Immunity I.
@@ -240,22 +239,22 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@elf-ring.so03-rea]: SO03 | Chapter 5: Hell and Hell | Same chant; three-minute countdown; Riveria's spell summoned.
 [@elf-ring.so04-reqs]: SO04 | First Chapter: And the Boy… | Elven magic only; two-part chant; understanding and the proper chant.
 [@elf-ring.so05-grail]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's Dio Grail summoned to block the corrupted spirit.
-[@elf-ring.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Elf Ring; Double Cannon listed under Skills.
+[@elf-ring.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Elf Ring; Double Cannon listed under Skills. The Japanese edition (file c1PZ, paragraphs 348–356) says only elven magic can be activated and that the chant and the summoned spell's effects must be fully grasped.
 [@elf-ring.so12-heal]: SO12 | Chapter 8: A Heroes’ Chorus | Summon Burst activates Riveria's healing magic.
 [@elf-ring.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | Chant; yellow circle; Dio Grail against Filvis.
 [@elf-ring.so13-assume]: SO13 | Chapter 3: Class is in Session | Her assumption that summons must be large.
 [@elf-ring.so13-alicia]: SO13 | Chapter 3: Class is in Session | Alicia Forestlight's ice spell.
 [@elf-ring.so13-rea]: SO13 | Chapter 5: The Mirror’s Voice | Rea Laevateinn used as a detector.
-[@elf-ring.so13-crowd]: SO13 | Chapter 5: The Mirror’s Voice | Long-chant summons ruled out in the melee.
+[@elf-ring.so13-crowd]: SO13 | Chapter 5: The Mirror’s Voice | New summons ruled out in the melee. The Japanese edition (file part0037, paragraphs 631–632) rules out any summon, since each needs two chants, and has her hold one already summoned on her left hand.
 [@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
 [@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
-[@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire.
-[@arcs-ray.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Arcs Ray, single-target magic, "hones in on designated target".
+[@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire. The Japanese edition (file part0029, paragraph 12) speaks of summoning Maenad's magic.
+[@arcs-ray.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Arcs Ray, single-target magic, "hones in on designated target".
 [@arcs-ray.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Arcs Ray, single target magic, homes in on designated target.
-[@fusillade-fallarica.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Fusillade Fallarica, wide-range attack magic, fire element.
+[@fusillade-fallarica.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Fusillade Fallarica, wide-range attack magic, fire element.
 [@fusillade-fallarica.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Fusillade Fallarica, wide-range attack magic, fire element.
-[@elf-ring.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228 (printed "Lv.5"): Elf Ring, Summon Burst; only elvish magic can be summoned; trigger and effect must be known; Mind for both.
-[@elf-ring.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Elf Ring, Summon Burst; only elven magic; trigger and effects must be known; Mind for both.
+[@elf-ring.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Elf Ring, Summon Burst; only elvish magic; Mind for both. The Japanese edition's sheet (image page c5M4, Level 3) requires a complete grasp of the chant and of the summoned spell's effect.
+[@elf-ring.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Elf Ring, Summon Burst; only elven magic; Mind for both. The Japanese edition's sheet (image page part0043) requires a complete grasp of the chant and of the summoned spell's effects.
 [@elfie.so09-girls]: SO09 | | "Lefiya’s roommate, the magic user Elfie".
 [@elfie.so11-room]: SO11 | Epilogue: Whodunit | Elfie reduced to tears trying to cheer Lefiya up; Lefiya moved to a different room.
 [@alicia.so13-recruit]: SO13 | Fairy Canon: 2 | Anakity and Alicia, the recruiters when Lefiya was a student.

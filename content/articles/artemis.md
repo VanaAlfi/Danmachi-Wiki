@@ -17,6 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|アルテミス}}", "refs": ["ar03-artemis-ja"]},
       {"label": "Type", "value": "Goddess of chastity", "refs": ["ar03-arrival"]},
       {"label": "Hair", "value": "Azure", "refs": ["ar03-arrival", "ar03-hermes"]},
       {"label": "Weapon", "value": "Bow and arrows", "refs": ["ar03-arrival"]},
@@ -34,7 +35,7 @@
 - **[[loki|Loki]]**, who finds [[astrea|Astrea]] too sweet: "You remind me of Artemis, ’cept at least she has the decency to get violent once in a while."[@ar01-loki]
 - **Eren**, a god, calls Astrea "As virtuous as Lady Artemis, and twice as gentle".[@ar01-eren]
 - **[[hermes|Hermes]]**, to Astrea: "You and Artemis are birds of a feather. You never do what other people say."[@ar01-hermes]
-- **[[erebus|Erebus]]**, to Astrea: "Because right now, you seem more like a hunter, like that Artemis."[@ar03-erebus]
+- **[[erebus|Erebus]]** asks Astrea whether she is not a relative of the militant Artemis, in a gentle goddess's skin; Astrea answers that Artemis is far purer and kinder than she is.[@ar03-erebus]
 - **[[freya|Freya]]** thinks that Hestia, Artemis or Astrea would be disgusted by a display she herself enjoys, and that Artemis "would probably have pulled out her bow and arrow before going on a rampage to save all those who wanted to be saved".[@fc02-freya]
 - **Hestia** scolds Bell for peeking at the girls' baths: "Do you know what Artemis thinks about people like you?"[@ss01-hestia]
 
@@ -48,12 +49,13 @@ In Astrea Record 3, the moment Artemis hears of the [[great-conflict|Great Confl
 [@ar03-familia]: AR03 | Chapter 6: The Nameless Heroes | "This was Artemis Familia. A familia without a home, who wandered the continent on a perpetual hunt. Though not officially part of Orario, they still counted upper-class adventurers among their number, and even the goddess herself was a formidable fighter to be reckoned with."; "The moment she heard news of the Great Conflict, Artemis had made the decision to come here, to Orario, instead of assisting elsewhere. Having scaled the massive walls with a rope".
 [@ar03-captain]: AR03 | Chapter 6: The Nameless Heroes | "Wait here until Lanta arrives."; "Once Lanta returns from exterminating the monsters below, we’ll move out. Rethusa, decide who’ll join the hunting party and who’ll stay here!"; "Artemis’s captain returned a vigorous nod."
 [@ar03-hermes]: AR03 | Chapter 6: The Nameless Heroes | "Artemis, you came!"; "seeing the azure-haired goddess and her all-female band conquering the city walls".
-[@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "I haven’t the faintest idea what you’re talking about, Astrea."; "…Are you really a goddess of justice?"; "Because right now, you seem more like a hunter, like that Artemis."
+[@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "I haven’t the faintest idea what you’re talking about, Astrea."; "…Are you really a goddess of justice?". The Japanese edition (file c8ZY, paragraphs 195 and 198) has Erebus ask whether she is a relative of the militant Artemis, and Astrea answer that Artemis is far purer and kinder.
 [@ar01-loki]: AR01 | | Printed heading "Chapter 3: Busy People" (not in the evidence map): "Loki groaned"; "You remind me of Artemis, ’cept at least she has the decency to get violent once in a while."
 [@ar01-eren]: AR01 | | Printed heading "Chapter 4: Questioning Justice" (not in the evidence map): "It seemed like he was used to being a hopeless god."; "As virtuous as Lady Artemis, and twice as gentle? That Astrea?"
 [@ar01-hermes]: AR01 | Chapter 9: The Opening Act of Evil | "Astrea looked at him and nodded."; "You and Artemis are birds of a feather. You never do what other people say."
 [@fc02-freya]: FC02 | Ali and the 8 Followers | "Not a bad display, Freya thought unironically."; "If Hestia or Artemis or Astrea saw it, they would surely have pursed their lips in disgust. Well, Artemis would probably have pulled out her bow and arrow before going on a rampage to save all those who wanted to be saved."
 [@fm02-virgin]: FM02 | | Printed heading "Interlude: Cry Out, Goddess" (not in the evidence map): "You’re one of the top three virgin goddesses, alongside Athena and Artemis!"
 [@fm17-chastity]: FM17 | Chapter 2: Alone Inside a Sandbox | "She alone had not fallen to Freya’s charm."; "As a deity of purity and chastity, like Athena and Artemis, she had the power to reject the goddess of beauty’s control."
-[@fm18-aphrodite]: FM18 | | "As a safety precaution, a virgin goddess might also be kept around. These arrangements were made to make sure the goddesses of beauty behaved, like when Artemis was paired with Aphrodite."
+[@fm18-aphrodite]: FM18 | | "As a safety precaution, a virgin goddess might also be kept around. These arrangements were made to make sure the goddesses of beauty behaved, like when Artemis was paired with Aphrodite." The Japanese edition (file part0013, paragraph 10) says a virgin goddess was placed near such goddesses as a safety device, and that Aphrodite was often silenced by force by the likes of Artemis.
 [@ss01-hestia]: SS01 | | Printed heading "Goddess Loses Her Mind" (not in the evidence map): "Bell followed Hestia’s instruction"; "Peeking on the girl’s baths? Really? Do you know what Artemis thinks about people like you?"
+[@ar03-artemis-ja]: AR03 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

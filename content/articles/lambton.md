@@ -14,7 +14,8 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monster"},
-      {"label": "Proper name", "value": "Wormwell (\"serpent\" + \"water well\")", "refs": ["fm13-name", "so14-name"]},
+      {"label": "Japanese", "value": "{{ja|ラムトン}}", "refs": ["so14-lambton-ja"]},
+      {"label": "Proper name", "value": "Wormwell (\"serpent\" + \"water well\") ({{ja|大蛇の井戸}}, written *the great serpent's well*)", "refs": ["fm13-name", "so14-name", "fm14-wormwell-ja"]},
       {"label": "Class", "value": "Extreme large category, big enough to be a floor boss", "refs": ["fm13-size"]},
       {"label": "Size", "value": "About 5 meders high and at least 10 long", "refs": ["fm13-size"]},
       {"label": "Habitat", "value": "Normally [[floor-37|Floor 37]]; highest sighting before DanMachi 13 was Floor 29", "refs": ["fm13-floor", "fm13-record"]},
@@ -72,3 +73,5 @@ Before he joined [[loki-familia|Loki Familia]], [[gareth|Gareth]] meets a lambto
 [@so14-name]: SO14 | Chapter 3: The Dwarf’s Embarking | "A lambton was what adventurers in distant Orario called it"; wormwell; passing between floors; the rumble of its movement.
 [@so14-strength]: SO14 | Chapter 3: The Dwarf’s Embarking | "stronger, sturdier, and more vicious than any of the monsters Gareth had routed before".
 [@so14-fight]: SO14 | Chapter 3: The Dwarf’s Embarking | Its three pairs of eyes; Wynn Fimbulvetr; Finn's spear; the dwarven explosive; the collapse.
+[@so14-lambton-ja]: SO14 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
+[@fm14-wormwell-ja]: FM14 | | The Japanese edition writes Wormwell in kanji meaning the great serpent's well, with the reading Wormwell.

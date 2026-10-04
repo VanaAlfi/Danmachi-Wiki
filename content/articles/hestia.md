@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|ヘスティア}}", "refs": ["fm01-hestia-ja"]},
       {"label": "Type", "value": "Goddess", "refs": ["fm01-goddess"]},
       {"label": "Other name", "value": "Vesta, a divine name meaning sacred flame", "refs": ["fm12-vesta"]},
       {"section": "Familia"},
@@ -29,7 +30,7 @@
 ---
 **Hestia** is a goddess and the head of [[hestia-familia|Hestia Familia]]. She gives [[bell-cranell|Bell Cranell]] his [[falna|Falna]] and hides his rapid-growth Skill, [[skills#liaris-freese|Liaris Freese]], from him.[@fm01-goddess, fm01-hidden] In DanMachi 12 she explains that *Vesta*, another of her divine names, means sacred flame.[@fm12-vesta]
 
-Other gods call her "Loli Big Boobs", "making fun of her otherworldly bust"; at the Denatus of DanMachi 4 Bell is "Loli Big Boobs’s child".[@fm01-loli, fm04-loli]
+Other gods call her "Loli Big Boobs", "making fun of her otherworldly bust"; at the Denatus of DanMachi 4 Bell is the loli god's child.[@fm01-loli, fm04-loli]
 
 ## Arrival in Orario
 
@@ -91,12 +92,13 @@ In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin 
 [@fm08-rebirth]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Ares; purification and rebirth; Hestia's promise.
 [@fm08-hearthstone]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): The home is named Hearthstone Manor.
 [@fm11-xenos]: FM11 | | The Xenos rescue.
-[@fm12-vesta]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 update; Vesta.
+[@fm12-vesta]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 update; Vesta. The Japanese edition (file part0012, paragraph 85) says an ever-burning sacred flame.
 [@fm15-descent]: FM15 | | Arrival, failed recruitment, the church and Hephaistos's help.
 [@fm16-tavern]: FM16 | | Hestia at the tavern; the second-day Syr.
 [@fm17-hearth]: FM17 | Chapter 5: The End of Her World | Hestia purges the charm.
 [@fm17-domain]: FM17 | Chapter 5: The End of Her World | The sacred hearth as Hestia's domain.
 [@fm19-syr]: FM19 | Chapter 1: V-V-V for Victory Party | Syr allowed to remain.
 [@ss01-hestia]: SS01 | | Susceptibility to illness; household rules.
-[@fm01-loli]: FM01 | Chapter 1: World, Reality, and Desire | Other gods' name for her, "making fun of her otherworldly bust".
-[@fm04-loli]: FM04 | Chapter 1: Denatus | "why don’t ya leave after we’ve given Loli Big Boobs’s child a name?"
+[@fm01-loli]: FM01 | Chapter 1: World, Reality, and Desire | Other gods' name for her, "making fun of her otherworldly bust". The Japanese edition (file cFB, paragraph 122) says she is mocked as loli big-boobs.
+[@fm04-loli]: FM04 | Chapter 1: Denatus | Loki at the Denatus. The Japanese edition (file cMS, paragraph 331) says the loli god's child.
+[@fm01-hestia-ja]: FM01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

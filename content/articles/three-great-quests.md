@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Quests"},
-      {"label": "Behemoth", "value": "Slain by Zeus and Hera Familias", "refs": ["fm06-quests"]},
-      {"label": "Leviathan", "value": "Slain by Zeus and Hera Familias", "refs": ["fm06-quests"]},
-      {"label": "Black Dragon", "value": "Still alive; destroyed Zeus and Hera Familias", "refs": ["fm06-quests", "so09-quests"]}
+      {"label": "Japanese", "value": "{{ja|三大冒険者依頼}}, written *the three great adventurer requests*", "refs": ["fm06-three-quests-ja"]},
+      {"label": "Behemoth", "value": "{{ja|陸の王者}}, written *king of the land*; slain by Zeus and Hera Familias", "refs": ["fm06-quests", "fm06-three-quests-ja"]},
+      {"label": "Leviathan", "value": "{{ja|海の覇王}}, written *overlord of the sea*; slain by Zeus and Hera Familias", "refs": ["fm06-quests", "fm06-three-quests-ja"]},
+      {"label": "Black Dragon", "value": "{{ja|黒竜}}; still alive; destroyed Zeus and Hera Familias", "refs": ["fm06-quests", "so09-quests", "fm06-three-quests-ja"]}
     ]
   }
 }
@@ -31,7 +32,7 @@ Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]], 
 
 ## The Behemoth and the Leviathan {#leviathan}
 
-DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts] In the same volume Dedyne, where the Evils' "unblessed followers" had been active before the Great Conflict, is recalled as the "home of the Black Desert, where the battle with the Behemoth was fought".[@ar03-dedyne]
+DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts] In the same volume Gareth speaks of the Evils' believers in Dedyne before the Great Conflict, and Dedyne is recalled as the "home of the Black Desert, where the battle with the Behemoth was fought".[@ar03-dedyne]
 
 - **The Hringhorni:** in DanMachi 20 [[leon-verdenberg|Leon]] explains that the School District's ship was originally a floating fortress, a foothold for fighting the Leviathan, which could capsize ships just by twisting its body. Its round layers are the remnants of that foothold, and its blue wings are the drop item Leviathan's Fins. Leon himself slipped into the battle, and he calls it the cornerstone of the school.[@fm20-hringhorni]
 - **The Leviathan Seal:** after the Leviathan's defeat Zeus and Hera Familias brought back its skeleton and used it on the lid of the tunnel under Lolog Lake, completing what the Guild officially calls the Leviathan Seal; monsters flee from its bones as they do from the Black Dragon's scales (see [[njordr#port-meren|Port Meren]]).[@so06-seal]
@@ -70,4 +71,5 @@ The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Ques
 [@fc02-levels]: FC02 | The Origin of the Strongest | Zeus's Level 8 and Hera's Level 9.
 [@ar03-zald]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
 [@ar03-alfia]: AR03 | Chapter 5: Playing the Violence Card | "Against the Black Dragon, we were powerless."
-[@ar03-dedyne]: AR03 | Chapter 8: The Price of Talent | Riveria: "The first were the actions of unblessed followers in Dedyne"; "Dedyne…home of the Black Desert, where the battle with the Behemoth was fought…"
+[@ar03-dedyne]: AR03 | Chapter 8: The Price of Talent | Gareth on the believers in Dedyne; "Dedyne…home of the Black Desert, where the battle with the Behemoth was fought…" The Japanese edition (file c7UR, paragraph 63) gives the line to Gareth and speaks of believers.
+[@fm06-three-quests-ja]: FM06 | | The Japanese edition writes the quests' name in kanji meaning the three great adventurer requests, read as quests, and writes Behemoth and Leviathan in kanji meaning king of the land and overlord of the sea; the infobox gives them.

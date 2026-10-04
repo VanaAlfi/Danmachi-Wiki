@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
+      {"label": "Japanese", "value": "{{ja|ウィーネ}}", "refs": ["fm09-wiene-ja"]},
       {"label": "Kind", "value": "[[monsters#vouivre|Vouivre]]", "refs": ["fm09-wiene"]},
       {"label": "Skin and hair", "value": "Bluish-white skin; silver-blue hair", "refs": ["fm09-look", "fm09-hair"]},
       {"label": "Eyes", "value": "Amber", "refs": ["fm09-look"]},
@@ -29,7 +30,7 @@
 
 ## Appearance and character {#character}
 
-- **Looks:** Wiene has bluish-white skin, amber eyes and a garnet-like jewel in her forehead, the [[monsters#vouivre|Vouivre's Tear]]; her long hair is silver-blue, and patches of scales cover parts of her body.[@fm09-look, fm09-hair, fm09-scales] Bell guesses her height at about 150 celch.[@fm09-height] The English DanMachi 8 gives the newborn "dark-red eyes"; in the Japanese the red is the stone in her forehead and her eyes are only *vacant*.[@fm08-eyes]
+- **Looks:** Wiene has bluish-white skin, amber eyes and a garnet-like jewel in her forehead, the [[monsters#vouivre|Vouivre's Tear]]; her long hair is silver-blue, and patches of scales cover parts of her body.[@fm09-look, fm09-hair, fm09-scales] Bell guesses her height at about 150 celch.[@fm09-height] At her birth in DanMachi 8 she has the beautiful red stone set in her forehead and looks around with vacant eyes.[@fm08-eyes]
 - **Fear of hurting:** when her claws accidentally cut Bell's arm, she stares at her bloody hand in shock, pulls her hand back and apologises.[@fm09-claws] She has dreams in which everything turns red and she is always angry and growing colder.[@fm09-dreams]
 - **Family:** she takes to Bell and Haruhime, and quickly to [[hestia|Hestia]] as well, who strokes her hair as she sleeps.[@ss01-hestia, fm15-haruhime] Separated from Hestia Familia, she cries for Bell in the Xenos' village on the [[colossal-tree-labyrinth|twentieth floor]].[@ss01-village]
 - **Growing strong:** after meeting her in the Dungeon, Haruhime tells Hestia that Wiene "has become so very strong", and Hestia replies that she is no longer "a little crybaby".[@fm15-haruhime] In Sword Oratoria 11 she is humanoid, but beneath her black robe has the body of a full-fledged dragon, and her senses are sharp even for a monster, second only to [[rei|Rei]]'s echolocation.[@so11-wiene]
@@ -47,7 +48,7 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 | Volume | Events |
 |---|---|
 | DanMachi 10 | The hunter [[ikelos-familia#dix-perdix|Dix]] removes her Tear, transforming her. A cursed spearhead cracks her [[magic-stone|magic stone]] and she dies declaring her love for Bell, then is brought back to life by [[fels|Fels]]'s [[magic#dia-orpheus|Dia Orpheus]].[@fm10-wiene] |
-| DanMachi 11 | Saves a girl named Ruu from falling rubble. Facing [[aiz-wallenstein|Aiz]], she tears off her own claws and new wing and tells Aiz that Bell rescued her from darkness and loneliness; Aiz lets them go. She returns safely underground after Bell promises they will share a future.[@fm11-wiene] |
+| DanMachi 11 | Saves Ruu, a child of Maria's orphanage, from falling rubble. Facing [[aiz-wallenstein|Aiz]], she tears off her own claws and new wing and tells Aiz that Bell rescued her from darkness and loneliness; Aiz lets them go. She returns safely underground after Bell promises they will share a future.[@fm11-wiene] |
 | Sword Oratoria 10 | The same meeting with Aiz, told from Aiz's side: her loneliness moves Aiz.[@so10-wiene] |
 | DanMachi 12 | Bell's promise to her drives him on, and he makes the same promise to Mari, a mermaid Xenos of the [[water-capital|Water Capital]].[@fm12-promise, fm12-mari] |
 | Sword Oratoria 11 | Volunteers to go with [[lido|Lido]] into [[knossos|Knossos]]: "I want to go, too", to protect the place where the goddess and Bell live.[@so11-wiene] |
@@ -61,7 +62,7 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Whether Bell's promise of a shared life on the surface will be kept.[@fm11-wiene]
 
-[@fm08-eyes]: FM08 | Epilogue: Birthday | "The strikingly beautiful monster had dark-red eyes". The Japanese original (file part0033, paragraph 40) describes a monster with a beautiful red stone set in its forehead, looking round with vacant eyes; it gives no eye colour.
+[@fm08-eyes]: FM08 | Epilogue: Birthday | The Japanese edition (file part0033, paragraph 40) describes the newborn monster with a beautiful red stone set in its forehead, looking around with vacant eyes.
 [@fm09-height]: FM09 | Chapter 1: An Irregular Girl | "she’s probably about 150 celch tall".
 [@fm09-look]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "Bluish-white skin, amber eyes, and a garnet-like jewel in her forehead."
 [@fm09-hair]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "Wiene’s long silver-blue hair".
@@ -87,3 +88,4 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 [@fm11-village]: FM11 | Epilogue: And So I Start to Run Again | The return to the Hidden Village.
 [@fm14-wiene]: FM14 | | The Floor 37 rescue.
 [@so10-wiene]: SO10 | | Wiene and Aiz.
+[@fm09-wiene-ja]: FM09 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

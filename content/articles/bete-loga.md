@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ベート・ローガ}}", "refs": ["so12-bete-ja"]},
       {"label": "People", "value": "Beastmen of the Plains", "refs": ["so08-plains"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Víðarr Familia (captain); later Loki Familia", "refs": ["so08-vidarr"]},
       {"label": "Level", "value": "5; 6 from Sword Oratoria 6", "refs": ["so06-bete"]},
       {"label": "First title", "value": "Fenris", "refs": ["so08-vidarr"]},
-      {"label": "Title", "value": "Vanargand", "refs": ["fm10-vanargand", "so12-vanargand"]},
+      {"label": "Title", "value": "Vanargand ({{ja|凶狼}}, written *vicious wolf*)", "refs": ["fm10-vanargand", "so12-vanargand", "so12-bete-ja"]},
       {"label": "Magic", "value": "[[#hati|Hati]]", "refs": ["so08-hati"]},
       {"label": "Skills", "value": "[[skills#ulfhedinn|Úlfheðinn]], [[skills#fenris-wolf|Fenris Wolf]], [[skills#solmani|Solmani]]", "refs": ["skills.so05-sheet", "skills.so10-solmani"]},
       {"label": "Equipment", "value": "Frosvirt, made by Tsubaki", "refs": ["so08-hati"]}
@@ -80,7 +81,7 @@ Bete's illustrated Status sheet in Sword Oratoria 5 (Level 5) lists Hati under M
 
 Sword Oratoria 8 prints the chant in seven pieces, from the opening to the last line; between them it speaks of three wounds and of rage, fate, tears and lost companions. His enemies attack him throughout, and he makes no move to dodge.[@hati.so08-cast]
 
-Sword Oratoria 12 prints the whole chant again in seven pieces, split by other action, before the release. The wording differs slightly from Sword Oratoria 8: the opening reads "Chained Fenris, king of wolves!" for "Chained Fros, king of the wolves", and there are "Dry the tears!" for "And dry thy tears" and "unleash" for "release".[@hati.so08-cast, hati.so12-filvis] These are recorded as print variants.
+Sword Oratoria 12 prints the whole chant again in seven pieces, split by other action, before the release. The wording differs slightly from Sword Oratoria 8: the opening reads "Chained Fenris, king of wolves!" for "Chained Fros, king of the wolves", and there are "Dry the tears!" for "And dry thy tears" and "unleash" for "release".[@hati.so08-cast, hati.so12-filvis] These are recorded as print variants. In the Japanese both volumes say *Fros* in the opening, written *evil wolf* ({{ja|悪狼}}).[@hati.so12-ja]
 
 #### Effects {#hati-effects}
 
@@ -134,7 +135,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Hati; Frosvirt; Valletta; the reconciliation.
 [@leene.so08-death]: SO08 | Prologue: Scorn of the Strong | Leene Arshe dying in Knossos; Bete's words; her peaceful smile.
 [@leene.so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?"
-[@leene.ss02-memory]: SS02 | | "How many times have your hands saved me? You’ve done enough."
+[@leene.ss02-memory]: SS02 | | "How many times have your hands saved me? You’ve done enough." The Japanese edition (file part0047, paragraphs 19 to 21) words them as *You idiot…* and *I have been saved enough by your hands…*.
 [@lena.so08-meet]: SO08 | Chapter 1: Lonely Wolf | "You’re one of those whores from Ishtar Familia we fought in Meren…!"; "I’m Lena! Lena Tully!"
 [@lena.so08-flowers]: SO08 | Chapter 2: Did Someone Order a Wolf? | "There’s nothing that makes me happier than getting forget-me-nots!!"
 [@lena.so08-run]: SO08 | Chapter 3: Unshed Tears | The assassins focus on Lena; "Win for me, okay, Bete Loga? —And don’t die."; the black dagger.
@@ -148,5 +149,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits.
 [@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
 [@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | The whole chant again in seven pieces ("Chained Fenris, king of wolves!"); flaming wolf; Fusillade Fallarica strengthens it.
+[@hati.so12-ja]: SO12 | Chapter 8: A Heroes’ Chorus | The Japanese edition (file cAFK, paragraph 356) writes the opening with the kanji for evil wolf and the reading Fros, as Sword Oratoria 8 does (paragraph 567).
 [@hati.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hati, enchant spell, fire attribute, Magic Drain, Damage Drain.
 [@so08-renee]: SO08 | Chapter 1: Lonely Wolf | "Father…Mother…Luna…"; "There had been a girl, too—born on the same day"; "he could claim her for his own"; "His mother; his sister, Luna"; "Renee…!"
+[@so12-bete-ja]: SO12 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning vicious wolf, with the reading Vanargand; the infobox gives the printed name and the kanji.

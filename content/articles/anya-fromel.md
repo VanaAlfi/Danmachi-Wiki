@@ -18,9 +18,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|アーニャ・フローメル}}", "refs": ["fm16-anya-ja"]},
       {"label": "Name", "value": "Anya Fromel", "refs": ["fm16-name", "ar02-conflict"]},
       {"label": "Printed as", "value": "Ahnya; Ahnya Fromel (DanMachi 16–18); Anya (Astrea Record 2)", "refs": ["fm01-named", "fm16-name", "ar02-conflict"]},
-      {"label": "Adventurer title", "value": "Vana Alfi (former)", "refs": ["fc01-fight", "fm16-street"]},
+      {"label": "Adventurer title", "value": "Vana Alfi ({{ja|戦車の片割れ}}, written *the other half of the chariot*; former)", "refs": ["fc01-fight", "fm16-street", "fm16-anya-ja"]},
       {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["fm01-named", "fm17-catperson"]},
       {"label": "Family", "value": "[[allen-fromel|Allen Fromel]] (older brother)", "refs": ["fm17-past"]},
       {"section": "Affiliation"},
@@ -111,7 +112,7 @@ Freya then reveals directly to Anya that she is Syr. Anya refuses to accept it, 
 
 ### The War Game
 
-In DanMachi 18, [[bete-loga|Bete]] brings Anya to [[horn|Hörn]], who at that point looks like Syr, and explains only that she mirrors Syr's true feelings. Through her, Anya hears Syr's apology and plea to be saved. Frightened, she chooses to fight for her family.[@fm18-horn] She says that she still wants to be Allen's family again, but that Lyu, Chloe, Runoa, Mia and the others who saved her are her family too.[@fm18-family]
+In DanMachi 18, [[bete-loga|Bete]] brings Anya to [[horn|Hörn]], who at that point looks like Syr, and explains only that she mirrors Syr's true feelings. Through her, Anya hears Syr's apology and plea to be saved. Frightened, she chooses to fight for her family.[@fm18-horn] She says that she still wants to be Allen's family again, but that besides Lyu, Chloe, Runoa, Mia and the others she has one more family, the one and only family who saved her: Syr.[@fm18-family]
 
 During the battle she casts [[#remisto-felis|Remisto Felis]] under cover of [[hedin|Hedin]]'s bombardment, and fights at a temporary pseudo-Level 5 under [[haruhime|Haruhime]]'s [[magic#uchide-no-kozuchi|Level Boost]].[@fm18-remisto, fm18-family] [[hegni|Hegni]] saves her from Allen's rage.[@fm18-hegni] In their fight she learns that Allen asked Freya to send her away, to keep her off the battlefield of his hunt for the dragon that destroyed their home, and that he still loves her.[@fm18-allen] His magic, which she had not known about, finally breaks through her resistance.[@fm18-breakthrough]
 
@@ -267,7 +268,7 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fm18-horn]: FM18 | Chapter 9: Flower Language for You |
 [@fm18-conversions]: FM18 | Chapter 9: Flower Language for You | Chloe's and Runoa's conversions.
 [@fm18-remisto]: FM18 | Chapter 9: Flower Language for You |
-[@fm18-family]: FM18 | Chapter 9: Flower Language for You |
+[@fm18-family]: FM18 | Chapter 9: Flower Language for You | The Japanese edition (file part0026, paragraphs 851 to 859) has her name Lyu, Chloe, Runoa and Mama Mia as family and add one more, the one and only family who saved her, Syr, whom she then sets out to bring back.
 [@fm18-antipoison]: FM18 | Chapter 9: Flower Language for You |
 [@fm18-hegni]: FM18 | Chapter 9: Flower Language for You |
 [@fm18-allen]: FM18 | Chapter 9: Flower Language for You |
@@ -291,3 +292,4 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@ss02-cards]: SS02 | Beginner’s Luck? |
 [@ss02-training]: SS02 | The Illusive Second Master |
 [@ss02-invite]: SS02 | The Night Before a Grand Casino Infiltration |
+[@fm16-anya-ja]: FM16 | | The Japanese edition prints her name in katakana and writes her former title in kanji meaning the other half of the chariot, with the reading Vana Alfi; the infobox gives the printed name and the kanji.

@@ -18,6 +18,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Casino"},
+      {"label": "Japanese", "value": "{{ja|エルドラド・リゾート}}", "refs": ["fc01-el-dorado-ja"]},
       {"label": "Also called", "value": "The Grand Casino; \"The Golden City\"", "refs": ["fc01-grand", "fc01-vault"]},
       {"label": "Location", "value": "The Shopping District of [[orario|Orario]]", "refs": ["fc01-district"]},
       {"label": "Backed by", "value": "The Paradise City, Santorio Vega", "refs": ["fc01-grand"]},
@@ -45,7 +46,7 @@ Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign
 | Stage | Events |
 |---|---|
 | The wager | Huey Kreiz, a gambler, is drawn into a game with delinquent adventurers, loses his daughter Anna as collateral, and loses his house. Thugs take her that morning. Lyu suspects the girl was the target from the start.[@fc01-kreiz, fc01-target] |
-| The trail | [[asfi|Asfi]] traces Anna through the black market, the "Marketplace", and finds she was bought by the owner of El Dorado Resort, a dwarf named Terry Cervantes, who was behind the scheme.[@fc01-asfi, fc01-owner] |
+| The trail | [[asfi|Asfi]] traces Anna through the "Marketplace", the gateway of the city's trade, where people are also sold in secret, and finds she was bought by the owner of El Dorado Resort, a dwarf named Terry Cervantes, who was behind the scheme.[@fc01-asfi, fc01-owner] |
 | The invitation | Syr obtains an invitation for a count from a small country.[@fc01-invitation] Minor Myths and Legends 2 shows that [[allen-fromel|Allen]] procured it at her "request" and secretly guarded her inside.[@ss02-allen] |
 | The disguise | Lyu enters as "Ariud Maximilian" with Syr as his wife, "Sirène".[@fc01-disguise] Terry shows them his collection of women, girls in the same plight as Anna.[@fc01-collection] |
 | The game | Syr takes her "husband's" place at the table, staking herself, and wins overwhelmingly.[@fc01-wager, fc01-win] Terry must grant the victor's request. When he releases Anna, Lyu demands more: "All of them".[@fc01-win, fc01-all] |
@@ -67,7 +68,7 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 
 [@fc01-kreiz]: FC01 | Crush the Grand Casino! | "The woman’s name was Karen and her husband’s was Huey."; "the ­magic-­stone manufacturing business"; "wager my daughter, Anna"; "losing his daughter and his house".
 [@fc01-target]: FC01 | Crush the Grand Casino! | "Some male gods even proposed to her."; "At the flower shop she worked at"; "out and about delivering things"; "they were after the girl from the beginning".
-[@fc01-asfi]: FC01 | Crush the Grand Casino! | Lyu's letter about Anna Kreiz; "the girl who had been carried off to the Marketplace"; "she had already been sold".
+[@fc01-asfi]: FC01 | Crush the Grand Casino! | Lyu's letter about Anna Kreiz; "the girl who had been carried off to the Marketplace"; "she had already been sold"; "The Marketplace served as a gateway to the city’s distribution network."
 [@fc01-owner]: FC01 | Crush the Grand Casino! | "the largest one in Santorio Vega"; "It’s known as the Paradise City’s Grand Casino."; "a dwarf named Terry Cervantes"; "pulling the strings".
 [@fc01-district]: FC01 | Crush the Grand Casino! | "Gambling’s the biggest industry in the city after ­magic-­stone items."; "the one place in Orario that the law can’t reach"; Mayrustra and Santorio Vega; "contracted Ganesha Familia for security".
 [@fc01-invitation]: FC01 | Crush the Grand Casino! | "if you aren’t rich, you can’t get in"; "It’s a count from some small country, apparently."
@@ -100,3 +101,4 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@fc01-anna-confess]: FC01 | Crush the Grand Casino! | "you put your life on the line to save me"; "I’m a woman, just like you"; "The romantic tale that had set her heart aflutter crumbled pitifully."
 [@fc01-anna-father]: FC01 | Crush the Grand Casino! | "You promised you wouldn’t drink anymore!"
 [@ss02-anna-sigh]: SS02 | | Printed heading "And at that Moment, Lyu Leon Shivered" (not in the evidence map): "That’s the face of a girl in love."; "This was the fabled yuri of which the gods spoke!"
+[@fc01-el-dorado-ja]: FC01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.

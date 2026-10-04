@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|オッタル}}", "refs": ["fm18-ottar-ja"]},
       {"label": "Race", "value": "[[races#boaz|Boaz]]", "refs": ["fc02-boaz"]},
       {"label": "Named by", "value": "[[freya|Freya]], who found him as a small child", "refs": ["fc02-origin"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["so04-captain"]},
       {"label": "Position", "value": "Captain, after [[mia-grand|Mia Grand]]", "refs": ["so04-captain", "fm18-mia"]},
       {"label": "Level", "value": "7, from Astrea Record 3", "refs": ["ar03-seven", "fm20-sevens"]},
-      {"label": "Title", "value": "Warlord", "refs": ["so04-captain"]},
+      {"label": "Title", "value": "Warlord ({{ja|猛者}}, read as the word for *king*, written *mighty warrior*)", "refs": ["so04-captain", "fm18-ottar-ja"]},
       {"label": "Magic", "value": "Hildis Vini", "refs": ["fm18-hildis"]},
       {"label": "Skills", "value": "[[skills#vana-arganture|Vana Arganture]] (Vana Angatyr), [[skills#stultus-ottar|Stultus Ottar]]", "refs": ["fm18-arganture", "skills.fc02-sheet"]},
       {"label": "Weapon", "value": "Supreme Black Sword, made from an Udaeus drop item", "refs": ["fc02-sword"]}
@@ -113,7 +114,6 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - What Ottar still needs for Level 8.[@fm18-ottar, fm20-sevens]
-> - Sword Oratoria 14 prints that he will not stay "Level Six" for long, although the surrounding text treats him as Level 7.[@so14-line]
 > - Who the unnamed Zeus and Hera adventurers who defeated him in his youth were; Familia Chronicle 2 does not name them.[@fc02-zeus]
 
 [@fc02-boaz]: FC02 | Ali and the 8 Followers | The boaz retainer.
@@ -135,7 +135,6 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@so04-captain]: SO04 | First Chapter: And the Boy… | Captain and Warlord; blocking Loki Familia.
 [@so09-tammuz]: SO09 | Chapter 2: A Brief Calm | Tammuz's assassins.
 [@so11-aiz]: SO11 | Chapter 3: The True Face of a God | Training Aiz.
-[@so14-line]: SO14 | Prologue: Accomplishments and Reminiscences | The "Level Six" line.
 [@ar01-ottar]: AR01 | Chapter 6: Assemblies of Light and Dark | The only Level 6 in Orario.
 [@ar03-seven]: AR03 | | Zald defeated; Level 7.
 [@hildis-vini.fc02-udaeus]: FC02 | The Origin of the Strongest | The chant; a short-cast; "his one and only magic".
@@ -145,3 +144,4 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@hildis-vini.fm18-slash]: FM18 | Chapter 9: Flower Language for You | "A simple enhancement spell"; not an enchantment; the golden slash.
 [@hildis-vini.fm20-afterglow]: FM20 | Chapter 4: The Knight’s Afterglow | Leon: enhancement magic and the afterglow.
 [@hildis-vini.fc02-sheet]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Magic Hildis Vini, described only as "???".
+[@fm18-ottar-ja]: FM18 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning mighty warrior, read as the word for king; the infobox gives the printed name and the kanji.

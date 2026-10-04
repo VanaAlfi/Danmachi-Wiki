@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Deity"},
+      {"label": "Japanese", "value": "{{ja|デメテル}}", "refs": ["so12-demeter-ja"]},
       {"label": "Domain", "value": "Fertility and the harvest", "refs": ["fm16-festival", "so12-hermes"]},
       {"label": "Appearance", "value": "Honey-coloured hair", "refs": ["fm16-festival", "ss01-farm"]},
       {"section": "Demeter Familia"},
@@ -71,3 +72,4 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 [@fc01-persephone]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Persephone also wanted to meet you."
 [@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Wheat Hall in the north of Orario; Runoa's contract, her fifth membership; farms producing wheat, vegetables and fruit.
 [@ar01-food]: AR01 | | "It’s Demeter Familia who organized the whole thing"; feeding the poor.
+[@so12-demeter-ja]: SO12 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

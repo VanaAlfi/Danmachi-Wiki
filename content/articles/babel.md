@@ -49,7 +49,7 @@ Babel also houses a medical centre, where Bell recovers after his fight with the
 [@fm01-babel]: FM01 | Chapter 4: That’s Why I Want to Help | The white tower over the Dungeon's entrance.
 [@fm01-layout]: FM01 | | Circular city around Babel.
 [@fm01-streets]: FM01 | Chapter 5: The Goddess’s Prank | Main Streets named by direction from Babel.
-[@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | Babel's history and floors.
+[@fm02-babel]: FM02 | | Babel's history and floors: Hephaistos Familia's shops on the fourth to eighth floors (Chapter 1); the Guild's tenants up to the twentieth floor, the gods above, and the first tower destroyed when the first gods came down (Chapter 3, Lilly).
 [@fm03-babel]: FM03 | Chapter 3: Black Raid | Freya on the fiftieth floor.
 [@fm03-clinic]: FM03 | | Babel's medical centre.
 [@fm04-babel]: FM04 | | Floor 30 and Denatus; Floor 8 and Welf.

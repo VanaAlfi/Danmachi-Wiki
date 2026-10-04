@@ -14,11 +14,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|レオン・ヴァーデンベルク}}", "refs": ["fm20-leon-ja"]},
       {"label": "Parents", "value": "Both half-dwarves", "refs": ["fm20-parents"]},
       {"section": "School District"},
       {"label": "Position", "value": "Captain of Balder Class; leading professor", "refs": ["so13-leon"]},
       {"label": "Level", "value": "7", "refs": ["fm20-leon", "fm20-hearing"]},
-      {"label": "Titles", "value": "Knight of Knights; Ultra Page", "refs": ["so13-leon", "fm20-leon"]},
+      {"label": "Titles", "value": "Knight of Knights ({{ja|ナイト・オブ・ナイト}}); Ultra Page ({{ja|騎士なのに小姓}}, written *a page though a knight*)", "refs": ["so13-leon", "fm20-leon", "fm20-leon-ja", "fm19-ultra-page-ja"]},
       {"label": "Magic", "value": "[[#blaze-of-the-round|Blaze of the Round]]", "refs": ["blaze-of-the-round.fm20-cast", "blaze-of-the-round.fm20-sheet"]}
     ]
   }
@@ -55,7 +56,7 @@ Leon proposes an adventure to [[bell-cranell|Bell]] in DanMachi 19.[@fm19-propos
 
 DanMachi 20 prints the chant once, when Leon sheathes his longsword and sets it aside to fight [[bell-cranell|Bell]] with magic:[@blaze-of-the-round.fm20-cast]
 
-- **Chant:** "Ring out, remnant light. Twelve seats of greatness."[@blaze-of-the-round.fm20-cast]
+- **Chant:** "Ring out, remnant light. Twelve seats of greatness."[@blaze-of-the-round.fm20-cast] The Japanese chant is {{ja|轟け残光。すなわち雄たる十二席|todoroke zankō. sunawachi yū taru jūni seki}}, *Resound, afterglow: that is, the twelve mighty seats*; *zankō* is the word the English elsewhere renders as the *afterglow*, the name of his technique.[@blaze-of-the-round.fm20-cast]
 - **Name:** "Blaze of the Round."[@blaze-of-the-round.fm20-cast]
 
 #### How it works {#blaze-of-the-round-how-it-works}
@@ -108,9 +109,11 @@ Leon contrasts it with [[ottar|Ottar]]'s beast transformation, which boosts his 
 [@fm20-valley]: FM20 | Chapter 3: The World, The Festival, and Reality | The Valley of Dragons and its seal.
 [@fm20-draw]: FM20 | Epilogue: Beautiful World | The fight recorded as a draw.
 [@fm20-afterglow]: FM20 | | Bell's reading of Leon's intent.
-[@blaze-of-the-round.fm20-cast]: FM20 | Chapter 4: The Knight’s Afterglow | "Ring out, remnant light. Twelve seats of greatness." "Blaze of the Round."; a one-handed sword of golden light; Bell shatters it.
+[@blaze-of-the-round.fm20-cast]: FM20 | Chapter 4: The Knight’s Afterglow | "Ring out, remnant light. Twelve seats of greatness." "Blaze of the Round."; a one-handed sword of golden light; Bell shatters it. The Japanese edition (file p-018, paragraph 287) gives the chant quoted in the text, whose second word is the afterglow of the chapter title.
 [@blaze-of-the-round.fm20-gable]: FM20 | Chapter 4: The Knight’s Afterglow | "You’ve cleared Percil. Next is Gable."; twin blades; seventy-seven Firebolts; "Gable has been cleared. Now Darbazar."
 [@blaze-of-the-round.fm20-buff]: FM20 | Chapter 4: The Knight’s Afterglow | Nina: a buff; Leon: eleven weapons, "a very inefficient spell"; the boosted abilities; Ottar's transformation; Darbazar's heavy blows.
 [@blaze-of-the-round.fm20-ax]: FM20 | Chapter 4: The Knight’s Afterglow | Darbazar's slash of light destroys half the plateau; "The castle splitter"; Asfi on the Knight of Knights' slash.
 [@blaze-of-the-round.fm20-dragon]: FM20 | Chapter 4: The Knight’s Afterglow | "Darbazar clear. Phyron unlocked."; the greatshield and daggers of light against the centipede dragon.
 [@blaze-of-the-round.fm20-sheet]: FM20 | | Illustrated Status sheet, p. 217 (Level 7): Magic Blaze of the Round, eleven trials and the pinnacle Regnalis Leo.
+[@fm20-leon-ja]: FM20 | | The Japanese edition prints his name in katakana and his title Knight of Knights in katakana; the infobox gives those printed forms.
+[@fm19-ultra-page-ja]: FM19 | | The Japanese edition writes Ultra Page in kanji meaning a page though a knight, with the reading Ultra Page.

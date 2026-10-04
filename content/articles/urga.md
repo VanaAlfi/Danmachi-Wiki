@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "Tiona Hyrute's custom-made giant double-bladed sword, forged of adamantite by Goibniu Familia; its name is the Amazon word for \"great destruction\". The first Urga melts in a caterpillar's acid in Sword Oratoria 1; the costly second Urga, finished in Sword Oratoria 2, loses a blade against the demi-spirit Gugalanna in Sword Oratoria 7.",
+  "summary": "Tiona Hyrute's custom-made giant double-bladed sword, forged of adamantite by Goibniu Familia; its name is written with the kanji for *great twin blade*. The first Urga melts in a caterpillar's acid in Sword Oratoria 1; the costly second Urga, finished in Sword Oratoria 2, loses a blade against the demi-spirit Gugalanna in Sword Oratoria 7.",
   "aliases": ["Urga the Second", "Double-bladed sword", "Tiona's weapon"],
   "spoilers": "DanMachi Vol. 17 and Sword Oratoria Vols. 1, 2, 4–7, 10",
   "related": ["hyrute-sisters", "goibniu", "desperate", "loki-familia", "tsubaki", "raul-nord", "corrupted-spirit"],
@@ -14,11 +14,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Weapon"},
+      {"label": "Japanese", "value": "{{ja|大双刃}}, written *great twin blade*", "refs": ["so02-urga-ja"]},
       {"label": "Type", "value": "A giant double-bladed sword, custom-made", "refs": ["so02-second", "so05-giant"]},
       {"label": "Wielder", "value": "Tiona Hyrute ([[hyrute-sisters|Hyrute sisters]])", "refs": ["so01-loved"]},
       {"label": "Maker", "value": "[[goibniu-familia|Goibniu Familia]]", "refs": ["so01-goibniu", "so02-second"]},
       {"label": "Material", "value": "Adamantite", "refs": ["so01-melted", "so10-adamantite"]},
-      {"label": "Name", "value": "The Amazon word for \"great destruction\"", "refs": ["so06-name"]},
+      {"label": "Name", "value": "Read Urga; Tiona's finishing blow, written *great destruction*, has the same reading", "refs": ["so02-urga-ja", "so06-name"]},
       {"section": "History"},
       {"label": "First Urga", "value": "Melted by caterpillar acid (Sword Oratoria 1)", "refs": ["so01-acid"]},
       {"label": "Second Urga", "value": "Finished for Sword Oratoria 2; one blade broken on Gugalanna (Sword Oratoria 7)", "refs": ["so02-second", "so07-broken"]}
@@ -26,7 +27,7 @@
   }
 }
 ---
-**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of [[metals#adamantite|adamantite]] by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] *Urga* is "The Amazon word for “great destruction.”"[@so06-name]
+**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of [[metals#adamantite|adamantite]] by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] Its name, read *Urga*, is written *great twin blade*; Tiona's finishing blow, written *great destruction*, has the same reading.[@so02-urga-ja, so06-name]
 
 ## The weapon {#weapon}
 
@@ -60,9 +61,10 @@
 [@so06-repair]: SO06 | Chapter 1: Quest Results & Next Quest | "I’m headin’ over to Goibniu Familia so I can get my Urga fixed up."
 [@so06-raul]: SO06 | Chapter 5: A Duo of Sun and Moon | "Tiona’s giant oversized Urga falling directly into Raul’s unlucky hands".
 [@so06-back]: SO06 | | Raul: "But her Urga almost broke my back…!"
-[@so06-name]: SO06 | | "Urga. The Amazon word for “great destruction.”"
+[@so06-name]: SO06 | | Tiona's finishing blow. The Japanese edition (file c6TU, paragraph 4) writes its name in kanji meaning great destruction, read Urga.
 [@so07-cracked]: SO07 | Chapter 5: Battle of Tears | "It cracked my Urga!"
 [@so07-broken]: SO07 | Chapter 5: Battle of Tears | "one of the blades of Tiona’s Urga ruptured in a shower of knifelike shards"; "wielding her Urga like a greatsword".
 [@so10-capture]: SO10 | Chapter 2: Someone Named Fool | "there wasn’t a weapon more unsuited to the task of capturing monsters alive than Urga".
 [@so10-adamantite]: SO10 | Chapter 2: Someone Named Fool | "its body was made of adamantite—just like her Urga".
 [@fm17-ready]: FM17 | Chapter 5: The End of Her World | "Tiona had her Urga at the ready".
+[@so02-urga-ja]: SO02 | | The Japanese edition writes the weapon's name in kanji meaning great twin blade, with the reading Urga; the infobox gives the kanji.

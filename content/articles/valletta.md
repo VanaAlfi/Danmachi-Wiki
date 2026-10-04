@@ -29,7 +29,7 @@
 
 ## The dark age
 
-In the Astrea Record books, set in [[orario|Orario]]'s dark age, Valletta is the Evils' top commander, recognisable by her toxic-pink hair.[@ar01-arachnia] She and Finn have crossed blades many times over the years and foiled each other's schemes so often that Valletta has come to see him as her despicable archnemesis; her attack on a soup kitchen in Astrea Record 1 turns out to be a diversion that Finn had already anticipated.[@ar01-finn, ar01-diversion] In Astrea Record 2 she watches from the city walls as her subordinates throw bombs into the crowd.[@ar02-bombs] The narration calls Finn "the object of her obsession".[@ar02-obsession]
+In the Astrea Record books, set in [[orario|Orario]]'s dark age, Valletta is one of the Evils' most important officers, recognisable by her toxic-pink hair.[@ar01-arachnia] She and Finn have crossed blades many times over the years and foiled each other's schemes so often that Valletta has come to see him as her despicable archnemesis; her attack on a soup kitchen in Astrea Record 1 turns out to be a diversion that Finn had already anticipated.[@ar01-finn, ar01-diversion] In Astrea Record 2 she watches from the city walls as her subordinates throw bombs into the crowd.[@ar02-bombs] The narration calls Finn "the object of her obsession".[@ar02-obsession]
 
 In [[great-conflict|the Great Conflict]] of Astrea Record 3 she directs the Evils' side of the battle for the city.[@ar03-smart] Finn breaks through her troops and drives his spear into her shoulder; she escapes into [[daedalus-street|Daedalus Street]], and Finn chooses not to pursue her.[@ar03-wound]
 
@@ -88,7 +88,7 @@ Valletta expects Shaldo to drain even a transformed Bete if he keeps moving. Ins
 
 #### Earlier history {#shaldo-earlier-history}
 
-In Astrea Record 1, set years earlier, the narration remarks that if Valletta "had been versed in magic" she would have recognised its traces.[@shaldo.ar01-valletta] That does not say when she gained Shaldo.
+In Astrea Record 1, set years earlier, the narration remarks that a mage, had one been there, would have sensed its traces.[@shaldo.ar01-valletta] That does not say when she gained Shaldo.
 
 {{nocite}} Notable uses and open questions for Shaldo are on the combined page: [[magic#shaldo|Magic § Shaldo]].
 
@@ -97,7 +97,7 @@ In Astrea Record 1, set years earlier, the narration remarks that if Valletta "h
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Her life before the Evils, and which Familia she belonged to.[@ar01-arachnia, so07-thanatos]
 
-[@ar01-arachnia]: AR01 | | Toxic-pink hair; the Guild blacklist; "A human known as Arachnia, and the Evils’ top commander."
+[@ar01-arachnia]: AR01 | | Toxic-pink hair; the Guild blacklist; "A human known as Arachnia" (the Japanese edition, file c2W8, paragraph 154, calls her one of the Evils' most important officers).
 [@ar01-finn]: AR01 | | Finn and Valletta have crossed blades for eight years; she sees him as her archnemesis.
 [@ar01-diversion]: AR01 | | The attack on the soup kitchen was a diversion; Finn one step ahead.
 [@ar02-bombs]: AR02 | | Atop the walls; bombs thrown into the crowd.
@@ -116,7 +116,7 @@ In Astrea Record 1, set years earlier, the narration remarks that if Valletta "h
 [@so08-death]: SO08 | Chapter 5: Battered Wolf | Hati's flames; "if you kill me, you’ll never…never find the key!!"; burned to blackened ash.
 [@so09-past]: SO09 | | Arachnia leads an attack on the home of a Familia supporting the Guild.
 [@so10-loss]: SO10 | Chapter 2: Someone Named Fool | "The enemy had lost a skilled commander in Arachnia, Valletta Grede."
-[@shaldo.ar01-valletta]: AR01 | | "If Valletta had been versed in magic…"
+[@shaldo.ar01-valletta]: AR01 | | The narration on the traces. The Japanese edition (file c2W8, paragraph 239) says that a mage, had one been there, would have sensed them.
 [@shaldo.so08-bombard]: SO08 | Chapter 5: Battered Wolf | Magic swords; Bete hit trying to flee.
 [@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; long chant; Mind; dissipates; a trap; Status Down.
 [@shaldo.so08-field]: SO08 | Chapter 5: Battered Wolf | Reddish-purple shapes, "120 or so meders across", centred on Valletta.

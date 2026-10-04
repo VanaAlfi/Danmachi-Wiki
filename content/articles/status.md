@@ -73,7 +73,7 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 
 [@fm01-status]: FM01 | Chapter 1: World, Reality, and Desire | Falna, blood and hieroglyphs; Status as a record of excelia.
 [@fm01-abilities]: FM01 | Chapter 1: World, Reality, and Desire | Basic abilities and ranks.
-[@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Excelia from ability use and stronger opponents.
+[@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Excelia turned into higher values at an update. The Japanese edition (file cFB, paragraphs 180–186) calls the values beside each rank proficiency and keeps excelia for the experience the gods read.
 [@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm02-privacy]: FM02 | | Status is private; Level and Familia are reported to the Guild.

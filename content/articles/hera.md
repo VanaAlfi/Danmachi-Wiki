@@ -38,7 +38,7 @@ Long before Freya settled in Orario, she lost to Hera in a conflict and lost man
 
 Hera's followers were feared. When Alfia devastates her foes in Astrea Record 2, [[erebus|Erebus]] remarks: "That’s why you don’t piss off Hera’s girls."[@ar02-girls] Alfia herself is "Hera’s Level 7".[@ar03-level7] Hera Familia's strongest, "the world’s scariest woman", was a Level 9 empress; [[leon-verdenberg|Leon Verdenberg]] remembers her parrying his slash with her pinky nail.[@fc02-empress, fm20-empress]
 
-Hera guarded her women closely. [[zald|Zald]] of Zeus Familia was furious to hear that one of his own had fathered a child with a Hera girl: even after the Black Dragon had left her Familia as desolate as his, "it was suicide to violate their purity". That child is Alfia's sister's son; asked whether he is with Hera, Alfia says her sister entrusted him to Zeus.[@ar03-purity, ar03-child] Of that sister, Metelia, Alfia says: "Even Hera did everything she could to prolong her life."[@ar03-metelia]
+[[zald|Zald]] of Zeus Familia remembers shuddering when he learned that one of his own had fathered a child with a follower of Hera, so feared was her Familia even when all but wiped out. That child is Alfia's sister's son; asked whether he is with Hera, Alfia says her sister entrusted him to Zeus.[@ar03-purity, ar03-child] Of that sister, Metelia, Alfia says: "Even Hera did everything she could to prolong her life."[@ar03-metelia]
 
 ## Open questions
 
@@ -57,6 +57,6 @@ Hera guarded her women closely. [[zald|Zald]] of Zeus Familia was furious to hea
 [@ar03-clothes]: AR03 | Prologue: Last Intermission | "These are the same clothes I was wearing when Hera defeated me in battle."
 [@ar03-level7]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "That was simply how powerful Hera’s Level 7 was."
 [@ar03-told]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "My spells taught him a lesson before he could lay one finger on me"; "And then I told Hera about it."
-[@ar03-purity]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "One of our own, knocking up a Hera girl?"; "Even after the Black Dragon rendered her familia as desolate as ours, it was suicide to violate their purity!"
+[@ar03-purity]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "One of our own, knocking up a Hera girl?" The Japanese edition (file c9X3, paragraphs 60 to 63) has Zald say he truly shuddered at the news, and that with his Familia all but wiped out he alone was scared the whole time, because it was Hera.
 [@ar03-child]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "So, where is that child now? With Hera?"; "My sister entrusted him to Zeus."
 [@ar03-metelia]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "Even Hera did everything she could to prolong her life."; "Metelia," she said, "was the purest, kindest soul I’ve ever known".

@@ -18,6 +18,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|カーリー・ファミリア}}", "refs": ["so06-kali-familia-ja"]},
       {"label": "Deity", "value": "[[kali|Kali]], a goddess of war", "refs": ["so06-telskyura", "so06-demand"]},
       {"label": "Country", "value": "[[telskyura|Telskyura]], the Holy Land of the Amazons, far to Orario's southeast", "refs": ["so06-telskyura"]},
       {"label": "Captains", "value": "The twins [[#argana-kalif|Argana]] and [[#bache-kalif|Bache Kalif]], both Level 6", "refs": ["so06-telskyura", "so06-elnea", "so12-arrival"]},
@@ -42,14 +43,14 @@ Kali is a copper-skinned goddess with blood-red hair and the stature of a child.
 
 The rites' rule seemed to forbid fights between girls of the same room, but that was a misunderstanding: once they had grown close, they were made to kill one another. This is how Tione came to kill her friend Seldas.[@so06-rule] Survivors are chosen as students by senior Amazons; Bache chose Tiona and Argana chose Tione.[@so06-mentors] Tione later sees the logic of Telskyura as killing Level 3s to make Level 4s and Level 4s to make Level 5s.[@so06-argana-past] The twins escaped a rite that would have made them fight each other, and travelled from country to country before they joined Loki Familia five years before Sword Oratoria 6.[@so06-escape, so06-telskyura]
 
-> [!NOTE] Island or peninsula?
-> Anakity calls Telskyura "a peninsular country far to Orario’s southeast"; Riveria answers that it is "a solitary island surrounded on all sides by sea and cliffs". Tione's memories call it "the forsaken island", and Minor Myths and Legends 2 "the island nation".[@so06-telskyura, so06-childhood, ss02-meren]
+> [!NOTE] Telskyura
+> Anakity calls Telskyura "a peninsular country far to Orario’s southeast", and Riveria agrees that it is a land cut off from the world by sea and sheer cliffs; its girls receive the Falna at birth. In Minor Myths and Legends 2 its name is written with characters meaning *battle nation*.[@so06-telskyura, so06-childhood, ss02-meren]
 
 ## Argana Kalif {#argana-kalif}
 
 Argana is the elder of the twin captains, Tione's former mentor, and the warrior whose outlook is closest to Kali's.[@so06-mentors, so06-argana-past] She drinks her opponents' blood in battle, and alone among the Amazons of Telskyura she has an alias, Kalima, recognised by Kali herself; her curse of the same name is described under [[magic#kalima|Kalima]].[@so06-argana-past] She reached Level 6 by killing Belnas, a rival candidate for captain.[@so06-elnea] In the rite of Sword Oratoria 6 she fights Tione, and [[finn-deimne|Finn]] ends the fight with [[magic#hell-finegas|Hell Finegas]].[@so06-finn]
 
-Argana fights smiling. When the sisters clash at Meren, her "crescent moon smile" does not falter even under Tione's "bone-crushing grip"; her reading of her enemy's next move is "uncanny", leaving "no question as to her Level-6 rank", and she fends off Tione's Berserk-driven punches "with ease".[@so06-argana-meren] Years before, she had taken a liking to "the young girl who couldn’t be broken", her tongue twitching "like a snake’s at the sight of all that blood".[@so06-argana-tione] In the rite at sea she tells Tione that killing her own brethren brings her "elation": "They’re not gone—they’re inside me!"[@so06-argana-creed] Kali sets Argana's "relentless fighting spirit" against Tione's anger, "both the same, ever-enduring and ever-abiding", and when Finn lands on the deck Argana cannot hide her astonishment at his strength.[@so06-war-end]
+Argana fights smiling. When the sisters clash at Meren, her "crescent moon smile" does not falter even under Tione's "bone-crushing grip"; her reading of her enemy's next move is "uncanny", leaving "no question as to her Level-6 rank", and she fends off Tione's Berserk-driven punches "with ease".[@so06-argana-meren] Years before, she had taken a liking to "the young girl who couldn’t be broken", her tongue twitching "like a snake’s at the sight of all that blood".[@so06-argana-tione] In the rite at sea she tells Tione that killing her own brethren brings her "elation": "They’re not gone—they’re inside me!"[@so06-argana-creed] Kali sets Argana's fighting spirit against Tione's anger, which she says has something that surpasses it, and when Finn lands on the deck Argana cannot hide her astonishment at his strength.[@so06-war-end]
 
 Defeated by a man, she falls in love with him, as Amazons do with strong men who beat them.[@so12-arrival, ss02-orario] In Minor Myths and Legends 2 she runs through Orario demanding that [[aiz-wallenstein|Aiz]] tell her where Finn is, and Aiz points her toward [[twilight-manor|Twilight Manor]].[@ss02-orario] In Sword Oratoria 12 she arrives at Knossos calling for "my husband", to Tione's fury, then fights the demi-spirit beside her.[@so12-arrival, so12-argana] Rivals in love, the two still "looked exactly like teacher and student as they stood shoulder to shoulder" before the charge.[@so12-argana-tione]
 
@@ -76,14 +77,13 @@ Afterwards Loki Familia heals Bache and the other wounded Amazons and sends them
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether Telskyura is an island or a peninsula (see the note above).[@so06-telskyura]
 > - Whether Kali ever ends or limits the rites, as Loki demanded.[@so06-epilogue]
 
 [@so06-arrival]: SO06 | Chapter 2: Port Meren | Kali's copper skin, blood-red hair, child's stature, necklace of fake bones and fanged mask.
-[@so06-telskyura]: SO06 | Chapter 3: Kingdom of the Amazons | "Kali Familia consists of the goddess of Telskyura and her followers"; a peninsular country to the southeast; "A solitary island surrounded on all sides by sea and cliffs"; Ares and Rakia; slaves and breeding; the rites; the sisters Argana and Bache rumoured Level Six; the twins converted five years ago.
-[@so06-childhood]: SO06 | Chapter 3: Kingdom of the Amazons | "The forsaken island of Telskyura"; the Falna at birth; goblins; the weak put to labour; Kali's blessing.
+[@so06-telskyura]: SO06 | Chapter 3: Kingdom of the Amazons | "Kali Familia consists of the goddess of Telskyura and her followers"; a peninsular country to the southeast; Ares and Rakia; slaves and breeding; the rites; the sisters Argana and Bache rumoured Level Six; the twins converted five years ago. The Japanese edition (file c1NT, paragraph 72) has Riveria agree with Aki, calling it a land cut off from the world, walled in by sea and sheer cliffs.
+[@so06-childhood]: SO06 | Chapter 3: Kingdom of the Amazons | The Falna at birth; goblins; the weak put to labour; Kali's blessing.
 [@so06-rule]: SO06 | Chapter 3: Kingdom of the Amazons | "Se wehga"; "Thou art the true warrior"; Seldas; the rule on who fought whom.
-[@so06-ishtar]: SO06 | Chapter 3: Kingdom of the Amazons | Ishtar's letters more than a year before; envoys and armaments; the pincer plan; freight through Albella; the chance to fight Freya Familia.
+[@so06-ishtar]: SO06 | Chapter 3: Kingdom of the Amazons | Ishtar's letters from about a year before; envoys and armaments; the pincer plan; freight through Albella; the chance to fight Freya Familia. The Japanese edition (file c2XS, paragraphs 10–11) says from about a year before and calls Kali Familia one of the few world powers in the lower world.
 [@so06-demand]: SO06 | Chapter 3: Kingdom of the Amazons | "Two sisters who left…two sisters who stayed"; the goddess of war, blood and mayhem; war itself her purpose.
 [@so06-mentors]: SO06 | | "Tiona was chosen by Bache. And Tione was chosen by Argana."; the twins ten years older; Argana the elder.
 [@so06-raid]: SO06 | | "…Kali Familia…They just…suddenly attacked…"; Bache alone; "They took Lefiya".
@@ -100,13 +100,13 @@ Afterwards Loki Familia heals Bache and the other wounded Amazons and sends them
 [@so12-kali]: SO12 | Chapter 6: The Divine Providence of Despair | Kali with the letter; the gates opened by Asfi; "To make up for a fight against Freya!"; "Wait for me, Finn".
 [@so12-arrival]: SO12 | Chapter 7: Final War II | Kali Familia joins at Hermes's request; "The strong man who defeated me!"; Bache Kalif, Tiona's teacher.
 [@so12-argana]: SO12 | Chapter 8: A Heroes’ Chorus | Argana licks Tione's blood and activates her Kalima; Tione and Argana on the whip; Bache's poison punch.
-[@ss02-meren]: SS02 | | "the island nation of Telskyura"; Kali and Bache in a Meren restaurant; "how about you come back to Telskyura with us?"
+[@ss02-meren]: SS02 | | Kali and Bache in a Meren restaurant; "how about you come back to Telskyura with us?" The Japanese edition (file part0033, paragraph 3) writes the name Telskyura with characters meaning battle nation.
 [@ss02-bache]: SS02 | | "After Tiona defeated her"; Bache wakes on the Amazonian ship; her sisters fallen for the male warriors of Loki Familia; Bache alone spared (this sentence prints "Tione" as the one who defeated her).
 [@ss02-orario]: SS02 | Paths So Far, an Unending Journey | Argana Kalif asks Aiz the way; "Argana’s twin sister, Bache"; Kali on the Familia holed up in Meren; "Bache was busy doing the ritual, so she’s safe".
 [@so06-argana-meren]: SO06 | Chapter 3: Kingdom of the Amazons | "But the Amazon’s—Argana’s—smile never faltered, even at the bone-crushing grip on her arm."; "that same crescent moon smile"; "Argana’s ability to read her enemy’s next move was uncanny."; "There was no question as to her Level-6 rank"; "Argana continued to fend them off with ease".
 [@so06-argana-tione]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "Argana immediately took a liking to the young girl who couldn’t be broken"; "her long tongue twitching like a snake’s at the sight of all that blood".
 [@so06-argana-creed]: SO06 | Chapter 5: A Duo of Sun and Moon | "You remember, don’t you, Tione? When you asked me whether I felt anything about killing my own brethren?"; "I feel elation. By feasting on their flesh, I grow stronger. They’re not gone—they’re inside me!"
-[@so06-war-end]: SO06 | | Printed heading "Chapter 6: War’s End" (not in the evidence map): "Argana may have her relentless fighting spirit, but Tione has her anger, and they’re both the same, ever-enduring and ever-abiding."; "Finn’s strength was in a league all its own, and Argana couldn’t even try to hide her astonishment."
+[@so06-war-end]: SO06 | | Printed heading "Chapter 6: War’s End" (not in the evidence map): "Finn’s strength was in a league all its own, and Argana couldn’t even try to hide her astonishment." The Japanese edition (file c6ED, paragraph 68) has Kali say that Tione's anger resembles Argana's fighting spirit and has something that surpasses it.
 [@so12-argana-tione]: SO12 | Chapter 7: Final War II | "Amazons fell in love with powerful males. Argana had lost to Finn once, and she was no exception to that."; "They looked exactly like teacher and student as they stood shoulder to shoulder before charging at the demi-spirit."
 [@so06-bache-silent]: SO06 | Chapter 3: Kingdom of the Amazons | "Argana and Bache walked past them, Bache as silent as ever".
 [@so06-bache-past]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "As Bache looked down at her, icy and unfeeling, on the cold stone ground, Tiona felt fear for the first time in her life."; "What happens next? What happens next?"; "Bache herself seemed bewildered"; "relaying the story bit by bit after each training session"; "her mouth still hidden by her ever-present neckerchief".
@@ -115,3 +115,4 @@ Afterwards Loki Familia heals Bache and the other wounded Amazons and sends them
 [@so06-bache-poison]: SO06 | | Printed heading "Chapter 6: War’s End" (not in the evidence map): "Her Velgas was not only a method of attack but one of defense, as well."; "the toxins ate away at her bit by bit"; "she had only about five minutes of fight left in her".
 [@so07-tiona]: SO07 | Chapter 4: The Sword’s Wind Calls | "You shoulda seen the stuff I got hit with in Meren—and I still kept fightin’!"; "her duel against Bache, the Poison Queen".
 [@so12-bache]: SO12 | Chapter 8: A Heroes’ Chorus | "Bache’s poison fist hit the spirit’s tentacle."; "the mortal poison rotted the green flesh, turning it a blackish purple".
+[@so06-kali-familia-ja]: SO06 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

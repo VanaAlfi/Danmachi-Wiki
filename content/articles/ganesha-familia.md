@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ガネーシャ・ファミリア}}", "refs": ["fm10-ganesha-familia-ja"]},
       {"label": "Deity", "value": "[[ganesha|Ganesha]]", "refs": ["fm01-ganesha"]},
       {"label": "Home", "value": "[[ganesha#i-am-ganesha|I Am Ganesha]], in south-west Orario", "refs": ["fm10-standing"]},
       {"label": "Captain", "value": "Shakti Varma, titled Ankusha", "refs": ["fc01-shakti"]},
@@ -31,7 +32,7 @@ DanMachi 10 calls Ganesha Familia, also known as *Orario's Peacekeepers*, Orario
 
 ## Monsterphilia
 
-Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use it to cultivate people who love monsters and to lay the social groundwork for coexistence.[@fm10-purpose] Ganesha knows of Ouranos's plan for the [[xenos|Xenos]].[@fm09-network] In DanMachi 1 the [[guild|Guild]] staff and Ganesha Familia members guarding the festival's west gate are found in a trance, and the monsters escape.[@fm01-gate, so01-trance]
+Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use it to promote friendship with monsters and to lay the social groundwork for coexistence.[@fm10-purpose] Ganesha knows of Ouranos's plan for the [[xenos|Xenos]].[@fm09-network] In DanMachi 1 the [[guild|Guild]] staff and Ganesha Familia members guarding the festival's west gate are found in a trance, and the monsters escape.[@fm01-gate, so01-trance]
 
 ## Shakti and Ardee
 
@@ -55,9 +56,9 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@fm09-network]: FM09 | | Ganesha knows the plan.
 [@fm10-standing]: FM10 | Chapter 6: Before the Storm | "This was Ganesha Familia’s home, Iam Ganesha."; "it was also Orario’s largest familia in terms of membership"; "They possessed an S Rank and were worthy of being mentioned alongside Loki Familia and Freya Familia."; "had members stationed at all of Orario’s gates"; "Average citizens held them in high esteem."
 [@fm10-first-tier]: FM10 | Chapter 9: Dreams of Beasts | "Ganesha Familia had more first-tier adventurers than any other familia in Orario, eleven in total. All of them might only have been at Level 5".
-[@fm10-purpose]: FM10 | Chapter 6: Before the Storm | Monsterphilia's hidden purpose.
+[@fm10-purpose]: FM10 | Chapter 6: Before the Storm | Monsterphilia's hidden purpose. The Japanese edition (file cEV, paragraphs 85 and 91) glosses the festival's name as friendship with monsters.
 [@fm10-asterios]: FM10 | | Asterios and Ganesha Familia.
-[@so02-hashana]: SO02 | Chapter 2: Incident | "His name was Hashana Dorlia, a former member of…" "…Ganesha Familia."; "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
+[@so02-hashana]: SO02 | Chapter 2: Incident | his name and Familia, Hashana Dorlia of Ganesha Familia (the Japanese edition, file cWG, paragraphs 178–179, gives Ganesha Familia as his affiliation); "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
 [@so02-blacklist]: SO02 | Chapter 6: Parched Scream | Ganesha Familia insists the red-haired woman be known as Hashana's killer and blacklisted by the Guild.
 [@fm18-ilta]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "the Amazon second in command Ilta Faana"; caught and punished by Shakti and her sister.
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Guarding the shaft.
@@ -73,3 +74,4 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@skills.ar02-sheet]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Ganapati Blood, Dharmas Algo.
 [@ar03-sword]: AR03 | Prologue: Last Intermission | Sacred Oath, carried with Shakti's permission.
 [@ardee-varma-spells.ar02-sheet]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): Magic Ghana Avimutta and Dia Kaumudi.
+[@fm10-ganesha-familia-ja]: FM10 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

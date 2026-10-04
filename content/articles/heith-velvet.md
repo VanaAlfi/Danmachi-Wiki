@@ -24,7 +24,7 @@
   }
 }
 ---
-**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardöll* {{small|(printed *Vana Mardel*)}}.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells Rona and Ilda to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"[@fm18-rona, fm18-rona2]
+**Heith Velvet** is a healer of [[freya-familia|Freya Familia]] and the representative of its healers, the Andhrímnir. She is a Level 4 titled *Vana Mardöll* {{small|(printed *Vana Mardel*)}}.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells Rona and Ilde {{small|printed *Ilda*}} to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"; the Japanese writes this *Rona* over the word for *deputy*.[@fm18-rona, fm18-rona2]
 
 ## Background
 
@@ -62,7 +62,7 @@ DanMachi 18 prints the chant in three pieces while the coalition watches, then t
 
 - **First printed piece (excerpt):** "—My name is Gold. Arm of the goddess who vows immortality."[@zeo-gullveig.fm18-cast]
 - **Second (excerpt):** "Thrice burned, ever pierced. Hell of flaming spears, yet light is born"[@zeo-gullveig.fm18-cast]
-- **Third (excerpt):** "Rejoice, be merry, go wild. My body is gold."[@zeo-gullveig.fm18-cast]
+- **Third (excerpt):** "Rejoice, be merry, go wild. My body is gold." In the Japanese she says {{ja|祝え、祝え、祝え|kurue, kurue, kurue}}, *go wild* three times; *celebrate* is the written meaning.[@zeo-gullveig.fm18-cast]
 - **Name:** "Zeo Gullveig."[@zeo-gullveig.fm18-cast]
 
 In DanMachi 17 only the name is printed.[@zeo-gullveig.fm17-bell]
@@ -106,8 +106,8 @@ The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’
 [@fm20-heith]: FM20 | Chapter 1: Orario Rumble | Crowded rooms.
 [@ss01-healers]: SS01 | | The golden witch and the silver saint.
 [@zeo-gullveig.fm17-bell]: FM17 | Chapter 3: The Field of Battle | Heith revives Bell; wounds healed, blood not replaced.
-[@zeo-gullveig.fm18-cast]: FM18 | Chapter 8: The Great Familia War | The chant in three pieces; golden magic circle; the einherjar revived.
+[@zeo-gullveig.fm18-cast]: FM18 | Chapter 8: The Great Familia War | The chant in three pieces; golden magic circle; the einherjar revived. The Japanese edition (file part0021, paragraphs 1003–1016) sets the opening dash outside the chant brackets, and in the third piece all three words are written *celebrate* and said *kurue*, *go wild*.
 [@ars-gullveig.fm18-ars]: FM18 | Chapter 8: The Great Familia War | Cast in advance; "auto-heal"; regeneration in the flames; rare magic.
 [@ars-gullveig.fm18-hedin]: FM18 | Chapter 9: Flower Language for You | "Ars Gullveig!" under Hedin's lightning; "a Level 4’s magic"; "It’s finite"; the Mind contest.
-[@fm18-rona]: FM18 | Chapter 8: The Great Familia War | "you will support me, Rona, Ilda"; "The healers and herbalists known as the Andhrímnir snapped to attention".
-[@fm18-rona2]: FM18 | Chapter 9: Flower Language for You | "I will heal Hegni! He will rise at once! Rona! You and the others tend to the Einherjar!"
+[@fm18-rona]: FM18 | Chapter 8: The Great Familia War | "you will support me, Rona, Ilda"; "The healers and herbalists known as the Andhrímnir snapped to attention". The Japanese edition (file part0021, paragraph 475) names the second healer Ilde.
+[@fm18-rona2]: FM18 | Chapter 9: Flower Language for You | "I will heal Hegni! He will rise at once! Rona! You and the others tend to the Einherjar!" The Japanese edition (file part0025, paragraph 1031) writes this call to Rona over the word for deputy.

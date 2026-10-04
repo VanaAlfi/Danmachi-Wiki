@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ザルド}}", "refs": ["ar03-zald-ja"]},
       {"label": "Familia", "value": "Zeus Familia (former)", "refs": ["ar01-zald"]},
       {"label": "Level", "value": "7", "refs": ["ar01-zald", "ar03-sevens"]},
-      {"label": "Title", "value": "Glutton", "refs": ["ar03-glutton", "ar03-glutton2"]},
+      {"label": "Title", "value": "Glutton ({{ja|暴喰}}, written *violent devouring*)", "refs": ["ar03-glutton", "ar03-glutton2", "ar03-zald-ja"]},
       {"label": "Weapon", "value": "A black greatsword", "refs": ["ar01-ottar", "ar03-glutton2"]},
       {"section": "Great Conflict"},
       {"label": "Allied with", "value": "[[erebus|Erebus]] and the [[evils|Evils]]", "refs": ["ar01-zald", "ar03-erebus"]},
@@ -33,11 +34,11 @@ Zald fights in a visored helmet and wields a greatsword, which Astrea Record 3 c
 
 ## Glutton {#glutton}
 
-His title comes from eating. "Because I have eaten a great deal," he tells an enemy, "and my senses have grown sharp", and the narration adds that this "was how Zald had earned his title—Glutton".[@ar03-glutton2] The Guild's records give the power as a Rare Skill, [[skills#deus-ambrosia|Deus Ambrosia]], activated by eating (see below).[@rea-ambrosia.ar03-deus] To him "The city’s finest warriors were nothing more than food on his plate."[@ar03-glutton2]
+His title comes from eating. He tells an enemy that he took his eating of what others will not eat too far, and his senses grew too sharp, and the narration adds that this "was how Zald had earned his title—Glutton".[@ar03-glutton2] The Guild's records give the power as a Rare Skill, [[skills#deus-ambrosia|Deus Ambrosia]], activated by eating (see below).[@rea-ambrosia.ar03-deus] To him "The city’s finest warriors were nothing more than food on his plate."[@ar03-glutton2]
 
 ## Character {#character}
 
-[[erebus|Erebus]] thinks him "keen-witted, honorable, and closely in tune with Erebus’s own wishes".[@ar02-erebus] Astrea Record 3 calls him "one of the few men of good conscience" in [[zeus|Zeus]]'s Familia: when [[alfia|Alfia]] learns who fathered her sister's child, Zald tries in a panic to cover for his former comrade, and she turns her anger on him.[@ar03-extra] With old acquaintances he jokes; he reminds [[gareth|Gareth]] how he "used to drink you and that god of yours under the table".[@ar02-gareth]
+[[erebus|Erebus]] thinks him "keen-witted, honorable, and closely in tune with Erebus’s own wishes".[@ar02-erebus] Astrea Record 3 calls him "one of the few men of good conscience" in [[zeus|Zeus]]'s Familia: when [[alfia|Alfia]] learns who fathered her sister's child, Zald desperately protests to her that he himself is no such daredevil, and she takes her anger out on him anyway.[@ar03-extra] With old acquaintances he jokes; he reminds [[gareth|Gareth]] how he "used to drink you and that god of yours under the table".[@ar02-gareth]
 
 ## The Behemoth
 
@@ -105,7 +106,8 @@ Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Fami
 [@ar01-ottar]: AR01 | Chapter 10: Conquerors | "Zald reached up and removed his helmet."; "he felled the King of Beasts"; "as if marking the man’s grave"; "Zald had been this city’s protector. Now he was its invader."; "You are weak".
 [@ar02-gareth]: AR02 | Intermission: While the Scales of Justice Tremble | "Have you forgotten already how I used to drink you and that god of yours under the table?"
 [@ar02-erebus]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): "He was keen-witted, honorable, and closely in tune with Erebus’s own wishes."
-[@ar03-glutton2]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "Because I have eaten a great deal"; "and my senses have grown sharp"; "It was how Zald had earned his title—Glutton"; "The city’s finest warriors were nothing more than food on his plate."; "his black slab of steel".
+[@ar03-glutton2]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "It was how Zald had earned his title—Glutton"; "The city’s finest warriors were nothing more than food on his plate."; "his black slab of steel". The Japanese edition (file c1JB, paragraph 48) has him say that he took eating what others will not eat too far, and his senses grew too sharp.
 [@ar03-retire]: AR03 | Chapter 8: The Price of Talent | Riveria: "Both Glutton and Silence played important parts in the slaying of the Leviathan and the Behemoth"; "Zald was forced to retire from frontline combat".
 [@ar03-death]: AR03 | Chapter 7: What She Wished For | "You bested me regardless"; "Take pride in that…and never forget it…"; "Zald, do you regret slaying the Behemoth?"; "…I do not."; Freya: "Sleep now, Zald"; "The man had called him by name for the very first time."
-[@ar03-extra]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "Zald was one of the few men of good conscience in the god’s familia"; "No, Alfia! Please!"; "My sister entrusted him to Zeus."
+[@ar03-extra]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "Zald was one of the few men of good conscience in the god’s familia"; "No, Alfia! Please!"; "My sister entrusted him to Zeus." The Japanese edition (file c9X3, paragraphs 64 to 70) has him shout his excuse, mainly at Alfia, that he is not that reckless, and her blows land on him as if she were venting her anger on someone else.
+[@ar03-zald-ja]: AR03 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning violent devouring, read as the word for gluttony; the infobox gives the printed name and the kanji.

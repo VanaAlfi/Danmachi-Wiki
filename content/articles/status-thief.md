@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|開錠薬}}, written *unlocking drug*", "refs": ["fm17-status-thief-ja"]},
       {"label": "Type", "value": "Liquid in a vial or bottle", "refs": ["so02-rivira", "so03-lulune"]},
       {"label": "Effect", "value": "Unlocks a god-locked Status, showing name and patron god", "refs": ["so02-rivira", "fc01-ted"]},
       {"label": "Made from", "value": "Divine ichor", "refs": ["so02-rivira"]},
@@ -33,13 +34,13 @@ In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at
 
 ## Using it
 
-In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer's back and traces precise patterns with his fingers, using it to loosen the lock and "pick" it open. A mass of hieroglyphs appears.[@so02-rivira] The Status still has to be read: [[bors|Bors]] cannot read divine hieroglyphs, but Riveria and [[aiz-wallenstein|Aiz]] can, and identify the dead man as [[hashana|Hashana Dorlia]], formerly of [[ganesha-familia|Ganesha Familia]].[@so02-read] The item therefore works on the dead.
+In Sword Oratoria 2 an animal person pours the liquid onto a murdered adventurer's back and traces precise patterns with his fingers, using it to loosen the lock and "pick" it open. A mass of hieroglyphs appears.[@so02-rivira] The Status still has to be read: [[bors|Bors]] cannot read divine hieroglyphs, but Riveria and [[aiz-wallenstein|Aiz]] can, and identify the dead man as [[hashana|Hashana Dorlia]] of [[ganesha-familia|Ganesha Familia]].[@so02-read] The item therefore works on the dead.
 
 ### Descriptions of the item
 
 {{nocite}} The novels describe the item differently from scene to scene. They are recorded here as descriptions, not as different kinds of item:
 
-- Sword Oratoria 2: a bottle "the same color as [[magic-stone|magic stones]]", filled with "a clear liquid".[@so02-rivira]
+- Sword Oratoria 2: a small vial holding crystals like fragments of a [[magic-stone|magic stone]] in a translucent crimson liquid.[@so02-rivira]
 - Sword Oratoria 3: a vial of "a clear red liquid" with a small crystal floating in it.[@so03-lulune]
 - Familia Chronicle 1: a small vial containing "a scarlet liquid and fragment of crystal".[@fc01-ted]
 
@@ -62,8 +63,8 @@ Status Snitch is a separate and far rarer item, made by combining the ichor of s
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who makes Status Thieves, how much one dose costs, and whether one vial can be used more than once.[@so02-rivira]
 
-[@so02-rivira]: SO02 | Chapter 2: Incident | Riveria's explanation; ichor and Enigma; illegal; underground market; the corpse unlocked.
-[@so02-read]: SO02 | Chapter 2: Incident | Riveria and Aiz read the hieroglyphs: Hashana Dorlia, Ganesha Familia.
+[@so02-rivira]: SO02 | Chapter 2: Incident | Riveria's explanation; ichor and Enigma; illegal; underground market; the corpse unlocked. The Japanese edition (file cWG, paragraphs 156–157) describes a small vial holding crystals like fragments of magic stone and a translucent crimson liquid.
+[@so02-read]: SO02 | Chapter 2: Incident | Riveria and Aiz read the hieroglyphs: Hashana Dorlia, Ganesha Familia. The Japanese edition (file cWG, paragraphs 178–179) gives Ganesha Familia as his affiliation.
 [@so03-lulune]: SO03 | Chapter 4: White-Haired Devil | Lulune's vial; the Inferno Stones; no point using it.
 [@so05-fire]: SO05 | Interlude: Flip Side of the Stage | Fire rather than poison, because of Status Thief.
 [@fc01-ted]: FC01 | Crush the Grand Casino! | Lyu holds up the vial: "Your name is Ted."
@@ -71,3 +72,4 @@ Status Snitch is a separate and far rarer item, made by combining the ichor of s
 [@fc01-confession]: FC01 | | Ted's identity revealed; his confession.
 [@fm17-hestia]: FM17 | Chapter 1: The Opening of Hostilities | Hestia guesses a Status Thief removed her lock.
 [@fm17-snitch]: FM17 | Chapter 2: Alone Inside a Sandbox | Status Snitch; Freya uses both items and her ichor.
+[@fm17-status-thief-ja]: FM17 | | The Japanese edition writes the name in kanji meaning unlocking drug, with the reading Status Thief; the infobox gives the kanji.

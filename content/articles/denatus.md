@@ -41,7 +41,7 @@ The Denatus began as a gathering of retired gods with too much free time. Their 
 
 At the Naming Ceremony the gods give titles to adventurers who have levelled up. Each god has the Guild's paperwork, with each adventurer's profile and the sketch drawn when they registered.[@fm04-naming] It is "what the gods came to Denatus to see".[@fm04-mikoto]
 
-- **Avoiding a bad name.** A god can pay off the influential gods before the meeting, which is almost impossible for small Familias. Failing that, the influential gods pick a trait of the adventurer they like; girls tend to get better names this way than boys.[@fm04-naming]
+- **Avoiding a bad name.** A god can pay off the influential gods before the meeting, which is almost impossible for small Familias. Most often a good name comes when the gods take a strong liking to the member's character; girls tend to get better names this way than boys.[@fm04-naming]
 - **An example.** In DanMachi 4, [[takemikazuchi|Takemikazuchi]]'s follower Mikoto receives "Eternal † Shadow", over the suggestions of Hestia and Hephaistos, and Takemikazuchi wails in humiliation.[@fm04-mikoto]
 - **Second chances.** Each Level Up brings a chance to change the title, so an odd first title can be fixed at the next Naming Ceremony.[@fm04-correct]
 - **Announcement.** The results go to the Guild, whose staff are eager to see them; in DanMachi 12 the new titles are posted on a board in the Guild Headquarters lobby.[@fm04-guild, fm12-board]
@@ -51,7 +51,7 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 
 | Volume | Title |
 |---|---|
-| DanMachi 4 | Bell levels up two days before the meeting and is squeezed onto the last page; he becomes "Little Rookie".[@fm04-late, fm04-rookie] |
+| DanMachi 4 | Bell levels up just before the meeting and is squeezed onto the last page; he becomes "Little Rookie".[@fm04-late, fm04-rookie] |
 | DanMachi 12 | Bell has levelled up twice, to Level 4. [[freya|Freya]] proposes "Vanadis Odr, Companion of Vanadis", and Hestia slams the table in protest.[@fm12-bell, fm12-freya] With the help of [[miach|Miach]] and Takemikazuchi she wrenches a safe title from the gods: "Rabbit Foot".[@fm12-rabbit] |
 | DanMachi 20 | At what may be the best-attended Denatus ever held, [[modi-and-magni-familias#modi-and-magni|Magni and Modi]] propose putting off Bell's new title until one is found that everyone accepts.[@fm20-crowded, fm20-postpone] |
 
@@ -74,11 +74,11 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 [@fm04-history]: FM04 | Chapter 1: Denatus | "originally a meeting of retired gods and goddesses"; "once the Guild became involved, the Denatus became a meeting that had far-reaching effects all over Orario"; "The naming process was one such influence".
 [@fm04-room]: FM04 | Chapter 1: Denatus | "on the thirtieth floor of the skyscraper in the middle of the city—Babel Tower"; "A large, round table"; "The outer walls had been replaced with glass".
 [@fm04-host]: FM04 | Chapter 1: Denatus | "’Bout time we started up the one thousandth Denatus. Today’s hostess is none other than yours truly, Loki!"
-[@fm04-naming]: FM04 | Chapter 1: Denatus | "Deities attending Denatus for the first time, especially the Naming Ceremony, were treated with the utmost cruelty."; the Guild's paperwork and sketches; "two ways for a god at Denatus to avoid the drama of the second name"; "Girls tended to get better names".
+[@fm04-naming]: FM04 | Chapter 1: Denatus | "Deities attending Denatus for the first time, especially the Naming Ceremony, were treated with the utmost cruelty."; the Guild's paperwork and sketches; the ways for a god at Denatus to avoid a cruel second name; "Girls tended to get better names". The Japanese edition (file cMS, paragraphs 191–193) speaks of several ways, most often that the gods take a strong liking to the member's character.
 [@fm04-mikoto]: FM04 | Chapter 1: Denatus | "This was what the gods came to Denatus to see."; "‘Eternal † Shadow.’"; Takemikazuchi wails.
 [@fm04-invitation]: FM04 | Chapter 1: Denatus | "Any deity who received an invitation to Denatus had the right to participate in any meeting from then on."
 [@fm04-correct]: FM04 | Chapter 1: Denatus | "Every time someone leveled up, they received a chance to correct their second name."
-[@fm04-late]: FM04 | Chapter 1: Denatus | "He leveled up just two days before the Denatus, so they had to squeeze him in."
+[@fm04-late]: FM04 | Chapter 1: Denatus | Bell squeezed in. The Japanese edition (file cMS, paragraph 346) says he levelled up just before the Denatus.
 [@fm04-guild]: FM04 | Chapter 1: Denatus | "the usual scene on the second floor of the Guild after a Denatus meeting"; "the Denatus results are here!"
 [@fm04-rookie]: FM04 | Chapter 1: Denatus | "It’s ‘Little Rookie.’"
 [@so05-advisory]: SO05 | | "the grand meeting of the deities that took place once every three months"; "an advisory body technically recognized by the Guild"; "there were times they had to convene outside the normal schedule".
@@ -89,7 +89,7 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 [@fm06-emergency]: FM06 | Chapter 3: Outbreak | "Will need to open an emergency Denatus!"; "The finer details of our Game will be decided at Denatus."
 [@fm06-vote]: FM06 | Chapter 4: Those Who Gather | "a large group of male deities sided with Freya and voted to allow the addition of outsiders".
 [@fm12-bell]: FM12 | Chapter 1: Rabbit Close-Up | "he leveled up twice, from Level Two to Three and then Four".
-[@fm12-freya]: FM12 | Chapter 1: Rabbit Close-Up | "What do you think of Vanadis Odr, Companion of Vanadis?"; "‘Companion,’ my ass!"
+[@fm12-freya]: FM12 | Chapter 1: Rabbit Close-Up | "What do you think of Vanadis Odr, Companion of Vanadis?"; "‘Companion,’ my ass!" The Japanese edition (file part0012, paragraph 310) writes the companion as the beauty goddess's spouse.
 [@fm12-rabbit]: FM12 | Chapter 1: Rabbit Close-Up | "Miach and Takemikazuchi, Hestia"; "managed to wrench a safe nickname for Bell"; "“Rabbit Foot.”"
 [@fm12-board]: FM12 | Chapter 1: Rabbit Close-Up | "the nicknames chosen at the Naming Ceremony would be posted there first"; "the large wooden board".
 [@fm18-babel]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "Denatus was being held on the thirtieth floor of Babel"; "to discuss the rules and structure of the upcoming war game".

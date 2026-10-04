@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
+      {"label": "Japanese", "value": "{{ja|戦いの野}}, written *field of battle*", "refs": ["fm17-folkvangr-ja"]},
       {"label": "District", "value": "Fifth, between South Main and Southeast Main", "refs": ["fm07-folkvangr"]},
       {"label": "Owner", "value": "[[freya-familia|Freya Familia]]; the Guild after DanMachi 18", "refs": ["fm07-folkvangr", "fm18-guild"]},
       {"section": "Parts"},
@@ -51,3 +52,4 @@ Members below the first tier fight daily battle royals that would kill them, whi
 [@fm18-heith]: FM18 | Chapter 8: The Great Familia War | Heith's background.
 [@fm18-guild]: FM18 | Epilogue: Double Cast | Folkvangr under Guild management.
 [@fm20-seized]: FM20 | Chapter 1: Orario Rumble | "The Guild seized Folkvangr."
+[@fm17-folkvangr-ja]: FM17 | | The Japanese edition writes the name in kanji meaning field of battle, with the reading Folkvangr; the infobox gives the kanji.

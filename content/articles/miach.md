@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Deity"},
+      {"label": "Japanese", "value": "{{ja|ミアハ}}", "refs": ["fm04-miach-ja"]},
       {"label": "Appearance", "value": "Tall and lithe; long blue hair tied at the neck, blue eyes; a worn grey robe", "refs": ["fm04-looks", "fm08-hair", "ss01-medicine"]},
       {"label": "Familia", "value": "[[miach-familia|Miach Familia]], which makes and sells potions", "refs": ["fm01-bell", "ss01-medicine"]},
       {"label": "Followers", "value": "Nahza Ersuisu; from DanMachi 8 also [[daphne|Daphne Laulos]] and [[cassandra|Cassandra Illion]]; in Astrea Record 1 his captain is Slane", "refs": ["fm04-loan", "fm08-join", "ar01-front"]},
@@ -54,7 +55,7 @@ Hestia had never met Miach before descending, but he helped her a few times and 
 |---|---|
 | DanMachi 6 | At Apollo's party he asks Nahza to dance, as an example for Bell and [[aiz-wallenstein|Aiz]].[@fm06-party] When [[apollo-familia|Apollo Familia]] hunts Bell, he arrives with [[takemikazuchi-familia|Takemikazuchi Familia]]'s party, which he had asked for help: "Miach, friends like you are just so…!"[@fm06-rescue] |
 | DanMachi 8 | [[daphne|Daphne]] and [[cassandra|Cassandra]] convert to his Familia: "Lord Miach is a great god."[@fm08-join] |
-| DanMachi 11 | He still cannot bring himself to tell his Familia about the [[xenos|Xenos]]; with Takemikazuchi he chooses to stand by Hestia.[@fm11-xenos, fm11-trust] |
+| DanMachi 11 | He still cannot bring himself to tell his Familia about the [[xenos|Xenos]]; with Takemikazuchi he chooses to help Bell, who is trying to save the Xenos.[@fm11-xenos, fm11-trust] |
 | DanMachi 12 | Hestia, Miach and Takemikazuchi Familias form a three-faction alliance for the expedition: "Just doing what good neighbors do."[@fm12-alliance] |
 | DanMachi 18 | Before the war he asks [[modi-and-magni-familias|Modi and Magni]] not to get in Hestia's way. He wears a coleus leaf and flower as his token. An item from him and Nahza hides Hestia's scent from Freya Familia's beast people, and he updates Nahza's Status in secret during the battle.[@fm18-modi, fm18-flower, fm18-item, fm18-status] |
 | Minor Myths and Legends 1 | In "Familia Panacea" Bell asks him for medicine for the bedridden Hestia. He leads Bell round the city for the ingredients and a new pot, then admits that the medicine is "nothing special": what will cure her is Bell's devotion.[@ss01-medicine] |
@@ -90,3 +91,4 @@ Hestia had never met Miach before descending, but he helped her a few times and 
 [@ar01-escort]: AR01 | Chapter 9: The Opening Act of Evil | "I’m heading onto the battlefield to serve as Miach’s escort"; "It was a chienthrope from Miach Familia called Nahza Ersuisu."; "Lord Miach will never love you!"
 [@ss01-flower]: SS01 | | Printed heading "Episode Miach" (not in the evidence map): "Miach gently affixed a blue flower to the girl’s hair"; "For a god, you can be really dense sometimes"; "It’s true I am ignorant in matters of the heart"; "we don’t seem to get many repeat customers aside from young Bell".
 [@ss01-medicine]: SS01 | | Printed heading "Familia Panacea" (not in the evidence map): "Goddess is bedridden!"; "his ultramarine eyes, the same color as his hair"; "Miach Familia is a group dedicated to brewing and selling potions and other healing items."; "We need it to mix Hestia’s medicine"; "the medicine we’re about to brew is nothing special"; "There is no better cure for a god than their follower’s devotion."
+[@fm04-miach-ja]: FM04 | | The Japanese edition prints his name in katakana; the infobox gives that printed form.

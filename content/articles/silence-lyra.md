@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|サイレンス・リラ}}", "refs": ["ar03-silence-lyra-ja"]},
       {"label": "Type", "value": "Accessory (hearing protection)", "refs": ["ar03-lyre", "fm18-lyra"]},
       {"label": "Printed as", "value": "Silence Lyra (DanMachi 18); Silence Lyre (Astrea Record 3)", "refs": ["fm18-lyra", "ar03-lyre"]},
       {"section": "Origin"},
@@ -55,3 +56,4 @@ After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Bene
 [@fm18-lyra]: FM18 | Chapter 9: Flower Language for You |
 [@fm18-remisto]: FM18 | Chapter 9: Flower Language for You | Allen covers his ears and is still affected.
 [@ar03-lyre]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "a type of accessory called a Silence Lyre"; "custom-made to counter Alfia".
+[@ar03-silence-lyra-ja]: AR03 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.

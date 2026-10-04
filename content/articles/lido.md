@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Xenos"},
+      {"label": "Japanese", "value": "{{ja|リド}}", "refs": ["fm10-lido-ja"]},
       {"label": "Kind", "value": "[[monsters#lizardman|Lizardman]]", "refs": ["fm09-lido"]},
       {"label": "Position", "value": "Leader of the [[xenos|Xenos]]", "refs": ["fm09-lido"]},
       {"label": "Fights with", "value": "Two swords", "refs": ["fm09-lido"]}
@@ -37,3 +38,4 @@
 [@fm10-lido]: FM10 | | Lido in the Daedalus Street fighting.
 [@fm11-village]: FM11 | Epilogue: And So I Start to Run Again | Return to the Hidden Village.
 [@fm11-dream]: FM11 | Chapter 7: The Return of the Hero | Bell recalls Lido's talk of past lives.
+[@fm10-lido-ja]: FM10 | | The Japanese edition prints his name in katakana; the infobox gives that printed form.

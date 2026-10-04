@@ -14,17 +14,18 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Sisters"},
+      {"label": "Japanese", "value": "{{ja|ティオナ・ヒリュテ}}; {{ja|ティオネ・ヒリュテ}}", "refs": ["fm10-hyrute-ja"]},
       {"label": "Race", "value": "[[races#amazon|Amazon]]", "refs": ["fm02-sisters", "fm05-sisters"]},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-tione"]},
       {"label": "Level", "value": "6 each, from Sword Oratoria 6", "refs": ["so06-sisters"]},
-      {"label": "Titles", "value": "Tiona: Amazon the Slasher; Tione: Jormungand", "refs": ["fm11-slasher", "fm10-titles", "so04-jormungand"]},
-      {"label": "Development Ability", "value": "Dive, gained at Level 6", "refs": ["so06-sisters"]},
+      {"label": "Titles", "value": "Tiona: Amazon the Slasher ({{ja|大切断}}, written *great severing*); Tione: Jormungand ({{ja|怒蛇}}, written *angry serpent*)", "refs": ["fm11-slasher", "fm10-titles", "so04-jormungand", "fm10-hyrute-ja"]},
+      {"label": "Development Ability", "value": "Dive, on their Level 5 sheets in Sword Oratoria 3 and 4", "refs": ["so06-sisters"]},
       {"label": "Skills", "value": "Both: [[skills#berserk|Berserk]]. Tiona: [[skills#intense-heat|Intense Heat]]. Tione: [[skills#backdraft|Backdraft]]", "refs": ["skills.so06-berserk", "skills.so06-heat"]}
     ]
   }
 }
 ---
-**Tiona** and **Tione Hyrute** are Amazon sisters of [[loki-familia|Loki Familia]], famous top-class adventurers.[@fm02-sisters, fm05-sisters] Both advance from Level 5 to Level 6 in Sword Oratoria 6 and gain the Development Ability Dive.[@so06-sisters] Their childhood in [[telskyura|Telskyura]], and Tiona's protection of her sister, are revealed in the same volume.[@so06-sisters]
+**Tiona** and **Tione Hyrute** are Amazon sisters of [[loki-familia|Loki Familia]], famous top-class adventurers.[@fm02-sisters, fm05-sisters] Both advance from Level 5 to Level 6 in Sword Oratoria 6.[@so06-sisters] Their childhood in [[telskyura|Telskyura]], and Tiona's protection of her sister, are revealed in the same volume.[@so06-sisters]
 
 ## Tiona
 
@@ -32,7 +33,7 @@ Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her w
 
 ## Tione
 
-Tione is Loki Familia's field commander under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione] Her title is *Jormungand*: "Tione Hyrute—the Jormungand."[@so04-jormungand, fm10-titles]
+Tione is one of Loki Familia's executives under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione] Her title is *Jormungand*: "Tione Hyrute—the Jormungand."[@so04-jormungand, fm10-titles]
 
 ## Together
 
@@ -86,12 +87,12 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@fm02-sisters]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "Two Amazonian sisters."
 [@fm05-sisters]: FM05 | Chapter 4: Dungeon Resort? | "The Amazonian Hyrute sisters," famous top-class adventurers.
 [@fm06-tiona]: FM06 | | Training Bell with Aiz.
-[@fm08-tione]: FM08 | | Tione Hyrute, Finn's field commander.
+[@fm08-tione]: FM08 | | Tione Hyrute, one of the Familia's executives (the Japanese edition, file part0018, paragraph 45).
 [@fm11-tiona]: FM11 | Chapter 5: Ultra Soul! | Tiona lets Wiene escape.
 [@fm17-sisters]: FM17 | | Aiz, Tiona, Tione and Lyu against Hegni.
 [@so01-urga]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga".
 [@so02-urga]: SO02 | Chapter 2: Incident | "the hulking double-bladed sword Urga"; "from Goibniu Familia".
-[@so06-sisters]: SO06 | | Level 6 and Dive; Telskyura; Tiona and Bache.
+[@so06-sisters]: SO06 | | Level 6; Dive, obtained at a Level Up, with underwater fighting learned before Orario (the Japanese edition, file c12J, paragraphs 217 to 224); Telskyura; Tiona and Bache.
 [@so06-kali]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "The two sisters were the only ones able to talk back to Kali"; "all too soon she would have to fight her sister"; "Kali, I don’t wanna fight Tione."; "Kali released them from that arena of stone".
 [@skills.so06-berserk]: SO06 | Chapter 5: A Duo of Sun and Moon | Berserk: Tiona's, the same as her sister's; Tione's fury.
 [@skills.so06-heat]: SO06 | Chapter 5: A Duo of Sun and Moon | Intense Heat, a rare skill; Backdraft; the same activation requirements.
@@ -105,3 +106,4 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@fm11-slasher]: FM11 | Chapter 5: Ultra Soul! | "Amazon the Slasher and Jormungand had intercepted them".
 [@so04-jormungand]: SO04 | Last Chapter: To Adventure | "Tione Hyrute—the Jormungand."
 [@ss02-lulu]: SS02 | My Memory | "The stall owner’s name turned out to be Lulu, and she refused to budge on the price."; Tiona: "Three hundred thousand!!"
+[@fm10-hyrute-ja]: FM10 | | The Japanese edition prints both names in katakana and writes the sisters' titles in kanji meaning great severing (Tiona, read Amazon) and angry serpent (Tione, read Jormungand); the infobox gives the printed names and the kanji.

@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|ヤマト・命}}", "refs": ["fm08-mikoto-ja"]},
       {"label": "Familia", "value": "Takemikazuchi Familia; [[hestia-familia|Hestia Familia]] from DanMachi 6", "refs": ["fm05-mikoto", "fm06-join"]},
       {"label": "Level", "value": "2", "refs": ["fm05-mikoto", "fm15-card"]},
       {"label": "Magic", "value": "[[#futsu-no-mitama|Futsu no Mitama]]", "refs": ["fm05-mikoto", "fm15-card"]},
@@ -69,12 +70,12 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 |---|---|---|
 | DanMachi 5 | Opening, one middle passage and the ending, split by narration; the last line and the closing phrase run together in print ("earthshinbu tousei"). | Opening: "Fear, strong and winding—"[@futsu-no-mitama.fm05-goliath] |
 | DanMachi 6 | Seven printed pieces from opening to closing phrase, then "Futsu no Tama!". The narration says she "finished her incantation" with the closing phrase. | Last lines: "Descend from the heavens, seize the earth—" / "—Shinbu Tousei!"[@futsu-no-mitama.fm06-war] |
-| DanMachi 14 (first cast) | A different opening, then one passage from the middle of the chant and "Shinbu Tousei!". | Opening: "Forgive my impudence as I beseech thee—"[@futsu-no-mitama.fm14-first] |
+| DanMachi 14 (first cast) | The chant's opening line, then one passage from the middle of the chant and "Shinbu Tousei!". | Opening: "Forgive my impudence as I beseech thee—"[@futsu-no-mitama.fm14-first] |
 | DanMachi 14 (second cast) | Six lines ending "Shinbu Tousei—", then "—Futsu no Mitama!!".[@futsu-no-mitama.fm14-second] | — |
 | DanMachi 18 | Only the spell name.[@futsu-no-mitama.fm18-cage] | — |
 | Sword Oratoria 12 | The last line, "Shinbu Tousei!" and the name.[@futsu-no-mitama.so12-shield] | — |
 
-{{nocite}} "Shinbu Tousei" is the chant's closing phrase, not the spell's name; the name is spoken separately afterwards. The two openings ("Fear, strong and winding" and "Forgive my impudence as I beseech thee") are recorded separately: the text does not say whether one replaces the other or whether both belong in a longer chant.
+{{nocite}} "Shinbu Tousei" is the chant's closing phrase, not the spell's name; the name is spoken separately afterwards. The two printed openings ("Fear, strong and winding" and "Forgive my impudence as I beseech thee") render one Japanese line, the prayer opening given below; in the Japanese it opens both DanMachi 14 casts as well, so the full chant has seven pieces.
 
 In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemakumo kashikoki}}, the formal opening of a prayer (awesome even to speak of), and the closing phrase {{ja|神武闘征|Shinbu Tōsei}} follows a run of dashes after the line about ruling the earth, so "earthshinbu tousei" is an artefact of the English print.[@futsu-no-mitama.fm05-ja-goliath]
 
@@ -122,13 +123,14 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 [@fm12-mikoto]: FM12 | Chapter 6: The Hero’s Sacred Flame | Zekka.
 [@fm14-mikoto]: FM14 | | Mikoto and the Amphisbaena.
 [@fm15-card]: FM15 | | Level 2 card (Futsu no Mitama under Magic; the Yatano crows under Skills); the withheld Skill; her history with Haruhime.
-[@fm04-name]: FM04 | Chapter 1: Denatus | Loki: "she’s from one of those Far East places, so her name’s backward…Little Miss Yamato Mikoto!"
+[@fm04-name]: FM04 | Chapter 1: Denatus | Loki: "she’s from one of those Far East places, so her name’s backward…Little Miss Yamato Mikoto!" The Japanese edition (file cMS, paragraph 183) says that, born in the Far East, she has her given name last.
 [@ss01-name]: SS01 | | "Mikoto Yamato."
 [@futsu-no-mitama.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Chant pieces; sword of light; gravity dome; the Goliath rises; Takemikazuchi's warning.
 [@futsu-no-mitama.fm05-ja-goliath]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 626, 629, 657 and 663 to 669): the chant opens with the formal prayer opening, awesome even to speak of; the closing phrase follows a run of dashes after the line to descend from the heavens and rule the earth; a sword of violet light appears directly above the Goliath and drops, and a dome-shaped force field with a radius of ten meders forms; the patron god had strictly ordered her not to use it in a closed space, and her own reason for holding it back so far was fear of catching the attackers and mages. Yen Press prints the field descending from the hilt "ten meders in the air" and the god as having "all but forbidden" it.
 [@futsu-no-mitama.fm06-war]: FM06 | Chapter 5: Our War Game | Seven-piece chant; "Futsu no Tama!"; fifty meders; twenty-two enemies.
-[@futsu-no-mitama.fm14-first]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Different opening; maximum range; root dome collapses.
-[@futsu-no-mitama.fm14-second]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Six-line chant; underwater casting; Mikoto crushed.
+[@futsu-no-mitama.fm14-first]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The opening line; maximum range; root dome collapses. The Japanese edition (file cAP, paragraphs 566 to 610) opens the cast with the formal prayer opening of DanMachi 5.
+[@futsu-no-mitama.fm14-second]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Six printed lines; underwater casting; Mikoto crushed. The Japanese edition (file cAP, paragraphs 1183 to 1221) gives the chant in seven pieces, opening with the same prayer line.
 [@futsu-no-mitama.fm15-card]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Status card: gravity magic; Yatano crows under Skills.
 [@futsu-no-mitama.fm18-cage]: FM18 | Chapter 9: Flower Language for You | Name only; boosted; narrowed cage; Berling breaks out.
 [@futsu-no-mitama.so12-shield]: SO12 | Chapter 7: Final War II | Last line and name; light bent into the floor.
+[@fm08-mikoto-ja]: FM08 | | The Japanese edition prints her name family name first, the given name in kanji with the reading Mikoto; the infobox gives that printed form.

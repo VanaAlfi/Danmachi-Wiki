@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|クロエ・ロロ}}", "refs": ["fc01-chloe-ja"]},
       {"label": "Race", "value": "[[races#cat-person|Catperson]]", "refs": ["fm16-fight"]},
       {"label": "Occupation", "value": "Waitress at [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm02-chloe", "fc01-recruit"]},
       {"label": "Former work", "value": "Assassin, known in the underworld as Black Cat", "refs": ["fc01-alias", "fc01-past"]},
@@ -41,7 +42,7 @@ In Familia Chronicle 1, after a failed contract on the Gale Wind, Chloe gives up
 
 ## Freya conflict
 
-During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic [[#felis-kurus|Felis Kurus]] and the poison dagger Violator, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn] She is among those who welcome Syr back after the war.[@fm18-syr]
+During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic [[#felis-kurus|Felis Kurus]] and the poison dagger Violetta {{small|printed *Violator*}}, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn, fm18-violetta-ja] She is among those who welcome Syr back after the war.[@fm18-syr]
 
 ## Status
 
@@ -95,3 +96,5 @@ The mirages appear instantly and without sound. They have no real body, so they 
 [@fc01-card]: FC01 | | Chloe's Status card.
 [@felis-kurus.fc01-cast]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "—Frolic!"; short-trigger illusion magic; mirror images; upper limit two; cannot attack or defend.
 [@felis-kurus.fm18-dvalinn]: FM18 | Chapter 9: Flower Language for You | "Super-short cast"; "There can be three illusions"; Violator.
+[@fc01-chloe-ja]: FC01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm18-violetta-ja]: FM18 | | The Japanese edition names the dagger Violetta, for its black-purple colour.

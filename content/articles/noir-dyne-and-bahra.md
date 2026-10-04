@@ -37,7 +37,7 @@ Astrea Record 2 introduces Noir Sachsen as an old, bearded human, over seventy a
 The narration counts them as Loki Familia's oldest members "in terms of age, at least", and says their long Dungeon experience alone puts them on the level of any first-class adventurer.[@ar02-veterans] Bahra claims they were Finn's equals in their prime.[@ar02-veterans] Finn recalls the "old-man wisdom" with which they "beat sense into us back in the day". Bahra says Finn, Gareth and Riveria knew nothing of the Dungeon then, and Dyne remembers how strong those children already were.[@ar03-manor] Bahra jokes that the carnage of the dark age is nothing beside the nightly wars between [[zeus-and-hera-familias|Zeus and Hera]] and Horus and Sobek.[@ar03-veterans]
 
 > [!NOTE] Noir's height
-> Astrea Record 2 gives Noir's height as over 170 celches; Astrea Record 3 gives it as 180 celches.[@ar02-veterans, ar03-veterans]
+> Astrea Record 2 gives Noir's height as over 170 celches; Astrea Record 3 gives it as close to 180 celches.[@ar02-veterans, ar03-veterans]
 
 ## In the dark age
 
@@ -45,7 +45,7 @@ The narration counts them as Loki Familia's oldest members "in terms of age, at 
 |---|---|
 | Astrea Record 1 | The three fight on the front line once Finn arrives. Noir grumbles that the new generation is "so capable, it makes me mad", and Bahra laughs that they are all "cocky little brats".[@ar01-front] |
 | Astrea Record 2 | When the [[evils|Evils]] attack, Noir saves [[raul-nord|Raul]] from a cultist. He sends him to help the citizens to safety and keep the fourteen-year-old [[anakity-autumn|Anakitty]] out of the fighting, while the veterans hold the line.[@ar02-veterans] Finn later sends Noir's unit to secure the factory district.[@ar02-factory] |
-| Astrea Record 3 | Before the final battle, Noir's team finishes evacuating the residents into the five strongholds.[@ar03-veterans] Finn leaves Noir in charge of defending [[twilight-manor|Twilight Manor]] while he commands from Guild Headquarters. Noir protests that the northeast will see the thickest fighting, but Finn insists that only Noir can be trusted with it.[@ar03-manor] The three hold the manor's gates against monsters and enemy archers, until the monsters step up their assault.[@ar03-manor, ar03-assault] |
+| Astrea Record 3 | Before the final battle, Noir's team finishes evacuating the residents into the five strongholds.[@ar03-veterans] Finn leaves Noir in charge of defending [[twilight-manor|Twilight Manor]] while he commands from Guild Headquarters. Noir protests that the north and the east of the city will see the fiercest attacks, but Finn insists that only Noir can be trusted with it.[@ar03-manor] The three hold the manor's gates against monsters and enemy archers, until the monsters step up their assault.[@ar03-manor, ar03-assault] |
 
 ## The last charge
 
@@ -60,8 +60,8 @@ The narration later credits the veterans with giving [[ottar|Ottar]] just enough
 [@ar01-front]: AR01 | Chapter 9: The Opening Act of Evil | "the dwarf Dyne, the human Noir, and the Amazon Bahra"; "Now that Finn’s here, our formation is unbreakable!"; "the new generation is so capable, it makes me mad"; "they’re all cocky little brats".
 [@ar02-veterans]: AR02 | Chapter 2: Wavering Justice | "His name was Noir Sachsen, Level 4"; over seventy years of age; over 170 celches; the dwarf and the Amazon; "We were Finn’s equal during our prime"; "Loki Familia’s oldest members—in terms of age, at least"; converts who were braving the Dungeon before Finn, Riveria, Gareth or Loki; Raul and Anakitty.
 [@ar02-factory]: AR02 | Intermission: While the Scales of Justice Tremble | "Send Noir’s unit to secure the factory district!"
-[@ar03-veterans]: AR03 | Prologue: Last Intermission | Falgar: "The Bowstring Blade…"; Noir at seventy, 180 celches, in kimono-like combat gear; "one of several mentors who taught Finn, Riveria, and Gareth"; Dyne and Bahra; Zeus and Hera against Horus and Sobek; Noir's team finishes the evacuation.
-[@ar03-manor]: AR03 | | Noir left in charge of Twilight Manor; the northeast; "Isn’t that how you, Dyne, and Bahra beat sense into us back in the day?"; "its name was Undying Vow".
+[@ar03-veterans]: AR03 | Prologue: Last Intermission | Falgar: "The Bowstring Blade…"; Noir at seventy, close to 180 celches, in kimono-like combat gear; "one of several mentors who taught Finn, Riveria, and Gareth"; Dyne and Bahra; Zeus and Hera against Horus and Sobek; Noir's team finishes the evacuation. The Japanese edition (file c4W, paragraph 33) says close to 180 celch.
+[@ar03-manor]: AR03 | | Noir left in charge of Twilight Manor; "Isn’t that how you, Dyne, and Bahra beat sense into us back in the day?"; "its name was Undying Vow". The Japanese edition (file cTV, paragraph 270) has Noir expect the fiercest attacks on the north and the east of the city.
 [@ar03-assault]: AR03 | Chapter 5: Playing the Violence Card | "Noir! The monsters have stepped up their assault! We can’t hold them off!"
 [@ar03-despair]: AR03 | Chapter 5: Playing the Violence Card | Hordes of monsters down the eight main streets toward the central barrier; no one can leave the strongholds.
 [@ar03-charge-off]: AR03 | Chapter 5: Playing the Violence Card | "It’s been a real pleasure workin’ alongside you old dogs!"; "Loki… See you."; the three veterans leave.

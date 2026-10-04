@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|フレイヤ}}", "refs": ["fm16-freya-ja"]},
       {"label": "Type", "value": "Goddess of beauty", "refs": ["fm01-freya"]},
       {"label": "Mortal persona", "value": "[[syr-flover|Syr Flover]], a waitress at [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm17-prologue"]},
       {"label": "Perception", "value": "Sees the colour and brightness of souls (see [[#eyes|Her eyes]])", "refs": ["fm02-eyes", "fm03-babel"]},
@@ -40,11 +41,11 @@ Freya resolved never to charm [[mia-grand|Mia Grand]].[@fm18-mia]
 
 ## Syr Flover {#syr}
 
-As a mortal persona, Freya uses the appearance, name and history of a girl originally called Syr. That girl received the name Hörn instead, and her [[falna|Falna]] lets her take on Freya's appearance and divinity, but not Arcanum.[@fm16-horn, fm17-prologue] Freya still attends [[denatus|Denatus]] and other gatherings of the gods in person, because she expects [[loki|Loki]] to see through a stand-in.[@fm17-prologue] See [[syr-flover|Syr Flover]] and [[horn|Hörn]].
+As a mortal persona, Freya uses the name and history of a mortal girl originally called Syr; the face is the girl form Freya already used in heaven, which the name exchange let her take again. That girl received the name Hörn instead, and her [[falna|Falna]] lets her take on Freya's appearance and divinity, but not Arcanum.[@fm16-horn, fm17-prologue] Freya still attends [[denatus|Denatus]] and other gatherings of the gods in person, because she expects [[loki|Loki]] to see through a stand-in.[@fm17-prologue] See [[syr-flover|Syr Flover]] and [[horn|Hörn]].
 
 ## The Odr
 
-Freya searches for an *Odr*, a hero entirely her own.[@fm16-odr, fm18-odr] She tells Bell she fell in love with his soul at first sight and meant to cultivate it for herself.[@fm17-love] Her own recollection distinguishes that first desire from later falling in love with him as a woman.[@fm17-double] In DanMachi 18 Bell refuses to be her Odr.[@fm18-odr]
+Freya searches for an *Odr*, a hero entirely her own.[@fm16-odr, fm18-odr] *Odr* is the reading; the Japanese writes it over the word for *hero*, and in other passages over *spouse*.[@fm16-odr-ja] She tells Bell she fell in love with his soul at first sight and meant to cultivate it for herself.[@fm17-love] Her own recollection distinguishes that first desire from later falling in love with him as a woman.[@fm17-double] In DanMachi 18 Bell refuses to be her Odr.[@fm18-odr]
 
 ## History
 
@@ -93,7 +94,7 @@ Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-
 [@fm16-horn]: FM16 | Chapter 6: The Wish’s Cost | The exchange of names; Hörn's magic.
 [@fm16-odr]: FM16 | Chapter 5: The Proof of ( ) | Syr defines an Odr.
 [@fm16-rejected]: FM16 | Epilogue: “Alea Iacta Est” II | After the rejection.
-[@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of the Syr persona and of attending Denatus.
+[@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of the Syr persona and of attending Denatus. The Japanese edition (file part0013, paragraphs 24 to 37) has Hörn give the name and the history, while the face is the girl form Freya herself used in Tenkai, regained once she received the name Syr.
 [@fm17-seizure]: FM17 | Chapter 1: The Opening of Hostilities | The conversion demand and the charm over the city.
 [@fm17-charm]: FM17 | | Reach of the charm.
 [@fm17-horn]: FM17 | | Hörn exposes Freya's plea to be saved.
@@ -118,3 +119,5 @@ Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-
 [@fc02-ali]: FC02 | Ali and the 8 Followers | Ali/King Aram.
 [@fc02-origin]: FC02 | The Origin of the Strongest | Ottar.
 [@fc02-pasts]: FC02 | Their Various Pasts | The other executives.
+[@fm16-freya-ja]: FM16 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm16-odr-ja]: FM16 | | The Japanese edition writes the reading Odr over the word for hero and, in other passages, over the word for spouse.

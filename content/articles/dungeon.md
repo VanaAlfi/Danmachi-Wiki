@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
+      {"label": "Japanese", "value": "{{ja|ダンジョン}}", "refs": ["fm01-dungeon-ja"]},
       {"label": "Beneath", "value": "[[orario|Orario]]; sealed under Babel Tower", "refs": ["fm01-dungeon", "fm12-sealed"]},
       {"label": "Overseen by", "value": "The Guild", "refs": ["fm01-dungeon"]},
       {"label": "Held in check by", "value": "[[babel|Babel]], the \"lid\", and [[ouranos|Ouranos]]'s prayers (see [[#history|History]])", "refs": ["so02-prayer", "fm19-shaft"]},
@@ -25,15 +26,15 @@
   }
 }
 ---
-**The Dungeon** is the vast underground labyrinth beneath [[orario|Orario]], and the only one known. The [[guild|Guild]] oversees access to it.[@fm01-dungeon] Its entrance is sealed beneath [[babel|Babel Tower]].[@fm12-sealed] Its walls repair themselves and give birth to fully grown monsters.[@fm01-walls] DanMachi 1 calls it one of the world's three great unexplored regions ({{ja|世界三大秘境|sekai san dai hikyō}}; Yen Press: "three great mysteries") and the birthplace of the ancestors of the monsters on the surface.[@fm01-mystery]
+**The Dungeon** is the vast underground labyrinth beneath [[orario|Orario]], and the only one known. The [[guild|Guild]] oversees access to it.[@fm01-dungeon] Its entrance is sealed beneath [[babel|Babel Tower]].[@fm12-sealed] Its walls repair themselves and give birth to fully grown monsters.[@fm01-walls] DanMachi 1 calls it one of the world's three great unexplored regions and the birthplace of the ancestors of the monsters on the surface.[@fm01-mystery]
 
 ## History {#history}
 
 Sword Oratoria 1 opens with the story of "a great Hole in the world", which existed long before anyone found it and endlessly gave birth to monsters. They overran forests, mountains, seas and skies until the surface races united behind new heroes and drove them back to the Hole. Inside lay "a realm divided into many levels", lit by strange lights and full of unknown plants, ores and minerals. Humans and demi-humans built a tower over the Hole as a "lid", and curiosity about what lay at its bottom drew the first explorers, later known as adventurers.[@so01-hole] In Familia Chronicle 2 the monsters from "the giant hole" are said to have spread over land, sea and sky.[@fc02-hole]
 
-Sword Oratoria 2 tells the Guild's side of the story. An alliance of many races tried to build a lid over the hole, but every lid was destroyed, the last tower collapsing just after it was finished. Then the gods descended; most said they had come "To be entertained", but one, [[ouranos|Ouranos]], joined the people's effort. He was the first to bestow Falna, completed the central tower with other gods' help, and was worshipped as Orario's founding deity; the remains of the alliance, reassembled under him, became the Guild.[@so02-lid] DanMachi 9 adds that he was one of the first gods to descend and that his help made the city the first line of defence.[@fm09-ouranos]
+Sword Oratoria 2 tells the Guild's side of the story. The body that preceded the Guild tried to build a lid over the hole, but every lid was destroyed, the last tower collapsing just after it was finished. Then the gods descended; most said they had come "To be entertained", but one, [[ouranos|Ouranos]], joined the people's effort. He was the first to bestow Falna in this land, and with his work and the other gods' help the fortress city that became Orario was completed; worshipped as Orario's founding deity, he became the patron god of that body, which reorganised under him as the Guild.[@so02-lid] DanMachi 9 adds that he was one of the first gods to descend and that his help made the city the first line of defence.[@fm09-ouranos]
 
-The lid is Babel Tower. DanMachi 1 calls it the Guild's "guard tower", built because monsters came out "almost every day" in ancient times.[@fm01-tower] Lilly has heard that Babel was once no bigger than the buildings around it.[@fm02-babel] Ouranos stays in the Guild's temple and prays to the Dungeon without pause; his divine aura keeps it from spawning huge numbers of monsters at once and keeps them underground, or so the Guild believes.[@so02-prayer] DanMachi 17 calls Orario "the lid on the great pit" and Ouranos the keystone of the mortal realm, and in DanMachi 19 the Dungeon is thought "just barely made manageable" by Babel and Ouranos's prayers together.[@fm17-keystone, fm19-shaft]
+The lid is Babel Tower. DanMachi 1 calls it the Guild's "guard tower", built because monsters came out "almost every day" in ancient times.[@fm01-tower] Lilly has heard that Babel was once no bigger than the buildings around it.[@fm02-babel] Ouranos stays in the Guild's temple and prays to the Dungeon without pause; his mighty divine aura holds the Dungeon down, so that the monsters' great invasion does not happen, and keeps them on their floors, or so the Guild believes.[@so02-prayer] DanMachi 17 calls Orario "the lid on the great pit" and Ouranos the keystone of the mortal realm, and in DanMachi 19 the Dungeon is thought "just barely made manageable" by Babel and Ouranos's prayers together.[@fm17-keystone, fm19-shaft]
 
 ## Nature {#nature}
 
@@ -49,7 +50,7 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 
 | Floors | Band | Notes |
 |---|---|---|
-| 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. The Guild does not let Level 1 adventurers below Floor 12.[@fm02-upper, fm02-limit] |
+| 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. Floors 11 and 12 are held to be the deepest that Level 1 adventurers can clear.[@fm02-upper, fm02-limit] |
 | 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
 | 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] Floor 28, the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on Floor 29.[@fm20-gorge] |
 | Deeper floors | Deep levels | [[floor-37|Floor 37]], the Lower Fortress, lies in the deep levels and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] Hephaistos speaks of Loki Familia going to "the Deep Zone".[@fm12-deepzone] |
@@ -60,7 +61,7 @@ For the first twelve floors, the recommended basic abilities run from I–H on F
 
 - **Floor 39:** "The first safety point in the deep levels".[@fm14-safepoint]
 - **Floors 40–41:** the fortieth floor is rumoured to rival Orario itself in size; Astrea Familia's record registered with the Guild was the forty-first floor.[@fm03-size, fm13-record]
-- **Floor 44:** a floor of "sweltering heat", with a burning crimson floor and Flaming Rocks; DanMachi 4 calls it "A stage of the Dungeon’s lower levels".[@fm04-floor44]
+- **Floor 44:** a floor of "sweltering heat", with a burning crimson floor and Flaming Rocks; DanMachi 4 places it in the Dungeon's deep levels.[@fm04-floor44]
 - **Floor 49:** the Moitra Sands, where the floor boss Balror lives and [[monsters#fomoire|Fomoire]] attack Loki Familia in Sword Oratoria 1.[@fc02-moitra, so01-camp]
 - **Floor 50:** a safe point where monsters are not born; Loki Familia camps there.[@so01-camp]
 - **Floor 51:** the Cadmus Springs (see [[monsters#cadmus|Cadmus]]).[@so01-camp]
@@ -82,7 +83,7 @@ Monsters are born from the Dungeon's walls. At their core is a [[magic-stone|mag
 
 {{nocite}} The species are described on the [[monsters|Monsters]] page.
 
-Each floor has at most one Monster Rex, a floor boss said to be two Levels above its other monsters.[@fm02-rex]
+Each floor has at most one Monster Rex, a floor boss said to be two or more Levels above its other monsters.[@fm02-rex]
 
 ## The Three Great Quests
 
@@ -90,7 +91,7 @@ The Behemoth, the Leviathan and the Black Dragon escaped the Dungeon in ancient 
 
 ## Expeditions
 
-Familias of Guild rank D and above must take part in periodic Guild expeditions; more than half of each party must come from the assigned Familia, and failure brings a penalty.[@fm12-expedition] The results can be a new floor, an unknown mineral, a mapped Frontier, or sometimes a floor boss; most Familias clear a new floor.[@fm12-deepzone] The deepest floor reached is Floor 71, a record set by Zeus Familia and Hera Familia.[@fm19-record]
+Familias of Guild rank D and above must take part in periodic Guild expeditions; more than half of the assigned Familia's own members must take part, and failure brings a penalty.[@fm12-expedition] The results can be a new floor, an unknown mineral, a mapped Frontier, or sometimes a floor boss; most Familias clear a new floor.[@fm12-deepzone] The deepest floor reached is Floor 71, a record set by Zeus Familia and Hera Familia.[@fm19-record]
 
 [[loki-familia|Loki Familia]] leads the deep-level expeditions of the story. In Sword Oratoria 1 it fights through the Moitra Sands to the safe point on Floor 50.[@so01-camp] In DanMachi 20 it sets out with [[tsubaki|Tsubaki]], [[amid|Amid]] and other strong adventurers of other Familias, and at the end of the volume its survivors return with the news that "The alliance was wiped out on the sixtieth floor".[@fm20-alliance, fm20-floor60]
 
@@ -103,16 +104,16 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 [@fm01-dungeon]: FM01 | Chapter 1: World, Reality, and Desire | The Dungeon beneath Orario; the Guild.
 [@fm01-walls]: FM01 | | Walls repair and give birth to monsters; maps.
 [@fm01-stones]: FM01 | Chapter 2: That’s Why I Run | Magic stones and drop items.
-[@fm01-mystery]: FM01 | Chapter 4: That’s Why I Want to Help | One of the three great mysteries; its bottom unknown.
+[@fm01-mystery]: FM01 | Chapter 4: That’s Why I Want to Help | The Japanese edition (file c2A2, paragraph 333) calls the Dungeon one of the world's three great unexplored regions; its bottom unknown.
 [@fm01-bands]: FM01 | | Floor bands are Dungeon floors, not Levels.
 [@fm01-tower]: FM01 | Chapter 5: The Goddess’s Prank | The Guild manages the tower, "the lid of the Dungeon" (cited by the body heading, printed "The G♥ddess’s Prank").
 [@fm02-upper]: FM02 | | Floors 1–12 and recommended abilities; Level 2 monsters from Floor 13.
-[@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1 adventurers.
-[@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex; Floor 37 and Udaios.
+[@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1 adventurers. The Japanese edition (file c5J8, paragraph 49) calls the eleventh and twelfth floors the deepest a Level 1 adventurer is considered able to clear.
+[@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex; Floor 37 and Udaios. The Japanese edition (file c2ZU, paragraph 103) says two or more Levels above the Level estimated for each floor.
 [@fm02-babel]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Babel once no bigger than the buildings around it.
 [@fm04-middle]: FM04 | Epilogue: Next Stage | Floors 13–14, the Middle Fortress.
 [@fm04-pantries]: FM04 | | Monster parties; pantries.
-[@fm04-floor44]: FM04 | Chapter 3: The Smith’s Situation | The forty-fourth floor: heat and Flaming Rocks.
+[@fm04-floor44]: FM04 | Chapter 3: The Smith’s Situation | The forty-fourth floor: heat and Flaming Rocks. The Japanese edition (file c2R2, paragraphs 406–407) calls it the Dungeon's deep levels.
 [@fm03-size]: FM03 | Chapter 5: A Hero’s Desire | "the fortieth floor is rumored to rival Orario itself in size and scale".
 [@fm13-record]: FM13 | Chapter 4: Countdown | Astrea Familia's registered record: the forty-first floor.
 [@fm14-safepoint]: FM14 | Chapter 9: Hello, Deep Levels | "The first safety point in the deep levels is on the thirty-ninth floor."
@@ -125,10 +126,10 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 [@fm09-cave]: FM09 | Chapter 3: The World and Reality and Monsters | "the start of the Cave Labyrinth".
 [@fm09-tree]: FM09 | Chapter 1: An Irregular Girl | "the nineteenth floor is the start of the “Colossal Tree Labyrinth”".
 [@fm09-ouranos]: FM09 | Chapter 5: Heretics | Ouranos, among the first gods to descend, helped build the "lid"; his Familia became the Guild.
-[@fm09-frontier]: FM09 | Chapter 5: Heretics | The Guild's map data; Frontiers; the Xenos' base camps.
+[@fm09-frontier]: FM09 | Chapter 5: Heretics | The Guild's map data; Frontiers; the Xenos' base camps. The Japanese edition calls them unexplored regions.
 [@fm12-sealed]: FM12 | Chapter 3: New World ~Water Island~ | The Dungeon sealed under Babel.
 [@fm12-lower]: FM12 | Chapter 3: New World ~Water Island~ | Floor 25 and the Water Capital.
-[@fm12-expedition]: FM12 | | Mandatory Guild expeditions.
+[@fm12-expedition]: FM12 | | Mandatory Guild expeditions. The Japanese edition (file part0014, paragraph 73) makes it a condition that a majority of the Familia's members take part.
 [@fm12-deepzone]: FM12 | Chapter 2: Adventure Intermission | Hephaistos on expedition missions: "the Deep Zone"; the results that count.
 [@fm13-juggernaut]: FM13 | Chapter 5: Calamity Arrives | The Dungeon's response to excessive damage.
 [@fm13-mother]: FM13 | Chapter 2: The Prophetess of Tragedy | "The Dungeon is the mother of monsters, as they say in Orario."
@@ -148,10 +149,11 @@ Familias of Guild rank D and above must take part in periodic Guild expeditions;
 [@fc02-moitra]: FC02 | The Origin of the Strongest | The floor boss Balror in the Moitra Sands, Floor 49.
 [@so01-hole]: SO01 | | Printed heading "Prologue: Dawn of the Labyrinth" (not in the evidence map): the great Hole; the Dungeon inside; the tower as a "lid"; the first adventurers.
 [@so01-camp]: SO01 | | Printed heading "Chapter 1: Loki Familia" (not in the evidence map): the Floor 50 safe point after the Moitra Sands; the Cadmus Springs on Floor 51; the fifty-ninth floor ahead.
-[@so02-lid]: SO02 | Chapter 4: Orb | The alliance of races and the failed lids; the gods' descent; Ouranos, the first to bestow Falna, completes the tower; the Guild is born.
-[@so02-prayer]: SO02 | Chapter 4: Orb | Ouranos's prayers keep the monsters underground.
+[@so02-lid]: SO02 | Chapter 4: Orb | The failed lids; the gods' descent; Ouranos; the Guild is born. The Japanese edition (file c2AJ, paragraphs 89 to 97) has the Guild's predecessor organisation lead the work on a tower and fortress, Ouranos bring the first Falna to this land, the fortress city that was Orario's prototype completed with the other gods' help, and the predecessor reorganise under him as the Guild.
+[@so02-prayer]: SO02 | Chapter 4: Orb | Ouranos's prayers keep the monsters underground. The Japanese edition (file c2GM, paragraphs 20 and 21) says his divine aura holds the Dungeon down so that the monsters' great invasion does not occur, keeping many monsters on their floors, at least as the Guild firmly believes.
 [@so03-unexplored]: SO03 | Epilogue: Catching the White Rabbit | "the yet unexplored fifty-ninth floor".
 [@so04-urn]: SO04 | Last Chapter: To Adventure | Floor 52; the Dragon's Urn named by Zeus Familia; valgang dragons on Floor 58.
 [@so09-quests]: SO09 | Chapter 4: Those Who Remain, Those Left Behind | Behemoth, Leviathan and the Black Dragon.
 [@so13-will]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | Lefiya's seminar: the Dungeon possesses a will.
 [@ar03-forbidden]: AR03 | Chapter 9: A Hero’s Trail | Lyu: deities are forbidden to enter the Dungeon; Astrea: "They are".
+[@fm01-dungeon-ja]: FM01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.

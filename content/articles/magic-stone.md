@@ -30,7 +30,7 @@ A **magic stone** is a crystal of magical power that every monster of the [[dung
 - **Death.** When Bell pulls a shard out of a [[monsters#kobold|kobold]], its body goes slack, loses its colour, and turns to ash; all monsters disappear once their stone is removed.[@fm01-core]
 - **Drop items.** Sometimes part of a monster does not turn to ash, such as a kobold's claw; such leftovers are "drop items".[@fm01-drop] A Minotaur Bell kills leaves its magic stone and a horn, which becomes the dagger [[ushiwakamaru|Ushiwakamaru]].[@fm04-horn]
 - **Size.** The monsters of the first floors carry shards about the size of a fingernail; the Guild pays more for bigger shards and whole stones.[@fm01-shard]
-- **The Dungeon itself.** Bell guesses that the Dungeon's walls must be made of something much like magic stone.[@fm01-walls]
+- **The Dungeon itself.** The Dungeon is said to be made of a substance of a lower or higher grade than magic stone; scholars cannot explain its make-up, and its closeness to magic stone is why it is bright inside without sunlight.[@fm01-walls]
 
 ## Collecting and selling
 
@@ -53,12 +53,12 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How the Guild prices stones beyond "bigger shards and full stones" paying more.[@fm01-shard]
-> - What the Dungeon's walls are made of; Bell only guesses at something like magic stone.[@fm01-walls]
+> - What the Dungeon is made of: it is only said to be close to magic stone, of a lower or a higher grade.[@fm01-walls]
 
-[@fm01-core]: FM01 | Chapter 2: That’s Why I Run | "It’s a crystal with magical power; all monsters in the dungeon have them."; "the Guild pays cash"; stoves, freezing; "Orario sells the stones to other cities and countries"; "All monsters disappear after their magic stone is removed."; "the magic stone is a monster’s core, its power source"; "If the stone gets damaged in battle, the Guild won’t buy it."
+[@fm01-core]: FM01 | Chapter 2: That’s Why I Run | "It’s a crystal with magical power; all monsters in the dungeon have them."; "the Guild pays cash"; stoves, freezing; "Orario sells the stones to other cities and countries"; "All monsters disappear after their magic stone is removed."; "the magic stone is a monster’s core, its power source"; "If the stone gets damaged in battle, the Guild won’t buy it." The Japanese edition (file cYT, paragraph 183) names ignition devices, and freezers for freezing.
 [@fm01-shard]: FM01 | Chapter 2: That’s Why I Run | "just a shard"; "Only about the size of my fingernail"; "The Guild pays more for bigger shards and full stones."
 [@fm01-drop]: FM01 | Chapter 2: That’s Why I Run | "Looks like this is a “drop item.”"; "Usually a “supporter” travels with adventurers and collects all the magic stones and drop items."
-[@fm01-walls]: FM01 | Chapter 2: That’s Why I Run | "The walls have to be made of something a lot like magic stones."
+[@fm01-walls]: FM01 | Chapter 2: That’s Why I Run | "The walls have to be made of something a lot like magic stones." The Japanese edition (file cYT, paragraphs 216 and 217) gives this as hearsay: the Dungeon is said to be made of a lower- or higher-grade substance than magic stone, scholars cannot yet explain its make-up, and being close to magic stone it is bright inside without sunlight.
 [@fm01-lamps]: FM01 | Chapter 2: That’s Why I Run | "Human engineers figured out how to make magic stone lamps."; Yen Press has the gods call it "cutting-edge technology" and "the discovery of the century".
 [@fm01-ja-lamps]: FM01 | Chapter 2: That’s Why I Run | Japanese original (file cX6, paragraph 8): a god says humans are really deft with their hands; the lamp was called the invention of the century at the time. "Cutting-edge technology" is not in it.
 [@fm01-exchange]: FM01 | | "to exchange my magic stones and drop items for money".

@@ -14,10 +14,11 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Institution"},
-      {"label": "Official name", "value": "Maritime Academy for Scholarship Special Administrative District", "refs": ["fm19-name"]},
+      {"label": "Japanese", "value": "{{ja|学区}}", "refs": ["fm19-school-district-ja"]},
+      {"label": "Official name", "value": "Maritime Academy for Scholarship Special Administrative District ({{ja|海上学術機関特区}})", "refs": ["fm19-name", "fm19-school-district-ja"]},
       {"label": "Principal", "value": "The god Balder", "refs": ["so13-balder"]},
       {"label": "Classes", "value": "Ten deity-led Familias, among them [[balder-class|Balder Class]], Iðunn Class and Bragi Class (see [[#classes|Classes and squads]])", "refs": ["so13-classes", "fm19-classes", "so13-class-names"]},
-      {"label": "Departments", "value": "Combat Studies, Education, Alchemy, Business, Smithing, Crafts, Compounding and others (see [[#departments|Departments]])", "refs": ["fm19-courses", "fm19-alchemy", "fm19-business", "fm19-crafts", "fm19-compounding"]},
+      {"label": "Departments", "value": "Combat Studies, Liberal Arts, Alchemy, Business, Smithing, Crafts, Compounding and others (see [[#departments|Departments]])", "refs": ["fm19-courses", "fm19-alchemy", "fm19-business", "fm19-crafts", "fm19-compounding"]},
       {"section": "Ship"},
       {"label": "Vessel", "value": "The Hringhorni, about 700 meders across", "refs": ["so13-ship"]},
       {"label": "People aboard", "value": "More than ten thousand", "refs": ["fm19-people"]},
@@ -38,7 +39,7 @@ Orario was heavily involved in establishing the School District.[@so13-meren] It
 
 ## How it works
 
-The school's classes are Familias, each led by a god, and it grants the [[falna|Falna]] to its students and teachers.[@so13-classes, fm19-falna] Ordinary admission is for children aged six to ten, of any origin or race, with no fees; entry depends on an interview with the gods to test the applicant's determination to study.[@so13-admission, fm19-interview] Students graduate when their teachers and gods approve.[@so13-admission] There is no fixed graduation date: a student who has made up their mind may leave the ship as a graduate at any point, and the triennial return to Orario is the busiest time for admissions.[@so13-graduation] Although their Statuses may be strong, students' practice in the Dungeon stops at Floor 15, because they lack adventurers' experience.[@so13-practice]
+The school's classes are Familias, each led by a god, and it grants the [[falna|Falna]] to its students and teachers.[@so13-classes, fm19-falna] Ordinary admission is for children aged six to eighteen, of any origin or race, with no large entrance fee; entry depends on an interview with the gods to test the applicant's determination to study.[@so13-admission, fm19-interview] Students graduate when their teachers and gods approve.[@so13-admission] There is no fixed graduation date: a student who has made up their mind may leave the ship as a graduate at any point, and the triennial return to Orario is the busiest time for admissions.[@so13-graduation] Although their Statuses may be strong, students' practice in the Dungeon stops at Floor 15, because they lack adventurers' experience.[@so13-practice]
 
 ### Classes and squads {#classes}
 
@@ -52,7 +53,7 @@ Classes are divided into squads, each drawn from a single class, whose members r
 - **Alchemy:** "a world-leader in rare metals work, including the manufacture of orichalcum"; the Guild's planned shaft into the Dungeon cannot be built without its orichalcum.[@fm19-alchemy] It made a magic projector with [[altena|Altena]], and its magic items include a magic star hammer and the light flower.[@fm19-projector, so13-items]
 - **Business:** any student in it who earns enough credits and passes the qualification exam can run a shop.[@fm19-business]
 - **Smithing:** at the School District's previous visit, all its students wanted to join [[goibniu-familia|Goibniu Familia]], and every one of them failed the god's test.[@so13-smithing]
-- **Other departments:** DanMachi 19 also names the Education, Crafts and Compounding Departments; a Crafts Department graduation project stands on the ship.[@fm19-crafts, fm19-education, fm19-compounding]
+- **Other departments:** DanMachi 19 also names the Liberal Arts, Crafts and Compounding Departments; a Crafts Department graduation project stands on the ship.[@fm19-crafts, fm19-education, fm19-compounding]
 
 ## Visits to Orario {#visits}
 
@@ -93,7 +94,7 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The Hringhorni.
 [@so13-classes]: SO13 | | Deity-led classes.
 [@so13-balder]: SO13 | | Balder.
-[@so13-admission]: SO13 | | Admission and graduation.
+[@so13-admission]: SO13 | | Admission and graduation. The Japanese edition (file part0021, paragraphs 48 and 49) gives the admission ages as six to eighteen and asks no large entrance fee.
 [@so13-practice]: SO13 | Chapter 3: Class is in Session | Dungeon practice stops at Floor 15.
 [@so13-leon]: SO13 | | Leon, captain of Balder Class.
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | Lefiya's admission.
@@ -109,12 +110,12 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@so13-smithing]: SO13 | Chapter 3: Class is in Session | The Smithing Department and Goibniu's test.
 [@so13-items]: SO13 | Chapter 5: The Mirror’s Voice | The magic star hammer and the light flower, Alchemy Department items.
 [@fm19-crafts]: FM19 | Chapter 2: School Heaven and Hell | "Crafts Department 42nd Term Graduation Project".
-[@fm19-education]: FM19 | Chapter 2: School Heaven and Hell | The Education Department.
+[@fm19-education]: FM19 | Chapter 2: School Heaven and Hell | The liberal-arts department (the Japanese edition, file part0019, paragraph 302).
 [@fm19-talent]: FM19 | Chapter 2: School Heaven and Hell | Hestia Familia stays out of "the fight for talent".
 [@fm19-classes]: FM19 | Chapter 3: School Life in Another World | Ten classes, among them Balder Class, "Idun Class" and Bragi Class.
 [@fm19-routes]: FM19 | Chapter 3: School Life in Another World | Leon on the routes after the school.
 [@fm19-internships]: FM19 | Chapter 3: School Life in Another World | Entry to Orario and internships from the third day; the Dungeon first.
-[@fm19-business]: FM19 | Chapter 3: School Life in Another World | Business Department shops.
+[@fm19-business]: FM19 | Chapter 3: School Life in Another World | Business Department shops. The Japanese edition (file part0021, paragraph 392) says anyone who takes enough credits in the Business Department and passes the qualification exam can run a shop.
 [@fm19-courses]: FM19 | Chapter 3: School Life in Another World | Required courses, electives and credits in Combat Studies.
 [@fm19-deal]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Orichalcum production; "the deal made when it was established".
 [@fm19-alchemy]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The Alchemy Department's orichalcum; the shaft.
@@ -125,3 +126,4 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@fm19-compounding]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): potions from the Compounding Department.
 [@fm20-prefects]: FM20 | Chapter 2: Lion and then Sword Princess | Prefects of Bragi Class and Iðunn Class; the student council.
 [@so13-rescue]: SO13 | Chapter 5: The Mirror’s Voice | "Because of Bardain’s desire to see the eighteenth floor, they had enlisted the 1st and 2nd Squads, challenging the Cave Labyrinth with twelve students."; "at the cost of one of his arms, managing to rescue Alisa and Nassen"; "the heads of the monsters trying to eat Bardain and the other students were suddenly rolling"; "Lefiya saw Bardain groaning as Tiona held his severed arm to the wound".
+[@fm19-school-district-ja]: FM19 | | The Japanese edition calls it by a kanji name meaning school district, short for its official name, which the infobox also gives.

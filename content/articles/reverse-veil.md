@@ -44,7 +44,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 
 > [!NOTE] Does the veil hide scent?
 > - In Astrea Record 2 [[ouranos|Ouranos]] reminds Fels that the veil "only cloaks you from sight and covers your scent", but does not make them undetectable.[@ar02-scent]
-> - In DanMachi 11 Bell sprinkles a stink bag over himself to mask his scent before putting the veil on.[@fm11-bell]
+> - In DanMachi 11 Bell uses a scent pouch to cancel his body odour before putting the veil on.[@fm11-bell]
 > - In DanMachi 16 the escape uses "two magic items", a Reverse Veil and a scent remover.[@fm16-escape]
 > - In DanMachi 18 Bell again uses a separate item to hide his scent from beast people.[@fm18-bell]
 >
@@ -68,7 +68,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 [@ar02-fels]: AR02 | | Fels drops the hood of the Reverse Veil.
 [@ar02-scent]: AR02 | Chapter 4: Those Who Struggle | Ouranos: it cloaks from sight and covers scent.
 [@fm10-fels]: FM10 | Chapter 8: City Panic | Fels invisible under a veil.
-[@fm11-bell]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Stink bag; mantle turned inside out; one of Fels's items; comparison with the helmet.
+[@fm11-bell]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Scent pouch (the Japanese edition, file c3EY, paragraph 59, calls it a pouch that cancels body odour); mantle turned inside out; one of Fels's items; comparison with the helmet.
 [@fm11-aiz]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Aiz senses his footsteps and presence.
 [@fm11-welf]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Welf and Mikoto in the same mantles.
 [@fm11-ambush]: FM11 | Chapter 5: Ultra Soul! | Invisible hands; the Hiens ice daggers.

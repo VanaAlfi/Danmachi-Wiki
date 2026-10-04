@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ファルガー・バトロス}}", "refs": ["ar02-falgar-ja"]},
       {"label": "Race", "value": "[[races#war-tiger|War tiger]]; \"weretiger\" in Minor Myths and Legends 2", "refs": ["ar02-gate", "ss02-bar"]},
       {"label": "Build", "value": "Head and shoulders taller than his peers", "refs": ["ar02-gate"]},
       {"section": "Adventurer"},
@@ -49,7 +50,7 @@ When Asfi, in Astrea Record 2, begs him to take over because she cannot be the c
 | DanMachi 17 | When [[aisha-belka|Aisha]] decides to fight [[freya-familia|Freya Familia]] to help [[hestia-familia|Hestia Familia]], he reminds her that Hermes said not to get involved, then joins her anyway; both are beaten.[@fm17-aisha, fm17-beaten] Later he piles paperwork on Hermes's desk and urges him to deal with it, and Hermes finds that his earlier self had passed one fragment of a message through Falgar.[@fm17-paperwork, fm17-message] He delivers firewood for the Guild with Aisha and [[lulune-louie|Lulune]].[@fm17-firewood] |
 | Sword Oratoria 11 | In the assault on [[knossos|Knossos]] he covers Merrill, the Familia's prum mage, with a large shield against [[barca-perdix|Barca]]'s curse, and holds the shield line that protects [[amid|Amid]] while she casts against the Barca Monster.[@so11-merrill, so11-shields] |
 | Sword Oratoria 12 | Searches [[demeter|Demeter]] Familia's empty home with Lulune and finds the basement where a message is written in blood.[@so12-demeter] |
-| Minor Myths and Legends 2 | Drinks with his Familia at the bar where their comrades who died on Floor 24 had their last drink, and tells [[aiz-wallenstein|Aiz]] to "Go on ahead".[@ss02-bar] |
+| Minor Myths and Legends 2 | Drinks with his Familia at the bar where their comrades who died on Floor 24 had their last drink, and, with Nelly and Merrill, asks [[aiz-wallenstein|Aiz]] to see the sights their dead comrades never saw.[@ss02-bar] |
 
 [@ar01-vice]: AR01 | | "Falgar was much more suited to this!"
 [@ar01-flames]: AR01 | | Asfi and the war tiger Falgar on a gambling house as Orario burns.
@@ -80,4 +81,5 @@ When Asfi, in Astrea Record 2, begs him to take over because she cannot be the c
 [@so11-merrill]: SO11 | Chapter 5: Obsession Manifest | "Merrill!"; the war tiger covers the prum mage with a large shield.
 [@so11-shields]: SO11 | Chapter 6: And Then the God Smiled | The shield line protecting Amid; "Falgar gritted his teeth".
 [@so12-demeter]: SO12 | Chapter 1: The Price of Defeat | Reports from Falgar and Lulune; the basement; the message in blood; "Demeter Familia…!"
-[@ss02-bar]: SS02 | Paths So Far, an Unending Journey | "Falgar the weretiger, Merrill the prum, Nelly the human"; "Go on ahead".
+[@ss02-bar]: SS02 | Paths So Far, an Unending Journey | "Falgar the weretiger, Merrill the prum, Nelly the human". The Japanese edition (file part0074, paragraphs 87 to 93) gives the request to go on forward to Asfi; Falgar, Nelly and Merrill then ask Aiz in turn to see the sights, the unknown, that their comrades never saw, and to tell them of it beyond the sky.
+[@ar02-falgar-ja]: AR02 | | The Japanese edition prints his name in katakana; the infobox gives that printed form.

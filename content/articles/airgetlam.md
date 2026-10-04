@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|銀の腕}}, written *silver arm*", "refs": ["fm18-airgetlam-ja"]},
       {"label": "Type", "value": "Artificial right arm (\"silver arm\")", "refs": ["fm04-arm"]},
       {"label": "Made by", "value": "Dian Cecht Familia, as a custom order", "refs": ["fm04-arm"]},
       {"label": "Wearer", "value": "Nahza, of Miach Familia", "refs": ["fm04-arm"]},
@@ -37,7 +38,7 @@ In DanMachi 4 Nahza tells Bell that she once adventured in the Dungeon until a m
 
 ## Description
 
-The arm is made of a smooth, polished silver metal and looks almost exactly like a human arm, with gems set into its joints; her right hand is made of the same metal. Nahza shows Bell how it bends and straightens.[@fm04-arm] It is a working limb: she holds her longbow steady with it while nocking arrows with her left hand, and it makes mechanical clicking sounds as she moves.[@fm04-bow, fm08-click] What the metal is and how the arm works are not described.
+The arm is made of a smooth, polished silver metal and looks almost exactly like a human arm, with gems set into its joints; her right hand is made of the same metal. Nahza shows Bell how it bends and straightens.[@fm04-arm] It is a working limb: she holds her longbow steady with it while nocking arrows with her left hand, and it creaks as she moves.[@fm04-bow, fm08-click] What the metal is and how the arm works are not described.
 
 ## Why a prosthesis
 
@@ -66,10 +67,11 @@ The elf [[modi-and-magni-familias#luvis-lilix|Luvis]], who loses his right arm o
 [@fm02-nahza]: FM02 | Chapter 4: Divine Wine | Nahza sells Bell a Mind-restoring potion.
 [@fm04-arm]: FM04 | Quest X Quest | Nahza's lost arm; Dian Cecht Familia's custom item; "silver arm"; Miach's loan.
 [@fm04-bow]: FM04 | Quest X Quest | Holds her longbow with the silver arm.
-[@fm08-click]: FM08 | | The airgetlám clicks as she moves.
+[@fm08-click]: FM08 | | The airgetlám creaks as she moves (the Japanese edition, file part0015, paragraph 506).
 [@fm11-wiene]: FM11 | Chapter 5: Ultra Soul! | An elixir cannot restore lost parts.
 [@fm12-luvis]: FM12 | Epilogue: Gale Wind’s News | Luvis plans a Dian Cecht prosthetic.
 [@fm14-bell]: FM14 | Epilogue: You’ll Be Back II | Bell's arm reconstructed only because its parts were kept.
 [@fm18-luvis]: FM18 | Chapter 8: The Great Familia War | Bell assumes Luvis has a silver prosthesis.
 [@fm18-sacrifice]: FM18 | Chapter 9: Flower Language for You | The arm traps Berling's ax; Darbh Daol; the unpaid loans.
 [@fm19-new]: FM19 | Chapter 1: V-V-V for Victory Party | A new airgetlám from the reward; the old loans remain.
+[@fm18-airgetlam-ja]: FM18 | | The Japanese edition writes the name in kanji meaning silver arm, with the reading Airgetlám; the infobox gives the kanji.

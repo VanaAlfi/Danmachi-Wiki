@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ヴェルフ・クロッゾ}}", "refs": ["fm08-welf-ja"]},
       {"label": "Family", "value": "The Crozzos, fallen smith nobility of Rakia", "refs": ["fm08-wil"]},
       {"label": "Occupation", "value": "Smith; a High Smith from DanMachi 6", "refs": ["fm04-smith", "fm06-level2"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "First blessed by Phobos; Hephaistos Familia; [[hestia-familia|Hestia Familia]] from DanMachi 6", "refs": ["fm15-phobos", "fm02-krozzo", "fm06-level2"]},
       {"label": "Level", "value": "2, from DanMachi 6", "refs": ["fm06-level2", "fm15-card"]},
-      {"label": "Title", "value": "Ignis, the Ever Burning", "refs": ["fm12-ignis"]},
+      {"label": "Title", "value": "Ignis, the Ever Burning ({{ja|不冷}}, written *never cooling*)", "refs": ["fm12-ignis", "fm08-welf-ja"]},
       {"label": "Magic", "value": "[[#will-o-the-wisp|Will-o'-the-Wisp]]", "refs": ["fm05-wisp"]},
       {"label": "Skills", "value": "[[skills#blood-of-crozzo|Blood of Crozzo]]; [[skills#veritas-burn|Veritas Burn]]", "refs": ["fm15-blood", "fm15-card"]}
     ]
@@ -30,7 +31,7 @@
 
 ## Name
 
-DanMachi 2 prints his name as *Welf Krozzo*, on Bell's armour; from DanMachi 4 it is *Welf Crozzo*.[@fm02-krozzo, fm04-name] His father's name is printed *Wil Crozzo* in DanMachi 8 and *Vil Crozzo* in DanMachi 15.[@fm08-wil, fm15-phobos]
+DanMachi 2 prints his name as *Welf Krozzo*, on Bell's armour; from DanMachi 4 it is *Welf Crozzo*.[@fm02-krozzo, fm04-name] His father's name is *Vil Crozzo*, the spelling of DanMachi 15, which the Japanese edition supports {{small|printed *Wil Crozzo* in DanMachi 8}}.[@fm15-phobos, fm08-wil, fm08-vil-ja]
 
 ## The Crozzo magic swords
 
@@ -55,7 +56,7 @@ Welf received his first [[falna|Falna]] from the goddess Phobos on his tenth bir
 
 - **[[#will-o-the-wisp|Will-o'-the-Wisp]]**, triggered by the phrase *Blasphemous Burn*, is an anti-magic spell: when an enemy uses magic, it makes the spell blow up in their hands (*Ignis Fatuus*).[@fm05-wisp]
 - **[[skills#blood-of-crozzo|Blood of Crozzo]]** is the family Skill behind his magic swords.[@fm15-blood]
-- **[[skills#veritas-burn|Veritas Burn]]** is a Skill gained in DanMachi 15, giving resistance to flame and stronger fire-element attacks; his card also lists the Development Ability Blacksmith.[@fm15-card]
+- **[[skills#veritas-burn|Veritas Burn]]** is a Skill gained in DanMachi 15, giving high resistance to flame and stronger fire-element attacks; his card also lists the Development Ability Blacksmith.[@fm15-card]
 
 ## Magic {#magic}
 
@@ -116,8 +117,8 @@ On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors
 
 #### Magic or Skill? {#will-o-the-wisp-magic-or-skill}
 
-> [!NOTE] Conflicting labels in the source
-> DanMachi 5 and Welf's DanMachi 15 card class Will-o'-the-Wisp as Magic.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm15-card] One sentence in Sword Oratoria 12 calls it "Welf's rare Skill".[@will-o-the-wisp.so12-skill] This wiki follows the Status card and records the other wording here without explaining it away.
+> [!NOTE] Magic, not a Skill
+> DanMachi 5 and Welf's DanMachi 15 card class Will-o'-the-Wisp as Magic,[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm15-card] and Sword Oratoria 12 calls it Welf's rare magic.[@will-o-the-wisp.so12-skill]
 
 {{nocite}} Notable uses and open questions for Will-o'-the-Wisp are on the combined page: [[magic#will-o-the-wisp|Magic § Will-o'-the-Wisp]].
 
@@ -163,4 +164,6 @@ DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visit
 [@will-o-the-wisp.fm18-allen]: FM18 | Chapter 9: Flower Language for You | Allen and his guards detonated.
 [@will-o-the-wisp.fm19-borrowed]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Bell borrows the chant as a disguise.
 [@will-o-the-wisp.so12-spirit]: SO12 | Chapter 7: Final War II | Demi-spirit's magic circles; "super-short cast"; Welf under Level Boost.
-[@will-o-the-wisp.so12-skill]: SO12 | Chapter 7: Final War II | "Welf's rare Skill".
+[@will-o-the-wisp.so12-skill]: SO12 | Chapter 7: Final War II | The anti-magic fire, a magic killer. The Japanese edition (file c698, paragraphs 742–744) calls it Welf's rare magic.
+[@fm08-welf-ja]: FM08 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning never cooling, with the reading Ignis; the infobox gives the printed name and the kanji.
+[@fm08-vil-ja]: FM08 | | The Japanese edition of DanMachi 8 spells his father's given name as DanMachi 15 does, beginning with Vi.

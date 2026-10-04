@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|アレン・フローメル}}", "refs": ["fm16-allen-ja"]},
       {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["fc02-allen"]},
       {"label": "Sister", "value": "[[anya-fromel|Anya Fromel]], his only blood relation", "refs": ["fm16-allen"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fm16-allen"]},
       {"label": "Position", "value": "Second-in-command", "refs": ["fm16-second"]},
       {"label": "Level", "value": "6", "refs": ["so04-allen", "fc02-allen"]},
-      {"label": "Title", "value": "Vana Freya", "refs": ["fm16-allen"]},
+      {"label": "Title", "value": "Vana Freya ({{ja|女神の戦車}}, written *the goddess's chariot*)", "refs": ["fm16-allen", "fm16-allen-ja"]},
       {"label": "Also called", "value": "The city's fastest", "refs": ["ar03-fastest", "so12-fastest"]},
       {"label": "Weapon", "value": "Silver spear", "refs": ["fc01-fastest"]},
       {"label": "Magic", "value": "[[#glarinese-fromel|Glarinese Fromel]]", "refs": ["fm18-magic"]}
@@ -32,7 +33,7 @@
 
 ## Early life
 
-Allen and Anya lost their parents and then their home, a country destroyed in a single night; Allen carried his crying sister through the ruins, known as the Scrap Heap. Two years later, when he was six, Freya found them, and Allen took her hand.[@fc02-past] In DanMachi 18 he reveals that a dragon destroyed their home.[@fm18-dragon]
+Allen and Anya lost their parents and then their home, a country destroyed in a single night; Allen carried his crying sister through the ruins, known as the Scrap Heap. Two years later, when he was six, Freya found them, and Allen took her hand.[@fc02-past] In DanMachi 18 he reveals that a dragon destroyed their home; the Japanese edition writes it as *black dragon*, the word it uses for the Black Dragon, though he says only *dragon* aloud.[@fm18-dragon]
 
 In Freya Familia he adapted quickly to [[folkvangr|Folkvangr]] and reached Level 2 within a year. When he reached Level 3, Anya reached Level 2.[@fm17-past] After Anya forced her way onto a Deep Levels expedition that nearly killed them both, she was sent away from the Familia.[@fm17-past] DanMachi 18 reveals that Allen himself had asked Freya to take Anya off battlefields she could not survive and give her another family at the tavern, offering to fight for both of them.[@fm18-request]
 
@@ -101,7 +102,7 @@ Glarinese Fromel has to be chanted, and Allen has to slow down to do it. On his 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Which dragon destroyed the Fromels' home, and whether it is the Black Dragon.[@fm18-dragon]
+> - Whether the black dragon that destroyed the Fromels' home is the One-Eyed Black Dragon itself; the Japanese edition uses the same word.[@fm18-dragon]
 > - The name of their home country.[@fc02-past]
 
 [@fc01-fastest]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | A silver-spear cat person called "the fastest".
@@ -118,13 +119,14 @@ Glarinese Fromel has to be chanted, and Allen has to slow down to do it. On his 
 [@fm17-past]: FM17 | Chapter 4: Those Left Behind | Levels; the expedition and Anya's expulsion.
 [@fm17-allen]: FM17 | | Anya as bait; the fight with Bete.
 [@fm18-request]: FM18 | Chapter 9: Flower Language for You | Allen's request to Freya.
-[@fm18-dragon]: FM18 | Chapter 9: Flower Language for You | The dragon that destroyed their home.
+[@fm18-dragon]: FM18 | Chapter 9: Flower Language for You | The dragon that destroyed their home. The Japanese edition (file part0027, paragraphs 1158 to 1160) writes it with the characters for black dragon, read simply as dragon, the word the same volume uses for the Black Dragon of the Three Great Quests.
 [@fm18-magic]: FM18 | Chapter 9: Flower Language for You | Glarinese Fromel.
 [@fm19-tavern]: FM19 | Chapter 1: V-V-V for Victory Party | Allen on the roof.
-[@glarinese-fromel.fm18-chant]: FM18 | Chapter 9: Flower Language for You | The full chant, casting while leaping back; Anya never knew he had magic; the charge.
+[@glarinese-fromel.fm18-chant]: FM18 | Chapter 9: Flower Language for You | The full chant, casting while leaping back; Anya never knew he had magic; the charge. The Japanese edition (file part0027, paragraph 1187) calls it that hideous spell.
 [@glarinese-fromel.fm18-effect]: FM18 | Chapter 9: Flower Language for You | "Allen’s one and only magic": agility, strength relative to speed, no upper limit.
 [@glarinese-fromel.fm18-second]: FM18 | Chapter 9: Flower Language for You | The second cast near the house of the gods; Welf's Ignis Fatuus.
 [@ar03-fastest]: AR03 | | Printed heading "Chapter 1: March and Break" (not in the evidence map): "a catman who had earned himself the title of the city’s fastest".
 [@fm18-fastest]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Eina's documents: "the famed chariot who bested Vanargand to claim the title of fastest in the city".
 [@so12-fastest]: SO12 | Chapter 7: Final War II | "he had another title, Vana Freya—the city’s fastest".
 [@ss02-fastest]: SS02 | Girls×Cross: Four Paths of a Half Year | The "City’s Fastest" ranking: "Usually it goes Vana Freya, Bete, Aiz".
+[@fm16-allen-ja]: FM16 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the goddess's chariot, with the reading Vana Freya; the infobox gives the printed name and the kanji.

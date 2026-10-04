@@ -32,7 +32,7 @@
 
 {{nocite}} The god has his own page: [[ikelos|Ikelos]].
 
-Ikelos is a god with wheat-coloured skin and navy-blue hair.[@fm10-exile] When [[hermes|Hermes]] confronts him in DanMachi 9 with reports that his Familia is part of an Orario smuggling ring, and reminds him that it was once on the list of candidates to join [[evils|the Evils]], Ikelos neither hides nor stops it. "I didn't give those orders. My brats are the ones going wild," he says, and as long as they keep him entertained he will not get in their way.[@fm09-ikelos] Earlier his hunters ask for his cooperation, and he tells Dix to make him laugh this time as well.[@fm09-hunters]
+Ikelos is a god with brown skin and navy-blue hair.[@fm10-exile] When [[hermes|Hermes]] confronts him in DanMachi 9 with reports that his Familia is part of an Orario smuggling ring, and reminds him that it was once named as a suspected member of [[evils|the Evils]], Ikelos neither hides nor stops it. "I didn't give those orders. My brats are the ones going wild," he says, and as long as they keep him entertained he will not get in their way.[@fm09-ikelos] Earlier his hunters ask for his cooperation, and he tells Dix to make him laugh this time as well.[@fm09-hunters]
 
 ## Dix Perdix
 
@@ -40,7 +40,7 @@ Dix Perdix is the goggle-wearing leader of the hunters, with red eyes and a wick
 
 Among his hunters is Gran, a tall, muscular, bald man with a black tattoo over most of his face. In DanMachi 10 he kills Orde with one flash of his greatsword, yet cowers at a single angry word from Dix; later he reports to Dix the monsters that swept through the eighteenth floor and Orario's state of emergency.[@fm10-gran, fm10-gran-news]
 
-- **Level:** [[asfi|Asfi]] says he became a second-tier Level 4 nearly ten years earlier; in the fight with [[bell-cranell|Bell]] he says "I'm Level Five".[@fm10-dix, fm10-level]
+- **Level:** [[asfi|Asfi]] says he was already a second-tier Level 4 ten years earlier; in the fight with [[bell-cranell|Bell]] he says "I'm Level Five".[@fm10-dix, fm10-level]
 - **Title:** [[fels|Fels]] addresses him as "Hazer, Dix Perdix".[@fm10-hazer]
 - **Curse:** his magic, the confusion curse [[magic#phobetor-daedalus|Phobetor Daedalus]], sends everyone it touches into a mindless rampage and lowers his own Status while it lasts.[@fm10-level]
 - **The spear:** custom-made by a mage with a curse built in, so that what it cuts will not heal, even with potions or magic, while the curse lasts. He warns Bell that one bad hit will kill him.[@fm10-spear]
@@ -53,7 +53,7 @@ Among his hunters is Gran, a tall, muscular, bald man with a black tattoo over m
 
 ## Trafficking the Xenos
 
-[[hermes-familia|Hermes Familia]] investigates the smuggling for the Guild and traces the buyers to an estate of Elurian royalty; one of Dix's hunters complains that "those freaks in charge of Eluria" would have paid a fortune for a live Xenos.[@fm09-buyers, fm09-hunters] Fels later explains that the hunters capture Xenos, smuggle them out of the city and sell them to "gourmets".[@fm09-sell]
+[[hermes-familia|Hermes Familia]] investigates the smuggling for the Guild and traces the buyers to an Elurian noble's mansion; when his hunters lose the vouivre on the nineteenth floor, Dix complains that "those freaks in charge of Eluria" would have paid a fortune for it alive.[@fm09-buyers, fm09-hunters] Fels later explains that the hunters capture Xenos, smuggle them out of the city and sell them to collectors.[@fm09-sell]
 
 In DanMachi 10 Bell and [[fels|Fels]] follow the trail through Knossos to Ikelos Familia's base, where rows of black cages hold captured monsters; Lido and the Xenos break them open and free the prisoners.[@fm10-cages, fm10-daedalus] Dix fights Lido, Gros and the other Xenos, and then Bell, with his curse and his spear.[@fm10-hazer, fm10-level] After the battle every captured Xenos has been taken back and, apart from Dix, the whole Familia has been wiped out.[@fm10-wiped]
 
@@ -72,13 +72,13 @@ Loki Familia brings Ikelos before the Guild, where he admits his Familia's black
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many members the Familia had, and whether any survived outside Knossos.[@fm10-wiped]
 
-[@fm09-hunters]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | The hunters report to the goggled Dix; "Those freaks in charge of Eluria would’ve paid a fortune"; Ikelos: "You better make me laugh this time as well, Dix."
-[@fm09-buyers]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's inquiry: an estate belonging to Elurian royalty.
+[@fm09-hunters]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | The hunters report losing the vouivre to the goggled Dix, who answers: "Those freaks in charge of Eluria would’ve paid a fortune"; "The goggled man, Dix, didn’t even bother looking at the four adventurers below him while he spoke."; Ikelos: "You better make me laugh this time as well, Dix."
+[@fm09-buyers]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's inquiry: an Elurian noble's mansion. The Japanese edition (file cXP, paragraph 772) says so.
 [@fm09-ikelos]: FM09 | Chapter 3: The World and Reality and Monsters | Hermes and Ikelos: the smuggling ring; the Evils candidate list; "I didn’t give those orders"; "as long as they keep me entertained".
-[@fm09-sell]: FM09 | Chapter 5: Heretics | The hunters smuggle Xenos out of the city and sell them to gourmets.
+[@fm09-sell]: FM09 | Chapter 5: Heretics | The hunters smuggle Xenos out of the city and sell them to collectors. The Japanese edition (file c5SZ, paragraph 1208) says collectors of curiosities.
 [@fm10-gran]: FM10 | Chapter 7: The King of Atrocity | Gran, the tattooed hunter, kills Orde with his greatsword; Dix's rebuke.
 [@fm10-gran-news]: FM10 | Chapter 8: City Panic | Gran's report to Dix.
-[@fm10-dix]: FM10 | Chapter 6: Before the Storm | "Dix Perdix"; Ikelos Familia's leader; a second-tier Level 4 nearly ten years ago.
+[@fm10-dix]: FM10 | Chapter 6: Before the Storm | "Dix Perdix"; Ikelos Familia's leader; already a second-tier Level 4 ten years ago. The Japanese edition (file cEV, paragraph 160) says already a second-tier Level 4 ten years ago.
 [@fm10-hazer]: FM10 | Chapter 9: Dreams of Beasts | Fels: "Hazer, Dix Perdix…So you’re the mastermind."
 [@fm10-daedalus]: FM10 | Chapter 9: Dreams of Beasts | The descendants; "One thousand years"; the base in Knossos.
 [@fm10-level]: FM10 | Chapter 9: Dreams of Beasts | "I’m Level Five, you know!"; Phobetor Daedalus and its cost.
@@ -87,7 +87,7 @@ Loki Familia brings Ikelos before the Guild, where he admits his Familia's black
 [@fm10-eye]: FM10 | Chapter 9: Dreams of Beasts | The Daedalus Eye; the Daedalus Notebook; the Familia's underground base.
 [@fm10-wiped]: FM10 | Chapter 9: Dreams of Beasts | "Apart from him, Ikelos Familia had been wiped out."
 [@fm10-death]: FM10 | Chapter 9: Dreams of Beasts | The black bull; unable to activate his curse; killed instantly.
-[@fm10-exile]: FM10 | | Ikelos admits the dealings; permanent exile two days after; assets confiscated; the scapegoat; his wheat skin and navy-blue hair.
+[@fm10-exile]: FM10 | | Ikelos admits the dealings; permanent exile two days after; assets confiscated; the scapegoat; his brown skin and navy-blue hair. The Japanese edition (file c9BF, paragraph 71) says brown skin.
 [@so07-barca]: SO07 | Chapter 3: Feast of the Dead | Barca and Dix "share the same mother"; the red spear; Barca the Hexer.
 [@so07-bete]: SO07 | Chapter 4: The Sword’s Wind Calls | Bete defeats the curse by downing its victims; Dix's arms broken; escape through a door.
 [@so11-brothers]: SO11 | Chapter 5: Obsession Manifest | Born of the same womb; the notebook; mutual benefit their one fraternal feeling.

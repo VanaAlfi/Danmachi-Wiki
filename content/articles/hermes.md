@@ -27,7 +27,7 @@
 
 ## Hermes Familia
 
-The Familia works nominally as a delivery service, which lets it pass through checkpoints freely. The [[guild|Guild]] also sends it outside the city to investigate black-market smuggling.[@fm09-delivery]
+The Familia works nominally as a delivery service. The [[guild|Guild]] also sends it outside the city to investigate black-market smuggling, which is one of the reasons it can pass through checkpoints freely.[@fm09-delivery]
 
 ## Bell and Zeus
 
@@ -66,7 +66,7 @@ In Astrea Record 3's epilogue, Hermes tells Bell about the [[great-conflict|Grea
 [@fm07-stone]: FM07 | Chapter 4: Yoshiwara x Utakata | "I delivered an item called a Killing Stone."
 [@fm07-admits]: FM07 | Chapter 6: Yearning of a Hero | Hermes told Ishtar about Bell.
 [@fm07-candidate]: FM07 | | Bell as his candidate for the last hero.
-[@fm09-delivery]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Delivery work and investigations.
+[@fm09-delivery]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Delivery work and investigations: "This was one of the reasons that Hermes Familia, which nominally worked as a delivery service, could pass through various checkpoints at will."
 [@fm09-ikelos]: FM09 | Chapter 3: The World and Reality and Monsters | "Bell, you can go now."; "Ikelos and I need to have a little chat."; "A little bird told me that Ikelos Familia was involved in an Orario smuggling ring."; "an old friend from our days back in the heavenly realm".
 [@fm10-ikelos]: FM10 | Chapter 9: Dreams of Beasts | "I’ve found you—Ikelos."; "You’ve won this round of hide-and-seek, Hermes."; "I think I’ll answer any and all questions as your reward."; "Knossos?"
 [@fm10-fels]: FM10 | Chapter 10: The Fool | "convinced Ikelos to intervene with a one-sided negotiation"; "he had saved Fels by offering up the deity instead".

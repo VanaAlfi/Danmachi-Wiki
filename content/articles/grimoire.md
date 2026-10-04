@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|魔導書}}, written *book of magic*", "refs": ["fm02-grimoire-ja"]},
       {"label": "Type", "value": "Book that forces its reader to learn magic", "refs": ["fm02-hestia"]},
       {"label": "Uses", "value": "One; afterwards it is worthless", "refs": ["fm02-value"]},
       {"label": "Making it", "value": "Needs mastery of Magic Control and Enigma (Hestia)", "refs": ["fm02-hestia"]},
@@ -25,7 +26,7 @@
   }
 }
 ---
-A **grimoire** is a book that forces its reader to learn magic.[@fm02-hestia] It is extremely rare and valuable, and it works only once.[@fm02-value, fm12-gift] Sword Oratoria 2 adds that a well-made grimoire can also increase the number of magic slots in its reader's [[status|Status]].[@so02-slots] [[bell-cranell|Bell Cranell]] learns [[magic#firebolt|Firebolt]] from one, and [[haruhime|Haruhime]] learns [[magic#kokonoe|Kokonoe]] from another.[@fm02-card, fm12-kokonoe]
+A **grimoire** is a book that forces its reader to learn magic.[@fm02-hestia] It is extremely rare and valuable, and it works only once.[@fm02-value, fm12-gift] Sword Oratoria 2 adds that a high-grade grimoire can also, with a certain probability, increase the number of magic slots in its reader's [[status|Status]], the number of spells set for each person as an aptitude.[@so02-slots] [[bell-cranell|Bell Cranell]] learns [[magic#firebolt|Firebolt]] from one, and [[haruhime|Haruhime]] learns [[magic#kokonoe|Kokonoe]] from another.[@fm02-card, fm12-kokonoe]
 
 ## Description
 
@@ -51,7 +52,7 @@ The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spe
 
 ## Other grimoires
 
-- **For sale.** In Sword Oratoria 2 the merchant Lenoa has a grimoire for sale, its price rewritten several times. She says an acquaintance in Altina spared it for her; the narration suggests she is not telling the whole story.[@so02-lenoa]
+- **For sale.** In Sword Oratoria 2 the merchant Lenoa has a grimoire for sale, its price rewritten several times. She says an acquaintance in [[altena|Altena]] {{small|printed *Altina*}} spared it for her; the narration suggests she is not telling the whole story.[@so02-lenoa, so02-altina-ja]
 - **Used copies.** [[loki-familia|Loki Familia]]'s archives have used grimoires on their shelves.[@so03-archive]
 - **A reward.** In Sword Oratoria 3 the black-robed quest giver gives [[lulune-louie|Lulune]] two keys; the vaults they open hold jewels, rings and several unused grimoires, which [[aiz-wallenstein|Aiz]] gives to her Familia.[@so03-vault]
 
@@ -59,7 +60,7 @@ The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spe
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who made Bell's grimoire, and how Freya came to own it.[@fm02-freya, fm17-freya]
-> - What decides which spell a grimoire produces, whether one person can use several, and when it adds a slot rather than only a spell.[@so02-slots, fm12-gift]
+> - What decides which spell a grimoire produces, and whether one person can use several.[@so02-slots, fm12-gift]
 > - Who read the grimoires from the Sword Oratoria 3 vaults.[@so03-vault]
 
 [@fm02-freya]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Freya picks the book and leaves it near the bar.
@@ -72,7 +73,9 @@ The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spe
 [@fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe, the power the grimoire opened her eyes to.
 [@fm15-practice]: FM15 | | Practice with Aisha; Ignis Fatuus.
 [@fm17-freya]: FM17 | Chapter 5: The End of Her World | Freya: the grimoire and amulet were to help him grow and protect him.
-[@so02-slots]: SO02 | Chapter 1: The Average Day | A well-made grimoire can add a slot, up to three.
+[@so02-slots]: SO02 | Chapter 1: The Average Day | A high-grade grimoire can add a slot with a certain probability, up to three (the Japanese edition, file cA7, paragraph 174).
 [@so02-lenoa]: SO02 | Chapter 1: The Average Day | Lenoa's grimoire; an acquaintance in Altina.
 [@so03-archive]: SO03 | Chapter 5: Hell and Hell | Used grimoires in Loki Familia's archives.
 [@so03-vault]: SO03 | Epilogue: Catching the White Rabbit | The black-robed figure's reward; several unused grimoires.
+[@fm02-grimoire-ja]: FM02 | | The Japanese edition writes the name in kanji meaning book of magic, with the reading Grimoire; the infobox gives the kanji.
+[@so02-altina-ja]: SO02 | | The Japanese edition names the country Altena, as the other volumes do.

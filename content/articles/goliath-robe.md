@@ -17,6 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|黒巨人の防衣}}, written *the black giant's protective garment*", "refs": ["fm12-goliath-robe-ja"]},
       {"label": "Type", "value": "Black hooded robe (cloak); armour", "refs": ["fm08-robes"]},
       {"label": "Material", "value": "Goliath's Hide, drop item of the Black [[goliath|Goliath]]", "refs": ["fm05-hide", "fm08-robes"]},
       {"label": "Maker", "value": "[[welf-crozzo|Welf Crozzo]]", "refs": ["fm08-robes"]},
@@ -35,14 +36,14 @@ The Black Goliath, the Irregular floor boss of [[floor-18|Floor 18]] in DanMachi
 
 ## The robes {#robes}
 
-- **Protection:** the Goliath's hide had shrugged off the attacks of hundreds of upper-class adventurers. Welf says "No blade or spell is getting through these", and the narration judges them able to withstand monsters of the middle and lower levels.[@fm08-robes, fm08-warning] Later volumes call the robe "a protective power equal to an iron wall" and "the steel wall of the Goliath Robe".[@fm13-scarf, fm12-seeds]
+- **Protection:** the Goliath's hide had shrugged off the attacks of hundreds of upper-class adventurers. Welf says "No blade or spell is getting through these", and the narration judges that they would stop a one-hit kill even from a surprise attack by monsters of the middle and lower levels.[@fm08-robes, fm08-warning] Later volumes call the robe "a protective power equal to an iron wall" and "the steel wall of the Goliath Robe".[@fm13-scarf, fm12-seeds]
 - **Limits:** they are heavy; Haruhime staggers under hers, while Lilly has her Skill Artel Assist to help carry the load. Welf warns that, like armour, they do not soften the impact, so a Level 1 could die in a robe that is still perfect.[@fm08-warning]
 - **Not for Bell:** Lilly asks why Bell, on the front line, does not get one. Welf refuses: "Giving him a drop item to wear into battle just won’t cut it", since as Bell's smith he must forge all Bell's equipment himself.[@fm08-pride]
 
 | Volume | Uses |
 |---|---|
 | DanMachi 8 | During the Goliath fight, Lilly throws her robe over [[mikoto|Mikoto]], boosted by Haruhime's Level Boost, so that she can attack with her identity hidden.[@fm08-mikoto] |
-| DanMachi 9 | Lilly makes Welf take her robe when he and Bell go ahead as a pair.[@fm09-welf] Later, taking [[wiene|Wiene]] down into the Dungeon, Lilly and Haruhime wear their robes. The robes deflect a hail of missiles but not the impacts, and are left behind with the packs before the party swims.[@fm09-gear, fm09-missiles, fm09-swim] |
+| DanMachi 9 | Lilly makes Welf take her robe when he and Bell go ahead as a pair.[@fm09-welf] Later, taking [[wiene|Wiene]] down into the Dungeon, Lilly and Haruhime wear their robes. The robes repel every ordinary attack, a hail of missiles included, and are left behind with the packs before the party swims.[@fm09-gear, fm09-missiles, fm09-swim] |
 | DanMachi 12 | Lilly and Haruhime lie flat under the robe while seeds rain down on the party.[@fm12-seeds] Lilly later spreads it over a hole to cover their retreat into it.[@fm12-hole] |
 | DanMachi 14 | Haruhime throws the robe over herself before blue napalm swallows her, and survives. Carrying her out, [[aisha-belka|Aisha]] burns both arms on the heat the robe has absorbed.[@fm14-napalm, fm14-aisha] |
 | DanMachi 19 | Haruhime is still fighting in her Goliath Robe.[@fm19-haruhime] |
@@ -61,13 +62,13 @@ On the expedition of DanMachi 13, Welf secretly cuts a piece from Lilly's robe w
 [@fm05-hide]: FM05 | Chapter 6: Praise to the Heroes | "revealing a drop item—Goliath’s Hide".
 [@fm06-fine]: FM06 | | "The item drop left over after the battle with the floor boss, Goliath’s Hide, was practically forced onto me"; "worth enough to cover the penalty".
 [@fm08-robes]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "a black hooded robe"; "Made it from the drop item we got from that Goliath."; "the Black Goliath"; "Welf used half of it"; "the wreckage of Bell and Hestia’s old room under the church".
-[@fm08-warning]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "No blade or spell is getting through these."; "Artel Assist"; "this does nothing to soften the blow".
+[@fm08-warning]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "No blade or spell is getting through these."; "Artel Assist"; "this does nothing to soften the blow". The Japanese edition (file part0021, paragraph 107) says they prevent a one-hit kill even in a surprise attack by monsters of the middle or lower levels.
 [@fm08-pride]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Shouldn’t Bell be wearing a Goliath robe"; "Giving him a drop item to wear into battle just won’t cut it."
 [@fm08-mikoto]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Lilly was quick to remove her own black cloak—the Goliath robe"; "Mikoto could feel all the eyes on her from beneath the Goliath robe".
 [@fm09-welf]: FM09 | Chapter 3: The World and Reality and Monsters | "He’s wearing Lilly’s Goliath Robe over his usual workman’s jacket."; "Lilly insisted Welf take it with him".
 [@fm09-church]: FM09 | Chapter 3: The World and Reality and Monsters | "the money and drop items, like Goliath’s Hide, that were still in here".
 [@fm09-gear]: FM09 | Chapter 4: Mission | "Lilly and Haruhime were equipped with Goliath Robes."; "Wiene donned salamander wool as well".
-[@fm09-missiles]: FM09 | Chapter 5: Heretics | "Lilly’s and Haruhime’s Goliath Robes deflected every one of the missiles but did little to protect them from the impacts."
+[@fm09-missiles]: FM09 | Chapter 5: Heretics | "Lilly’s and Haruhime’s Goliath Robes deflected every one of the missiles". The Japanese edition (file c4T8, paragraph 169) says the robes repel every ordinary attack.
 [@fm09-swim]: FM09 | Chapter 5: Heretics | "Lilly and Haruhime removed their Goliath Robes and backpacks".
 [@fm12-seeds]: FM12 | Chapter 3: New World ~Water Island~ | "both of them covered by the Goliath Robe"; "the steel wall of the Goliath Robe".
 [@fm12-hole]: FM12 | Chapter 6: The Hero’s Sacred Flame | "Miss Aisha, run!"; "spread it over the top of the hole".
@@ -87,3 +88,4 @@ On the expedition of DanMachi 13, Welf secretly cuts a piece from Lilly's robe w
 [@fm19-haruhime]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "where Ms. Haruhime ducked in her Goliath Robe".
 [@fm19-bell]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "I’m wearing battle clothes, my Goliath Scarf, and the new armor Welf forged for me."
 [@fm20-bell]: FM20 | Chapter 1: Orario Rumble | "I undo the Goliath Scarf around my neck."
+[@fm12-goliath-robe-ja]: FM12 | | The Japanese edition writes the name in kanji meaning the black giant's protective garment, with the reading Goliath Robe; the infobox gives the kanji.

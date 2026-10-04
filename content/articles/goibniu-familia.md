@@ -29,7 +29,7 @@
 ## Home and members {#home}
 
 - **The Three Hammers Forge:** the Familia's home and workshop stands in a narrow, quiet district between North Main and Northwest Main Streets; its emblem of three hammers is carved on the door.[@so01-workshop, so02-forge] Astrea Record 1 places Goibniu's home in the northwest of the city.[@ar01-hephaistos]
-- **Members:** its smiths pride themselves on simplicity and fortitude and work almost entirely on custom orders; its High Smiths made Desperate, and its architects renovated Hestia Familia's manor. Its blacksmiths and craftsmen "have quite a following", and "several upper-class adventurers" prefer their work above all.[@so01-workshop, so01-desperate, fm07-unique] In Astrea Record 3 its captain is a forgemaster.[@ar03-captain]
+- **Members:** its smiths pride themselves on simplicity and fortitude and work almost entirely on custom orders; its High Smiths made Desperate, and its architects renovated Hestia Familia's manor. Its blacksmiths and craftsmen "have quite a following", and several top-ranking Dungeon-exploring Familias seek its plain, sturdy arms.[@so01-workshop, so01-desperate, fm07-unique] In Astrea Record 3 its captain is a forgemaster.[@ar03-captain]
 - **Joining:** smithing students of the [[school-district|School District]] who intern with the Familia keep failing ("We were interning with Goibniu Familia and failed again!"); on Goibniu's own test, see [[goibniu|Goibniu]].[@fm19-interns]
 
 ## Work {#work}
@@ -52,7 +52,7 @@
 | Sword Oratoria 12 | When monsters reach the surface, its smiths bring weapons to the adventurers on the front lines, and Bors's group seizes "top-tier gear made by Goibniu Familia".[@so12-smiths] |
 | DanMachi 19 | Knossos's [[metals#orichalcum|orichalcum]] doors are to be stripped down "with the help of Goibniu Familia" and reused for the Shaft plan.[@fm19-shaft] |
 
-[@fm07-unique]: FM07 | Chapter 1: Smooth Sailing? | "the architects responsible for the renovation—members of the Goibniu Familia"; "His familia is quite unique in Orario, taking construction jobs upon request. Of course, the blacksmiths and craftsmen in Goibniu Familia are well known and have quite a following. Though not as popular as Hephaistos Familia, I know that there are several upper-class adventurers who prefer their work above all."
+[@fm07-unique]: FM07 | Chapter 1: Smooth Sailing? | "the architects responsible for the renovation—members of the Goibniu Familia"; "His familia is quite unique in Orario, taking construction jobs upon request. Of course, the blacksmiths and craftsmen in Goibniu Familia are well known and have quite a following." The Japanese edition (file cET, paragraph 40) says several top-ranking Dungeon-exploring Familias seek its plain, sturdy arms.
 [@fm07-renovation]: FM07 | Chapter 1: Smooth Sailing? | The renovation by Goibniu Familia; "a deity of smithing and architecture"; construction jobs; Lilly's wrist bow gun designed for prums; four days; "a rather stout body, not much different from a dwarf’s".
 [@fm07-fast]: FM07 | Chapter 1: Smooth Sailing? | "Well, that’s Goibniu Familia for you—fast and efficient."
 [@fm08-mikoto]: FM08 | | Takemikazuchi's black and white short swords for Mikoto; "Goibniu Familia’s signature was carved into each".
@@ -65,7 +65,7 @@
 [@so09-sword-air]: SO09 | Recollections Chapter 2: Are You a Sword? | The workshop beneath three overlapping hammers; quality equal to Hephaistos Familia's; "The sword’s name is…Sword Air."
 [@so09-equal]: SO09 | Recollections Chapter 2: Are You a Sword? | "Goibniu Familia. They were slightly less well known, but they were a solid smithing familia whose quality neither surpassed nor fell behind Hephaistos Familia’s."
 [@so09-damascus]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | "The custom sword that Goibniu Familia had made for her"; Damascus.
-[@so12-smiths]: SO12 | Chapter 7: Final War II | "Judging it the right thing to do, the smiths of Goibniu Familia"; "were calling out to the adventurers, bringing weapons to those who were on the front lines."; "top-tier gear made by Goibniu Familia".
+[@so12-smiths]: SO12 | Chapter 7: Final War II | "were calling out to the adventurers, bringing weapons to those who were on the front lines."; "top-tier gear made by Goibniu Familia". The Japanese edition (file c698, paragraph 57) describes the smiths as holding plain sturdiness to be right.
 [@ss01-finn]: SS01 | | The Fortia Spear restored; the prum girl's crossbow order; Finn's leftover material.
 [@fc02-ottar]: FC02 | The Origin of the Strongest | The custom sword from Goibniu Familia; Udaeus Black Sword.
 [@ar01-hephaistos]: AR01 | Chapter 9: The Opening Act of Evil | "Now, what about you, Goibniu?"; his home in the northwest of town.

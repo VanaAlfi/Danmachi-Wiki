@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Building"},
+      {"label": "Japanese", "value": "{{ja|竈火の館}}, written *manor of the hearth fire*", "refs": ["fm08-hearthstone-ja"]},
       {"label": "Type", "value": "Three-storey manor with gardens", "refs": ["fm06-manor"]},
       {"label": "Former owner", "value": "[[apollo|Apollo]]", "refs": ["fm06-manor"]},
       {"label": "Owner", "value": "[[hestia-familia|Hestia Familia]], from DanMachi 6", "refs": ["fm06-manor"]},
@@ -44,3 +45,4 @@ Familia Chronicle 3 compares it with [[astrea|Astrea]]'s house near [[zolingam|Z
 [@fm20-nina]: FM20 | Chapter 1: Orario Rumble | Nina's internship.
 [@fm20-syr]: FM20 | Chapter 1: Orario Rumble | Syr's visits.
 [@fc03-home]: FC03 | The Locus of Stars | Compared with Astrea's house.
+[@fm08-hearthstone-ja]: FM08 | | The Japanese edition writes the manor's name in kanji meaning manor of the hearth fire; the infobox gives that written form.

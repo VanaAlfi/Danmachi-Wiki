@@ -14,13 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ミア・グランド}}", "refs": ["fm18-mia-ja"]},
       {"label": "Race", "value": "[[races#dwarf|Dwarf]]", "refs": ["fm18-mia"]},
       {"label": "Occupation", "value": "Owner of [[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fc01-owner"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]; half-retired, still bearing Freya's blessing", "refs": ["fm18-mia"]},
       {"label": "Position", "value": "Former captain, before [[ottar|Ottar]]", "refs": ["fm18-mia"]},
       {"label": "Level", "value": "6", "refs": ["fm18-mia"]},
-      {"label": "Title", "value": "Demi Ymir", "refs": ["fm18-mia"]}
+      {"label": "Title", "value": "Demi Ymir ({{ja|小巨人}}, written *small giant*)", "refs": ["fm18-mia", "fm18-mia-ja"]}
     ]
   }
 }
@@ -29,15 +30,15 @@
 
 ## Character {#character}
 
-Mia's frame, "Despite being a dwarf", is "absolutely imposing".[@fm02-mia] She runs her tavern with a heavy hand. In DanMachi 4, when adventurers start a fight, she smashes the counter into a V with her fist: "If you wanna brawl, take it outside. This place is for eatin’ and drinkin’." Their leader is sent off with his fallen friends, but only after paying, dropping "all his money onto the floor" in fear.[@fm04-brawl] Her waitresses dread her scoldings, and [[lyu-leon|Lyu]] calls her "Mother Mia".[@fm15-scold, fm06-mother] She has no patience for gods' errands: "I’m not a messenger for fool gods," she tells [[hermes|Hermes]] when he asks her to carry word to Freya.[@fm05-hermes]
+Mia's frame, "Despite being a dwarf", is "absolutely imposing".[@fm02-mia] She runs her tavern with a heavy hand. In DanMachi 4, when adventurers start a fight, she smashes the counter into a V with her fist: "If you wanna brawl, take it outside. This place is for eatin’ and drinkin’." Their leader is sent off with his fallen friends, but only after paying, dropping "all his money onto the floor" in fear.[@fm04-brawl] Her waitresses dread her scoldings, and [[lyu-leon|Lyu]] calls her "Mother Mia".[@fm15-scold, fm06-mother] She has no patience for gods' errands: she will not be ordered about by fool gods, she tells [[hermes|Hermes]] when he asks her to get him an appointment with Freya.[@fm05-hermes]
 
-She is gruff but kind. She hires "all types of girls with questionable backgrounds and welcomes them with open arms".[@fm01-mia] She tells [[bell-cranell|Bell]] "Real men don’t brood over nothin’!" over the grimoire he read, and suggests his first ale at his Level-up party.[@fm02-mia, fm04-ale] Her cooking is what people miss: trapped in the deep levels in DanMachi 14, Lyu tells Bell she wants "to eat a warm meal made by Mama Mia".[@fm14-meal] Praise from her is rare; even [[mikoto|Mikoto]]'s housework earns only a grudging "Heh, so there is someone who can do real work after all, huh?"[@fm16-mikoto]
+She is gruff but kind. She hires "all types of girls with questionable backgrounds and welcomes them with open arms".[@fm01-mia] She tells [[bell-cranell|Bell]] "Real men don’t brood over nothin’!" over the grimoire he read, and suggests his first ale at his Level-up party.[@fm02-mia, fm04-ale] Her cooking is what people miss: trapped in the deep levels in DanMachi 14, Lyu tells Bell she wants "to eat a warm meal made by Mama Mia".[@fm14-meal] Praise from her is rare, but [[mikoto|Mikoto]]'s housework impresses even her: "Heh, so there is someone who can do real work after all, huh?"[@fm16-mikoto]
 
 ## Freya Familia
 
 Mia met Freya long ago, when she was a young dwarf and found the goddess crying in a field of flowers.[@fm18-mia]
 
-Mia was born in a mining town that was already running down by the time she could walk, its mines almost exhausted. With the men working in the mines, she ran a tavern on her own, "really not much more than a simple kitchen", so the frail girls left behind in the village had something to eat, and she was in the flower field gathering ingredients for it. She tells Freya she wants food that fills a stomach more than any jewels.[@fm18-meeting]
+Mia lived in a coal-mining town that was run-down when Freya came there, its mines almost dead. With the men working in the mines, she ran a tavern on her own, "really not much more than a simple kitchen", so that the emaciated women and children left behind had something to eat, and she was in the flower field gathering ingredients for it. She tells Freya she wants food that fills a stomach more than any jewels.[@fm18-meeting]
 
 When Freya, caught crying, prepares to charm her into forgetting, Mia's body jerks and stumbles forward, and then she knocks the goddess down with an uppercut and warns her not to use "weird magic" on her. The narration allows that Freya may have been a little slow to charm her, but says Mia resisted "simply because she was strong". Mia adds that she has never worshipped any god.[@fm18-meeting]
 
@@ -51,7 +52,7 @@ Mia swore to Freya that if the goddess ever met her *Odr*, she would not stand i
 
 ## The Benevolent Mistress
 
-DanMachi 1 says that she founded the tavern after she "got permission from the god of her Familia to retire from dungeon crawling and open up shop".[@fm01-mia] Sword Oratoria 9's recollections show the tavern newly built in the dark times, with Mia meaning it as a refuge of food and laughter; there she stops the young, drunken [[aiz-wallenstein|Aiz Wallenstein]]'s rampage with a sword.[@so09-founding, so09-aiz]
+DanMachi 1 says that she is half-withdrawn from her Familia, with her god's permission, and runs the tavern she founded.[@fm01-mia] Sword Oratoria 9's recollections show the tavern newly built in the dark times, with Mia meaning it as a refuge of food and laughter; there she stops the young, drunken [[aiz-wallenstein|Aiz Wallenstein]]'s rampage with a sword.[@so09-founding, so09-aiz]
 
 Before DanMachi 1, Mia takes in [[lyu-leon|Lyu]] after Syr finds her, and in Familia Chronicle 1 she ends a fight between four of her waitresses and puts [[chloe|Chloe]] and [[runoa|Runoa]] to work.[@fc01-lyu, fc01-recruit] Chloe and Runoa are ordered to work off 100 million valis in damage to her property.[@fc01-bill] [[anya-fromel|Anya]], Chloe and Runoa all owe Mia money and are paid very little.[@fm16-pay]
 
@@ -85,14 +86,15 @@ After the war Mia is among those who welcome Syr back to the tavern.[@fm18-syr] 
 [@fm04-ale]: FM04 | Chapter 2: Changing Environment, New Relationships | "Mia suggests that I try ale for the first time".
 [@fm06-mother]: FM06 | Chapter 4: Those Who Gather | Lyu: "Mother Mia will scold me again."
 [@fm15-scold]: FM15 | Interlude: Elven Unrest | "enduring Mia’s terrible scoldings".
-[@fm05-hermes]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): "I’m not a messenger for fool gods."
-[@fm01-mia]: FM01 | Chapter 2: That’s Why I Run | "She got permission from the god of her Familia to retire from dungeon crawling and open up shop."; "Mia employs all types of girls with questionable backgrounds and welcomes them with open arms."
+[@fm05-hermes]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): Mia refuses Hermes. The Japanese edition (file part0011, paragraphs 242 and 248) has her refuse to be ordered about by fool gods when he asks her to get him an appointment with Freya.
+[@fm01-mia]: FM01 | Chapter 2: That’s Why I Run | "Mia employs all types of girls with questionable backgrounds and welcomes them with open arms." The Japanese edition (file cYT, paragraph 401) says she is half-withdrawn from her Familia, with her god's permission.
 [@fm14-meal]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "…I want to eat a warm meal made by Mama Mia."
-[@fm16-mikoto]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Heh, so there is someone who can do real work after all, huh?"
+[@fm16-mikoto]: FM16 | | Printed heading "Chapter 3: Harvest Festival" (not in the evidence map): "Heh, so there is someone who can do real work after all, huh?" The Japanese edition (file part0025, paragraph 184) says even Mia was impressed.
 [@fm17-memory]: FM17 | Chapter 4: Those Left Behind | Mia and Anya remember Syr.
 [@fm17-bell]: FM17 | | Mia encourages Bell.
 [@fm18-mia]: FM18 | Chapter 9: Flower Language for You | Loki's request; Mia's history and her promise.
-[@fm18-meeting]: FM18 | Monologue VI | Freya's recollection: the mining town, Mia's kitchen, the uppercut.
+[@fm18-meeting]: FM18 | Monologue VI | Freya's recollection: the mining town, Mia's kitchen, the uppercut. The Japanese edition (file part0019, paragraphs 56 and 57) has the coal-mining town in a dreadful state when Freya went there, and Mia feeding emaciated women and children.
 [@fm18-ottar]: FM18 | Chapter 9: Flower Language for You | Mia enters the War Game against Ottar.
 [@fm18-syr]: FM18 | Epilogue: Double Cast | Syr welcomed back.
 [@fm19-tavern]: FM19 | Chapter 1: V-V-V for Victory Party | Former Freya Familia members at work.
+[@fm18-mia-ja]: FM18 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning small giant, with the reading Demi Ymir; the infobox gives the printed name and the kanji.

@@ -14,11 +14,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|リュー・リオン}}", "refs": ["ar01-lyu-ja"]},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["fm15-origins"]},
       {"label": "Home", "value": "Lumirua Forest", "refs": ["fm15-origins"]},
       {"label": "Workplace", "value": "[[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm01-lyu"]},
       {"section": "Adventurer"},
-      {"label": "Title", "value": "Gale Wind", "refs": ["fm05-past"]},
+      {"label": "Title", "value": "Gale Wind ({{ja|疾風}})", "refs": ["fm05-past", "fm14-gale-wind-ja"]},
       {"label": "Familia", "value": "Astrea Familia; [[hestia-familia|Hestia Familia]] from DanMachi 19", "refs": ["fm15-origins", "fm19-lyu"]},
       {"label": "Level", "value": "4 in DanMachi 5; 6 from DanMachi 18", "refs": ["fm05-past", "fm18-double"]},
       {"label": "Registered name", "value": "Lyu Astrea (see [[#name|Name]])", "refs": ["fm19-lyu"]},
@@ -53,7 +54,7 @@ In DanMachi 5 she goes down to [[floor-18|Floor 18]] with [[hermes|Hermes]]'s re
 
 ### DanMachi 13–15
 
-In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder in Rivira, and the Juggernaut that destroyed Astrea Familia returns.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15 she tries to confess her feelings to Bell but does not finish.[@fm15-confess]
+In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder in Rivira, and the Juggernaut that destroyed Astrea Familia returns.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15, flustered around Bell, she cannot meet his eyes; she assures him that she does not hate him, says she simply cannot stand to look at his face, and apologises.[@fm15-confess]
 
 ### DanMachi 16–18
 
@@ -123,7 +124,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 | Volume | What is printed |
 |---|---|
 | DanMachi 13 | Three short fragments, heard by Bell while he chases Lyu, then the release. Their wording fits neither version; for example, the opening is "Now, far away—in the infinite heavens—".[@luminous-wind.fm13-jura] |
-| DanMachi 17, DanMachi 20, Familia Chronicle 3 | Only the final line of Version B joined to the spell name. In DanMachi 17 the narration says she finishes a cast "she had been murmuring softly"; in DanMachi 20 a party member asks whether she was Concurrent Casting; the English does not name the speaker, and the Japanese address to Lyu shows it is not Bell but most likely the commander, Lilly.[@luminous-wind.fm17-escape, luminous-wind.fm20-cast, luminous-wind.fc03-uranda] |
+| DanMachi 17, DanMachi 20, Familia Chronicle 3 | Only the final line of Version B joined to the spell name. In DanMachi 17 she finishes a cast "she had been murmuring softly" while fighting, which the narration calls Concurrent Casting; in DanMachi 20 a party member asks whether she was Concurrent Casting; the English does not name the speaker, and the Japanese address to Lyu shows it is not Bell but most likely the commander, Lilly.[@luminous-wind.fm17-escape, luminous-wind.fm20-cast, luminous-wind.fc03-uranda] |
 
 {{nocite}} These are partial prints, not a shorter version of the spell: in each case the text shows or implies that the rest of the chant was recited off-page.
 
@@ -142,11 +143,11 @@ Magic usually needs the caster to stand still and concentrate, and a slip can ca
 
 ### Noa Heal {#noa-heal}
 
-**Noa Heal** is the healing spell of Lyu Leon. It heals wounds and other damage and restores stamina, but slowly: unlike a potion it does not work at once.[@noa-heal.fm13-neck, noa-heal.fm18-slow] DanMachi 18 says it affects one person at a time; Lyu's Astrea Record 1 Status sheet says it affects all targets in an area.[@noa-heal.fm18-single, noa-heal.ar01-sheet]
+**Noa Heal** is the healing spell of Lyu Leon. It heals wounds and other damage and restores stamina, but slowly: unlike a potion it does not work at once.[@noa-heal.fm13-neck, noa-heal.fm18-slow] DanMachi 18 says it affects one person at a time; Lyu's Astrea Record 1 Status sheet gives it a terrain effect, raising its potency in forest areas.[@noa-heal.fm18-single, noa-heal.ar01-sheet]
 
 - **User:** Lyu Leon[@noa-heal.so05-heal, noa-heal.fc03-card]
 - **Status entry:** Healing magic; boosted in wooded environments[@noa-heal.fc03-card]
-- **Target:** One person (DanMachi 18); all targets in an area (Astrea Record 1 sheet)[@noa-heal.fm18-single, noa-heal.ar01-sheet]
+- **Target:** One person at a time (DanMachi 18)[@noa-heal.fm18-single]
 - **Printed as:** Noah Heal (Sword Oratoria 5); Noa Heal (DanMachi 13 onward, Familia Chronicle 3)[@noa-heal.so05-heal, noa-heal.fm13-neck, noa-heal.fc03-card]
 
 #### Name {#noa-heal-name}
@@ -157,7 +158,7 @@ Sword Oratoria 5, the first volume to show it, prints *Noah Heal*. DanMachi 13 o
 
 Lyu's Level 5 and Level 6 cards list Noa Heal under Magic as healing magic with an environmental effect: its effect is boosted in wooded environments.[@noa-heal.fc03-card]
 
-Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it a recovery spell that affects all targets in an area, its power increased in forested areas; the DanMachi 13 sheet (Level 4) calls it healing magic affected by the surrounding environment, its effects boosted in forested areas.[@noa-heal.ar01-sheet, noa-heal.fm13-sheet] The area wording conflicts with DanMachi 18, where it affects one person at a time; this wiki records both.[@noa-heal.ar01-sheet, noa-heal.fm18-single]
+Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it recovery magic with a terrain effect, its potency raised in forest areas; the DanMachi 13 sheet (Level 4) calls it healing magic affected by the surrounding environment, its effects boosted in forested areas.[@noa-heal.ar01-sheet, noa-heal.fm13-sheet]
 
 #### Incantation {#noa-heal-incantation}
 
@@ -198,7 +199,7 @@ Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it
 
 {{nocite}} It shares its name with the *Astrea Record* novels; this section is about the spell.
 
-- DanMachi 19 calls it "her new Astrea Record skill", but her Status card lists it under Magic, and this wiki follows the card.[@astrea-record-spell.fm19-eina, astrea-record-spell.fc03-card]
+- DanMachi 19 calls it her newly manifested inheritance magic; her Status card lists it under Magic.[@astrea-record-spell.fm19-eina, astrea-record-spell.fc03-card]
 
 - **User:** Lyu Leon, her third magic[@astrea-record-spell.fc03-card]
 - **Status entry:** Inherited justice[@astrea-record-spell.fc03-card]
@@ -281,7 +282,7 @@ The next line printed is "Alvarna!", with no speaker named. {{inference}} It may
 #### Effect {#agris-arvensis-effect}
 
 - **Armour of flame:** the flames cover the arms, legs and weapon.[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu] In DanMachi 20 [[bell-cranell|Bell]] contrasts it with Aiz's wind, which covers her whole body, while the flame armour covers only hands, feet and weapon.[@agris-arvensis.fm20-bell]
-- **Speed:** gathered in the boots, the flames give explosive acceleration.[@agris-arvensis.fm14-alize] In DanMachi 18 Lyu uses the flame on her feet as "a lubricant and an accelerant", reproducing "Scarlet Harnell’s famed explosive acceleration".[@agris-arvensis.fm18-lyu]
+- **Speed:** gathered in the boots, the flames give explosive acceleration.[@agris-arvensis.fm14-alize] In DanMachi 18 Lyu uses the flame on her feet as a propellant and an igniter, reproducing "Scarlet Harnell’s famed explosive acceleration".[@agris-arvensis.fm18-lyu]
 - **The spell key:** it sets the flame off. Alize drives her sword into the [[juggernaut|Juggernaut]] and sends the flame under its shell, cracking the armour from inside.[@agris-arvensis.fm14-alize] Lyu uses the key for a point-blank explosion.[@agris-arvensis.fm18-hegni]
 
 #### Limits {#agris-arvensis-limits}
@@ -305,7 +306,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@fm14-floor37]: FM14 | | Four days on Floor 37; the rescue.
 [@fm14-dead]: FM14 | Epilogue: You’ll Be Back II | Bors's story; the Guild records her death.
 [@fm15-origins]: FM15 | Chapter 6: Meetings and Oaths | Lumirua Forest; Alize; Lyu Leon.
-[@fm15-confess]: FM15 | Interlude: Elven Unrest | The unfinished confession.
+[@fm15-confess]: FM15 | Interlude: Elven Unrest | "I…don’t hate you at all. The problem isn’t anything you did."; "It’s just that I can’t stand to look at your face."; "…I’m sorry, Bell."
 [@fm16-hegni]: FM16 | Chapter 6: The Wish’s Cost | Defeated by Hegni.
 [@fm17-lyu]: FM17 | | Escape, capture and release.
 [@fm18-double]: FM18 | Chapter 9: Flower Language for You | The consecutive Level-up.
@@ -336,7 +337,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@luminous-wind.fm14-bridge]: FM14 | Chapter 12: Forlorn Hope in the Dungeon | Version B on the bridge.
 [@luminous-wind.fm14-flashback]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Version B in the flashback.
 [@luminous-wind.fm14-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Version B in seven pieces before the final blow; forty-seven orbs.
-[@luminous-wind.fm17-escape]: FM17 | Chapter 5: The End of Her World | Final line only; "murmuring softly".
+[@luminous-wind.fm17-escape]: FM17 | Chapter 5: The End of Her World | Final line only; "murmuring softly". The Japanese edition (file part0023_split_001, paragraphs 126–128) names the technique Concurrent Casting.
 [@luminous-wind.fm20-cast]: FM20 | Chapter 1: Orario Rumble | Final line only; "Were you concurrent casting?!" (speaker unnamed in the English; the Japanese uses an address Bell never uses for Lyu).
 [@luminous-wind.fc03-card]: FC03 | The Locus of Stars | Level 5 and 6 cards; Magic Control strengthens it.
 [@luminous-wind.fc03-uranda]: FC03 | The Locus of Stars | Final line only; one orb at her feet.
@@ -357,21 +358,23 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@astrea-record-spell.fm18-gokou]: FM18 | Chapter 9: Flower Language for You | "Gokou!"; Kaguya's magic slashes against Ottar.
 [@astrea-record-spell.fm18-maryu]: FM18 | Chapter 9: Flower Language for You | "Justice returns! —Rea Vindemia."; Maryu's area healing.
 [@astrea-record-spell.ar03-maryu]: AR03 | Chapter 4: Apocalypse Cometh | Maryu casts Rea Vindemia.
-[@astrea-record-spell.fm19-eina]: FM19 | Chapter 1: V-V-V for Victory Party | "Her new Astrea Record skill"; a healer's area-healing spell.
+[@astrea-record-spell.fm19-eina]: FM19 | Chapter 1: V-V-V for Victory Party | Her new Astrea Record; a healer's area-healing spell. The Japanese edition (file part0017, paragraph 79) calls it newly manifested inheritance magic.
 [@agris-arvensis.ar03-alize]: AR03 | Chapter 4: Apocalypse Cometh | "Agallis Arvesynce!"; arm, legs and sword aflame; "Scarlett Harnell".
 [@agris-arvensis.fm14-alize]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Alize: "Agris Arvensis!"; "Scarlett Harnell"; fire enchantment; flames in her boots; "Arvellia!!", "the spell key for her enchantment".
 [@agris-arvensis.fc03-lyu]: FC03 | The Locus of Stars | "Agris Arvensis!"; flames on Lyu's arms, legs and wooden sword.
-[@agris-arvensis.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | "Agris Arvensis!"; "Scarlet Harnell’s—Alize Lovell’s magic!!!"; explosive acceleration.
+[@agris-arvensis.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | "Agris Arvensis!"; "Scarlet Harnell’s—Alize Lovell’s magic!!!"; explosive acceleration. The Japanese edition (file part0025, paragraph 750) calls the flame a propellant and an igniter.
 [@agris-arvensis.fm18-hegni]: FM18 | Chapter 9: Flower Language for You | Lyu's control less precise than Alize's; "Alveria!" defeats Hegni.
 [@agris-arvensis.fm18-ottar]: FM18 | Chapter 9: Flower Language for You | "Agaris Alvesince!" against Ottar; "Alize’s Alveria".
 [@agris-arvensis.fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | Flame armour on hands, feet and weapon.
 [@luminous-wind.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Luminous Wind, wide-range attack spell, wind and light element.
 [@luminous-wind.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Luminous Wind, wide-range attack magic, wind and light attributes.
 [@luminous-wind.fc01-sheet]: FC01 | | Illustrated Status sheet, p. 206 (Level 4): no spell; her three Skills under a box labelled Magic.
-[@noa-heal.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Noa Heal, recovery spell; all targets in an area; stronger in forested areas.
+[@noa-heal.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Noa Heal, recovery spell; stronger in forested areas. The Japanese edition's sheet (image page c81X) calls it recovery magic with a terrain effect, its potency raised in forest areas.
 [@noa-heal.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Noa Heal, healing magic; affected by the environment; boosted in forested areas.
 [@agris-arvensis.ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Agallis Arvesynce, enchantment, fire attribute, chant "Alga".
 [@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".
 [@agris-arvensis.ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Luminous Wind!" then "Arveria!"; "The pair’s combined attack"; "a flash of fire and starlight".
 [@ar01-lyumilua]: AR01 | | Printed heading "Chapter 4: Questioning Justice" (not in the evidence map): "if any of these turn out to be from Lyumilua Forest, where Lyu is from"; "the elves of Lyumilua Forest are the most prideful of all".
 [@ar02-lyumilua]: AR02 | | Printed heading "Chapter 11: Warriors’ Last Supper: FINAL WAR EVE" (not in the evidence map): "From Lyumilua Forest, where you were born."
+[@ar01-lyu-ja]: AR01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm14-gale-wind-ja]: FM14 | | The Japanese edition writes her title in kanji meaning gale, with the reading in kana.

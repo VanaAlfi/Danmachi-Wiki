@@ -17,6 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|アポロン・ファミリア}}", "refs": ["fm06-apollo-familia-ja"]},
       {"label": "Deity", "value": "[[apollo|Apollo]]", "refs": ["fm06-disbanded"]},
       {"label": "Leader", "value": "[[hyacinthus|Hyacinthus]], Level 3", "refs": ["fm06-pursuit", "fm06-eighty"]},
       {"label": "Commander", "value": "[[daphne|Daphne]]", "refs": ["fm13-commander"]},
@@ -83,6 +84,7 @@ DanMachi 8 says that, unlike Daphne and Cassandra, "no one came to him with an o
 [@fm15-luan]: FM15 | Interlude: Does Cinderella Dream of Happiness? | "Huh? Who…Mr. Ruan?!"; "Ruan Espel, the fellow prum she’d suddenly run into, had the dress and air of a knight’s page."; "Once a member of Apollo Familia, he was currently a free agent and Lilly seemed to recall that he was currently working at the Hidden Home of the Prums, a prum-only tavern."
 [@fm17-shreme]: FM17 | Chapter 4: Those Left Behind | "Agris village lay southeast of Orario, near the Shreme Castle ruins, which had been the stage of Hestia Familia and Apollo Familia’s war game."
 [@fm18-betrayal]: FM18 | Chapter 9: Flower Language for You | "It’s like Apollo Familia?!"; "The apparent betrayal during the war game with Apollo Familia was what the people in Orario and many of the coalition adventurers were probably thinking of."; "The prum Louann hadn’t actually betrayed Apollo Familia at all."
-[@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | "The site of the war game between Hestia Familia and Apollo Familia six months ago was transformed into a stage for the second round of the Orariad."
+[@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | "The site of the war game between Hestia Familia and Apollo Familia six months ago was transformed into a stage for the second round of the Orariad." The Japanese edition (file J14, paragraph 486) says more than six months ago.
 [@so10-betrayal]: SO10 | Chapter 4: The Skirmish on Daedalus Street: Behind the Scenes | "In that fight, a single prum betrayed Apollo Familia and brought victory to Hestia Familia."
 [@ss01-luan]: SS01 | | Printed heading "Spy Girl" (not in the evidence map): "A member of Apollo Familia, a prum by the name of Luan Espel"; "ferrying messages to and from the castle"; "often led the others in his familia to view him as perfectly suited to being a runner instead".
+[@fm06-apollo-familia-ja]: FM06 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

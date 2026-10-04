@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|アストレア・ファミリア}}", "refs": ["ar03-astrea-familia-ja"]},
       {"label": "Deity", "value": "Astrea, goddess of justice and order", "refs": ["fm05-astrea"]},
       {"label": "Captain", "value": "[[alize-lovell|Alize Lovell]]", "refs": ["fm15-alize"]},
       {"label": "Home", "value": "Stardust Garden (printed once as Starlight Garden)", "refs": ["ar01-home", "ar02-starlight"]},
@@ -88,3 +89,4 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@skills.ar03-sheet]: AR03 | | Illustrated character sheet, pp. 266–267 (Level 4): Batrea Acras, Rubrud Beckia.
 [@fc03-lietz]: FC03 | The Locus of Stars | "About the human wandering mage, Lyana Lietz, who originally came from the distant magical land of Altena."
 [@fc03-names]: FC03 | The Locus of Stars | "She was happy to tell Schau and the others about their great predecessors"; "the human attacker, Noin Unic"; "the brave Asta Nox"; "the werewolf middle guard, Neze Rankett"; "the Amazon brawler, Iska Bra"; "the human healer, Maryu Réage"; "Celty Srowa, who was the only one actually younger than Lyu".
+[@ar03-astrea-familia-ja]: AR03 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

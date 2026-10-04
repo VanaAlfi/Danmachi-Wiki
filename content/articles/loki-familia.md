@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ロキ・ファミリア}}", "refs": ["fm11-loki-familia-ja"]},
       {"label": "Deity", "value": "[[loki|Loki]]", "refs": ["so14-founding"]},
       {"label": "First member", "value": "Finn Deimne, at fourteen", "refs": ["so14-founding"]},
       {"label": "Home", "value": "Twilight Manor, in the north of the city", "refs": ["fm06-home", "fm06-twilight"]},
       {"label": "Emblem", "value": "The trickster's comedic smile (see [[#standing|Standing and emblem]])", "refs": ["so01-emblem", "so02-emblem"]},
       {"label": "Guild rank", "value": "S", "refs": ["fm19-rank-s"]},
-      {"label": "Also called", "value": "The Giant Killers", "refs": ["fm06-giant"]},
+      {"label": "Also called", "value": "The Giant Killers (written *floor-boss killers*)", "refs": ["fm06-giant", "fm06-giant-ja"]},
       {"section": "Leaders"},
       {"label": "Captain", "value": "Finn Deimne, field general", "refs": ["fm05-leaders"]},
       {"label": "Level 7s", "value": "Finn, Riveria and Gareth, from Sword Oratoria 14", "refs": ["so14-sevens", "fm20-sevens"]},
@@ -32,7 +33,7 @@
 
 ## Standing and emblem {#standing}
 
-In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it "the strongest faction in the city", and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When Hestia Familia wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant]
+In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it the city's largest faction, and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When Hestia Familia wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant]
 
 Its emblem is the trickster's mark, "a comedic smile", flown on its flags in the Dungeon and hung on the wall behind Finn's desk.[@so01-emblem, so02-emblem] In the Great Conflict of Astrea Record 3 a member raises "the flag of the trickster god" over a stronghold, and at the end of DanMachi 20 the survivors of its expedition return under a tattered flag with "the emblem of the jester".[@ar03-flag, fm20-floor60]
 
@@ -58,7 +59,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[alicia-forestlight|Alicia Forestlight]] | Elf; a Level 4 in the Familia's reserve crew by Sword Oratoria 8.[@so08-reserve] |
 | [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A healer and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
 
-Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter Carmillia, she is told to "Give Rabbit Foot a longsword!"[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
+Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter Carmillia, she is told to give Bell a greatsword.[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
 
 ### Fighting strength {#fighting-strength}
 
@@ -136,7 +137,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@fm01-aiz]: FM01 | | Loki Familia swordswoman, Level 5; saves Bell; her apology.
 [@fm06-strongest]: FM06 | Chapter 1: The Furious Rabbit | Bete's group, "the strongest Familia in Orario" (cited by the body heading; FM06 has no contents list).
 [@fm06-giant]: FM06 | Chapter 5: Our War Game | The commentator: the deeds of the "Giant Killers", Loki Familia (cited by the body heading).
-[@fm11-strongest]: FM11 | Chapter 3: The Night Before Battle | "the strongest faction in the city".
+[@fm11-strongest]: FM11 | Chapter 3: The Night Before Battle | The city's largest faction (the Japanese edition, file c2BD, paragraphs 129 and 532).
 [@fm18-twin]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Royman: Loki and Freya Familias, "the twin peaks of the city".
 [@fm18-deal]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Royman's offer: the Guild's information on the Ice Garden for staying out of the war game.
 [@fm18-orders]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Gareth and the Hyrute sisters; the captain's orders.
@@ -166,6 +167,8 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so13-recruiting]: SO13 | Chapter 2: Nostalgic Schoolhouse | Loki "only grudgingly engaged" with recruiting last time; its recruiters first aboard.
 [@so07-olba]: SO07 | Chapter 3: Feast of the Dead | "Cruz! Olba! Gimme some light!"; "Cruz and Olba pointed their portable magic-stone lanterns".
 [@so12-olba]: SO12 | Chapter 7: Final War II | "an exhausted Level-3 animal person from Loki Familia"; "Olba provided a shoulder for her to lean on".
-[@so12-carmillia]: SO12 | Chapter 7: Final War II | "his eyes drifted behind them to a girl, who had larger weapons attached to her backpack"; "Carmillia! Give Rabbit Foot a longsword!"
+[@so12-carmillia]: SO12 | Chapter 7: Final War II | "his eyes drifted behind them to a girl, who had larger weapons attached to her backpack". Carmillia is told to give Bell a greatsword; the Japanese edition (file c698, paragraphs 886 and 897) says a greatsword.
 [@so14-karna]: SO14 | Chapter 2: The High Elf’s Departure | "They were currently in the southwest of the continent’s central region in a town called Karna."; "Ten days had passed since they left Preblica"; "That’s why it’s gotta be an elf!"
 [@so14-karna2]: SO14 | Chapter 3: The Dwarf’s Embarking | "This town’s name is Karna, an inn town where many travelers and merchants come and go on most days. It’s a key transit hub."; "a quick little party to celebrate Rivvy entering the familia".
+[@fm11-loki-familia-ja]: FM11 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@fm06-giant-ja]: FM06 | | The Japanese edition writes the name with the kanji for floor boss, read as the word for giant: said giant killers, written floor-boss killers.

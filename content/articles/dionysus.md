@@ -31,7 +31,7 @@
 
 - **Looks:** Dionysus is a golden-haired god with glass-coloured eyes. To the girls of a flower shop he has "the presence of a prince from a far-off kingdom", unlike the other gods "with their sick sense of humor".[@so03-prince, so04-eyes]
 - **Wine:** he enjoys wine, sends Loki fine wines to soothe her, and built a wine cellar at his home; after his apparent death, Loki and [[soma|Soma]] find divine wine in it.[@so05-wine, so11-cellar, so12-cellar]
-- **His true nature:** unmasked in Sword Oratoria 12, he is "a deviant god" who delights in derangement and chaos. What he wants is the *orgia*: the terror of mortals fleeing monsters in the days before the heroes, which he watched from the skies, and which he calls better "than the finest wine".[@so12-orgia]
+- **His true nature:** unmasked in Sword Oratoria 12, he is "a deviant god" who delights in derangement and chaos. What he wants is the *orgia*: the terror of mortals fleeing monsters in the age of heroes, before the gods came down, which he watched from the skies, and which he calls better "than the finest wine".[@so12-orgia]
 - **Ouranos:** that age ended when [[ouranos|Ouranos]] sealed the hole, so Dionysus loathes him "with a homicidal rage"; his drunken warnings about Ouranos came from that hatred.[@so12-ouranos]
 - **In the heavens:** he says [[hestia|Hestia]] stopped him when he tried to draw the gods into a murderous fight there, and admits that without her he would have been consumed by murder.[@so12-hestia]
 
@@ -56,7 +56,7 @@ When his plan with the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] fails, h
 [@so05-wine]: SO05 | | "I’ll make sure to have some fine wines sent to your place, yes?"
 [@so11-cellar]: SO11 | Epilogue: Whodunit | "It was the wine cellar Dionysus had built."
 [@so12-cellar]: SO12 | Chapter 1: The Price of Defeat | "I found it in Dionysus’s wine cellar when I was looking through it with Soma."
-[@so12-orgia]: SO12 | Chapter 6: The Divine Providence of Despair | "The sweetest feast of madness!"; "Those days before the heroes flourished"; "Dionysus was a deviant god"; "The crazed cries of children are even better than the finest wine!"
+[@so12-orgia]: SO12 | Chapter 6: The Divine Providence of Despair | "The sweetest feast of madness!"; "Dionysus was a deviant god"; "The crazed cries of children are even better than the finest wine!" The Japanese edition (file c4HC, paragraphs 447 and 462) has him praise the olden days when heroes were active and the mortal world was trampled by monsters, a paradise that ended when the Age of the Gods began.
 [@so12-ouranos]: SO12 | Chapter 6: The Divine Providence of Despair | "Because that old god made a secret deal and sealed the hole"; "Dionysus loathed Ouranos with a homicidal rage".
 [@so12-hestia]: SO12 | Chapter 6: The Divine Providence of Despair | "Hestia got in my way, too."; "If she hadn’t stopped me, I would have been consumed by murder".
 [@so12-cover]: SO12 | Chapter 6: The Divine Providence of Despair | "Because Penia ruled over poverty, she was an odd goddess who had absolutely no followers."; "so she became his scapegoat".

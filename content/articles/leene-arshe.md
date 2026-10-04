@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|リーネ・アルシェ}}", "refs": ["ss02-leene-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so08-memory"]},
       {"label": "Appearance", "value": "Glasses; long hair, usually in braids", "refs": ["so04-braids", "so05-bath", "so07-bete"]},
       {"section": "Adventurer"},
@@ -79,6 +80,7 @@ The rest of the Familia takes his scorn at face value, and Riveria notes these a
 [@so08-hunt]: SO08 | Chapter 3: Unshed Tears | Valletta's taunts; "She’d killed Leene and the others."
 [@so11-avenge]: SO11 | Chapter 1: Why I’ll Start Running, Too | "this is a battle to avenge Leene and the rest".
 [@so12-won]: SO12 | Chapter 8: A Heroes’ Chorus | "Leene, you guys…we won."
-[@ss02-memory]: SS02 | | "Not Good-bye, but Thank You": "Will you…let me come with you?"; "Do what you want."; "How many times have your hands saved me? You’ve done enough."
+[@ss02-memory]: SS02 | | "Not Good-bye, but Thank You": "Will you…let me come with you?"; "Do what you want."; "How many times have your hands saved me? You’ve done enough." The Japanese edition (file part0047, paragraphs 19 to 21) words his last words as *You idiot…* and *I have been saved enough by your hands…*.
 [@ss02-grave]: SS02 | | The Adventurers Graveyard; "The headstone at his feet read Leene Arshe."
 [@ss02-aiz]: SS02 | Paths So Far, an Unending Journey | A flower at each grave; "a healer girl to whom Aiz was much indebted, a girl called Leene Arshe"; the dungeon trap that divided the group.
+[@ss02-leene-ja]: SS02 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

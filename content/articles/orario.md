@@ -62,7 +62,7 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 [@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
 [@fm01-daedalus]: FM01 | Chapter 6: Bump of Chicken! | Daedalus Street and its ariadne.
 [@fm01-monsterphilia]: FM01 | Chapter 5: The Goddess’s Prank | Monsters loose during Monsterphilia.
-[@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | Babel's history and floors.
+[@fm02-babel]: FM02 | | Babel's history and floors: Hephaistos Familia's shops on the fourth to eighth floors (Chapter 1); the Guild's tenants up to the twentieth floor, the gods above, and the first tower destroyed when the first gods came down (Chapter 3, Lilly).
 [@fm03-babel]: FM03 | Chapter 3: Black Raid | Freya on the fiftieth floor.
 [@fm07-quarter]: FM07 | Epilogue: If Surrounded by Kindness… | The third district after the attack.
 [@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location.

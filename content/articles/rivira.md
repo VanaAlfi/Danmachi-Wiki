@@ -41,7 +41,7 @@ Its strongest resident is [[bors|Bors]], a one-eyed adventurer who owns the Rivi
 
 ## Count {#count}
 
-The town has been destroyed and rebuilt many times; DanMachi 5 describes the current town as its 334th version.[@fm05-rivira] In Sword Oratoria 2 the sign reads 344, while the explanation right after it gives 334 versions after 333 destructions.[@so02-sign]
+The town has been destroyed and rebuilt many times; DanMachi 5 describes the current town as its 334th version.[@fm05-rivira] In Sword Oratoria 2 the number on the gate, 334, counts the versions of the town: it has been destroyed 333 times before.[@so02-sign]
 
 ## History
 
@@ -58,7 +58,6 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether Sword Oratoria 2's count should read 334 or 344.[@so02-sign]
 > - How the town was rebuilt after its destruction in DanMachi 10.[@fm10-rivira]
 
 [@fm05-rivira]: FM05 | Chapter 4: Dungeon Resort? | Rivira's location, name, count and trade.
@@ -70,7 +69,7 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 [@fm17-snitch]: FM17 | Chapter 2: Alone Inside a Sandbox | The Status Snitch from Rivira.
 [@fm17-charm]: FM17 | | The charm and the Dungeon; Rivira summoned to the surface.
 [@fm19-rivira]: FM19 | Chapter 1: V-V-V for Victory Party | Rivira plays along.
-[@so02-sign]: SO02 | Chapter 2: Incident | The sign's count.
+[@so02-sign]: SO02 | Chapter 2: Incident | The sign's count. The Japanese edition (file cWG, paragraphs 18 and 19) reads 334 for the number on the gate and for the town's version.
 [@so05-rogue]: SO05 | | Rogue Town and its prices.
 [@so02-square]: SO02 | | Printed heading "Chapter 3: Gekai Detective Loki" (not in the evidence map): "Everyone had gathered in Crystal Square. Not only was it the center of town, but the wide clearing also had an amazing view of the surrounding area. Two gigantic crystals, one white and one blue, stood like twins in the middle of the clearing."; "Hashana’s blood-splattered full-plated armor and a few of his other belongings had been placed at the foot of the crystals."; "Rough estimates of the number of adventurers and shop owners in Crystal Square were around five hundred."
 [@so02-battle]: SO02 | Chapter 5: The Battle of Rivira | "a jade magic circle that had formed in the middle of the square"; "Monsters from all around were drawn to it like moths to a flame, and hundreds of adventurers broken into small battle parties were there waiting for them."; "The monsters farther away from Crystal Square ignored Riveria’s magic energy"; "Cluster Street."; "Like Crystal Square, it was one of Rivira’s famous locations."

@@ -22,7 +22,7 @@
   }
 }
 ---
-**Delphyne** is a god-slaying dragon born on [[floor-37|Floor 37]] of the Dungeon from a god's use of [[tenkai-and-gekai#arcanum|Arcanum]] during the [[great-conflict|Great Conflict]].[@ar03-delphyne, ar02-bait] It is named in Astrea Record 3 as "an anomaly born from divine transgression".[@ar03-delphyne]
+**Delphyne** is a god-slaying dragon born on [[floor-37|Floor 37]] of the Dungeon from a god's use of [[tenkai-and-gekai#arcanum|Arcanum]] during the [[great-conflict|Great Conflict]].[@ar03-delphyne, ar02-bait] In Astrea Record 3 Erebus calls it a monster drawn by divine power and born from the thirty-seventh floor.[@ar03-delphyne]
 
 ## Origin
 
@@ -43,7 +43,7 @@ Because its strength lies in healing, enough firepower can outpace its regenerat
 
 [@ar02-bait]: AR02 | Epilogue: All You Need Is Justice | A god sent into the Dungeon as bait.
 [@ar02-arcanum]: AR02 | Epilogue: All You Need Is Justice | The divine returns mask the Arcanum below.
-[@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | "An anomaly born from divine transgression on the thirty-seventh floor."
+[@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Erebus names it. The Japanese edition (file c370, paragraph 10) says drawn by divine power and born from the thirty-seventh floor.
 [@ar03-regen]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne regenerates.
 [@ar03-wings]: AR03 | Chapter 8: The Price of Talent | Purple wings.
 [@ar03-level]: AR03 | Chapter 9: A Hero’s Trail | Lyra's assessment.

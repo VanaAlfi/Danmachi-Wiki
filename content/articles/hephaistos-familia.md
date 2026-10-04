@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
+      {"label": "Japanese", "value": "{{ja|ヘファイストス・ファミリア}}", "refs": ["fm02-hephaistos-familia-ja"]},
       {"label": "Deity", "value": "[[hephaistos|Hephaistos]], goddess of the forge", "refs": ["fm04-masters", "so04-captain"]},
       {"label": "Captain", "value": "[[tsubaki|Tsubaki Collbrande]], Level 5 master smith", "refs": ["fm08-tsubaki", "fm14-level"]},
       {"label": "Known for", "value": "The largest smithing Familia in Orario, known around the world", "refs": ["so03-largest", "so09-logo"]},
@@ -66,7 +67,7 @@
 | DanMachi 12 | When Hestia Familia prepares its expedition, Hephaistos Familia alone among its friendly factions stays out, to keep its position as a smithing Familia.[@fm12-sidelines] |
 | Sword Oratoria 12 | The Familia makes the [[equipment#spirit-cloth|spirit flag]]s for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] |
 | Sword Oratoria 13 | Some of its High Smiths are among those killed by the demi-spirit's attack in Knossos, and are mourned at the funerals that follow.[@so13-dead] |
-| DanMachi 17 | Almost all its members, the master smiths included, surround [[folkvangr|Folkvangr]] from the south and west, alongside Loki Familia, while an angry Hephaistos tells Freya she will have to pay.[@fm17-siege] |
+| DanMachi 17 | Almost all its members, its High Smiths included, surround [[folkvangr|Folkvangr]] from the south and west, alongside Loki Familia, while an angry Hephaistos tells Freya she will have to pay.[@fm17-siege] |
 | DanMachi 18 | With Loki Familia barred, it is the only Familia able to fully support Hestia in the Great Familia War. Its smiths forge magic swords under Hephaistos's strict judgement and fight at the coalition's centre.[@fm18-home, fm18-center] [[hedin|Hedin]] provokes them into wasting many of the swords, and [[allen-fromel|Allen]] picks off its smiths and tears Hephaistos's flower, eliminating the Familia.[@fm18-hedin, fm18-out] |
 | Familia Chronicle 3 | Word in [[zolingam|Zolingam]] is that the Familia buys raw materials there and supports several workshops; many residents have become Hephaistos's followers.[@fc03-zolingam] |
 
@@ -102,7 +103,7 @@
 [@fm12-sidelines]: FM12 | Chapter 2: Adventure Intermission | "Only Hephaistos Familia decided to stay on the sidelines in order to preserve their position as a metalsmith familia."
 [@fm14-level]: FM14 | Chapter 8: The Voice of the Hammer | "Tsubaki, the captain of Hephaistos Familia, is Level Five!"
 [@fm15-branch]: FM15 | Interlude: That Never-Cooling Iron | "the northwest main street branch of Hephaistos Familia".
-[@fm17-siege]: FM17 | Chapter 5: The End of Her World | "deployed almost all their members, including the master smiths"; "you’re going to have to pay for this, Freya"; "Hephaistos Familia surrounded the south and the west".
+[@fm17-siege]: FM17 | Chapter 5: The End of Her World | almost all members deployed, the High Smiths included (the Japanese edition names the High Smiths, a match for upper-tier adventurers; Tsubaki alone is the Master Smith); "you’re going to have to pay for this, Freya"; "Hephaistos Familia surrounded the south and the west".
 [@fm18-home]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "Vulca’s Forge located in the city’s northeastern industrial district"; "Unlike the branch stores in Babel and on Adventurers Way, this was Hephaistos Familia’s home."; "we’re the only ones who can fully support Hestia"; "No good. Do it again."
 [@fm18-center]: FM18 | Chapter 8: The Great Familia War | "the powerful magic swords that Hephaistos Familia had provided"; "The center had Tsubaki, Welf, Magni Familia, and many of Hephaistos Familia’s high smiths."
 [@fm18-hedin]: FM18 | Chapter 8: The Great Familia War | Hedin "had provoked them to waste a large portion of their limited resources".
@@ -120,3 +121,4 @@
 [@ar01-north]: AR01 | Chapter 9: The Opening Act of Evil | "To the north were situated the forces of Freya Familia, and the workshops and forges of Hephaistos Familia."
 [@ar03-swords]: AR03 | | "Freya Familia was being supported by the blacksmiths of Hephaistos Familia and their magic swords."
 [@fc03-zolingam]: FC03 | | "Word was that none other than Hephaistos Familia came to Zolingam for raw materials"; "many Zolingam residents who became followers of Hephaistos".
+[@fm02-hephaistos-familia-ja]: FM02 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

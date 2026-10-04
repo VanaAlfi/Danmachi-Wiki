@@ -14,9 +14,10 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Adventurer"},
+      {"label": "Japanese", "value": "{{ja|フィルヴィス・シャリア}}", "refs": ["so12-filvis-ja"]},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so02-elf"]},
       {"label": "Familia", "value": "Dionysus Familia, as captain", "refs": ["so04-captain"]},
-      {"label": "Also called", "value": "Banshee (an adventurers' nickname); Maenad", "refs": ["so03-banshee", "so07-maenad"]},
+      {"label": "Also called", "value": "Banshee (an adventurers' nickname); Maenad ({{ja|白巫女}}, written *white shrine maiden*)", "refs": ["so03-banshee", "so07-maenad", "so12-filvis-ja"]},
       {"label": "Public Level", "value": "3", "refs": ["so03-level", "so04-captain"]},
       {"label": "Magic", "value": "[[#dio-thyrsos|Dio Thyrsos]]; [[#dio-grail|Dio Grail]]; [[#einsel|Einsel]]", "refs": ["dio-thyrsos.so03-cast", "dio-grail.so04-teach", "einsel.so12-undo"]},
       {"label": "Skills", "value": "[[skills#filvis-skills|Fairy Senior, Monstrum Union, Dark Light]]", "refs": ["skills.so12-sheet"]}
@@ -38,7 +39,7 @@ Filvis died protecting her companions in a disaster on Floor 27 and was turned i
 
 Recombined, she fights at what [[asfi|Asfi]] calls Level 7 strength, though this is a judgement, not a printed Status.[@so12-power] After summoning Dio Grail against Filvis's lightning, Lefiya drives Filvis's own sword into her [[magic-stone|magic stone]]. The dying Filvis splits: one self clings to Dionysus and disappears as he returns to the heavens, and the other stays with Lefiya and crumbles to ash. The text treats both as truly her.[@so12-end]
 
-Her Status sheet at the end of Sword Oratoria 12 lists three [[skills|Skills]]: Fairy Senior, which amplifies her magic according to her grief; Monstrum Union, which marks her as a hybrid; and Dark Light, which changes the wavelength of her magic and adds an enchantment that rejects recovery. See [[skills#filvis-skills|Skills § Filvis Challia's Skills]].[@skills.so12-sheet]
+Her Status sheet at the end of Sword Oratoria 12 lists three [[skills|Skills]]: Fairy Senior, which amplifies her magic according to her grief; Monstrum Union, which marks her as a hybrid; and Dark Light, which changes the light and the wavelength of her magic and adds an enchantment that rejects recovery. See [[skills#filvis-skills|Skills § Filvis Challia's Skills]].[@skills.so12-sheet]
 
 ## Magic {#magic}
 
@@ -113,7 +114,7 @@ Filvis teaches Lefiya its effects and its chant so that Lefiya can summon it wit
 
 The chant that starts the spell is not printed. Sword Oratoria 12 prints the one Filvis and Ein speak together "to undo their magic":[@einsel.so12-undo]
 
-- **Undoing chant:** "At the end of illusion, the spirit returns—forming an unbreakable bond."[@einsel.so12-undo]
+- **Undoing chant:** "At the end of illusion, the spirit returns—forming an unbreakable bond."[@einsel.so12-undo] In the Japanese, which Filvis and Ein speak together, it is {{ja|終わる幻想、還る魂──引き裂けぬ貴方}}, *the ending illusion, the returning soul: you, who cannot be torn apart*; its last word is said *bond* and written *you*.[@einsel.so12-ja]
 - **Name:** "Einsel."[@einsel.so12-undo]
 
 #### Effect {#einsel-effect}
@@ -132,7 +133,7 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@so07-filvis]: SO07 | | Knossos with Lefiya.
 [@so11-filvis]: SO11 | | Her plea; her apparent death.
 [@so12-filvis]: SO12 | | Her death on Floor 27; the creature; Dionysus.
-[@skills.so12-sheet]: SO12 | | Illustrated Status sheet at the end of the volume: Fairy Senior, Monstrum Union, Dark Light.
+[@skills.so12-sheet]: SO12 | | Illustrated Status sheet at the end of the volume: Fairy Senior, Monstrum Union, Dark Light. The Japanese edition's sheet (image page cBRR) has Dark Light change the light and the wavelength of her magic.
 [@so12-einsel]: SO12 | Chapter 6: The Divine Providence of Despair | Einsel and Ein.
 [@so12-power]: SO12 | Chapter 8: A Heroes’ Chorus | Level 7–class strength.
 [@so12-end]: SO12 | | Lefiya's Dio Grail and Filvis's sword; the split; her end.
@@ -141,13 +142,14 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@dio-thyrsos.so05-short]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's spells: "not more than a single phrase".
 [@dio-thyrsos.so07-cast]: SO07 | Chapter 4: The Sword’s Wind Calls | "Purge, cleansing lightning—DIO THYRSOS!"; a golden bolt.
 [@dio-thyrsos.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | The black lightning against Lefiya's Dio Grail.
-[@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire.
+[@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire. The Japanese edition (file part0029, paragraph 12) speaks of summoning Maenad's magic.
 [@dio-grail.so04-teach]: SO04 | First Chapter: And the Boy… | Filvis casts it for Lefiya; "an ultrashort barrier spell"; more than five meders; "come back alive".
 [@dio-grail.so04-floor59]: SO04 | Last Chapter: To Adventure | Lefiya's summoned Dio Grail against the corrupted spirit's lightning; Tiona and Tione.
 [@dio-grail.so11-lefiya]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Shield me, cleansing chalice—Dio Grail!"
 [@dio-grail.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's Dio Grail against Filvis's Dio Thyrsos.
 [@dio-grail.ar03-filvis]: AR03 | Chapter 5: Playing the Violence Card | Filvis's barrier holds against the fire.
 [@einsel.so12-undo]: SO12 | Chapter 6: The Divine Providence of Despair | The undoing chant; "Einsel."; the two become one.
+[@einsel.so12-ja]: SO12 | Chapter 6: The Divine Providence of Despair | The Japanese edition (file c4HC, paragraph 658) prints the undoing chant as spoken by both together; its last word is read bond and written with the word for you.
 [@einsel.so12-half]: SO12 | Chapter 6: The Divine Providence of Despair | "While Einsel is active, my Status is halved"; a real second self.
 [@einsel.so12-bete]: SO12 | Chapter 7: Final War II | Einsel cancelled; six years on two battlefields; against Bete.
 [@dio-thyrsos.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0, "Creature (Elf)"): Dio Thyrsos, Dio Grail and Einsel under Magic.
@@ -155,3 +157,4 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@einsel.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Einsel, cloning magic.
 [@so03-banshee]: SO03 | Chapter 3: A Hideous Beauty | Bors: "That’s just what we call her. That elf’s title is something else."; "The party-killing elf—Banshee."
 [@so12-banshee]: SO12 | Chapter 6: The Divine Providence of Despair | "That had been the origin of the name Banshee"; "seemingly dead on the inside".
+[@so12-filvis-ja]: SO12 | | The Japanese edition prints her name in katakana and writes Maenad in kanji meaning white shrine maiden, with the reading Maenad; the infobox gives the printed name and the kanji.

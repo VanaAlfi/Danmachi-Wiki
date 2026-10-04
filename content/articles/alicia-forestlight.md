@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|アリシア・フォレストライト}}", "refs": ["so13-alicia-ja"]},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so05-crozzo", "so13-hail"]},
       {"label": "Appearance", "value": "Blonde; green eyes", "refs": ["so05-blondes", "so05-crozzo"]},
       {"label": "Home", "value": "The north of the continent: the Frozen Woods of Fanache; a village near the [[valley-of-dragons|valley of dragons]]", "refs": ["so13-hail", "so13-why"]},
@@ -21,8 +22,8 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-support", "so13-hail"]},
       {"label": "Level", "value": "2 in the Great Conflict; 4 by Sword Oratoria 8", "refs": ["ar03-battlements", "so08-reserve", "so11-group", "ss02-elves"]},
       {"label": "Role", "value": "Second-in-command of [[riveria|Riveria]]'s elf squad; spotter for [[lefiya|Lefiya]]'s support fire", "refs": ["so10-squad", "so09-spotter"]},
-      {"label": "Title", "value": "Probably Elleaf", "refs": ["so13-elleaf", "so10-alsha"]},
-      {"label": "Weapons", "value": "Short bow and magic", "refs": ["so10-squad", "ar03-battlements"]},
+      {"label": "Title", "value": "Probably Elleaf ({{ja|純潔の園}}, written *garden of purity*)", "refs": ["so13-elleaf", "so10-alsha", "so13-alicia-ja"]},
+      {"label": "Weapons", "value": "Short bow and magic", "refs": ["so10-squad"]},
       {"label": "Magic", "value": "[[magic#hail-dust|Hail Dust]]", "refs": ["so13-hail"]}
     ]
   }
@@ -32,7 +33,7 @@
 
 ## Background and character
 
-Alicia comes from the north of the continent. Sword Oratoria 13 says she hails from the Frozen Woods of Fanache, and she tells School District students that her village lies not far from the [[valley-of-dragons|valley of dragons]].[@so13-hail, so13-why] She came to Orario to destroy the dragons that threatened her people's homes and forests, and calls fighting beside Riveria, who shares Lady Seldia's royal lineage, "the greatest honor".[@so13-why] She explains that the strongest Familias, Loki Familia among them, seek strength above all in order to fulfil [[three-great-quests|the Three Great Quests]].[@so13-why]
+Alicia comes from the north of the continent. Sword Oratoria 13 says she hails from the Frozen Woods of Fanache, and she tells School District students that her village lies not far from the [[valley-of-dragons|valley of dragons]].[@so13-hail, so13-why] She came to Orario to destroy the dragons that threatened the villages and forests round about, and calls fighting beside Riveria, who shares Lady Seldia's royal lineage, "the greatest honor".[@so13-why] She explains that strength, above all, is what is asked of the strongest Familias, Loki Familia among them, in order to fulfil [[three-great-quests|the Three Great Quests]].[@so13-why]
 
 Sword Oratoria 5 calls her normally calm, composed and sisterly, and contrasts her fierce elven pride with Lefiya's more open-minded upbringing.[@so05-crozzo] That pride shows twice in the same camp. When she learns that [[welf-crozzo|Welf]] is a Crozzo, she screams that the Crozzo family burned her home and left many elven tribes with no forest to return to; [[tsubaki|Tsubaki]] calms her by explaining that Welf has disowned his lineage.[@so05-crozzo] Later, when [[bell-cranell|Bell]]'s retelling of the hero Albert's story raises the question of whether Albert had a child, and Bell names the high-elf queen among the women of his party, she and Lefiya furiously defend the queen as an eternal saint. In that volume her name is printed *Celdia*; Sword Oratoria 13 and 14 print *Seldia*.[@so05-celdia, so13-why]
 
@@ -44,9 +45,9 @@ In Sword Oratoria 13, when she and [[anakity-autumn|Anakity]] arrive at the [[sc
 
 | Volume | Events |
 |---|---|
-| Astrea Record 3 | During the Great Conflict, newly Level 2, she volunteers to defend the battlements of [[twilight-manor|Twilight Manor]]. In her first real war she shivers under the teasing of her elders, then fires a scattershot of icicle-shaped projectiles from her bow.[@ar03-battlements] |
+| Astrea Record 3 | During the Great Conflict, newly Level 2, she volunteers to defend the battlements of [[twilight-manor|Twilight Manor]]. In her first real war she shivers under the teasing of her elders, then, meaning at least to play the archer, scatters a volley of blue ice into the enemy lines.[@ar03-battlements] |
 | Sword Oratoria 4 | One of the support members on Loki Familia's deep expedition. Finn orders her, [[narfi|Narfi]] and [[cruz-bussell|Cruz]] to use their [[magic-sword|magic swords]] so that [[aiz-wallenstein|Aiz]] can recover.[@so04-support, so04-swords] |
-| Sword Oratoria 6 | In Meren she and Narfi try to question the governor, Borg Murdock, about the [[monsters#violas|violas]] in the lake; he turns them away as Guild dogs.[@so06-borg] Later she confronts him at his estate holding a sack of the "magic dust".[@so06-dust] |
+| Sword Oratoria 6 | In Meren she and Narfi try to question the governor, Borg Murdock, about the [[monsters#violas|violas]] in the lake; he turns them away, having nothing to say to people tied to the Guild.[@so06-borg] Later she confronts him at his estate holding a sack of the "magic dust".[@so06-dust] |
 | Sword Oratoria 7 | When Riveria uses her magic circle to sense who is inside [[knossos|Knossos]], Loki orders Alicia to gather helpers and draw a map from it.[@so07-map] |
 | Sword Oratoria 9 | In the fighting against [[ares#kingdom-of-rakia|Rakia]] she corrects Lefiya's spell timing; she is the spotter for Lefiya's support fire.[@so09-timing, so09-spotter] |
 | Sword Oratoria 10 | With Cruz, she commands the secondary forces calming civilians in the neighbourhood.[@so10-patrol] As Riveria's second-in-command in the tunnels under Daedalus Street, she stops a fleeing enemy with a freezing spell and takes his hidden key, the squad's second.[@so10-squad, so10-key] Rei shields her from [[levis|Levis]]'s thrown blade.[@so10-rei] |
@@ -71,22 +72,22 @@ After Filvis's death, Lefiya avoids the [[elegia|Elegia]] festival by arranging 
 
 ## Magic
 
-Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her and summons it through [[magic#elf-ring|Elf Ring]] in Sword Oratoria 13; the Magic page has its printed chant and effect.[@so13-hail] Alicia's own casting of it is not described in the covered volumes. As a new Level 2 in Astrea Record 3 she fires icicle-shaped projectiles from her bow, and in Sword Oratoria 10 she stops an enemy with "a freezing spell"; neither passage names the spell.[@ar03-battlements, so10-key]
+Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her and summons it through [[magic#elf-ring|Elf Ring]] in Sword Oratoria 13; the Magic page has its printed chant and effect.[@so13-hail] Alicia's own casting of it is not described in the covered volumes. As a new Level 2 in Astrea Record 3 she scatters a volley of blue ice, and in Sword Oratoria 10 she stops an enemy with "a freezing spell"; neither passage names the spell.[@ar03-battlements, so10-key]
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether the icicle projectiles of Astrea Record 3 and the freezing spell of Sword Oratoria 10 are Hail Dust.[@ar03-battlements, so10-key, so13-hail]
+> - Whether the ice volley of Astrea Record 3 and the freezing spell of Sword Oratoria 10 are Hail Dust.[@ar03-battlements, so10-key, so13-hail]
 > - When she reached Level 3 and Level 4.[@ar03-battlements, so08-reserve]
 
-[@ar03-battlements]: AR03 | | An elf girl recently made Level 2; "Alicia! Where’s that support?"; the battlements of the manor; her bow and icicle-shaped projectiles; Twilight Manor's gates.
+[@ar03-battlements]: AR03 | | An elf girl recently made Level 2; "Alicia! Where’s that support?"; the battlements of the manor; Twilight Manor's gates. The Japanese edition (file cTV, paragraphs 249 to 253) has her, wanting at least to play the archer, scatter shot of blue ice from the manor's battlements, a falling rain of ice.
 [@so04-support]: SO04 | Last Chapter: To Adventure | "those joining include Raul, Narfi, Alicia, Cruz, and Lefiya".
 [@so04-swords]: SO04 | Last Chapter: To Adventure | "Narfi, Alicia, Cruz! Your magic swords!"
 [@so05-blondes]: SO05 | | Tsubaki asks Alicia and Narfi, "the two beautiful blondes, elf and human respectively".
 [@so05-crozzo]: SO05 | Interlude: Flip Side of the Compromise | "they’re the ones who burned my home!"; normally calm, composed and sisterly; her green eyes; Tsubaki explains Welf disowned his lineage.
 [@so05-celdia]: SO05 | Interlude: Flip Side of the Compromise | "Lady Celdia is an eternal saint!"
 [@so06-beach]: SO06 | Chapter 2: Port Meren | Alicia in a one-piece suit; "With Alicia in the lead, the elves sent the goddess facedown into the sand."
-[@so06-borg]: SO06 | Chapter 3: Kingdom of the Amazons | Alicia and Narfi at the Murdock estate; "I have nothing to say to you, Guild dogs."
+[@so06-borg]: SO06 | Chapter 3: Kingdom of the Amazons | Alicia and Narfi at the Murdock estate. The Japanese edition (file c1NT, paragraph 357) has Borg say he has nothing to say to people tied to the Guild.
 [@so06-dust]: SO06 | Chapter 5: A Duo of Sun and Moon | Alicia accosting Borg Murdock with a sack of the "magic dust".
 [@so07-map]: SO07 | Chapter 3: Feast of the Dead | Riveria's magic circle as radar; "Alicia! Grab a few people and start whippin’ up a map!"
 [@so08-reserve]: SO08 | Chapter 5: Battered Wolf | "a Level 4 in Loki Familia’s reserve crew"; her protest about Bete.
@@ -110,9 +111,10 @@ Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her 
 [@so13-support]: SO13 | Chapter 2: Nostalgic Schoolhouse | Elfie and Alicia join Lefiya; "That is what familia means."
 [@so13-hail]: SO13 | Chapter 3: Class is in Session | The spell learned from Alicia Forestlight; the Frozen Woods of Fanache in the north of the continent.
 [@so13-recruit]: SO13 | Fairy Canon: 2 | Anakity and Alicia as recruiters; Loki's reluctance; "Alicia’s skill with magic and bow".
-[@so13-why]: SO13 | Fairy Canon: 2 | The Three Great Quests; "a village in the north, not far from the valley of dragons"; Lady Seldia.
+[@so13-why]: SO13 | Fairy Canon: 2 | The Three Great Quests; "a village in the north, not far from the valley of dragons"; Lady Seldia. The Japanese edition (file part0031, paragraphs 120–134) says strength is asked of the top Familias and speaks of the villages and forests round about.
 [@so13-advice]: SO13 | Fairy Canon: 2 | "The special privilege of youth is the chance to err."; the first adventurer Lefiya aspired to be like.
 [@so14-party]: SO14 | Prologue: Accomplishments and Reminiscences | Pride in Riveria's Level 7; Alicia organises the clean-up.
 [@ss02-elves]: SS02 | | "a long procession of elves headed by the Level 4 adventurer Alicia".
 [@so13-elleaf]: SO13 | Fairy Canon: 2 | "A black-furred cat person and an amber-haired elf…Alsha and Elleaf?!"; the two are Anakity and Alicia, come to recruit.
 [@so10-alsha]: SO10 | Chapter 5: Brave Soul! | Anakity: "Her second name was Alsha".
+[@so13-alicia-ja]: SO13 | | The Japanese edition prints her name in katakana; the title it pairs, by inference, with her is written in kanji meaning garden of purity, with the reading Elleaf; the infobox gives the printed name and the kanji.

@@ -14,11 +14,12 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|漆黒兜}}, written *jet-black helm*", "refs": ["fm10-hades-head-ja"]},
       {"label": "Type", "value": "Black helmet shaped like a hat", "refs": ["fm05-mord"]},
       {"label": "Maker", "value": "[[asfi|Asfi Al Andromeda]] (Perseus)", "refs": ["fm05-mord"]},
       {"label": "Effect", "value": "Wearer and their equipment become invisible", "refs": ["fm05-mord", "fm17-limit"]},
       {"label": "Cost to use", "value": "No Mind or physical strength", "refs": ["fm05-mord"]},
-      {"label": "Value", "value": "Hundreds of thousands of valis each", "refs": ["fm10-discarded"]},
+      {"label": "Value", "value": "No less than several million valis", "refs": ["fm10-discarded"]},
       {"section": "Users"},
       {"label": "Include", "value": "Asfi and [[hermes-familia|Hermes Familia]]; Mord; [[aisha-belka|Aisha]] and [[lyu-leon|Lyu]]; [[hermes|Hermes]] and [[bell-cranell|Bell]]", "refs": ["fm05-mord", "so11-ten", "fm10-spare", "fm19-hermes"]}
     ]
@@ -29,7 +30,7 @@
 
 ## Name
 
-The item is printed *Hades Head* throughout. One sentence in DanMachi 11, comparing it with [[reverse-veil|Reverse Veil]], calls it first "Hades Head" and then "the Kaos Head".[@fm11-kaos] This wiki treats *Kaos Head* as a printing inconsistency, not a second helmet.
+The item is printed *Hades Head* throughout. One sentence in DanMachi 11, comparing it with [[reverse-veil|Reverse Veil]], calls it first "Hades Head" and then "the Kaos Head".[@fm11-kaos] The Japanese edition has the same reading in that passage, written over the words for *jet-black helmet*, the words it reads elsewhere as Hades Head, so *Kaos Head* names the same helmet.[@fm11-kaos-ja]
 
 ## Effect
 
@@ -42,7 +43,7 @@ DanMachi 17 states the limit plainly: the helmet makes only "the wearer and thei
 
 ## Countering it
 
-- **Senses.** In DanMachi 5 Bell cannot see Mord, but he can feel the intensity of his gaze and knows where he is.[@fm05-bell] In DanMachi 10 the black [[minotaur|minotaur]] finds Asfi's general location, "by smell or a gut feeling", and sprays the area with crystal shards.[@fm10-broken]
+- **Senses.** In DanMachi 5 Bell cannot see Mord, but he can feel the intensity of his gaze and knows where he is.[@fm05-bell] In DanMachi 10 the black [[minotaur|minotaur]] finds exactly where Asfi is, "by smell or a gut feeling", and sprays the area with crystal shards.[@fm10-broken]
 - **Marking.** Bell throws crushed blue crystal into Mord's face, and the powder shows his outline and his sword.[@fm05-bell]
 - **Breaking it.** Bell's kick shatters Mord's helmet and he reappears. The minotaur's crystal shards break Asfi's helmet in DanMachi 10.[@fm05-broken, fm10-broken]
 - **Detection items.** In DanMachi 19 Hermes says he once sneaked into the [[school-district|School District]] with a Hades Head, and that the district has since developed magic items that can pierce invisibility magic.[@fm19-detect]
@@ -54,12 +55,12 @@ DanMachi 17 states the limit plainly: the helmet makes only "the wearer and thei
 | DanMachi 5 | Mord, who received the helmet from Hermes, uses it to kidnap Hestia from the camp on Floor 18.[@fm05-mord] |
 | DanMachi 8 | Asfi puts on a black helmet, disappears and flies off to report the party safe.[@fm08-report] |
 | Sword Oratoria 3 | Asfi ambushes an enemy while invisible; her black helmet is smashed and she reappears.[@so03-ambush] |
-| DanMachi 10 | Asfi lends spares to Aisha and Lyu; they throw them away to join the fight, and Asfi, whose "custom-made rare magic items, worth hundreds of thousands of valis each" lie on the floor, picks them up.[@fm10-spare, fm10-discarded] |
-| DanMachi 11 | Hermes's followers survey the entrances to [[knossos|Knossos]] using the helmets and stink bags; later the invisible Asfi readies a Crizea needle on Hermes's orders.[@fm11-survey, fm11-crizea] |
+| DanMachi 10 | Asfi lends spares to Aisha and Lyu; they throw them away to join the fight, and Asfi, whose custom-made rare magic items, worth no less than several million valis, lie on the floor, picks them up.[@fm10-spare, fm10-discarded] |
+| DanMachi 11 | Hermes's followers survey the entrances to [[knossos|Knossos]] using the helmets and scent pouches; later the invisible Asfi readies a Crizea needle on Hermes's orders.[@fm11-survey, fm11-crizea] |
 | Sword Oratoria 11 | Ten Hermes Familia members, invisible, capture an Evils commander before he can blow himself up, while Finn's open assault serves as cover.[@so11-ten, so11-cover] |
 | DanMachi 16 | With Talaria and Hades Head, Asfi searches for Bell and Syr from the sky.[@fm16-search] |
 | DanMachi 17 | Asfi watches Folkvangr invisibly from the city wall and makes secret contact with Hestia and Hermes.[@fm17-watch, fm17-hestia, fm17-hermes] |
-| DanMachi 19 | Hermes and Bell drop into the School District with a spare.[@fm19-hermes] |
+| DanMachi 19 | Hermes and Bell drop into the School District with a Hades Head borrowed from Asfi's room.[@fm19-hermes] |
 
 {{inference}} The Sword Oratoria 3 and DanMachi 8 passages describe a black helmet of Asfi's that makes its wearer invisible without naming it; they are very probably Hades Heads.[@so03-ambush, fm08-report]
 
@@ -76,19 +77,21 @@ Flight in these scenes comes from Asfi's winged sandals, Talaria, not from the h
 [@fm05-broken]: FM05 | Chapter 5: The Outlaws’ Party | Bell's kick shatters the helmet.
 [@fm08-report]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Asfi disappears under a black helmet and flies off.
 [@fm10-spare]: FM10 | Chapter 8: City Panic | A spare Hades Head for Aisha and Lyu.
-[@fm10-discarded]: FM10 | Chapter 9: Dreams of Beasts | Discarded helmets worth hundreds of thousands of valis each.
-[@fm10-broken]: FM10 | Chapter 9: Dreams of Beasts | "By smell or a gut feeling"; Asfi's helmet broken.
+[@fm10-discarded]: FM10 | Chapter 9: Dreams of Beasts | Discarded helmets. The Japanese edition (file c3E7, paragraph 142) values these super-rare magic items of Perseus's make at no less than several million, if a price were put on them.
+[@fm10-broken]: FM10 | Chapter 9: Dreams of Beasts | "By smell or a gut feeling"; Asfi's helmet broken. The Japanese edition (file c59K, paragraph 434) says it grasped exactly where Asfi was.
 [@fm11-kaos]: FM11 | Chapter 4: A Skirmish in Daedalus Street | "Hades Head" and "the Kaos Head" in one comparison.
-[@fm11-survey]: FM11 | | Hermes: the Knossos survey with Hades Head and stink bags.
+[@fm11-survey]: FM11 | | Hermes: the Knossos survey with Hades Head and scent pouches (the Japanese edition, file c14W, paragraph 349).
 [@fm11-crizea]: FM11 | Chapter 6: A Deity’s Scheme | The invisible Asfi and the Crizea needle.
 [@fm16-search]: FM16 | Chapter 6: The Wish’s Cost | Talaria and Hades Head in the search.
 [@fm17-watch]: FM17 | Chapter 5: The End of Her World | Watching Folkvangr invisibly.
 [@fm17-hestia]: FM17 | Chapter 5: The End of Her World | Asfi releases her invisibility to meet Hestia.
 [@fm17-hermes]: FM17 | Chapter 5: The End of Her World | An invisible Asfi whispers to Hermes.
 [@fm17-limit]: FM17 | Chapter 5: The End of Her World | Only the wearer and their equipment; Hestia cannot be hidden.
-[@fm19-hermes]: FM19 | Chapter 2: School Heaven and Hell | A spare Hades Head and Talaria; "we became invisible".
+[@fm19-hermes]: FM19 | Chapter 2: School Heaven and Hell | A Hades Head and Talaria; "we became invisible". The Japanese edition (file part0019, paragraphs 188–192) says the helmet was borrowed from Asfi's room and calls only the Talaria spares.
 [@fm19-detect]: FM19 | Chapter 2: School Heaven and Hell | Items that pierce invisibility magic.
 [@fm19-decoy]: FM19 | Chapter 2: School Heaven and Hell | The helmet pulled off Bell; Hermes stays invisible.
 [@so03-ambush]: SO03 | Chapter 4: White-Haired Devil | Asfi's black helmet destroyed.
 [@so11-ten]: SO11 | Chapter 5: Obsession Manifest | Ten members with the same black helmet; the captured commander.
 [@so11-cover]: SO11 | Chapter 5: Obsession Manifest | Finn's forces as a diversion; Hades Head.
+[@fm10-hades-head-ja]: FM10 | | The Japanese edition writes the name in kanji meaning jet-black helm, with the reading Hades Head; the infobox gives the kanji.
+[@fm11-kaos-ja]: FM11 | | The Japanese edition reads the helmet as Kaos Head in this passage, writing it over kanji meaning the jet-black helmet, the words it reads elsewhere as Hades Head.

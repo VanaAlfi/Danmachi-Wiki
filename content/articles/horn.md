@@ -19,7 +19,7 @@
       {"label": "Name from", "value": "[[freya|Freya]], in exchange for her own", "refs": ["fm16-names"]},
       {"section": "Freya Familia"},
       {"label": "Position", "value": "Freya's attendant and head chamberlain", "refs": ["fm16-chamberlain"]},
-      {"label": "Title", "value": "None; known as \"Nameless\"", "refs": ["fm16-nameless"]},
+      {"label": "Title", "value": "None; known as \"Nameless\" ({{ja|名の無き女神の遣い}}, written *the nameless envoy of the goddess*)", "refs": ["fm16-nameless", "fm16-nameless-ja"]},
       {"label": "Magic", "value": "Vana Seiðr", "refs": ["fm16-names"]},
       {"label": "Also printed", "value": "{{small|*Helen* (Familia Chronicle 2)}}", "refs": ["fc02-helen"]}
     ]
@@ -83,3 +83,4 @@ In DanMachi 19 Freya has formally pardoned her, but her former comrades make her
 [@fc02-helen]: FC02 | Their Various Pasts | Helen.
 [@fc02-helen-ja]: FC02 | | The Japanese edition names Freya's attendant in the scenes about the exchange of names with the same name as in the later volumes.
 [@fm16-horn-ja]: FM16 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm16-nameless-ja]: FM16 | | The Japanese edition writes Nameless in kanji meaning the nameless envoy of the goddess, with the reading Nameless; the Title row gives the kanji.

@@ -14,12 +14,13 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ヘディン・セルランド}}", "refs": ["fm18-hedin-ja"]},
       {"label": "Race", "value": "[[races#white-elf|White elf]]", "refs": ["fc02-pair"]},
       {"label": "Former position", "value": "King of the white elves of Heodenings", "refs": ["fc02-past"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},
       {"label": "Level", "value": "5 in Astrea Record 1; 6 by Familia Chronicle 2", "refs": ["ar01-hedin", "fc02-pair"]},
-      {"label": "Title", "value": "Hildsleif", "refs": ["fm16-hedin"]},
+      {"label": "Title", "value": "Hildsleif ({{ja|白妖の魔杖}}, written *the white fairy's magic staff*)", "refs": ["fm16-hedin", "fm18-hedin-ja"]},
       {"label": "Magic", "value": "[[#caurus-hildr|Caurus Hildr]]; [[#valiant-hildr|Valiant Hildr]]; [[#laurus-hildr|Laurus Hildr]] (his third and final)", "refs": ["caurus-hildr.fc02-warsa", "valiant-hildr.ar01-street", "laurus-hildr.fm18-bell"]}
     ]
   }
@@ -36,7 +37,7 @@ Hedin and Hegni were the kings of rival white-elf and dark-elf states on the isl
 | Volume | Events |
 |---|---|
 | Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; his spells hold a front almost by himself.[@ar01-hedin] |
-| Minor Myths and Legends 2 | Forces [[royman|Royman]] of the [[guild|Guild]] to reveal the route Freya took into the desert.[@ss02-hedin] |
+| Minor Myths and Legends 2 | Demands that [[royman|Royman]] of the [[guild|Guild]] say why he let Freya leave the city.[@ss02-hedin] |
 | Sword Oratoria 13 | Tries to recruit [[lefiya|Lefiya]] for Freya Familia at an elf's café.[@so13-hedin] |
 | DanMachi 16 | Meets [[bell-cranell|Bell]] at a café, trains him for five days for [[syr-flover|Syr]]'s date, and runs the plan to guard it, while secretly steering pursuers away so Bell can grant Syr's wish.[@fm16-cafe, fm16-hedin] |
 | DanMachi 17 | Trains Bell harshly in [[folkvangr|Folkvangr]], yet dismisses his guard and lookouts, tells him to move forward, and lets him skip dinner. After the charm is broken he commands the estate's defence.[@fm17-hedin] |
@@ -67,11 +68,11 @@ The chant is one sentence, and every volume that prints it in full uses the same
 - **Chant:** "Struggle for eternity, indestructible soldiers of lightning."[@caurus-hildr.fc02-warsa, caurus-hildr.fm18-heith]
 - **Name:** "Caurus Hildr."[@caurus-hildr.fc02-warsa, caurus-hildr.fm18-heith]
 
-DanMachi 17 once prints only the chant's ending, "—soldiers of lightning", before the name.[@caurus-hildr.fm17-training]
+In the Japanese edition DanMachi 17 gives the full chant at both castings.[@caurus-hildr.fm17-training]
 
 #### Effect {#caurus-hildr-effect}
 
-Familia Chronicle 2 describes the lightning as orbs each the size of a human head, falling like "a thunderstorm of certain death".[@caurus-hildr.fc02-warsa] In DanMachi 17 [[bell-cranell|Bell]] sees it as bolts "the size of my head" and calls it wide-area destruction magic.[@caurus-hildr.fm17-training]
+Familia Chronicle 2 describes the lightning as orbs each the size of a human head, falling like "a thunderstorm of certain death".[@caurus-hildr.fc02-warsa] In DanMachi 17 [[bell-cranell|Bell]] sees it as bolts each the size of a person's head and calls it wide-area destruction magic.[@caurus-hildr.fm17-training]
 
 - **Aim:** Hedin aims the bolts. In Familia Chronicle 2 he tells his targets not to move because it "messes with my aiming".[@caurus-hildr.fc02-warsa] {{statement}} In DanMachi 18 he keeps up "concentrated precision fire" from several hundred meders away, then switches to arcing the lightning up into the sky to fall on the enemy from overhead.[@caurus-hildr.fm18-gulliver]
 - **Power:** In Astrea Record 3 Dina Dis thinks of it as "a low-power, precision-strike magic" that Hedin would use to avoid hitting [[hegni|Hegni]]; she is wrong about what he will cast next.[@caurus-hildr.ar03-dina] {{statement}}
@@ -136,7 +137,7 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@fc02-pair]: FC02 | Ali and the 8 Followers | Hedin and Hegni; Levels.
 [@fc02-past]: FC02 | Their Various Pasts | Heodenings.
 [@ar01-hedin]: AR01 | Chapter 9: The Opening Act of Evil | Hedin handles a front alone at Level 5.
-[@ss02-hedin]: SS02 | | Hedin and Royman.
+[@ss02-hedin]: SS02 | | Hedin and Royman. The Japanese edition (file part0070, paragraph 10) has Hedin demand why Royman let Freya out of the city.
 [@so13-hedin]: SO13 | | Hedin approaches Lefiya.
 [@fm16-hedin]: FM16 | | Hildsleif; magic control; training and the guard plan.
 [@fm16-cafe]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | The café meeting.
@@ -146,7 +147,7 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@caurus-hildr.fc02-warsa]: FC02 | Ali and the 8 Followers | "Just a single stanza"; super-short cast; head-sized orbs; "messes with my aiming".
 [@caurus-hildr.ar01-street]: AR01 | Chapter 11: Absolute Evil | Caurus Hildr from the belfry; "a barrage of smaller blasts".
 [@caurus-hildr.ar03-dina]: AR03 | Chapter 6: The Nameless Heroes | Dina's reasoning: "a low-power, precision-strike magic".
-[@caurus-hildr.fm17-training]: FM17 | Chapter 5: The End of Her World | Bell's training; "—soldiers of lightning"; wide-area destruction magic.
+[@caurus-hildr.fm17-training]: FM17 | Chapter 5: The End of Her World | Bell's training; wide-area destruction magic. The Japanese edition (file part0023_split_000, paragraphs 4 to 10, and paragraph 681) prints the whole one-sentence chant at both castings and makes each bolt the size of a person's head.
 [@caurus-hildr.fm18-heith]: FM18 | Chapter 9: Flower Language for You | The chant; Caurus Hildr against the Andhrímnir.
 [@caurus-hildr.fm18-gulliver]: FM18 | Chapter 9: Flower Language for You | Precision fire; the Gullivers use shields; arcing harassment strikes that hide Anya's casting.
 [@valiant-hildr.fc02-ottar]: FC02 | The Origin of the Strongest | Valiant Hildr stops Allen and Ottar; the crystal hill.
@@ -159,3 +160,4 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@fc02-knights]: FC02 | Ali and the 8 Followers | "Together, they were known as the black and white knights."
 [@so12-knights]: SO12 | Chapter 7: Final War II | "The black and white knights."
 [@fm18-knights]: FM18 | Chapter 9: Flower Language for You | "both kings died—and the white and black knights were born"; also "the black and white knights".
+[@fm18-hedin-ja]: FM18 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the white fairy's magic staff, with the reading Hildsleif; the infobox gives the printed name and the kanji.

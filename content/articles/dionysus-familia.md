@@ -31,7 +31,7 @@
 - **Strength:** according to the Guild's records it was "in the middle of the pack in terms of strength within the Labyrinth City", with quite a few Level 2 adventurers but none with notable achievements: "nothing particularly good or bad about the group, nothing special".[@so01-standing]
 - **Home:** a luxurious manor; an underground room holds Dionysus's prized wine cellar.[@so10-cellar, so11-manor]
 - **Captain:** Filvis, "A Level 3 magic swordsman".[@so04-filvis, so11-leader] Every party she joined after the Twenty-Seventh-Floor Nightmare was wiped out except for her, so she is called "Banshee", and "Even the members of her own Dionysus Familia kept a good distance from their leader".[@so11-aura, so03-distance]
-- **Second-in-command:** Aura Moriel, an elf mage, "A Level 2. Alias: Krater." She joined the Familia at the same time as Filvis, and in Sword Oratoria 11 she asks her: "Are you going to kill us this time, Banshee?"[@so11-aura]
+- **Second-in-command:** Aura Moriel, an elf mage titled *Krater* ({{ja|葡萄の杯}}, written *grape cup*)[@so11-krater-ja]: "A Level 2. Alias: Krater." She joined the Familia at the same time as Filvis, and in Sword Oratoria 11 she asks her: "Are you going to kill us this time, Banshee?"[@so11-aura]
 - **The dark age:** in Astrea Record 1 Filvis and Dionysus Familia "were proud to fight for Orario’s safety in the name of their lord".[@ar01-dark]
 
 ## The Twenty-Seventh-Floor Nightmare {#twenty-seventh-floor-nightmare}
@@ -68,3 +68,4 @@ Sword Oratoria 12 explains the Familia's "simultaneous Status seal": "They had n
 [@so12-nightmare]: SO12 | Chapter 6: The Divine Providence of Despair | "A sacrificial pass parade that the Evils had started in the middle of the floor. The awful incident had caused significant losses for both the Evils and the adventurers gathered under the Guild’s banner."; "A young Filvis had been there that day, along with the rest of Dionysus Familia"; "the mastermind of the incident, Olivas Act"; "The dead bodies of the rest of Dionysus Familia"; "had all been implanted with magic stones, but every last one had just turned into lumps of flesh that could do little more than moan incoherently."
 [@so13-funerals]: SO13 | | Printed heading "Prologue: The Sequel to Loss and Resolve" (not in the evidence map): "Those for Dionysus Familia, which was wiped out in the first assault, were handled by Loki Familia."
 [@ar01-dark]: AR01 | Chapter 9: The Opening Act of Evil | "She was Filvis Challia, and they were Dionysus Familia. All were proud to fight for Orario’s safety in the name of their lord."
+[@so11-krater-ja]: SO11 | | The Japanese edition (file c2MJ, paragraph 2) writes Aura Moriel's title in kanji meaning grape cup, with the reading Krater.

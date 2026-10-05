@@ -57,7 +57,7 @@ Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those resp
 
 ## Astrea after Orario
 
-Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Zolingam]], where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword [[equipment#alvs-iustitia|Alvs Iustitia]] made for her.[@fm18-zolingam] Lyu's magic [[magic#astrea-record-spell|Astrea Record]] lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond] In the DanMachi 18 Familia War she uses three of their spells by name: Alize's fire enchantment [[magic#agris-arvensis|Agris Arvensis]], Kaguya's [[magic#gokou|Gokou]] and Maryu's area healing, [[magic#rea-vindemia|Rea Vindemia]].[@fm18-names]
+Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Solingen]], where she lives with six girls, a new Familia.[@fc03-home] In DanMachi 18 she updates Lyu from Level 4 to Level 6 there and has the sword [[equipment#alvs-iustitia|Alvs Iustitia]] made for her.[@fm18-zolingam] Lyu's magic [[magic#astrea-record-spell|Astrea Record]] lets her use her dead companions' magic, and it survives her conversion because Astrea's first blessing stays in her.[@fc03-record, fm19-bond] In the DanMachi 18 Familia War she uses three of their spells by name: Alize's fire enchantment [[magic#agris-arvensis|Agris Arvensis]], Kaguya's [[magic#gokou|Gokou]] and Maryu's area healing, [[magic#rea-vindemia|Rea Vindemia]].[@fm18-names]
 
 {{nocite}} Related magic: [[magic#lunus-wolfsbane|Lunus Wolfsbane]], the curse of the new member Uranda, and Alfia's spells [[magic#satanas-verion|Satanas Verion]], [[magic#silentium-eden|Silentium Eden]] and [[magic#genos-angelus|Genos Angelus]].
 
@@ -78,7 +78,7 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@fm15-circle]: FM15 | Chapter 6: Meetings and Oaths | Alize and the welcome circle: "Noin, Neze, Lyra, Asta, Lyana, Kaguya, Celty, Iska, Maryu."
 [@fm15-alize]: FM15 | Chapter 6: Meetings and Oaths | Alize recruits Lyu.
 [@fm18-names]: FM18 | Chapter 9: Flower Language for You | Astrea Record in battle: Alize's, Kaguya's and Maryu's spells.
-[@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Astrea in Zolingam.
+[@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Astrea in Solingen.
 [@fm19-bond]: FM19 | Chapter 1: V-V-V for Victory Party | Astrea's ichor remains in Lyu's back.
 [@fc01-record]: FC01 | | Rank B; eleven second-tier members; Floor 41; twenty-one floor bosses.
 [@fc01-alize]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Alizé Rovel."

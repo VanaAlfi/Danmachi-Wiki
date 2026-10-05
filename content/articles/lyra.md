@@ -91,7 +91,7 @@ Familia Chronicle 3's short story set two years after the Great Conflict shows L
 - She brings Alize an order from Finn ("Who else? My hero!") to watch for suspicious activity. On [[floor-18|Floor 18]] she fights the [[evils|Evils]]' [[vito|Vito]] beside Alize and Kaguya.[@ar01-hero, ar01-vito]
 - In a clearing in the eastern forest of Floor 18, Lyana asks to be buried there if she dies, and Lyra answers, "Count me in."[@ar01-clearing] {{inference}} Lyu's later grave of mementos is also in the eastern forest of Floor 18.[@ar01-grave]
 - On patrol with Lyu and Kaguya she brushes off the god "Eren", who is [[erebus|Erebus]] in disguise; he calls her the level-headed one.[@ar01-eren, ar02-erebus]
-- On the night the Great Conflict begins she raids an Evils base with Alize, Kaguya, Lyu and Shakti's Ganesha Familia. She suspects a trap; when a child blows herself up and kills Shakti's sister Ardee, Lyra is the first to understand, holds Lyu back, and warns that the fallen enemies are "all rigged to blow".[@ar01-trap, ar01-ardee] The ambush is [[valletta|Valletta Grede]]'s.[@ar01-trap]
+- On the night the Great Conflict begins she raids an Evils base with Alize, Kaguya, Lyu and Shakti's Ganesha Familia. She suspects a trap; when a child blows herself up and kills Shakti's sister Adi {{small|printed *Ardee* in Astrea Record 1 and 2}}, Lyra is the first to understand, holds Lyu back, and warns that the fallen enemies are "all rigged to blow".[@ar01-trap, ar01-ardee] The ambush is [[valletta|Valletta Grede]]'s.[@ar01-trap]
 - When Alize senses that Astrea is in danger, Lyra backs her hunch and holds the line so that Alize can go: "If I die 'cause of this, I'm gonna spit on you from heaven!"[@ar01-hunch]
 
 ### Astrea Record 2

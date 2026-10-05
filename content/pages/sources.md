@@ -49,6 +49,9 @@ Facts that change over time, such as Levels, affiliations and abilities, are tie
 
 ## Images
 
-Infoboxes and the Gallery sections show official artwork from the DanMachi anime, light novels (Japanese editions), manga and games. Each image is labelled with its source and links to its file page on the DanMachi Fandom wiki, where it was taken from. Only files whose bytes matched Fandom's own record were used, and nothing from a volume not yet published in English.
+Infoboxes and the Gallery sections show official artwork from the DanMachi anime, light novels, manga and games. Each image is labelled with its source, and nothing comes from a volume not yet published in English.
+
+- **Light-novel illustrations labelled "English edition"** are taken from the official English ebooks (Yen Press). Each replaces the Japanese-edition file of the same picture, where the English edition prints that picture with its lettering (chapter headings, character names, cover titles) in English. Each was compared by eye with the file it replaced, and it is shown as the ebook has it, only resized for the web.
+- **All other images** come from the DanMachi Fandom wiki and link to their file page there. The light-novel illustrations among them are from the Japanese editions and are labelled so; most show no lettering, so both editions look the same. Only files whose bytes matched Fandom's own record were used.
 
 The images are illustrations for identification, not evidence: adaptation designs can differ from the novels, and no article states a fact because of a picture. Rights remain with the artwork's owners; the images are not freely licensed.

@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "Human captain of Ganesha Familia, the city watch, titled Ganesha's Cane, Ankusha. In the dark age she loses her sister Ardee to an Evils suicide bomber; years later she is one of the few people who know that Lyu Leon is alive.",
+  "summary": "Human captain of Ganesha Familia, the city watch, titled Ganesha's Cane, Ankusha. In the dark age she loses her sister Adi to an Evils suicide bomber; years later she is one of the few people who know that Lyu Leon is alive.",
   "aliases": ["Shakti", "Ankusha", "Ganesha's Cane"],
   "spoilers": "DanMachi Vols. 10, 11, 14, 18 and 20, Sword Oratoria Vol. 11, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
   "related": ["ganesha-familia", "lyu-leon", "astrea-familia", "valletta", "thanatos", "asterios"],
@@ -17,7 +17,7 @@
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm10-shakti", "fc03-shakti"]},
       {"label": "Height", "value": "Easily over 170 celch", "refs": ["fm10-shakti"]},
       {"label": "Hair", "value": "Blue (printed bluish, indigo and azure)", "refs": ["fm10-shakti", "fm11-recovery", "fc01-casino"]},
-      {"label": "Family", "value": "Ardee Varma (printed Adi in DanMachi 14 and Familia Chronicle 3), died in the dark age", "refs": ["ar01-ardee", "fm14-adi", "fc03-shakti"]},
+      {"label": "Family", "value": "Adi Varma {{small|printed *Ardee* in Astrea Record 1 and 2}}, died in the dark age", "refs": ["ar01-ardee", "fm14-adi", "fc03-shakti"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[ganesha-familia|Ganesha Familia]], captain", "refs": ["fm10-shakti", "ar01-alize"]},
       {"label": "Title", "value": "Ganesha's Cane, Ankusha ({{ja|象神の杖}}, written *the elephant god's staff*)", "refs": ["fm10-shakti", "fm20-orariad", "fc01-ankusha-ja"]},
@@ -27,25 +27,25 @@
   }
 }
 ---
-**Shakti Varma** is the captain of [[ganesha-familia|Ganesha Familia]], the Familia that serves as [[orario|Orario]]'s city watch.[@ar02-speech, fm10-shakti] Titled *[[ganesha|Ganesha]]'s Cane, Ankusha*, she ranks alongside [[aiz-wallenstein|Aiz]] as a first-tier human adventurer.[@fm10-shakti] In the dark age told in Astrea Record she is a close friend of [[astrea-familia|Astrea Familia]], and she loses her younger sister Ardee to [[evils|the Evils]].[@ar01-alize, ar01-ardee] In the main series she is one of very few people who know that [[lyu-leon|Lyu Leon]] is still alive.[@fc01-casino]
+**Shakti Varma** is the captain of [[ganesha-familia|Ganesha Familia]], the Familia that serves as [[orario|Orario]]'s city watch.[@ar02-speech, fm10-shakti] Titled *[[ganesha|Ganesha]]'s Cane, Ankusha*, she ranks alongside [[aiz-wallenstein|Aiz]] as a first-tier human adventurer.[@fm10-shakti] In the dark age told in Astrea Record she is a close friend of [[astrea-familia|Astrea Familia]], and she loses her younger sister Adi to [[evils|the Evils]].[@ar01-alize, ar01-ardee] In the main series she is one of very few people who know that [[lyu-leon|Lyu Leon]] is still alive.[@fc01-casino]
 
 ## Appearance and character
 
-Shakti is tall, easily over 170 celch, with blue hair cut precisely at the nape of her neck; DanMachi 10 calls her a ravishing beauty with an intelligent poise.[@fm10-shakti] The colour is printed "bluish", "indigo" and "azure" in different volumes.[@fm10-shakti, fm11-recovery, fc01-casino] Her younger sister thought her strict and stern.[@fc03-adi] Her faith in her god sets the tone for the Familia: "We serve the Lord of the Masses, Ganesha," she tells her restless officers.[@fm10-faith] The first-tier Amazon [[ilta-faana|Ilta Faana]] calls her "sister" and defers to her.[@fm10-shakti] Shakti and Ardee once caught and punished Ilta, who had been one of the city's most lawless newcomers.[@fm18-ilta]
+Shakti is tall, easily over 170 celch, with blue hair cut precisely at the nape of her neck; DanMachi 10 calls her a ravishing beauty with an intelligent poise.[@fm10-shakti] The colour is printed "bluish", "indigo" and "azure" in different volumes.[@fm10-shakti, fm11-recovery, fc01-casino] Her younger sister thought her strict and stern.[@fc03-adi] Her faith in her god sets the tone for the Familia: "We serve the Lord of the Masses, Ganesha," she tells her restless officers.[@fm10-faith] The first-tier Amazon [[ilta-faana|Ilta Faana]] calls her "sister" and defers to her.[@fm10-shakti] Shakti and Adi once caught and punished Ilta, who had been one of the city's most lawless newcomers.[@fm18-ilta]
 
 ## The dark age
 
-In Astrea Record 1, set in Orario's dark age, Shakti leads Ganesha Familia against the Evils and is a sworn ally of Astrea Familia's captain, [[alize-lovell|Alize]].[@ar01-alize] She and Ardee raid a black-market church, where a hooded woman, later revealed as [[alfia|Alfia]], has already knocked out the Evils inside; with one spell she throws as many as twenty of Shakti's fighters, Shakti included, against the wall.[@ar01-church] At the council of Familia leaders Shakti reports the unknown woman who beat about thirty trained warriors, herself among them.[@ar01-council]
+In Astrea Record 1, set in Orario's dark age, Shakti leads Ganesha Familia against the Evils and is a sworn ally of Astrea Familia's captain, [[alize-lovell|Alize]].[@ar01-alize] She and Adi raid a black-market church, where a hooded woman, later revealed as [[alfia|Alfia]], has already knocked out the Evils inside; with one spell she throws as many as twenty of Shakti's fighters, Shakti included, against the wall.[@ar01-church] At the council of Familia leaders Shakti reports the unknown woman who beat about thirty trained warriors, herself among them.[@ar01-council]
 
-Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level 4, fights the Level 5 Valletta alongside Alize, using teamwork against her higher Status.[@ar01-valletta] During the fight a little girl in Evils robes attacks Ardee. Ardee lowers her sword to save her, and the girl sets off a bomb concealed on her body. Valletta crows that the god [[thanatos|Thanatos]] tricked the child into it with a promise of seeing her parents again. Nothing is left of Ardee to bury but her sword.[@ar01-ardee] Bloodied and dazed, Shakti carries the screaming Lyu out of the collapsing building.[@ar01-rescue]
+Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level 4, fights the Level 5 Valletta alongside Alize, using teamwork against her higher Status.[@ar01-valletta] During the fight a little girl in Evils robes attacks Adi. Adi lowers her sword to save her, and the girl sets off a bomb concealed on her body. Valletta crows that the god [[thanatos|Thanatos]] tricked the child into it with a promise of seeing her parents again. Nothing is left of Adi to bury but her sword.[@ar01-ardee] Bloodied and dazed, Shakti carries the screaming Lyu out of the collapsing building.[@ar01-rescue]
 
 ## "That is my justice"
 
-In Astrea Record 2 Shakti tells her troops never to show mercy to their foes and calls Ardee's death a mistake that none of them must repeat. When Lyu confronts her, she replies that Ardee "died for it", and that using even her sister's memory to keep people alive "is my justice". Lyu runs from her.[@ar02-speech]
+In Astrea Record 2 Shakti tells her troops never to show mercy to their foes and calls Adi's death a mistake that none of them must repeat. When Lyu confronts her, she replies that Adi "died for it", and that using even her sister's memory to keep people alive "is my justice". Lyu runs from her.[@ar02-speech]
 
-Later she visits Astrea Familia's home with a branch of the holy tree from Lyu's birthplace, Lumirua Forest {{small|printed *Lyumilua Forest* in Astrea Record 2}}, seized from the black market, and tells Lyu that Ardee wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Ardee that day, "it made me happy". She then visits Ardee's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
+Later she visits Astrea Familia's home with a branch of the holy tree from Lyu's birthplace, Lumirua Forest {{small|printed *Lyumilua Forest* in Astrea Record 2}}, seized from the black market, and tells Lyu that Adi wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Adi that day, "it made me happy". She then visits Adi's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
 
-In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]] entrusts her with the command of the southwest district.[@ar03-command] Lyu afterwards carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword]
+In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]] entrusts her with the command of the southwest district.[@ar03-command] Lyu afterwards carries Adi's sword, Sacred Oath, with Shakti's permission.[@ar03-sword]
 
 ## The main series
 

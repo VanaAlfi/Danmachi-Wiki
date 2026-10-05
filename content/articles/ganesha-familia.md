@@ -9,6 +9,9 @@
   "aliases": [],
   "spoilers": "DanMachi Vols. 1, 9, 10, 18–20, Sword Oratoria Vols. 1, 2, 11, 12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["ganesha", "xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
+  "sections": [
+    {"anchor": "shakti-and-adi", "title": "Shakti and Adi", "summary": "The captain, Shakti Varma (Ankusha), and her younger sister Adi Varma, who dies in Astrea Record 1: her sword, Skills and spells.", "former_anchors": ["shakti-and-ardee"]}
+  ],
   "infobox": {
     "title": "Ganesha Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -16,7 +19,7 @@
       {"section": "Familia"},
       {"label": "Japanese", "value": "{{ja|ガネーシャ・ファミリア}}", "refs": ["fm10-ganesha-familia-ja"]},
       {"label": "Deity", "value": "[[ganesha|Ganesha]]", "refs": ["fm01-ganesha"]},
-      {"label": "Home", "value": "[[ganesha#i-am-ganesha|I Am Ganesha]], in south-west Orario", "refs": ["fm10-standing"]},
+      {"label": "Home", "value": "[[ganesha#iam-ganesha|Iam Ganesha]], in south-west Orario", "refs": ["fm10-standing"]},
       {"label": "Captain", "value": "Shakti Varma, titled Ankusha", "refs": ["fc01-shakti"]},
       {"label": "Vice-captain", "value": "[[ilta-faana|Ilta Faana]], titled Paluza", "refs": ["fm18-ilta", "so12-paluza"]},
       {"label": "Known for", "value": "Hosting Monsterphilia; keeping live monsters", "refs": ["fm01-ganesha", "fm09-monsters"]}
@@ -28,15 +31,15 @@
 
 ## Standing
 
-DanMachi 10 calls Ganesha Familia, also known as *Orario's Peacekeepers*, Orario's largest Familia by membership if the Guild's figures are right. It has an S Rank and is named alongside [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]]; its members are stationed at all of the city's gates, and citizens hold them in high esteem.[@fm10-standing] It has more first-tier adventurers than any other Familia, eleven, though "All of them might only have been at Level 5".[@fm10-first-tier] Its home, *I Am Ganesha* (also printed *Aiam Ganesha* and *Iam Ganesha*), is a giant statue of the god; see [[ganesha#i-am-ganesha|Ganesha § I Am Ganesha]].[@fm10-standing]
+DanMachi 10 calls Ganesha Familia, also known as *Orario's Peacekeepers*, Orario's largest Familia by membership if the Guild's figures are right. It has an S Rank and is named alongside [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]]; its members are stationed at all of the city's gates, and citizens hold them in high esteem.[@fm10-standing] It has more first-tier adventurers than any other Familia, eleven, though "All of them might only have been at Level 5".[@fm10-first-tier] Its home, *Iam Ganesha* (also printed *Aiam Ganesha* and *I Am Ganesha*), is a giant statue of the god; see [[ganesha#iam-ganesha|Ganesha § Iam Ganesha]].[@fm10-standing]
 
 ## Monsterphilia
 
 Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use it to promote friendship with monsters and to lay the social groundwork for coexistence.[@fm10-purpose] Ganesha knows of Ouranos's plan for the [[xenos|Xenos]].[@fm09-network] In DanMachi 1 the [[guild|Guild]] staff and Ganesha Familia members guarding the festival's west gate are found in a trance, and the monsters escape.[@fm01-gate, so01-trance]
 
-## Shakti and Ardee
+## Shakti and Adi
 
-The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood ({{ja|守人血統}}, written *guardian bloodline*) and Dharmas Algo ({{ja|正義巡継}}, written *justice passed on in turn*), the second a passive boost for Familia members around her.[@skills.ar02-sheet, ardee-sheet.ar02-ja] The same sheet lists two spells, Ghana Avimutta ({{ja|ガーナ・アヴィムサ}}, read *Gāna Avimusa*) and Dia Kaumudi; see [[magic#ardee-varma-spells|Magic § Ardee Varma's spells]].[@ardee-varma-spells.ar02-sheet, ardee-sheet.ar02-ja]
+The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Adi {{small|printed *Ardee* in Astrea Record 1 and 2}}, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Adi's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 gives her full name, Adi Varma.[@fc03-adi] Adi's character sheet at the end of Astrea Record 2 lists two [[skills#adi-skills|Skills]], Ganapati Blood ({{ja|守人血統}}, written *guardian bloodline*) and Dharmas Algo ({{ja|正義巡継}}, written *justice passed on in turn*), the second a passive boost for Familia members around her.[@skills.ar02-sheet, ardee-sheet.ar02-ja] The same sheet lists two spells, Ghana Avimutta ({{ja|ガーナ・アヴィムサ}}, read *Gāna Avimusa*) and Dia Kaumudi; see [[magic#adi-varma-spells|Magic § Adi Varma's spells]].[@ardee-varma-spells.ar02-sheet, ardee-sheet.ar02-ja]
 
 The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. She was one of the city's most lawless newcomers until Shakti and her sister caught and punished her, and she now calls Shakti "sister".[@fm18-ilta, so12-paluza] In DanMachi 20 she and Shakti win the third round of the [[orariad|Orariad]] against the School District.[@fm20-orariad]
 
@@ -69,7 +72,7 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@so12-losses]: SO12 | | Ganesha Familia's dead.
 [@fc01-shakti]: FC01 | | Shakti, Ankusha; Lyu's secret.
 [@fc03-adi]: FC03 | Girl in Twilight | "Adi Varma."
-[@ar01-shakti]: AR01 | | Shakti loses Ardee.
+[@ar01-shakti]: AR01 | | Shakti loses Adi.
 [@ar02-shakti]: AR02 | | Shakti chooses the future.
 [@ardee-sheet.ar02-ja]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): the Japanese edition prints Ganapati Blood as the reading of kanji meaning guardian bloodline, Dharmas Algo as the reading of kanji meaning justice passed on in turn, and the first spell's name in katakana read Gāna Avimusa.
 [@skills.ar02-sheet]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Ganapati Blood, Dharmas Algo.

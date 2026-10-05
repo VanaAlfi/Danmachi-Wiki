@@ -45,7 +45,7 @@ In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked 
 | DanMachi 11 | Has Asfi forge Daedalus's notebook, and coerces the [[xenos|Xenos]] into staging an attack, carried out by [[gros|Gros]], who volunteers, and three others, meant to force Bell to kill them; he places a linked bracelet on [[eina-tulle|Eina]] as the target. Bell's trust in Gros and [[asterios|Asterios]]'s arrival wreck the plan.[@fm11-plan, fm11-bracelet] |
 | Sword Oratoria 11 | Proposes the Guild expedition that keeps Bell away from the assault on [[knossos|Knossos]].[@so11-hermes] |
 | DanMachi 17 | Notices Freya's charm through contradictions and notes he left for himself across repeated memory resets. His Familia delivers firewood treated with Hestia's ichor to homes across the city, which lets Hestia break the charm.[@fm17-hermes, fm17-firewood] |
-| DanMachi 18 | His information and Asfi's help bring Lyu to [[astrea|Astrea]] in [[zolingam|Zolingam]].[@fm18-zolingam] |
+| DanMachi 18 | His information and Asfi's help bring Lyu to [[astrea|Astrea]] in [[zolingam|Solingen]].[@fm18-zolingam] |
 
 In Astrea Record 3's epilogue, Hermes tells Bell about the [[great-conflict|Great Conflict]].[@ar03-hermes]
 

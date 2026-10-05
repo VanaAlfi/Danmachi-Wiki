@@ -10,8 +10,8 @@
   "spoilers": "DanMachi Vols. 1, 2, 4–9, 11–15, 18, 19, Sword Oratoria Vols. 1–5, 8, 11, 12, 14, Familia Chronicle Vol. 3 and Astrea Record Vol. 2",
   "related": ["miach-familia", "dian-cecht-familia", "amid", "development-ability", "monsters", "dungeon"],
   "sections": [
-    {"anchor": "potion", "title": "Potion", "summary": "The basic healing potion: blue liquid in a round flask that restores physical strength; Miach Familia's cheapest cost 500 vals.", "aliases": ["Healing potion", "Health potion", "Recovery potion", "Normal potion"]},
-    {"anchor": "high-potion", "title": "High potion", "summary": "A stronger potion, worth tens of thousands of vals, that can stop bleeding and mend broken bones.", "aliases": ["High potions"]},
+    {"anchor": "potion", "title": "Potion", "summary": "The basic healing potion: blue liquid in a round flask that restores physical strength; Miach Familia's cheapest cost 500 valis.", "aliases": ["Healing potion", "Health potion", "Recovery potion", "Normal potion"]},
+    {"anchor": "high-potion", "title": "High potion", "summary": "A stronger potion, worth tens of thousands of valis, that can stop bleeding and mend broken bones.", "aliases": ["High potions"]},
     {"anchor": "elixir", "title": "Elixir", "summary": "The most expensive healing potion, at least 500,000 valis a bottle at Dian Cecht Familia; it cannot restore lost limbs.", "aliases": ["Elixirs", "Tiger Cub Elixir"]},
     {"anchor": "magic-potion", "title": "Magic potion", "summary": "Medicine that restores Mind and holds off Mind Down; stronger kinds are printed high magic potion, high-magic potion and high-mind potion.", "aliases": ["Magic potions", "High magic potion", "High-magic potion", "High-mind potion"]},
     {"anchor": "dual-potion", "title": "Dual potion", "summary": "Nahza of Miach Familia's invention, restoring both physical strength and Mind; also printed double potion; her later high dual potion restores both completely.", "aliases": ["Double potion", "Dual Potion", "High dual potion", "High Dual Potion"]},
@@ -26,7 +26,7 @@
       {"label": "Makers", "value": "Sales Familias such as [[miach-familia|Miach Familia]] and [[dian-cecht-familia|Dian Cecht Familia]]", "refs": ["fm02-shop", "fm02-cheapest", "so01-elixirs"]},
       {"label": "Development Ability", "value": "[[development-ability#compounding|Compounding]]", "refs": ["fm15-compounding"]},
       {"section": "Prices"},
-      {"label": "Cheapest potion", "value": "500 vals (Miach Familia)", "refs": ["fm01-price", "fm02-cheapest"]},
+      {"label": "Cheapest potion", "value": "500 valis (Miach Familia)", "refs": ["fm01-price", "fm02-cheapest"]},
       {"label": "Elixir", "value": "At least 500,000 valis (Dian Cecht Familia)", "refs": ["so01-elixirs"]}
     ]
   }
@@ -40,8 +40,8 @@
 
 | Item | Restores | Notes |
 |---|---|---|
-| [[#potion|Potion]] | Physical strength | Miach Familia's cheapest: 500 vals.[@fm02-cheapest] |
-| [[#high-potion|High potion]] | Severe wounds | Tens of thousands of vals.[@fm02-highprice, fm05-severe] |
+| [[#potion|Potion]] | Physical strength | Miach Familia's cheapest: 500 valis.[@fm02-cheapest] |
+| [[#high-potion|High potion]] | Severe wounds | Tens of thousands of valis.[@fm02-highprice, fm05-severe] |
 | [[#elixir|Elixir]] | Severe wounds | At least 500,000 valis at Dian Cecht Familia.[@so01-elixirs] |
 | [[#magic-potion|Magic potion]] | Mind | Holds off Mind Down.[@fm02-mind, fc03-mind] |
 | [[#dual-potion|Dual potion]] | Body and Mind | Nahza's invention, Miach Familia's signature product.[@fm04-double, fm08-signature] |
@@ -49,7 +49,7 @@
 
 ## Makers and limits {#makers}
 
-Potions come from Familias that specialise in sales, among them [[miach-familia|Miach Familia]], whose cheapest potions cost 500 vals, and [[dian-cecht-familia|Dian Cecht Familia]], whose stock includes elixirs.[@fm02-shop, fm02-cheapest, so01-elixirs] The Development Ability [[development-ability#compounding|Compounding]], often acquired by herbalists, is used chiefly to create medicines and can make items such as recovery potions so effective that they "almost seemed like magic".[@fm15-compounding]
+Potions come from Familias that specialise in sales, among them [[miach-familia|Miach Familia]], whose cheapest potions cost 500 valis, and [[dian-cecht-familia|Dian Cecht Familia]], whose stock includes elixirs.[@fm02-shop, fm02-cheapest, so01-elixirs] The Development Ability [[development-ability#compounding|Compounding]], often acquired by herbalists, is used chiefly to create medicines and can make items such as recovery potions so effective that they "almost seemed like magic".[@fm15-compounding]
 
 Healing items have limits. High potions can mend a broken bone, but they can force it to heal at the wrong angle if it is not set first, and other healing items and magic can do the same.[@fm09-bones] Even an elixir cannot bring back Wiene's lost claws and wing.[@fm11-limbs] On the expedition of DanMachi 12, potions and antidotes are useless against an ivy that has taken root in the wounded; they even "do the opposite of what we want".[@fm12-ivy]
 
@@ -73,13 +73,13 @@ The School District's electives include the study of secret medicines, a differe
 
 ## Magic potion {#magic-potion}
 
-A magic potion ({{ja|精神力回復薬}}, written *Mind-recovery medicine*)[@magic-potion.fm05-ja] is "Medicine that healed the mind".[@fm02-mind] In DanMachi 2 [[miach-familia|Nahza]] sells Bell one for 8,700 vals, throwing in two potions to make an even 9,000; in DanMachi 4 he counts that magic potion as the deciding factor in a desperate battle.[@fm02-highprice, fm04-mind] Magic potions keep casters from Mind Down: Astrea hands one to Lyu on the verge of it, and in the Familia War Haruhime works through her whole stock.[@fc03-mind, fm18-mindown] In Sword Oratoria 4 Finn calls "Raul, ready a magic potion!" and Aiz drains it mid-run before returning to the front; in Sword Oratoria 14 [[riveria|Riveria]], kept going by the magic potions Aina supplies, passes out on reaching the sunlight, having "blown through Mind Down and all the way to absolute empty".[@so04-raul, so14-riveria] After the Xenos affair Lido offers Haruhime "a really old magic potion that belonged to an adventurer", and in Astrea Record 2 Kaguya, with no waterskin, tosses the parched Lyra a magic potion instead.[@fm11-lido, ar02-lyra]
+A magic potion ({{ja|精神力回復薬}}, written *Mind-recovery medicine*)[@magic-potion.fm05-ja] is "Medicine that healed the mind".[@fm02-mind] In DanMachi 2 [[miach-familia|Nahza]] sells Bell one for 8,700 valis, throwing in two potions to make an even 9,000; in DanMachi 4 he counts that magic potion as the deciding factor in a desperate battle.[@fm02-highprice, fm04-mind] Magic potions keep casters from Mind Down: Astrea hands one to Lyu on the verge of it, and in the Familia War Haruhime works through her whole stock.[@fc03-mind, fm18-mindown] In Sword Oratoria 4 Finn calls "Raul, ready a magic potion!" and Aiz drains it mid-run before returning to the front; in Sword Oratoria 14 [[riveria|Riveria]], kept going by the magic potions Aina supplies, passes out on reaching the sunlight, having "blown through Mind Down and all the way to absolute empty".[@so04-raul, so14-riveria] After the Xenos affair Lido offers Haruhime "a really old magic potion that belonged to an adventurer", and in Astrea Record 2 Kaguya, with no waterskin, tosses the parched Lyra a magic potion instead.[@fm11-lido, ar02-lyra]
 
 Stronger kinds are printed in three forms: *high-mind potion* (DanMachi 7), *high-magic potion*, sold with the Dian Cecht Familia seal (Sword Oratoria 4), and *high magic potion* (DanMachi 18).[@fm07-highmind, so04-highmagic, fm18-highmagic]
 
 ## Dual potion {#dual-potion}
 
-The dual potion ({{ja|二属性回復薬}}, written *two-attribute recovery medicine*)[@dual-potion.fm05-ja] restores physical strength and Mind together. In DanMachi 4 [[miach|Miach]] presents it to [[dian-cecht|Dian Cecht]] as his Familia's latest product, "the first of its kind", which Dian Cecht Familia could sell at a high price; Miach and Nahza race to produce it after collecting eggs in the Deep Forest Seoro.[@fm04-double] It is Nahza's creation and Miach Familia's signature product.[@fm05-nahza, fm08-signature] Dual potions normally cost tens of thousands of vals.[@fm06-discount] In the War Game of DanMachi 6 Bell fights on after Argonaut "despite drinking one of Nahza’s dual potions"; in DanMachi 9 Mikoto, her Mind "little more than fumes", drinks a whole one; in DanMachi 11 he gulps down "several dual potions that Hestia gave him".[@fm06-wargame, fm09-dual-mikoto, fm11-dual]
+The dual potion ({{ja|二属性回復薬}}, written *two-attribute recovery medicine*)[@dual-potion.fm05-ja] restores physical strength and Mind together. In DanMachi 4 [[miach|Miach]] presents it to [[dian-cecht|Dian Cecht]] as his Familia's latest product, "the first of its kind", which Dian Cecht Familia could sell at a high price; Miach and Nahza race to produce it after collecting eggs in the Deep Forest Seoro.[@fm04-double] It is Nahza's creation and Miach Familia's signature product.[@fm05-nahza, fm08-signature] Dual potions normally cost tens of thousands of valis.[@fm06-discount] In the War Game of DanMachi 6 Bell fights on after Argonaut "despite drinking one of Nahza’s dual potions"; in DanMachi 9 Mikoto, her Mind "little more than fumes", drinks a whole one; in DanMachi 11 he gulps down "several dual potions that Hestia gave him".[@fm06-wargame, fm09-dual-mikoto, fm11-dual]
 
 **Name:** DanMachi 4, 5 and 8 print *double potion*; DanMachi 6 and later volumes print *dual potion*, sometimes capitalised *Dual Potion*.[@fm04-double, fm05-nahza, fm08-signature, fm06-discount, fm09-dual, fm18-newelixir]
 
@@ -92,7 +92,7 @@ Antidotes ({{ja|解毒薬}})[@antidote.fm09-ja] are green fluid in cylindrical t
 Against curses there are remedies of another kind: on the day of the attack in Sword Oratoria 8, [[amid|Amid]] makes a curse-breaking magic item, an anti-curse secret remedy, from her own curse-exposed blood; it is not an elixir.[@so08-anticurse]
 
 [@fm01-price]: FM01 | Chapter 2: That’s Why I Run | "one healing potion costs 500 vals a pop".
-[@fm02-highprice]: FM02 | Chapter 4: Divine Wine | Nahza's high potion "worth tens of thousands of vals"; an item for 8,700 vals with two potions for 9,000.
+[@fm02-highprice]: FM02 | Chapter 4: Divine Wine | Nahza's high potion "worth tens of thousands of vals"; an item for 8,700 valis with two potions for 9,000.
 [@fm02-cheapest]: FM02 | Chapter 4: Divine Wine | "Miach Familia’s cheapest potions are 500 vals apiece."
 [@fm02-shop]: FM02 | Chapter 4: Divine Wine | Potions, antidotes and elixirs on a shop's shelves, made by sales Familias.
 [@fm02-mind]: FM02 | Chapter 5: Reset | "Magic Potion." Medicine that healed the mind.
@@ -113,7 +113,7 @@ Against curses there are remedies of another kind: on the day of the attack in S
 [@fm12-ivy]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): potions and antidotes useless against the ivy.
 [@fm12-highdual]: FM12 | Chapter 6: The Hero’s Sacred Flame | Nahza's new High Dual Potions restore physical and mental strength.
 [@fm13-tiger]: FM13 | Chapter 4: Countdown | Two High Dual Potions among the party's items. The Japanese edition (file c3DX, paragraph 305) calls them the party's treasured High Dual Potions, using a common idiom for a precious reserve.
-[@fm14-asfi]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Ways to put out the Amphisbaena's blue napalm: Amid's anti-napalm heal "not only snuffed out flames, it also healed the skin they had burned"; Perseus "had developed a similar magic item", "an antidote" in the Yen Press text: "It didn’t help with recovery, but it was universally acknowledged to put out flames."
+[@fm14-asfi]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Ways to put out the Amphisbaena's blue napalm: Amid's anti-napalm heal "not only snuffed out flames, it also healed the skin they had burned"; Perseus "had developed a similar magic item": "It didn’t help with recovery, but it was universally acknowledged to put out flames."
 [@fm14-quality]: FM14 | Chapter 12: Forlorn Hope in the Dungeon | "a high-quality antidote or detoxifying magic". The Japanese edition (file c8MW, paragraph 73) says high-grade detoxifying magic, or an antidote.
 [@fm15-compounding]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Compounding, the herbalists' Development Ability for medicines and recovery potions.
 [@fm18-nahza]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Nahza: "I’ll try the elixirs that were always out of reach, too."

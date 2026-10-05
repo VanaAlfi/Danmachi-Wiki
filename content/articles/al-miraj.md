@@ -50,7 +50,7 @@ DanMachi 5 prints the name capitalised, *Al-Miraj*; DanMachi 7 prints *almirage*
 | DanMachi 5 | On Floor 18, an al-miraj appears near the captive [[hestia|Hestia]]. Her guards are spattered with fruit and chased off by three hungry [[monsters#bugbear|bugbears]], and the al-miraj turns out to be Lilly, transformed with [[magic#cinder-ella|Cinder Ella]].[@fm05-floors, fm05-lilly] |
 | DanMachi 9 | Bell sees his reflection in an al-miraj's red eyes, hesitates, and is knocked flat.[@fm09-hesitate] |
 | Sword Oratoria 8 | [[lena-tully|Lena]] cries that an al-miraj is adorable as she sends it flying.[@so08-lena] |
-| Sword Oratoria 13 | In a monster parade, [[lefiya|Lefiya]] sees that the ranged attacks of the al-miraj and hellhounds at the back need caution, and wipes out that back line first ([[balder-class#seventh-squad|7th Squad]]).[@so13-parade] |
+| Sword Oratoria 13 | In a monster parade, [[lefiya|Lefiya]] sees that the ranged attacks of the al-miraj and hellhounds at the back need caution, and wipes out that back line first ([[balder#seventh-squad|7th Squad]]).[@so13-parade] |
 
 The rabbit look is a running joke about Bell. Lilly's first words on seeing al-miraj are "Is that…Mr. Bell?!"; when Tiona meets Aruru, the narration calls her "The monster resembling a certain boy"; and at Aruru's first meeting with Bell the narration puts *rabbits* in quotation marks for both of them.[@fm05-joke, fm10-tiona, fm09-aruru]
 
@@ -77,12 +77,12 @@ The narration calls Aruru "she", and Rei confirms it.[@fm09-aruru] Helga's sex i
 
 [@fm05-rabbit]: FM05 | | "basically needle rabbits that learned how to walk on two legs"; "First appearing on level thirteen".
 [@fm05-ja-rabbit]: FM05 | | Japanese original (file part0011, paragraph 108): long ears bobbing about, white-and-yellow fur, a bushy tail, and a sharp single horn on the forehead. Yen Press prints floppy ears and a long sharp horn.
-[@fm05-level]: FM05 | | "some of the weakest monsters in the middle levels"; "classified as Level 2 monsters"; "surprisingly dangerous in groups".
-[@fm05-ja-level]: FM05 | | Japanese original (file part0011, paragraphs 123, 124 and 318): a species with low combat ability, whose Level 2 is a threat evaluation, exceedingly strong in group fighting; even adventurers with upper Level 1 Status can only just manage to fight one; the al-miraj boast high agility even in the middle levels, with no ranking. Yen Press prints "some of the weakest", "hold their own" and "one of the most agile".
+[@fm05-level]: FM05 | | "classified as Level 2 monsters"; "surprisingly dangerous in groups".
+[@fm05-ja-level]: FM05 | | Japanese original (file part0011, paragraphs 123, 124 and 318): a species with low combat ability, whose Level 2 is a threat evaluation, exceedingly strong in group fighting; even adventurers with upper Level 1 Status can only just manage to fight one; the al-miraj boast high agility even in the middle levels, with no ranking.
 [@fm05-tomahawk]: FM05 | | "smash them open with a hard stomp"; "It looks like a small tomahawk"; "landform weapons".
 [@fm05-ja-tomahawk]: FM05 | | Japanese original (file part0011, paragraphs 118, 119 and 297): they smash the large rocks at hand and take new natural weapons out of them; the question is whether many of the rocks in the passage are the labyrinth's armouries (landform), not all; there is no stomp.
 [@fm05-joke]: FM05 | | Lilly: "Is that…Mr. Bell?!"
-[@fm05-mikoto]: FM05 | | "a group of seven Al-Miraj"; "a tomahawk throw"; "a netlike formation"; "one of the most agile monsters in the middle levels".
+[@fm05-mikoto]: FM05 | | "a group of seven Al-Miraj"; "a tomahawk throw"; "a netlike formation".
 [@fm05-bell]: FM05 | | "Welf’s Status was greater than or equal to the Al-Miraj"; "Executing a pass parade now"; "almost double the number of Al-Miraj"; "a few hellhounds".
 [@fm05-lyu]: FM05 | Chapter 3: Dungeon Death March | "armed with stone tomahawks, this floor’s landform weapon"; "caught the second with her bare hand"; "Once known by the title “Gale Wind,”".
 [@fm05-floors]: FM05 | Chapter 5: The Outlaws’ Party | "why would there be an Al-Miraj on the eighteenth…?"; "only appeared on the thirteenth and fourteenth floors".

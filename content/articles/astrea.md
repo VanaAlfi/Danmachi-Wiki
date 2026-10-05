@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "Goddess of justice and order and head of Astrea Familia, who holds that there is no absolute justice, only many justices that can work together. In the Great Conflict she tends the wounded, answers Erebus and finally sends him back to the heavens. After her Familia's destruction she left Orario at Lyu's urging; in DanMachi 18 she raises Lyu to Level 6 in Zolingam.",
+  "summary": "Goddess of justice and order and head of Astrea Familia, who holds that there is no absolute justice, only many justices that can work together. In the Great Conflict she tends the wounded, answers Erebus and finally sends him back to the heavens. After her Familia's destruction she left Orario at Lyu's urging; in DanMachi 18 she raises Lyu to Level 6 in Solingen.",
   "aliases": ["Astria", "Goddess of justice", "Lady Astrea"],
   "spoilers": "DanMachi Vols. 5, 6, 14, 18, 19, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["astrea-familia", "lyu-leon", "erebus", "great-conflict", "alize-lovell", "hermes", "loki", "artemis"],
@@ -20,7 +20,7 @@
       {"label": "Eyes", "value": "Indigo, \"the same color as the sea of stars\"", "refs": ["ar02-funeral"]},
       {"section": "Familia"},
       {"label": "Familia", "value": "[[astrea-familia|Astrea Familia]]", "refs": ["fm05-astrea"]},
-      {"label": "Home after Orario", "value": "Stars' Rest, near Zolingam", "refs": ["fc03-home"]}
+      {"label": "Home after Orario", "value": "Stars' Rest, near Solingen", "refs": ["fc03-home"]}
     ]
   }
 }
@@ -45,15 +45,15 @@ In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to pu
 
 Before Astrea left Orario she told Lyu, "please forget about justice", and Lyu went on to take her revenge.[@fm14-forget] In DanMachi 14 Lyu understands that Astrea said it for Lyu's own sake: she forsook her own justice to protect Lyu, shouldered a share of her vengeance herself, and believed that justice would live in Lyu again.[@fm14-protect]
 
-Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Zolingam]]. She lives there with six girls; two, Cecille and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes]
+Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Solingen]]. She lives there with six girls; two, Cecille and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes]
 
-In DanMachi 18 Lyu comes to her in Zolingam. Astrea updates her through two [[level|Levels]] in succession, has the sword Alvs Iustitia made for her, and arrives at Orza with a new Familia so that Lyu can take part in the [[war-game|Familia War]].[@fm18-zolingam] She later releases Lyu's [[falna|Falna]] so that Lyu can join [[hestia-familia|Hestia Familia]]; her first blessing remains in Lyu's back.[@fm19-bond]
+In DanMachi 18 Lyu comes to her in Solingen. Astrea updates her through two [[level|Levels]] in succession, has the sword Alvs Iustitia made for her, and arrives at Orza with a new Familia so that Lyu can take part in the [[war-game|Familia War]].[@fm18-zolingam] She later releases Lyu's [[falna|Falna]] so that Lyu can join [[hestia-familia|Hestia Familia]]; her first blessing remains in Lyu's back.[@fm19-bond]
 
 [@fm05-astrea]: FM05 | Chapter 4: Dungeon Resort? | Goddess of justice and order; Lyu persuades her to leave.
 [@fm06-astria]: FM06 | Chapter 4: Those Who Gather | Printed as "Astria".
 [@fm14-forget]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyu…please forget about justice."; "Lyu exacted her revenge swiftly." The Japanese edition (file cA0W, paragraph 301) says cast justice aside.
 [@fm14-protect]: FM14 | Epilogue: You’ll Be Back II | "She told me to forget about justice for my own sake…" The Japanese edition (file cD0B, paragraph 236) says she shouldered a share of Lyu's revenge herself.
-[@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Astrea in Zolingam; Alvs Iustitia; the new Familia.
+[@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Astrea in Solingen; Alvs Iustitia; the new Familia.
 [@fm19-bond]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu's Falna released; the ichor remains.
 [@fc01-ted]: FC01 | Crush the Grand Casino! | "Goddess Astrea offered you one more chance"; "Perhaps she wanted to believe in the children’s ability to improve and rehabilitate".
 [@fc03-home]: FC03 | The Locus of Stars | Stars' Rest.

@@ -43,7 +43,7 @@ Each Main Street is named for the direction in which it leaves Babel, such as No
 | [[daedalus-street|Daedalus Street]] | A poor, densely built district laid out as a surface labyrinth and named for its architect; red arrows called *ariadne* mark the way, and its sewers hide an entrance to [[knossos|Knossos]].[@fm01-daedalus, so07-daedalus] |
 
 > [!NOTE] Where is the Guild headquarters?
-> On Northwest Main, Adventurers Way. Yen Press's DanMachi 1 prints West Main for it, but the Japanese original of that volume places it on Northwest Main, in agreement with Sword Oratoria 1 and DanMachi 8.[@fm01-streets, so01-northwest, fm08-store, fm01-ja-hq]
+> On Northwest Main, Adventurers Way. DanMachi 1 (in the Japanese original), Sword Oratoria 1 and DanMachi 8 all place it there.[@fm01-streets, so01-northwest, fm08-store, fm01-ja-hq]
 
 ## Events in the city
 

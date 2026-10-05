@@ -85,7 +85,7 @@ Lilly's Status cards in DanMachi 8 and DanMachi 15 list Cinder Ella under Magic 
 | Activation (Trigger Spell) | "Your scars are mine. My scars are mine." | On both Status cards;[@cinder-ella.fm08-card, cinder-ella.fm15-card] spoken in DanMachi 11 and 15, Sword Oratoria 12 and Minor Myths and Legends 1.[@cinder-ella.fm11-chase, cinder-ella.fm15-activation, cinder-ella.so12-finn, cinder-ella.ss01-activation] |
 | Release (Deactivation chant) | "Stroke of midnight’s bell." | On both Status cards;[@cinder-ella.fm08-card, cinder-ella.fm15-card] spoken from DanMachi 2 onward, the first chant of hers the novels print.[@cinder-ella.fm02-release, cinder-ella.fm05-release, cinder-ella.fm11-chase] |
 
-Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguised when the scene opens, and the Japanese prints the spell name in brackets as a label rather than as something she says; the Yen Press text instead has the cat ears appear as she says "Cinder Ella."[@cinder-ella.fm03-name, cinder-ella.fm03-ja-name] No activation chant is printed there. That is a name-only print, not evidence that the spell can be cast without its chant.
+Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguised when the scene opens, and the Japanese prints the spell name in brackets as a label rather than as something she says.[@cinder-ella.fm03-name, cinder-ella.fm03-ja-name] No activation chant is printed there. That is a name-only print, not evidence that the spell can be cast without its chant.
 
 #### Effects {#cinder-ella-effects}
 
@@ -130,12 +130,12 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@so12-fronts]: SO12 | Chapter 7: Final War II | Lilly commands Riveria's and Gareth's fronts as Finn.
 [@so12-command]: SO12 | Chapter 7: Final War II | Lilly directing the fighting.
 [@cinder-ella.fm02-release]: FM02 | Chapter 5: Reset | "Stroke of midnight’s bell."; changes her appearance.
-[@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only; cat ears appear.
+[@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only.
 [@cinder-ella.fm03-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Shape limits; clothing needs an example; ends if she is hit.
-[@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
+[@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast.
 [@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums (the race this wiki calls prums) or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
-[@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise. Yen Press prints that she can transform into anything she could clearly picture in her mind.
+[@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
 [@cinder-ella.fm06-luan]: FM06 | Chapter 5: Our War Game | "Luan the traitor" was Lilly in disguise; the west gate.
 [@cinder-ella.fm08-card]: FM08 | Chapter 2: The Prum’s Proposal | Status card: Trigger Spell and Release Spell. The Japanese edition (file part0018, paragraphs 114–115) gives the chant formula and the spell-releasing formula quoted in the text.

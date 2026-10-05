@@ -82,7 +82,7 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 
 [@fm01-miach]: FM01 | Chapter 5: The Goddess’s Prank | Miach; both in "bottom-of-the-barrel Familias"; his Familia makes items; a small, specialised store.
 [@fm02-poor]: FM02 | | Hestia and Miach "the poorest of all the gods living in Orario"; a strong bond.
-[@fm02-shop]: FM02 | Chapter 4: Divine Wine | The shop is also the Familia's home; Nahza, its only member; potions from 500 vals.
+[@fm02-shop]: FM02 | Chapter 4: Divine Wine | The shop is also the Familia's home; Nahza, its only member; potions from 500 valis.
 [@fm04-scam]: FM04 | Quest X Quest | A watered-down potion: "a common scam".
 [@fm04-arm]: FM04 | Quest X Quest | The airgetlám from Dian Cecht Familia; Miach's loan; the other members left; once mid-ranked.
 [@fm04-level]: FM04 | Quest X Quest | Synthesize; Level 2; six years to level up; the monster that ate her arm; "Nazha".

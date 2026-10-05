@@ -68,10 +68,10 @@ The full name Mord Latro is first printed in DanMachi 8.[@fm08-goliath] His comp
 [@fm05-waitresses]: FM05 | Chapter 5: The Outlaws’ Party | "He had been with Mord at The Benevolent Mistress when the waitresses overpowered them."
 [@fm05-landing]: FM05 | Chapter 5: The Outlaws’ Party | "The people with the best view of the Goliath’s landing were Mord and his group of adventurers."
 [@fm05-targeted]: FM05 | Chapter 6: Praise to the Heroes | "The Goliath had targeted Mord’s group of adventurers."
-[@fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | "A small human had just used Mord’s greatsword to decapitate one of the bugbears—a boy with white hair."
-[@fm05-ja-saved]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 95, 99 and 107): Mord's weapon is a longsword each time; the one who took it and cut the monster's neck was a white-haired boy. Yen Press prints "longsword" earlier and "greatsword" here.
-[@fm05-lilly]: FM05 | Chapter 6: Praise to the Heroes | "Be grateful that Mr. Bell isn’t the type of person to hold a grudge."
-[@fm05-ja-lilly]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 124): Lilly tells him to be grateful to Bell, who is bottomlessly good-natured; there is no word for a grudge.
+[@fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | A white-haired boy uses Mord's sword to behead one of the bugbears.
+[@fm05-ja-saved]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 95, 99 and 107): Mord's weapon is a longsword each time; the one who took it and cut the monster's neck was a white-haired boy.
+[@fm05-lilly]: FM05 | Chapter 6: Praise to the Heroes | Lilly tells Mord to be grateful to Bell.
+[@fm05-ja-lilly]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 124): Lilly tells him to be grateful to Bell, who is bottomlessly good-natured.
 [@fm05-rally]: FM05 | Chapter 6: Praise to the Heroes | "It was Mord who stopped them."; "Are ya seriously considering running away"; "Every single adventurer charged forward at Mord’s command."
 [@fm06-bet]: FM06 | Chapter 5: Our War Game | "—one hundred thousand on the rabbit!"; "Hit your head or something, Mord?!"
 [@fm06-win]: FM06 | Chapter 5: Our War Game | Mord thought he was the only winner, until he saw Nahza.

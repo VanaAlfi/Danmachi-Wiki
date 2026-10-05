@@ -61,6 +61,8 @@ In Minor Myths and Legends 2 she makes the [[monsters#unicorn|Unicorn]] Cup from
 
 > Healing droplets, tears of light, eternal sanctuary. Compose a medicinal hymn—three hundred, sixty, and five. The melody of the healer’s almanac saves all things. Come, destruction of evil. The burial of wounds, interment of disease. Curses be gone in the light of vitality. In the name of all that is holy—I heal you.
 
+The Japanese chant is {{ja|癒しの滴、光の涙、永久の聖域。薬奏をここに。三百と六十と五の調べ。癒しの暦は万物を救う|iyashi no shizuku, hikari no namida, towa no seiiki. yakusō o koko ni. sanbyaku to rokujū to go no shirabe. iyashi no oto wa nanji o sukuu}}, {{ja|そして至れ、破邪となれ。傷の埋葬、病の葬斂。呪いは彼方に、光の枢機へ|soshite itare, haja to nare. kizu no maisō, yamai no sōren. noroi wa kanata ni, hikari no sūki e}}, {{ja|聖想の名をもって──私が癒す|kami no na o motte — watashi ga iyasu}}. Where it differs from the print: the healer's almanac is said *oto*, sound, and *all things* is said *nanji*, thee; the curses are sent *to the far beyond, to the pivot of light*; and the last line is said *in the name of god*, written *holy thought*, and ends *I shall heal*.[@dia-frater.so11-ja]
+
 {{nocite}} **Notes and other printed variants**
 
 {{nocite}} The chant is several lines long and is printed at different lengths in different volumes. 
@@ -83,7 +85,7 @@ In Minor Myths and Legends 2 she makes the [[monsters#unicorn|Unicorn]] Cup from
 
 - **Complete recovery.** In Sword Oratoria 11 a diamond-shaped white circle heals the wounds of Loki Familia's fighters, even curse wounds meant to be unhealable. The narration says it heals all wounds, restores stamina and removes status ailments and curses, and that with enough magic power it surpasses even an elixir.[@dia-frater.so11-zone]
 - **A healing zone.** The circle then becomes a barrier of light that keeps healing everyone inside it, so that the whole north-east assault squad relies on Amid alone while the other healers save their Mind. Her title, Dea Saint, comes from being able to hold a battle line against a floor boss by herself.[@dia-frater.so11-hold]
-- **Area.** In Astrea Record 1 "an exceptionally large magic circle" covers the wounded around her; in Sword Oratoria 11 she calls "Five-meter perimeter" before casting.[@dia-frater.ar01-first, dia-frater.so11-zone]
+- **Area.** In Astrea Record 1 "an exceptionally large magic circle" covers the wounded around her; in Sword Oratoria 11 she announces a range of five meders before casting.[@dia-frater.ar01-first, dia-frater.so11-zone]
 - **Choosing the effect.** Its three effects, recovery, poison eradication and curse removal, can be used separately, mainly to avoid wasting Mind. Against the Barca Monster she pours everything into curse removal alone, stripping the curse from the monster without healing its body.[@dia-frater.so11-barca]
 
 #### Limits {#dia-frater-limits}
@@ -121,7 +123,7 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 [@dia-frater.ar03-carried]: AR03 | Chapter 5: Playing the Violence Card | Closing line and name; carried on Nahza's back. The Japanese edition (file c3YC, paragraph 666) says she heals from Nahza's back.
 [@dia-frater.so08-finn]: SO08 | Chapter 2: Did Someone Order a Wolf? | Only her magic made headway against the curse on Finn.
 [@dia-frater.so08-bete]: SO08 | Chapter 4: Lonesome Night | Treating Bete; close to Mind Down.
-[@dia-frater.so11-zone]: SO11 | Chapter 4: Avengers ~Knossos War~ | Opening line; "Five-meter perimeter"; diamond circle; heals everything. The Japanese edition (file c2MJ, paragraphs 141–143) says it heals wounds, restores stamina and removes status ailments and curses, and that with enough magic power it surpasses even the elixir.
+[@dia-frater.so11-zone]: SO11 | Chapter 4: Avengers ~Knossos War~ | Opening line; a range of five meders (the Japanese edition, file c2MJ, paragraph 134); diamond circle; heals everything. The Japanese edition (file c2MJ, paragraphs 141–143) says it heals wounds, restores stamina and removes status ailments and curses, and that with enough magic power it surpasses even the elixir.
 [@dia-frater.so11-hold]: SO11 | Chapter 4: Avengers ~Knossos War~ | A zone of continuous healing; Dea Saint; enough potions for Floor 20.
 [@dia-frater.so11-rain]: SO11 | Chapter 5: Obsession Manifest | High-speed chant; cured, then cursed again; "can't keep up".
 [@dia-frater.so11-barca]: SO11 | Chapter 6: And Then the God Smiled | The fullest chant; three effects; curse removal alone.
@@ -130,3 +132,4 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 [@dia-frater.so12-flicker]: SO12 | Chapter 6: The Divine Providence of Despair | The opening line; her circle flickers under attack.
 [@dia-frater.fm18-heith]: FM18 | Chapter 8: The Great Familia War | Amid and Heith compared.
 [@fm14-amid-ja]: FM14 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning saint of the battlefield, with the reading Dea Saint; the infobox gives the printed name and the kanji.
+[@dia-frater.so11-ja]: SO11 | Chapter 6: And Then the God Smiled | The Japanese edition (file c4FG, paragraphs 126, 134 and 136) prints the chant in three pieces; the healer's almanac is said oto, sound, all things nanji, thee, and holy thought kami, god.

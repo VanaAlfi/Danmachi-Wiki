@@ -1249,20 +1249,20 @@
   },
   {
    "id": "TL-0336",
-   "title": "Hephaistos invites Welf to join her in Zolingam",
+   "title": "Hephaistos invites Welf to join her in Solingen",
    "arc": "History — Welf",
    "rank": 39.05,
    "timing": "relative",
-   "when": "After Welf’s escape and arrival in Zolingam; exact travel interval and conversion day unshown.",
+   "when": "After Welf’s escape and arrival in Solingen; exact travel interval and conversion day unshown.",
    "participants": [
     "Welf",
     "Hephaistos",
-    "Zolingam smith"
+    "Solingen smith"
    ],
    "changes": "Welf works for room and board. Hephaistos watches him forge, then invites him into her Familia; he withholds his surname at this meeting.",
    "knowledge": "Hephaistos meets him as Welf. The smith doubts his given identity; that doubt is not proof his name is false.",
    "uncertainty": "Invitation is shown, not the precise Falna-inscription ceremony or instant arrival in Orario. No later skill, equipment or romantic promise is backdated.",
-   "frame": "FM15 Zolingam recruitment scene",
+   "frame": "FM15 Solingen recruitment scene",
    "after": [
     "TL-0335"
    ],
@@ -3542,7 +3542,7 @@
   },
   {
    "id": "TL-0100",
-   "title": "Astrea establishes her Zolingam home while Lyu remains estranged",
+   "title": "Astrea establishes her Solingen home while Lyu remains estranged",
    "arc": "History — Astrea",
    "rank": 51,
    "timing": "relative",
@@ -3568,19 +3568,19 @@
   },
   {
    "id": "TL-0255",
-   "title": "Astrea mediates between Zolingam and its angered spirits",
+   "title": "Astrea mediates between Solingen and its angered spirits",
    "arc": "History — Astrea",
    "rank": 51.1,
    "timing": "relative",
    "when": "Five years before the FC03 visit, after leaving Orario.",
    "participants": [
     "Astrea",
-    "Zolingam craftspeople",
+    "Solingen craftspeople",
     "Yufie",
     "Spirits"
    ],
    "changes": "Astrea averts the city’s destruction; resource use becomes managed and smiths provide annual offerings and entertainment. Her home watches over the forest.",
-   "knowledge": "Iselina tells Lyu this on her fourth Zolingam day; Astrea subsequently acknowledges the incident.",
+   "knowledge": "Iselina tells Lyu this on her fourth Solingen day; Astrea subsequently acknowledges the incident.",
    "uncertainty": "Iselina reports local history; no exact calendar date or complete terms of the settlement are supplied.",
    "frame": "FC03 fourth-day conversation recalls historical intervention",
    "after": [
@@ -3618,7 +3618,7 @@
   },
   {
    "id": "TL-0256",
-   "title": "Cecille joins Astrea for the weapon commission and the Zolingam household grows",
+   "title": "Cecille joins Astrea for the weapon commission and the Solingen household grows",
    "arc": "History — Astrea",
    "rank": 51.2,
    "timing": "relative",
@@ -10075,7 +10075,7 @@
    ],
    "changes": "Lyu advances first to Five, then Six after adjustment; Astrea Record appears.",
    "knowledge": "Astrea explains withheld excelia to Lyu; spectators learn later at TL-0049.",
-   "uncertainty": "Visit’s exact global date remains unknown; training and adaptation cannot be removed from the sequence. SS01 supplies Astrea’s side of the reunion opening; “new family” in her thoughts is not evidence of an already-completed Hestia conversion. Local arrival day is Zolingam Day 1 only. TL-0257–TL-0268 distinguish travel, staged updates, disclosures, adjustment, equipment and departure within and after this aggregate record.",
+   "uncertainty": "Visit’s exact global date remains unknown; training and adaptation cannot be removed from the sequence. SS01 supplies Astrea’s side of the reunion opening; “new family” in her thoughts is not evidence of an already-completed Hestia conversion. Local arrival day is Solingen Day 1 only. TL-0257–TL-0268 distinguish travel, staged updates, disclosures, adjustment, equipment and departure within and after this aggregate record.",
    "frame": "contemporary narrative",
    "after": [
     "TL-0047"
@@ -10092,7 +10092,7 @@
    "arc": "Freya War Game",
    "rank": 190.201,
    "timing": "relative",
-   "when": "Before dawn after the war is announced; before the local Zolingam arrival day.",
+   "when": "Before dawn after the war is announced; before the local Solingen arrival day.",
    "participants": [
     "Lyu",
     "Asfi",
@@ -10120,7 +10120,7 @@
    "arc": "Freya War Game",
    "rank": 190.202,
    "timing": "relative",
-   "when": "Zolingam arrival day, sunset reunion and private evening conversation.",
+   "when": "Solingen arrival day, sunset reunion and private evening conversation.",
    "participants": [
     "Lyu",
     "Astrea",
@@ -10148,12 +10148,12 @@
    "arc": "Freya War Game",
    "rank": 190.203,
    "timing": "relative",
-   "when": "First Zolingam evening, after the reunion conversation.",
+   "when": "First Solingen evening, after the reunion conversation.",
    "participants": [
     "Lyu",
     "Astrea"
    ],
-   "changes": "Lyu reaches Five with zero basic abilities; Magic Control and Astrae Varmas are recorded. Astrea keeps her in Zolingam to adjust and deliberately withholds the new spell.",
+   "changes": "Lyu reaches Five with zero basic abilities; Magic Control and Astrae Varmas are recorded. Astrea keeps her in Solingen to adjust and deliberately withholds the new spell.",
    "knowledge": "Lyu learns a powerful spell is withheld, but not yet that she qualifies for Level Six. The resistance component of Astrae Varmas can include enemies; its other boosts require shared ichor.",
    "uncertainty": "Do not give Lyu Astrea Record yet. New skill occurrence is tied to this update; remembering Ardee is Lyu’s interpretation of its meaning, not a new message from the dead.",
    "frame": "FC03 first-night update",
@@ -10173,7 +10173,7 @@
    "arc": "Freya War Game",
    "rank": 190.204,
    "timing": "explicit",
-   "when": "Second Zolingam day; first spar before sunrise, prolonged solo practice and evening update.",
+   "when": "Second Solingen day; first spar before sunrise, prolonged solo practice and evening update.",
    "participants": [
     "Lyu",
     "Cecille",
@@ -10201,7 +10201,7 @@
    "arc": "Freya War Game",
    "rank": 190.205,
    "timing": "explicit",
-   "when": "Third Zolingam day; evening update raises all five abilities to G200.",
+   "when": "Third Solingen day; evening update raises all five abilities to G200.",
    "participants": [
     "Lyu",
     "Schau",
@@ -10226,11 +10226,11 @@
   },
   {
    "id": "TL-0109",
-   "title": "Lyu wakes from a dream of Ardee on her fourth Zolingam morning",
+   "title": "Lyu wakes from a dream of Ardee on her fourth Solingen morning",
    "arc": "Anthology",
    "rank": 190.2055,
    "timing": "explicit",
-   "when": "Fourth day of the FC03 Zolingam visit.",
+   "when": "Fourth day of the FC03 Solingen visit.",
    "participants": [
     "Lyu",
     "Cecille",
@@ -10252,11 +10252,11 @@
   },
   {
    "id": "TL-0262",
-   "title": "Lyu meets Yufie and learns why Astrea guards Zolingam’s forest",
+   "title": "Lyu meets Yufie and learns why Astrea guards Solingen’s forest",
    "arc": "Freya War Game",
    "rank": 190.206,
    "timing": "explicit",
-   "when": "Fourth Zolingam day, morning training through sunset conversation.",
+   "when": "Fourth Solingen day, morning training through sunset conversation.",
    "participants": [
     "Lyu",
     "Yufie",
@@ -10285,7 +10285,7 @@
    "arc": "Freya War Game",
    "rank": 190.207,
    "timing": "relative",
-   "when": "Fourth Zolingam evening and night, after the Blackliza workshop argument.",
+   "when": "Fourth Solingen evening and night, after the Blackliza workshop argument.",
    "participants": [
     "Lyu",
     "Cecille",
@@ -10313,7 +10313,7 @@
    "arc": "Freya War Game",
    "rank": 190.208,
    "timing": "relative",
-   "when": "Fourth Zolingam night, after returning with Cecille; letter says the War Game starts in three days.",
+   "when": "Fourth Solingen night, after returning with Cecille; letter says the War Game starts in three days.",
    "participants": [
     "Lyu",
     "Astrea",
@@ -10339,7 +10339,7 @@
    "arc": "Freya War Game",
    "rank": 190.209,
    "timing": "relative",
-   "when": "Next morning after Level Six: fifth Zolingam day, before renewed spirit training.",
+   "when": "Next morning after Level Six: fifth Solingen day, before renewed spirit training.",
    "participants": [
     "Lyu",
     "Cecille",
@@ -10365,7 +10365,7 @@
    "arc": "Freya War Game",
    "rank": 190.21,
    "timing": "relative",
-   "when": "Fifth Zolingam day, following an initial private spell test with Astrea that morning.",
+   "when": "Fifth Solingen day, following an initial private spell test with Astrea that morning.",
    "participants": [
     "Lyu",
     "Astrea",
@@ -10393,7 +10393,7 @@
    "arc": "Freya War Game",
    "rank": 190.211,
    "timing": "relative",
-   "when": "Morning after a full day and night of spirit training: sixth Zolingam day by local succession.",
+   "when": "Morning after a full day and night of spirit training: sixth Solingen day by local succession.",
    "participants": [
     "Lyu",
     "Astrea",
@@ -10455,7 +10455,7 @@
     "Yufie",
     "Astrea Familia"
    ],
-   "changes": "The group leaves Zolingam with Yufie carrying Astrea and initially the Level One girls. Cecille arranges for family to watch the home; Lyu accepts her as maker of her main weapons.",
+   "changes": "The group leaves Solingen with Yufie carrying Astrea and initially the Level One girls. Cecille arranges for family to watch the home; Lyu accepts her as maker of her main weapons.",
    "knowledge": "The juniors learn Astrea must attend the War Game. Lyu already knew through the letter discussion.",
    "uncertainty": "The planned riding rotation is not proof every leg is narrated. This endpoint does not itself supply exact arrival time in Orario.",
    "frame": "FC03 departure coda",

@@ -77,7 +77,7 @@ Among the young dwarves Gareth took under his wing in Lonza was Yorger, a fiftee
 | Sword Oratoria 5 | His giant shield helps hold off the spray of the [[monsters#poison-vermis|poison vermis]].[@so05-vermis] |
 | Sword Oratoria 6 | In a cave near Meren he fights the Amazons of [[kali-familia|Kali Familia]], tossing his ax aside to face them with his fists.[@so06-ragamuffins] |
 | Sword Oratoria 7 | Shields his party from Inferno Stones, punches through [[metals#adamantite|adamantite]] and helps destroy the monster [[corrupted-spirit#gugalanna|Gugalanna]]; Finn leaves him in charge of the rear.[@so07-gareth, so07-finn] |
-| DanMachi 8 | At Level 6, routs [[ares#kingdom-of-rakia|Rakia]]'s cavalry single-handed.[@fm08-gareth] |
+| DanMachi 8 | At Level 6, routs [[ares-familia#kingdom-of-rakia|Rakia]]'s cavalry single-handed.[@fm08-gareth] |
 | Sword Oratoria 9 | Teaches the young [[aiz-wallenstein|Aiz]] to look after her weapons and herself; in the present he finds and destroys a coastal route into [[knossos|Knossos]].[@so09-gareth] |
 | Sword Oratoria 10 | Holds the central battle on the surface, then rejoins Finn and [[riveria|Riveria]] to rescue the trapped raiders and [[xenos|Xenos]].[@so10-gareth] Summoned by Finn, he crosses axes with [[levis|Levis]], "the creature who’d defeated both the Sword Princess and Braver".[@so10-levis] |
 | DanMachi 10 | Sent by Finn to circle behind whoever is directing the Xenos, he comes up behind [[fels|Fels]]; later he leaves [[ikelos|Ikelos]] on a rooftop and strikes the black minotaur fighting Aiz from behind.[@fm10-fels, fm10-ikelos] |

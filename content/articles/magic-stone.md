@@ -59,8 +59,8 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 [@fm01-shard]: FM01 | Chapter 2: That’s Why I Run | "just a shard"; "Only about the size of my fingernail"; "The Guild pays more for bigger shards and full stones."
 [@fm01-drop]: FM01 | Chapter 2: That’s Why I Run | "Looks like this is a “drop item.”"; "Usually a “supporter” travels with adventurers and collects all the magic stones and drop items."
 [@fm01-walls]: FM01 | Chapter 2: That’s Why I Run | "The walls have to be made of something a lot like magic stones." The Japanese edition (file cYT, paragraphs 216 and 217) gives this as hearsay: the Dungeon is said to be made of a lower- or higher-grade substance than magic stone, scholars cannot yet explain its make-up, and being close to magic stone it is bright inside without sunlight.
-[@fm01-lamps]: FM01 | Chapter 2: That’s Why I Run | "Human engineers figured out how to make magic stone lamps."; Yen Press has the gods call it "cutting-edge technology" and "the discovery of the century".
-[@fm01-ja-lamps]: FM01 | Chapter 2: That’s Why I Run | Japanese original (file cX6, paragraph 8): a god says humans are really deft with their hands; the lamp was called the invention of the century at the time. "Cutting-edge technology" is not in it.
+[@fm01-lamps]: FM01 | Chapter 2: That’s Why I Run | "Human engineers figured out how to make magic stone lamps."
+[@fm01-ja-lamps]: FM01 | Chapter 2: That’s Why I Run | Japanese original (file cX6, paragraph 8): a god says humans are really deft with their hands; the lamp was called the invention of the century at the time.
 [@fm01-exchange]: FM01 | | "to exchange my magic stones and drop items for money".
 [@fm01-haul]: FM01 | Chapter 1: World, Reality, and Desire | "magic stone shards I got for killing mostly goblins and kobolds"; "about 1,200 vals".
 [@fm04-horn]: FM04 | Chapter 2: Changing Environment, New Relationships | "only the magic stone and this horn remained".

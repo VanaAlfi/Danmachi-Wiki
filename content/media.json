@@ -72,29 +72,40 @@
     1200
    ]
   },
-  "17197541e102": {
-   "name": "DanMachi Volume 10.png",
-   "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+  "52f7c69e5aac": {
+   "name": "FM10 English edition — EPUB asset insert2.jpg",
+   "source": "DanMachi light novel illustration, Vol. 10 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10.png",
-   "uploaded": "2016-04-29T21:44:05Z",
-   "sha256": "17197541e102b5ce4012396f2f8f92085d9fc644a9d26e0e12c0a8259969232b",
+   "edition": {
+    "language": "en",
+    "volume": "FM10",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/insert2.jpg"
+   },
+   "sha256": "52f7c69e5aac70e27eb196b75340b2646c3f68dbc0b13bdbe0d4339b3587cd78",
    "files": {
     "full": {
-     "file": "17197541e102-full.webp",
+     "file": "52f7c69e5aac-full.webp",
      "w": 1280,
-     "h": 523
+     "h": 516
     },
     "th": {
-     "file": "17197541e102-th.webp",
+     "file": "52f7c69e5aac-th.webp",
      "w": 300,
-     "h": 122
+     "h": 121
     }
    },
    "orig": [
-    1920,
-    784
-   ]
+    1800,
+    725
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 10.png",
+    "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10.png",
+    "uploaded": "2016-04-29T21:44:05Z",
+    "sha256": "17197541e102b5ce4012396f2f8f92085d9fc644a9d26e0e12c0a8259969232b"
+   }
   },
   "c20255a293f5": {
    "name": "Aisha Belka Character Art.png",
@@ -216,77 +227,110 @@
     1080
    ]
   },
-  "cd4ab92ac6ff": {
-   "name": "DanMachi Volume 2 145.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+  "21e04ad8f2a3": {
+   "name": "FM02 English edition — EPUB asset Art_P100.jpg",
+   "source": "DanMachi light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_145.png",
-   "uploaded": "2015-06-04T21:31:21Z",
-   "sha256": "cd4ab92ac6ffb80e5e166e28094177277ae5d8108ca2452b9c8a587afc589765",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P100.jpg"
+   },
+   "sha256": "21e04ad8f2a3856f7059021a9407c5758c8bb8d35e131b46adde6b65dd3dc415",
    "files": {
     "full": {
-     "file": "cd4ab92ac6ff-full.webp",
-     "w": 800,
-     "h": 1200
+     "file": "21e04ad8f2a3-full.webp",
+     "w": 930,
+     "h": 1280
     },
     "th": {
-     "file": "cd4ab92ac6ff-th.webp",
+     "file": "21e04ad8f2a3-th.webp",
+     "w": 218,
+     "h": 300
+    }
+   },
+   "orig": [
+    1308,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 2 145.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_145.png",
+    "uploaded": "2015-06-04T21:31:21Z",
+    "sha256": "cd4ab92ac6ffb80e5e166e28094177277ae5d8108ca2452b9c8a587afc589765"
+   }
+  },
+  "ec84f5f0d3bf": {
+   "name": "FM02 English edition — EPUB asset Art_P243.jpg",
+   "source": "DanMachi light novel illustration, Vol. 2 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P243.jpg"
+   },
+   "sha256": "ec84f5f0d3bff5209c04ac256d3b516b3dc79fe5918cbafa646fd879e56f7a17",
+   "files": {
+    "full": {
+     "file": "ec84f5f0d3bf-full.webp",
+     "w": 848,
+     "h": 1280
+    },
+    "th": {
+     "file": "ec84f5f0d3bf-th.webp",
+     "w": 199,
+     "h": 300
+    }
+   },
+   "orig": [
+    1192,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 2 353.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_353.png",
+    "uploaded": "2015-06-04T21:31:58Z",
+    "sha256": "a1b2527d90f4d30f33f0be4882fc19f3240f8682d071dbbae3364128fbf95f1b"
+   }
+  },
+  "7f4eb7a84092": {
+   "name": "FM03 English edition — EPUB asset x9780316340199.jpg",
+   "source": "DanMachi light novel cover, Vol. 3 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "FM03",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316340199.jpg"
+   },
+   "sha256": "7f4eb7a84092f2f156ffb274e6d1d9156e3c5840fbad6148e1229af25f129746",
+   "files": {
+    "full": {
+     "file": "7f4eb7a84092-full.webp",
+     "w": 853,
+     "h": 1280
+    },
+    "th": {
+     "file": "7f4eb7a84092-th.webp",
      "w": 200,
      "h": 300
     }
    },
    "orig": [
-    800,
-    1200
-   ]
-  },
-  "a1b2527d90f4": {
-   "name": "DanMachi Volume 2 353.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_353.png",
-   "uploaded": "2015-06-04T21:31:58Z",
-   "sha256": "a1b2527d90f4d30f33f0be4882fc19f3240f8682d071dbbae3364128fbf95f1b",
-   "files": {
-    "full": {
-     "file": "a1b2527d90f4-full.webp",
-     "w": 800,
-     "h": 1200
-    },
-    "th": {
-     "file": "a1b2527d90f4-th.webp",
-     "w": 200,
-     "h": 300
-    }
-   },
-   "orig": [
-    800,
-    1200
-   ]
-  },
-  "f6709e1cb6fd": {
-   "name": "DanMachi Light Novel Volume 3 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 3 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_3_Cover.png",
-   "uploaded": "2015-06-05T08:12:16Z",
-   "sha256": "f6709e1cb6fdd8107227f8eee76e7f17227db45db19340cd6628b878e75aeb98",
-   "files": {
-    "full": {
-     "file": "f6709e1cb6fd-full.webp",
-     "w": 695,
-     "h": 992
-    },
-    "th": {
-     "file": "f6709e1cb6fd-th.webp",
-     "w": 210,
-     "h": 300
-    }
-   },
-   "orig": [
-    695,
-    992
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Light Novel Volume 3 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 3 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_3_Cover.png",
+    "uploaded": "2015-06-05T08:12:16Z",
+    "sha256": "f6709e1cb6fdd8107227f8eee76e7f17227db45db19340cd6628b878e75aeb98"
+   }
   },
   "cc1032e13f50": {
    "name": "Ariel Anime 1.gif",
@@ -480,29 +524,40 @@
     2048
    ]
   },
-  "ef96af393bff": {
-   "name": "Astraea Record Volume 2 02.jpg",
-   "source": "Astrea Record light novel illustration, Vol. 2 (Japanese edition)",
+  "189c62198c05": {
+   "name": "AR02 English edition — EPUB asset Astrea_Record_v2_FINAL_ebook_INS_pg3-5.jpg",
+   "source": "Astrea Record light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Volume_2_02.jpg",
-   "uploaded": "2022-12-24T15:30:13Z",
-   "sha256": "ef96af393bffab44376b998501a83b2af4b47956fc7918bb3c9d97f3ba130450",
+   "edition": {
+    "language": "en",
+    "volume": "AR02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Astrea_Record_v2_FINAL_ebook_INS_pg3-5.jpg"
+   },
+   "sha256": "189c62198c05eb095a7b1b467a4b95ff3f3be7ebf406809cbcf400fa0884a39a",
    "files": {
     "full": {
-     "file": "ef96af393bff-full.webp",
+     "file": "189c62198c05-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 960
     },
     "th": {
-     "file": "ef96af393bff-th.webp",
+     "file": "189c62198c05-th.webp",
      "w": 300,
-     "h": 169
+     "h": 225
     }
    },
    "orig": [
-    3644,
-    2048
-   ]
+    1800,
+    1350
+   ],
+   "replaces": {
+    "name": "Astraea Record Volume 2 02.jpg",
+    "source": "Astrea Record light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Volume_2_02.jpg",
+    "uploaded": "2022-12-24T15:30:13Z",
+    "sha256": "ef96af393bffab44376b998501a83b2af4b47956fc7918bb3c9d97f3ba130450"
+   }
   },
   "465a62a285c1": {
    "name": "Alfia DanMemo.jpg",
@@ -576,29 +631,40 @@
     1080
    ]
   },
-  "7ef7bd5cd050": {
-   "name": "Episode Freya 3.jpg",
-   "source": "Familia Chronicle light novel illustration (Japanese edition)",
+  "f3fcf083652c": {
+   "name": "FC02 English edition — EPUB asset aArt_insert003",
+   "source": "Familia Chronicle light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Freya_3.jpg",
-   "uploaded": "2019-12-24T05:23:53Z",
-   "sha256": "7ef7bd5cd05072c8c5314061fc7777aa1f0e7b74b22d2fbc1a24881c3f6dffa4",
+   "edition": {
+    "language": "en",
+    "volume": "FC02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert003.jpg"
+   },
+   "sha256": "f3fcf083652cddfaa91e3997784d9de84b06a73d7081668406c0fec626016296",
    "files": {
     "full": {
-     "file": "7ef7bd5cd050-full.webp",
+     "file": "f3fcf083652c-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 959
     },
     "th": {
-     "file": "7ef7bd5cd050-th.webp",
+     "file": "f3fcf083652c-th.webp",
      "w": 300,
-     "h": 169
+     "h": 225
     }
    },
    "orig": [
-    3646,
-    2048
-   ]
+    1800,
+    1349
+   ],
+   "replaces": {
+    "name": "Episode Freya 3.jpg",
+    "source": "Familia Chronicle light novel illustration (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Freya_3.jpg",
+    "uploaded": "2019-12-24T05:23:53Z",
+    "sha256": "7ef7bd5cd05072c8c5314061fc7777aa1f0e7b74b22d2fbc1a24881c3f6dffa4"
+   }
   },
   "7d446d8d7455": {
    "name": "Gralineze Fromel Anime.jpg",
@@ -936,29 +1002,40 @@
     1080
    ]
   },
-  "b56d5fdfc2c4": {
-   "name": "DanMachi Volume 13 303.png",
-   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+  "93034fc127d9": {
+   "name": "FM13 English edition — EPUB asset Art_P206.jpg",
+   "source": "DanMachi light novel illustration, Vol. 13 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_303.png",
-   "uploaded": "2018-02-16T04:04:04Z",
-   "sha256": "b56d5fdfc2c4e894cdffb32a6dd5b39c89eebbf6a7c93bbd8ac647ef8ff17a7b",
+   "edition": {
+    "language": "en",
+    "volume": "FM13",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P206.jpg"
+   },
+   "sha256": "93034fc127d993c7c051d0fa666eea08c45dcf26bd491838adb5c1d7831eabc0",
    "files": {
     "full": {
-     "file": "b56d5fdfc2c4-full.webp",
-     "w": 896,
+     "file": "93034fc127d9-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "b56d5fdfc2c4-th.webp",
-     "w": 210,
+     "file": "93034fc127d9-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 13 303.png",
+    "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_303.png",
+    "uploaded": "2018-02-16T04:04:04Z",
+    "sha256": "b56d5fdfc2c4e894cdffb32a6dd5b39c89eebbf6a7c93bbd8ac647ef8ff17a7b"
+   }
   },
   "f22898e0ab9f": {
    "name": "Amphisbaena Anime 2.png",
@@ -1001,6 +1078,11 @@
      "file": "a7cfd7e62b1d-ib.webp",
      "w": 500,
      "h": 281
+    },
+    "th": {
+     "file": "a7cfd7e62b1d-th.webp",
+     "w": 300,
+     "h": 169
     }
    },
    "orig": [
@@ -1032,29 +1114,40 @@
     1768
    ]
   },
-  "4014e618de6f": {
-   "name": "Episode Ryuu Volume 1 3.png",
-   "source": "Familia Chronicle light novel illustration, Vol. 1 (Japanese edition)",
+  "d9457fdda140": {
+   "name": "FC01 English edition — EPUB asset aArt_insert003",
+   "source": "Familia Chronicle light novel illustration, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Ryuu_Volume_1_3.png",
-   "uploaded": "2017-03-06T06:43:18Z",
-   "sha256": "4014e618de6f47f3e50adc0f531d36232a7d43cd1f2865cc865e5457c942c43c",
+   "edition": {
+    "language": "en",
+    "volume": "FC01",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert003.jpg"
+   },
+   "sha256": "d9457fdda140673825ad7b24d203c34b25ebf1d8737ffc6a3721c06dfc65dc34",
    "files": {
     "full": {
-     "file": "4014e618de6f-full.webp",
+     "file": "d9457fdda140-full.webp",
      "w": 1280,
-     "h": 720
+     "h": 706
     },
     "th": {
-     "file": "4014e618de6f-th.webp",
+     "file": "d9457fdda140-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1731,
-    974
-   ]
+    1800,
+    993
+   ],
+   "replaces": {
+    "name": "Episode Ryuu Volume 1 3.png",
+    "source": "Familia Chronicle light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Ryuu_Volume_1_3.png",
+    "uploaded": "2017-03-06T06:43:18Z",
+    "sha256": "4014e618de6f47f3e50adc0f531d36232a7d43cd1f2865cc865e5457c942c43c"
+   }
   },
   "e7a16347553d": {
    "name": "Anya Fromel.png",
@@ -1344,29 +1437,40 @@
     1080
    ]
   },
-  "91992bc2a8e7": {
-   "name": "DanMachi Volume 5 115.png",
-   "source": "DanMachi light novel illustration, Vol. 5 (Japanese edition)",
+  "0a163511b8e8": {
+   "name": "FM05 English edition — EPUB asset Art_P81.jpg",
+   "source": "DanMachi light novel illustration, Vol. 5 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_5_115.png",
-   "uploaded": "2015-06-04T19:24:33Z",
-   "sha256": "91992bc2a8e7a45bd6cc076f7d73f890c1fd4f6c230e5a53af95aed511e5357b",
+   "edition": {
+    "language": "en",
+    "volume": "FM05",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P81.jpg"
+   },
+   "sha256": "0a163511b8e8f6dae6e02d154770eb94a5bd1971974634c21c7beed1a31fa8be",
    "files": {
     "full": {
-     "file": "91992bc2a8e7-full.webp",
-     "w": 796,
-     "h": 1200
+     "file": "0a163511b8e8-full.webp",
+     "w": 806,
+     "h": 1280
     },
     "th": {
-     "file": "91992bc2a8e7-th.webp",
-     "w": 199,
+     "file": "0a163511b8e8-th.webp",
+     "w": 189,
      "h": 300
     }
    },
    "orig": [
-    796,
-    1200
-   ]
+    1134,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 5 115.png",
+    "source": "DanMachi light novel illustration, Vol. 5 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_5_115.png",
+    "uploaded": "2015-06-04T19:24:33Z",
+    "sha256": "91992bc2a8e7a45bd6cc076f7d73f890c1fd4f6c230e5a53af95aed511e5357b"
+   }
   },
   "073bc262a688": {
    "name": "DanMachi Volume 8 4.jpg",
@@ -1656,29 +1760,40 @@
     1080
    ]
   },
-  "9384f32e9cca": {
-   "name": "Astraea Record Volume 1 02.jpg",
-   "source": "Astrea Record light novel illustration, Vol. 1 (Japanese edition)",
+  "0f78141a7ff8": {
+   "name": "AR01 English edition — EPUB asset AstreaRecord_v1_FINAL_Ebook_INS_pg2-3.jpg",
+   "source": "Astrea Record light novel illustration, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Volume_1_02.jpg",
-   "uploaded": "2023-01-30T07:25:10Z",
-   "sha256": "9384f32e9ccacb189597ee6aeb3d3e5eff296e8258415acd6c5fc7a560a1e39f",
+   "edition": {
+    "language": "en",
+    "volume": "AR01",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/AstreaRecord_v1_FINAL_Ebook_INS_pg2-3.jpg"
+   },
+   "sha256": "0f78141a7ff8d8981785e1d24af633538fb67f873f326ce1a85b79213ecccad0",
    "files": {
     "full": {
-     "file": "9384f32e9cca-full.webp",
+     "file": "0f78141a7ff8-full.webp",
      "w": 1280,
-     "h": 914
+     "h": 960
     },
     "th": {
-     "file": "9384f32e9cca-th.webp",
+     "file": "0f78141a7ff8-th.webp",
      "w": 300,
-     "h": 214
+     "h": 225
     }
    },
    "orig": [
-    2868,
-    2048
-   ]
+    1800,
+    1350
+   ],
+   "replaces": {
+    "name": "Astraea Record Volume 1 02.jpg",
+    "source": "Astrea Record light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Volume_1_02.jpg",
+    "uploaded": "2023-01-30T07:25:10Z",
+    "sha256": "9384f32e9ccacb189597ee6aeb3d3e5eff296e8258415acd6c5fc7a560a1e39f"
+   }
   },
   "2649d789e0fa": {
    "name": "Astraea Record Volume 1 08.jpg",
@@ -1968,53 +2083,75 @@
     2000
    ]
   },
-  "31bea2c55ea6": {
-   "name": "Volume 1 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 1 (Japanese edition)",
+  "067f89210571": {
+   "name": "FM01 English edition — EPUB asset x9780316340137.jpg",
+   "source": "DanMachi light novel cover, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Volume_1_Cover.png",
-   "uploaded": "2015-05-07T02:18:51Z",
-   "sha256": "31bea2c55ea6a6509362efe6302c92e7acd8349a750f09e4012e68f9b048bd48",
+   "edition": {
+    "language": "en",
+    "volume": "FM01",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316340137.jpg"
+   },
+   "sha256": "067f89210571299392c2bff91fa9fa739eb2f656ecfd06e4ddd8138d70a52523",
    "files": {
     "full": {
-     "file": "31bea2c55ea6-full.webp",
-     "w": 720,
-     "h": 1020
+     "file": "067f89210571-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "31bea2c55ea6-th.webp",
-     "w": 212,
+     "file": "067f89210571-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    720,
-    1020
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Volume 1 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Volume_1_Cover.png",
+    "uploaded": "2015-05-07T02:18:51Z",
+    "sha256": "31bea2c55ea6a6509362efe6302c92e7acd8349a750f09e4012e68f9b048bd48"
+   }
   },
-  "736ec6cb8f84": {
-   "name": "Volume 2 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+  "4ff869e6c348": {
+   "name": "FM02 English edition — EPUB asset x9780316340182.jpg",
+   "source": "DanMachi light novel cover, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Volume_2_Cover.png",
-   "uploaded": "2015-05-07T02:17:54Z",
-   "sha256": "736ec6cb8f844667de4c72191e2f9022c5ce1dc8b87bba5bbd482a78874adbb0",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316340182.jpg"
+   },
+   "sha256": "4ff869e6c34871d5d73ef8177a98b5da1818e0a2b0da81c95baeb2c09e1075b5",
    "files": {
     "full": {
-     "file": "736ec6cb8f84-full.webp",
-     "w": 693,
-     "h": 992
+     "file": "4ff869e6c348-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "736ec6cb8f84-th.webp",
-     "w": 210,
+     "file": "4ff869e6c348-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    693,
-    992
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Volume 2 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Volume_2_Cover.png",
+    "uploaded": "2015-05-07T02:17:54Z",
+    "sha256": "736ec6cb8f844667de4c72191e2f9022c5ce1dc8b87bba5bbd482a78874adbb0"
+   }
   },
   "d6aeb38a203a": {
    "name": "Firebolt.png",
@@ -2141,53 +2278,75 @@
     1080
    ]
   },
-  "4630d75526d8": {
-   "name": "Sword Oratoria Volume 2 65.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+  "269342aaa703": {
+   "name": "SO02 English edition — EPUB asset aArt_ch3",
+   "source": "Sword Oratoria light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_65.png",
-   "uploaded": "2015-05-29T04:00:24Z",
-   "sha256": "4630d75526d8fc283ebc8b023a4b4768213abca1e22e3969363a9de10a342f89",
+   "edition": {
+    "language": "en",
+    "volume": "SO02",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_ch3.jpg"
+   },
+   "sha256": "269342aaa7031d8cfe998e223d43a44394e021b0e4c1a316716088ce16b85c97",
    "files": {
     "full": {
-     "file": "4630d75526d8-full.webp",
-     "w": 796,
-     "h": 1200
+     "file": "269342aaa703-full.webp",
+     "w": 828,
+     "h": 1280
     },
     "th": {
-     "file": "4630d75526d8-th.webp",
-     "w": 199,
+     "file": "269342aaa703-th.webp",
+     "w": 194,
      "h": 300
     }
    },
    "orig": [
-    796,
-    1200
-   ]
+    1165,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 2 65.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_65.png",
+    "uploaded": "2015-05-29T04:00:24Z",
+    "sha256": "4630d75526d8fc283ebc8b023a4b4768213abca1e22e3969363a9de10a342f89"
+   }
   },
-  "4a3a8f3947a7": {
-   "name": "Sword Oratoria Volume 2 3.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+  "a14ffc2e8633": {
+   "name": "SO02 English edition — EPUB asset aArt_insert3",
+   "source": "Sword Oratoria light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_3.jpg",
-   "uploaded": "2015-05-29T03:52:21Z",
-   "sha256": "4a3a8f3947a7e32648fcbd78cb65c63979c7efa2c859cb63932603643357813d",
+   "edition": {
+    "language": "en",
+    "volume": "SO02",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert3.jpg"
+   },
+   "sha256": "a14ffc2e8633a5a88e5c99d4e198297f1da06a807a4eb88a27304d7268614c9e",
    "files": {
     "full": {
-     "file": "4a3a8f3947a7-full.webp",
+     "file": "a14ffc2e8633-full.webp",
      "w": 1280,
-     "h": 722
+     "h": 709
     },
     "th": {
-     "file": "4a3a8f3947a7-th.webp",
+     "file": "a14ffc2e8633-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    2126,
-    1200
-   ]
+    1800,
+    997
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 2 3.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_3.jpg",
+    "uploaded": "2015-05-29T03:52:21Z",
+    "sha256": "4a3a8f3947a7e32648fcbd78cb65c63979c7efa2c859cb63932603643357813d"
+   }
   },
   "c7d04f980770": {
    "name": "Sword Oratoria Volume 2 88.png",
@@ -2381,29 +2540,40 @@
     3646
    ]
   },
-  "bcf4558625b1": {
-   "name": "DanMachi Volume 12 156.png",
-   "source": "DanMachi light novel illustration, Vol. 12 (Japanese edition)",
+  "57f37d8d6c07": {
+   "name": "FM12 English edition — EPUB asset Art_P109.jpg",
+   "source": "DanMachi light novel illustration, Vol. 12 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_12_156.png",
-   "uploaded": "2017-05-23T23:48:28Z",
-   "sha256": "bcf4558625b145e32d4180ca1516b91a59f8602ac7fc9b1692d30e1158692169",
+   "edition": {
+    "language": "en",
+    "volume": "FM12",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P109.jpg"
+   },
+   "sha256": "57f37d8d6c07316be393d7b5fd613fea535462156860a4ea916efbf3c29ebbe3",
    "files": {
     "full": {
-     "file": "bcf4558625b1-full.webp",
-     "w": 896,
+     "file": "57f37d8d6c07-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "bcf4558625b1-th.webp",
-     "w": 210,
+     "file": "57f37d8d6c07-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 12 156.png",
+    "source": "DanMachi light novel illustration, Vol. 12 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_12_156.png",
+    "uploaded": "2017-05-23T23:48:28Z",
+    "sha256": "bcf4558625b145e32d4180ca1516b91a59f8602ac7fc9b1692d30e1158692169"
+   }
   },
   "115450522d4f": {
    "name": "Takemikazuchi Familia.png",
@@ -3044,77 +3214,110 @@
     1080
    ]
   },
-  "b6a492dea722": {
-   "name": "DanMachi Volume 2 15.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+  "01269e8ad692": {
+   "name": "FM02 English edition — EPUB asset Art_P004.jpg",
+   "source": "DanMachi light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_15.png",
-   "uploaded": "2015-06-04T21:30:49Z",
-   "sha256": "b6a492dea722de76fa170dc5f8a8b578623a6d81660bed79b19ce9467b5ead14",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P004.jpg"
+   },
+   "sha256": "01269e8ad69224c73b115845a17a6054e7e495b7d363d8b215a7de81df9763f0",
    "files": {
     "full": {
-     "file": "b6a492dea722-full.webp",
-     "w": 800,
-     "h": 1200
+     "file": "01269e8ad692-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "b6a492dea722-th.webp",
+     "file": "01269e8ad692-th.webp",
      "w": 200,
      "h": 300
     }
    },
    "orig": [
-    800,
-    1200
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 2 15.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_15.png",
+    "uploaded": "2015-06-04T21:30:49Z",
+    "sha256": "b6a492dea722de76fa170dc5f8a8b578623a6d81660bed79b19ce9467b5ead14"
+   }
   },
-  "80bcaa1028ec": {
-   "name": "DanMachi Volume 6 57.jpg",
-   "source": "DanMachi light novel illustration, Vol. 6 (Japanese edition)",
+  "988366c39d91": {
+   "name": "FM06 English edition — EPUB asset Art_chap2.jpg",
+   "source": "DanMachi light novel illustration, Vol. 6 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_6_57.jpg",
-   "uploaded": "2015-06-04T18:40:51Z",
-   "sha256": "80bcaa1028ecf80a03ee5fd59b239a83cf4dfe8e7544cc4465548280c7ccfbdc",
+   "edition": {
+    "language": "en",
+    "volume": "FM06",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_chap2.jpg"
+   },
+   "sha256": "988366c39d91126b2a93fd08ee985d87db215ea94fdf431ddb76e675dbdfe11b",
    "files": {
     "full": {
-     "file": "80bcaa1028ec-full.webp",
-     "w": 889,
+     "file": "988366c39d91-full.webp",
+     "w": 891,
      "h": 1280
     },
     "th": {
-     "file": "80bcaa1028ec-th.webp",
-     "w": 208,
+     "file": "988366c39d91-th.webp",
+     "w": 209,
      "h": 300
     }
    },
    "orig": [
-    1225,
-    1763
-   ]
+    975,
+    1400
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 6 57.jpg",
+    "source": "DanMachi light novel illustration, Vol. 6 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_6_57.jpg",
+    "uploaded": "2015-06-04T18:40:51Z",
+    "sha256": "80bcaa1028ecf80a03ee5fd59b239a83cf4dfe8e7544cc4465548280c7ccfbdc"
+   }
   },
-  "bbd12a6bdf26": {
-   "name": "DanMachi Light Novel Volume 8 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 8 (Japanese edition)",
+  "e3eb1294dd94": {
+   "name": "FM08 English edition — EPUB asset x9780316394239.jpg",
+   "source": "DanMachi light novel cover, Vol. 8 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_8_Cover.png",
-   "uploaded": "2015-06-05T08:17:23Z",
-   "sha256": "bbd12a6bdf260f8ec059912e632655e24343ba9772e47edb80344e75965fccd2",
+   "edition": {
+    "language": "en",
+    "volume": "FM08",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316394239.jpg"
+   },
+   "sha256": "e3eb1294dd9483b4cd853817335324b6ab742dfe1af652c689a681e81ec6720f",
    "files": {
     "full": {
-     "file": "bbd12a6bdf26-full.webp",
-     "w": 714,
-     "h": 1020
+     "file": "e3eb1294dd94-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "bbd12a6bdf26-th.webp",
-     "w": 210,
+     "file": "e3eb1294dd94-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    714,
-    1020
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Light Novel Volume 8 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 8 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_8_Cover.png",
+    "uploaded": "2015-06-05T08:17:23Z",
+    "sha256": "bbd12a6bdf260f8ec059912e632655e24343ba9772e47edb80344e75965fccd2"
+   }
   },
   "7d4e8e6fa377": {
    "name": "Eina Tulle.png",
@@ -3260,29 +3463,40 @@
     2048
    ]
   },
-  "4738eb9a6546": {
-   "name": "Astraea Record Volume 2 03.jpg",
-   "source": "Astrea Record light novel illustration, Vol. 2 (Japanese edition)",
+  "b32641f25be5": {
+   "name": "AR02 English edition — EPUB asset Astrea_Record_v2_FINAL_ebook_INS_pg6-8.jpg",
+   "source": "Astrea Record light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Volume_2_03.jpg",
-   "uploaded": "2022-12-24T15:30:23Z",
-   "sha256": "4738eb9a654681c4eb48e3be4747d73c0d27aa261184f542688c3a536c04e927",
+   "edition": {
+    "language": "en",
+    "volume": "AR02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Astrea_Record_v2_FINAL_ebook_INS_pg6-8.jpg"
+   },
+   "sha256": "b32641f25be580c9a012564f6e33bd170d9676bb3cd9e032d81c30eff4061ee3",
    "files": {
     "full": {
-     "file": "4738eb9a6546-full.webp",
+     "file": "b32641f25be5-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 960
     },
     "th": {
-     "file": "4738eb9a6546-th.webp",
+     "file": "b32641f25be5-th.webp",
      "w": 300,
-     "h": 169
+     "h": 225
     }
    },
    "orig": [
-    3644,
-    2048
-   ]
+    1800,
+    1350
+   ],
+   "replaces": {
+    "name": "Astraea Record Volume 2 03.jpg",
+    "source": "Astrea Record light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Volume_2_03.jpg",
+    "uploaded": "2022-12-24T15:30:23Z",
+    "sha256": "4738eb9a654681c4eb48e3be4747d73c0d27aa261184f542688c3a536c04e927"
+   }
   },
   "928c550303e4": {
    "name": "Erebus as Eren.jpg",
@@ -3332,29 +3546,40 @@
     537
    ]
   },
-  "4db09739dbcc": {
-   "name": "Sword Oratoria Volume 1 4.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 1 (Japanese edition)",
+  "5f365eebc78f": {
+   "name": "SO01 English edition — EPUB asset aArt_insert1",
+   "source": "Sword Oratoria light novel illustration, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_1_4.jpg",
-   "uploaded": "2015-05-29T05:44:29Z",
-   "sha256": "4db09739dbcc2657694ae6259fd14bf0fde32ef5f21f4dcae607add96f8769b3",
+   "edition": {
+    "language": "en",
+    "volume": "SO01",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert1.jpg"
+   },
+   "sha256": "5f365eebc78f35a636d9c4c6d2afbf8c19cf3540e830d44ae2f412cfd75a1eab",
    "files": {
     "full": {
-     "file": "4db09739dbcc-full.webp",
-     "w": 876,
+     "file": "5f365eebc78f-full.webp",
+     "w": 853,
      "h": 1280
     },
     "ib": {
-     "file": "4db09739dbcc-ib.webp",
+     "file": "5f365eebc78f-ib.webp",
      "w": 500,
-     "h": 731
+     "h": 751
     }
    },
    "orig": [
-    1206,
-    1763
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 1 4.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_1_4.jpg",
+    "uploaded": "2015-05-29T05:44:29Z",
+    "sha256": "4db09739dbcc2657694ae6259fd14bf0fde32ef5f21f4dcae607add96f8769b3"
+   }
   },
   "695f7f792b59": {
    "name": "Ais' status update Anime.jpg",
@@ -3428,53 +3653,75 @@
     1080
    ]
   },
-  "b49c7e3cb826": {
-   "name": "DanMachi Volume 10 2.png",
-   "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+  "7b698eb2e60f": {
+   "name": "FM10 English edition — EPUB asset insert1.jpg",
+   "source": "DanMachi light novel illustration, Vol. 10 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10_2.png",
-   "uploaded": "2016-04-29T21:44:34Z",
-   "sha256": "b49c7e3cb8263beca85060b74209bff8bf279d87fadc6ef9c4dbe4ebf1fa79d5",
-   "files": {
-    "full": {
-     "file": "b49c7e3cb826-full.webp",
-     "w": 689,
-     "h": 985
-    },
-    "th": {
-     "file": "b49c7e3cb826-th.webp",
-     "w": 210,
-     "h": 300
-    }
+   "edition": {
+    "language": "en",
+    "volume": "FM10",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/insert1.jpg"
    },
-   "orig": [
-    689,
-    985
-   ]
-  },
-  "e2004f263aea": {
-   "name": "DanMachi Volume 11 67.jpg",
-   "source": "DanMachi light novel illustration, Vol. 11 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_11_67.jpg",
-   "uploaded": "2016-10-18T01:46:03Z",
-   "sha256": "e2004f263aea85ca4074be75712a43f9b4a6036bb14bd4c5f1baca9a85941af5",
+   "sha256": "7b698eb2e60f07190bea4f3dd4d906e36607041e0ee0e5c00dbc012d901bfb17",
    "files": {
     "full": {
-     "file": "e2004f263aea-full.webp",
-     "w": 875,
+     "file": "7b698eb2e60f-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "e2004f263aea-th.webp",
-     "w": 205,
+     "file": "7b698eb2e60f-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1476,
-    2160
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 10 2.png",
+    "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10_2.png",
+    "uploaded": "2016-04-29T21:44:34Z",
+    "sha256": "b49c7e3cb8263beca85060b74209bff8bf279d87fadc6ef9c4dbe4ebf1fa79d5"
+   }
+  },
+  "96ff41da4097": {
+   "name": "FM11 English edition — EPUB asset Art_P44.jpg",
+   "source": "DanMachi light novel illustration, Vol. 11 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "FM11",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P44.jpg"
+   },
+   "sha256": "96ff41da4097ad5f42370eb0181a861c387f406b5bec646cd55095e7f3c8267f",
+   "files": {
+    "full": {
+     "file": "96ff41da4097-full.webp",
+     "w": 853,
+     "h": 1280
+    },
+    "th": {
+     "file": "96ff41da4097-th.webp",
+     "w": 200,
+     "h": 300
+    }
+   },
+   "orig": [
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 11 67.jpg",
+    "source": "DanMachi light novel illustration, Vol. 11 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_11_67.jpg",
+    "uploaded": "2016-10-18T01:46:03Z",
+    "sha256": "e2004f263aea85ca4074be75712a43f9b4a6036bb14bd4c5f1baca9a85941af5"
+   }
   },
   "e8a252aa13cf": {
    "name": "Sword Oratoria Volume 3 60.jpg",
@@ -4076,53 +4323,75 @@
     1200
    ]
   },
-  "53e98680e159": {
-   "name": "DanMachi Volume 3 8.png",
-   "source": "DanMachi light novel illustration, Vol. 3 (Japanese edition)",
+  "5fd8644ec9e9": {
+   "name": "FM03 English edition — EPUB asset Art_P1.jpg",
+   "source": "DanMachi light novel illustration, Vol. 3 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_3_8.png",
-   "uploaded": "2015-06-04T20:51:12Z",
-   "sha256": "53e98680e1593b04cbb285963355b24e57db9756e8a68640f43e5a331487664b",
+   "edition": {
+    "language": "en",
+    "volume": "FM03",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P1.jpg"
+   },
+   "sha256": "5fd8644ec9e994e1bc0c51ae7ec333f494415753edec7df9355ffad4eca64908",
    "files": {
     "full": {
-     "file": "53e98680e159-full.webp",
-     "w": 788,
-     "h": 1200
+     "file": "5fd8644ec9e9-full.webp",
+     "w": 903,
+     "h": 1280
     },
     "th": {
-     "file": "53e98680e159-th.webp",
-     "w": 197,
+     "file": "5fd8644ec9e9-th.webp",
+     "w": 212,
      "h": 300
     }
    },
    "orig": [
-    788,
-    1200
-   ]
+    1270,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 3 8.png",
+    "source": "DanMachi light novel illustration, Vol. 3 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_3_8.png",
+    "uploaded": "2015-06-04T20:51:12Z",
+    "sha256": "53e98680e1593b04cbb285963355b24e57db9756e8a68640f43e5a331487664b"
+   }
   },
-  "233e3c5b1d14": {
-   "name": "DanMachi Volume 7 423.jpg",
-   "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+  "f5a00700ad68": {
+   "name": "FM07 English edition — EPUB asset Art_P325.jpg",
+   "source": "DanMachi light novel illustration, Vol. 7 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_7_423.jpg",
-   "uploaded": "2015-06-04T17:49:47Z",
-   "sha256": "233e3c5b1d142e8ed93997132a406a5c5665341c33f7a5b0145a1bb4c4b0546f",
+   "edition": {
+    "language": "en",
+    "volume": "FM07",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P325.jpg"
+   },
+   "sha256": "f5a00700ad681ef8c314ca225bfbece88f8ffcf9eca408e95a375add30337175",
    "files": {
     "full": {
-     "file": "233e3c5b1d14-full.webp",
-     "w": 829,
-     "h": 1200
+     "file": "f5a00700ad68-full.webp",
+     "w": 838,
+     "h": 1280
     },
     "th": {
-     "file": "233e3c5b1d14-th.webp",
-     "w": 207,
+     "file": "f5a00700ad68-th.webp",
+     "w": 196,
      "h": 300
     }
    },
    "orig": [
-    829,
-    1200
-   ]
+    1178,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 7 423.jpg",
+    "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_7_423.jpg",
+    "uploaded": "2015-06-04T17:49:47Z",
+    "sha256": "233e3c5b1d142e8ed93997132a406a5c5665341c33f7a5b0145a1bb4c4b0546f"
+   }
   },
   "1083a50ae44b": {
    "name": "Freya Character Art.png",
@@ -4316,29 +4585,40 @@
     1080
    ]
   },
-  "cccbda2ef2f8": {
-   "name": "Sword Oratoria Volume 2 215.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+  "94d6daa70c54": {
+   "name": "SO02 English edition — EPUB asset aArt_ch6",
+   "source": "Sword Oratoria light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_215.png",
-   "uploaded": "2015-05-29T04:07:41Z",
-   "sha256": "cccbda2ef2f855824544f6d9d160836efd79be63bf46fcebf12f09b3e7848ee3",
+   "edition": {
+    "language": "en",
+    "volume": "SO02",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_ch6.jpg"
+   },
+   "sha256": "94d6daa70c54b5c66f7a85a35e41c15f3c6e84b860f92f69ba4bec6c4e31080b",
    "files": {
     "full": {
-     "file": "cccbda2ef2f8-full.webp",
-     "w": 796,
-     "h": 1200
+     "file": "94d6daa70c54-full.webp",
+     "w": 831,
+     "h": 1280
     },
     "th": {
-     "file": "cccbda2ef2f8-th.webp",
-     "w": 199,
+     "file": "94d6daa70c54-th.webp",
+     "w": 195,
      "h": 300
     }
    },
    "orig": [
-    796,
-    1200
-   ]
+    1168,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 2 215.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_215.png",
+    "uploaded": "2015-05-29T04:07:41Z",
+    "sha256": "cccbda2ef2f855824544f6d9d160836efd79be63bf46fcebf12f09b3e7848ee3"
+   }
   },
   "fcbb12079a7f": {
    "name": "Sword Oratoria Volume 4 285.jpg",
@@ -4364,29 +4644,40 @@
     1767
    ]
   },
-  "4aed6db7e749": {
-   "name": "Sword Oratoria Volume 5 Cover.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 5 (Japanese edition)",
+  "230e8894c7e9": {
+   "name": "SO05 English edition — EPUB asset id_Images_9780316442510_jpg",
+   "source": "Sword Oratoria light novel cover, Vol. 5 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_5_Cover.png",
-   "uploaded": "2015-09-06T02:15:09Z",
-   "sha256": "4aed6db7e749d103e1caf0ce23a63e004a177e656f818d204d643fb772db2390",
+   "edition": {
+    "language": "en",
+    "volume": "SO05",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/9780316442510.jpg"
+   },
+   "sha256": "230e8894c7e9514675aad9b41037eb8025040a88c5c5469a54b7d9b754a90c50",
    "files": {
     "full": {
-     "file": "4aed6db7e749-full.webp",
-     "w": 711,
-     "h": 1017
+     "file": "230e8894c7e9-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "4aed6db7e749-th.webp",
-     "w": 210,
+     "file": "230e8894c7e9-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    711,
-    1017
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 5 Cover.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 5 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_5_Cover.png",
+    "uploaded": "2015-09-06T02:15:09Z",
+    "sha256": "4aed6db7e749d103e1caf0ce23a63e004a177e656f818d204d643fb772db2390"
+   }
   },
   "03a165783325": {
    "name": "Gareth Landrock Character Art.png",
@@ -4945,29 +5236,40 @@
     1080
    ]
   },
-  "7f6f309c6297": {
-   "name": "DanMachi Light Novel Volume 7 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+  "ae1bc4ed5aa3": {
+   "name": "FM07 English edition — EPUB asset x9780316394222.jpg",
+   "source": "DanMachi light novel cover, Vol. 7 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_7_Cover.png",
-   "uploaded": "2015-06-05T08:17:00Z",
-   "sha256": "7f6f309c6297f541cdb125bbf0b0fc0159a8141c155808622e36e6994b7827c6",
+   "edition": {
+    "language": "en",
+    "volume": "FM07",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316394222.jpg"
+   },
+   "sha256": "ae1bc4ed5aa39c4daf6ff3a957e4dd5b3d23c80ff11f1f68fb35ac79c50eea2d",
    "files": {
     "full": {
-     "file": "7f6f309c6297-full.webp",
-     "w": 711,
-     "h": 1016
+     "file": "ae1bc4ed5aa3-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "7f6f309c6297-th.webp",
-     "w": 210,
+     "file": "ae1bc4ed5aa3-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    711,
-    1016
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Light Novel Volume 7 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_7_Cover.png",
+    "uploaded": "2015-06-05T08:17:00Z",
+    "sha256": "7f6f309c6297f541cdb125bbf0b0fc0159a8141c155808622e36e6994b7827c6"
+   }
   },
   "90bda6a7a07f": {
    "name": "DanMachi Light Novel Volume 7 LE Cover.png",
@@ -4993,29 +5295,40 @@
     1005
    ]
   },
-  "3db81a0ff390": {
-   "name": "DanMachi Volume 7 2.jpg",
-   "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+  "3443fdba2e71": {
+   "name": "FM07 English edition — EPUB asset Art_photo1.jpg",
+   "source": "DanMachi light novel illustration, Vol. 7 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_7_2.jpg",
-   "uploaded": "2015-06-04T17:48:13Z",
-   "sha256": "3db81a0ff39002a82451ea2dba558e04633892b5c5855ab3c1a0c885cfb718a6",
+   "edition": {
+    "language": "en",
+    "volume": "FM07",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_photo1.jpg"
+   },
+   "sha256": "3443fdba2e71338ad0fd6766747e77afcf3a952978ecb63163966024d0133ca8",
    "files": {
     "full": {
-     "file": "3db81a0ff390-full.webp",
-     "w": 842,
-     "h": 1200
+     "file": "3443fdba2e71-full.webp",
+     "w": 864,
+     "h": 1280
     },
     "th": {
-     "file": "3db81a0ff390-th.webp",
-     "w": 210,
+     "file": "3443fdba2e71-th.webp",
+     "w": 202,
      "h": 300
     }
    },
    "orig": [
-    842,
-    1200
-   ]
+    1215,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 7 2.jpg",
+    "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_7_2.jpg",
+    "uploaded": "2015-06-04T17:48:13Z",
+    "sha256": "3db81a0ff39002a82451ea2dba558e04633892b5c5855ab3c1a0c885cfb718a6"
+   }
   },
   "c4687c3b825c": {
    "name": "Sanjouno Haruhime Character Art.png",
@@ -5185,29 +5498,40 @@
     2048
    ]
   },
-  "0c9239bb1ad2": {
-   "name": "DanMachi Volume 16 57.jpg",
-   "source": "DanMachi light novel illustration, Vol. 16 (Japanese edition)",
+  "5f466bdcb5c5": {
+   "name": "FM16 English edition — EPUB asset image_rsrc4DW.jpg",
+   "source": "DanMachi light novel illustration, Vol. 16 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_16_57.jpg",
-   "uploaded": "2020-10-13T17:31:17Z",
-   "sha256": "0c9239bb1ad26873927cb1eee3ac24e9b518886d1f15722284316790385a0d51",
+   "edition": {
+    "language": "en",
+    "volume": "FM16",
+    "publisher": "Yen Press",
+    "member": "OEBPS/Images/image_rsrc4DW.jpg"
+   },
+   "sha256": "5f466bdcb5c59116fd7fc88804cc4e872caa9ec019307cec67cbe8c5562e5bfd",
    "files": {
     "full": {
-     "file": "0c9239bb1ad2-full.webp",
-     "w": 896,
+     "file": "5f466bdcb5c5-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "0c9239bb1ad2-th.webp",
-     "w": 210,
+     "file": "5f466bdcb5c5-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 16 57.jpg",
+    "source": "DanMachi light novel illustration, Vol. 16 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_16_57.jpg",
+    "uploaded": "2020-10-13T17:31:17Z",
+    "sha256": "0c9239bb1ad26873927cb1eee3ac24e9b518886d1f15722284316790385a0d51"
+   }
   },
   "42f71a721488": {
    "name": "Caelus Hildr Anime.gif",
@@ -5497,29 +5821,40 @@
     1033
    ]
   },
-  "c261539e4607": {
-   "name": "DanMachi Light Novel Volume 4 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 4 (Japanese edition)",
+  "51a9b0f13a23": {
+   "name": "FM04 English edition — EPUB asset x9780316340205.jpg",
+   "source": "DanMachi light novel cover, Vol. 4 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_4_Cover.png",
-   "uploaded": "2015-06-05T08:12:46Z",
-   "sha256": "c261539e4607d14ec97d8933a27308ffcf34f001ba2f0d21c39c88d949eb678d",
+   "edition": {
+    "language": "en",
+    "volume": "FM04",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316340205.jpg"
+   },
+   "sha256": "51a9b0f13a23b76922021ac6605ff932e48713cde161b292d46b4b48440ae365",
    "files": {
     "full": {
-     "file": "c261539e4607-full.webp",
-     "w": 677,
-     "h": 972
+     "file": "51a9b0f13a23-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "c261539e4607-th.webp",
-     "w": 209,
+     "file": "51a9b0f13a23-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    677,
-    972
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Light Novel Volume 4 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 4 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Light_Novel_Volume_4_Cover.png",
+    "uploaded": "2015-06-05T08:12:46Z",
+    "sha256": "c261539e4607d14ec97d8933a27308ffcf34f001ba2f0d21c39c88d949eb678d"
+   }
   },
   "950602697b94": {
    "name": "DanMachi Light Novel Volume 4 LE Cover.png",
@@ -5713,29 +6048,40 @@
     1080
    ]
   },
-  "67a7a34acfa3": {
-   "name": "DanMachi Volume 5 259.png",
-   "source": "DanMachi light novel illustration, Vol. 5 (Japanese edition)",
+  "5251ac0a571c": {
+   "name": "FM05 English edition — EPUB asset Art_P183.jpg",
+   "source": "DanMachi light novel illustration, Vol. 5 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_5_259.png",
-   "uploaded": "2015-06-04T19:25:01Z",
-   "sha256": "67a7a34acfa3099007e520f7480fdc02d9c1a54592c4f8bb469fe426d303cb0b",
+   "edition": {
+    "language": "en",
+    "volume": "FM05",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P183.jpg"
+   },
+   "sha256": "5251ac0a571cdc127d03b745ac396f99539193524137105b0782d817bc4b5f3c",
    "files": {
     "full": {
-     "file": "67a7a34acfa3-full.webp",
-     "w": 796,
-     "h": 1200
+     "file": "5251ac0a571c-full.webp",
+     "w": 848,
+     "h": 1280
     },
     "th": {
-     "file": "67a7a34acfa3-th.webp",
+     "file": "5251ac0a571c-th.webp",
      "w": 199,
      "h": 300
     }
    },
    "orig": [
-    796,
-    1200
-   ]
+    1192,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 5 259.png",
+    "source": "DanMachi light novel illustration, Vol. 5 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_5_259.png",
+    "uploaded": "2015-06-04T19:25:01Z",
+    "sha256": "67a7a34acfa3099007e520f7480fdc02d9c1a54592c4f8bb469fe426d303cb0b"
+   }
   },
   "55c6c6321979": {
    "name": "DanMachi Volume 6 97.jpg",
@@ -5977,29 +6323,40 @@
     1200
    ]
   },
-  "1b407cde4ac7": {
-   "name": "DanMachi Volume 2 119.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+  "8342fa50128a": {
+   "name": "FM02 English edition — EPUB asset Art_P082.jpg",
+   "source": "DanMachi light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_119.png",
-   "uploaded": "2015-06-04T21:31:15Z",
-   "sha256": "1b407cde4ac7bcc07ff476ef8ff864fbb845edbd39fcd69c73ef21eab712502c",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P082.jpg"
+   },
+   "sha256": "8342fa50128a5e3e4b6d8cb9206daa9988d5ec621a4e5e2ddcbe255332c8bda1",
    "files": {
     "full": {
-     "file": "1b407cde4ac7-full.webp",
-     "w": 800,
-     "h": 1200
+     "file": "8342fa50128a-full.webp",
+     "w": 896,
+     "h": 1280
     },
     "th": {
-     "file": "1b407cde4ac7-th.webp",
-     "w": 200,
+     "file": "8342fa50128a-th.webp",
+     "w": 210,
      "h": 300
     }
    },
    "orig": [
-    800,
-    1200
-   ]
+    1260,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 2 119.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_119.png",
+    "uploaded": "2015-06-04T21:31:15Z",
+    "sha256": "1b407cde4ac7bcc07ff476ef8ff864fbb845edbd39fcd69c73ef21eab712502c"
+   }
   },
   "299b1b53b884": {
    "name": "Hestia uses Dios Aedes Vesta Anime.jpg",
@@ -6121,29 +6478,40 @@
     1080
    ]
   },
-  "fafdb03b44a5": {
-   "name": "DanMachi Volume 16 19.jpg",
-   "source": "DanMachi light novel illustration, Vol. 16 (Japanese edition)",
+  "98c55fe524de": {
+   "name": "FM16 English edition — EPUB asset image_rsrc4DP.jpg",
+   "source": "DanMachi light novel illustration, Vol. 16 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_16_19.jpg",
-   "uploaded": "2020-10-13T17:31:16Z",
-   "sha256": "fafdb03b44a5cab8a8e74faef2b371d199a7c0068feeb7f5a17c2ac2c505adb5",
+   "edition": {
+    "language": "en",
+    "volume": "FM16",
+    "publisher": "Yen Press",
+    "member": "OEBPS/Images/image_rsrc4DP.jpg"
+   },
+   "sha256": "98c55fe524de0b54cd851d397315640fd81c870c63124fab384299b3d0ef9fa1",
    "files": {
     "full": {
-     "file": "fafdb03b44a5-full.webp",
-     "w": 896,
+     "file": "98c55fe524de-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "fafdb03b44a5-th.webp",
-     "w": 210,
+     "file": "98c55fe524de-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 16 19.jpg",
+    "source": "DanMachi light novel illustration, Vol. 16 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_16_19.jpg",
+    "uploaded": "2020-10-13T17:31:16Z",
+    "sha256": "fafdb03b44a5cab8a8e74faef2b371d199a7c0068feeb7f5a17c2ac2c505adb5"
+   }
   },
   "6be30a8ae6b6": {
    "name": "Horn Manga.png",
@@ -6337,29 +6705,40 @@
     1080
    ]
   },
-  "0c83b3e19dc9": {
-   "name": "Sword Oratoria Volume 2 157.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+  "5cdf0850087e": {
+   "name": "SO02 English edition — EPUB asset aArt_ch5",
+   "source": "Sword Oratoria light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_157.png",
-   "uploaded": "2015-05-29T04:07:27Z",
-   "sha256": "0c83b3e19dc97cf7eda390d2b0adab45522f4bbfa7a5814ab583cd316d3970a4",
+   "edition": {
+    "language": "en",
+    "volume": "SO02",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_ch5.jpg"
+   },
+   "sha256": "5cdf0850087e1299aa5ed45aee60810559b8ef39b068d99bc4eb12d7751c646d",
    "files": {
     "full": {
-     "file": "0c83b3e19dc9-full.webp",
-     "w": 796,
-     "h": 1200
+     "file": "5cdf0850087e-full.webp",
+     "w": 831,
+     "h": 1280
     },
     "th": {
-     "file": "0c83b3e19dc9-th.webp",
-     "w": 199,
+     "file": "5cdf0850087e-th.webp",
+     "w": 195,
      "h": 300
     }
    },
    "orig": [
-    796,
-    1200
-   ]
+    1168,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 2 157.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_157.png",
+    "uploaded": "2015-05-29T04:07:27Z",
+    "sha256": "0c83b3e19dc97cf7eda390d2b0adab45522f4bbfa7a5814ab583cd316d3970a4"
+   }
   },
   "d2d0a332f904": {
    "name": "Sword Oratoria Light Novel Volume 1 LE Cover.png",
@@ -6385,29 +6764,40 @@
     972
    ]
   },
-  "990b94bc8e5d": {
-   "name": "Sword Oratoria Volume 1 7.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 1 (Japanese edition)",
+  "a52b80a184da": {
+   "name": "SO01 English edition — EPUB asset aArt_insert6",
+   "source": "Sword Oratoria light novel illustration, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_1_7.jpg",
-   "uploaded": "2015-05-29T05:44:58Z",
-   "sha256": "990b94bc8e5d7edbfdddf68d24ddbbb89a5c1c8bd5882b080417eecfd2dbdbcf",
+   "edition": {
+    "language": "en",
+    "volume": "SO01",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert6.jpg"
+   },
+   "sha256": "a52b80a184da000ecf3ef0f870e410e28b00db6300e4d3125289d05bf4e0adf0",
    "files": {
     "full": {
-     "file": "990b94bc8e5d-full.webp",
+     "file": "a52b80a184da-full.webp",
      "w": 1280,
-     "h": 724
+     "h": 707
     },
     "th": {
-     "file": "990b94bc8e5d-th.webp",
+     "file": "a52b80a184da-th.webp",
      "w": 300,
-     "h": 170
+     "h": 166
     }
    },
    "orig": [
-    3113,
-    1761
-   ]
+    1800,
+    994
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 1 7.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_1_7.jpg",
+    "uploaded": "2015-05-29T05:44:58Z",
+    "sha256": "990b94bc8e5d7edbfdddf68d24ddbbb89a5c1c8bd5882b080417eecfd2dbdbcf"
+   }
   },
   "ee81654f773e": {
    "name": "Tiona Hiryute Character Art.png",
@@ -6553,29 +6943,40 @@
     1080
    ]
   },
-  "e2adce9a4bf5": {
-   "name": "DanMachi Volume 7 8.jpg",
-   "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+  "791cda29358d": {
+   "name": "FM07 English edition — EPUB asset Art_P2.jpg",
+   "source": "DanMachi light novel illustration, Vol. 7 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_7_8.jpg",
-   "uploaded": "2015-06-04T17:48:37Z",
-   "sha256": "e2adce9a4bf5c92e01d4f5aec23bd6e056d8e11928dbe18116d88220e03f6ef0",
+   "edition": {
+    "language": "en",
+    "volume": "FM07",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P2.jpg"
+   },
+   "sha256": "791cda29358dbdedf497a1fda8bd8f25502c54d1bccf94a888507fbc46ee904d",
    "files": {
     "full": {
-     "file": "e2adce9a4bf5-full.webp",
-     "w": 829,
-     "h": 1200
+     "file": "791cda29358d-full.webp",
+     "w": 790,
+     "h": 1280
     },
     "th": {
-     "file": "e2adce9a4bf5-th.webp",
-     "w": 207,
+     "file": "791cda29358d-th.webp",
+     "w": 185,
      "h": 300
     }
    },
    "orig": [
-    829,
-    1200
-   ]
+    1111,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 7 8.jpg",
+    "source": "DanMachi light novel illustration, Vol. 7 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_7_8.jpg",
+    "uploaded": "2015-06-04T17:48:37Z",
+    "sha256": "e2adce9a4bf5c92e01d4f5aec23bd6e056d8e11928dbe18116d88220e03f6ef0"
+   }
   },
   "d3f213bef690": {
    "name": "DanMachi Volume 7 351.jpg",
@@ -6817,29 +7218,40 @@
     1080
    ]
   },
-  "8fa4ad4b2d06": {
-   "name": "Sword Oratoria Light Novel Volume 1 Cover.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 1 (Japanese edition)",
+  "f40661830df3": {
+   "name": "SO01 English edition — EPUB asset id_images_9780316318143_jpg",
+   "source": "Sword Oratoria light novel cover, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Light_Novel_Volume_1_Cover.png",
-   "uploaded": "2017-04-22T22:29:34Z",
-   "sha256": "8fa4ad4b2d061b70b416e1f00797c7170d8c38d037c4f0f279046f1b8675c5b6",
+   "edition": {
+    "language": "en",
+    "volume": "SO01",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/9780316318143.jpg"
+   },
+   "sha256": "f40661830df3db968b1bc12a372f2417f2f903640925e2e8b663a286b47fda82",
    "files": {
     "full": {
-     "file": "8fa4ad4b2d06-full.webp",
-     "w": 896,
+     "file": "f40661830df3-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "8fa4ad4b2d06-th.webp",
-     "w": 210,
+     "file": "f40661830df3-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Light Novel Volume 1 Cover.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Light_Novel_Volume_1_Cover.png",
+    "uploaded": "2017-04-22T22:29:34Z",
+    "sha256": "8fa4ad4b2d061b70b416e1f00797c7170d8c38d037c4f0f279046f1b8675c5b6"
+   }
   },
   "31dde4655082": {
    "name": "Lefiya Viridis Character Art.png",
@@ -6961,53 +7373,75 @@
     974
    ]
   },
-  "9d9c74a7f3c2": {
-   "name": "DanMachi Volume 19 08.jpg",
-   "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+  "c2a5744430f4": {
+   "name": "FM19 English edition — EPUB asset Art_P84.jpg",
+   "source": "DanMachi light novel illustration, Vol. 19 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_08.jpg",
-   "uploaded": "2023-09-14T03:56:40Z",
-   "sha256": "9d9c74a7f3c213cc2dc288711081168e4b86b76d3f5a58e67472892acd491603",
+   "edition": {
+    "language": "en",
+    "volume": "FM19",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P84.jpg"
+   },
+   "sha256": "c2a5744430f41a1b857de2990e19f7c23ed3c3368aaaf4f1a9a8b47b1ec64d74",
    "files": {
     "full": {
-     "file": "9d9c74a7f3c2-full.webp",
-     "w": 896,
+     "file": "c2a5744430f4-full.webp",
+     "w": 853,
      "h": 1280
     },
     "ib": {
-     "file": "9d9c74a7f3c2-ib.webp",
+     "file": "c2a5744430f4-ib.webp",
      "w": 500,
-     "h": 714
+     "h": 750
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 19 08.jpg",
+    "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_08.jpg",
+    "uploaded": "2023-09-14T03:56:40Z",
+    "sha256": "9d9c74a7f3c213cc2dc288711081168e4b86b76d3f5a58e67472892acd491603"
+   }
   },
-  "9dcc72e96a21": {
-   "name": "Sword Oratoria Volume 13 2.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 13 (Japanese edition)",
+  "5e05290b788e": {
+   "name": "SO13 English edition — EPUB asset Art_insert003.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 13 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_13_2.jpg",
-   "uploaded": "2023-02-13T15:22:44Z",
-   "sha256": "9dcc72e96a2193b5ae1baabf317f2441e0f34ab208fe13f83cec2c9ddb270f33",
+   "edition": {
+    "language": "en",
+    "volume": "SO13",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert003.jpg"
+   },
+   "sha256": "5e05290b788e0a58cff58ac6f406f69bdc641952b991187ff38a734dfb0c744e",
    "files": {
     "full": {
-     "file": "9dcc72e96a21-full.webp",
+     "file": "5e05290b788e-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 959
     },
     "th": {
-     "file": "9dcc72e96a21-th.webp",
+     "file": "5e05290b788e-th.webp",
      "w": 300,
-     "h": 169
+     "h": 225
     }
    },
    "orig": [
-    3646,
-    2048
-   ]
+    1800,
+    1349
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 13 2.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 13 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_13_2.jpg",
+    "uploaded": "2023-02-13T15:22:44Z",
+    "sha256": "9dcc72e96a2193b5ae1baabf317f2441e0f34ab208fe13f83cec2c9ddb270f33"
+   }
   },
   "6e44ba280b9c": {
    "name": "Sword Oratoria Volume 13 11.jpg",
@@ -7057,29 +7491,40 @@
     1080
    ]
   },
-  "2d2a1682cde0": {
-   "name": "Sword Oratoria Volume 2 1.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+  "2b64ebe8b444": {
+   "name": "SO02 English edition — EPUB asset aArt_insert1",
+   "source": "Sword Oratoria light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_1.jpg",
-   "uploaded": "2015-05-29T03:52:08Z",
-   "sha256": "2d2a1682cde0003e58f31e590c3a705d4929b80e3488ef50d7137f32ebdea8c7",
+   "edition": {
+    "language": "en",
+    "volume": "SO02",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert1.jpg"
+   },
+   "sha256": "2b64ebe8b4444ca45904643b25a066a56a8e479e9519aa31e4ae0b84431c0207",
    "files": {
     "full": {
-     "file": "2d2a1682cde0-full.webp",
-     "w": 820,
-     "h": 1200
+     "file": "2b64ebe8b444-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "2d2a1682cde0-th.webp",
-     "w": 205,
+     "file": "2b64ebe8b444-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    820,
-    1200
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 2 1.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_2_1.jpg",
+    "uploaded": "2015-05-29T03:52:08Z",
+    "sha256": "2d2a1682cde0003e58f31e590c3a705d4929b80e3488ef50d7137f32ebdea8c7"
+   }
   },
   "0033e9d6cee4": {
    "name": "Sword Oratoria Volume 2 5.jpg",
@@ -7369,29 +7814,40 @@
     1080
    ]
   },
-  "606c68751672": {
-   "name": "DanMachi Volume 2 8.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+  "913d446dbda8": {
+   "name": "FM02 English edition — EPUB asset Art_P001.jpg",
+   "source": "DanMachi light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_8.png",
-   "uploaded": "2015-06-04T21:30:43Z",
-   "sha256": "606c68751672104869e83fd0c3e1d0411539e98c828a7afcf555a0a01acbc16a",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P001.jpg"
+   },
+   "sha256": "913d446dbda87b159b60fd19d6e2684948cedf3020bbc94d2925625151042c56",
    "files": {
     "full": {
-     "file": "606c68751672-full.webp",
-     "w": 800,
-     "h": 1200
+     "file": "913d446dbda8-full.webp",
+     "w": 879,
+     "h": 1280
     },
     "th": {
-     "file": "606c68751672-th.webp",
-     "w": 200,
+     "file": "913d446dbda8-th.webp",
+     "w": 206,
      "h": 300
     }
    },
    "orig": [
-    800,
-    1200
-   ]
+    1236,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 2 8.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_8.png",
+    "uploaded": "2015-06-04T21:30:43Z",
+    "sha256": "606c68751672104869e83fd0c3e1d0411539e98c828a7afcf555a0a01acbc16a"
+   }
   },
   "49883915795e": {
    "name": "DanMachi Volume 2 70.png",
@@ -7734,29 +8190,40 @@
     1080
    ]
   },
-  "fde1135cbd81": {
-   "name": "DanMachi Volume 2 59.png",
-   "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+  "e2117697bff7": {
+   "name": "FM02 English edition — EPUB asset Art_P040.jpg",
+   "source": "DanMachi light novel illustration, Vol. 2 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_59.png",
-   "uploaded": "2015-06-04T21:31:03Z",
-   "sha256": "fde1135cbd818a71d787dbe357a85aed97c00419e63bf48161fa3bede430e6ed",
+   "edition": {
+    "language": "en",
+    "volume": "FM02",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P040.jpg"
+   },
+   "sha256": "e2117697bff736711e6d2d9dc5cf939afcda6cd400f483047387bbb817e8b526",
    "files": {
     "full": {
-     "file": "fde1135cbd81-full.webp",
-     "w": 800,
-     "h": 1200
+     "file": "e2117697bff7-full.webp",
+     "w": 881,
+     "h": 1280
     },
     "th": {
-     "file": "fde1135cbd81-th.webp",
-     "w": 200,
+     "file": "e2117697bff7-th.webp",
+     "w": 206,
      "h": 300
     }
    },
    "orig": [
-    800,
-    1200
-   ]
+    1239,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 2 59.png",
+    "source": "DanMachi light novel illustration, Vol. 2 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_2_59.png",
+    "uploaded": "2015-06-04T21:31:03Z",
+    "sha256": "fde1135cbd818a71d787dbe357a85aed97c00419e63bf48161fa3bede430e6ed"
+   }
   },
   "ecc48679b87f": {
    "name": "DanMachi Volume 3 163.png",
@@ -8358,101 +8825,145 @@
     809
    ]
   },
-  "d48bcf3b5017": {
-   "name": "DanMachi Volume 19 12.jpg",
-   "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+  "988470dc32eb": {
+   "name": "FM19 English edition — EPUB asset Art_P258.jpg",
+   "source": "DanMachi light novel illustration, Vol. 19 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_12.jpg",
-   "uploaded": "2023-09-14T03:56:43Z",
-   "sha256": "d48bcf3b5017434087128bb6c43baab957d27329bdcf64de7620c0b5cb52ed7c",
+   "edition": {
+    "language": "en",
+    "volume": "FM19",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P258.jpg"
+   },
+   "sha256": "988470dc32eb184d8e0e193361c367ac10259e405645a713488df8ed6854c2e2",
    "files": {
     "full": {
-     "file": "d48bcf3b5017-full.webp",
-     "w": 896,
+     "file": "988470dc32eb-full.webp",
+     "w": 853,
      "h": 1280
     },
     "ib": {
-     "file": "d48bcf3b5017-ib.webp",
+     "file": "988470dc32eb-ib.webp",
      "w": 500,
-     "h": 714
+     "h": 750
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 19 12.jpg",
+    "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_12.jpg",
+    "uploaded": "2023-09-14T03:56:43Z",
+    "sha256": "d48bcf3b5017434087128bb6c43baab957d27329bdcf64de7620c0b5cb52ed7c"
+   }
   },
-  "6221743d25e3": {
-   "name": "Volume 19 Cover.jpg",
-   "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+  "cf874f1a7456": {
+   "name": "FM19 English edition — EPUB asset x9781975393410.jpg",
+   "source": "DanMachi light novel cover, Vol. 19 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Volume_19_Cover.jpg",
-   "uploaded": "2023-09-14T03:57:55Z",
-   "sha256": "6221743d25e3c9e76d88c1c16f4171e509468e045251b38a11b87127ed3b349b",
+   "edition": {
+    "language": "en",
+    "volume": "FM19",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9781975393410.jpg"
+   },
+   "sha256": "cf874f1a74568d522aec7b2929f1a45c5945727d9df359810413cca138e78bd6",
    "files": {
     "full": {
-     "file": "6221743d25e3-full.webp",
-     "w": 896,
+     "file": "cf874f1a7456-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "6221743d25e3-th.webp",
-     "w": 210,
+     "file": "cf874f1a7456-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Volume 19 Cover.jpg",
+    "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Volume_19_Cover.jpg",
+    "uploaded": "2023-09-14T03:57:55Z",
+    "sha256": "6221743d25e3c9e76d88c1c16f4171e509468e045251b38a11b87127ed3b349b"
+   }
   },
-  "6558a3a04a3e": {
-   "name": "DanMachi Volume 19 01.jpg",
-   "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+  "354d057eeffc": {
+   "name": "FM19 English edition — EPUB asset Art_insert001.jpg",
+   "source": "DanMachi light novel illustration, Vol. 19 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_01.jpg",
-   "uploaded": "2023-09-14T03:56:33Z",
-   "sha256": "6558a3a04a3e278730335df7aa3045597d60a79005db92dd65f7d990f9e275ad",
+   "edition": {
+    "language": "en",
+    "volume": "FM19",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert001.jpg"
+   },
+   "sha256": "354d057eeffc3c0b8d3ffef60377724164bf87bfb065d7536d6dfd5a6da02aa6",
    "files": {
     "full": {
-     "file": "6558a3a04a3e-full.webp",
-     "w": 896,
+     "file": "354d057eeffc-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "6558a3a04a3e-th.webp",
-     "w": 210,
+     "file": "354d057eeffc-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 19 01.jpg",
+    "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_01.jpg",
+    "uploaded": "2023-09-14T03:56:33Z",
+    "sha256": "6558a3a04a3e278730335df7aa3045597d60a79005db92dd65f7d990f9e275ad"
+   }
   },
-  "8dc1e403d071": {
-   "name": "DanMachi Volume 19 02.jpg",
-   "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+  "02ea2d5f4de1": {
+   "name": "FM19 English edition — EPUB asset Art_insert002.jpg",
+   "source": "DanMachi light novel illustration, Vol. 19 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_02.jpg",
-   "uploaded": "2023-09-14T03:56:34Z",
-   "sha256": "8dc1e403d0716d1bd6bfa1f081cd0cd1743ce2007a73fabefd90087a46b8cb11",
+   "edition": {
+    "language": "en",
+    "volume": "FM19",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert002.jpg"
+   },
+   "sha256": "02ea2d5f4de1300782f8623e1b4fb10c76b465f12db10951d21816528717364d",
    "files": {
     "full": {
-     "file": "8dc1e403d071-full.webp",
+     "file": "02ea2d5f4de1-full.webp",
      "w": 1280,
-     "h": 525
+     "h": 959
     },
     "th": {
-     "file": "8dc1e403d071-th.webp",
+     "file": "02ea2d5f4de1-th.webp",
      "w": 300,
-     "h": 123
+     "h": 225
     }
    },
    "orig": [
-    4996,
-    2048
-   ]
+    1800,
+    1349
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 19 02.jpg",
+    "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_02.jpg",
+    "uploaded": "2023-09-14T03:56:34Z",
+    "sha256": "8dc1e403d0716d1bd6bfa1f081cd0cd1743ce2007a73fabefd90087a46b8cb11"
+   }
   },
   "b0d5d3474f5b": {
    "name": "Orario.png",
@@ -8526,29 +9037,40 @@
     1080
    ]
   },
-  "7a1ddded25a1": {
-   "name": "DanMachi Volume 3 49.png",
-   "source": "DanMachi light novel illustration, Vol. 3 (Japanese edition)",
+  "304d6bba1292": {
+   "name": "FM03 English edition — EPUB asset Art_P34.jpg",
+   "source": "DanMachi light novel illustration, Vol. 3 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_3_49.png",
-   "uploaded": "2015-06-04T20:51:29Z",
-   "sha256": "7a1ddded25a183ad77d161ccd62e46dd05ecfb9dd48c736e2f36879cbc567446",
+   "edition": {
+    "language": "en",
+    "volume": "FM03",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P34.jpg"
+   },
+   "sha256": "304d6bba1292aa97d5e74f1cdd14ab2b3f4d5670443b59a783d14f277a4f8c26",
    "files": {
     "full": {
-     "file": "7a1ddded25a1-full.webp",
-     "w": 788,
-     "h": 1200
+     "file": "304d6bba1292-full.webp",
+     "w": 804,
+     "h": 1280
     },
     "th": {
-     "file": "7a1ddded25a1-th.webp",
-     "w": 197,
+     "file": "304d6bba1292-th.webp",
+     "w": 188,
      "h": 300
     }
    },
    "orig": [
-    788,
-    1200
-   ]
+    1131,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 3 49.png",
+    "source": "DanMachi light novel illustration, Vol. 3 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_3_49.png",
+    "uploaded": "2015-06-04T20:51:29Z",
+    "sha256": "7a1ddded25a183ad77d161ccd62e46dd05ecfb9dd48c736e2f36879cbc567446"
+   }
   },
   "a33408aecdfb": {
    "name": "DanMachi Volume 7 445.jpg",
@@ -8891,34 +9413,45 @@
     881
    ]
   },
-  "b0d41c584e80": {
-   "name": "Sword Oratoria Volume 7 4.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+  "4be64febf1ee": {
+   "name": "SO07 English edition — EPUB asset aArt_insert004",
+   "source": "Sword Oratoria light novel illustration, Vol. 7 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_4.png",
-   "uploaded": "2016-12-05T12:41:29Z",
-   "sha256": "b0d41c584e80507ddcc818eae5908d067f36ea115c077a135eac3023a2243874",
+   "edition": {
+    "language": "en",
+    "volume": "SO07",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert004.jpg"
+   },
+   "sha256": "4be64febf1eee5be795480a2d94c26ae0f38633bca069505927ec4a44c13bdf9",
    "files": {
     "full": {
-     "file": "b0d41c584e80-full.webp",
+     "file": "4be64febf1ee-full.webp",
      "w": 1280,
-     "h": 720
+     "h": 709
     },
     "ib": {
-     "file": "b0d41c584e80-ib.webp",
+     "file": "4be64febf1ee-ib.webp",
      "w": 500,
-     "h": 281
+     "h": 277
     },
     "th": {
-     "file": "b0d41c584e80-th.webp",
+     "file": "4be64febf1ee-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1752,
-    985
-   ]
+    1800,
+    997
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 7 4.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_4.png",
+    "uploaded": "2016-12-05T12:41:29Z",
+    "sha256": "b0d41c584e80507ddcc818eae5908d067f36ea115c077a135eac3023a2243874"
+   }
   },
   "0f896136c146": {
    "name": "Sword Oratoria Volume 7 113.png",
@@ -9184,53 +9717,75 @@
     879
    ]
   },
-  "ddaee2316848": {
-   "name": "Sword Oratoria Light Novel Volume 3 Cover.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 3 (Japanese edition)",
+  "ad5243524cb6": {
+   "name": "SO03 English edition — EPUB asset cover-image",
+   "source": "Sword Oratoria light novel cover, Vol. 3 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Light_Novel_Volume_3_Cover.png",
-   "uploaded": "2015-06-05T08:03:07Z",
-   "sha256": "ddaee2316848fde8b30d9a050e7bce6c10d318ea5f097b6cdd06d7d8e34fc897",
-   "files": {
-    "full": {
-     "file": "ddaee2316848-full.webp",
-     "w": 708,
-     "h": 1012
-    },
-    "th": {
-     "file": "ddaee2316848-th.webp",
-     "w": 210,
-     "h": 300
-    }
+   "edition": {
+    "language": "en",
+    "volume": "SO03",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/9780316318211.jpg"
    },
-   "orig": [
-    708,
-    1012
-   ]
-  },
-  "7ea6f889485d": {
-   "name": "Sword Oratoria Volume 3 2.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 3 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_3_2.jpg",
-   "uploaded": "2015-05-29T06:30:05Z",
-   "sha256": "7ea6f889485d53eb515fb409de7c08c3d4a13ca26e32b9288323728842572582",
+   "sha256": "ad5243524cb64bee1c427e54afddf26020bbc56d7c38d44f79c9de43d07cf414",
    "files": {
     "full": {
-     "file": "7ea6f889485d-full.webp",
-     "w": 873,
+     "file": "ad5243524cb6-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "7ea6f889485d-th.webp",
-     "w": 205,
+     "file": "ad5243524cb6-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1203,
-    1763
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Light Novel Volume 3 Cover.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 3 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Light_Novel_Volume_3_Cover.png",
+    "uploaded": "2015-06-05T08:03:07Z",
+    "sha256": "ddaee2316848fde8b30d9a050e7bce6c10d318ea5f097b6cdd06d7d8e34fc897"
+   }
+  },
+  "b9369bc845d5": {
+   "name": "SO03 English edition — EPUB asset Art_insert1-jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 3 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "SO03",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert1.jpg"
+   },
+   "sha256": "b9369bc845d58a63d7ee281ee68a3bed3bbb63c9e11e0fda96e8e509858b97be",
+   "files": {
+    "full": {
+     "file": "b9369bc845d5-full.webp",
+     "w": 842,
+     "h": 1280
+    },
+    "th": {
+     "file": "b9369bc845d5-th.webp",
+     "w": 197,
+     "h": 300
+    }
+   },
+   "orig": [
+    1184,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 3 2.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 3 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_3_2.jpg",
+    "uploaded": "2015-05-29T06:30:05Z",
+    "sha256": "7ea6f889485d53eb515fb409de7c08c3d4a13ca26e32b9288323728842572582"
+   }
   },
   "75f9ed13956f": {
    "name": "Sword Oratoria BD 6 Cover.jpg",
@@ -9664,53 +10219,75 @@
     1080
    ]
   },
-  "8bed19476ce8": {
-   "name": "DanMachi Volume 5 383.png",
-   "source": "DanMachi light novel illustration, Vol. 5 (Japanese edition)",
+  "af59f9ae0698": {
+   "name": "FM05 English edition — EPUB asset Art_P277.jpg",
+   "source": "DanMachi light novel illustration, Vol. 5 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_5_383.png",
-   "uploaded": "2015-06-04T19:25:25Z",
-   "sha256": "8bed19476ce83fa4d15a50c2bfe3a42dd06fda06c4511c4453050c10c8284cd8",
-   "files": {
-    "full": {
-     "file": "8bed19476ce8-full.webp",
-     "w": 796,
-     "h": 1200
-    },
-    "th": {
-     "file": "8bed19476ce8-th.webp",
-     "w": 199,
-     "h": 300
-    }
+   "edition": {
+    "language": "en",
+    "volume": "FM05",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P277.jpg"
    },
-   "orig": [
-    796,
-    1200
-   ]
-  },
-  "25cde7c88d94": {
-   "name": "DanMachi Volume 6 19.jpg",
-   "source": "DanMachi light novel illustration, Vol. 6 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_6_19.jpg",
-   "uploaded": "2015-06-04T18:40:39Z",
-   "sha256": "25cde7c88d947ef5dccc009e6ea21aaed1edfc46d61943bdf6dc52c6a43119f0",
+   "sha256": "af59f9ae0698530a3d008861de1c2ecc62b04f8e85de7782839c9e1ff16e00b3",
    "files": {
     "full": {
-     "file": "25cde7c88d94-full.webp",
-     "w": 885,
+     "file": "af59f9ae0698-full.webp",
+     "w": 870,
      "h": 1280
     },
     "th": {
-     "file": "25cde7c88d94-th.webp",
-     "w": 208,
+     "file": "af59f9ae0698-th.webp",
+     "w": 204,
      "h": 300
     }
    },
    "orig": [
     1223,
-    1768
-   ]
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 5 383.png",
+    "source": "DanMachi light novel illustration, Vol. 5 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_5_383.png",
+    "uploaded": "2015-06-04T19:25:25Z",
+    "sha256": "8bed19476ce83fa4d15a50c2bfe3a42dd06fda06c4511c4453050c10c8284cd8"
+   }
+  },
+  "4cf3a68adaff": {
+   "name": "FM06 English edition — EPUB asset Art_Chap1.jpg",
+   "source": "DanMachi light novel illustration, Vol. 6 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "FM06",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_Chap1.jpg"
+   },
+   "sha256": "4cf3a68adaff90692fb5d64f014f890d84247b52348ed846bbf6f88692e8cb65",
+   "files": {
+    "full": {
+     "file": "4cf3a68adaff-full.webp",
+     "w": 845,
+     "h": 1280
+    },
+    "th": {
+     "file": "4cf3a68adaff-th.webp",
+     "w": 198,
+     "h": 300
+    }
+   },
+   "orig": [
+    924,
+    1400
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 6 19.jpg",
+    "source": "DanMachi light novel illustration, Vol. 6 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_6_19.jpg",
+    "uploaded": "2015-06-04T18:40:39Z",
+    "sha256": "25cde7c88d947ef5dccc009e6ea21aaed1edfc46d61943bdf6dc52c6a43119f0"
+   }
   },
   "d6efd11c04ca": {
    "name": "Syr Flova.png",
@@ -10240,53 +10817,75 @@
     2100
    ]
   },
-  "4ba03974e725": {
-   "name": "Volume 9 Cover.png",
-   "source": "DanMachi light novel illustration, Vol. 9 (Japanese edition)",
+  "89f9037beddb": {
+   "name": "FM09 English edition — EPUB asset x9780316442442.jpg",
+   "source": "DanMachi light novel cover, Vol. 9 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Volume_9_Cover.png",
-   "uploaded": "2015-08-28T00:29:57Z",
-   "sha256": "4ba03974e7253290908fb1138b8b0fdc3430d95d5a18f231e8d915350ec9b027",
-   "files": {
-    "full": {
-     "file": "4ba03974e725-full.webp",
-     "w": 746,
-     "h": 1067
-    },
-    "th": {
-     "file": "4ba03974e725-th.webp",
-     "w": 210,
-     "h": 300
-    }
+   "edition": {
+    "language": "en",
+    "volume": "FM09",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9780316442442.jpg"
    },
-   "orig": [
-    746,
-    1067
-   ]
-  },
-  "03e9cdb49d45": {
-   "name": "DanMachi Volume 9 4.jpg",
-   "source": "DanMachi light novel illustration, Vol. 9 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_9_4.jpg",
-   "uploaded": "2015-09-17T03:22:31Z",
-   "sha256": "03e9cdb49d4570d4ac9f3c1fdbed6b7d6a1bbf151b1ce1e7564623cb925f3c3b",
+   "sha256": "89f9037beddbf4909b7591d55399066359235dbd0a85e6e074bc7aeccd6e82a8",
    "files": {
     "full": {
-     "file": "03e9cdb49d45-full.webp",
-     "w": 863,
+     "file": "89f9037beddb-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "03e9cdb49d45-th.webp",
-     "w": 202,
+     "file": "89f9037beddb-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1456,
-    2160
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Volume 9 Cover.png",
+    "source": "DanMachi light novel illustration, Vol. 9 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Volume_9_Cover.png",
+    "uploaded": "2015-08-28T00:29:57Z",
+    "sha256": "4ba03974e7253290908fb1138b8b0fdc3430d95d5a18f231e8d915350ec9b027"
+   }
+  },
+  "ef32d78320fe": {
+   "name": "FM09 English edition — EPUB asset insert1.jpg",
+   "source": "DanMachi light novel illustration, Vol. 9 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "FM09",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/insert1.jpg"
+   },
+   "sha256": "ef32d78320fe549b27b81f3d80f1e60af18d5e4297c5f58a4899bb655f6554f0",
+   "files": {
+    "full": {
+     "file": "ef32d78320fe-full.webp",
+     "w": 853,
+     "h": 1280
+    },
+    "th": {
+     "file": "ef32d78320fe-th.webp",
+     "w": 200,
+     "h": 300
+    }
+   },
+   "orig": [
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 9 4.jpg",
+    "source": "DanMachi light novel illustration, Vol. 9 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_9_4.jpg",
+    "uploaded": "2015-09-17T03:22:31Z",
+    "sha256": "03e9cdb49d4570d4ac9f3c1fdbed6b7d6a1bbf151b1ce1e7564623cb925f3c3b"
+   }
   },
   "4fbe9b3eab42": {
    "name": "Wiene Anime 2.jpg",
@@ -10552,53 +11151,75 @@
     1762
    ]
   },
-  "14e925882735": {
-   "name": "DanMachi Volume 13 1.jpg",
-   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+  "8869625662cc": {
+   "name": "FM13 English edition — EPUB asset Art_insert001.jpg",
+   "source": "DanMachi light novel illustration, Vol. 13 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_1.jpg",
-   "uploaded": "2018-02-16T04:03:55Z",
-   "sha256": "14e9258827351cd12d15fb44a46a8d2a3c5e20f8142abd62318f931b0184a84a",
+   "edition": {
+    "language": "en",
+    "volume": "FM13",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert001.jpg"
+   },
+   "sha256": "8869625662cc6862e614b731c952e87084ee187e15c2dbc7605a41b410e89742",
    "files": {
     "full": {
-     "file": "14e925882735-full.webp",
-     "w": 896,
+     "file": "8869625662cc-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "14e925882735-th.webp",
-     "w": 210,
+     "file": "8869625662cc-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 13 1.jpg",
+    "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_1.jpg",
+    "uploaded": "2018-02-16T04:03:55Z",
+    "sha256": "14e9258827351cd12d15fb44a46a8d2a3c5e20f8142abd62318f931b0184a84a"
+   }
   },
-  "478b60f5bdcd": {
-   "name": "DanMachi Volume 13 37.png",
-   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+  "52cc09014bdf": {
+   "name": "FM13 English edition — EPUB asset Art_P025.jpg",
+   "source": "DanMachi light novel illustration, Vol. 13 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_37.png",
-   "uploaded": "2018-02-16T19:51:40Z",
-   "sha256": "478b60f5bdcd06f71c3039949d8b6e699ff42c6e974b1e3ddb69da7926569932",
+   "edition": {
+    "language": "en",
+    "volume": "FM13",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P025.jpg"
+   },
+   "sha256": "52cc09014bdf4e2b9439edc8dbffd23ec39011d497a5f4b6b72c41443ee2ebe4",
    "files": {
     "full": {
-     "file": "478b60f5bdcd-full.webp",
-     "w": 896,
+     "file": "52cc09014bdf-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "478b60f5bdcd-th.webp",
-     "w": 210,
+     "file": "52cc09014bdf-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 13 37.png",
+    "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_37.png",
+    "uploaded": "2018-02-16T19:51:40Z",
+    "sha256": "478b60f5bdcd06f71c3039949d8b6e699ff42c6e974b1e3ddb69da7926569932"
+   }
   },
   "ba27c4122461": {
    "name": "Cassandra Ilion Character Art.png",
@@ -10840,29 +11461,40 @@
     630
    ]
   },
-  "0e49904558aa": {
-   "name": "DanMachi Volume 10 11.png",
-   "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+  "f1145fc98779": {
+   "name": "FM10 English edition — EPUB asset Art_P2.jpg",
+   "source": "DanMachi light novel illustration, Vol. 10 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10_11.png",
-   "uploaded": "2016-04-29T21:44:51Z",
-   "sha256": "0e49904558aa13d7138b6a376a69547fe6a3f35dfdcaf1072458b8ce296cfa03",
+   "edition": {
+    "language": "en",
+    "volume": "FM10",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P2.jpg"
+   },
+   "sha256": "f1145fc98779561bfa1ccb4ffc4e4231d7e73687732c9fcec764d9eb2cb93e5d",
    "files": {
     "full": {
-     "file": "0e49904558aa-full.webp",
-     "w": 689,
-     "h": 985
+     "file": "f1145fc98779-full.webp",
+     "w": 873,
+     "h": 1280
     },
     "th": {
-     "file": "0e49904558aa-th.webp",
-     "w": 210,
+     "file": "f1145fc98779-th.webp",
+     "w": 205,
      "h": 300
     }
    },
    "orig": [
-    689,
-    985
-   ]
+    1228,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 10 11.png",
+    "source": "DanMachi light novel illustration, Vol. 10 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_10_11.png",
+    "uploaded": "2016-04-29T21:44:51Z",
+    "sha256": "0e49904558aa13d7138b6a376a69547fe6a3f35dfdcaf1072458b8ce296cfa03"
+   }
   },
   "34f2b06bf4ba": {
    "name": "Sword Oratoria Volume 7 107.png",
@@ -11032,29 +11664,40 @@
     1080
    ]
   },
-  "082a361d2f7e": {
-   "name": "DanMachi Volume 4 229.png",
-   "source": "DanMachi light novel illustration, Vol. 4 (Japanese edition)",
+  "7b87a68deaf4": {
+   "name": "FM04 English edition — EPUB asset Art_P165.jpg",
+   "source": "DanMachi light novel illustration, Vol. 4 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_4_229.png",
-   "uploaded": "2015-06-04T20:10:44Z",
-   "sha256": "082a361d2f7e957177b601f37cf680c85673406a38bee9099b5725ab96d33d73",
+   "edition": {
+    "language": "en",
+    "volume": "FM04",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P165.jpg"
+   },
+   "sha256": "7b87a68deaf4511d5c56fc587bd53639e02e18f3a2c8d46c0f264331117ddde2",
    "files": {
     "full": {
-     "file": "082a361d2f7e-full.webp",
-     "w": 800,
-     "h": 1200
+     "file": "7b87a68deaf4-full.webp",
+     "w": 929,
+     "h": 1280
     },
     "th": {
-     "file": "082a361d2f7e-th.webp",
-     "w": 200,
+     "file": "7b87a68deaf4-th.webp",
+     "w": 218,
      "h": 300
     }
    },
    "orig": [
-    800,
-    1200
-   ]
+    1306,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 4 229.png",
+    "source": "DanMachi light novel illustration, Vol. 4 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_4_229.png",
+    "uploaded": "2015-06-04T20:10:44Z",
+    "sha256": "082a361d2f7e957177b601f37cf680c85673406a38bee9099b5725ab96d33d73"
+   }
   },
   "59ccb2c2190a": {
    "name": "Miach Pharmacist.png",
@@ -11157,29 +11800,40 @@
     1200
    ]
   },
-  "15dad7b31ff3": {
-   "name": "Sword Oratoria Volume 8 4.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+  "6252a3273b4c": {
+   "name": "SO08 English edition — EPUB asset Art_insert004",
+   "source": "Sword Oratoria light novel illustration, Vol. 8 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_8_4.png",
-   "uploaded": "2017-04-08T03:41:19Z",
-   "sha256": "15dad7b31ff323a276069e761e0f6e46a3f5dfeae09008c9ea59f1d6cab88a28",
+   "edition": {
+    "language": "en",
+    "volume": "SO08",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert004.jpg"
+   },
+   "sha256": "6252a3273b4c334f5e45cf442f7f46a93a60d293557a76149c897bbb657e1e78",
    "files": {
     "full": {
-     "file": "15dad7b31ff3-full.webp",
+     "file": "6252a3273b4c-full.webp",
      "w": 1280,
-     "h": 722
+     "h": 709
     },
     "th": {
-     "file": "15dad7b31ff3-th.webp",
+     "file": "6252a3273b4c-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1740,
-    982
-   ]
+    1800,
+    997
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 8 4.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_8_4.png",
+    "uploaded": "2017-04-08T03:41:19Z",
+    "sha256": "15dad7b31ff323a276069e761e0f6e46a3f5dfeae09008c9ea59f1d6cab88a28"
+   }
   },
   "26fe2b8052d0": {
    "name": "Valletta Arachnia PROMO.jpg",
@@ -11445,29 +12099,40 @@
     1080
    ]
   },
-  "88a599baaa74": {
-   "name": "DanMachi Volume 13 165.png",
-   "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+  "901645d0c2ef": {
+   "name": "FM13 English edition — EPUB asset Art_P112.jpg",
+   "source": "DanMachi light novel illustration, Vol. 13 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_165.png",
-   "uploaded": "2018-02-16T04:04:00Z",
-   "sha256": "88a599baaa747be2ab7627fd4c5687d705c0d756be872994a38e798b9b1e1bad",
+   "edition": {
+    "language": "en",
+    "volume": "FM13",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P112.jpg"
+   },
+   "sha256": "901645d0c2ef16431566210ed495b20ac656c5bdcd1b56b37798046171d0bc84",
    "files": {
     "full": {
-     "file": "88a599baaa74-full.webp",
-     "w": 896,
+     "file": "901645d0c2ef-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "88a599baaa74-th.webp",
-     "w": 210,
+     "file": "901645d0c2ef-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 13 165.png",
+    "source": "DanMachi light novel illustration, Vol. 13 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_13_165.png",
+    "uploaded": "2018-02-16T04:04:00Z",
+    "sha256": "88a599baaa747be2ab7627fd4c5687d705c0d756be872994a38e798b9b1e1bad"
+   }
   },
   "c8cc8d87ca06": {
    "name": "Shakti Varma.png",
@@ -11666,29 +12331,40 @@
     1080
    ]
   },
-  "2f9068407256": {
-   "name": "Sword Oratoria Volume 5 4.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 5 (Japanese edition)",
+  "95bbe9b5a4b3": {
+   "name": "SO05 English edition — EPUB asset aArt_Insert1",
+   "source": "Sword Oratoria light novel illustration, Vol. 5 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_5_4.jpg",
-   "uploaded": "2015-10-18T14:31:50Z",
-   "sha256": "2f9068407256fef3a1117bda31104d7e835f6f7fe5c2a6ff2a0873ff7a41ec63",
+   "edition": {
+    "language": "en",
+    "volume": "SO05",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_Insert1.jpg"
+   },
+   "sha256": "95bbe9b5a4b330e286cb5eef3a0ef8cff12a23272298fcc7ad2a45027af82ead",
    "files": {
     "full": {
-     "file": "2f9068407256-full.webp",
-     "w": 861,
+     "file": "95bbe9b5a4b3-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "2f9068407256-th.webp",
-     "w": 202,
+     "file": "95bbe9b5a4b3-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    2374,
-    3529
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 5 4.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 5 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_5_4.jpg",
+    "uploaded": "2015-10-18T14:31:50Z",
+    "sha256": "2f9068407256fef3a1117bda31104d7e835f6f7fe5c2a6ff2a0873ff7a41ec63"
+   }
   },
   "107a1fea8604": {
    "name": "Sword Oratoria Volume 5 104.jpg",
@@ -11714,34 +12390,45 @@
     3535
    ]
   },
-  "8782dbe9c7ce": {
-   "name": "Sword Oratoria Volume 6 3.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
+  "b4a50928e908": {
+   "name": "SO06 English edition — EPUB asset aArt_insert003",
+   "source": "Sword Oratoria light novel illustration, Vol. 6 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_3.png",
-   "uploaded": "2016-06-08T02:33:16Z",
-   "sha256": "8782dbe9c7ce859da043cca8730eaa94c3b00c8d08fb8787e1ec0a11d2c67bac",
+   "edition": {
+    "language": "en",
+    "volume": "SO06",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert003.jpg"
+   },
+   "sha256": "b4a50928e9082b83dec706390811b5bbe7913e4ef2b9e337055cf3749c5a9312",
    "files": {
     "full": {
-     "file": "8782dbe9c7ce-full.webp",
+     "file": "b4a50928e908-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 706
     },
     "ib": {
-     "file": "8782dbe9c7ce-ib.webp",
+     "file": "b4a50928e908-ib.webp",
      "w": 500,
-     "h": 281
+     "h": 276
     },
     "th": {
-     "file": "8782dbe9c7ce-th.webp",
+     "file": "b4a50928e908-th.webp",
      "w": 300,
-     "h": 168
+     "h": 166
     }
    },
    "orig": [
-    1624,
-    912
-   ]
+    1800,
+    993
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 6 3.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_3.png",
+    "uploaded": "2016-06-08T02:33:16Z",
+    "sha256": "8782dbe9c7ce859da043cca8730eaa94c3b00c8d08fb8787e1ec0a11d2c67bac"
+   }
   },
   "0b2f12972276": {
    "name": "Anakitty Autumn Anime 2.png",
@@ -11863,29 +12550,40 @@
     855
    ]
   },
-  "90716b9e1ab9": {
-   "name": "Sword Oratoria Volume 7 2.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+  "6f63d86d3c7f": {
+   "name": "SO07 English edition — EPUB asset aArt_insert001",
+   "source": "Sword Oratoria light novel illustration, Vol. 7 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_2.png",
-   "uploaded": "2016-12-05T12:41:08Z",
-   "sha256": "90716b9e1ab989eec35bc3e335f3d30a2b2c07e43d942060a993936134181017",
+   "edition": {
+    "language": "en",
+    "volume": "SO07",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert001.jpg"
+   },
+   "sha256": "6f63d86d3c7f8525aa859210fd52c043f78691ae441bf45964729ea9f9cf7d53",
    "files": {
     "full": {
-     "file": "90716b9e1ab9-full.webp",
-     "w": 688,
-     "h": 985
+     "file": "6f63d86d3c7f-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "90716b9e1ab9-th.webp",
-     "w": 210,
+     "file": "6f63d86d3c7f-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    688,
-    985
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 7 2.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 7 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_7_2.png",
+    "uploaded": "2016-12-05T12:41:08Z",
+    "sha256": "90716b9e1ab989eec35bc3e335f3d30a2b2c07e43d942060a993936134181017"
+   }
   },
   "f79080a1e215": {
    "name": "Sword Oratoria Volume 11 229.jpg",
@@ -12151,29 +12849,40 @@
     1200
    ]
   },
-  "87d270cbb99d": {
-   "name": "Sword Oratoria Volume 10 3.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 10 (Japanese edition)",
+  "2edb38bbd24f": {
+   "name": "SO10 English edition — EPUB asset aArt_insert003.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 10 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_10_3.png",
-   "uploaded": "2018-04-27T11:08:52Z",
-   "sha256": "87d270cbb99d595d04d04286b5f630ebaa0ef157828252281712c939e822b6cb",
+   "edition": {
+    "language": "en",
+    "volume": "SO10",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert003.jpg"
+   },
+   "sha256": "2edb38bbd24f9287701abc466ac4b253dcd254d8bb541834bded449525cdb40f",
    "files": {
     "full": {
-     "file": "87d270cbb99d-full.webp",
+     "file": "2edb38bbd24f-full.webp",
      "w": 1280,
-     "h": 720
+     "h": 708
     },
     "th": {
-     "file": "87d270cbb99d-th.webp",
+     "file": "2edb38bbd24f-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1752,
-    985
-   ]
+    1800,
+    996
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 10 3.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 10 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_10_3.png",
+    "uploaded": "2018-04-27T11:08:52Z",
+    "sha256": "87d270cbb99d595d04d04286b5f630ebaa0ef157828252281712c939e822b6cb"
+   }
   },
   "56a12ef40455": {
    "name": "Lulune Louie Character Art.png",
@@ -12295,29 +13004,40 @@
     769
    ]
   },
-  "ead0502ea9b6": {
-   "name": "Sword Oratoria Volume 8 3.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+  "84cab02ffb32": {
+   "name": "SO08 English edition — EPUB asset Art_insert003",
+   "source": "Sword Oratoria light novel illustration, Vol. 8 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_8_3.png",
-   "uploaded": "2017-04-08T03:41:18Z",
-   "sha256": "ead0502ea9b6d3f0b53a605b5815c3dbbea8640042061d882ae9fb7d81a373b6",
+   "edition": {
+    "language": "en",
+    "volume": "SO08",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert003.jpg"
+   },
+   "sha256": "84cab02ffb325af56b61b56556c9405f17edaf1f639c711472350899907a8c8b",
    "files": {
     "full": {
-     "file": "ead0502ea9b6-full.webp",
+     "file": "84cab02ffb32-full.webp",
      "w": 1280,
-     "h": 722
+     "h": 705
     },
     "th": {
-     "file": "ead0502ea9b6-th.webp",
+     "file": "84cab02ffb32-th.webp",
      "w": 300,
-     "h": 169
+     "h": 165
     }
    },
    "orig": [
-    1740,
-    982
-   ]
+    1800,
+    992
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 8 3.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_8_3.png",
+    "uploaded": "2017-04-08T03:41:18Z",
+    "sha256": "ead0502ea9b6d3f0b53a605b5815c3dbbea8640042061d882ae9fb7d81a373b6"
+   }
   },
   "0076d35f00d0": {
    "name": "Sword Oratoria Volume 10 14.jpg",
@@ -12588,29 +13308,40 @@
     1080
    ]
   },
-  "9d753e0199de": {
-   "name": "Sword Oratoria Volume 12 3.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 12 (Japanese edition)",
+  "1cc3bd6f8837": {
+   "name": "SO12 English edition — EPUB asset id_47",
+   "source": "Sword Oratoria light novel illustration, Vol. 12 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_12_3.jpg",
-   "uploaded": "2019-07-01T08:53:41Z",
-   "sha256": "9d753e0199de87e2f0de91e403120144f26974fc29b4c95c066957f67653693d",
+   "edition": {
+    "language": "en",
+    "volume": "SO12",
+    "publisher": "Yen Press",
+    "member": "OEBPS/Images/image_rsrc516.jpg"
+   },
+   "sha256": "1cc3bd6f8837a3b77fccbd454313741bbcf160c0f18e2050813b11f4d402a434",
    "files": {
     "full": {
-     "file": "9d753e0199de-full.webp",
+     "file": "1cc3bd6f8837-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 709
     },
     "th": {
-     "file": "9d753e0199de-th.webp",
+     "file": "1cc3bd6f8837-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1724,
-    969
-   ]
+    1800,
+    997
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 12 3.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 12 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_12_3.jpg",
+    "uploaded": "2019-07-01T08:53:41Z",
+    "sha256": "9d753e0199de87e2f0de91e403120144f26974fc29b4c95c066957f67653693d"
+   }
   },
   "053ec3266711": {
    "name": "Falgar - S.O. 1.png",
@@ -13385,29 +14116,40 @@
     720
    ]
   },
-  "ad62daf0457c": {
-   "name": "Sword Oratoria Light Novel Volume 8 Cover.png",
-   "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+  "c5f2cfcdd57b": {
+   "name": "SO08 English edition — EPUB asset id_Images_Page_839_jpg",
+   "source": "Sword Oratoria light novel cover, Vol. 8 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Light_Novel_Volume_8_Cover.png",
-   "uploaded": "2017-03-17T03:56:47Z",
-   "sha256": "ad62daf0457cd6f93bf7c34762774eb9d2e155bf0d49f35e1b2e89a8a754496f",
+   "edition": {
+    "language": "en",
+    "volume": "SO08",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9781975327804.jpg"
+   },
+   "sha256": "c5f2cfcdd57bdd232ed84907fa22f345d9cd61d16fa2d1ecb993e4a530c65722",
    "files": {
     "full": {
-     "file": "ad62daf0457c-full.webp",
-     "w": 809,
-     "h": 1157
+     "file": "c5f2cfcdd57b-full.webp",
+     "w": 853,
+     "h": 1280
     },
     "th": {
-     "file": "ad62daf0457c-th.webp",
-     "w": 210,
+     "file": "c5f2cfcdd57b-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    809,
-    1157
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Light Novel Volume 8 Cover.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 8 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Light_Novel_Volume_8_Cover.png",
+    "uploaded": "2017-03-17T03:56:47Z",
+    "sha256": "ad62daf0457cd6f93bf7c34762774eb9d2e155bf0d49f35e1b2e89a8a754496f"
+   }
   },
   "ae3bcf04ecc7": {
    "name": "Lena Tally Character Art.png",
@@ -13697,29 +14439,40 @@
     736
    ]
   },
-  "a7d4bfdabe75": {
-   "name": "Episode Ryuu Volume 1 4.png",
-   "source": "Familia Chronicle light novel illustration, Vol. 1 (Japanese edition)",
+  "3e0b4ac2b955": {
+   "name": "FC01 English edition — EPUB asset aArt_insert004",
+   "source": "Familia Chronicle light novel illustration, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Ryuu_Volume_1_4.png",
-   "uploaded": "2017-03-06T06:43:19Z",
-   "sha256": "a7d4bfdabe7501285e75fdb551e2868915ef9073b4b5ccbc07e84c9559791f3a",
+   "edition": {
+    "language": "en",
+    "volume": "FC01",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert004.jpg"
+   },
+   "sha256": "3e0b4ac2b955b2356ad281f01f142a5c754f8c2047ed15f2c3cf23a989f402cb",
    "files": {
     "full": {
-     "file": "a7d4bfdabe75-full.webp",
+     "file": "3e0b4ac2b955-full.webp",
      "w": 1280,
-     "h": 721
+     "h": 706
     },
     "th": {
-     "file": "a7d4bfdabe75-th.webp",
+     "file": "3e0b4ac2b955-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1730,
-    974
-   ]
+    1800,
+    993
+   ],
+   "replaces": {
+    "name": "Episode Ryuu Volume 1 4.png",
+    "source": "Familia Chronicle light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Ryuu_Volume_1_4.png",
+    "uploaded": "2017-03-06T06:43:19Z",
+    "sha256": "a7d4bfdabe7501285e75fdb551e2868915ef9073b4b5ccbc07e84c9559791f3a"
+   }
   },
   "fa38096a710f": {
    "name": "Ryuu vs Mord.png",
@@ -13817,53 +14570,75 @@
     630
    ]
   },
-  "9890fbf05d3b": {
-   "name": "Sword Oratoria Volume 12 5.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 12 (Japanese edition)",
+  "1dae88031272": {
+   "name": "SO12 English edition — EPUB asset id_48",
+   "source": "Sword Oratoria light novel illustration, Vol. 12 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_12_5.jpg",
-   "uploaded": "2019-07-01T08:53:42Z",
-   "sha256": "9890fbf05d3b9da4e8dcdfe9999dc93bbcc9356ecdd94605e96e839adbe108dd",
+   "edition": {
+    "language": "en",
+    "volume": "SO12",
+    "publisher": "Yen Press",
+    "member": "OEBPS/Images/image_rsrc517.jpg"
+   },
+   "sha256": "1dae88031272e9fc59a6e03d3742982ca3ade999d64e04732a258eed83d49030",
    "files": {
     "full": {
-     "file": "9890fbf05d3b-full.webp",
+     "file": "1dae88031272-full.webp",
      "w": 1280,
-     "h": 719
+     "h": 709
     },
     "th": {
-     "file": "9890fbf05d3b-th.webp",
+     "file": "1dae88031272-th.webp",
      "w": 300,
-     "h": 169
+     "h": 166
     }
    },
    "orig": [
-    1724,
-    969
-   ]
+    1800,
+    997
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 12 5.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 12 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_12_5.jpg",
+    "uploaded": "2019-07-01T08:53:42Z",
+    "sha256": "9890fbf05d3b9da4e8dcdfe9999dc93bbcc9356ecdd94605e96e839adbe108dd"
+   }
   },
-  "cf8a1349f54a": {
-   "name": "Sword Oratoria Volume 13 1.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 13 (Japanese edition)",
+  "28e7739b79d7": {
+   "name": "SO13 English edition — EPUB asset Art_insert001.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 13 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_13_1.jpg",
-   "uploaded": "2023-02-13T15:22:42Z",
-   "sha256": "cf8a1349f54af61051b7fa59baa6881f31db1549270614b1ae947cef988b6037",
+   "edition": {
+    "language": "en",
+    "volume": "SO13",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_insert001.jpg"
+   },
+   "sha256": "28e7739b79d74f4be6dcffd3a9516bea46ff634a58004bf3c7ed152653702db3",
    "files": {
     "full": {
-     "file": "cf8a1349f54a-full.webp",
-     "w": 896,
+     "file": "28e7739b79d7-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "cf8a1349f54a-th.webp",
-     "w": 210,
+     "file": "28e7739b79d7-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1199,
+    1800
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 13 1.jpg",
+    "source": "Sword Oratoria light novel illustration, Vol. 13 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_13_1.jpg",
+    "uploaded": "2023-02-13T15:22:42Z",
+    "sha256": "cf8a1349f54af61051b7fa59baa6881f31db1549270614b1ae947cef988b6037"
+   }
   },
   "3271eda08eaa": {
    "name": "Narvi Character Art.png",
@@ -13961,53 +14736,75 @@
     1080
    ]
   },
-  "8615cfda51fa": {
-   "name": "DanMachi Volume 14 360.jpg",
-   "source": "DanMachi light novel illustration, Vol. 14 (Japanese edition)",
+  "cfc49e1c887e": {
+   "name": "FM14 English edition — EPUB asset Art_P240.jpg",
+   "source": "DanMachi light novel illustration, Vol. 14 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_14_360.jpg",
-   "uploaded": "2018-12-14T03:19:10Z",
-   "sha256": "8615cfda51fa671c53008153dccd57ddc729060830820b8dff3bc90da04fca0c",
+   "edition": {
+    "language": "en",
+    "volume": "FM14",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P240.jpg"
+   },
+   "sha256": "cfc49e1c887e016e1b86b397fd14b8a0adcea6b86b215c994695f308b971b3f3",
    "files": {
     "full": {
-     "file": "8615cfda51fa-full.webp",
-     "w": 896,
+     "file": "cfc49e1c887e-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "8615cfda51fa-th.webp",
-     "w": 210,
+     "file": "cfc49e1c887e-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 14 360.jpg",
+    "source": "DanMachi light novel illustration, Vol. 14 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_14_360.jpg",
+    "uploaded": "2018-12-14T03:19:10Z",
+    "sha256": "8615cfda51fa671c53008153dccd57ddc729060830820b8dff3bc90da04fca0c"
+   }
   },
-  "88a3cafb165a": {
-   "name": "Astraea Record Light Novel Volume 1 Cover.jpg",
-   "source": "Astrea Record light novel illustration, Vol. 1 (Japanese edition)",
+  "f7139b1baad4": {
+   "name": "AR01 English edition — EPUB asset x9781975379896.jpg",
+   "source": "Astrea Record light novel cover, Vol. 1 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Light_Novel_Volume_1_Cover.jpg",
-   "uploaded": "2022-09-30T04:40:18Z",
-   "sha256": "88a3cafb165a9d05e03758f021f75d43be529b6bd145d061023c08a987c1aef6",
+   "edition": {
+    "language": "en",
+    "volume": "AR01",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/9781975379896.jpg"
+   },
+   "sha256": "f7139b1baad494befb42e05990903164c6d5ab702859f40c9bea0b8f6d541a68",
    "files": {
     "full": {
-     "file": "88a3cafb165a-full.webp",
-     "w": 897,
+     "file": "f7139b1baad4-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "88a3cafb165a-th.webp",
-     "w": 210,
+     "file": "f7139b1baad4-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1451,
-    2071
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "Astraea Record Light Novel Volume 1 Cover.jpg",
+    "source": "Astrea Record light novel illustration, Vol. 1 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Astraea_Record_Light_Novel_Volume_1_Cover.jpg",
+    "uploaded": "2022-09-30T04:40:18Z",
+    "sha256": "88a3cafb165a9d05e03758f021f75d43be529b6bd145d061023c08a987c1aef6"
+   }
   },
   "0c12fe519bc0": {
    "name": "Astraea Familia Anime.png",
@@ -14129,29 +14926,40 @@
     1080
    ]
   },
-  "f8eef599ddd1": {
-   "name": "DanMachi Volume 14 393.jpg",
-   "source": "DanMachi light novel illustration, Vol. 14 (Japanese edition)",
+  "6c204e6cdf93": {
+   "name": "FM14 English edition — EPUB asset Art_P261.jpg",
+   "source": "DanMachi light novel illustration, Vol. 14 (English edition)",
    "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_14_393.jpg",
-   "uploaded": "2018-12-14T03:19:10Z",
-   "sha256": "f8eef599ddd17a0390416c30716e3430c806233d8e3eac44e2c420593a1c2777",
+   "edition": {
+    "language": "en",
+    "volume": "FM14",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P261.jpg"
+   },
+   "sha256": "6c204e6cdf939db3cbd8180c15aee4fd06b6e748293d3157e843f2a1a3b86847",
    "files": {
     "full": {
-     "file": "f8eef599ddd1-full.webp",
-     "w": 896,
+     "file": "6c204e6cdf93-full.webp",
+     "w": 853,
      "h": 1280
     },
     "th": {
-     "file": "f8eef599ddd1-th.webp",
-     "w": 210,
+     "file": "6c204e6cdf93-th.webp",
+     "w": 200,
      "h": 300
     }
    },
    "orig": [
-    1434,
-    2048
-   ]
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 14 393.jpg",
+    "source": "DanMachi light novel illustration, Vol. 14 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_14_393.jpg",
+    "uploaded": "2018-12-14T03:19:10Z",
+    "sha256": "f8eef599ddd17a0390416c30716e3430c806233d8e3eac44e2c420593a1c2777"
+   }
   },
   "d76b5cc239c0": {
    "name": "Astraea Record Volume 2 15.jpg",
@@ -15363,29 +16171,349 @@
     680
    ]
   },
-  "964b2c057841": {
-   "name": "Sword Oratoria Volume 6 142.jpg",
-   "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
-   "class": "ln",
-   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_142.jpg",
-   "uploaded": "2016-06-21T09:24:08Z",
-   "sha256": "964b2c057841212cced10fbdc41ea3e0356ac0e0ad37a3630375361fa3d006f7",
+  "4874afe5e326": {
+   "name": "Arry DanMemo.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Arry_DanMemo.png",
+   "uploaded": "2022-02-07T07:15:30Z",
+   "sha256": "4874afe5e326c5747da7dc366d4201d697ee537c188ffcdd4fbfa5131bb91605",
    "files": {
     "full": {
-     "file": "964b2c057841-full.webp",
-     "w": 868,
+     "file": "4874afe5e326-full.webp",
+     "w": 380,
+     "h": 650
+    },
+    "ib": {
+     "file": "4874afe5e326-ib.webp",
+     "w": 380,
+     "h": 650
+    }
+   },
+   "orig": [
+    380,
+    650
+   ]
+  },
+  "af8ba4989ccb": {
+   "name": "Episode Freya 73.jpg",
+   "source": "Familia Chronicle light novel illustration (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Episode_Freya_73.jpg",
+   "uploaded": "2019-12-24T05:25:12Z",
+   "sha256": "af8ba4989ccbefc7c67892a4f93936443a73d8d3763d4b383306164eeca91af5",
+   "files": {
+    "full": {
+     "file": "af8ba4989ccb-full.webp",
+     "w": 896,
      "h": 1280
     },
     "th": {
-     "file": "964b2c057841-th.webp",
-     "w": 203,
+     "file": "af8ba4989ccb-th.webp",
+     "w": 210,
      "h": 300
     }
    },
    "orig": [
-    1192,
-    1758
+    1434,
+    2048
    ]
+  },
+  "3db0bd3775dc": {
+   "name": "Artemis in Heaven.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Artemis_in_Heaven.png",
+   "uploaded": "2019-07-02T07:06:54Z",
+   "sha256": "3db0bd3775dca227b146e4412cf8a6278781d133d0201285bc6b0208671cd11a",
+   "files": {
+    "full": {
+     "file": "3db0bd3775dc-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "3db0bd3775dc-ib.webp",
+     "w": 500,
+     "h": 281
+    },
+    "th": {
+     "file": "3db0bd3775dc-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "efbb7bc50592": {
+   "name": "Artemis Moon Drop DanMemo.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Artemis_Moon_Drop_DanMemo.png",
+   "uploaded": "2022-07-04T20:39:09Z",
+   "sha256": "efbb7bc50592516ee34afef0bf05e165ebdbaaaef0933c65c382b5f3740eaa06",
+   "files": {
+    "full": {
+     "file": "efbb7bc50592-full.webp",
+     "w": 602,
+     "h": 598
+    },
+    "th": {
+     "file": "efbb7bc50592-th.webp",
+     "w": 300,
+     "h": 298
+    }
+   },
+   "orig": [
+    602,
+    598
+   ]
+  },
+  "275d751ff9f6": {
+   "name": "Sword Oratoria Volume 3 310.jpg",
+   "source": "Sword Oratoria light novel illustration, Vol. 3 (Japanese edition)",
+   "class": "ln",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_3_310.jpg",
+   "uploaded": "2015-05-29T06:32:55Z",
+   "sha256": "275d751ff9f602fc3d026e6e7a0cb335560114cf0aac7bbb496453b54ca9a523",
+   "files": {
+    "full": {
+     "file": "275d751ff9f6-full.webp",
+     "w": 880,
+     "h": 1280
+    },
+    "ib": {
+     "file": "275d751ff9f6-ib.webp",
+     "w": 500,
+     "h": 727
+    }
+   },
+   "orig": [
+    1212,
+    1763
+   ]
+  },
+  "94f2f3d14a4c": {
+   "name": "Tione and Tiona Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Tione_and_Tiona_Anime.png",
+   "uploaded": "2015-05-22T23:23:57Z",
+   "sha256": "94f2f3d14a4c42ac3cd53cb953a9d23e975858d374d45cb0ef5624aa3be805f9",
+   "files": {
+    "full": {
+     "file": "94f2f3d14a4c-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "ib": {
+     "file": "94f2f3d14a4c-ib.webp",
+     "w": 500,
+     "h": 281
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "aaa5505a3375": {
+   "name": "Naaza Erisuis Anime.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Naaza_Erisuis_Anime.png",
+   "uploaded": "2015-08-09T13:02:36Z",
+   "sha256": "aaa5505a337572d8784f1b534246316451d07ab13657d3458a4765f5be309c14",
+   "files": {
+    "full": {
+     "file": "aaa5505a3375-full.webp",
+     "w": 699,
+     "h": 1080
+    },
+    "th": {
+     "file": "aaa5505a3375-th.webp",
+     "w": 194,
+     "h": 300
+    }
+   },
+   "orig": [
+    699,
+    1080
+   ]
+  },
+  "75ff413580a9": {
+   "name": "Rakta.png",
+   "source": "Sword Oratoria manga",
+   "class": "manga",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Rakta.png",
+   "uploaded": "2015-09-21T18:42:41Z",
+   "sha256": "75ff413580a9ac3723e88917721ad157e313df8f9966f3096fc94122e520b9fe",
+   "files": {
+    "full": {
+     "file": "75ff413580a9-full.webp",
+     "w": 150,
+     "h": 333
+    },
+    "th": {
+     "file": "75ff413580a9-th.webp",
+     "w": 135,
+     "h": 300
+    }
+   },
+   "orig": [
+    150,
+    333
+   ]
+  },
+  "7471057dfb54": {
+   "name": "Slave Arry DanMemo.png",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Slave_Arry_DanMemo.png",
+   "uploaded": "2022-06-08T04:33:18Z",
+   "sha256": "7471057dfb54679e2a17c9854262829721e29237fd389760a312b9e7154bbd71",
+   "files": {
+    "full": {
+     "file": "7471057dfb54-full.webp",
+     "w": 720,
+     "h": 720
+    },
+    "th": {
+     "file": "7471057dfb54-th.webp",
+     "w": 300,
+     "h": 300
+    }
+   },
+   "orig": [
+    720,
+    720
+   ]
+  },
+  "c99aeffa47ee": {
+   "name": "Artemis and Bell.png",
+   "source": "Anime",
+   "class": "anime",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Artemis_and_Bell.png",
+   "uploaded": "2021-04-10T01:46:09Z",
+   "sha256": "c99aeffa47eebd13c71c6e7d03a573396f64dad4f8bcfc1ea6a397107fbd7216",
+   "files": {
+    "full": {
+     "file": "c99aeffa47ee-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "c99aeffa47ee-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1920,
+    1080
+   ]
+  },
+  "1e8b2565ffda": {
+   "name": "Artemis Elpis PROMO.jpg",
+   "source": "DanMachi: Memoria Freese (game)",
+   "class": "game",
+   "fandom": "https://danmachi.fandom.com/wiki/File:Artemis_Elpis_PROMO.jpg",
+   "uploaded": "2023-02-23T07:03:30Z",
+   "sha256": "1e8b2565ffda59cde51d62e753d750d6c54887b374a49c9dca72e220e42f1631",
+   "files": {
+    "full": {
+     "file": "1e8b2565ffda-full.webp",
+     "w": 1280,
+     "h": 720
+    },
+    "th": {
+     "file": "1e8b2565ffda-th.webp",
+     "w": 300,
+     "h": 169
+    }
+   },
+   "orig": [
+    1440,
+    810
+   ]
+  },
+  "fdfb79b7da2c": {
+   "name": "FM19 English edition — EPUB asset Art_P191.jpg",
+   "source": "DanMachi light novel illustration, Vol. 19 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "FM19",
+    "publisher": "Yen On",
+    "member": "OEBPS/Images/Art_P191.jpg"
+   },
+   "sha256": "fdfb79b7da2cb91c7182c89f2b70e5b4129b655d4770e9426adf8ad4efef3a86",
+   "files": {
+    "full": {
+     "file": "fdfb79b7da2c-full.webp",
+     "w": 853,
+     "h": 1280
+    },
+    "ib": {
+     "file": "fdfb79b7da2c-ib.webp",
+     "w": 500,
+     "h": 750
+    },
+    "th": {
+     "file": "fdfb79b7da2c-th.webp",
+     "w": 200,
+     "h": 300
+    }
+   },
+   "orig": [
+    1200,
+    1800
+   ],
+   "replaces": {
+    "name": "DanMachi Volume 19 10.jpg",
+    "source": "DanMachi light novel illustration, Vol. 19 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:DanMachi_Volume_19_10.jpg",
+    "uploaded": "2023-09-14T03:56:41Z",
+    "sha256": "e5fb9d9867b54c64da443efd0cca6c93c98059c89031548ac21161798852ffd9"
+   }
+  },
+  "565f1a93958f": {
+   "name": "SO06 English edition — EPUB asset aArt_insert004",
+   "source": "Sword Oratoria light novel illustration, Vol. 6 (English edition)",
+   "class": "ln",
+   "edition": {
+    "language": "en",
+    "volume": "SO06",
+    "publisher": "Yen On",
+    "member": "OEBPS/images/Art_insert004.jpg"
+   },
+   "sha256": "565f1a93958f29343ac4bc0b46b348d5bd6cfe1e51a45e92cf4381aa02c5f708",
+   "files": {
+    "full": {
+     "file": "565f1a93958f-full.webp",
+     "w": 1280,
+     "h": 706
+    },
+    "th": {
+     "file": "565f1a93958f-th.webp",
+     "w": 300,
+     "h": 166
+    }
+   },
+   "orig": [
+    1800,
+    993
+   ],
+   "replaces": {
+    "name": "Sword Oratoria Volume 6 5.png",
+    "source": "Sword Oratoria light novel illustration, Vol. 6 (Japanese edition)",
+    "fandom": "https://danmachi.fandom.com/wiki/File:Sword_Oratoria_Volume_6_5.png",
+    "uploaded": "2016-06-08T02:33:29Z",
+    "sha256": "88fbfca944d78b49bb842b1ee51bda3a153b510584d1799b7d389813659931cc"
+   }
   }
  },
  "pages": {
@@ -15405,7 +16533,7 @@
      "caption": ""
     },
     {
-     "id": "17197541e102",
+     "id": "52f7c69e5aac",
      "caption": ""
     },
     {
@@ -15434,15 +16562,15 @@
    },
    "gallery": [
     {
-     "id": "cd4ab92ac6ff",
+     "id": "21e04ad8f2a3",
      "caption": ""
     },
     {
-     "id": "a1b2527d90f4",
+     "id": "ec84f5f0d3bf",
      "caption": ""
     },
     {
-     "id": "f6709e1cb6fd",
+     "id": "7f4eb7a84092",
      "caption": ""
     },
     {
@@ -15483,7 +16611,7 @@
      "caption": ""
     },
     {
-     "id": "ef96af393bff",
+     "id": "189c62198c05",
      "caption": ""
     },
     {
@@ -15504,7 +16632,7 @@
    },
    "gallery": [
     {
-     "id": "7ef7bd5cd050",
+     "id": "f3fcf083652c",
      "caption": ""
     },
     {
@@ -15574,7 +16702,7 @@
    },
    "gallery": [
     {
-     "id": "b56d5fdfc2c4",
+     "id": "93034fc127d9",
      "caption": ""
     },
     {
@@ -15595,7 +16723,7 @@
      "caption": ""
     },
     {
-     "id": "4014e618de6f",
+     "id": "d9457fdda140",
      "caption": ""
     },
     {
@@ -15657,7 +16785,7 @@
    },
    "gallery": [
     {
-     "id": "91992bc2a8e7",
+     "id": "0a163511b8e8",
      "caption": ""
     },
     {
@@ -15665,7 +16793,7 @@
      "caption": ""
     },
     {
-     "id": "17197541e102",
+     "id": "52f7c69e5aac",
      "caption": ""
     },
     {
@@ -15723,7 +16851,7 @@
    },
    "gallery": [
     {
-     "id": "9384f32e9cca",
+     "id": "0f78141a7ff8",
      "caption": ""
     },
     {
@@ -15784,7 +16912,12 @@
     "id": "1d07ab7f1f25",
     "caption": ""
    },
-   "gallery": []
+   "gallery": [
+    {
+     "id": "fdfb79b7da2c",
+     "caption": ""
+    }
+   ]
   },
   "bell-cranell": {
    "fandom_page": "Bell Cranel",
@@ -15798,11 +16931,11 @@
      "caption": ""
     },
     {
-     "id": "31bea2c55ea6",
+     "id": "067f89210571",
      "caption": ""
     },
     {
-     "id": "736ec6cb8f84",
+     "id": "4ff869e6c348",
      "caption": ""
     },
     {
@@ -15835,11 +16968,11 @@
    },
    "gallery": [
     {
-     "id": "4630d75526d8",
+     "id": "269342aaa703",
      "caption": ""
     },
     {
-     "id": "4a3a8f3947a7",
+     "id": "a14ffc2e8633",
      "caption": ""
     },
     {
@@ -15880,7 +17013,7 @@
      "caption": ""
     },
     {
-     "id": "bcf4558625b1",
+     "id": "57f37d8d6c07",
      "caption": ""
     },
     {
@@ -15913,7 +17046,7 @@
    },
    "gallery": [
     {
-     "id": "4014e618de6f",
+     "id": "d9457fdda140",
      "caption": ""
     },
     {
@@ -16016,15 +17149,15 @@
    },
    "gallery": [
     {
-     "id": "b6a492dea722",
+     "id": "01269e8ad692",
      "caption": ""
     },
     {
-     "id": "80bcaa1028ec",
+     "id": "988366c39d91",
      "caption": ""
     },
     {
-     "id": "bbd12a6bdf26",
+     "id": "e3eb1294dd94",
      "caption": ""
     },
     {
@@ -16065,7 +17198,7 @@
      "caption": ""
     },
     {
-     "id": "4738eb9a6546",
+     "id": "b32641f25be5",
      "caption": ""
     },
     {
@@ -16081,7 +17214,7 @@
   "falna": {
    "fandom_page": "Falna",
    "infobox": {
-    "id": "4db09739dbcc",
+    "id": "5f365eebc78f",
     "caption": ""
    },
    "gallery": [
@@ -16103,11 +17236,11 @@
    },
    "gallery": [
     {
-     "id": "b49c7e3cb826",
+     "id": "7b698eb2e60f",
      "caption": ""
     },
     {
-     "id": "e2004f263aea",
+     "id": "96ff41da4097",
      "caption": ""
     },
     {
@@ -16185,7 +17318,7 @@
    },
    "gallery": [
     {
-     "id": "4a3a8f3947a7",
+     "id": "a14ffc2e8633",
      "caption": ""
     },
     {
@@ -16246,11 +17379,11 @@
      "caption": ""
     },
     {
-     "id": "53e98680e159",
+     "id": "5fd8644ec9e9",
      "caption": ""
     },
     {
-     "id": "233e3c5b1d14",
+     "id": "f5a00700ad68",
      "caption": ""
     },
     {
@@ -16299,7 +17432,7 @@
    },
    "gallery": [
     {
-     "id": "cccbda2ef2f8",
+     "id": "94d6daa70c54",
      "caption": ""
     },
     {
@@ -16307,7 +17440,7 @@
      "caption": ""
     },
     {
-     "id": "4aed6db7e749",
+     "id": "230e8894c7e9",
      "caption": ""
     },
     {
@@ -16408,7 +17541,7 @@
    },
    "gallery": [
     {
-     "id": "7ef7bd5cd050",
+     "id": "f3fcf083652c",
      "caption": ""
     },
     {
@@ -16445,7 +17578,7 @@
    },
    "gallery": [
     {
-     "id": "7f6f309c6297",
+     "id": "ae1bc4ed5aa3",
      "caption": ""
     },
     {
@@ -16453,7 +17586,7 @@
      "caption": ""
     },
     {
-     "id": "3db81a0ff390",
+     "id": "3443fdba2e71",
      "caption": ""
     },
     {
@@ -16494,11 +17627,11 @@
    },
    "gallery": [
     {
-     "id": "0c9239bb1ad2",
+     "id": "5f466bdcb5c5",
      "caption": ""
     },
     {
-     "id": "7ef7bd5cd050",
+     "id": "f3fcf083652c",
      "caption": ""
     },
     {
@@ -16527,7 +17660,7 @@
    },
    "gallery": [
     {
-     "id": "7ef7bd5cd050",
+     "id": "f3fcf083652c",
      "caption": ""
     },
     {
@@ -16573,7 +17706,7 @@
    },
    "gallery": [
     {
-     "id": "c261539e4607",
+     "id": "51a9b0f13a23",
      "caption": ""
     },
     {
@@ -16614,7 +17747,7 @@
    },
    "gallery": [
     {
-     "id": "67a7a34acfa3",
+     "id": "5251ac0a571c",
      "caption": ""
     },
     {
@@ -16668,7 +17801,7 @@
    },
    "gallery": [
     {
-     "id": "31bea2c55ea6",
+     "id": "067f89210571",
      "caption": ""
     },
     {
@@ -16676,7 +17809,7 @@
      "caption": ""
     },
     {
-     "id": "1b407cde4ac7",
+     "id": "8342fa50128a",
      "caption": ""
     },
     {
@@ -16717,7 +17850,7 @@
    },
    "gallery": [
     {
-     "id": "fafdb03b44a5",
+     "id": "98c55fe524de",
      "caption": ""
     },
     {
@@ -16763,7 +17896,7 @@
    },
    "gallery": [
     {
-     "id": "0c83b3e19dc9",
+     "id": "5cdf0850087e",
      "caption": ""
     },
     {
@@ -16771,7 +17904,7 @@
      "caption": ""
     },
     {
-     "id": "990b94bc8e5d",
+     "id": "a52b80a184da",
      "caption": ""
     },
     {
@@ -16804,7 +17937,7 @@
    },
    "gallery": [
     {
-     "id": "e2adce9a4bf5",
+     "id": "791cda29358d",
      "caption": ""
     },
     {
@@ -16862,7 +17995,7 @@
    },
    "gallery": [
     {
-     "id": "8fa4ad4b2d06",
+     "id": "f40661830df3",
      "caption": ""
     },
     {
@@ -16870,7 +18003,7 @@
      "caption": ""
     },
     {
-     "id": "990b94bc8e5d",
+     "id": "a52b80a184da",
      "caption": ""
     },
     {
@@ -16898,12 +18031,12 @@
   "leon-verdenberg": {
    "fandom_page": "Leon Vardenburg",
    "infobox": {
-    "id": "9d9c74a7f3c2",
+    "id": "c2a5744430f4",
     "caption": ""
    },
    "gallery": [
     {
-     "id": "9dcc72e96a21",
+     "id": "5e05290b788e",
      "caption": ""
     },
     {
@@ -16920,7 +18053,7 @@
    },
    "gallery": [
     {
-     "id": "2d2a1682cde0",
+     "id": "2b64ebe8b444",
      "caption": ""
     },
     {
@@ -16982,11 +18115,11 @@
    },
    "gallery": [
     {
-     "id": "736ec6cb8f84",
+     "id": "4ff869e6c348",
      "caption": ""
     },
     {
-     "id": "606c68751672",
+     "id": "913d446dbda8",
      "caption": ""
     },
     {
@@ -17027,7 +18160,7 @@
      "caption": ""
     },
     {
-     "id": "4a3a8f3947a7",
+     "id": "a14ffc2e8633",
      "caption": ""
     },
     {
@@ -17077,7 +18210,7 @@
    },
    "gallery": [
     {
-     "id": "fde1135cbd81",
+     "id": "e2117697bff7",
      "caption": ""
     },
     {
@@ -17151,7 +18284,7 @@
    },
    "gallery": [
     {
-     "id": "4014e618de6f",
+     "id": "d9457fdda140",
      "caption": ""
     },
     {
@@ -17188,7 +18321,7 @@
    },
    "gallery": [
     {
-     "id": "91992bc2a8e7",
+     "id": "0a163511b8e8",
      "caption": ""
     },
     {
@@ -17224,20 +18357,20 @@
   "nina-tulle": {
    "fandom_page": "Nina Tulle",
    "infobox": {
-    "id": "d48bcf3b5017",
+    "id": "988470dc32eb",
     "caption": ""
    },
    "gallery": [
     {
-     "id": "6221743d25e3",
+     "id": "cf874f1a7456",
      "caption": ""
     },
     {
-     "id": "6558a3a04a3e",
+     "id": "354d057eeffc",
      "caption": ""
     },
     {
-     "id": "8dc1e403d071",
+     "id": "02ea2d5f4de1",
      "caption": ""
     }
    ]
@@ -17271,7 +18404,7 @@
      "caption": ""
     },
     {
-     "id": "7a1ddded25a1",
+     "id": "304d6bba1292",
      "caption": ""
     },
     {
@@ -17366,7 +18499,7 @@
    },
    "gallery": [
     {
-     "id": "b0d41c584e80",
+     "id": "4be64febf1ee",
      "caption": ""
     },
     {
@@ -17428,11 +18561,11 @@
      "caption": ""
     },
     {
-     "id": "ddaee2316848",
+     "id": "ad5243524cb6",
      "caption": ""
     },
     {
-     "id": "7ea6f889485d",
+     "id": "b9369bc845d5",
      "caption": ""
     },
     {
@@ -17494,7 +18627,7 @@
    },
    "gallery": [
     {
-     "id": "4014e618de6f",
+     "id": "d9457fdda140",
      "caption": ""
     },
     {
@@ -17563,11 +18696,11 @@
      "caption": ""
     },
     {
-     "id": "8bed19476ce8",
+     "id": "af59f9ae0698",
      "caption": ""
     },
     {
-     "id": "25cde7c88d94",
+     "id": "4cf3a68adaff",
      "caption": ""
     },
     {
@@ -17675,7 +18808,7 @@
    },
    "gallery": [
     {
-     "id": "c261539e4607",
+     "id": "51a9b0f13a23",
      "caption": ""
     },
     {
@@ -17720,11 +18853,11 @@
      "caption": ""
     },
     {
-     "id": "4ba03974e725",
+     "id": "89f9037beddb",
      "caption": ""
     },
     {
-     "id": "03e9cdb49d45",
+     "id": "ef32d78320fe",
      "caption": ""
     },
     {
@@ -17798,11 +18931,11 @@
      "caption": ""
     },
     {
-     "id": "14e925882735",
+     "id": "8869625662cc",
      "caption": ""
     },
     {
-     "id": "478b60f5bdcd",
+     "id": "52cc09014bdf",
      "caption": ""
     },
     {
@@ -17860,7 +18993,7 @@
    },
    "gallery": [
     {
-     "id": "0e49904558aa",
+     "id": "f1145fc98779",
      "caption": ""
     },
     {
@@ -17897,7 +19030,7 @@
    },
    "gallery": [
     {
-     "id": "082a361d2f7e",
+     "id": "7b87a68deaf4",
      "caption": ""
     },
     {
@@ -17930,7 +19063,7 @@
    },
    "gallery": [
     {
-     "id": "b0d41c584e80",
+     "id": "4be64febf1ee",
      "caption": ""
     },
     {
@@ -17938,7 +19071,7 @@
      "caption": ""
     },
     {
-     "id": "15dad7b31ff3",
+     "id": "6252a3273b4c",
      "caption": ""
     },
     {
@@ -18005,7 +19138,7 @@
    },
    "gallery": [
     {
-     "id": "88a599baaa74",
+     "id": "901645d0c2ef",
      "caption": ""
     }
    ]
@@ -18039,7 +19172,7 @@
    },
    "gallery": [
     {
-     "id": "b0d41c584e80",
+     "id": "4be64febf1ee",
      "caption": ""
     },
     {
@@ -18069,7 +19202,7 @@
    },
    "gallery": [
     {
-     "id": "2f9068407256",
+     "id": "95bbe9b5a4b3",
      "caption": ""
     },
     {
@@ -18077,7 +19210,7 @@
      "caption": ""
     },
     {
-     "id": "8782dbe9c7ce",
+     "id": "b4a50928e908",
      "caption": ""
     },
     {
@@ -18106,7 +19239,7 @@
    },
    "gallery": [
     {
-     "id": "90716b9e1ab9",
+     "id": "6f63d86d3c7f",
      "caption": ""
     },
     {
@@ -18127,7 +19260,7 @@
    },
    "gallery": [
     {
-     "id": "1b407cde4ac7",
+     "id": "8342fa50128a",
      "caption": ""
     },
     {
@@ -18189,7 +19322,7 @@
      "caption": ""
     },
     {
-     "id": "87d270cbb99d",
+     "id": "2edb38bbd24f",
      "caption": ""
     },
     {
@@ -18227,11 +19360,11 @@
    },
    "gallery": [
     {
-     "id": "8782dbe9c7ce",
+     "id": "b4a50928e908",
      "caption": ""
     },
     {
-     "id": "ead0502ea9b6",
+     "id": "84cab02ffb32",
      "caption": ""
     },
     {
@@ -18301,7 +19434,7 @@
      "caption": ""
     },
     {
-     "id": "9d753e0199de",
+     "id": "1cc3bd6f8837",
      "caption": ""
     },
     {
@@ -18404,15 +19537,15 @@
    },
    "gallery": [
     {
+     "id": "565f1a93958f",
+     "caption": ""
+    },
+    {
      "id": "7be53ac2e545",
      "caption": ""
     },
     {
      "id": "661d7211f3e9",
-     "caption": ""
-    },
-    {
-     "id": "964b2c057841",
      "caption": ""
     },
     {
@@ -18445,7 +19578,7 @@
    },
    "gallery": [
     {
-     "id": "2f9068407256",
+     "id": "95bbe9b5a4b3",
      "caption": ""
     },
     {
@@ -18453,7 +19586,7 @@
      "caption": ""
     },
     {
-     "id": "8782dbe9c7ce",
+     "id": "b4a50928e908",
      "caption": ""
     },
     {
@@ -18520,15 +19653,15 @@
    },
    "gallery": [
     {
-     "id": "ad62daf0457c",
+     "id": "c5f2cfcdd57b",
      "caption": ""
     },
     {
-     "id": "ead0502ea9b6",
+     "id": "84cab02ffb32",
      "caption": ""
     },
     {
-     "id": "15dad7b31ff3",
+     "id": "6252a3273b4c",
      "caption": ""
     },
     {
@@ -18590,7 +19723,7 @@
    },
    "gallery": [
     {
-     "id": "a7d4bfdabe75",
+     "id": "3e0b4ac2b955",
      "caption": ""
     },
     {
@@ -18615,11 +19748,11 @@
    },
    "gallery": [
     {
-     "id": "9890fbf05d3b",
+     "id": "1dae88031272",
      "caption": ""
     },
     {
-     "id": "cf8a1349f54a",
+     "id": "28e7739b79d7",
      "caption": ""
     },
     {
@@ -18649,15 +19782,15 @@
    },
    "gallery": [
     {
-     "id": "8615cfda51fa",
+     "id": "cfc49e1c887e",
      "caption": ""
     },
     {
-     "id": "88a3cafb165a",
+     "id": "f7139b1baad4",
      "caption": ""
     },
     {
-     "id": "9384f32e9cca",
+     "id": "0f78141a7ff8",
      "caption": ""
     },
     {
@@ -18690,11 +19823,11 @@
    },
    "gallery": [
     {
-     "id": "8615cfda51fa",
+     "id": "cfc49e1c887e",
      "caption": ""
     },
     {
-     "id": "9384f32e9cca",
+     "id": "0f78141a7ff8",
      "caption": ""
     },
     {
@@ -18731,11 +19864,11 @@
    },
    "gallery": [
     {
-     "id": "f8eef599ddd1",
+     "id": "6c204e6cdf93",
      "caption": ""
     },
     {
-     "id": "9384f32e9cca",
+     "id": "0f78141a7ff8",
      "caption": ""
     },
     {
@@ -18904,6 +20037,10 @@
     "caption": "Ted, as Terry Cervantes"
    },
    "gallery": [
+    {
+     "id": "3e0b4ac2b955",
+     "caption": ""
+    },
     {
      "id": "d4b8a91c5ae4",
      "caption": "Ted, Anna and Lyu"
@@ -19170,6 +20307,10 @@
    },
    "gallery": [
     {
+     "id": "565f1a93958f",
+     "caption": ""
+    },
+    {
      "id": "7be53ac2e545",
      "caption": ""
     },
@@ -19190,8 +20331,79 @@
      "caption": ""
     }
    ]
+  },
+  "ali": {
+   "fandom_page": "Arry",
+   "infobox": {
+    "id": "4874afe5e326",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "af8ba4989ccb",
+     "caption": ""
+    },
+    {
+     "id": "173f056c64f8",
+     "caption": ""
+    },
+    {
+     "id": "7471057dfb54",
+     "caption": "Appearance as a slave"
+    }
+   ]
+  },
+  "artemis": {
+   "fandom_page": "Artemis",
+   "infobox": {
+    "id": "3db0bd3775dc",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "c99aeffa47ee",
+     "caption": ""
+    },
+    {
+     "id": "efbb7bc50592",
+     "caption": "Moon Drop"
+    },
+    {
+     "id": "1e8b2565ffda",
+     "caption": ""
+    }
+   ]
+  },
+  "dungeon-oratoria": {
+   "fandom_page": "Dungeon Oratoria",
+   "infobox": {
+    "id": "275d751ff9f6",
+    "caption": ""
+   },
+   "gallery": []
+  },
+  "races": {
+   "fandom_page": "Races",
+   "infobox": {
+    "id": "94f2f3d14a4c",
+    "caption": ""
+   },
+   "gallery": [
+    {
+     "id": "a7cfd7e62b1d",
+     "caption": ""
+    },
+    {
+     "id": "aaa5505a3375",
+     "caption": ""
+    },
+    {
+     "id": "75ff413580a9",
+     "caption": ""
+    }
+   ]
   }
  },
- "generated": "2026-10-01",
- "note": "Official artwork chosen from a local backup of the DanMachi Fandom wiki. Illustrations only: never evidence for a claim. Rights remain with their owners."
+ "generated": "2026-10-05",
+ "note": "Official artwork, illustrations only: never evidence for a claim. Rights remain with their owners. Images with an \"edition\" entry are light-novel illustrations taken from the official English (Yen Press) ebooks in place of the Japanese-edition file named under \"replaces\" (tools/media_overrides.json, \"english\"); all other images were chosen from a local backup of the DanMachi Fandom wiki and link to their Fandom file page."
 }

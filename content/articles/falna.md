@@ -79,7 +79,7 @@ Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Gu
 [@fm01-familia]: FM01 | Chapter 1: World, Reality, and Desire | A Familia is a god-led group.
 [@fm01-excelia]: FM01 | Chapter 1: World, Reality, and Desire | Proficiency from ability use; excelia faster against stronger opponents. The Japanese edition (file cFB, paragraphs 180–186) calls the number beside each rank proficiency, which changes only when the ability is put to work, and keeps excelia for the experience the gods read.
 [@fm01-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Members of one race tend to develop similar Skills: elves strengthen magic, dwarves strength.
-[@fm01-ja-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 150): obtaining a Skill is itself rare. Yen Press prints that it "was not fully understood how skills were acquired".
+[@fm01-ja-skills]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraph 150): obtaining a Skill is itself rare.
 [@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics. The Japanese edition (file cFB, paragraph 193) gives the number of magic slots as at least one and at most three.
 [@fm01-abilities]: FM01 | Chapter 1: World, Reality, and Desire | Basic abilities and ranks.
 [@fm01-levelup]: FM01 | Chapter 1: World, Reality, and Desire | A Level Up boosts every basic ability. The Japanese edition (file cFB, paragraph 181) says a Level Up applies an enhancement that exceeds the basic-ability corrections; it does not say that every basic ability rises.

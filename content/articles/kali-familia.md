@@ -35,7 +35,7 @@
 
 {{nocite}} The goddess has her own page: [[kali|Kali]].
 
-Kali is a copper-skinned goddess with blood-red hair and the stature of a child. She wears a necklace of fake bones and a fanged mask.[@so06-arrival] Sword Oratoria 6 calls her a goddess of war, blood and mayhem whose sole purpose in descending was war itself.[@so06-demand] [[loki|Loki]] compares her rule to [[ares|Ares]]'s over [[ares#kingdom-of-rakia|Rakia]], a "nation-state familia", and cannot stand her.[@so06-telskyura] Since Kali came to power the rites have gone on without end; her blessing makes the Amazons' fights more violent, and they revere her as their one and only god.[@so06-childhood]
+Kali is a copper-skinned goddess with blood-red hair and the stature of a child. She wears a necklace of fake bones and a fanged mask.[@so06-arrival] Sword Oratoria 6 calls her a goddess of war, blood and mayhem whose sole purpose in descending was war itself.[@so06-demand] [[loki|Loki]] compares her rule to [[ares|Ares]]'s over [[ares-familia#kingdom-of-rakia|Rakia]], a "nation-state familia", and cannot stand her.[@so06-telskyura] Since Kali came to power the rites have gone on without end; her blessing makes the Amazons' fights more violent, and they revere her as their one and only god.[@so06-childhood]
 
 ## Telskyura and the rites
 

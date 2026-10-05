@@ -60,7 +60,7 @@ In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murd
 
 During the festival of DanMachi 16 she protects the false Syr from [[hegni|Hegni]] and is defeated by him.[@fm16-hegni] In DanMachi 17 she escapes [[freya|Freya]]'s charm with [[asfi|Asfi]], is captured and held under [[folkvangr|Folkvangr]], and is freed by [[horn|Hörn]].[@fm17-lyu]
 
-Before the Familia War of DanMachi 18, Astrea, waiting in [[zolingam|Zolingam]], updates her twice in succession, from Level 4 to Level 6. It is the first consecutive Level-up since the age of the gods began.[@fm18-double, fc03-stages] In the war she defeats Hegni and helps defeat [[ottar|Ottar]].[@fm18-hegni] During the battle she tells Bell that she loves him; he hears and understands her, but the volume does not show a relationship beginning.[@fm18-confess]
+Before the Familia War of DanMachi 18, Astrea, waiting in [[zolingam|Solingen]], updates her twice in succession, from Level 4 to Level 6. It is the first consecutive Level-up since the age of the gods began.[@fm18-double, fc03-stages] In the war she defeats Hegni and helps defeat [[ottar|Ottar]].[@fm18-hegni] During the battle she tells Bell that she loves him; he hears and understands her, but the volume does not show a relationship beginning.[@fm18-confess]
 
 ### DanMachi 19–20
 
@@ -327,7 +327,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@ar01-lyu]: AR01 | | Lyu at fourteen.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
 [@luminous-wind.fm05-cast]: FM05 | Chapter 6: Praise to the Heroes | Version A chant in three pieces; hundreds of orbs.
-[@luminous-wind.fm05-ja-cast]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 651): countless large orbs of light wrapped in green wind, born around Lyu and fired all at once into the Goliath; no number is given. Yen Press prints "Hundreds of small orbs".
+[@luminous-wind.fm05-ja-cast]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 651): countless large orbs of light wrapped in green wind, born around Lyu and fired all at once into the Goliath; no number is given.
 [@luminous-wind.so05-cast]: SO05 | Chapter 3: ⅓ Pure Passion | Version A in five lines; compared with Fusillade Fallarica.
 [@luminous-wind.fc01-casino]: FC01 | Crush the Grand Casino! | Version B in six pieces.
 [@luminous-wind.fc01-vault]: FC01 | Crush the Grand Casino! | The adamantite vault door.

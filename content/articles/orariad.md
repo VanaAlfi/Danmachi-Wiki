@@ -8,7 +8,7 @@
   "summary": "The contest of representatives between Orario and the School District in DanMachi 20, declared by Hermes and sponsored by the Denatus to settle the quarrel over the Guild's demand for the School District's orichalcum. Over six days the sides split four contests, and the final bout, Leon Verdenberg against Bell, is broken off by a dragon: a 2-2-1 draw that Leon and Balder had planned all along.",
   "aliases": ["Orichalcum requisition", "Shaft plan", "Battle of representatives"],
   "spoilers": "DanMachi Vol. 20",
-  "related": ["school-district", "balder-class", "leon-verdenberg", "hermes", "balder", "denatus", "royman", "bell-cranell", "nina-tulle", "war-game"],
+  "related": ["school-district", "balder", "leon-verdenberg", "hermes", "denatus", "royman", "bell-cranell", "nina-tulle", "war-game"],
   "infobox": {
     "title": "Orariad",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -43,7 +43,7 @@ The Guild had high-handedly requisitioned the School District's [[metals#orichal
 
 | Round | Contest | Result |
 |---|---|---|
-| 1 | Mage showdown | The School District: the elf Malik Alfort, a Level 5 [[balder-class|Balder Class]] instructor, beats Hathor Familia's mage Nernati.[@fm20-round1, fm20-nernati] |
+| 1 | Mage showdown | The School District: the elf Malik Alfort, a Level 5 [[balder#balder-class|Balder Class]] instructor, beats Hathor Familia's mage Nernati.[@fm20-round1, fm20-nernati] |
 | 2 | Melee: capture the flag for Level 3 and below, at the Shreme castle ruins of the [[war-game|War Game]] | The School District's student alliance, with bold plans and traps; the main event the Denatus designed.[@fm20-round2, fm20-melee] |
 | 3 | Tag team | Orario: [[ilta-faana|Ilta Faana]] and [[shakti-varma|Shakti Varma]] beat the School District's assassins, aboard the School District with no Orario spectators.[@fm20-round3, fm20-home] |
 | 4 | Trios aquatic match | Orario, easily.[@fm20-round4] |

@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Region"},
       {"label": "Japanese", "value": "{{ja|極東}}", "refs": ["fm07-far-east-ja"]},
-      {"label": "Location", "value": "Across the ocean from the Continent; travellers to Orario pass through [[njordr#port-meren|Port Meren]]", "refs": ["so06-meren", "fm07-shrine"]},
+      {"label": "Location", "value": "Across the ocean from the Continent; travellers to Orario pass through [[njordr-familia#port-meren|Port Meren]]", "refs": ["so06-meren", "fm07-shrine"]},
       {"label": "Includes", "value": "Towns, a shrine on a mountain, and island nations", "refs": ["fm07-shrine", "fm08-island"]},
       {"label": "People", "value": "[[takemikazuchi-familia|Takemikazuchi Familia]], [[haruhime|Haruhime]], [[gojouno-kaguya|Gojouno Kaguya]]; most [[races#renart|renarts]]", "refs": ["fm07-shrine", "fm07-renart", "fm14-kaguya"]},
       {"label": "Gods", "value": "[[takemikazuchi|Takemikazuchi]], Tsukuyomi and others at the shrine", "refs": ["fm07-shrine", "fm07-tsukuyomi"]},
@@ -24,7 +24,7 @@
   }
 }
 ---
-The **Far East** is a distant region across the ocean from the Continent. Travellers from it come to [[orario|Orario]] by sea and pass through [[njordr#port-meren|Port Meren]].[@so06-meren, fm07-shrine] It is the homeland of [[takemikazuchi-familia|Takemikazuchi Familia]], of [[haruhime|Haruhime]] and of [[gojouno-kaguya|Gojouno Kaguya]], and most [[races#renart|renarts]] live there.[@fm07-shrine, fm14-kaguya, fm07-renart] No map of the region and no name for any of its countries were located in the checked text; it appears through its people, customs, stories and fighting styles.
+The **Far East** is a distant region across the ocean from the Continent. Travellers from it come to [[orario|Orario]] by sea and pass through [[njordr-familia#port-meren|Port Meren]].[@so06-meren, fm07-shrine] It is the homeland of [[takemikazuchi-familia|Takemikazuchi Familia]], of [[haruhime|Haruhime]] and of [[gojouno-kaguya|Gojouno Kaguya]], and most [[races#renart|renarts]] live there.[@fm07-shrine, fm14-kaguya, fm07-renart] No map of the region and no name for any of its countries were located in the checked text; it appears through its people, customs, stories and fighting styles.
 
 ## Places
 

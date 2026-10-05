@@ -37,7 +37,7 @@ DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes
 
 ## Background {#background}
 
-The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma.[@fm05-talaria] In DanMachi 8 [[ares#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
+The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma.[@fm05-talaria] In DanMachi 8 [[ares-familia#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
 
 {{inference}} Since Enigma is Asfi's own ability, the two passages point to her royal birth; the narration and Marius both speak of a princess of a sea nation, and the checked text adds nothing more about her homeland.[@fm05-talaria, fm08-marius]
 
@@ -81,7 +81,7 @@ Perseus's items are said to give powers on a par with Magic and Skills, through 
 | Sword Oratoria 11 | Leads an invisible Hermes Familia detachment in the assault on Knossos.[@so11-key] |
 | Sword Oratoria 12 | With Fels, acts as one of the "secondary commanders" when Lilly takes command; against [[filvis|Filvis]], who dismisses "Level Fours" as "virtually meaningless", she fights in the air.[@so12-command, so12-filvis, so12-flight] |
 | DanMachi 17 | Is outside the city with [[lyu-leon|Lyu]] when [[freya|Freya]]'s charm covers Orario, so she escapes it, and helps Hestia break it.[@fm17-asfi, fm17-hearth] She resolves to slip through Freya Familia's watch: "I’m Perseus."[@fm17-perseus] |
-| DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches [[astrea|Astrea]] in [[zolingam|Zolingam]].[@fm18-zolingam] |
+| DanMachi 18 | Through Hermes Familia's information and help, Lyu reaches [[astrea|Astrea]] in [[zolingam|Solingen]].[@fm18-zolingam] |
 
 ## Open questions
 
@@ -91,9 +91,9 @@ Perseus's items are said to give powers on a par with Magic and Skills, through 
 
 [@fm05-asfi]: FM05 | | Captain; Perseus; Enigma; Rivira's defence.
 [@fm05-look]: FM05 | | "Asfi, the human woman"; silver glasses; aqua-blue hair; white cloak and winged sandals.
-[@fm05-ja-look]: FM05 | | Japanese original (file part0011, paragraph 193): distinct features, blue eyes rich in intelligence, silver-framed glasses, and aqua-blue-tinged hair with just one lock dyed white; the white cloak and the gold-winged sandals agree. Yen Press prints a perfectly symmetrical face, brilliant silver glasses and a few lighter shades.
+[@fm05-ja-look]: FM05 | | Japanese original (file part0011, paragraph 193): distinct features, blue eyes rich in intelligence, silver-framed glasses, and aqua-blue-tinged hair with just one lock dyed white; the white cloak and the gold-winged sandals agree.
 [@fm05-ja-asfi]: FM05 | | Japanese original (file part0011, paragraph 220; file part0013, paragraph 297): Hermes calls Asfi the head of his Familia (the Japanese word is the one this volume uses for Finn as the head of Loki Familia), half joking, and she is the Familia's ace; the Yen Press text drops the word, so FM05's English does not print the title of captain.
-[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario. Yen Press prints "one of only five".
+[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario.
 [@fm05-oil]: FM05 | Chapter 6: Praise to the Heroes | Burst Oil leaves no mark on the Goliath's skin.
 [@so03-oil]: SO03 | Chapter 3: A Hideous Beauty | Burst Oil; the obia flare. The Japanese edition (file c2N8, paragraph 233) says only she can make it, that one vial kills a middle-level monster, and that the flower sprouts near the craters of the continent's north.
 [@fm08-talaria]: FM08 | | Talaria and the search for Hestia.

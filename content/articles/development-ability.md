@@ -106,7 +106,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#pummel|Pummel]] | Tiona, Tione, Bete, Gareth, Leon | Not described[@sheet.so03-tiona] |
 | [[#fracture|Fracture]] | Tiona, Gareth, Ottar, Leon | Not described[@sheet.so03-tiona] |
 | [[#other-abilities|Healing Power]] | Tione | Not described[@sheet.so04-tione] |
-| [[#other-abilities|Healing]] | Riveria, [[cassandra|Cassandra]], Ardee | Not described[@sheet.so06-riveria] |
+| [[#other-abilities|Healing]] | Riveria, [[cassandra|Cassandra]], Adi {{small|printed *Ardee* in Astrea Record 1 and 2}} | Not described[@sheet.so06-riveria] |
 | [[#other-abilities|Bulwark]] | Gareth | Not described[@sheet.so07-gareth] |
 | [[#other-abilities|Initiative]] | Finn | Not described[@sheet.so08-finn] |
 | [[#other-abilities|Sturdy Body]] | Ottar | Not described[@sheet.fc02-ottar] |
@@ -150,7 +150,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[raul-nord|Raul Nord]] | H | [@sheet.so11-raul] |
 | [[daphne|Daphne Laulos]] | I | [@sheet.fm14-daphne] |
 | [[ottar|Ottar]] | E | [@sheet.fc02-ottar] |
-| Ardee Varma | H | [@sheet.ar02-ardee] |
+| Adi Varma | H | [@sheet.ar02-ardee] |
 | Alize Lovell | I | [@sheet.ar03-alize] |
 | [[leon-verdenberg|Leon Verdenberg]] | E | [@sheet.fm20-leon] |
 
@@ -332,7 +332,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 | Ability | Holder and rank | Notes |
 |---|---|---|
 | Healing Power | Tione Hyrute, I | The heal lent by Ottar's Stultus Ottar is this ability: the Japanese edition names both with the same word.[@sheet.so04-tione, sheet.fc02-ottar] |
-| Healing | Riveria Ljos Alf, G; Cassandra Illion, I; Ardee Varma, I | The Fandom list gives two different Japanese terms here, one for Riveria and Cassandra and another for Ardee, so the English name may cover two abilities.[@sheet.so06-riveria, sheet.fm14-cassandra, sheet.ar02-ardee] |
+| Healing | Riveria Ljos Alf, G; Cassandra Illion, I; Adi Varma, I | The Fandom list gives two different Japanese terms here, one for Riveria and Cassandra and another for Adi, so the English name may cover two abilities.[@sheet.so06-riveria, sheet.fm14-cassandra, sheet.ar02-ardee] |
 | Bulwark | Gareth Landrock, H | [@sheet.so07-gareth] |
 | Initiative | Finn Deimne, H | [@sheet.so08-finn] |
 | Sturdy Body | Ottar, G | [@sheet.fc02-ottar] |
@@ -369,7 +369,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@fm04-forge]: FM04 | Chapter 3: The Smith’s Situation | Welf wants Forge; magic swords and Forge.
 [@fm04-nahza]: FM04 | Quest X Quest | Synthesize: better items and medicine; Nahza.
 [@fm05-enigma]: FM05 | Chapter 3: Dungeon Death March | Asfi, one of five with Enigma.
-[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario, and also an item maker of the age. Yen Press prints "one of only five" and calls it an Advanced Ability; the same idiom is printed "only five" for the party at the Goliath (file part0025, paragraph 617).
+[@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario, and also an item maker of the age.
 [@fm05-conjure]: FM05 | Chapter 6: Praise to the Heroes | Conjure: magic circles, power and range.
 [@fm06-welf]: FM06 | Chapter 1: The Furious Rabbit | Welf reaches Level 2 and gains Forge.
 [@fm07-card]: FM07 | Chapter 6: Yearning of a Hero | Bell's Level 3 card: Luck H, Immunity I.

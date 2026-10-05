@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Aiz Wallenstein's silver saber, a Superior weapon made by Goibniu Familia's High Smiths with the Durandal trait, which means it cannot break, though it needs sharpening. It is her sword from Astrea Record 3 to Sword Oratoria 12, where a crack finally runs through it under the strain of her black wind. Durandal weapons made by Hephaistos Familia also arm Loki Familia's other top fighters in Sword Oratoria 4.",
-  "aliases": ["Durandal", "Durandal weapon", "Durandal weapons", "the Unbreaking", "Roland Blade", "Dual Roland"],
+  "aliases": ["Durandal", "Durandal weapon", "Durandal weapons", "the Unbreaking", "Blade Roland", "Roland Blade", "Dual Roland"],
   "spoilers": "DanMachi Vol. 10, Sword Oratoria Vols. 1, 3, 4, 6, 7, 11, 12 and Astrea Record Vol. 3",
   "related": ["aiz-wallenstein", "goibniu", "hephaistos-familia", "loki-familia", "alfia", "delphyne", "ottar", "magic-sword"],
   "infobox": {
@@ -23,7 +23,7 @@
   }
 }
 ---
-**Desperate** is [[aiz-wallenstein|Aiz Wallenstein]]'s saber, a Superior weapon made by the High Smiths of [[goibniu-familia|Goibniu Familia]].[@so01-desperate] It carries the trait called **Durandal**, "the Unbreaking": it cannot snap in combat, though it still needs sharpening.[@so01-saber, so01-sharpen] Aiz carries it from Astrea Record 3, seven years before the main story, to Sword Oratoria 12, where a crack finally runs through it.[@ar03-aiz, so12-split]
+**Desperate** is [[aiz-wallenstein|Aiz Wallenstein]]'s saber, a Superior weapon ({{ja|特殊武装}}, written *special armament*)[@so01-superior-ja] made by the High Smiths of [[goibniu-familia|Goibniu Familia]].[@so01-desperate] It carries the trait called **Durandal** ({{ja|不壊属性}}, written *unbreakable attribute*)[@so01-durandal-ja], "the Unbreaking": it cannot snap in combat, though it still needs sharpening.[@so01-saber, so01-sharpen] Aiz carries it from Astrea Record 3, seven years before the main story, to Sword Oratoria 12, where a crack finally runs through it.[@ar03-aiz, so12-split]
 
 ## The sword
 
@@ -49,7 +49,7 @@ Durandal is a trait that other Superior weapons can carry too:[@so03-durandal]
 - **Why Loki Familia wanted them.** On Loki Familia's previous expedition, the only weapon that survived the acid of the caterpillar monsters was Desperate, with its Durandal trait. For the next one, Finn wants Durandal Superiors for all his high-Level fighters except the mage Riveria.[@so03-durandal]
 - **The order.** The Familia leaves its Durandal Superiors with [[hephaistos-familia|Hephaistos Familia]] for every top fighter except Aiz, who already has Desperate, and Riveria; Tsubaki finishes them before Bete brings her his broken [[equipment#frosvirt|Frosvirt]].[@so04-tsubaki]
 - **Light, and kept fresh.** They are lighter than Gareth expects. They cannot break, but even they lose sharpness when hard fighting goes on, so Tsubaki hands them over only just before the advance on Floor 51, not at the start of the expedition.[@so04-delivered]
-- **Named blades.** Tiona fights with a large Durandal sword, [[equipment#roland-series|Roland Blade]] ({{ja|大剣}}, said *Blade Roland*, written *great sword*), grumbling that it is not her [[urga|Urga]]. Bete wears twin Durandal blades, Dual Roland ({{ja|双剣}}, written *twin swords*).[@so04-roland, so04-dual, so04-roland-ja]
+- **Named blades.** Tiona fights with a large Durandal sword, [[equipment#roland-series|Blade Roland]] ({{ja|大剣}}, written *great sword*) {{small|printed *Roland Blade*}}, grumbling that it is not her [[urga|Urga]]. Bete wears twin Durandal blades, Dual Roland ({{ja|双剣}}, written *twin swords*).[@so04-roland, so04-dual, so04-roland-ja]
 - **In use.** Against the caterpillars, the Durandal weapons cut the monsters apart and show no sign of breaking.[@so04-caterpillars]
 - **Cost.** After the expedition, the "Durandal weapons" are among the costs that leave the Familia in the red.[@so06-red]
 
@@ -80,3 +80,5 @@ Durandal is a trait that other Superior weapons can carry too:[@so03-durandal]
 [@ar03-alfia]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "Give me that."; "in a flash Desperate was hers"; "This weapon does not suit me, after all".
 [@ar03-crack]: AR03 | Chapter 5: Playing the Violence Card | "Clad in jet-black wind"; "a split appeared down the length of Aiz’s sword"; "Desperate got damaged?!"; "stronger than a Durandal weapon?"
 [@ar03-cracks]: AR03 | Chapter 9: A Hero’s Trail | "her sword, Desperate, and at the cracks running along its length".
+[@so01-superior-ja]: SO01 | | The Japanese edition (file cX0, paragraph 35) writes Superior in kanji meaning special armament, with the reading Superiors.
+[@so01-durandal-ja]: SO01 | | The Japanese edition (file cX0, paragraph 34) writes the trait in kanji meaning unbreakable attribute, with the reading Durandal.

@@ -76,9 +76,9 @@ In DanMachi 14 and 18 Bell lists the Hestia Knife and [[equipment#hakugen|Hakuge
 
 [@fm01-case]: FM01 | Chapter 5: The Goddess’s Prank | "a dagger with a black handle and sheath"; "with a little help from Hestia"; "‘Love Dagger’"; "Hephaistos suggested “Hestia Knife,”".
 [@fm01-alive]: FM01 | Chapter 6: Bump of Chicken! | "This weapon is alive."; "forged from Hephaistos’s mythril and engraved with Hestia’s blessing"; "a blade with its own status"; "only someone with her blessing could wield it"; "I won’t be making another one of these, ever."
-[@fm01-ja-alive]: FM01 | Chapter 6: Bump of Chicken! | Japanese original (file c4N9, paragraph 547): a weapon that reaches the summit by itself is, to a smith, an improper way (jadō), and Hephaistos tells Hestia not to make her forge one again. Yen Press prints "bad for business" and "put us smiths out of a job".
+[@fm01-ja-alive]: FM01 | Chapter 6: Bump of Chicken! | Japanese original (file c4N9, paragraph 547): a weapon that reaches the summit by itself is, to a smith, an improper way (jadō), and Hephaistos tells Hestia not to make her forge one again.
 [@fm01-silverback]: FM01 | Chapter 6: Bump of Chicken! | "The “Hestia Knife” blazed purple in his grip"; "the black blade standing straight up out of its chest".
-[@fm01-ja-silverback]: FM01 | Chapter 6: Bump of Chicken! | Japanese original (file c4N9, paragraph 597): the raised attack power overflows from the blade as deep-purple drops and draws a trail in the air; there is no beam of light. Yen Press prints "sent a beam of light into the heavens".
+[@fm01-ja-silverback]: FM01 | Chapter 6: Bump of Chicken! | Japanese original (file c4N9, paragraph 597): the raised attack power overflows from the blade as deep-purple drops and draws a trail in the air.
 [@fm02-divine]: FM02 | Chapter 1: Date, Then Supporter | "I’ve got the Divine Knife from Hestia aimed at the ground chewer".
 [@fm02-appraisal]: FM02 | Chapter 2: The Supporter’s Situation | The gnome: "The blade won’t cut, stab, or slice."; "this blade feels…dead"; "How’s thirty vals sound?"
 [@fm02-sheath]: FM02 | Chapter 2: The Supporter’s Situation | "If only it had the “Ἥφαιστος” signature…The sheath, I need the sheath…"

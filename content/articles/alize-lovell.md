@@ -107,7 +107,7 @@ Alize hears out Lyu's troubles, takes her hand to "practice", and Lyu does not p
 - When troubled, Lyu went to Alize first, then to Lyra. Alize could calm her by squeezing her little finger.[@fm14-lyra, fm14-ideals]
 - In a crystal clearing on [[floor-18|Floor 18]] she tells Lyu, "Your sense of justice is beautiful, Leon. Hold on to that." Then, quietly: "Promise me you'll stay like that forever…"[@ar01-forest]
 - She tells Syr that Lyu is "a wonderful friend". When Lyu lets a repentant thief go, Alize hugs her: "You're finally growing up!"[@ar02-syr, ar02-supper]
-- At the end of the war she leans on Lyu, asks for a piggyback, and suggests they visit the grave of Ardee (printed *Adi* here) together.[@ar03-after]
+- At the end of the war she leans on Lyu, asks for a piggyback, and suggests they visit the grave of Adi {{small|printed *Ardee* in Astrea Record 1 and 2}} together.[@ar03-after]
 - In a short story in Familia Chronicle 3, set five years before its present, she drinks with Kaguya and Lyra and asks what justice Leon will find. She pictures Lyu surrounded by people she does not know, and toasts "To the hope that Leon finds!" The story calls it "a simple, ordinary moment" Lyu would never know of.[@fc03-moment]
 
 ## Astrea Record
@@ -118,7 +118,7 @@ Alize hears out Lyu's troubles, takes her hand to "practice", and Lyu does not p
 
 She leads the Familia against an Evils attack on a factory; a fireball fails to burn her, and she boasts that no one should aim fire at Scarlett Harnell.[@ar01-factory] On patrol with Lyu she meets the god who calls himself Eren and steps in front of Lyu, crying that the way he talks is somehow lewd and telling Lyu to get away from him.[@ar01-eren] Astrea Record 2 identifies Eren as the dark god [[erebus|Erebus]] in disguise.[@ar02-eren] With Kaguya and Lyra she fights the Evils' [[vito|Vito]], and she leads the Familia to a clearing on Floor 18 to calm Lyu and Kaguya after a quarrel.[@ar01-vito, ar01-forest]
 
-When [[valletta|Valletta Grede]] attacks a soup kitchen, Alize and Lyu strike at her; Valletta mocks "two Level Threes" against a Level 5 until Gareth arrives. The two then guide survivors to the evacuation point, [[twilight-manor|Twilight Manor]].[@ar01-gareth, ar01-valletta] At the Guild's council she stops the leaders blaming one another and volunteers Astrea Familia for a raid on the Evils' bases.[@ar01-council] In the raid she and Shakti, Levels 3 and 4, hold off Valletta. Then [[shakti-varma|Shakti]]'s sister Ardee dies in a child's self-detonation, and Alize orders everyone out of the collapsing building.[@ar01-raid] On the first night of the Great Conflict she runs to find Astrea and reaches her and [[hermes|Hermes]] as Erebus shows himself. He tells Astrea she has "you and yours to thank" for still being alive.[@ar01-hunch, ar01-erebus]
+When [[valletta|Valletta Grede]] attacks a soup kitchen, Alize and Lyu strike at her; Valletta mocks "two Level Threes" against a Level 5 until Gareth arrives. The two then guide survivors to the evacuation point, [[twilight-manor|Twilight Manor]].[@ar01-gareth, ar01-valletta] At the Guild's council she stops the leaders blaming one another and volunteers Astrea Familia for a raid on the Evils' bases.[@ar01-council] In the raid she and Shakti, Levels 3 and 4, hold off Valletta. Then [[shakti-varma|Shakti]]'s sister Adi dies in a child's self-detonation, and Alize orders everyone out of the collapsing building.[@ar01-raid] On the first night of the Great Conflict she runs to find Astrea and reaches her and [[hermes|Hermes]] as Erebus shows himself. He tells Astrea she has "you and yours to thank" for still being alive.[@ar01-hunch, ar01-erebus]
 
 ### Astrea Record 2
 
@@ -247,7 +247,7 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar01-gareth]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): the soup kitchen; "old man Gareth"; "race doesn’t matter!"; "I always wanted to be born a dwarf!"
 [@ar01-valletta]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): Alize's slender sword (the Japanese edition, file c2W8); "How could two Level Threes possibly hope to defeat a Level Five?!"; the evacuation.
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | Alize and Kaguya at the council; "Why do we have to sit around pointing fingers?"; "Astrea Familia will take one!"
-[@ar01-raid]: AR01 | Chapter 8: Sound of Life | Valletta against Shakti and Alize, "Levels 4 and 3 respectively"; Ardee's death; "Shakti! Lyra! Kaguya! Pull out!!"
+[@ar01-raid]: AR01 | Chapter 8: Sound of Life | Valletta against Shakti and Alize, "Levels 4 and 3 respectively"; Adi's death; "Shakti! Lyra! Kaguya! Pull out!!"
 [@ar01-hunch]: AR01 | Chapter 11: Absolute Evil | "It’s Lady Astrea"; "She’s in trouble!"; Lyra trusts "Alize’s uncanny hunch"; her order to hold on and live (the Japanese edition, file c6WV, paragraph 138: captain's orders, hold on, and live).
 [@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | Alize finds Astrea and Hermes; "You have you and yours to thank for that."; the pillars of light.
 [@ar02-stones]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): the stones; "I’m sorry."; "We were weak"; the slap; Leah's teddy bear.

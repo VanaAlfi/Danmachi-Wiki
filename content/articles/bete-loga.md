@@ -20,7 +20,7 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Víðarr Familia (captain); later Loki Familia", "refs": ["so08-vidarr"]},
       {"label": "Level", "value": "5; 6 from Sword Oratoria 6", "refs": ["so06-bete"]},
-      {"label": "First title", "value": "Fenris", "refs": ["so08-vidarr"]},
+      {"label": "First title", "value": "Fenris ({{ja|灰狼}}, written *ash wolf*)", "refs": ["so08-vidarr", "so08-fenris-ja"]},
       {"label": "Title", "value": "Vanargand ({{ja|凶狼}}, written *vicious wolf*)", "refs": ["fm10-vanargand", "so12-vanargand", "so12-bete-ja"]},
       {"label": "Magic", "value": "[[#hati|Hati]]", "refs": ["so08-hati"]},
       {"label": "Skills", "value": "[[skills#ulfhedinn|Úlfheðinn]], [[skills#fenris-wolf|Fenris Wolf]], [[skills#solmani|Solmani]]", "refs": ["skills.so05-sheet", "skills.so10-solmani"]},
@@ -71,6 +71,8 @@ Bete's illustrated Status sheet in Sword Oratoria 5 (Level 5) lists Hati under M
 **Complete printed chant (SO08).**[@hati.so08-cast]
 
 > Chained Fros, king of the wolves The first wound: Gelgja, the fetter. The second wound: Gjöll, the cry. The third wound: Þviti, the hammer. The ravenous slaver your only hope, may it form a river, mixing in the tide of blood, to wash away your tears. Never forget those irreparable wounds. This rage and hatred, thine infirmity and incandescence. Denounce the world. Acknowledge fate. And dry thy tears. May the pain become your fangs, the lament your roar—and your lost companions your strength. Free yourself of the chains that bind you, and release your mad howl. O lineage of enmity, pray use this vessel and devour the moon, drinking greedily from its overflowing cup. Bare your fangs—and devour all.
+
+In the Japanese of Sword Oratoria 8 the three wounds are {{ja|一傷、拘束。二傷、痛叫。三傷、打杭。餓えなる涎が唯一の希望。川を築き、血潮と交ざり、涙を洗え|isshō, Gerugia. nishō, Gioru. sanshō, Sebite. ue naru zen ga yuiitsu no kibō. kawa o kizuki, chishio to mazari, namida o arae}}, *first wound, restraint; second wound, pain cry; third wound, driven stake; the starving slaver is the only hope; build a river, mingle with the blood, wash the tears*: the wounds are said *Gerugia*, *Gioru* and *Sebite* and written *restraint*, *pain cry* and *driven stake*.[@hati.so08-chant-ja]
 
 {{nocite}} **Notes and other printed variants**
 
@@ -156,3 +158,5 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so08-renee]: SO08 | Chapter 1: Lonely Wolf | "Father…Mother…Luna…"; "There had been a girl, too—born on the same day"; "he could claim her for his own"; "His mother; his sister, Luna"; "Renee…!"
 [@so12-bete-ja]: SO12 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning vicious wolf, with the reading Vanargand; the infobox gives the printed name and the kanji.
 [@leene.so07-losses]: SO07 | Chapter 5: Battle of Tears | "Seven dead, including those who’ve gone missing. Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."
+[@so08-fenris-ja]: SO08 | | The Japanese edition (file c1Y3, paragraph 206) writes his first title in kanji meaning ash wolf, with the reading Fenris; the infobox gives the printed name and the kanji.
+[@hati.so08-chant-ja]: SO08 | | The Japanese edition (file c45H, paragraph 578) prints the three wounds' names over the kanji for restraint, pain cry and driven stake.

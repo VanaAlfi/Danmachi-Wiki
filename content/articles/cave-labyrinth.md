@@ -81,7 +81,7 @@ The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirtee
 | DanMachi 8 | Hestia Familia clears the fifteenth floor and goes on to the sixteenth.[@fm08-fifteenth, fm08-sixteenth] On a mini-expedition with Takemikazuchi Familia it joins Rivira's battle against the Goliath on the seventeenth floor.[@fm08-goliath] |
 | DanMachi 9 | With the Goliath already killed, Bell's party reaches Floor 18 in three hours.[@fm09-three-hours] |
 | DanMachi 16 | [[hedin|Hedin]] trains Bell on the thirteenth floor.[@fm16-thirteenth] |
-| DanMachi 19 | The [[balder-class#third-squad|3rd Squad]], with Bell, is caught in the fifteenth-floor collapse and flees down through the sixteenth and seventeenth floors to Floor 18.[@fm19-collapse, fm19-sixteenth] |
+| DanMachi 19 | The [[balder#third-squad|3rd Squad]], with Bell, is caught in the fifteenth-floor collapse and flees down through the sixteenth and seventeenth floors to Floor 18.[@fm19-collapse, fm19-sixteenth] |
 | DanMachi 20 | On the way home from its expedition, Bell's party relaxes once it reaches the Stone Cave Labyrinth.[@fm20-stone] |
 | Sword Oratoria 1 | Loki Familia, returning from the deep levels, meets the Minotaurs on the seventeenth floor; they flee up the stairs toward the sixteenth.[@so01-minotaurs] |
 | Sword Oratoria 13 | The 7th Squad, with [[lefiya|Lefiya]], is cut off by the collapse; they reach the Great Wall of Sorrows to find the Goliath already rampaging.[@so13-collapse, so13-wall] |

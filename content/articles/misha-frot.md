@@ -1,16 +1,16 @@
 ---
 {
-  "title": "Misha Frot",
+  "title": "Misha Frott",
   "category": "characters",
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Human receptionist at the Guild and Eina Tulle's friend from their School District days, a short, peach-haired, baby-faced girl with an expressive manner and a weakness for adventurer rankings. She joined the Guild with Eina and appears beside her from DanMachi 1 to 20 and in Sword Oratoria.",
-  "aliases": ["Misha", "Misha Frott", "Frot", "Miracle of Frot"],
+  "aliases": ["Misha", "Misha Frot", "Frot", "Frott", "Miracle of Frot"],
   "spoilers": "DanMachi Vols. 4, 6, 8, 11, 15, 17, 19, Sword Oratoria Vols. 2–4, 6, 12 and Minor Myths and Legends Vol. 1",
   "related": ["eina-tulle", "guild", "school-district", "royman", "bell-cranell", "loki"],
   "infobox": {
-    "title": "Misha Frot",
+    "title": "Misha Frott",
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
@@ -18,16 +18,16 @@
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so02-misha", "fm11-outburst"]},
       {"label": "Height", "value": "150 celch", "refs": ["so02-misha", "fm11-outburst"]},
       {"label": "Hair", "value": "Pink (\"peach-pink\", \"cherry blossom–colored\")", "refs": ["fm08-friend", "so02-misha", "fm15-recruits"]},
-      {"label": "Printed as", "value": "Misha Frott (DanMachi 15)", "refs": ["fm15-recruits", "fm15-drinks"]},
       {"section": "Work"},
       {"label": "Employer", "value": "[[guild|The Guild]], as a receptionist", "refs": ["so02-misha"]},
       {"label": "Education", "value": "Graduate of the [[school-district|School District]]", "refs": ["fm19-graduate", "ss01-rankings"]},
-      {"label": "Friend", "value": "[[eina-tulle|Eina Tulle]], since their school days", "refs": ["fm08-friend", "fm15-recruits"]}
+      {"label": "Friend", "value": "[[eina-tulle|Eina Tulle]], since their school days", "refs": ["fm08-friend", "fm15-recruits"]},
+      {"label": "Printed as", "value": "{{small|*Misha Frot* (every volume but DanMachi 15)}}", "refs": ["fm08-friend", "so02-misha"]}
     ]
   }
 }
 ---
-**Misha Frot** is a human receptionist at the [[guild|Guild]] and the friend and coworker of [[eina-tulle|Eina Tulle]] since their school days.[@so02-misha, fm08-friend] She is short, at 150 celch, with peach-pink hair and a round, baby face, unusual among the Guild's receptionists.[@so02-misha] DanMachi 15 prints her surname *Frott*, the spelling the Japanese edition supports.[@fm15-recruits, fm15-drinks, fm08-misha-ja]
+**Misha Frott** is a human receptionist at the [[guild|Guild]] and the friend and coworker of [[eina-tulle|Eina Tulle]] since their school days.[@so02-misha, fm08-friend] She is short, at 150 celch, with peach-pink hair and a round, baby face, unusual among the Guild's receptionists.[@so02-misha] Her surname is *Frott*, the spelling of DanMachi 15, which the Japanese edition supports {{small|printed *Frot* in the other volumes}}.[@fm15-recruits, fm15-drinks, fm08-misha-ja, fm08-friend]
 
 ## Character
 

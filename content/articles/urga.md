@@ -41,7 +41,7 @@
 |---|---|
 | Sword Oratoria 1 | Tiona stabs a caterpillar, and half of Urga melts away in its acid.[@so01-acid] At Goibniu Familia's shop the smith who forged it, who used "enough adamantite to break a horse’s back", learns that it "melted".[@so01-melted] |
 | Sword Oratoria 2 | Tiona has Urga remade from scratch. "Urga, the second!" is a little thicker than the first and probably sharper.[@so02-remade, so02-second] |
-| Sword Oratoria 4 | A Durandal weapon shaped like Urga could not have been made in time for the expedition along with everyone else's, so Tiona trains with the Durandal sword Roland Blade, grumbling "This isn’t Urga!" (see [[desperate#durandal-weapons|Durandal weapons]]).[@so04-roland] |
+| Sword Oratoria 4 | A Durandal weapon shaped like Urga could not have been made in time for the expedition along with everyone else's, so Tiona trains with the Durandal sword Blade Roland, grumbling "This isn’t Urga!" (see [[desperate#durandal-weapons|Durandal weapons]]).[@so04-roland] |
 | Sword Oratoria 6 | Tiona has Urga fixed up at Goibniu Familia. Later, [[raul-nord|Raul]] is left carrying it to her, and complains that "her Urga almost broke my back".[@so06-repair, so06-raul, so06-back] |
 | Sword Oratoria 7 | Against the demi-spirit Gugalanna, Urga cracks, and then one of its blades shatters. Tiona fights on with it as a one-bladed greatsword (see [[corrupted-spirit#gugalanna|Gugalanna]]).[@so07-cracked, so07-broken] |
 | Sword Oratoria 10 | Facing a [[equipment#golem|golem]] made of adamantite, "just like her Urga", Tiona finds the attacks of her companions deflected.[@so10-adamantite] |

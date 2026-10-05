@@ -26,7 +26,7 @@
   }
 }
 ---
-**Nina Tulle** is a thirteen-year-old half-elf, a Level 2 student of the [[school-district|School District]]'s [[balder-class|Balder Class]] and the younger sister of [[eina-tulle|Eina Tulle]].[@fm19-nina] She chooses to become an adventurer and sets her sights on [[hestia-familia|Hestia Familia]].[@fm19-nina]
+**Nina Tulle** is a thirteen-year-old half-elf, a Level 2 student of the [[school-district|School District]]'s [[balder#balder-class|Balder Class]] and the younger sister of [[eina-tulle|Eina Tulle]].[@fm19-nina] She chooses to become an adventurer and sets her sights on [[hestia-familia|Hestia Familia]].[@fm19-nina]
 
 ## Magic
 

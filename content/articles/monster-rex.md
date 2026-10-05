@@ -58,7 +58,7 @@ Defeating a strong enemy such as a Monster Rex alone can be the great feat that 
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex defined; Aiz and Udaios. The Japanese edition (file c2ZU, paragraph 103) says two or more Levels above the Level estimated for each floor.
 [@fm04-dragons]: FM04 | Chapter 3: The Smith’s Situation | Infant dragons as upper-level bosses.
 [@fm05-goliath]: FM05 | | Floor 17, Great Wall of Sorrows, size and respawn interval.
-[@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it. Yen Press prints "more than seven meders tall".
+[@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it.
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.
 [@fm08-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Level 4 classification.
 [@fm13-amphisbaena]: FM13 | Chapter 2: The Prophetess of Tragedy | The Amphisbaena; "we still have another two weeks before it appears again!" The Japanese edition (file cTG, paragraph 238) has Aisha give the Guild's estimate of Level 6, the water terrain included, and judge Level 5 about right for its abilities as such.

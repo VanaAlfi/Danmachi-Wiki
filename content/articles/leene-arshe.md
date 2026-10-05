@@ -37,7 +37,7 @@ When Tiona asks the girls whom they like in Sword Oratoria 7, Leene shyly names 
 
 ## Leene and Bete
 
-Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of the party was caught by an [[irregular|Irregular]] and Bete used his magic [[magic#hati|Hati]] to burn everything around them; Leene was the only one of that group to survive.[@so08-hati] Bete kept scolding her as a worthless healer. Once, after he hurt his hand protecting her and the other lower-level members, she told him that this was the seventh time he had yelled at her, and that he had saved her seven times or more. She said she finally understood that his words were not insults: "I may be one of these weaklings, but…I can still heal you."[@so08-memory] Minor Myths and Legends 2 adds that she asked him to let her come with him, and he answered, "Do what you want."[@ss02-memory]
+Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of the party was caught by an [[irregular|Irregular]] and Bete used his magic [[magic#hati|Hati]] to burn everything around them; Leene was about the only one who saw him fight there and lived.[@so08-hati] Bete kept scolding her as a worthless healer. Once, after he hurt his hand protecting her and the other lower-level members, she told him that this was the seventh time he had yelled at her, and that he had saved her seven times or more. She said she finally understood that his words were not insults: "I may be one of these weaklings, but…I can still heal you."[@so08-memory] Minor Myths and Legends 2 adds that she asked him to let her come with him, and he answered, "Do what you want."[@ss02-memory]
 
 ## Death in Knossos
 
@@ -76,7 +76,7 @@ The rest of the Familia takes his scorn at face value, and Riveria notes these a
 [@so08-tiona]: SO08 | Chapter 1: Lonely Wolf | "Leene and the others—they’re dead."; "Leene liked you, you know?"
 [@so08-memory]: SO08 | Chapter 2: Did Someone Order a Wolf? | "That girl, Leene Arshe"; the human girl; "This is the seventh time you’ve yelled at me"; "I can still heal you."
 [@so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?" The Japanese edition (file c45H, paragraph 225) has Raul read Bete's last words to them as: even after you're reborn, don't lose again.
-[@so08-hati]: SO08 | Chapter 5: Battered Wolf | Five years before, the tail end of the party and an Irregular; Hati; Leene the only one who made it out alive.
+[@so08-hati]: SO08 | Chapter 5: Battered Wolf | Five years before, the tail end of the party and an Irregular; Hati. The Japanese edition (file c45H, paragraphs 697–700): some of the rear unit died, and of those who saw Bete fight at the rear face to face, Leene was about the only one still alive.
 [@so08-hunt]: SO08 | Chapter 3: Unshed Tears | Valletta's taunts; "She’d killed Leene and the others."
 [@so11-avenge]: SO11 | Chapter 1: Why I’ll Start Running, Too | "this is a battle to avenge Leene and the rest".
 [@so12-won]: SO12 | Chapter 8: A Heroes’ Chorus | "Leene, you guys…we won."

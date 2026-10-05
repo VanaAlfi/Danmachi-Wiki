@@ -170,7 +170,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson, and "the last hero your Familia left behind"; two lines earlier he says plain grandson, and the man who raised Bell is called his foster parent in Chapter 3. Yen Press prints "grandson".
 [@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Bell destroys the Black Goliath.
 [@mord.fm05-kidnap]: FM05 | Chapter 5: The Outlaws’ Party | Mord uses the invisibility of the item from Hermes to kidnap Hestia; the duel on the plateau.
-[@mord.fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | Bell uses Mord's sword to save him from the bugbears; Yen Press prints "greatsword" here, the Japanese (file part0027, paragraph 107) says longsword.
+[@mord.fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | Bell uses Mord's longsword to save him from the bugbears (the Japanese edition, file part0027, paragraph 107).
 [@fm06-wargame]: FM06 | Chapter 5: Our War Game | Bell defeats Hyacinthus.
 [@fm06-training]: FM06 | | Training with Aiz and Tiona.
 [@fm07-level3]: FM07 | Chapter 1: Smooth Sailing? | Level 3 announced.
@@ -206,7 +206,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@firebolt.fm02-grimoire]: FM02 | Chapter 4: Divine Wine | The grimoire; single use.
 [@firebolt.fm02-minddown]: FM02 | Chapter 4: Divine Wine | Nahza explains Mind Down.
 [@firebolt.fm03-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Lilly on Swift-Strike Magic; growth with use.
-[@firebolt.fm03-ja-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 569 and 591): Bell's narration says Firebolt has none of the incantation, the charge-up, that magic normally has; Lilly's praise is of its activation speed and bolt speed and, above all, its growth. The Japanese has Lilly say nothing about a missing spell; Yen Press prints "No spell, lightning speed".
+[@firebolt.fm03-ja-growth]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 569 and 591): Bell's narration says Firebolt has none of the incantation, the charge-up, that magic normally has; Lilly's praise is of its activation speed and bolt speed and, above all, its growth.
 [@firebolt.fm03-minotaur]: FM03 | Chapter 5: A Hero’s Desire | Too weak against the Minotaur's hide; fired into the knife wound.
 [@firebolt.fm04-argonaut]: FM04 | Chapter 3: The Smith’s Situation | Charged Firebolt against an infant dragon.
 [@firebolt.fm06-aro]: FM06 | Chapter 5: Our War Game | Aro Zephyros overpowers Firebolt.

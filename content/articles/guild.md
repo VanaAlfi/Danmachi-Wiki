@@ -44,13 +44,13 @@
 
 Receptionists are chosen partly for their looks, because their rapport with adventurers affects morale and the flow of magic stones. Advisers are discouraged from growing close to adventurers, since repeated deaths take a toll on staff.[@fm08-guild]
 
-Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi]
+Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi] The Japanese writes her name {{ja|ソフィ}}, the name of the elf receptionist printed *Sophie* in DanMachi 15.[@so09-sofi-ja]
 
 [[eina-tulle|Eina]]'s boss is Chief Rehmer, a chienthrope, who appears in the flashback of DanMachi 15; in DanMachi 19 he brings her to the meeting of Royman and the Guild's leadership on the second floor of the headquarters, where the Shaft plan is discussed.[@fm15-rehmer, fm19-rehmer]
 
 ## Headquarters
 
-The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Yen Press's DanMachi 1 prints West Main Street for it, but the Japanese original of that volume agrees with Sword Oratoria 1 and DanMachi 8.[@fm01-west, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
+The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
 
 The building is called the **Pantheon**, "temple of the gods": it is built of white pillars, with monuments in a broad front court that greet adventurers at the doors.[@so01-pantheon] Astrea Record 1 calls it "a grand construction meant to resemble the Pantheon", one of the city centre's primary landmarks, and has the top adventurers of the Familias meet there in a large conference room seating more than a hundred.[@ar01-pantheon] Its crowds of adventurers can rival those on the street outside.[@so02-crowds] In DanMachi 8 the soldiers captured from Rakia are held in chambers deep inside it.[@fm08-chambers]
 
@@ -69,7 +69,6 @@ Beneath the headquarters lies the **Chamber of Prayers** ({{ja|祈禱の間}}, *
 | DanMachi 20 | Royman signs the [[school-district|School District]]'s proposal to cooperate on the shaft project.[@fm20-shaft] |
 
 [@fm01-guild]: FM01 | | The Guild's functions; the Exchange; Babel.
-[@fm01-west]: FM01 | Chapter 5: The Goddess’s Prank | Yen Press prints the headquarters on West Main: "The Guild headquarters is here, too".
 [@fm01-ja-hq]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c36N, paragraphs 130-131): the tavern stands along West Main, but the street Bell has walked onto after leaving the Guild, the one the headquarters faces and where most passers-by are adventurers, is Northwest Main.
 [@fm01-eina]: FM01 | | Eina as Bell's adviser.
 [@fm02-privacy]: FM02 | | Level and Familia reported to the Guild.
@@ -110,3 +109,4 @@ Beneath the headquarters lies the **Chamber of Prayers** ({{ja|祈禱の間}}, *
 [@so09-sofi]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "a man—a god—with orange hair talking to a receptionist"; "Were you lonely without me, Sofi?!"; "a lovely elf gives me the cold shoulder".
 [@fm01-guild-ja]: FM01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
 [@chamber-of-prayers.fm13-ja]: FM13 | | The Japanese edition names it the chamber of prayer.
+[@so09-sofi-ja]: SO09 | | The Japanese edition (file c4J4, paragraphs 70 and 75) writes the receptionist's name in katakana; DanMachi 15's Japanese writes the same name for the elf receptionist printed Sophie (file c325, paragraphs 319 and 323).

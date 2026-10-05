@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|ルドラ・ファミリア}}", "refs": ["fm14-rudra-familia-ja"]},
       {"label": "Deity", "value": "Rudra", "refs": ["ar02-rudra", "fm14-rudra"]},
       {"label": "Allegiance", "value": "[[evils|The Evils]]", "refs": ["fm13-jura", "fc01-final"]},
-      {"label": "Known member", "value": "Jura Harma, a tamer", "refs": ["fm13-jura"]},
+      {"label": "Known member", "value": "Jura Harma ({{ja|ジュラ・ハルマー}}, read *Jura Harumā*), a tamer titled *Slaver Cat* ({{ja|奴隷猫}}, written *slave cat*)", "refs": ["fm13-jura", "fm13-jura-ja"]},
       {"label": "Enemy", "value": "[[astrea-familia|Astrea Familia]]", "refs": ["fm13-feud", "fm14-ambush"]},
       {"label": "Fate", "value": "Destroyed by [[lyu-leon|Lyu Leon]]; Rudra to be sent back to Heaven; Jura killed in DanMachi 13", "refs": ["fm14-revenge", "fm13-death"]}
     ]
@@ -89,3 +89,4 @@ After the battle, the story that spreads is that Jura Harma and other survivors 
 [@fm14-bors]: FM14 | Epilogue: You’ll Be Back II | "It was those pieces of shit from Rudra Familia!"; "the prize money for Jura Harma".
 [@so12-dionysus]: SO12 | Chapter 8: A Heroes’ Chorus | Dionysus: "after her and Rudra’s followers went and killed each other, she became a nonproblem."
 [@fm14-rudra-familia-ja]: FM14 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@fm13-jura-ja]: FM13 | | The Japanese edition (file c2GK, paragraphs 182 and 186) prints his name in katakana, read Jura Harumā, and writes his title in kanji meaning slave cat, with the reading Slaver Cat.

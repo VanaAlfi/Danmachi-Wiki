@@ -34,7 +34,7 @@ DanMachi 1 introduces Eina with long, pointed ears, "transparent emerald eyes" a
 
 ## Background
 
-Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, [[maris-hackard|Maris]], and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frot]] is a friend from school.[@fm04-misha, fm15-misha]
+Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, [[maris-hackard|Maris]], and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frott]] is a friend from school.[@fm04-misha, fm15-misha]
 
 ## Bell's adviser
 
@@ -60,10 +60,10 @@ In DanMachi 3 she files a report asking the Guild to recommend that [[soma-famil
 [@fm01-look]: FM01 | Chapter 1: World, Reality, and Desire | Pointed ears, emerald eyes, mid-length brown hair; the Guild uniform.
 [@fm02-eina]: FM02 | | Nineteen; Bell's Status; the vambrace; Aiz.
 [@fm02-glyphs]: FM02 | Chapter 1: Date, Then Supporter | Simple hieroglyphs only; the complex characters defeat her. The Japanese edition (file c5Z, paragraphs 138–139) says Hestia had put a protection on his Status, which Eina mistook for the goddess's own handwriting.
-[@fm03-soma]: FM03 | Chapter 4: The Meaning of Adventure | The Soma Familia investigation.
-[@fm03-ja-soma]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c37K, paragraphs 115, 125 to 127 and 149 to 151): the paper headed application says Soma Familia should be advised to restrain its operations; Eina thinks of the report as a kind of tip-off and admits that out of concern for Bell she is deliberately trying to trap Soma Familia, and she expects that, if it passes upward, Soma will be made to deal with its Familia management, with some penalty almost certain. Yen Press prints an application to formally investigate Soma Familia's internal affairs.
+[@fm03-soma]: FM03 | Chapter 4: The Meaning of Adventure | Eina's report on Soma Familia.
+[@fm03-ja-soma]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c37K, paragraphs 115, 125 to 127 and 149 to 151): the paper headed application says Soma Familia should be advised to restrain its operations; Eina thinks of the report as a kind of tip-off and admits that out of concern for Bell she is deliberately trying to trap Soma Familia, and she expects that, if it passes upward, Soma will be made to deal with its Familia management, with some penalty almost certain.
 [@fm04-eina]: FM04 | | Luck; salamander wool.
-[@fm04-misha]: FM04 | Prologue: Fastest Boy in the Alleys | Eina and Misha Frot.
+[@fm04-misha]: FM04 | Prologue: Fastest Boy in the Alleys | Eina and Misha Frott.
 [@fm08-eina]: FM08 | | Nineteen; fifth Guild year; the two proposals.
 [@fm11-bracelet]: FM11 | Chapter 3: The Night Before Battle | Hermes's bracelet.
 [@fm11-eina]: FM11 | | Eina and Bell after Asterios.

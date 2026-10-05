@@ -59,6 +59,8 @@ Her spells come in three kinds, attack, defence and healing, each at three level
 
 > Harbinger of the end, white snow. Gust before the twilight. Fading light, freezing land. Blow with the power of the third harsh winter—My name is Alf!
 
+In Sword Oratoria 1 the Japanese chant is {{ja|終末の前触れよ、白き雪よ。黄昏を前に風を巻け|shūmatsu no maebure yo, shiroki yuki yo. tasogare o mae ni uzu o make}}, *O harbinger of the end, O white snow: before the twilight, whirl*, and {{ja|閉ざされる光、凍てつく大地。吹雪け、三度の厳冬──我が名はアールヴ|tozasareru hikari, itetsuku daichi. fubuke, mitabi no gentō — waga na wa Āruvu}}, *light shut away, the frozen earth; blow, thrice-harsh winter — my name is Alf*: the whirl is said *uzu* and written *wind*, and the light is *shut away*.[@wynn-fimbulvetr.so01-ja]
+
 {{nocite}} **Notes and other printed variants**
 
 {{nocite}} The chant is two printed pieces long. 
@@ -89,7 +91,7 @@ Her Status sheet in Sword Oratoria 6 lists all nine by name; see [[#riveria-nine
 #### Effects {#wynn-fimbulvetr-effects}
 
 - Lefiya's summoned cast in Sword Oratoria 1 freezes three giant flower monsters solid and turns the street around them to ice.[@wynn-fimbulvetr.so01-lefiya]
-- In Sword Oratoria 6 Riveria narrows it and extends it into a bridge of sea ice several kirlos long, by focusing an immense amount of Mind.[@wynn-fimbulvetr.so06-bridge]
+- In Sword Oratoria 6 Riveria narrows it and extends it into a long bridge of sea ice, about five meders wide, running straight to a ship off the coast, by focusing an immense amount of Mind.[@wynn-fimbulvetr.so06-bridge]
 - In Sword Oratoria 14's founding-era story she uses it to shelter the party in a cave of ice while a cavern collapses, holding it until rescue and going beyond Mind Down.[@wynn-fimbulvetr.so14-cave]
 
 {{nocite}} Notable uses and open questions for Wynn Fimbulvetr are on the combined page: [[magic#wynn-fimbulvetr|Magic § Wynn Fimbulvetr]].
@@ -114,6 +116,8 @@ The usual printed form is *Rea Laevateinn*. In Sword Oratoria 7 Riveria herself 
 **All printed Rea Laevateinn lines in this concatenated cast; not asserted to be a standalone complete chant (SO04).**[@rea-laevateinn.so04-concat]
 
 > A blaze shall soon descend. Approaching flames of war from which this is no escape. Battle horns blaring on high, all atrocities and strife shall be engulfed. Come crimson pyre, merciless inferno. Become hellfire. Purge the battlefield, end the war. Incinerate, sword of Surtr—My name is Alf!!
+
+Sword Oratoria 1 prints two lines of the chant; in the Japanese they are {{ja|汝は業火の化身なり|nanji wa gōka no keshin nari}}, *thou art the incarnation of hellfire*, and {{ja|ことごとくを一掃し、大いなる戦乱に幕引きを|kotogotoku o issō shi, ōinaru senran ni makuhiki o}}, *sweep everything away and bring the curtain down on the great war*: the first line states that thou *art* the incarnation, where the print has *become*.[@rea-laevateinn.so01-ja]
 
 {{nocite}} **Notes and other printed variants**
 
@@ -181,7 +185,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 #### Effects {#via-shilheim-effects}
 
 - **A dome over a group.** In Sword Oratoria 4 it surrounds all thirteen members of the party, Riveria included.[@via-shilheim.so04-cast] In Sword Oratoria 10 it shields unconscious townspeople from the black [[minotaur|minotaur]]'s lightning while the street around them is destroyed.[@via-shilheim.so10-city]
-- **Held in readiness.** In the Knossos assault of Sword Oratoria 10 Riveria keeps the spell on standby with a magic circle five meders across in radius; her elves run in formation inside it, and she releases the barrier the moment an enemy volley comes, protecting all eleven of them.[@via-shilheim.so10-standby, via-shilheim.so10-release]
+- **Held in readiness.** In the Knossos assault of Sword Oratoria 10 Riveria keeps the spell on standby with a magic circle about five meders in radius; her elves run in formation inside it, and she releases the barrier the moment an enemy volley comes, protecting all eleven of them.[@via-shilheim.so10-standby, via-shilheim.so10-release]
 
 #### Limits {#via-shilheim-limits}
 
@@ -232,7 +236,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 #### Incantation {#luna-aldis-incantation}
 
-Only the end is printed: "My name is Alf", then the name, "Luna Aldis!"[@luna-aldis.so12-cast] Lefiya had paused this chant partway to fire [[magic#arcs-ray|Arcs Ray]] from standby with her Skill Double Cannon, then picked it up again.[@luna-aldis.so12-cast]
+Only the end is printed: "My name is Alf", then the name, "Luna Aldis!"[@luna-aldis.so12-cast] Lefiya had paused this chant partway to fire [[magic#arcs-ray|Arcs Ray]] from standby with her Skill Double Canon, then picked it up again.[@luna-aldis.so12-cast]
 
 #### Effect {#luna-aldis-effect}
 
@@ -328,7 +332,7 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@wynn-fimbulvetr.so01-riveria]: SO01 | Chapter 2: Dungeon Confusion | Riveria's chant in two pieces; release.
 [@wynn-fimbulvetr.so01-lefiya]: SO01 | Chapter 5: To Battle | Summoned through Elf Ring; three monsters frozen.
 [@wynn-fimbulvetr.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; nine spells; "advent of the end"; ice to flame.
-[@wynn-fimbulvetr.so06-bridge]: SO06 | | Bridge of sea ice; immense Mind.
+[@wynn-fimbulvetr.so06-bridge]: SO06 | | Bridge of sea ice; immense Mind. The Japanese edition (file c6TU, paragraphs 130–131) calls it a long bridge of ice about five meders wide, running straight to a large ship off the coast, and gives no length.
 [@wynn-fimbulvetr.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | First cast; "advent of the end—My name is Alf!"; knights frozen. The Japanese edition (file part0020, paragraph 375; part0023, paragraph 51; part0025, paragraph 45) ends the first and second casts with my name is Alf and the third, chained cast with advent of the end.
 [@wynn-fimbulvetr.ar01-alfia]: AR01 | | Riveria's chant against Alfia, cancelled by Ataraxia. The Japanese edition (file c67J, paragraph 124) ends the cast with my name is Alf.
 [@wynn-fimbulvetr.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
@@ -344,7 +348,7 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@via-shilheim.so04-shattered]: SO04 | Last Chapter: To Adventure | Fire Storm shatters the barrier; Gareth shields the party.
 [@via-shilheim.so04-residue]: SO04 | Last Chapter: To Adventure | The spirit absorbs the barrier's residue.
 [@via-shilheim.so10-city]: SO10 | Chapter 2: Someone Named Fool | "Riveria, the barrier!"; townspeople shielded; others hit.
-[@via-shilheim.so10-standby]: SO10 | Chapter 5: Brave Soul! | Last line; standby; five-meder radius.
+[@via-shilheim.so10-standby]: SO10 | Chapter 5: Brave Soul! | Last line; standby; a radius of about five meders (the Japanese edition, file c5XT, paragraph 13).
 [@via-shilheim.so10-release]: SO10 | Chapter 5: Brave Soul! | Released to stop a volley; eleven elves.
 [@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.
 [@via-shilheim.fm10-smoke]: FM10 | Chapter 10: The Fool | Kept up because the smoke might be poisonous.
@@ -366,3 +370,5 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@so05-rishena]: SO05 | Interlude: Flip Side of the Compromise | Lefiya: "All our nobles are descended from Lady Celdia’s younger sister Lady Rishena! Including our very own Lady Riveria!"; Alicia: "Lady Celdia is an eternal saint!"
 [@fm05-riveria-ja]: FM05 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning nine-magic princess, with the reading Nine Hell; the infobox gives the printed name and the kanji.
 [@fm06-reveria-ja]: FM06 | | The Japanese edition gives her usual name in this passage.
+[@rea-laevateinn.so01-ja]: SO01 | | The Japanese edition (file c3K, paragraphs 87 and 88) prints these two lines of the chant.
+[@wynn-fimbulvetr.so01-ja]: SO01 | | The Japanese edition (file cX0, paragraphs 642 and 645) prints the chant in two pieces; the whirl is said uzu over the kanji for wind.

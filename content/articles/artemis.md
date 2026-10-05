@@ -6,12 +6,9 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The azure-haired goddess of chastity and an archer, counted with Hestia and Athena among the virgin goddesses; her homeless, all-female Familia wanders the continent on a perpetual hunt, and in Astrea Record 3 she brings it to Orario to fight in the Great Conflict.",
-  "aliases": ["Lady Artemis", "Artemis Familia"],
+  "aliases": ["Lady Artemis"],
   "spoilers": "DanMachi Vols. 2, 17, 18, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 1",
-  "related": ["astrea", "hestia", "hermes", "great-conflict", "evils", "freya"],
-  "sections": [
-    {"anchor": "artemis-familia", "title": "Artemis Familia", "summary": "Artemis's homeless, all-female Familia that wanders the continent on a perpetual hunt, with upper-class adventurers among its members; in Astrea Record 3 it scales Orario's walls to fight in the Great Conflict.", "aliases": ["Rethusa", "Lanta", "Lante"]}
-  ],
+  "related": ["artemis-familia", "astrea", "hestia", "hermes", "great-conflict", "evils", "freya"],
   "infobox": {
     "title": "Artemis",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -22,8 +19,7 @@
       {"label": "Appearance", "value": "Azure hair", "refs": ["ar03-arrival", "ar03-hermes"]},
       {"label": "Weapon", "value": "Bow and arrows", "refs": ["ar03-arrival"]},
       {"section": "Familia"},
-      {"label": "Familia", "value": "[[#artemis-familia|Artemis Familia]], a wandering, all-female band of hunters", "refs": ["ar03-familia", "ar03-hermes"]},
-      {"label": "Captain", "value": "Rethusa", "refs": ["ar03-captain"]}
+      {"label": "Familia", "value": "[[artemis-familia|Artemis Familia]], a wandering, all-female band of hunters", "refs": ["ar03-familia", "ar03-hermes"]}
     ]
   }
 }
@@ -41,13 +37,10 @@
 
 ## Artemis Familia {#artemis-familia}
 
-**Artemis Familia** is "A familia without a home, who wandered the continent on a perpetual hunt", an all-female band. It is not officially part of Orario, but it counts upper-class adventurers among its members, and the goddess herself is "a formidable fighter to be reckoned with".[@ar03-familia, ar03-hermes] Its captain is Rethusa; Lanta is another member.[@ar03-captain]
-
-In Astrea Record 3, the moment Artemis hears of the [[great-conflict|Great Conflict]] she brings her Familia to Orario rather than help elsewhere, after a march of five days and five nights: "If Orario falls, the mortal world is done for." They scale the walls with a rope and capture the eastern walls. Artemis shoots an [[evils|Evils]] cultist who is raising the alarm, and frowns when he explodes; [[hermes|Hermes]], seeing the goddess and her band on the walls, greets her: "Artemis, you came!"[@ar03-arrival, ar03-familia, ar03-hermes]
+Artemis leads a homeless, all-female Familia that wanders the continent on a perpetual hunt, and she is "a formidable fighter to be reckoned with" herself. In Astrea Record 3, the moment she hears of the [[great-conflict|Great Conflict]], she brings it to Orario, where she shoots an [[evils|Evils]] cultist who is raising the alarm and [[hermes|Hermes]] greets her: "Artemis, you came!"[@ar03-familia, ar03-arrival, ar03-hermes] Her Familia is described on [[artemis-familia|Artemis Familia]].
 
 [@ar03-arrival]: AR03 | Chapter 6: The Nameless Heroes | "Lady Artemis! We’ve captured the eastern walls!"; "This azure-haired beauty was Artemis, goddess of chastity."; "an Evils cultist pointed in her direction and started making a ruckus. The goddess loosed an arrow, which sailed through the air and struck the alarm raiser, who promptly exploded."; "Artemis frowned. She hadn’t known that would happen."; "After marching for five days and five nights, I thought we would collapse!"; "If Orario falls, the mortal world is done for."; "Artemis continued shooting arrows even while conversing."
 [@ar03-familia]: AR03 | Chapter 6: The Nameless Heroes | "This was Artemis Familia. A familia without a home, who wandered the continent on a perpetual hunt. Though not officially part of Orario, they still counted upper-class adventurers among their number, and even the goddess herself was a formidable fighter to be reckoned with."; "The moment she heard news of the Great Conflict, Artemis had made the decision to come here, to Orario, instead of assisting elsewhere. Having scaled the massive walls with a rope".
-[@ar03-captain]: AR03 | Chapter 6: The Nameless Heroes | "Wait here until Lanta arrives."; "Once Lanta returns from exterminating the monsters below, we’ll move out. Rethusa, decide who’ll join the hunting party and who’ll stay here!"; "Artemis’s captain returned a vigorous nod."
 [@ar03-hermes]: AR03 | Chapter 6: The Nameless Heroes | "Artemis, you came!"; "seeing the azure-haired goddess and her all-female band conquering the city walls".
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "I haven’t the faintest idea what you’re talking about, Astrea."; "…Are you really a goddess of justice?". The Japanese edition (file c8ZY, paragraphs 195 and 198) has Erebus ask whether she is a relative of the militant Artemis, and Astrea answer that Artemis is far purer and kinder.
 [@ar01-loki]: AR01 | | Printed heading "Chapter 3: Busy People" (not in the evidence map): "Loki groaned"; "You remind me of Artemis, ’cept at least she has the decency to get violent once in a while."

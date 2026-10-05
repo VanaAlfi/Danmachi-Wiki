@@ -10,7 +10,7 @@
   "spoilers": "DanMachi Vols. 1, 4, 6, 8–12, 18, 20, Sword Oratoria Vols. 1, 2, 5, 9, 11, 12 and Astrea Record Vols. 1–3",
   "related": ["ganesha-familia", "shakti-varma", "monsterphilia", "ouranos", "xenos", "hestia", "denatus", "war-game"],
   "sections": [
-    {"anchor": "i-am-ganesha", "title": "I Am Ganesha", "summary": "Ganesha Familia's home in south-west Orario: a giant cross-legged statue of a man in an elephant mask, entered through its crotch, which Ganesha built with his Familia's savings. Also printed Aiam Ganesha and Iam Ganesha.", "aliases": ["Iam Ganesha", "Aiam Ganesha"]}
+    {"anchor": "iam-ganesha", "title": "Iam Ganesha", "summary": "Ganesha Familia's home in south-west Orario: a giant cross-legged statue of a man in an elephant mask, entered through its crotch, which Ganesha built with his Familia's savings. Also printed Aiam Ganesha and I Am Ganesha.", "aliases": ["I Am Ganesha", "Aiam Ganesha"], "former_anchors": ["i-am-ganesha"]}
   ],
   "infobox": {
     "title": "Ganesha",
@@ -21,7 +21,7 @@
       {"label": "Title", "value": "God of the Masses (also printed Lord of the Masses and Lord of Hosts)", "refs": ["fm01-masses", "fm10-lord", "so05-oath"]},
       {"label": "Appearance", "value": "Dark-skinned and muscular, with long black hair; wears an elephant mask", "refs": ["fm08-looks", "fm01-statue"]},
       {"label": "Familia", "value": "[[ganesha-familia|Ganesha Familia]], which acts as the city watch", "refs": ["fm18-watch"]},
-      {"label": "Home", "value": "[[#i-am-ganesha|I Am Ganesha]], a giant statue in south-west Orario", "refs": ["fm10-home", "fm18-watch"]},
+      {"label": "Home", "value": "[[#iam-ganesha|Iam Ganesha]], a giant statue in south-west Orario", "refs": ["fm10-home", "fm18-watch"]},
       {"label": "Hosts", "value": "The [[monsterphilia|Monsterphilia]]; Celebrations of the Gods", "refs": ["fm01-celebration", "fm10-xenos"]},
       {"label": "Catchphrase", "value": "\"I am Ganesha!\"", "refs": ["fm01-celebration", "ar01-shout"]}
     ]
@@ -51,11 +51,11 @@ Behind the noise he can be serious. When the Monsterphilia's monsters escape he 
 
 In the Japanese originals of DanMachi 1, 8 and 18 the title is {{ja|群衆の主|Gunshū no Aruji}}, literally *lord of the masses*, written with the reading *Ganesha*.[@fm01-ja-title, fm08-ja-title, fm18-ja-home]
 
-## I Am Ganesha {#i-am-ganesha}
+## Iam Ganesha {#iam-ganesha}
 
 Ganesha Familia's home stands in the south-west of Orario, near the trading post. A tall white fence surrounds open grounds, and in the centre sits a giant statue of a man in an elephant mask, with his arms and legs crossed.[@fm10-home] Ganesha built it with his Familia's savings; its members tear up as they pass in and out, and the entrance is in the statue's crotch.[@fm01-statue, fm18-watch] Inside are a great hall and, in Sword Oratoria 1, a ballroom for the gods' parties.[@fm01-celebration, so01-banquet] The grounds are a pasture where tamers break monsters from the Dungeon. Ganesha spends his spare moments there playing with them "To find the meaning of true friendship!", and an infant dragon he is scratching nearly bites him.[@fm10-pasture, fm10-dragon] In Astrea Record 3, during the [[great-conflict|Great Conflict]], his home is one of five strongholds where the city's residents shelter.[@ar03-strongholds]
 
-The name is printed *Aiam Ganesha* in DanMachi 1, *Iam Ganesha* in DanMachi 10 and 11 and Astrea Record 3, and *I Am Ganesha* in DanMachi 18.[@fm01-statue, fm10-home, fm11-shakti, ar03-iam, fm18-watch] The Japanese originals of DanMachi 1 and 18 write the English words "I am Ganesha" in katakana, his own catchphrase: DanMachi 18 as {{ja|アイ・アム・ガネーシャ|Ai Amu Ganēsha}}, DanMachi 1 without the first dot; this page uses the DanMachi 18 form.[@fm01-ja-home, fm18-ja-home]
+The name is printed *Iam Ganesha* in DanMachi 10 and 11 and Astrea Record 3, the most frequent form, which this page uses; DanMachi 1 prints *Aiam Ganesha* and DanMachi 18 *I Am Ganesha*.[@fm01-statue, fm10-home, fm11-shakti, ar03-iam, fm18-watch] The Japanese originals of DanMachi 1 and 18 write the English words "I am Ganesha" in katakana, his own catchphrase: DanMachi 18 as {{ja|アイ・アム・ガネーシャ|Ai Amu Ganēsha}}, DanMachi 1 without the first dot.[@fm01-ja-home, fm18-ja-home]
 
 ## Parties and the Denatus
 
@@ -87,7 +87,7 @@ In DanMachi 8, while Ganesha Familia is called out against Rakia, Ganesha rides 
 
 In Astrea Record, set in Orario's dark age, his Familia and [[astrea-familia|Astrea Familia]] keep order in the city, "Following the will of their god, the Lord of Hosts".[@ar01-watch] Day after day he goes out into the streets to raise the townsfolk's spirits with his voice; people tell him to shut up, then thank him.[@ar01-shout] When the [[evils|Evils]] attack the city he stands "at the forefront of battle, inspiring the people", and Hermes says he is taking "a leaf out of Ganesha’s book".[@ar01-front] Sword Oratoria 9's recollections of the same era show him buying a parade float to cheer up frightened children, to Loki's dismay at the cost, and greeting [[aiz-wallenstein|Aiz]], "the rumored Doll Princess".[@so09-float, so09-evils]
 
-In Astrea Record 2 he wails beside Astrea that he has failed his children: "That I, the god of the masses, can do nothing but scream and holler!!"[@ar02-failed] When Shakti, who has lost her sister Ardee, asks him whether she was wrong, he tells her that she "chose a future for these people over honoring the fallen".[@ar02-shakti] Later, when she says she cannot cry yet, he weeps loudly for Ardee in her place; when she then says the rain is coming, he agrees and turns his back to her.[@ar02-ardee] In Astrea Record 3 he watches the fighting from the battlements of his home and shouts "Never give up!!" during the final battle.[@ar03-battlements, ar03-cheer] In Sword Oratoria 12, when Freya remarks that it has been a while since a battle involving all of Orario, he answers: "Yes, ever since the conflict with the Evils."[@so12-evils]
+In Astrea Record 2 he wails beside Astrea that he has failed his children: "That I, the god of the masses, can do nothing but scream and holler!!"[@ar02-failed] When Shakti, who has lost her sister Adi {{small|printed *Ardee* in Astrea Record 1 and 2}}, asks him whether she was wrong, he tells her that she "chose a future for these people over honoring the fallen".[@ar02-shakti] Later, when she says she cannot cry yet, he weeps loudly for Adi in her place; when she then says the rain is coming, he agrees and turns his back to her.[@ar02-ardee] In Astrea Record 3 he watches the fighting from the battlements of his home and shouts "Never give up!!" during the final battle.[@ar03-battlements, ar03-cheer] In Sword Oratoria 12, when Freya remarks that it has been a while since a battle involving all of Orario, he answers: "Yes, ever since the conflict with the Evils."[@so12-evils]
 
 [@fm01-statue]: FM01 | Chapter 4: That’s Why I Want to Help | "the handsome, dark-skinned god Ganesha"; "burned through his Familia’s savings to build this monstrosity"; "This statue, Aiam Ganesha, was the home base of Ganesha Familia."; "Most of them teared up a bit as they went in and out"; "The entrance to the building was in the crotch of the statue."
 [@fm01-celebration]: FM01 | Chapter 4: That’s Why I Want to Help | Ganesha’s "Celebration of the Gods"; "I am Ganesha! I am overjoyed at the attendance of this Celebration!"; the yearly festival "only three days away"; "wearing an elephant mask and dressed to match his statue"; "The great hall was only lightly decorated"; "The gods in attendance by and large ignored his greeting"; "he was able to send an invitation to every single god and goddess within the city wall".

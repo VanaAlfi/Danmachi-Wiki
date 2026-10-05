@@ -63,7 +63,7 @@ More than fifty years earlier he was the only follower of a goddess. They loved 
 
 Unable to marry after losing his goddess, he adopted every child with nowhere to go: orphans of a plague and abandoned children. Rina and his sons are not related to him by blood.[@fm08-story] Bell had noticed the odd age gap, and that no one of an age to be their mother lived in the house.[@fm08-rina] Kam asks Bell to protect his goddess.[@fm08-story] To Aiz he says, "You remind me of myself", and prays that someone will fill the hole in her heart.[@so09-talk]
 
-On his deathbed he tells Hestia that meeting her brought back memories of his goddess, Brigit. Hestia knows her: "Blond hair, deep-red eyes", a friend from Tenkai. Then, taking his hand, Hestia speaks in a different voice, as she imagines Brigit would: "Thank you for your love." His last words are "Lady Brigit, I…I, too."[@fm08-death] Sword Oratoria 9 says that in his final moments he was saved by what remained of his goddess, and passed in peace.[@so09-death]
+On his deathbed he tells Hestia that meeting her brought back memories of his goddess, Brigit ({{ja|ブリギッド|Burigiddo}}).[@fm08-brigit-ja] Hestia knows her: "Blond hair, deep-red eyes", a friend from Tenkai. Then, taking his hand, Hestia speaks in a different voice, as she imagines Brigit would: "Thank you for your love." His last words are "Lady Brigit, I…I, too."[@fm08-death] Sword Oratoria 9 says that in his final moments he was saved by what remained of his goddess, and passed in peace.[@so09-death]
 
 ## Open questions
 
@@ -92,3 +92,4 @@ On his deathbed he tells Hestia that meeting her brought back memories of his go
 [@ss02-home]: SS02 | | Story "After Returning Home" (not in the evidence map): "Aiz had just returned from her trip to Edas Village"; "Lefiya didn’t know about Edas Village".
 [@fm18-caldera]: FM18 | Chapter 8: The Great Familia War | "This caldera is on the opposite end of the mountain range in relation to Edas Village".
 [@fm20-dragon]: FM20 | Chapter 3: The World, The Festival, and Reality | "in Edas village where the dragon’s scale was worshipped".
+[@fm08-brigit-ja]: FM08 | | The Japanese edition writes her name only as a reading, set over the kanji for patron god (file part0030, paragraph 1347) and for goddess (paragraph 1420); Sword Oratoria 9 sets it over the kanji for love (file c5P3, paragraph 104).

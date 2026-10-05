@@ -26,7 +26,7 @@
   }
 }
 ---
-**Hephaistos Familia** is the Familia of [[hephaistos|Hephaistos]], goddess of the forge: "Masters of the Forge", the largest group of smiths and artisans in [[orario|Orario]].[@fm04-masters, so03-largest] Its name is known around the world, and its emblem is printed Ἥφαιστος.[@so09-logo, fm02-babel] Its High Smiths are masters of their craft and also stronger in battle than most high-level adventurers.[@so03-largest] The captain is [[tsubaki|Tsubaki Collbrande]], a Level 5 master smith.[@fm08-tsubaki, fm14-level] The goddess herself is described on [[hephaistos|her own page]].
+**Hephaistos Familia** is the Familia of [[hephaistos|Hephaistos]], goddess of the forge: "Masters of the Forge", the largest group of smiths and artisans in [[orario|Orario]].[@fm04-masters, so03-largest] Its name is known around the world, and its emblem is printed Ἥφαιστος.[@so09-logo, fm02-babel] Its High Smiths ({{ja|上級鍛冶師}}, written *upper-class smiths*)[@so01-highsmith-ja] are masters of their craft and also stronger in battle than most high-level adventurers.[@so03-largest] The captain is [[tsubaki|Tsubaki Collbrande]], a Level 5 master smith.[@fm08-tsubaki, fm14-level] The goddess herself is described on [[hephaistos|her own page]].
 
 ## Shops and home
 
@@ -35,9 +35,6 @@
 - **Home.** Its home is the great foundry Vulca's Forge, in the city's northeastern industrial district.[@fm18-home]
 - **Workshops.** The Familia gives each member a workshop of their own.[@fm04-workshop]
 - **Part-time staff.** [[hestia|Hestia]], who lived with the Familia after coming down to the Lower World, later works part-time at its Babel branch.[@fm04-masters, fm02-hestia]
-
-> [!NOTE] Main store or branch?
-> Yen Press's DanMachi 1 prints "main store" for the Northwest Main Street store, but the Japanese originals of DanMachi 1 and 8 both say branch, as DanMachi 10 and 15, Sword Oratoria 10 and DanMachi 18 do in English; DanMachi 18 names "the branch stores in Babel and on Adventurers Way" as separate from the home.[@fm01-store, fm01-ja-store, fm08-ja-store, fm10-branch, fm15-branch, so10-branch, fm18-home]
 
 ## Smiths
 
@@ -63,21 +60,21 @@
 | Astrea Record 3 | Its smiths support Freya Familia with [[magic-sword|magic swords]], and their bombardment holds back the [[evils|Evils]] at the barricades.[@ar03-swords] |
 | Sword Oratoria 1 | [[bete-loga|Bete]]'s boots [[equipment#frosvirt|Frosvirt]] are a second-tier Superior made by the Familia.[@so01-frosvirt] |
 | Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Hephaistos offers about twenty High Smiths, Tsubaki included, and ten smiths travel with the fifteen Loki Familia adventurers, split between the expedition's two parties, with Tsubaki in the second.[@so03-largest, so04-expedition, so04-twenty] By agreement, Loki Familia hands over most of the drop items from the depths, including the [[monsters#valgang-dragon|valgang-dragon]]'s fangs and scales.[@so05-drops] On the eighteenth floor the smiths of the expedition say they saw Welf when he was carried in.[@fm05-welf, fm05-ja-welf] |
-| DanMachi 8 | The Familia helps catch [[ares#kingdom-of-rakia|Rakia]]'s infiltrators in the city; they surrender to its members.[@fm08-rakia, fm08-surrender] Sword Oratoria 9 says Finn shared his information with the Familia, which took the glory.[@so09-rakia] |
+| DanMachi 8 | The Familia helps catch [[ares-familia#kingdom-of-rakia|Rakia]]'s infiltrators in the city; they surrender to its members.[@fm08-rakia, fm08-surrender] Sword Oratoria 9 says Finn shared his information with the Familia, which took the glory.[@so09-rakia] |
 | DanMachi 12 | When Hestia Familia prepares its expedition, Hephaistos Familia alone among its friendly factions stays out, to keep its position as a smithing Familia.[@fm12-sidelines] |
 | Sword Oratoria 12 | The Familia makes the [[equipment#spirit-cloth|spirit flag]]s for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] |
 | Sword Oratoria 13 | Some of its High Smiths are among those killed by the demi-spirit's attack in Knossos, and are mourned at the funerals that follow.[@so13-dead] |
 | DanMachi 17 | Almost all its members, its High Smiths included, surround [[folkvangr|Folkvangr]] from the south and west, alongside Loki Familia, while an angry Hephaistos tells Freya she will have to pay.[@fm17-siege] |
 | DanMachi 18 | With Loki Familia barred, it is the only Familia able to fully support Hestia in the Great Familia War. Its smiths forge magic swords under Hephaistos's strict judgement and fight at the coalition's centre.[@fm18-home, fm18-center] [[hedin|Hedin]] provokes them into wasting many of the swords, and [[allen-fromel|Allen]] picks off its smiths and tears Hephaistos's flower, eliminating the Familia.[@fm18-hedin, fm18-out] |
-| Familia Chronicle 3 | Word in [[zolingam|Zolingam]] is that the Familia buys raw materials there and supports several workshops; many residents have become Hephaistos's followers.[@fc03-zolingam] |
+| Familia Chronicle 3 | Word in [[zolingam|Solingen]] is that the Familia buys raw materials there and supports several workshops; many residents have become Hephaistos's followers.[@fc03-zolingam] |
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - The Familia's size, Guild rank and full roster beyond Tsubaki and Welf were not located in the checked text.[@so04-expedition]
 
-[@fm01-store]: FM01 | Chapter 5: The Goddess’s Prank | "the third floor of Hephaistos Familia’s main store located on Northwest Main".
-[@fm01-ja-store]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c3FS, paragraphs 43 and 113): the store is headed Hephaistos Familia, Northwest Main Street branch, and is later called this branch. Yen Press prints "main store".
+[@fm01-store]: FM01 | Chapter 5: The Goddess’s Prank | Hephaistos Familia's store, "located on Northwest Main"; its third floor.
+[@fm01-ja-store]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c3FS, paragraphs 43 and 113): the store is headed Hephaistos Familia, Northwest Main Street branch, and is later called this branch.
 [@fm01-best]: FM01 | Chapter 5: The Goddess’s Prank | "the smiths of Hephaistos Familia were known as the best in the business".
 [@fm02-forge]: FM02 | Chapter 1: Date, Then Supporter | "Forge is necessary to become a smith"; "more than half of Hephaistos Familia’s smiths have it".
 [@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | "one sign on the whole floor: Ἥφαιστος"; "all the shops from the fourth floor up to the eighth floor are owned by Hephaistos Familia".
@@ -90,7 +87,7 @@
 [@fm04-workshop]: FM04 | Chapter 3: The Smith’s Situation | "Hephaistos Familia prepares a workshop for each of its members".
 [@fm04-masters]: FM04 | A Campanella to the Goddess | "Masters of the Forge, Hephaistos Familia."; Hestia lived with them after her arrival.
 [@fm05-welf]: FM05 | Chapter 4: Dungeon Resort? | "High Smiths belonging to Hephaistos Familia had joined this expedition"; a smith recognises Welf.
-[@fm05-ja-welf]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraphs 189 and 190): the smiths accompanying the expedition, plural, told Finn that they saw Welf when Bell's party was carried in. Yen Press prints "One of the smiths told me."
+[@fm05-ja-welf]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraphs 189 and 190): the smiths accompanying the expedition, plural, told Finn that they saw Welf when Bell's party was carried in.
 [@fm06-logo]: FM06 | Chapter 4: Those Who Gather | "forbidden to use her logo as a smith"; "his dream of becoming a High Smith".
 [@fm07-goibniu]: FM07 | Chapter 1: Smooth Sailing? | Goibniu Familia: "Though not as popular as Hephaistos Familia".
 [@fm08-rakia]: FM08 | Chapter 2: The Prum’s Proposal | "Hephaistos Familia? That’s perfect. I’ll have them help out as well."
@@ -123,3 +120,4 @@
 [@ar03-swords]: AR03 | | "Freya Familia was being supported by the blacksmiths of Hephaistos Familia and their magic swords."
 [@fc03-zolingam]: FC03 | | "Word was that none other than Hephaistos Familia came to Zolingam for raw materials"; "many Zolingam residents who became followers of Hephaistos".
 [@fm02-hephaistos-familia-ja]: FM02 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@so01-highsmith-ja]: SO01 | | The Japanese edition (file cX0, paragraph 35) writes High Smith in kanji meaning upper-class smith, with the reading High Smith.

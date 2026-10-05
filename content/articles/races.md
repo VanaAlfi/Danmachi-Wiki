@@ -54,7 +54,7 @@
   ]
 }
 ---
-The DanMachi novels describe many peoples. [[orario|Orario]] is home not only to humans but to "many kinds of demi-humans".[@fm01-orario] Mortals are divided into **humans** and five **demi-human** races; above them stand the [[#god|gods]], who came from another plane, and beside them the [[#spirit|spirits]].[@fm07-amazons, fm01-goddess, fm04-fairies] It was the gods who created the humans and demi-humans and gave the mortal races their different characteristics, or so the mortals believe.[@fm15-created]
+The DanMachi novels describe many peoples. [[orario|Orario]] is home not only to humans but to "many kinds of demi-humans".[@fm01-orario] Mortals are divided into **humans** and five **demi-human** races; above them stand the [[#god|gods]], transcendent beings one dimension apart, and beside them the [[#spirit|spirits]].[@fm07-amazons, fm01-goddess, fm01-ja-deusdia, fm04-fairies] It was the gods who created the humans and demi-humans and gave the mortal races their different characteristics, or so the mortals believe.[@fm15-created]
 
 {{nocite}} This page follows the forms printed by the English editions. Where they print one race under several names, every printed form is listed. Some names used elsewhere in English, such as *Pallum*, *Renard* and *Beast Human* on the DanMachi Fandom wiki, were not located in the checked text; they are kept only as search terms.
 
@@ -255,7 +255,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 
 {{nocite}} See [[falna|Falna]] for the gods' blessing and the deity pages for individual gods.
 
-**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a kind of being different from humans, demi-humans and monsters, and will not age as mortals do (Yen Press prints "another plane, Deusdia"; in the Japanese *Deusdia* names the gods as *transcendent beings*).[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for creating the elves, a superficial race unable to accept others.[@fm15-created]
+**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a *Deusdia* or transcendent being, one dimension apart from humans, demi-humans and monsters, and will not age as mortals do; the word is explained under [[tenkai-and-gekai#names|Tenkai and Gekai]].[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for creating the elves, a superficial race unable to accept others.[@fm15-created]
 
 ### Spirits {#spirit}
 
@@ -289,8 +289,8 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 > - **Strongest animal people:** a claim that boaz and war tigers are the physically strongest animal people was not located in the checked text.[@so14-six]
 
 [@fm01-orario]: FM01 | Chapter 1: World, Reality, and Desire | "there are many kinds of demi-humans living in this flourishing metropolis alongside us".
-[@fm01-goddess]: FM01 | Chapter 1: World, Reality, and Desire | Hestia "came from another plane, Deusdia. She won’t age or change much".
-[@fm01-ja-deusdia]: FM01 | Chapter 1: World, Reality, and Desire | Japanese original (file cFB, paragraph 62; also file c36N, paragraph 145): the gods are transcendent beings read Deusdia, one dimension different from humans, demi-humans and monsters. Yen Press prints "another plane, Deusdia".
+[@fm01-goddess]: FM01 | Chapter 1: World, Reality, and Desire | Hestia is different from humans, demi-humans and the Dungeon's monsters: "She won’t age or change much".
+[@fm01-ja-deusdia]: FM01 | Chapter 1: World, Reality, and Desire | Japanese original (file cFB, paragraph 62; also file c36N, paragraph 145): the gods are transcendent beings read Deusdia, one dimension different from humans, demi-humans and monsters.
 [@fm01-animal]: FM01 | Chapter 2: That’s Why I Run | Female animal people, with animal ears and tails (the Japanese edition, file cYT, paragraph 313).
 [@fm01-bell]: FM01 | Chapter 5: The Goddess’s Prank | "Bell Cranell. Human."
 [@fm02-ears]: FM02 | Chapter 1: Date, Then Supporter | Unlike Eina, the elf girl's "ears come to a full point".
@@ -302,8 +302,8 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fm02-eyesight]: FM02 | Chapter 5: Reset | "Prums in general were known for having amazing eyesight."
 [@fm02-lilly]: FM02 | Chapter 5: Reset | "Lilly was the prum girl who had run into Bell".
 [@fm03-beast]: FM03 | Chapter 4: The Meaning of Adventure | "the beast person’s armor"; "the beast man".
-[@fm03-werewolf]: FM03 | Chapter 5: A Hero’s Desire | "werewolf animal people were not known for their acceptance of others".
-[@fm03-ja-werewolf]: FM03 | Chapter 5: A Hero’s Desire | Japanese original (file c43D, paragraph 47): elves clash easily with other races over differences of opinion; werewolf beast people also have a lone-wolf streak, so they can be inflexible. Yen Press prints that they were not known for their acceptance of others, particularly Bete.
+[@fm03-werewolf]: FM03 | Chapter 5: A Hero’s Desire | The narration on werewolves' temperament.
+[@fm03-ja-werewolf]: FM03 | Chapter 5: A Hero’s Desire | Japanese original (file c43D, paragraph 47): elves clash easily with other races over differences of opinion; werewolf beast people also have a lone-wolf streak, so they can be inflexible.
 [@fm04-koine]: FM04 | Chapter 1: Denatus | "Koine, the common language of humans and demi-humans".
 [@fm04-skin]: FM04 | Chapter 2: Changing Environment, New Relationships | "Elves do not allow someone they don’t trust to touch their skin."
 [@fm04-interact]: FM04 | Chapter 3: The Smith’s Situation | Elves who shut themselves away in a forest. The Japanese edition (file c2R2, paragraphs 540–541) speaks of contact between humans and demi-humans, and of only some elves, proud ones, who keep to villages deep in the forests.

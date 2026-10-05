@@ -159,7 +159,7 @@ Hestia's first recruiting drive ends when the debt comes to light (see [[#recrui
 
 ### DanMachi 8
 
-When Orario's forces meet the army of [[ares#kingdom-of-rakia|Rakia]], Hestia Familia is not summoned to the front, in consideration of its numbers and its recent expansion; Hermes says he asked the Guild to leave it out.[@fm08-front] On its joint trip with Takemikazuchi Familia, word spreads in [[rivira|Rivira]] that the maker of the legendary magic swords is a member of Hestia Familia.[@fm08-joint] [[loki-familia|Loki Familia]], having worked out that Rakia's real objective is Welf, has the Familia, and Welf above all, watched by Tsubaki's group, under the Guild's instructions.[@fm08-surveillance]
+When Orario's forces meet the army of [[ares-familia#kingdom-of-rakia|Rakia]], Hestia Familia is not summoned to the front, in consideration of its numbers and its recent expansion; Hermes says he asked the Guild to leave it out.[@fm08-front] On its joint trip with Takemikazuchi Familia, word spreads in [[rivira|Rivira]] that the maker of the legendary magic swords is a member of Hestia Familia.[@fm08-joint] [[loki-familia|Loki Familia]], having worked out that Rakia's real objective is Welf, has the Familia, and Welf above all, watched by Tsubaki's group, under the Guild's instructions.[@fm08-surveillance]
 
 ### DanMachi 9–11: the Xenos
 

@@ -27,7 +27,7 @@
   }
 }
 ---
-**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[ares#kingdom-of-rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
+**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[ares-familia#kingdom-of-rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
 
 ## Name
 
@@ -124,7 +124,7 @@ On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors
 
 ## Hephaistos
 
-DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visits a smithy in [[zolingam|Zolingam]] and sees a redheaded boy working there for room and board, under a name the owner thinks false. He tells her his name is just Welf, and she invites him to join her Familia.[@fm15-zolingam] In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hephaistos] Shikou Kazuki is progress toward it, but the narration calls it a foothold and an imitation of her craft, and DanMachi 18 still calls it a stepping stone.[@fm14-shikou, fm18-stone]
+DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visits a smithy in [[zolingam|Solingen]] and sees a redheaded boy working there for room and board, under a name the owner thinks false. He tells her his name is just Welf, and she invites him to join her Familia.[@fm15-zolingam] In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hephaistos] Shikou Kazuki is progress toward it, but the narration calls it a foothold and an imitation of her craft, and DanMachi 18 still calls it a stepping stone.[@fm14-shikou, fm18-stone]
 
 ## Open questions
 
@@ -152,7 +152,7 @@ DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visit
 [@so05-blood]: SO05 | Interlude: Flip Side of the Compromise | The first Crozzo's spirit blood; Welf's rejection of the legacy.
 [@will-o-the-wisp.fm05-first]: FM05 | Chapter 2: How Many Meders to a Safe Return? | First use on hellhounds; chant and spell name; "anti-magic Magic".
 [@will-o-the-wisp.fm05-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Mechanism; timing; very short spell needing preparation; earlier test.
-[@will-o-the-wisp.fm05-ja-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Japanese original (file part0013, paragraphs 497 and 499): Welf asked the guys of the same Familia, plural, and says they too knew the risk. Yen Press prints "one of the guys in my Familia".
+[@will-o-the-wisp.fm05-ja-explain]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Japanese original (file part0013, paragraphs 497 and 499): Welf asked the guys of the same Familia, plural, and says they too knew the risk.
 [@will-o-the-wisp.fm05-rivira]: FM05 | Chapter 5: The Outlaws’ Party | Three casting adventurers caught by Ignis Fatuus.
 [@will-o-the-wisp.fm05-ja-rivira]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 373 to 375): the spell catches the three enemies who were chanting in a magic misfire; the fight is the rescue brawl in the eastern part of Floor 18 (paragraph 123), not at Rivira.
 [@will-o-the-wisp.fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | The Goliath's howl detonated.

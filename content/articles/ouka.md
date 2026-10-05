@@ -30,7 +30,7 @@
 
 Ouka is an intimidating man of broad build whose height reaches about 190 celch.[@fm05-look, fm05-ja-look] He fights with Far Eastern martial arts as well as his weapons.[@fm12-kougou]
 
-By DanMachi 12 his weapon is the [[equipment#kougou|Kougou]] battle-ax. Welf forged it from [[metals#varmath|varmath]], a high-quality ore found only in the Dungeon's lower levels that [[hephaistos|Hephaistos]] had given him as part present, part assignment, and used the leftovers for Ouka's shield. Although the materials had cost him nothing, Welf charged 700,000 valis for the set, a steep discount.[@fm12-kougou]
+By DanMachi 12 his weapon is the [[equipment#kougou|Kougou]] battle-ax. Welf forged it from [[metals#valmars|valmars]], a high-quality ore found only in the Dungeon's lower levels that [[hephaistos|Hephaistos]] had given him as part present, part assignment, and used the leftovers for Ouka's shield. Although the materials had cost him nothing, Welf charged 700,000 valis for the set, a steep discount.[@fm12-kougou]
 
 ## History
 
@@ -47,7 +47,7 @@ By DanMachi 12 his weapon is the [[equipment#kougou|Kougou]] battle-ax. Welf for
 [@fm05-level]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Ouka and Mikoto "the only ones who'd reached Level 2"; Chigusa still Level 1.
 [@fm05-look]: FM05 | Chapter 3: Dungeon Death March | "More than 190 celch tall", with wide, muscular shoulders.
 [@fm05-ja-look]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 70): a man of formidable looks who also has breadth, whose height reaches 190 celch; there is no "more than" and no word for muscular shoulders.
-[@fm12-kougou]: FM12 | Chapter 6: The Hero’s Sacred Flame | The Kougou battle-ax; varmath; the shield; 700,000 valis for the set.
+[@fm12-kougou]: FM12 | Chapter 6: The Hero’s Sacred Flame | The Kougou battle-ax; valmars; the shield; 700,000 valis for the set.
 [@fm05-parade]: FM05 | Chapter 2: How Many Meders to a Safe Return? | The pass parade on Floor 13.
 [@fm08-ouka]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map). The Japanese edition (file part0015, paragraph 275) has Takemikazuchi say that Chigusa and Asuka reached Level 2 in the Ishtar affair.
 [@fm11-name]: FM11 | | "Ouka Kashima."

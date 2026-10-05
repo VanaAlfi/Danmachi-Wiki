@@ -16,7 +16,7 @@
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["so01-dionysus"]},
       {"label": "Appearance", "value": "Golden hair; glass-coloured eyes", "refs": ["so03-prince", "so04-eyes"]},
-      {"label": "Hidden identity", "value": "Enyo", "refs": ["so12-enyo"]},
+      {"label": "Hidden identity", "value": "Enyo ({{ja|都市の破壊者}}, written *destroyer of the city*)", "refs": ["so12-enyo", "so05-enyo-ja"]},
       {"section": "Familia"},
       {"label": "Familia", "value": "[[dionysus-familia|Dionysus Familia]]", "refs": ["so01-dionysus"]},
       {"label": "Captain", "value": "[[filvis|Filvis Challia]]", "refs": ["so11-captain"]},
@@ -68,3 +68,4 @@ When his plan with the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] fails, h
 [@so12-penia]: SO12 | | Penia and the converted followers.
 [@so12-plan]: SO12 | | The fifteen-year plan and Bell.
 [@so12-end]: SO12 | Chapter 8: A Heroes’ Chorus | Dionysus and Filvis at the end.
+[@so05-enyo-ja]: SO05 | | The Japanese edition (file cVH, paragraph 74) writes the name in kanji meaning destroyer of the city, with the reading Enyo; in Sword Oratoria 11 the same reading also stands over the kanji for master, in the creatures' words (file c4FG, paragraph 333), and over a vulgar word for god, in Thanatos's (paragraph 374).

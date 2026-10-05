@@ -78,8 +78,8 @@ A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozu
 [@so13-past]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | Zeus and Hera's Level 8 and Level 9.
 [@so14-highest]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7 as the highest rank; the line that Ottar may rank up soon too (the Japanese edition, file part0011, paragraphs 151 to 153).
 [@fm03-feat]: FM03 | | A great feat and high-quality excelia.
-[@fm03-d]: FM03 | Chapter 4: The Meaning of Adventure | "All their basic stats are above D."
-[@fm03-ja-d]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c2VG, paragraph 226): an ability evaluation of the sixth stage or higher, reaching D, is what first gives the qualification to rank up; there is no word for "all", and the number of abilities is not stated. Yen Press prints "All their basic stats are above D."
+[@fm03-d]: FM03 | Chapter 4: The Meaning of Adventure | Lyu on the D rank and the qualification to level up.
+[@fm03-ja-d]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c2VG, paragraph 226): an ability evaluation of the sixth stage or higher, reaching D, is what first gives the qualification to rank up; the number of abilities is not stated.
 [@fm03-bell]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
 [@fm04-hidden]: FM04 | | Values reset; hidden parameter.
 [@fm04-choice]: FM04 | Chapter 1: Denatus | One Development Ability per Level Up.

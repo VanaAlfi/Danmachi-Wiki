@@ -38,7 +38,7 @@ Hestia came down to the Lower World about six months before Bell arrived in [[or
 
 Gods cannot usually fall ill, she tells Bell, but when they came down from the heavens they made it so that they could.[@ss01-hestia]
 
-She works part-time at a [[jyaga-maru-kun|Jyaga Maru Kun]] stall on North Main Street, earning thirty vals an hour.[@fm04-stall] By DanMachi 13 she also works at "Hephaistos’s place".[@fm13-jobs]
+She works part-time at a [[jyaga-maru-kun|Jyaga Maru Kun]] stall on North Main Street, earning thirty valis an hour.[@fm04-stall] By DanMachi 13 she also works at "Hephaistos’s place".[@fm13-jobs]
 
 ## Hestia Familia
 

@@ -22,7 +22,7 @@
       {"label": "Japanese", "value": "{{ja|イシュタル・ファミリア}}", "refs": ["fm07-ishtar-familia-ja"]},
       {"label": "Deity", "value": "[[ishtar|Ishtar]]", "refs": ["fm07-eina", "fm07-meeting"]},
       {"label": "Territory", "value": "The [[pleasure-quarter|Pleasure Quarter]] (its sphere of influence)", "refs": ["fm07-eina"]},
-      {"label": "Home", "value": "Belit Babili", "refs": ["fm07-search"]},
+      {"label": "Home", "value": "Belit Babili ({{ja|女神の宮殿}}, written *the goddess's palace*)", "refs": ["fm07-search", "so08-belit-ja"]},
       {"label": "Guild rank", "value": "A", "refs": ["fm07-eina", "fm19-rank"]},
       {"label": "Members", "value": "About 90 percent women, most of them Amazons", "refs": ["fm07-eina"]},
       {"label": "Captain", "value": "[[phryne-jamil|Phryne Jamil]], Level 5", "refs": ["fm07-eina", "so06-meren"]},
@@ -86,7 +86,7 @@ In DanMachi 18 she commands the reserves guarding Haruhime. Haruhime decides to 
 | Volume | Events |
 |---|---|
 | Astrea Record 1 and 3 | Fights the Evils and the monsters of the Great Conflict with Aisha.[@ar01-aisha, ar03-berbera] |
-| DanMachi 8 | Goes after "hunky knights" in [[ares#kingdom-of-rakia|Rakia]]'s forward camp with Aisha.[@fm08-samira] |
+| DanMachi 8 | Goes after "hunky knights" in [[ares-familia#kingdom-of-rakia|Rakia]]'s forward camp with Aisha.[@fm08-samira] |
 | Sword Oratoria 12 | Her howl sends the held-back Berbera charging.[@so12-charge] |
 | DanMachi 19 | Has levelled up after the war game.[@fm19-levels] |
 | Minor Myths and Legends 1 | Out with Aisha when the group spots Bell.[@ss01-berbera] |
@@ -148,3 +148,4 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@ss01-berbera]: SS01 | | "Eyewitness Account: The Berbera": Aisha is out with Samira and her colleagues from the old Ishtar Familia when one of them points out Bell. The Japanese edition (file part0087, paragraphs 3–5) does not say who speaks.
 [@fm07-ishtar-familia-ja]: FM07 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
 [@tammuz-berrilli.so09-ja]: SO09 | | The Japanese edition prints the name in katakana.
+[@so08-belit-ja]: SO08 | | The Japanese edition (file c3H1, paragraph 314) writes the palace's name in kanji meaning the goddess's palace, with the reading Belit Babili.

@@ -100,7 +100,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 | DanMachi 10 | Bell revisits the third floor, where his adventures began.[@fm10-third] |
 | DanMachi 11 | [[asterios|Asterios]] breaks through Babel and drops Bell onto the first floor.[@fm11-crash] |
 | DanMachi 15 | Hestia Familia trains Haruhime on the third floor.[@fm15-leveling] In the account of [[eina-tulle|Eina]]'s early years at the Guild, her advisee [[maris-hackard|Maris]] reaches the tenth floor within a year.[@fm15-maris] |
-| DanMachi 19 | The [[balder-class#third-squad|3rd Squad]] reaches the seventh floor on its first day, then struggles on the eleventh and twelfth floors for the infant dragon the School District sets as a grade requirement.[@fm19-seventh, fm19-dragon] |
+| DanMachi 19 | The [[balder#third-squad|3rd Squad]] reaches the seventh floor on its first day, then struggles on the eleventh and twelfth floors for the infant dragon the School District sets as a grade requirement.[@fm19-seventh, fm19-dragon] |
 | Sword Oratoria 1 | Loki Familia chases the Minotaurs up into the upper levels; what is left of the herd reaches the sixth floor, and the last is found on the fifth.[@so01-upper, so01-fifth] |
 | Sword Oratoria 3 | Aiz, who needed more than six months to reach the tenth floor, learns that Bell has reached it in twenty days, and watches him hold his own there among orcs and imps.[@so03-twelve, so03-watch] |
 | Sword Oratoria 4 | Lefiya practises magic on the fifth floor; Aiz and Loki Familia watch Bell's fight on the ninth floor.[@so04-lefiya, so04-ninth] |

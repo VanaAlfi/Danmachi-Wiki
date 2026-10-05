@@ -8,7 +8,7 @@
   "summary": "A travelling school on a giant ship, the Hringhorni, whose ten classes are deity-led Familias and whose departments range from Combat Studies to Alchemy. Founded with Orario's help, it returns to the city every three years for its recruiting season; DanMachi 19–20 and Sword Oratoria 13 are set around its visit.",
   "aliases": ["Maritime Academy for Scholarship Special Administrative District", "Hringhorni"],
   "spoilers": "DanMachi Vols. 8, 19 and 20, and Sword Oratoria Vol. 13",
-  "related": ["balder", "balder-class", "leon-verdenberg", "nina-tulle", "eina-tulle", "lefiya", "bell-cranell", "orariad", "loki-familia", "hestia-familia", "guild", "falna"],
+  "related": ["balder", "leon-verdenberg", "nina-tulle", "eina-tulle", "lefiya", "bell-cranell", "orariad", "loki-familia", "hestia-familia", "guild", "falna"],
   "infobox": {
     "title": "The School District",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|学区}}", "refs": ["fm19-school-district-ja"]},
       {"label": "Official name", "value": "Maritime Academy for Scholarship Special Administrative District ({{ja|海上学術機関特区}})", "refs": ["fm19-name", "fm19-school-district-ja"]},
       {"label": "Principal", "value": "The god Balder", "refs": ["so13-balder"]},
-      {"label": "Classes", "value": "Ten deity-led Familias, among them [[balder-class|Balder Class]], Iðunn Class and Bragi Class (see [[#classes|Classes and squads]])", "refs": ["so13-classes", "fm19-classes", "so13-class-names"]},
+      {"label": "Classes", "value": "Ten deity-led Familias, among them [[balder#balder-class|Balder Class]], Iðunn Class and Bragi Class (see [[#classes|Classes and squads]])", "refs": ["so13-classes", "fm19-classes", "so13-class-names"]},
       {"label": "Departments", "value": "Combat Studies, Liberal Arts, Alchemy, Business, Smithing, Crafts, Compounding and others (see [[#departments|Departments]])", "refs": ["fm19-courses", "fm19-alchemy", "fm19-business", "fm19-crafts", "fm19-compounding"]},
       {"section": "Ship"},
       {"label": "Vessel", "value": "The Hringhorni, about 700 meders across", "refs": ["so13-ship"]},
@@ -31,7 +31,7 @@
 
 ## The Hringhorni
 
-The school's ship, the Hringhorni, is round, about 700 meders across, and has separate layers for control, living and study.[@so13-ship] More than ten thousand people live aboard, counting its crew.[@fm19-people] It was once a sea fortress used by Zeus, Hera and Poseidon Familias in their campaign against the Leviathan, and it returns to the port of [[njordr#port-meren|Meren]] for maintenance.[@so13-ship] Few ports in the world can berth it; Meren has the only harbour able to take it in full, and Meren's shipyards built it.[@so13-meren]
+The school's ship, the Hringhorni, is round, about 700 meders across, and has separate layers for control, living and study.[@so13-ship] More than ten thousand people live aboard, counting its crew.[@fm19-people] It was once a sea fortress used by Zeus, Hera and Poseidon Familias in their campaign against the Leviathan, and it returns to the port of [[njordr-familia#port-meren|Meren]] for maintenance.[@so13-ship] Few ports in the world can berth it; Meren has the only harbour able to take it in full, and Meren's shipyards built it.[@so13-meren]
 
 ## Founding and purpose {#founding}
 
@@ -43,7 +43,7 @@ The school's classes are Familias, each led by a god, and it grants the [[falna|
 
 ### Classes and squads {#classes}
 
-The school has ten classes, among them [[balder-class|Balder Class]], Iðunn Class and Bragi Class.[@fm19-classes] A class is a god's Familia under another name: "Iðunn Familia became Iðunn Class, Bragi Familia became Bragi Class".[@so13-class-names] DanMachi 19 prints *Idun Class*; Sword Oratoria 13 and DanMachi 20 print *Iðunn Class*.[@fm19-classes, so13-class-names, fm20-prefects] Bragi Class wears a badge of "a lyre and a book".[@fm19-bragi]
+The school has ten classes, among them [[balder#balder-class|Balder Class]], Iðunn Class and Bragi Class.[@fm19-classes] A class is a god's Familia under another name: "Iðunn Familia became Iðunn Class, Bragi Familia became Bragi Class".[@so13-class-names] DanMachi 19 prints *Idun Class*; Sword Oratoria 13 and DanMachi 20 print *Iðunn Class*.[@fm19-classes, so13-class-names, fm20-prefects] Bragi Class wears a badge of "a lyre and a book".[@fm19-bragi]
 
 Classes are divided into squads, each drawn from a single class, whose members receive their Status updates together. Outside the school the Combat Studies Department works in four-person cells, occasionally five.[@fm19-squads] The students have prefects and a student council.[@so13-prefect, fm20-prefects]
 
@@ -63,7 +63,7 @@ Each return is Orario's recruiting season. With the school's cooperation every F
 
 | Person | Connection |
 |---|---|
-| [[leon-verdenberg|Leon Verdenberg]] | Captain of [[balder-class|Balder Class]] and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
+| [[leon-verdenberg|Leon Verdenberg]] | Captain of [[balder#balder-class|Balder Class]] and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
 | Bardain | A bull person and Lefiya's classmate, "Rulebreaker Bardain", who dragged her and their friend Nassen into fights and messes and wanted to become an imperial knight. His wish to see the eighteenth floor led twelve students into the [[cave-labyrinth|Cave Labyrinth]], where he lost an arm rescuing Alisa and Nassen before Aiz, Tiona and Tione of Loki Familia saved them (Sword Oratoria 13).[@so13-bardain, so13-bardain-fc, so13-rescue] |

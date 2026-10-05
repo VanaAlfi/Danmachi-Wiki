@@ -44,7 +44,7 @@ In the Far East, Takemikazuchi and other gods led a poor shrine that took in chi
 [@fm05-ouka]: FM05 | | Ouka, captain; he shields Bell.
 [@fm05-parade]: FM05 | Chapter 2: How Many Meders to a Safe Return? | "Takemikazuchi Familia's pass-parade maneuver on the thirteenth floor."
 [@fm05-gravity]: FM05 | Chapter 6: Praise to the Heroes | Takemikazuchi's ban on the gravity magic.
-[@fm05-ja-gravity]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 668 and 669): her patron god had strictly ordered her not to use the gravity magic in a closed space such as the Dungeon; separately, she had held it back until now for fear of catching the attackers and mages. Yen Press prints that he had all but forbidden it.
+[@fm05-ja-gravity]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 668 and 669): her patron god had strictly ordered her not to use the gravity magic in a closed space such as the Dungeon; separately, she had held it back until now for fear of catching the attackers and mages.
 [@fm06-mikoto]: FM06 | | Mikoto converts.
 [@fm08-chizan]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): Chizan and Tenka.
 [@fm08-ouka]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map). The Japanese edition (file part0015, paragraph 275) has Takemikazuchi say that Chigusa and Asuka reached Level 2 in the Ishtar affair.

@@ -69,8 +69,8 @@ In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18,
 
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex: single, slow rebirth, two or more Levels above the floor's monsters. The Japanese edition (file c2ZU, paragraph 103) says two or more.
 [@fm05-goliath]: FM05 | Chapter 3: Dungeon Death March | Floor 17, Great Wall of Sorrows, size and respawn interval.
-[@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it; the Black Goliath's body is likewise said to extend to as much as seven (file part0027, paragraph 79). Yen Press prints "more than seven meders tall".
-[@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence.
+[@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it; the Black Goliath's body is likewise said to extend to as much as seven (file part0027, paragraph 79).
+[@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence. In the Japanese edition (file part0025, paragraph 565) Hermes says the Dungeon hates the gods who keep it shut in underground, himself among them.
 [@fm05-black-traits]: FM05 | | Howl, roar and regeneration.
 [@fm05-level5]: FM05 | Chapter 6: Praise to the Heroes | Lyu's Level 5 estimate.
 [@fm05-battle]: FM05 | Chapter 6: Praise to the Heroes | Bell destroys the magic stone.

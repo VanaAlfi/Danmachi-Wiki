@@ -22,7 +22,7 @@
       {"label": "Guild rank", "value": "S", "refs": ["fm19-rank-s"]},
       {"label": "Also called", "value": "The Giant Killers (written *floor-boss killers*)", "refs": ["fm06-giant", "fm06-giant-ja"]},
       {"section": "Leaders"},
-      {"label": "Captain", "value": "Finn Deimne, field general", "refs": ["fm05-leaders"]},
+      {"label": "Captain", "value": "Finn Deimne", "refs": ["fm05-leaders"]},
       {"label": "Level 7s", "value": "Finn, Riveria and Gareth, from Sword Oratoria 14", "refs": ["so14-sevens", "fm20-sevens"]},
       {"label": "First-tier adventurers", "value": "Eight by Sword Oratoria 13 (see [[#fighting-strength|Fighting strength]])", "refs": ["so13-level"]}
     ]
@@ -45,7 +45,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 
 | Member | Notes |
 |---|---|
-| Finn Deimne | Prum; the Familia's highest-ranking adventurer and field general (in the Japanese of DanMachi 5, its head). He took the name Finn after his parents died saving him, and vowed to restore the prums.[@fm05-leaders, fm05-ja-leaders, so14-finn] Titled *Braver*.[@fm18-braver] |
+| Finn Deimne | Prum; the head of the Familia, the prum hero. He took the name Finn after his parents died saving him, and vowed to restore the prums.[@fm05-leaders, fm05-ja-leaders, so14-finn] Titled *Braver*.[@fm18-braver] |
 | Riveria Ljos Alf | High elf of royal blood, called Orario's most powerful magic user; Aiz's teacher and parent figure.[@fm05-leaders, so09-riveria] |
 | Gareth Landrock | Dwarf warrior; DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders, fm08-gareth] |
 | [[aiz-wallenstein|Aiz Wallenstein]] | Joined at seven; Level 6 from DanMachi 2.[@so09-aiz, fm02-aiz] |
@@ -103,7 +103,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7 as the highest rank; the three at Level 7.
 [@fm02-aiz]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Aiz reaches Level 6.
 [@fm05-leaders]: FM05 | Chapter 4: Dungeon Resort? | Finn, "Galess Landrock" and Riveria.
-[@fm05-ja-leaders]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraph 148): the prum hero Finn Deimne, the head of Loki Familia; a word for field general was not located in the Japanese of this volume. Yen Press prints "field general".
+[@fm05-ja-leaders]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraph 148): the prum hero Finn Deimne, the head of Loki Familia.
 [@fm06-home]: FM06 | Chapter 3: Outbreak | "Loki Familia's home on the northern edge of the city."
 [@fm06-twilight]: FM06 | | Twilight Manor.
 [@fm06-zeus]: FM06 | | Loki and Freya Familias expel Zeus and Hera Familias.

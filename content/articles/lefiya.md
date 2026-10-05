@@ -22,7 +22,7 @@
       {"label": "Level", "value": "3; 4 from Sword Oratoria 12", "refs": ["so01-lefiya", "so12-level4"]},
       {"label": "Title", "value": "Thousand Elf ({{ja|千の妖精}}, written *thousand fairies*)", "refs": ["so01-lefiya", "so01-thousand-ja"]},
       {"label": "Magic", "value": "[[#arcs-ray|Arcs Ray]], [[#fusillade-fallarica|Fusillade Fallarica]], [[#elf-ring|Elf Ring]]", "refs": ["so01-lefiya", "so03-lefiya"]},
-      {"label": "Skills", "value": "[[skills#fairy-cannon|Fairy Cannon]], [[skills#double-cannon|Double Cannon]]", "refs": ["skills.so12-card"]}
+      {"label": "Skills", "value": "[[skills#fairy-cannon|Fairy Cannon]], [[skills#double-canon|Double Canon]]", "refs": ["skills.so12-card"]}
     ]
   }
 }
@@ -39,7 +39,7 @@ Lefiya passed the [[school-district|School District]]'s entrance interview at ei
 - **Elf Ring** summons other elves' spells, including the Dio Grail of her friend [[filvis|Filvis]].[@so01-lefiya, so05-lefiya]
 - She learns **Concurrent Casting**, casting while moving and fighting.[@so04-lefiya]
 - Her Skill **[[skills#fairy-cannon|Fairy Cannon]]** amplifies the effects of her magic and doubles the boost for attack magic; it already backs her Arcs Ray in Sword Oratoria 3.[@skills.so12-card, skills.so03-fairy]
-- **[[skills#double-cannon|Double Cannon]]**, a rare Skill that appears when she reaches Level 4, lets her keep one finished spell on standby while she chants another, and fire it with the key "Cannon".[@skills.so12-card, skills.so12-standby]
+- **[[skills#double-canon|Double Canon]]** {{small|printed *Double Cannon* in Sword Oratoria 12}}, a rare Skill that appears when she reaches Level 4, lets her keep one finished spell on standby while she chants another, and fire it with the key "Cannon".[@skills.so12-card, skills.so12-standby]
 
 Her Sword Oratoria 6 card lists the Development Abilities [[development-ability#mage|Mage]] and [[development-ability#abnormal-resistance|Abnormal Resistance]]. Although eligible for Level 4 then, she delays the promotion to raise her Magic further.[@so06-lefiya] Her Mage, at rank H, is printed as Conjure in Sword Oratoria 2 and 12 and as Magic Control in Sword Oratoria 13; at Level 4 she adds [[development-ability#magic-resistance|Magic Resistance]].[@devab.so02-sheet, skills.so12-card, devab.so13-card]
 
@@ -62,6 +62,8 @@ Her illustrated Status sheets in Sword Oratoria 2 and 13 give the same two notes
 **Complete printed chant (SO01).**[@arcs-ray.so01-chant]
 
 > Unleashed beam of light, limbs of the holy tree. You are the master archer. Loose your arrows, fairy archers. Pierce, arrow of accuracy!
+
+The Japanese chant (Sword Oratoria 1) is {{ja|解き放つ一条の光、聖木の弓幹。汝、弓の名手なり|tokihanatsu ichijō no hikari, seiboku no yugara. nanji, yumi no meishu nari}}, *a ray of light set loose, bow-stave of the holy tree; thou art a master of the bow*, and {{ja|狙撃せよ、妖精の射手。穿て、必中の矢|sogeki seyo, yōsei no shashu. ugate, hitchū no ya}}, *snipe, fairy archer; pierce, arrow that never misses*: the holy tree gives the *bow-stave*, and the arrow is one that *never misses*.[@arcs-ray.so01-ja]
 
 {{nocite}} **Notes and other printed variants**
 
@@ -153,6 +155,8 @@ Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning ma
 
 > I beseech the name of Wishe! Ancestors of the forest, proud brethren. Answer my call and descend upon the plains. Connecting bonds, the pledge of paradise. Turn the wheel and dance. Come, ring of fairies. Please—give me strength.
 
+In Sword Oratoria 3 one line of the chant is {{ja|繫ぐ絆、楽宴の契り。円環を廻し舞い踊れ|tsunagu kizuna, rakuen no chigiri. enkan o mawashi maiodore}}, *bonds that link, the pledge of the joyful feast; turn the ring and dance*: the feast is said *rakuen*, the sound of the word for paradise, and written *joyful feast*.[@elf-ring.so03-ja]
+
 {{nocite}} **Notes and other printed variants**
 
 {{nocite}} Elf Ring has its own chant, which is printed with the same wording in Sword Oratoria 1, 3 and 12. 
@@ -182,7 +186,7 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 
 Elf Ring takes a long time to cast and uses an enormous amount of Mind, since she pays for Elf Ring and then for the summoned spell.[@elf-ring.so01-summon, elf-ring.so12-card] In Sword Oratoria 3 she needs about three minutes of chanting to summon Rea Laevateinn, while allies hold off the monsters.[@elf-ring.so03-rea] In Sword Oratoria 13 she realises she had assumed every summon had to be large and powerful to be worth the cost, and starts summoning smaller spells.[@elf-ring.so13-assume] In a crowded melee later in the volume, she rules out any new summon, since each needs two chants, while still holding one summoned spell ready on her left hand.[@elf-ring.so13-crowd]
 
-Lefiya's Skill Double Cannon, which holds one finished spell in reserve while she chants another, is a separate Skill, not part of Elf Ring.[@elf-ring.so12-card]
+Lefiya's Skill Double Canon, which holds one finished spell in reserve while she chants another, is a separate Skill, not part of Elf Ring.[@elf-ring.so12-card]
 
 #### Slots {#elf-ring-slots}
 
@@ -211,9 +215,9 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@so07-lefiya]: SO07 | | Knossos's exit; the retreat.
 [@so11-lefiya]: SO11 | | Filvis's apparent death.
 [@so12-level4]: SO12 | | Level 4.
-[@skills.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Fairy Cannon and Double Cannon under Skills. The Japanese edition (file c1PZ, paragraphs 348–356) gives Fairy Cannon as magic effects amplified, the boost doubled for attack magic only.
+[@skills.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Fairy Cannon and Double Canon under Skills. The Japanese edition (file c1PZ, paragraphs 348–356) gives Fairy Cannon as magic effects amplified, the boost doubled for attack magic only.
 [@skills.so03-fairy]: SO03 | Chapter 4: White-Haired Devil | Arcs Ray backed by Fairy Cannon.
-[@skills.so12-standby]: SO12 | Chapter 8: A Heroes’ Chorus | Double Cannon, a rare Skill: one spell on standby while chanting another.
+[@skills.so12-standby]: SO12 | Chapter 8: A Heroes’ Chorus | Double Canon, a rare Skill: one spell on standby while chanting another.
 [@devab.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Conjure H, Immunity I.
 [@devab.so13-card]: SO13 | | Level 4 update printed as an image, p. 26: Magic Control H, Immunity I, Magic Defense I.
 [@so12-lefiya]: SO12 | | The fight against Filvis.
@@ -239,7 +243,7 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@elf-ring.so03-rea]: SO03 | Chapter 5: Hell and Hell | Same chant; three-minute countdown; Riveria's spell summoned.
 [@elf-ring.so04-reqs]: SO04 | First Chapter: And the Boy… | Elven magic only; two-part chant; understanding and the proper chant.
 [@elf-ring.so05-grail]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's Dio Grail summoned to block the corrupted spirit.
-[@elf-ring.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Elf Ring; Double Cannon listed under Skills. The Japanese edition (file c1PZ, paragraphs 348–356) says only elven magic can be activated and that the chant and the summoned spell's effects must be fully grasped.
+[@elf-ring.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Elf Ring; Double Canon listed under Skills. The Japanese edition (file c1PZ, paragraphs 348–356) says only elven magic can be activated and that the chant and the summoned spell's effects must be fully grasped.
 [@elf-ring.so12-heal]: SO12 | Chapter 8: A Heroes’ Chorus | Summon Burst activates Riveria's healing magic.
 [@elf-ring.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | Chant; yellow circle; Dio Grail against Filvis.
 [@elf-ring.so13-assume]: SO13 | Chapter 3: Class is in Session | Her assumption that summons must be large.
@@ -261,3 +265,5 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@alicia.so13-advice]: SO13 | Fairy Canon: 2 | "Alicia may have been the first adventurer that Lefiya aspired to be like."
 [@so01-thousand-ja]: SO01 | | The Japanese edition writes her title with kanji meaning thousand fairies, read Thousand Elf.
 [@elf-ring.so01-ja]: SO01 | | The Japanese edition writes Summon Burst with kanji meaning summoning magic.
+[@arcs-ray.so01-ja]: SO01 | | The Japanese edition (file c535, paragraphs 169 and 174) prints the chant in two pieces.
+[@elf-ring.so03-ja]: SO03 | | The Japanese edition (file c5AH, paragraph 211) prints the line; the feast is said rakuen over the kanji for joyful feast.

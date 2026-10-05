@@ -31,7 +31,7 @@
 
 ## The town
 
-Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's emblem for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
+Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's emblem for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town ({{ja|ならず者達の街}}, written *town of ruffians*)[@so05-rogue-ja] and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
 
 Its strongest resident is [[bors|Bors]], a one-eyed adventurer who owns the Rivira [[the-exchange#rivira|Exchange]].[@fm05-bors] Willy's Inn is "a cheap hotel built into a cave", one of the town's nicer places for the price; its owner, Willy, is an animal person with messy hair and "Stripes of red war paint" on his cheeks. In Sword Oratoria 2 [[hashana|Hashana]]'s body is found there.[@fm13-willy, so02-willy] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
 
@@ -76,3 +76,4 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 [@so03-square]: SO03 | Chapter 3: A Hideous Beauty | "a place known as Crystal Square. Its name came from the twin white and blue crystals in its center, and it was also famous for the large sand dial that showed the remaining amount of"; "left on the eighteenth floor".
 [@fm13-willy]: FM13 | Chapter 1: Young Cranell’s Case File | "The place we picked is Willy’s Inn, a cheap hotel built into a cave."; "For the price, it’s one of Rivira’s nicer spots".
 [@so02-willy]: SO02 | Chapter 2: Incident | "Do you know where the body was found?"; "Up the cliff from here, at Willy’s Inn."; "an animal person: the owner, Willy"; "Stripes of red war paint on his face ran down both cheeks."
+[@so05-rogue-ja]: SO05 | | The Japanese edition (file c2BG, paragraph 28) writes the nickname in kanji meaning town of ruffians, with the reading Rogue Town.

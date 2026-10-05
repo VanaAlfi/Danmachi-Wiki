@@ -6,9 +6,9 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Goddess of fertility and the harvest whose Familia grows most of Orario's food. In Sword Oratoria 12 she is suspected of being Enyo, but she has been forced into silence by Dionysus, who holds her followers hostage.",
-  "aliases": ["Demeter Familia"],
-  "spoilers": "DanMachi Vols. 2, 16 and 18, Sword Oratoria Vols. 1, 9, 11–13, Familia Chronicle Vol. 1, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
-  "related": ["dionysus", "runoa", "hermes", "loki", "freya", "hestia"],
+  "aliases": [],
+  "spoilers": "DanMachi Vols. 2, 16 and 18, Sword Oratoria Vols. 1, 9, 11–13, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 1",
+  "related": ["demeter-familia", "dionysus", "runoa", "hermes", "loki", "freya", "hestia"],
   "infobox": {
     "title": "Demeter",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -17,23 +17,17 @@
       {"label": "Japanese", "value": "{{ja|デメテル}}", "refs": ["so12-demeter-ja"]},
       {"label": "Domain", "value": "Fertility and the harvest", "refs": ["fm16-festival", "so12-hermes"]},
       {"label": "Appearance", "value": "Honey-coloured hair", "refs": ["fm16-festival", "ss01-farm"]},
-      {"section": "Demeter Familia"},
-      {"label": "Trade", "value": "Agriculture: grain, vegetables and fruit for Orario", "refs": ["so01-wine", "so12-suspect"]},
-      {"label": "Home", "value": "Wheat Hall, in the north of Orario", "refs": ["fc01-runoa"]},
-      {"label": "Known followers", "value": "Persephone; [[runoa|Runoa Faust]] (for Status updates only)", "refs": ["so12-rescue", "fc01-runoa"]}
+      {"section": "Familia"},
+      {"label": "Familia", "value": "[[demeter-familia|Demeter Familia]], farmers of most of Orario's food", "refs": ["so12-suspect", "fc01-runoa"]}
     ]
   }
 }
 ---
-**Demeter** is a goddess of fertility and the harvest and the head of Demeter Familia, which grows most of the food that comes into [[orario|Orario]].[@fm16-festival, so12-hermes, so12-suspect] She is widely loved as a kind and caring goddess.[@so13-statement] In Sword Oratoria 12 she is suspected of being Enyo, the hidden mastermind behind the city's enemies, but Hermes learns that [[dionysus|Dionysus]] has taken her followers hostage and forced her into silence.[@so12-suspect, so12-confession]
+**Demeter** is a goddess of fertility and the harvest and the head of [[demeter-familia|Demeter Familia]], which grows most of the food that comes into [[orario|Orario]].[@fm16-festival, so12-hermes, so12-suspect] She is widely loved as a kind and caring goddess.[@so13-statement] In Sword Oratoria 12 she is suspected of being Enyo, the hidden mastermind behind the city's enemies, but Hermes learns that [[dionysus|Dionysus]] has taken her followers hostage and forced her into silence.[@so12-suspect, so12-confession]
 
 ## Demeter Familia
 
-Demeter Familia is a farming and commerce Familia: it grows grain, vegetables and fruit and sells them in Orario, and Sword Oratoria 12 says most of the produce brought into the city is its harvest.[@so01-wine, so12-suspect, fc01-runoa] Because she runs farms and a base outside the walls, Demeter is the one goddess allowed to come and go freely, without the Guild's usual formalities.[@so12-suspect] The Familia also buys strange fruit and seeds that adventurers find in the Dungeon and tries to grow them.[@ss01-farm] Its home is Wheat Hall, in the north of the city.[@fc01-runoa]
-
-- **Runoa.** [[runoa|Runoa Faust]] contracted with Demeter only to have her Status updated; it was her fifth membership, and she was free to convert at any time. She feels at ease in Demeter's company.[@fc01-runoa]
-- **Persephone.** A follower of Demeter. In Minor Myths and Legends 1 Demeter sends her to fetch rinne herbs for [[miach-familia|Miach]], and goddesses gossiping about Bell say that even Persephone was impressed by his gardening.[@ss01-persephone, ss01-gossip] In Familia Chronicle 1 Demeter tells Runoa that Persephone wanted to meet her.[@fc01-persephone] She is among the hostages of Sword Oratoria 12 (see below).[@so12-confession]
-- **The dark age.** In Astrea Record 1 Demeter Familia supports the Guild's food distribution for the poor that Astrea Familia joins.[@ar01-food] In Sword Oratoria 9's flashback, Demeter is handing out food when [[loki|Loki]] introduces her to the young [[aiz-wallenstein|Aiz]], whom she hugs.[@so09-aiz]
+Demeter heads [[demeter-familia|Demeter Familia]], a farming and commerce Familia that grows grain, vegetables and fruit and sells them in Orario.[@so01-wine, so12-suspect, fc01-runoa] In Sword Oratoria 9's flashback, Demeter is handing out food when [[loki|Loki]] introduces her to the young [[aiz-wallenstein|Aiz]], whom she hugs.[@so09-aiz] Her Familia, its home and its members are described on [[demeter-familia|Demeter Familia]].
 
 ## The goddess
 
@@ -67,9 +61,5 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 [@so12-rescue]: SO12 | Chapter 7: Final War II | Demeter Familia's emaciated followers; the ninth, tenth and eleventh floors; Elfie hugs Persephone; those killed on the tenth to make a point to Demeter.
 [@so13-statement]: SO13 | | Demeter lends credibility to the official statement; beloved as kind and caring; willing to carry the blame.
 [@ss01-farm]: SS01 | | Demeter in a straw hat, honey-coloured hair; a commerce-focused Familia; Dungeon fruit and seeds cultivated.
-[@ss01-persephone]: SS01 | | Story "Familia Panacea" (not in the evidence map): "Oh, Persephone! Bring me some rinne herbs, will you?"
-[@ss01-gossip]: SS01 | | Gods' gossip about Bell, near the end of the volume (not placed): "Even Persephone was impressed."; "Persephone seems to like him".
-[@fc01-persephone]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Persephone also wanted to meet you."
 [@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Wheat Hall in the north of Orario; Runoa's contract, her fifth conversion; farms producing wheat, vegetables and fruit.
-[@ar01-food]: AR01 | | A soup kitchen hosted by the Guild and run by adventurers, with the cooperation of Demeter Familia (the Japanese edition, file c2W8); feeding the poor.
 [@so12-demeter-ja]: SO12 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

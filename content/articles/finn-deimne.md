@@ -19,7 +19,7 @@
       {"label": "Born", "value": "Deimne; took the name Finn (\"light\")", "refs": ["so14-finn"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]], its first member", "refs": ["so14-finn"]},
-      {"label": "Position", "value": "Captain and field general", "refs": ["fm05-leaders"]},
+      {"label": "Position", "value": "Captain", "refs": ["fm05-leaders"]},
       {"label": "Level", "value": "6 in DanMachi 8; 7 from Sword Oratoria 14", "refs": ["fm08-finn", "so14-sevens"]},
       {"label": "Title", "value": "Braver ({{ja|勇者}}, written *hero*)", "refs": ["so03-titles", "fm08-finn-ja"]},
       {"label": "Magic", "value": "[[#hell-finegas|Hell Finegas]], [[#tir-na-nog|Tir na Nog]]", "refs": ["so14-finn", "tir-na-nog.so08-sheet"]},
@@ -28,7 +28,7 @@
   }
 }
 ---
-**Finn Deimne** is a prum and the captain of [[loki-familia|Loki Familia]], titled *Braver*: its highest-ranking adventurer and field general (the Japanese of DanMachi 5 calls him the head of Loki Familia and the prum hero; "highest-ranking adventurer and field general" is the Yen Press wording).[@fm05-leaders, fm05-ja-leaders, so03-titles] He is Level 7 from Sword Oratoria 14.[@so14-sevens]
+**Finn Deimne** is a prum and the captain of [[loki-familia|Loki Familia]], titled *Braver*: the head of the Familia, the prum hero.[@fm05-leaders, fm05-ja-leaders, so03-titles] He is Level 7 from Sword Oratoria 14.[@so14-sevens]
 
 ## Early life
 
@@ -124,8 +124,8 @@ His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir
 
 {{nocite}} Notable uses and open questions for Tir na Nog are on the combined page: [[magic#tir-na-nog|Magic § Tir na Nog]].
 
-[@fm05-leaders]: FM05 | Chapter 4: Dungeon Resort? | Loki Familia's highest-ranking adventurer and field general.
-[@fm05-ja-leaders]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraph 148): the prum hero Finn Deimne, the head of Loki Familia; the captain's rank is supported elsewhere in the volume, but a word for field general was not located in the Japanese of this volume.
+[@fm05-leaders]: FM05 | Chapter 4: Dungeon Resort? | The prum Finn Deimne at the head of Loki Familia.
+[@fm05-ja-leaders]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraph 148): the prum hero Finn Deimne, the head of Loki Familia; the captain's rank is supported elsewhere in the volume.
 [@fm08-finn]: FM08 | Chapter 2: The Prum’s Proposal | Level 6; over forty; the proposal to Lilly.
 [@fm11-finn]: FM11 | | Finn halts his troops.
 [@fm18-braver]: FM18 | Chapter 9: Flower Language for You | "Braver acknowledged it."

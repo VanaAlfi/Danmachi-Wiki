@@ -30,7 +30,7 @@
 
 [[anakity-autumn|Anakity]] (Aki) calls Telskyura "a peninsular country far to Orario’s southeast", and Riveria agrees that it is a land cut off from the world, walled in by sea and sheer cliffs and known as a country of Amazons alone.[@so06-where] When the Hyrute twins leave, they sail "far, far away from the vast peninsula".[@so06-peninsula] In Minor Myths and Legends 2 its name is written with characters meaning *battle nation*.[@ss02-island, ss02-state, ss02-isle]
 
-Its warriors travel by sea. In Sword Oratoria 6 Kali Familia comes to [[njordr#port-meren|Port Meren]] in a ship whose "engine" is a host of Telskyuran warriors at the oars, and the wounded are sent home on it.[@so06-ship, so06-home]
+Its warriors travel by sea. In Sword Oratoria 6 Kali Familia comes to [[njordr-familia#port-meren|Port Meren]] in a ship whose "engine" is a host of Telskyuran warriors at the oars, and the wounded are sent home on it.[@so06-ship, so06-home]
 
 ## The country
 

@@ -621,8 +621,11 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
         full = img["files"].get("full", f)["file"]
         alt = f"{art.title}: {pic.get('caption') or img['source']}"
         cap = f'{esc(pic["caption"])}<br>' if pic.get("caption") else ""
-        src = (f'<span class="media-source">{esc(img["source"])}</span>'
-               f' · <a class="ext" href="{esc(img["fandom"])}" rel="noopener" title="{esc(img["name"])} on the DanMachi Fandom wiki">file</a>')
+        if img.get("edition"):  # official English-edition original (tools/media_overrides.json "english"): no public file page
+            src = f'<span class="media-source" title="Taken from the official English ebook (Yen Press)">{esc(img["source"])}</span>'
+        else:
+            src = (f'<span class="media-source">{esc(img["source"])}</span>'
+                   f' · <a class="ext" href="{esc(img["fandom"])}" rel="noopener" title="{esc(img["name"])} on the DanMachi Fandom wiki">file</a>')
         pic_html = (f'<a class="image" href="{root}media/{full}"><img src="{root}media/{f["file"]}" alt="{esc(alt)}" '
                     f'width="{f["w"]}" height="{f["h"]}" loading="lazy" decoding="async"></a>')
         if size == "ib":
@@ -742,7 +745,7 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
 <footer id="footer" role="contentinfo">
   <ul id="footer-info">{last}
     <li>Articles are original summaries of the official English editions, cited claim by claim. No book text or ebook files are distributed here.</li>
-    <li>Images are official artwork from the DanMachi anime, light novels, manga and games, shown for identification and commentary; rights remain with their owners. Each image links to its file page on the DanMachi Fandom wiki, where it was sourced.</li>
+    <li>Images are official artwork from the DanMachi anime, light novels, manga and games, shown for identification and commentary; rights remain with their owners. Light-novel illustrations labelled “English edition” are taken from the official English ebooks (Yen Press); every other image links to its file page on the DanMachi Fandom wiki, where it was sourced.</li>
     <li>{esc(SITE['disclaimer'])}</li>
   </ul>
   <ul id="footer-places">
@@ -827,9 +830,12 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
             if spoiler else ""
         )
         page_media = MEDIA["pages"].get(art.slug, {})
-        classes = [MEDIA["images"][p["id"]]["class"] for p in ([page_media["infobox"]] if page_media.get("infobox") else []) + page_media.get("gallery", []) if p["id"] in MEDIA["images"]]
+        imgs = [MEDIA["images"][p["id"]] for p in ([page_media["infobox"]] if page_media.get("infobox") else []) + page_media.get("gallery", []) if p["id"] in MEDIA["images"]]
+        classes = [i["class"] for i in imgs]
         kinds = [k for k, lbl in (("anime", "anime"), ("ln", "light novels"), ("manga", "manga"), ("game", "games"), ("other", "other")) if k in classes]
-        names = [dict(anime="anime", ln="light novels (Japanese editions)", manga="manga", game="games", other="other official art")[k] for k in kinds]
+        lns = [i for i in imgs if i["class"] == "ln"]  # English-edition originals carry "edition"; the rest are Japanese-edition files from Fandom
+        eds = " and ".join(e for e, has in (("English", any(i.get("edition") for i in lns)), ("Japanese", any(not i.get("edition") for i in lns))) if has)
+        names = [dict(anime="anime", ln=f"light novels ({eds} editions)", manga="manga", game="games", other="other official art")[k] for k in kinds]
         images_row = (f'  <tr><th scope="row" class="navbox-group">Images</th><td class="navbox-list">Official art from the {", ".join(names)}; '
                       f'illustration only, not cited as evidence</td></tr>') if names else ""
         sourcing = "" if series else f"""
@@ -859,6 +865,11 @@ came out on {fmt_date(latest['date'])} (<a class="ext" href="{esc(latest['url'])
         for sec in art.meta.get("sections", []):
             if f'id="{sec["anchor"]}"' not in content:
                 ERRORS.append(f"{art.slug}: section anchor #{sec['anchor']} not found on the page")
+            # "former_anchors": the section's ids before a retitle, kept just above its heading so old links still land on it.
+            for old in sec.get("former_anchors", []):
+                if f'id="{old}"' in content:
+                    ERRORS.append(f"{art.slug}: former anchor #{old} is already an id on the page")
+                content = re.sub(rf'<h([2-4]) id="{re.escape(sec["anchor"])}">', lambda m: f'<span id="{old}"></span>{m.group(0)}', content, count=1)
             self.search_docs.append({"t": sec["title"], "u": f"{art.url}#{sec['anchor']}",
                                      "c": f"Section of {art.title}", "s": sec.get("summary", ""),
                                      "a": sec.get("aliases", []), "h": [], "x": ""})
@@ -1093,7 +1104,7 @@ comes from.</p>
 <p>None of these labels promises an absolute date. <b>Day 0</b> is the day Aiz rescues Bell from a Minotaur
 (<a href="#TL-0001">TL-0001</a>). It is a reference point chosen for this timeline, not a date in the books, and no running
 day count is inferred from it. Where a book gives its own local count, such as the six days of Familia Chronicle 3's
-Zolingam visit, that count stays local.</p>
+Solingen visit, that count stays local.</p>
 <p>The order of rows is a reading aid. Two neighbouring rows did not necessarily happen one after the other, and an event
 listed later may have been <i>told</i> later rather than happened later. Each event's notes separate what happens from who
 learns about it: nobody is assumed to know something just because they were nearby, and readers often learn things

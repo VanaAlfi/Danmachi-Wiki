@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Every named Skill in the covered English novels in one place: what a Skill is, how Skills appear, rare and negative Skills, and each Skill's holder, printed effect, uses and limits.",
-  "aliases": ["Skill", "Rare Skill", "rare skill", "Negative Skill", "Slayer-type Skill", "Limit Release", "Beast transformation", "Liaris Freese", "Realis Phrase", "Argonaut", "Heroic Desire", "Heroic Desire, Argonaut", "Ox Slayer", "Vanadis Tevere", "Hestia Divae", "Blessing of the Virgin", "Artel Assist", "Arter Assist", "Alter Assist", "Command Call", "Mind Call", "Blood of Crozzo", "Crozzo bloodline", "Veritas Burn", "Yatano Black Crow", "Yatano White Crow", "Mikuzume no Hou", "Avenger", "Fairy Cannon", "Double Cannon", "Double Canon", "Alf Regina", "Fairy Force", "Berserk", "Berserker skill", "Intense Heat", "Backdraft", "Solmani", "Fairy Serenade", "Mind Load", "Aero Mana", "Astrae Varmas", "Rubrud Beckia", "Five Lights", "Iai Strike: Five Lights", "Vana Arganture", "Laurel Wreath", "Deus Ambrosia", "Gif Blessing", "Limit Off", "Úlfheðinn", "Ulfhedinn", "Fenris Wolf", "Fairy Anthem", "Dvergr Enhance", "Ardigalea", "Prum Spirit", "Pallum Spirit", "Noble Brave", "Dia Phiana", "Dia Fianna", "Command Howl", "Ail mac Midna", "Fairy Senior", "Monstrum Union", "Dark Light", "Darklight", "Helios Passion", "Elios Passion", "Five-Dimension Troia", "Stultus Ottar", "Stortus Ottar", "Vana Angatyr", "Ganapati Blood", "Dharmas Algo", "Dharmas Argo", "Batrea Acras", "Batleate Asyrath", "Lubrude Bequia", "Laurus Wreath"],
+  "aliases": ["Skill", "Rare Skill", "rare skill", "Negative Skill", "Slayer-type Skill", "Limit Release", "Beast transformation", "Liaris Freese", "Realis Phrase", "Argonaut", "Heroic Desire", "Heroic Desire, Argonaut", "Ox Slayer", "Vanadis Tevere", "Hestia Divae", "Blessing of the Virgin", "Artel Assist", "Arter Assist", "Alter Assist", "Command Call", "Mind Call", "Blood of Crozzo", "Crozzo bloodline", "Veritas Burn", "Yatano Black Crow", "Yatano White Crow", "Mikuzume no Hou", "Avenger", "Fairy Cannon", "Double Canon", "Double Cannon", "Alf Regina", "Fairy Force", "Berserk", "Berserker skill", "Intense Heat", "Backdraft", "Solmani", "Fairy Serenade", "Mind Load", "Aero Mana", "Astrae Varmas", "Rubrud Beckia", "Five Lights", "Iai Strike: Five Lights", "Vana Arganture", "Laurel Wreath", "Deus Ambrosia", "Gif Blessing", "Limit Off", "Úlfheðinn", "Ulfhedinn", "Fenris Wolf", "Fairy Anthem", "Dvergr Enhance", "Ardigalea", "Prum Spirit", "Pallum Spirit", "Noble Brave", "Dia Phiana", "Dia Fianna", "Command Howl", "Ail mac Midna", "Fairy Senior", "Monstrum Union", "Dark Light", "Darklight", "Helios Passion", "Elios Passion", "Five-Dimension Troia", "Stultus Ottar", "Stortus Ottar", "Vana Angatyr", "Ganapati Blood", "Dharmas Algo", "Dharmas Argo", "Batrea Acras", "Batleate Asyrath", "Lubrude Bequia", "Laurus Wreath"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–14, Familia Chronicle Vols. 2 and 3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
   "related": ["status", "magic", "development-ability", "falna", "bell-cranell", "lefiya", "lyu-leon", "hyrute-sisters"],
   "infobox": {
@@ -35,7 +35,7 @@
     {"anchor": "mikuzume-no-hou", "title": "Mikuzume no Hou", "summary": "Haruhime's Skill from DanMachi 15, which makes her magic more effective and her Mind use more efficient.", "aliases": []},
     {"anchor": "avenger", "title": "Avenger", "summary": "Aiz Wallenstein's rare Skill, by Loki's word the most potent among all followers: a ravenous surge of power against monsters, which her Sword Oratoria 10 sheet ties to her hatred. Joined with Airiel it becomes Tempest Avenger.", "aliases": ["Tempest Avenger"]},
     {"anchor": "fairy-cannon", "title": "Fairy Cannon", "summary": "Lefiya Viridis's magic-boosting Skill: it amplifies the effects of her magic and doubles the boost for her attack magic.", "aliases": []},
-    {"anchor": "double-cannon", "title": "Double Cannon", "summary": "Lefiya Viridis's rare Skill from Level 4: she can keep one finished spell on standby while chanting another, and fire the first with the key \"Cannon\". Printed Double Canon in Sword Oratoria 13.", "aliases": ["Double Canon"]},
+    {"anchor": "double-canon", "title": "Double Canon", "summary": "Lefiya Viridis's rare Skill from Level 4: she can keep one finished spell on standby while chanting another, and fire the first with its key. Also printed Double Cannon.", "aliases": ["Double Cannon"], "former_anchors": ["double-cannon"]},
     {"anchor": "alf-regina", "title": "Alf Regina", "summary": "Riveria Ljos Alf's rare Skill: a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening their magic. Fairy Force is Loki's name for the elf squad built around it.", "aliases": ["Fairy Force"]},
     {"anchor": "berserk", "title": "Berserk", "summary": "The Skill both Hyrute sisters have: their power rises the more damage they take, and Tione's with her anger too. Also printed as Berserker.", "aliases": ["Berserker skill"]},
     {"anchor": "intense-heat", "title": "Intense Heat", "summary": "Tiona Hyrute's rare Skill: once her Status turns critical, before her Berserk runs its course, it gives her a massive boost.", "aliases": []},
@@ -62,7 +62,7 @@
     {"anchor": "five-dimension-troia", "title": "Five-Dimension Troia", "summary": "Cassandra Illion's Skill, which cannot be deciphered; even its name is not written in hieroglyphs, and the name used is Miach's interpretation.", "aliases": []},
     {"anchor": "filvis-skills", "title": "Filvis Challia's Skills", "summary": "Filvis's Fairy Senior, Monstrum Union and Dark Light, from her Sword Oratoria 12 sheet.", "aliases": ["Fairy Senior", "Monstrum Union", "Dark Light", "Darklight"]},
     {"anchor": "leon-skills", "title": "Leon Verdenberg's Skills", "summary": "Leon's Dvergr Gauntlet (Strength and smashing attacks) and Dvergr Rebellion (Defense, with anger-driven shifts), from his DanMachi 20 sheet.", "aliases": ["Dvergr Gauntlet", "Dvergr Rebellion"]},
-    {"anchor": "ardee-skills", "title": "Ardee Varma's Skills", "summary": "Ardee Varma's Ganapati Blood, a blessing of Ganesha, and Dharmas Algo, a passive boost for Familia members in range.", "aliases": ["Ganapati Blood", "Dharmas Algo", "Dharmas Argo"]}
+    {"anchor": "adi-skills", "former_anchors": ["ardee-skills"], "title": "Adi Varma's Skills", "summary": "Adi Varma's Ganapati Blood, a blessing of Ganesha, and Dharmas Algo, a passive boost for Familia members in range.", "aliases": ["Ganapati Blood", "Dharmas Algo", "Dharmas Argo"]}
   ]
 }
 ---
@@ -78,12 +78,12 @@ In DanMachi 1 Hestia reflects that many Skills share their effects with other ad
 
 A Skill that only an extremely small number of adventurers possess is called a **rare Skill**; the term is the gods'.[@fm01-rare] Gods eagerly chase news of any rare or original Skill, and some might even try to take its holder into their own Familia; this is one reason Hestia keeps [[#liaris-freese|Liaris Freese]] secret, even from [[bell-cranell|Bell]].[@fm01-gods] In DanMachi 4, after his record Level Up, gods crowd around Bell asking whether a rare Skill explains his growth.[@fm04-gods] In Sword Oratoria 7 [[riveria|Riveria]] guesses that his pace needs an undiscovered growth ability or a rare Skill to explain it.[@so07-riveria]
 
-The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#double-cannon|Double Cannon]], [[#alf-regina|Alf Regina]], [[#intense-heat|Intense Heat]], [[#solmani|Solmani]], [[#laurel-wreath|Laurel Wreath]] and [[#deus-ambrosia|Deus Ambrosia]].[@fm01-rare, avenger.so12-loki, double-cannon.so12-standby, alf-regina.so10-levis, intense-heat.so06-bache, solmani.so10-aiz, laurel-wreath.fm18-daphne, deus-ambrosia.ar03-glutton]
+The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#double-canon|Double Canon]], [[#alf-regina|Alf Regina]], [[#intense-heat|Intense Heat]], [[#solmani|Solmani]], [[#laurel-wreath|Laurel Wreath]] and [[#deus-ambrosia|Deus Ambrosia]].[@fm01-rare, avenger.so12-loki, double-cannon.so12-standby, alf-regina.so10-levis, intense-heat.so06-bache, solmani.so10-aiz, laurel-wreath.fm18-daphne, deus-ambrosia.ar03-glutton]
 
 ## How Skills appear {#how-skills-appear}
 
 - A Skill can appear at an ordinary Status update. Liaris Freese appears at Bell's first update after the [[minotaur|Minotaur]] rescue.[@liaris-freese.fm01-skill]
-- Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Cannon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
+- Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Canon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
 - The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
 - Some Skills come with the blood. Many of the Crozzo family gained the family's magic-sword Skill, and the Gojouno line of the [[far-east|Far East]] passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
 - Among beast people, only a few races can transform. Once they receive a [[falna|Falna]], their transformation is tied to their Skills, usually with a condition to meet or a risk attached; werewolves transform in moonlight.[@fm18-beast, so08-moon]
@@ -106,7 +106,7 @@ Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that w
 
 ## Skills, magic and Development Abilities {#skills-magic-and-development-abilities}
 
-A Status lists Skills apart from spells and Development Abilities; the [[magic#magic-skills-and-development-abilities|Magic]] page compares the three. A Skill can change how a spell works without being one: Argonaut charges [[magic#firebolt|Firebolt]], Double Cannon holds a finished spell in reserve, and Avenger joins Aiz's [[magic#airiel|Airiel]].[@argonaut.fm04-dragon, double-cannon.so12-card, avenger.so12-forbidden] Some Skills lend a Development Ability for a time: Finn's Dia Phiana gives him Lancer when he holds a spear, Daphne's Helios Passion gives her Escape while she is chased, and Ottar's Stultus Ottar gives him Heal and Spirit Heal in battle.[@sheet.so08-finn, sheet.fm14-daphne, sheet.fc02-ottar]
+A Status lists Skills apart from spells and Development Abilities; the [[magic#magic-skills-and-development-abilities|Magic]] page compares the three. A Skill can change how a spell works without being one: Argonaut charges [[magic#firebolt|Firebolt]], Double Canon holds a finished spell in reserve, and Avenger joins Aiz's [[magic#airiel|Airiel]].[@argonaut.fm04-dragon, double-cannon.so12-card, avenger.so12-forbidden] Some Skills lend a Development Ability for a time: Finn's Dia Phiana gives him Lancer when he holds a spear, Daphne's Helios Passion gives her Escape while she is chased, and Ottar's Stultus Ottar gives him Heal and Spirit Heal in battle.[@sheet.so08-finn, sheet.fm14-daphne, sheet.fc02-ottar]
 
 ### Status sheets in the illustrations {#status-sheets}
 
@@ -135,7 +135,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#mikuzume-no-hou|Mikuzume no Hou]] | Haruhime | Magic support | More effective magic; more efficient Mind use[@mikuzume-no-hou.fm15-card] |
 | [[#avenger|Avenger]] | Aiz Wallenstein | Revenge | A ravenous surge of power against monsters[@avenger.so12-loki] |
 | [[#fairy-cannon|Fairy Cannon]] | Lefiya Viridis | Magic support | Magic effects amplified; attack magic doubled[@fairy-cannon.so12-card] |
-| [[#double-cannon|Double Cannon]] | Lefiya Viridis | Spell standby | Holds one spell ready while she chants another[@double-cannon.so12-card, double-cannon.so12-standby] |
+| [[#double-canon|Double Canon]] | Lefiya Viridis | Spell standby | Holds one spell ready while she chants another[@double-cannon.so12-card, double-cannon.so12-standby] |
 | [[#alf-regina|Alf Regina]] | Riveria Ljos Alf | Party (elves) | Returns leftover magic as Mind to elves in her circle and strengthens their magic[@alf-regina.so10-effect] |
 | [[#berserk|Berserk]] | Tiona and Tione Hyrute | Damage-driven | More power the more damage they take (Tione: and the angrier she is)[@berserk.so06-tiona, berserk.so06-tione] |
 | [[#intense-heat|Intense Heat]] | Tiona Hyrute | Crisis | A massive boost once her Status is critical[@intense-heat.so06-bache] |
@@ -166,8 +166,8 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#filvis-skills|Fairy Senior]] | Filvis Challia | Magic support | Stronger magic, growing with her grief[@sheet.so12-filvis] |
 | [[#filvis-skills|Monstrum Union]] | Filvis Challia | Hybrid | Status bug; anima erosion[@sheet.so12-filvis] |
 | [[#filvis-skills|Dark Light]] | Filvis Challia | Magic change | Changes the light and the wavelength of her magic; adds a recovery-rejecting enchantment[@sheet.so12-filvis] |
-| [[#ardee-skills|Ganapati Blood]] | Ardee Varma | Blessing | Slightly modified stats[@sheet.ar02-ardee] |
-| [[#ardee-skills|Dharmas Algo]] | Ardee Varma | Party (same Familia) | Passive stat boost for Familia members in range[@sheet.ar02-ardee] |
+| [[#adi-skills|Ganapati Blood]] | Adi Varma | Blessing | Slightly modified stats[@sheet.ar02-ardee] |
+| [[#adi-skills|Dharmas Algo]] | Adi Varma | Party (same Familia) | Passive stat boost for Familia members in range[@sheet.ar02-ardee] |
 | [[#deus-ambrosia|Deus Ambrosia]] | Zald | Eating | What he eats boosts his stats[@deus-ambrosia.ar03-glutton] |
 | [[#gif-blessing|Gif Blessing]] | Alfia | Negative | Permanent Limit Off, with ailments and a steady decline[@gif-blessing.ar03-effect] |
 | [[#leon-skills|Dvergr Gauntlet]] | Leon Verdenberg | Strength | Much more Strength; stronger smashing attacks[@sheet.fm20-leon] |
@@ -263,7 +263,7 @@ It is costly. DanMachi 5 calls it a double-edged sword that takes enormous physi
 
 #### Chime and grand bell {#argonaut-chime-and-grand-bell}
 
-An ordinary charge sounds like chimes. In DanMachi 18, sneaking toward the enemy base, Bell will not let the "grand bell" ring, because its sound would give him away, and charges only as far as the normal limit.[@argonaut.fm18-limiter] Later in the same battle, charging against [[ottar|Ottar]], a grand bell rings instead of a chime, and the narration says the limit is off.[@argonaut.fm18-ottar] In DanMachi 5 Bell enters a [[#limit-release|Limit Release]] while charging against the Black Goliath.[@argonaut.fm05-limit] The Japanese turns the chime into the grand bell there too, with the same word, *Limit Off*, so the two volumes agree; Yen Press prints "church bells" in DanMachi 5.[@argonaut.fm05-ja-limit, argonaut.fm18-ja-limit]
+An ordinary charge sounds like chimes. In DanMachi 18, sneaking toward the enemy base, Bell will not let the "grand bell" ring, because its sound would give him away, and charges only as far as the normal limit.[@argonaut.fm18-limiter] Later in the same battle, charging against [[ottar|Ottar]], a grand bell rings instead of a chime, and the narration says the limit is off.[@argonaut.fm18-ottar] In DanMachi 5 Bell enters a [[#limit-release|Limit Release]] while charging against the Black Goliath.[@argonaut.fm05-limit] The Japanese turns the chime into the grand bell there too, with the same word, *Limit Off*, so the two volumes agree.[@argonaut.fm05-ja-limit, argonaut.fm18-ja-limit]
 
 #### Open questions {#argonaut-open-questions}
 
@@ -405,17 +405,17 @@ In Sword Oratoria 12 she calls "Tempest" and then "Avenger", which the narration
 - **Holder:** Lefiya Viridis[@fairy-cannon.so12-card]
 - **Status entry:** Magic effects amplified; the boost doubled for attack magic only, alike on the Sword Oratoria 12 card and the Sword Oratoria 2 sheet.[@fairy-cannon.so12-card, sheet.so02-lefiya]
 
-### Double Cannon {#double-cannon}
+### Double Canon {#double-canon}
 
-**Double Cannon** is Lefiya's second Skill, which manifests when she reaches Level 4 in Sword Oratoria 12. Her card describes an active trigger that preserves the magic circle of the preceding spell, released with the activation key "Cannon".[@double-cannon.so12-card]
+**Double Canon** ({{ja|二重追奏}}, written *double canon*, the musical term) {{small|printed *Double Cannon* in Sword Oratoria 12}}[@double-cannon.so12-ja] is Lefiya's second Skill, which manifests when she reaches Level 4 in Sword Oratoria 12. Her card describes an active trigger that preserves the magic circle of the preceding spell, released with the activation key "Cannon".[@double-cannon.so12-card]
 
 - **Holder:** Lefiya Viridis[@double-cannon.so12-card]
 - **Appeared:** At Level 4 (Sword Oratoria 12)[@double-cannon.so12-card, double-cannon.so12-standby]
-- **Printed as:** Double Canon, with the key "Canon", in Sword Oratoria 13[@double-cannon.so13-canon]
+- **Printed as:** {{small|*Double Cannon*, with the key "Cannon", in Sword Oratoria 12; Sword Oratoria 13 prints *Double Canon* and the key "Canon"}}[@double-cannon.so12-card, double-cannon.so13-canon]
 
 #### Standby {#double-cannon-standby}
 
-Any mage can hold a finished spell on standby, but while one spell is held no new cast can begin: starting another cancels it, and forcing two spells at once causes an Ignis Fatuus. Double Cannon, a rare Skill, lets Lefiya keep the first spell ready while she chants a second, and fire the first whenever she wants with the key, in effect handling two spells at once.[@double-cannon.so12-standby] See [[magic#casting-techniques|Casting techniques]].
+Any mage can hold a finished spell on standby, but while one spell is held no new cast can begin: starting another cancels it, and forcing two spells at once causes an Ignis Fatuus. Double Canon, a rare Skill, lets Lefiya keep the first spell ready while she chants a second, and fire the first whenever she wants with the key, in effect handling two spells at once.[@double-cannon.so12-standby] See [[magic#casting-techniques|Casting techniques]].
 
 #### Cost and use {#double-cannon-cost-and-use}
 
@@ -518,9 +518,9 @@ Both fit what DanMachi 1 says of dwarves, who usually develop Skills that improv
 |---|---|
 | **Prum Spirit** | Boosts the effects of his magic and Skills in adversity.[@sheet.so08-finn] |
 | **Noble Brave** | High resistance to mind corruption.[@sheet.so08-finn] |
-| **Dia Phiana** | With a spear, temporarily lets him use the Development Ability Lancer; the effect depends on his Level.[@sheet.so08-finn] |
-| **Command Howl** | Once his voice passes a certain volume, it carries further; in a melee the extension grows with the size of the battle.[@sheet.so08-finn] |
-| **Ail mac Midna** | Resistance to sleep and a greater ability to stay awake for long periods; more endurance against fire.[@sheet.so08-finn] |
+| **Dia Phiana** ({{ja|騎心一槍}}, written *a knight's heart, one spear*)[@finn-skills.so08-ja] | With a spear, temporarily lets him use the Development Ability Lancer; the effect depends on his Level.[@sheet.so08-finn] |
+| **Command Howl** ({{ja|指揮戦声}}, written *command battle voice*)[@finn-skills.so08-ja] | Once his voice passes a certain volume, it carries further; in a melee the extension grows with the size of the battle.[@sheet.so08-finn] |
+| **Ail mac Midna** ({{ja|軍長勲章}}, written *commander's decoration*, read *Aru Makumīna*)[@finn-skills.so08-ja] | Resistance to sleep and a greater ability to stay awake for long periods; more endurance against fire.[@sheet.so08-finn] |
 
 Command Howl reads much like the first part of Lilly's [[#command-call|Command Call]], which adds telepathic transmission to those with the same Falna.[@sheet.so08-finn, command-call.fm15-card] Finn's first Falna, in Sword Oratoria 14, already held two powerful Skills, Prum Spirit and Noble Brave, as his Status card there (printed as an image) and his Level 1 sheet show.[@so14-finn]
 
@@ -558,7 +558,7 @@ She uses it in Astrea Record 3 against [[alfia|Alfia]], and in DanMachi 18 her w
 - **Type:** Passive[@fc03-lyu-card5]
 - **Appeared:** At Level 5 (Familia Chronicle 3)[@astrae-varmas.fc03-new]
 
-Going over it with Astrea, Lyu finds that the resistance to mental control is unconditional, reaching anyone with a Falna, enemies included, and that she benefits from it too.[@astrae-varmas.fc03-new] She takes it as a sign that the sense of justice of her dead friend Ardee Varma {{small|printed *Adi* here}} lives on in her.[@astrae-varmas.fc03-adi]
+Going over it with Astrea, Lyu finds that the resistance to mental control is unconditional, reaching anyone with a Falna, enemies included, and that she benefits from it too.[@astrae-varmas.fc03-new] She takes it as a sign that the sense of justice of her dead friend Adi Varma lives on in her.[@astrae-varmas.fc03-adi]
 
 ### Rubrud Beckia {#rubrud-beckia}
 
@@ -651,16 +651,16 @@ In the DanMachi 18 Familia War her bark-covered arm turns aside [[hegni|Hegni]]'
 > [!INFERENCE] Black lightning
 > Her [[magic#dio-thyrsos|Dio Thyrsos]] is a golden bolt in Sword Oratoria 7 but black lightning in Sword Oratoria 12.[@filvis-skills.so07-golden, filvis-skills.so12-black] Dark Light, written *black-curse contamination*, changes the light and the wavelength of her magic and may be the reason; the sheet does not name a colour.[@sheet.so12-filvis]
 
-### Ardee Varma's Skills {#ardee-skills}
+### Adi Varma's Skills {#adi-skills}
 
-Ardee Varma of [[ganesha-familia|Ganesha Familia]] has a character sheet at the end of Astrea Record 2 (Level 3) that lists two Skills.[@sheet.ar02-ardee]
+Adi Varma {{small|printed *Ardee* in Astrea Record 1 and 2}} of [[ganesha-familia|Ganesha Familia]] has a character sheet at the end of Astrea Record 2 (Level 3) that lists two Skills.[@sheet.ar02-ardee]
 
 | Skill | On the sheet |
 |---|---|
 | **Ganapati Blood** ({{ja|守人血統}}, written *guardian bloodline*) | A blessing of [[ganesha|Ganesha]] that slightly modifies her stats.[@sheet.ar02-ardee, ardee-skills.ar02-ja] |
 | **Dharmas Algo** ({{ja|正義巡継}}, written *justice passed on in turn*) | A passive Falna effect that boosts the stats of all Familia members within a set range; range and boost depend on her Level.[@sheet.ar02-ardee, ardee-skills.ar02-ja] |
 
-Dharmas Algo works much like Lyu's later [[#astrae-varmas|Astrae Varmas]], a passive Falna effect for allies of the same god in range. Lyu takes Astrae Varmas as a sign that her friend Adi's (Ardee's) sense of justice lives on in her; the novels do not compare the two Skills directly.[@sheet.ar02-ardee, fc03-lyu-card5, astrae-varmas.fc03-adi]
+Dharmas Algo works much like Lyu's later [[#astrae-varmas|Astrae Varmas]], a passive Falna effect for allies of the same god in range. Lyu takes Astrae Varmas as a sign that her friend Adi's sense of justice lives on in her; the novels do not compare the two Skills directly.[@sheet.ar02-ardee, fc03-lyu-card5, astrae-varmas.fc03-adi]
 
 ### Leon Verdenberg's Skills {#leon-skills}
 
@@ -700,7 +700,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@fm01-slot]: FM01 | Chapter 1: World, Reality, and Desire | Bell's Status has a Skill slot.
 [@fm01-separate]: FM01 | Chapter 1: World, Reality, and Desire | Skills are separate from basic abilities; very few are a loss once they manifest, but the number is not zero (the Japanese edition, file cFB, paragraph 202).
 [@fm01-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Many Skills similar in effect; racial tendencies; the "rare skill".
-[@fm01-ja-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraphs 149-152): obtaining a Skill is itself rare; among confirmed Skills the names differ but the abilities are alike. Yen Press prints that it "was not fully understood how skills were acquired" and that the Skills had "different names and effects".
+[@fm01-ja-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraphs 149-152): obtaining a Skill is itself rare; among confirmed Skills the names differ but the abilities are alike.
 [@fm01-gods]: FM01 | Chapter 4: That’s Why I Want to Help | Gods chase rare Skills; Hestia keeps Bell's to herself.
 [@fm04-gods]: FM04 | Chapter 2: Changing Environment, New Relationships | Gods ask Bell whether a rare Skill explains his growth.
 [@so07-riveria]: SO07 | | Riveria: an undiscovered growth ability or a rare Skill.
@@ -755,7 +755,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@argonaut.fm05-three]: FM05 | Chapter 6: Praise to the Heroes | Three minutes for a full charge.
 [@argonaut.fm05-image]: FM05 | Chapter 6: Praise to the Heroes | A hero's image; the Great Hero David.
 [@argonaut.fm05-limit]: FM05 | Chapter 6: Praise to the Heroes | Limit Release.
-[@argonaut.fm05-ja-limit]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 559 to 562, 584, 596 and 724; file part0031, paragraph 2): the ruby reads Limit Off; the strength of Bell's feeling, which surpasses even the Falna, breaks the boundary and temporarily raises the Skill's power, and the chime of the charge turns into the sound of the grand bell. The Japanese uses the grand bell five times in this battle where Yen Press prints church bells.
+[@argonaut.fm05-ja-limit]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 559 to 562, 584, 596 and 724; file part0031, paragraph 2): the ruby reads Limit Off; the strength of Bell's feeling, which surpasses even the Falna, breaks the boundary and temporarily raises the Skill's power, and the chime of the charge turns into the sound of the grand bell. The Japanese uses the grand bell five times in this battle.
 [@argonaut.fm18-ja-limit]: FM18 | Chapter 9: Flower Language for You | Japanese original (file part0029, paragraph 97; also file part0023, paragraph 437): the sound that rings is not the chime but the grand bell, which is Limit Off, the same two words as in DanMachi 5; earlier, while sneaking, Bell thinks of Limit Off and that the grand bell must never ring.
 [@argonaut.fm06-card]: FM06 | Chapter 3: Outbreak | Card: the charge for active actions. The Japanese edition (file c295, paragraph 12) gives him the right to execute a charge for active actions, like the DanMachi 4, 5 and 20 cards.
 [@argonaut.fm12-tests]: FM12 | Chapter 2: Adventure Intermission | Four-minute maximum; one place at a time; cancelled charges; convergence. The Japanese edition (file part0014, paragraph 692) limits the charge to attack-related actions.
@@ -817,6 +817,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@double-cannon.so12-cost]: SO12 | Chapter 8: A Heroes’ Chorus | Mind drain; choosing spells ahead.
 [@double-cannon.so12-party]: SO12 | Chapter 8: A Heroes’ Chorus | Asfi: it needs a party.
 [@double-cannon.so13-canon]: SO13 | Chapter 3: Class is in Session | "Double Canon"; the ring on her left wrist; key "Canon".
+[@double-cannon.so12-ja]: SO12 | Chapter 4: Nameless Heroes | The Japanese edition (file c1PZ, paragraphs 357 and 360) writes the Skill with kanji meaning double canon, read Double Canon, and its key with kanji meaning canon release, read Canon.
 [@alf-regina.so10-levis]: SO10 | Chapter 5: Brave Soul! | The jade circle; Levis sees a rare Skill.
 [@alf-regina.so10-effect]: SO10 | Chapter 5: Brave Soul! | Effect; only Riveria; compared with Spirit Healing; Finn's plan.
 [@alf-regina.so10-name]: SO10 | Chapter 5: Brave Soul! | "Fairy Force": Loki's name for "an elf-only squad centered around Riveria".
@@ -888,3 +889,4 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@ulfhedinn.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning wolf howling under the moon, read Úlfheðinn.
 [@fenris-wolf.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning lone wolf's swift run, read Fenris Wolf.
 [@solmani.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning twin wolves' pursuit, read Solmani.
+[@finn-skills.so08-ja]: SO08 | | The Japanese Status sheet (file c5Z3, an image) writes three of Finn's Skills in kanji meaning a knight's heart, one spear (read Dia Fiana), command battle voice (read Command Howl) and commander's decoration (read Aru Makumīna).

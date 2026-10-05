@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
-      {"label": "Known as", "value": "The Sage; calls themself Fels the Fool", "refs": ["fm09-fels"]},
+      {"label": "Also called", "value": "The Sage; calls themself Fels the Fool", "refs": ["fm09-fels"]},
       {"label": "Age", "value": "At least eight hundred years", "refs": ["ss01-fels"]},
       {"label": "Form", "value": "An undying skeleton", "refs": ["fm09-fels"]},
       {"section": "Role"},

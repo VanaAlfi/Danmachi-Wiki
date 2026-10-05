@@ -42,11 +42,11 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 
 ## Eating magic stones
 
-**Enhanced species** are monsters that kill their own kind and consume their magic stones to grow stronger. The Guild treats such monsters as [[irregular|Irregulars]] and puts bounties on exceptionally strong ones; Bell notes that the [[xenos|Xenos]] roughly fall into the category too.[@fm12-enhanced] Sword Oratoria 4 describes an enhanced [[monsters#wyvern|wyvern]], "king of the skies", that had attacked many other monsters and stolen their stones.[@so04-wyvern]
+**Enhanced species** are monsters that kill their own kind and consume their magic stones to grow stronger. The Guild treats such monsters as [[irregular|Irregulars]] and puts bounties on exceptionally strong ones; Bell notes that the [[xenos|Xenos]] roughly fall into the category too.[@fm12-enhanced] Sword Oratoria 4 describes an enhanced [[monsters#wyvern|wyvern]], the wyverns' king, that had attacked many other monsters and stolen their stones.[@so04-wyvern]
 
 - **The [[monsters#moss-huge|moss huge]].** In DanMachi 12 an enhanced moss huge in the [[water-capital|Water Capital]], which eats magic stones and even seeks out adventurers' pouches of them, routs Luvis Lilix's party (see [[modi-and-magni-familias#luvis-lilix|Luvis Lilix]]).[@fm12-enhanced, fm12-mosshuge]
 - **Denying stones.** In DanMachi 14, Bell and Lyu dispose of the stones of monsters killed in an explosion so that they cannot feed an enhanced species.[@fm14-dispose]
-- **Creatures.** "She" revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him; he and [[levis|Levis]] are human-monster hybrids who become all-powerful enhanced species by assimilating magic stones.[@so04-hybrids] Levis eats other monsters' stones to recover her strength.[@so04-levis]
+- **Creatures.** "She" revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him; he and [[levis|Levis]] are human-monster hybrids, enhanced species that grow stronger by taking in magic stones.[@so04-hybrids] Levis eats other monsters' stones to recover her strength.[@so04-levis]
 - **Xenos.** The Xenos kill ordinary monsters and eat their stones to survive; see [[xenos|Xenos]].[@fm12-enhanced]
 
 ## Open questions
@@ -68,6 +68,6 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 [@fm12-enhanced]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): "monsters that kill their own kind and consume the magic stones of their prey"; "Lido and the other Xenos fall into that category as well"; "viewed as Irregulars"; bounties and subjugation orders.
 [@fm12-mosshuge]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): "The monster is after the magic stones that adventurers collect?!"; "snatched their pouches packed with magic stones".
 [@fm14-dispose]: FM14 | | "we dispose of the magic stones in the corpses of monsters killed in the explosion in order to prevent them from being used to create an enhanced species".
-[@so04-hybrids]: SO04 | First Chapter: And the Boy… | "implanting within him a vivid magic stone"; "a new human-monster hybrid"; "By assimilating magic stones, she and her kind could morph into all-powerful enhanced species".
+[@so04-hybrids]: SO04 | First Chapter: And the Boy… | "implanting within him a vivid magic stone"; "a new human-monster hybrid"; she and her kind are enhanced species that grow stronger by taking in magic stones (the Japanese edition, file c2ZU).
 [@so04-levis]: SO04 | Last Chapter: To Adventure | "she had the ability to consume other monsters’ magic stones".
-[@so04-wyvern]: SO04 | Last Chapter: To Adventure | "An enhanced species was a creature that had attacked a great many other monsters and stolen their magic stones"; "this king of the skies".
+[@so04-wyvern]: SO04 | Last Chapter: To Adventure | "An enhanced species was a creature that had attacked a great many other monsters and stolen their magic stones"; the king of the wyverns (the Japanese edition, file c5SA).

@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Personal"},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["ar01-arachnia"]},
-      {"label": "Alias", "value": "Arachnia", "refs": ["ar01-arachnia", "so08-blacklist"]},
+      {"label": "Title", "value": "Arachnia ({{ja|殺帝}}, written *murder empress*)", "refs": ["ar01-arachnia", "so08-blacklist", "so09-arachnia-ja"]},
       {"section": "Evils"},
       {"label": "Affiliation", "value": "[[evils|The Evils]]; later Thanatos's remnants", "refs": ["so07-finn", "so07-thanatos"]},
       {"label": "Level", "value": "5", "refs": ["so07-level"]},
@@ -59,24 +59,24 @@ In their final fight Valletta traps Bete in her magic [[#shaldo|Shaldo]], but he
 
 - **User:** Valletta Grede, of the [[evils|Evils]][@shaldo.so08-explain]
 - **Type:** Status Down field ("barrier magic")[@shaldo.so08-explain]
-- **Chant:** Long, by Valletta's account; not printed[@shaldo.so08-explain]
+- **Chant:** Super-long, by Valletta's account; not printed[@shaldo.so08-explain]
 - **Ends if:** Valletta steps outside it[@shaldo.so08-explain]
 
 #### Incantation {#shaldo-incantation}
 
-The chant is not printed: when Bete walks in, the field is already in place.[@shaldo.so08-field] {{statement}} Valletta says it has "an annoyingly long chant".[@shaldo.so08-explain]
+The chant is not printed: when Bete walks in, the field is already in place.[@shaldo.so08-field] {{statement}} Valletta says it has a super-long chant.[@shaldo.so08-explain]
 
 #### Effect {#shaldo-effect}
 
-- **The field.** Faint reddish-purple geometric shapes cover the floor of the underground room, each "120 or so meders across", centred on Valletta.[@shaldo.so08-field]
-- **Status Down.** {{statement}} Valletta calls it a Status Down spell that saps the power and speed of any uninvited guest, and says the more they move around, the worse it gets.[@shaldo.so08-explain] Bete feels his reactions and strength fall by the second, and guesses he has been pushed down to about Level 4.[@shaldo.so08-explain, shaldo.so08-level4]
-- **No recasting.** The narration notes that it keeps lowering a target's Status by itself without being cast again, and supposes that one, ten or a hundred people inside would all be affected.[@shaldo.so08-level4]
+- **The field.** Faint reddish-purple geometric patterns cover almost the whole floor of the underground room, a circle 60 meders in radius centred on Valletta.[@shaldo.so08-field]
+- **Status Down.** {{statement}} Valletta calls it a Status Down spell that saps the power and speed of any uninvited guest, and says the more they move around, the worse it gets.[@shaldo.so08-explain] Bete feels his reactions and strength fall by the second, and guesses his power has fallen below about Level 4.[@shaldo.so08-explain, shaldo.so08-level4]
+- **No recasting.** The narration notes that it keeps lowering a target's Status by itself without being cast again, and notes that one, dozens or hundreds of people inside would all be affected.[@shaldo.so08-level4]
 
 #### Costs and limits {#shaldo-costs-and-limits}
 
 {{statement}} Valletta is frank about its drawbacks: the long chant, the Mind it uses, and the fact that it dissipates the moment she steps outside it. She calls it "not even that useful in real combat", but "perfect for a trap".[@shaldo.so08-explain]
 
-She first calls it "a type of…barrier magic", then says "this magic isn't a barrier at all"; the narration later calls it her barrier.[@shaldo.so08-explain, shaldo.so08-hati] It is a field that weakens those inside it, not a wall that stops attacks.
+She calls it barrier magic that blocks nothing; the narration calls it her barrier.[@shaldo.so08-explain, shaldo.so08-hati] It is a field that weakens those inside it, not a wall that stops attacks.
 
 #### The trap {#shaldo-the-trap}
 
@@ -118,7 +118,8 @@ In Astrea Record 1, set years earlier, the narration remarks that a mage, had on
 [@so10-loss]: SO10 | Chapter 2: Someone Named Fool | "The enemy had lost a skilled commander in Arachnia, Valletta Grede."
 [@shaldo.ar01-valletta]: AR01 | | The narration on the traces. The Japanese edition (file c2W8, paragraph 239) says that a mage, had one been there, would have sensed them.
 [@shaldo.so08-bombard]: SO08 | Chapter 5: Battered Wolf | Magic swords; Bete hit trying to flee.
-[@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; long chant; Mind; dissipates; a trap; Status Down.
-[@shaldo.so08-field]: SO08 | Chapter 5: Battered Wolf | Reddish-purple shapes, "120 or so meders across", centred on Valletta.
+[@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; a super-long chant; Mind; dissipates; a trap; Status Down. The Japanese edition (file c45H, paragraph 460) has Valletta call it barrier magic that blocks nothing, with a super-long chant.
+[@shaldo.so08-field]: SO08 | Chapter 5: Battered Wolf | Reddish-purple shapes centred on Valletta. The Japanese edition (file c45H, paragraph 359) gives the field a radius of 60 meders, reaching almost the whole underground space.
 [@shaldo.so08-hati]: SO08 | Chapter 5: Battered Wolf | The patterns flicker; Hati eats barriers; Valletta struck.
-[@shaldo.so08-level4]: SO08 | Chapter 5: Battered Wolf | No repeated casting; one, ten or a hundred; about Level 4.
+[@shaldo.so08-level4]: SO08 | Chapter 5: Battered Wolf | No repeated casting; one, dozens or hundreds; below about Level 4. The Japanese edition (file c45H, paragraphs 467 and 476) states the reach as fact and puts Bete's power below about Level 4.
+[@so09-arachnia-ja]: SO09 | | The Japanese edition writes her title with kanji meaning murder empress, read Arachnia.

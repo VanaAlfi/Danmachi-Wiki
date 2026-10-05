@@ -58,7 +58,7 @@ In [[ali|Ali]]'s war of Familia Chronicle 2 the brothers act as Freya's guards a
 | Volume | Events |
 |---|---|
 | Astrea Record 1 | Alfrik and Hedin have studied old battles in the Guild library, and so recognise Osiris Familia among the Evils' fighters.[@ar01-library] |
-| Astrea Record 3 | Driven back by Basram's spirit soldiers.[@ar03-basram] |
+| Astrea Record 3 | Driven back by Basram's spirit soldiers.[@ar03-basram] At the Amphitheatrum they destroy the four spirit warriors at Basram's side, Alfrik cuts off the arm holding his staff, and Alfrik's spear kills the transformed Basram.[@ar03-basram-end] |
 | Familia Chronicle 2 | In [[ali|Ali]]'s war in the Kaios Desert they rampage through Warsa's army.[@fc02-desert] |
 | Sword Oratoria 4 | With Allen, they keep [[loki-familia|Loki Familia]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]].[@so04-bringar] |
 | Sword Oratoria 12 | Join the final battle: they take the [[equipment#spirit-cloth|spirit flag]]s from [[tsubaki|Tsubaki]] and Loki Familia and charge through the enemy's magic, which "Those four small frames nullified" by working as one.[@so12-flags-g] |
@@ -92,6 +92,7 @@ Sword Oratoria 12 prints the family name once as *Gullivar* ("Alfrik Gullivar").
 [@fm18-loyalty]: FM18 | Chapter 9: Flower Language for You | "That was the impetus that drove Alfrik and his brothers. They had always hated themselves."; "they had always prayed for the goddess’s safety".
 [@ar01-library]: AR01 | Chapter 11: Absolute Evil | "Hedin and Alfrik had visited the Guild library, poring over chronicles of old battles"; "the likenesses of Osiris Familia".
 [@ar03-basram]: AR03 | Chapter 5: Playing the Violence Card | The Gullivers against Basram's spirit soldiers. The Japanese edition (file c3YC, paragraph 744) says the spirit soldiers drive them back.
+[@ar03-basram-end]: AR03 | Chapter 6: The Nameless Heroes | The brothers destroy the spirit warriors at Basram's side; Alfrik severs the arm holding the staff; Alfrik's spear through the heart of the transformed Basram.
 [@so12-flags-g]: SO12 | Chapter 7: Final War II | "Alfrik Gullivar"; "they quickly stole all the flags that Tsubaki and Loki Familia"; "Those four small frames nullified the tremendous storm of magic blasts by working as one."
 [@fc02-guards]: FC02 | Ali and the 8 Followers | "We combed through the entire residence to be sure no assassins or suspicious elements were here"; "Leaving the restraint and torture of Bofman to his brothers"; "The former slaves were startled by the sudden appearance of the Gulliver brothers and started sweating bullets in terror".
 [@fc02-fortress-g]: FC02 | Ali and the 8 Followers | "the eldest Gulliver brother lifted the faceguard of his sand-colored helm"; "passage in the rear where they loosed a fusillade of arrows at those who tried to flee"; "Some of the magic remnants are a bit stronger."; "there are characters written in blood".

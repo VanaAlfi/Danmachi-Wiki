@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "A deep-level floor called the White Palace: a vast maze of five ring walls, home to the Monster Rex Udaeus, where Astrea Familia died and Bell and Lyu survive four days.",
+  "summary": "A deep-level floor called the White Palace: a vast maze of five ring walls, home to the Monster Rex Udaeus, where Bell and Lyu survive four days.",
   "aliases": ["White Palace"],
   "spoilers": "DanMachi Vols. 2, 13–14, Sword Oratoria Vol. 2, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "monster-rex", "juggernaut", "lyu-leon", "bell-cranell", "astrea-familia", "delphyne"],

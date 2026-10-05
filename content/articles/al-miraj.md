@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Horned rabbit monsters of the Dungeon's thirteenth and fourteenth floors, rated Level 2 because they are dangerous in packs; they throw stone tomahawks. One al-miraj, Aruru, is a Xenos who takes a liking to Bell and, with the hellhound Helga, is sheltered by Cassandra in DanMachi 11.",
-  "aliases": ["al-miraj", "almirage", "Rabbit monster", "Aruru", "Helga"],
+  "aliases": ["al-miraj", "almirage", "Rabbit monster"],
   "spoilers": "DanMachi Vols. 5, 7, 9–11, 14, Sword Oratoria Vols. 8, 10, 12, 13 and Minor Myths and Legends Vol. 1",
   "related": ["xenos", "dungeon", "cassandra", "lilliluka-erde", "mikoto", "bell-cranell", "wiene", "asterios"],
   "sections": [
@@ -17,6 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monster"},
+      {"label": "Japanese", "value": "{{ja|白兎}}, written *white rabbit*", "refs": ["so08-almiraj-ja"]},
       {"label": "Form", "value": "A horned rabbit that walks on its hind legs, about Lilly's height", "refs": ["fm05-rabbit"]},
       {"label": "Rating", "value": "Level 2, because they are dangerous in groups", "refs": ["fm05-level"]},
       {"label": "Found", "value": "The thirteenth and fourteenth floors (middle levels)", "refs": ["fm05-rabbit", "fm05-floors"]},
@@ -27,15 +28,15 @@
   }
 }
 ---
-The **al-miraj** are rabbit monsters of [[dungeon|the Dungeon]]'s middle levels, found on the thirteenth and fourteenth floors.[@fm05-rabbit, fm05-floors] Each is a horned rabbit that walks on its hind legs. They have low fighting ability for the middle levels but are rated Level 2, a threat rating, since they are very strong in groups (the Yen Press text calls them "some of the weakest monsters in the middle levels").[@fm05-rabbit, fm05-level, fm05-ja-level] One al-miraj, [[#aruru|Aruru]], is one of the [[xenos|Xenos]].[@fm09-aruru]
+The **al-miraj** are rabbit monsters of [[dungeon|the Dungeon]]'s middle levels, found on the thirteenth and fourteenth floors.[@fm05-rabbit, fm05-floors] Each is a horned rabbit that walks on its hind legs. They have low fighting ability for the middle levels but are rated Level 2, a threat rating, since they are very strong in groups.[@fm05-rabbit, fm05-level, fm05-ja-level] One al-miraj, [[#aruru|Aruru]], is one of the [[xenos|Xenos]].[@fm09-aruru]
 
 DanMachi 5 prints the name capitalised, *Al-Miraj*; DanMachi 7 prints *almirage*; from DanMachi 9 on, and in Sword Oratoria, it is printed *al-miraj*.[@fm05-rabbit, fm07-almirage, fm09-hesitate, so10-decoy]
 
 ## The species {#species}
 
-- **Appearance:** long ears, white and yellow fur, a bushy tail, and a sharp horn on the forehead (the Yen Press text says "Floppy ears" and "a long sharp horn"). They hop on their hind legs and are about [[lilliluka-erde|Lilly]]'s height. [[bell-cranell|Bell]] calls them "needle rabbits that learned how to walk on two legs" (see [[monsters#needle-rabbit|needle rabbit]]).[@fm05-rabbit, fm05-ja-rabbit]
+- **Appearance:** long ears, white and yellow fur, a bushy tail, and a sharp horn on the forehead. They hop on their hind legs and are about [[lilliluka-erde|Lilly]]'s height. [[bell-cranell|Bell]] calls them "needle rabbits that learned how to walk on two legs" (see [[monsters#needle-rabbit|needle rabbit]]).[@fm05-rabbit, fm05-ja-rabbit]
 - **Where:** they first appear on the thirteenth floor. DanMachi 5 says they appear only on the thirteenth and fourteenth floors, so one seen on [[floor-18|Floor 18]] makes an adventurer suspicious.[@fm05-rabbit, fm05-floors]
-- **Strength:** one al-miraj has low fighting ability: even upper-ranked Level 1 adventurers can only just manage one (the Yen Press text says they "can hold their own"), if they know it is more agile than a [[monsters#silverback|silverback]]. The rating of Level 2 is for their danger "in groups".[@fm05-level, fm05-ja-level] They boast high agility even among middle-level monsters (the Yen Press text says "one of the most agile monsters in the middle levels"); [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-ja-level, fm05-bell]
+- **Strength:** one al-miraj has low fighting ability: even upper-ranked Level 1 adventurers can only just manage one, if they know it is more agile than a [[monsters#silverback|silverback]]. The rating of Level 2 is for their danger "in groups".[@fm05-level, fm05-ja-level] They boast high agility even among middle-level monsters; [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-ja-level, fm05-bell]
 - **Weapons:** they smash the large rocks lying about and take small stone tomahawks out of them, and throw them; the Japanese calls the tomahawks natural weapons and the rocks that hold them the labyrinth's armouries (landform), where the Yen Press text says they "smash them open with a hard stomp" and calls the tomahawks "landform weapons".[@fm05-tomahawk, fm05-ja-tomahawk] Disarmed, they charge horn first.[@fm09-hesitate]
 - **Drops:** in DanMachi 7 Bell's party fulfils a quest for "almirage furs" after slaying a pack.[@fm07-almirage]
 - **Tactics:** unlike upper-level monsters, they read the situation. They close on a party in a "netlike formation" and change their attack as soon as a gap opens.[@fm05-mikoto] They are often met together with [[monsters#hellhound|hellhounds]].[@fm05-bell, so13-parade]
@@ -102,3 +103,4 @@ The narration calls Aruru "she", and Rei confirms it.[@fm09-aruru] Helga's sex i
 [@so12-asterios]: SO12 | Chapter 7: Final War II | "Aruru and Helga tracked down Asterios’s location on secret orders from Fels."
 [@so13-parade]: SO13 | Chapter 3: Class is in Session | "minotaurs, hellhounds, and tomahawk-wielding al-miraj"; "erase the enemy’s back lines".
 [@ss01-wiene]: SS01 | | "What do you think of Aruru here? Doesn’t she remind you of somebody?"
+[@so08-almiraj-ja]: SO08 | | The Japanese edition writes the name with kanji meaning white rabbit, read Al-Miraj.

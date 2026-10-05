@@ -40,12 +40,12 @@ Syr explains that "this kind of place isn’t all that uncommon on Daedalus Stre
 
 - **Children:** besides humans, there are "many mixed children", animal people, prums "and even a timid Amazon".[@fm08-races] Many children Maria raised ignored her pleas and went into the Dungeon to help the orphanage, and became like the adventurers who left families behind.[@fm08-dungeon]
 - **Garden:** Maria and the children grow vegetables in the yard behind the church. Beyond it, among ruins, a stone slab door opens onto an underground passage.[@fm08-garden, fm11-passage] Bell later realises that this stairway, like the tunnels under the Pleasure Quarter, is part of Daedalus's legacy (see [[knossos|Knossos]]).[@fm10-legacy]
-- **Syr:** Syr tells Bell she "grew up in this slum" without parents, and comes for reasons similar to Maria's (the Yen Press text says "for the same reasons").[@fm08-syr]
+- **Syr:** Syr tells Bell she "grew up in this slum" without parents, and comes for reasons similar to Maria's.[@fm08-syr]
 - **Hestia:** by Sword Oratoria 12, [[hestia|Hestia]] has grown attached to the orphanage, gives it a modest donation after talking it over with her captain, and tells the children tales of her followers.[@so12-hestia]
 
 ## Mother Maria {#maria}
 
-**Mother Maria** ({{ja|マリア・マーテル}}, *Maria Mater*) is an elderly woman with black hair tied up on her head, thin but calm; all the children call her "Mother".[@fm08-maria, fm11-maria-ja] DanMachi 11 calls her an elderly woman, black-haired and thin.[@fm11-maria] She was once one of the women left behind by an adventurer, and never joined a Familia. She took in a child abandoned on a rainy night and raised it as her own; as that happened again and again, the orphanage came to be. "At first, it was out of pity."[@fm08-maria, fm08-origin] She fears for the children who dream of the Dungeon.[@fm08-dungeon] In DanMachi 11 she and [[syr-flover|Syr]] visit the other orphanages of the Labyrinth District to urge them to evacuate.[@fm11-evacuate] When Ruu goes missing, Maria begs Ouka and Chigusa to find him and goes with them to show the way to the church; in the plaza, separated from the children, she screams "Run, everyone!!"[@fm11-maria, fm11-search, fm11-plaza] Afterwards she leads the children to Hestia Familia's home to apologise to Bell.[@fm12-visit] At the harvest festival of DanMachi 16, when Bell explains why he has brought Syr, "Maria’s concern is replaced by a gentle, motherly smile"; in DanMachi 18 she can only hug the children tight as they watch Bell in the Great Familia War.[@fm16-maria, fm18-hug]
+**Mother Maria** ({{ja|マリア・マーテル}}, *Maria Mater*) is an elderly woman with black hair tied up on her head, thin but calm; all the children call her "Mother".[@fm08-maria, fm11-maria-ja] DanMachi 11 calls her an elderly woman, black-haired and thin.[@fm11-maria] She was once one of the women left behind by an adventurer, and never joined a Familia. She took in a child abandoned on a rainy night and raised it as her own; as that happened again and again, the orphanage came to be. "At first, it was out of pity."[@fm08-maria, fm08-origin] She fears for the children who dream of the Dungeon.[@fm08-dungeon] In DanMachi 11 she and [[syr-flover|Syr]] visit the other orphanages of the Labyrinth District to urge them to evacuate.[@fm11-evacuate] When Ruu goes missing, Maria begs Ouka and Chigusa to find the child and goes with them to show the way to the church; in the plaza, separated from the children, she screams "Run, everyone!!"[@fm11-maria, fm11-search, fm11-plaza] Afterwards she leads the children to Hestia Familia's home to apologise to Bell.[@fm12-visit] At the harvest festival of DanMachi 16, when Bell explains why he has brought Syr, "Maria’s concern is replaced by a gentle, motherly smile"; in DanMachi 18 she can only hug the children tight as they watch Bell in the Great Familia War.[@fm16-maria, fm18-hug]
 
 ## Lai {#lai}
 
@@ -59,7 +59,7 @@ After the Xenos affair of DanMachi 11 Lai steps in front of Fina and Ruu "as if 
 
 ## Ruu {#ruu}
 
-**Ruu** is a [[races#half-elf|half-elf]], a year younger than Lai, and dreamy; with short dirty-blond hair, Ruu is probably the handsomest of the children.[@fm08-ruu] Bell cannot tell whether Ruu is a boy or a girl, even in DanMachi 16 ("little brother (sister?)"); DanMachi 11's narration calls Ruu a little boy.[@fm08-ruu, fm16-ruu, fm11-ruu]
+**Ruu** is a [[races#half-elf|half-elf]], a year younger than Lai, and dreamy; with short dirty-blond hair, Ruu is probably the handsomest of the children.[@fm08-ruu] Bell cannot tell whether Ruu is a boy or a girl, even in DanMachi 16 ("little brother (sister?)"); DanMachi 11 does not say either.[@fm08-ruu, fm16-ruu, fm11-ruu]
 
 - **DanMachi 11:** Ruu runs back to the orphanage alone and is found holding a kitten when a building collapses. [[wiene|Wiene]] shields Ruu; to onlookers it looks as if the monster attacked the child.[@fm11-ruu, fm11-wiene]
 - **DanMachi 12:** "Big brother…You were right. Thank you…for fighting for all of us." Bell feels the words affirm the Xenos.[@fm12-ruu]
@@ -103,7 +103,7 @@ In Sword Oratoria 10 Lai drags him away from Finn in case the monsters appear, a
 [@fm11-traitor]: FM11 | | Bell "protected a monster and attacked other adventurers"; Lai: "Traitor!"; "I’m out of here".
 [@fm11-evacuate]: FM11 | | Syr and Maria "visiting the other orphanages in the Labyrinth District and urging them to evacuate".
 [@fm11-maria]: FM11 | | Maria pleads (the Japanese edition, file c44D, paragraph 13, calls her an elderly woman, black-haired and thin); "find that boy".
-[@fm11-ruu]: FM11 | Chapter 5: Ultra Soul! | "a pale, young half-elf, hugging a kitten to his chest"; "the little boy who had run back to the orphanage all alone".
+[@fm11-ruu]: FM11 | Chapter 5: Ultra Soul! | Ruu, a young half-elf hugging a kitten, who had run back to the orphanage alone. The Japanese edition (file c4DR, paragraphs 354 and 367) calls Ruu a young half-elf and a child, without giving a sex.
 [@fm11-wiene]: FM11 | Chapter 5: Ultra Soul! | "it looked as if the monster had attacked the child"; "Maria, Lai, and Fina hugged the dazed Ruu".
 [@fm11-passage]: FM11 | Chapter 5: Ultra Soul! | "The garden behind the church housing the orphanage leads to a sea of ruins. Hidden among them is a stone slab door."
 [@fm11-plaza]: FM11 | Chapter 7: The Return of the Hero | "Lai, Fina, and Ruu were among the group of orphans"; "“Run, everyone!!” Maria screamed."

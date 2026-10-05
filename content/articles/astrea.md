@@ -19,7 +19,7 @@
       {"label": "Hair", "value": "Walnut", "refs": ["ar02-funeral"]},
       {"label": "Eyes", "value": "Indigo, \"the same color as the sea of stars\"", "refs": ["ar02-funeral"]},
       {"section": "Familia"},
-      {"label": "Head of", "value": "[[astrea-familia|Astrea Familia]]", "refs": ["fm05-astrea"]},
+      {"label": "Familia", "value": "[[astrea-familia|Astrea Familia]]", "refs": ["fm05-astrea"]},
       {"label": "Home after Orario", "value": "Stars' Rest, near Zolingam", "refs": ["fc03-home"]}
     ]
   }
@@ -33,11 +33,11 @@
 - **Kindness:** during the Dark Age she looks after the children of the orphanage and hands out soup in the market, saying she cannot stand by while her children fight for the city.[@ar01-tea] In the Great Conflict she treats the wounded in a refugee camp herself.[@ar02-camp]
 - **Mercy:** when [[el-dorado-resort#ted|Ted]], caught by her Familia as a young criminal, begged for forgiveness, Astrea gave him another chance, perhaps wanting to believe that mortals could change.[@fc01-ted]
 - **Justice:** Astrea holds that "There is no such thing as absolute justice". If one justice reigned supreme the mortal world would fail; many justices can coexist and work together, and that is "the light that we call hope".[@ar02-justice] She tells [[alize-lovell|Alize]] that she is "only one star out of many" and that Alize's justice is something only Alize can find.[@ar02-alize]
-- **Loki's view:** [[loki|Loki]] mocks her charity as virtue signalling; Astrea answers that everybody needs a hobby, like Loki's drinking and complaining.[@ar01-tea]
+- **Loki's view:** [[loki|Loki]] mocks her charity as virtue signalling; Astrea answers that everybody needs a hobby, like Loki's drinking and complaining.[@ar01-tea] Loki finds her sickeningly sweet and likens her to [[artemis|Artemis]], who at least "has the decency to get violent once in a while".[@ar01-loki]
 
 ## The Great Conflict {#great-conflict}
 
-During the [[great-conflict|Great Conflict]] Astrea stands with the other gods at the mass graves of those killed on the first night. When [[hermes|Hermes]] calls the prayers a mortal custom, she finishes his thought: "if we do not pray for them, who will?"[@ar02-funeral] She treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-astrea, ar02-justice] She explains that restoring the city with [[tenkai-and-gekai#arcanum|Arcanum]] could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum]
+During the [[great-conflict|Great Conflict]] Astrea stands with the other gods at the mass graves of those killed on the first night. When [[hermes|Hermes]] calls the prayers a custom of the lower world, mere sentiment for gods, and then breaks off, she finishes his thought: the gods at least should see the souls of the dead on their way.[@ar02-funeral] She treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-astrea, ar02-justice] She explains that restoring the city with [[tenkai-and-gekai#arcanum|Arcanum]] could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum]
 
 In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus] At the end Erebus asks her to "End it". She asks whether he loves the world, and he says he does. She then passes judgment and her blade sends him back to the heavens, a giant pillar of light that the whole city cheers, but the goddess will not forget that necessary evil.[@ar03-end]
 
@@ -60,7 +60,7 @@ In DanMachi 18 Lyu comes to her in Zolingam. Astrea updates her through two [[le
 [@fc03-residents]: FC03 | | The six girls.
 [@fc03-hermes]: FC03 | The Locus of Stars | Only Hermes knew where she was.
 [@ar01-tea]: AR01 | | "I was just over at the orphanage. Then we all went over to the market to hand out soup."; "Everybody needs a hobby, don’t they?"; "I can’t stand by and do nothing."
-[@ar02-funeral]: AR02 | | "Her walnut hair glistened with tears."; "the same color as the sea of stars"; "And yet, if we do not pray for them, who will?"; "her sad indigo eyes".
+[@ar02-funeral]: AR02 | | Walnut hair wet with rain; "the same color as the sea of stars"; let the gods at least see the souls of the dead on their way (the Japanese edition, file c4S); "her sad indigo eyes".
 [@ar02-camp]: AR02 | Chapter 4: Those Who Struggle | "Clean their wounds and brace their fractures."; "having completed her treatment".
 [@ar02-justice]: AR02 | | "There is no such thing as absolute justice."; "different ideologies can coexist"; "That is the light that we call hope."
 [@ar02-alize]: AR02 | | "I am only one star out of many set in the infinite night sky."; "Your justice is something only you can find."
@@ -70,3 +70,4 @@ In DanMachi 18 Lyu comes to her in Zolingam. Astrea updates her through two [[le
 [@ar03-end]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "End it, Astrea. For real, this time."; her question, her judgment and what she will not forget. The Japanese edition (file c8ZY, paragraph 347; c9H2, paragraphs 6, 12 and 15) has her ask whether he loved the lower world, judge the evil god Erebus and send him up in a giant pillar of light; she will not forget that necessary evil.
 [@ar03-astrea-ja]: AR03 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
 [@fm06-astria-ja]: FM06 | | The Japanese edition gives her usual name in this passage.
+[@ar01-loki]: AR01 | | Printed heading "Chapter 3: Busy People" (not in the evidence map): "You’re so sweet, I’m gonna be sick. You remind me of Artemis, ’cept at least she has the decency to get violent once in a while."

@@ -15,17 +15,17 @@
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["so01-dionysus"]},
-      {"label": "Hair and eyes", "value": "Golden hair; glass-coloured eyes", "refs": ["so03-prince", "so04-eyes"]},
+      {"label": "Appearance", "value": "Golden hair; glass-coloured eyes", "refs": ["so03-prince", "so04-eyes"]},
       {"label": "Hidden identity", "value": "Enyo", "refs": ["so12-enyo"]},
       {"section": "Familia"},
-      {"label": "Head of", "value": "[[dionysus-familia|Dionysus Familia]]", "refs": ["so01-dionysus"]},
-      {"label": "Captain", "value": "[[filvis|Filvis Challia]]", "refs": ["so01-filvis"]},
+      {"label": "Familia", "value": "[[dionysus-familia|Dionysus Familia]]", "refs": ["so01-dionysus"]},
+      {"label": "Captain", "value": "[[filvis|Filvis Challia]]", "refs": ["so11-captain"]},
       {"label": "Fate", "value": "Returns himself to the heavens in Sword Oratoria 12", "refs": ["so12-end"]}
     ]
   }
 }
 ---
-**Dionysus** is the god who heads [[dionysus-familia|Dionysus Familia]], whose captain is [[filvis|Filvis Challia]].[@so01-dionysus, so01-filvis] Through most of Sword Oratoria he works alongside [[loki|Loki]] and [[hermes|Hermes]] against the hidden enemy known as Enyo; Sword Oratoria 12 reveals that he is Enyo.[@so05-enyo, so12-enyo]
+**Dionysus** is the god who heads [[dionysus-familia|Dionysus Familia]], whose captain is [[filvis|Filvis Challia]].[@so01-dionysus, so11-captain] Through most of Sword Oratoria he works alongside [[loki|Loki]] and [[hermes|Hermes]] against the hidden enemy known as Enyo; Sword Oratoria 12 reveals that he is Enyo.[@so05-enyo, so12-enyo]
 
 ## Appearance and character {#character}
 
@@ -48,13 +48,13 @@ As Enyo, Dionysus works through Filvis and the creature [[levis|Levis]] to unite
 When his plan with the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] fails, he returns himself to the heavens while embracing one real self of Filvis.[@so12-end]
 
 [@so01-dionysus]: SO01 | Chapter 5: To Battle | Dionysus and his elf follower.
-[@so01-filvis]: SO01 | | Filvis, captain of Dionysus Familia.
 [@so01-stone]: SO01 | | The coloured monster stone.
 [@so05-enyo]: SO05 | | Loki, Dionysus and Hermes suspect Enyo.
 [@so03-prince]: SO03 | Chapter 2: Let’s Party? | "the golden-haired god"; "Dionysus narrowed his glass-colored eyes"; "the presence of a prince from a far-off kingdom"; "He wasn’t like the other gods with their sick sense of humor."
 [@so04-eyes]: SO04 | First Chapter: And the Boy… | "the regal blond god"; "examining her with his glass-like eyes".
 [@so05-wine]: SO05 | | "I’ll make sure to have some fine wines sent to your place, yes?"
 [@so11-cellar]: SO11 | Epilogue: Whodunit | "It was the wine cellar Dionysus had built."
+[@so11-captain]: SO11 | Chapter 4: Avengers ~Knossos War~ | Filvis and Aura argue as Dionysus Familia's leader and second-in-command, on the third floor of Knossos.
 [@so12-cellar]: SO12 | Chapter 1: The Price of Defeat | "I found it in Dionysus’s wine cellar when I was looking through it with Soma."
 [@so12-orgia]: SO12 | Chapter 6: The Divine Providence of Despair | "The sweetest feast of madness!"; "Dionysus was a deviant god"; "The crazed cries of children are even better than the finest wine!" The Japanese edition (file c4HC, paragraphs 447 and 462) has him praise the olden days when heroes were active and the mortal world was trampled by monsters, a paradise that ended when the Age of the Gods began.
 [@so12-ouranos]: SO12 | Chapter 6: The Divine Providence of Despair | "Because that old god made a secret deal and sealed the hole"; "Dionysus loathed Ouranos with a homicidal rage".

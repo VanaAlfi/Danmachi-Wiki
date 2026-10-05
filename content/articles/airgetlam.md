@@ -16,11 +16,11 @@
       {"section": "Item"},
       {"label": "Japanese", "value": "{{ja|銀の腕}}, written *silver arm*", "refs": ["fm18-airgetlam-ja"]},
       {"label": "Type", "value": "Artificial right arm (\"silver arm\")", "refs": ["fm04-arm"]},
-      {"label": "Made by", "value": "Dian Cecht Familia, as a custom order", "refs": ["fm04-arm"]},
+      {"label": "Maker", "value": "Dian Cecht Familia, as a custom order", "refs": ["fm04-arm"]},
       {"label": "Wearer", "value": "Nahza, of Miach Familia", "refs": ["fm04-arm"]},
       {"label": "Paid for", "value": "A loan taken out by Miach", "refs": ["fm04-arm"]},
       {"section": "Fate"},
-      {"label": "Destroyed", "value": "In the Familia War (DanMachi 18)", "refs": ["fm18-sacrifice"]},
+      {"label": "Fate", "value": "In the Familia War (DanMachi 18)", "refs": ["fm18-sacrifice"]},
       {"label": "Replacement", "value": "Planned in DanMachi 19, not shown", "refs": ["fm19-new"]}
     ]
   }

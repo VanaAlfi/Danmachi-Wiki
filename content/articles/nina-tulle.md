@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|ニイナ・チュール}}", "refs": ["fm19-nina-ja"]},
       {"label": "Race", "value": "[[races#half-elf|Half-elf]]", "refs": ["fm19-nina"]},
       {"label": "Age", "value": "Thirteen", "refs": ["fm19-nina"]},
-      {"label": "Sister", "value": "[[eina-tulle|Eina Tulle]]", "refs": ["fm19-nina"]},
+      {"label": "Family", "value": "[[eina-tulle|Eina Tulle]]", "refs": ["fm19-nina"]},
       {"section": "Student"},
       {"label": "School", "value": "The School District, Balder Class", "refs": ["fm19-nina", "fm20-intern"]},
       {"label": "Level", "value": "2", "refs": ["fm19-nina"]},

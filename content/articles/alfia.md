@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Former Level 7 of Hera Familia, titled the Silence, whose late twin sister left her son with Zeus; the boy is evidently Bell Cranell. She joins Erebus in the Great Conflict and dies after Astrea Familia defeats her.",
-  "aliases": ["Silence", "Metelia", "Meteria"],
+  "aliases": ["Silence"],
   "spoilers": "Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["zald", "erebus", "great-conflict", "bell-cranell", "astrea-familia", "three-great-quests", "magic"],
   "infobox": {
@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Personal"},
       {"label": "Japanese", "value": "{{ja|アルフィア}}", "refs": ["ar03-alfia-ja"]},
-      {"label": "Sister", "value": "Metelia, her twin", "refs": ["ar03-family"]},
+      {"label": "Family", "value": "Metelia, her twin", "refs": ["ar03-family"]},
       {"label": "Nephew", "value": "Her sister's son, entrusted to Zeus; evidently [[bell-cranell|Bell Cranell]] (inference)", "refs": ["ar03-family", "ar03-zeus"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Hera Familia (former)", "refs": ["ar01-alfia"]},
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Alfia**, titled *the Silence*, is a former Level 7 of [[zeus-and-hera-familias|Hera Familia]].[@ar01-alfia, ar01-silence, ar02-level] She is the twin sister of Metelia of Hera Familia, who before her death entrusted her son, fathered by a member of Zeus Familia, to [[zeus|Zeus]].[@ar03-family, ar03-zeus] {{inference}} Since Zeus raised [[bell-cranell|Bell Cranell]], the boy is evidently Bell, which would make Alfia his maternal aunt; Astrea Record 3 never names the child.[@ar03-zeus] In the [[great-conflict|Great Conflict]] she joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[zald|Zald]].[@ar03-erebus]
+**Alfia**, titled *the Silence*, is a former Level 7 of [[zeus-and-hera-familias|Hera Familia]].[@ar01-alfia, ar01-silence, ar02-level] She is the twin sister of Metelia of Hera Familia, who before her death entrusted her son, fathered by a member of Zeus Familia, to [[zeus|Zeus]].[@ar03-family, ar03-zeus] {{inference}} Since Zeus raised [[bell-cranell|Bell Cranell]], the boy is evidently Bell, which would make Alfia his maternal aunt; the child's name was not located in the checked text of Astrea Record 3.[@ar03-zeus] In the [[great-conflict|Great Conflict]] she joins [[erebus|Erebus]] and the [[evils|Evils]] alongside [[zald|Zald]].[@ar03-erebus]
 
 ## Illness and talent
 

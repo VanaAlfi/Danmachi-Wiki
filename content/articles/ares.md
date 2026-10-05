@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The God of War, sole deity of the Kingdom of Rakia, a monarchy in the west of the continent that is really his Familia. Rakia's history of conquest rested on Crozzo magic swords. In DanMachi 8 and Sword Oratoria 9 he leads the Sixth Orario Invasion, kidnaps Hestia, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.",
-  "aliases": ["Ares Familia", "Rakia", "Kingdom of Rakia", "Rakian army", "Sixth Orario Invasion", "Marius", "Marius Victrix Rakia", "Martinus", "Barva", "Phobos"],
+  "aliases": ["Ares Familia", "Rakia", "Kingdom of Rakia", "Rakian army"],
   "spoilers": "DanMachi Vols. 4, 6, 8, 9, 15, 18, 19, Sword Oratoria Vols. 5, 6, 9 and Minor Myths and Legends Vol. 1",
   "related": ["welf-crozzo", "hestia", "loki", "asfi", "aiz-wallenstein", "lefiya", "finn-deimne", "orario"],
   "sections": [
@@ -31,7 +31,7 @@
   }
 }
 ---
-**Ares** is the God of War and the sole deity of the [[#kingdom-of-rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia.[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
+**Ares** is the God of War and the patron god of the [[#kingdom-of-rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia.[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
 
 ## Ares
 
@@ -41,13 +41,13 @@ Ares has golden hair as thick as a lion's mane, red eyes and stark red armour, a
 
 Rakia is a monarchy on the western side of the main continent, with at least 600,000 people. A great castle stands at the centre of its largest settlement, the land is fertile, and it is a military state with a barbarous side.[@fm08-rakia] Its capital is Barva.[@fm15-ball, fm15-light]
 
-In reality the kingdom is a Familia on the scale of a country. Every soldier bears Ares's Falna, the subjects who run its industries are its noncombatants, and Ares, its only god, has chosen every king in its history. The country grew from Ares and a handful of followers.[@fm08-rakia] Sword Oratoria 9 calls it "nominally a militant monarchy", headed in fact by Ares and Ares Familia.[@so09-rakia] [[loki|Loki]] compares [[kali-familia|Kali]]'s rule of [[telskyura|Telskyura]] to "Ares and Rakia", a nation-state Familia.[@so06-kali]
+In reality the kingdom is a Familia on the scale of a country. Every soldier bears Ares's Falna, the subjects who run its industries are its noncombatants, and Ares, its one and only patron god, has chosen every king in its history. The country grew from Ares and a handful of followers.[@fm08-rakia] Sword Oratoria 9 calls it "nominally a militant monarchy", headed in fact by Ares and Ares Familia.[@so09-rakia] [[loki|Loki]] compares [[kali-familia|Kali]]'s rule of [[telskyura|Telskyura]] to "Ares and Rakia", a nation-state Familia.[@so06-kali]
 
 DanMachi 15 explains how such a Familia works. Rakia's soldiers and knights number close to a hundred thousand, too many for Ares to bless and update alone, so defeated gods serve him as vassal-gods. The goddess Phobos, who lost a defensive war to Rakia, became one, and the fallen Crozzo family are members of Phobos Familia.[@fm15-vassal] To prevent rebellion, all of Rakia's real military strength, its Level 2 and Level 3 knights and officers and the royal guard, stays under Ares's direct control; anyone the vassal-gods raise to strength or cleverness is made to convert into Ares Familia.[@fm15-vassal] DanMachi 19 calls this vassal system common in Rakia and other country-level Familias.[@fm19-vassal]
 
 ### Wars and the Crozzo magic swords
 
-Rakia has been the aggressor in many wars over the centuries.[@fm08-rakia] In DanMachi 4 [[lyu-leon|Lyu]] tells Bell its history. The Crozzo family made its magic swords in exchange for nobility, and an army of common soldiers armed with them became "a mobile inferno". The wars changed the face of the world, and finally their flames burned down a forest of the elves. The surviving elves joined Familias abroad and took their revenge once Rakia no longer had the swords.[@fm04-lyu] Sword Oratoria 5 says the records describe Rakia using Crozzo swords even stronger than ordinary magic.[@so05-records] Shreme Castle, the War Game site of DanMachi 6, was a Rakian staging point in a war almost a thousand years earlier.[@fm06-shreme]
+Rakia has been the aggressor in many wars over the centuries.[@fm08-rakia] In DanMachi 4 [[lyu-leon|Lyu]] tells Bell its history. The Crozzo family made its magic swords in exchange for nobility, and an army of common soldiers armed with them became "a mobile inferno". The wars changed the face of the world, and finally their flames burned down a forest of the elves. The surviving elves joined Familias abroad and took their revenge once Rakia no longer had the swords.[@fm04-lyu] Sword Oratoria 5 says the records describe Rakia using Crozzo swords even stronger than ordinary magic.[@so05-records] Shreme Castle, the [[war-game|War Game]] site of DanMachi 6, was long a Rakian strategic point, until more than a century ago.[@fm06-shreme]
 
 ## The Sixth Orario Invasion {#sixth-orario-invasion}
 
@@ -79,7 +79,7 @@ DanMachi 15 shows him years earlier, at a royal ball in Barva, stifling a laugh 
 
 [@fm04-denatus]: FM04 | Chapter 1: Denatus | "There is information that the Kingdom of Rakia is preparing to invade Orario."; "Don’t tell me it’s that Ares guy again."; "a personality that’s hard to hate"; "his amazing good looks".
 [@fm04-lyu]: FM04 | Chapter 3: The Smith’s Situation | Lyu: one god who declared himself king; the Crozzos' magic swords for nobility; "a mobile inferno"; the elves' forest; their revenge.
-[@fm06-shreme]: FM06 | Chapter 4: Those Who Gather | Shreme Castle "used as a staging point by the kingdom of Rakia in the war almost one thousand years ago".
+[@fm06-shreme]: FM06 | Chapter 4: Those Who Gather | Shreme Castle. The Japanese edition (file c3JU, paragraph 1072) says the Kingdom of Rakia long used it as a strategic point until more than a century ago.
 [@fm08-rakia]: FM08 | Prologue: Attack of the War God | A monarchy on the western side of the main continent; at least 600,000 people; a military state with a barbarous side (the Japanese edition, file part0013, paragraph 5); every soldier blessed with Ares's Falna; Ares chose its kings; around 30,000 troops.
 [@fm08-gareth]: FM08 | Prologue: Attack of the War God | "companies of mostly Level 1 knights from the Kingdom of Rakia. Their captains might have been Level 2 but no higher."
 [@fm08-alliance]: FM08 | Prologue: Attack of the War God | "Rakia’s invading army of 30,000"; the Guild's mission; Finn as commander. The Japanese edition (file part0013, paragraph 71) says the Familias are to intercept the army.

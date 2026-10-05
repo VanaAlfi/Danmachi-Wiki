@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The vast underground labyrinth beneath Orario, sealed under Babel Tower and held in check by Ouranos's prayers. Its walls give birth to monsters, and adventurers descend it floor by floor; its bottom is unknown.",
-  "aliases": ["Labyrinth", "Great Hole", "Deep Zone", "Balror", "Balor"],
+  "aliases": ["Labyrinth", "Great Hole", "Deep Zone"],
   "spoilers": "DanMachi Vols. 1–6, 8, 9, 12–14, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["upper-levels", "cave-labyrinth", "floor-18", "colossal-tree-labyrinth", "water-capital", "floor-37", "monsters", "rivira", "monster-rex", "irregular", "goliath", "level", "babel", "ouranos", "guild", "orario", "three-great-quests"],
   "infobox": {
@@ -53,7 +53,7 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 | 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. Floors 11 and 12 are held to be the deepest that Level 1 adventurers can clear.[@fm02-upper, fm02-limit] |
 | 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
 | 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] Floor 28, the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on Floor 29.[@fm20-gorge] |
-| Deeper floors | Deep levels | [[floor-37|Floor 37]], the Lower Fortress, lies in the deep levels and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] Hephaistos speaks of Loki Familia going to "the Deep Zone".[@fm12-deepzone] |
+| Deeper floors | Deep levels | [[floor-37|Floor 37]] lies in the deep levels {{small|(printed *Lower Fortress* in DanMachi 2)}} and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] Hephaistos speaks of Loki Familia going to "the Deep Zone".[@fm12-deepzone] |
 
 For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls]
 

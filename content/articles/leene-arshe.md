@@ -27,11 +27,11 @@
   }
 }
 ---
-**Leene Arshe** is a human healer of [[loki-familia|Loki Familia]], a shy girl with glasses and braided hair.[@so07-bete, so08-memory] She is in love with [[bete-loga|Bete Loga]].[@so07-bete, so08-tiona] In Sword Oratoria 7 she is one of seven members killed in [[knossos|Knossos]]. Bete mocks her as she dies, and the way she dies, and what he really meant, become the centre of Sword Oratoria 8.[@so07-losses, so08-death, so08-raul]
+**Leene Arshe** is a human healer of [[loki-familia|Loki Familia]], a shy girl with glasses and braided hair.[@so07-bete, so08-memory] She is in love with [[bete-loga|Bete Loga]].[@so07-bete, so08-tiona] In Sword Oratoria 7 she is among the seven members dead or missing in [[knossos|Knossos]]. Bete mocks her as she dies, and the way she dies, and what he really meant, become the centre of Sword Oratoria 8.[@so07-losses, so08-death, so08-raul]
 
 ## Character
 
-Leene wears glasses and usually braids her long hair.[@so04-braids, so05-bath] Sword Oratoria 4 counts her among Loki Familia's second-tier members.[@so04-second] She is a healer: after the Floor 59 expedition she cares for the wounded with [[riveria|Riveria]] and the other healers, and in Sword Oratoria 6 she heals [[hyrute-sisters|Tiona]] after the rite at Meren, which takes considerable time.[@so05-healer, so06-tiona] At Meren she and [[anakity-autumn|Anakity]] also check that the [[metals#mythril|mythril]] grating on Orario's sewer outflow is in place.[@so06-grate]
+Leene wears glasses and usually braids her long hair.[@so04-braids, so05-bath] Sword Oratoria 4 names her, with Raul and Aki, among the Familia's members of the second tier and below.[@so04-second] She is a healer: after the Floor 59 expedition she cares for the wounded with [[riveria|Riveria]] and the other healers, and in Sword Oratoria 6 she heals [[hyrute-sisters|Tiona]] after the rite at Meren, which takes considerable time.[@so05-healer, so06-tiona] At Meren she and [[anakity-autumn|Anakity]] also check that the [[metals#mythril|mythril]] grating on Orario's sewer outflow is in place.[@so06-grate]
 
 When Tiona asks the girls whom they like in Sword Oratoria 7, Leene shyly names "Mister Bete". The twins can't believe it, but she says he can be gallant and is a good person deep down.[@so07-bete] Tiona later tells Bete, "Leene liked you, you know?"[@so08-tiona]
 
@@ -43,9 +43,9 @@ Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of 
 
 On Loki Familia's first venture into Knossos, Leene is among the healers brought along for support.[@so07-knossos] A trap divides the party.[@ss02-aiz] [[valletta|Valletta]] finds her leading a group of badly wounded companions, encouraging them and lending one her shoulder; the sight fills Valletta with sadistic glee.[@so07-valletta] Riveria lists seven dead or missing: Lloyd, Crea, Anju, Liza, Kalos, Remilia and Leene.[@so07-losses]
 
-In Sword Oratoria 8 [[aiz-wallenstein|Aiz]] finds her dying with a cursed dagger in her ribs. Bete laughs at her: weaklings only get in the way, her death is pointless, and she should never leave her nest in her next life. Then he mutters something only Aiz hears, and Leene dies with a peaceful smile.[@so08-death] Minor Myths and Legends 2 tells the scene from Leene's side. She understood that he was doing his duty as one of the strong, and his last words to her were "How many times have your hands saved me? You've done enough."[@ss02-memory]
+The prologue of Sword Oratoria 8 returns to that battle: [[aiz-wallenstein|Aiz]] finds her dying with a cursed dagger in her ribs. Bete laughs at her: weaklings only get in the way, her death is pointless, and she should never come out of her hole again. Then he mutters something only Aiz hears, and Leene dies with the faintest trace of a smile.[@so08-death] Minor Myths and Legends 2 tells the scene from Leene's side. She understood that he was doing his duty as one of the strong, and his last words to her were "How many times have your hands saved me? You've done enough."[@ss02-memory]
 
-The rest of the Familia takes his scorn at face value, and Riveria notes these are the first deaths since Lefiya's generation joined.[@so08-death, so08-first] Once Bete's past is explained, [[raul-nord|Raul]] realises he was saying the same thing to Leene and the others: that he does not want to lose them again, even in their next lives.[@so08-raul]
+The rest of the Familia takes his scorn at face value, and Riveria notes these are the first deaths since Lefiya's generation joined.[@so08-death, so08-first] Once Bete's past is explained, [[raul-nord|Raul]] realises he was saying the same thing to Leene and the others: that, even after they were reborn, they should never lose again.[@so08-raul]
 
 ## Afterwards
 
@@ -61,7 +61,7 @@ The rest of the Familia takes his scorn at face value, and Riveria notes these a
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Her Level and her healing spells.[@so04-second, so05-healer]
 
-[@so04-second]: SO04 | Last Chapter: To Adventure | "Raul, Aki, Leene, and the other second-tier members".
+[@so04-second]: SO04 | Last Chapter: To Adventure | Raul, Aki, Leene and the other members of the second tier and below (the Japanese edition, file c4NY).
 [@so04-braids]: SO04 | Last Chapter: To Adventure | "Leene raised the question, her braided pigtails dangling behind her."
 [@so05-bath]: SO05 | | Leene's long hair, normally done up in braids.
 [@so05-healer]: SO05 | | Riveria, Leene and the other healers caring for the wounded; her healing duties; her glasses.
@@ -71,11 +71,11 @@ The rest of the Familia takes his scorn at face value, and Riveria notes these a
 [@so07-knossos]: SO07 | Chapter 2: Dungeon Trap | "Leene, one of the healers who’d been brought along for support".
 [@so07-valletta]: SO07 | Chapter 5: Battle of Tears | The healer in glasses supporting her wounded companions; "Leene…it’s…fine…Leave me…"; Valletta's glee.
 [@so07-losses]: SO07 | Chapter 5: Battle of Tears | "Seven dead, including those who’ve gone missing. Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."
-[@so08-death]: SO08 | Prologue: Scorn of the Strong | "Leene Arshe, the young healer"; the cursed dagger; Bete's words; his muttered last words; her peaceful smile.
+[@so08-death]: SO08 | Prologue: Scorn of the Strong | "Leene Arshe, the young healer"; the cursed dagger; Bete's words, ending "Don’t ever come out of this damn hole."; his muttered last words; "The faintest traces of a smile formed on her face before her hand went limp."
 [@so08-first]: SO08 | Chapter 1: Lonely Wolf | "This is the first time since Lefiya and the others joined that we’ve had…casualties."
 [@so08-tiona]: SO08 | Chapter 1: Lonely Wolf | "Leene and the others—they’re dead."; "Leene liked you, you know?"
 [@so08-memory]: SO08 | Chapter 2: Did Someone Order a Wolf? | "That girl, Leene Arshe"; the human girl; "This is the seventh time you’ve yelled at me"; "I can still heal you."
-[@so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?"
+[@so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?" The Japanese edition (file c45H, paragraph 225) has Raul read Bete's last words to them as: even after you're reborn, don't lose again.
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Five years before, the tail end of the party and an Irregular; Hati; Leene the only one who made it out alive.
 [@so08-hunt]: SO08 | Chapter 3: Unshed Tears | Valletta's taunts; "She’d killed Leene and the others."
 [@so11-avenge]: SO11 | Chapter 1: Why I’ll Start Running, Too | "this is a battle to avenge Leene and the rest".

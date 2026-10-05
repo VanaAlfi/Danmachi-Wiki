@@ -22,7 +22,7 @@
       {"label": "Position", "value": "Second-in-command", "refs": ["fm18-past", "so12-revenge"]},
       {"label": "Title", "value": "Paluza ({{ja|赤戦の豹}}, written *leopard of the red battle*)", "refs": ["so12-squads", "fm20-orariad", "fm20-ilta-title-ja"]},
       {"label": "Rank", "value": "First-tier adventurer", "refs": ["fm10-ilta", "fm11-babel"]},
-      {"label": "Fighting", "value": "Carries a taming whip in DanMachi 10", "refs": ["fm10-siren"]}
+      {"label": "Weapons", "value": "Carries a taming whip in DanMachi 10", "refs": ["fm10-siren"]}
     ]
   }
 }

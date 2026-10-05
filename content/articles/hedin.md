@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "White-elf mage of Freya Familia, titled Hildsleif; a former king of Heodenings who trains Bell in DanMachi 16–17 and turns against the Familia for Freya's sake in the Familia War.",
-  "aliases": ["Hedin", "Hildsleif", "black and white knights", "white and black knights"],
+  "aliases": ["Hedin", "Hildsleif", "black and white knights", "white and black knights", "Hedin Selland"],
   "spoilers": "DanMachi Vols. 16–20, Sword Oratoria Vol. 13, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["hegni", "freya-familia", "freya", "bell-cranell", "syr-flover", "ottar", "magic"],
   "infobox": {
@@ -21,7 +21,8 @@
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},
       {"label": "Level", "value": "5 in Astrea Record 1; 6 by Familia Chronicle 2", "refs": ["ar01-hedin", "fc02-pair"]},
       {"label": "Title", "value": "Hildsleif ({{ja|白妖の魔杖}}, written *the white fairy's magic staff*)", "refs": ["fm16-hedin", "fm18-hedin-ja"]},
-      {"label": "Magic", "value": "[[#caurus-hildr|Caurus Hildr]]; [[#valiant-hildr|Valiant Hildr]]; [[#laurus-hildr|Laurus Hildr]] (his third and final)", "refs": ["caurus-hildr.fc02-warsa", "valiant-hildr.ar01-street", "laurus-hildr.fm18-bell"]}
+      {"label": "Magic", "value": "[[#caurus-hildr|Caurus Hildr]]; [[#valiant-hildr|Valiant Hildr]]; [[#laurus-hildr|Laurus Hildr]] (his third and final)", "refs": ["caurus-hildr.fc02-warsa", "valiant-hildr.ar01-street", "laurus-hildr.fm18-bell"]},
+      {"label": "Also printed", "value": "{{small|*Hedin Selland* (Astrea Record 1, Minor Myths and Legends 2)}}", "refs": ["ar01-hedin", "ss02-hedin"]}
     ]
   }
 }
@@ -136,8 +137,8 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 
 [@fc02-pair]: FC02 | Ali and the 8 Followers | Hedin and Hegni; Levels.
 [@fc02-past]: FC02 | Their Various Pasts | Heodenings.
-[@ar01-hedin]: AR01 | Chapter 9: The Opening Act of Evil | Hedin handles a front alone at Level 5.
-[@ss02-hedin]: SS02 | | Hedin and Royman. The Japanese edition (file part0070, paragraph 10) has Hedin demand why Royman let Freya out of the city.
+[@ar01-hedin]: AR01 | Chapter 9: The Opening Act of Evil | Hedin handles a front alone at Level 5. The English text of this volume prints his family name as *Selland* ("Hedin Selland").
+[@ss02-hedin]: SS02 | | Hedin and Royman. The Japanese edition (file part0070, paragraph 10) has Hedin demand why Royman let Freya out of the city. The English text of this volume prints his family name as *Selland* ("Hedin Selland").
 [@so13-hedin]: SO13 | | Hedin approaches Lefiya.
 [@fm16-hedin]: FM16 | | Hildsleif; magic control; training and the guard plan.
 [@fm16-cafe]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | The café meeting.

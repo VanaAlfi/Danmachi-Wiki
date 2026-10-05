@@ -18,7 +18,7 @@
       {"label": "Deity", "value": "[[ganesha|Ganesha]]", "refs": ["fm01-ganesha"]},
       {"label": "Home", "value": "[[ganesha#i-am-ganesha|I Am Ganesha]], in south-west Orario", "refs": ["fm10-standing"]},
       {"label": "Captain", "value": "Shakti Varma, titled Ankusha", "refs": ["fc01-shakti"]},
-      {"label": "Second-in-command", "value": "[[ilta-faana|Ilta Faana]], titled Paluza", "refs": ["fm18-ilta", "so12-paluza"]},
+      {"label": "Vice-captain", "value": "[[ilta-faana|Ilta Faana]], titled Paluza", "refs": ["fm18-ilta", "so12-paluza"]},
       {"label": "Known for", "value": "Hosting Monsterphilia; keeping live monsters", "refs": ["fm01-ganesha", "fm09-monsters"]}
     ]
   }
@@ -36,7 +36,7 @@ Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use
 
 ## Shakti and Ardee
 
-The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood and Dharmas Algo, the second a passive boost for Familia members around her.[@skills.ar02-sheet] The same sheet lists two spells, Ghana Avimutta and Dia Kaumudi; see [[magic#ardee-varma-spells|Magic § Ardee Varma's spells]].[@ardee-varma-spells.ar02-sheet]
+The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, Ardee, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 prints the sister's name as *Adi Varma*.[@fc03-adi] Ardee's character sheet at the end of Astrea Record 2 lists two [[skills#ardee-skills|Skills]], Ganapati Blood ({{ja|守人血統}}, written *guardian bloodline*) and Dharmas Algo ({{ja|正義巡継}}, written *justice passed on in turn*), the second a passive boost for Familia members around her.[@skills.ar02-sheet, ardee-sheet.ar02-ja] The same sheet lists two spells, Ghana Avimutta ({{ja|ガーナ・アヴィムサ}}, read *Gāna Avimusa*) and Dia Kaumudi; see [[magic#ardee-varma-spells|Magic § Ardee Varma's spells]].[@ardee-varma-spells.ar02-sheet, ardee-sheet.ar02-ja]
 
 The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. She was one of the city's most lawless newcomers until Shakti and her sister caught and punished her, and she now calls Shakti "sister".[@fm18-ilta, so12-paluza] In DanMachi 20 she and Shakti win the third round of the [[orariad|Orariad]] against the School District.[@fm20-orariad]
 
@@ -71,6 +71,7 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@fc03-adi]: FC03 | Girl in Twilight | "Adi Varma."
 [@ar01-shakti]: AR01 | | Shakti loses Ardee.
 [@ar02-shakti]: AR02 | | Shakti chooses the future.
+[@ardee-sheet.ar02-ja]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): the Japanese edition prints Ganapati Blood as the reading of kanji meaning guardian bloodline, Dharmas Algo as the reading of kanji meaning justice passed on in turn, and the first spell's name in katakana read Gāna Avimusa.
 [@skills.ar02-sheet]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Ganapati Blood, Dharmas Algo.
 [@ar03-sword]: AR03 | Prologue: Last Intermission | Sacred Oath, carried with Shakti's permission.
 [@ardee-varma-spells.ar02-sheet]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): Magic Ghana Avimutta and Dia Kaumudi.

@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Scarred human adventurer of Ogma Familia, a long-time Level 2 who drinks in Rivira with his companions Scott and Gyle. In DanMachi 5 he uses Hermes's Hades Head to kidnap Hestia and ambush Bell, until Bell saves his life from the Black Goliath. From then on he is Bell's loud, grudging supporter, down to fighting on Hestia's side in the war game against Freya Familia.",
-  "aliases": ["Mord", "Scott", "Gyle", "Guile", "Ogma Familia"],
+  "aliases": ["Mord"],
   "spoilers": "DanMachi Vols. 4–6, 8, 11, 17–20, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 1",
   "related": ["bell-cranell", "rivira", "hades-head", "hermes", "hestia", "lyu-leon", "heith-velvet", "bors"],
   "infobox": {
@@ -31,11 +31,11 @@
 
 In DanMachi 4 a scarred adventurer with two friends mocks Bell's search for party members at [[the-benevolent-mistress|The Benevolent Mistress]]. When he reaches for [[lyu-leon|Lyu]], she jams his hand into an ale jug.[@fm04-bar] {{inference}} This was probably Mord: DanMachi 5 says his group had been overpowered by the waitresses there, and Familia Chronicle 1 that he once picked a fight in the tavern and was thrown out.[@fm05-waitresses, fc01-casino]
 
-In DanMachi 5, in a bar in Rivira, he rages that a cheeky rookie has reached the middle levels so soon after his Level Up, when they have been there for years (the Yen Press text has him say the rookie "hasn't done nothing, levels up in a few months").[@fm05-grudge, fm05-ja-grudge] Hermes, overhearing, offers to tell him the plans of Bell's party and lends him a magic item made by [[asfi|Asfi]], the helmet Hades Head, on one condition: "Entertain me."[@fm05-hermes] Made invisible by it, Mord carries Hestia off from the camp.[@fm05-kidnap] He leads Bell to a plateau ringed by more than twenty adventurers and duels him with a great sword and a longsword, beating him while unseen.[@fm05-duel, fm05-invisible] Bell learns to read the malice in Mord's gaze, throws crystal powder in his path, breaks his sword and smashes the helmet with a kick.[@fm05-gaze, fm05-helmet] When the adventurers move to join in, Hestia's divine command freezes them, and they flee.[@fm05-stop]
+In DanMachi 5, in a bar in Rivira, he rages that a cheeky rookie has reached the middle levels so soon after his Level Up, when they have been there for years.[@fm05-grudge, fm05-ja-grudge] Hermes, overhearing, offers to tell him the plans of Bell's party and lends him a magic item made by [[asfi|Asfi]], the helmet Hades Head, on one condition: "Entertain me."[@fm05-hermes] Made invisible by it, Mord carries Hestia off from the camp.[@fm05-kidnap] He leads Bell to a plateau ringed by more than twenty adventurers and duels him with a great sword and a longsword, beating him while unseen.[@fm05-duel, fm05-invisible] Bell learns to read the malice in Mord's gaze, throws crystal powder in his path, breaks his sword and smashes the helmet with a kick.[@fm05-gaze, fm05-helmet] When the adventurers move to join in, Hestia's divine command freezes them, and they flee.[@fm05-stop]
 
 ## The Black Goliath
 
-When the Black Goliath appears, Mord's group is the closest to it and the first it targets.[@fm05-landing, fm05-targeted] In the brawl that follows, Bell saves Mord from a pack of [[monsters#bugbear|bugbears]] using Mord's own longsword (the Yen Press text says "greatsword").[@fm05-saved, fm05-ja-saved] [[lilliluka-erde|Lilly]] drags him clear and tells him to be grateful to Bell, who is so good-natured (the Yen Press text has her say Bell "isn't the type of person to hold a grudge").[@fm05-lilly, fm05-ja-lilly] Later, as his group prepares to flee, Mord stops them: he demands to know how they can bow out while others fight, and leads every adventurer in a charge to keep the monsters away from Bell.[@fm05-rally]
+When the Black Goliath appears, Mord's group is the closest to it and the first it targets.[@fm05-landing, fm05-targeted] In the brawl that follows, Bell saves Mord from a pack of [[monsters#bugbear|bugbears]] using Mord's own longsword.[@fm05-saved, fm05-ja-saved] [[lilliluka-erde|Lilly]] drags him clear and tells him to be grateful to Bell, who is so good-natured.[@fm05-lilly, fm05-ja-lilly] Later, as his group prepares to flee, Mord stops them: he demands to know how they can bow out while others fight, and leads every adventurer in a charge to keep the monsters away from Bell.[@fm05-rally]
 
 ## Bell's supporter
 

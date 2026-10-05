@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Term"},
       {"label": "Japanese", "value": "{{ja|異常事態}}, written *abnormal situation*", "refs": ["fm14-irregular-ja"]},
-      {"label": "Meaning", "value": "Erratic, unusual phenomena in the [[dungeon|Dungeon]], such as unpredictable outbreaks of monsters", "refs": ["fm09-definition"]},
+      {"label": "What it is", "value": "Erratic, unusual phenomena in the [[dungeon|Dungeon]], such as unpredictable outbreaks of monsters", "refs": ["fm09-definition"]},
       {"label": "Typical kind", "value": "A monster that climbs from a lower floor to a higher one", "refs": ["fm12-types", "fm01-floors"]},
       {"label": "Also", "value": "Mass spawns, subspecies, enhanced species, unknown monsters", "refs": ["so05-spawns", "so09-wyvern", "fm12-types", "fm13-juggernaut"]},
       {"section": "Response"},

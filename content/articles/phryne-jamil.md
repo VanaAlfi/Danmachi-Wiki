@@ -33,7 +33,7 @@
 
 DanMachi 7 describes a massive Amazon at least two meders tall, with tiny, muscular limbs, a mushroom of black hair, a frog's face and a croaking voice; Sword Oratoria 6 also gives her strangely short limbs and short bobbed hair, and adds a hugely thick torso.[@fm07-waiting, fm07-chase, so06-proposal] [[aisha-belka|Aisha]] calls her "toad", and others call her "the toad" or "that frog".[@fm07-waiting, ar03-charge, so08-aisha] She is as fast as she is strong: Bell is shaken to see her dodge his Firebolt without warning, a speed that does not match her build.[@fm07-firebolt]
 
-She believes herself the most beautiful woman alive. She tells Aisha that no other woman measures up, and that even Ishtar only "comes close".[@fm07-waiting] With men she is predatory. Ishtar's servant [[ishtar-familia#tammuz-berrilli|Tammuz]] says she forces aphrodisiac on any man she catches and leaves only "the empty shell of a man".[@fm07-aphrodisiac] She keeps a room of her own beyond a secret tunnel into [[daedalus-street|Daedalus Street]], which even Ishtar does not know about.[@fm07-room]
+She believes herself the most beautiful woman alive. She tells Aisha that no other woman measures up, and that even Ishtar only "comes close".[@fm07-waiting] With men she is predatory. Ishtar's servant [[ishtar-familia#tammuz-berrilli|Tammuz]] says she forces aphrodisiac on any man she catches and leaves only "the empty shell of a man".[@fm07-aphrodisiac] She keeps a room of her own in the secret passages under the palace, which even Ishtar does not know about.[@fm07-room]
 
 Within her Familia she rules by fear. After Aisha destroyed the first [[killing-stone|Killing Stone]], Phryne "disciplined" her until she was a nearly lifeless wreck, and she threatens the younger Amazons Aisha looks after; those Amazons trust Aisha far more than their captain.[@fm07-aisha] [[lena-tully|Lena Tully]] remembers her sending the young ones running round the temple on errands.[@so08-lena-vault]
 
@@ -73,7 +73,7 @@ In the epilogue Aisha says they found her beaten to a pulp in the front garden. 
 
 At Port Meren, where Ishtar has come to meet [[kali-familia|Kali]], Phryne persuades her to let Kali Familia fight [[loki-familia|Loki Familia]] as a warm-up for the war with Freya, and offers to deal with Aiz herself.[@so06-proposal] An Amazon brings her vermilion armour and axes out of Orario, and she tells Haruhime to be ready.[@so06-armor]
 
-She attacks Aiz's group surrounded by particles of light, axes in both hands.[@so06-boost, so06-axes] On her signal the Ishtar Familia mage Sharay casts a curse that stops Aiz using magic; Phryne says she prepared these "anti-statuses and curses" for Ottar and is trying them on Aiz first. The curse is described under [[magic#sharay-silencing-curse|Sharay's silencing curse]].[@so06-curse] Even without her wind, Aiz's technique wears Phryne down.[@so06-aiz]
+She attacks Aiz's group surrounded by particles of light, axes in both hands.[@so06-boost, so06-axes] On her signal the Ishtar Familia mage Sharay casts a curse that stops Aiz using magic; Phryne says she prepared these "anti-statuses and curses" for Ottar and is trying them on Aiz; she had meant to neutralise [[riveria|Riveria]] too, but Riveria sniffed her out. The curse is described under [[magic#sharay-silencing-curse|Sharay's silencing curse]].[@so06-curse] Even without her wind, Aiz's technique wears Phryne down.[@so06-aiz]
 
 Bete then takes over. He strips away her armour, and when the light around her fades and her borrowed power runs out, he kicks her past the docks into Lolog Lake.[@so06-bete] Afterwards Aiz and Bete tell [[loki|Loki]] that Ishtar's Level 5 captain fought with the power of a Level 6, helped by some kind of magic user.[@so06-loki]
 
@@ -103,7 +103,7 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 [@fm07-feast]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "I forbid any of you to feast—especially Phryne."
 [@fm07-takes-bell]: FM07 | Chapter 5: Killing Stone | Phryne knocks the other Berbera unconscious and takes Bell out of the cargo box; the whole Familia searches.
 [@fm07-aphrodisiac]: FM07 | Chapter 5: Killing Stone | Tammuz: "Phryne forces an enormous amount of aphrodisiac down the throat of any man she catches."
-[@fm07-room]: FM07 | Chapter 5: Killing Stone | The secret tunnel near Daedalus Street; "even Lady Ishtar doesn’t know about this place."
+[@fm07-room]: FM07 | Chapter 5: Killing Stone | Her secret room; "even Lady Ishtar doesn’t know about this place." The Japanese edition (file c5MJ, paragraphs 80–83) puts the secret rooms and passages under the palace, there because the architect of neighbouring Daedalus Street remodelled the district.
 [@fm07-haruhime-passage]: FM07 | Chapter 5: Killing Stone | "I have witnessed Lady Phryne use this passage in the past"; the jug of aphrodisiac; the strand of golden hair.
 [@fm07-aisha]: FM07 | Chapter 6: Yearning of a Hero | Phryne keeps Aisha in sight; Aisha "disciplined" after destroying the first Killing Stone; the younger Amazons trust Aisha more than Phryne.
 [@fm07-orders]: FM07 | Chapter 6: Yearning of a Hero | "See to it that Haruhime is brought to Samira and the others when everything is set."
@@ -125,7 +125,7 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 [@so06-duels]: SO06 | Chapter 5: A Duo of Sun and Moon | "Androctonus, the Man Slayer"; three duels with Aiz; "The same way that Ishtar despised Freya, in fact."
 [@so06-boost]: SO06 | Chapter 5: A Duo of Sun and Moon | Tiny light particles drifting up from Phryne's face.
 [@so06-axes]: SO06 | Chapter 5: A Duo of Sun and Moon | The ax in her right hand and the ax in her left.
-[@so06-curse]: SO06 | Chapter 5: A Duo of Sun and Moon | "Nowwwww, Sharay! Do it nowwwwww!!"; "I readdddddddied these anti-statuses and curses for my fight with Ottarrrrr".
+[@so06-curse]: SO06 | Chapter 5: A Duo of Sun and Moon | "Nowwwww, Sharay! Do it nowwwwww!!"; "I readdddddddied these anti-statuses and curses for my fight with Ottarrrrr"; Aiz a fine test; she had meant to neutralise Nine Hell too (the Japanese edition, file c4EV, paragraph 372).
 [@so06-aiz]: SO06 | | "The temporary strength Phryne had gained for this duel was no match for the swordsmanship Aiz had perfected".
 [@so06-bete]: SO06 | | Her armour torn off by Bete; "M-my time rannnnnnnn out—?!"; Bete's kick sends her into Lolog Lake.
 [@so06-loki]: SO06 | Epilogue: Disturbing Elements | Loki recalls that Ishtar's Level 5 captain wielded the combat power of a Level 6, with "some kind of magic user".

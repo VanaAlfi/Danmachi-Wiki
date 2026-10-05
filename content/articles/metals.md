@@ -57,7 +57,7 @@
 
 ## Mythril {#mythril}
 
-"Lighter and stronger than iron, mythril was also far more malleable and easier to work with."[@fm01-mythril] The [[hestia-knife|Hestia Knife]] is forged from Hephaistos's mythril ({{ja|精製金属}}, written *refined metal*)[@mythril.fm07-ja].[@fm01-knife] Forged mythril is very strong (wound in layers, it keeps even an upper-class adventurer from breaking free quickly) and very conductive of magic.[@fm07-shackles] Welf explains that mithril is easy to work with and conducts magical power well, so "Mithril weapons are common for fighters who combine magic and ordinary combat ability".[@fm12-welf]
+"Lighter and stronger than iron, mythril was also far more malleable and easier to work with."[@fm01-mythril] The [[hestia-knife|Hestia Knife]] is forged from Hephaistos's mythril ({{ja|精製金属}}, written *refined metal*).[@mythril.fm07-ja, fm01-knife] Forged mythril is very strong (wound in layers, it keeps even an upper-class adventurer from breaking free quickly) and very conductive of magic.[@fm07-shackles] Welf explains that mithril is easy to work with and conducts magical power well, so "Mithril weapons are common for fighters who combine magic and ordinary combat ability".[@fm12-welf]
 
 - Bete's mythril boots, [[equipment#frosvirt|Frosvirt]], absorb magic.[@so03-frosvirt]
 - In Meren a mythril grating seals the sewer outlet against large monsters, and expensive ingots such as mythril are used on rich men's boats or large ships.[@so06-grate, so06-boats]

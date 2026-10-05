@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "God of fishing and head of Njörðr Familia, the fishermen of Port Meren southwest of Orario, and Loki's friend from Heaven. In Sword Oratoria 6 Loki finds that he released violas into Lolog Lake and the sea to cull marine monsters, in return for helping a pale man from Orario's sewers smuggle goods; Sword Oratoria 7 shows the man was Barca Perdix.",
-  "aliases": ["Njǫrðr", "Njrðr", "Njörðr Familia", "Skip Njörðr", "Nóatún", "Port Meren", "Meren", "Lolog Lake", "Rod", "Borg Murdock", "Rubart Ryan", "Magic dust"],
+  "aliases": ["Njǫrðr", "Njrðr", "Njörðr Familia", "Skip Njörðr"],
   "spoilers": "DanMachi Vol. 18, Sword Oratoria Vols. 6, 7, 13, Familia Chronicle Vol. 1, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["loki", "chloe", "demeter", "barca-perdix", "ishtar", "riveria"],
   "sections": [
@@ -31,7 +31,7 @@
   }
 }
 ---
-**Njörðr** is a god of fishing and the head of Njörðr Familia, the fishing Familia of Port Meren, southwest of [[orario|Orario]].[@so06-fishing, so06-motive, fc01-chloe] He is a friend of [[loki|Loki]] from their time in Heaven.[@so06-meet, so06-lies] In Sword Oratoria 6 Loki discovers that, to save Meren's fisheries, he released [[monsters#violas|violas]] into Lolog Lake and the nearby sea, in return for helping a pale man from Orario's sewers smuggle goods out of Meren.[@so06-pact] In Sword Oratoria 7 Loki Familia identifies that man as [[barca-perdix|Barca Perdix]].[@so07-barca]
+**Njörðr** is a god of fishing and the head of Njörðr Familia, the fishing Familia of Port Meren, southwest of [[orario|Orario]].[@so06-fishing, so06-motive, fc01-chloe] He is a friend of [[loki|Loki]] from their time in Heaven.[@so06-meet, so06-lies] In Sword Oratoria 6 Loki discovers that, to save Meren's fisheries, he released [[monsters#violas|violas]] into Lolog Lake and the nearby sea, in return for helping a pale man from Orario's sewers smuggle goods out of Meren.[@so06-pact] In Sword Oratoria 7 [[loki-familia|Loki Familia]] identifies that man as [[barca-perdix|Barca Perdix]].[@so07-barca]
 
 ## The god
 
@@ -60,7 +60,7 @@ Njörðr explains that the monsters in the world's seas had become too many over
 
 Loki promises to keep his part secret but reports the violas to the Guild, and he can no longer use them.[@so06-ishtar] The Guild hushes up the affair. Nothing happens to Njörðr or Borg, given their influence in Meren, beyond a promise of allegiance to the Guild, and Rubart alone takes the fall.[@so06-coverup] Njörðr then forcibly carves his blessing into Rubart's back and makes him one of his fishermen, as the only atonement he can offer.[@so06-rubart-joins] He tells Loki he never looked inside the boxes he smuggled: probably valuables, sometimes alcohol, and once a box that made a horrible ruckus, perhaps something alive.[@so06-portrait] He draws Loki a portrait of the man from the sewers.[@so06-portrait]
 
-In Sword Oratoria 7 [[hyrute-sisters|Tiona and Tione]] recognise a man in [[knossos|Knossos]] as "the guy from the picture" who made the deal with the sea god in Meren; he concedes that "something like that happened" and gives his name as Barca.[@so07-barca] The narration says the Evils, Barca and the other Daedalus descendants included, lacked the money to complete Knossos, which is why they made the contract to profit from Meren's black market.[@so07-funds]
+In Sword Oratoria 7 [[hyrute-sisters|Tiona and Tione]] recognise a man in [[knossos|Knossos]] as "the guy from the picture" who made the deal with the fishing god of Meren; he concedes that "something like that happened" and gives his name as Barca.[@so07-barca] The narration says the Evils, Barca and the other Daedalus descendants included, lacked the money to complete Knossos, which is why they made the contract to profit from Meren's black market.[@so07-funds]
 
 ## Chloe
 
@@ -70,7 +70,7 @@ Before the main series, Chloe saw Njörðr taking freight from a shady group to 
 
 | Volume | Events |
 |---|---|
-| Astrea Record 2 | During the Evils' assault, Loki had hoped Njörðr could help get people to Meren, but the Evils have attacked Meren as well.[@ar02-meren] |
+| Astrea Record 2 | During the Evils' assault, Loki hears that Njörðr's people in Meren are trying to do something, but the Evils crush every attempt, so no reinforcements can be expected from the port.[@ar02-meren] |
 | Minor Myths and Legends 2 | Selling his Familia's catch in the marketplace of Orario's southwestern districts with Rod and the reformed Rubart, he apologises to [[aiz-wallenstein|Aiz]] for involving her in "that accursed mess" and says they are working on a new way of fishing. He warns her to leave the market.[@ss02-market] |
 | Sword Oratoria 13 | When carnivorous flowers appear above ground, Njörðr Familia rushes over from Meren to help, and no one dies.[@so13-flowers] |
 | DanMachi 18 | A waitress of the Benevolent Mistress tells [[anya-fromel|Anya]], "We begged Lord Njǫrðr and Lady Demeter." In the Japanese edition the same sentence says they had the other staff convert to the two gods.[@fm18-waitresses] During the Familia War he enters [[freya|Freya]]'s island with [[astrea|Astrea]] and Demeter.[@fm18-island] |
@@ -97,13 +97,13 @@ Before the main series, Chloe saw Njörðr taking freight from a shady group to 
 [@so06-coverup]: SO06 | Epilogue: Disturbing Elements | The Guild's version of events; nothing happens to Njörðr or Borg; Rubart takes the fall.
 [@so06-rubart-joins]: SO06 | Epilogue: Disturbing Elements | "I forcibly carved my blessing in his back"; Njörðr's chambers in Nóatún; Rod's words.
 [@so06-portrait]: SO06 | Epilogue: Disturbing Elements | Ishtar Familia transported the violas; Njörðr made room for their activities; the portrait; perhaps something alive. The Japanese edition (file c779, paragraphs 69 and 75) says he made room for their activities in Meren and that the box was perhaps alive.
-[@so07-barca]: SO07 | Chapter 2: Dungeon Trap | "—The guy from the picture!"; "the human who made that deal with the sea god in Meren"; "I am called…Barca."
+[@so07-barca]: SO07 | Chapter 2: Dungeon Trap | "—The guy from the picture!"; "I am called…Barca." The Japanese edition (file c1KE, paragraph 287) calls Njörðr the fishing god of the port town.
 [@so07-funds]: SO07 | Chapter 5: Battle of Tears | The Evils lacked funds; "their contract with Njrðr to benefit from Meren’s black-market dealings".
 [@so13-flowers]: SO13 | | "the adventurers of Rivira and Njo˛rðr Familia who rushed over from Meren, no one died".
 [@fc01-chloe]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe converted and contracted with Njörðr; Port Meren to the southwest; Lolog Lake; the smuggling she saw.
 [@fc01-good]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Njörðr is a good god."; he kept Black Cat's identity to himself.
 [@fc01-farewell]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Demeter and Njörðr visit the tavern; "Njörðr, I’m sorry for all the trouble I caused"; he pats her head.
-[@ar02-meren]: AR02 | | "I figured Njörðr might be able to help us get people to Meren"; Port Meren to the southwest.
+[@ar02-meren]: AR02 | | Njörðr's people in Meren try to do something, but the Evils crush every attempt, and no reinforcements can be expected from the port (the Japanese edition, file c7P); Port Meren to the southwest.
 [@ss02-market]: SS02 | Paths So Far, an Unending Journey | Rod, Rubart and Njörðr selling their catch; "a new way of fishing"; his warning.
 [@fm18-waitresses]: FM18 | Chapter 8: The Great Familia War | "We begged Lord Njǫrðr and Lady Demeter." The Japanese edition (file part0021, paragraph 28) says the waitresses bowed to Njörðr and Demeter and had the other staff convert to them.
 [@fm18-island]: FM18 | Chapter 9: Flower Language for You | Demeter and Njǫrðr, who ran Meren's fishing industry, enter the island with Astrea.

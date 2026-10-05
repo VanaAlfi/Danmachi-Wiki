@@ -75,7 +75,7 @@
 [@so12-army]: SO12 | Chapter 6: The Divine Providence of Despair | "the strongest army gathered in Central Park at the base of Babel".
 [@ar01-base]: AR01 | Chapter 9: The Opening Act of Evil | "Send them to Central Park"; "Loki had relocated the remaining members of her familia from the Twilight Manor to Central Park."; "Let’s erect a perimeter around Central Park"; barricades of rubble and tavern barrels (the Japanese edition, file c4VY, paragraph 281).
 [@ar02-base]: AR02 | | "They’re setting up a forward base in Central Park"; "our true headquarters from now on".
-[@ar02-guild]: AR02 | Chapter 2: Wavering Justice | "Guild Headquarters located in southwest Orario, now the second-most important base of operations in the city after Central Park".
+[@ar02-guild]: AR02 | Chapter 2: Wavering Justice | Guild Headquarters, in the north-west of the city (the Japanese edition, file c1E0), "now the second-most important base of operations in the city after Central Park".
 [@ar02-speech]: AR02 | Epilogue: All You Need Is Justice | "Familia members from all across the city had gathered there."; "Central Park erupted into howls."
 [@ar03-ice]: AR03 | Prologue: Last Intermission | "The barrier is made of ice"; "It encircles all of Central Park."; "multiple layers of thick ice".
 [@ar03-fortress]: AR03 | Prologue: Last Intermission | "Finn had quickly decided to make Central Park the base of allied operations"; "the foot of Babel was the most fortified location in the city".

@@ -33,7 +33,7 @@
 
 ## Standing and emblem {#standing}
 
-In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it the city's largest faction, and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When Hestia Familia wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant]
+In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it the city's greatest faction, dreaded for its fighting strength, and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When [[hestia-familia|Hestia Familia]] wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant]
 
 Its emblem is the trickster's mark, "a comedic smile", flown on its flags in the Dungeon and hung on the wall behind Finn's desk.[@so01-emblem, so02-emblem] In the Great Conflict of Astrea Record 3 a member raises "the flag of the trickster god" over a stronghold, and at the end of DanMachi 20 the survivors of its expedition return under a tattered flag with "the emblem of the jester".[@ar03-flag, fm20-floor60]
 
@@ -51,7 +51,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[aiz-wallenstein|Aiz Wallenstein]] | Joined at seven; Level 6 from DanMachi 2.[@so09-aiz, fm02-aiz] |
 | [[bete-loga|Bete Loga]] | Joined after leaving Víðarr Familia; Level 6 from Sword Oratoria 6.[@so08-bete, so06-bete] |
 | [[raul-nord|Raul Nord]] | Level 4; supervises the Familia's lower ranks.[@so04-raul] |
-| [[narfi|Narfi]] and [[cruz-bussell|Cruz Bussell]] | A human and a [[races#chienthrope|chienthrope]], both Level 4, who lead the Familia's secondary forces.[@so10-secondary] |
+| [[narfi|Narfi]] and [[cruz-bussell|Cruz Bussell]] | A human and a [[races#chienthrope|chienthrope]], both Level 4 members of the Familia's second army.[@so10-secondary] |
 | [[rakuta|Rakuta]] | [[races#hume-bunny|Hume bunny]] supporter whose maps of Knossos underpin Finn's assault plans.[@so10-rakuta, so11-rakuta] |
 | [[hyrute-sisters|Tiona and Tione Hyrute]] | Amazon twins; Level 6 each from Sword Oratoria 6.[@so06-sisters] |
 | [[lefiya|Lefiya Viridis]] | Elf mage titled *Thousand Elf*; Level 3, and Level 4 from Sword Oratoria 12.[@so01-lefiya, so12-level4] |
@@ -83,7 +83,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 | Sword Oratoria 1 and DanMachi 1 | Returning from an expedition in which it fights through the Moitra Sands to the safe point on Floor 50, the Familia lets a group of Minotaurs run away up the Dungeon. Aiz kills the last one on the fifth floor, and at the bar Bete mocks the boy she saved as "Tomato Boy".[@so01-camp, so01-minotaurs, fm01-aiz] |
 | Astrea Record 3 | Its oldest members, the veterans [[noir-dyne-and-bahra|Noir, Dyne and Bahra]], who had taught Finn, Riveria and Gareth, leave [[twilight-manor|Twilight Manor]] against Loki's wishes to charge the monster horde, and die there.[@ar03-mentors, ar03-veterans] |
 | Sword Oratoria 4–6 | Expedition to Floor 59, where Aiz destroys a [[corrupted-spirit|demi-spirit]]; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
-| Sword Oratoria 7 | First attempt on Knossos, which Loki counts as a defeat; she makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
+| Sword Oratoria 7 | First attempt on Knossos, which Gareth calls a defeat; Loki makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
 | DanMachi 10–11 | Pursues the [[xenos|Xenos]] through [[daedalus-street|Daedalus Street]]; afterwards [[ouranos|Ouranos]] spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep the Xenos secret; Finn forms a limited alliance with them for the assault on [[knossos|Knossos]].[@so10-compact, so10-alliance] |
 | Sword Oratoria 11–12 | Two assaults on Knossos; the second ends with [[dionysus|Dionysus]] exposed as Enyo.[@so11-assault, so12-enyo] |
@@ -117,12 +117,12 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so04-ottar]: SO04 | First Chapter: And the Boy… | Ottar as a longstanding foe.
 [@so04-block]: SO04 | First Chapter: And the Boy… | Freya Familia blocks Loki Familia.
 [@so04-raul]: SO04 | | Raul Nord, Level 4.
-[@so10-secondary]: SO10 | Chapter 2: Someone Named Fool | "The leaders of the secondary forces—the Level-4 chienthrope Cruz and human girl Narfi".
+[@so10-secondary]: SO10 | Chapter 2: Someone Named Fool | "the Level-4 chienthrope Cruz and human girl Narfi". The Japanese edition (file c1J8, paragraph 57) calls them members of the second army.
 [@so10-rakuta]: SO10 | Chapter 5: Brave Soul! | "It was the hume bunny Rakuta. There was a reason why Finn had sent her along with Lefiya for their romp in the deep levels: her genius at mapping."
 [@so11-rakuta]: SO11 | Chapter 2: The Decisive Battle Intermission | Finn "tapped the map Rakuta had created".
 [@so04-59]: SO04 | | Aiz destroys the Floor 59 demi-spirit.
 [@so06-bete]: SO06 | | Bete reaches Level 6.
-[@so07-knossos]: SO07 | | Loki's verdict on the first Knossos operation.
+[@so07-knossos]: SO07 | | Gareth's verdict on the first Knossos operation ("We lost.") and Loki's conclusion about the keys.
 [@so08-bete]: SO08 | | Bete joins Loki Familia.
 [@so09-aiz]: SO09 | | Aiz receives Loki's blessing at seven.
 [@so09-riveria]: SO09 | | Riveria raises Aiz.
@@ -135,9 +135,9 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@ar03-veterans]: AR03 | Chapter 6: The Nameless Heroes | The three veterans charge the monster horde; Olivas's volley kills Bahra, Dyne and Noir.
 [@ar03-flag]: AR03 | Chapter 5: Playing the Violence Card | "the flag of the trickster god" raised over a stronghold.
 [@fm01-aiz]: FM01 | | Loki Familia swordswoman, Level 5; saves Bell; her apology.
-[@fm06-strongest]: FM06 | Chapter 1: The Furious Rabbit | Bete's group, "the strongest Familia in Orario" (cited by the body heading; FM06 has no contents list).
+[@fm06-strongest]: FM06 | Chapter 1: The Furious Rabbit | Bete's group, "the strongest Familia in Orario" (cited by the body heading; FM06 has no contents list). The Japanese edition (file cTY, paragraph 26) calls it famed as the city's largest faction.
 [@fm06-giant]: FM06 | Chapter 5: Our War Game | The commentator: the deeds of the "Giant Killers", Loki Familia (cited by the body heading).
-[@fm11-strongest]: FM11 | Chapter 3: The Night Before Battle | The city's largest faction (the Japanese edition, file c2BD, paragraphs 129 and 532).
+[@fm11-strongest]: FM11 | Chapter 3: The Night Before Battle | The city's greatest faction, dreaded for its fighting strength (the Japanese edition, file c2BD, paragraphs 129 and 532).
 [@fm18-twin]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Royman: Loki and Freya Familias, "the twin peaks of the city".
 [@fm18-deal]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Royman's offer: the Guild's information on the Ice Garden for staying out of the war game.
 [@fm18-orders]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Gareth and the Hyrute sisters; the captain's orders.

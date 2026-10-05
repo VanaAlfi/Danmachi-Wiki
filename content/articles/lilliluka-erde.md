@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Prum supporter who leaves Soma Familia for Hestia Familia in DanMachi 6 and becomes its tactician; her magic Cinder Ella changes her appearance.",
-  "aliases": ["Lilly", "Little Marshal", "Bom Cornwall"],
+  "aliases": ["Lilly", "Little Marshal"],
   "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vol. 12 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "bell-cranell", "hestia", "falna", "welf-crozzo", "haruhime", "freya-familia", "magic"],
   "infobox": {
@@ -31,7 +31,7 @@
 
 ## Soma Familia
 
-Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She then goes nearly half a year without a Status update: she reached the quota but did not hand the money in, so as not to stand out, and being unable to update was the side effect (the Yen Press text says six months and calls it a sacrifice she made).[@fm03-status, fm03-ja-status]
+Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She then goes nearly half a year without a Status update: she reached the quota but did not hand the money in, so as not to stand out, and being unable to update was the side effect.[@fm03-status, fm03-ja-status]
 
 In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's [[soma#divine-wine|Divine Wine]] through willpower and persuades [[soma|Soma]] to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
 
@@ -45,7 +45,7 @@ In the Familia War of DanMachi 18 she commands the coalition and uses Cinder Ell
 
 ## Abilities
 
-- **Cinder Ella** changes her appearance to the form she pictures while casting. It works best when copying a real form, has limits on how far it can change her body size, and can even imitate small monsters, but it never raises her Status.[@fm15-card, fm03-cinder, fm11-aruru]
+- **Cinder Ella** changes her appearance to the form she pictures while casting. It works best when copying a real form, has limits on how far it can change her body size, and can even imitate small monsters, but it does not raise her Status.[@fm15-card, fm03-cinder, fm11-aruru]
 - **[[skills#artel-assist|Artel Assist]]** helps her carry loads: once the weight of her equipment passes a threshold, it applies a correction that grows with the weight. DanMachi 15 prints the name as *Arter Assist*.[@fm08-card, fm15-card]
 - **[[skills#command-call|Command Call]]**, which appears at the update that lets her reach Level 2, extends how far her shouted instructions carry, telepathically, but only to people with the same Falna.[@fm15-card]
 - **Mind Call** is the name DanMachi 18 gives to the Skill she developed at her Level Up, which allows telepathic contact with people who share her blessing. It is Command Call: the Japanese writes the same Skill name, with Mind Call as a second reading.[@fm18-mindcall, fm15-card]
@@ -89,8 +89,8 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 
 #### Effects {#cinder-ella-effects}
 
-- **Appearance, not power.** She can take the form of a target whose build closely resembles her own, as an imitation only, and that includes monsters of that build (the Yen Press text says "anything she could clearly picture in her mind, even monsters"). Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm05-ja-release, cinder-ella.fm11-limits]
-- **Imitation.** In DanMachi 3 she can basically only turn into pallums or children of about her own build (the Yen Press text says "other short races or children of taller ones"). As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance (the Yen Press text says she needs an example to copy).[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
+- **Appearance, not power.** She can take the form of a target whose build closely resembles her own, as an imitation only, and that includes monsters of that build. Cinder Ella does not raise her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm05-ja-release, cinder-ella.fm11-limits]
+- **Imitation.** In DanMachi 3 she can basically only turn into prums or children of about her own build. As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance.[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
 - **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and, apparently, a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits, cinder-ella.fm18-dispel]
 
 #### Magic or Skill? {#cinder-ella-magic-or-skill}
@@ -133,7 +133,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only; cat ears appear.
 [@cinder-ella.fm03-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Shape limits; clothing needs an example; ends if she is hit.
 [@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
-[@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
+[@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums (the race this wiki calls prums) or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
 [@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise. Yen Press prints that she can transform into anything she could clearly picture in her mind.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
@@ -143,7 +143,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 [@cinder-ella.fm11-chase]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Both chants; poses as Aruru.
 [@cinder-ella.fm11-limits]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Cannot take a higher Status or a monster's potential.
 [@cinder-ella.fm11-finn]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Poses as Finn; must imitate personality.
-[@cinder-ella.fm15-card]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Status card: Activation and Deactivation chants.
+[@cinder-ella.fm15-card]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Status card: Activation and Deactivation chants. The Japanese edition's DanMachi 15 card (file c1TW, paragraphs 29–34) is word for word the DanMachi 8 card.
 [@cinder-ella.fm15-activation]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Activation chant spoken.
 [@cinder-ella.fm15-origin]: FM15 | | The spell appeared half a year earlier; used to slip away from adventurers.
 [@cinder-ella.fm18-dispel]: FM18 | Chapter 9: Flower Language for You | Disguise as Berling dispelled by a spear.

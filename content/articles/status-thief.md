@@ -17,8 +17,8 @@
       {"label": "Japanese", "value": "{{ja|開錠薬}}, written *unlocking drug*", "refs": ["fm17-status-thief-ja"]},
       {"label": "Type", "value": "Liquid in a vial or bottle", "refs": ["so02-rivira", "so03-lulune"]},
       {"label": "Effect", "value": "Unlocks a god-locked Status, showing name and patron god", "refs": ["so02-rivira", "fc01-ted"]},
-      {"label": "Made from", "value": "Divine ichor", "refs": ["so02-rivira"]},
-      {"label": "Made by", "value": "Holders of the Advanced Ability Enigma", "refs": ["so02-rivira"]},
+      {"label": "Material", "value": "Divine ichor", "refs": ["so02-rivira"]},
+      {"label": "Maker", "value": "Holders of the Advanced Ability Enigma", "refs": ["so02-rivira"]},
       {"label": "Legal status", "value": "Illegal; sold only underground", "refs": ["so02-rivira"]},
       {"section": "Related item"},
       {"label": "Status Snitch", "value": "Used after it to let another god update abilities", "refs": ["fm17-snitch"]}
@@ -30,7 +30,7 @@
 
 ## Making and selling it
 
-In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at [[rivira|Rivira]]. It is made from the ichor in a deity's blood, and only people with the Advanced Ability Enigma can produce it (see [[development-ability|Development Ability]]). That ingredient makes it illegal: it is never sold in ordinary shops, but it sometimes appears on the underground market, and Rivira is a likely place to find it. Because it has only one use and few chemists can make it, there is little in stock at any time, and it is very expensive.[@so02-rivira]
+In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at [[rivira|Rivira]]. It is made from the ichor in a deity's blood, and only people with the Advanced Ability Enigma can produce it (see [[development-ability|Development Ability]]). That ingredient makes it illegal: it is not sold in ordinary shops, but it sometimes appears on the underground market, and Rivira is a likely place to find it. Because it has only one use and few chemists can make it, there is little in stock at any time, and it is very expensive.[@so02-rivira]
 
 ## Using it
 

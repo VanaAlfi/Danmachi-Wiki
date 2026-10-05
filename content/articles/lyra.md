@@ -19,7 +19,7 @@
       {"label": "Height", "value": "Less than 120 celches", "refs": ["fm14-teach"]},
       {"label": "Age", "value": "Two years older than Lyu", "refs": ["fm14-teach"]},
       {"label": "Hair", "value": "Short; dyed peach (DanMachi 14, Familia Chronicle 3), pink (Astrea Record 2)", "refs": ["fm14-teach", "fc03-traps", "ar02-pink"]},
-      {"label": "Also called", "value": "Slyle (see [[#name|Name]])", "refs": ["ar02-slyle", "ar03-slyle"]},
+      {"label": "Title", "value": "Slyle ({{ja|狡鼠}}, written *cunning rat*; see [[#name|Name]])", "refs": ["ar02-slyle", "ar03-slyle", "ar02-slyle-ja"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[astrea-familia|Astrea Familia]], one of its first members", "refs": ["fc03-drinks", "ar02-search"]},
       {"label": "Role", "value": "Strategist", "refs": ["ar02-pragmatic", "fc03-list"]},
@@ -27,7 +27,7 @@
       {"label": "Level", "value": "2 in Astrea Record 2–3; later prints differ (see [[#level|Level]])", "refs": ["ar02-alfia", "ar03-passive", "ar03-rankup", "fm14-level"]},
       {"label": "Magic", "value": "Possibly Moose Mine, an inference (see [[#magic|Magic]])", "refs": ["fc03-moose"]},
       {"section": "Fate"},
-      {"label": "Died", "value": "Five years before DanMachi 13, against the [[juggernaut|Juggernaut]]; the first of the three who stayed behind", "refs": ["fm13-ten", "fm14-death"]}
+      {"label": "Fate", "value": "Five years before DanMachi 13, against the [[juggernaut|Juggernaut]]; the first of the three who stayed behind", "refs": ["fm13-ten", "fm14-death"]}
     ]
   }
 }
@@ -38,7 +38,7 @@
 
 The covered volumes print her name only as *Lyra*, and no surname for her was located in the checked text. When Lyu tells the younger members of Astrea's new Familia about her old companions in Familia Chronicle 3, she gives the other nine their full names but calls her simply "the prum strategist, Lyra".[@fc03-list]
 
-Three characters call her *Slyle*. [[riveria|Riveria]] credits "Slyle" with Astrea Familia's quick seizure of the city walls, saying that such quick thinking reminds her of "our own prum"; Asfi, after seventy-seven hours of work for Astrea Familia, says that if she dies it is "Slyle's fault"; and [[finn-deimne|Finn]] answers one of Lyra's objections with "You're right, Slyle".[@ar02-slyle, ar03-asfi, ar03-slyle] {{inference}} The checked text never explains the word. It reads like a title or nickname, in the way Lyra herself addresses Asfi by her title, "Perseus".[@ar02-item]
+*Slyle* is her title, written with characters meaning *cunning rat*, and three characters call her by it.[@ar02-slyle-ja] [[riveria|Riveria]] credits "Slyle" with Astrea Familia's quick seizure of the city walls, saying that such quick thinking reminds her of "our own prum"; Asfi, after seventy-seven hours of work for Astrea Familia, says that if she dies it is "Slyle's fault"; and [[finn-deimne|Finn]] answers one of Lyra's objections with "You're right, Slyle".[@ar02-slyle, ar03-asfi, ar03-slyle]
 
 The accessory [[silence-lyra|Silence Lyra]] is a different thing, and the checked text does not connect its name with her: Astrea Record 3 calls it a *Silence Lyre*, describes the earpieces as shaped like a miniature harp, and says Finn devised them and Asfi made them.[@ar03-lyre]
 
@@ -105,7 +105,7 @@ Familia Chronicle 3's short story set two years after the Great Conflict shows L
 
 ### Astrea Record 3
 
-- Before the battle she carries a round shield almost as big as herself, which is unusual for someone who fights from the back. She says Finn told her to take it, that she has no idea how it will help, and that Perseus made it for her; Asfi, exhausted, blames "Slyle".[@ar03-shield, ar03-asfi] {{inference}} The shield is presumably the item she asked Asfi for in Astrea Record 2.[@ar02-item]
+- Before the battle she carries a round shield almost as big as herself, which is unusual for someone who fights from the back. She says Finn told her to take it, that she has no idea how it will help, and that Perseus made it for her; Asfi, exhausted, blames "Slyle".[@ar03-shield, ar03-asfi] It is the item she asked Asfi for in Astrea Record 2, when she told her there was a prototype of similar armour to work from.[@ar02-item]
 - In the battle with Alfia, Kaguya splits off to fight Vito and orders Lyra to make up for her absence.[@ar03-kaguya] Lyra strikes Alfia with a shield bash, then explains that Alfia's protection, [[magic#silentium-eden|Silentium Eden]], is not a barrier spell but an enchantment that is always on and must be draining her Mind. Alfia admits that "that Level Two prum has outwitted me for a second time".[@ar03-passive]
 - When Alfia casts her final spell, [[magic#genos-angelus|Genos Angelus]], Lyra throws herself in front of it behind her shield. The shield neutralises the spell and shatters. She explains that the earlier shield bash let it take Alfia's own Silentium Eden; Perseus made it with "that Cyclops" from a prototype shield (the Japanese word means *original form*) that [[hermes|Hermes]] gave them, the one [[zeus-and-hera-familias|Zeus]] is said to have had: the Aegis.[@ar03-genos] (See [[alfia#genos-angelus-stopped-by-lyra|Alfia § Stopped by Lyra]].)
 - Facing [[delphyne|Delphyne]], she argues that they cannot win without an edge; she judges it at least Level 6 or 7. After Astrea updates the whole Familia, Lyra proposes "a real raid battle", asks Riveria for a buff, and is one of the eight fighters who close in on the dragon.[@ar03-delphyne, ar03-rankup]
@@ -157,7 +157,6 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Her Level when she died (see [[#level|Level]]).[@fm13-ten, fm14-level]
 > - Whether *Moose Mine* is her magic, and what it does.[@fc03-moose]
-> - What *Slyle* means; the checked text does not explain it.[@ar02-slyle, ar03-slyle]
 > - Her surname, if she has one: none was located in the checked text.[@fc03-list]
 > - Her Skills: none is named for her in the checked text.[@ar02-alfia, fc03-moose]
 
@@ -178,7 +177,7 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@fm15-strays]: FM15 | Chapter 6: Meetings and Oaths | "Jeez, you brought another one of your strays in?"; Alize scolds Kaguya, "And Lyra!"
 [@fm15-circle]: FM15 | Chapter 6: Meetings and Oaths | "Noin, Neze, Lyra, Asta, Lyana, Kaguya, Celty, Iska, Maryu."
 [@ss01-grins]: SS01 | Eyewitness Account: The Malfunctioning Elf | "the sneering grins of Kaguya and Lyra".
-[@fc01-gamble]: FC01 | Crush the Grand Casino! | "a colleague in Astrea Familia"; "that prum girl with a wide grin" (not named).
+[@fc01-gamble]: FC01 | Crush the Grand Casino! | "a colleague in Astrea Familia"; "that prum girl with a wide grin" (not named). The Japanese edition (file cBV, paragraph 167) calls the prum girl's grin wicked, and has Lyu made to learn from her half by force.
 [@fc03-baby]: FC03 | The Locus of Stars | "Lyra and Neze often teasingly called her the baby of the familia."
 [@fc03-cleaning]: FC03 | The Locus of Stars | "Lyra would have put me on cleaning duty"; "the worst possible punishment for you".
 [@fc03-traps]: FC03 | The Locus of Stars | Schau as the brains "just like Lyra once had"; "another layer or two of traps"; "the peach-haired prum girl’s nasty smile".
@@ -212,8 +211,9 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@ar02-bombs]: AR02 | | "characteristically frugal when it came to using her crafted items"; "contingency plans for every possible situation".
 [@ar02-astrea-hand]: AR02 | | Astrea: "It was the day Lyra took my hand."
 [@ar02-report]: AR02 | | "Turns out that bastard’s after Leon."
+[@ar02-slyle-ja]: AR02 | | The Japanese edition prints Slyle in title brackets as the reading of kanji meaning cunning rat (file c6TM, paragraph 77; file c7BY, paragraph 166).
 [@ar02-slyle]: AR02 | | Riveria: "This must be your work, Slyle"; "reminds me a lot of our own prum!"
-[@ar02-item]: AR02 | | "I need you to make me a magic item, Perseus."; "a large order of earrings from Braver"; "I told my plan to Finn".
+[@ar02-item]: AR02 | | "I need you to make me a magic item, Perseus."; "a large order of earrings from Braver"; "I told my plan to Finn"; there is said to be a prototype of similar armour (the Japanese edition, file c7BY).
 [@ar02-act]: AR02 | Epilogue: All You Need Is Justice | "Tell us you got somethin’ up your sleeve, hero!"; "It was all an act."
 [@ar02-swindler]: AR02 | Epilogue: All You Need Is Justice | "He’s a swindler and a cheat."; "her eyes were those of a girl in love"; "His words are our courage."
 [@ar03-shield]: AR03 | Prologue: Last Intermission | "almost as large as Lyra"; "usually fought from the back ranks"; "Finn told me to take it"; "Perseus made it for me."

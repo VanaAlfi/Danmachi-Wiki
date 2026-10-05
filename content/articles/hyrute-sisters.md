@@ -19,7 +19,7 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["fm08-tione"]},
       {"label": "Level", "value": "6 each, from Sword Oratoria 6", "refs": ["so06-sisters"]},
       {"label": "Titles", "value": "Tiona: Amazon the Slasher ({{ja|大切断}}, written *great severing*); Tione: Jormungand ({{ja|怒蛇}}, written *angry serpent*)", "refs": ["fm11-slasher", "fm10-titles", "so04-jormungand", "fm10-hyrute-ja"]},
-      {"label": "Development Ability", "value": "Dive, on their Level 5 sheets in Sword Oratoria 3 and 4", "refs": ["so06-sisters"]},
+      {"label": "Development Abilities", "value": "Dive, on their Level 5 sheets in Sword Oratoria 3 and 4 {{small|printed *Drive* on Tiona's Sword Oratoria 3 sheet}}", "refs": ["so06-sisters", "sheet.so03-tiona", "sheet.so04-tione"]},
       {"label": "Skills", "value": "Both: [[skills#berserk|Berserk]]. Tiona: [[skills#intense-heat|Intense Heat]]. Tione: [[skills#backdraft|Backdraft]]", "refs": ["skills.so06-berserk", "skills.so06-heat"]}
     ]
   }
@@ -50,7 +50,7 @@ In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's l
 
 ### Restrict Iorum {#restrict-iorum}
 
-**Restrict Iorum** is Tione Hyrute's spell, "a restrictive magic that bound its victims in a whip of light".[@restrict-iorum.so07-cast] It has a set chance of rooting an enemy to the spot, and the whip can also be used as an ordinary weapon.[@restrict-iorum.so07-cast]
+**Restrict Iorum** ({{ja|リスト・イオルム}}, said *Rist Iorum*)[@restrict-iorum.so04-ja] is Tione Hyrute's spell, "a restrictive magic that bound its victims in a whip of light".[@restrict-iorum.so07-cast] It has a set chance of rooting an enemy to the spot, and the whip can also be used as an ordinary weapon.[@restrict-iorum.so07-cast]
 
 - **User:** Tione Hyrute[@restrict-iorum.so07-cast]
 - **Type:** Restrictive magic: a whip of light[@restrict-iorum.so07-cast]
@@ -59,7 +59,7 @@ In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's l
 
 #### Status entry {#restrict-iorum-status-entry}
 
-Tione's illustrated Status sheet in Sword Oratoria 4 (Level 5) lists Restrict Iorum under Magic as restraining magic: it restricts the target's movement based on a certain chance, and the chance of success rises with her Magic stat.[@restrict-iorum.so04-sheet] This matches the Sword Oratoria 7 narration, which ties its hit rate to her Magic ability.[@restrict-iorum.so07-cast]
+Tione's illustrated Status sheet in Sword Oratoria 4 (Level 5) lists Restrict Iorum under Magic as restraining magic: it restricts the target's movement based on a certain chance, and the chance of success rises with her Magic stat; the sheet calls the stop *Ristreit* ({{ja|強制停止}}, written *forced stop*).[@restrict-iorum.so04-sheet, restrict-iorum.so04-ja] This matches the Sword Oratoria 7 narration, which ties its hit rate to her Magic ability.[@restrict-iorum.so07-cast]
 
 #### Incantation {#restrict-iorum-incantation}
 
@@ -74,6 +74,7 @@ Sword Oratoria 7 prints the chant in two pieces, then the name. Tione forms "the
 - **Opening (excerpt):** "Desire, submersed in the sea of my heart"[@restrict-iorum.so07-cast]
 - **Second piece (excerpt):** "Take shape, bare your fangs, and become the serpent."[@restrict-iorum.so07-cast]
 - **Last words:** "Halt fate’s ticking seconds, and banish it to the void!"[@restrict-iorum.so07-cast]
+- **Japanese of the last sentence:** {{ja|運命を捕え、運命を止め、運命を蹂躙せよ}}, written *seize fate, stop fate, trample fate*, each *fate* read *time*. In the second piece the serpent is written *king serpent* and read *snake*.[@restrict-iorum.so07-ja]
 - **Name:** "Restrict Iorum!"[@restrict-iorum.so07-cast]
 
 Because she has never studied the ways of the mage, no magic circle forms beneath her.[@restrict-iorum.so07-cast]
@@ -93,6 +94,8 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@so01-urga]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga".
 [@so02-urga]: SO02 | Chapter 2: Incident | "the hulking double-bladed sword Urga"; "from Goibniu Familia".
 [@so06-sisters]: SO06 | | Level 6; Dive, obtained at a Level Up, with underwater fighting learned before Orario (the Japanese edition, file c12J, paragraphs 217 to 224); Telskyura; Tiona and Bache.
+[@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Pummel G, Dive G (printed Drive), Immunity H, Fracture I. The Japanese edition's sheet (file c6CF, Tiona's data page) has Dive.
+[@sheet.so04-tione]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Pummel G, Dive G, Immunity H, Healing Power I.
 [@so06-kali]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "The two sisters were the only ones able to talk back to Kali"; "all too soon she would have to fight her sister"; "Kali, I don’t wanna fight Tione."; "Kali released them from that arena of stone".
 [@skills.so06-berserk]: SO06 | Chapter 5: A Duo of Sun and Moon | Berserk: Tiona's, the same as her sister's; Tione's fury.
 [@skills.so06-heat]: SO06 | Chapter 5: A Duo of Sun and Moon | Intense Heat, a rare skill; Backdraft; the same activation requirements.
@@ -101,6 +104,8 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@so07-tione]: SO07 | Chapter 5: Battle of Tears | Berserk; Restrict Iorum.
 [@ss02-tiona]: SS02 | | Tiona's childhood and books.
 [@restrict-iorum.so07-cast]: SO07 | Chapter 5: Battle of Tears | The full chant; no magic circle; "restrictive magic"; hit rate; "one for ten on a floor boss".
+[@restrict-iorum.so07-ja]: SO07 | Chapter 5: Battle of Tears | The Japanese edition (file c5DY, paragraphs 173 and 176) gives the chant's last sentence and the king serpent of its second piece.
+[@restrict-iorum.so04-ja]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): the Japanese edition prints the spell's name in katakana read Rist Iorum, and the forced stop it causes with the reading Ristreit.
 [@restrict-iorum.so04-sheet]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Restrict Iorum, restraining magic; chance-based; success rises with Magic.
 [@fm10-titles]: FM10 | Chapter 9: Dreams of Beasts | The roll of "Orario’s strongest adventurers" names Tiona with the title Amazon and Tione with Jormungand.
 [@fm11-slasher]: FM11 | Chapter 5: Ultra Soul! | "Amazon the Slasher and Jormungand had intercepted them".

@@ -16,7 +16,7 @@
       {"section": "Item"},
       {"label": "Also called", "value": "Sesshouseki", "refs": ["fm07-asfi"]},
       {"label": "Type", "value": "Forbidden magic item", "refs": ["fm07-asfi"]},
-      {"label": "Made from", "value": "A tamamo stone (renart ashes) and a toba stone (lunatic light)", "refs": ["fm07-asfi", "fm07-toba"]},
+      {"label": "Material", "value": "A tamamo stone (renart ashes) and a toba stone (lunatic light)", "refs": ["fm07-asfi", "fm07-toba"]},
       {"label": "Effect", "value": "Seals a renart's soul; shards let others use its sorcery", "refs": ["fm07-soul", "fm07-shards"]},
       {"section": "Ishtar's stones"},
       {"label": "First", "value": "Destroyed by Aisha, three years before DanMachi 7", "refs": ["fm07-aisha", "fm07-garden"]},

@@ -33,14 +33,14 @@
     {"anchor": "enigma", "title": "Enigma", "summary": "The rare Development Ability behind the most remarkable magic items, from the Philosopher's Stone to grimoires and the Status Thief; also printed Mystery.", "aliases": ["Mystery"]},
     {"anchor": "mage", "title": "Mage", "summary": "The caster's Development Ability: a magic circle that raises the power, range and Mind efficiency of spells; also printed Magic Control and Conjure.", "aliases": ["Magic Control", "Conjure"]},
     {"anchor": "spirit-healing", "title": "Spirit Healing", "summary": "Makes the holder's Mind recover constantly; also printed Regen. Held by Riveria and Aiz.", "aliases": ["Regen"]},
-    {"anchor": "escape", "title": "Escape", "summary": "Improves speed while fleeing; available only from Level 4, rare, and thought dishonourable. Held by Bell and Chloe.", "aliases": []},
+    {"anchor": "escape", "title": "Escape", "summary": "Improves speed while fleeing; available only from Level 4, rare, and thought dishonourable. Held by Bell, Chloe and Raul.", "aliases": ["Speed"]},
     {"anchor": "successive-attacks", "title": "Successive Attacks", "summary": "Attacks landed in quick succession grow stronger; also printed Rapid Attacks and Chain Attack.", "aliases": ["Rapid Attacks", "Chain Attack"]},
     {"anchor": "dive", "title": "Dive", "summary": "The rare underwater Development Ability of the Hyrute sisters: they swim like fish, with effects like Undine cloth.", "aliases": ["Drive"]},
     {"anchor": "swordsman", "title": "Swordsman", "summary": "Aiz Wallenstein's Development Ability, more often printed as Knight; its effect is not described.", "aliases": ["Knight"]},
     {"anchor": "magic-resistance", "title": "Magic Resistance", "summary": "A Development Ability on the cards of Riveria, Gareth, Finn, Lefiya, Lyu and Ottar; also printed Magic Defense.", "aliases": ["Magic Defense"]},
     {"anchor": "pummel", "title": "Pummel", "summary": "A fist-fighting Development Ability on the sheets of Tiona, Tione, Bete, Gareth and Leon; Runoa's Punch is probably the same.", "aliases": ["Punch"]},
-    {"anchor": "fracture", "title": "Fracture", "summary": "A Development Ability on the sheets of Tiona, Gareth, Ottar and Leon; Runoa's Crush is probably the same.", "aliases": ["Crush"]},
-    {"anchor": "other-abilities", "title": "Other Development Abilities", "summary": "Abilities known only by name from Status cards and sheets: Healing Power, Healing, Bulwark, Initiative, Sturdy Body, Conflagrate, Slash, Supreme Attack, Speed, Brawler and Heavy Guard.", "aliases": ["Healing Power", "Healing", "Bulwark", "Initiative", "Sturdy Body", "Conflagrate", "Slash", "Supreme Attack", "Speed", "Brawler", "Heavy Guard", "Strong Body", "Strong Defense", "Fire Flash"]},
+    {"anchor": "fracture", "title": "Fracture", "summary": "A Development Ability on the sheets of Tiona, Gareth, Ottar and Leon; Runoa's Crush is the same ability.", "aliases": ["Crush"]},
+    {"anchor": "other-abilities", "title": "Other Development Abilities", "summary": "Abilities known only by name from Status cards and sheets: Healing Power, Healing, Bulwark, Initiative, Sturdy Body, Conflagrate, Slash, Supreme Attack and Brawler.", "aliases": ["Healing Power", "Healing", "Bulwark", "Initiative", "Sturdy Body", "Conflagrate", "Slash", "Supreme Attack", "Brawler", "Strong Body", "Strong Defense", "Fire Flash"]},
     {"anchor": "lent-abilities", "title": "Abilities lent by Skills and magic", "summary": "Development Abilities some Skills and spells grant for a while: Lancer (Dia Phiana), Escape (Helios Passion), Heal and Spirit Heal (Stultus Ottar), Supreme Light (Blaze of the Round).", "aliases": ["Lancer", "Heal", "Spirit Heal", "Supreme Light", "Spearman"]}
   ]
 }
@@ -58,7 +58,7 @@ A Development Ability is chosen at a Level Up, from the options that the adventu
 - **Sometimes there is no choice, or nothing at all.** When Bell reaches Level 4 only Escape is on offer, and Hestia notes that Development Abilities are rare enough to take whatever appears. Aiz gains none when she reaches Level 5, and only Regen at Level 6.[@fm12-escape, so03-aiz]
 - **A god can delay the choice.** In DanMachi 15 Hestia defers Lilly's Level Up so that she can talk over Resistance and Compounding with the others first.[@fm15-lilly]
 - **The system was mapped by [[zeus-and-hera-familias|Zeus and Hera]].** Astrea Record 3 says their Familias reported to the Guild, one by one, the conditions for acquiring Development Abilities.[@ar03-unlock]
-- **Items can need several.** Fels's magic items needed several Development Abilities to make, and a grimoire needs both Mage (printed Magic Control) and Enigma, so its maker must be at least Level 3.[@fm10-fels, fm02-grimoire]
+- **Items can need several.** Fels's magic items needed several Development Abilities to make, and a grimoire needs both Mage (printed Magic Control) and Enigma; Bell reasons that its maker must therefore be at least Level 3.[@fm10-fels, fm02-grimoire]
 
 ## Ranks
 
@@ -81,8 +81,8 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#successive-attacks|Successive Attacks]] | Rapid Attacks; Chain Attack | Bell's Rapid Attacks I becomes Successive Attacks I; Chain Attack is on Finn's sheet.[@fm18-bell, fm20-bell, sheet.so08-finn] |
 | [[#swordsman|Swordsman]] | Knight | Aiz's Knight H becomes Swordsman H.[@so03-aiz, so06-cards] |
 | [[#magic-resistance|Magic Resistance]] | Magic Defense | Lyu's Magic Resistance I becomes Magic Defense I; so does Lefiya's.[@sheet.fm13-lyu, fc03-cards, so12-lefiya, sheet.so13-lefiya] |
-| [[#dive|Dive]] | Drive | Only Tiona's Sword Oratoria 3 sheet prints Drive, in the place her sister's prints Dive; probably a misprint.[@sheet.so03-tiona, sheet.so04-tione] |
-| [[#pummel|Pummel]]; [[#fracture|Fracture]] | Punch; Crush | Runoa's card prints Punch and Crush; that they are Pummel and Fracture rests on the Japanese terms only.[@fc01-runoa] |
+| [[#dive|Dive]] | Drive | Only Tiona's Sword Oratoria 3 sheet prints Drive, a misprint for the Dive of her sister's sheet; the Japanese sheet has Dive.[@sheet.so03-tiona, sheet.so04-tione] |
+| [[#pummel|Pummel]]; [[#fracture|Fracture]] | Punch; Crush | Runoa's card prints Punch and Crush; the Japanese prints Crush with the same word as Ottar's Fracture, so the two are one ability, while Punch is Pummel on the Japanese term alone.[@fc01-runoa, sheet.fc02-ottar] |
 
 ## Ability index {#ability-index}
 
@@ -95,17 +95,17 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#luck|Luck]] | Bell | Unknown[@fm04-luck] |
 | [[#forge|Forge]] | Welf; many smiths | Special properties in forged items[@fm02-named] |
 | [[#compounding|Compounding]] | Nahza, Chloe | Better items and medicine[@fm04-nahza, fm15-lilly] |
-| [[#enigma|Enigma]] | Asfi, the Sage (Fels), Barca | Remarkable magic items[@fm02-named, fm05-enigma] |
+| [[#enigma|Enigma]] | Asfi, the Sage (Fels), Barca, Amid | Remarkable magic items[@fm02-named, fm05-enigma, so11-amid-enigma] |
 | [[#mage|Mage]] | Riveria, Lefiya, Lyu | A magic circle for power, range and Mind efficiency[@so01-conjure, fc03-control] |
 | [[#spirit-healing|Spirit Healing]] | Riveria, Aiz | Constant Mind recovery[@so03-aiz] |
-| [[#escape|Escape]] | Bell, Chloe | Faster when fleeing[@fm12-escape] |
+| [[#escape|Escape]] | Bell, Chloe, Raul | Faster when fleeing[@fm12-escape, sheet.so11-raul] |
 | [[#successive-attacks|Successive Attacks]] | Bell, Lyu, Finn | Stronger attacks in quick succession[@fm18-bell] |
 | [[#dive|Dive]] | Tiona, Tione | Underwater movement[@so06-dive] |
 | [[#swordsman|Swordsman]] | Aiz | Not described[@so01-aiz] |
-| [[#magic-resistance|Magic Resistance]] | Riveria, Gareth, Finn, Lefiya, Lyu, Ottar | Not described[@so12-lefiya] |
+| [[#magic-resistance|Magic Resistance]] | Bete, Riveria, Gareth, Finn, Lefiya, Lyu, Ottar | Not described[@so12-lefiya] |
 | [[#pummel|Pummel]] | Tiona, Tione, Bete, Gareth, Leon | Not described[@sheet.so03-tiona] |
 | [[#fracture|Fracture]] | Tiona, Gareth, Ottar, Leon | Not described[@sheet.so03-tiona] |
-| [[#other-abilities|Healing Power]] | Tione, Bete | Not described[@sheet.so04-tione] |
+| [[#other-abilities|Healing Power]] | Tione | Not described[@sheet.so04-tione] |
 | [[#other-abilities|Healing]] | Riveria, [[cassandra|Cassandra]], Ardee | Not described[@sheet.so06-riveria] |
 | [[#other-abilities|Bulwark]] | Gareth | Not described[@sheet.so07-gareth] |
 | [[#other-abilities|Initiative]] | Finn | Not described[@sheet.so08-finn] |
@@ -113,7 +113,6 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#other-abilities|Conflagrate]] | [[alize-lovell|Alize]] | Not described[@sheet.ar03-alize] |
 | [[#other-abilities|Slash]] | Leon | Not described[@sheet.fm20-leon] |
 | [[#other-abilities|Supreme Attack]] | Leon | Not described[@sheet.fm20-leon] |
-| [[#other-abilities|Speed]] | Raul | Not described[@sheet.so11-raul] |
 | [[#other-abilities|Brawler]] | Runoa | Not described[@fc01-runoa] |
 
 ## Abilities described in the text {#described-abilities}
@@ -199,13 +198,13 @@ Lilly is offered it at Level 2 and is tempted, since she could make her own poti
 **Enigma** lets its holder perform a kind of miracle; Eina calls it a divine art. Long ago someone with it made the Philosopher's Stone, which grants eternal life.[@fm02-named] With Mage it is needed to make a [[grimoire|grimoire]].[@fm02-grimoire]
 
 - **Printed as:** Enigma; Mystery (Sword Oratoria 7)[@fm05-enigma, so07-mystery]
-- **Holders:** [[asfi|Asfi Al Andromeda]], one of fewer than five people in Orario with it (the Yen Press text prints "one of only five"); the Sage, now [[fels|Fels]]; Barca Perdix[@fm05-enigma, fm05-ja-enigma, fm09-sage, so07-mystery]
+- **Holders:** [[asfi|Asfi Al Andromeda]], one of fewer than five people in Orario with it; the Sage, now [[fels|Fels]]; Barca Perdix; [[amid|Amid Teasanare]][@fm05-enigma, fm05-ja-enigma, fm09-sage, so07-mystery, so11-amid-enigma]
 
 Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged sandals [[equipment#talaria|Talaria]] and her copy of a [[knossos|Knossos]] key.[@so02-enigma, so03-talaria, so11-asfi]
 
 ### Mage {#mage}
 
-**Mage** is the caster's Development Ability. It lets the holder deploy a magic circle when casting, in the colour of their magic power, which greatly raises the power of their spells and the efficiency of their Mind; Sword Oratoria 1 adds range. It may appear at a Level Up for someone with a high Magic ability, and Familia Chronicle 3 calls it practically required for any serious caster from Level 2.[@so01-conjure, fc03-control] In DanMachi 5 the mages of [[rivira|Rivira]] who have it cast with magic circles at their feet.[@fm05-conjure]
+**Mage** ({{ja|魔導}})[@mage.so01-ja] is the caster's Development Ability. It lets the holder deploy a magic circle when casting, in the colour of their magic power, which greatly raises the power of their spells and the efficiency of their Mind; Sword Oratoria 1 adds range. It may appear at a Level Up for someone with a high Magic ability, and Familia Chronicle 3 calls it practically required for any serious caster from Level 2.[@so01-conjure, fc03-control] In DanMachi 5 the mages of [[rivira|Rivira]] who have it cast with magic circles at their feet.[@fm05-conjure]
 
 - **Printed as:** Magic Control (DanMachi 2, Familia Chronicle 3, Sword Oratoria 13); Conjure (DanMachi 5, Sword Oratoria 1, 2 and 12); Mage (Sword Oratoria 6 and 14)[@fm02-named, fc03-control, sheet.so13-p26, fm05-conjure, so01-conjure, so12-lefiya, so06-cards, so14-riveria]
 
@@ -219,7 +218,7 @@ Without it a caster can still work wonders: the young Riveria, at Level 1, alrea
 
 ### Spirit Healing {#spirit-healing}
 
-**Spirit Healing** makes the holder's Mind recover constantly: after spending magic energy they regain it little by little without a long rest, so [[potions#magic-potion|magic potions]] become almost unnecessary. Casters are said to weep for joy on acquiring it, and Aiz knows no one but Riveria who has it.[@so03-aiz] Riveria's [[skills#alf-regina|Alf Regina]] recovers Mind much faster than its automatic recovery.[@so10-spirit]
+**Spirit Healing** ({{ja|精癒}}, written *spirit healing*)[@spirit-healing.so03-ja] makes the holder's Mind recover constantly: after spending magic energy they regain it little by little without a long rest, so [[potions#magic-potion|magic potions]] become almost unnecessary. Casters are said to weep for joy on acquiring it, and Aiz knows no one but Riveria who has it.[@so03-aiz] Riveria's [[skills#alf-regina|Alf Regina]] recovers Mind much faster than its automatic recovery.[@so10-spirit]
 
 - **Printed as:** Regen (Sword Oratoria 3); Spirit Healing (Sword Oratoria 6, 10 and 11)[@so03-aiz, so06-cards, sheet.so10-aiz, so11-aiz]
 
@@ -236,6 +235,7 @@ Without it a caster can still work wonders: the young Riveria, at Level 1, alrea
 |---|---|---|
 | Bell Cranell | I at Level 4; G from DanMachi 18 | [@fm12-escape, fm18-bell, fm20-bell] |
 | [[chloe|Chloe Lolo]] | I | [@fc01-chloe] |
+| [[raul-nord|Raul Nord]] | I | [@sheet.so11-raul] |
 
 Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while she is being chased; see [[#lent-abilities|Abilities lent by Skills and magic]].[@sheet.fm14-daphne]
 
@@ -256,7 +256,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 **Dive** ({{ja|潜水}}, *diving*)[@dive.so06-ja] lets its holders swim like fish, with the same basic effects as [[equipment#undine-cloth|Undine cloth]]; Lefiya thinks it fairly rare.[@so06-dive] DanMachi 12 says that only adventurers with special underwater abilities can fight water-dwelling monsters on equal terms in their own territory.[@fm12-water]
 
 - **Holders:** [[hyrute-sisters|Tiona and Tione Hyrute]], G on their sheets[@sheet.so03-tiona, sheet.so04-tione]
-- **Printed as:** Dive; Drive (Tiona's Sword Oratoria 3 sheet, probably a misprint)[@sheet.so03-tiona, sheet.so04-tione, so06-dive]
+- **Printed as:** Dive {{small|printed *Drive* on Tiona's Sword Oratoria 3 sheet}}[@sheet.so03-tiona, sheet.so04-tione, so06-dive]
 
 > [!UNRESOLVED] When they gained it
 > Dive is obtained at a Level Up; the sisters learned to fight underwater before they came to Orario, and their Level 5 sheets in Sword Oratoria 3 and 4 already list it at rank G.[@so06-dive, sheet.so03-tiona, sheet.so04-tione]
@@ -267,7 +267,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 
 ### Swordsman {#swordsman}
 
-**Swordsman** is one of [[aiz-wallenstein|Aiz]]'s Development Abilities. Sword Oratoria 1 lists her Development Abilities as Hunter, Immunity and Knight.[@so01-aiz]
+**Swordsman** ({{ja|剣士}}, written *swordsman*)[@swordsman.so03-ja] is one of [[aiz-wallenstein|Aiz]]'s Development Abilities. Sword Oratoria 1 lists her Development Abilities as Hunter, Immunity and Knight.[@so01-aiz]
 
 - **Printed as:** Knight (Sword Oratoria 1, 3, 10 and 11); Swordsman (Sword Oratoria 6)[@so01-aiz, so03-aiz, sheet.so10-aiz, so11-aiz, so06-cards]
 
@@ -290,6 +290,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 
 | Holder | Rank | Where |
 |---|---|---|
+| Bete Loga | H | [@sheet.so05-bete] |
 | Riveria Ljos Alf | H | [@sheet.so06-riveria] |
 | Gareth Landrock | E | [@sheet.so07-gareth] |
 | Finn Deimne | H | [@sheet.so08-finn] |
@@ -310,7 +311,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 | Leon Verdenberg | E | [@sheet.fm20-leon] |
 
 > [!INFERENCE] Runoa's Punch
-> [[runoa|Runoa Faust]]'s Familia Chronicle 1 card lists Punch (H), Crush (I) and Brawler (I) without a heading.[@fc01-runoa] Punch is probably another English name for Pummel, and Crush for [[#fracture|Fracture]]: the Japanese terms given on the Fandom list are the same, though no English passage links them.[@fc01-runoa]
+> [[runoa|Runoa Faust]]'s Familia Chronicle 1 card lists Punch (H), Crush (I) and Brawler (I) without a heading.[@fc01-runoa] Crush is another English name for [[#fracture|Fracture]]: the Japanese edition prints the same word on her card and on Ottar's Familia Chronicle 2 sheet. Punch is probably another English name for Pummel: the Japanese term given on the Fandom list is the same, though no English passage links them.[@fc01-runoa, sheet.fc02-ottar]
 
 ### Fracture {#fracture}
 
@@ -330,7 +331,7 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 
 | Ability | Holder and rank | Notes |
 |---|---|---|
-| Healing Power | Tione Hyrute, I; Bete Loga, H | The heal lent by Ottar's Stultus Ottar is probably this ability.[@sheet.so04-tione, sheet.so05-bete, sheet.fc02-ottar] |
+| Healing Power | Tione Hyrute, I | The heal lent by Ottar's Stultus Ottar is this ability: the Japanese edition names both with the same word.[@sheet.so04-tione, sheet.fc02-ottar] |
 | Healing | Riveria Ljos Alf, G; Cassandra Illion, I; Ardee Varma, I | The Fandom list gives two different Japanese terms here, one for Riveria and Cassandra and another for Ardee, so the English name may cover two abilities.[@sheet.so06-riveria, sheet.fm14-cassandra, sheet.ar02-ardee] |
 | Bulwark | Gareth Landrock, H | [@sheet.so07-gareth] |
 | Initiative | Finn Deimne, H | [@sheet.so08-finn] |
@@ -338,7 +339,6 @@ Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while sh
 | Conflagrate | Alize Lovell, I | [@sheet.ar03-alize] |
 | Slash | Leon Verdenberg, H | [@sheet.fm20-leon] |
 | Supreme Attack | Leon Verdenberg, I | His spell Blaze of the Round greatly boosts it when its eleventh trial is destroyed.[@sheet.fm20-leon] |
-| Speed | Raul Nord, I | Raul's sheet lists no magic or Skills.[@sheet.so11-raul] |
 | Brawler | Runoa Faust, I | [@fc01-runoa] |
 
 ## Abilities lent by Skills and magic {#lent-abilities}
@@ -356,7 +356,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - What Luck actually does: its effect on chance, what it covers and how its rank changes the effect.[@fm04-luck, fc01-luck]
-> - What the abilities known only from cards and sheets do, from Swordsman and Magic Resistance to Speed.[@so01-aiz, sheet.so11-raul]
+> - What the abilities known only from cards and sheets do, from Swordsman and Magic Resistance to Brawler.[@so01-aiz, fc01-runoa]
 > - What decides which options are offered at a Level Up, beyond accumulated excelia.[@fm04-choice]
 
 [@fm02-named]: FM02 | Chapter 1: Date, Then Supporter | Advanced Abilities chosen at a Level Up; a reward; Forge and Hephaistos Familia's smiths; Heavy Guard, Magic Control and Enigma; the Philosopher's Stone. The Japanese edition (file c5Z, paragraph 276) names Abnormal Resistance, Magic and Mystery as typical Development Abilities.
@@ -389,7 +389,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@fm18-bell]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Escape I→G; Rapid Attacks I and what it does; "development ability".
 [@fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | Luck F, Immunity G, Escape G, Successive Attacks I.
 [@ss01-bell]: SS01 | Goddess Intermission | Bell's Level 3 card: Luck H, Immunity H.
-[@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Runoa's card: Punch H, Crush I, Brawler I.
+[@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Runoa's card: Punch H, Crush I, Brawler I. The Japanese edition (file c5AV, paragraph 89) prints Crush with the same word that Ottar's Familia Chronicle 2 sheet prints as Fracture.
 [@fc01-chloe]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe's card: Immunity G, Synthesis H, Escape I.
 [@fc01-lyu]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Lyu's Resistance against a herbalist's sleeping drug.
 [@fc01-luck]: FC01 | Crush the Grand Casino! | Roulette winnings.
@@ -405,23 +405,24 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@so06-cards]: SO06 | Chapter 1: Quest Results & Next Quest | Aiz: Hunter G, Abnormal Resistance G, Swordsman H, Spirit Healing I; Lefiya: Mage H, Abnormal Resistance I.
 [@so06-dive]: SO06 | Chapter 2: Port Meren | Dive: obtained at a Level Up (the Japanese edition, file c12J, paragraphs 217 to 224, where the sisters date their underwater fighting to before Orario); Undine cloth; rare.
 [@so07-mystery]: SO07 | Chapter 3: Feast of the Dead | Barca: "a wielder of the Mystery ability".
+[@so11-amid-enigma]: SO11 | Chapter 6: And Then the God Smiled | "Amid, who wielded the same Enigma ability herself, recognized what was happening."
 [@so10-spirit]: SO10 | Chapter 5: Brave Soul! | Spirit Healing's automatic Mind recovery.
 [@so11-aiz]: SO11 | Chapter 4: Avengers ~Knossos War~ | Aiz: Hunter G, Immunity G, Knight I, Spirit Healing I.
-[@so11-asfi]: SO11 | Chapter 4: Avengers ~Knossos War~ | Asfi's Enigma and the Knossos key.
+[@so11-asfi]: SO11 | Chapter 5: Obsession Manifest | Asfi's Enigma and the Knossos key.
 [@so11-amid]: SO11 | Chapter 4: Avengers ~Knossos War~ | Amid's magic circle without the mage ability.
 [@so12-lefiya]: SO12 | Chapter 4: Nameless Heroes | Lefiya's Level 4 card: Conjure H, Abnormal Resistance I, Magic Resistance I.
 [@so14-riveria]: SO14 | Chapter 3: The Dwarf’s Embarking | Riveria without the mage ability.
 [@ar03-unlock]: AR03 | Chapter 8: The Price of Talent | Zeus and Hera reported the conditions for Development Abilities. The Japanese edition (file c7UR, paragraph 21) says they reported them to the Guild, among maps and growth models.
 [@sheet.so01-aiz]: SO01 | | Illustrated Status sheet, p. 226 (Level 5): Hunter G, Immunity G, Knight I.
 [@sheet.so02-lefiya]: SO02 | | Illustrated Status sheet, p. 228 (Level 3 on the Japanese edition's sheet, image page c5M4, as in the text): Conjure H, Immunity I.
-[@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Pummel G, Drive G, Immunity H, Fracture I.
-[@sheet.so04-tione]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Pummel G, Dive G, Immunity H, Healing Power I.
-[@sheet.so05-bete]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hunter G, Immunity G, Pummel G, Healing Power H.
+[@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Pummel G, Dive G (printed Drive), Immunity H, Fracture I. The Japanese edition's sheet (file c6CF, Tiona's data page) has Dive.
+[@sheet.so04-tione]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Pummel G, Dive G, Immunity H, Healing Power I. The Japanese sheet (image page c8JE) names Healing Power with the same word that Ottar's Familia Chronicle 2 sheet uses for what Stultus Ottar lends.
+[@sheet.so05-bete]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hunter G, Immunity G, Pummel G; the Japanese edition's sheet (file c5XG, Bete's data page) has Magic Defense H as the fourth.
 [@sheet.so06-riveria]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Mage E, Healing G, Immunity G, Spirit Healing H, Magic Resistance H.
 [@sheet.so07-gareth]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Pummel E, Magic Resistance E, Immunity G, Fracture H, Bulwark H.
 [@sheet.so08-finn]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Hunter E, Immunity E, Magic Resistance H, Initiative H, Chain Attack H; Dia Phiana lends Lancer.
 [@sheet.so10-aiz]: SO10 | | Illustrated Status sheet, p. 300 (Level 6): Hunter G, Immunity G, Knight H, Spirit Healing I.
-[@sheet.so11-raul]: SO11 | | Illustrated Status sheet at the end of the volume (Level 4): Hunter H, Immunity H, Speed I; no magic or Skills.
+[@sheet.so11-raul]: SO11 | | Illustrated Status sheet at the end of the volume (Level 4): Hunter H, Immunity H; no magic or Skills. The Japanese edition's sheet (file c6M1, Raul's data page) has Escape I as the third.
 [@sheet.so13-lefiya]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Immunity I, Magic Defense I. The Japanese edition's sheet (image page part0043) lists Mage H first, as her card in the same volume does.
 [@sheet.so13-p26]: SO13 | | Level 4 update printed as an image, p. 26: Magic Control H, Immunity I, Magic Defense I.
 [@sheet.fm13-lyu]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Hunter G, Immunity G, Magic Resistance I.
@@ -440,3 +441,6 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@successive-attacks.fm18-ja]: FM18 | | The Japanese edition names the ability with the kanji for successive attacks.
 [@dive.so06-ja]: SO06 | | The Japanese edition names the ability with the kanji for diving.
 [@fm04-development-ability-ja]: FM04 | | The Japanese edition calls them by a name meaning development abilities, the second word in katakana; the infobox gives it.
+[@mage.so01-ja]: SO01 | | The Japanese edition names the ability with the word for sorcery.
+[@spirit-healing.so03-ja]: SO03 | | The Japanese edition writes the name with kanji meaning spirit healing, read Spirit Healing.
+[@swordsman.so03-ja]: SO03 | | The Japanese edition writes the name with kanji meaning swordsman, read Swordsman.

@@ -42,7 +42,7 @@ In Familia Chronicle 1, after a failed contract on the Gale Wind, Chloe gives up
 
 ## Freya conflict
 
-During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic [[#felis-kurus|Felis Kurus]] and the poison dagger Violetta {{small|printed *Violator*}}, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn, fm18-violetta-ja] She is among those who welcome Syr back after the war.[@fm18-syr]
+During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and the [[gulliver-brothers|Gulliver brothers]] defeat her.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 the tavern's staff convert to Njörðr and Demeter so that they can take part.[@fm18-conversions] In the war she defeats Dvalinn Gulliver with her magic [[#felis-kurus|Felis Kurus]] and the poison dagger Violetta {{small|printed *Violator*}}, once Anya's Remisto Felis has weakened his resistance.[@fm18-dvalinn, fm18-violetta-ja] She is among those who welcome Syr back after the war.[@fm18-syr]
 
 ## Status
 
@@ -54,16 +54,16 @@ Her Familia Chronicle 1 card lists the Development Abilities Immunity (G), Synth
 
 ### Felis Kurus {#felis-kurus}
 
-**Felis Kurus** is Chloe Lolo's magic, an illusion spell that creates mirages that are mirror images of her.[@felis-kurus.fc01-cast] She used it for confusion, disturbance and surprise, "all sorts of tricks useful for assassinations".[@felis-kurus.fc01-cast]
+**Felis Kurus** ({{ja|フェレス・クルス}})[@felis-kurus.fc01-ja] is Chloe Lolo's magic, an illusion spell that creates mirages that are mirror images of her.[@felis-kurus.fc01-cast] She used it for confusion, disturbance and surprise, "all sorts of tricks useful for assassinations".[@felis-kurus.fc01-cast]
 
 - **User:** Chloe Lolo[@felis-kurus.fc01-cast]
-- **Type:** Illusion magic, short-trigger[@felis-kurus.fc01-cast]
+- **Type:** Illusion magic, super-short chant[@felis-kurus.fc01-cast]
 - **Effect:** Mirror-image mirages of the caster[@felis-kurus.fc01-cast]
 - **Chant:** One word: "Frolic"[@felis-kurus.fc01-cast]
 
 #### Incantation {#felis-kurus-incantation}
 
-Familia Chronicle 1 prints a one-word chant, "—Frolic!", followed by the name, "Felis Kurus!", and calls it short-trigger magic.[@felis-kurus.fc01-cast] DanMachi 18 prints only the whispered name and calls it a "super-short cast spell".[@felis-kurus.fm18-dvalinn]
+Familia Chronicle 1 prints a one-word chant, "—Frolic!", followed by the name, "Felis Kurus!", and calls it a super-short-chant illusion spell.[@felis-kurus.fc01-cast] DanMachi 18 prints only the whispered name and calls it a "super-short cast spell".[@felis-kurus.fm18-dvalinn]
 
 #### Effect {#felis-kurus-effect}
 
@@ -94,7 +94,8 @@ The mirages appear instantly and without sound. They have no real body, so they 
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The 100-million-valis bill.
 [@fc01-end]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Njörðr ends the arrangement.
 [@fc01-card]: FC01 | | Chloe's Status card.
-[@felis-kurus.fc01-cast]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "—Frolic!"; short-trigger illusion magic; mirror images; upper limit two; cannot attack or defend.
+[@felis-kurus.fc01-cast]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "—Frolic!"; a super-short-chant illusion spell; mirror images; upper limit two; cannot attack or defend. The Japanese edition (file c5X2, paragraphs 293–294) calls it a super-short-chant illusion spell.
+[@felis-kurus.fc01-ja]: FC01 | | The Japanese edition prints the spell's name in katakana.
 [@felis-kurus.fm18-dvalinn]: FM18 | Chapter 9: Flower Language for You | "Super-short cast"; "There can be three illusions"; Violator.
 [@fc01-chloe-ja]: FC01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
 [@fm18-violetta-ja]: FM18 | | The Japanese edition names the dagger Violetta, for its black-purple colour.

@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Cat-person spearman of Freya Familia, titled Vana Freya and called the fastest adventurer; Anya Fromel's older brother and the Familia's second-in-command.",
-  "aliases": ["Vana Freya", "City's Fastest", "fastest in the city", "Seale"],
+  "aliases": ["Vana Freya", "City's Fastest", "fastest in the city"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vol. 4, Familia Chronicle Vols. 1 and 2, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["anya-fromel", "freya-familia", "freya", "syr-flover", "ottar", "the-benevolent-mistress", "magic"],
   "infobox": {
@@ -16,7 +16,7 @@
       {"section": "Personal"},
       {"label": "Japanese", "value": "{{ja|アレン・フローメル}}", "refs": ["fm16-allen-ja"]},
       {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["fc02-allen"]},
-      {"label": "Sister", "value": "[[anya-fromel|Anya Fromel]], his only blood relation", "refs": ["fm16-allen"]},
+      {"label": "Family", "value": "[[anya-fromel|Anya Fromel]], his only blood relation", "refs": ["fm16-allen"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fm16-allen"]},
       {"label": "Position", "value": "Second-in-command", "refs": ["fm16-second"]},

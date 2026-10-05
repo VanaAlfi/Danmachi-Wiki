@@ -21,7 +21,7 @@
       {"label": "Position", "value": "Freya's attendant and head chamberlain", "refs": ["fm16-chamberlain"]},
       {"label": "Title", "value": "None; known as \"Nameless\" ({{ja|名の無き女神の遣い}}, written *the nameless envoy of the goddess*)", "refs": ["fm16-nameless", "fm16-nameless-ja"]},
       {"label": "Magic", "value": "Vana Seiðr", "refs": ["fm16-names"]},
-      {"label": "Also printed", "value": "{{small|*Helen* (Familia Chronicle 2)}}", "refs": ["fc02-helen"]}
+      {"label": "Printed as", "value": "{{small|*Helen* (Familia Chronicle 2)}}", "refs": ["fc02-helen"]}
     ]
   }
 }

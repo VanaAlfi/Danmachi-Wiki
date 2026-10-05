@@ -60,7 +60,7 @@ His Status sheet in Sword Oratoria 8, at Level 6, lists five Skills: Prum Spirit
 
 ### Hell Finegas {#hell-finegas}
 
-**Hell Finegas** is the magic of Finn Deimne. It gives him a lust for battle that breaks through his limits and greatly raises all his abilities, but it turns him into a berserker without real judgment, unable to command the people who depend on him.[@hell-finegas.so04-cast, hell-finegas.so14-village] Astrea Record 3 calls it a mind-altering enchantment that gives a boost comparable to a Level increase.[@hell-finegas.ar03-valletta]
+**Hell Finegas** ({{ja|凶猛の魔槍}}, written *the ferocious magic spear*)[@hell-finegas.so04-ja] is the magic of Finn Deimne. It gives him a lust for battle that breaks through his limits and greatly raises all his abilities, but it turns him into a berserker without real judgment, unable to command the people who depend on him.[@hell-finegas.so04-cast, hell-finegas.so14-village] Astrea Record 3 calls it a mind-altering enchantment that gives a boost comparable to a Level increase.[@hell-finegas.ar03-valletta]
 
 - **User:** Finn Deimne[@hell-finegas.so04-cast, hell-finegas.so14-village]
 - **Type:** Mind-altering enchantment[@hell-finegas.ar03-valletta]
@@ -117,7 +117,7 @@ Sword Oratoria 7 calls Hell Finegas Finn's "Berserker spell".[@hell-finegas.so07
 The Level 6 sheet gives it three notes:[@tir-na-nog.so08-sheet]
 
 - It is spear-throwing magic.[@tir-na-nog.so08-sheet]
-- It adds the values from his Level and abilities to his Magic, including latent values ("extra points").[@tir-na-nog.so08-sheet]
+- It adds his Level and all his ability values, including latent values ("extra points"), to the spell's power.[@tir-na-nog.so08-sheet]
 - It can be used only once every twenty-four hours.[@tir-na-nog.so08-sheet]
 
 His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir-na-nog.so14-sheet]
@@ -141,13 +141,14 @@ His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir
 [@ar01-finn]: AR01 | | Directing the defence.
 [@ar03-finn]: AR03 | | The deception across the city.
 [@hell-finegas.so04-cast]: SO04 | Last Chapter: To Adventure | "Ultrashort chant"; crimson eyes; battle lust; reduced rational thought; no more orders.
+[@hell-finegas.so04-ja]: SO04 | Last Chapter: To Adventure | The Japanese edition prints the spell's name as the reading Hell Finegas over kanji meaning the ferocious magic spear.
 [@hell-finegas.so06-argana]: SO06 | | Printed heading "Chapter 6: War’s End" (not in the evidence map): Chant and release against Argana.
 [@hell-finegas.so07-choice]: SO07 | Chapter 2: Dungeon Trap | "Hell Finegas or nothing"; "patented Berserker spell".
 [@hell-finegas.so12-refuse]: SO12 | Chapter 6: The Divine Providence of Despair | Refuses to use it and leave the squads without a commander.
 [@hell-finegas.so14-village]: SO14 | Chapter 1: The Prum’s Adventure | Chant and release; battle lust; breaks his limits; berserker without judgment.
 [@hell-finegas.so14-terrain]: SO14 | Chapter 3: The Dwarf’s Embarking | Not an option when the terrain requires a clear mind.
 [@hell-finegas.ar03-valletta]: AR03 | Chapter 7: What She Wished For | Chant; mind-altering enchantment; boost comparable to a Level increase.
-[@tir-na-nog.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Magic Hell Finegas and Tir na Nog.
+[@tir-na-nog.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Magic Hell Finegas and Tir na Nog. The Japanese edition's sheet (file c5Z3, Finn's data page) adds his Level and all his ability values to the spell's power.
 [@tir-na-nog.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Magic Hell Finegas only.
 [@hell-finegas.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Hell Finegas, enhancement magic; second spell Tir na Nog.
 [@hell-finegas.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Hell Finegas, enhancement magic, "battle lust"; no other spell.

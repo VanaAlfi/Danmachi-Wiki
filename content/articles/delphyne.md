@@ -14,9 +14,9 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Monster"},
-      {"label": "Kind", "value": "Dragon", "refs": ["ar03-delphyne"]},
+      {"label": "Type", "value": "Dragon", "refs": ["ar03-delphyne"]},
       {"label": "Born", "value": "On [[floor-37|Floor 37]], from a god's use of Arcanum", "refs": ["ar03-delphyne", "ar02-bait"]},
-      {"label": "Strength", "value": "Judged at least Level 6 or 7", "refs": ["ar03-level"]},
+      {"label": "Rating", "value": "Judged at least Level 6 or 7", "refs": ["ar03-level"]},
       {"label": "Fate", "value": "Destroyed on Floor 18", "refs": ["ar03-end"]}
     ]
   }
@@ -26,7 +26,7 @@
 
 ## Origin
 
-The [[evils|Evils]] send a god into the Dungeon as bait; an unnamed Evils god releases Arcanum on Floor 37 amid the nine divine returns above, and the monster that results climbs toward [[babel|Babel]].[@ar02-bait, ar02-arcanum]
+The [[evils|Evils]] send a god into the Dungeon as bait; an unnamed Evils god releases his divine might on Floor 37 amid the nine divine returns above, and the monster that results climbs toward [[babel|Babel]].[@ar02-bait, ar02-arcanum]
 
 ## The monster
 
@@ -42,7 +42,7 @@ Because its strength lies in healing, enough firepower can outpace its regenerat
 > - Which god was used as bait on Floor 37, and what became of them.[@ar02-bait]
 
 [@ar02-bait]: AR02 | Epilogue: All You Need Is Justice | A god sent into the Dungeon as bait.
-[@ar02-arcanum]: AR02 | Epilogue: All You Need Is Justice | The divine returns mask the Arcanum below.
+[@ar02-arcanum]: AR02 | Epilogue: All You Need Is Justice | The divine returns, themselves masses of Arcanum, mask the release of a god's divine might below (the Japanese edition, file c80T).
 [@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Erebus names it. The Japanese edition (file c370, paragraph 10) says drawn by divine power and born from the thirty-seventh floor.
 [@ar03-regen]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne regenerates.
 [@ar03-wings]: AR03 | Chapter 8: The Price of Talent | Purple wings.

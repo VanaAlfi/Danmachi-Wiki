@@ -16,7 +16,7 @@
       {"section": "Personal"},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so02-bors", "so03-bors"]},
       {"label": "Appearance", "value": "Hulking; a patch over his left eye", "refs": ["fm05-boris", "so02-bors"]},
-      {"label": "Printed names", "value": "Bors Elder; Bors; Boris (DanMachi 5)", "refs": ["so02-bors", "fm05-boris"]},
+      {"label": "Printed as", "value": "Bors Elder; Bors; Boris (DanMachi 5)", "refs": ["so02-bors", "fm05-boris"]},
       {"section": "Adventurer"},
       {"label": "Level", "value": "3", "refs": ["so02-bors", "so03-bors", "fm13-hesitate"]},
       {"label": "Weapon", "value": "A battle-ax", "refs": ["fm13-hesitate", "fm18-join"]},
@@ -30,7 +30,7 @@
 
 ## Appearance and character
 
-Bors is a hulking man with a black patch over his left eye.[@fm05-boris, so02-bors] His motto is that adventurers are outlaws, and he runs Rivira's only storage facility, where adventurers leave spare equipment for a fee.[@so03-bors] He trades information for valis, though he talks quickly enough once [[bete-loga|Bete]] grabs his collar.[@so03-bors] Money moves him: he puts a bounty hunt together in DanMachi 13 and tries to claim a share of a reward in DanMachi 14.[@fm13-bounty, fm14-report]
+Bors is a hulking man with a black patch over his left eye.[@fm05-boris, so02-bors] He embodies the formula that adventurers are outlaws, and he owns one of Rivira's storehouses, where adventurers leave spare equipment for a fee.[@so03-bors] He trades information for valis, though he talks quickly enough once [[bete-loga|Bete]] grabs his collar.[@so03-bors] Money moves him: he puts a bounty hunt together in DanMachi 13 and tries to claim a share of a reward in DanMachi 14.[@fm13-bounty, fm14-report]
 
 He once dreamed of becoming a smith and has become something of a weapons expert. After [[aiz-wallenstein|Aiz]] defeats the floor boss [[udaeus|Udaeus]] in Sword Oratoria 2, he talks her into leaving its black sword with him, promising to make it into a great weapon.[@so02-sword] When Aiz asks about it in Minor Myths and Legends 2, he breaks into a sweat and runs off with a fake smile.[@ss02-sword]
 
@@ -80,7 +80,7 @@ Bors also recovered a fragment of Lyu's broken wooden sword, [[equipment#alvs-lu
 [@so02-seal]: SO02 | | Surrenders authority over the crime scene to Finn; seals off the town.
 [@so02-rebuild]: SO02 | Chapter 6: Parched Scream | Rivira rebuilt; his speeches "just for show. It was money they were after."
 [@so02-sword]: SO02 | Epilogue: An Unexpected Reunion | Dreamed of becoming a smith; a weapons expert; Udaeus's Black Sword left with him.
-[@so03-bors]: SO03 | Chapter 3: A Hideous Beauty | The largest Exchange shop; patch over his left eye; "Adventurers are outlaws"; Level Three; storage facility; asks for valis; Bete.
+[@so03-bors]: SO03 | Chapter 3: A Hideous Beauty | The largest Exchange shop; patch over his left eye; "Adventurers are outlaws"; Level Three; storage facility; asks for valis; Bete. The Japanese edition (file c1WN, paragraphs 115 and 122) has him embody the formula adventurer = outlaw and own one of the town's storehouses.
 [@so03-filvis]: SO03 | Chapter 3: A Hideous Beauty | "Banshee"; every party she works with dies; the Twenty-Seventh-Floor Nightmare about six years ago.
 [@fm09-talking]: FM09 | Chapter 1: An Irregular Girl | "Bors, the man at the top of Rivira’s hierarchy"; the talking monster.
 [@fm12-eggs]: FM12 | Chapter 2: Adventure Intermission | "Bors, the head of the post town"; eggs to celebrate the first expedition.

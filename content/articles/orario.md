@@ -26,7 +26,7 @@
 
 ## Babel
 
-Babel is the white tower standing directly over the Dungeon's entrance, acting as its lid.[@fm01-babel] The first, shorter tower was destroyed when the gods first descended and was rebuilt with their help.[@fm02-babel] [[hephaistos-familia|Hephaistos Familia]] has shops on its lower floors, Guild tenants occupy floors up to the twentieth, and gods live on the floors above.[@fm02-babel] Freya watches the city from the fiftieth floor.[@fm03-babel] In DanMachi 17 its roof, the point in Orario closest to the heavens, becomes the centre of the altar from which [[hestia|Hestia]] breaks Freya's charm.[@fm17-babel]
+Babel is the white tower standing directly over the Dungeon's entrance, acting as its lid.[@fm01-babel] Lilly has heard that the first, shorter tower was destroyed when the gods first descended; it was rebuilt with their help.[@fm02-babel] [[hephaistos-familia|Hephaistos Familia]] has shops on its lower floors, Guild tenants occupy floors up to the twentieth, and gods live on the floors above.[@fm02-babel] Freya watches the city from the fiftieth floor.[@fm03-babel] In DanMachi 17 its roof, the point in Orario closest to the heavens, becomes the centre of the altar from which [[hestia|Hestia]] breaks Freya's charm.[@fm17-babel]
 
 ## Main Streets and districts
 

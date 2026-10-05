@@ -30,7 +30,7 @@
 
 Runoa was born in a territory of an empire far from Orario and lost her parents as a small child in the war that brought her country under the empire. She grew up on the streets, and joined a Familia as soon as she learned about the [[falna|Falna]].[@fc01-past] Her first Familia fell apart through infighting; its god treated coups and revolutions as a game.[@fc01-past]
 
-After her first god left the Lower World she travelled from place to place hunting bounties, joining Familias provisionally to have her Status updated. She had converted three times before coming to Orario, where [[demeter|Demeter]] agreed to update her Status; Demeter Familia counts as her fifth membership, but she was never an ordinary member.[@fc01-wander, fc01-demeter] The name *Black Fist* comes from the blood that stained her fists, not from her gauntlets.[@fc01-fist]
+After her first god left the Lower World she travelled from place to place hunting bounties, joining Familias provisionally to have her Status updated. She had converted three times before coming to Orario, where [[demeter|Demeter]] agreed to update her Status; Demeter Familia is her fifth conversion, but she was never an ordinary member.[@fc01-wander, fc01-demeter] The name *Black Fist* comes from the blood that stained her fists, not from her gauntlets.[@fc01-fist]
 
 By the time of Familia Chronicle 1's tavern story, set before the main series, Runoa is seventeen.[@fc01-age] She has grown tired of the work: Orario's adventurers are much stronger than those elsewhere, her success only brings harder jobs, and she daydreams about settling down with someone to look after her.[@fc01-age] That age belongs to that story; the covered novels do not give her age in the main series.
 
@@ -44,7 +44,7 @@ In Familia Chronicle 1, after a failed contract on the Gale Wind, Runoa gives up
 
 ## Freya conflict
 
-During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and Grer Gulliver's greatsword cuts her down.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 she converts so that she can take part.[@fm18-conversions] In the war, after [[lilliluka-erde|Lilly]] separates the [[gulliver-brothers|Gulliver brothers]], Runoa receives [[haruhime|Haruhime]]'s Level Boost and defeats Grer.[@fm18-grer] She is among those who welcome Syr back after the war.[@fm18-syr]
+During the festival of DanMachi 16 she fights [[freya-familia|Freya Familia]] to protect the false [[syr-flover|Syr]], and Grer Gulliver's greatsword cuts her down.[@fm16-fight] She recovers at the tavern.[@fm17-injured] Before the Familia War of DanMachi 18 the tavern's staff convert to Demeter and Njörðr so that they can take part.[@fm18-conversions] In the war, after [[lilliluka-erde|Lilly]] separates the [[gulliver-brothers|Gulliver brothers]], Runoa receives [[haruhime|Haruhime]]'s Level Boost and defeats Grer.[@fm18-grer] She is among those who welcome Syr back after the war.[@fm18-syr]
 
 ## Status
 
@@ -70,7 +70,7 @@ Her Familia Chronicle 1 card, at Level 4, shows Strength B 704 → 780, Defense 
 [@fc01-gloves]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Plates across the backs of her gloves; self-taught brawling.
 [@fc01-past]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Her childhood and first Familia.
 [@fc01-wander]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Bounty hunting; three conversions.
-[@fc01-demeter]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The arrangement with Demeter.
+[@fc01-demeter]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The arrangement with Demeter. The Japanese edition (file c5AV, paragraphs 35 and 76) calls Demeter Familia her fifth conversion, after at least three earlier ones.
 [@fc01-fist]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The origin of "Black Fist".
 [@fc01-recruit]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe and Runoa join.
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The 100-million-valis bill.

@@ -50,7 +50,7 @@ The Black Goliath, the Irregular floor boss of [[floor-18|Floor 18]] in DanMachi
 
 ## Goliath Scarf {#goliath-scarf}
 
-On the expedition of DanMachi 13, Welf secretly cuts a piece from Lilly's robe with a magic blade and makes it into the **Goliath Scarf** for Bell. He would rather Bell used only the armour he forges, but "if something was to happen to you, I’d never forgive myself".[@fm13-scarf] Welf tells Bell that [[cassandra|Cassandra]] suggested it and helped him make it.[@fm13-cassandra] The scarf is heavy; Bell jokes that it will give him a sore neck.[@fm13-cassandra] DanMachi 14 says that Welf made the scarf with a movable blacksmith's workshop he had brought; in DanMachi 13 he says he had no proper setup and cut it with a magic blade.[@fm14-workshop, fm13-scarf]
+On the expedition of DanMachi 13, Welf secretly cuts a piece from Lilly's robe with a magic blade and makes it into the **Goliath Scarf** ({{ja|巨人の襟巻}}, written *giant's scarf*)[@goliath-scarf.fm13-ja] for Bell. He would rather Bell used only the armour he forges, but "if something was to happen to you, I’d never forgive myself".[@fm13-scarf] Welf tells Bell that [[cassandra|Cassandra]] suggested it and helped him make it.[@fm13-cassandra] The scarf is heavy; Bell jokes that it will give him a sore neck.[@fm13-cassandra] DanMachi 14 says that Welf made the scarf with a movable blacksmith's workshop he had brought; in DanMachi 13 he says he had no proper setup and cut it with a magic blade.[@fm14-workshop, fm13-scarf]
 
 | Volume | Uses |
 |---|---|
@@ -89,3 +89,4 @@ On the expedition of DanMachi 13, Welf secretly cuts a piece from Lilly's robe w
 [@fm19-bell]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "I’m wearing battle clothes, my Goliath Scarf, and the new armor Welf forged for me."
 [@fm20-bell]: FM20 | Chapter 1: Orario Rumble | "I undo the Goliath Scarf around my neck."
 [@fm12-goliath-robe-ja]: FM12 | | The Japanese edition writes the name in kanji meaning the black giant's protective garment, with the reading Goliath Robe; the infobox gives the kanji.
+[@goliath-scarf.fm13-ja]: FM13 | | The Japanese edition writes the name with kanji meaning giant's scarf, read Goliath Muffler.

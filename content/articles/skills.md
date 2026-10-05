@@ -36,7 +36,7 @@
     {"anchor": "avenger", "title": "Avenger", "summary": "Aiz Wallenstein's rare Skill, by Loki's word the most potent among all followers: a ravenous surge of power against monsters, which her Sword Oratoria 10 sheet ties to her hatred. Joined with Airiel it becomes Tempest Avenger.", "aliases": ["Tempest Avenger"]},
     {"anchor": "fairy-cannon", "title": "Fairy Cannon", "summary": "Lefiya Viridis's magic-boosting Skill: it amplifies the effects of her magic and doubles the boost for her attack magic.", "aliases": []},
     {"anchor": "double-cannon", "title": "Double Cannon", "summary": "Lefiya Viridis's rare Skill from Level 4: she can keep one finished spell on standby while chanting another, and fire the first with the key \"Cannon\". Printed Double Canon in Sword Oratoria 13.", "aliases": ["Double Canon"]},
-    {"anchor": "alf-regina", "title": "Alf Regina", "summary": "Riveria Ljos Alf's rare Skill: a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening their magic. Loki's name for it was Fairy Force.", "aliases": ["Fairy Force"]},
+    {"anchor": "alf-regina", "title": "Alf Regina", "summary": "Riveria Ljos Alf's rare Skill: a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening their magic. Fairy Force is Loki's name for the elf squad built around it.", "aliases": ["Fairy Force"]},
     {"anchor": "berserk", "title": "Berserk", "summary": "The Skill both Hyrute sisters have: their power rises the more damage they take, and Tione's with her anger too. Also printed as Berserker.", "aliases": ["Berserker skill"]},
     {"anchor": "intense-heat", "title": "Intense Heat", "summary": "Tiona Hyrute's rare Skill: once her Status turns critical, before her Berserk runs its course, it gives her a massive boost.", "aliases": []},
     {"anchor": "backdraft", "title": "Backdraft", "summary": "Tione Hyrute's attack-boosting Skill, with the same activation requirements as her sister's Intense Heat.", "aliases": []},
@@ -86,7 +86,7 @@ The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#doubl
 - Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Cannon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
 - The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
 - Some Skills come with the blood. Many of the Crozzo family gained the family's magic-sword Skill, and the Gojouno line of the [[far-east|Far East]] passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
-- Among beast people, only a few races can transform. Once they receive a [[falna|Falna]], their transformation is tied to their Skills, usually with a condition to meet or a risk attached; werewolves transform under the full moon.[@fm18-beast, so08-moon]
+- Among beast people, only a few races can transform. Once they receive a [[falna|Falna]], their transformation is tied to their Skills, usually with a condition to meet or a risk attached; werewolves transform in moonlight.[@fm18-beast, so08-moon]
 
 ### Skills a god holds back {#withheld-skills}
 
@@ -98,7 +98,7 @@ Skills and spells from a blessing are usually beneficial, but they reflect the p
 
 ## Limit Release {#limit-release}
 
-DanMachi 5 names **Limit Release** (the Japanese is {{ja|限界解除|genkai kaijo}}, read *Limit Off*): the narration says the strength of Bell's feeling surpasses even the Falna and breaks through its limit, temporarily raising the power of his Skill (the Yen Press text says surrounding conditions and emotion "overload the Falna" and that Skill power "increased exponentially"). Bell enters it while charging Argonaut against the Black [[goliath|Goliath]].[@argonaut.fm05-limit, argonaut.fm05-ja-limit] For the "grand bell" charge of DanMachi 18, see [[#argonaut-chime-and-grand-bell|Argonaut]].
+DanMachi 5 names **Limit Release** (the Japanese is {{ja|限界解除|genkai kaijo}}, read *Limit Off*): the narration says the strength of Bell's feeling surpasses even the Falna and breaks through its limit, temporarily raising the power of his Skill. Bell enters it while charging Argonaut against the Black [[goliath|Goliath]].[@argonaut.fm05-limit, argonaut.fm05-ja-limit] For the "grand bell" charge of DanMachi 18, see [[#argonaut-chime-and-grand-bell|Argonaut]].
 
 ## Keeping Skills secret {#keeping-skills-secret}
 
@@ -114,7 +114,6 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 
 {{nocite}} The narration sometimes uses the words loosely. Where there is a Status card, this wiki follows it and records the other wording:
 
-- Loki calls Tiona and Tione's Berserk "Berserk magic" in Sword Oratoria 8.[@berserk.so08-loki]
 - Finn's berserk spell [[magic#hell-finegas|Hell Finegas]] is called his "Berserker spell" in Sword Oratoria 7; it is magic and has nothing to do with the Skill Berserk.[@so07-hellfinegas]
 
 ## Skill index {#skill-index}
@@ -160,7 +159,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#batrea-acras|Batrea Acras]] | Alize Lovell | Skill and spell support | Stronger Skills in close combat; stronger spells[@sheet.ar03-alize] |
 | [[#five-lights|Five Lights]] | [[gojouno-kaguya|Gojouno Kaguya]] | Hereditary; paired with a spell | Not described apart from the spell[@five-lights.ar03-clan] |
 | [[#vana-arganture|Vana Arganture]] | Ottar | Beast transformation | Strength close to a Level Up, at great cost[@vana-arganture.fm18-skill] |
-| [[#stultus-ottar|Stultus Ottar]] | Ottar | Battle boost | Heal and Spirit Heal in battle; all abilities enhanced[@sheet.fc02-ottar] |
+| [[#stultus-ottar|Stultus Ottar]] | Ottar | Battle boost | Heal and Spirit Heal while he fights on; his Development Abilities strengthened[@sheet.fc02-ottar] |
 | [[#laurel-wreath|Laurel Wreath]] | Daphne Laulos | Endurance | Higher endurance when exhausted or near death; skin turns to bark[@laurel-wreath.fm18-daphne] |
 | [[#helios-passion|Helios Passion]] | Daphne Laulos | Lends a Development Ability | Slightly more agility; Escape while chased[@sheet.fm14-daphne] |
 | [[#five-dimension-troia|Five-Dimension Troia]] | [[cassandra|Cassandra Illion]] | Unknown | Indecipherable[@sheet.fm14-cassandra] |
@@ -244,7 +243,7 @@ When the Skill exists and when Bell can know about it are different things. Hest
 **Argonaut** ({{ja|英雄願望}}, written *desire to be a hero*)[@argonaut.fm04-ja], printed in full as *Heroic Desire, Argonaut*, is [[bell-cranell|Bell Cranell]]'s second Skill. It charges an action that Bell chooses to take with extra power before he releases it, and it underlies his charged Firebolts and the technique Argo Vesta.[@argonaut.fm04-card, argonaut.fm04-hestia, argonaut.fm12-argo]
 
 - **Holder:** Bell Cranell[@argonaut.fm04-card]
-- **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the Yen Press cards say it charges automatically with an active action. The Japanese DanMachi 4, 5 and 20 cards do not say "automatically": they give Bell the right to execute a charge for active actions.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm05-ja-card, argonaut.fm06-card, argonaut.fm20-card]
+- **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the Yen Press cards say it charges automatically with an active action. The Japanese DanMachi 4, 5, 6 and 20 cards do not say "automatically": they give Bell the right to execute a charge for active actions.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm05-ja-card, argonaut.fm06-card, argonaut.fm20-card]
 - **Appeared:** On his first Level 2 card (DanMachi 4)[@argonaut.fm04-card]
 - **Cost:** Stamina and Mind, which are lost if a charge is cancelled[@argonaut.fm05-cost, argonaut.fm12-tests]
 
@@ -306,7 +305,7 @@ Bell had expected to gain a Skill that counters Charm. He judges that it could g
 
 ### Artel Assist {#artel-assist}
 
-**Artel Assist** is [[lilliluka-erde|Lilliluka Erde]]'s load-carrying Skill. Once the weight of her equipment passes a threshold, it applies a correction that grows in proportion to the weight.[@artel-assist.fm08-card, artel-assist.fm15-card]
+**Artel Assist** ({{ja|縁下力持}}, written *strongman beneath the veranda*, an idiom for an unsung helper)[@artel-assist.fm15-ja] is [[lilliluka-erde|Lilliluka Erde]]'s load-carrying Skill. Once the weight of her equipment passes a threshold, it applies a correction that grows in proportion to the weight.[@artel-assist.fm08-card, artel-assist.fm15-card]
 
 - **Holder:** Lilliluka Erde[@artel-assist.fm08-card]
 - **Printed as:** Artel Assist (DanMachi 8 card and narration); Alter Assist (DanMachi 5 narration); Arter Assist (DanMachi 15 card)[@artel-assist.fm08-card, artel-assist.fm08-cloak, artel-assist.fm05-alter, artel-assist.fm15-card]
@@ -328,19 +327,19 @@ Later in DanMachi 18 the narration names the Skill Lilly developed at her Level 
 
 ### Blood of Crozzo {#blood-of-crozzo}
 
-**Blood of Crozzo** is the Crozzo family's hereditary Skill, held by [[welf-crozzo|Welf Crozzo]]. It lets him make magic swords and raise their power while he forges them.[@blood-of-crozzo.fm15-card, blood-of-crozzo.fm15-first]
+**Blood of Crozzo** ({{ja|魔剣血統}}, written *magic-sword bloodline*)[@blood-of-crozzo.fm15-ja] is the Crozzo family's hereditary Skill, held by [[welf-crozzo|Welf Crozzo]]. It lets him make magic swords and raise their power while he forges them.[@blood-of-crozzo.fm15-card, blood-of-crozzo.fm15-first]
 
 - **Holder:** Welf Crozzo; many of his family gained the same Skill[@blood-of-crozzo.fm04-ancestor, blood-of-crozzo.fm15-first]
 - **Appeared:** With his first Falna, from the goddess Phobos, on his tenth birthday[@blood-of-crozzo.fm15-first]
 - **Name:** Printed on his DanMachi 15 cards; DanMachi 4 speaks only of the family's Skill and bloodline[@blood-of-crozzo.fm15-card, blood-of-crozzo.fm04-ancestor]
 
-Before Welf tells his story in DanMachi 4, Bell guesses that he must have a Skill that lets him make magic swords without the Development Ability Forge.[@blood-of-crozzo.fm04-bell] Welf explains that the family's ancestor received a fairy's blood; once a Crozzo received a god's blessing, that blood awakened a Skill for making magic swords, and every family member gained it the moment they were blessed. The family came to treat the Skill as their own power, made more and more swords, and was cursed.[@blood-of-crozzo.fm04-ancestor, blood-of-crozzo.fm04-curse] When Phobos first reads it on Welf's back, she tells him to forge a magic sword.[@blood-of-crozzo.fm15-first]
+Before Welf tells his story in DanMachi 4, Bell guesses that he must have a Skill that lets him make magic swords without the Development Ability Forge.[@blood-of-crozzo.fm04-bell] Welf explains that the family's ancestor received a fairy's blood; once a Crozzo received a god's blessing, that blood awakened a Skill for making magic swords, and many of the family gained it the moment they were blessed. The family came to treat the Skill as their own power, made more and more swords, and was cursed.[@blood-of-crozzo.fm04-ancestor, blood-of-crozzo.fm04-curse] When Phobos first reads it on Welf's back, she tells him to forge a magic sword.[@blood-of-crozzo.fm15-first]
 
 When he activates it, as while forging Shirahime in Minor Myths and Legends 1, faint lights swirl around the metal and sink into the blade, spirits drawn into his hammer.[@blood-of-crozzo.ss01-forge]
 
 ### Veritas Burn {#veritas-burn}
 
-**Veritas Burn** is Welf's second Skill, from his DanMachi 15 update at Level 2: it grants high resistance to flame and amplifies the effect of fire-element attacks.[@veritas-burn.fm15-card] The narration treats it as a by-product of being tempered in the extreme conditions of the expedition, and notes that it also makes his fire magic swords more potent.[@veritas-burn.fm15-new]
+**Veritas Burn** ({{ja|炎化創火}}, written *becoming flame, creating fire*)[@veritas-burn.fm15-ja] is Welf's second Skill, from his DanMachi 15 update at Level 2: it grants high resistance to flame and amplifies the effect of fire-element attacks.[@veritas-burn.fm15-card] The narration treats it as a by-product of being tempered in the extreme conditions of the expedition, and notes that it also makes his fire magic swords more potent.[@veritas-burn.fm15-new]
 
 - **Holder:** Welf Crozzo[@veritas-burn.fm15-card]
 - **Appeared:** DanMachi 15, at Level 2[@veritas-burn.fm15-new]
@@ -373,7 +372,7 @@ Their range depends on her Status and condition: about thirty meders at full str
 
 ### Mikuzume no Hou {#mikuzume-no-hou}
 
-**Mikuzume no Hou** is [[haruhime|Haruhime]]'s Skill from DanMachi 15. It makes her magic more effective and her use of Mind more efficient.[@mikuzume-no-hou.fm15-card] The narration likens it to Skills the elves have developed as a race, and says that among magic-related Skills, those that improve Mind efficiency are some of the most prized, for all their plainness.[@mikuzume-no-hou.fm15-new]
+**Mikuzume no Hou** ({{ja|妖想狐術}}, written with the kanji for *bewitching*, *fancy*, *fox* and *art*)[@mikuzume-no-hou.fm15-ja] is [[haruhime|Haruhime]]'s Skill from DanMachi 15. It makes her magic more effective and her use of Mind more efficient.[@mikuzume-no-hou.fm15-card] The narration likens it to Skills the elves have developed as a race, and says that among magic-related Skills, those that improve Mind efficiency are some of the most prized, for all their plainness.[@mikuzume-no-hou.fm15-new]
 
 - **Holder:** Haruhime[@mikuzume-no-hou.fm15-card]
 - **Appeared:** DanMachi 15, while still Level 1[@mikuzume-no-hou.fm15-card, mikuzume-no-hou.fm15-new]
@@ -385,7 +384,7 @@ Their range depends on her Status and condition: about thirty meders at full str
 **Avenger** is [[aiz-wallenstein|Aiz Wallenstein]]'s rare Skill. Loki ranks its potency highest among all followers. Its effect is a ravenous surge of power, and its targets are monsters.[@avenger.so12-loki]
 
 - **Holder:** Aiz Wallenstein[@avenger.so12-loki]
-- **Status entry:** An active trigger that enhances her attack power against monsters, and greatly against dragon types, more strongly the greater her hatred (Sword Oratoria 10 sheet). Her Sword Oratoria 1 sheet shows her Skills only as "???". The same sheet calls Avenger the strongest Skill currently known among all races and Familias.[@sheet.so10-aiz, sheet.so01-aiz]
+- **Status entry:** An active trigger that enhances her attack power against monsters, and greatly against dragon types, more strongly the greater her hatred (Sword Oratoria 10 sheet). The same sheet, in the notes on her sword [[desperate|Desperate]], calls Avenger the strongest Skill currently known among all races and Familias. Her Sword Oratoria 1 sheet shows her Skills only as "???".[@sheet.so10-aiz, sheet.so01-aiz]
 - **Joined with:** [[magic#airiel|Airiel]], as Tempest Avenger[@avenger.so12-forbidden]
 
 #### Levis {#avenger-levis}
@@ -431,16 +430,16 @@ It drains her Mind, all the more because she is combining two spells, and she mu
 
 ### Alf Regina {#alf-regina}
 
-**Alf Regina** is [[riveria|Riveria Ljos Alf]]'s rare Skill, which no one but Riveria has developed. Its jade magic circle gathers the leftover magic around it and turns it back into Mind for the elves inside. It raises her own abilities and strengthens the magic of fellow elves in the circle.[@alf-regina.so10-levis, alf-regina.so10-effect]
+**Alf Regina** ({{ja|妖精王印}}, written *fairy-king seal*)[@alf-regina.so10-ja] is [[riveria|Riveria Ljos Alf]]'s rare Skill, which no one but Riveria has developed. Its jade magic circle gathers the leftover magic around it and turns it back into Mind for the elves inside. It strengthens her own Magic and the magic of fellow elves in the circle.[@alf-regina.so10-levis, alf-regina.so10-effect]
 
 - **Holder:** Riveria Ljos Alf[@alf-regina.so10-effect]
 - **Status entry:** Strengthens her magic abilities; increases the effect of magic for all elves in her magic circle; turns their magic energy into Mind and absorbs it (Sword Oratoria 6 sheet)[@sheet.so06-riveria]
-- **Also called:** Fairy Force (Loki's name, rejected by Riveria)[@alf-regina.so10-name]
+- **Squad:** Fairy Force ({{ja|妖精部隊}}, written *fairy unit*), Loki's name for the elf squad built around the Skill; Riveria rejected it, but the squad's elves use it[@alf-regina.so10-name, alf-regina.so10-ja]
 - **Kind:** A party Skill for elves[@alf-regina.so10-effect, alf-regina.so10-name]
 
 Its Mind recovery is much stronger than the automatic recovery of the Development Ability Spirit Healing, though far weaker than the [[corrupted-spirit|demi-spirit]]'s recharge on the fifty-ninth floor.[@alf-regina.so10-effect] It does not heal in full, as Riveria tells her squad.[@alf-regina.so10-limit] Finn ordered the surprise attack on [[knossos|Knossos]] knowing of this Skill, which lets an elven squad keep its magic up in a vast labyrinth.[@alf-regina.so10-effect] In Sword Oratoria 10 Levis sees the jade circle and can tell only that it is a rare Skill.[@alf-regina.so10-levis]
 
-When Riveria developed it, Loki wanted an elf-only squad built around her and tried to call it "Fairy Force"; Riveria refused the showy name, though the elves of the squad use it among themselves.[@alf-regina.so10-name]
+When Riveria developed it, Loki wanted an elf-only squad built around her and tried to give that squad the name "Fairy Force"; Riveria refused the showy name, though the elves of the squad use it among themselves.[@alf-regina.so10-name]
 
 ### Berserk {#berserk}
 
@@ -448,15 +447,15 @@ Both [[hyrute-sisters|Tiona and Tione Hyrute]] have a Skill called **Berserk**, 
 
 - **Holders:** Tiona and Tione Hyrute[@berserk.so06-tiona]
 - **Printed as:** Berserk; "Berserker skill" in Sword Oratoria 6 and 12[@berserk.so06-berserker, berserk.so12-tiona]
-- **Status entry:** Tiona's Sword Oratoria 3 sheet, printed *Berserker*: strength increases after taking damage. Tione's Sword Oratoria 4 sheet, printed *Berserk*: attack power increases on taking damage, and the effect grows with her anger.[@sheet.so03-tiona, sheet.so04-tione]
+- **Status entry:** Tiona's Sword Oratoria 3 sheet {{small|printed *Berserker*}}: each time she takes damage, her attack power rises. Tione's Sword Oratoria 4 sheet, printed *Berserk* ({{ja|憤化招乱}}, written *anger turning, chaos invited*): attack power increases on taking damage, and the effect grows with her anger.[@sheet.so03-tiona, sheet.so04-tione, berserk.so04-ja]
 
-In Sword Oratoria 6 Tione's Berserk builds against [[kali-familia#argana-kalif|Argana]], though Argana's power grows too.[@berserk.so06-tione, berserk.so06-berserker] In Sword Oratoria 7 the enemy's curses and anti-Status magic only make Tione angrier, so her strength rises and their weakening effects are reversed; later her Berserk-backed fist drops the demi-spirit to its knees.[@berserk.so07-cruz, berserk.so07-spirit] Tiona combines hers with [[#intense-heat|Intense Heat]].[@intense-heat.so07-legs, berserk.so12-tiona]
+In Sword Oratoria 6 Tione's Berserk builds against [[kali-familia#argana-kalif|Argana]], though Argana's power grows too.[@berserk.so06-tione, berserk.so06-berserker] In Sword Oratoria 7 the enemy's curses and anti-Status magic only make Tione angrier, so her strength rises until her attack power outweighs the lowered Status, though her speed stays below her true Agility; later her Berserk-backed fist drops the demi-spirit to its knees.[@berserk.so07-cruz, berserk.so07-spirit] Tiona combines hers with [[#intense-heat|Intense Heat]].[@intense-heat.so07-legs, berserk.so12-tiona]
 
-Loki's phrase "Berserk magic" in Sword Oratoria 8 is loose wording for this Skill.[@berserk.so08-loki] It is unrelated to Finn's spell Hell Finegas.[@so07-hellfinegas]
+In Sword Oratoria 8 Loki contrasts Bete's Hati with the twins' Berserk.[@berserk.so08-loki] It is unrelated to Finn's spell Hell Finegas.[@so07-hellfinegas]
 
 ### Intense Heat {#intense-heat}
 
-**Intense Heat** is Tiona Hyrute's rare Skill. It activates before her Berserk has run its course and gives her a massive boost once her Status turns critical; when it takes hold, her breath runs red with heat.[@intense-heat.so06-bache] Like Berserk, it builds with every hit she takes: the closer she comes to death, the more power she has.[@intense-heat.so06-cornered]
+**Intense Heat** ({{ja|大熱闘}}, written *great heated battle*)[@intense-heat.so03-ja] is Tiona Hyrute's rare Skill. It activates before her Berserk has run its course and gives her a massive boost once her Status turns critical; when it takes hold, her breath runs red with heat.[@intense-heat.so06-bache] Like Berserk, it builds with every hit she takes: the closer she comes to death, the more power she has.[@intense-heat.so06-cornered]
 
 - **Holder:** Tiona Hyrute[@intense-heat.so06-bache]
 - **Status entry:** Increases all abilities when she is near death (Sword Oratoria 3 sheet)[@sheet.so03-tiona]
@@ -465,7 +464,7 @@ With Berserk and Intense Heat both at full power, she takes out [[corrupted-spir
 
 ### Backdraft {#backdraft}
 
-**Backdraft** is Tione Hyrute's attack-boosting Skill. It has the same activation requirements as her sister's Intense Heat, so the more the sisters are cornered, the higher their combat power rises.[@backdraft.so06]
+**Backdraft** ({{ja|大反攻}}, written *great counteroffensive*)[@backdraft.so04-ja] is Tione Hyrute's attack-boosting Skill. It has the same activation requirements as her sister's Intense Heat, so the more the sisters are cornered, the higher their combat power rises.[@backdraft.so06]
 
 - **Holder:** Tione Hyrute[@backdraft.so06]
 - **Status entry:** Dramatically increases her strength when she is on the verge of death (Sword Oratoria 4 sheet)[@sheet.so04-tione]
@@ -475,16 +474,16 @@ With Berserk and Intense Heat both at full power, she takes out [[corrupted-spir
 
 ### Úlfheðinn {#ulfhedinn}
 
-**Úlfheðinn** is [[bete-loga|Bete Loga]]'s werewolf Skill. His Sword Oratoria 5 Status sheet says it can be activated only in moonlight: he transforms into a werewolf, all his abilities rise greatly, and abnormal statuses are neutralised.[@sheet.so05-bete]
+**Úlfheðinn** ({{ja|月下狼哮}}, written *wolf howling under the moon*)[@ulfhedinn.so05-ja] is [[bete-loga|Bete Loga]]'s werewolf Skill. His Sword Oratoria 5 Status sheet says it can be activated only in moonlight: he transforms into a werewolf, all his abilities rise greatly, and abnormal statuses are neutralised.[@sheet.so05-bete]
 
 - **Holder:** Bete Loga[@sheet.so05-bete]
 - **Source:** Status sheet; not found named in the story text[@sheet.so05-bete]
 
-The novels describe the transformation in general terms: once beast people receive a Falna their transformation is tied to their Skills, and werewolves transform under the full moon, when no race is thought a match for them.[@fm18-beast, so08-moon]
+The novels describe the transformation in general terms: once beast people receive a Falna their transformation is tied to their Skills, and werewolves transform in moonlight, under which no race is thought a match for them.[@fm18-beast, so08-moon]
 
 ### Fenris Wolf {#fenris-wolf}
 
-**Fenris Wolf** is a Skill of Bete Loga's that increases his running speed.[@sheet.so05-bete]
+**Fenris Wolf** ({{ja|孤狼疾駆}}, written *lone wolf's swift run*)[@fenris-wolf.so05-ja] is a Skill of Bete Loga's that increases his running speed.[@sheet.so05-bete]
 
 - **Holder:** Bete Loga[@sheet.so05-bete]
 - **Source:** Status sheet only[@sheet.so05-bete]
@@ -493,12 +492,12 @@ The novels describe the transformation in general terms: once beast people recei
 
 ### Solmani {#solmani}
 
-**Solmani** is Bete Loga's Skill, powerful and rare, which increases his strength and agility as he accelerates. Aiz recalls it in Sword Oratoria 10 when an opponent's blows grow stronger with each charge.[@solmani.so10-aiz]
+**Solmani** ({{ja|双狼追駆}}, written *twin wolves' pursuit*)[@solmani.so05-ja] is Bete Loga's Skill, powerful and rare, which increases his strength and agility as he accelerates. Aiz recalls it in Sword Oratoria 10 when an opponent's blows grow stronger with each charge.[@solmani.so10-aiz]
 
 - **Holder:** Bete Loga[@solmani.so10-aiz]
 - **Status entry:** Increases agility and strength when accelerating (Sword Oratoria 5 sheet)[@sheet.so05-bete]
 
-Sword Oratoria 5 says that, counting his Skill effects, Bete is the fastest runner in Loki Familia, just ahead of Finn, though no match for Aiz using Airiel. That passage does not name the Skills involved; his sheet lists two that concern speed, Fenris Wolf and Solmani.[@solmani.so05-fastest, sheet.so05-bete]
+Sword Oratoria 5 says that, counting his Skill effects, Bete is the fastest runner in [[loki-familia|Loki Familia]], just ahead of Finn, though no match for Aiz using Airiel. That passage does not name the Skills involved; his sheet lists two that concern speed, Fenris Wolf and Solmani.[@solmani.so05-fastest, sheet.so05-bete]
 
 ### Gareth Landrock's Skills {#gareth-skills}
 
@@ -506,8 +505,8 @@ Sword Oratoria 5 says that, counting his Skill effects, Bete is the fastest runn
 
 | Skill | On the sheet |
 |---|---|
-| **Dvergr Enhance** | Raises his Strength.[@sheet.so07-gareth] |
-| **Ardigalea** | Raises his Endurance and his resistance to attack magic.[@sheet.so07-gareth] |
+| **Dvergr Enhance** ({{ja|力精豪拳}}, written *strength, vigour, mighty fist*) | Raises his Strength.[@sheet.so07-gareth, sheet.so07-gareth-ja] |
+| **Ardigalea** ({{ja|地剛兜}}, written *earth-hard helm*) | Raises his Endurance and his resistance to attack magic.[@sheet.so07-gareth, sheet.so07-gareth-ja] |
 
 Both fit what DanMachi 1 says of dwarves, who usually develop Skills that improve their physical strength.[@fm01-rare, sheet.so07-gareth]
 
@@ -553,13 +552,13 @@ She uses it in Astrea Record 3 against [[alfia|Alfia]], and in DanMachi 18 her w
 
 ### Astrae Varmas {#astrae-varmas}
 
-**Astrae Varmas** is Lyu's fourth Skill, new at Level 5. Her card calls it a Falna effect: it amplifies the Skills, Mind and magic of followers in range who share her god and ichor, gives moderate resistance to psychological corruption to all followers of any god in range, works passively, and grows with her Level.[@fc03-lyu-card5, fc03-lyu-card6]
+**Astrae Varmas** ({{ja|正義継巡}}, written *justice inherited and going round*)[@astrae-varmas.fc03-ja] is Lyu's fourth Skill, new at Level 5. Her card calls it a Falna effect: it amplifies the Skills, Mind and magic of followers in range who share her god and ichor, gives moderate resistance to psychological corruption to all followers of any god in range, works passively, and grows with her Level.[@fc03-lyu-card5, fc03-lyu-card6]
 
 - **Holder:** Lyu Leon[@fc03-lyu-card5]
 - **Type:** Passive[@fc03-lyu-card5]
 - **Appeared:** At Level 5 (Familia Chronicle 3)[@astrae-varmas.fc03-new]
 
-Going over it with Astrea, Lyu finds that the resistance to mental control is unconditional, reaching anyone with a Falna, enemies included, and that she benefits from it too.[@astrae-varmas.fc03-new] She takes it as a sign that her dead friend Adi Varma's sense of justice lives on in her.[@astrae-varmas.fc03-adi]
+Going over it with Astrea, Lyu finds that the resistance to mental control is unconditional, reaching anyone with a Falna, enemies included, and that she benefits from it too.[@astrae-varmas.fc03-new] She takes it as a sign that the sense of justice of her dead friend Ardee Varma {{small|printed *Adi* here}} lives on in her.[@astrae-varmas.fc03-adi]
 
 ### Rubrud Beckia {#rubrud-beckia}
 
@@ -599,13 +598,13 @@ The Gojouno clan of the Far East discovered that their bloodline passes on certa
 - **Holder:** Ottar[@vana-arganture.fm18-skill]
 - **Type:** Active trigger[@vana-arganture.fm18-skill, sheet.fc02-ottar]
 - **Cost:** A great deal of stamina and Mind at every activation[@vana-arganture.fm18-skill]
-- **Printed as:** *Vana Angatyr* on his Familia Chronicle 2 Status sheet (Level 7): an active trigger; a bestial transformation in which all stats rise dramatically; stamina and Mind drained heavily while it is active[@sheet.fc02-ottar]
+- **Printed as:** *Vana Angatyr* on his Familia Chronicle 2 Status sheet (Level 7): an active trigger; a bestial transformation in which all stats rise dramatically; stamina and Mind drained heavily at each activation[@sheet.fc02-ottar]
 
-Only a few races of beast people can transform; werewolves, the classic case, change under the full moon. Watching Ottar in DanMachi 18, [[bete-loga|Bete]] judges that his trigger is at will, so he can transform by day or in the Dungeon.[@fm18-beast] The price is heavy: keeping up the transformation exhausts him faster than even the automatic healing that manifests with it, which the Japanese calls an ability, not a Skill, can make good, unlike werewolves, who transform without risk once the full moon condition is met.[@vana-arganture.fm18-skill] In DanMachi 20 Leon Verdenberg contrasts his own slow, step-by-step boost with Ottar's transformation, which raises his Status dramatically all at once.[@vana-arganture.fm20-leon]
+Only a few races of beast people can transform; werewolves, the classic case, change in moonlight. Watching Ottar in DanMachi 18, [[bete-loga|Bete]] judges that his trigger is at will, so he can transform by day or in the Dungeon.[@fm18-beast] The price is heavy: keeping up the transformation exhausts him faster than even the automatic healing that manifests with it, which the Japanese calls an ability, not a Skill, can make good, unlike werewolves, who transform without risk once the moon condition is met.[@vana-arganture.fm18-skill] In DanMachi 20 Leon Verdenberg contrasts his own slow, step-by-step boost with Ottar's transformation, which raises his Status dramatically all at once.[@vana-arganture.fm20-leon]
 
 ### Stultus Ottar {#stultus-ottar}
 
-**Stultus Ottar** is Ottar's second Skill on his Familia Chronicle 2 Status sheet. During battle he temporarily gains the abilities Heal and Spirit Heal, and all his abilities are enhanced, in proportion to his Status.[@sheet.fc02-ottar]
+**Stultus Ottar** ({{ja|我戦我在}}, written *I fight, therefore I am*)[@stultus-ottar.fc02-ja] is Ottar's second Skill on his Familia Chronicle 2 Status sheet. While he fights on, he temporarily gains the Development Abilities Heal and Spirit Heal, and all the Development Abilities he has acquired are strengthened; the condition for this continuing battle scales with his Status.[@sheet.fc02-ottar]
 
 - **Holder:** Ottar[@sheet.fc02-ottar]
 - **Source:** Status sheet; not found named in the story text[@sheet.fc02-ottar]
@@ -658,8 +657,8 @@ Ardee Varma of [[ganesha-familia|Ganesha Familia]] has a character sheet at the 
 
 | Skill | On the sheet |
 |---|---|
-| **Ganapati Blood** | A blessing of [[ganesha|Ganesha]] that slightly modifies her stats.[@sheet.ar02-ardee] |
-| **Dharmas Algo** | A passive Falna effect that boosts the stats of all Familia members within a set range; range and boost depend on her Level.[@sheet.ar02-ardee] |
+| **Ganapati Blood** ({{ja|守人血統}}, written *guardian bloodline*) | A blessing of [[ganesha|Ganesha]] that slightly modifies her stats.[@sheet.ar02-ardee, ardee-skills.ar02-ja] |
+| **Dharmas Algo** ({{ja|正義巡継}}, written *justice passed on in turn*) | A passive Falna effect that boosts the stats of all Familia members within a set range; range and boost depend on her Level.[@sheet.ar02-ardee, ardee-skills.ar02-ja] |
 
 Dharmas Algo works much like Lyu's later [[#astrae-varmas|Astrae Varmas]], a passive Falna effect for allies of the same god in range. Lyu takes Astrae Varmas as a sign that her friend Adi's (Ardee's) sense of justice lives on in her; the novels do not compare the two Skills directly.[@sheet.ar02-ardee, fc03-lyu-card5, astrae-varmas.fc03-adi]
 
@@ -696,7 +695,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 {{nocite}} The novels mention some Skills without naming them:
 
 - The Skill Hestia held back from Mikoto in DanMachi 15.[@fm15-withheld]
-- The transformation Skills of werewolves, tied to the full moon; Bete's is [[#ulfhedinn|Úlfheðinn]].[@fm18-beast, so08-moon, sheet.so05-bete]
+- The transformation Skills of werewolves, tied to moonlight; Bete's is [[#ulfhedinn|Úlfheðinn]].[@fm18-beast, so08-moon, sheet.so05-bete]
 
 [@fm01-slot]: FM01 | Chapter 1: World, Reality, and Desire | Bell's Status has a Skill slot.
 [@fm01-separate]: FM01 | Chapter 1: World, Reality, and Desire | Skills are separate from basic abilities; very few are a loss once they manifest, but the number is not zero (the Japanese edition, file cFB, paragraph 202).
@@ -708,7 +707,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@fm12-card]: FM12 | Chapter 1: Rabbit Close-Up | Bell's Level 4 card: Skills listed apart from Magic.
 [@so12-card]: SO12 | Chapter 4: Nameless Heroes | Lefiya's Level 4 card: Development Abilities, Magic and Skills listed separately.
 [@fm15-withheld]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Hestia holds back a possibly self-destructive Skill for Mikoto.
-[@fm18-beast]: FM18 | Chapter 9: Flower Language for You | Transformation among beast people; tied to Skills after the Falna; werewolves; Ottar's trigger.
+[@fm18-beast]: FM18 | Chapter 9: Flower Language for You | Transformation among beast people; tied to Skills after the Falna; werewolves; Ottar's trigger. The Japanese edition (file part0027, paragraphs 943, 948 and 1472) says werewolves transform by bathing in moonlight, under the moon condition.
 [@so08-moon]: SO08 | Chapter 5: Battered Wolf | A werewolf transforming under the moon.
 [@so10-sussing]: SO10 | Interlude: Their Respective Battles | Working out an opponent's magic and Skills.
 [@so14-finn]: SO14 | Chapter 1: The Prum’s Adventure | Finn's first Falna: "Two powerful skills right off the bat"; the Status card printed as an image, p. 38, and the Level 1 sheet, p. 180: Hell Finegas; Skills Prum Spirit and Noble Brave.
@@ -758,7 +757,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@argonaut.fm05-limit]: FM05 | Chapter 6: Praise to the Heroes | Limit Release.
 [@argonaut.fm05-ja-limit]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraphs 559 to 562, 584, 596 and 724; file part0031, paragraph 2): the ruby reads Limit Off; the strength of Bell's feeling, which surpasses even the Falna, breaks the boundary and temporarily raises the Skill's power, and the chime of the charge turns into the sound of the grand bell. The Japanese uses the grand bell five times in this battle where Yen Press prints church bells.
 [@argonaut.fm18-ja-limit]: FM18 | Chapter 9: Flower Language for You | Japanese original (file part0029, paragraph 97; also file part0023, paragraph 437): the sound that rings is not the chime but the grand bell, which is Limit Off, the same two words as in DanMachi 5; earlier, while sneaking, Bell thinks of Limit Off and that the grand bell must never ring.
-[@argonaut.fm06-card]: FM06 | Chapter 3: Outbreak | Card: charges automatically with active action.
+[@argonaut.fm06-card]: FM06 | Chapter 3: Outbreak | Card: the charge for active actions. The Japanese edition (file c295, paragraph 12) gives him the right to execute a charge for active actions, like the DanMachi 4, 5 and 20 cards.
 [@argonaut.fm12-tests]: FM12 | Chapter 2: Adventure Intermission | Four-minute maximum; one place at a time; cancelled charges; convergence. The Japanese edition (file part0014, paragraph 692) limits the charge to attack-related actions.
 [@argonaut.fm12-argo]: FM12 | Chapter 6: The Hero’s Sacred Flame | Argo Vesta.
 [@argonaut.fm18-limiter]: FM18 | Chapter 8: The Great Familia War | Keeping the grand bell from ringing while sneaking up.
@@ -767,7 +766,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@argonaut.fm20-five]: FM20 | Chapter 4: The Knight’s Afterglow | Five-minute full charge.
 [@ox-slayer.fm12-card]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 card: Ox Slayer. The Japanese edition (file part0012, paragraphs 50 and 51) gives a super-high correction to all abilities when fighting the fierce-bull type.
 [@ox-slayer.fm12-slayer]: FM12 | Chapter 1: Rabbit Close-Up | A slayer-type Skill; Asterios and minotaur-type monsters.
-[@ox-slayer.fm15-card]: FM15 | Interlude: Growth, the Present, and Rye Bread | Card: "exponentially enhanced".
+[@ox-slayer.fm15-card]: FM15 | Interlude: Growth, the Present, and Rye Bread | Card. The Japanese edition (file c8D, paragraph 16) gives a very large correction to all abilities when fighting the fierce-bull type, the same line as the DanMachi 12 and 20 cards.
 [@ox-slayer.fm18-card]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Card: "drastically enhanced".
 [@ox-slayer.fm20-card]: FM20 | Chapter 2: Lion and then Sword Princess | Card: "drastically enhanced".
 [@ox-slayer.ss01-shock]: SS01 | The Goddess’s Shock | Works only under certain conditions; three combat Skills.
@@ -820,14 +819,15 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@double-cannon.so13-canon]: SO13 | Chapter 3: Class is in Session | "Double Canon"; the ring on her left wrist; key "Canon".
 [@alf-regina.so10-levis]: SO10 | Chapter 5: Brave Soul! | The jade circle; Levis sees a rare Skill.
 [@alf-regina.so10-effect]: SO10 | Chapter 5: Brave Soul! | Effect; only Riveria; compared with Spirit Healing; Finn's plan.
-[@alf-regina.so10-name]: SO10 | Chapter 5: Brave Soul! | "Fairy Force".
+[@alf-regina.so10-name]: SO10 | Chapter 5: Brave Soul! | "Fairy Force": Loki's name for "an elf-only squad centered around Riveria".
+[@alf-regina.so10-ja]: SO10 | Chapter 5: Brave Soul! | The Japanese edition prints the Skill's name with kanji meaning fairy-king seal, read Alf Regina, and the squad's name with kanji meaning fairy unit, read Fairy Force.
 [@alf-regina.so10-limit]: SO10 | Chapter 5: Brave Soul! | It cannot heal in full.
 [@berserk.so06-tione]: SO06 | Chapter 3: Kingdom of the Amazons | Damage and fury raise Tione's power.
 [@berserk.so06-berserker]: SO06 | Chapter 5: A Duo of Sun and Moon | "Berserker skill"; Argana grows stronger too.
 [@berserk.so06-tiona]: SO06 | Chapter 5: A Duo of Sun and Moon | Tiona's Berserk, the same as her sister's.
-[@berserk.so07-cruz]: SO07 | Chapter 4: The Sword’s Wind Calls | Rage; debuffs reversed.
+[@berserk.so07-cruz]: SO07 | Chapter 4: The Sword’s Wind Calls | Rage against the stacked curses (the Japanese edition, file c3RW, paragraphs 446 and 448: her attack power outweighs the lowered Status; her speed stays below her true Agility).
 [@berserk.so07-spirit]: SO07 | Chapter 5: Battle of Tears | Tione's fist and the demi-spirit.
-[@berserk.so08-loki]: SO08 | Chapter 5: Battered Wolf | Loki: "Berserk magic".
+[@berserk.so08-loki]: SO08 | Chapter 5: Battered Wolf | Loki on Hati and Berserk. The Japanese edition (file c45H, paragraph 689) has her name the twins' Berserk, a Skill, with no word of magic.
 [@berserk.so12-tiona]: SO12 | Chapter 6: The Divine Providence of Despair | "Berserker and Intense Heat"; the spirit altar.
 [@intense-heat.so06-bache]: SO06 | Chapter 5: A Duo of Sun and Moon | Rare skill; red breath; critical Status; Backdraft.
 [@intense-heat.so06-cornered]: SO06 | | Builds with damage; closer to death, more power.
@@ -836,6 +836,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@solmani.so10-aiz]: SO10 | Interlude: Their Respective Battles | Bete's Solmani.
 [@solmani.so05-fastest]: SO05 | | The fastest runner in the Familia, Skill effects included.
 [@astrae-varmas.fc03-new]: FC03 | The Locus of Stars | Fourth Skill; effects confirmed with Astrea.
+[@astrae-varmas.fc03-ja]: FC03 | | The Japanese edition (file c54, paragraph 450) writes the Skill's name with kanji meaning justice inherited and going round, read Astrae Varmas.
 [@astrae-varmas.fc03-adi]: FC03 | The Locus of Stars | Adi Varma; justice inherited.
 [@mind-load.ar03-alfia]: AR03 | Chapter 4: Apocalypse Cometh | Lyu powers up with Mind Load against Alfia.
 [@mind-load.fm18-hegni]: FM18 | Chapter 9: Flower Language for You | The wooden sword imbued with Mind Load against Hegni.
@@ -852,12 +853,15 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@sheet.so05-bete]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Úlfheðinn, Fenris Wolf, Solmani.
 [@sheet.so06-riveria]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Fairy Anthem, Alf Regina.
 [@sheet.so07-gareth]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Dvergr Enhance, Ardigalea.
+[@sheet.so07-gareth-ja]: SO07 | | The Japanese sheet (image page c6W2) writes the two Skills with kanji meaning strength, vigour, mighty fist (read Dvergr Enhance) and earth-hard helm (read Ardigalea).
 [@sheet.so08-finn]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Prum Spirit, Noble Brave, Dia Phiana, Command Howl, Ail mac Midna.
 [@sheet.so12-filvis]: SO12 | | Illustrated Status sheet at the end of the volume: Fairy Senior, Monstrum Union, Dark Light. The Japanese edition's sheet (image page cBRR) lists a Status bug, written collapse of the divine law, under Monstrum Union, and has Dark Light, written black-curse contamination, change the light and the wavelength of her magic.
 [@sheet.fm14-daphne]: FM14 | | Illustrated Status page, p. 165 (Level 2): Helios Passion, Laurel Wreath.
 [@sheet.fm14-cassandra]: FM14 | | Illustrated Status page, p. 167 (Level 2): Five-Dimension Troia.
-[@sheet.fc02-ottar]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Vana Angatyr, Stultus Ottar.
+[@sheet.fc02-ottar]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Vana Angatyr, Stultus Ottar. The Japanese edition's sheet (file c93H, Ottar's data page) has Stultus Ottar strengthen all the Development Abilities he has acquired while he fights on, the condition for continuing battle proportional to his Status, and Vana Arganture's cost fall at each activation.
+[@stultus-ottar.fc02-ja]: FC02 | | The Japanese edition's Status sheet (file c93H, an image) writes the Skill's name with kanji meaning I fight, therefore I am, read Stultus Ottar.
 [@sheet.ar01-lyu]: AR01 | | Illustrated character sheet, pp. 262–263 (Level 3): Fairy Serenade, Mind Load.
+[@ardee-skills.ar02-ja]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): the Japanese edition prints Ganapati Blood as the reading of kanji meaning guardian bloodline, and Dharmas Algo as the reading of kanji meaning justice passed on in turn.
 [@sheet.ar02-ardee]: AR02 | | Illustrated character sheet, pp. 276–277 (Level 3): Ganapati Blood, Dharmas Algo.
 [@sheet.ar03-alize]: AR03 | | Illustrated character sheet, pp. 266–267 (Level 4): Batrea Acras, Rubrud Beckia.
 [@fenris-wolf.so08-title]: SO08 | Chapter 2: Did Someone Order a Wolf? | Víðarr Familia; his first title, Fenris.
@@ -865,7 +869,9 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@filvis-skills.so12-black]: SO12 | Chapter 8: A Heroes’ Chorus | Dio Thyrsos as black lightning.
 [@sheet.so01-aiz]: SO01 | | Illustrated Status sheet, p. 226 (Level 5): Skills "???".
 [@sheet.so02-lefiya]: SO02 | | Illustrated Status sheet, p. 228: Fairy Cannon. The Japanese edition's sheet (image page c5M4) gives the same two effects as the Sword Oratoria 12 card.
-[@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Berserker, Intense Heat.
+[@sheet.so03-tiona]: SO03 | | Illustrated Status sheet, p. 248 (Level 5): Berserk (printed Berserker), Intense Heat. The Japanese edition's sheet (file c6CF, Tiona's data page) reads Berserk, and each time she takes damage her attack power rises.
+[@berserk.so04-ja]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): the Japanese edition prints Tione's Skill as the reading Berserk over kanji meaning anger turning, chaos invited.
+[@backdraft.so04-ja]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): the Japanese edition prints the Skill as the reading Backdraft over kanji meaning great counteroffensive.
 [@sheet.so04-tione]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Berserk, Backdraft.
 [@sheet.so10-aiz]: SO10 | | Illustrated Status sheet, p. 300 (Level 6): Avenger; the strongest Skill currently known.
 [@sheet.fm20-leon]: FM20 | | Illustrated Status sheet, p. 217 (Level 7): Blaze of the Round; Dvergr Gauntlet, Dvergr Rebellion.
@@ -874,3 +880,11 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@vanadis-tevere.fm18-ja]: FM18 | | The Japanese edition writes the Skill's name in kanji meaning resisting the flame of beauty's charm, with the reading Vanadis Tevere.
 [@laurel-wreath.fm18-ja]: FM18 | | The Japanese edition writes the Skill's name in kanji meaning laurel cycle, with the reading Laurus Wreath.
 [@vana-arganture.fm18-ja]: FM18 | | The Japanese edition writes the Skill's name in kanji meaning summoning the war boar, with the reading Vana Arganture.
+[@artel-assist.fm15-ja]: FM15 | | The Japanese edition writes the Skill's name with the kanji of an idiom for an unsung helper, read Artel Assist.
+[@blood-of-crozzo.fm15-ja]: FM15 | | The Japanese edition writes the Skill's name with kanji meaning magic-sword bloodline, read Crozzo Blood.
+[@veritas-burn.fm15-ja]: FM15 | | The Japanese edition writes the Skill's name with kanji meaning becoming flame, creating fire, read Veritas Burn.
+[@mikuzume-no-hou.fm15-ja]: FM15 | | The Japanese edition writes the Skill's name with kanji meaning bewitching, fancy, fox and art, read Mikuzume no Hou.
+[@intense-heat.so03-ja]: SO03 | | The Japanese edition writes the name with kanji meaning great heated battle, read Intense Heat.
+[@ulfhedinn.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning wolf howling under the moon, read Úlfheðinn.
+[@fenris-wolf.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning lone wolf's swift run, read Fenris Wolf.
+[@solmani.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning twin wolves' pursuit, read Solmani.

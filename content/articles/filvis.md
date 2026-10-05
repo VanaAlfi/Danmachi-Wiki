@@ -16,7 +16,7 @@
       {"section": "Adventurer"},
       {"label": "Japanese", "value": "{{ja|フィルヴィス・シャリア}}", "refs": ["so12-filvis-ja"]},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so02-elf"]},
-      {"label": "Familia", "value": "Dionysus Familia, as captain", "refs": ["so04-captain"]},
+      {"label": "Familia", "value": "Dionysus Familia, as captain", "refs": ["so04-captain", "so11-leader"]},
       {"label": "Also called", "value": "Banshee (an adventurers' nickname); Maenad ({{ja|白巫女}}, written *white shrine maiden*)", "refs": ["so03-banshee", "so07-maenad", "so12-filvis-ja"]},
       {"label": "Public Level", "value": "3", "refs": ["so03-level", "so04-captain"]},
       {"label": "Magic", "value": "[[#dio-thyrsos|Dio Thyrsos]]; [[#dio-grail|Dio Grail]]; [[#einsel|Einsel]]", "refs": ["dio-thyrsos.so03-cast", "dio-grail.so04-teach", "einsel.so12-undo"]},
@@ -25,7 +25,7 @@
   }
 }
 ---
-**Filvis Challia** is the elf captain of [[dionysus-familia|Dionysus Familia]] and a friend of [[lefiya|Lefiya Viridis]].[@so04-captain, so05-filvis] Publicly known as a Level 3, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
+**Filvis Challia** is the elf captain of [[dionysus-familia|Dionysus Familia]] and a friend of [[lefiya|Lefiya Viridis]].[@so11-leader, so05-filvis] Publicly known as a Level 3, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
 
 ## Filvis and Lefiya
 
@@ -92,7 +92,7 @@ Sword Oratoria 11 prints chant and name together when [[lefiya|Lefiya]] summons 
 
 #### Effect {#dio-grail-effect}
 
-Filvis conjures it "almost instantaneously" from a white magic circle: a pure-white barrier more than five meders across, raised with minimal magic power.[@dio-grail.so04-teach] Lefiya had first seen the same light protect her group on the twenty-fourth floor.[@dio-grail.so04-teach]
+Filvis conjures it "almost instantaneously" from a white magic circle: a pure-white barrier with a radius of five meders or more, raised with minimal magic power.[@dio-grail.so04-teach] Lefiya had first seen the same light protect her group on the twenty-fourth floor.[@dio-grail.so04-teach]
 
 #### Lefiya's use {#dio-grail-lefiyas-use}
 
@@ -127,10 +127,11 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 
 [@so02-elf]: SO02 | | "The elf called Filvis", beside Dionysus.
 [@so03-level]: SO03 | Chapter 2: Let’s Party? | "My familia’s only Level Three adventurer."
-[@so04-captain]: SO04 | First Chapter: And the Boy… | "A Level 3 magic swordsman and the captain of Dionysus Familia."
+[@so04-captain]: SO04 | First Chapter: And the Boy… | "A Level 3 magic swordsman"; a member of Dionysus Familia (the Japanese edition, file c1K0).
 [@so07-maenad]: SO07 | Chapter 4: The Sword’s Wind Calls | Called "Maenad".
 [@so05-filvis]: SO05 | | Floor 18; Dio Grail and the Floor 59 party.
 [@so07-filvis]: SO07 | | Knossos with Lefiya.
+[@so11-leader]: SO11 | Chapter 4: Avengers ~Knossos War~ | "despite being the leader of Dionysus Familia"; "who had been appointed the current leader of the familia".
 [@so11-filvis]: SO11 | | Her plea; her apparent death.
 [@so12-filvis]: SO12 | | Her death on Floor 27; the creature; Dionysus.
 [@skills.so12-sheet]: SO12 | | Illustrated Status sheet at the end of the volume: Fairy Senior, Monstrum Union, Dark Light. The Japanese edition's sheet (image page cBRR) has Dark Light change the light and the wavelength of her magic.
@@ -143,7 +144,7 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@dio-thyrsos.so07-cast]: SO07 | Chapter 4: The Sword’s Wind Calls | "Purge, cleansing lightning—DIO THYRSOS!"; a golden bolt.
 [@dio-thyrsos.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | The black lightning against Lefiya's Dio Grail.
 [@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire. The Japanese edition (file part0029, paragraph 12) speaks of summoning Maenad's magic.
-[@dio-grail.so04-teach]: SO04 | First Chapter: And the Boy… | Filvis casts it for Lefiya; "an ultrashort barrier spell"; more than five meders; "come back alive".
+[@dio-grail.so04-teach]: SO04 | First Chapter: And the Boy… | Filvis casts it for Lefiya; "an ultrashort barrier spell"; a radius of five meders or more (the Japanese edition, file c1K0); "come back alive".
 [@dio-grail.so04-floor59]: SO04 | Last Chapter: To Adventure | Lefiya's summoned Dio Grail against the corrupted spirit's lightning; Tiona and Tione.
 [@dio-grail.so11-lefiya]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Shield me, cleansing chalice—Dio Grail!"
 [@dio-grail.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's Dio Grail against Filvis's Dio Thyrsos.

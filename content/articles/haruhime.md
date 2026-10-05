@@ -16,13 +16,13 @@
       {"section": "Personal"},
       {"label": "Japanese", "value": "{{ja|サンジョウノ・春姫}}", "refs": ["fm07-haruhime-ja"]},
       {"label": "Race", "value": "[[races#renart|Renart]]", "refs": ["fm07-name"]},
-      {"label": "Name as printed", "value": "Sanjyouno Haruhime (DanMachi 7); Haruhime Sanjouno (later volumes)", "refs": ["fm07-name", "fm15-name"]},
+      {"label": "Printed as", "value": "Sanjyouno Haruhime (DanMachi 7); Haruhime Sanjouno (later volumes)", "refs": ["fm07-name", "fm15-name"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Ishtar Familia; [[hestia-familia|Hestia Familia]] from DanMachi 7", "refs": ["fm07-history", "fm07-join"]},
       {"label": "Level", "value": "1; 2 by DanMachi 18", "refs": ["fm08-party", "fm18-level2"]},
       {"label": "Title", "value": "Rikkou Kinshu ({{ja|六光金主}}, written *six lights, gold master*), from DanMachi 20", "refs": ["fm20-title", "fm20-haruhime-title-ja"]},
       {"label": "Magic", "value": "[[#uchide-no-kozuchi|Uchide no Kozuchi]], [[#kokonoe|Kokonoe]]", "refs": ["fm07-history", "fm12-kokonoe", "fm15-card"]},
-      {"label": "Skill", "value": "[[skills#mikuzume-no-hou|Mikuzume no Hou]]", "refs": ["fm15-card"]}
+      {"label": "Skills", "value": "[[skills#mikuzume-no-hou|Mikuzume no Hou]]", "refs": ["fm15-card"]}
     ]
   }
 }
@@ -110,7 +110,7 @@ Once cast, the boost lasts until its time runs out or Haruhime ends it; knocking
 
 The boost is temporary and does not count as a Level Up. In DanMachi 18, [[anya-fromel|Anya Fromel]], a Level 4, fights at pseudo-Level 5 during the [[war-game|War Game]] only.[@uchide-no-kozuchi.fm18-anya]
 
-Fighting under the boost costs the target experience: they receive less than half the normal [[excelia|excelia]], while Haruhime's own development is not reduced by casting it.[@uchide-no-kozuchi.fm15-excelia]
+Fighting under the boost costs the target experience: they receive half the normal [[excelia|excelia]] or less, while Haruhime's own growth is unaffected, because the spell cannot be cast on herself.[@uchide-no-kozuchi.fm15-excelia]
 
 #### Limits {#uchide-no-kozuchi-limits}
 
@@ -148,7 +148,7 @@ Haruhime's second spell, [[#kokonoe|Kokonoe]], stores the effect of a spell chan
 
 #### Status entry {#kokonoe-status-entry}
 
-Haruhime's DanMachi 15 card lists Kokonoe under Magic, beside Uchide no Kozuchi. It describes the spell as an enchantment that connects with a chant, charges tails with the effect of the connected spell, and allows up to nine tails.[@kokonoe.fm15-card]
+Haruhime's DanMachi 15 card lists Kokonoe under Magic, beside Uchide no Kozuchi. It describes the spell as an enchantment with chant linking that loads the effect of the linked spell, with a maximum of nine activations.[@kokonoe.fm15-card]
 
 #### Incantation {#kokonoe-incantation}
 
@@ -219,7 +219,7 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@uchide-no-kozuchi.fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe's tails.
 [@uchide-no-kozuchi.fm14-boost]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "level boost" in lower case; "Grow. Uchide no Kozuchi!"
 [@uchide-no-kozuchi.fm15-limits]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Target, duration and recast limits.
-[@uchide-no-kozuchi.fm15-excelia]: FM15 | | Reduced excelia while boosted.
+[@uchide-no-kozuchi.fm15-excelia]: FM15 | | Reduced excelia while boosted. The Japanese edition (file c5M2, paragraphs 119 and 124) says half the usual excelia or less, and that the spell cannot be cast on Haruhime herself.
 [@uchide-no-kozuchi.fm18-level2]: FM18 | Chapter 8: The Great Familia War | Level 2 limits and six tails.
 [@uchide-no-kozuchi.fm18-anya]: FM18 | Chapter 9: Flower Language for You | Anya at pseudo-Level 5.
 [@uchide-no-kozuchi.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Kokonoe and Uchide no Kozuchi chanted in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
@@ -229,7 +229,7 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 [@kokonoe.fm12-chant]: FM12 | Chapter 6: The Hero’s Sacred Flame | From the grimoire; name first; full chant; "Concatenated Casting"; "Dance!"
 [@kokonoe.fm14-name]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Kokonoe!"
 [@kokonoe.fm13-two]: FM13 | Chapter 4: Countdown | Two boosts in the lambton battle.
-[@kokonoe.fm15-card]: FM15 | | Haruhime's Level 1 card.
+[@kokonoe.fm15-card]: FM15 | | Haruhime's Level 1 card. The Japanese edition (file c5M2, paragraphs 27–30) gives chant linking, the loading of the linked spell's effect and a maximum of nine activations; the card names no tails.
 [@kokonoe.fm18-six]: FM18 | Chapter 8: The Great Familia War | Six tails; five used. The Japanese edition (file part0021, paragraph 1076) says her Mind itself grew with the Level Up, so the Mind Down that five tails caused on the lower-levels expedition is no longer a worry.
 [@kokonoe.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Full chant in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
 [@kokonoe.so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.

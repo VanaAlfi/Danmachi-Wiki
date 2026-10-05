@@ -38,7 +38,7 @@ His title comes from eating. He tells an enemy that he took his eating of what o
 
 ## Character {#character}
 
-[[erebus|Erebus]] thinks him "keen-witted, honorable, and closely in tune with Erebus’s own wishes".[@ar02-erebus] Astrea Record 3 calls him "one of the few men of good conscience" in [[zeus|Zeus]]'s Familia: when [[alfia|Alfia]] learns who fathered her sister's child, Zald desperately protests to her that he himself is no such daredevil, and she takes her anger out on him anyway.[@ar03-extra] With old acquaintances he jokes; he reminds [[gareth|Gareth]] how he "used to drink you and that god of yours under the table".[@ar02-gareth]
+[[erebus|Erebus]] takes him for a warrior who would make a gallant gesture: when Astrea reaches him, Erebus supposes that Zald let her through.[@ar02-erebus] Astrea Record 3 calls him "one of the few men of good conscience" in [[zeus|Zeus]]'s Familia: when [[alfia|Alfia]] learns who fathered her sister's child, Zald desperately protests to her that he himself is no such daredevil, and she takes her anger out on him anyway.[@ar03-extra] With old acquaintances he jokes; he reminds [[gareth|Gareth]] how he "used to drink you and that god of yours under the table".[@ar02-gareth]
 
 ## The Behemoth
 
@@ -105,7 +105,7 @@ Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Fami
 [@rea-ambrosia.ar03-deus]: AR03 | Chapter 8: The Price of Talent | Deus Ambrosia, a Rare Skill activated by eating; the Behemoth.
 [@ar01-ottar]: AR01 | Chapter 10: Conquerors | "Zald reached up and removed his helmet."; "he felled the King of Beasts"; "as if marking the man’s grave"; "Zald had been this city’s protector. Now he was its invader."; "You are weak".
 [@ar02-gareth]: AR02 | Intermission: While the Scales of Justice Tremble | "Have you forgotten already how I used to drink you and that god of yours under the table?"
-[@ar02-erebus]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): "He was keen-witted, honorable, and closely in tune with Erebus’s own wishes."
+[@ar02-erebus]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): Erebus supposes that Zald let Astrea through, the kind of gallant thing that warrior would do (the Japanese edition, file c6TM).
 [@ar03-glutton2]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "It was how Zald had earned his title—Glutton"; "The city’s finest warriors were nothing more than food on his plate."; "his black slab of steel". The Japanese edition (file c1JB, paragraph 48) has him say that he took eating what others will not eat too far, and his senses grew too sharp.
 [@ar03-retire]: AR03 | Chapter 8: The Price of Talent | Riveria: "Both Glutton and Silence played important parts in the slaying of the Leviathan and the Behemoth"; "Zald was forced to retire from frontline combat".
 [@ar03-death]: AR03 | Chapter 7: What She Wished For | "You bested me regardless"; "Take pride in that…and never forget it…"; "Zald, do you regret slaying the Behemoth?"; "…I do not."; Freya: "Sleep now, Zald"; "The man had called him by name for the very first time."

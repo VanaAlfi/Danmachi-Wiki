@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Location"},
       {"label": "Japanese", "value": "{{ja|ベオル山地}}", "refs": ["fm08-beor-ja"]},
-      {"label": "Where", "value": "Directly north of [[orario|Orario]]", "refs": ["fm08-north"]},
+      {"label": "Location", "value": "Directly north of [[orario|Orario]]", "refs": ["fm08-north"]},
       {"label": "Terrain", "value": "Peaks forming \"a natural fortress\"; harsh weather", "refs": ["so09-fortress"]},
       {"label": "Settlement", "value": "[[edas-village|Edas Village]]", "refs": ["fm08-edas"]},
       {"label": "Also", "value": "A caldera lake at the western end, the battlefield of DanMachi 18's Familia War", "refs": ["fm18-caldera"]}

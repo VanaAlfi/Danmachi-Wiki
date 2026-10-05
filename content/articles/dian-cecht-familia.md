@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Patron god", "value": "[[dian-cecht|Dian Cecht]]", "refs": ["fm04-dian"]},
+      {"label": "Deity", "value": "[[dian-cecht|Dian Cecht]]", "refs": ["fm04-dian"]},
       {"label": "Known member", "value": "[[amid|Amid Teasanare]], the Dea Saint", "refs": ["fm04-dian", "fm14-amid"]},
       {"label": "Trade", "value": "Medicine, potions and custom healing items; treating patients", "refs": ["fm04-trade", "so01-shop"]},
       {"label": "Premises", "value": "A white stone clinic on Northwest Main Street; a large mansion as home", "refs": ["so01-shop", "fm15-infirmary", "so12-healers"]},
@@ -28,7 +28,7 @@
 
 ## The Familia
 
-- **Products.** Its potions are of very high quality, and it sells only to those who can pay. One serum can restore sight to the blind. Its most expensive potion, the [[potions#elixir|elixir]], sells for no less than 500,000 valis a bottle.[@so01-shop] It also makes custom items, such as the [[airgetlam|airgetlám]], the silver arm [[miach|Miach]] bought for Nahza.[@fm04-trade] Amid's anti-napalm solution is much sought after for expeditions.[@fm14-amid]
+- **Products.** Its potions are of very high quality, and it sells only to those who can pay. Its advanced treatment can restore even lost sight. Its most expensive potion, the [[potions#elixir|elixir]], sells for no less than 500,000 valis a bottle.[@so01-shop] It also makes custom items, such as the [[airgetlam|airgetlám]], the silver arm [[miach|Miach]] bought for Nahza.[@fm04-trade] Amid's anti-napalm solution is much sought after for expeditions.[@fm14-amid]
 - **Premises.** Its clinic is a white stone building on Northwest Main Street, Adventurers Way, divided into small rooms for sales, treatment and meetings.[@so01-shop, fm15-infirmary] The Familia lives in a large walled mansion.[@fm04-double, so12-healers]
 - **Uniform and emblem.** Its members wear a plain white robe like a nurse's.[@so01-shop] The emblem is printed as sparkling gems on medicinal leaves (Sword Oratoria 1), herb and light (Sword Oratoria 6), and a ball of light flanked by herbs (Astrea Record 1).[@so01-shop, so06-clinic, ar01-amid]
 
@@ -66,7 +66,7 @@ In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, 
 [@fm15-infirmary]: FM15 | Prologue: Adventurers’ Rest | The white stone infirmary on Adventurers Way; Amid's scolding; "a bunch of quacks"; business rivals; the referral.
 [@fm18-base]: FM18 | Chapter 8: The Great Familia War | The base camp as the evacuation point; Dian Cecht Familia members there.
 [@fm18-amid]: FM18 | Chapter 8: The Great Familia War | "Among the Dian Cecht Familia, healers who had avoided participating in the war game, Amid".
-[@so01-shop]: SO01 | Chapter 3: White Rabbit | The white stone building and banner; the white robe uniform; medicines, custom orders; the sight-restoring serum; twenty elixirs, no less than 500,000 valis each.
+[@so01-shop]: SO01 | Chapter 3: White Rabbit | The white stone building and banner; the white robe uniform; medicines, custom orders; the sight-restoring treatment; twenty elixirs, no less than 500,000 valis each. The Japanese edition (file c31J, paragraphs 235 and 243) speaks of an advanced treatment that restores even lost sight, and of a white uniform that suggests a healer.
 [@so05-antivenin]: SO05 | | "I’m headed to Dian Cecht Familia. Even if I buy up every dose they have, it probably won’t be enough"; asking Dea Saint would cost even more.
 [@so06-clinic]: SO06 | Chapter 1: Quest Results & Next Quest | The clinic, "complete with emblem of herb and light".
 [@so07-finn]: SO07 | Chapter 5: Battle of Tears | "Dian Cecht’s clinic. You’ve been bedridden since the curse was broken".

@@ -42,17 +42,17 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 |---|---|
 | [[lido|Lido]] | Scarlet [[monsters#lizardman|lizardman]] and the Xenos' current leader; a dual-sword fighter.[@fm09-lido] |
 | [[wiene|Wiene]] | A [[monsters#vouivre|vouivre]] girl whom [[bell-cranell|Bell]] finds on Floor 19; [[hestia|Hestia]] names her Wiene.[@fm09-wiene] |
-| [[gros|Gros]] | Coerced by [[hermes|Hermes]] into a staged attack in DanMachi 11; he spares Bell.[@fm11-gros, so10-gros] |
+| [[gros|Gros]] | Volunteers for the staged attack [[hermes|Hermes]] forces on the Xenos in DanMachi 11; he spares Bell.[@fm11-gros, fm11-volunteer, so10-gros] |
 | [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 | [[#fia|Fia]] | A red-haired [[monsters#harpy|harpy]], more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
 | Lett | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 | [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
-| [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; killed by Ikelos Familia's hunters in DanMachi 10.[@fm10-ranieh, fm10-death] |
+| [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushes her own magic stone.[@fm10-ranieh, fm10-death] |
 | Orde | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
 | Foh | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
 | Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
-| Gryuu | A dragon who led the Xenos before Lido: "his dragon body can’t move like it used to" (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[monsters#mermaid|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
+| Gryuu | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[monsters#mermaid|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
 
 ## Ranieh {#ranieh}
 
@@ -95,6 +95,7 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm10-freed]: FM10 | Chapter 9: Dreams of Beasts | The prison in Knossos.
 [@fm10-reputation]: FM10 | | Bell's reputation.
 [@fm11-gros]: FM11 | | Gros and Hermes's plan.
+[@fm11-volunteer]: FM11 | Chapter 6: A Deity’s Scheme | "Since I used to abhor humans, I’m best for this role."
 [@fm11-asterios]: FM11 | Chapter 7: The Return of the Hero | Asterios.
 [@fm11-village]: FM11 | Epilogue: And So I Start to Run Again | Return to the Hidden Village.
 [@fm11-cover]: FM11 | | The false extermination story; secrecy.
@@ -119,7 +120,7 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm14-lett]: FM14 | Chapter 8: The Voice of the Hammer | "the harpy Fia"; "Lett, the gentlemanly red-cap goblin"; "a battle-ax far too large for its size"; "Rei had taken charge of the group that remained in Knossos"; "We made a pledge to Mr. Bell!"
 [@fm10-party]: FM10 | Chapter 7: The King of Atrocity | "the hulking formoire named Foh"; "Despite his massive and intimidating frame, Foh had a kind heart."; "various howls and grunts"; "transforming him into a living wall"; "his large mace"; "Cliff the hippogriff preferred to be airborne"; "The lighthearted and cheerful monster also enjoyed teasing those around him."; "The war shadow Orde, though unable to produce any sounds, was always the first into combat".
 [@fm10-deaths]: FM10 | Chapter 7: The King of Atrocity | "A greatsword appeared from behind Dix’s shadow and cut Orde in half."; "Foh was completely run through"; "Foh was dead. Orde and Cliff had been killed as well."
-[@fm09-gryuu]: FM09 | Chapter 5: Heretics | Lido: "Gryuu used to hold that title, but his dragon body can’t move like it used to. So I’m leading everyone in his stead now."
+[@fm09-gryuu]: FM09 | Chapter 5: Heretics | Lido on why he leads. The Japanese edition (file c5SZ, paragraphs 969–971) has him call Gryuu an old-timer, a wood dragon who cannot move about freely with his bulk, so that he leads everyone.
 [@fm14-gryu]: FM14 | Epilogue: You’ll Be Back II | "there’s no village caretaker like Gryu or Mari down there".
 [@fm10-flight]: FM10 | Chapter 9: Dreams of Beasts | Fels: "Lett, Fia, can you escape from here?"; "Airborne but unsteady, the red-cap took hold of one of her legs."; "passing over their crazed brethren".
 [@fm12-norms]: FM12 | | Printed heading "Chapter 5: Bride of the Water Capital" (not in the evidence map): "Both are uglier than old crones"; "how far Rei and Fia have deviated from the norms of their race".

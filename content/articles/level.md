@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "The most important part of an adventurer's Status. A Level Up comes from gathering more excelia than one's spiritual container can hold, and greatly strengthens every ability.",
+  "summary": "The grade of an adventurer's vessel and the measure of their Status that matters most. A Level Up comes from a great feat that yields higher-grade excelia, and raises their power far more than the abilities' gains.",
   "aliases": ["Level Up", "Rank Up"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–14, Familia Chronicle Vols. 2–3 and Astrea Record Vol. 3",
   "related": ["status", "falna", "development-ability", "monster-rex", "bell-cranell", "lyu-leon", "magic"],
@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Term"},
       {"label": "Part of", "value": "An adventurer's [[status|Status]]", "refs": ["so01-level"]},
-      {"label": "Raised by", "value": "Excelia from a great feat, beyond what the container holds", "refs": ["so01-level", "so02-container"]},
+      {"label": "Raised by", "value": "Excelia from a great feat", "refs": ["fm03-feat", "so02-container"]},
       {"section": "Highest known"},
       {"label": "Present day", "value": "Level 7 (Ottar, Finn, Riveria, Gareth and Leon)", "refs": ["so14-highest", "fm20-sevens"]},
       {"label": "In the past", "value": "Level 8 and Level 9, in Zeus and Hera Familias", "refs": ["so13-past"]}
@@ -23,20 +23,20 @@
   }
 }
 ---
-A **Level** is the most important part of an adventurer's [[status|Status]]. A *Level Up* happens when an adventurer gathers more [[excelia|excelia]] than their spiritual "container" can hold. It greatly raises all of their abilities and is said to bring them a step closer to divinity.[@so01-level]
+A **Level** is the grade of an adventurer's vessel, the measure of their [[status|Status]] that matters most. Its rise, the *Level Up*, also called the evolution of body and mind, raises their power far more than the abilities' gains and is said to bring them a step closer to the gods.[@so01-level]
 
 ## Levelling up
 
-A Level Up needs a great accomplishment that yields high-quality excelia, such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] [[aiz-wallenstein|Aiz]] reaches Level 6 after defeating [[udaeus|Udaeus]] alone in Sword Oratoria 3.[@so03-udaeus]
+A Level Up needs a great accomplishment that yields high-quality [[excelia|excelia]], such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] In Sword Oratoria 3 [[aiz-wallenstein|Aiz]] reaches Level 6 for defeating [[udaeus|Udaeus]] alone.[@so03-udaeus]
 
 > [!NOTE] Stated ability threshold
-> In DanMachi 3 Lyu tells Bell that an adventurer gains the qualification to level up on reaching D, the sixth stage (the Yen Press text prints "all their basic stats are above D"; the Japanese has no "all", and D itself counts).[@fm03-d, fm03-ja-d] DanMachi 15 says at least one ability must reach the sixth rank (D), and Familia Chronicle 3 likewise gives the minimum as a D in *one* basic ability; Lyu herself advances with only her Agility at D.[@fm15-rank, fc03-d] The Japanese DanMachi 3 does not say how many abilities are needed, so it does not disagree with the later volumes.
+> In DanMachi 3 Lyu tells Bell that an adventurer gains the qualification to level up on reaching D, the sixth stage.[@fm03-d, fm03-ja-d] DanMachi 15 says at least one ability must reach the sixth rank (D), and Familia Chronicle 3 likewise gives the minimum as a D in *one* basic ability; Lyu herself advances with only her Agility at D.[@fm15-rank, fc03-d] The Japanese DanMachi 3 does not say how many abilities are needed, so it does not disagree with the later volumes.
 
 At a Level Up the visible values of the basic abilities reset, and the earlier points remain as a hidden parameter.[@fm04-hidden] The adventurer may also choose one [[development-ability|Development Ability]] from the options their excelia has made available.[@fm04-choice]
 
 A Familia can choose to delay a promotion. Points gained at a lower Level remain as extra power, so strong Familias sometimes hold members back to build a better foundation.[@so06-delay] In DanMachi 15 [[hestia-familia|Hestia Familia]] decides to hold back [[haruhime|Haruhime]]'s promotion to Level 2.[@fm15-haruhime]
 
-Growth gets harder at higher Levels. After reaching Level 5, Bell compares his container to one that has grown larger in every direction, so each point takes far more effort (the Yen Press text says its dimensions "doubled"; the Japanese gives no factor).[@fm20-container]
+Growth gets harder at higher Levels. After reaching Level 5, Bell compares his container to one that has grown larger in every direction, so each point takes far more effort.[@fm20-container]
 
 Higher Levels also slow aging, more so with each Level, but they do not make mortals immortal.[@fm08-aging]
 
@@ -71,7 +71,7 @@ A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozu
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - What Ottar still needs for Level 8.[@fm18-ottar]
 
-[@so01-level]: SO01 | Chapter 2: Dungeon Confusion | Level as the most important part of a Status; the container.
+[@so01-level]: SO01 | Chapter 2: Dungeon Confusion | The Level and the Level Up. The Japanese edition (file cX0, paragraph 84) calls the Level the grade of the vessel, and its rise, the evolution of body and mind, a step closer to the gods that lifts a person's power far more than the abilities' gains.
 [@so02-container]: SO02 | Chapter 6: Parched Scream | A bigger container; defeating a Monster Rex alone.
 [@so03-udaeus]: SO03 | Chapter 1: The Black Robe’s Invitation | Udaeus defeated alone.
 [@so06-delay]: SO06 | | Points carry over; promotions delayed.

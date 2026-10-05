@@ -19,7 +19,7 @@
       {"label": "Printed as", "value": "Silence Lyra (DanMachi 18); Silence Lyre (Astrea Record 3)", "refs": ["fm18-lyra", "ar03-lyre"]},
       {"section": "Origin"},
       {"label": "Original purpose", "value": "Protection from the songs of mermaids and sirens", "refs": ["ar03-lyre"]},
-      {"label": "Developed by", "value": "Perseus", "refs": ["ar03-lyre"]},
+      {"label": "Maker", "value": "Perseus", "refs": ["ar03-lyre"]},
       {"label": "Modified by", "value": "[[asfi|Asfi]], on Finn's orders", "refs": ["ar03-lyre"]},
       {"section": "Use"},
       {"label": "Protects against", "value": "Sound-based attacks, including [[anya-fromel#remisto-felis|Remisto Felis]]", "refs": ["ar03-lyre", "fm18-lyra"]}

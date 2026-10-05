@@ -28,7 +28,7 @@
 
 ## Among the gods
 
-Loki counts Zeus and Odin among the "great kings of the gods" who disguise themselves as mortals to enjoy the lower world.[@so06-kings] In the heavens he was famed for his transformations: "A bull, a swan, even a shower of rain."[@fm17-transform]
+[[kali|Kali]], in her disguise as a child at Meren, counts Zeus and Odin among the "great kings of the gods" who disguise themselves as children among the populace to enjoy the lower world.[@so06-kings] In the heavens he was famed for his transformations: "A bull, a swan, even a shower of rain."[@fm17-transform]
 
 His lechery is notorious. Astrea Record 3 says "The perverse pursuits of Zeus were known to everyone, both in heaven and the world below", and [[zald|Zald]], his follower, insists that he does not share "his madness".[@ar03-lecher] [[alfia|Alfia]] of Hera Familia calls him "that lecherous old man": her spells taught him a lesson before he could touch her, and then she told Hera.[@ar03-alfia] DanMachi 20 recalls that Hera's followers hunted down any of Zeus's followers who caused trouble, just as Hera chased Zeus for his debauchery.[@fm20-debauchery]
 
@@ -42,11 +42,11 @@ Hermes tells Bell in DanMachi 6 that Zeus "used to be the leader of the most pow
 
 Asked what became of the banished gods, Hermes says no one really knows. Zeus might be "out scouring the globe for new heroes", hiding in a shack, or travelling to the ends of the earth "just to see what’s there", which Hermes thinks most likely.[@fm06-where]
 
-In the [[great-conflict|Great Conflict]] eight years after he left, Zald, now fighting for [[erebus|Erebus]], says "Zeus is no more" as his reason for seeking worthy foes. He still honours his god's feelings: he lets [[astrea|Astrea]] pass because "Zeus always did harbor a fondness for you".[@ar01-zald, ar02-zald]
+In the [[great-conflict|Great Conflict]] eight years after Zeus Familia vanished, Zald, now fighting for [[erebus|Erebus]], says "Zeus is no more" as his reason for seeking worthy foes. He still honours his god's feelings: he lets [[astrea|Astrea]] pass because the old man respected her too.[@ar01-zald, ar02-zald]
 
 ## Bell's grandfather
 
-In DanMachi 5 Hermes tells Hestia that Bell's grandfather did not die: something he had to keep secret from his grandson came up, so "he faked his own death and has been in hiding ever since".[@fm05-death] Watching Bell fight the Black Goliath on Floor 18, Hermes cries out: "Rejoice, Great Lord Zeus! Your grandson is the real deal! The last hero your Familia left behind!" In the Japanese, Hermes calls Bell Zeus's grandson by adoption, {{ja|義孫|gison}}.[@fm05-grandson, fm05-ja-zeus]
+In DanMachi 5 Hermes tells Hestia that Bell's grandfather did not die: something he had to keep secret from his grandson came up, so "he faked his own death and has been in hiding ever since".[@fm05-death] Watching Bell fight the Black Goliath on Floor 18, Hermes cries out: "Rejoice, Great Lord Zeus! Your grandson is the real deal! The last hero your Familia left behind!" In the Japanese, Hermes says *mago*, grandson, and the kanji write *adoptive grandson* ({{ja|義孫|mago}}).[@fm05-grandson, fm05-ja-zeus]
 
 In Astrea Record 3's extra story Alfia says that her dying younger sister, Metelia, chose to leave her son with Zeus, and that the two should be living somewhere deep in the mountains, though her news of them is some years old. The boy carries the blood of a child of Hera and of one of Zeus's.[@ar03-boy] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story does not name him; see [[zeus-and-hera-familias|Zeus Familia and Hera Familia § The gods]].[@ar03-boy, fm05-grandson]
 
@@ -73,10 +73,10 @@ Hermes is bound to him. DanMachi 17 says Hermes maintains contact with "a certai
 [@fm20-title]: FM20 | Chapter 1: Orario Rumble | "All right, how about The New Zeus?"; "That’s an insult to Bell."; "Don’t make me remember that smelly, dumb, poopy, old geezer."
 [@fm20-debauchery]: FM20 | Chapter 2: Lion and then Sword Princess | "whenever one of Zeus’s followers caused a problem, Hera’s followers began their hunt".
 [@so04-dionysus]: SO04 | First Chapter: And the Boy… | Dionysus to Hermes: "Don’t tell me you’re Ouranos’s little dog now. You done with Zeus? You can’t have expected that I didn’t notice you and that old fossil colluding together."
-[@so06-kings]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "Zeus and Odin and the other great kings of the gods are not the only ones. They disguise themselves as children, blending in among the populace unnoticed".
+[@so06-kings]: SO06 | | Printed heading "Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light" (not in the evidence map): "Zeus and Odin and the other great kings of the gods are not the only ones. They disguise themselves as children, blending in among the populace unnoticed". Kali is the speaker, still disguised as the girl Chandie.
 [@fc02-freya]: FC02 | The Origin of the Strongest | "Freya had apparently lost to Hera in a conflict."; "Apparently she had been asked to scout me by Zeus"; "I got caught up in the farce of a relationship they’ve had since they were in the heavens."
 [@ar01-zald]: AR01 | Chapter 10: Conquerors | Zald: "Zeus is no more," he said, "so I have come seeking worthy foes."
-[@ar02-zald]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): "Eight years have passed since Zeus left the city"; "Zeus always did harbor a fondness for you. In light of that, you may go."; then "…Astrea?" said Erebus.
+[@ar02-zald]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): eight years since Zeus Familia vanished; the old man respected her too, so she may go (the Japanese edition, file c6TM); then "…Astrea?" said Erebus.
 [@ar03-lecher]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "…Zeus may have been my patron, but I do not share in his madness!"; "The perverse pursuits of Zeus were known to everyone, both in heaven and the world below." In the Japanese edition (file c9X3, paragraph 65) Zald admits he is the old pervert's follower but says he is not that reckless.
 [@ar03-alfia]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "Must you really remind me of that lecherous old man?"; "My spells taught him a lesson before he could lay one finger on me"; "And then I told Hera about it."
 [@ar03-boy]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "The blood of a child of Hera runs in his veins…as does the blood of one of Zeus’s."; "My sister entrusted him to Zeus."; "I raised no objection when my dying sister chose to leave him with Zeus."; "Metelia," she said, "was the purest, kindest soul I’ve ever known". The Japanese edition (file c9X3, paragraphs 74 and 75) has Alfia say they should be living somewhere deep in the mountains, her news of them having stopped some years before.

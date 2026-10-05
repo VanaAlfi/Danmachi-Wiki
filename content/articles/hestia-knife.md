@@ -20,7 +20,7 @@
       {"label": "Material", "value": "Hephaistos's mythril, engraved with Hestia's hieroglyphs", "refs": ["fm01-alive"]},
       {"label": "Wielder", "value": "[[bell-cranell|Bell Cranell]]", "refs": ["fm01-alive"]},
       {"label": "Cost", "value": "A loan of two hundred million valis from [[hephaistos-familia|Hephaistos Familia]]", "refs": ["fm07-loan", "fm07-story"]},
-      {"label": "Also printed", "value": "Divine Knife (DanMachi 2–14); Goddess Knife (once, DanMachi 18)", "refs": ["fm02-divine", "fm18-goddess"]}
+      {"label": "Printed as", "value": "Divine Knife (DanMachi 2–14); Goddess Knife (once, DanMachi 18)", "refs": ["fm02-divine", "fm14-hieroglyphs", "fm18-goddess"]}
     ]
   }
 }

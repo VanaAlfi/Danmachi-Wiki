@@ -48,10 +48,10 @@ The town has been destroyed and rebuilt many times; DanMachi 5 describes the cur
 | Volume | Events |
 |---|---|
 | DanMachi 5 | Bors rallies the town's adventurers against the Black [[goliath|Goliath]].[@fm05-bors] |
-| DanMachi 8 | Rivira organises the extermination of the floor's Goliath.[@fm08-goliath] |
+| DanMachi 8 | Rivira organises the extermination of the Goliath on Floor 17.[@fm08-goliath] |
 | DanMachi 10 | The [[xenos|Xenos]] destroy the 334th Rivira while hunting [[ikelos-familia|Ikelos Familia]].[@fm10-rivira] |
 | DanMachi 13 | An injured adventurer is murdered in a way that frames [[lyu-leon|Lyu]], the Gale Wind, and a hunting party sets out from Rivira after her.[@fm13-framed] |
-| DanMachi 14 | Bors, the sole survivor of the hunting party, publicly clears the Gale Wind, blames [[rudra-familia|Rudra Familia]], and reports that she died protecting them.[@fm14-bors] |
+| DanMachi 14 | Bors, who survived the Juggernaut's attack on the hunting party, publicly clears the Gale Wind, blames [[rudra-familia|Rudra Familia]], and reports that she died protecting them.[@fm14-bors] |
 | DanMachi 17 | Freya's charm cannot reach inside the Dungeon, so she summons Rivira's residents to the surface to charm them.[@fm17-charm] |
 | DanMachi 19 | When Lyu reappears, the people of Rivira play along with the story that the Gale Wind is dead.[@fm19-rivira] |
 

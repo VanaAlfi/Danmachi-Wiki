@@ -25,7 +25,7 @@
   }
 }
 ---
-**Udaeus** is the [[monster-rex|Monster Rex]] of [[floor-37|Floor 37]], a deep-level floor boss rated Level 6.[@so02-udaeus] It is a skeleton monster, "a spartoi that had just kept on growing", with jet-black bones.[@so02-form] [[aiz-wallenstein|Aiz Wallenstein]] defeats it alone in Sword Oratoria 2, the feat that makes her Level 6; [[ottar|Ottar]] later kills it alone to win its rare drop item, the Udaeus Black Sword.[@so03-levelup, fc02-sword]
+**Udaeus** is the [[monster-rex|Monster Rex]] of [[floor-37|Floor 37]], a deep-level floor boss rated Level 6.[@so02-udaeus] It is a skeleton monster, "a spartoi that had just kept on growing", with jet-black bones.[@so02-form] [[aiz-wallenstein|Aiz Wallenstein]] defeats it alone in Sword Oratoria 2, the feat that makes her Level 6; [[ottar|Ottar]] later kills it alone to win its rare drop item, the Udaeus Black Sword.[@so02-udaeus, so03-levelup, fc02-sword]
 
 ## The monster
 
@@ -47,8 +47,7 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 
 ## The first Black Sword
 
-> [!NOTE] Sold, or given to Bors?
-> Sword Oratoria 3 says the most money Aiz had ever had came from selling the Udaeus Black Sword drop to pay for a broken rapier. Minor Myths and Legends 2 says she entrusted the sword to [[bors|Bors]], who promised to make a weapon from it and keeps telling her it is not finished.[@so03-sold, ss02-bors] The volumes are given side by side.
+To pay off the debt for a broken rapier, Aiz sold Udaeus's other drop items but kept the black sword; Minor Myths and Legends 2 says she entrusted it to [[bors|Bors]], who promised to make a weapon from it and keeps telling her it is not finished.[@so03-sold, ss02-bors]
 
 ## Later mentions
 
@@ -60,7 +59,6 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - What became of the first Udaeus Black Sword (see the note above).[@so03-sold, ss02-bors]
 > - Whether Udaeus always carries a sword, or summons it only against a lone challenger.[@fc02-sword]
 
 [@fm02-udaios]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "walked calmly toward Udaios, the Monster Rex".
@@ -74,7 +72,7 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 [@so02-sword]: SO02 | Chapter 6: Parched Scream | "yanked it free—a sword"; "a thick, jet-black longsword"; "Similar to the Nature Weapons used by other" monsters; "burned to a crisp".
 [@so02-stop]: SO02 | Chapter 6: Parched Scream | "Wind armor long since broken"; "Riveria!!"; "The girl’s voice broke Riveria’s concentration and the magic circle disappeared."
 [@so03-levelup]: SO03 | Chapter 1: The Black Robe’s Invitation | "So ya took down Udaeus all by yer lonesome. Doin’ that would level up just ’bout anyone."
-[@so03-sold]: SO03 | Epilogue: Catching the White Rabbit | "when she sold the Udaeus’s Black Sword drop item to pay for a broken rapier’s cost".
+[@so03-sold]: SO03 | Epilogue: Catching the White Rabbit | The sale for the broken rapier. The Japanese edition (file c64J, paragraph 14) says she paid off the debt for the substitute rapier by selling Udaeus's drop items other than the black greatsword.
 [@ss02-bors]: SS02 | Paths So Far, an Unending Journey | "After obtaining its sword, Aiz had entrusted the rare drop to Bors"; "it’s not done yet!"
 [@fc02-sword]: FC02 | The Origin of the Strongest | "I would like to defeat Udaeus."; "When the sword princess defeated Udaeus, it had a certain sword equipped."; "there were no records of Udaeus having a sword"; "the drop item Udaeus Black Sword".
 [@fc02-awake]: FC02 | The Origin of the Strongest | "It had been exactly three months since Aiz had managed to defeat Udaeus by herself."; "Until Udaeus was defeated, there was no retreating from that room."

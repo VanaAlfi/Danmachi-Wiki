@@ -17,7 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familia"},
-      {"label": "Patron god", "value": "[[ikelos|Ikelos]]", "refs": ["fm09-hunters", "fm09-ikelos"]},
+      {"label": "Deity", "value": "[[ikelos|Ikelos]]", "refs": ["fm09-hunters", "fm09-ikelos"]},
       {"label": "Leader", "value": "Dix Perdix", "refs": ["fm10-dix"]},
       {"label": "Activities", "value": "Capturing monsters, including [[xenos|Xenos]], and smuggling them out of the city", "refs": ["fm09-ikelos", "fm09-sell"]},
       {"label": "Base", "value": "Underground, inside [[knossos|Knossos]]", "refs": ["fm10-eye"]},
@@ -48,14 +48,14 @@ Among his hunters is Gran, a tall, muscular, bald man with a black tattoo over m
 - **His half-brother:** [[barca-perdix|Barca Perdix]], the "Hexer" who builds Knossos's traps, shares his mother but not his father. Barca had become "nothing more than a function" for expanding the labyrinth; Dix was shown the notebook only after he had a self of his own, suffered for it, and despised Knossos. Their only fraternal feeling was not trying to kill each other, for their mutual benefit.[@so07-barca, so11-brothers]
 - **Origin:** Ikelos tells [[hermes|Hermes]] that Daedalus "went a bit off the deep end after seeing the Dungeon" and left his notebook and blueprint to his descendants, who "did whatever it took to complete their dungeon", even "kidnapping women to make sure there would always be someone working on their piece". Dix was born from one such abductee; Ikelos calls it "Cursed blood…as Dix puts it."[@fm10-origin]
 - **Character:** he laughs as he fights, and in DanMachi 10 he toys with Bell, "smacking him around for fun with a smile". Ikelos tells him,"You better make me laugh this time as well, Dix." When Fels asks his hunters why they follow him, one answers that "it’s fun as hell" and that Dix brings them "all the money and women we could ever want": "Monsters are nothing but toys!"[@fm10-toying, fm09-laugh]
-- **Hunting Wiene:** with his god looking into Hestia Familia, Dix has his men "stake out Hestia Familia’s home" in DanMachi 9; in DanMachi 10 he seizes [[wiene|Wiene]] by her "silver-blue hair". After his death the last surviving hunter, Gran, hurls Dix's spearhead at her.[@fm09-stakeout, fm10-wiene, fm10-spearhead]
+- **Hunting Wiene:** with his god looking into [[hestia-familia|Hestia Familia]], Dix has his men "stake out Hestia Familia’s home" in DanMachi 9; in DanMachi 10 he seizes [[wiene|Wiene]] by her "silver-blue hair". After his death the last surviving hunter, Gran, hurls Dix's spearhead at her.[@fm09-stakeout, fm10-wiene, fm10-spearhead]
 - **Legacy:** DanMachi 13 recalls "the crimes of Ikelos Familia, headed by the brutal hunter Dix Perdix", as what brought [[knossos|Knossos]] to light and led to the Guild's operation to conquer it.[@fm13-knossos]
 
 ## Trafficking the Xenos
 
 [[hermes-familia|Hermes Familia]] investigates the smuggling for the Guild and traces the buyers to an Elurian noble's mansion; when his hunters lose the vouivre on the nineteenth floor, Dix complains that "those freaks in charge of Eluria" would have paid a fortune for it alive.[@fm09-buyers, fm09-hunters] Fels later explains that the hunters capture Xenos, smuggle them out of the city and sell them to collectors.[@fm09-sell]
 
-In DanMachi 10 Bell and [[fels|Fels]] follow the trail through Knossos to Ikelos Familia's base, where rows of black cages hold captured monsters; Lido and the Xenos break them open and free the prisoners.[@fm10-cages, fm10-daedalus] Dix fights Lido, Gros and the other Xenos, and then Bell, with his curse and his spear.[@fm10-hazer, fm10-level] After the battle every captured Xenos has been taken back and, apart from Dix, the whole Familia has been wiped out.[@fm10-wiped]
+In DanMachi 10 Bell and [[fels|Fels]] follow the trail through Knossos to Ikelos Familia's base, where rows of black cages hold captured monsters; Lido and the Xenos break them open and free the prisoners.[@fm10-cages, fm10-daedalus] Dix fights Lido, Gros and the other Xenos, and then Bell, with his curse and his spear.[@fm10-hazer, fm10-level] After the battle every captured Xenos has been taken back and, as far as Dix can tell, the whole Familia but him has been wiped out; one man, the hunter Gran, slipped away unnoticed.[@fm10-wiped]
 
 ## Sword Oratoria 7
 

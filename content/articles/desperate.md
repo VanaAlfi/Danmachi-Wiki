@@ -48,8 +48,8 @@ Durandal is a trait that other Superior weapons can carry too:[@so03-durandal]
 
 - **Why Loki Familia wanted them.** On Loki Familia's previous expedition, the only weapon that survived the acid of the caterpillar monsters was Desperate, with its Durandal trait. For the next one, Finn wants Durandal Superiors for all his high-Level fighters except the mage Riveria.[@so03-durandal]
 - **The order.** The Familia leaves its Durandal Superiors with [[hephaistos-familia|Hephaistos Familia]] for every top fighter except Aiz, who already has Desperate, and Riveria; Tsubaki finishes them before Bete brings her his broken [[equipment#frosvirt|Frosvirt]].[@so04-tsubaki]
-- **Light, but weaker.** Delivered just before the deep floors, they are lighter than Gareth expects. They keep their edge through countless battles, but their attack power is lower, which is why they were held back until the main mission.[@so04-delivered]
-- **Named blades.** Tiona fights with a large Durandal sword, [[equipment#roland-series|Roland Blade]], grumbling that it is not her [[urga|Urga]]. Bete wears twin Durandal blades, Dual Roland.[@so04-roland, so04-dual]
+- **Light, and kept fresh.** They are lighter than Gareth expects. They cannot break, but even they lose sharpness when hard fighting goes on, so Tsubaki hands them over only just before the advance on Floor 51, not at the start of the expedition.[@so04-delivered]
+- **Named blades.** Tiona fights with a large Durandal sword, [[equipment#roland-series|Roland Blade]] ({{ja|大剣}}, said *Blade Roland*, written *great sword*), grumbling that it is not her [[urga|Urga]]. Bete wears twin Durandal blades, Dual Roland ({{ja|双剣}}, written *twin swords*).[@so04-roland, so04-dual, so04-roland-ja]
 - **In use.** Against the caterpillars, the Durandal weapons cut the monsters apart and show no sign of breaking.[@so04-caterpillars]
 - **Cost.** After the expedition, the "Durandal weapons" are among the costs that leave the Familia in the red.[@so06-red]
 
@@ -64,7 +64,8 @@ Durandal is a trait that other Superior weapons can carry too:[@so03-durandal]
 [@so01-sharpen]: SO01 | Chapter 3: White Rabbit | "A Durandal, the blade would never break. It did, however, need to be sharpened"; "Aiz Wallenstein wasn’t a “normal” adventurer".
 [@so03-durandal]: SO03 | Chapter 1: The Black Robe’s Invitation | "Durandal weapons must be prepared for our core fighters, apart from Riveria and Aiz."; Aiz's Desperate, "which contained the Durandal trait".
 [@so04-tsubaki]: SO04 | First Chapter: And the Boy… | "left their Durandal Superiors with Hephaistos and her crew"; "excluding Aiz, who already had Desperate, and Riveria"; "Tsubaki had already finished up all the Durandal weapons".
-[@so04-delivered]: SO04 | Last Chapter: To Adventure | "As requested…your Durandals."; "A lot lighter than I expected!"; "their attack power wasn’t as high".
+[@so04-delivered]: SO04 | Last Chapter: To Adventure | "As requested…your Durandals."; "A lot lighter than I expected!"; even Durandal weapons dull when hard fighting goes on, so they were kept back until just before the advance on Floor 51 (the Japanese edition, file c4NY).
+[@so04-roland-ja]: SO04 | Last Chapter: To Adventure | The Japanese edition prints Tiona's sword as the reading Blade Roland over kanji meaning great sword, and Bete's blades as the reading Dual Roland over kanji meaning twin swords.
 [@so04-roland]: SO04 | Last Chapter: To Adventure | "the large Durandal sword, Roland Blade"; "This isn’t Urga!"
 [@so04-dual]: SO04 | Last Chapter: To Adventure | "new twin Durandal blades—Dual Roland".
 [@so04-caterpillars]: SO04 | Last Chapter: To Adventure | "Their Durandal weapons held strong, showing no signs of breakage."

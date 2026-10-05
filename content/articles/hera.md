@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "The goddess of Hera Familia, which with Zeus Familia ruled Orario for a thousand years until the Black Dragon broke both and Loki and Freya drove their gods out. Long before, she defeated Freya; she chased Zeus for his philandering, and her fiercely protected women included Alfia and a Level 9 empress. Her present whereabouts were not located in the checked text.",
+  "summary": "The goddess of Hera Familia, which with Zeus Familia ruled Orario for a thousand years until the Black Dragon broke both and Loki and Freya drove their gods out. She once defeated Freya; she chased Zeus for his philandering, and her fiercely protected women included Alfia and a Level 9 empress. Her present whereabouts were not located in the checked text.",
   "aliases": ["Lady Hera"],
   "spoilers": "DanMachi Vols. 6, 17, 20, Sword Oratoria Vol. 11, Familia Chronicle Vol. 2 and Astrea Record Vols. 2 and 3",
   "related": ["zeus-and-hera-familias", "zeus", "freya", "alfia", "ottar", "leon-verdenberg"],
@@ -26,7 +26,7 @@
 
 ## Hera and Freya
 
-Long before Freya settled in Orario, she lost to Hera in a conflict and lost many of her followers with it.[@fc02-freya] Freya tells [[ottar|Ottar]] that Hera had been asked by Zeus to scout her, and that she got "caught up in the farce of a relationship" the two had had since they were in the heavens.[@fc02-freya] [[ouranos|Ouranos]] reminds Freya in DanMachi 17 that she "lost to Hera and became bound to Orario", and in Astrea Record 3 Freya goes into battle wearing "the same clothes I was wearing when Hera defeated me in battle".[@fm17-lost, ar03-clothes]
+Freya once lost to Hera in a conflict and lost many of her followers with it.[@fc02-freya] Freya tells [[ottar|Ottar]] that Hera had been asked by Zeus to scout her, and that she got "caught up in the farce of a relationship" the two had had since they were in the heavens.[@fc02-freya] [[ouranos|Ouranos]] reminds Freya in DanMachi 17 that she "lost to Hera and became bound to Orario", and in Astrea Record 3 Freya goes into battle wearing "the same clothes I was wearing when Hera defeated me in battle".[@fm17-lost, ar03-clothes]
 
 ## As others see her
 
@@ -36,7 +36,7 @@ Long before Freya settled in Orario, she lost to Hera in a conflict and lost man
 
 ## Her followers
 
-Hera's followers were feared. When Alfia devastates her foes in Astrea Record 2, [[erebus|Erebus]] remarks: "That’s why you don’t piss off Hera’s girls."[@ar02-girls] Alfia herself is "Hera’s Level 7".[@ar03-level7] Hera Familia's strongest, "the world’s scariest woman", was a Level 9 empress; [[leon-verdenberg|Leon Verdenberg]] remembers her parrying his slash with her pinky nail.[@fc02-empress, fm20-empress]
+Hera's followers were feared. When Alfia devastates her foes in Astrea Record 2, [[erebus|Erebus]] remarks that she is too strong and that it is no wonder Hera was feared.[@ar02-girls] Alfia herself is "Hera’s Level 7".[@ar03-level7] Hera Familia's strongest, "the world’s scariest woman", was a Level 9 empress; [[leon-verdenberg|Leon Verdenberg]] remembers her parrying his slash with her pinky nail.[@fc02-empress, fm20-empress]
 
 [[zald|Zald]] of Zeus Familia remembers shuddering when he learned that one of his own had fathered a child with a follower of Hera, so feared was her Familia even when all but wiped out. That child is Alfia's sister's son; asked whether he is with Hera, Alfia says her sister entrusted him to Zeus.[@ar03-purity, ar03-child] Of that sister, Metelia, Alfia says: "Even Hera did everything she could to prolong her life."[@ar03-metelia]
 
@@ -52,7 +52,7 @@ Hera's followers were feared. When Alfia devastates her foes in Astrea Record 2,
 [@fm20-hunt]: FM20 | Chapter 2: Lion and then Sword Princess | "whenever one of Zeus’s followers caused a problem, Hera’s followers began their hunt".
 [@fm20-empress]: FM20 | Chapter 2: Lion and then Sword Princess | "Hera’s empress said it with such bemusement after parrying my slash with nothing but her pinky nail."
 [@so11-hestia]: SO11 | Chapter 3: The True Face of a God | "And even that crazy, psycho, hyper-ultra-hysterical Hera."
-[@ar02-girls]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): Erebus: "Glad she’s on our side"; "That’s why you don’t piss off Hera’s girls."
+[@ar02-girls]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): Erebus: "Glad she’s on our side"; too strong, no wonder Hera was feared (the Japanese edition, file c4JS).
 [@ar02-alfia]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): "I grew lax, arrogant…like Hera was."
 [@ar03-clothes]: AR03 | Prologue: Last Intermission | "These are the same clothes I was wearing when Hera defeated me in battle."
 [@ar03-level7]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "That was simply how powerful Hera’s Level 7 was."

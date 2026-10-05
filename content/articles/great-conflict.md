@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "The war between Orario and the Evils seven years before the main story, told in Astrea Record; its opening came to be called the Seven Days of Death.",
+  "summary": "The war between Orario and the Evils seven years before the main story, told in Astrea Record; it came to be called the Seven Days of Death.",
   "aliases": ["Seven Days of Death"],
   "spoilers": "Astrea Record Vols. 1–3",
   "related": ["astrea-familia", "astrea", "lyu-leon", "ottar", "aiz-wallenstein", "loki-familia", "freya-familia", "three-great-quests"],
@@ -26,7 +26,7 @@
 
 ## The first night
 
-On the first night the allied Familias suffer a crushing defeat: more Familias are weakened or wiped out than can be counted.[@ar02-coalition] Nine gods are sent back to the heavens that day, six of them allies and three belonging to the Evils. The flashes of their return hide the use of [[tenkai-and-gekai#arcanum|Arcanum]] underground to summon a monster.[@ar02-coalition, ar02-arcanum]
+On the first night the allied Familias suffer a crushing defeat: more Familias are weakened or wiped out than can be counted.[@ar02-coalition] Nine gods are sent back to the heavens that day, six of them allies and three belonging to the Evils. The flashes of their return, themselves masses of [[tenkai-and-gekai#arcanum|Arcanum]], hide the release of a god's divine might underground to summon a monster.[@ar02-coalition, ar02-arcanum]
 
 ## Erebus, Zald and Alfia
 
@@ -36,6 +36,7 @@ The god [[erebus|Erebus]] leads the Evils, joined by [[zald|Zald]] and [[alfia|A
 
 | Event | Details |
 |---|---|
+| Artemis Familia arrives | [[artemis|Artemis]] brings her wandering Familia from outside Orario; they scale the walls with a rope and capture the eastern walls.[@ar03-arrival, ar03-familia] |
 | [[ottar|Ottar]] defeats Zald | And advances to Level 7.[@ar03-ottar] |
 | Astrea Familia overcomes Alfia | Astrea updates all eleven of its adventurers at once, and [[alize-lovell|Alize]] announces that they are all Level 4.[@ar03-rankup] Earlier in the same volume [[lyra|Lyra]] is called Level 2, so the prints do not agree; see [[lyra#level|her Level section]].[@ar03-lyra] |
 | [[delphyne|Delphyne]] falls | The dragon Delphyne is destroyed; [[aiz-wallenstein|Aiz]] strikes its exposed core with support from [[riveria|Riveria]], [[gareth|Gareth]] and [[astrea-familia|Astrea Familia]].[@ar03-delphyne, ar03-end] |
@@ -55,7 +56,7 @@ In the epilogue of Astrea Record 3, [[hermes|Hermes]] tells [[bell-cranell|Bell]
 [@ar01-lyu]: AR01 | | Seven years before the main story.
 [@ar01-seven]: AR01 | Epilogue: Dawn of Defeat: Next Prologue | "The Seven Days of Death."
 [@ar02-coalition]: AR02 | Chapter 8: A Tragic Performance | The first night; nine gods returned.
-[@ar02-arcanum]: AR02 | Epilogue: All You Need Is Justice | The divine returns hide the Arcanum used below.
+[@ar02-arcanum]: AR02 | Epilogue: All You Need Is Justice | The divine returns, themselves masses of Arcanum, hide the divine might released below (the Japanese edition, file c80T).
 [@ar03-alfia]: AR03 | Chapter 5: Playing the Violence Card | Alfia on the Black Dragon.
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Astrea confronts Erebus.
 [@ar03-delphyne]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Delphyne destroyed.
@@ -66,3 +67,5 @@ In the epilogue of Astrea Record 3, [[hermes|Hermes]] tells [[bell-cranell|Bell]
 [@ar03-freya]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Freya Familia's leaders reach Level 6.
 [@ar03-seven]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Hermes on the Seven Days of Death.
 [@ar03-extra]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | The private family history.
+[@ar03-arrival]: AR03 | Chapter 6: The Nameless Heroes | "Lady Artemis! We’ve captured the eastern walls!"; "This azure-haired beauty was Artemis, goddess of chastity."
+[@ar03-familia]: AR03 | Chapter 6: The Nameless Heroes | "A familia without a home, who wandered the continent on a perpetual hunt."; "The moment she heard news of the Great Conflict, Artemis had made the decision to come here, to Orario, instead of assisting elsewhere. Having scaled the massive walls with a rope".

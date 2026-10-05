@@ -52,9 +52,9 @@ The dagger is about 15 celch long. Where the Hestia Knife slices precisely, it d
 
 {{nocite}} The DanMachi 5 item profile adds:
 
-- It was forged by Welf, the first of his weapon series, from the Minotaur Horn drop item (the Yen Press text says "first of its kind").[@fm05-profile, fm05-ja-profile]
-- It is a high-powered weapon with a slight fire element, though the blade is somewhat short (the Yen Press text says "surprisingly destructive despite small size"); it is "currently" more powerful than the Hestia Knife.[@fm05-profile, fm05-ja-profile]
-- When Bell fell asleep with it under his pillow, he dreamed that an extremely strong fierce bull almost killed him (the Yen Press text says "a raging Minotaur").[@fm05-profile, fm05-ja-profile]
+- It was forged by Welf, the first of his weapon series, from the Minotaur Horn drop item.[@fm05-profile, fm05-ja-profile]
+- It is a high-powered weapon with a slight fire element, though the blade is somewhat short; it is "currently" more powerful than the Hestia Knife.[@fm05-profile, fm05-ja-profile]
+- When Bell fell asleep with it under his pillow, he dreamed that an extremely strong fierce bull almost killed him.[@fm05-profile, fm05-ja-profile]
 
 {{nocite}} The profile gives no measure of the fire element, and the dream is recorded only as a dream; the novels do not say the blade is cursed.
 
@@ -62,7 +62,7 @@ The dagger is about 15 celch long. Where the Hestia Knife slices precisely, it d
 
 By the [[war-game|War Game]] of DanMachi 6, Welf, now a High Smith, has forged a new weapon from the remaining half of the horn. It has far more destructive power than the first, and Bell has to concentrate hard not to be overtaken by the Minotaur's bloodlust in it. In the fight with [[hyacinthus|Hyacinthus]], a direct hit from Bell's weapons breaks Hyacinthus's sword, the Solar Flamberge, in one strike.[@fm06-shiki]
 
-### Name
+### Name {#second-blade-name}
 
 DanMachi 6 prints *Ushiwakamaru-Shiki*.[@fm06-shiki] DanMachi 7 prints *Ushiwakamaru-Nishiki* and, in one place, *Ushiwakamaru Nishiki* without the hyphen; Minor Myths and Legends 1 also calls it *Ushiwakamaru-Nishiki* among Welf's War Game preparations.[@fm07-table, fm07-nishiki, ss01-prep] {{inference}} These are one weapon under variant printed names, not a third blade.[@fm06-shiki, ss01-prep]
 

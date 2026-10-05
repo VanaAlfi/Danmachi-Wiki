@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Identity"},
+      {"label": "Japanese", "value": "{{ja|ウラノス}}", "refs": ["ar02-ouranos-ja"]},
       {"label": "Type", "value": "God", "refs": ["so02-ouranos"]},
       {"label": "Founded", "value": "[[guild|The Guild]], of which he is the true leader", "refs": ["so02-ouranos", "fm09-ouranos"]},
       {"label": "Agent", "value": "[[fels|Fels]]", "refs": ["fm09-fels"]},
@@ -36,6 +37,7 @@ Ouranos and Fels support the Xenos; [[hermes|Hermes]] and [[ganesha|Ganesha]] kn
 
 | Volume | Events |
 |---|---|
+| Astrea Record 2 | [[alfia|Alfia]] tells [[loki-familia|Loki Familia]] that it is no wonder the founding god has not given up on *Makhia* ({{ja|救界}}, written *world salvation*).[@ar02-makhia, ar02-ouranos-ja] |
 | DanMachi 17 | His underground altar protects him from [[freya|Freya]]'s charm. Freya offers him a full expedition in exchange for non-interference; he accepts for a time, then guides [[hestia|Hestia]]'s plan with coded hints about winter and firewood.[@fm17-offer, fm17-ouranos] |
 | DanMachi 19 | After its conquest, [[knossos|Knossos]] is under Guild management and in practice under his control; he gives Fels full access to it.[@fm19-knossos] |
 
@@ -43,7 +45,6 @@ Ouranos and Fels support the Xenos; [[hermes|Hermes]] and [[ganesha|Ganesha]] kn
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How much Ouranos knows about the Dungeon and what he chooses to withhold.[@fm09-theory]
-> - What "Makhia" means; in Astrea Record 2 [[alfia|Alfia]] says Ouranos has not given up on it.[@ar02-makhia]
 
 [@so02-ouranos]: SO02 | | Founder of the Guild; prayers restrain the Dungeon.
 [@so05-prayers]: SO05 | | Prayers and gods in the Dungeon; the Dungeon changing.
@@ -59,4 +60,5 @@ Ouranos and Fels support the Xenos; [[hermes|Hermes]] and [[ganesha|Ganesha]] kn
 [@fm17-ouranos]: FM17 | | The altar; the coded hints.
 [@fm19-knossos]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Knossos under his control.
 [@so10-compact]: SO10 | Chapter 6: The Hero’s Self-Denial | The Loki–Ouranos compact.
+[@ar02-ouranos-ja]: AR02 | | The Japanese edition prints his name in katakana, calling him the city's founding god (file c2V4, paragraph 201); Alfia's line (file c5YD, paragraph 93) gives Makhia as the reading of kanji meaning world salvation.
 [@ar02-makhia]: AR02 | Intermission: While the Scales of Justice Tremble | "Ouranos has not given up on Makhia."

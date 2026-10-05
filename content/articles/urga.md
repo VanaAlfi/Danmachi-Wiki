@@ -27,11 +27,11 @@
   }
 }
 ---
-**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She loves it and knows exactly how to use it.[@so01-loved, so02-second] It is made of [[metals#adamantite|adamantite]] by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] Its name, read *Urga*, is written *great twin blade*; Tiona's finishing blow, written *great destruction*, has the same reading.[@so02-urga-ja, so06-name]
+**Urga** is Tiona Hyrute's weapon, a huge custom-made double-bladed sword. She wields it masterfully.[@so01-loved, so02-second] It is made of [[metals#adamantite|adamantite]] by [[goibniu-familia|Goibniu Familia]].[@so01-melted, so01-goibniu] Its name, read *Urga*, is written *great twin blade*; Tiona's finishing blow, written *great destruction*, has the same reading.[@so02-urga-ja, so06-name]
 
 ## The weapon {#weapon}
 
-- **Weight:** Urga and [[gareth|Gareth]]'s [[equipment#roland-series|Roland Ax]] are "two of the heaviest custom-made weapons around". In Sword Oratoria 4 [[tsubaki|Tsubaki]] nonetheless swings Urga one-handed while holding the ax in her other hand.[@so04-tsubaki]
+- **Weight:** Urga and [[gareth|Gareth]]'s [[equipment#briefly-named|Grand Ax]] are "two of the heaviest custom-made weapons around". In Sword Oratoria 4 [[tsubaki|Tsubaki]] nonetheless swings Urga one-handed while holding the ax in her other hand.[@so04-tsubaki]
 - **Cost:** the second Urga took the High Smiths more time and resources than even Aiz's [[desperate|Desperate]].[@so02-second] Tiona and Aiz go into the Dungeon partly to repay the loan for it.[@so02-loan]
 - **Use:** Tiona spins it in one hand and, on the expedition of Sword Oratoria 4, her supporter Narfi passes it to her in battle.[@so02-second, so04-narfi] Sword Oratoria 10 calls it the weapon least suited to capturing monsters alive.[@so10-capture]
 
@@ -41,22 +41,22 @@
 |---|---|
 | Sword Oratoria 1 | Tiona stabs a caterpillar, and half of Urga melts away in its acid.[@so01-acid] At Goibniu Familia's shop the smith who forged it, who used "enough adamantite to break a horse’s back", learns that it "melted".[@so01-melted] |
 | Sword Oratoria 2 | Tiona has Urga remade from scratch. "Urga, the second!" is a little thicker than the first and probably sharper.[@so02-remade, so02-second] |
-| Sword Oratoria 4 | While Urga is being finished, Tiona complains about the Durandal sword Roland Blade: "This isn’t Urga!" (see [[desperate#durandal-weapons|Durandal weapons]]).[@so04-roland] |
+| Sword Oratoria 4 | A Durandal weapon shaped like Urga could not have been made in time for the expedition along with everyone else's, so Tiona trains with the Durandal sword Roland Blade, grumbling "This isn’t Urga!" (see [[desperate#durandal-weapons|Durandal weapons]]).[@so04-roland] |
 | Sword Oratoria 6 | Tiona has Urga fixed up at Goibniu Familia. Later, [[raul-nord|Raul]] is left carrying it to her, and complains that "her Urga almost broke my back".[@so06-repair, so06-raul, so06-back] |
 | Sword Oratoria 7 | Against the demi-spirit Gugalanna, Urga cracks, and then one of its blades shatters. Tiona fights on with it as a one-bladed greatsword (see [[corrupted-spirit#gugalanna|Gugalanna]]).[@so07-cracked, so07-broken] |
 | Sword Oratoria 10 | Facing a [[equipment#golem|golem]] made of adamantite, "just like her Urga", Tiona finds the attacks of her companions deflected.[@so10-adamantite] |
 | DanMachi 17 | Tiona stands with Urga ready against Freya Familia.[@fm17-ready] |
 
-[@so01-loved]: SO01 | Chapter 2: Dungeon Confusion | "Tiona loved her bespoke weapon, dubbed Urga, and knew exactly how to use it."
+[@so01-loved]: SO01 | Chapter 2: Dungeon Confusion | Tiona and Urga. The Japanese edition (file cX0, paragraph 29) says she wields her made-to-order weapon masterfully.
 [@so01-acid]: SO01 | Chapter 2: Dungeon Confusion | "Half of Urga was missing."; "half of Urga had melted away"; "Urga’s bubbling blade had dissolved almost all the way to the hilt".
 [@so01-goibniu]: SO01 | Chapter 3: White Rabbit | "Goibniu Familia’s place? I’ll go, too! I can’t use Urga as she is!"
 [@so01-melted]: SO01 | Chapter 3: White Rabbit | "used enough adamantite to break a horse’s back to finish it for you!"; "It melted."
 [@so02-remade]: SO02 | Chapter 1: The Average Day | "I’m getting Urga remade from scratch".
 [@so02-second]: SO02 | Chapter 2: Incident | "Urga, the second!"; "the hulking double-bladed sword Urga"; "from Goibniu Familia"; "more than even Aiz’s Desperate".
 [@so02-loan]: SO02 | Chapter 6: Parched Scream | "to repay the loan for Urga the Second".
-[@so04-roland]: SO04 | Last Chapter: To Adventure | "This isn’t Urga!"; "the large Durandal sword, Roland Blade".
+[@so04-roland]: SO04 | Last Chapter: To Adventure | "This isn’t Urga!"; "the large Durandal sword, Roland Blade". Tiona: "Got told she wouldn’t be able to finish everyone’s stuff on time for the expedition if she had to make something like my Urga".
 [@so04-narfi]: SO04 | Last Chapter: To Adventure | "Narfi! My Urga!"; the supporter "passing her the double-bladed Urga".
-[@so04-tsubaki]: SO04 | Last Chapter: To Adventure | "two of the heaviest custom-made weapons around"; "she sent Urga spinning with nothing but her left hand".
+[@so04-tsubaki]: SO04 | Last Chapter: To Adventure | "two of the heaviest custom-made weapons around"; "she sent Urga spinning with nothing but her left hand". The Japanese edition (file c7V2, paragraph 102) names Gareth's great war axe, the Grand Ax, where the English prints the Roland Ax.
 [@so05-giant]: SO05 | | "her giant double-bladed sword, Urga".
 [@so06-repair]: SO06 | Chapter 1: Quest Results & Next Quest | "I’m headin’ over to Goibniu Familia so I can get my Urga fixed up."
 [@so06-raul]: SO06 | Chapter 5: A Duo of Sun and Moon | "Tiona’s giant oversized Urga falling directly into Raul’s unlucky hands".

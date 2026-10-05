@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Familia"},
       {"label": "Japanese", "value": "{{ja|ルドラ・ファミリア}}", "refs": ["fm14-rudra-familia-ja"]},
-      {"label": "Patron god", "value": "Rudra", "refs": ["ar02-rudra", "fm14-rudra"]},
+      {"label": "Deity", "value": "Rudra", "refs": ["ar02-rudra", "fm14-rudra"]},
       {"label": "Allegiance", "value": "[[evils|The Evils]]", "refs": ["fm13-jura", "fc01-final"]},
       {"label": "Known member", "value": "Jura Harma, a tamer", "refs": ["fm13-jura"]},
       {"label": "Enemy", "value": "[[astrea-familia|Astrea Familia]]", "refs": ["fm13-feud", "fm14-ambush"]},
@@ -28,7 +28,7 @@
 
 ## Rudra
 
-Rudra is a dark-skinned god with short crimson hair, built "as sturdily as the strongest adventurer"; the narration says his name means "the most frightening one".[@ar02-rudra] In Astrea Record 2 he meets [[erebus|Erebus]] beneath the city and complains that Erebus has "invited ruin" on his Familia and on Thanatos's. Rudra reports that his part, which "is on its way", has gone sickeningly well, and leaves scorch marks on Erebus's clothes where he touched him.[@ar02-rudra]
+Rudra is a burly, dark-skinned god with short scarlet hair, built like an adventurer.[@ar02-rudra] In Astrea Record 2 he meets [[erebus|Erebus]] beneath the city and complains that he nearly died and that his Familia and Thanatos's have taken heavy losses. Rudra reports that his part, which "is on its way", has gone sickeningly well, and leaves with the back of his clothes scorched, followed by exhausted, terrified followers.[@ar02-rudra]
 
 After Lyu burns his Familia's hideout, Rudra comes out of hiding and stands before her, laughing, in the flames. He tells her he had wanted to invite her into his Familia. Lyu cannot bring herself to kill a god. With no one left to protect him, the [[guild|Guild]] decides to capture him and send him back to Heaven.[@fm14-rudra]
 
@@ -40,7 +40,7 @@ In Astrea Record 1, members of Rudra Familia are among the high-ranking Evils, a
 
 Five years before DanMachi 13, Jura and his companions deliberately spread information that drew Astrea Familia into the Dungeon; [[guild|Guild]] members with links to their faction leaked it.[@fm14-leak] Astrea Familia followed its enemy down to the lower levels, where Rudra Familia set off more than a hundred Inferno Stones over a wide area.[@fm14-ambush] {{statement}} Jura says they wanted to bury Astrea Familia alive, but "those tough bastards didn't die", and his own side ended up on the defensive.[@fm13-feud]
 
-The scale of the explosions provoked the Dungeon's defensive response: it spawned the Juggernaut to eliminate the source of the damage, an event [[ouranos|Ouranos]] had never foreseen.[@fm13-feud] The monster attacked Astrea Familia, and also turned on Rudra Familia.[@fm14-ambush] Ten of Astrea Familia died, two at Level 3 and eight at Level 4.[@fm13-ambush]
+The scale of the explosions provoked the Dungeon's defensive response: it spawned the Juggernaut to eliminate the source of the damage, an event [[ouranos|Ouranos]] had never foreseen.[@fm13-feud] The monster attacked Astrea Familia, and also turned on Rudra Familia.[@fm14-ambush] Ten of Astrea Familia died, two at Level 3 and eight at Level 4 by DanMachi 13's count (Astrea Record 3 disagrees: see [[lyra#level|Lyra's Level section]]).[@fm13-ambush]
 
 In Sword Oratoria 12, [[dionysus|Dionysus]] says that Astrea Familia stopped being a threat to his plans after its followers and Rudra's "went and killed each other".[@so12-dionysus]
 
@@ -67,7 +67,7 @@ After the battle, the story that spreads is that Jura Harma and other survivors 
 > - What Rudra's "part" was in Astrea Record 2; the scene does not say.[@ar02-rudra]
 
 [@ar01-church]: AR01 | | "Some of those she incapacitated were high-ranking Evils. Rudra Familia and other Level Threes."
-[@ar02-rudra]: AR02 | | The god Rudra: dark skin, short crimson hair; ruin upon the familias of Rudra and Thanatos; "My part in this is done"; "the most frightening one"; scorch marks.
+[@ar02-rudra]: AR02 | | The god Rudra: dark skin, short scarlet hair, a burly build like an adventurer's; he nearly died, and his Familia and Thanatos's took heavy losses; "My part in this is done"; the back of his clothes scorched; his followers look as if they had seen something more terrifying than ever (the Japanese edition, file c7BY).
 [@ar03-jura]: AR03 | Chapter 5: Playing the Violence Card | Jura on the red dragon; Rudra Familia to tame and control the stronger monsters; the hexer with Enigma and the crimson whip.
 [@fc01-final]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | She destroyed "the final ally of the Evils, Rudra Familia, by herself"; top class among Level Fours.
 [@fm13-jura]: FM13 | Chapter 3: The True Intentions of Gale Wind | "Jura Harma of Rudra Familia"; "Slaver Cat"; a gang of Evils; tall and thin; the bone ear ornament; his one remaining hand; hiding in "that gloomy dungeon"; "At least we thought she killed them all".

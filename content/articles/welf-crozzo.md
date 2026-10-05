@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Smith from the fallen Crozzo family, the only one of them still able to forge magic swords. He joins Bell's party in DanMachi 4 and Hestia Familia in DanMachi 6.",
-  "aliases": ["Welf Krozzo", "Ignis", "Vil Crozzo", "Wil Crozzo", "Crozzo the First"],
+  "aliases": ["Welf Krozzo", "Ignis"],
   "spoilers": "DanMachi Vols. 2–19 and Sword Oratoria Vols. 5 and 12",
   "related": ["hestia-familia", "bell-cranell", "lilliluka-erde", "hestia", "development-ability", "falna", "magic"],
   "infobox": {
@@ -100,7 +100,7 @@ In DanMachi 19, Bell says "Blasphemous Burn" as a fake chant while casting his o
 
 #### Effects {#will-o-the-wisp-effects}
 
-On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on people, his Familia mates (the Yen Press text says "one of the guys in my Familia").[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain, will-o-the-wisp.fm05-ja-explain]
+On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on people, his Familia mates.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain, will-o-the-wisp.fm05-ja-explain]
 
 {{nocite}} The novels show it working on several kinds of target:
 

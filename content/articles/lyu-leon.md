@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Elf adventurer known as Gale Wind, the last survivor of Astrea Familia, a waitress at The Benevolent Mistress, and from DanMachi 19 a member of Hestia Familia.",
-  "aliases": ["Lyu Lyon", "Gale Wind", "Lyu Astrea", "Lumirua Forest", "Lyumilua Forest", "Ryumilua Forest"],
+  "aliases": ["Lyu Lyon", "Gale Wind", "Lyu Astrea"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["the-benevolent-mistress", "hestia-familia", "bell-cranell", "syr-flover", "anya-fromel", "freya-familia", "hegni", "rivira", "magic"],
   "infobox": {
@@ -16,7 +16,7 @@
       {"section": "Personal"},
       {"label": "Japanese", "value": "{{ja|リュー・リオン}}", "refs": ["ar01-lyu-ja"]},
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["fm15-origins"]},
-      {"label": "Home", "value": "Lumirua Forest", "refs": ["fm15-origins"]},
+      {"label": "Origin", "value": "Lumirua Forest", "refs": ["fm15-origins"]},
       {"label": "Workplace", "value": "[[the-benevolent-mistress|The Benevolent Mistress]]", "refs": ["fm01-lyu"]},
       {"section": "Adventurer"},
       {"label": "Title", "value": "Gale Wind ({{ja|疾風}})", "refs": ["fm05-past", "fm14-gale-wind-ja"]},
@@ -28,7 +28,7 @@
   }
 }
 ---
-**Lyu Leon** is an elf adventurer known by the title *Gale Wind*. She is the last survivor of [[astrea-familia|Astrea Familia]] and works as a waitress at [[the-benevolent-mistress|The Benevolent Mistress]].[@fm05-past, fm01-lyu] In DanMachi 18 she rises from Level 4 to Level 6 in one update, and in DanMachi 19 she joins [[hestia-familia|Hestia Familia]].[@fm18-double, fm19-lyu]
+**Lyu Leon** is an elf adventurer known by the title *Gale Wind*. She is the last survivor of [[astrea-familia|Astrea Familia]] and works as a waitress at [[the-benevolent-mistress|The Benevolent Mistress]].[@fm05-past, fm01-lyu] In DanMachi 18 she rises from Level 4 to Level 6 in two successive updates, and in DanMachi 19 she joins [[hestia-familia|Hestia Familia]].[@fm18-double, fm19-lyu]
 
 ## Name {#name}
 
@@ -44,7 +44,7 @@ Astrea Familia is later destroyed and Lyu is its only survivor. She persuades As
 
 ## At The Benevolent Mistress
 
-Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops [[lilliluka-erde|Lilly]] after the first theft of the [[hestia-knife|Hestia Knife]] and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the [[el-dorado-resort|El Dorado]] casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
+Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops the thief after the first theft of the [[hestia-knife|Hestia Knife]], presumably [[lilliluka-erde|Lilly]], and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the [[el-dorado-resort|El Dorado]] casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
 
 ## History
 
@@ -54,7 +54,7 @@ In DanMachi 5 she goes down to [[floor-18|Floor 18]] with [[hermes|Hermes]]'s re
 
 ### DanMachi 13–15
 
-In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder in Rivira, and the Juggernaut that destroyed Astrea Familia returns.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15, flustered around Bell, she cannot meet his eyes; she assures him that she does not hate him, says she simply cannot stand to look at his face, and apologises.[@fm15-confess]
+In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder near Rivira, and another Juggernaut, the kind of monster that destroyed Astrea Familia, appears.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15, flustered around Bell, she cannot meet his eyes; she assures him that she does not hate him, says she simply cannot stand to look at his face, and apologises.[@fm15-confess]
 
 ### DanMachi 16–18
 
@@ -69,7 +69,7 @@ Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Famili
 ## Abilities
 
 - **[[#luminous-wind|Luminous Wind]]**, an attack spell she uses from DanMachi 5 onward.[@fm05-goliath, fc03-magic]
-- **[[#noa-heal|Noah Heal]]**, a healing spell.[@so05-heal]
+- **[[#noa-heal|Noa Heal]]**, a healing spell {{small|printed *Noah Heal* in Sword Oratoria 5}}.[@so05-heal]
 - [[#astrea-record-spell|Astrea Record]], which lets her alone use the magic of her dead Astrea Familia companions. It depends on her state of mind, can bring on Mind Down when overused, and survives her conversion.[@fc03-magic, fm18-record]
 - Her Level 5 and Level 6 cards list four [[skills|Skills]]: [[skills#fairy-serenade|Fairy Serenade]], which strengthens her magic, more so at night; [[skills#mind-load|Mind Load]], which spends Mind to raise her Strength when she attacks; [[skills#aero-mana|Aero Mana]], which raises her attack strength with her running speed; and [[skills#astrae-varmas|Astrae Varmas]], new at Level 5, which strengthens allies who share her god and gives everyone in range resistance to psychological corruption.[@skills.fc03-cards] Her Level 3 character sheet in Astrea Record 1 already lists Fairy Serenade and Mind Load.[@skills.ar01-sheet]
 
@@ -90,7 +90,7 @@ Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Famili
 
 Lyu's Level 5 and Level 6 cards in Familia Chronicle 3 list Luminous Wind under Magic, with two notes: wide area of effect, and wind and light element. Her second spell, [[#noa-heal|Noa Heal]], is listed beside it.[@luminous-wind.fc03-card] When she gains the Development Ability Magic Control at Level 5, she notes that it strengthens Luminous Wind.[@luminous-wind.fc03-card]
 
-Her illustrated Status sheets give the same two notes earlier: at Level 3 in Astrea Record 1 (a wide-range attack spell; wind and light element) and at Level 4 in DanMachi 13 (wide-range attack magic; wind and light attributes).[@luminous-wind.ar01-sheet, luminous-wind.fm13-sheet] Her Level 4 sheet in Familia Chronicle 1 lists no spell: under a box labelled Magic it prints her three Skills.[@luminous-wind.fc01-sheet]
+Her illustrated Status sheets give the same two notes earlier: at Level 3 in Astrea Record 1 (a wide-range attack spell; wind and light element) and at Level 4 in DanMachi 13 (wide-range attack magic; wind and light attributes) and Familia Chronicle 1.[@luminous-wind.ar01-sheet, luminous-wind.fm13-sheet, luminous-wind.fc01-sheet]
 
 #### Incantation {#luminous-wind-incantation}
 
@@ -130,7 +130,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 
 #### Effects {#luminous-wind-effects}
 
-- **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5 (the Yen Press text says "Hundreds of small orbs"); Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[magic#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
+- **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5; Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[magic#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
 - **Power.** In Familia Chronicle 1 it bends and then blows open a vault door made of several layers of [[metals#adamantite|adamantite]].[@luminous-wind.fc01-vault]
 - **Concentrated.** In DanMachi 14 Lyu pours all her remaining Mind into forty-seven large orbs to destroy the Juggernaut.[@luminous-wind.fm14-end]
 - **Controlled.** In Familia Chronicle 3 she fires a single orb at her own feet to break free of a trap.[@luminous-wind.fc03-uranda]
@@ -218,7 +218,7 @@ Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it
 
 {{nocite}} **Notes and other printed variants**
 
-The spell's name comes first, then the chant. Two volumes print it in different English wording; the versions are kept apart, and [@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
+The spell's name comes first, then the chant. Two volumes print it in different English wording; the versions are kept apart, and both are given below.[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
 
 | Print | Opening | Middle lines (excerpts) | Ending |
 |---|---|---|---|
@@ -259,7 +259,7 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 - **User:** Alize Lovell; Lyu Leon through Astrea Record[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu]
 - **Type:** Fire enchantment[@agris-arvensis.fm14-alize, agris-arvensis.ar03-alize]
 - **Status entry:** Enchantment; fire attribute; chant "Alga"[@agris-arvensis.ar03-sheet]
-- **Spell key:** "Arvellia" / "Alveria"[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni]
+- **Spell key:** "Arvellia" / "Alveria" / "Arveria", one word: said *Arveria*, written *flame flower*[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.ar03-key-ja]
 
 #### Name and spell key {#agris-arvensis-name-and-spell-key}
 
@@ -275,9 +275,9 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 - **Spell key:** DanMachi 14 calls Alize's "Arvellia!!" "the spell key for her enchantment". Lyu's shout in DanMachi 18 is printed "Alveria!", and the narration later speaks of "Alize's Alveria".[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar]
 - **Title:** Astrea Record and DanMachi 14 print Alize's title *Scarlett Harnell*; DanMachi 18 prints *Scarlet Harnell*.[@agris-arvensis.ar03-alize, agris-arvensis.fm14-alize, agris-arvensis.fm18-lyu]
 
-Alize's illustrated Status sheet in Astrea Record 3 (Level 4) lists the spell as *Agallis Arvesynce*, an enchantment with fire attribute, and gives its chant as a single word: "Alga".[@agris-arvensis.ar03-sheet] Earlier in the same volume the narration calls her shout of the spell's name "Alize’s chant".[@agris-arvensis.ar03-alize] In the final battle with [[alfia|Alfia]] the text prints the word three times, "Alga! Alga! Alga!!", and each time she speaks it more of her energy is drawn into her magic and the fires around her grow.[@agris-arvensis.ar03-alga]
+Alize's illustrated Status sheet in Astrea Record 3 (Level 4) lists the spell as *Agallis Arvesynce*, an enchantment with fire attribute, and gives its chant as a single word: "Alga".[@agris-arvensis.ar03-sheet] Earlier in the same volume the narration calls her shout of the spell's name "Alize’s chant".[@agris-arvensis.ar03-alize] In the final battle with [[alfia|Alfia]] the text prints the word three times, "Alga! Alga! Alga!!", and each time she speaks it more of her energy is drawn into her magic and the fires around her grow.[@agris-arvensis.ar03-alga] The word is said *Alga* each time; the Japanese writes it *blaze up* in the battle and *bloom* on the sheet.[@agris-arvensis.ar03-key-ja]
 
-The next line printed is "Alvarna!", with no speaker named. {{inference}} It may be Alize's spell key, printed in a third form beside "Arvellia" and "Alveria".[@agris-arvensis.ar03-alga] Later in the same chapter, in Alize and Lyu's combined attack on Alfia, Lyu's "Luminous Wind!" is followed by "Arveria!", again with no speaker named; the narration describes a blaze of fire and starlight. {{inference}} This is probably Alize's spell key in a fourth spelling.[@agris-arvensis.ar03-arveria] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
+The next line printed is "Alvarna!", with no speaker named. It is not the spell key but a different word, written *full-open flame power* and shouted outside the spell's brackets.[@agris-arvensis.ar03-alga, agris-arvensis.ar03-key-ja] Later in the same chapter, in Alize and Lyu's combined attack on Alfia, Lyu's "Luminous Wind!" is followed by "Arveria!", again with no speaker named; the narration describes a blaze of fire and starlight.[@agris-arvensis.ar03-arveria] "Arveria", "Arvellia" and "Alveria" are one spell key: the Japanese writes all three as {{ja|炎華}}, said *Arveria* and written *flame flower*.[@agris-arvensis.ar03-key-ja] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
 
 #### Effect {#agris-arvensis-effect}
 
@@ -368,12 +368,13 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@agris-arvensis.fm20-bell]: FM20 | Chapter 2: Lion and then Sword Princess | Flame armour on hands, feet and weapon.
 [@luminous-wind.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Luminous Wind, wide-range attack spell, wind and light element.
 [@luminous-wind.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Luminous Wind, wide-range attack magic, wind and light attributes.
-[@luminous-wind.fc01-sheet]: FC01 | | Illustrated Status sheet, p. 206 (Level 4): no spell; her three Skills under a box labelled Magic.
+[@luminous-wind.fc01-sheet]: FC01 | | Illustrated Status sheet (Level 4) in the Japanese edition (file c6X0, Lyu's data page): Luminous Wind with the same two notes (wide-area attack magic; wind and light attributes), Noa Heal beside it, and her three Skills in a box of their own.
 [@noa-heal.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Noa Heal, recovery spell; stronger in forested areas. The Japanese edition's sheet (image page c81X) calls it recovery magic with a terrain effect, its potency raised in forest areas.
 [@noa-heal.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Noa Heal, healing magic; affected by the environment; boosted in forested areas.
 [@agris-arvensis.ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Agallis Arvesynce, enchantment, fire attribute, chant "Alga".
 [@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".
 [@agris-arvensis.ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Luminous Wind!" then "Arveria!"; "The pair’s combined attack"; "a flash of fire and starlight".
+[@agris-arvensis.ar03-key-ja]: AR03 | Chapter 9: A Hero’s Trail | The Japanese edition writes the spell key as flame flower, read Arveria (file c86J, paragraph 152), the same word as in DanMachi 14 (file cA0W, paragraph 227) and DanMachi 18 (file part0025, paragraph 962; file part0027, paragraph 827); the earlier shout (file c86J, paragraph 35) is another word, full-open flame power, outside the spell brackets; the chant Alga is written blaze up in the battle (paragraph 31) and bloom on the Status sheet (image page c9VS).
 [@ar01-lyumilua]: AR01 | | Printed heading "Chapter 4: Questioning Justice" (not in the evidence map): "if any of these turn out to be from Lyumilua Forest, where Lyu is from"; "the elves of Lyumilua Forest are the most prideful of all".
 [@ar02-lyumilua]: AR02 | | Printed heading "Chapter 11: Warriors’ Last Supper: FINAL WAR EVE" (not in the evidence map): "From Lyumilua Forest, where you were born."
 [@ar01-lyu-ja]: AR01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

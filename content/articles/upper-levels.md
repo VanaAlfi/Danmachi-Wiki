@@ -25,7 +25,7 @@
       {"label": "Entrance", "value": "The spiral staircase beneath [[babel|Babel]], then the Beginning Road", "refs": ["fm10-road", "so09-first"]},
       {"label": "Below", "value": "The [[cave-labyrinth|Cave Labyrinth]], from the thirteenth floor", "refs": ["fm04-room", "ss01-thirteen"]},
       {"section": "Adventurers"},
-      {"label": "Guild limit", "value": "Floor 12 is the lowest a Level 1 may enter", "refs": ["fm02-limit"]},
+      {"label": "Level 1 limit", "value": "Floors 11–12 are held to be the deepest a Level 1 can clear (a standard of ability, not a Guild rule)", "refs": ["fm02-limit"]},
       {"label": "Level 1 adventurers", "value": "Half of all adventurers", "refs": ["fm02-common"]},
       {"label": "Bosses", "value": "No [[monster-rex|Monster Rex]]; [[monsters#infant-dragon|infant dragons]] act as the bosses", "refs": ["fm04-boss", "so09-boss"]}
     ]
@@ -59,10 +59,10 @@ The [[school-district|School District]]'s own rules for its students are stricte
 
 - **Walls and monsters:** the walls of the first four floors are pale blue, and the monsters are usually just [[monsters#goblin|goblins]] and [[monsters#kobold|kobolds]], with few kinds of either.[@fm02-floors] [[monsters#dungeon-lizard|Dungeon lizards]] appear on floors 2 to 4.[@fm01-lizard] The monsters nearer the fourth floor are a little stronger and smarter, but this is the easiest region for new adventurers.[@fm02-floors]
 - **The first floor:** it is "neatly carved out of its stone like a man-made labyrinth", with pale blue walls as far as the eye can see.[@ss01-first] A goblin is "One of the monsters native to the first floor".[@so09-first]
-- **The way in:** adventurers go down a spiral staircase beneath [[babel|Babel]] to the first floor's main passage.[@fm10-road] Its printed name varies: the *Beginning Road* (DanMachi 10, Sword Oratoria 9), *Onset Road* (Sword Oratoria 4) and "The beginner’s road" (DanMachi 19); the Japanese has one name for all of them, written *the road of the beginning*.[@fm10-road, so09-first, so04-road, fm19-road, fm10-road-ja]
+- **The way in:** adventurers go down a spiral staircase beneath [[babel|Babel]] to the first floor's main passage.[@fm10-road] Its printed name varies: the *Beginning Road* (DanMachi 10, Sword Oratoria 9), *Onset Road* (Sword Oratoria 4) and "The beginner’s road" (DanMachi 19); the Japanese has one name for all of them, {{ja|始まりの道}}, written *the road of the beginning*.[@fm10-road, so09-first, so04-road, fm19-road, fm10-road-ja, so04-road-ja]
 - **Pantries:** the first two floors have none.[@fm04-pantries]
 - **A rare monster:** the jackbird, a hen-like creature that can only run, seldom appears in the Dungeon; its golden egg sells for at least a million valis. In Minor Myths and Legends 1 Bell and [[hestia|Hestia]] meet one on the first floor.[@ss01-jackbird]
-- **Leveling:** a Familia can raise its low-Level members on shallow floors; Hestia Familia takes [[haruhime|Haruhime]] to the third floor for this, a practice "often referred to as “leveling.”"[@fm15-leveling]
+- **Leveling:** a Familia can raise its low-Level members on shallow floors; [[hestia-familia|Hestia Familia]] takes [[haruhime|Haruhime]] to the third floor for this, a practice "often referred to as “leveling.”"[@fm15-leveling]
 - **Knossos:** a passage from the third floor of [[knossos|Knossos]] opens into the Dungeon's third floor, "a simple light-blue labyrinth".[@so11-third]
 
 ## Floors 5–7 {#floors-5-7}
@@ -77,7 +77,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 - **Plains:** the walls are wood-coloured and covered in moss, and short grass covers the floor, so that these floors look like a vast prairie. The light is gathered into one spot, "like the sun over a massive plain".[@fm02-eighth] The lower ninth floor has a ceiling ten meders high or more.[@fm03-ceiling]
 - **Monsters:** no new species appear; instead there are stronger goblins and kobolds, a review of the floors above, so floors 8 and 9 "should be relatively easy".[@fm02-eighth]
 - **The Minotaur on the ninth floor:** in DanMachi 3 Bell meets a [[minotaur|Minotaur]] in a wide room on the ninth floor with wood-coloured walls and a floor overgrown with low grasses and flowers ("W-why is there a Minotaur on the ninth floor…?") and slays it.[@fm03-minotaur] DanMachi 4 explains the alarm that followed: monsters out of place are generally held to stray at most two floors above or below their recorded floor, but Minotaurs are first encountered on the fifteenth floor, "six floors below", and "this was not the first time a Minotaur had been seen in the upper levels".[@fm04-minotaur] [[aiz-wallenstein|Aiz]] watched the fight, and it stays with [[loki-familia|Loki Familia]]: in Sword Oratoria 5 [[gareth|Gareth]] regrets that he was in the rearguard "while that young’un was workin’ his miracle on the ninth floor".[@so04-ninth, so05-gareth]
-- **Knossos:** in Sword Oratoria 12 the alliance enters Knossos from the Dungeon's ninth floor, through an entrance dug for the Guild's mission and two other routes dug in secret. Knossos has no connection with the Dungeon between the ninth and twelfth floors.[@so12-knossos] Earlier in that volume the [[xenos|Xenos]], who usually keep away from these crowded floors, reach the ninth floor unnoticed with Ouranos's help and clear "the green flesh from inside the Dungeon", while [[ganesha-familia|Ganesha Familia]] digs from the surface.[@so12-xenos]
+- **Knossos:** in Sword Oratoria 12 the alliance enters Knossos from the Dungeon's ninth floor, through an entrance dug for the Guild's mission and two other routes dug in secret. Knossos has no entrance to the Dungeon on the tenth or eleventh floor (the gates there in Daedalus's Notebook had been removed); after the ninth floor, the next is on the twelfth.[@so12-knossos] Earlier in that volume the [[xenos|Xenos]], who usually keep away from these crowded floors, reach the ninth floor unnoticed with Ouranos's help and clear "the green flesh from inside the Dungeon", while [[ganesha-familia|Ganesha Familia]] digs from the surface.[@so12-xenos]
 
 ## Floors 10–12 {#floors-10-12}
 
@@ -151,7 +151,6 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@fm03-ninth]: FM03 | Chapter 4: The Meaning of Adventure | "why is there a Minotaur on the ninth floor". The Japanese edition (file c3JP, paragraph 164) gives a wide floor with wood-coloured walls, overgrown with low grasses and flowers.
 [@fm03-ceiling]: FM03 | Chapter 5: A Hero’s Desire | The ceiling of the lower ninth floor. The Japanese edition (file c43D, paragraph 304) says ten meders or more.
 [@fm04-strays]: FM04 | Prologue: Fastest Boy in the Alleys | The usual range of strays. The Japanese edition (file c37, paragraph 16) says the general view is at most two floors up or down.
-[@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "MINOTAUR SIGHTED IN UPPER LEVELS."; "this Minotaur was spotted on the ninth level".
 [@fm04-party]: FM04 | Chapter 3: The Smith’s Situation | "monsters will suddenly emerge in large numbers in the same room, starting around the tenth floor"; "A “monster party,” that’s what this is called."
 [@fm04-eleventh]: FM04 | Chapter 3: The Smith’s Situation | "“Hard Armoreds.” They first appear on the eleventh floor."; "preparing to venture forth into the middle levels". The Japanese edition (file c2R2, paragraph 70) calls the silverback, with the Hard Armored, the eleventh floor's signature monster.
 [@fm04-boss]: FM04 | Chapter 3: The Smith’s Situation | "a rare monster that only appears on the lower eleventh and twelfth floors"; "infant dragons are the bosses of the upper levels".
@@ -167,8 +166,8 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@fm15-leveling]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | "They were on the third floor of the Dungeon."; "The practice was often referred to as “leveling.”"
 [@fm15-maris]: FM15 | Chapter 4: Guild Alone | "Eina! I reached the tenth floor!"; "The fog comes out starting at the tenth floor".
 [@so04-lefiya]: SO04 | First Chapter: And the Boy… | "one of the western chambers on the Dungeon’s fifth floor".
+[@so04-road-ja]: SO04 | First Chapter: And the Boy… | The Japanese edition prints the same name for the great passage of the first floor, meaning the road of the beginning.
 [@so04-road]: SO04 | First Chapter: And the Boy… | "Onset Road, as the large passageway on the first floor was called".
-[@so04-ninth]: SO04 | Last Chapter: To Adventure | "The boy Bell had fought the great bull on the ninth floor."
 [@so09-first]: SO09 | Recollections Chapter 1: The Young Girl’s Beginnings | "The dim blue walls and ceiling"; "beyond the wide Beginning Road"; "One of the monsters native to the first floor".
 [@so09-boss]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "the only dragon in the upper floors"; "it was effectively the floor boss".
 [@so09-wyvern]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "This is…the twelfth floor?"; "A monster that inhabited the middle-floor region."; "It was clearly an Irregular".
@@ -176,13 +175,13 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@so10-twelfth]: SO10 | Chapter 5: Brave Soul! | "there emerged Lefiya and the others"; "it was unmistakably the twelfth floor of the Dungeon"; "used Knossos to set that wyvern after Aiz".
 [@so11-third]: SO11 | Chapter 4: Avengers ~Knossos War~ | "the Dungeon’s third floor, the northeast section"; "a simple light-blue labyrinth".
 [@so12-xenos]: SO12 | Chapter 2: An Evil Omen | "any activity above the tenth floor was risky"; "the highest floors were smaller"; "The Xenos were currently at a depth equivalent to the Dungeon’s ninth floor."; "they were clearing the green flesh from inside the Dungeon"; "This time, they had Ouranos’s help, though, so they had been able to get to the ninth floor without anyone noticing."
-[@so12-knossos]: SO12 | Chapter 5: Final War | "the entrance connecting to Knossos on the Dungeon’s ninth floor"; "The other two routes on the ninth floor had also been dug"; "no connection between Knossos and the Dungeon between the ninth and twelfth floors".
+[@so12-knossos]: SO12 | Chapter 5: Final War | "the entrance connecting to Knossos on the Dungeon’s ninth floor"; "The other two routes on the ninth floor had also been dug"; "no connection between Knossos and the Dungeon between the ninth and twelfth floors"; "There were field notes about gates on the tenth and eleventh floors in Daedalus’s Notebook"; "those entrances had been removed"; the Japanese edition (file c2DW, paragraph 31) says there is no entrance after the ninth floor until the twelfth.
 [@ss01-first]: SS01 | | "neatly carved out of its stone like a man-made labyrinth"; "Pale blue walls stretch as far as the eye can see".
 [@ss01-jackbird]: SS01 | | "a rare monster that seldom appears in the Dungeon"; "the jackbird’s golden egg, which sells for at least a million valis".
 [@ss01-hestia]: SS01 | | "as long as we stick to the first floor, who’ll know?"
 [@ss02-magic]: SS02 | | "a necessary precaution when practicing and evaluating magic"; "a cavern in the west end of the floor".
 [@fm03-minotaur]: FM03 | Chapter 4: The Meaning of Adventure | "We’re on the ninth floor"; "W-why is there a Minotaur on the ninth floor…?" The Japanese edition (file c3JP, paragraph 164) gives a wide floor with wood-coloured walls, overgrown with low grasses and flowers.
-[@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "But this Minotaur was spotted on the ninth level, meaning that it had somehow journeyed up from the Middle Fortress. The earliest floor where Minotaurs were usually encountered was the fifteenth, six floors below."; "The fact that this was not the first time a Minotaur had been seen in the upper levels was what really made the adventurers’ blood run cold."
+[@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "MINOTAUR SIGHTED IN UPPER LEVELS."; "But this Minotaur was spotted on the ninth level, meaning that it had somehow journeyed up from the Middle Fortress. The earliest floor where Minotaurs were usually encountered was the fifteenth, six floors below."; "The fact that this was not the first time a Minotaur had been seen in the upper levels was what really made the adventurers’ blood run cold."
 [@so04-ninth]: SO04 | Last Chapter: To Adventure | "lost in memories of the event she’d witnessed up on the ninth floor"; "The boy Bell had fought the great bull on the ninth floor."
 [@so05-gareth]: SO05 | | Printed heading "Chapter 2: Rabbit Rookie" (not in the evidence map): "I was with ye and the others in the rearguard while that young’un was workin’ his miracle on the ninth floor".
 [@fm04-upper-ja]: FM04 | | The Japanese edition calls the region by the kanji for upper levels; the infobox gives it.

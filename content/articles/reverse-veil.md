@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Item"},
+      {"label": "Japanese", "value": "{{ja|透明衣}}, written *transparency robe*", "refs": ["ar02-veil-ja"]},
       {"label": "Type", "value": "Reversible invisibility mantle", "refs": ["fm11-bell"]},
       {"label": "Maker", "value": "[[fels|Fels]]", "refs": ["fm11-bell"]},
       {"label": "Effect", "value": "Hides the wearer, and others under it, from sight", "refs": ["fm11-bell", "fm11-three"]},
@@ -31,7 +32,7 @@ The **Reverse Veil** is one of [[fels|Fels]]'s magic items: a black mantle that 
 In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws it back on so that it covers his whole body, and vanishes.[@fm11-bell] The narration compares it with [[asfi|Asfi]]'s invisibility helmet ([[hades-head|Hades Head]]), which makes its wearer invisible "no matter what", while the veil can be used only when wanted.[@fm11-bell]
 
 - **Covering others.** Bell hides himself and Haruhime under one veil, and later throws it over himself, Haruhime and [[wiene|Wiene]] together. From inside, the outside world appears through the fabric.[@fm11-haruhime, fm11-three] Welf and Mikoto throw their veils over [[gros|Gros]] and other [[xenos|Xenos]] to save them.[@fm11-gros]
-- **Attacking while hidden.** Welf and Mikoto, wearing the same mantles, fire ice magic daggers from under them and immobilise [[loki-familia|Loki Familia]] adventurers without revealing that Hestia Familia is helping the monsters.[@fm11-welf, fm11-ambush]
+- **Attacking while hidden.** Welf and Mikoto, wearing the same mantles, fire ice magic daggers from under them and immobilise [[loki-familia|Loki Familia]] adventurers without revealing that [[hestia-familia|Hestia Familia]] is helping the monsters.[@fm11-welf, fm11-ambush]
 - **Removing it.** Wearers become visible when they drop the hood or cast the robe off.[@ar02-fels, fm18-raiders]
 
 ## Limits
@@ -66,6 +67,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 > - How it is made, how many people it can cover and whether it can be repaired.[@fm11-three, fm18-scraps]
 
 [@ar02-fels]: AR02 | | Fels drops the hood of the Reverse Veil.
+[@ar02-veil-ja]: AR02 | Chapter 4: Those Who Struggle | The Japanese edition (file c2V4) prints Reverse Veil as the reading of kanji meaning transparency robe.
 [@ar02-scent]: AR02 | Chapter 4: Those Who Struggle | Ouranos: it cloaks from sight and covers scent.
 [@fm10-fels]: FM10 | Chapter 8: City Panic | Fels invisible under a veil.
 [@fm11-bell]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Scent pouch (the Japanese edition, file c3EY, paragraph 59, calls it a pouch that cancels body odour); mantle turned inside out; one of Fels's items; comparison with the helmet.

@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "A distant region across the ocean from Orario, reached through Port Meren, home of Takemikazuchi Familia, Haruhime, Gojouno Kaguya and most renarts. The English novels never map it or name its countries; they show it through its people, customs, stories, clothing and fighting styles, and through the Far Eastern quarter of Orario's Pleasure Quarter.",
+  "summary": "A distant region across the ocean from Orario, reached through Port Meren, home of Takemikazuchi Familia, Haruhime, Gojouno Kaguya and most renarts. No map of it and no names of its countries were located in the checked text; they show it through its people, customs, stories, clothing and fighting styles, and through the Far Eastern quarter of Orario's Pleasure Quarter.",
   "aliases": ["Far Eastern", "the Far East"],
   "spoilers": "DanMachi Vols. 4, 7–9, 11, 13–16, 18, 20, Sword Oratoria Vols. 6, 7, 13, Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["takemikazuchi", "takemikazuchi-familia", "mikoto", "haruhime", "gojouno-kaguya", "pleasure-quarter", "races", "tsubaki"],

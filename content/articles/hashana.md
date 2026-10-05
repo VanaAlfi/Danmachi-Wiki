@@ -17,8 +17,8 @@
       {"label": "Japanese", "value": "{{ja|ハシャーナ・ドルリア}}", "refs": ["so02-hashana-ja"]},
       {"label": "Familia", "value": "[[ganesha-familia|Ganesha Familia]]", "refs": ["so02-status", "so05-ganesha"]},
       {"label": "Level", "value": "4", "refs": ["so02-status"]},
-      {"label": "Epithet", "value": "\"the Strong Fist Warrior\", as Bors calls him ({{ja|剛闘士}}, written *mighty fighter*, read as his name)", "refs": ["so02-status", "so02-hashana-ja"]},
-      {"label": "Development Ability", "value": "[[development-ability#abnormal-resistance|Immunity]]", "refs": ["so02-immunity"]},
+      {"label": "Also called", "value": "\"the Strong Fist Warrior\", as Bors calls him ({{ja|剛闘士}}, written *mighty fighter*, read as his name)", "refs": ["so02-status", "so02-hashana-ja"]},
+      {"label": "Development Abilities", "value": "[[development-ability#abnormal-resistance|Immunity]]", "refs": ["so02-immunity"]},
       {"section": "Death"},
       {"label": "Killed by", "value": "[[levis|Levis]]", "refs": ["so02-face", "so05-ganesha"]},
       {"label": "Place", "value": "Willy's inn in [[rivira|Rivira]], on the eighteenth floor", "refs": ["so02-inn"]}
@@ -38,7 +38,7 @@ A body with its head crushed is found in a room at Willy's inn in Rivira. The ma
 
 ## Afterwards
 
-In Sword Oratoria 2 [[fels|Fels]] tells [[ouranos|Ouranos]] that "Hashana, the one who took up that quest", has been killed, and Ouranos asks after "the delivery girl".[@so02-fels] {{inference}} The quest Hashana took appears to have come from Fels and Ouranos; the novels describe its client only as mysterious.[@so02-fels, so03-orb]
+In Sword Oratoria 2 [[fels|Fels]] tells [[ouranos|Ouranos]] that "Hashana, the one who took up that quest", has been killed, and Ouranos asks after "the delivery girl".[@so02-fels] In Sword Oratoria 3 Fels tells Aiz that the thirtieth floor is where Fels had sent Hashana, and tells Ouranos that they had dealt with the pantry there themselves, which is how Hashana could collect the orb.[@so03-orb]
 
 | Volume | Events |
 |---|---|
@@ -63,7 +63,7 @@ In Sword Oratoria 2 [[fels|Fels]] tells [[ouranos|Ouranos]] that "Hashana, the o
 [@so02-fels]: SO02 | Chapter 5: The Battle of Rivira | "Hashana, the one who took up that quest, has been killed."; "What about the delivery girl?"
 [@so02-aftermath]: SO02 | Chapter 6: Parched Scream | Ganesha Familia insists she be known as Hashana's killer and blacklisted; only upper-class adventurers told of the murder.
 [@so02-thirtieth]: SO02 | Chapter 6: Parched Scream | The thirtieth-floor investigation finds nothing; "Where had he found the crystal orb?"
-[@so03-orb]: SO03 | Chapter 1: The Black Robe’s Invitation | "an orb containing an eerie ‘fetus’ that a mysterious client had hired Hashana to carry out of the Dungeon"; acquired on the thirtieth floor.
+[@so03-orb]: SO03 | Chapter 1: The Black Robe’s Invitation | "an orb containing an eerie ‘fetus’ that a mysterious client had hired Hashana to carry out of the Dungeon"; acquired on the thirtieth floor. The Japanese edition (file c14E, paragraph 18; file c1B2, paragraphs 256–257) has Fels say that it sent Hashana to the thirtieth floor and that its own side dealt with the pantry there.
 [@so05-ganesha]: SO05 | | "one of his followers, Hashana Dorlia"; killed by the crimson-haired creature Levis; tears from beneath Ganesha's elephant mask; "To be killed during coitus…!"; Loki: "Hashana didn’t kick the bucket while he was getting it on".
 [@so10-blade]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "I sold this magic blade to Ganesha Familia…to Hashana Dorlia."; a quest requiring absolute secrecy; a solo descent; "Did Hashana know something about those armed monsters?"
 [@so11-ilta]: SO11 | Chapter 4: Avengers ~Knossos War~ | "We lost Hashana in this mess, too, after all."; "We don’t have to be avengers."

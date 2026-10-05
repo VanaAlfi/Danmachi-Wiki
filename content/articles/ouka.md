@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|カシマ・桜花}}", "refs": ["fm11-ouka-ja"]},
       {"label": "Familia", "value": "[[takemikazuchi-familia|Takemikazuchi Familia]]", "refs": ["fm05-ouka"]},
       {"label": "Position", "value": "Captain", "refs": ["fm05-ouka"]},
-      {"label": "Also called", "value": "Masuratakeo ({{ja|武神男児}}, written *the war god's man*; DanMachi 13)", "refs": ["fm13-masuratakeo", "fm11-ouka-ja", "fm13-ouka-title-ja"]},
+      {"label": "Also called", "value": "Masuratakeo ({{ja|武神男児}}, written *the war god's man*; DanMachi 13), by the order of Aisha's call (see History)", "refs": ["fm13-masuratakeo", "fm11-ouka-ja", "fm13-ouka-title-ja"]},
       {"label": "Level", "value": "2", "refs": ["fm05-level"]},
       {"label": "Weapon", "value": "The Kougou battle-ax and a shield, forged by [[welf-crozzo|Welf]]", "refs": ["fm12-kougou"]}
     ]
@@ -28,7 +28,7 @@
 
 ## Appearance and equipment
 
-Ouka is an intimidating man of broad build whose height reaches about 190 celch (the Yen Press text says "standing more than 190 celch tall, with wide, muscular shoulders").[@fm05-look, fm05-ja-look] He fights with Far Eastern martial arts as well as his weapons.[@fm12-kougou]
+Ouka is an intimidating man of broad build whose height reaches about 190 celch.[@fm05-look, fm05-ja-look] He fights with Far Eastern martial arts as well as his weapons.[@fm12-kougou]
 
 By DanMachi 12 his weapon is the [[equipment#kougou|Kougou]] battle-ax. Welf forged it from [[metals#varmath|varmath]], a high-quality ore found only in the Dungeon's lower levels that [[hephaistos|Hephaistos]] had given him as part present, part assignment, and used the leftovers for Ouka's shield. Although the materials had cost him nothing, Welf charged 700,000 valis for the set, a steep discount.[@fm12-kougou]
 

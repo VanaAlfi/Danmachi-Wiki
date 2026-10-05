@@ -52,7 +52,7 @@ In DanMachi 17 Freya's charm makes almost everyone in Orario forget Syr, except 
 
 After the Familia War of DanMachi 18, Freya chooses to live as Syr, and Lyu, Anya, [[chloe|Chloe]], [[runoa|Runoa]] and Mia welcome her back to the tavern. Bell promises to keep watching over her so that she does not hurt others or herself.[@fm18-syr] In DanMachi 19 [[hestia|Hestia]], speaking for the coalition, lets her stay as an ordinary girl serving penance. The official story is that Freya left Orario; almost every god knows the truth, but few mortals do.[@fm19-syr] Syr reminds Bell of his promise and calls him "my Odr".[@fm19-promise]
 
-In DanMachi 20 Syr visits [[hearthstone-manor|Hearthstone Manor]] and asks to stay there, because she cannot use [[folkvangr|Folkvangr]], which the [[guild|Guild]] has seized, and the tavern's rooms are crowded with former Freya Familia members.[@fm20-bed]
+In DanMachi 20 Syr visits [[hearthstone-manor|Hearthstone Manor]] and asks to stay there, saying that she cannot use [[folkvangr|Folkvangr]], which the [[guild|Guild]] has seized, and that with Heith and the others at the tavern she has to share cramped beds.[@fm20-bed]
 
 ## Open questions
 

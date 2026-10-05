@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "Chienthrope adventurer of Loki Familia, a reticent Level 4 who leads the Familia's secondary forces with Narfi. In Sword Oratoria 10 he leads the squad watching Hestia Familia's manor and, in a passage under Daedalus Street, trades his squad's position to Hermes for a key to Knossos.",
+  "summary": "Chienthrope adventurer of Loki Familia, a reticent Level 4 and, like Narfi, a member of the Familia's second army. In Sword Oratoria 10 he leads the squad watching Hestia Familia's manor and, in a passage under Daedalus Street, trades his squad's position to Hermes for a key to Knossos.",
   "aliases": ["Cruz"],
   "spoilers": "DanMachi Vol. 11 and Sword Oratoria Vols. 4, 5, 7–14",
   "related": ["loki-familia", "narfi", "raul-nord", "bete-loga", "hermes", "knossos", "lefiya", "elfie-collette"],
@@ -14,16 +14,17 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|クルス・バッセル}}", "refs": ["so05-cruz-ja"]},
       {"label": "Race", "value": "[[races#chienthrope|Chienthrope]]", "refs": ["so05-cruz", "so08-resent"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so05-cruz"]},
       {"label": "Level", "value": "4", "refs": ["so07-scout", "so10-leaders", "so11-junior"]},
-      {"label": "Role", "value": "Leader of the secondary forces, with [[narfi|Narfi]]; scout", "refs": ["so10-leaders", "so07-scout"]}
+      {"label": "Role", "value": "A member of the Familia's second army, with [[narfi|Narfi]]; scout", "refs": ["so10-leaders", "so07-scout"]}
     ]
   }
 }
 ---
-**Cruz Bussell** is a [[races#chienthrope|chienthrope]] adventurer of [[loki-familia|Loki Familia]], a reticent Level 4 among its junior members.[@so05-cruz, so07-scout, so11-junior] With [[narfi|Narfi]] he leads the Familia's secondary forces.[@so10-leaders] In Sword Oratoria 10 he leads the squad watching [[hestia-familia|Hestia Familia]]'s manor. Later, in a passage under [[daedalus-street|Daedalus Street]], he accepts [[hermes|Hermes]]'s price, his squad's withdrawal, for a key to [[knossos|Knossos]].[@so10-squad, so10-bargain]
+**Cruz Bussell** is a [[races#chienthrope|chienthrope]] adventurer of [[loki-familia|Loki Familia]], a reticent Level 4 among its junior members.[@so05-cruz, so07-scout, so11-junior] He and [[narfi|Narfi]] are Level 4 members of the Familia's second army.[@so10-leaders] In Sword Oratoria 10 he leads the squad watching [[hestia-familia|Hestia Familia]]'s manor. Later, in a passage under [[daedalus-street|Daedalus Street]], he accepts [[hermes|Hermes]]'s price, his squad's withdrawal, for a key to [[knossos|Knossos]].[@so10-squad, so10-bargain]
 
 ## Character
 
@@ -59,8 +60,8 @@ During the fighting of Sword Oratoria 10, Cruz's squad holds the underground pas
 [@so08-ignored]: SO08 | Chapter 1: Lonely Wolf | "Not even Raul or Cruz, the two he’d spent the most time with, acknowledged his existence."
 [@so08-shame]: SO08 | Chapter 5: Battered Wolf | "the animal person Cruz and the human Narfi hang their heads in shame".
 [@so09-passage]: SO09 | Chapter 2: A Brief Calm | "They got Knossos’s man-eating flowers out from here…"; "the Level-4 Cruz stared down the man-made passage".
-[@so10-patrol]: SO10 | Chapter 2: Someone Named Fool | Secondary forces patrolling "under the command of Alicia and Cruz".
-[@so10-leaders]: SO10 | Chapter 2: Someone Named Fool | "The leaders of the secondary forces—the Level-4 chienthrope Cruz and human girl Narfi".
+[@so10-patrol]: SO10 | Chapter 2: Someone Named Fool | The lower-ranking members patrolling "under the command of Alicia and Cruz".
+[@so10-leaders]: SO10 | Chapter 2: Someone Named Fool | "the Level-4 chienthrope Cruz and human girl Narfi". The Japanese edition (file c1J8, paragraph 57) calls them members of the second army.
 [@so10-squad]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "The surveillance squad led by Cruz had borrowed an abandoned building diagonally opposite the manor"; Lefiya volunteered.
 [@so10-door]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "Cruz and Elfie snatched Lefiya and shouted wildly as they tried to restrain her".
 [@so10-bargain]: SO10 | | "Cruz had been deployed to lead the squad"; Hermes and the Daedalus Orb; "In exchange for handing over the key, I would like all of you to disappear from here."; "Here. Now. You decide."; Finn's priority; "Understood. We’ll withdraw from here."
@@ -75,3 +76,4 @@ During the fighting of Sword Oratoria 10, Cruz's squad holds the underground pas
 [@so13-bete]: SO13 | Chapter 1: Girl’s Revolution | Raul and Cruz shaking their heads, pleading with Lefiya to rethink.
 [@so13-update]: SO13 | Chapter 1: Girl’s Revolution | "Raul, Alicia, Cruz, Narfi, and the other Level 4s" would have to wait for their next chance.
 [@so14-three]: SO14 | Prologue: Accomplishments and Reminiscences | "Still…for all three to level up at the same time…" Cruz mused.
+[@so05-cruz-ja]: SO05 | | The Japanese edition prints his name in katakana.

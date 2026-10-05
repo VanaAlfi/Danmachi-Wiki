@@ -17,12 +17,12 @@
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm10-shakti", "fc03-shakti"]},
       {"label": "Height", "value": "Easily over 170 celch", "refs": ["fm10-shakti"]},
       {"label": "Hair", "value": "Blue (printed bluish, indigo and azure)", "refs": ["fm10-shakti", "fm11-recovery", "fc01-casino"]},
-      {"label": "Sister", "value": "Ardee Varma (printed Adi in DanMachi 14 and Familia Chronicle 3), died in the dark age", "refs": ["ar01-ardee", "fm14-adi", "fc03-shakti"]},
+      {"label": "Family", "value": "Ardee Varma (printed Adi in DanMachi 14 and Familia Chronicle 3), died in the dark age", "refs": ["ar01-ardee", "fm14-adi", "fc03-shakti"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[ganesha-familia|Ganesha Familia]], captain", "refs": ["fm10-shakti", "ar01-alize"]},
-      {"label": "Title", "value": "Ganesha's Cane, Ankusha", "refs": ["fm10-shakti", "fm20-orariad"]},
+      {"label": "Title", "value": "Ganesha's Cane, Ankusha ({{ja|象神の杖}}, written *the elephant god's staff*)", "refs": ["fm10-shakti", "fm20-orariad", "fc01-ankusha-ja"]},
       {"label": "Level", "value": "First-tier in the main series; Level 4 in Astrea Record 1", "refs": ["fm10-shakti", "ar01-valletta"]},
-      {"label": "Equipment", "value": "A spear (Astrea Record); metal boots and brass knuckles, and taming whips (DanMachi 10)", "refs": ["ar01-church", "fm10-shakti", "fm10-subjugation"]}
+      {"label": "Weapons", "value": "A spear (Astrea Record); metal boots and brass knuckles, and taming whips (DanMachi 10)", "refs": ["ar01-church", "fm10-shakti", "fm10-subjugation"]}
     ]
   }
 }
@@ -35,7 +35,7 @@ Shakti is tall, easily over 170 celch, with blue hair cut precisely at the nape 
 
 ## The dark age
 
-In Astrea Record 1, set in Orario's dark age, Shakti leads Ganesha Familia against the Evils and is a sworn ally of Astrea Familia's captain, [[alize-lovell|Alize]].[@ar01-alize] She and Ardee raid a black-market church, where a hooded woman, later revealed as [[alfia|Alfia]], has already knocked out the Evils inside; with one spell she throws more than twenty of Shakti's fighters, Shakti included, against the wall.[@ar01-church] At the council of Familia leaders Shakti reports the unknown woman who beat about thirty trained warriors, herself among them.[@ar01-council]
+In Astrea Record 1, set in Orario's dark age, Shakti leads Ganesha Familia against the Evils and is a sworn ally of Astrea Familia's captain, [[alize-lovell|Alize]].[@ar01-alize] She and Ardee raid a black-market church, where a hooded woman, later revealed as [[alfia|Alfia]], has already knocked out the Evils inside; with one spell she throws as many as twenty of Shakti's fighters, Shakti included, against the wall.[@ar01-church] At the council of Familia leaders Shakti reports the unknown woman who beat about thirty trained warriors, herself among them.[@ar01-council]
 
 Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level 4, fights the Level 5 Valletta alongside Alize, using teamwork against her higher Status.[@ar01-valletta] During the fight a little girl in Evils robes attacks Ardee. Ardee lowers her sword to save her, and the girl sets off a bomb concealed on her body. Valletta crows that the god [[thanatos|Thanatos]] tricked the child into it with a promise of seeing her parents again. Nothing is left of Ardee to bury but her sword.[@ar01-ardee] Bloodied and dazed, Shakti carries the screaming Lyu out of the collapsing building.[@ar01-rescue]
 
@@ -43,7 +43,7 @@ Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level
 
 In Astrea Record 2 Shakti tells her troops never to show mercy to their foes and calls Ardee's death a mistake that none of them must repeat. When Lyu confronts her, she replies that Ardee "died for it", and that using even her sister's memory to keep people alive "is my justice". Lyu runs from her.[@ar02-speech]
 
-Later she visits Astrea Familia's home with a branch of the holy tree from Lyu's birthplace, Lyumilua Forest, seized from the black market, and tells Lyu that Ardee wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Ardee that day, "it made me happy". She then visits Ardee's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
+Later she visits Astrea Familia's home with a branch of the holy tree from Lyu's birthplace, Lumirua Forest {{small|printed *Lyumilua Forest* in Astrea Record 2}}, seized from the black market, and tells Lyu that Ardee wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Ardee that day, "it made me happy". She then visits Ardee's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
 
 In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]] entrusts her with the command of the southwest district.[@ar03-command] Lyu afterwards carries Ardee's sword, Sacred Oath, with Shakti's permission.[@ar03-sword]
 
@@ -64,6 +64,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 > - Her current Level; the main series calls her first-tier without giving a number.[@fm10-shakti]
 
 [@fm10-shakti]: FM10 | Chapter 8: City Panic | "The head of Ganesha Familia, Shakti Varma"; bluish hair; easily over 170 celch; metal boots and brass knuckles; "Ganesha’s Cane, Ankusha"; a first-tier human adventurer; Ilta calls her sister. The Japanese edition (file c2BU, paragraph 518) says easily over 170 celch.
+[@fc01-ankusha-ja]: FC01 | | The Japanese edition writes her title with kanji meaning the elephant god's staff, read Ankusha.
 [@fm10-faith]: FM10 | Chapter 8: City Panic | "We serve the Lord of the Masses, Ganesha."
 [@fm10-subjugation]: FM10 | Chapter 9: Dreams of Beasts | Taming whips passed to Shakti; a troll sent flying with a punch; her whip.
 [@fm10-asterios]: FM10 | Chapter 9: Dreams of Beasts | WHAM; Shakti against the tree; facedown and motionless.
@@ -79,7 +80,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 [@fc03-shakti]: FC03 | The Locus of Stars | "Shakti Varma, who had overlooked her trespass"; "a human Lyu respected"; her younger sister Adi Varma.
 [@fc03-adi]: FC03 | Girl in Twilight | "Her older sister, Shakti, was strict and stern".
 [@ar01-alize]: AR01 | Chapter 1: Astrea Familia | "Shakti Varma, the captain of Ganesha Familia"; sworn allies with Alize. The Japanese edition (file cGA, paragraph 66) says they could fairly be called sworn allies.
-[@ar01-church]: AR01 | | The church raid; the hooded woman's spell; Shakti rises using her spear.
+[@ar01-church]: AR01 | | The church raid; the hooded woman's spell; Shakti rises using her spear. The Japanese edition (file c2EX, paragraph 191) says as many as twenty.
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | The woman who defeated "around thirty trained warriors, including me".
 [@ar01-valletta]: AR01 | Chapter 8: Sound of Life | Valletta the sole Level 5; her foes Levels 4 and 3, Shakti and Alize.
 [@ar01-ardee]: AR01 | Chapter 8: Sound of Life | The little girl's bomb; "That kid you tricked"; "There wasn’t anything left of her sister to bury."

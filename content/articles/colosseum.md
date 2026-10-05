@@ -16,7 +16,7 @@
       {"section": "Place"},
       {"label": "Japanese", "value": "{{ja|闘技場}}, written *arena*", "refs": ["fm14-colosseum-ja"]},
       {"label": "Floor", "value": "[[floor-37|Floor 37]], in the east of the Warrior Zone, between the Second and Third Walls", "refs": ["fm14-map"]},
-      {"label": "Nickname", "value": "The Bottomless Goblet ({{ja|無限の盃}}, *the infinite cup*)", "refs": ["fm14-goblet", "fm14-colosseum-ja"]},
+      {"label": "Also called", "value": "The Bottomless Goblet ({{ja|無限の盃}}, *the infinite cup*)", "refs": ["fm14-goblet", "fm14-colosseum-ja"]},
       {"label": "Shape", "value": "Six stepped plates around a round arena, about as wide as Babel", "refs": ["fm14-shape"]},
       {"label": "Appeared", "value": "About thirty years ago, by the Guild's records", "refs": ["fm14-history"]},
       {"section": "Danger"},

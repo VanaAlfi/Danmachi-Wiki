@@ -14,7 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Familias"},
-      {"label": "Patron gods", "value": "[[zeus|Zeus]]; [[hera|Hera]]", "refs": ["fm06-fall"]},
+      {"label": "Deities", "value": "[[zeus|Zeus]]; [[hera|Hera]]", "refs": ["fm06-fall"]},
       {"label": "Era", "value": "Ruled Orario for a thousand years", "refs": ["ar01-thousand", "ar03-remnants"]},
       {"label": "Strongest", "value": "A Level 8 of Zeus Familia and a Level 9 of Hera Familia", "refs": ["fc02-ottar", "so13-levels"]},
       {"label": "Deepest floor", "value": "71", "refs": ["fm19-record"]},
@@ -25,19 +25,19 @@
   }
 }
 ---
-**Zeus Familia** and **Hera Familia** were the Familias of the god Zeus and the goddess Hera, the two strongest forces in [[orario|Orario]]'s history. They ruled the city together for a thousand years.[@ar01-thousand, ar02-history] Fifteen years before DanMachi 6 they slew the Behemoth and the Leviathan of the [[three-great-quests|Three Great Quests]], but the Black Dragon wiped them out. [[loki|Loki]] and [[freya|Freya]] then drove the two weakened gods out of the city.[@fm06-fall] Their fall opened Orario's dark age.[@ar01-dark-age, so13-dark-age]
+**Zeus Familia** and **Hera Familia** were the Familias of the god Zeus and the goddess Hera, the two strongest forces in [[orario|Orario]]'s history. They ruled the city together for a thousand years.[@ar01-thousand, ar02-history] Fifteen years before DanMachi 6, at the height of their power, they slew the Behemoth and the Leviathan of the [[three-great-quests|Three Great Quests]], but the Black Dragon wiped them out. [[loki|Loki]] and [[freya|Freya]] then drove the two weakened gods out of the city.[@fm06-fall] Their fall opened Orario's dark age.[@ar01-dark-age, so13-dark-age]
 
 ## A thousand years at the top
 
 Astrea Record 1 says Zeus and Hera ruled Orario for a thousand years without a threat to their existence and were what every Familia aspired to be.[@ar01-thousand] A veteran recalls in DanMachi 20 that the city held "Zeus and Hera, and then there was everyone else".[@fm20-heroes] Loki admits that her own Familia still lacks the long seasoning of Zeus's and Hera's.[@so06-mompop]
 
-Rival Familias of their time hid Level 6 and even Level 7 captains from the [[guild|Guild]], but Zeus and Hera always came out on top.[@ar01-rivals] Osiris Familia, with several Level 6s and a Level 7 captain, Melty Zara, attacked them and lost; that was twelve years before Astrea Record 1, and Orario then threw Osiris Familia out.[@ar01-osiris] A Loki Familia veteran remembers their wars with Horus and Sobek as "a Great Conflict every night".[@ar03-horus]
+Rival Familias of their time hid Level 6 and even Level 7 captains from the [[guild|Guild]], but Zeus and Hera always came out on top.[@ar01-rivals] Osiris Familia, with several Level 6s and a Level 7 captain, Melty Zara, attacked them and lost; that was more than twenty years before Astrea Record 1, before the Dark Age began, and Orario then threw Osiris Familia out.[@ar01-osiris] A Loki Familia veteran remembers their wars with Horus and Sobek as "a Great Conflict every night".[@ar03-horus]
 
 ## Their heroes
 
 The strongest adventurer in the world was a Zeus follower, "the Level-8 supreme"; Hera's strongest, "the world's scariest woman", was the Level-9 empress.[@fc02-ottar] Sword Oratoria 13 counts their downfall as the loss of a Level 8 and a Level 9.[@so13-levels]
 
-DanMachi 20 remembers them as violent and twisted, refusing to tolerate weakness. Hera's followers were the more twisted in personality and conduct (the Yen Press text says "the former", which would be Zeus's, but the Japanese says the latter), and whenever one of Zeus's followers caused trouble, they hunted him down, just as Hera chased Zeus for his debauchery.[@fm20-heroes] They beat down the young adventurers of the next generation again and again. Leon Verdenberg says he, [[ottar|Ottar]], [[finn-deimne|Finn]] and the others were always dragged into their messes.[@fm20-leon] In Astrea Record 3 [[riveria|Riveria]] and [[gareth|Gareth]] can quickly prepare their decisive-battle gear against Alfia only because Zeus's and Hera's followers had beaten them so soundly and so often.[@ar03-feuds] Every Level Up Ottar made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-ottar]
+DanMachi 20 remembers them as violent and twisted, refusing to tolerate weakness. Hera's followers were the more twisted in personality and conduct, and whenever one of Zeus's followers caused trouble, they hunted him down, just as Hera chased Zeus for his debauchery.[@fm20-heroes] They beat down the young adventurers of the next generation again and again. Leon Verdenberg says he, [[ottar|Ottar]], [[finn-deimne|Finn]] and the others were always dragged into their messes.[@fm20-leon] In Astrea Record 3 [[riveria|Riveria]] and [[gareth|Gareth]] can quickly prepare their decisive-battle gear against Alfia only because Zeus's and Hera's followers had beaten them so soundly and so often.[@ar03-feuds] Every Level Up Ottar made after Level 5 was connected with Zeus Familia or Hera Familia.[@fc02-ottar]
 
 Looking back, the veteran of DanMachi 20 thinks they were always spurring the younger fighters on.[@fm20-spur] {{statement}} [[leon-verdenberg|Leon]] says that on the Leviathan campaign he saw what heroes were, and that "the afterglow of those heroes hasn't faded".[@fm20-leon] His finishing technique is one, he says, that his generation "stole like bandits" from them.[@fm20-technique]
 
@@ -69,9 +69,9 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 
 ## The gods
 
-- **[[zeus|Zeus]].** [[bell-cranell|Bell]]'s grandfather, who raised him, is revealed in DanMachi 5 to be Zeus; [[hermes|Hermes]] calls Bell "the last hero your Familia left behind" (in the Japanese his grandson by adoption, {{ja|義孫|gison}}).[@fm05-zeus, fm05-ja-zeus] [[ouranos|Ouranos]] sees Bell as "a parting gift from that Zeus".[@fm17-gift] Zeus's debauchery is notorious; Zald insists he does not share it.[@ar03-blood, fm20-heroes]
+- **[[zeus|Zeus]].** [[bell-cranell|Bell]]'s grandfather, who raised him, is revealed in DanMachi 5 to be Zeus; [[hermes|Hermes]] calls Bell "the last hero your Familia left behind" (in the Japanese he also calls Bell Zeus's grandson, said *mago* and written *adoptive grandson*, {{ja|義孫|mago}}).[@fm05-zeus, fm05-ja-zeus] [[ouranos|Ouranos]] sees Bell as "a parting gift from that Zeus".[@fm17-gift] Zeus's debauchery is notorious; Zald insists he does not share it.[@ar03-blood, fm20-heroes]
 - **[[hera|Hera]].** {{statement}} Ouranos describes [[freya|Freya]] as having "lost to Hera" and become bound to Orario.[@fm17-gift]
-- **A child of both Familias.** In Astrea Record 3's extra story Alfia says her younger sister's son carries the blood of a child of Hera and of one of Zeus's; Zald admits the father was one of the lowliest humans in his Familia. The dying sister, Metelia, entrusted the boy to Zeus.[@ar03-blood] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-blood, fm05-zeus]
+- **A child of both Familias.** In Astrea Record 3's extra story Alfia says her younger sister's son carries the blood of a child of Hera and of one of Zeus's; Zald admits the father was one of the lowliest humans in his Familia. The dying sister, Metelia, entrusted the boy to Zeus.[@ar03-blood] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though his name was not located in the checked text.[@ar03-blood, fm05-zeus]
 
 ## Open questions
 
@@ -82,7 +82,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@ar01-dark-age]: AR01 | Prologue: The Unforgettable Melody of Justice | Prologue: "Zeus and Hera’s defeat at the hands of the Black Dragon was the harbinger of the Age of Darkness."
 [@ar01-thousand]: AR01 | Chapter 1: Astrea Familia | "Zeus and Hera ruled over Orario for a thousand years without a single threat to their existence."
 [@ar01-rivals]: AR01 | Chapter 6: Assemblies of Light and Dark | Rivals harboured unreported Level 6 or Level 7 captains; Zeus and Hera came out on top.
-[@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | Osiris Familia, twelve years ago; several Level 6s and the Level 7 captain Melty Zara; thrown out by Orario.
+[@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | Osiris Familia, defeated more than twenty years before, when the Dark Age had not yet begun (the Japanese edition, file c6WV); several Level 6s and the Level 7 captain Melty Zara; thrown out by Orario.
 [@ar02-history]: AR02 | | "The two most powerful forces in Orario’s thousand-year history."
 [@ar02-remnants]: AR02 | | The enemy led by Erebus has "two old members of Zeus Familia and Hera Familia on their side".
 [@ar03-horus]: AR03 | Prologue: Last Intermission | "When Zeus and Hera were warring with Horus and Sobek? It was like a Great Conflict every night!"
@@ -96,7 +96,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@fc02-ottar]: FC02 | The Origin of the Strongest | Defeats by Zeus and Hera followers; "the Level-8 supreme"; "the Level-9 empress"; every Level Up after Level 5 related to them.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | "Rejoice, Great Lord Zeus! Your grandson is the real deal! The last hero your Familia left behind!"
 [@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson. Yen Press prints "grandson".
-[@fm06-fall]: FM06 | | Hermes: fifteen years ago; the Behemoth and the Leviathan defeated; "wiped them out"; Loki and Freya forced them out; the Guild did not protect them.
+[@fm06-fall]: FM06 | | Hermes: fifteen years ago; the Behemoth and the Leviathan defeated; "wiped them out"; Loki and Freya forced them out; the Guild did not protect them. The Japanese edition (file c1RJ, paragraphs 39, 42 and 58) dates both to fifteen years before: the campaign, at the height of their power, and Loki and Freya's overthrow of the two Familias.
 [@fm11-ouranos]: FM11 | Epilogue: And So I Start to Run Again | "With Zeus and Hera gone, the military forces at my command are limited."
 [@fm17-gift]: FM17 | Chapter 2: Alone Inside a Sandbox | "A parting gift from that Zeus"; to Freya: "You, who lost to Hera and became bound to Orario?"
 [@fm18-garden]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Thalia's Ice Garden: its key is "Undiscovered, as of now. At the very least, Zeus and Hera couldn’t find it"; only a little trinket brought back.

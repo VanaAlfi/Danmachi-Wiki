@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["ar01-erebus"]},
-      {"label": "Alias", "value": "Eren", "refs": ["ar01-erebus"]},
+      {"label": "Also called", "value": "Eren", "refs": ["ar01-erebus"]},
       {"section": "Great Conflict"},
       {"label": "Role", "value": "Leader of the [[evils|Evils]]", "refs": ["ar03-erebus"]},
       {"label": "Fate", "value": "Taken to the surface and returned to the heavens by Astrea", "refs": ["ar03-end"]}

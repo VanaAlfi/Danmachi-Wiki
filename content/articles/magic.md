@@ -16,14 +16,14 @@
       {"section": "Term"},
       {"label": "Kinds", "value": "Innate (racial) and acquired (through the Falna)", "refs": ["fm02-kinds"]},
       {"label": "Recorded in", "value": "The Magic slots of a [[status|Status]]", "refs": ["fm02-trigger", "so01-slots"]},
-      {"label": "Maximum", "value": "Three spells", "refs": ["fm01-three", "so01-slots"]},
+      {"label": "Maximum", "value": "Three spell slots", "refs": ["fm01-three", "so01-slots"]},
       {"label": "Resource", "value": "Mind (mental energy)", "refs": ["fm02-minddown"]},
       {"section": "Casting"},
       {"label": "Usual trigger", "value": "An incantation, then the spell's name", "refs": ["fm02-trigger", "so01-airiel"]},
       {"label": "Failure", "value": "Ignis Fatuus", "refs": ["fm05-ignis"]}
     ]
   },
-  "sections": [{"anchor": "firebolt", "title": "Firebolt", "summary": "Bell Cranell's only spell: Swift-Strike Magic learned from a grimoire, which fires electric flame the moment he says its name. It needs no incantation.", "aliases": ["Swift-Strike Magic", "Fire Bolt"], "former_slug": "firebolt"}, {"anchor": "cinder-ella", "title": "Cinder Ella", "summary": "Lilliluka Erde's shape-shifting spell. A short activation chant gives her the form she pictures; a separate release chant, \"Stroke of midnight's bell\", ends it.", "aliases": ["Your scars are mine", "Stroke of midnight's bell"], "former_slug": "cinder-ella"}, {"anchor": "will-o-the-wisp", "title": "Will-o'-the-Wisp", "summary": "Welf Crozzo's anti-magic spell. A very short chant, \"Blasphemous Burn\", sets off an Ignis Fatuus in an enemy who is gathering magic power, so their own spell or magical attack explodes.", "aliases": ["Will-o-Wisp", "Blasphemous Burn", "anti-magic fire"], "former_slug": "will-o-the-wisp"}, {"anchor": "futsu-no-mitama", "title": "Futsu no Mitama", "summary": "Yamato Mikoto's gravity spell. A chant of several lines ending in \"Shinbu Tousei\" drops a sword of violet light that raises gravity inside a dome, crushing everything within it, Mikoto included. Printed once as Futsu no Tama.", "aliases": ["Futsu no Tama", "Shinbu Tousei"], "former_slug": "futsu-no-mitama"}, {"anchor": "uchide-no-kozuchi", "title": "Uchide no Kozuchi", "summary": "Haruhime's magic, usually called Level Boost, which temporarily raises one other person's Level.", "aliases": ["Level Boost"], "former_slug": "uchide-no-kozuchi"}, {"anchor": "kokonoe", "title": "Kokonoe", "summary": "Haruhime's second spell, an enchantment that stores the effect of her next spell in tails of light so she can release it on several people at once; up to nine tails.", "aliases": [], "former_slug": "kokonoe"}, {"anchor": "airiel", "title": "Airiel", "summary": "Aiz Wallenstein's only spell, a wind enchantment called with the short chant \"Awaken, Tempest\". It wraps her and her sword in wind, raising speed, attack and protection.", "aliases": ["Awaken, Tempest", "Tempest", "Lil Rafaga", "Tempest Avenger"], "former_slug": "airiel"}, {"anchor": "arcs-ray", "title": "Arcs Ray", "summary": "Lefiya Viridis's own single-target attack spell: a short chant that fires a homing beam of golden light.", "aliases": [], "former_slug": "arcs-ray"}, {"anchor": "fusillade-fallarica", "title": "Fusillade Fallarica", "summary": "Lefiya Viridis's wide-range fire spell, which rains countless flaming arrows on an area after a chant of several lines.", "aliases": [], "former_slug": "fusillade-fallarica"}, {"anchor": "elf-ring", "title": "Elf Ring", "summary": "Lefiya Viridis's summoning magic (a \"Summon Burst\"): after its own chant she can cast another elf's spell, paying Mind for both. It is the source of her title, Thousand Elf.", "aliases": ["Summon Burst"], "former_slug": "elf-ring"}, {"anchor": "wynn-fimbulvetr", "title": "Wynn Fimbulvetr", "summary": "Riveria Ljos Alf's ice spell, the first of her attack spells and the one she manifested with her first Falna. Its chant can be continued into her fire spell Rea Laevateinn. Lefiya can summon it through Elf Ring.", "aliases": [], "former_slug": "wynn-fimbulvetr"}, {"anchor": "rea-laevateinn", "title": "Rea Laevateinn", "summary": "Riveria Ljos Alf's long-chant fire spell: pillars of flame erupt across a huge magic circle that can tell friend from foe. Its circle is also used as a detector. Printed once as Rae Laevateinn.", "aliases": ["Rae Laevateinn"], "former_slug": "rea-laevateinn"}, {"anchor": "hell-finegas", "title": "Hell Finegas", "summary": "Finn Deimne's berserk enchantment. An ultrashort chant turns his eyes crimson and greatly raises his abilities, but fills him with battle lust and takes away his judgment, so he cannot command while it lasts.", "aliases": ["Berserker spell"], "former_slug": "hell-finegas"}, {"anchor": "hati", "title": "Hati", "summary": "Bete Loga's own magic, which he long refused to use: a fire enchantment on his arms and legs, cast with a chant of several lines, that absorbs magic and grows stronger the more he is hurt.", "aliases": [], "former_slug": "hati"}, {"anchor": "luminous-wind", "title": "Luminous Wind", "summary": "Lyu Leon's strongest attack spell: a chant of several lines releases many orbs of starlight wrapped in green wind. It appears in two different English chant translations.", "aliases": [], "former_slug": "luminous-wind"}, {"anchor": "noa-heal", "title": "Noa Heal", "summary": "Lyu Leon's healing spell. It closes wounds and restores stamina, strongly but slowly, and works better in wooded places. DanMachi 18 says it heals one person at a time. Printed as Noah Heal in Sword Oratoria 5.", "aliases": ["Noah Heal"], "former_slug": "noa-heal"}, {"anchor": "hell-kaios", "title": "Hell Kaios", "summary": "Aisha Belka's attack spell: after a chant she usually recites while fighting, her blade releases a huge crimson cutting wave. Its chant is printed in two different English translations.", "aliases": ["Hipporyute", "Hippolyta"], "former_slug": "hell-kaios"}, {"anchor": "aro-zephyros", "title": "Aro Zephyros", "summary": "Hyacinthus's homing fire spell: a burning disk thrown like a discus, which chases its target and can be detonated with the spell key \"Rubele\".", "aliases": ["Rubele"], "former_slug": "aro-zephyros"}, {"anchor": "dia-orpheus", "title": "Dia Orpheus", "summary": "Fels's resurrection magic, cast with an extremely long chant at the cost of all Fels's Mind. After some eight hundred years it succeeds for the first time in DanMachi 10, bringing Wiene back to life.", "aliases": [], "former_slug": "dia-orpheus"}, {"anchor": "magia-kreis", "title": "Magia Kreis", "summary": "Nina Tulle's ranged healing spell, which also passes Mind to others and lengthens the effect of buffs from magic and items.", "aliases": ["Magia Kris"], "former_slug": "magia-kreis"}, {"anchor": "via-shilheim", "title": "Via Shilheim", "summary": "Riveria Ljos Alf's protective barrier: a jade dome that shields everyone inside its magic circle from physical and magical attacks. It can be held ready and released on command, but it is not unbreakable.", "aliases": []}, {"anchor": "dia-frater", "title": "Dia Frater", "summary": "Amid Teasanare's healing spell: a white, diamond-shaped circle that heals wounds, restores stamina, clears poison and lifts curses. Amid can choose which of those effects to use, and can hold it as a healing zone for a whole squad.", "aliases": ["Dea Saint"]}, {"anchor": "lunus-wolfsbane", "title": "Lunus Wolfsbane", "summary": "The curse of Uranda, a new member of Astrea Familia: a magic stake that torments Uranda herself in exchange for binding her target and lowering their Status. Lyu escapes it by leaving its range.", "aliases": ["Uranda"]}, {"anchor": "hildis-vini", "title": "Hildis Vini", "summary": "Ottar's one and only magic: a short-chant enhancement spell that wraps him and his weapon in golden light and raises the weapon's power. Used against Zald, the Udaeus and Bell's Argo Vesta.", "aliases": []}, {"anchor": "satanas-verion", "title": "Satanas Verion", "summary": "Alfia's attack magic: an invisible wall of destructive sound released with the one-word ultrashort chant \"Gospel\". Its leftover energy can be detonated with the spell key \"Rugio\".", "aliases": ["Gospel", "Rugio", "Alfia"]}, {"anchor": "silentium-eden", "title": "Silentium Eden", "summary": "Alfia's defensive enchantment, raised with the word \"Ataraxia\": an invisible shroud that automatically cancels magic aimed at her, at the cost of Mind and of weakening her own magic.", "aliases": ["Ataraxia", "Alfia"]}, {"anchor": "genos-angelus", "title": "Genos Angelus", "summary": "Alfia's final spell, an ultra-long chant that summons a great gray bell and releases a howl of destruction over more than a hundred meders. She used it to finish the Leviathan; in Astrea Record 3 Lyra's shield stops it.", "aliases": ["Alfia"]}, {"anchor": "rea-ambrosia", "title": "Rea Ambrosia", "summary": "Zald's fire magic, shown once in his final duel with Ottar: his weapon is clad in flames that spread through the arena. Not the same as Deus Ambrosia, his eating-based Rare Skill.", "aliases": ["Zald", "Deus Ambrosia"]}, {"anchor": "dialv-dis", "title": "Dialv Dis", "summary": "Vena Dis's fire magic: magic circles open in the sky and bring down pillars of hellfire, four on Orario's churches in Astrea Record 1 and ten around Hedin and Hegni in Astrea Record 3. Distinct from the sisters' Dialv Otua and Dialv Stige.", "aliases": ["Vena Dis", "Dis sisters", "Dialv Otua"]}, {"anchor": "dialv-stige", "title": "Dialv Stige", "summary": "Dina Dis's curse, which trades basic abilities with whoever she touches: she takes half their Strength and Agility and gives up Defense and Magic in return. With her sister Vena it sharpens both their roles, but leaves Dina with little Defense.", "aliases": ["Dina Dis", "Black mire"]}, {"anchor": "shaldo", "title": "Shaldo", "summary": "Valletta Grede's only spell: a Status Down field of reddish-purple circles that saps the power and speed of anyone who enters uninvited, worse the more they move. It needs a long chant and much Mind, and ends if she leaves it.", "aliases": ["Valletta"]}, {"anchor": "hal-reshef", "title": "Hal Reshef", "summary": "The illusionary curse of Seal, leader of Resheph Familia: through eye contact it makes the victim see their most beloved person in the people around them and relive painful memories. It persists after the caster's death until its time runs out.", "aliases": ["Seal", "Wind of pestilence"]}, {"anchor": "kalima", "title": "Kalima", "summary": "Argana's curse, which the goddess Kali calls Blood Drain: drinking an ample amount of blood from someone with a Falna raises her abilities, at the cost of a sharp fall in endurance.", "aliases": ["Blood Drain", "Argana"]}, {"anchor": "velgas", "title": "Velgas", "summary": "Bache's only magic: a poison enchantment called with the ultra-short chant \"Die Asura\". It coats her right hand, or since Level 6 her whole body, in blackish-purple light that poisons whatever it touches.", "aliases": ["Die Asura", "Poison Queen", "Bache"]}, {"anchor": "sharay-silencing-curse", "title": "Sharay's silencing curse", "summary": "An unnamed curse cast by Sharay of Ishtar Familia in Sword Oratoria 6: a high-pitched sound wave that leaves its target unable to use magic. It stops Aiz from casting Airiel until the curse is undone.", "aliases": ["silencing curse", "Sharay"]}, {"anchor": "remisto-felis", "title": "Remisto Felis", "summary": "Anya Fromel's magic: a sung, wide-area debuff that lowers the abilities of everyone who hears it, friend or foe, and disrupts Skills and magic. Usable once in more than twelve hours.", "aliases": []}, {"anchor": "felis-kurus", "title": "Felis Kurus", "summary": "Chloe Lolo's illusion magic: a one-word chant creates mirror-image mirages of her that move at her command but cannot attack or defend. Two at most in Familia Chronicle 1; Chloe claims three in DanMachi 18.", "aliases": []}, {"anchor": "glarinese-fromel", "title": "Glarinese Fromel", "summary": "Allen Fromel's one and only magic: a sung chariot spell that wraps him in silver-blue light and keeps accelerating him, his striking power rising with his speed and no upper limit. Revealed in the DanMachi 18 Familia War.", "aliases": []}, {"anchor": "dainsleif", "title": "Dáinsleif", "summary": "Hegni Ragnar's personality-changing magic, the source of his title: a short cast turns the timid dark elf into the merciless warrior king he imagines. It does not raise his Status, and it has to be kept active like an enchantment.", "aliases": ["Dainsleif"]}, {"anchor": "caurus-hildr", "title": "Caurus Hildr", "summary": "Hedin Selrand's super-short-cast lightning barrage: a single stanza releases a rain of head-sized lightning orbs that he can aim precisely or spread over a wide area. The first of his three magics.", "aliases": []}, {"anchor": "valiant-hildr", "title": "Valiant Hildr", "summary": "Hedin Selrand's lightning cannon: a one-sentence chant releases a single enormous bolt, where Caurus Hildr scatters many. Used against Ottar's golden slash and to kill Vena Dis.", "aliases": []}, {"anchor": "laurus-hildr", "title": "Laurus Hildr", "summary": "Hedin Selrand's third and final magic: a rare enchantment that heals its target and wraps them in a blessing of lightning. He cannot cast it on himself; in DanMachi 18 he gives it to Bell with the last of his Mind.", "aliases": []}, {"anchor": "zeo-gullveig", "title": "Zeo Gullveig", "summary": "Heith Velvet's healing magic: a golden magic circle that heals across a huge area, reviving fallen fighters in the DanMachi 18 Familia War. Astrea Record 3 credits it to the Andhrímnir as a formation.", "aliases": []}, {"anchor": "ars-gullveig", "title": "Ars Gullveig", "summary": "Heith Velvet's auto-heal: a rare magic that keeps regenerating her and the Andhrímnir for a set period. In DanMachi 18 it outlasts fire and magic swords until Hedin wears her down.", "aliases": []}, {"anchor": "vana-seidr", "title": "Vana Seiðr", "summary": "Hörn's secret transformation spell: she becomes an exact copy of Freya, or of Syr, lacking only Arcanum, and while it lasts her senses are linked to the goddess's.", "aliases": ["Vana Seidr"]}, {"anchor": "veil-breath", "title": "Veil Breath", "summary": "Riveria Ljos Alf's protective magic: a jade film of light that guards against physical and magical attacks for a set time and heals a little. Lefiya summons it through Elf Ring.", "aliases": []}, {"anchor": "luna-aldis", "title": "Luna Aldis", "summary": "Riveria Ljos Alf's healing magic, seen only once in the covered English volumes: Lefiya summons it through Elf Ring in Sword Oratoria 12 to heal Lyu.", "aliases": []}, {"anchor": "restrict-iorum", "title": "Restrict Iorum", "summary": "Tione Hyrute's restrictive magic: a whip of bluish-purple light that has a set chance of rooting its target to the spot. Its hit rate depends on her Magic ability.", "aliases": []}, {"anchor": "astrea-record-spell", "title": "Astrea Record (spell)", "summary": "Lyu Leon's third magic, \"inherited justice\": after a chant that raises a sanctuary of light, she can use the magic of her dead Astrea Familia companions, such as Alize's fire enchantment, Kaguya's Gokou and Maryu's Rea Vindemia.", "aliases": ["Inherited justice"]}, {"anchor": "agris-arvensis", "title": "Agris Arvensis", "summary": "Alize Lovell's fire enchantment, which sheathes arms, legs and sword in flame and earned her the title Scarlett Harnell; its chant is the single word \"Alga\", and its spell key sets the flame off. After her death Lyu uses it through Astrea Record. Printed under three spellings.", "aliases": ["Agaris Alvesince", "Agallis Arvesynce", "Alveria", "Arvellia", "Alga", "Alvarna"]}, {"anchor": "dio-thyrsos", "title": "Dio Thyrsos", "summary": "Filvis Challia's short-trigger lightning spell, one short phrase long. Later Lefiya summons it through Elf Ring as rapid fire; in Sword Oratoria 12 the creature Filvis fires it as black lightning.", "aliases": []}, {"anchor": "dio-grail", "title": "Dio Grail", "summary": "Filvis Challia's ultrashort barrier spell: a pure-white shield around her and her companions against physical and magical attacks. She teaches it to Lefiya, who summons it through Elf Ring on the Floor 59 expedition and in the final battle with Filvis.", "aliases": []}, {"anchor": "einsel", "title": "Einsel", "summary": "Filvis Challia's cloning magic: it creates a true second self, Ein, at the price of halving her Status for as long as it lasts. Only the chant that ends it is printed.", "aliases": []}, {"anchor": "dia-panacea", "title": "Dia Panacea", "summary": "Fels's healing magic, cast through a patterned glove: coloured spheres of light heal every kind of injury and ailment, \"similar to an elixir\". Separate from Dia Orpheus.", "aliases": []}, {"anchor": "lagriell-krisheim", "title": "Lagriell Krisheim", "summary": "Nina Tulle's rare purifying magic: a midsize healing barrier, a field of white flowers or feathers, that cleanses poison, paralysis and other debuffs and keeps out curses and mental attacks, though not direct attacks.", "aliases": ["Krisheim"]}, {"anchor": "darbh-daol", "title": "Darbh Daol", "summary": "Nahza Ersuisu's one and only magic: an anti-status spell that pours black particles like a swarm of insects from her broken silver arm, causing no damage but a crushing fatigue. It manifested when she lost her right arm.", "aliases": []}, {"anchor": "phobetor-daedalus", "title": "Phobetor Daedalus", "summary": "Dix Perdix's confusion curse: a wave of crimson light with an extremely short trigger and a wide range that drives everyone it touches into a mindless rampage against friend and foe. While it lasts his Status drops by about a Level.", "aliases": []}, {"anchor": "hail-dust", "title": "Hail Dust", "summary": "The ice magic of Alicia Forestlight of Loki Familia, which Lefiya summons through Elf Ring in Sword Oratoria 13: a sphere of hail that rains ice on the enemy from every angle.", "aliases": []}, {"anchor": "gokou", "title": "Gokou", "summary": "Gojouno Kaguya's magic, which Lyu later uses through Astrea Record: it creates magic slashes in positions the caster sets. Kaguya combined it with her sword draw into five slashes from every side.", "aliases": []}, {"anchor": "rea-vindemia", "title": "Rea Vindemia", "summary": "The area healing of Maryu, Astrea Familia's only healer. Lyu later uses it through Astrea Record in the DanMachi 18 Familia War.", "aliases": []}, {"anchor": "soul-light", "title": "Soul Light", "summary": "Cassandra Illion's healing magic: a sunlike light that closes wounds, cast over an area about ten meders across. It cannot overcome some parasitic or cursed wounds.", "aliases": ["Soul light"]}, {"anchor": "raumure", "title": "Raumure", "summary": "Daphne Laulos's only magic: a short-chant protection spell, similar to an enchantment, that slightly raises her endurance and greatly raises her agility. She dislikes using it.", "aliases": []}, {"anchor": "school-district-spells", "title": "Spells of School District students", "summary": "Spells of the School District students Bell and Lefiya guide: Legi's Dark Mine, Nano's Zalga Yell and Zalga Amalda, and Miliria's Silva Vine.", "aliases": ["Dark Mine", "Zalga Amalda", "Zalga Yell", "Silva Vine", "Silver Vine"]}, {"anchor": "elven-innate-magic", "title": "Innate elven magic: Gale Blast and Flare Burn", "summary": "Two spells of the elves' innate magic, cast without a Falna in Sword Oratoria 14: the royal forest knights' wind magic and the young Riveria's fire magic.", "aliases": ["Gale Blast", "Flare Burn", "Innate magic", "Equestrian casting"]}, {"anchor": "burn-dain", "title": "Burn Dáin", "summary": "Hegni Ragnar's short-range explosive fire spell: a super-short cast that engulfs everything within a small radius in flame. Used against Ottar in Familia Chronicle 2 and against Allen in DanMachi 18.", "aliases": ["Burn Dain"]}, {"anchor": "dialv-otua", "title": "Dialv Otua", "summary": "A spell the Dis sisters call out together in Astrea Record 3: balls of black fire rain like meteors over the defenders of the Amphitheatrum.", "aliases": []}, {"anchor": "corrupted-spirit-spells", "title": "Spells of the corrupted spirits", "summary": "The elemental spells of the corrupted spirits (demi-spirits) Loki Familia fights: Fire Storm, Meteor Swarm, Thunder Ray, Icicle Edge, Light Burst, Dark Roar and the lightning armour Caelum Veil. Their chants call on an elemental spirit as its envoy.", "aliases": ["Fire Storm", "Meteor Swarm", "Thunder Ray", "Icicle Edge", "Light Burst", "Dark Roar", "Caelum Veil", "Distel", "Demi-spirit magic"]}, {"anchor": "riveria-nine-spells", "title": "Riveria Ljos Alf's nine spells", "summary": "The full list of Riveria Ljos Alf's nine spells from her illustrated Status sheet, with the four known only from the sheets: Vas Windheim (third level of her attack magic), Liv Ilusio (first level of her defence magic), Fil Eldis and Van Alheim (first and third levels of her healing magic).", "aliases": ["Vas Windheim", "Liv Ilusio", "Fil Eldis", "Van Alheim", "Nine Hell spells"]}, {"anchor": "tir-na-nog", "title": "Tir na Nog", "summary": "Finn Deimne's second spell, known only from his Sword Oratoria 8 Status sheet: spear-throwing magic that adds the values of his Level and abilities, latent values included, to his Magic; usable once every twenty-four hours.", "aliases": []}, {"anchor": "earth-raid", "title": "Earth Raid", "summary": "Gareth Landrock's only spell, known only from his Sword Oratoria 7 Status sheet: earth-destroying magic whose power follows his Strength, and which can be cast only while he is on the ground.", "aliases": []}, {"anchor": "ardee-varma-spells", "title": "Ardee Varma's spells: Ghana Avimutta and Dia Kaumudi", "summary": "The two spells on Ardee Varma's Astrea Record 2 Status sheet: Ghana Avimutta, restraining magic that lowers a target's abilities and is likely to immobilise it, and Dia Kaumudi, recovery magic that also briefly raises its targets' stats.", "aliases": ["Ghana Avimutta", "Dia Kaumudi", "Ardee Varma"]}, {"anchor": "cure-ephialtes", "title": "Cure Ephialtes", "summary": "Cassandra Illion's second spell, known only from her DanMachi 14 Status sheet, which describes it in two words: it dispels harm.", "aliases": []}, {"anchor": "blaze-of-the-round", "title": "Blaze of the Round", "summary": "Leon Verdenberg's magic: a short chant forms a weapon of golden light, and each time one of these weapons is destroyed the next appears and his Status grows stronger, through eleven trials to a final pinnacle. Leon calls it a very inefficient spell.", "aliases": ["Percil", "Gable", "Darbazar", "Phyron", "Regnalis Leo", "Twelve seats of greatness"]}]
+  "sections": [{"anchor": "firebolt", "title": "Firebolt", "summary": "Bell Cranell's only spell: Swift-Strike Magic learned from a grimoire, which fires electric flame the moment he says its name. It needs no incantation.", "aliases": ["Swift-Strike Magic", "Fire Bolt"], "former_slug": "firebolt"}, {"anchor": "cinder-ella", "title": "Cinder Ella", "summary": "Lilliluka Erde's shape-shifting spell. A short activation chant gives her the form she pictures; a separate release chant, \"Stroke of midnight's bell\", ends it.", "aliases": ["Your scars are mine", "Stroke of midnight's bell"], "former_slug": "cinder-ella"}, {"anchor": "will-o-the-wisp", "title": "Will-o'-the-Wisp", "summary": "Welf Crozzo's anti-magic spell. A very short chant, \"Blasphemous Burn\", sets off an Ignis Fatuus in an enemy who is gathering magic power, so their own spell or magical attack explodes.", "aliases": ["Will-o-Wisp", "Blasphemous Burn", "anti-magic fire"], "former_slug": "will-o-the-wisp"}, {"anchor": "futsu-no-mitama", "title": "Futsu no Mitama", "summary": "Yamato Mikoto's gravity spell. A chant of several lines ending in \"Shinbu Tousei\" drops a sword of violet light that raises gravity inside a dome, crushing everything within it, Mikoto included. Printed once as Futsu no Tama.", "aliases": ["Futsu no Tama", "Shinbu Tousei"], "former_slug": "futsu-no-mitama"}, {"anchor": "uchide-no-kozuchi", "title": "Uchide no Kozuchi", "summary": "Haruhime's magic, usually called Level Boost, which temporarily raises one other person's Level.", "aliases": ["Level Boost"], "former_slug": "uchide-no-kozuchi"}, {"anchor": "kokonoe", "title": "Kokonoe", "summary": "Haruhime's second spell, an enchantment that stores the effect of her next spell in tails of light so she can release it on several people at once; up to nine tails.", "aliases": [], "former_slug": "kokonoe"}, {"anchor": "airiel", "title": "Airiel", "summary": "Aiz Wallenstein's only spell, a wind enchantment called with the short chant \"Awaken, Tempest\". It wraps her and her sword in wind, raising speed, attack and protection.", "aliases": ["Awaken, Tempest", "Tempest", "Lil Rafaga", "Tempest Avenger"], "former_slug": "airiel"}, {"anchor": "arcs-ray", "title": "Arcs Ray", "summary": "Lefiya Viridis's own single-target attack spell: a short chant that fires a homing beam of golden light.", "aliases": [], "former_slug": "arcs-ray"}, {"anchor": "fusillade-fallarica", "title": "Fusillade Fallarica", "summary": "Lefiya Viridis's wide-range fire spell, which rains countless flaming arrows on an area after a chant of several lines.", "aliases": [], "former_slug": "fusillade-fallarica"}, {"anchor": "elf-ring", "title": "Elf Ring", "summary": "Lefiya Viridis's summoning magic (a \"Summon Burst\"): after its own chant she can cast another elf's spell, paying Mind for both. It is the source of her title, Thousand Elf.", "aliases": ["Summon Burst"], "former_slug": "elf-ring"}, {"anchor": "wynn-fimbulvetr", "title": "Wynn Fimbulvetr", "summary": "Riveria Ljos Alf's ice spell, the first of her attack spells and the one she manifested with her first Falna. Its chant can be continued into her fire spell Rea Laevateinn. Lefiya can summon it through Elf Ring.", "aliases": [], "former_slug": "wynn-fimbulvetr"}, {"anchor": "rea-laevateinn", "title": "Rea Laevateinn", "summary": "Riveria Ljos Alf's long-chant fire spell: pillars of flame erupt across a huge magic circle that can tell friend from foe. Its circle is also used as a detector. Printed once as Rae Laevateinn.", "aliases": ["Rae Laevateinn"], "former_slug": "rea-laevateinn"}, {"anchor": "hell-finegas", "title": "Hell Finegas", "summary": "Finn Deimne's berserk enchantment. An ultrashort chant turns his eyes crimson and greatly raises his abilities, but fills him with battle lust and takes away his judgment, so he cannot command while it lasts.", "aliases": ["Berserker spell"], "former_slug": "hell-finegas"}, {"anchor": "hati", "title": "Hati", "summary": "Bete Loga's own magic, which he long refused to use: a fire enchantment on his arms and legs, cast with a chant of several lines, that absorbs magic and grows stronger the more he is hurt.", "aliases": [], "former_slug": "hati"}, {"anchor": "luminous-wind", "title": "Luminous Wind", "summary": "Lyu Leon's strongest attack spell: a chant of several lines releases many orbs of starlight wrapped in green wind. It appears in two different English chant translations.", "aliases": [], "former_slug": "luminous-wind"}, {"anchor": "noa-heal", "title": "Noa Heal", "summary": "Lyu Leon's healing spell. It closes wounds and restores stamina, strongly but slowly, and works better in wooded places. DanMachi 18 says it heals one person at a time. Printed as Noah Heal in Sword Oratoria 5.", "aliases": ["Noah Heal"], "former_slug": "noa-heal"}, {"anchor": "hell-kaios", "title": "Hell Kaios", "summary": "Aisha Belka's attack spell: after a chant she usually recites while fighting, her blade releases a huge crimson cutting wave. Its chant is printed in two different English translations.", "aliases": ["Hipporyute", "Hippolyta"], "former_slug": "hell-kaios"}, {"anchor": "aro-zephyros", "title": "Aro Zephyros", "summary": "Hyacinthus's homing fire spell: a burning disk thrown like a discus, which chases its target and can be detonated with the spell key \"Rubele\".", "aliases": ["Rubele"], "former_slug": "aro-zephyros"}, {"anchor": "dia-orpheus", "title": "Dia Orpheus", "summary": "Fels's resurrection magic, cast with an extremely long chant at the cost of all Fels's Mind. After some eight hundred years it succeeds for the first time in DanMachi 10, bringing Wiene back to life.", "aliases": [], "former_slug": "dia-orpheus"}, {"anchor": "magia-kreis", "title": "Magia Kreis", "summary": "Nina Tulle's ranged healing spell, which also passes Mind to others and lengthens the effect of buffs from magic and items.", "aliases": ["Magia Kris"], "former_slug": "magia-kreis"}, {"anchor": "via-shilheim", "title": "Via Shilheim", "summary": "Riveria Ljos Alf's protective barrier: a jade dome that shields everyone inside its magic circle from physical and magical attacks. It can be held ready and released on command, but it is not unbreakable.", "aliases": []}, {"anchor": "dia-frater", "title": "Dia Frater", "summary": "Amid Teasanare's healing spell: a white, diamond-shaped circle that heals wounds, restores stamina, clears poison and lifts curses. Amid can choose which of those effects to use, and can hold it as a healing zone for a whole squad.", "aliases": ["Dea Saint"]}, {"anchor": "lunus-wolfsbane", "title": "Lunus Wolfsbane", "summary": "The curse of Uranda, a new member of Astrea Familia: a magic stake that torments Uranda herself in exchange for binding her target and lowering their Status. Lyu escapes it by leaving its range.", "aliases": ["Uranda"]}, {"anchor": "hildis-vini", "title": "Hildis Vini", "summary": "Ottar's one and only magic: a short-chant enhancement spell that wraps him and his weapon in golden light and raises the weapon's power. Used against Zald, the Udaeus and Bell's Argo Vesta.", "aliases": []}, {"anchor": "satanas-verion", "title": "Satanas Verion", "summary": "Alfia's attack magic: an invisible wall of destructive sound released with the one-word ultrashort chant \"Gospel\". Its leftover energy can be detonated with the spell key \"Rugio\".", "aliases": ["Gospel", "Rugio", "Alfia"]}, {"anchor": "silentium-eden", "title": "Silentium Eden", "summary": "Alfia's defensive enchantment, raised with the word \"Ataraxia\": an invisible shroud that automatically cancels magic aimed at her, at the cost of Mind and of weakening her own magic.", "aliases": ["Ataraxia", "Alfia"]}, {"anchor": "genos-angelus", "title": "Genos Angelus", "summary": "Alfia's final spell, an ultra-long chant that summons a great gray bell and releases a howl of destruction over more than a hundred meders. She used it to finish the Leviathan; in Astrea Record 3 Lyra's shield stops it.", "aliases": ["Alfia"]}, {"anchor": "rea-ambrosia", "title": "Rea Ambrosia", "summary": "Zald's fire magic, shown once in his final duel with Ottar: his weapon is clad in flames that spread through the arena. Not the same as Deus Ambrosia, his eating-based Rare Skill.", "aliases": ["Zald", "Deus Ambrosia"]}, {"anchor": "dialv-dis", "title": "Dialv Dis", "summary": "Vena Dis's fire magic: magic circles open in the sky and bring down pillars of hellfire, four on Orario's churches in Astrea Record 1 and more than ten around Hedin and Hegni in Astrea Record 3. Distinct from the sisters' Dialv Otua and Dialv Stige.", "aliases": ["Vena Dis", "Dis sisters", "Dialv Otua"]}, {"anchor": "dialv-stige", "title": "Dialv Stige", "summary": "Dina Dis's curse, which trades basic abilities with whoever she touches: she takes half their Strength and Agility and gives up Defense and Magic in return. With her sister Vena it sharpens both their roles, but leaves Dina with little Defense.", "aliases": ["Dina Dis", "Black mire"]}, {"anchor": "shaldo", "title": "Shaldo", "summary": "Valletta Grede's only spell: a Status Down field of reddish-purple circles that saps the power and speed of anyone who enters uninvited, worse the more they move. It needs a long chant and much Mind, and ends if she leaves it.", "aliases": ["Valletta"]}, {"anchor": "hal-reshef", "title": "Hal Reshef", "summary": "The illusionary curse of Seal, leader of Resheph Familia: through eye contact it makes the victim see their most beloved person in the people around them and relive painful memories. It persists after the caster's death until its time runs out.", "aliases": ["Seal", "Wind of pestilence"]}, {"anchor": "kalima", "title": "Kalima", "summary": "Argana's curse, which the goddess Kali calls Blood Drain: drinking an ample amount of blood from someone with a Falna raises her abilities, at the cost of a sharp fall in endurance.", "aliases": ["Blood Drain", "Argana"]}, {"anchor": "velgas", "title": "Velgas", "summary": "Bache's only magic: a poison enchantment called with the ultra-short chant \"Die Asura\". It coats her right hand, or since Level 6 her whole body, in blackish-purple light that poisons whatever it touches.", "aliases": ["Die Asura", "Poison Queen", "Bache"]}, {"anchor": "sharay-silencing-curse", "title": "Sharay's silencing curse", "summary": "An unnamed curse cast by Sharay of Ishtar Familia in Sword Oratoria 6: a high-pitched sound wave that leaves its target unable to use magic. It stops Aiz from casting Airiel until the curse is undone.", "aliases": ["silencing curse", "Sharay"]}, {"anchor": "remisto-felis", "title": "Remisto Felis", "summary": "Anya Fromel's magic: a sung, wide-area debuff that lowers the abilities of everyone who hears it, friend or foe, and disrupts Skills and magic. Usable once in more than twelve hours.", "aliases": []}, {"anchor": "felis-kurus", "title": "Felis Kurus", "summary": "Chloe Lolo's illusion magic: a one-word chant creates mirror-image mirages of her that move at her command but cannot attack or defend. Two at most in Familia Chronicle 1; Chloe claims three in DanMachi 18.", "aliases": []}, {"anchor": "glarinese-fromel", "title": "Glarinese Fromel", "summary": "Allen Fromel's one and only magic: a sung chariot spell that wraps him in silver-blue light and keeps accelerating him, his striking power rising with his speed and no upper limit. Revealed in the DanMachi 18 Familia War.", "aliases": []}, {"anchor": "dainsleif", "title": "Dáinsleif", "summary": "Hegni Ragnar's personality-changing magic, the source of his title: a short cast turns the timid dark elf into the merciless warrior king he imagines. It does not raise his Status, and it has to be kept active like an enchantment.", "aliases": ["Dainsleif"]}, {"anchor": "caurus-hildr", "title": "Caurus Hildr", "summary": "Hedin Selrand's super-short-cast lightning barrage: a single stanza releases a rain of head-sized lightning orbs that he can aim precisely or spread over a wide area. The first of his three magics.", "aliases": []}, {"anchor": "valiant-hildr", "title": "Valiant Hildr", "summary": "Hedin Selrand's lightning cannon: a one-sentence chant releases a single enormous bolt, where Caurus Hildr scatters many. Used against Ottar's golden slash and to kill Vena Dis.", "aliases": []}, {"anchor": "laurus-hildr", "title": "Laurus Hildr", "summary": "Hedin Selrand's third and final magic: a rare enchantment that heals its target and wraps them in a blessing of lightning. He cannot cast it on himself; in DanMachi 18 he gives it to Bell with the last of his Mind.", "aliases": []}, {"anchor": "zeo-gullveig", "title": "Zeo Gullveig", "summary": "Heith Velvet's healing magic: a golden magic circle that heals across a huge area, reviving fallen fighters in the DanMachi 18 Familia War. Astrea Record 3 credits it to the Andhrímnir as a formation.", "aliases": []}, {"anchor": "ars-gullveig", "title": "Ars Gullveig", "summary": "Heith Velvet's auto-heal: a rare magic that keeps regenerating her and the Andhrímnir for a set period. In DanMachi 18 it outlasts fire and magic swords until Hedin wears her down.", "aliases": []}, {"anchor": "vana-seidr", "title": "Vana Seiðr", "summary": "Hörn's secret transformation spell: she becomes an exact copy of Freya, or of Syr, lacking only Arcanum, and while it lasts her senses are linked to the goddess's.", "aliases": ["Vana Seidr"]}, {"anchor": "veil-breath", "title": "Veil Breath", "summary": "Riveria Ljos Alf's protective magic: a jade film of light that guards against physical and magical attacks for a set time and heals a little. Lefiya summons it through Elf Ring.", "aliases": []}, {"anchor": "luna-aldis", "title": "Luna Aldis", "summary": "Riveria Ljos Alf's healing magic, seen only once in the covered English volumes: Lefiya summons it through Elf Ring in Sword Oratoria 12 to heal Lyu.", "aliases": []}, {"anchor": "restrict-iorum", "title": "Restrict Iorum", "summary": "Tione Hyrute's restrictive magic: a whip of bluish-purple light that has a set chance of rooting its target to the spot. Its hit rate depends on her Magic ability.", "aliases": ["Rist Iorum"]}, {"anchor": "astrea-record-spell", "title": "Astrea Record (spell)", "summary": "Lyu Leon's third magic, \"inherited justice\": after a chant that raises a sanctuary of light, she can use the magic of her dead Astrea Familia companions, such as Alize's fire enchantment, Kaguya's Gokou and Maryu's Rea Vindemia.", "aliases": ["Inherited justice"]}, {"anchor": "agris-arvensis", "title": "Agris Arvensis", "summary": "Alize Lovell's fire enchantment, which sheathes arms, legs and sword in flame and earned her the title Scarlett Harnell; its chant is the single word \"Alga\", and its spell key sets the flame off. After her death Lyu uses it through Astrea Record. Printed under three spellings.", "aliases": ["Agaris Alvesince", "Agallis Arvesynce", "Alveria", "Arvellia", "Alga", "Alvarna"]}, {"anchor": "dio-thyrsos", "title": "Dio Thyrsos", "summary": "Filvis Challia's short-trigger lightning spell, one short phrase long. Later Lefiya summons it through Elf Ring as rapid fire; in Sword Oratoria 12 the creature Filvis fires it as black lightning.", "aliases": []}, {"anchor": "dio-grail", "title": "Dio Grail", "summary": "Filvis Challia's ultrashort barrier spell: a pure-white shield around her and her companions against physical and magical attacks. She teaches it to Lefiya, who summons it through Elf Ring on the Floor 59 expedition and in the final battle with Filvis.", "aliases": []}, {"anchor": "einsel", "title": "Einsel", "summary": "Filvis Challia's cloning magic: it creates a true second self, Ein, at the price of halving her Status for as long as it lasts. Only the chant that ends it is printed.", "aliases": []}, {"anchor": "dia-panacea", "title": "Dia Panacea", "summary": "Fels's healing magic, cast through a patterned glove: coloured spheres of light heal every kind of injury and ailment, \"similar to an elixir\". Separate from Dia Orpheus.", "aliases": []}, {"anchor": "lagriell-krisheim", "title": "Lagriell Krisheim", "summary": "Nina Tulle's rare purifying magic: a midsize healing barrier, a field of white flowers or feathers, that cleanses poison, paralysis and other debuffs and keeps out curses and mental attacks, though not direct attacks.", "aliases": ["Krisheim"]}, {"anchor": "darbh-daol", "title": "Darbh Daol", "summary": "Nahza Ersuisu's one and only magic: an anti-status spell that pours black particles like a swarm of insects from her broken silver arm, causing no damage but a crushing fatigue. It manifested when she lost her right arm.", "aliases": []}, {"anchor": "phobetor-daedalus", "title": "Phobetor Daedalus", "summary": "Dix Perdix's confusion curse: a wave of crimson light with an extremely short trigger and a wide range that drives everyone it touches into a mindless rampage against friend and foe. While it lasts his Status drops by about a Level.", "aliases": []}, {"anchor": "hail-dust", "title": "Hail Dust", "summary": "The ice magic of Alicia Forestlight of Loki Familia, which Lefiya summons through Elf Ring in Sword Oratoria 13: a sphere of hail that rains ice on the enemy from every angle.", "aliases": []}, {"anchor": "gokou", "title": "Gokou", "summary": "Gojouno Kaguya's magic, which Lyu later uses through Astrea Record: it creates magic slashes in positions the caster sets. Kaguya combined it with her sword draw into five slashes from every side.", "aliases": []}, {"anchor": "rea-vindemia", "title": "Rea Vindemia", "summary": "The area healing of Maryu, Astrea Familia's only healer. Lyu later uses it through Astrea Record in the DanMachi 18 Familia War.", "aliases": []}, {"anchor": "soul-light", "title": "Soul Light", "summary": "Cassandra Illion's healing magic: a sunlike light that closes wounds, cast over an area about ten meders across. It cannot overcome some parasitic or cursed wounds.", "aliases": ["Soul light"]}, {"anchor": "raumure", "title": "Raumure", "summary": "Daphne Laulos's only magic: a short-chant protection spell, similar to an enchantment, that slightly raises her endurance and greatly raises her agility. She dislikes using it.", "aliases": []}, {"anchor": "school-district-spells", "title": "Spells of School District students", "summary": "Spells of the School District students Bell and Lefiya guide: Legi's Dark Mine, Nano's Zalga Yell and Zalga Amalda, and Miliria's Silva Vine.", "aliases": ["Dark Mine", "Zalga Amalda", "Zalga Yell", "Silva Vine", "Silver Vine"]}, {"anchor": "elven-innate-magic", "title": "Innate elven magic: Gale Blast and Flare Burn", "summary": "Two spells of the elves' innate magic, cast without a Falna in Sword Oratoria 14: probably the royal forest knights' wind magic and the young Riveria's fire magic.", "aliases": ["Gale Blast", "Flare Burn", "Innate magic", "Equestrian casting"]}, {"anchor": "burn-dain", "title": "Burn Dáin", "summary": "Hegni Ragnar's short-range explosive fire spell: a super-short cast that engulfs everything within a small radius in flame. Used against Ottar in Familia Chronicle 2 and against Allen in DanMachi 18.", "aliases": ["Burn Dain"]}, {"anchor": "dialv-otua", "title": "Dialv Otua", "summary": "A spell the Dis sisters call out together in Astrea Record 3: balls of black fire rain like meteors over the defenders of the Amphitheatrum.", "aliases": []}, {"anchor": "corrupted-spirit-spells", "title": "Spells of the corrupted spirits", "summary": "The elemental spells of the corrupted spirits (demi-spirits) Loki Familia fights: Fire Storm, Meteor Swarm, Thunder Ray, Icicle Edge, Light Burst, Dark Roar and the lightning armour Caelum Veil. Their chants call on an elemental spirit as its envoy.", "aliases": ["Fire Storm", "Meteor Swarm", "Thunder Ray", "Icicle Edge", "Light Burst", "Dark Roar", "Caelum Veil", "Distel", "Demi-spirit magic"]}, {"anchor": "riveria-nine-spells", "title": "Riveria Ljos Alf's nine spells", "summary": "The full list of Riveria Ljos Alf's nine spells from her illustrated Status sheet, with the four known only from the sheets: Vas Windheim (third level of her attack magic), Liv Ilusio (first level of her defence magic), Fil Eldis and Van Alheim (first and third levels of her healing magic).", "aliases": ["Vas Windheim", "Liv Ilusio", "Fil Eldis", "Van Alheim", "Nine Hell spells"]}, {"anchor": "tir-na-nog", "title": "Tir na Nog", "summary": "Finn Deimne's second spell, known only from his Sword Oratoria 8 Status sheet: spear-throwing magic that adds the values of his Level and abilities, latent values included, to his Magic; usable once every twenty-four hours.", "aliases": []}, {"anchor": "earth-raid", "title": "Earth Raid", "summary": "Gareth Landrock's only spell, known only from his Sword Oratoria 7 Status sheet: earth-destroying magic whose power follows his Strength, and which can be cast only while he is on the ground.", "aliases": []}, {"anchor": "ardee-varma-spells", "title": "Ardee Varma's spells: Ghana Avimutta and Dia Kaumudi", "summary": "The two spells on Ardee Varma's Astrea Record 2 Status sheet: Ghana Avimutta, restraining magic that lowers a target's abilities and is likely to immobilise it, and Dia Kaumudi, recovery magic that also briefly raises its targets' stats.", "aliases": ["Ghana Avimutta", "Dia Kaumudi", "Ardee Varma", "Ghana Avimusa"]}, {"anchor": "cure-ephialtes", "title": "Cure Ephialtes", "summary": "Cassandra Illion's second spell, known only from her DanMachi 14 Status sheet, which describes it in two words: it dispels harm.", "aliases": []}, {"anchor": "blaze-of-the-round", "title": "Blaze of the Round", "summary": "Leon Verdenberg's magic: a short chant forms a weapon of golden light, and each time one of these weapons is destroyed the next appears and his Status grows stronger, through eleven trials to a final pinnacle. Leon calls it a very inefficient spell.", "aliases": ["Percil", "Gable", "Darbazar", "Phyron", "Regnalis Leo", "Twelve seats of greatness"]}]
 }
 ---
 **Magic**, in the sense of spells, is one of the things a god's [[falna|Falna]] can record in a follower's [[status|Status]]. A spell appears in the Status with its name and a short description, and Hestia explains that the caster learns its incantation from the Status. Some of the Status sheets printed in the novels include the chant; others do not.[@fm02-trigger, fm15-cards] Casting uses Mind, the caster's mental energy.[@fm02-minddown]
@@ -39,13 +39,13 @@ Magic can also be forced into a Status by a **[[grimoire|grimoire]]**, a book th
 ## How many spells
 
 > [!NOTE] The novels describe spell slots in different ways
-> - DanMachi 1: a person can use up to three kinds of magic; one is common, two is valued. Bell sees only **one** magic slot in his own Status.[@fm01-three]
-> - Sword Oratoria 1: **every** Status has exactly three spell slots.[@so01-slots]
+> - DanMachi 1: a person can use up to three kinds of magic; one is common, and anyone who can use two is sought after by their companions. Bell sees only **one** magic slot in his own Status.[@fm01-three]
+> - Sword Oratoria 1: a Status has at most three spell slots.[@so01-slots]
 > - Sword Oratoria 2: a high-grade grimoire can also, with a certain probability, **add** a slot, the number of spells set for each person as an aptitude, up to an absolute maximum of three.[@so02-grimoire]
 > - Sword Oratoria 14: [[riveria|Riveria]]'s chant concatenation gives her nine types of magic from her slots.[@so14-nine]
 > - Sword Oratoria 6: Riveria's Status sheet lists three entries under Magic, each with three levels, nine spell names in all ([[#riveria-nine-spells|the list]]).[@riveria-nine-spells.so06-sheet]
 >
-> All sources agree on three spell slots as the ceiling for ordinary casters. They disagree on whether everyone starts with three; this wiki records both statements.
+> All sources agree on three spell slots as the ceiling for ordinary casters.
 
 ## Incantations
 
@@ -56,7 +56,7 @@ Most spells are cast by reciting the chant and then saying the spell's name, as 
 | Pattern | Example |
 |---|---|
 | No incantation at all; the name alone fires the spell | [[#firebolt|Firebolt]][@fm02-trigger] |
-| Very short chant | [[#will-o-the-wisp|Will-o'-the-Wisp]], [[#hell-finegas|Hell Finegas]][@so12-supershort, so04-ultrashort] |
+| Very short chant | [[#will-o-the-wisp|Will-o'-the-Wisp]], [[#hell-finegas|Hell Finegas]], [[#airiel|Airiel]][@so12-supershort, so04-ultrashort, so01-airiel] |
 | Long or extremely long chant | [[#rea-laevateinn|Rea Laevateinn]], [[#dia-orpheus|Dia Orpheus]][@so01-long, fm10-long] |
 | Name first, then the chant | [[#kokonoe|Kokonoe]], which "began not with a chant but with the announcement of the spell's name"[@fm12-grimoire] |
 | Separate chants to start and end the spell | [[#cinder-ella|Cinder Ella]][@fm15-cards] |
@@ -72,7 +72,7 @@ Most spells are cast by reciting the chant and then saying the spell's name, as 
 > - **Partial print:** only some lines are printed, often the last line and the name. This is not treated as a shorter version of the spell.
 > - **Trigger or spell name only:** the name, or a key word such as "Rubele", is printed without the chant. This is not treated as evidence that the spell needs no chant.
 > - **Chantless:** used only when the text establishes that the spell has no incantation, as with Firebolt.
-> - **Unknown:** the chant is never printed. Unknown is not the same as chantless.
+> - **Unknown:** the chant was not located in the checked text. Unknown is not the same as chantless.
 >
 > When different volumes print a chant in different English words, each version is recorded separately with its location. Lines from different scenes are never stitched together into one "complete" chant. Printed chant passages are transcribed without editorial shortening and cited to their volume and, where available, chapter. Intervening narration is omitted; original ellipses and incomplete prints are retained. The index shows one cited version, with alternative wording below.
 
@@ -104,11 +104,10 @@ A Status lists spells, [[skills|Skills]] and [[development-ability|Development A
 |---|---|---|
 | Magic | A spell in a Magic slot, usually with an incantation | Firebolt, Airiel, Futsu no Mitama[@fm02-trigger, fm15-cards] |
 | [[skills|Skill]] | A separate ability listed under Skills; it can boost or change how spells work but is not a spell | Bell's [[skills#argonaut|Argonaut]], which charges Firebolt; Aiz's [[skills#avenger|Avenger]]; Lefiya's [[skills#double-cannon|Double Cannon]][@fm04-argonaut, so12-avenger, so12-lefiya] |
-| Development Ability | Chosen at a Level Up; some help casting | Magic Control, which lets the caster form a magic circle for more power and better Mind efficiency; Conjure, which raises magic power, range and Mind efficiency[@fc03-control, so01-conjure] |
+| Development Ability | Chosen at a Level Up; some help casting | [[development-ability#mage|Mage]] (printed Magic Control or Conjure), which lets the caster form a magic circle for more power, range and Mind efficiency[@fc03-control, so01-conjure] |
 
 {{nocite}} Some passages use these words loosely. Where the Status card and the narration disagree, this wiki follows the card and records the other wording:
 
-- In Sword Oratoria 8 Loki compares Bete's [[#hati|Hati]] with Tiona and Tione's "Berserk magic", though Berserk is called a Skill elsewhere in Sword Oratoria.[@so08-berserk, so07-berserk]
 - Mikoto's Yatano Black Crow and White Crow, which sense enemies and allies, are listed under Skills on her DanMachi 15 card, not Magic.[@fm15-cards]
 
 [[magic-sword|Magic swords]] are weapons, not spells. They do not occupy a Magic slot, though DanMachi 14 notes that Welf's new sword also drains its user's Mind.[@fm14-sword]
@@ -131,7 +130,7 @@ Some spells are known only from a sheet; a search of the story text did not find
 | [[#luminous-wind|Luminous Wind]] | Lyu Leon | Wide-area wind and light attack[@luminous-wind.fc03-card] | —Distant sky above the forest. Limitless stars set into an eternal night. Listen to my feeble voice and grant the protection of starlight. Bestow the light of mercy upon those who have abandoned you. Come, wind of winds, wandering traveler of the ages. Across the skies, through the fields, faster than any, farther than all. Light of stardust, tear my enemies asunder![@luminous-wind.so05-cast] *Other printed wording is recorded below.* |
 | [[#noa-heal|Noa Heal]] | Lyu Leon | Healing[@noa-heal.fc03-card] | Distant song above the forest. Nostalgic melody of life. Impart your healing upon those who seek your grace.[@noa-heal.so05-heal] *Other printed wording is recorded below.* |
 | [[#astrea-record-spell|Astrea Record (spell)]] | Lyu Leon | Use of dead companions' magic[@astrea-record-spell.fc03-nature] | Astrea Record. Duty shall be fulfilled, and scales shall be balanced. Bastion of order, crown of the righteous, vanquishing torch. In the goddess’s name, racing across the sky, bind the star trails to this land. —Justice will go on!![@astrea-record-spell.fc03-cast] *Other printed wording is recorded below.* |
-| [[#agris-arvensis|Agris Arvensis]] | Alize Lovell; Lyu Leon | Fire enchantment[@agris-arvensis.fm14-alize] | "Alga" *(Alize's Status sheet; spoken three times in Astrea Record 3).* Name printed "Agallis Arvesynce", "Agris Arvensis" or "Agaris Alvesince"; spell key "Arvellia" / "Alveria" *(probably also "Arveria", Astrea Record 3)*[@agris-arvensis.ar03-sheet, agris-arvensis.ar03-alga, agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu, agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar] |
+| [[#agris-arvensis|Agris Arvensis]] | Alize Lovell; Lyu Leon | Fire enchantment[@agris-arvensis.fm14-alize] | "Alga" *(Alize's Status sheet; spoken three times in Astrea Record 3).* Name printed "Agallis Arvesynce", "Agris Arvensis" or "Agaris Alvesince"; spell key "Arvellia" / "Alveria" / "Arveria", one word in the Japanese[@agris-arvensis.ar03-sheet, agris-arvensis.ar03-alga, agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu, agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar, agris-arvensis.ar03-key-ja] |
 | [[#gokou|Gokou]] | [[gojouno-kaguya|Gojouno Kaguya]]; Lyu Leon | Magic slashes at set positions[@gokou.fm18-ottar] | *None printed under this name; named at the end of Astrea Record. It is the Five Lights spell, whose ultrashort chant Astrea Record 3 prints*[@gokou.fc03-lyu, gokou.fm18-ottar, gokou.ar03-five] |
 | [[#rea-vindemia|Rea Vindemia]] | Maryu; Lyu Leon | Area healing[@rea-vindemia.fm18-lyu] | *None printed; named at the end of Astrea Record*[@rea-vindemia.ar03-maryu, rea-vindemia.fm18-lyu] |
 | [[#ardee-varma-spells|Ghana Avimutta]] | Ardee Varma | Restraint; lowers abilities[@ardee-varma-spells.ar02-sheet] | *Not printed (known only from a Status sheet)*[@ardee-varma-spells.ar02-sheet] |
@@ -180,8 +179,8 @@ Some spells are known only from a sheet; a search of the story text did not find
 | [[#school-district-spells|Zalga Yell]] | Nano | Lightning[@school-district-spells.so13-yell] | Lightning, heaven’s name. Betray thy earthly kin, share not thy voice. Grant me the blessing of lightning—Zalga Yell!!![@school-district-spells.so13-yell] |
 | [[#school-district-spells|Zalga Amalda]] | Nano | Lightning torrent[@school-district-spells.so13-amalda] | Growling torrent gleam, blessed censure. Shatter the noble with thy splendor. Swallow, jaws of lightning.[@school-district-spells.so13-amalda] |
 | [[#school-district-spells|Silva Vine]] | Miliria | Binding vines of light[@school-district-spells.so13-vine] | Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest. And bind. Admonish the savages. This is the forest shrine kept by its guardian.[@school-district-spells.so13-vine] |
-| [[#elven-innate-magic|Gale Blast]] | Elven knights (innate magic) | Wind[@elven-innate-magic.so14-chase] | Printed ending only. By ancient compact I summon you, winds of nature. Heed my call and mow down my enemies![@elven-innate-magic.so14-chase] |
-| [[#elven-innate-magic|Flare Burn]] | The young Riveria (innate magic) | Fire[@elven-innate-magic.so14-chase] | Printed ending only. Gh…By ancient compact I summon you, inferno of earth. Heed my call and scorch all violence![@elven-innate-magic.so14-chase] |
+| [[#elven-innate-magic|Gale Blast]] | Probably the elven knights (innate magic) | Wind[@elven-innate-magic.so14-chase] | Printed ending only. By ancient compact I summon you, winds of nature. Heed my call and mow down my enemies![@elven-innate-magic.so14-chase] |
+| [[#elven-innate-magic|Flare Burn]] | Probably the young Riveria (innate magic) | Fire[@elven-innate-magic.so14-chase] | Printed ending only. Gh…By ancient compact I summon you, inferno of earth. Heed my call and scorch all violence![@elven-innate-magic.so14-chase] |
 | [[#hildis-vini|Hildis Vini]] | Ottar | Enhancement: weapon power[@hildis-vini.fm18-slash] | Silver moon’s mercy and the golden plains. I offer this body to the lord of battle. Charge bearing the goddess’s will.[@hildis-vini.fc02-udaeus] |
 | [[#glarinese-fromel|Glarinese Fromel]] | Allen Fromel | Ever-increasing speed and charge power[@glarinese-fromel.fm18-effect] | Golden wheel, silver collar. Hated love, illusory corpse, thy destiny is here. Be gone, gold wheel, before the rut kills you. Whip of honor, lips of favor, thy payment is here. Spin, silver wheel, until thy head falls. Run bearing the goddess’s will—until death and distant heavens when you can hear the wheel’s song again.[@glarinese-fromel.fm18-chant] |
 | [[#dainsleif|Dáinsleif]] | Hegni Ragnar | Personality change; no Status boost[@dainsleif.fc02-cast] | Draw thine sword, King of the fiendish blades. Sacrifice reason and offer up blood. Slaughter all until the feast is finished.[@dainsleif.fc02-cast] |
@@ -199,7 +198,7 @@ Some spells are known only from a sheet; a search of the story text did not find
 | [[#dialv-dis|Dialv Dis]] | [[apate-and-alecto-familias#alecto-familia|Vena Dis]] | Pillars of hellfire[@dialv-dis.ar01-churches] | … "Open, the fifth garden! Resound, the ninth song!" *(only the ending printed)*[@dialv-dis.ar01-churches] |
 | [[#dialv-otua|Dialv Otua]] | Vena and Dina Dis | Rain of black fire[@dialv-otua.ar03-cast] | "Let the first gate devour all. Turn all hope into despair!"[@dialv-otua.ar03-cast] |
 | [[#dialv-stige|Dialv Stige]] | Dina Dis | Curse: takes Strength and Agility[@dialv-stige.ar03-exchange] | Black mire; red sin. We tear each other with our teeth; the slime that is our bodies mix’d![@dialv-stige.ar03-cast] |
-| [[#shaldo|Shaldo]] | [[valletta|Valletta Grede]] | Status Down field[@shaldo.so08-explain] | *Not printed ("an annoyingly long chant")*[@shaldo.so08-field, shaldo.so08-explain] |
+| [[#shaldo|Shaldo]] | [[valletta|Valletta Grede]] | Status Down field[@shaldo.so08-explain] | *Not printed (a super-long chant, by Valletta's account)*[@shaldo.so08-field, shaldo.so08-explain] |
 | [[#hal-reshef|Hal Reshef]] | Seal | Illusion curse by eye contact[@hal-reshef.fc02-cast, hal-reshef.fc02-effect] | "Run wild! Wind of pestilence!" *(a curse)*[@hal-reshef.fc02-cast] |
 | [[#kalima|Kalima]] | [[kali-familia#argana-kalif|Argana]] | Curse: strength from drunk blood[@kalima.so06-explain] | *None printed (a curse)*[@kalima.so06-duel] |
 | [[#velgas|Velgas]] | [[kali-familia#bache-kalif|Bache]] | Poison enchantment[@velgas.so06-cast] | "—Die Asura."[@velgas.so06-cast] |
@@ -237,7 +236,7 @@ Firebolt appears on Bell's Status in DanMachi 2, after he reads a book borrowed 
 
 - Bell's first card shows the name *Firebolt* in the Magic slot, described only as Swift-Strike Magic, and nothing that looks like an incantation. Hestia guesses that it needs none and that saying "Firebolt" may trigger it, and stops him saying the name indoors.[@firebolt.fm02-card, firebolt.fm02-trigger]
 - The first cast bears this out: Bell says the name and the bolt fires, "conjured in an instant".[@firebolt.fm02-first]
-- [[lilliluka-erde|Lilly]] later praises its activation speed, bolt speed and growth (the Yen Press text prints "No spell, lightning speed"), and onlookers at the [[minotaur|Minotaur]] fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-ja-growth, firebolt.fm03-minotaur]
+- [[lilliluka-erde|Lilly]] later praises its activation speed, bolt speed and growth, and onlookers at the [[minotaur|Minotaur]] fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-ja-growth, firebolt.fm03-minotaur]
 
 **Trigger:** the spell name, *Firebolt*, spoken aloud. The text often prints it in capitals or stretched out ("FIREBOLT!!"); these are ways of showing him shouting, not different forms of the spell.[@firebolt.fm02-first, firebolt.fm03-minotaur]
 
@@ -311,8 +310,8 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 
 #### Effects {#cinder-ella-effects}
 
-- **Appearance, not power.** She can take the form of a target whose build closely resembles her own, as an imitation only, and that includes monsters of that build (the Yen Press text says "anything she could clearly picture in her mind, even monsters"). Cinder Ella never raises her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm05-ja-release, cinder-ella.fm11-limits]
-- **Imitation.** In DanMachi 3 she can basically only turn into pallums or children of about her own build (the Yen Press text says "other short races or children of taller ones"). As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance (the Yen Press text says she needs an example to copy).[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
+- **Appearance, not power.** She can take the form of a target whose build closely resembles her own, as an imitation only, and that includes monsters of that build. Cinder Ella does not raise her Status above her own or gives her a monster's potential.[@cinder-ella.fm05-release, cinder-ella.fm05-ja-release, cinder-ella.fm11-limits]
+- **Imitation.** In DanMachi 3 she can basically only turn into prums or children of about her own build. As her Magic ability rose she gained some leeway with clothing, but only as imitation and only in appearance.[@cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits] In DanMachi 11 she notes that fooling people also means copying the target's personality.[@cinder-ella.fm11-finn]
 - **Ending it.** She releases it with the release chant, for example to save Mind in the Dungeon, and, apparently, a hit can end it. In DanMachi 18 a spear strike dispels her disguise.[@cinder-ella.fm06-mind, cinder-ella.fm03-limits, cinder-ella.fm03-ja-limits, cinder-ella.fm18-dispel]
 
 #### Notable uses {#cinder-ella-notable-uses}
@@ -321,7 +320,7 @@ Sometimes only the spell name is printed. In DanMachi 3 Lilly is already disguis
 |---|---|
 | DanMachi 2 | Changes appearance to escape an adventurer.[@cinder-ella.fm02-release] |
 | DanMachi 5 | Disguised as a monster, she lures adventurers into trouble and frees Hestia.[@cinder-ella.fm05-release] |
-| DanMachi 6 | Passes as Apollo Familia's Luan during the [[war-game|War Game]] and slips through to the castle's west gate.[@cinder-ella.fm06-luan] |
+| DanMachi 6 | Passes as [[apollo-familia|Apollo Familia]]'s Luan during the [[war-game|War Game]] and slips through to the castle's west gate.[@cinder-ella.fm06-luan] |
 | DanMachi 11 | Poses as the al-miraj [[al-miraj#aruru|Aruru]] and then as [[finn-deimne|Finn]] during the chase through Daedalus Street.[@cinder-ella.fm11-chase, cinder-ella.fm11-finn] |
 | Sword Oratoria 12 | Takes Finn's form to command in his place.[@cinder-ella.so12-finn] |
 | DanMachi 18 | Passes as Berling and breaks the [[gulliver-brothers|Gulliver brothers]]' coordination until a spear dispels it.[@cinder-ella.fm18-dispel] |
@@ -374,11 +373,11 @@ In DanMachi 19, Bell says "Blasphemous Burn" as a fake chant while casting his o
 
 #### Effects {#will-o-the-wisp-effects}
 
-On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on people, his Familia mates (the Yen Press text says "one of the guys in my Familia").[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain, will-o-the-wisp.fm05-ja-explain]
+On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors, the monsters explode just before they breathe fire. Welf says it reacts to magic power and makes it explode, and that he had tested it before only on people, his Familia mates.[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm05-explain, will-o-the-wisp.fm05-ja-explain]
 
 {{nocite}} The novels show it working on several kinds of target:
 
-- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting during the rescue fight on Floor 18; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm05-ja-rivira, will-o-the-wisp.fm06-war]
+- **Casters.** In DanMachi 5 it sets off the spells of three adventurers casting during the rescue fight on [[floor-18|Floor 18]]; in the DanMachi 6 War Game every mage in front of [[daphne|Daphne]] fails to cast, and archers nearby are thrown by the blasts.[@will-o-the-wisp.fm05-rivira, will-o-the-wisp.fm05-ja-rivira, will-o-the-wisp.fm06-war]
 - **Monster attacks that use magic.** It detonates the Black [[goliath|Goliath]]'s howl, though the monster at once prepares another.[@will-o-the-wisp.fm05-goliath]
 - **Magic circles.** In Sword Oratoria 12 Welf's cast beats a demi-spirit's high-speed casting, and all the magic circles around it go off in a chain of explosions.[@will-o-the-wisp.so12-spirit]
 - **Selective blast.** In DanMachi 18 the heat haze detonates the magic that [[allen-fromel|Allen]] and his guards have prepared, while seeming to avoid Bell's path. The text does not say it can always spare allies.[@will-o-the-wisp.fm18-allen]
@@ -451,7 +450,7 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 
 #### Effects {#futsu-no-mitama-effects}
 
-- **Gravity dome.** A sword of violet light drops from directly above the Black [[goliath|Goliath]], passes through it and plants itself in the centre of a set of circles, and a dome of gravity with a radius of ten meders forms and drives it to its knees (the Yen Press text says the force field descended "from the hilt of the sword ten meders in the air").[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
+- **Gravity dome.** A sword of violet light drops from directly above the Black [[goliath|Goliath]], passes through it and plants itself in the centre of a set of circles, and a dome of gravity with a radius of ten meders forms and drives it to its knees.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
 - **Area.** In the DanMachi 6 [[war-game|War Game]] it spreads fifty meders in every direction, its maximum range, trapping twenty-two enemies and Mikoto herself. Anything that touches its outer layer, physical or magical, is forced to the ground.[@futsu-no-mitama.fm06-war]
 - **Reach.** Against the [[amphisbaena|Amphisbaena]] she places the sword at maximum range so that the gravity pulls down the tree-root dome above the monster.[@futsu-no-mitama.fm14-first] Later she chants underwater and pins the dragon, though the gravity crushes her too.[@futsu-no-mitama.fm14-second]
 - **Deflection.** In Sword Oratoria 12, boosted by [[haruhime|Haruhime]]'s Level Boost, her field bends a demi-spirit's blast of light into the floor. She cannot cancel the spell itself, only change its path.[@futsu-no-mitama.so12-shield]
@@ -461,12 +460,12 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 
 - Its strength depends on Mikoto's Status. The Black Goliath slowly rises against it, and she cannot push it back down.[@futsu-no-mitama.fm05-goliath]
 - She is inside the field if she casts it around herself, and in DanMachi 14 it breaks her fingers and injures her while she holds it.[@futsu-no-mitama.fm06-war, futsu-no-mitama.fm14-second]
-- [[takemikazuchi|Takemikazuchi]] had strictly ordered her not to use it in enclosed spaces such as the Dungeon (the Yen Press text says he "had all but forbidden" it); in this fight she had held it back for fear of catching the other attackers and mages.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
+- [[takemikazuchi|Takemikazuchi]] had strictly ordered her not to use it in enclosed spaces such as the Dungeon; in this fight she had held it back for fear of catching the other attackers and mages.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm05-ja-goliath]
 
 #### Open questions {#futsu-no-mitama-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - How the two printed openings fit together, and the Mind cost of the spell.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm14-first]
+> - The Mind cost of the spell.[@futsu-no-mitama.fm05-goliath, futsu-no-mitama.fm14-first]
 
 ### Uchide no Kozuchi {#uchide-no-kozuchi}
 
@@ -522,7 +521,7 @@ Once cast, the boost lasts until its time runs out or Haruhime ends it; knocking
 
 The boost is temporary and does not count as a Level Up. In DanMachi 18, [[anya-fromel|Anya Fromel]], a Level 4, fights at pseudo-Level 5 during the [[war-game|War Game]] only.[@uchide-no-kozuchi.fm18-anya]
 
-Fighting under the boost costs the target experience: they receive less than half the normal excelia, while Haruhime's own development is not reduced by casting it.[@uchide-no-kozuchi.fm15-excelia]
+Fighting under the boost costs the target experience: they receive half the normal excelia or less, while Haruhime's own growth is unaffected, because the spell cannot be cast on herself.[@uchide-no-kozuchi.fm15-excelia]
 
 #### Limits {#uchide-no-kozuchi-limits}
 
@@ -579,7 +578,7 @@ Haruhime's second spell, [[#kokonoe|Kokonoe]], stores the effect of a spell chan
 
 #### Status entry {#kokonoe-status-entry}
 
-Haruhime's DanMachi 15 card lists Kokonoe under Magic, beside Uchide no Kozuchi. It describes the spell as an enchantment that connects with a chant, charges tails with the effect of the connected spell, and allows up to nine tails.[@kokonoe.fm15-card]
+Haruhime's DanMachi 15 card lists Kokonoe under Magic, beside Uchide no Kozuchi. It describes the spell as an enchantment with chant linking that loads the effect of the linked spell, with a maximum of nine activations.[@kokonoe.fm15-card]
 
 #### Incantation {#kokonoe-incantation}
 
@@ -629,13 +628,13 @@ The spell can make up to nine tails, but in DanMachi 12 she can produce only fiv
 - **User:** [[aiz-wallenstein|Aiz Wallenstein]][@airiel.so01-airiel]
 - **Type:** Wind enchantment[@airiel.so01-airiel, airiel.fm10-airiel]
 - **Status entry:** Enchantment; wind element; chant "Awaken, Tempest"[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet]
-- **First cast:** At age seven, on Floor 12 (Sword Oratoria 9 recollection)[@airiel.so09-first]
-- **Chant:** Awaken, Tempest (short; she says only *Tempest*, written *awaken*)[@airiel.so01-airiel, airiel.so01-ja]
+- **First cast:** On Floor 12, almost a year after she joined Loki Familia at seven (Sword Oratoria 9 recollection)[@airiel.so09-first]
+- **Chant:** Awaken, Tempest (very short; she says only *Tempest*, written *awaken*)[@airiel.so01-airiel, airiel.so01-ja]
 - **Stronger form:** Rage, Tempest (said *Tempest*, written *rage*)[@airiel.so02-rage, airiel.so07-rage, airiel.so02-ja]
 
 #### Status entry {#airiel-status-entry}
 
-Aiz's three illustrated Status sheets list Airiel as her only magic, each time with the same three notes: an enchantment, wind element, and the chant "Awaken, Tempest". Her Level 5 sheet in Sword Oratoria 1 calls it a "Magical Endowment (Enchantment)"; her Level 1 sheet in Sword Oratoria 9 and her Level 6 sheet in Sword Oratoria 10 say only "Enchantment".[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet] The Sword Oratoria 10 sheet lists her Skill [[skills#avenger|Avenger]] separately; the two earlier sheets show her Skills only as "???".[@airiel.so10-sheet, airiel.so01-sheet, airiel.so09-sheet]
+Aiz's three illustrated Status sheets list Airiel as her only magic, each time with the same three notes: an enchantment, wind element, and the chant "Awaken, Tempest". Her Level 5 sheet in Sword Oratoria 1 calls it a "Magical Endowment (Enchantment)"; her Level 1 sheet in Sword Oratoria 9 and her Level 6 sheet in Sword Oratoria 10 say only "Enchantment"; the three Japanese sheets read the same.[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet] The Sword Oratoria 10 sheet lists her Skill [[skills#avenger|Avenger]] separately; the two earlier sheets show her Skills only as "???".[@airiel.so10-sheet, airiel.so01-sheet, airiel.so09-sheet]
 
 #### Incantation {#airiel-incantation}
 
@@ -645,7 +644,7 @@ In the Japanese, each call is written with a meaning in kanji and a reading prin
 
 | Form | Printed in English | Written meaning (kanji) | Said | Where it appears |
 |---|---|---|---|---|
-| Short chant | "Awaken, Tempest." | {{ja|目覚めよ}}, *awaken* | *Tempest* | Aiz's usual activation.[@airiel.so01-ja] In Sword Oratoria 1 the narration calls it her short spell and she then names the spell, "Airiel."[@airiel.so01-airiel] The same words recur throughout Sword Oratoria and in DanMachi 10.[@airiel.so01-sense, airiel.so02-trigger, airiel.fm10-airiel] |
+| Very short chant | "Awaken, Tempest." | {{ja|目覚めよ}}, *awaken* | *Tempest* | Aiz's usual activation.[@airiel.so01-ja] In Sword Oratoria 1 the narration calls it a super-short chant and she then names the spell, "Airiel."[@airiel.so01-airiel] The same words recur throughout Sword Oratoria and in DanMachi 10.[@airiel.so01-sense, airiel.so02-trigger, airiel.fm10-airiel] |
 | Intensified | "Rage, Tempest!" | {{ja|吹き荒れろ}}, *rage* (blow wildly) | *Tempest* | Sends Airiel's full power down her sword in Sword Oratoria 2.[@airiel.so02-rage, airiel.so02-ja] Sword Oratoria 4 prints it as "Rage, Tempest!!" at the book's climax.[@airiel.so04-rage] In Sword Oratoria 7 she calls "Awaken, Tempest" twice and then "RAGE, TEMPEST!!", producing a wind stronger than any before.[@airiel.so07-rage] Sword Oratoria 11, Minor Myths and Legends 1 and Astrea Record 3 print this call as "Tempest!" alone, the spoken name only.[@airiel.so11-tempest, airiel.so11-ja, airiel.ss01-rage, airiel.ar03-calls] |
 | White wind | "Tempest!" | {{ja|白き風よ}}, *O white wind* | *Tempest* | The pure white wind of the final fight with [[levis|Levis]] in Sword Oratoria 12, printed as the spoken name only.[@airiel.so12-white, airiel.so12-white-ja] |
 | Combined | "Tempest" / "Avenger." | {{ja|起動}}, *activate*; {{ja|復讐姫}}, *revenge princess* | *Tempest*; *Avenger* | In Sword Oratoria 12 the narration calls this "the forbidden chant" that joins her Skill Avenger to Airiel.[@airiel.so12-avenger, airiel.so12-ja] |
@@ -659,10 +658,10 @@ The spell name itself is sometimes spoken after the chant (Sword Oratoria 1) or 
 
 #### Effects {#airiel-effects}
 
-- **Speed and attack.** Airiel lets her deliver two slashes in the time of one, and a borrowed blade is pushed to breaking point by it.[@airiel.so01-twoslash] Later in Sword Oratoria 1 another weapon falls to pieces under Airiel and her aggressive fighting.[@airiel.so01-blade]
+- **Speed and attack.** With Airiel her strikes kill in one or two swings, and a borrowed blade is pushed to breaking point by it.[@airiel.so01-twoslash] Later in Sword Oratoria 1 another weapon falls to pieces under Airiel and her aggressive fighting.[@airiel.so01-blade]
 - **Protection.** Its wind armour turns aside blood and, in her first use, a wyvern's fire.[@airiel.fm10-airiel, airiel.so09-first]
-- **Sensing.** On the surface, where wind can flow freely, it spreads out and gives her a wide sense of space, letting her find monsters quickly.[@airiel.so01-sense]
-- **Scale.** In Sword Oratoria 7 the intensified wind fills the labyrinth and its passages.[@airiel.so07-rage]
+- **Sensing.** On the surface, where wind can flow freely, she rides part of it on the wind and senses the vibrations of the monsters' roars, which lets her find them quickly.[@airiel.so01-sense]
+- **Scale.** In Sword Oratoria 7 the intensified wind is more than the whole hall can hold and pours on into the passages beyond.[@airiel.so07-rage]
 
 #### Costs and limits {#airiel-costs-and-limits}
 
@@ -674,7 +673,7 @@ Tempest Avenger is Airiel joined with Aiz's rare Skill Avenger, a black, violent
 
 #### History {#airiel-history}
 
-In Sword Oratoria 9's recollection, seven-year-old Aiz first speaks "Awaken, Tempest!" on Floor 12 when [[riveria|Riveria]] shouts at her to call it forth, and her wind blows away a black wyvern's head.[@airiel.so09-first] In Sword Oratoria 3, Riveria reports that the red-haired woman Levis first spoke the name "Aria" just after seeing Airiel.[@airiel.so03-aria]
+In Sword Oratoria 9's recollection, almost a year after joining Loki Familia at seven, Aiz first speaks "Awaken, Tempest!" on Floor 12 when [[riveria|Riveria]] shouts at her to call it forth, and her wind blows away the black wyvern's mouth and upper jaw.[@airiel.so09-first] In Sword Oratoria 3, Riveria reports that the red-haired woman Levis first spoke the name "Aria" just after seeing Airiel.[@airiel.so03-aria]
 
 #### Open questions {#airiel-open-questions}
 
@@ -683,7 +682,7 @@ In Sword Oratoria 9's recollection, seven-year-old Aiz first speaks "Awaken, Tem
 
 ### Arcs Ray {#arcs-ray}
 
-**Arcs Ray** is one of [[lefiya|Lefiya Viridis]]'s own spells, alongside [[#fusillade-fallarica|Fusillade Fallarica]]; her third, [[#elf-ring|Elf Ring]], summons other elves' magic.[@arcs-ray.so12-card] It fires a single beam of light that homes in on its target, and its short chant makes it the spell she can most easily use in a crowded fight.[@arcs-ray.so12-card, arcs-ray.so03-homing, arcs-ray.so13-short]
+**Arcs Ray** ({{ja|単射魔法}}, written *single-shot magic*)[@arcs-ray.so05-ja] is one of [[lefiya|Lefiya Viridis]]'s own spells, alongside [[#fusillade-fallarica|Fusillade Fallarica]]; her third, [[#elf-ring|Elf Ring]], summons other elves' magic.[@arcs-ray.so12-card] It fires a single beam of light that homes in on its target, and its short chant makes it the spell she can most easily use in a crowded fight.[@arcs-ray.so12-card, arcs-ray.so03-homing, arcs-ray.so13-short]
 
 - **User:** [[lefiya|Lefiya Viridis]][@arcs-ray.so12-card]
 - **Status entry:** Single-target magic; homes in on its designated target[@arcs-ray.so12-card]
@@ -741,7 +740,7 @@ Most later prints show only the second part, or pieces of it, split by action; t
 
 ### Fusillade Fallarica {#fusillade-fallarica}
 
-**Fusillade Fallarica** is [[lefiya|Lefiya Viridis]]'s wide-range attack spell, listed with fire element on her Status.[@fusillade-fallarica.so12-card] It rains countless flaming arrows on everything in range; in Sword Oratoria 1 it burns a room full of monsters to nothing.[@fusillade-fallarica.so01-room]
+**Fusillade Fallarica** ({{ja|斉射砲撃}}, written *volley bombardment*)[@fusillade-fallarica.so05-ja] is [[lefiya|Lefiya Viridis]]'s wide-range attack spell, listed with fire element on her Status.[@fusillade-fallarica.so12-card] It rains countless flaming arrows on everything in range; in Sword Oratoria 1 it burns a room full of monsters to nothing.[@fusillade-fallarica.so01-room]
 
 - **User:** [[lefiya|Lefiya Viridis]][@fusillade-fallarica.so12-card]
 - **Status entry:** Wide-range attack magic; fire element[@fusillade-fallarica.so12-card]
@@ -772,7 +771,7 @@ In Sword Oratoria 1 the narration marks the chant as complete ("Her spell comple
 
 #### Effects {#fusillade-fallarica-effects}
 
-- Countless burning bolts fall from above, pierce and ignite every monster in the room, and leave a fence of fire where they miss. Nothing is left of the monsters, not even ash.[@fusillade-fallarica.so01-room]
+- Countless burning bolts fall from above, pierce and ignite every monster in the room, and those that miss blast the ground and tear up the bedrock. Nothing is left of the monsters, not even ash.[@fusillade-fallarica.so01-room]
 - Casting it summons a golden magic circle at her feet, which grows more complex with each syllable. The narration ties this to her Development Ability Conjure, which increases magic strength, range and Mind efficiency.[@fusillade-fallarica.so01-room]
 - It serves as long-range bombardment: in Sword Oratoria 9's opening she fires it at an advancing Rakian formation.[@fusillade-fallarica.so09-rakia] [[lyu-leon|Lyu]]'s [[#luminous-wind|Luminous Wind]] is compared to it.[@fusillade-fallarica.so05-compare]
 
@@ -787,7 +786,7 @@ In a crowded melee in Sword Oratoria 13, Lefiya can use it only for her first at
 
 ### Elf Ring {#elf-ring}
 
-**Elf Ring** is the third spell of [[lefiya|Lefiya Viridis]]. It is a *Summon Burst*: after chanting it, she can chant and cast another elf's magic as if it were her own.[@elf-ring.so12-card, elf-ring.so01-summon] Because it gives her access to a whole library of spells, the gods gave her the title *Thousand Elf*.[@elf-ring.so01-summon]
+**Elf Ring** is the third spell of [[lefiya|Lefiya Viridis]]. It is a *Summon Burst* ({{ja|召喚魔法}}, written *summoning magic*)[@elf-ring.so01-ja]: after chanting it, she can chant and cast another elf's magic as if it were her own.[@elf-ring.so12-card, elf-ring.so01-summon] Because it gives her access to a whole library of spells, the gods gave her the title *Thousand Elf*.[@elf-ring.so01-summon]
 
 - **User:** [[lefiya|Lefiya Viridis]][@elf-ring.so12-card]
 - **Status entry:** Summon Burst; elven magic only; must fully grasp the chant and effects; Mind for both spells[@elf-ring.so12-card]
@@ -798,7 +797,7 @@ In a crowded melee in Sword Oratoria 13, Lefiya can use it only for her first at
 
 Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four notes: Summon Burst; only elven magic can be activated; she must fully grasp the chant and the summoned spell's effects; and it expends Mind for this spell and the summoned magic.[@elf-ring.so12-card]
 
-Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with the same four notes.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
+Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with the same notes, though the English sheets leave out the requirement to grasp the chant and the summoned spell's effects, which the Japanese sheets have.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
 
 #### Incantation {#elf-ring-incantation}
 
@@ -822,14 +821,14 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 - [[filvis|Filvis]]'s protective barrier [[#dio-grail|Dio Grail]], which blocks the corrupted spirit's magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final] In Sword Oratoria 13 she also summons Filvis's lightning, [[#dio-thyrsos|Dio Thyrsos]], as rapid fire.[@dio-thyrsos.so13-lefiya]
 - The ice spell of her familia colleague Alicia Forestlight, [[#hail-dust|Hail Dust]], in Sword Oratoria 13.[@elf-ring.so13-alicia]
 
-#### Requirements: a conflict between volumes {#elf-ring-requirements-a-conflict-between-volumes}
+#### Requirements {#elf-ring-requirements-a-conflict-between-volumes}
 
-> [!NOTE] Two descriptions of what Lefiya must know
-> - Sword Oratoria 1 says she can duplicate any elvish magic whose incantation she can recite **or** whose effects she fully understands, after seeing it at least once.[@elf-ring.so01-summon]
+> [!NOTE] What Lefiya must know
+> - Sword Oratoria 1 says she can duplicate any elvish magic whose chant and effects she has completely grasped, at the cost of two spells' chanting time and Mind.[@elf-ring.so01-summon]
 > - Sword Oratoria 4 says it requires a complete understanding of the magic's effects **and** the proper chant.[@elf-ring.so04-reqs]
-> - The Sword Oratoria 12 Status card and the Status sheets in Sword Oratoria 2 and 13 say she must fully grasp the chant **and** the summoned spell's effects.[@elf-ring.so12-card, elf-ring.so02-sheet, elf-ring.so13-sheet]
+> - The Sword Oratoria 12 Status card and the Japanese Status sheets in Sword Oratoria 2 and 13 say she must fully grasp the chant **and** the summoned spell's effects.[@elf-ring.so12-card, elf-ring.so02-sheet, elf-ring.so13-sheet]
 >
-> This wiki follows the Status card and sheets, which agree with Sword Oratoria 4, and records the earlier "either/or" wording rather than silently dropping it.
+> The volumes agree: she must grasp both the chant and the effects.
 
 #### Cost and limits {#elf-ring-cost-and-limits}
 
@@ -839,12 +838,12 @@ Lefiya's Skill Double Cannon, which holds one finished spell in reserve while sh
 
 #### Slots {#elf-ring-slots}
 
-Sword Oratoria 1 explains that every Status has three spell slots, and that Elf Ring is Lefiya's third, special one.[@elf-ring.so01-summon] See [[#how-many-spells|How many spells]] for other statements about slots, which do not all agree.
+Sword Oratoria 1 explains that a Status has at most three spell slots, and that Elf Ring is Lefiya's third, special one.[@elf-ring.so01-summon] See [[#how-many-spells|How many spells]] for other statements about slots.
 
 #### Open questions {#elf-ring-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether she must actually have seen a spell cast, and how much Mind the Elf Ring chant itself costs.[@elf-ring.so01-summon, elf-ring.so12-card]
+> - Whether she must actually have seen a spell cast.[@elf-ring.so01-summon, elf-ring.so12-card]
 
 ### Wynn Fimbulvetr {#wynn-fimbulvetr}
 
@@ -903,7 +902,7 @@ Her Status sheet in Sword Oratoria 6 lists all nine by name; see [[#riveria-nine
 
 ### Rea Laevateinn {#rea-laevateinn}
 
-**Rea Laevateinn** is a fire spell of [[riveria|Riveria Ljos Alf]]. At the end of a long chant, a magic circle spreads across the battlefield and countless pillars of flame erupt from it, destroying the enemies within it while allies standing in the circle are unharmed.[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat] Sword Oratoria calls it the second tier of her attack magic, the longest spell in her arsenal and the one with the greatest range.[@rea-laevateinn.so04-concat, rea-laevateinn.so14-mine]
+**Rea Laevateinn** ({{ja|第二階位攻撃魔法}}, written *second-level attack magic*)[@rea-laevateinn.so10-ja] is a fire spell of [[riveria|Riveria Ljos Alf]]. At the end of a long chant, a magic circle spreads across the battlefield and countless pillars of flame erupt from it, destroying the enemies within it while allies standing in the circle are unharmed.[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat] Sword Oratoria calls it the second tier of her attack magic, the longest spell in her arsenal and the one with the greatest range.[@rea-laevateinn.so04-concat, rea-laevateinn.so14-mine]
 
 - **User:** [[riveria|Riveria Ljos Alf]][@rea-laevateinn.so04-concat, rea-laevateinn.so14-first]
 - **Also cast by:** [[lefiya|Lefiya Viridis]], through [[#elf-ring|Elf Ring]][@rea-laevateinn.so03-summon, rea-laevateinn.so13-detect]
@@ -931,7 +930,7 @@ The usual printed form is *Rea Laevateinn*. In Sword Oratoria 7 Riveria herself 
 
 | Print | What is printed |
 |---|---|
-| Sword Oratoria 1 (Riveria) | Only the end of "the long incantation": two lines and the ending. One line begins "Thou become the consuming inferno."[@rea-laevateinn.so01-wall] |
+| Sword Oratoria 1 (Riveria) | Six pieces between the events of the battle: the same lines as Sword Oratoria 4, in other English words. It opens "Soon, the flames shall be loosed", and one line begins "Thou become the consuming inferno."[@rea-laevateinn.so01-wall] |
 | Sword Oratoria 4 (Riveria, concatenated) | Five pieces after the linking words from [[#wynn-fimbulvetr|Wynn Fimbulvetr]]. The line that matches Sword Oratoria 1's is worded differently here and ends "Become hellfire."[@rea-laevateinn.so04-concat] |
 | Sword Oratoria 13 (Lefiya, through [[#elf-ring|Elf Ring]]) | Two pieces: an opening passage that also appears in Sword Oratoria 4 ("A blaze shall soon descend") and the ending.[@rea-laevateinn.so13-detect] |
 
@@ -960,7 +959,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 ### Via Shilheim {#via-shilheim}
 
-**Via Shilheim** is a protective spell of [[riveria|Riveria Ljos Alf]]. A jade magic circle forms under her feet and becomes a green dome around everyone inside it, a barrier described as cancelling physical and magical attacks.[@via-shilheim.so04-cast] Sword Oratoria 4 calls it "the ultimate protection spell", but the same scene shows it being broken.[@via-shilheim.so04-cast, via-shilheim.so04-shattered]
+**Via Shilheim** is a protective spell of [[riveria|Riveria Ljos Alf]]. A jade magic circle forms under her feet and becomes a green dome around everyone inside it, a barrier described as cancelling physical and magical attacks.[@via-shilheim.so04-cast] Sword Oratoria 4 calls it the hardest defensive spell Riveria has, and in the same scene a demi-spirit's Fire Storm breaks it.[@via-shilheim.so04-cast, via-shilheim.so04-shattered]
 
 - **User:** [[riveria|Riveria Ljos Alf]][@via-shilheim.so04-cast]
 - **Type:** Barrier against physical and magical attacks[@via-shilheim.so04-cast]
@@ -1192,7 +1191,7 @@ Sword Oratoria 7 calls Hell Finegas Finn's "Berserker spell".[@hell-finegas.so07
 The Level 6 sheet gives it three notes:[@tir-na-nog.so08-sheet]
 
 - It is spear-throwing magic.[@tir-na-nog.so08-sheet]
-- It adds the values from his Level and abilities to his Magic, including latent values ("extra points").[@tir-na-nog.so08-sheet]
+- It adds his Level and all his ability values, including latent values ("extra points"), to the spell's power.[@tir-na-nog.so08-sheet]
 - It can be used only once every twenty-four hours.[@tir-na-nog.so08-sheet]
 
 His Level 1 sheet in Sword Oratoria 14 lists only Hell Finegas under Magic.[@tir-na-nog.so14-sheet]
@@ -1229,7 +1228,7 @@ His Level 1 sheet in Sword Oratoria 14 has no Magic entry; it lists only the Ski
 
 ### Hati {#hati}
 
-**Hati** is the magic of [[bete-loga|Bete Loga]]. It wraps his arms and legs in fire and feeds on magic and on damage: magic that touches it is absorbed and strengthens it, and the more he is hurt, the stronger it becomes.[@hati.so08-explain] Bete avoided using it for years, because it forces him to face the scars of his past.[@hati.so08-explain]
+**Hati** ({{ja|巨狼の牙}}, written *giant wolf's fang*)[@hati.so08-ja] is the magic of [[bete-loga|Bete Loga]]. It wraps his arms and legs in fire and feeds on magic and on damage: magic that touches it is absorbed and strengthens it, and the more he is hurt, the stronger it becomes.[@hati.so08-explain] Bete avoided using it for years, because it forces him to face the scars of his past.[@hati.so08-explain]
 
 - **User:** [[bete-loga|Bete Loga]][@hati.so08-cast]
 - **Type:** Fire enchantment on his arms and legs[@hati.so08-explain]
@@ -1264,12 +1263,12 @@ Sword Oratoria 12 prints the whole chant again in seven pieces, split by other a
 
 - **Four flames.** Hati sets four enchantments of fire on his arms and legs; they have firepower of their own.[@hati.so08-explain, hati.so08-cast]
 - **Magic drain.** Any magic-based attack it touches is absorbed and raises its output and destructive power.[@hati.so08-explain]
-- **Damage drain.** Every injury makes it stronger, including the burns its own flames give him. Loki says it "basically has no limits", and it can grow into a pillar of fire.[@hati.so08-explain]
+- **Damage drain.** Every injury makes it stronger; since it drains magic by touching it, he cannot avoid being hit by the magic it absorbs. Loki says it "basically has no limits", and it can grow into a pillar of fire.[@hati.so08-explain]
 - **Allied magic.** In Sword Oratoria 12 [[lefiya|Lefiya]] fires [[#fusillade-fallarica|Fusillade Fallarica]] into Bete's attack on [[filvis|Filvis]]; the flames explode and, through the magic and damage drains, make his strike far stronger.[@hati.so12-filvis]
 
 #### Limits {#hati-limits}
 
-The drained damage does not heal him: in Sword Oratoria 8 his wounds remain however much power Hati has absorbed, and he knows he could die before reaching his enemy.[@hati.so08-wounds] Loki's "no limits" is a description of its growth, not a demonstrated absence of any limit.
+The drained damage does not heal him: in Sword Oratoria 8 his wounds remain however much power Hati has absorbed, and Valletta reckons he will die long before she does.[@hati.so08-wounds] Loki's "no limits" is a description of its growth, not a demonstrated absence of any limit.
 
 #### Frosvirt {#hati-frosvirt}
 
@@ -1289,11 +1288,11 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 
 ### Restrict Iorum {#restrict-iorum}
 
-**Restrict Iorum** is [[hyrute-sisters|Tione Hyrute]]'s spell, "a restrictive magic that bound its victims in a whip of light".[@restrict-iorum.so07-cast] It has a set chance of rooting an enemy to the spot, and the whip can also be used as an ordinary weapon.[@restrict-iorum.so07-cast]
+**Restrict Iorum** ({{ja|リスト・イオルム}}, said *Rist Iorum*)[@restrict-iorum.so04-ja] is [[hyrute-sisters|Tione Hyrute]]'s spell, "a restrictive magic that bound its victims in a whip of light".[@restrict-iorum.so07-cast] It has a set chance of rooting an enemy to the spot, and the whip can also be used as an ordinary weapon.[@restrict-iorum.so07-cast]
 
 - **User:** [[hyrute-sisters|Tione Hyrute]][@restrict-iorum.so07-cast]
 - **Type:** Restrictive magic: a whip of light[@restrict-iorum.so07-cast]
-- **Status entry:** Restraining magic; a chance to restrict the target's movement, rising with her Magic[@restrict-iorum.so04-sheet]
+- **Status entry:** Restraining magic; a chance to restrict the target's movement, rising with her Magic; the sheet calls the stop *Ristreit* ({{ja|強制停止}}, written *forced stop*)[@restrict-iorum.so04-sheet, restrict-iorum.so04-ja]
 - **Chant:** Several lines, printed in full[@restrict-iorum.so07-cast]
 
 #### Status entry {#restrict-iorum-status-entry}
@@ -1313,6 +1312,7 @@ Sword Oratoria 7 prints the chant in two pieces, then the name. Tione forms "the
 - **Opening (excerpt):** "Desire, submersed in the sea of my heart"[@restrict-iorum.so07-cast]
 - **Second piece (excerpt):** "Take shape, bare your fangs, and become the serpent."[@restrict-iorum.so07-cast]
 - **Last words:** "Halt fate’s ticking seconds, and banish it to the void!"[@restrict-iorum.so07-cast]
+- **Japanese of the last sentence:** {{ja|運命を捕え、運命を止め、運命を蹂躙せよ}}, written *seize fate, stop fate, trample fate*, each *fate* read *time*. In the second piece the serpent is written *king serpent* and read *snake*.[@restrict-iorum.so07-ja]
 - **Name:** "Restrict Iorum!"[@restrict-iorum.so07-cast]
 
 Because she has never studied the ways of the mage, no magic circle forms beneath her.[@restrict-iorum.so07-cast]
@@ -1383,7 +1383,7 @@ A blue-and-white sphere appears over the caster's head, and then countless chunk
 
 Lyu's Level 5 and Level 6 cards in Familia Chronicle 3 list Luminous Wind under Magic, with two notes: wide area of effect, and wind and light element. Her second spell, [[#noa-heal|Noa Heal]], is listed beside it.[@luminous-wind.fc03-card] When she gains the Development Ability Magic Control at Level 5, she notes that it strengthens Luminous Wind.[@luminous-wind.fc03-card]
 
-Her illustrated Status sheets give the same two notes earlier: at Level 3 in Astrea Record 1 (a wide-range attack spell; wind and light element) and at Level 4 in DanMachi 13 (wide-range attack magic; wind and light attributes).[@luminous-wind.ar01-sheet, luminous-wind.fm13-sheet] Her Level 4 sheet in Familia Chronicle 1 lists no spell: under a box labelled Magic it prints her three Skills.[@luminous-wind.fc01-sheet]
+Her illustrated Status sheets give the same two notes earlier: at Level 3 in Astrea Record 1 (a wide-range attack spell; wind and light element) and at Level 4 in DanMachi 13 (wide-range attack magic; wind and light attributes) and Familia Chronicle 1.[@luminous-wind.ar01-sheet, luminous-wind.fm13-sheet, luminous-wind.fc01-sheet]
 
 #### Incantation {#luminous-wind-incantation}
 
@@ -1423,7 +1423,7 @@ Her illustrated Status sheets give the same two notes earlier: at Level 3 in Ast
 
 #### Effects {#luminous-wind-effects}
 
-- **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5 (the Yen Press text says "Hundreds of small orbs"); Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
+- **Area attack.** Countless large orbs of light carve into the Black Goliath in DanMachi 5; Sword Oratoria 5 compares the storm of stardust to [[lefiya|Lefiya]]'s [[#fusillade-fallarica|Fusillade Fallarica]].[@luminous-wind.fm05-cast, luminous-wind.fm05-ja-cast, luminous-wind.so05-cast]
 - **Power.** In Familia Chronicle 1 it bends and then blows open a vault door made of several layers of adamantite.[@luminous-wind.fc01-vault]
 - **Concentrated.** In DanMachi 14 Lyu pours all her remaining Mind into forty-seven large orbs to destroy the Juggernaut.[@luminous-wind.fm14-end]
 - **Controlled.** In Familia Chronicle 3 she fires a single orb at her own feet to break free of a trap.[@luminous-wind.fc03-uranda]
@@ -1450,7 +1450,7 @@ Magic usually needs the caster to stand still and concentrate, and a slip can ca
 
 ### Noa Heal {#noa-heal}
 
-**Noa Heal** is the healing spell of [[lyu-leon|Lyu Leon]]. It heals wounds and other damage and restores stamina, but slowly: unlike a potion it does not work at once.[@noa-heal.fm13-neck, noa-heal.fm18-slow] DanMachi 18 says it affects one person at a time; Lyu's Astrea Record 1 Status sheet gives it a terrain effect, raising its potency in forest areas.[@noa-heal.fm18-single, noa-heal.ar01-sheet]
+**Noa Heal** ({{ja|ノア・ヒール}})[@noa-heal.so05-ja] is the healing spell of [[lyu-leon|Lyu Leon]]. It heals wounds and other damage and restores stamina, but slowly: unlike a potion it does not work at once.[@noa-heal.fm13-neck, noa-heal.fm18-slow] DanMachi 18 says it affects one person at a time; Lyu's Astrea Record 1 Status sheet gives it a terrain effect, raising its potency in forest areas.[@noa-heal.fm18-single, noa-heal.ar01-sheet]
 
 - **User:** [[lyu-leon|Lyu Leon]][@noa-heal.so05-heal, noa-heal.fc03-card]
 - **Status entry:** Healing magic; boosted in wooded environments[@noa-heal.fc03-card]
@@ -1526,7 +1526,7 @@ Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it
 
 {{nocite}} **Notes and other printed variants**
 
-The spell's name comes first, then the chant. Two volumes print it in different English wording; the versions are kept apart, and [@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
+The spell's name comes first, then the chant. Two volumes print it in different English wording; the versions are kept apart, and both are given below.[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast]
 
 | Print | Opening | Middle lines (excerpts) | Ending |
 |---|---|---|---|
@@ -1577,7 +1577,7 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 - **User:** Alize Lovell; [[lyu-leon|Lyu Leon]] through Astrea Record[@agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu]
 - **Type:** Fire enchantment[@agris-arvensis.fm14-alize, agris-arvensis.ar03-alize]
 - **Status entry:** Enchantment; fire attribute; chant "Alga"[@agris-arvensis.ar03-sheet]
-- **Spell key:** "Arvellia" / "Alveria"[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni]
+- **Spell key:** "Arvellia" / "Alveria" / "Arveria", one word: said *Arveria*, written *flame flower*[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.ar03-key-ja]
 
 #### Name and spell key {#agris-arvensis-name-and-spell-key}
 
@@ -1593,9 +1593,9 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 - **Spell key:** DanMachi 14 calls Alize's "Arvellia!!" "the spell key for her enchantment". Lyu's shout in DanMachi 18 is printed "Alveria!", and the narration later speaks of "Alize's Alveria".[@agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar]
 - **Title:** Astrea Record and DanMachi 14 print Alize's title *Scarlett Harnell*; DanMachi 18 prints *Scarlet Harnell*.[@agris-arvensis.ar03-alize, agris-arvensis.fm14-alize, agris-arvensis.fm18-lyu]
 
-Alize's illustrated Status sheet in Astrea Record 3 (Level 4) lists the spell as *Agallis Arvesynce*, an enchantment with fire attribute, and gives its chant as a single word: "Alga".[@agris-arvensis.ar03-sheet] Earlier in the same volume the narration calls her shout of the spell's name "Alize’s chant".[@agris-arvensis.ar03-alize] In the final battle with [[alfia|Alfia]] the text prints the word three times, "Alga! Alga! Alga!!", and each time she speaks it more of her energy is drawn into her magic and the fires around her grow.[@agris-arvensis.ar03-alga]
+Alize's illustrated Status sheet in Astrea Record 3 (Level 4) lists the spell as *Agallis Arvesynce*, an enchantment with fire attribute, and gives its chant as a single word: "Alga".[@agris-arvensis.ar03-sheet] Earlier in the same volume the narration calls her shout of the spell's name "Alize’s chant".[@agris-arvensis.ar03-alize] In the final battle with [[alfia|Alfia]] the text prints the word three times, "Alga! Alga! Alga!!", and each time she speaks it more of her energy is drawn into her magic and the fires around her grow.[@agris-arvensis.ar03-alga] The word is said *Alga* each time; the Japanese writes it *blaze up* in the battle and *bloom* on the sheet.[@agris-arvensis.ar03-key-ja]
 
-The next line printed is "Alvarna!", with no speaker named. {{inference}} It may be Alize's spell key, printed in a third form beside "Arvellia" and "Alveria".[@agris-arvensis.ar03-alga] Later in the same chapter, in Alize and Lyu's combined attack on Alfia, Lyu's "Luminous Wind!" is followed by "Arveria!", again with no speaker named; the narration describes a blaze of fire and starlight. {{inference}} This is probably Alize's spell key in a fourth spelling.[@agris-arvensis.ar03-arveria] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
+The next line printed is "Alvarna!", with no speaker named. It is not the spell key but a different word, written *full-open flame power* and shouted outside the spell's brackets.[@agris-arvensis.ar03-alga, agris-arvensis.ar03-key-ja] Later in the same chapter, in Alize and Lyu's combined attack on Alfia, Lyu's "Luminous Wind!" is followed by "Arveria!", again with no speaker named; the narration describes a blaze of fire and starlight.[@agris-arvensis.ar03-arveria] "Arveria", "Arvellia" and "Alveria" are one spell key: the Japanese writes all three as {{ja|炎華}}, said *Arveria* and written *flame flower*.[@agris-arvensis.ar03-key-ja] When Lyu uses the enchantment, she names it at the end of the Astrea Record chant.[@agris-arvensis.fc03-lyu, agris-arvensis.fm18-lyu]
 
 #### Effect {#agris-arvensis-effect}
 
@@ -1619,7 +1619,7 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 #### Open questions {#agris-arvensis-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Which spelling of the name is standard, whether "Alvarna" and "Arveria" are Alize's spell key, and its Mind cost.[@agris-arvensis.ar03-alize, agris-arvensis.ar03-alga, agris-arvensis.fm18-ottar]
+> - Which spelling of the name is standard, and its Mind cost.[@agris-arvensis.ar03-alize, agris-arvensis.fm18-ottar]
 
 ### Gokou {#gokou}
 
@@ -1627,11 +1627,11 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 
 - **User:** Gojouno Kaguya; [[lyu-leon|Lyu Leon]] through Astrea Record[@gokou.fm18-ottar, gokou.fc03-lyu]
 - **Type:** Magic slashes at set positions[@gokou.fm18-ottar]
-- **Chant:** Name only printed[@gokou.fm18-ottar, gokou.fc03-lyu]
+- **Chant:** Not printed under the name Gokou; Astrea Record 3 prints the ultrashort chant of the same spell as Five Lights[@gokou.fm18-ottar, gokou.fc03-lyu, gokou.ar03-five]
 
 #### Incantation {#gokou-incantation}
 
-No chant is printed. Lyu calls the name at the end of the Astrea Record chant, "Justice will go on—Gokou!", in Familia Chronicle 3; in DanMachi 18 she says "—Kaguya, lend me your strength!" and then "Gokou!"[@gokou.fc03-lyu, gokou.fm18-ottar] DanMachi 18 also calls it "the Far-Eastern secret technique" of Kaguya's.[@gokou.fm18-ottar]
+No chant is printed under the name Gokou; Astrea Record 3 prints the ultrashort chant of the same spell as Five Lights (below). Lyu calls the name at the end of the Astrea Record chant, "Justice will go on—Gokou!", in Familia Chronicle 3; in DanMachi 18 she says "—Kaguya, lend me your strength!" and then "Gokou!"[@gokou.fc03-lyu, gokou.fm18-ottar] DanMachi 18 also calls it "the Far-Eastern secret technique" of Kaguya's.[@gokou.fm18-ottar]
 
 #### Effect {#gokou-effect}
 
@@ -1688,7 +1688,7 @@ No chant of its own is printed. Maryu calls out only the name in Astrea Record 3
 Ardee Varma of [[ganesha-familia|Ganesha Familia]] has two spells on her illustrated Status sheet at the end of Astrea Record 2 (Level 3). Neither was found named in the story text of the covered English volumes; what is known of them comes from the sheet.[@ardee-varma-spells.ar02-sheet]
 
 - **User:** Ardee Varma of [[ganesha-familia|Ganesha Familia]][@ardee-varma-spells.ar02-sheet]
-- **Ghana Avimutta:** Restraining magic[@ardee-varma-spells.ar02-sheet]
+- **Ghana Avimutta** ({{ja|ガーナ・アヴィムサ}}, read *Gāna Avimusa*): Restraining magic[@ardee-varma-spells.ar02-sheet, ardee-varma-spells.ar02-ja]
 - **Dia Kaumudi:** Recovery magic[@ardee-varma-spells.ar02-sheet]
 - **Chants:** Not printed[@ardee-varma-spells.ar02-sheet]
 
@@ -1771,7 +1771,7 @@ In DanMachi 14 and 18 Aisha begins with "Come, reckless conqueror!"[@hell-kaios.
 #### Open questions {#hell-kaios-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - The full chant, whether the "conqueror" call belongs to it, and its Mind cost.[@hell-kaios.fm07-chant, hell-kaios.fm14-amphisbaena]
+> - Its Mind cost.[@hell-kaios.fm07-chant, hell-kaios.fm14-amphisbaena]
 
 ### Aro Zephyros {#aro-zephyros}
 
@@ -2011,7 +2011,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 
 #### Effects {#dia-frater-effects}
 
-- **Complete recovery.** In Sword Oratoria 11 a diamond-shaped white circle heals the wounds of Loki Familia's fighters, even curse wounds meant to be unhealable. The narration says it heals all wounds, restores stamina and boosts "all Status conditions", and that with enough power, influenced by her Development Ability Enigma, it can heal faster than an elixir.[@dia-frater.so11-zone]
+- **Complete recovery.** In Sword Oratoria 11 a diamond-shaped white circle heals the wounds of Loki Familia's fighters, even curse wounds meant to be unhealable. The narration says it heals all wounds, restores stamina and removes status ailments and curses, and that with enough magic power it surpasses even an elixir.[@dia-frater.so11-zone]
 - **A healing zone.** The circle then becomes a barrier of light that keeps healing everyone inside it, so that the whole north-east assault squad relies on Amid alone while the other healers save their Mind. Her title, Dea Saint, comes from being able to hold a battle line against a floor boss by herself.[@dia-frater.so11-hold]
 - **Area.** In Astrea Record 1 "an exceptionally large magic circle" covers the wounded around her; in Sword Oratoria 11 she calls "Five-meter perimeter" before casting.[@dia-frater.ar01-first, dia-frater.so11-zone]
 - **Choosing the effect.** Its three effects, recovery, poison eradication and curse removal, can be used separately, mainly to avoid wasting Mind. Against the Barca Monster she pours everything into curse removal alone, stripping the curse from the monster without healing its body.[@dia-frater.so11-barca]
@@ -2021,7 +2021,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 - **Mind.** In Astrea Record 1 the twelve-year-old Amid, after hours of healing adventurers and civilians, nearly collapses.[@dia-frater.ar01-first] In Sword Oratoria 11 she keeps going on potions, and estimates she has enough for the equivalent of a descent to about Floor 20.[@dia-frater.so11-hold]
 - **Overwhelmed.** When the Barca Monster rains its curse over the battlefield, Dia Frater cures the fighters the anti-curse medicine cannot, but they are cursed again as fast as she heals them: "my healing power can't keep up".[@dia-frater.so11-rain]
 - **Under attack.** In Sword Oratoria 12, when enemy magic lands at her feet, her circle flickers; she cannot keep healing at that scale while being attacked herself.[@dia-frater.so12-flicker] {{inference}} That scene repeats Dia Frater's opening but does not print the spell's name.
-- **At a cost to herself.** Purging the Barca Monster's curse, Amid's outstretched hand withers like an old woman's before the monster's black stain disappears. Afterwards she can heal herself, but Finn sends her back because her Mind and stamina are spent.[@dia-frater.so11-purge, dia-frater.so11-withdraw] The monster is found dead; the characters do not know whether it died when the curse was dispelled.[@dia-frater.so11-purge]
+- **At a cost to herself.** Purging the Barca Monster's curse, Amid's outstretched hand withers like an old woman's before the monster's black stain disappears. Afterwards she can heal herself, but Finn sends her back because of the heavy curse she took, and she agrees, worn out in mind and body.[@dia-frater.so11-purge, dia-frater.so11-withdraw] The monster is found dead; the characters do not know whether it died when the curse was dispelled.[@dia-frater.so11-purge]
 
 #### Earlier treatments {#dia-frater-earlier-treatments}
 
@@ -2034,11 +2034,11 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 #### Open questions {#dia-frater-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Its range, duration and Mind cost, and what "boost all Status conditions" means in practice.[@dia-frater.so11-zone]
+> - Its range, duration and Mind cost.[@dia-frater.so11-zone]
 
 ### Lunus Wolfsbane {#lunus-wolfsbane}
 
-**Lunus Wolfsbane** is the curse of Uranda, one of [[astrea|Astrea]]'s new followers in Familia Chronicle 3. In exchange for pain to herself, it binds its target and lowers their [[status|Status]].[@lunus-wolfsbane.fc03-curse] It is shown once, in a training ambush on [[lyu-leon|Lyu Leon]].[@lunus-wolfsbane.fc03-curse, lunus-wolfsbane.fc03-escape]
+**Lunus Wolfsbane** ({{ja|ルナウス・ウルフズベイン}}, read *Lunaus Wolfsbane*)[@lunus-wolfsbane.fc03-ja] is the curse of Uranda, one of [[astrea|Astrea]]'s new followers in Familia Chronicle 3. In exchange for pain to herself, it binds its target and lowers their [[status|Status]].[@lunus-wolfsbane.fc03-curse] It is shown once, in a training ambush on [[lyu-leon|Lyu Leon]].[@lunus-wolfsbane.fc03-curse, lunus-wolfsbane.fc03-escape]
 
 - **User:** Uranda, of [[astrea-familia|Astrea Familia]][@lunus-wolfsbane.fc03-curse]
 - **Effect:** Binds the target and lowers their Status[@lunus-wolfsbane.fc03-curse]
@@ -2049,7 +2049,7 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 
 On Iselina's signal, "a dark chant" reaches Lyu's ears:[@lunus-wolfsbane.fc03-curse]
 
-- **Printed chant:** "Open, my love. Lunus Wolfsbane."[@lunus-wolfsbane.fc03-curse]
+- **Printed chant:** "Open, my love. Lunus Wolfsbane."[@lunus-wolfsbane.fc03-curse] The Japanese chant is {{ja|開け、私の復讐|hirake, watashi no koi}}, *open, my love*: the last word is said *koi*, love, and written with the kanji for *revenge*.[@lunus-wolfsbane.fc03-ja]
 
 {{nocite}} It is printed as one short line, ending with the curse's name. Whether that is the whole chant is not stated.
 
@@ -2128,16 +2128,16 @@ Anya's voice becomes "an awful, mysterious sound wave", an "ultra-wide range att
 
 ### Felis Kurus {#felis-kurus}
 
-**Felis Kurus** is [[chloe|Chloe Lolo]]'s magic, an illusion spell that creates mirages that are mirror images of her.[@felis-kurus.fc01-cast] She used it for confusion, disturbance and surprise, "all sorts of tricks useful for assassinations".[@felis-kurus.fc01-cast]
+**Felis Kurus** ({{ja|フェレス・クルス}})[@felis-kurus.fc01-ja] is [[chloe|Chloe Lolo]]'s magic, an illusion spell that creates mirages that are mirror images of her.[@felis-kurus.fc01-cast] She used it for confusion, disturbance and surprise, "all sorts of tricks useful for assassinations".[@felis-kurus.fc01-cast]
 
 - **User:** [[chloe|Chloe Lolo]][@felis-kurus.fc01-cast]
-- **Type:** Illusion magic, short-trigger[@felis-kurus.fc01-cast]
+- **Type:** Illusion magic, super-short chant[@felis-kurus.fc01-cast]
 - **Effect:** Mirror-image mirages of the caster[@felis-kurus.fc01-cast]
 - **Chant:** One word: "Frolic"[@felis-kurus.fc01-cast]
 
 #### Incantation {#felis-kurus-incantation}
 
-Familia Chronicle 1 prints a one-word chant, "—Frolic!", followed by the name, "Felis Kurus!", and calls it short-trigger magic.[@felis-kurus.fc01-cast] DanMachi 18 prints only the whispered name and calls it a "super-short cast spell".[@felis-kurus.fm18-dvalinn]
+Familia Chronicle 1 prints a one-word chant, "—Frolic!", followed by the name, "Felis Kurus!", and calls it a super-short-chant illusion spell.[@felis-kurus.fc01-cast] DanMachi 18 prints only the whispered name and calls it a "super-short cast spell".[@felis-kurus.fm18-dvalinn]
 
 #### Effect {#felis-kurus-effect}
 
@@ -2215,7 +2215,7 @@ Sword Oratoria 11 prints chant and name together when [[lefiya|Lefiya]] summons 
 
 #### Effect {#dio-grail-effect}
 
-Filvis conjures it "almost instantaneously" from a white magic circle: a pure-white barrier more than five meders across, raised with minimal magic power.[@dio-grail.so04-teach] Lefiya had first seen the same light protect her group on the twenty-fourth floor.[@dio-grail.so04-teach]
+Filvis conjures it "almost instantaneously" from a white magic circle: a pure-white barrier with a radius of five meders or more, raised with minimal magic power.[@dio-grail.so04-teach] Lefiya had first seen the same light protect her group on the twenty-fourth floor.[@dio-grail.so04-teach]
 
 #### Lefiya's use {#dio-grail-lefiyas-use}
 
@@ -2475,7 +2475,7 @@ Legi of Nina's 3rd Squad puts her hand to the ground, calls "Dark Mine!", and le
 Nano, the 7th Squad's mage, has two lightning spells.[@school-district-spells.so13-amalda, school-district-spells.so13-yell]
 
 - **Zalga Amalda:** a longer chant; the printed part opens "Growling torrent gleam, blessed censure." and ends "Swallow, jaws of lightning." Ten bolts in all overlap into a torrent that destroys three liger fangs, and a squadmate complains that she should control her magic so they can still collect magic stones.[@school-district-spells.so13-amalda] Later in Sword Oratoria 13, ten bolts merge into one great arc that strikes a Goliath.[@school-district-spells.so13-goliath]
-- **Zalga Yell:** a short chant, "Lightning, heaven’s name. Betray thy earthly kin, share not thy voice." ending "Grant me the blessing of lightning—Zalga Yell!!!", used as an opening salvo.[@school-district-spells.so13-yell]
+- **Zalga Yell:** a short chant, "Lightning, heaven’s name. Betray thy earthly kin, share not thy voice." ending "Grant me the blessing of lightning—Zalga Yell!!!", used as an opening salvo.[@school-district-spells.so13-yell] The Japanese chant is {{ja|雷よ、天の称号よ。地の血統に背信すべく、汝の声を分け与えん。駆ける我が身に雷名の祝福を|ikazuchi yo, ten no shōgō yo. chi no kettō ni haishin subeku, nanji no koe o wakeataen. kakeru waga mi ni raimei no shukufuku o}}, *O lightning, O title of heaven: that I may betray my earthly blood, share out thy voice; upon my running body, the blessing of the thunder-name*: the second line asks the lightning to share its voice, not to withhold it.[@school-district-spells.so13-yell]
 
 #### Silva Vine (Miliria) {#school-district-spells-silva-vine-miliria}
 
@@ -2538,7 +2538,7 @@ Two chant endings are printed before the names, one calling on "winds of nature"
 **Hildis Vini** ({{ja|黄金猪の毛皮}}, written *the golden boar's hide*)[@hildis-vini.fm18-ja] is [[ottar|Ottar]]'s one and only magic.[@hildis-vini.fc02-udaeus] It is a simple enhancement spell: golden light covers him and his weapon and raises the weapon's power, and with Ottar's strength behind it the result is devastating.[@hildis-vini.ar03-zald, hildis-vini.fm18-slash]
 
 - **User:** [[ottar|Ottar]][@hildis-vini.fc02-udaeus]
-- **Type:** Enhancement ("not even an enchantment")[@hildis-vini.fm18-slash]
+- **Type:** Enhancement (not even an enchantment)[@hildis-vini.fm18-slash]
 - **Status entry:** "???"; no description printed[@hildis-vini.fc02-sheet]
 - **Effect:** Raises his weapon's power[@hildis-vini.ar03-zald, hildis-vini.fm20-afterglow]
 - **Chant:** Short; three sentences[@hildis-vini.fc02-udaeus, hildis-vini.fm18-bell]
@@ -2564,7 +2564,7 @@ Familia Chronicle 2 and DanMachi 18 both call it a short cast.[@hildis-vini.fc02
 
 Ottar describes it himself in Astrea Record 3: golden light envelops his body and his sword, turning it into "a blade of radiant light"; the spell "did nothing but raise my weapon's power", but his strength crossed with his magic makes a force no one can stand against.[@hildis-vini.ar03-zald]
 
-DanMachi 18 insists that it is "a simple enhancement spell", "not even an enchantment", so it should not let him hit anything beyond his blade's reach. Yet his enhanced slash cuts through the air and blows away everything in its path.[@hildis-vini.fm18-slash] In DanMachi 20 [[leon-verdenberg|Leon]] explains the reason: his and Ottar's enhancement magic only increases physical strength and weapon power, and it is a separate technique, the *afterglow*, that lets them "erase the distance" and strike far-off targets.[@hildis-vini.fm20-afterglow]
+DanMachi 18 insists that it is "a simple enhancement spell" that "wasn’t even an enchantment", so it should not let him hit anything beyond his blade's reach. Yet his enhanced slash cuts through the air and blows away everything in its path.[@hildis-vini.fm18-slash] In DanMachi 20 [[leon-verdenberg|Leon]] explains the reason: his and Ottar's enhancement magic only increases physical strength and weapon power, and it is a separate technique, the *afterglow*, that lets them "erase the distance" and strike far-off targets.[@hildis-vini.fm20-afterglow]
 
 #### Casting it in battle {#hildis-vini-casting-it-in-battle}
 
@@ -2683,7 +2683,7 @@ Hegni plants his black sword in the ground and a black magic circle spreads arou
 | DanMachi 16 | During the festival he attacks Bell in a deserted alley.[@dainsleif.fm16-bell] |
 | Familia Chronicle 2 | In the desert war he casts it before ten thousand enemies and cuts through the Warsa soldiers.[@dainsleif.fc02-cast] |
 | Astrea Record 3 | Against [[apate-and-alecto-familias#apate-familia|Basram]]'s spirit warriors in the Great Conflict.[@dainsleif.ar03-cast] |
-| DanMachi 18 | Casting it despite a hail of magic swords and arrows, he cuts through [[tsubaki|Tsubaki]]'s adventurers and smiths; Tsubaki knows he once felled over a thousand of the Evils in one battle with it.[@dainsleif.fm18-cast] [[lyu-leon|Lyu]] later defeats him, and Orario roars that "Dáinsleif is down".[@dainsleif.fm18-lyu] |
+| DanMachi 18 | Casting it despite a hail of magic swords and arrows, he cuts through [[tsubaki|Tsubaki]]'s adventurers and smiths; Tsubaki knows he once felled over a thousand of the Evils in one battle with it.[@dainsleif.fm18-cast] [[lyu-leon|Lyu]] later defeats him, and Orario roars at his defeat.[@dainsleif.fm18-lyu] |
 
 #### Open questions {#dainsleif-open-questions}
 
@@ -3092,7 +3092,7 @@ The narration says it could be neither dodged nor blocked, but Lyra throws herse
 
 ### Rea Ambrosia {#rea-ambrosia}
 
-**Rea Ambrosia** is a fire spell of [[zald|Zald]], "the Glutton". It is shown once, in his final duel with [[ottar|Ottar]] during the Great Conflict: his weapon is wrapped in flames, and with one swing they spread through the whole arena.[@rea-ambrosia.ar03-cast]
+**Rea Ambrosia** is a fire spell of [[zald|Zald]], the "Glutton". It is shown once, in his final duel with [[ottar|Ottar]] during the Great Conflict: his weapon is wrapped in flames, and with one swing they spread through the whole arena.[@rea-ambrosia.ar03-cast]
 
 - **User:** [[zald|Zald]][@rea-ambrosia.ar03-cast]
 - **Effect:** Flames that clad his weapon[@rea-ambrosia.ar03-cast]
@@ -3221,7 +3221,7 @@ When Hedin and Hegni swap opponents to attack the sisters' weaknesses, it fails:
 
 #### Its weakness {#dialv-stige-its-weakness}
 
-The cost shows at the end of the fight. After Vena falls, Hedin fires Valiant Hildr as a single great beam through both Dina and Hegni. Hegni stays on his feet and cuts her down; Dina cannot withstand it, because "through the curse, she had traded away not only her Magic, but her Defense as well".[@dialv-stige.ar03-end]
+The cost shows at the end of the fight. After Hedin's thrust pierces Vena's magic circle and her breast, he fires Valiant Hildr as a single great beam through both Dina and Hegni. Hegni stays on his feet and cuts her down; Dina cannot withstand it, because "through the curse, she had traded away not only her Magic, but her Defense as well".[@dialv-stige.ar03-end]
 
 #### Open questions {#dialv-stige-open-questions}
 
@@ -3231,28 +3231,28 @@ The cost shows at the end of the fight. After Vena falls, Hedin fires Valiant Hi
 
 ### Shaldo {#shaldo}
 
-**Shaldo** is the only spell of [[valletta|Valletta Grede]], a commander of the [[evils|Evils]]. It covers an area with glowing reddish-purple circles; anyone who enters uninvited loses power and speed, and the more they move, the worse it gets.[@shaldo.so08-field, shaldo.so08-explain] In Sword Oratoria 8 she uses it as a trap for [[bete-loga|Bete Loga]].[@shaldo.so08-explain]
+**Shaldo** ({{ja|女王蜘蛛の巣}}, written *queen spider's web*)[@shaldo.so08-ja] is the only spell of [[valletta|Valletta Grede]], a commander of the [[evils|Evils]]. It covers an area with glowing reddish-purple circles; anyone who enters uninvited loses power and speed, and the more they move, the worse it gets.[@shaldo.so08-field, shaldo.so08-explain] In Sword Oratoria 8 she uses it as a trap for [[bete-loga|Bete Loga]].[@shaldo.so08-explain]
 
 - **User:** Valletta Grede, of the [[evils|Evils]][@shaldo.so08-explain]
 - **Type:** Status Down field ("barrier magic")[@shaldo.so08-explain]
-- **Chant:** Long, by Valletta's account; not printed[@shaldo.so08-explain]
+- **Chant:** Super-long, by Valletta's account; not printed[@shaldo.so08-explain]
 - **Ends if:** Valletta steps outside it[@shaldo.so08-explain]
 
 #### Incantation {#shaldo-incantation}
 
-The chant is not printed: when Bete walks in, the field is already in place.[@shaldo.so08-field] {{statement}} Valletta says it has "an annoyingly long chant".[@shaldo.so08-explain]
+The chant is not printed: when Bete walks in, the field is already in place.[@shaldo.so08-field] {{statement}} Valletta says it has a super-long chant.[@shaldo.so08-explain]
 
 #### Effect {#shaldo-effect}
 
-- **The field.** Faint reddish-purple geometric shapes cover the floor of the underground room, each "120 or so meders across", centred on Valletta.[@shaldo.so08-field]
-- **Status Down.** {{statement}} Valletta calls it a Status Down spell that saps the power and speed of any uninvited guest, and says the more they move around, the worse it gets.[@shaldo.so08-explain] Bete feels his reactions and strength fall by the second, and guesses he has been pushed down to about Level 4.[@shaldo.so08-explain, shaldo.so08-level4]
-- **No recasting.** The narration notes that it keeps lowering a target's Status by itself without being cast again, and supposes that one, ten or a hundred people inside would all be affected.[@shaldo.so08-level4]
+- **The field.** Faint reddish-purple geometric patterns cover almost the whole floor of the underground room, a circle 60 meders in radius centred on Valletta.[@shaldo.so08-field]
+- **Status Down.** {{statement}} Valletta calls it a Status Down spell that saps the power and speed of any uninvited guest, and says the more they move around, the worse it gets.[@shaldo.so08-explain] Bete feels his reactions and strength fall by the second, and guesses his power has fallen below about Level 4.[@shaldo.so08-explain, shaldo.so08-level4]
+- **No recasting.** The narration notes that it keeps lowering a target's Status by itself without being cast again, and notes that one, dozens or hundreds of people inside would all be affected.[@shaldo.so08-level4]
 
 #### Costs and limits {#shaldo-costs-and-limits}
 
 {{statement}} Valletta is frank about its drawbacks: the long chant, the Mind it uses, and the fact that it dissipates the moment she steps outside it. She calls it "not even that useful in real combat", but "perfect for a trap".[@shaldo.so08-explain]
 
-She first calls it "a type of…barrier magic", then says "this magic isn't a barrier at all"; the narration later calls it her barrier.[@shaldo.so08-explain, shaldo.so08-hati] It is a field that weakens those inside it, not a wall that stops attacks.
+She calls it barrier magic that blocks nothing; the narration calls it her barrier.[@shaldo.so08-explain, shaldo.so08-hati] It is a field that weakens those inside it, not a wall that stops attacks.
 
 #### The trap {#shaldo-the-trap}
 
@@ -3430,7 +3430,7 @@ A wave of crimson light sweeps over the area. There is no explosion or shock, on
 
 #### Limits {#phobetor-daedalus-limits}
 
-- **The price:** "My curse makes my Status drop like a rock," Dix admits; even so, he is still a Level 4.[@phobetor-daedalus.fm10-cost] While it is active he cannot face [[lido|Lido]] on equal terms, but lifting it would free the maddened [[xenos|Xenos]] to turn on him.[@phobetor-daedalus.fm10-lido]
+- **The price:** "My curse makes my Status drop like a rock," Dix admits; even with his Status a full Level lower, he still fights at Level 4.[@phobetor-daedalus.fm10-cost] While it is active he cannot face [[lido|Lido]] on equal terms, but lifting it would free the maddened [[xenos|Xenos]] to turn on him.[@phobetor-daedalus.fm10-lido]
 - **One at a time:** he cannot cast it a second time without first lifting the curse already in effect.[@phobetor-daedalus.so07-bete]
 - **Protection:** [[fels|Fels]]'s black robe, which protects against curses and anti-Status magic, shields Bell and two Xenos behind it.[@phobetor-daedalus.fm10-explain]
 - **Counter:** Bete's answer is to knock the victims out ("Sleep it off"), leaving no one for the curse to turn against him.[@phobetor-daedalus.so07-bete] Dix then realises that cursing Bete at point-blank range would make Dix himself the berserk wolf's first target.[@phobetor-daedalus.so07-bete]
@@ -3472,7 +3472,7 @@ The same passage explains that a curse is a kind of jinx, different from "pure" 
 
 #### Ending it {#sharay-silencing-curse-ending-it}
 
-Phryne says she prepared these curses and anti-Status measures for a fight with [[ottar|Ottar]], and had hoped to try them on [[riveria|Riveria]].[@sharay-silencing-curse.so06-phryne] Aiz thinks the only way to break the curse is to defeat its caster, but Sharay has already fled.[@sharay-silencing-curse.so06-phryne] Later, after the fighting at [[ishtar-familia|Ishtar Familia]]'s retreat, the curse is undone and Aiz uses Airiel again; how it was lifted is not described.[@sharay-silencing-curse.so06-undone]
+Phryne says she prepared these curses and anti-Status measures for a fight with [[ottar|Ottar]] and finds Aiz a good test of them; she had meant to neutralise [[riveria|Riveria]] along with her, but Riveria sniffed her out.[@sharay-silencing-curse.so06-phryne] Aiz thinks the only way to break the curse is to defeat its caster, but Sharay has already fled.[@sharay-silencing-curse.so06-phryne] Later, after the fighting at [[ishtar-familia|Ishtar Familia]]'s retreat, the curse is undone and Aiz uses Airiel again; how it was lifted is not described.[@sharay-silencing-curse.so06-undone]
 
 #### Open questions {#sharay-silencing-curse-open-questions}
 
@@ -3481,11 +3481,11 @@ Phryne says she prepared these curses and anti-Status measures for a fight with 
 
 ### Spells of the corrupted spirits {#corrupted-spirit-spells}
 
-The corrupted spirits, or demi-spirits, that [[loki-familia|Loki Familia]] fights cast spells of their own. Sword Oratoria 4 calls Thunder Ray "the all-powerful spell, reserved for the spirits of the Ancient Times", and their chants are sung far faster than any human caster's.[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so04-thunder]
+The corrupted spirits, or demi-spirits, that [[loki-familia|Loki Familia]] fights cast spells of their own. Sword Oratoria 4 calls Thunder Ray a bombardment spell allowed to the powerful spirits of the Ancient Times, and their chants are sung far faster than any human caster's.[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so04-thunder]
 
 - **Casters:** Corrupted spirits (demi-spirits)[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so07-caelum]
 - **Spells:** Seven named in the covered volumes[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so04-meteor, corrupted-spirit-spells.so04-thunder, corrupted-spirit-spells.so07-caelum, corrupted-spirit-spells.so12-faces]
-- **Chants:** End by calling an elemental spirit, then the name[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so12-faces]
+- **Chants:** End with the spirit taking an elemental spirit's name as its own, then the spell's name[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so12-faces]
 
 #### Incantation {#corrupted-spirit-spells-incantation}
 
@@ -3517,19 +3517,19 @@ The corrupted spirits, or demi-spirits, that [[loki-familia|Loki Familia]] fight
 
 > Run wild, darkness. Devour the light in night’s peace. Your envoy beseeches thee, Shade. Incarnate of darkness. Queen of shadows—
 
-Most of the printed chants end the same way: the spirit names itself the envoy of an elemental spirit, then the element's "incarnate" and "queen", and then the spell. Sword Oratoria 4 prints "Your envoy beseeches you, Salamander! Incarnate of fire! Queen of flame—!"; Sword Oratoria 7 and 12 print "beseeches thee".[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so07-thunder, corrupted-spirit-spells.so12-faces]
+Most of the printed chants end the same way: the spirit names itself the envoy of an elemental spirit, then the element's "incarnate" and "queen", and then the spell. Sword Oratoria 4 prints "Your envoy beseeches you, Salamander! Incarnate of fire! Queen of flame—!"; Sword Oratoria 7 and 12 print "beseeches thee".[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so07-thunder, corrupted-spirit-spells.so12-faces] The Japanese petitions no one: the spirit declares itself the deputy and takes the elemental spirit's name as its own, as an elf's chant ends "my name is Alf". Fire Storm ends {{ja|代行者ノ名ニオイテ命ジル与エラレシ我ガ名ハ火精霊炎ノ化身炎ノ女王|daikōsha no na ni oite meijiru, ataerareshi waga na wa Salamandā, honō no keshin, honō no ō}}, *I command in the deputy's name: the name given me is Salamander, incarnation of flame, sovereign of flame*: the spirit says *Salamander*, and *fire spirit* is the written meaning; it says *ō*, sovereign, over the written *queen*. Meteor Swarm ends the same way with *Gnome* (written *earth spirit*), and Thunder Ray, Light Burst, Icicle Edge and Dark Roar with *I who am the deputy, my name is* Tonitrus, Lux, Undine and Shade.[@corrupted-spirit-spells.so04-firestorm, corrupted-spirit-spells.so04-meteor, corrupted-spirit-spells.so04-thunder, corrupted-spirit-spells.so12-faces]
 
 #### The spells {#corrupted-spirit-spells-the-spells}
 
-| Spell | Element (spirit invoked) | What the text shows |
+| Spell | Element (spirit named) | What the text shows |
 |---|---|---|
-| Fire Storm | Fire (Salamander) | After "a protracted spell song", a tsunami of flame swallows the monsters, the floor and [[riveria|Riveria]]'s [[#via-shilheim|Via Shilheim]] dome, which holds.[@corrupted-spirit-spells.so04-firestorm] |
-| Meteor Swarm | Earth (Gnome) | After another long chant, thousands upon thousands of meteorites form in a mass of darkness overhead.[@corrupted-spirit-spells.so04-meteor] |
-| Thunder Ray | Lightning (Tonitrus) | A short chant: beams of lightning burst from a magic circle. In Sword Oratoria 4 [[lefiya|Lefiya]]'s summoned [[#dio-grail|Dio Grail]] meets it.[@corrupted-spirit-spells.so04-thunder] In Sword Oratoria 7 a demi-spirit completes it "even shorter and faster than humans could possibly imagine".[@corrupted-spirit-spells.so07-thunder] |
+| Fire Storm | Fire (Salamander) | After "a protracted spell song", a tsunami of flame swallows the monsters, the floor and [[riveria|Riveria]]'s [[#via-shilheim|Via Shilheim]] dome, which cracks and shatters.[@corrupted-spirit-spells.so04-firestorm] |
+| Meteor Swarm | Earth (Gnome) | After another long chant, the magic circle's light shoots up overhead and a swarm of black meteorites appears.[@corrupted-spirit-spells.so04-meteor] |
+| Thunder Ray | Lightning (Tonitrus) | A short chant: beams of lightning burst from a magic circle. In Sword Oratoria 4 [[lefiya|Lefiya]]'s summoned [[#dio-grail|Dio Grail]] meets it.[@corrupted-spirit-spells.so04-thunder] In Sword Oratoria 7 a demi-spirit completes it with a short chant sung at a speed beyond human ken.[@corrupted-spirit-spells.so07-thunder] |
 | Icicle Edge | Water (Undine) | A monstrous pillar or blade of ice that strikes instantly.[@corrupted-spirit-spells.so04-icicle, corrupted-spirit-spells.so12-faces] |
 | Light Burst | Light (Lux) | A flash of light; in Sword Oratoria 12 [[mikoto|Mikoto]]'s gravity barrier intercepts it.[@corrupted-spirit-spells.so12-faces, corrupted-spirit-spells.so12-light] In Sword Oratoria 4 the spirit finishes it at the same moment Aiz releases her Li'l Rafaga.[@corrupted-spirit-spells.so04-light] |
 | Dark Roar | Darkness (Shade) | "Oncoming darkness".[@corrupted-spirit-spells.so12-faces] |
-| Caelum Veil | Lightning | One stanza, "Rage, fury of the skies.", makes a membrane of lightning around the demi-spirit like charged armour; the narration calls it an enchantment, like Aiz's [[#airiel|Airiel]]. With the word "Distel" the lightning shoots out in every direction.[@corrupted-spirit-spells.so07-caelum] |
+| Caelum Veil | Lightning | One stanza, "Rage, fury of the skies.", makes a membrane of lightning around the demi-spirit like charged armour; the narration calls it an enchantment, like Aiz's [[#airiel|Airiel]]. With the word "Distel" ({{ja|放電}}, written *electric discharge*) the lightning shoots out in every direction.[@corrupted-spirit-spells.so07-caelum, corrupted-spirit-spells.so07-distel-ja] |
 
 #### Casting {#corrupted-spirit-spells-casting}
 
@@ -3543,7 +3543,6 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether every Status has three spell slots from the start, or whether some have fewer.[@fm01-three, so01-slots, so02-grimoire]
 > - The Mind cost of almost every spell.[@fm02-minddown]
 
 [@so12-standby]: SO12 | Chapter 8: A Heroes’ Chorus | Holding magic on standby; no second spell; Ignis Fatuus; Double Cannon and the spell key.
@@ -3569,16 +3568,14 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@satanas-verion.ar03-ja]: AR03 | | The Japanese edition writes the spell key in kanji meaning exploding sound, with the reading Rugio.
 [@fm14-sword]: FM14 | Chapter 8: The Voice of the Hammer | Welf's magic sword consumes Mind like spells.
 [@fm15-cards]: FM15 | | Hestia Familia Status cards: Magic and Skills listed separately.
-[@so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel."
+[@so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel." The Japanese edition (file cX0, paragraph 371) calls it a super-short chant.
 [@so01-long]: SO01 | | Prologue: Rea Laevateinn's "long incantation".
 [@so01-conjure]: SO01 | Chapter 2: Dungeon Confusion | Fusillade Fallarica chant in three pieces; Conjure: magic strength, range and Mind efficiency.
-[@so01-slots]: SO01 | Chapter 5: To Battle | Every Status has three spell slots.
+[@so01-slots]: SO01 | Chapter 5: To Battle | A Status has at most three spell slots. The Japanese edition (file c535, paragraph 360) gives the magic slots of a Status as three at most.
 [@so01-elfring]: SO01 | Chapter 5: To Battle | Elf Ring's chant, then Wynn Fimbulvetr's.
 [@so02-grimoire]: SO02 | Chapter 1: The Average Day | A high-grade grimoire can add a slot with a certain probability, up to three (the Japanese edition, file cA7, paragraph 174).
 [@so04-ultrashort]: SO04 | Last Chapter: To Adventure | Hell Finegas: "ultrashort chant".
 [@so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; three types, three levels.
-[@so07-berserk]: SO07 | Chapter 4: The Sword’s Wind Calls | "Her skill: Berserk".
-[@so08-berserk]: SO08 | Chapter 5: Battered Wolf | Loki: "Tiona and Tione's Berserk magic"; Hati's chant.
 [@so12-avenger]: SO12 | Chapter 5: Final War | Avenger, a Skill, joined with Airiel.
 [@so12-lefiya]: SO12 | Chapter 4: Nameless Heroes | Lefiya's card: three spells; Double Cannon under Skills.
 [@so12-supershort]: SO12 | Chapter 7: Final War II | Welf's "super-short cast".
@@ -3603,7 +3600,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@cinder-ella.fm03-name]: FM03 | Chapter 1: The Kenki Approches | Name only; cat ears appear.
 [@cinder-ella.fm03-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Shape limits; clothing needs an example; ends if she is hit.
 [@cinder-ella.fm03-ja-name]: FM03 | Chapter 1: The Kenki Approches | Japanese original (file c98, paragraphs 17 to 20): Lilly strokes her head; her hair, not her natural chestnut, sways and the cat ears twitch, and her eyes are golden; the spell name stands alone in brackets as a label in the narration, followed by the remark that her transformation magic gives her present look as a beast-person child. The disguise is already in place and nothing is cast. Yen Press prints the ears as appearing.
-[@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
+[@cinder-ella.fm03-ja-limits]: FM03 | Chapter 2: Ox and Hare Special Training | Japanese original (file cZJ, paragraphs 597 and 598): she can basically only change into pallums (the race this wiki calls prums) or children of about her own build; after her Magic ability rose, clothing became somewhat flexible, only as imitation and only in appearance; a hit apparently dissolves it.
 [@cinder-ella.fm05-release]: FM05 | Chapter 5: The Outlaws’ Party | Release from a monster form; anything she can clearly picture, even monsters.
 [@cinder-ella.fm05-ja-release]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraphs 360 and 365): the transformation can change her even into monsters if the condition of a target whose build closely resembles her own is met, and it is limited to imitation; her Status does not rise. Yen Press prints that she can transform into anything she could clearly picture in her mind.
 [@cinder-ella.fm06-mind]: FM06 | Chapter 3: Outbreak | Released in the Dungeon to save Mind.
@@ -3613,7 +3610,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@cinder-ella.fm11-chase]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Both chants; poses as Aruru.
 [@cinder-ella.fm11-limits]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Cannot take a higher Status or a monster's potential.
 [@cinder-ella.fm11-finn]: FM11 | Chapter 4: A Skirmish in Daedalus Street | Poses as Finn; must imitate personality.
-[@cinder-ella.fm15-card]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Status card: Activation and Deactivation chants.
+[@cinder-ella.fm15-card]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Status card: Activation and Deactivation chants. The Japanese edition's DanMachi 15 card (file c1TW, paragraphs 29–34) is word for word the DanMachi 8 card.
 [@cinder-ella.fm15-activation]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Activation chant spoken.
 [@cinder-ella.fm15-origin]: FM15 | | The spell appeared half a year earlier; used to slip away from adventurers.
 [@cinder-ella.fm18-dispel]: FM18 | Chapter 9: Flower Language for You | Disguise as Berling dispelled by a spear.
@@ -3643,16 +3640,16 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@futsu-no-mitama.fm18-cage]: FM18 | Chapter 9: Flower Language for You | Name only; boosted; narrowed cage; Berling breaks out.
 [@futsu-no-mitama.so12-shield]: SO12 | Chapter 7: Final War II | Last line and name; light bent into the floor.
 [@uchide-no-kozuchi.so06-phryne]: SO06 | | Phryne raised to Level-6 combat power; spell unnamed.
-[@uchide-no-kozuchi.fm07-named]: FM07 | | Spell named; Aisha and Bell boosted.
+[@uchide-no-kozuchi.fm07-named]: FM07 | Chapter 6: Yearning of a Hero | Spell named; Aisha and Bell boosted.
 [@uchide-no-kozuchi.fm07-chant]: FM07 | Chapter 6: Yearning of a Hero | Full chant with "Grow"; hammer of light; the boost persists until it expires or she ends it.
 [@uchide-no-kozuchi.fm08-mikoto]: FM08 | | Secret boost for Mikoto during the Goliath battle.
 [@uchide-no-kozuchi.fm09-duration]: FM09 | Chapter 5: Heretics | Fifteen-minute duration with sufficient Mind.
-[@uchide-no-kozuchi.fm11-rescue]: FM11 | | Bell's rescue sprint; about ten minutes before another boost.
+[@uchide-no-kozuchi.fm11-rescue]: FM11 | Chapter 5: Ultra Soul! | Bell's rescue sprint; about ten minutes before another boost.
 [@uchide-no-kozuchi.fm11-hammer]: FM11 | Chapter 5: Ultra Soul! | "—Grow."; golden light before it takes effect; hammer of light falls on Aisha. The Japanese edition (file c4DR, paragraph 705) says it gives off golden magic light before it takes effect, whether or not there is a magic circle.
 [@uchide-no-kozuchi.fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe's tails.
 [@uchide-no-kozuchi.fm14-boost]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "level boost" in lower case; "Grow. Uchide no Kozuchi!"
 [@uchide-no-kozuchi.fm15-limits]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Target, duration and recast limits.
-[@uchide-no-kozuchi.fm15-excelia]: FM15 | | Reduced excelia while boosted.
+[@uchide-no-kozuchi.fm15-excelia]: FM15 | | Reduced excelia while boosted. The Japanese edition (file c5M2, paragraphs 119 and 124) says half the usual excelia or less, and that the spell cannot be cast on Haruhime herself.
 [@uchide-no-kozuchi.fm18-level2]: FM18 | Chapter 8: The Great Familia War | Level 2 limits and six tails.
 [@uchide-no-kozuchi.fm18-anya]: FM18 | Chapter 9: Flower Language for You | Anya at pseudo-Level 5.
 [@uchide-no-kozuchi.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Kokonoe and Uchide no Kozuchi chanted in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
@@ -3661,24 +3658,24 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@kokonoe.fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe; nine tails possible, five usable.
 [@kokonoe.fm12-chant]: FM12 | Chapter 6: The Hero’s Sacred Flame | From the grimoire; name first; full chant; "Concatenated Casting"; "Dance!"
 [@kokonoe.fm14-name]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Kokonoe!"
-[@kokonoe.fm13-two]: FM13 | | Two boosts in the lambton battle.
-[@kokonoe.fm15-card]: FM15 | | Haruhime's Level 1 card.
+[@kokonoe.fm13-two]: FM13 | Chapter 4: Countdown | Two boosts in the lambton battle.
+[@kokonoe.fm15-card]: FM15 | | Haruhime's Level 1 card. The Japanese edition (file c5M2, paragraphs 27–30) gives chant linking, the loading of the linked spell's effect and a maximum of nine activations; the card names no tails.
 [@kokonoe.fm18-six]: FM18 | Chapter 8: The Great Familia War | Six tails; five used. The Japanese edition (file part0021, paragraph 1076) says her Mind itself grew with the Level Up, so the Mind Down that five tails caused on the lower-levels expedition is no longer a worry.
 [@kokonoe.fm18-chant]: FM18 | Chapter 9: Flower Language for You | Full chant in the open; "chained casting"; "Uchide no Kozuchi—Dance!"
 [@kokonoe.so12-boost]: SO12 | | Five boosts; Bete at pseudo-Level 7.
-[@airiel.so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel."; her only spell; an enchantment.
+[@airiel.so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel."; her only spell; an enchantment. The Japanese edition (file cX0, paragraph 371) calls her chant a super-short chant.
 [@airiel.so01-rafaga]: SO01 | Chapter 2: Dungeon Confusion | Lil Rafaga named as a finishing move, at Loki's suggestion.
-[@airiel.so01-twoslash]: SO01 | Chapter 2: Dungeon Confusion | Two slashes in the time of one; the borrowed blade nearly breaks.
+[@airiel.so01-twoslash]: SO01 | Chapter 2: Dungeon Confusion | Kills in one or two swings; the borrowed blade nearly breaks. The Japanese edition (file cX0, paragraphs 439–440) says her wind-clad slashes finish an enemy with one or two swings.
 [@airiel.so01-blade]: SO01 | Chapter 5: To Battle | A weapon falls to pieces under Airiel.
-[@airiel.so01-sense]: SO01 | Chapter 5: To Battle | Wide spatial sense on the surface; recast.
+[@airiel.so01-sense]: SO01 | Chapter 5: To Battle | Sensing on the surface; recast. The Japanese edition (file c535, paragraph 55) has her ride part of Airiel on the wind and sense the vibrations of the monsters' roars.
 [@airiel.so02-trigger]: SO02 | Chapter 5: The Battle of Rivira | "Airiel" triggered by the call.
 [@airiel.so02-rage]: SO02 | Chapter 6: Parched Scream | "Rage, Tempest!"
 [@airiel.so02-overuse]: SO02 | Chapter 6: Parched Scream | Too long at full power; the wind gives out.
 [@airiel.so03-aria]: SO03 | Chapter 1: The Black Robe’s Invitation | Airiel prompts the name "Aria".
-[@airiel.so07-rage]: SO07 | Chapter 4: The Sword’s Wind Calls | Two "Awaken, Tempest" calls, then "RAGE, TEMPEST!!".
-[@airiel.so09-first]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | First activation at seven; the black wyvern.
+[@airiel.so07-rage]: SO07 | Chapter 4: The Sword’s Wind Calls | Two "Awaken, Tempest" calls, then "RAGE, TEMPEST!!". The wind: "As it filled the room, it slashed the pipes to shreds before rushing into the tunnels beyond."
+[@airiel.so09-first]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | First activation at seven; the black wyvern; "The giant tornado blew away the creature’s mouth and upper jaw."
 [@airiel.so09-mother]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "Mother's…wind."
-[@airiel.so11-mind]: SO11 | | Out of Mind while training with Ottar.
+[@airiel.so11-mind]: SO11 | Chapter 3: The True Face of a God | Out of Mind while training with Ottar.
 [@airiel.so11-tempest]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Tempest!" as she unleashes Airiel.
 [@airiel.so12-avenger]: SO12 | Chapter 5: Final War | "Tempest" / "Avenger"; the forbidden chant.
 [@airiel.so12-white]: SO12 | Chapter 8: A Heroes’ Chorus | White wind; "Tempest!".
@@ -3700,13 +3697,13 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@arcs-ray.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Arcs Ray, Fusillade Fallarica, Elf Ring.
 [@arcs-ray.so13-tunnel]: SO13 | Chapter 5: The Mirror’s Voice | "Unleashed pillar of light"; her own original spell; rubble cleared.
 [@arcs-ray.so13-short]: SO13 | Chapter 5: The Mirror’s Voice | "Arcs Ray, which had a short chant".
-[@fusillade-fallarica.so01-room]: SO01 | Chapter 2: Dungeon Confusion | Full chant in three pieces; Conjure and the magic circle; the room burned out.
+[@fusillade-fallarica.so01-room]: SO01 | Chapter 2: Dungeon Confusion | Full chant in three pieces; Conjure and the magic circle; the room burned out. The Japanese edition (file cX0, paragraph 479) has the arrows that miss blast the ground and tear up the bedrock.
 [@fusillade-fallarica.so04-training]: SO04 | First Chapter: And the Boy… | Concurrent casting under Filvis's training; small wording differences.
 [@fusillade-fallarica.so05-compare]: SO05 | Chapter 3: ⅓ Pure Passion | Luminous Wind compared with Fusillade Fallarica.
 [@fusillade-fallarica.so09-rakia]: SO09 | | Release only; bombardment of Rakia's army.
 [@fusillade-fallarica.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: wide-range attack magic, fire element.
 [@fusillade-fallarica.so13-crowd]: SO13 | Chapter 5: The Mirror’s Voice | Only usable for her first attack in the melee.
-[@elf-ring.so01-summon]: SO01 | Chapter 5: To Battle | Chant; "Elf Ring."; circle turns jade; three slots; recite or understand; Thousand Elf.
+[@elf-ring.so01-summon]: SO01 | Chapter 5: To Battle | Chant; "Elf Ring."; circle turns jade; at most three slots; the chant and effects grasped; the cost of two spells; Thousand Elf. The Japanese edition (file c535, paragraphs 360–363) gives the slots as three at most, requires the chant and the effect to be completely grasped, and has her pay two spells' chanting time and Mind.
 [@elf-ring.so03-rea]: SO03 | Chapter 5: Hell and Hell | Same chant; three-minute countdown; Riveria's spell summoned.
 [@elf-ring.so04-reqs]: SO04 | First Chapter: And the Boy… | Elven magic only; two-part chant; understanding and the proper chant.
 [@elf-ring.so05-grail]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's Dio Grail summoned to block the corrupted spirit.
@@ -3726,6 +3723,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@wynn-fimbulvetr.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
 [@wynn-fimbulvetr.so14-cave]: SO14 | Chapter 3: The Dwarf’s Embarking | Ice cave in the collapse; past Mind Down.
 [@rea-laevateinn.so01-wall]: SO01 | | Prologue: the end of the long incantation; pillars of flame; allies safe inside the circle.
+[@rea-laevateinn.so10-ja]: SO10 | | The Japanese edition writes the spell as second-level attack magic, read Rea Laevateinn (file c5XT, paragraph 270; file c6PM, paragraph 205), and Riveria casts it under that name (file c6PM, paragraph 190); in Sword Oratoria 7 the same words are read Laevateinn alone (file c29N, paragraph 30).
 [@rea-laevateinn.so03-summon]: SO03 | Chapter 5: Hell and Hell | Summoned by Lefiya; three-minute countdown.
 [@rea-laevateinn.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated chant; second-tier, longest, greatest range; circle covers the battlefield.
 [@rea-laevateinn.so07-radar]: SO07 | Chapter 3: Feast of the Dead | "Rae Laevateinn"; horizontal detection; forming and cancelling the circle.
@@ -3740,8 +3738,8 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@hell-finegas.so14-terrain]: SO14 | Chapter 3: The Dwarf’s Embarking | Not an option when the terrain requires a clear mind.
 [@hell-finegas.ar03-valletta]: AR03 | Chapter 7: What She Wished For | Chant; mind-altering enchantment; boost comparable to a Level increase.
 [@hati.so08-cast]: SO08 | Chapter 5: Battered Wolf | Chant in seven pieces; "Hati."; the pyre; four flames.
-[@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits.
-[@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
+[@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits. The Japanese edition (file c45H, paragraph 692) says that to drain magic he cannot avoid being hit by it, and that Hati feeds even on the damage carved into his body.
+[@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain; Valletta's reckoning: "He’d kick the bucket far before Valletta even got close."
 [@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | The whole chant again in seven pieces ("Chained Fenris, king of wolves!"); flaming wolf; Fusillade Fallarica strengthens it.
 [@hati.so12-ja]: SO12 | Chapter 8: A Heroes’ Chorus | The Japanese edition (file cAFK, paragraph 356) writes the opening with the kanji for evil wolf and the reading Fros, as Sword Oratoria 8 does (paragraph 567).
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
@@ -3789,10 +3787,10 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@magia-kreis.fm20-twenty]: FM20 | Chapter 1: Orario Rumble | Twenty minutes at Level 2.
 [@magia-kreis.fm20-later]: FM20 | Chapter 4: The Knight’s Afterglow | Magia Kreis in the later fighting.
 [@magia-kreis.fm20-chant]: FM20 | Chapter 4: The Knight’s Afterglow | Full chant ending "Magia Kreis!" (printed twice). The Japanese chant's first noun means holy ring, not stem.
-[@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; "the ultimate protection spell"; the dome around thirteen.
+[@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; the hardest defensive spell Riveria has (the Japanese edition, file c5SA); the dome around thirteen.
 [@via-shilheim.so04-shattered]: SO04 | Last Chapter: To Adventure | Fire Storm shatters the barrier; Gareth shields the party.
 [@via-shilheim.so04-residue]: SO04 | Last Chapter: To Adventure | The spirit absorbs the barrier's residue.
-[@via-shilheim.so10-city]: SO10 | | "Riveria, the barrier!"; townspeople shielded; others hit.
+[@via-shilheim.so10-city]: SO10 | Chapter 2: Someone Named Fool | "Riveria, the barrier!"; townspeople shielded; others hit.
 [@via-shilheim.so10-standby]: SO10 | Chapter 5: Brave Soul! | Last line; standby; five-meder radius.
 [@via-shilheim.so10-release]: SO10 | Chapter 5: Brave Soul! | Released to stop a volley; eleven elves.
 [@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.
@@ -3801,15 +3799,16 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@dia-frater.ar03-carried]: AR03 | Chapter 5: Playing the Violence Card | Closing line and name; carried on Nahza's back. The Japanese edition (file c3YC, paragraph 666) says she heals from Nahza's back.
 [@dia-frater.so08-finn]: SO08 | Chapter 2: Did Someone Order a Wolf? | Only her magic made headway against the curse on Finn.
 [@dia-frater.so08-bete]: SO08 | Chapter 4: Lonesome Night | Treating Bete; close to Mind Down.
-[@dia-frater.so11-zone]: SO11 | Chapter 4: Avengers ~Knossos War~ | Opening line; "Five-meter perimeter"; diamond circle; heals everything; Enigma.
+[@dia-frater.so11-zone]: SO11 | Chapter 4: Avengers ~Knossos War~ | Opening line; "Five-meter perimeter"; diamond circle; heals everything. The Japanese edition (file c2MJ, paragraphs 141–143) says it heals wounds, restores stamina and removes status ailments and curses, and that with enough magic power it surpasses even the elixir.
 [@dia-frater.so11-hold]: SO11 | Chapter 4: Avengers ~Knossos War~ | A zone of continuous healing; Dea Saint; enough potions for Floor 20.
 [@dia-frater.so11-rain]: SO11 | Chapter 5: Obsession Manifest | High-speed chant; cured, then cursed again; "can't keep up".
 [@dia-frater.so11-barca]: SO11 | Chapter 6: And Then the God Smiled | The fullest chant; three effects; curse removal alone.
 [@dia-frater.so11-purge]: SO11 | Chapter 6: And Then the God Smiled | Her hand withers; the stain disappears; the monster found dead.
-[@dia-frater.so11-withdraw]: SO11 | Chapter 6: And Then the God Smiled | She heals herself but withdraws.
+[@dia-frater.so11-withdraw]: SO11 | Chapter 6: And Then the God Smiled | She heals herself but withdraws. The Japanese edition (file c4FG, paragraphs 409–410) gives the heavy curse as Finn's reason and has her agree because she is worn out in mind and body.
 [@dia-frater.so12-flicker]: SO12 | Chapter 6: The Divine Providence of Despair | The opening line; her circle flickers under attack.
 [@dia-frater.fm18-heith]: FM18 | Chapter 8: The Great Familia War | Amid and Heith compared.
 [@lunus-wolfsbane.fc03-curse]: FC03 | The Locus of Stars | "Open, my love. Lunus Wolfsbane."; bound; Status down; the stake; a curse-user.
+[@lunus-wolfsbane.fc03-ja]: FC03 | The Locus of Stars | The Japanese edition (file c1JZ, paragraph 135) prints the curse's name in katakana and its chant with the word read love written as revenge.
 [@lunus-wolfsbane.fc03-trap]: FC03 | The Locus of Stars | Schau as bait; Iselina's magic sword.
 [@lunus-wolfsbane.fc03-escape]: FC03 | The Locus of Stars | The queued Luminous Wind; "If it had sealed not just my movements…".
 [@lunus-wolfsbane.fc03-range]: FC03 | The Locus of Stars | Out of range, the effects end; Uranda struck down.
@@ -3839,7 +3838,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@satanas-verion.ar03-again]: AR03 | Chapter 9: A Hero’s Trail | "Gospel!" again.
 [@satanas-verion.ar03-genos-third]: AR03 | Chapter 9: A Hero’s Trail | A third ability, neither her sound wave nor her enchantment.
 [@silentium-eden.ar01-riveria]: AR01 | | "Ataraxia"; Wynn Fimbulvetr erased. The Japanese edition (file c67J, paragraphs 130–138) describes a receding sound and an invisible barrier that erases the spell, which Riveria calls nullification.
-[@silentium-eden.ar01-report]: AR01 | | "Immune to…magical and nonmagical attack".
+[@silentium-eden.ar01-report]: AR01 | Chapter 11: Absolute Evil | "Immune to…magical and nonmagical attack".
 [@silentium-eden.ar03-barrage]: AR03 | | "Ataraxia"; the barrage disperses.
 [@silentium-eden.ar03-passive]: AR03 | Chapter 4: Apocalypse Cometh | "A passive enchantment"; the gestures are for show; Alize's flames.
 [@silentium-eden.ar03-mind]: AR03 | Chapter 4: Apocalypse Cometh | It must drain her Mind; "outwitted me".
@@ -3871,9 +3870,9 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@dialv-stige.ar03-swap]: AR03 | Chapter 6: The Nameless Heroes | The swap fails; Dialv Dis.
 [@dialv-stige.ar03-end]: AR03 | Chapter 6: The Nameless Heroes | Valiant Hildr through both; Dina's lost Defense.
 [@shaldo.ar01-valletta]: AR01 | | The narration on the traces. The Japanese edition (file c2W8, paragraph 239) says that a mage, had one been there, would have sensed them.
-[@shaldo.so08-field]: SO08 | Chapter 5: Battered Wolf | Reddish-purple shapes, "120 or so meders across", centred on Valletta.
-[@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; long chant; Mind; dissipates; a trap; Status Down.
-[@shaldo.so08-level4]: SO08 | Chapter 5: Battered Wolf | No repeated casting; one, ten or a hundred; about Level 4.
+[@shaldo.so08-field]: SO08 | Chapter 5: Battered Wolf | Reddish-purple shapes centred on Valletta. The Japanese edition (file c45H, paragraph 359) gives the field a radius of 60 meders, reaching almost the whole underground space.
+[@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; a super-long chant; Mind; dissipates; a trap; Status Down. The Japanese edition (file c45H, paragraph 460) has Valletta call it barrier magic that blocks nothing, with a super-long chant.
+[@shaldo.so08-level4]: SO08 | Chapter 5: Battered Wolf | No repeated casting; one, dozens or hundreds; below about Level 4. The Japanese edition (file c45H, paragraphs 467 and 476) states the reach as fact and puts Bete's power below about Level 4.
 [@shaldo.so08-bombard]: SO08 | Chapter 5: Battered Wolf | Magic swords; Bete hit trying to flee.
 [@shaldo.so08-hati]: SO08 | Chapter 5: Battered Wolf | The patterns flicker; Hati eats barriers; Valletta struck.
 [@hal-reshef.fc02-cast]: FC02 | Ali and the 8 Followers | Seal; "Run wild! Wind of pestilence!"; "Hal Reshef!"; eye contact; a curse.
@@ -3892,7 +3891,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@velgas.so06-cast]: SO06 | Chapter 5: A Duo of Sun and Moon | "Die Asura"; ultra-short chant; her only magic; poison element; "Poison Queen"; "a swift kill".
 [@velgas.so06-mark]: SO06 | Chapter 5: A Duo of Sun and Moon | Smoking, discoloured marks on the ground.
 [@velgas.so06-block]: SO06 | Chapter 5: A Duo of Sun and Moon | Tiona's arm; Kali on resistance; never used in training.
-[@velgas.so06-level6]: SO06 | Chapter 5: A Duo of Sun and Moon | Stronger and wider at Level 6; whole body; "not strong enough to act as armor".
+[@velgas.so06-level6]: SO06 | Chapter 5: A Duo of Sun and Moon | Stronger and wider at Level 6; whole body; "may not be strong enough to act as armor".
 [@velgas.so06-fever]: SO06 | Chapter 5: A Duo of Sun and Moon | The venom like a fever; blackish blood.
 [@velgas.so06-defence]: SO06 | | Velgas as defence; about five minutes left.
 [@velgas.so06-counter]: SO06 | | The damage strengthens Tiona; Bache cannot keep Velgas up.
@@ -3901,14 +3900,15 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@velgas.so12-spirit]: SO12 | Chapter 8: A Heroes’ Chorus | Concentrated at her fist; the demi-spirit's tentacles rot.
 [@sharay-silencing-curse.so06-cast]: SO06 | Chapter 5: A Duo of Sun and Moon | Sharay chants; the sound wave; Airiel fails.
 [@sharay-silencing-curse.so06-curse]: SO06 | Chapter 5: A Duo of Sun and Moon | Curses explained; a silencing curse; Phryne unaffected.
-[@sharay-silencing-curse.so06-phryne]: SO06 | Chapter 5: A Duo of Sun and Moon | Prepared for Ottar and Riveria; defeating the caster.
+[@sharay-silencing-curse.so06-phryne]: SO06 | Chapter 5: A Duo of Sun and Moon | Prepared for Ottar; Aiz a good test; she had meant to neutralise Riveria too, who sniffed her out (the Japanese edition, file c4EV, paragraphs 370 and 372); defeating the caster.
 [@sharay-silencing-curse.so06-undone]: SO06 | | The curse undone at Ishtar Familia's retreat.
 [@remisto-felis.fm18-cast]: FM18 | Chapter 9: Flower Language for You | The chant in four pieces under Hedin's cover; "Please don’t abandon me—Remisto Felis".
 [@remisto-felis.fm18-effect]: FM18 | Chapter 9: Flower Language for You | Sound wave; red glow; anti-status magic; friend and foe; no protection without a magic item. The Japanese edition (file part0026, paragraph 832) describes the loss of strength as if her body had grown thin.
 [@remisto-felis.fm18-limits]: FM18 | Chapter 9: Flower Language for You | Once in combat, twelve hours; not quite a full Level; disrupts Skills and magic; sore throat.
 [@remisto-felis.fm18-lyra]: FM18 | Chapter 9: Flower Language for You | Silence Lyra, mass-produced by Asfi for the tavern's staff.
 [@remisto-felis.fm18-poison]: FM18 | Chapter 9: Flower Language for You | Chloe: "Even your antipoison abilities are no good thanks to Ahnya’s magic."
-[@felis-kurus.fc01-cast]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "—Frolic!"; short-trigger illusion magic; mirror images; upper limit two; cannot attack or defend.
+[@felis-kurus.fc01-cast]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "—Frolic!"; a super-short-chant illusion spell; mirror images; upper limit two; cannot attack or defend. The Japanese edition (file c5X2, paragraphs 293–294) calls it a super-short-chant illusion spell.
+[@felis-kurus.fc01-ja]: FC01 | | The Japanese edition prints the spell's name in katakana.
 [@felis-kurus.fm18-dvalinn]: FM18 | Chapter 9: Flower Language for You | "Super-short cast"; "There can be three illusions"; Violator.
 [@glarinese-fromel.fm18-chant]: FM18 | Chapter 9: Flower Language for You | The full chant, casting while leaping back; Anya never knew he had magic; the charge. The Japanese edition (file part0027, paragraph 1187) calls it that hideous spell.
 [@glarinese-fromel.fm18-effect]: FM18 | Chapter 9: Flower Language for You | "Allen’s one and only magic": agility, strength relative to speed, no upper limit.
@@ -3917,7 +3917,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | The last sentence, "Slaughter all until the feast is finished.", then "Dáinsleif"; the attack on Bell.
 [@dainsleif.fm18-cast]: FM18 | Chapter 8: The Great Familia War | Two sentences and the name; "a short cast"; personality-altering; no Status effect; the limiter.
 [@dainsleif.fm18-welf]: FM18 | Chapter 8: The Great Familia War | Constant Mind; active like an enchantment; Welf's attempt.
-[@dainsleif.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | Lyu's Alveria; "Dáinsleif is down".
+[@dainsleif.fm18-lyu]: FM18 | Chapter 9: Flower Language for You | Lyu's Alveria; the crowd's roar at his defeat.
 [@dainsleif.fm18-resolve]: FM18 | Chapter 9: Flower Language for You | His declaration "without activating Dáinsleif".
 [@dainsleif.ar03-cast]: AR03 | | "Slaughter all until the feast is finished! Dáinsleif!"
 [@dainsleif.ar03-worn]: AR03 | Chapter 6: The Nameless Heroes | "Hegni’s Dáinsleif had finally worn off."
@@ -3958,6 +3958,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@veil-breath.ar03-astrea]: AR03 | Chapter 4: Apocalypse Cometh | "Gather, breath of the earth—my name is Alf! Veil Breath!"; Astrea Familia protected.
 [@luna-aldis.so12-cast]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya pauses the chant for Arcs Ray, resumes; "My name is Alf / Luna Aldis!"; "Riveria’s healing magic".
 [@restrict-iorum.so07-cast]: SO07 | Chapter 5: Battle of Tears | The full chant; no magic circle; "restrictive magic"; hit rate; "one for ten on a floor boss".
+[@restrict-iorum.so07-ja]: SO07 | Chapter 5: Battle of Tears | The Japanese edition (file c5DY, paragraphs 173 and 176) gives the chant's last sentence and the king serpent of its second piece.
 [@restrict-iorum.so07-yank]: SO07 | Chapter 5: Battle of Tears | The demi-spirit yanks the whip.
 [@restrict-iorum.so12-argana]: SO12 | Chapter 8: A Heroes’ Chorus | Tione and Argana hold the spirit down.
 [@astrea-record-spell.fc03-card]: FC03 | The Locus of Stars | Status: Astrea Record in the Magic slot, "Inherited justice"; the third spell.
@@ -3985,7 +3986,7 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@dio-thyrsos.so12-backfire]: SO12 | Chapter 8: A Heroes’ Chorus | Asfi's freezing explosive; the backfire.
 [@dio-thyrsos.so12-final]: SO12 | Chapter 8: A Heroes’ Chorus | The black lightning against Lefiya's Dio Grail.
 [@dio-thyrsos.so13-lefiya]: SO13 | Chapter 3: Class is in Session | Lefiya summons it; "Maenad's iconic magic"; rapid fire. The Japanese edition (file part0029, paragraph 12) speaks of summoning Maenad's magic.
-[@dio-grail.so04-teach]: SO04 | First Chapter: And the Boy… | Filvis casts it for Lefiya; "an ultrashort barrier spell"; more than five meders; "come back alive".
+[@dio-grail.so04-teach]: SO04 | First Chapter: And the Boy… | Filvis casts it for Lefiya; "an ultrashort barrier spell"; a radius of five meders or more (the Japanese edition, file c1K0); "come back alive".
 [@dio-grail.so04-floor59]: SO04 | Last Chapter: To Adventure | Lefiya's summoned Dio Grail against the corrupted spirit's lightning; Tiona and Tione.
 [@dio-grail.so05-saved]: SO05 | Chapter 3: ⅓ Pure Passion | Lefiya thanks Filvis; the Summon Burst on the fifty-ninth floor.
 [@dio-grail.so11-lefiya]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Shield me, cleansing chalice—Dio Grail!"
@@ -4027,30 +4028,32 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@school-district-spells.fm19-mine]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Dark Mine! …Done."; the magic circle; the spell key "Boom."
 [@school-district-spells.fm19-room]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Mines laid around the room; the infant dragon's leg.
 [@school-district-spells.so13-amalda]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | Nano's chant; "Zalga Amalda!"; the bolts; "Control your magic". The Japanese edition (file part0035, paragraph 212) counts ten bolts in all.
-[@school-district-spells.so13-yell]: SO13 | Chapter 5: The Mirror’s Voice | "Lightning, heaven’s name… Zalga Yell!!!"
+[@school-district-spells.so13-yell]: SO13 | Chapter 5: The Mirror’s Voice | "Lightning, heaven’s name… Zalga Yell!!!" The Japanese edition (file part0037, paragraph 400) gives the chant quoted in the text.
 [@school-district-spells.so13-goliath]: SO13 | Chapter 5: The Mirror’s Voice | "Zalga Amaldaaaaaaaaaaaa!!!"; ten bolts against the Goliath.
 [@school-district-spells.so13-vine]: SO13 | Chapter 5: The Mirror’s Voice | Miliria's chant; Concurrent Casting; magic circles as seeds; "Silva Vine!"
 [@elven-innate-magic.so14-chase]: SO14 | Chapter 2: The High Elf’s Departure | Innate magic without a blessing; equestrian casting; the two chant endings; "Gale Blast!", "Flare Burn!"; the knights' wind, Riveria's fire. The Japanese edition (file part0020, paragraphs 189–190) gives the two chant endings quoted in the text.
 [@burn-dain.fc02-ottar]: FC02 | The Origin of the Strongest | The chant; a super-short cast; "a short-range explosive fire spell"; against Ottar.
 [@burn-dain.fm18-allen]: FM18 | Chapter 9: Flower Language for You | The hidden chant; "Burn Dáin!"; Allen blown away at super-close range. The Japanese edition (file part0027, paragraphs 1021–1025) says he kicked off to evade, yet the chariot, without a wound until then, was hit.
 [@dialv-otua.ar03-cast]: AR03 | | The sisters on the rooftop; "Let the first gate devour all… Dialv Otua!"; the black fire.
-[@corrupted-spirit-spells.so04-firestorm]: SO04 | Last Chapter: To Adventure | A protracted spell song; "Your envoy beseeches you, Salamander!"; Fire Storm against Via Shilheim.
-[@corrupted-spirit-spells.so04-meteor]: SO04 | Last Chapter: To Adventure | Gnome; "Meteor Swarm!!"; thousands of meteorites.
-[@corrupted-spirit-spells.so04-thunder]: SO04 | Last Chapter: To Adventure | "Thunder Ray!"; "reserved for the spirits of the Ancient Times"; Dio Grail.
+[@corrupted-spirit-spells.so04-firestorm]: SO04 | Last Chapter: To Adventure | A protracted spell song; "Your envoy beseeches you, Salamander!"; Fire Storm against Via Shilheim. The dome cracks and shatters. The Japanese edition (file c5SA, paragraph 920) ends the chant with the spirit declaring itself the deputy and taking the name Salamander, written fire spirit.
+[@corrupted-spirit-spells.so04-meteor]: SO04 | Last Chapter: To Adventure | Gnome; "Meteor Swarm!!". The Japanese edition (file c5SA) ends the chant the same way with the name Gnome, written earth spirit (paragraph 995), and then a swarm of black meteorites appears (paragraph 1000).
+[@corrupted-spirit-spells.so04-thunder]: SO04 | Last Chapter: To Adventure | "Thunder Ray!"; Dio Grail. The Japanese edition (file c7V2) ends the chant with the words I who am the deputy, my name is Tonitrus (paragraph 22), and calls the spell the bombardment magic allowed to the powerful spirits of the Ancient Times (paragraph 32).
 [@corrupted-spirit-spells.so04-icicle]: SO04 | | "Icicle Edge!"; a monstrous pillar of ice.
 [@corrupted-spirit-spells.so04-light]: SO04 | | "LIGHT BURST!!" as Aiz releases Li’l Rafaga.
-[@corrupted-spirit-spells.so07-thunder]: SO07 | Chapter 5: Battle of Tears | Tonitrus; "THUNDER RAY!"; shorter and faster than human casting.
+[@corrupted-spirit-spells.so07-thunder]: SO07 | Chapter 5: Battle of Tears | Tonitrus; "THUNDER RAY!"; a short chant at a speed beyond human ken (the Japanese edition, file c5DY, paragraph 249).
 [@corrupted-spirit-spells.so07-caelum]: SO07 | Chapter 5: Battle of Tears | "Rage, fury of the skies."; "Caelum Veil."; lightning armour; "Distel."
+[@corrupted-spirit-spells.so07-distel-ja]: SO07 | Chapter 5: Battle of Tears | The Japanese edition (file c5DY, paragraph 289) writes the word with kanji meaning electric discharge, read Distel.
 [@corrupted-spirit-spells.so12-faces]: SO12 | Chapter 5: Final War | Double casting; Thunder Ray; Undine, Lux and Shade; Icicle Edge, Light Burst, Dark Roar.
 [@corrupted-spirit-spells.so12-light]: SO12 | Chapter 7: Final War II | "Light Burst." intercepted by Futsu no Mitama.
 [@riveria-nine-spells.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Magic Vas Windheim, Via Shilheim and Van Alheim, each "Concurrent Casting" with three levels.
 [@riveria-nine-spells.so14-sheet]: SO14 | | Illustrated Status sheet, p. 182 (Level 1): Magic Vas Windheim only; attack magic, "Chained casting", three levels.
 [@riveria-nine-spells.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; three types with three levels; nine spells; Rea Laevateinn "the longest in her arsenal".
 [@riveria-nine-spells.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
-[@tir-na-nog.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Magic Hell Finegas and Tir na Nog.
+[@tir-na-nog.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Magic Hell Finegas and Tir na Nog. The Japanese edition's sheet (file c5Z3, Finn's data page) adds his Level and all his ability values to the spell's power.
 [@tir-na-nog.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Magic Hell Finegas only.
 [@earth-raid.so07-sheet]: SO07 | | Illustrated Status sheet, p. 214 (Level 6): Magic Earth Raid.
 [@earth-raid.so14-sheet]: SO14 | | Illustrated Status sheet, p. 184 (Level 1): no Magic entry; Skill Dvergr Enhance.
+[@ardee-varma-spells.ar02-ja]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): the Japanese edition prints the first spell's name in katakana read Gāna Avimusa.
 [@ardee-varma-spells.ar02-sheet]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): Magic Ghana Avimutta and Dia Kaumudi.
 [@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, pp. 166-167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia; the Holy Crystal Rod note: Cassandra assumes Cure Ephialtes reverses poison and does not realise it also reverses curses.
 [@blaze-of-the-round.fm20-cast]: FM20 | Chapter 4: The Knight’s Afterglow | "Ring out, remnant light. Twelve seats of greatness." "Blaze of the Round."; a one-handed sword of golden light; Bell shatters it.
@@ -4076,15 +4079,17 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@hell-finegas.so08-sheet]: SO08 | | Illustrated Status sheet, p. 216 (Level 6): Hell Finegas, enhancement magic; second spell Tir na Nog.
 [@hell-finegas.so14-sheet]: SO14 | | Illustrated Status sheet, p. 180 (Level 1): Hell Finegas, enhancement magic, "battle lust"; no other spell.
 [@hati.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hati, enchant spell, fire attribute, Magic Drain, Damage Drain.
+[@restrict-iorum.so04-ja]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): the Japanese edition prints the spell's name in katakana read Rist Iorum, and the forced stop it causes with the reading Ristreit.
 [@restrict-iorum.so04-sheet]: SO04 | | Illustrated Status sheet, p. 296 (Level 5): Restrict Iorum, restraining magic; chance-based; success rises with Magic.
 [@luminous-wind.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Luminous Wind, wide-range attack spell, wind and light element.
 [@luminous-wind.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Luminous Wind, wide-range attack magic, wind and light attributes.
-[@luminous-wind.fc01-sheet]: FC01 | | Illustrated Status sheet, p. 206 (Level 4): no spell; her three Skills under a box labelled Magic.
+[@luminous-wind.fc01-sheet]: FC01 | | Illustrated Status sheet (Level 4) in the Japanese edition (file c6X0, Lyu's data page): Luminous Wind with the same two notes (wide-area attack magic; wind and light attributes), Noa Heal beside it, and her three Skills in a box of their own.
 [@noa-heal.ar01-sheet]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3): Noa Heal, recovery spell; stronger in forested areas. The Japanese edition's sheet (image page c81X) calls it recovery magic with a terrain effect, its potency raised in forest areas.
 [@noa-heal.fm13-sheet]: FM13 | | Illustrated Status sheet, p. 215 (Level 4): Noa Heal, healing magic; affected by the environment; boosted in forested areas.
 [@agris-arvensis.ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Agallis Arvesynce, enchantment, fire attribute, chant "Alga".
 [@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".
 [@agris-arvensis.ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Luminous Wind!" then "Arveria!"; "The pair’s combined attack"; "a flash of fire and starlight".
+[@agris-arvensis.ar03-key-ja]: AR03 | Chapter 9: A Hero’s Trail | The Japanese edition writes the spell key as flame flower, read Arveria (file c86J, paragraph 152), the same word as in DanMachi 14 (file cA0W, paragraph 227) and DanMachi 18 (file part0025, paragraph 962; file part0027, paragraph 827); the earlier shout (file c86J, paragraph 35) is another word, full-open flame power, outside the spell brackets; the chant Alga is written blaze up in the battle (paragraph 31) and bloom on the Status sheet (image page c9VS).
 [@dio-thyrsos.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0, "Creature (Elf)"): Dio Thyrsos, Dio Grail and Einsel under Magic.
 [@dio-grail.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Dio Grail, barrier spell; obstructs physical and magical attacks.
 [@einsel.so12-sheet]: SO12 | | Illustrated Status sheet, at the end of the volume (Level 0): Einsel, cloning magic.
@@ -4109,3 +4114,9 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@hildis-vini.fm18-ja]: FM18 | | The Japanese edition writes the spell's name in kanji meaning the golden boar's hide, with the reading Hildis Vini.
 [@laurus-hildr.fm18-ja]: FM18 | | The Japanese edition writes the spell's name in kanji meaning the holy maiden's (or saint's) lightning eulogy, with the reading Laurus Hildr.
 [@uchide-no-kozuchi.fm07-ja]: FM07 | | The Japanese edition writes Level Boost in kanji meaning rank sublimation, with the reading Level Boost.
+[@elf-ring.so01-ja]: SO01 | | The Japanese edition writes Summon Burst with kanji meaning summoning magic.
+[@fusillade-fallarica.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning volley bombardment, read Fusillade Fallarica.
+[@arcs-ray.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning single-shot magic, read Arcs Ray.
+[@noa-heal.so05-ja]: SO05 | | The Japanese edition prints the name in katakana.
+[@shaldo.so08-ja]: SO08 | | The Japanese edition writes the name with kanji meaning queen spider's web, read Shaldo.
+[@hati.so08-ja]: SO08 | | The Japanese edition writes the name with kanji meaning giant wolf's fang, read Hati.

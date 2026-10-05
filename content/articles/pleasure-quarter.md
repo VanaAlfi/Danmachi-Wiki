@@ -16,7 +16,7 @@
       {"section": "Location"},
       {"label": "Japanese", "value": "{{ja|歓楽街}}", "refs": ["fm07-pleasure-quarter-ja"]},
       {"label": "City", "value": "[[orario|Orario]]", "refs": ["fm07-third"]},
-      {"label": "District", "value": "The third district (see below for the printed directions)", "refs": ["fm07-third", "fm07-aftermath", "so08-ruins"]},
+      {"label": "District", "value": "Mainly the third and fourth districts, by Southeast Main Street; its centre, with Belit Babili, in the third (see below for the printed directions)", "refs": ["fm07-arrival", "fm07-third", "fm07-aftermath", "so08-ruins"]},
       {"label": "Also called", "value": "The Night District", "refs": ["fm07-arrival"]},
       {"section": "Rule"},
       {"label": "Ruled by", "value": "[[ishtar|Ishtar]] and Ishtar Familia, until DanMachi 7", "refs": ["fm07-ishtar", "fm07-aftermath"]},
@@ -26,13 +26,13 @@
   }
 }
 ---
-**The Pleasure Quarter** is [[orario|Orario]]'s red-light district, also called the Night District.[@fm07-arrival] Until DanMachi 7 it was the territory of [[ishtar|Ishtar]] Familia, which earned much of its income there and ruled it from the palace Belit Babili.[@fm07-ishtar, fm07-palace] That volume ends with [[freya-familia|Freya Familia]] destroying [[ishtar-familia|Ishtar Familia]] and leaving the district in ruins.[@fm07-aftermath]
+**The Pleasure Quarter** is [[orario|Orario]]'s red-light district, also called the Night District.[@fm07-arrival] Until DanMachi 7 it was the territory of [[ishtar|Ishtar]] Familia, whose brothels were said to bring in over 40 percent of the quarter's income, and which ruled it from the palace Belit Babili.[@fm07-ishtar, fm07-palace] That volume ends with [[freya-familia|Freya Familia]] destroying [[ishtar-familia|Ishtar Familia]] and leaving the district in ruins.[@fm07-aftermath]
 
 ## Location
 
-DanMachi 7 places the Pleasure Quarter in Orario's third district, with Belit Babili at its centre.[@fm07-third, fm07-aftermath] When [[bell-cranell|Bell]] first stumbles into it, the narration puts him at the eastern edge of the fourth district, beside Southeast Main Street; [[hestia|Hestia]] had forbidden him to go southeast.[@fm07-arrival] Sword Oratoria 7 also sees it in the city's southeast.[@so07-southeast] Astrea Record 1, however, places Belit Babili "to the southwest of the tower", and Minor Myths and Legends 2 puts the reconstruction zone "in the southwest of the city".[@ar01-southwest, ss02-southwest] The novels do not reconcile these directions.
+DanMachi 7 places the Pleasure Quarter mainly in Orario's third and fourth districts, by Southeast Main Street, with its centre and Belit Babili in the third.[@fm07-arrival, fm07-third, fm07-aftermath] When [[bell-cranell|Bell]] first stumbles into it, the narration puts him at the eastern edge of the fourth district, beside Southeast Main Street; [[hestia|Hestia]] had forbidden him to go southeast.[@fm07-arrival] Sword Oratoria 7 also sees it in the city's southeast.[@so07-southeast] Astrea Record 1, however, places Belit Babili "to the southwest of the tower", and Minor Myths and Legends 2 puts the reconstruction zone "in the southwest of the city".[@ar01-southwest, ss02-southwest] The novels do not reconcile these directions.
 
-Secret passages designed by Daedalus run beneath it and connect it with [[daedalus-street|Daedalus Street]].[@fm07-passages, fm10-tunnels]
+Secret passages built by Daedalus, the architect of neighbouring [[daedalus-street|Daedalus Street]], who remodelled the district, run beneath it.[@fm07-passages, fm10-tunnels]
 
 ## The district
 
@@ -45,7 +45,7 @@ Within it lies a red-light district in the Far Eastern style, with tiled roofs, 
 
 ## Ishtar's territory
 
-Ishtar Familia's territory took in the whole Pleasure Quarter. The Familia was about 90 percent female, mostly Amazons, and drew 40 percent of its income from the district.[@fm07-ishtar] Sword Oratoria 7 calls its brothels the greatest source of funds in Orario, which made Ishtar valuable to the Evils.[@so07-funds]
+The Pleasure Quarter was Ishtar Familia's sphere of influence. The Familia was about 90 percent female, mostly Amazons, and its brothels in the third district were said to bring in over 40 percent of the whole quarter's income.[@fm07-ishtar] Sword Oratoria 7 calls its brothels the greatest source of funds in Orario, which made Ishtar valuable to the Evils.[@so07-funds]
 
 Belit Babili is the palace of more than forty floors where the goddess and her followers live, with a huge annex beside it.[@fm07-palace] On the tower's ziggurat roof is the Floating Garden, paved with slabs of darubu ore and lunatic light that glow under the moon, where three stone pillars surround an altar.[@fm07-garden] It was there that Ishtar Familia meant to perform the [[killing-stone|Killing Stone]] ritual on [[haruhime|Haruhime]].[@fm07-ritual, fm07-garden]
 
@@ -69,13 +69,13 @@ The district is badly scarred, though no one is killed. With its overlord gone, 
 > - Which direction from the city's centre the district lies: southeast in DanMachi 7 and Sword Oratoria 7, southwest in Astrea Record 1 and Minor Myths and Legends 2.[@fm07-arrival, so07-southeast, ar01-southwest, ss02-southwest]
 > - Who governs or owns the district after Ishtar Familia's fall.[@fm07-aftermath]
 
-[@fm07-arrival]: FM07 | Chapter 2: Run, Cranell | The eastern edge of the fourth district, adjacent to Southeast Main Street; the Night District; "I forbid you to go southeast"; asleep by day; no average citizens; architecture of distant lands.
+[@fm07-arrival]: FM07 | Chapter 2: Run, Cranell | The eastern edge of the fourth district, adjacent to Southeast Main Street; the Night District; "I forbid you to go southeast"; asleep by day; no average citizens; architecture of distant lands. The Japanese edition (file c1BC, paragraph 103) says the Pleasure Quarter mainly occupies the third and fourth districts around Southeast Main Street.
 [@fm07-yoshiwara]: FM07 | Chapter 2: Run, Cranell | The red-light district: lanterns, kimonos, the ajura trees always in bloom.
 [@fm07-roofs]: FM07 | Chapter 2: Run, Cranell | "The stone buildings of the Pleasure Quarter give way to the tiled roofs of the red-light district."
-[@fm07-ishtar]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Ishtar Familia's territory encompasses all of the Pleasure Quarter; 90 percent female; 40 percent of income.
+[@fm07-ishtar]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Ishtar Familia and the Pleasure Quarter; 90 percent female. The Japanese edition (file c3DU, paragraphs 188 and 191) calls the quarter its sphere of influence and says its brothels are said to bring in over 40 percent of the whole quarter's income.
 [@fm07-third]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "The Pleasure Quarter in the third district of Orario".
 [@fm07-redemption]: FM07 | Chapter 4: Yoshiwara x Utakata | Hermes explains redemption; Ishtar allows it if the prostitute wants to go with the man (the Japanese edition, file c4J0, paragraph 138); "between two and three million".
-[@fm07-passages]: FM07 | Chapter 5: Killing Stone | Secret passages from Daedalus Street to the Pleasure Quarter.
+[@fm07-passages]: FM07 | Chapter 5: Killing Stone | The Pleasure Quarter's secret passages. The Japanese edition (file c5MJ, paragraphs 81 and 366) calls them the Pleasure Quarter's own, built by Daedalus, who remodelled the district.
 [@fm07-ritual]: FM07 | Chapter 6: Yearning of a Hero | The ritual at the top of a palace tower, the Floating Garden.
 [@fm07-palace]: FM07 | Chapter 6: Yearning of a Hero | The buildings of Belit Babili. The Japanese edition (file c8AX, paragraphs 2, 6 and 209) gives the palace where the god and the members live, a huge annex, and a palace of more than forty floors.
 [@fm07-garden]: FM07 | Chapter 6: Yearning of a Hero | The roof of the ziggurat; darubu and lunatic light slabs; three pillars around an altar.

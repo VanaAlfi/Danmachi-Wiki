@@ -19,7 +19,7 @@
       {"label": "Role", "value": "Healer", "refs": ["fm12-healer"]},
       {"label": "Also called", "value": "Mirabilis (by Welf, DanMachi 13)", "refs": ["fm13-mirabilis"]},
       {"label": "Magic", "value": "[[#soul-light|Soul Light]], [[#cure-ephialtes|Cure Ephialtes]]", "refs": ["sheet.fm14-cassandra"]},
-      {"label": "Skill", "value": "[[skills#five-dimension-troia|Five-Dimension Troia]]", "refs": ["sheet.fm14-cassandra"]}
+      {"label": "Skills", "value": "[[skills#five-dimension-troia|Five-Dimension Troia]]", "refs": ["sheet.fm14-cassandra"]}
     ]
   }
 }

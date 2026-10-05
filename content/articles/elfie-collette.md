@@ -35,7 +35,7 @@ Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her i
 |---|---|
 | Sword Oratoria 9 | In the camp during the war with [[ares#kingdom-of-rakia|Rakia]], she notices Lefiya reading a treatise on magic late into the night, and tells [[riveria|Riveria]] that Lefiya is burying herself in books again.[@so09-tent, so09-riveria] |
 | Sword Oratoria 10 | On the squad watching Hestia Familia's manor, she complains that Lefiya, her own roommate, will not tell her anything. When Lefiya storms off to bang on the manor's door, Elfie and [[cruz-bussell|Cruz]] drag her away.[@so10-squad, so10-door] |
-| Sword Oratoria 11–12 | After [[filvis|Filvis]]'s death, Elfie tries to cheer Lefiya up so many times, and cries so often, that Lefiya is moved to another room out of consideration for her.[@so11-room] She keeps pleading with the unresponsive Lefiya and finally weeps on [[aiz-wallenstein|Aiz]]'s shoulder.[@so12-lefiya] |
+| Sword Oratoria 11–12 | After [[filvis|Filvis]]'s apparent death, Elfie tries to cheer Lefiya up so many times, and cries so often, that Lefiya is moved to another room out of consideration for her.[@so11-room] She keeps pleading with the unresponsive Lefiya and finally weeps on [[aiz-wallenstein|Aiz]]'s shoulder.[@so12-lefiya] |
 | Sword Oratoria 13 | Lefiya leaves her a letter that Elfie fails to notice.[@so13-letter] She tells the others she is scared that the hard-training Lefiya is changing, "like she might go someplace far away".[@so13-scared] During [[elegia|Elegia]] she joins Lefiya's Dungeon trip, asking only for a grape cream [[jyaga-maru-kun|Jyaga Maru Kun]] in return.[@so13-elegia] She brings the news that the middle levels have collapsed with Lefiya's student squad still below, and when they are reunited she complains about being left behind, to hide her tears.[@so13-collapse, so13-reunion] |
 
 ## In battle
@@ -43,7 +43,7 @@ Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her i
 | Volume | Events |
 |---|---|
 | Sword Oratoria 6 | At Meren she is with Lefiya and [[rakuta|Rakuta]] when [[kali-familia|Kali Familia]] attacks.[@so06-attack] Once she has recovered, Loki takes her and Rakuta along as "good luck charms".[@so06-charms] |
-| Sword Oratoria 7 | Trapped in Knossos with [[hyrute-sisters|Tiona]], she and Cynthia tend Arcus after a [[monsters#poison-vermis|poison vermis]] bites him; when Tiona, close to collapse, asks them to do the saving, they answer "Roger!"[@so07-vermis, so07-roger] Supporting Arcus, she notices a breeze stirring in the stagnant maze, and Tiona stops beside her.[@so07-wind] |
+| Sword Oratoria 7 | Trapped in Knossos with [[hyrute-sisters|Tiona]], she and Cynthia tend Arcus after a [[monsters#poison-vermis|poison vermis]] bites him; when Tiona, her hand blackened by the venom, asks them to do the saving, they answer "Roger!"[@so07-vermis, so07-roger] Supporting Arcus, she notices a breeze stirring in the stagnant maze, and Tiona stops beside her.[@so07-wind] |
 | DanMachi 11 and Sword Oratoria 10 | Runs messages for [[finn-deimne|Finn]] during the fighting on Daedalus Street.[@fm11-messenger, so10-messenger] |
 | Sword Oratoria 11 | Asks Cruz whether he isn't scared of fighting alongside monsters.[@so11-scared] On the ninth floor of Knossos, in [[alicia-forestlight|Alicia]]'s group, she sees an eye floating in the dark behind a crack in the wall, until Alicia calls her back to the fight.[@so11-eye] |
 | Sword Oratoria 12 | With the reserve force on the ninth floor, she burns through the green flesh and leads them to the hidden room. One of the starving prisoners, the eye she had seen, asks after Demeter. Blaming herself for not having noticed their cries the first time, Elfie hugs Persephone.[@so12-hostages] |
@@ -51,7 +51,7 @@ Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her i
 [@so06-attack]: SO06 | | "Rakuta! Elfie!"; Rakuta's and Elfie's screams.
 [@so06-charms]: SO06 | Chapter 5: A Duo of Sun and Moon | "Rakuta! Elfie! Come with me…yer gonna be my good luck charms."
 [@so07-vermis]: SO07 | Chapter 3: Feast of the Dead | "Elfie! Cynthia! Outta the way!"; the poison vermis on Arcus.
-[@so07-roger]: SO07 | Chapter 4: The Sword’s Wind Calls | Elfie expects her end; "So…if you could maybe…do the savin’ for me…?"; "Roger!!"
+[@so07-roger]: SO07 | Chapter 4: The Sword’s Wind Calls | Elfie expects her end; "So…if you could maybe…do the savin’ for me…?"; "Roger!!" Tiona's hand: "Her normally copper-colored skin had turned an intense shade of black."
 [@so07-wind]: SO07 | Chapter 4: The Sword’s Wind Calls | "Is that…wind?" Elfie murmured beneath Arcus's weight.
 [@so09-girls]: SO09 | | "Lefiya’s roommate, the magic user Elfie; the other human Narfi".
 [@so09-tent]: SO09 | | "Lefiya…Are you still awake?"; the treatise on magic.

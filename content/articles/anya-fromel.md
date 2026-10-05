@@ -21,7 +21,7 @@
       {"label": "Japanese", "value": "{{ja|アーニャ・フローメル}}", "refs": ["fm16-anya-ja"]},
       {"label": "Name", "value": "Anya Fromel", "refs": ["fm16-name", "ar02-conflict"]},
       {"label": "Printed as", "value": "Ahnya; Ahnya Fromel (DanMachi 16–18); Anya (Astrea Record 2)", "refs": ["fm01-named", "fm16-name", "ar02-conflict"]},
-      {"label": "Adventurer title", "value": "Vana Alfi ({{ja|戦車の片割れ}}, written *the other half of the chariot*; former)", "refs": ["fc01-fight", "fm16-street", "fm16-anya-ja"]},
+      {"label": "Title", "value": "Vana Alfi ({{ja|戦車の片割れ}}, written *the other half of the chariot*; former)", "refs": ["fc01-fight", "fm16-street", "fm16-anya-ja"]},
       {"label": "Race", "value": "[[races#cat-person|Cat person]]", "refs": ["fm01-named", "fm17-catperson"]},
       {"label": "Family", "value": "[[allen-fromel|Allen Fromel]] (older brother)", "refs": ["fm17-past"]},
       {"section": "Affiliation"},

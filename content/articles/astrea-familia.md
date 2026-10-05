@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|アストレア・ファミリア}}", "refs": ["ar03-astrea-familia-ja"]},
       {"label": "Deity", "value": "Astrea, goddess of justice and order", "refs": ["fm05-astrea"]},
       {"label": "Captain", "value": "[[alize-lovell|Alize Lovell]]", "refs": ["fm15-alize"]},
-      {"label": "Home", "value": "Stardust Garden (printed once as Starlight Garden)", "refs": ["ar01-home", "ar02-starlight"]},
+      {"label": "Home", "value": "Stardust Garden ({{ja|星屑の庭}}; printed once as Starlight Garden)", "refs": ["ar01-home", "ar02-starlight", "ar02-names-ja"]},
       {"label": "Guild rank", "value": "B", "refs": ["fc01-record"]},
       {"label": "Deepest floor", "value": "41", "refs": ["fc01-record"]},
       {"section": "Fate"},
@@ -31,7 +31,7 @@
 
 ## Members
 
-The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm14-ten, fm15-circle] Astrea Record 2 prints Maryu's name as *Marieux*.[@ar02-marieux] Familia Chronicle 3 gives the companions' full names when Lyu tells Astrea's new followers about their predecessors: "the human attacker, Noin Unic", "the dwarf defender, the brave Asta Nox, who protected everyone with her small frame", "the werewolf middle guard, Neze Rankett", "the Amazon brawler, Iska Bra", "the human healer, Maryu Réage, who was a beacon of tolerance and motherliness", "the human wandering mage, Lyana Lietz", from [[altena|Altena]], and the elf Celty Srowa, "the only one actually younger than Lyu".[@fc03-lietz, fc03-names]
+The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm14-ten, fm15-circle] Maryu's name is {{ja|マリュー}}, *Maryū*, in the Japanese; Astrea Record 2 prints it as *Marieux*, and once gives it as the reading of the word *healer*.[@ar02-marieux, ar02-names-ja] Familia Chronicle 3 gives the companions' full names when Lyu tells Astrea's new followers about their predecessors: "the human attacker, Noin Unic", "the dwarf defender, the brave Asta Nox, who protected everyone with her small frame", "the werewolf middle guard, Neze Rankett", "the Amazon brawler, Iska Bra", "the human healer, Maryu Réage, who was a beacon of tolerance and motherliness", "the human wandering mage, Lyana Lietz", from [[altena|Altena]], and the elf Celty Srowa, "the only one actually younger than Lyu".[@fc03-lietz, fc03-names]
 
 | Member | Notes |
 |---|---|
@@ -44,11 +44,14 @@ Astrea Record 3 names two of the members' [[skills|Skills]]: Alize's [[skills#ru
 
 ## The Great Conflict
 
-Astrea Record tells of the Familia's part in the [[great-conflict|Great Conflict]], the war with the [[evils|Evils]] seven years before the main story.[@ar01-astrea] In Astrea Record 3 the Familia defeats the dragon [[delphyne|Delphyne]].[@ar03-delphyne]
+Astrea Record tells of the Familia's part in the [[great-conflict|Great Conflict]], the war with the [[evils|Evils]] seven years before the main story.[@ar01-astrea] In Astrea Record 3 the Familia, with [[riveria|Riveria]] and [[gareth|Gareth]], breaks down the dragon [[delphyne|Delphyne]]'s defences, and [[aiz-wallenstein|Aiz]] shatters its core.[@ar03-delphyne]
 
 ## Destruction
 
 [[rudra-familia|Rudra Familia]] planted false information through corrupt Guild contacts to lure the Familia into the Dungeon, then sprang an ambush with Inferno Stones that released the first [[juggernaut|Juggernaut]]. It killed ten of them, two at Level 3 and eight at Level 4. Alize, Kaguya and Lyra knowingly sacrificed themselves to save Lyu.[@fm13-ambush, fm14-alize] [[ouranos|Ouranos]] later identifies the Juggernaut as the Dungeon's immune response.[@fm13-ouranos]
+
+> [!UNRESOLVED] Levels at the ambush
+> DanMachi 13 counts two of the ten dead at Level 3 and eight at Level 4, but Astrea Record 3 has all eleven members updated to Level 4 in the Great Conflict, years earlier. [[lyra#level|Lyra's Level section]] sets the volumes side by side.[@fm13-ten, ar03-rankup]
 
 Lyu then persuaded Astrea to leave [[orario|Orario]], took revenge on those responsible, and was blacklisted.[@fm05-astrea]
 
@@ -66,6 +69,8 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@fm05-astrea]: FM05 | Chapter 4: Dungeon Resort? | "She is the goddess of justice and order"; Lyu's past.
 [@fm13-ambush]: FM13 | | The ambush and the Juggernaut.
 [@fm13-ouranos]: FM13 | | Ouranos on the Juggernaut.
+[@fm13-ten]: FM13 | Chapter 5: Calamity Arrives | "Two had been Level Three. Eight had been Level Four." (the ten are not named)
+[@ar03-rankup]: AR03 | Chapter 9: A Hero’s Trail | "Level 4 girls"; "rank up all eleven of them".
 [@fm14-alize]: FM14 | | Alize, Kaguya and Lyra's sacrifice.
 [@fm14-kaguya]: FM14 | Special Chapter: Recollection of Justice | "Gojouno Kaguya."; "a Level 4 adventurer and the vice-captain"; "Don’t think we’re strong enough to rescue the whole world."
 [@fm14-lyra]: FM14 | | Special chapter "Reminiscence of Justice" (not in the evidence map): "Knowledge is a weapon."; "turn what you know into wisdom".
@@ -82,6 +87,7 @@ Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of t
 [@ar01-astrea]: AR01 | | Astrea Familia in the Great Conflict.
 [@ar01-home]: AR01 | Chapter 1: Astrea Familia | "This was where the members of Astrea Familia called home—Stardust Garden."
 [@ar02-starlight]: AR02 | Chapter 3: A Gray Wildflower | "the Starlight Garden" (elsewhere in AR02 "Stardust Garden").
+[@ar02-names-ja]: AR02 | | The Japanese edition calls the Familia's home by a name meaning Stardust Garden (file cS6, Chapter 3, where the English has Starlight Garden), prints Maryu's name as Maryū (file c4X7) and once gives it as the reading of the word healer (file c66F).
 [@ar02-marieux]: AR02 | | "Neze, Marieux, and Iska" (Astrea, printed heading Chapter 7, not in the evidence map); Marieux heals Kaguya (Chapter 9).
 [@ar03-delphyne]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Delphyne defeated.
 [@skills.ar03-rubrud]: AR03 | Chapter 4: Apocalypse Cometh | Alize's Skill, Rubrud Beckia.

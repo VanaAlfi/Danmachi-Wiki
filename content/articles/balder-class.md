@@ -22,11 +22,12 @@
       {"section": "Class"},
       {"label": "Japanese", "value": "{{ja|バルドル・クラス}}", "refs": ["fm19-balder-class-ja"]},
       {"label": "Part of", "value": "The [[school-district|School District]], one of its ten classes", "refs": ["fm19-classes"]},
-      {"label": "God", "value": "[[balder|Balder]]", "refs": ["fm19-classes", "so13-classes"]},
+      {"label": "Deity", "value": "[[balder|Balder]]", "refs": ["fm19-classes", "so13-classes"]},
       {"label": "Captain", "value": "[[leon-verdenberg|Leon Verdenberg]]", "refs": ["so13-leon"]},
       {"label": "Emblem", "value": "A ray of light and a ship", "refs": ["fm19-emblem", "so13-emblem"]},
       {"section": "Members"},
-      {"label": "Former students", "value": "[[lefiya|Lefiya Viridis]], [[eina-tulle|Eina Tulle]], Alisa Ragast", "refs": ["so13-lefiya", "fm20-eina"]},
+      {"label": "Former students", "value": "[[lefiya|Lefiya Viridis]], [[eina-tulle|Eina Tulle]]", "refs": ["so13-lefiya", "fm20-eina"]},
+      {"label": "Student", "value": "Alisa Ragast, the Alchemy Department's ace, on the student council in DanMachi 20", "refs": ["so13-alisa-ace", "fm20-alisa-council"]},
       {"label": "Squads", "value": "[[#third-squad|3rd Squad]]; [[#seventh-squad|7th Squad]]", "refs": ["fm19-joins", "so13-elite"]}
     ]
   }
@@ -64,7 +65,7 @@ The **3rd Squad** is known as the "worst party", "the absolute bottom of the bar
 
 ## 7th Squad {#seventh-squad}
 
-The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this is not by design: its students simply get worked up about its supposed history.[@so13-elite] Lefiya belonged to it as a student.[@so13-lefiya-squad] In Sword Oratoria 13 Leon makes her its instructor.[@so13-cells]
+The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this is not by design: its students simply get worked up about its supposed history.[@so13-elite] Lefiya belonged to it as a student.[@so13-lefiya-squad] In Sword Oratoria 13 [[balder|Balder]] entrusts it to her, and Leon tells her she will be its instructor.[@so13-cells, so13-entrusted]
 
 | Member | Notes |
 |---|---|
@@ -112,6 +113,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@so13-emblem]: SO13 | Chapter 2: Nostalgic Schoolhouse | "The ray of light and ship crest—the emblem of Balder Class—was proof she".
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | "As a member of Balder Class, Lefiya was quickly blessed with good friends".
 [@so13-leon]: SO13 | Chapter 3: Class is in Session | "the captain of Balder Class, Leon Verdenberg".
+[@so13-entrusted]: SO13 | Chapter 5: The Mirror’s Voice | "Balder had placed her with the 7th Squad".
 [@so13-cells]: SO13 | Chapter 3: Class is in Session | "those who choose combat disciplines are arranged into four-man cells"; "You will be instructing Seventh Squad."
 [@so13-lefiya-squad]: SO13 | Chapter 3: Class is in Session | "Lefiya had, for better or worse, been part of the 7th Squad as"
 [@so13-intro]: SO13 | Chapter 3: Class is in Session | "Nano, Luke, as Level Threes"; "I am Natalinoe Cladfield. Please, call me Nano!"; "…I’m Luke Fowl."; "The ashen-haired boy".

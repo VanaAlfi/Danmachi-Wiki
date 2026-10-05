@@ -18,7 +18,7 @@
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["so02-misha", "fm11-outburst"]},
       {"label": "Height", "value": "150 celch", "refs": ["so02-misha", "fm11-outburst"]},
       {"label": "Hair", "value": "Pink (\"peach-pink\", \"cherry blossom–colored\")", "refs": ["fm08-friend", "so02-misha", "fm15-recruits"]},
-      {"label": "Also printed", "value": "Misha Frott (DanMachi 15)", "refs": ["fm15-recruits", "fm15-drinks"]},
+      {"label": "Printed as", "value": "Misha Frott (DanMachi 15)", "refs": ["fm15-recruits", "fm15-drinks"]},
       {"section": "Work"},
       {"label": "Employer", "value": "[[guild|The Guild]], as a receptionist", "refs": ["so02-misha"]},
       {"label": "Education", "value": "Graduate of the [[school-district|School District]]", "refs": ["fm19-graduate", "ss01-rankings"]},

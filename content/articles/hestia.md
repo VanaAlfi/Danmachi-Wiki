@@ -16,9 +16,9 @@
       {"section": "Identity"},
       {"label": "Japanese", "value": "{{ja|ヘスティア}}", "refs": ["fm01-hestia-ja"]},
       {"label": "Type", "value": "Goddess", "refs": ["fm01-goddess"]},
-      {"label": "Other name", "value": "Vesta, a divine name meaning sacred flame", "refs": ["fm12-vesta"]},
+      {"label": "Also called", "value": "Vesta, a divine name meaning sacred flame", "refs": ["fm12-vesta"]},
       {"section": "Familia"},
-      {"label": "Head of", "value": "[[hestia-familia|Hestia Familia]]", "refs": ["fm01-goddess"]},
+      {"label": "Familia", "value": "[[hestia-familia|Hestia Familia]]", "refs": ["fm01-goddess"]},
       {"label": "First follower", "value": "[[bell-cranell|Bell Cranell]]", "refs": ["fm01-found"]},
       {"section": "In Orario"},
       {"label": "Arrived", "value": "About six months before Bell", "refs": ["fm15-descent"]},
@@ -52,7 +52,7 @@ For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a loan
 |---|---|
 | DanMachi 1 | Founds the Familia with Bell and obtains the Hestia Knife for him.[@fm01-found, fm01-knife] |
 | DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black [[goliath|Goliath]], and the [[guild|Guild]] penalises her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
-| DanMachi 6 | Accepts [[apollo|Apollo]]'s challenge to a [[war-game|War Game]] and wins it. She puts up the Hestia Knife as collateral so that [[lilliluka-erde|Lilly]] can convert, then disbands [[apollo-familia|Apollo Familia]], exiles Apollo and moves into his former manor.[@fm06-lilly, fm06-manor] |
+| DanMachi 6 | Accepts [[apollo|Apollo]]'s challenge to a [[war-game|War Game]] and wins it. She puts up the Hestia Knife as collateral so that [[lilliluka-erde|Lilly]] can convert, then has [[apollo-familia|Apollo Familia]] disbanded and Apollo exiled, and moves into his former manor.[@fm06-lilly, fm06-manor] |
 | DanMachi 7 | Accepts [[haruhime|Haruhime]] into the Familia.[@fm07-debt] |
 | DanMachi 8 | Is kidnapped by [[ares|Ares]], and shelters in [[edas-village|Edas Village]] after falling into a gorge; there she speaks to the dying elder Kam as his lost goddess Brigit would.[@fm08-edas] She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |
 | DanMachi 11 | Directs the rescue of the stranded [[xenos|Xenos]].[@fm11-xenos] |
@@ -63,7 +63,7 @@ For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a loan
 
 ## Breaking Freya's charm
 
-In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it.[@fm17-hearth] With Hermes, [[asfi|Asfi]] and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her ichor, into an altar. From [[babel|Babel]] she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
+In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it: like Athena and [[artemis|Artemis]], she is a deity "of purity and chastity" with "the power to reject the goddess of beauty’s control".[@fm17-hearth, fm17-chastity] With Hermes, [[asfi|Asfi]] and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her ichor, into an altar. From [[babel|Babel]] she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
 
 > [!NOTE] Divine power
 > A god cannot be permanently killed by a mortal. A life-threatening injury automatically releases divine power, heals the god and sends them back to the heavens as punishment for using [[tenkai-and-gekai#arcanum|Arcanum]].[@fm06-gods] Hestia's charm-breaking flame is treated as a feat of her divine domain, the hearth.[@fm17-domain]
@@ -102,3 +102,4 @@ In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin 
 [@fm01-loli]: FM01 | Chapter 1: World, Reality, and Desire | Other gods' name for her, "making fun of her otherworldly bust". The Japanese edition (file cFB, paragraph 122) says she is mocked as loli big-boobs.
 [@fm04-loli]: FM04 | Chapter 1: Denatus | Loki at the Denatus. The Japanese edition (file cMS, paragraph 331) says the loli god's child.
 [@fm01-hestia-ja]: FM01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm17-chastity]: FM17 | Chapter 2: Alone Inside a Sandbox | "She alone had not fallen to Freya’s charm."; "As a deity of purity and chastity, like Athena and Artemis, she had the power to reject the goddess of beauty’s control."

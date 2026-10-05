@@ -17,12 +17,12 @@
       {"label": "Japanese", "value": "{{ja|リド}}", "refs": ["fm10-lido-ja"]},
       {"label": "Kind", "value": "[[monsters#lizardman|Lizardman]]", "refs": ["fm09-lido"]},
       {"label": "Position", "value": "Leader of the [[xenos|Xenos]]", "refs": ["fm09-lido"]},
-      {"label": "Fights with", "value": "Two swords", "refs": ["fm09-lido"]}
+      {"label": "Weapons", "value": "Two swords", "refs": ["fm09-lido"]}
     ]
   }
 }
 ---
-**Lido** is a scarlet [[monsters#lizardman|lizardman]] and the current leader of the [[xenos|Xenos]], a skilled fighter with two swords. A Xenos named Gryuu led before him.[@fm09-lido] The strongest fighter among them is not Lido but the newer arrival [[asterios|Asterios]]; leadership and strength are separate.[@fm09-lido]
+**Lido** is a scarlet [[monsters#lizardman|lizardman]] and the current leader of the [[xenos|Xenos]], a skilled fighter with two swords. He leads because the old-timer Gryuu is too big to move about freely.[@fm09-lido] The strongest fighter among them is not Lido but the newer arrival [[asterios|Asterios]]; leadership and strength are separate.[@fm09-lido]
 
 ## History
 
@@ -32,7 +32,7 @@
 | DanMachi 10 | At first tries to keep Bell out of the Xenos' revenge, then fights beside him after Bell declares himself, and leads the escape on the surface.[@fm10-lido] |
 | DanMachi 11 | Returns safely with the others to a Hidden Village. Bell recalls Lido's talk of monsters' past lives when Asterios speaks of his dream.[@fm11-village, fm11-dream] |
 
-[@fm09-lido]: FM09 | | Lido: lizardman, leader, dual swords; Gryuu before him; Asterios stronger.
+[@fm09-lido]: FM09 | | Lido: lizardman, leader, dual swords; Asterios stronger. The Japanese edition (file c5SZ, paragraph 971) has him lead because the old-timer Gryuu, a wood dragon, cannot move about freely with his bulk.
 [@fm09-village]: FM09 | | The Hidden Village; the handshake.
 [@fm09-bellucchi]: FM09 | Chapter 5: Heretics | "Hey, mind if I call you ‘Bellucchi’?" Lido asked.; "Bellucchi, eat all you like; don’t be shy! Try this!"
 [@fm10-lido]: FM10 | | Lido in the Daedalus Street fighting.

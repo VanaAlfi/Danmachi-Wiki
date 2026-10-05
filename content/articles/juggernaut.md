@@ -29,11 +29,11 @@ A Juggernaut is extraordinarily fast and deadly, with claws that pierce armour a
 
 ## Astrea Familia
 
-Five years before DanMachi 13, [[rudra-familia|Rudra Familia]]'s ambush with Inferno Stones set off a Juggernaut that killed ten members of [[astrea-familia|Astrea Familia]], leaving [[lyu-leon|Lyu]] as the only survivor.[@fm13-ambush] It broke Lyu's wooden sword, [[equipment#alvs-lumina|Alvs Lumina]].[@fc03-lumina]
+Five years before DanMachi 13, [[rudra-familia|Rudra Familia]]'s ambush with Inferno Stones set off a Juggernaut that killed ten members of [[astrea-familia|Astrea Familia]], leaving [[lyu-leon|Lyu]] as the only survivor.[@fm13-ambush]
 
 ## DanMachi 13–14
 
-In DanMachi 13 another Juggernaut appears when a floor is badly damaged. It massacres the hunting party on Floor 27, nearly kills [[bell-cranell|Bell]], and kills [[rudra-familia#jura-harma|Jura]] despite the collar meant to control it.[@fm13-juggernaut, fm13-collar] The collar drives this one's destructive urge into a fixation on Bell, so it follows him and Lyu down to [[floor-37|Floor 37]] instead of staying on its own floor.[@fm14-pursuit]
+In DanMachi 13 another Juggernaut appears when a floor is badly damaged. It massacres the hunting party on Floor 27, nearly kills [[bell-cranell|Bell]], and kills [[rudra-familia#jura-harma|Jura]] despite the collar meant to control it.[@fm13-juggernaut, fm13-collar] It also knocks Lyu's wooden sword, [[equipment#alvs-lumina|Alvs Lumina]], out of her hands and bursts it into pieces; [[bors|Bors]] later recovers a fragment.[@fm13-lumina, fc03-lumina] The collar drives this one's destructive urge into a fixation on Bell, so it follows him and Lyu down to [[floor-37|Floor 37]] instead of staying on its own floor.[@fm14-pursuit]
 
 On Floor 37 it eats other monsters to graft new limbs and armour, which begin to break down. Bell strips away the armour and Lyu destroys it completely with [[magic#luminous-wind|Luminous Wind]] at point-blank range. The rescue party finds them by the noise of the fight.[@fm14-end, fm14-rescue]
 
@@ -46,9 +46,10 @@ On Floor 37 it eats other monsters to graft new limbs and armour, which begin to
 [@fm13-damage]: FM13 | Chapter 5: Calamity Arrives | The Dungeon's response to excessive damage.
 [@fm13-ambush]: FM13 | | Astrea Familia's destruction.
 [@fm13-collar]: FM13 | Chapter 5: Calamity Arrives | The collar and the whip.
+[@fm13-lumina]: FM13 | Chapter 5: Calamity Arrives | "Alvs Lumina, her second-tier weapon fashioned from the branch of a holy tree, burst into pieces."
 [@fm14-nature]: FM14 | Chapter 11: Where the Will to Kill Leads | No magic stone or drops; short-lived; deeper is stronger; how to kill it.
 [@fm14-stone]: FM14 | Chapter 11: Where the Will to Kill Leads | "One enormous magic stone."
 [@fm14-pursuit]: FM14 | | The collar's effect; the pursuit.
 [@fm14-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Grafted armour; Luminous Wind.
 [@fm14-rescue]: FM14 | Epilogue: You’ll Be Back II | The rescuers hear the fight.
-[@fc03-lumina]: FC03 | The Locus of Stars | Alvs Lumina broken by the Juggernaut.
+[@fc03-lumina]: FC03 | The Locus of Stars | A fragment of Alvs Lumina, "broken by Juggernaut in an encounter in the lower floors", recovered by Bors and given to Lyu when she leaves Orario.

@@ -32,7 +32,7 @@ In the Far East, Takemikazuchi and other gods led a poor shrine that took in chi
 
 | Volume | Events |
 |---|---|
-| DanMachi 5 | On Floor 13 Ouka orders a pass parade, pushing monsters onto [[bell-cranell|Bell]]'s party, to save Chigusa. Later he nearly dies shielding the exhausted Bell from the Black [[goliath|Goliath]].[@fm05-parade, fm05-ouka] Takemikazuchi had strictly ordered Mikoto not to use her gravity magic in the Dungeon's closed spaces (the Yen Press text says he "had all but forbidden" it).[@fm05-gravity, fm05-ja-gravity] |
+| DanMachi 5 | On Floor 13 Ouka orders a pass parade, pushing monsters onto [[bell-cranell|Bell]]'s party, to save Chigusa. Later he nearly dies shielding the exhausted Bell from the Black [[goliath|Goliath]].[@fm05-parade, fm05-ouka] Takemikazuchi had strictly ordered Mikoto not to use her gravity magic in the Dungeon's closed spaces.[@fm05-gravity, fm05-ja-gravity] |
 | DanMachi 6 | Mikoto converts to Hestia Familia under the one-year rule.[@fm06-mikoto] |
 | DanMachi 8 | Takemikazuchi gives Mikoto the black sword [[equipment#tenka-and-chizan|Chizan]], keeping its white partner, Tenka, until her return. Chigusa and Asuka have reached Level 2.[@fm08-chizan, fm08-ouka] |
 | DanMachi 11 | Ouka and Chigusa see for themselves that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] In the fighting Ouka orders Chigusa to work with another member, Asuka, to get the children to safety.[@fm11-asuka] |

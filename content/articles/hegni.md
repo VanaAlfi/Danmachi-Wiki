@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Dark-elf swordsman of Freya Familia, titled Dáinsleif; a former king of Heodenings whose magic turns his timid self into a fierce warrior.",
-  "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord", "black and white knights", "white and black knights", "Heodenings", "Hjadningavíg", "Hjaðningavíg"],
+  "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord", "black and white knights", "white and black knights"],
   "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {
@@ -21,7 +21,7 @@
       {"label": "Familia", "value": "[[freya-familia|Freya Familia]]", "refs": ["fc02-pair"]},
       {"label": "Level", "value": "5 in Astrea Record 1; 6 by DanMachi 16", "refs": ["ar01-hegni", "fm16-hegni"]},
       {"label": "Title", "value": "Dáinsleif ({{ja|黒妖の魔剣}}, written *the dark fairy's magic sword*)", "refs": ["ar01-hegni", "fm18-hegni-ja"]},
-      {"label": "Magic", "value": "[[#dainsleif|Dáinsleif]]", "refs": ["fc02-magic"]},
+      {"label": "Magic", "value": "[[#dainsleif|Dáinsleif]]; [[#burn-dain|Burn Dáin]]", "refs": ["fc02-magic", "burn-dain.fc02-ottar", "burn-dain.fm18-allen"]},
       {"label": "Weapon", "value": "The curse sword Victim Abyss", "refs": ["fm16-sword"]}
     ]
   }

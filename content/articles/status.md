@@ -23,13 +23,13 @@
   }
 }
 ---
-A **Status** is the record a god writes on a follower's back through the [[falna|Falna]]. It reflects the follower's [[excelia|excelia]], the measure of what they have accomplished and how well.[@fm01-status] It is made up of a [[level|Level]], five basic abilities, and slots for magic and Skills whose number depends on the strength of the person's spiritual "container".[@so01-status]
+A **Status** is the record a god writes on a follower's back through the [[falna|Falna]]. It reflects the follower's [[excelia|excelia]], the measure of what they have accomplished and how well.[@fm01-status] It is made up of a [[level|Level]], five basic abilities, and special and unique abilities such as magic and Skills.[@so01-status]
 
 ## Parts of a Status
 
 | Part | What it records |
 |---|---|
-| [[level|Level]] | The most important part; it rises only through a Level Up.[@so01-status] |
+| [[level|Level]] | Its rise, the Level Up, raises power far beyond the abilities' gains.[@so01-status] |
 | Basic abilities | Strength, Defense, Dexterity, Agility and Magic, each with a rank and a value.[@so01-status, fm01-abilities] |
 | [[development-ability|Development Abilities]] | Chosen one at a time at Level Ups; each has its own rank.[@fm04-choice, fm18-sheet] |
 | Magic | At most three spells; see [[magic|Magic]].[@fm01-magic] |
@@ -63,13 +63,8 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 
 {{nocite}} Two items break this privacy:
 
-- A **[[status-thief|Status Thief]]** reveals the real name and patron god written in a person's Status. [[lyu-leon|Lyu]] uses one in Familia Chronicle 1.[@fc01-thief]
-- A **Status Snitch**, an illegal item from [[rivira|Rivira]] made with several gods' ichor, lets someone other than the follower's god update their basic abilities after a Status Thief has been used. It cannot develop magic or Skills or perform a Level Up. In DanMachi 17 [[freya|Freya]] uses both on Bell, who still keeps Hestia's Falna.[@fm17-snitch]
-
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - How many magic and Skill slots a given "container" allows; the novels give only the three-spell limit.[@so01-status, fm01-magic]
+- A **[[status-thief|Status Thief]]** reveals the real name and patron god written in a person's Status. In Familia Chronicle 1 [[lyu-leon|Lyu]] brings one to unmask Ted.[@fc01-thief]
+- A **Status Snitch**, an illegal item made with several gods' ichor (in DanMachi 17 Freya gets hers from [[rivira|Rivira]]), lets someone other than the follower's god update their basic abilities after a Status Thief has been used. It cannot develop magic or Skills or perform a Level Up. In DanMachi 17 [[freya|Freya]] uses both on Bell, who still keeps Hestia's Falna.[@fm17-snitch]
 
 [@fm01-status]: FM01 | Chapter 1: World, Reality, and Desire | Falna, blood and hieroglyphs; Status as a record of excelia.
 [@fm01-abilities]: FM01 | Chapter 1: World, Reality, and Desire | Basic abilities and ranks.
@@ -85,7 +80,7 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 [@fm17-snitch]: FM17 | | Status Thief, Status Snitch and Freya's emblem.
 [@fm18-sheet]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Bell's last Level 4 update and his Level 5 card.
 [@fm18-wargame]: FM18 | | Updates allowed during the Familia War.
-[@so01-status]: SO01 | Chapter 2: Dungeon Confusion | The parts of a Status and the container.
+[@so01-status]: SO01 | Chapter 2: Dungeon Confusion | The parts of a Status. The Japanese edition (file cX0, paragraph 84) lists the Level, the five basic abilities and special and unique abilities such as magic and Skills, and says the Level Up raises power far more than the abilities' gains.
 [@fc01-thief]: FC01 | Crush the Grand Casino! | A Status Thief exposes the real name and patron god.
 [@fc01-contracts]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Status-update contracts.
 [@fc03-card]: FC03 | The Locus of Stars | Lyu's card prints Endurance.

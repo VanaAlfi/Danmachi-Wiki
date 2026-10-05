@@ -31,7 +31,7 @@ The Familia works nominally as a delivery service. The [[guild|Guild]] also send
 
 ## Bell and Zeus
 
-In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked his death and is in hiding, and that he sent Hermes to see how Bell was doing.[@fm05-death] He joins the rescue party sent down to Bell, lends the adventurer [[mord-latro|Mord]] a helmet of invisibility to test Bell against human malice, and afterwards addresses [[zeus|Zeus]] by name as Bell's grandfather (the Japanese word for the grandson is the adoptive {{ja|義孫|gison}}).[@fm05-hermes, fm05-zeus, fm05-ja-zeus] The Guild penalises Hestia and Hermes for the [[floor-18|Floor 18]] incident.[@fm05-penalty]
+In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked his death and is in hiding, and that he sent Hermes to see how Bell was doing.[@fm05-death] He joins the rescue party sent down to Bell, lends the adventurer [[mord-latro|Mord]] a helmet of invisibility to test Bell against human malice, and afterwards addresses [[zeus|Zeus]] by name as Bell's grandfather (in the Japanese he says *mago*, grandson, and the kanji write *adoptive grandson*, {{ja|義孫|mago}}).[@fm05-hermes, fm05-zeus, fm05-ja-zeus] The Guild penalises Hestia and Hermes for the [[floor-18|Floor 18]] incident.[@fm05-penalty]
 
 ## Trials behind the scenes
 
@@ -42,7 +42,7 @@ In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked 
 | DanMachi 9 | Sends Bell away from [[ikelos|Ikelos]], "an old friend from our days back in the heavenly realm", and confronts him over his Familia's part in a smuggling ring.[@fm09-ikelos] |
 | DanMachi 10 | Tracks Ikelos down on a rooftop in [[daedalus-street|Daedalus Street]] and learns from him about Knossos; later persuades him to give himself up to Gareth so that [[fels|Fels]] can escape.[@fm10-ikelos, fm10-fels] |
 | Sword Oratoria 10 | Obtains a Daedalus Orb from Freya.[@so10-orb] |
-| DanMachi 11 | Has Asfi forge Daedalus's notebook, and coerces the [[xenos|Xenos]] [[gros|Gros]] and three others to stage an attack meant to force Bell to kill them; he places a linked bracelet on [[eina-tulle|Eina]] as the target. Bell's trust in Gros and [[asterios|Asterios]]'s arrival wreck the plan.[@fm11-plan, fm11-bracelet] |
+| DanMachi 11 | Has Asfi forge Daedalus's notebook, and coerces the [[xenos|Xenos]] into staging an attack, carried out by [[gros|Gros]], who volunteers, and three others, meant to force Bell to kill them; he places a linked bracelet on [[eina-tulle|Eina]] as the target. Bell's trust in Gros and [[asterios|Asterios]]'s arrival wreck the plan.[@fm11-plan, fm11-bracelet] |
 | Sword Oratoria 11 | Proposes the Guild expedition that keeps Bell away from the assault on [[knossos|Knossos]].[@so11-hermes] |
 | DanMachi 17 | Notices Freya's charm through contradictions and notes he left for himself across repeated memory resets. His Familia delivers firewood treated with Hestia's ichor to homes across the city, which lets Hestia break the charm.[@fm17-hermes, fm17-firewood] |
 | DanMachi 18 | His information and Asfi's help bring Lyu to [[astrea|Astrea]] in [[zolingam|Zolingam]].[@fm18-zolingam] |

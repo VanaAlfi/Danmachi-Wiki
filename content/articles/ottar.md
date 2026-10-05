@@ -51,7 +51,7 @@ By DanMachi 20 he is one of five Level 7s named, with [[finn-deimne|Finn]], [[ri
 
 - **Hildis Vini** is a simple enhancement spell.[@fm18-hildis]
 - **[[skills#vana-arganture|Vana Arganture]]** is one of his Skills, revealed during the Familia War: an active trigger tied to his beast transformation, giving strength close to a Level Up at a heavy cost in stamina and Mind.[@fm18-arganture] His Familia Chronicle 2 Status sheet prints it as *Vana Angatyr*.[@skills.fc02-sheet]
-- **[[skills#stultus-ottar|Stultus Ottar]]**, on the same sheet, temporarily gives him the abilities Heal and Spirit Heal in battle and enhances all his abilities in proportion to his Status.[@skills.fc02-sheet]
+- **[[skills#stultus-ottar|Stultus Ottar]]**, on the same sheet: while he fights on, he temporarily gains the Development Abilities Heal and Spirit Heal, and all the Development Abilities he has acquired are strengthened; the condition for this continuing battle scales with his Status.[@skills.fc02-sheet]
 
 ## Magic {#magic}
 
@@ -129,7 +129,7 @@ In DanMachi 18 Ottar chants while fighting three opponents. He is not an elf lik
 [@fm18-ottar]: FM18 | Chapter 9: Flower Language for You | On the cusp of Level 8; forced to one knee.
 [@fm18-hildis]: FM18 | Chapter 9: Flower Language for You | "A simple enhancement spell."
 [@fm18-arganture]: FM18 | Chapter 9: Flower Language for You | Vana Arganture.
-[@skills.fc02-sheet]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Vana Angatyr, Stultus Ottar.
+[@skills.fc02-sheet]: FC02 | | Illustrated Status sheet, p. 264 (Level 7): Vana Angatyr, Stultus Ottar. The Japanese edition's sheet (file c93H, Ottar's data page) has Stultus Ottar strengthen all the Development Abilities he has acquired while he fights on, the condition for continuing battle proportional to his Status.
 [@fm19-tavern]: FM19 | Chapter 1: V-V-V for Victory Party | Former members at the tavern.
 [@fm20-sevens]: FM20 | Chapter 2: Lion and then Sword Princess | The Level 7s.
 [@so04-captain]: SO04 | First Chapter: And the Boy… | Captain and Warlord; blocking Loki Familia.

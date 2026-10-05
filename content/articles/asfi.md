@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-02",
   "continuity": "light-novel",
-  "summary": "Captain of Hermes Familia and a maker of magic items, titled Perseus; a Level 4 adventurer who is one of Orario's five holders of the Enigma ability. She took over the Familia at fifteen when Lydis died in the Great Conflict.",
+  "summary": "Captain of Hermes Familia and a maker of magic items, titled Perseus; a Level 4 adventurer who is one of fewer than five holders of the Enigma ability in Orario. She took over the Familia at fifteen when Lydis died in the Great Conflict.",
   "aliases": ["Asfi", "Perseus", "Andromeda", "Jack-of-All-Trades"],
   "spoilers": "DanMachi Vols. 5–13, 17, 18, Sword Oratoria Vols. 3, 11, 12, Familia Chronicle Vol. 1 and Astrea Record Vols. 1 and 2",
   "related": ["hermes-familia", "hermes", "lyu-leon", "hades-head", "silence-lyra", "development-ability", "falgar-batros", "rivira", "floor-18"],
@@ -23,17 +23,17 @@
       {"label": "Level", "value": "4", "refs": ["so03-level"]},
       {"label": "Title", "value": "Jack-of-All-Trades, Perseus ({{ja|万能者}}, written *one who can do anything*)", "refs": ["fm05-asfi", "fm05-name", "fm05-asfi-ja"]},
       {"label": "Also called", "value": "Andromeda", "refs": ["fm05-name", "fm05-decoy"]},
-      {"label": "Development Ability", "value": "Enigma; fewer than five holders in Orario", "refs": ["fm05-asfi", "fm05-ja-enigma"]},
+      {"label": "Development Abilities", "value": "Enigma; fewer than five holders in Orario", "refs": ["fm05-asfi", "fm05-ja-enigma"]},
       {"label": "Items", "value": "Talaria (flight); [[hades-head|Hades Head]] (invisibility); Silence Lyra, as modified by her", "refs": ["fm08-talaria", "fm05-hades", "fm18-lyra"]}
     ]
   }
 }
 ---
-**Asfi Al Andromeda** is the captain of [[hermes-familia|Hermes Familia]], titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of fewer than five people in [[orario|Orario]] who do (the Yen Press text prints "one of only five"), and makes magic items.[@fm05-asfi, fm05-ja-enigma, fm05-ja-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level] Other adventurers often call her *Andromeda*.[@fm05-name, fm05-decoy]
+**Asfi Al Andromeda** is the captain of [[hermes-familia|Hermes Familia]], titled *Jack-of-All-Trades, Perseus*. She holds the [[development-ability|Development Ability]] Enigma, one of fewer than five people in [[orario|Orario]] who do, and makes magic items.[@fm05-asfi, fm05-ja-enigma, fm05-ja-asfi] Sword Oratoria 3 states that she is Level 4.[@so03-level] Other adventurers often call her *Andromeda*.[@fm05-name, fm05-decoy]
 
 ## Appearance
 
-DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes, silver-framed glasses, and aqua-blue hair with a single white lock (the Yen Press text says "a perfectly symmetrical face", "brilliant silver glasses" and "a few lighter shades mixed in"). She wears a white cloak and sandals with a pair of golden wings curving around each side.[@fm05-look, fm05-ja-look]
+DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes, silver-framed glasses, and aqua-blue hair with a single white lock. She wears a white cloak and sandals with a pair of golden wings curving around each side.[@fm05-look, fm05-ja-look]
 
 ## Background {#background}
 
@@ -45,7 +45,7 @@ The narration of DanMachi 5 tells how her winged sandals came to be: long ago a 
 
 In Astrea Record 1 Asfi is the Familia's vice-captain under [[hermes-familia#lydis|Lydis]], who leaves her "all the boring work"; the narration says she was forever "pushed around by the likes of Hermes, or the captain, or Hermes, or also Hermes".[@ar01-vice] Over lunch in Astrea Record 2, Lydis asks her to "take over as captain after I die", which Asfi takes for one of her tasteless jokes.[@ar02-lunch] On the night of the [[great-conflict|Great Conflict]] Lydis dies so that other adventurers can escape, and [[hermes|Hermes]] tells Asfi: "Lydis is dead" and "You’re the captain now."[@ar02-lunch, ar02-captain] At fifteen, "the same as Lyu", she stumbles at every turn and is kept from disaster only by [[falgar-batros|Falgar]]'s advice; yet "No one worked themselves to the bone more than Asfi."[@ar02-falgar]
 
-Hermes Familia works nominally as a delivery service, and the [[guild|Guild]] sends it outside the city to investigate black-market smuggling, which is one of the reasons it can pass through checkpoints freely.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others can fight with the best.[@so03-hide] As captain she puts her party first: in the same volume, when [[lulune-louie|Lulune]] begs her to help Aiz, she refuses to waste time worrying about a top-class adventurer.[@so03-first]
+Hermes Familia works nominally as a delivery service, and the [[guild|Guild]] sends it outside the city to investigate black-market smuggling, which is one of the reasons it can pass through checkpoints freely.[@fm09-hermes] The Familia hides its members' true Levels; in Sword Oratoria 3 one of them admits this and says Asfi and the others are quite the fighters behind their innocent faces.[@so03-hide] As captain she puts her party first: in the same volume, when [[lulune-louie|Lulune]] begs her to help Aiz, she refuses to waste time worrying about a top-class adventurer.[@so03-first]
 
 In Sword Oratoria 3 several members of the Familia die in an operation on Floor 24.[@so03-losses]
 
@@ -55,7 +55,7 @@ Hermes relies on her. "Without you, things would fall apart pretty quick," he te
 
 ## Lyu {#lyu}
 
-Asfi and [[lyu-leon|Lyu]] were both fifteen in the dark age, and in Astrea Record 1 Lyu sees the overworked Asfi's smile and senses "a kinship".[@ar01-vice, ar02-falgar] In DanMachi 5 the two act as decoys to hold the Black [[goliath|Goliath]] at bay, and they receive the largest shares of excelia for it.[@fm05-decoy, fm06-excelia] In DanMachi 13 Lyu asks to join her search of [[knossos|Knossos]], and Asfi is glad: "All the better if it was Gale Wind."[@fm13-lyu]
+Asfi was fifteen in the dark age, and in Astrea Record 1 [[lyu-leon|Lyu]] sees the overworked Asfi's smile and senses "a kinship".[@ar01-vice, ar02-falgar] In DanMachi 5 the two act as decoys to hold the Black [[goliath|Goliath]] at bay, and they receive the largest shares of excelia for it.[@fm05-decoy, fm06-excelia] In DanMachi 13 Lyu asks to join her search of [[knossos|Knossos]], and Asfi is glad: "All the better if it was Gale Wind."[@fm13-lyu]
 
 ## Items
 
@@ -63,7 +63,7 @@ Perseus's items are said to give powers on a par with Magic and Skills, through 
 
 - **[[equipment#talaria|Talaria]]** lets her fly; in DanMachi 8 she uses it to scout from the air.[@fm08-talaria] DanMachi 5 calls it "A high-level magic item reserved for Perseus herself".[@fm05-talaria] Its flight depends on the user's Status: in Sword Oratoria 12, as a pseudo-Level 5 under a Level Boost, she flies much faster than normal.[@so12-flight]
 - **[[hades-head|Hades Head]]** is her helmet of invisibility, "A magic item forged by the one and only Perseus".[@fm05-hades]
-- **[[equipment#burst-oil|Burst Oil]]** is a grenade that only an item maker can create: vials of red liquid that she throws at monsters. She makes it from the obia flare, a flower that grows only around the volcanoes of the mainland's northern regions, and in Sword Oratoria 3 one vial is said to be enough to reduce middle-level monsters to cinders.[@so03-oil] Against the Black [[goliath|Goliath]] in DanMachi 5, however, her Burst Oil grenades leave no mark on its thick skin.[@fm05-oil]
+- **[[equipment#burst-oil|Burst Oil]]** is a grenade that only an item maker can create: vials of red liquid that she throws at monsters. Only she can make it, from the obia flare, a flower that grows near the craters of the continent's north; in Sword Oratoria 3 one vial of it kills a middle-level monster.[@so03-oil] Against the Black [[goliath|Goliath]] in DanMachi 5, however, her Burst Oil grenades leave no mark on its thick skin.[@fm05-oil]
 - **[[silence-lyra|Silence Lyra]]** was an accessory for blocking the songs of [[monsters#siren|sirens]] and [[monsters#mermaid|mermaids]], which Perseus modified during the dark age against an enemy who attacked with sound.[@fm18-lyra]
 - In DanMachi 11 she spends several sleepless days forging a copy of Daedalus's notebook for [[hermes|Hermes]].[@fm11-notebook] In Sword Oratoria 11 she re-creates a working [[knossos|Knossos]] key in ten days.[@so11-key]
 
@@ -95,7 +95,7 @@ Perseus's items are said to give powers on a par with Magic and Skills, through 
 [@fm05-ja-asfi]: FM05 | | Japanese original (file part0011, paragraph 220; file part0013, paragraph 297): Hermes calls Asfi the head of his Familia (the Japanese word is the one this volume uses for Finn as the head of Loki Familia), half joking, and she is the Familia's ace; the Yen Press text drops the word, so FM05's English does not print the title of captain.
 [@fm05-ja-enigma]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0015, paragraph 51): Asfi is a holder of the rare ability Enigma, of whom there are fewer than five even in Orario. Yen Press prints "one of only five".
 [@fm05-oil]: FM05 | Chapter 6: Praise to the Heroes | Burst Oil leaves no mark on the Goliath's skin.
-[@so03-oil]: SO03 | Chapter 3: A Hideous Beauty | Burst Oil; the obia flare; middle-level monsters reduced to cinders.
+[@so03-oil]: SO03 | Chapter 3: A Hideous Beauty | Burst Oil; the obia flare. The Japanese edition (file c2N8, paragraph 233) says only she can make it, that one vial kills a middle-level monster, and that the flower sprouts near the craters of the continent's north.
 [@fm08-talaria]: FM08 | | Talaria and the search for Hestia.
 [@fm09-hermes]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hermes Familia's delivery work and investigations: "They traveled outside the city at the behest of the Guild to investigate where the products were being smuggled. This was one of the reasons that Hermes Familia, which nominally worked as a delivery service, could pass through various checkpoints at will."
 [@fm11-notebook]: FM11 | | The forged notebook.
@@ -104,7 +104,7 @@ Perseus's items are said to give powers on a par with Magic and Skills, through 
 [@fm18-lyra]: FM18 | Chapter 9: Flower Language for You | Silence Lyra modified by Perseus.
 [@fm18-zolingam]: FM18 | Chapter 9: Flower Language for You | Hermes and Asfi's help to Lyu.
 [@so03-level]: SO03 | Chapter 4: White-Haired Devil | "Asfi's Level Four strength."
-[@so03-hide]: SO03 | Chapter 3: A Hideous Beauty | Hiding their Levels.
+[@so03-hide]: SO03 | Chapter 3: A Hideous Beauty | Hiding their Levels. The Japanese edition (file c2CY, paragraph 31) calls Asfi and the others quite the fighters behind their innocent faces.
 [@so03-losses]: SO03 | Chapter 5: Hell and Hell | Hermes Familia's losses.
 [@so11-key]: SO11 | | The Knossos key; the detachment.
 [@fc01-asfi]: FC01 | | Asfi traces Anna.
@@ -129,5 +129,5 @@ Perseus's items are said to give powers on a par with Magic and Skills, through 
 [@so12-flight]: SO12 | Chapter 8: A Heroes’ Chorus | "The effects of Talaria were influenced by the user’s Status."; "a pseudo–Level 5 with the Level Boost".
 [@ar01-vice]: AR01 | | Printed heading "Chapter 3: Busy People" (not in the evidence map): "pushed around by the likes of Hermes, or the captain, or Hermes, or also Hermes"; Lyu "sensed a kinship"; Hermes: "Vice-captain"; Lydis: "you have to do all the boring work".
 [@ar02-lunch]: AR02 | Chapter 4: Those Who Struggle | Lydis: "Asfi, take over as captain after I die, would ya?"; "just another one of the captain’s tasteless jokes"; "Lydis gave her life so that a band of upper-class adventurers could escape with theirs".
-[@ar02-falgar]: AR02 | Chapter 4: Those Who Struggle | "stumbling at every turn"; "Falgar’s constant advice"; "just a fifteen-year-old girl, the same as Lyu"; "No one worked themselves to the bone more than Asfi."
+[@ar02-falgar]: AR02 | Chapter 4: Those Who Struggle | "stumbling at every turn"; "Falgar’s constant advice"; "just a fifteen-year-old girl" (the Japanese edition, file c2V4, paragraphs 109-110, compares her with Lyu in not being strong, not in age); "No one worked themselves to the bone more than Asfi."
 [@fm05-asfi-ja]: FM05 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning one who can do anything, with the reading Perseus; the infobox gives the printed name and the kanji.

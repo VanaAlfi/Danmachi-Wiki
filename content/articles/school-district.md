@@ -66,7 +66,7 @@ Each return is Orario's recruiting season. With the school's cooperation every F
 | [[leon-verdenberg|Leon Verdenberg]] | Captain of [[balder-class|Balder Class]] and its leading professor, titled *Knight of Knights*; a Level 7, born to [[races#half-dwarf|half-dwarf]] parents.[@so13-leon, fm20-leon, fm20-parents] |
 | [[eina-tulle|Eina Tulle]] | A graduate, who enrolled at six.[@fm19-eina] |
 | [[lefiya|Lefiya Viridis]] | A graduate, admitted at eight; returns as a recruiter and instructor in Sword Oratoria 13.[@so13-lefiya] |
-| Bardain | A bull person and Lefiya's classmate, "Rulebreaker Bardain", who dragged her and their friend Nassen into fights and messes and wanted to become an imperial knight. His wish to see the eighteenth floor led twelve students into the [[cave-labyrinth|Cave Labyrinth]], where he lost an arm rescuing Alisa and Nassen before Aiz and Tiona of Loki Familia saved them (Sword Oratoria 13).[@so13-bardain, so13-bardain-fc, so13-rescue] |
+| Bardain | A bull person and Lefiya's classmate, "Rulebreaker Bardain", who dragged her and their friend Nassen into fights and messes and wanted to become an imperial knight. His wish to see the eighteenth floor led twelve students into the [[cave-labyrinth|Cave Labyrinth]], where he lost an arm rescuing Alisa and Nassen before Aiz, Tiona and Tione of Loki Familia saved them (Sword Oratoria 13).[@so13-bardain, so13-bardain-fc, so13-rescue] |
 | [[nina-tulle|Nina Tulle]] | A student of Balder Class who interns with [[hestia-familia|Hestia Familia]].[@fm20-nina] |
 | [[bell-cranell|Bell Cranell]] | Enters in DanMachi 19 under the name Rapi Flemish.[@fm19-rapi] |
 

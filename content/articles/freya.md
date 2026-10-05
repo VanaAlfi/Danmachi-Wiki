@@ -51,7 +51,7 @@ Freya searches for an *Odr*, a hero entirely her own.[@fm16-odr, fm18-odr] *Odr*
 
 ### Before DanMachi 1
 
-In Familia Chronicle 2 Freya mentors Ali, later [[ali|King Aram]] of Shalzad, before letting him go.[@fc02-ali] The same volume tells how she found and gathered the leading members of her Familia.[@fc02-origin, fc02-pasts] In Familia Chronicle 1 she finds [[lyu-leon|Lyu]] after Lyu's revenge, nurses her and helps her decide to live on at the tavern.[@fc01-lyu] As Syr she also enters a casino under the name Countess Sirène Maximilian and wins the deciding poker game.[@fc01-alias, fc01-casino]
+In Familia Chronicle 2 Freya mentors Ali, later [[ali|King Aram]] of Shalzad, before letting her go.[@fc02-ali] The same volume tells how she found and gathered the leading members of her Familia.[@fc02-origin, fc02-pasts] In Familia Chronicle 1 she finds [[lyu-leon|Lyu]] after Lyu's revenge, nurses her and helps her decide to live on at the tavern.[@fc01-lyu] As Syr she also enters a casino under the name Countess Sirène Maximilian and wins the deciding poker game.[@fc01-alias, fc01-casino]
 
 ### DanMachi 1–15
 

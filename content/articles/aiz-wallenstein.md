@@ -39,12 +39,12 @@
 | 5 | DanMachi 1 | Level 5 when she meets Bell.[@fm01-aiz] |
 | 6 | DanMachi 2 | Defeats the [[floor-37|Floor 37]] [[monster-rex|Monster Rex]] [[udaeus|Udaeus]] alone; Loki's update in Sword Oratoria 3 credits that feat.[@so02-udaeus, so03-update, fm02-level6] |
 
-At Level 6 she gains the Development Ability Regen, which probably became available through her long use of [[#airiel|Airiel]].[@so03-update] Her Status cards print some ability names differently from volume to volume; see [[development-ability|Development Ability]].[@so06-card]
+At Level 6 she gains the Development Ability [[development-ability#spirit-healing|Spirit Healing]] {{small|printed *Regen* in Sword Oratoria 3}}, which probably became available through her long use of [[#airiel|Airiel]].[@so03-update] Her Status cards print some ability names differently from volume to volume; see [[development-ability|Development Ability]].[@so06-card]
 
 ## Abilities
 
 - **Airiel** is her wind magic. Sword Oratoria connects the wind to her mother.[@so03-update, so09-wind]
-- **[[skills#avenger|Avenger]]** is a rare Skill whose effect is a ravenous surge of power; its targets are monsters. Loki ranks its potency highest among all followers.[@so12-avenger] In Sword Oratoria 11 she trains with [[ottar|Ottar]] for seven days and learns to control its black flame rather than be consumed by it.[@so11-ottar]
+- **[[skills#avenger|Avenger]]** is a rare Skill whose effect is a ravenous surge of power; its targets are monsters. Loki ranks its potency highest among all followers.[@so12-avenger] Her Sword Oratoria 10 Status sheet says its effect grows with the depth of her hatred.[@airiel.so10-sheet] In Sword Oratoria 11 she trains with [[ottar|Ottar]] for seven days and learns to control its black flame rather than be consumed by it.[@so11-ottar]
 
 ## Magic {#magic}
 
@@ -57,13 +57,13 @@ At Level 6 she gains the Development Ability Regen, which probably became availa
 - **User:** Aiz Wallenstein[@airiel.so01-airiel]
 - **Type:** Wind enchantment[@airiel.so01-airiel, airiel.fm10-airiel]
 - **Status entry:** Enchantment; wind element; chant "Awaken, Tempest"[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet]
-- **First cast:** At age seven, on Floor 12 (Sword Oratoria 9 recollection)[@airiel.so09-first]
-- **Chant:** Awaken, Tempest (short; she says only *Tempest*, written *awaken*)[@airiel.so01-airiel, airiel.so01-ja]
+- **First cast:** On Floor 12, almost a year after she joined Loki Familia at seven (Sword Oratoria 9 recollection)[@airiel.so09-first]
+- **Chant:** Awaken, Tempest (very short; she says only *Tempest*, written *awaken*)[@airiel.so01-airiel, airiel.so01-ja]
 - **Stronger form:** Rage, Tempest (said *Tempest*, written *rage*)[@airiel.so02-rage, airiel.so07-rage, airiel.so02-ja]
 
 #### Status entry {#airiel-status-entry}
 
-Aiz's three illustrated Status sheets list Airiel as her only magic, each time with the same three notes: an enchantment, wind element, and the chant "Awaken, Tempest". Her Level 5 sheet in Sword Oratoria 1 calls it a "Magical Endowment (Enchantment)"; her Level 1 sheet in Sword Oratoria 9 and her Level 6 sheet in Sword Oratoria 10 say only "Enchantment".[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet] The Sword Oratoria 10 sheet lists her Skill [[skills#avenger|Avenger]] separately; the two earlier sheets show her Skills only as "???".[@airiel.so10-sheet, airiel.so01-sheet, airiel.so09-sheet]
+Aiz's three illustrated Status sheets list Airiel as her only magic, each time with the same three notes: an enchantment, wind element, and the chant "Awaken, Tempest". Her Level 5 sheet in Sword Oratoria 1 calls it a "Magical Endowment (Enchantment)"; her Level 1 sheet in Sword Oratoria 9 and her Level 6 sheet in Sword Oratoria 10 say only "Enchantment"; the three Japanese sheets read the same.[@airiel.so01-sheet, airiel.so09-sheet, airiel.so10-sheet] The Sword Oratoria 10 sheet lists her Skill [[skills#avenger|Avenger]] separately; the two earlier sheets show her Skills only as "???".[@airiel.so10-sheet, airiel.so01-sheet, airiel.so09-sheet]
 
 #### Incantation {#airiel-incantation}
 
@@ -73,7 +73,7 @@ In the Japanese, each call is written with a meaning in kanji and a reading prin
 
 | Form | Printed in English | Written meaning (kanji) | Said | Where it appears |
 |---|---|---|---|---|
-| Short chant | "Awaken, Tempest." | {{ja|目覚めよ}}, *awaken* | *Tempest* | Aiz's usual activation.[@airiel.so01-ja] In Sword Oratoria 1 the narration calls it her short spell and she then names the spell, "Airiel."[@airiel.so01-airiel] The same words recur throughout Sword Oratoria and in DanMachi 10.[@airiel.so01-sense, airiel.so02-trigger, airiel.fm10-airiel] |
+| Very short chant | "Awaken, Tempest." | {{ja|目覚めよ}}, *awaken* | *Tempest* | Aiz's usual activation.[@airiel.so01-ja] In Sword Oratoria 1 the narration calls it a super-short chant and she then names the spell, "Airiel."[@airiel.so01-airiel] The same words recur throughout Sword Oratoria and in DanMachi 10.[@airiel.so01-sense, airiel.so02-trigger, airiel.fm10-airiel] |
 | Intensified | "Rage, Tempest!" | {{ja|吹き荒れろ}}, *rage* (blow wildly) | *Tempest* | Sends Airiel's full power down her sword in Sword Oratoria 2.[@airiel.so02-rage, airiel.so02-ja] Sword Oratoria 4 prints it as "Rage, Tempest!!" at the book's climax.[@airiel.so04-rage] In Sword Oratoria 7 she calls "Awaken, Tempest" twice and then "RAGE, TEMPEST!!", producing a wind stronger than any before.[@airiel.so07-rage] Sword Oratoria 11, Minor Myths and Legends 1 and Astrea Record 3 print this call as "Tempest!" alone, the spoken name only.[@airiel.so11-tempest, airiel.so11-ja, airiel.ss01-rage, airiel.ar03-calls] |
 | White wind | "Tempest!" | {{ja|白き風よ}}, *O white wind* | *Tempest* | The pure white wind of the final fight with [[levis|Levis]] in Sword Oratoria 12, printed as the spoken name only.[@airiel.so12-white, airiel.so12-white-ja] |
 | Combined | "Tempest" / "Avenger." | {{ja|起動}}, *activate*; {{ja|復讐姫}}, *revenge princess* | *Tempest*; *Avenger* | In Sword Oratoria 12 the narration calls this "the forbidden chant" that joins her Skill Avenger to Airiel.[@airiel.so12-avenger, airiel.so12-ja] |
@@ -87,10 +87,10 @@ The spell name itself is sometimes spoken after the chant (Sword Oratoria 1) or 
 
 #### Effects {#airiel-effects}
 
-- **Speed and attack.** Airiel lets her deliver two slashes in the time of one, and a borrowed blade is pushed to breaking point by it.[@airiel.so01-twoslash] Later in Sword Oratoria 1 another weapon falls to pieces under Airiel and her aggressive fighting.[@airiel.so01-blade]
+- **Speed and attack.** With Airiel her strikes kill in one or two swings, and a borrowed blade is pushed to breaking point by it.[@airiel.so01-twoslash] Later in Sword Oratoria 1 another weapon falls to pieces under Airiel and her aggressive fighting.[@airiel.so01-blade]
 - **Protection.** Its wind armour turns aside blood and, in her first use, a wyvern's fire.[@airiel.fm10-airiel, airiel.so09-first]
-- **Sensing.** On the surface, where wind can flow freely, it spreads out and gives her a wide sense of space, letting her find monsters quickly.[@airiel.so01-sense]
-- **Scale.** In Sword Oratoria 7 the intensified wind fills the labyrinth and its passages.[@airiel.so07-rage]
+- **Sensing.** On the surface, where wind can flow freely, she rides part of it on the wind and senses the vibrations of the monsters' roars, which lets her find them quickly.[@airiel.so01-sense]
+- **Scale.** In Sword Oratoria 7 the intensified wind is more than the whole hall can hold and pours on into the passages beyond.[@airiel.so07-rage]
 
 #### Costs and limits {#airiel-costs-and-limits}
 
@@ -102,7 +102,7 @@ Tempest Avenger is Airiel joined with Aiz's rare Skill Avenger, a black, violent
 
 #### History {#airiel-history}
 
-In Sword Oratoria 9's recollection, seven-year-old Aiz first speaks "Awaken, Tempest!" on Floor 12 when [[riveria|Riveria]] shouts at her to call it forth, and her wind blows away a black wyvern's head.[@airiel.so09-first] In Sword Oratoria 3, Riveria reports that the red-haired woman Levis first spoke the name "Aria" just after seeing Airiel.[@airiel.so03-aria]
+In Sword Oratoria 9's recollection, almost a year after joining Loki Familia at seven, Aiz first speaks "Awaken, Tempest!" on Floor 12 when [[riveria|Riveria]] shouts at her to call it forth, and her wind blows away the black wyvern's mouth and upper jaw.[@airiel.so09-first] In Sword Oratoria 3, Riveria reports that the red-haired woman Levis first spoke the name "Aria" just after seeing Airiel.[@airiel.so03-aria]
 
 {{nocite}} Notable uses and open questions for Airiel are on the combined page: [[magic#airiel|Magic § Airiel]].
 
@@ -123,7 +123,7 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 | DanMachi 3 | Returns his lost vambrace, apologises, and offers to train him in secret.[@fm03-apology] |
 | DanMachi 5 | When Loki Familia rests on [[floor-18|Floor 18]], she tends the badly hurt Bell in her camp. He wakes at her side and thanks her for saving him and his friends, and she leads him out through the camp to the crystal forest.[@fm05-tent] |
 | DanMachi 6 | Trains him with [[hyrute-sisters|Tiona]] for a week before the [[war-game|War Game]] against [[apollo-familia|Apollo Familia]].[@fm06-training] |
-| DanMachi 8 | Goes with Bell in pursuit of the kidnapped [[hestia|Hestia]] into the [[beor-mountains|Beor Mountains]]. With the goddess ill, they are swept far down a river; Aiz cuts down the harpies that attack them in a gorge, and villagers take them to Edas Village, where the elder Kam shelters Hestia.[@fm08-edas] |
+| DanMachi 8 | Goes with Bell in pursuit of the kidnapped [[hestia|Hestia]] into the [[beor-mountains|Beor Mountains]]. Hestia and Bell are swept far down a river and the chilled goddess falls ill; Aiz cuts down the harpies that attack them in a gorge, and villagers take them to Edas Village, where the elder Kam shelters Hestia.[@fm08-edas] |
 | DanMachi 10–11 | Tells Bell she will kill any monster that makes someone cry, and later cannot bring herself to kill the [[xenos|Xenos]] [[wiene|Wiene]]; she lets them go and agrees to train Bell again.[@fm10-vow, fm11-wiene] |
 | DanMachi 16 | Protects Bell from [[freya-familia|Freya Familia]] on the festival boat.[@fm16-boat] |
 | DanMachi 17 | [[freya|Freya]]'s charm suppresses her memory of Bell, but a remembered promise to train with him breaks through; after [[hestia|Hestia]] purges the charm she protects [[lyu-leon|Lyu]] from [[hegni|Hegni]].[@fm17-aiz] |
@@ -137,7 +137,6 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 > - How Aiz is related to the hero Albert, if at all.[@fm15-grave, fm20-albert]
 > - Where Aria is now, and why Levis and the [[corrupted-spirit|corrupted spirit]] mistake Aiz for her.[@so03-aria, so10-parents]
 > - In Astrea Record 2 [[alfia|Alfia]] calls her the "Dungeon girl"; the full meaning of that name is not explained.[@ar02-aiz]
-> - Whether Avenger's boost scales with her desire for revenge: the Japanese Sword Oratoria 12 line does not tie it to revenge, and her Japanese Status sheet (an image) has not been read yet.[@so12-avenger]
 
 [@fm01-aiz]: FM01 | | Loki Familia swordswoman, Level 5; saves Bell; her apology.
 [@so01-jmk]: SO01 | Chapter 4: Between Tranquility and Turbulence | "This food was actually one of Aiz’s secret guilty pleasures."
@@ -160,7 +159,7 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 [@fm20-albert]: FM20 | Chapter 3: The World, The Festival, and Reality | Valdstejn as Albert's name.
 [@fm20-spar]: FM20 | Chapter 2: Lion and then Sword Princess | The sparring draw.
 [@so02-udaeus]: SO02 | | Udaeus defeated alone.
-[@so03-update]: SO03 | Chapter 1: The Black Robe’s Invitation | The Level 6 update; Regen; Airiel.
+[@so03-update]: SO03 | Chapter 1: The Black Robe’s Invitation | The Level 6 update; Regen; Airiel. The Japanese edition names the ability with the word that the later cards print as Spirit Healing.
 [@so03-aria]: SO03 | Chapter 3: A Hideous Beauty | "Aria is my mother."
 [@so04-princess]: SO04 | First Chapter: And the Boy… | "Sword Princess."
 [@so05-spirit]: SO05 | Interlude: Flip Side of the Compromise | Spirit blood.
@@ -174,17 +173,17 @@ Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstej
 [@ar02-level]: AR02 | | Aiz at nine, Level 3.
 [@ar02-aiz]: AR02 | Intermission: While the Scales of Justice Tremble | The "Dungeon girl".
 [@ar03-aiz]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Level 4 after the war.
-[@airiel.so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel."; her only spell; an enchantment.
+[@airiel.so01-airiel]: SO01 | Chapter 2: Dungeon Confusion | "Awaken, Tempest." then "Airiel."; her only spell; an enchantment. The Japanese edition (file cX0, paragraph 371) calls her chant a super-short chant.
 [@airiel.so01-rafaga]: SO01 | Chapter 2: Dungeon Confusion | Lil Rafaga named as a finishing move, at Loki's suggestion.
-[@airiel.so01-twoslash]: SO01 | Chapter 2: Dungeon Confusion | Two slashes in the time of one; the borrowed blade nearly breaks.
+[@airiel.so01-twoslash]: SO01 | Chapter 2: Dungeon Confusion | Kills in one or two swings; the borrowed blade nearly breaks. The Japanese edition (file cX0, paragraphs 439–440) says her wind-clad slashes finish an enemy with one or two swings.
 [@airiel.so01-blade]: SO01 | Chapter 5: To Battle | A weapon falls to pieces under Airiel.
-[@airiel.so01-sense]: SO01 | Chapter 5: To Battle | Wide spatial sense on the surface; recast.
+[@airiel.so01-sense]: SO01 | Chapter 5: To Battle | Sensing on the surface; recast. The Japanese edition (file c535, paragraph 55) has her ride part of Airiel on the wind and sense the vibrations of the monsters' roars.
 [@airiel.so02-trigger]: SO02 | Chapter 5: The Battle of Rivira | "Airiel" triggered by the call.
 [@airiel.so02-rage]: SO02 | Chapter 6: Parched Scream | "Rage, Tempest!"
 [@airiel.so02-overuse]: SO02 | Chapter 6: Parched Scream | Too long at full power; the wind gives out.
 [@airiel.so03-aria]: SO03 | Chapter 1: The Black Robe’s Invitation | Airiel prompts the name "Aria".
-[@airiel.so07-rage]: SO07 | Chapter 4: The Sword’s Wind Calls | Two "Awaken, Tempest" calls, then "RAGE, TEMPEST!!".
-[@airiel.so09-first]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | First activation at seven; the black wyvern.
+[@airiel.so07-rage]: SO07 | Chapter 4: The Sword’s Wind Calls | Two "Awaken, Tempest" calls, then "RAGE, TEMPEST!!". The wind: "As it filled the room, it slashed the pipes to shreds before rushing into the tunnels beyond."
+[@airiel.so09-first]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | First activation at seven; the black wyvern; "The giant tornado blew away the creature’s mouth and upper jaw."
 [@airiel.so09-mother]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "Mother's…wind."
 [@airiel.so11-mind]: SO11 | Chapter 3: The True Face of a God | Out of Mind while training with Ottar.
 [@airiel.so11-tempest]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Tempest!" as she unleashes Airiel.

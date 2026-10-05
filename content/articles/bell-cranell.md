@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
-  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi", "Record Holder", "Regulus Arne", "Dald"],
+  "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi", "Record Holder", "Regulus Arne"],
   "spoilers": "DanMachi Vols. 1–20, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "hestia", "skills", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
@@ -33,7 +33,7 @@
 
 ## Background
 
-Bell was raised in a village by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god [[zeus|Zeus]], who faked his death and went into hiding; Bell does not learn this. In the Japanese Hermes calls Bell Zeus's {{ja|義孫|gison}}, a grandson by adoption, where Yen Press prints "grandson".[@fm05-death, fm05-zeus, fm05-ja-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of [[hera|Hera]], entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though the story never names him.[@ar03-parents, fm05-zeus] The DanMachi 20 narration says Bell had a rearing parent, his grandfather, but no parents.[@fm20-parents]
+Bell was raised in a village by his grandfather, whose death was reported before Bell left for Orario.[@fm01-bell] In DanMachi 5 [[hermes|Hermes]] reveals that the grandfather was the god [[zeus|Zeus]], who faked his death and went into hiding; Bell does not learn this. In the Japanese Hermes says *mago*, grandson, and the kanji write it as *adoptive grandson* ({{ja|義孫|mago}}).[@fm05-death, fm05-zeus, fm05-ja-zeus] In Astrea Record 3's extra story [[alfia|Alfia]] says that her dying twin sister, Metelia, a child of [[hera|Hera]], entrusted her son to Zeus, and [[zald|Zald]] admits the father was one of the lowliest humans in [[zeus-and-hera-familias|Zeus Familia]].[@ar03-parents] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though his name was not located in the checked text.[@ar03-parents, fm05-zeus] The DanMachi 20 narration says Bell had a rearing parent, his grandfather, but no parents.[@fm20-parents]
 
 Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.[@fm15-rejections]
 
@@ -50,7 +50,7 @@ Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.
 At Level 5 Bell finds that each ability point takes far more effort than before, and his growth slows.[@fm20-level5]
 
 > [!NOTE] Captivity is not conversion
-> During DanMachi 17 Bell spends more than two weeks in Folkvangr and grows stronger there, but he stays at Level 4 and never leaves Hestia Familia.[@fm17-seizure, fm17-folkvangr]
+> During DanMachi 17 Bell spends more than two weeks in Folkvangr and grows stronger there, but he stays at Level 4 and does not leave Hestia Familia.[@fm17-seizure, fm17-folkvangr]
 
 ## Abilities
 
@@ -97,7 +97,7 @@ Firebolt appears on Bell's Status in DanMachi 2, after he reads a book borrowed 
 
 - Bell's first card shows the name *Firebolt* in the Magic slot, described only as Swift-Strike Magic, and nothing that looks like an incantation. Hestia guesses that it needs none and that saying "Firebolt" may trigger it, and stops him saying the name indoors.[@firebolt.fm02-card, firebolt.fm02-trigger]
 - The first cast bears this out: Bell says the name and the bolt fires, "conjured in an instant".[@firebolt.fm02-first]
-- [[lilliluka-erde|Lilly]] later praises its activation speed, bolt speed and growth (the Yen Press text prints "No spell, lightning speed"), and onlookers at the Minotaur fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-ja-growth, firebolt.fm03-minotaur]
+- [[lilliluka-erde|Lilly]] later praises its activation speed, bolt speed and growth, and onlookers at the Minotaur fight say they never saw him chant.[@firebolt.fm03-growth, firebolt.fm03-ja-growth, firebolt.fm03-minotaur]
 
 **Trigger:** the spell name, *Firebolt*, spoken aloud. The text often prints it in capitals or stretched out ("FIREBOLT!!"); these are ways of showing him shouting, not different forms of the spell.[@firebolt.fm02-first, firebolt.fm03-minotaur]
 

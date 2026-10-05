@@ -34,19 +34,14 @@ Bell defeats Hyacinthus in single combat and Hestia Familia wins.[@fm06-victory]
 
 ## The Familia War against Freya Familia (DanMachi 18)
 
-In DanMachi 17 [[freya|Freya]] declares a War Game against Hestia, staking her Familia, its wealth, her fame and honour, and herself.[@fm17-declare] It is fought in DanMachi 18 at the ruins of Orza, an ancient city on an island in a caldera lake northwest of Orario. Forty-seven Familias and more than eight hundred adventurers form a coalition against [[freya-familia|Freya Familia]] under flower-capture rules.[@fm18-orza]
+In DanMachi 17 [[freya|Freya]] declares a War Game against Hestia, staking her Familia, its wealth, her fame and honour, and herself.[@fm17-declare] It is fought in DanMachi 18 at the ruins of Orza, an ancient city on an island in a caldera lake northwest of Orario. Forty-seven Familias and more than eight hundred adventurers form a coalition against [[freya-familia|Freya Familia]] under flower-capture rules.[@fm18-orza] The format and rules are argued over for days at [[denatus|Denatus]], split between Hestia's supporters and Freya's backers.[@fm18-babel, fm18-days]
 
 {{nocite}} Some rules differ from the first War Game:
 
 - Gods may update their followers' Status during the battle, and Hestia and [[miach|Miach]] do so.[@fm18-updates]
 - At the request of [[chloe|Chloe]] and [[runoa|Runoa]], the tavern's staff convert to [[demeter|Demeter]] and [[njordr|Njörðr]] the day before, so that once those two gods set foot on the island the staff's part in the fighting does not break the rules.[@fm18-conversions]
 
-Bell scatters Freya's flower and the coalition wins. No one dies in the War Game.[@fm18-flower, fm18-nodeath] Afterwards the [[guild|Guild]] banishes Freya, dissolves her Familia and seizes its fortune.[@fm18-dissolved] Later volumes also call it the *Familia War* ({{ja|派閥大戦}}, *great war of the factions*).[@fm20-familiawar, fm20-familiawar-ja]
-
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - How the Orza rules were agreed; DanMachi 18 describes the rules but, unlike DanMachi 6, not the negotiation.[@fm18-orza]
+Bell scatters Freya's flower and the coalition wins. No one dies in the War Game.[@fm18-flower, fm18-nodeath] Afterwards the [[guild|Guild]] banishes Freya, dissolves her Familia and seizes its fortune.[@fm18-dissolved] DanMachi 18 already calls it the *Great Familia War* in its eighth chapter heading,[@fm18-familiawar] and later volumes call it the *Familia War* ({{ja|派閥大戦}}, *great war of the factions*).[@fm20-familiawar, fm20-familiawar-ja]
 
 [@fm06-rules]: FM06 | | The War Game and the Castle Siege rules.
 [@fm06-mirror]: FM06 | | The Divine Mirror.
@@ -56,9 +51,12 @@ Bell scatters Freya's flower and the coalition wins. No one dies in the War Game
 [@fm06-manor]: FM06 | | Apollo's property and manor.
 [@fm17-declare]: FM17 | Chapter 5: The End of Her World | "It's a war game!"; Freya's stakes.
 [@fm18-orza]: FM18 | | Orza; the coalition and the flower-capture rules.
+[@fm18-babel]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "Denatus was being held on the thirtieth floor of Babel"; "to discuss the rules and structure of the upcoming war game".
+[@fm18-days]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "Denatus had continued for days now"; "splitting opinion between Hestia’s supporters and Freya’s backers".
 [@fm18-updates]: FM18 | Chapter 9: Flower Language for You | Status updates allowed during the battle.
 [@fm18-conversions]: FM18 | Chapter 9: Flower Language for You | Chloe's and Runoa's conversions.
 [@fm18-flower]: FM18 | Chapter 9: Flower Language for You | Bell scatters Freya's flower.
+[@fm18-familiawar]: FM18 | Chapter 8: The Great Familia War | The chapter heading; the announcer: "The Great Familia War!"
 [@fm18-nodeath]: FM18 | Epilogue: Double Cast | No one died.
 [@fm18-dissolved]: FM18 | Epilogue: Double Cast | Banishment, dissolution and seizure of property.
 [@fm19-broadcast]: FM19 | Chapter 1: V-V-V for Victory Party | The War Game broadcast through the city.

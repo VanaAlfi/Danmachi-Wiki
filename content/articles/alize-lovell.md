@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|アリーゼ・ローヴェル}}", "refs": ["ar01-alize-ja"]},
       {"label": "Race", "value": "[[races#human|Human]]", "refs": ["fm15-rescue", "fc03-story"]},
       {"label": "Appearance", "value": "Red hair tied in a ponytail; green eyes", "refs": ["fm15-rescue", "fm14-dream"]},
-      {"label": "Home", "value": "Stardust Garden, Astrea Familia's home (printed once as Starlight Garden)", "refs": ["ar02-astrea", "fc03-moment", "ar02-deputies"]},
+      {"label": "Home", "value": "Stardust Garden ({{ja|星屑の庭}}), Astrea Familia's home (printed once as Starlight Garden)", "refs": ["ar02-astrea", "fc03-moment", "ar02-deputies", "ar02-garden-ja"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[astrea-familia|Astrea Familia]], captain", "refs": ["fm15-home", "ar01-captain"]},
       {"label": "Title", "value": "Scarlett Harnell ({{ja|紅の正花}}, written *crimson true flower*; DanMachi 18: Scarlet Harnell)", "refs": ["ar01-factory", "fm14-death", "fm18-hegni", "ar01-alize-ja"]},
@@ -27,7 +27,7 @@
       {"label": "Skills", "value": "[[skills#rubrud-beckia|Rubrud Beckia]], [[skills#batrea-acras|Batrea Acras]]", "refs": ["ar03-rubrud", "ar03-sheet"]},
       {"label": "Development Abilities", "value": "[[development-ability#hunter|Hunter]] H, [[development-ability#abnormal-resistance|Immunity]] I, [[development-ability#other-abilities|Conflagrate]] I", "refs": ["ar03-sheet", "ar03-sheet-ja"]},
       {"section": "Fate"},
-      {"label": "Died", "value": "Five years before DanMachi 14, fighting the [[juggernaut|Juggernaut]] in the Dungeon", "refs": ["fm14-dream", "fm14-death"]}
+      {"label": "Fate", "value": "Five years before DanMachi 14, fighting the [[juggernaut|Juggernaut]] in the Dungeon", "refs": ["fm14-dream", "fm14-death"]}
     ]
   }
 }
@@ -97,7 +97,7 @@ She rejects judging people by race. At their first meeting she tells Lyu, "Race 
 
 ### First meeting
 
-DanMachi 15 tells how they met. Lyu, new to Orario and without a god's protection, is cornered by slavers led by a middle-aged catman whom Alize calls Jura. Alize appears, draws her rapier, and they scatter, Jura promising to kill her one day.[@fm15-rescue] {{inference}} He is probably [[rudra-familia#jura-harma|Jura Harma]] of Rudra Familia, whom Alize faces again in the ambush, though DanMachi 15 gives only "Jura"; DanMachi 14 says Jura Harma was "still young" at the time of the ambush.[@fm15-rescue, fm14-trap] Lyu snubs her. Alize calls her pigheaded, and when Lyu takes it as an insult to elves, Alize tells her not one word was about her being an elf. Lyu admits her fault, and Alize says, "I like people like that."[@fm15-pigheaded]
+DanMachi 15 tells how they met. Lyu, new to Orario and without a god's protection, is cornered by slavers led by a young catman whom Alize calls Jura. Alize appears, draws her rapier, and they scatter, Jura promising to kill her one day.[@fm15-rescue] {{inference}} He is probably [[rudra-familia#jura-harma|Jura Harma]] of Rudra Familia, whom Alize faces again in the ambush; DanMachi 15 gives only "Jura", and DanMachi 14 says Jura Harma was "still young" at the time of the ambush.[@fm15-rescue, fm14-trap] Lyu snubs her. Alize calls her pigheaded, and when Lyu takes it as an insult to elves, Alize tells her not one word was about her being an elf. Lyu admits her fault, and Alize says, "I like people like that."[@fm15-pigheaded]
 
 Alize hears out Lyu's troubles, takes her hand to "practice", and Lyu does not pull it away. She invites Lyu to join her Familia and, finding "Lyu" hard to pronounce, calls her **Leon**.[@fm15-hand] DanMachi 14 adds that because of her the whole Familia, Astrea excepted, called Lyu that.[@fm14-dream] At the Familia's home Lyu asks whether she could really aid their justice. Alize answers, "Of course! Welcome, Leon!", and leads the welcome oath.[@fm15-home, fm15-oath] Astrea Record 1, three years later, has Alize teasing Lyu by quoting what she said that day.[@ar01-patrol]
 
@@ -143,12 +143,12 @@ In the last exchange she and Lyu rush in together. As Lyu calls "Luminous Wind!"
 
 | Volume | Speaker | Name | Spell key |
 |---|---|---|---|
-| Astrea Record 3 | Alize | "Agallis Arvesynce!" | "Arveria!" and "Alvarna!", neither with a speaker named (see below)[@ar03-agallis, ar03-arveria, ar03-alga] |
+| Astrea Record 3 | Alize | "Agallis Arvesynce!" | "Arveria!", no speaker named (see below)[@ar03-agallis, ar03-arveria] |
 | DanMachi 14 | Alize, in Lyu's memory | "Agris Arvensis!" | "Arvellia!!", called "the spell key for her enchantment"[@fm14-death] |
 | Familia Chronicle 3 | Lyu | "Agris Arvensis!" | None located[@fc03-flame] |
 | DanMachi 18 | Lyu | "Agris Arvensis!", later "Agaris Alvesince!" | "Alveria!"; the narration speaks of "Alize's Alveria"[@fm18-hegni, fm18-alveria] |
 
-{{inference}} "Arveria!" in Astrea Record 3 has no speaker tag, but it comes in the pair's combined attack, beside Lyu's "Luminous Wind!", so it is probably Alize's spell key in a fourth spelling.[@ar03-arveria]
+"Arveria!" in Astrea Record 3 has no speaker tag; it comes in the pair's combined attack, beside Lyu's "Luminous Wind!".[@ar03-arveria] It is the same spell key as "Arvellia!!" and "Alveria!": the Japanese writes all three as one word ({{ja|炎華}}), said *Arveria* and written *flame flower*. The cry "Alvarna!" earlier in that fight is a different word, written *full-open flame power* and shouted outside the spell's brackets; it too has no speaker named, though it follows Alize's own move.[@ar03-alga, ar03-key-ja]
 
 After her death, Lyu uses the enchantment through [[magic#astrea-record-spell|Astrea Record]]. When she does so in DanMachi 18, Shakti murmurs "…Alize?" and [[hegni|Hegni]] shouts that it is "Scarlet Harnell's—Alize Lovell's magic!!!" The narration says Hegni had secretly respected her.[@fc03-flame, fm18-hegni] Lyu cannot control its output as precisely as Alize could.[@fm18-accel]
 
@@ -182,7 +182,6 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - **Her Level when she died.** Astrea Record 3 says every member of the Familia reached Level 4 at the end of the Great Conflict. DanMachi 13 says that of the ten who died, two were Level 3 and eight Level 4. Neither names who was which.[@ar03-level4, fm13-levels]
-> - **Her weapon.** DanMachi 15 gives her a rapier at the first meeting, and Astrea Record 1 a "straight sword". Astrea Record 2 and 3 name her sword Crimson Order, a one-handed sword with a narrow blade.[@fm15-rescue, ar01-valletta, ar02-crimson, ar03-armor]
 > - **Her age.** An age was not located in the checked text; at their first meeting Lyu guesses she is a year or two older than herself.[@fm15-intro]
 > - **Her home city and family.** Astrea Record 2 mentions her parents and the city she left, but names neither.[@ar02-origin]
 > - **"Alvarna!"** Whether this line in Astrea Record 3 is hers, and which Skill DanMachi 14's "unusual skill" is.[@ar03-alga, fm14-death]
@@ -205,7 +204,7 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@fm14-hill]: FM14 | Epilogue: You’ll Be Back II | "I used to come here with Alize."; "Alize Lovell enjoyed high places."; "Alize protected me, Syr rescued me…and you opened my eyes."
 [@fm14-love]: FM14 | Epilogue: You’ll Be Back II | "Oh, Alize, what in the world should I do…?!"
 [@fm15-bell]: FM15 | Interlude: Elven Unrest | "would you tell me about Alize and the others?"
-[@fm15-rescue]: FM15 | Chapter 6: Meetings and Oaths | Cornered by slavers; red ponytail, rapier, green eyes; "Alize Lovell…!"; "You again, Jura?"; "One of these days we’re gonna kill you".
+[@fm15-rescue]: FM15 | Chapter 6: Meetings and Oaths | Cornered by slavers; red ponytail, rapier, green eyes; "Alize Lovell…!"; "You again, Jura?"; "One of these days we’re gonna kill you". The Japanese edition (file c521, paragraph 146) calls the slavers' leader a young catman.
 [@fm15-intro]: FM15 | Chapter 6: Meetings and Oaths | "probably a year or two older"; "plans on being Level Two very soon!"
 [@fm15-pigheaded]: FM15 | Chapter 6: Meetings and Oaths | "You’re just pigheaded."; "Race has nothing to do with it!"; "I like people like that."
 [@fm15-hand]: FM15 | Chapter 6: Meetings and Oaths | Alize listens; takes her hand; "You wanna join my familia?"; "I’m gonna call you Leon!"
@@ -246,13 +245,14 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar01-vito]: AR01 | Chapter 2: Eren | Alize, Kaguya and Lyra against Vito.
 [@ar01-forest]: AR01 | Chapter 2: Eren | The crystal clearing on the eighteenth floor; the talk of graves; "Your sense of justice is beautiful, Leon."; "Promise me you’ll stay like that forever…" The Japanese edition (file c1BK, paragraphs 359–370) has her say that Lyra and Kaguya are praising Lyu's justice as lovely and that Lyu must stay as she is; the narration calls it a promise.
 [@ar01-gareth]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): the soup kitchen; "old man Gareth"; "race doesn’t matter!"; "I always wanted to be born a dwarf!"
-[@ar01-valletta]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): Alize's straight sword; "How could two Level Threes possibly hope to defeat a Level Five?!"; the evacuation.
+[@ar01-valletta]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): Alize's slender sword (the Japanese edition, file c2W8); "How could two Level Threes possibly hope to defeat a Level Five?!"; the evacuation.
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | Alize and Kaguya at the council; "Why do we have to sit around pointing fingers?"; "Astrea Familia will take one!"
 [@ar01-raid]: AR01 | Chapter 8: Sound of Life | Valletta against Shakti and Alize, "Levels 4 and 3 respectively"; Ardee's death; "Shakti! Lyra! Kaguya! Pull out!!"
 [@ar01-hunch]: AR01 | Chapter 11: Absolute Evil | "It’s Lady Astrea"; "She’s in trouble!"; Lyra trusts "Alize’s uncanny hunch"; her order to hold on and live (the Japanese edition, file c6WV, paragraph 138: captain's orders, hold on, and live).
 [@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | Alize finds Astrea and Hermes; "You have you and yours to thank for that."; the pillars of light.
 [@ar02-stones]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): the stones; "I’m sorry."; "We were weak"; the slap; Leah's teddy bear.
 [@ar02-noanswer]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): "I don’t have an answer for you right now."; "If I lied to Leon, I’d be lying to myself"; Kaguya and Lyra "since the very beginning".
+[@ar02-garden-ja]: AR02 | Chapter 3: A Gray Wildflower | The Japanese edition (file cS6) calls the home by a name meaning Stardust Garden where the English has Starlight Garden.
 [@ar02-deputies]: AR02 | Chapter 3: A Gray Wildflower | "the Starlight Garden"; "supporting Alize as deputy captain and prum strategist".
 [@ar02-poverty]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): the seven days of herb soup; "a second-class adventurer, she couldn’t let anyone see the struggles".
 [@ar02-syr]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): "Are you human?"; "I’m Syr"; stars behind clouds; "shines so much brighter than I do"; "so long as Leon doesn’t lose her hope."
@@ -274,6 +274,7 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar03-surrender]: AR03 | Chapter 8: The Price of Talent | "Alize had realized it first"; "It’s best you surrender."
 [@ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; her energy drawn into her magic; "Alvarna!" (no speaker named).
 [@ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Alize! Leon! Now’s your chance"; "Luminous Wind!" then "Arveria!"; "We’ve won".
+[@ar03-key-ja]: AR03 | Chapter 9: A Hero’s Trail | The Japanese edition writes the spell key as flame flower, read Arveria (file c86J, paragraph 152), the same word as in DanMachi 14 (file cA0W, paragraph 227) and DanMachi 18 (file part0025, paragraph 962; file part0027, paragraph 827); the earlier shout (file c86J, paragraph 35) is another word, full-open flame power, outside the spell brackets.
 [@ar03-remember]: AR03 | Chapter 9: A Hero’s Trail | "We’ll remember you…and what you just told us."
 [@ar03-level4]: AR03 | Chapter 9: A Hero’s Trail | Astrea in the Dungeon; "Our goddess is here!"; "now pure, pretty, and perfect Level 4 girls!"; "Every member of the familia ranked up at once?!"
 [@ar03-aiz]: AR03 | Chapter 9: A Hero’s Trail | "Shorty"; "the voice of a gentle big sister"; "Only monsters make people cry!"

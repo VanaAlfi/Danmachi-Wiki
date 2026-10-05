@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
+      {"label": "Japanese", "value": "{{ja|ラクタ}}", "refs": ["so08-rakuta-ja"]},
       {"label": "Race", "value": "[[races#hume-bunny|Hume bunny]]", "refs": ["so06-tione", "so10-mapping"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so02-supporter", "so06-attack"]},
@@ -37,8 +38,8 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 |---|---|
 | Sword Oratoria 2 | Added as a second supporter to Finn's seven-strong party, with Aiz and Lefiya, for a money-making trip to the deep levels; invited "to study", she is very nervous. She and Lefiya gather the loot.[@so02-supporter, so02-loot] |
 | Sword Oratoria 6 | At Port Meren she is in [[hyrute-sisters|Tione]]'s group. When Loki stops the street fight, she darts in to pull a fallen girl out of harm's way.[@so06-tione, so06-loki] Her group, with Lefiya and [[elfie-collette|Elfie]], is attacked by [[kali-familia|Kali Familia]]; Rakuta is the only one still conscious when Loki arrives. She apologises, and tearfully explains that [[kali-familia#bache-kalif|Bache]] alone beat them and that Lefiya has been taken.[@so06-attack] Loki then takes her and Elfie along as "good luck charms", and they witness [[njordr|Njörðr]]'s exposure.[@so06-charms, so06-njordr] |
-| Sword Oratoria 7 | In Bete's forward party in Knossos.[@so07-forward] When [[ikelos-familia#dix-perdix|Dix]]'s curse strikes, Bete grabs her by the collar and throws her down a side tunnel. She is the only one besides Bete to escape the curse, and she drags her companions' limp bodies to safety while he holds a door.[@so07-thrown, so07-curse, so07-door] |
-| Sword Oratoria 8 | Her party from Knossos is in tears when Bete's confession is heard.[@so08-confession] |
+| Sword Oratoria 7 | In Bete's forward party in Knossos.[@so07-forward] When [[ikelos-familia#dix-perdix|Dix]]'s curse strikes, Bete grabs her by the collar and tumbles with her into a side tunnel. She is the only one besides Bete to escape the curse, and she drags her companions' limp bodies to safety while he holds a door.[@so07-thrown, so07-curse, so07-door] |
+| Sword Oratoria 8 | She and the others whom Bete had saved again and again in Knossos are in tears when his confession is heard.[@so08-confession] |
 | Sword Oratoria 10 | With Riveria's elf squad, she hears the founding god's divine will and Fels's explanation of the Xenos.[@so10-xenos] |
 | Sword Oratoria 12 | Cries out at the sight of a dragon.[@so12-dragon] After the battle she happily hugs the [[monsters#siren|siren]] [[rei|Rei]], to the siren's surprise.[@so12-rei] |
 | Minor Myths and Legends 2 | On the eve of the second assault she follows [[gareth|Gareth]] to the graves of Loki Familia's fallen, where Bete is paying his respects. Bete orders her to tell no one, but she shouts after him that they will win, and he agrees.[@ss02-graves] |
@@ -51,10 +52,10 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 [@so06-charms]: SO06 | Chapter 5: A Duo of Sun and Moon | "Rakuta! Elfie! Come with me…yer gonna be my good luck charms."
 [@so06-njordr]: SO06 | Chapter 5: A Duo of Sun and Moon | "the hume bunny Rakuta spoke up"; Rakuta and the others look between Rod and Njörðr.
 [@so07-forward]: SO07 | Chapter 2: Dungeon Trap | "Having been shuffled into the forward party, the hume bunny Rakuta hesitated".
-[@so07-thrown]: SO07 | Chapter 3: Feast of the Dead | "snagging Rakuta by her collar and hurling her down the nearest side tunnel".
+[@so07-thrown]: SO07 | Chapter 3: Feast of the Dead | "snagging Rakuta by her collar"; the Japanese edition (file c2JK, paragraph 200) has him tumble into the side passage with her.
 [@so07-curse]: SO07 | Chapter 4: The Sword’s Wind Calls | "Rakuta fretted nervously next to him, the only other one to escape the effects of Dix’s Phobetor Daedalus curse."
 [@so07-door]: SO07 | Chapter 4: The Sword’s Wind Calls | Bete supporting the door; "Rakuta moaned and dragged the limp bodies of her companions behind her."
-[@so08-confession]: SO08 | Chapter 5: Battered Wolf | "Rakuta and the rest of his party down in Knossos, in particular, had tears forming in the corners of their eyes."
+[@so08-confession]: SO08 | Chapter 5: Battered Wolf | Bete's confession heard. The Japanese edition (file c5HH, paragraph 109) speaks of Rakuta and the others, whom Bete had saved again and again in Knossos.
 [@so10-door]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "Rakuta, I want you to map the hidden passages in the area around the newly discovered door".
 [@so10-mapping]: SO10 | Chapter 5: Brave Soul! | "It was the hume bunny Rakuta. There was a reason why Finn had sent her along with Lefiya for their romp in the deep levels: her genius at mapping."; "it’s full of holes…!"; Riveria takes the map.
 [@so10-xenos]: SO10 | Chapter 6: The Hero’s Self-Denial | The younger elves, plus Rakuta, shaken by the founding god's divine will; Fels explains the Xenos.
@@ -66,3 +67,4 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 [@so12-dragon]: SO12 | Chapter 8: A Heroes’ Chorus | "A…a dragon?!" Rakuta cried out.
 [@so12-rei]: SO12 | Chapter 8: A Heroes’ Chorus | "Rakuta the hume bunny hugged the siren who had slowly descended to the floor, shocking her."
 [@ss02-graves]: SS02 | | "In Place of Flowers, the Wolf Howls": Gareth and Rakuta at the graves; "We will win this fight!" The Japanese edition (file part0059, paragraphs 14 and 16) has Bete order her to tell no one.
+[@so08-rakuta-ja]: SO08 | | The Japanese edition prints her name in katakana.

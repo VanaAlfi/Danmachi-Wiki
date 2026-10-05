@@ -32,7 +32,7 @@ The **Colossal Tree Labyrinth** is the region of the [[dungeon|Dungeon]] from th
 - **Walls:** the walls and ceilings are covered in thick tree bark, so that adventurers seem to walk through "a hollowed-out tree trunk". Instead of the light sources of the floors above, patches of wall moss give a soft blue glow.[@so03-walls, fm09-twentieth] On the nineteenth floor Lilly scrapes some into a pouch: "This plant—often called Lamp Moss—is the only source of light on this floor", and Bell has heard that, like the eighteenth floor's crystals, it sells on the surface.[@fm09-lampmoss]
 - **Plants:** strange leaves, large mushrooms and flowers with silver sap line the halls, and most of these plants do not exist on the surface. Some rooms hold lush flower beds.[@so03-plants] Many of them are main ingredients for potions and items, rarities chemists would love to have.[@fm09-plants]
 - **The colossal tree:** above the Great Falls of the twenty-fifth floor, the roots of an enormous tree, five meders across, spread over the ceiling; the falls seem to begin there.[@fm12-roots] In DanMachi 14 part of those roots falls into the [[water-capital|Water Capital]], apparently because the part of the twenty-fifth floor holding them was destroyed, and the roots later burn.[@fm14-fall, fm14-fire]
-- **Middle levels:** DanMachi 9 says the middle levels end at the twenty-third floor, and that going on to the twenty-fourth needs a Status above Level 2. DanMachi 12 calls the twenty-fourth floor "the lowest of the middle levels".[@fm09-dangers, fm12-irregular]
+- **Middle levels:** DanMachi 9 counts the twenty-third and twenty-fourth floors as the deepest part of the middle levels, which call for a high Level 2 Status and above all a close, well-coordinated party; DanMachi 12 likewise calls the twenty-fourth floor "the lowest of the middle levels".[@fm09-dangers, fm12-irregular]
 
 ## Dangers {#dangers}
 
@@ -48,7 +48,7 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 | Volume | Events |
 |---|---|
 | Sword Oratoria 3 | On a quest about a monster outbreak, [[aiz-wallenstein|Aiz]] and [[hermes-familia|Hermes Familia]] travel the twenty-fourth floor's main route to the pantry at its depths (see [[corrupted-spirit|Corrupted spirit]]).[@so03-region, so03-quest] |
-| DanMachi 9 | [[bell-cranell|Bell]] meets [[wiene|Wiene]] on the nineteenth floor. Later he and [[welf-crozzo|Welf]] go down there as a two-man cell. Ordered to the deepest part of the twentieth floor, Hestia Familia's party reaches one of the Xenos' Hidden Villages (see [[xenos|Xenos]]).[@fm09-wiene, fm09-mission, fm09-twentieth, fm09-village] |
+| DanMachi 9 | [[bell-cranell|Bell]] meets [[wiene|Wiene]] on the nineteenth floor. Later he and [[welf-crozzo|Welf]] go down there as a two-man cell. Ordered to the deepest part of the twentieth floor, [[hestia-familia|Hestia Familia]]'s party reaches one of the Xenos' Hidden Villages (see [[xenos|Xenos]]).[@fm09-wiene, fm09-mission, fm09-twentieth, fm09-village] |
 | DanMachi 10 | The Xenos travel through its bark-walled passages.[@fm10-xenos] |
 | DanMachi 12 | Hestia Familia's expedition camps on the twenty-fourth floor before going down to the Water Capital.[@fm12-camp, fm12-roots] |
 | DanMachi 13 | The hunters chasing Gale Wind reach the twenty-first floor.[@fm13-hunt] |
@@ -63,7 +63,7 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 [@fm09-start]: FM09 | Chapter 1: An Irregular Girl | Firebirds, "normally found on the nineteenth floor and below"; "the nineteenth floor is the start of the “Colossal Tree Labyrinth”".
 [@fm09-wiene]: FM09 | Chapter 3: The World and Reality and Monsters | "the nineteenth floor, the Colossal Tree Labyrinth"; "the floor where I met Wiene".
 [@fm09-plants]: FM09 | Chapter 3: The World and Reality and Monsters | "A lot of these are the main ingredients for potions and other items."; "rarities around us that chemists would love".
-[@fm09-dangers]: FM09 | Chapter 3: The World and Reality and Monsters | "bugbears and mad beetles and the ranged attacks of gun libellulas and firebirds"; Immunity "the key to clearing floors"; "The middle levels end at the twenty-third floor."
+[@fm09-dangers]: FM09 | Chapter 3: The World and Reality and Monsters | "bugbears and mad beetles and the ranged attacks of gun libellulas and firebirds"; Immunity "the key to clearing floors". The Japanese edition (file c2FG, paragraph 275) counts Floors 23 and 24 as the deepest part of the middle levels, calling for a high Level 2 Status and a close, well-coordinated party.
 [@fm09-mission]: FM09 | Chapter 4: Mission | "ordered to proceed to the Dungeon’s twentieth floor"; "Our destination is in the deepest part of the floor".
 [@fm09-village]: FM09 | Chapter 5: Heretics | "We gather in Hidden Villages like this one".
 [@fm09-fungi]: FM09 | Chapter 5: Heretics | "the many species of insect monsters"; "these creatures produced enormous clouds of poisonous gas".

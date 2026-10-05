@@ -52,13 +52,13 @@ Cecille's father, a master smith, tells Lyu that Zolingam makes "The best-sellin
 Zolingam was reportedly founded where it is because spirits lived there, and spirits enrich the land wherever they live.[@fc03-founded] The city has lived alongside them "since ancient times". Like spirits in fairy tales granting strength to heroes, they gave the smiths boons, among them the **spirit forge**.[@fc03-spirits]
 
 - **Five years earlier:** the city's traditions had become hollow and its smiths haughty, and they angered the spirits so badly that the city was nearly annihilated. Astrea arrived and made peace. Since then, what is taken from the woods and mountains is carefully managed, the smiths give the spirits offerings and entertainment at annual festivals, and Astrea lives outside the city to watch over the forest.[@fc03-spirits, fc03-peace]
-- **The spirit forge:** an emerald-glowing structure like an inverted hourglass, standing beside the great Blackliza workshop.[@fc03-forge] It strengthens a weapon far beyond ordinary work and proves its worth in magic swords and superior gear. Only smiths who commune with the spirits and bring back "a spirit’s tear" may use it.[@fc03-spirits]
+- **The spirit forge:** an emerald-glowing structure shaped like an hourglass without its upper half, an inverted funnel, standing beside the great Blackliza workshop.[@fc03-forge] It strengthens a weapon far beyond ordinary work and proves its worth in magic swords and superior gear. Only smiths who commune with the spirits and bring back a spirit's drop may use it.[@fc03-spirits]
 - **Spirit materials:** Zolingam also receives [[equipment#salamander-wool|salamander wool]], [[equipment#undine-cloth|undine cloth]] and other spirit materials. A small amount reaches Orario, possibly through Hephaistos Familia's store in [[babel|Babel]].[@fc03-spirits]
 - **Yufie:** a spirit "living in the woods of Zolingam (age unknown)", a girl-like figure of great magic whose den only Astrea normally visits.[@fc03-yufie] For spirits in general, see [[races#spirit|Races]].[@fc03-yufie]
 
 ## Stars' Rest {#stars-rest}
 
-**Stars' Rest** is the home that Astrea established after leaving Orario five years before Familia Chronicle 3. It is a two-storey wooden house in the forest east of the city's workshops, like Astrea Familia's old home, the Stardust Garden. Six girls live there with her as her followers.[@fc03-home] Astrea says it is still the same [[astrea-familia|Astrea Familia]], though it looks like a new one from outside.[@fc03-home]
+**Stars' Rest** ({{ja|星休む宿}}, *the inn where stars rest*)[@stars-rest.fc03-ja] is the home that Astrea established after leaving Orario five years before Familia Chronicle 3. It is a two-storey wooden house in the forest east of the city's workshops, like Astrea Familia's old home, the Stardust Garden. Six girls live there with her as her followers.[@fc03-home] Astrea says it is still the same [[astrea-familia|Astrea Familia]], though it looks like a new one from outside.[@fc03-home]
 
 - **Cecille:** Cecille Blackliza, a blue-haired human, Level 2, and the only one of the girls born in Zolingam; the youngest of the eight children of the head of the Blackliza workshop and his only daughter.[@fc03-cecille, fc03-level, fc03-born, fc03-blackliza] Her family of smiths runs one of the city's largest workshops, and her father would not let her use the spirit forge. When Astrea calmed the spirits, she asked Cecille to make a weapon for someone she would meet again. It was Lyu's.[@fc03-forge, fc03-family, fc03-reason]
 - **Iselina:** a [[races#werewolf|werewolf]], Level 2, who joined because of what Astrea had done for the city.[@fc03-level, fc03-others, fc03-peace]
@@ -77,6 +77,7 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 [@fc03-city]: FC03 | | "everyone living in the city was an artisan"; "many smithing familias had settled in Zolingam"; Hephaistos Familia "regularly supported several workshops"; "far larger than Orario’s industrial district".
 [@fc03-nature]: FC03 | | "The mountains extended from the west to the south"; "a river flowed from the north"; "few of her fellow elves"; elves loathe deforestation.
 [@fc03-home]: FC03 | The Locus of Stars | "Stars’ Rest."; "a two-story building in the depths of the forest"; east of the workshops; "six girls"; "This is the same Astrea Familia that you know and love".
+[@stars-rest.fc03-ja]: FC03 | | The Japanese edition (file c54, paragraph 276) names the house the inn where stars rest.
 [@fc03-cecille]: FC03 | The Locus of Stars | "The blue-haired human Cecille".
 [@fc03-level]: FC03 | The Locus of Stars | Cecille: "me and Iselina are Level Two!"; the prum girl: "I’m just Level One!"
 [@fc03-born]: FC03 | The Locus of Stars | "Cecille was born here in Zolingam."
@@ -85,10 +86,10 @@ Zolingam was reportedly founded where it is because spirits lived there, and spi
 [@fc03-founded]: FC03 | The Locus of Stars | "Zolingam was established here specifically because there were spirits living here."
 [@fc03-peace]: FC03 | The Locus of Stars | "Zolingam had angered the spirits so badly"; "very close to being completely annihilated"; offerings at "annual festivals"; Astrea watches "over the spirits and the forest"; Iselina joined because of it.
 [@fc03-hephaistos]: FC03 | The Locus of Stars | Astrea: Hephaistos "visits Zolingam fairly often".
-[@fc03-forge]: FC03 | The Locus of Stars | "her family’s workshop, one of the largest and most well-known in the city"; "a metallic inverted hourglass"; "right next to the massive Blackliza workshop"; "Let me use the spirit forge!"; her father's refusal.
+[@fc03-forge]: FC03 | The Locus of Stars | "her family’s workshop, one of the largest and most well-known in the city"; "right next to the massive Blackliza workshop"; "Let me use the spirit forge!"; her father's refusal. The Japanese edition (file c20T, paragraph 204) describes the forge as an hourglass without its upper half, an inverted funnel.
 [@fc03-reason]: FC03 | The Locus of Stars | Astrea to Cecille: "a new power, a new starlight. I would like you to make that for her."; "That was Lyu’s custom weapon."
 [@fc03-family]: FC03 | The Locus of Stars | "I was born in Zolingam. My family, extended family, we’re all blacksmiths."
-[@fc03-spirits]: FC03 | The Locus of Stars | "Zolingam had coexisted with the spirits since ancient times"; the spirit forge; "a spirit’s tear"; salamander wool and undine cloth; some "to Orario".
+[@fc03-spirits]: FC03 | The Locus of Stars | "Zolingam had coexisted with the spirits since ancient times"; the spirit forge; a spirit's drop; salamander wool and undine cloth; some "to Orario". The Japanese edition (file c20T, paragraphs 411–412) calls the token a spirit's drop.
 [@fc03-stages]: FC03 | The Locus of Stars | Astrea released Lyu's excelia in stages and "had her stay in Zolingam instead".
 [@fc03-smiths]: FC03 | The Locus of Stars | Cecille's father: "The best-selling weapons are the ones made here in Zolingam."; "The empire, Dizara, even the Kaios Desert"; "solid 80s or 90s"; no weapon "that surpassed 100 points".
 [@fc03-forge-day]: FC03 | The Locus of Stars | "The Level 1s Schau and Uranda".

@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Country"},
       {"label": "Japanese", "value": "{{ja|アルテナ}}", "refs": ["fm19-altena-ja"]},
-      {"label": "Called", "value": "The magic country; the nation of magic ({{ja|魔導大国}}, written *great nation of magic*)", "refs": ["fc02-power", "so13-destinations", "fm19-altena-ja"]},
+      {"label": "Also called", "value": "The magic country; the nation of magic ({{ja|魔導大国}}, written *great nation of magic*)", "refs": ["fc02-power", "so13-destinations", "fm19-altena-ja"]},
       {"label": "Standing", "value": "A major global power alongside Orario", "refs": ["fc02-power"]},
       {"label": "Belief", "value": "The supremacy of magic: \"Magic is everything\"", "refs": ["fc02-belief"]},
       {"label": "Products", "value": "Desert ships, magic gauges, magic stones, wine", "refs": ["fc02-power", "fm19-gauges", "fc03-stones", "fc01-wine"]}
@@ -32,7 +32,7 @@ Altena believes fundamentally in the supremacy of magic: it is elitist towards m
 ## Trade and products
 
 - **Desert ships.** Altena makes the world's first desert-sailing ships, giant magic items produced by dozens of mages, and has recently begun selling them in the [[kaios-desert|Kaios Desert]]. The one Freya rides is driven by magic power drawn from over thirty slaves held below deck, and Bofman calls controlling a ship with magic "rather fitting for Altena".[@fc02-power, fc02-ship] Because a desert ship cannot run without magic power, it is not for the masses, but it could open a new kind of trade in the desert; Altena and the other countries of the Continent do not want Orario to have a monopoly on good ideas.[@fc02-monopoly] By Minor Myths and Legends 2 the nations of the Kaios depend more and more on trade with Altena.[@ss02-trade]
-- **Magic gauges and stones.** In DanMachi 19 a workshop full of flasks holds magic gauges made with Altena's technology, and its occupant means to make "something that equals Altena’s underground palace".[@fm19-gauges] In Familia Chronicle 3 Cecille uses Altena-made magic stones, ground into a fine powder, as a catalyst for an elf's magic.[@fc03-stones] The [[school-district|School District]]'s Alchemy Department made a magical projector in collaboration with Altena.[@fm19-projector]
+- **Magic gauges and stones.** In DanMachi 19 a workshop full of flasks holds magic gauges made with Altena's technology, and its occupant means to make "something that equals Altena’s underground palace".[@fm19-gauges] In Familia Chronicle 3 Cecille uses Altena-made magic gems, ground into a fine powder, as a catalyst for an elf's magic.[@fc03-stones] The [[school-district|School District]]'s Alchemy Department made a magical projector in collaboration with Altena.[@fm19-projector]
 - **Wine.** At El Dorado's Grand Casino a guest orders "A thirty-year-old Altena wine" as a card signal.[@fc01-wine]
 
 ## Altena and the School District
@@ -45,7 +45,7 @@ The School District's students recall a time "When Altena demanded our magic ite
 [@fc02-belief]: FC02 | Ali and the 8 Followers | "Altena was a country with a fundamental belief in the supremacy of magic."; "the citizens of Altena could readily be seen saying “Magic is everything” with straight faces"; "It seems we should be wary of Altena…"
 [@fc02-monopoly]: FC02 | Ali and the 8 Followers | "Because it could not operate without magic power, it was not a product that could be used by the masses"; "Altena and the other countries and cities around the continent were serious about not letting the Labyrinth City have a monopoly on all the good ideas."
 [@fc03-lyana]: FC03 | The Locus of Stars | "About the human wandering mage, Lyana Lietz, who originally came from the distant magical land of Altena."
-[@fc03-stones]: FC03 | The Locus of Stars | "Cecille decided to use Altena-made magic stones ground into a fine powder".
+[@fc03-stones]: FC03 | The Locus of Stars | Cecille's catalyst. The Japanese edition (file c20T, paragraph 9) calls them Altena-made magic gems, not the monsters' magic stones.
 [@fm19-careers]: FM19 | Chapter 3: School Life in Another World | "Imperial knights, Dizaran marines, court mages of Altena…and adventurers in Orario."
 [@fm19-gauges]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "I’ll make something that equals Altena’s underground palace." The Japanese edition (file part0023, paragraph 119) calls them magic gauges made with Altena's technology.
 [@fm19-projector]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "a magical projector that the School District’s Alchemy Department made in collaboration with Altena".

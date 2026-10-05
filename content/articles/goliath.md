@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-29",
   "continuity": "light-novel",
-  "summary": "The Monster Rex of Floor 17, a giant over seven meders tall that respawns about every two weeks; the Dungeon also produces a black variant on Floor 18 in DanMachi 5.",
+  "summary": "The Monster Rex of Floor 17, a giant nearly seven meders tall that respawns about every two weeks; the Dungeon also produces a black variant on Floor 18 in DanMachi 5.",
   "aliases": ["Black Goliath"],
   "spoilers": "DanMachi Vols. 2, 5, 8 and 14 and Sword Oratoria Vol. 13",
   "related": ["floor-18", "monster-rex", "magic", "hestia", "dungeon"],
@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Monster"},
       {"label": "Type", "value": "[[monster-rex|Monster Rex]] (floor boss)", "refs": ["fm05-goliath", "fm02-rex"]},
-      {"label": "Floor", "value": "17, the Great Wall of Sorrows", "refs": ["fm05-goliath"]},
+      {"label": "Found", "value": "17, the Great Wall of Sorrows", "refs": ["fm05-goliath"]},
       {"label": "Size", "value": "About seven meders tall", "refs": ["fm05-goliath", "fm05-ja-goliath"]},
       {"label": "Classified", "value": "Level 4", "refs": ["fm08-goliath"]},
       {"label": "Respawn", "value": "About every two weeks", "refs": ["fm05-goliath", "fm08-goliath"]},
@@ -26,7 +26,7 @@
   }
 }
 ---
-The **Goliath** is the [[monster-rex|Monster Rex]] of Floor 17. It is born from the floor's [[cave-labyrinth#floor-17|Great Wall of Sorrows]], stands nearly seven meders tall (the Yen Press text says "more than seven meders tall") and normally respawns about every two weeks.[@fm05-goliath, fm05-ja-goliath] It is classified as Level 4.[@fm08-goliath] In DanMachi 5 the Dungeon also produces a black Goliath on [[floor-18|Floor 18]].[@fm05-black]
+The **Goliath** is the [[monster-rex|Monster Rex]] of Floor 17. It is born from the floor's [[cave-labyrinth#floor-17|Great Wall of Sorrows]], stands nearly seven meders tall and normally respawns about every two weeks.[@fm05-goliath, fm05-ja-goliath] It is classified as Level 4.[@fm08-goliath] In DanMachi 5 the Dungeon also produces a black Goliath on [[floor-18|Floor 18]].[@fm05-black]
 
 ## Monster Rex
 
@@ -45,7 +45,7 @@ Goliaths can differ from one another. In Sword Oratoria 13 a Goliath appears two
 
 In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18, the Dungeon seals the exit and gives birth to a black Goliath on that floor.[@fm05-black] Its howl is magical, its roar summons other monsters, and magical energy lets it regenerate rapidly.[@fm05-black-traits]
 
-[[lyu-leon|Lyu]] estimates its strength as equal to Level 5. DanMachi 14's narration later compares it with the Level 5 [[amphisbaena|Amphisbaena]], saying the two are similar on paper but the Goliath's regeneration made it stronger in practice. This is a comparison of monsters; the Goliath has no [[falna|Falna]].[@fm05-level5, fm14-compare]
+[[lyu-leon|Lyu]] estimates its strength as equal to Level 5. DanMachi 14's narration later compares it with the [[amphisbaena|Amphisbaena]], whose potential equals a Level 5, saying the two are similar on paper but the Goliath's regeneration made it stronger in practice. This is a comparison of monsters; the Goliath has no [[falna|Falna]].[@fm05-level5, fm14-compare]
 
 [[bell-cranell|Bell]] destroys its [[magic-stone|magic stone]] with a great deal of help from others, and every member of his group returns to the surface alive.[@fm05-battle, fm05-return] The [[guild|Guild]] calls the event a Calamity and penalizes Hestia and [[hermes|Hermes]].[@fm05-return]
 

@@ -17,7 +17,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Location"},
-      {"label": "Region", "value": "Deep in the Beor Mountain Range, in a valley ringed by steep cliffs", "refs": ["fm08-village"]},
+      {"label": "Location", "value": "Deep in the Beor Mountain Range, in a valley ringed by steep cliffs", "refs": ["fm08-village"]},
       {"label": "Origin", "value": "An elf settlement from the Ancient Times", "refs": ["fm08-village"]},
       {"label": "Protection", "value": "Scales shed by the Black Dragon", "refs": ["fm08-scales", "so09-scales"]},
       {"label": "Elder", "value": "[[#kam|Kam]] (died in DanMachi 8)", "refs": ["fm08-village", "fm08-death"]},

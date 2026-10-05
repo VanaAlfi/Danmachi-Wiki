@@ -21,7 +21,7 @@
       {"label": "Familia", "value": "[[takemikazuchi-familia|Takemikazuchi Familia]]", "refs": ["fm07-shrine"]},
       {"label": "Home in Orario", "value": "Old communal housing on a narrow street in the north-west of the city", "refs": ["fm08-home"]},
       {"label": "Weapon", "value": "Tenka, the male of a pair of daggers; the female, Chizan, is [[mikoto|Mikoto]]'s", "refs": ["fm08-chizan", "fm12-training"]},
-      {"label": "Nickname", "value": "*Také*, used by [[hestia|Hestia]]", "refs": ["fm01-dogeza", "fm05-stall"]}
+      {"label": "Also called", "value": "*Také*, used by [[hestia|Hestia]]", "refs": ["fm01-dogeza", "fm05-stall"]}
     ]
   }
 }

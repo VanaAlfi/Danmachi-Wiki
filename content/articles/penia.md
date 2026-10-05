@@ -14,6 +14,7 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Deity"},
+      {"label": "Japanese", "value": "{{ja|貧乏神}}, written *god of poverty*", "refs": ["so11-penia-ja"]},
       {"label": "Domain", "value": "Poverty", "refs": ["so07-penia", "so10-ruler"]},
       {"label": "Appearance", "value": "An old woman in rags, with long, tangled white hair and ashen eyes", "refs": ["so07-penia", "so10-ruler"]},
       {"label": "Home", "value": "[[daedalus-street|Daedalus Street]], for a few centuries", "refs": ["so07-centuries", "so10-ruler"]},
@@ -71,3 +72,4 @@ In Sword Oratoria 13 [[royman|Royman]]'s official account tells the city that "D
 [@so12-killed]: SO12 | Chapter 6: The Divine Providence of Despair | "…And then you killed Penia here."; bound and gagged; the dagger; "Once Penia was sent back, Aura and the rest whose abilities had been sealed were wiped out."
 [@so12-dagger]: SO12 | Chapter 8: A Heroes’ Chorus | "a blade with grape designs on the hilt—the one he had used to send Penia back to the heavens".
 [@so13-account]: SO13 | | Royman: "tragedy struck them and their patron god, as well as Goddess Penia of Daedalus Street. The pillars of return the other day were a result of this struggle."
+[@so11-penia-ja]: SO11 | | The Japanese edition writes her name with kanji meaning god of poverty, read Penia.

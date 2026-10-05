@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Exchange"},
       {"label": "Run by", "value": "[[guild|The Guild]]", "refs": ["fm01-hq", "so01-monopoly"]},
-      {"label": "Where", "value": "Guild Headquarters, the Guild's branches, and [[babel|Babel]]", "refs": ["fm01-hq", "fm02-babel"]},
+      {"label": "Location", "value": "Guild Headquarters, the Guild's branches, and [[babel|Babel]]", "refs": ["fm01-hq", "fm02-babel"]},
       {"label": "Buys", "value": "[[magic-stone|Magic stones]] and drop items", "refs": ["so01-monopoly", "so01-drops"]},
       {"section": "Rivira"},
       {"label": "Run by", "value": "Adventurers; the largest shop is [[bors|Bors Elder]]'s", "refs": ["fm05-rivira", "so03-bors"]},
@@ -36,7 +36,7 @@
 
 ## Rivira's Exchanges {#rivira}
 
-Rivira has Exchange shops of its own (the Japanese narration calls them *buy-back places*, though Mikoto's group first exclaims at an *exchange office*, the Guild's word; Yen Press prints "Exchange" for both); one has a sign with drawings of a Minotaur and purple stones.[@fm05-rivira, fm05-ja-rivira] They buy drop items and magic stones for "less than half their value" and sell them to the Guild for full price on the surface. Adventurers sell there anyway, because they can carry only so much, and selling lets them keep exploring. The strongest shop's owner keeps the other shops quiet by force, so there is no price competition (the Yen Press text says the owners "ran the most profitable business in Rivira").[@fm05-rivira, fm05-ja-rivira] [[ouka|Kashima Ouka]] calls it "a scam".[@fm05-rivira] Payment is by a written note issued by the shop, which the seller claims from the shop owners' own Familia on the surface (the Yen Press text says "a receipt issued by the shop" and "a representative on the surface").[@fm05-receipt, fm05-ja-receipt]
+Rivira has Exchange shops of its own (the Japanese narration calls them *buy-back places*, though Mikoto's group first exclaims at an *exchange office*, the Guild's word; Yen Press prints "Exchange" for both); one has a sign with drawings of a Minotaur and purple stones.[@fm05-rivira, fm05-ja-rivira] They buy drop items and magic stones for "less than half their value" and sell them to the Guild for full price on the surface. Adventurers sell there anyway, because they can carry only so much, and selling lets them keep exploring. The strongest shop's owner keeps the other shops quiet by force, so there is no price competition.[@fm05-rivira, fm05-ja-rivira] [[ouka|Kashima Ouka]] calls it "a scam".[@fm05-rivira] Payment is by a written note issued by the shop, which the seller claims from the shop owners' own Familia on the surface.[@fm05-receipt, fm05-ja-receipt]
 
 [[bors|Bors Elder]] owns the largest Exchange shop in Rivira; DanMachi 5 calls him "the owner of Rivira’s Exchange".[@so03-bors, fm05-bors] The crystals of Floor 18 can also be turned in for money "at the Exchange aboveground".[@fm05-crystals]
 

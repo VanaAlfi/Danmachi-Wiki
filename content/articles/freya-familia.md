@@ -43,11 +43,11 @@
 | Van | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; told by Hedin to deploy Hegni's unit south of the church in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
 | Remilia and Rask | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |
 
-Former members include [[mia-grand|Mia Grand]], the Level 6 *Demi Ymir* and captain before Ottar, who now owns [[the-benevolent-mistress|The Benevolent Mistress]],[@fm18-mia, fc01-owner] and Anya Fromel (*Vana Alfi*), who was sent away after a Deep Levels expedition in which she nearly died.[@fm17-anya, fm18-allen]
+[[mia-grand|Mia Grand]], the Level 6 *Demi Ymir* and captain before Ottar, half-retired and now owns [[the-benevolent-mistress|The Benevolent Mistress]], though she still bears Freya's blessing.[@fm18-mia, fc01-owner] Anya Fromel (*Vana Alfi*) was sent away after a Deep Levels expedition in which she nearly died.[@fm17-anya, fm18-allen]
 
 ### Recruitment of the executives
 
-Ottar was the first. At seventeen he was Level 5 and second-in-command; after him came Hegni and Hedin, then the [[gulliver-brothers|Gulliver brothers]], and finally Allen and his sister.[@fc02-origin] Hedin and Hegni had been kings of rival white-elf and dark-elf states on the island of Heodenings; Freya provoked their final war, and the two of them, the last left standing, followed her.[@fc02-pasts] She found Allen and Anya at six, two years after a dragon destroyed their home country in one night.[@fc02-pasts, fm18-allen]
+Ottar was the first. At seventeen he was Level 5 and second-in-command; after him came Hegni and Hedin, then the [[gulliver-brothers|Gulliver brothers]], and finally Allen and his sister.[@fc02-origin] Hedin and Hegni had been kings of rival white-elf and dark-elf states on the island of Heodenings; Freya provoked their final war, and the two of them, the last left standing, followed her.[@fc02-pasts] She found Allen, then six, and his younger sister Anya two years after a dragon destroyed their home country in one night.[@fc02-pasts, fm18-allen]
 
 ## Organisation
 
@@ -61,7 +61,7 @@ Folkvangr's field holds death matches from dawn to sunset. Members below the fir
 
 ### Before DanMachi 1
 
-During the [[great-conflict|Great Conflict]] told in Astrea Record, Ottar is Level 6, Hedin, Hegni and Allen are Level 5, and the Gulliver brothers are Level 4.[@ar01-ottar, ar01-levels, ar02-allen] Ottar defeats [[zald|Zald]] of Zeus Familia and advances to Level 7, and in the war's aftermath the other leading members reach Level 6.[@ar03-ottar, ar03-hegni]
+During the [[great-conflict|Great Conflict]] told in Astrea Record, Ottar is Level 6, Hedin, Hegni and Allen are Level 5, and the Gulliver brothers are Level 4.[@ar01-ottar, ar01-levels, ar02-allen] Ottar defeats [[zald|Zald]] of Zeus Familia and advances to Level 7, and in the war's aftermath, [[hermes|Hermes]] says, the Familia's other executives reach Level 6 as well.[@ar03-ottar, ar03-hegni] By Familia Chronicle 2 Hedin, Hegni and Allen are Level 6, and the Gulliver brothers Level 5.[@fc02-execs]
 
 ### DanMachi 1–15
 
@@ -135,5 +135,5 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@ar01-levels]: AR01 | Chapter 11: Absolute Evil | Hedin and Hegni at Level 5, the Gullivers at 4.
 [@ar02-allen]: AR02 | Chapter 2: Wavering Justice | Allen at Level 5, Ottar at 6.
 [@ar03-ottar]: AR03 | | Ottar defeats Zald and reaches Level 7.
-[@ar03-hegni]: AR03 | Epilogue: On and on Down the Unending Road of Justice | The other leaders reach Level 6.
+[@ar03-hegni]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Hermes: "the other top dogs of Freya Familia became Level 6 as well" (the Japanese edition, file c9M1, paragraph 82: the Familia's executives).
 [@fm18-freya-familia-ja]: FM18 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.

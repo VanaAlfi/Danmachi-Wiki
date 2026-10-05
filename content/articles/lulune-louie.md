@@ -30,7 +30,7 @@
 
 In Sword Oratoria 2 a client in a black robe pays Lulune to collect a package in [[rivira|Rivira]] and bring it to the surface. The adventurer [[hashana|Hashana]], who had retrieved it, handed it to her and was murdered.[@so02-courier] When [[aiz-wallenstein|Aiz]] and [[lefiya|Lefiya]] find her, frightened, she admits that Hermes asked her to keep her rank-up secret and that she is Level 3. The client evidently knew this.[@so02-level] She hands Aiz the package: a crystal orb holding a female fetus.[@so02-orb]
 
-In Sword Oratoria 3 the "washed-up old mage" who hires Aiz, [[fels|Fels]], says it was the one who contacted Lulune.[@so03-fels] The black-robed figure approaches Lulune again, and she refuses at first, given the danger the last quest put her in.[@so03-again] Aiz has already heard from her that Hermes reports false Levels for his followers so that his Familia can stay in the middle of the pack.[@so03-levels]
+In Sword Oratoria 3 the self-described humble mage who hires Aiz, [[fels|Fels]], says it was the one who contacted Lulune.[@so03-fels] The black-robed figure approaches Lulune again, and she refuses at first, given the danger the last quest put her in.[@so03-again] Aiz has already heard from her that on Hermes's orders many of his followers hide their true Levels, so that he can keep up his stance of not seeking to rise and posing as neutral.[@so03-levels]
 
 ## In the Dungeon
 
@@ -52,9 +52,9 @@ On the Floor 24 expedition of Sword Oratoria 3, Aiz is impressed by Lulune's acr
 [@so02-courier]: SO02 | Chapter 4: Orb | "Lulune…Lulune Louie."; "Third tier, Level Two. I’m with Hermes Familia"; the quest to pick up the package and bring it to the surface; Hashana.
 [@so02-level]: SO02 | Chapter 4: Orb | "Lord Hermes asked me to keep the rank-up a secret…I’m actually Level Three."; the client knew.
 [@so02-orb]: SO02 | Chapter 4: Orb | The crystal orb; the fetus inside.
-[@so03-fels]: SO03 | Chapter 1: The Black Robe’s Invitation | "I’m the one who contacted Lulune Louie"; the courier of Hashana's cargo.
+[@so03-fels]: SO03 | Chapter 1: The Black Robe’s Invitation | "I’m the one who contacted Lulune Louie"; the courier of Hashana's cargo. The Japanese edition (file c14E, paragraph 5) has Fels call itself a humble mage.
 [@so03-again]: SO03 | Chapter 2: Let’s Party? | The black-robed figure visits Lulune again; she refuses at first.
-[@so03-levels]: SO03 | Chapter 2: Let’s Party? | Hermes reports false Levels for his followers.
+[@so03-levels]: SO03 | Chapter 2: Let’s Party? | Hermes reports false Levels for his followers. The Japanese edition (file c1B2, paragraph 209) says many members hide their true Levels on his orders, so that he can keep his stance of not wanting to rise and posing as neutral.
 [@so03-fighting]: SO03 | Chapter 3: A Hideous Beauty | Lulune's acrobatics and knife skills; a thief; guerrilla tactics; "Level Four"; the chienthrope.
 [@so03-asfi]: SO03 | Chapter 4: White-Haired Devil | Lulune screams as Asfi collapses; the person Lulune had begged them to save.
 [@so06-meeting]: SO06 | Chapter 1: Quest Results & Next Quest | The chienthrope forced to join the meeting; strained chuckles.

@@ -14,11 +14,11 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Personal"},
-      {"label": "Alias", "value": "Faceless", "refs": ["ar01-faceless"]},
+      {"label": "Also called", "value": "Faceless", "refs": ["ar01-faceless"]},
       {"label": "Appearance", "value": "Bloodred hair, narrow scarlet eyes, a fixed smile and a forgettable face", "refs": ["ar01-faceless"]},
       {"label": "Senses", "value": "All impaired except touch; sees only the red of others' blood", "refs": ["ar03-defect"]},
       {"section": "Affiliation"},
-      {"label": "Faction", "value": "[[evils|The Evils]], a lieutenant", "refs": ["ar03-zald"]},
+      {"label": "Affiliation", "value": "[[evils|The Evils]], a lieutenant", "refs": ["ar03-zald"]},
       {"label": "God", "value": "[[erebus|Erebus]], whose sole follower he is", "refs": ["ar02-follower", "ar03-sole"]},
       {"label": "Weapon", "value": "A dagger or knife (blood-soaked in Astrea Record 1)", "refs": ["ar01-blade", "ar03-five"]}
     ]

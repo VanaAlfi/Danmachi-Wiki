@@ -25,7 +25,7 @@ The **Valley of Dragons** is where the Black Dragon, one of the [[three-great-qu
 
 ## The seal
 
-According to the gods, the dragon wanted prey to heal its lost eye. When almost all the dragons of the world had gathered in this land, the great spirit raised a vast storm to seal them.[@fm20-storm] The sleeping Black Dragon snores from time to time (the Yen Press text says it "exhales"); the sound disturbs the wind and opens tears through which dragons escape, which the locals call "descending from the valley". This is the cause of the roaming dragons that trouble the world.[@fm20-breath] The Great Dragon Wall restricts access.[@fm20-wall]
+According to the gods, the dragon wanted prey to heal its lost eye. When almost all the dragons of the world had gathered in this land, the great spirit raised a vast storm to seal them.[@fm20-storm] The sleeping Black Dragon snores from time to time; the sound disturbs the wind and opens tears through which dragons escape, which the locals call "descending from the valley". This is the cause of the roaming dragons that trouble the world.[@fm20-breath] The Great Dragon Wall restricts access.[@fm20-wall]
 
 Barrier devices made by [[school-district|the School District]] stand around the base of the storm to maintain and strengthen the seal.[@fm20-barrier] In DanMachi 20 one of these barriers appears to be broken, and an escaped dragon has to be defeated.[@fm20-broken]
 

@@ -14,14 +14,14 @@
     "image_note": "No suitable official image has been chosen for this page yet.",
     "rows": [
       {"section": "Floor"},
-      {"label": "Name", "value": "Under Resort", "refs": ["fm05-safe"]},
+      {"label": "Also called", "value": "Under Resort", "refs": ["fm05-safe"]},
       {"label": "Type", "value": "Safe point; monsters do not normally spawn", "refs": ["fm05-safe"]},
       {"label": "Light", "value": "Crystal ceiling with a day-and-night cycle", "refs": ["fm05-safe", "so05-forest"]},
       {"label": "Recommended", "value": "Level 2 parties (Floors 13–24)", "refs": ["fm07-guidance"]},
       {"section": "Surroundings"},
       {"label": "Settlement", "value": "[[rivira|Rivira]]", "refs": ["fm05-rivira"]},
-      {"label": "Floor above", "value": "[[cave-labyrinth#floor-17|Floor 17]], guarded by the [[goliath|Goliath]]", "refs": ["fm05-goliath", "fm08-goliath"]},
-      {"label": "Floor below", "value": "Floor 19, from which monsters migrate up", "refs": ["fm05-safe"]}
+      {"label": "Above", "value": "[[cave-labyrinth#floor-17|Floor 17]], guarded by the [[goliath|Goliath]]", "refs": ["fm05-goliath", "fm08-goliath"]},
+      {"label": "Below", "value": "Floor 19, from which monsters migrate up", "refs": ["fm05-safe"]}
     ]
   }
 }

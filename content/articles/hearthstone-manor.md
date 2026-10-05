@@ -32,7 +32,7 @@
 | DanMachi 6 | Hestia claims Apollo's property and moves the Familia into his manor.[@fm06-manor] |
 | DanMachi 9 | [[wiene|Wiene]] lives there with the Familia for a time.[@fm09-wiene] |
 | DanMachi 19–20 | The former members of [[freya-familia|Freya Familia]] stand guard around the manor to protect [[haruhime|Haruhime]] and [[lyu-leon|Lyu]].[@fm19-guard, fm20-guards] |
-| DanMachi 20 | [[nina-tulle|Nina Tulle]] joins the household as an intern. [[syr-flover|Syr]] visits regularly and asks to stay, since the [[guild|Guild]] has seized [[folkvangr|Folkvangr]] and the tavern is crowded.[@fm20-nina, fm20-syr] |
+| DanMachi 20 | [[nina-tulle|Nina Tulle]] joins the household as an intern. [[syr-flover|Syr]] visits regularly and asks to stay, saying that the [[guild|Guild]] has seized [[folkvangr|Folkvangr]] and that there is no room at the tavern.[@fm20-nina, fm20-syr] |
 
 Familia Chronicle 3 compares it with [[astrea|Astrea]]'s house near [[zolingam|Zolingam]], which is spacious for a lodge but nothing like Hearthstone Manor.[@fc03-home]
 

@@ -43,7 +43,7 @@ A **magic sword** is a weapon that releases magic without a chant. Ordinary magi
 
 The Crozzo Magic Swords are weapons of legend, known throughout the world; the old Kingdom of [[ares#kingdom-of-rakia|Rakia]] long used them in its wars.[@so05-crozzo] They were said to be strong enough to "set fire to the ocean", and the Crozzos were called "the masters of the magic sword".[@fm04-ocean, so05-crozzo]
 
-- **The elves' grudge.** The flames of Crozzo swords in the Rakian wars reached the forests of the elves, who had no part in the war; the number of elves who lost their villages is almost uncountable. [[alicia-forestlight|Alicia]] says the Crozzos burned her home.[@so05-elves]
+- **The elves' grudge.** The flames of Crozzo swords in the Rakian wars reached the forests of the elves, who had no part in the war; the number of elves who lost their villages is almost uncountable. [[alicia-forestlight|Alicia]] calls the Crozzos the cause of the burning of her fellow elves' villages.[@so05-elves]
 - **Rakia's battalion.** In DanMachi 8 [[ares|Ares]] hopes to use Welf's power to revive Rakia's magic-sword battalion.[@fm08-battalion]
 - **Welf's swords.** In DanMachi 18 one of Welf's swords keeps taking Allen's thrusts without breaking, an expression of its maker's persistence.[@fm18-consumable] In DanMachi 14 he forges [[equipment#shikou-kazuki|Shikou Kazuki]], whose flame burns a whole swarm (see [[welf-crozzo|Welf Crozzo]]).[@fm14-kazuki]
 
@@ -65,5 +65,5 @@ The Crozzo Magic Swords are weapons of legend, known throughout the world; the o
 [@so03-loki]: SO03 | Chapter 1: The Black Robe’s Invitation | "got us thirty, all top o’ the line"; "These specialized weapons could produce the same effect as spells"; "equip the lower-ranking members with magic swords".
 [@so04-cost]: SO04 | First Chapter: And the Boy… | "magic swords were already expensive enough, let alone a top-tier model from Hephaistos Familia".
 [@so05-crozzo]: SO05 | Interlude: Flip Side of the Compromise | "Originally, magic swords were capable only of producing weak magic in exchange for not requiring chants to cast."; "the Kingdom of Rakia of old had long used them"; "reputed to have lit the sea itself on fire".
-[@so05-elves]: SO05 | Interlude: Flip Side of the Compromise | Alicia: "they’re the ones who burned my home!"; "The number of elves who’d lost their villages due to the heedless embers of those magic swords was almost uncountable."
+[@so05-elves]: SO05 | Interlude: Flip Side of the Compromise | "The number of elves who’d lost their villages due to the heedless embers of those magic swords was almost uncountable." The Japanese edition (file c2BG, paragraph 158) has Alicia call the Crozzo clan the cause of the burning of her fellow elves' villages.
 [@so06-red]: SO06 | Chapter 1: Quest Results & Next Quest | "There’s the cost of the magic swords and Durandal weapons before we even left".

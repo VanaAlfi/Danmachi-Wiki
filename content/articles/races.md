@@ -42,7 +42,7 @@
     {"anchor": "chienthrope", "title": "Chienthrope", "summary": "The dog people, with floppy dog ears; Nahza, Lulune and Cruz are chienthropes.", "aliases": ["Dog person"]},
     {"anchor": "boaz", "title": "Boaz", "summary": "Animal people with boar-like ears; Ottar is one.", "aliases": []},
     {"anchor": "war-tiger", "title": "War tiger", "summary": "The race of Falgar Batros, printed war tiger and, in Minor Myths and Legends 2, weretiger.", "aliases": ["Weretiger"]},
-    {"anchor": "werewolf", "title": "Werewolf", "summary": "Wolf animal people who transform under the full moon; Bete Loga is one.", "aliases": ["Werewolves"]},
+    {"anchor": "werewolf", "title": "Werewolf", "summary": "Wolf animal people who transform in moonlight; Bete Loga is one.", "aliases": ["Werewolves"]},
     {"anchor": "renart", "title": "Renart", "summary": "The fox people, extremely rare and the only animal people born able to use magic: sorcery. Haruhime is a renart.", "aliases": ["Renard"]},
     {"anchor": "hume-bunny", "title": "Hume bunny", "summary": "Rabbit animal people with long ears and a short fluffy tail; Rakuta is one, and Bell is disguised as one in DanMachi 19.", "aliases": ["Hume bunnies"]},
     {"anchor": "raccoon", "title": "Raccoon", "summary": "Animal people seen only briefly: a bar owner in Sword Oratoria 6 and a School District girl in DanMachi 19.", "aliases": []},
@@ -60,9 +60,9 @@ The DanMachi novels describe many peoples. [[orario|Orario]] is home not only to
 
 ## Terms {#terms}
 
-- **Demi-human:** Bell counts "all five races of demi-human", and the races named in that sense are elves, dwarves, animal people, prums and Amazons. Humans are counted apart: the text speaks of humans who can interbreed with demi-humans, and of six races in all.[@fm07-amazons, fm07-assault, fm08-children, so14-six] DanMachi 4 once lists elves separately from "humans and demi-humans".[@fm04-interact]
+- **Demi-human:** Bell counts "all five races of demi-human", and the races named in that sense are elves, dwarves, animal people, prums and Amazons. Humans are counted apart: the text speaks of humans who can interbreed with demi-humans, and of six races in all.[@fm07-amazons, fm07-assault, fm08-children, so14-six]
 - **Animal people:** the commonest name for the demi-humans with animal ears and tails.[@fm01-animal] The same people are also printed *beast person* or *beast people*, *beastpeople*, *beastman* (plural *beastmen*) and *beastfolk*.[@fm03-beast, fm07-front, fm18-transform, so04-beastman, ar02-beastfolk] They count as one race among the six, but are themselves split into "races" or "species" such as [[#werewolf|werewolves]].[@so14-six, fm18-transform, so06-transform]
-- **Mixed race:** a child of two races is called a *Half* or a *half-breed*, and in the plural *halfs*. The text also speaks of "people of mixed race".[@fm08-children, so09-kam, so09-halfs, fm07-front]
+- **Mixed race:** a child of two races is called a *Half* or a *half-breed*, and in the plural *halfs*. The text also speaks of "people of mixed race".[@fm08-children, so09-kam, so09-halfs, fm07-front] Kam's three sons in Sword Oratoria 9 are Halfs of elf or animal-person stock, that is half-elves and half-beastmen.[@so09-kam]
 - **Fairy:** in DanMachi 4 and 5 *fairy* names the [[#spirit|spirits]], "Nymphs, spirits, elementals, jinn".[@fm04-fairies, fm05-elements] Later volumes also call [[#elf|elves]] fairies.[@so12-fairies, fc02-fairies]
 - **Koine:** "the common language of humans and demi-humans".[@fm04-koine] The [[#amazon|Amazons]] of [[telskyura|Telskyura]] also have their own Amazonian language.[@so06-language, so06-sewehga]
 
@@ -79,7 +79,7 @@ DanMachi 8 sets out the rule while [[finn-deimne|Finn]] explains why his heir mu
 
 Sword Oratoria 14 sets out how a god starting a Familia might see the six races. Most gods would pick a human first, "average perhaps, but humans were filled with possibility". A dwarf could get through most early challenges by brute strength, and elves are the finest casters but notoriously fussy. Animal people tend to be steadier and more reliable than humans, and Amazons, properly directed, can start off as strong as dwarves. Prums were "widely considered the weakest".[@so14-six]
 
-When Bell looks for a Familia, he hears that humans and prums are generally looked down on as potential adventurers. Fierce Amazons and keenly perceptive animal people are treated better, to say nothing of magically attuned elves and dwarves strong enough to fight monsters "even without divine blessings".[@fm15-barriers] Sword Oratoria 14 calls dwarves "the strongest of all demi-humans".[@so14-dwarves]
+When Bell looks for a Familia, he has heard that humans and prums compare poorly with the other races, and he supposes that fierce Amazons and keen-sensed animal people are favoured, to say nothing of elves gifted at magic and dwarves strong enough to hold their own against weak monsters without a Falna.[@fm15-barriers] Sword Oratoria 14 calls dwarves "the strongest of all demi-humans".[@so14-dwarves]
 
 ## Race index {#race-index}
 
@@ -125,9 +125,9 @@ When Bell looks for a Familia, he hears that humans and prums are generally look
 **Elves** ({{ja|妖精}}, written *fairy*)[@elf.fm18-ja] are known for beauty, long life and magic. They are praised as beautiful even among other races, and they are a long-lived race among the demi-humans.[@fm02-eina, fm02-longest] They are "magically attuned" and widely regarded as the ultimate magic casters, though notoriously fussy.[@fm15-barriers, so14-six] Long-lived as they are, elves have fewer children than humans or other demi-humans.[@so14-fruitful]
 
 - **Touch:** elves do not let anyone they don't trust touch their skin. Sword Oratoria 3 calls this an elven custom, observed differently by region and by individual.[@fm04-skin, so03-custom, fc01-lyu]
-- **Pride:** in the age of the gods, when the other races mixed freely, the elves alone shunned the other races out of pride and kept to their forests, like Lyu's home, Lumirua Forest.[@fm15-shunned, fm04-interact]
+- **Pride:** in the age of the gods, when the other races mixed freely, some elves, out of pride, disliked mingling with other races and shut themselves away deep in their forests, like Lyu's home, Lumirua Forest.[@fm15-shunned, fm04-interact]
 - **Dwarves:** elves and dwarves are "not on the best of terms" and rarely see eye to eye. Their mutual loathing is old and rooted in history, which is why [[riveria|Riveria]]'s apology to [[gareth|Gareth]] in Sword Oratoria 14 means so much.[@ar01-dwarves, fm08-eye, ss01-bad-blood, so14-loathing]
-- **One race:** whatever the terms *white* and *dark*, "elves were all the same race", and their children's skin colour was mixed.[@fc02-hedin]
+- **One race:** whatever the terms *white* and *dark*, "elves were all the same race", and a child's skin colour can follow either parent.[@fc02-hedin]
 - **Examples:** [[lyu-leon|Lyu Leon]], [[lefiya|Lefiya Viridis]] and [[filvis|Filvis Challia]].[@fm06-lyu, so01-lefiya, so02-filvis]
 
 #### High elf {#high-elf}
@@ -158,7 +158,7 @@ A **half-elf** has one human parent and one elf parent. [[eina-tulle|Eina]] is h
 
 ### Dwarf {#dwarf}
 
-**Dwarves** are short and robust: "As with most dwarves, Dormul was a stout, thick man", even though he is taller than most of his kin. [[mia-grand|Mia]], by contrast, is "tall for a dwarf".[@fm08-dormul, so01-shops, fc01-mia] They are known for strength. Sword Oratoria 14 calls them the strongest demi-humans, and DanMachi 15 says they can fight monsters even without a Falna.[@so14-dwarves, fm15-barriers] Dwarves favour axes and hammers.[@fm08-arms] Young dwarves digging in a mine sing that they are "the children of the earth", and Gareth's band are big drinkers.[@so14-earth] For their feud with elves, see [[#elf|Elf]].
+**Dwarves** are short and robust: "As with most dwarves, Dormul was a stout, thick man", even though he is taller than most of his kin. [[mia-grand|Mia]], by contrast, is "tall for a dwarf".[@fm08-dormul, so01-shops, fc01-mia] They are known for strength. Sword Oratoria 14 calls them the strongest demi-humans, and DanMachi 15 says they can hold their own against weak monsters even without a Falna.[@so14-dwarves, fm15-barriers] Dwarves favour axes and hammers.[@fm08-arms] Young dwarves digging in a mine sing that they are "the children of the earth", and Gareth's band are big drinkers.[@so14-earth] For their feud with elves, see [[#elf|Elf]].
 
 - **Examples:** [[gareth|Gareth Landrock]], [[mia-grand|Mia Grand]], Dormul of [[modi-and-magni-familias|Magni Familia]], and [[leon-verdenberg|Leon Verdenberg]], a dwarf born to half-dwarf parents.[@so01-gareth, fc01-mia, fm08-dormul, fm20-traits]
 
@@ -170,7 +170,7 @@ A **half-dwarf** has one human parent and one dwarf parent: [[tsubaki|Tsubaki Co
 
 ### Prum {#prum}
 
-**Prums** ({{ja|小人族}}, written *small folk*)[@prum.fm08-ja] are "the race shorter than all the others" and are considered the weakest of all the races. They lack the physical capabilities of humans, the magic of elves, the strength of dwarves, the fighting skill of Amazons and the senses of animal people.[@fm08-weakest, so14-six] Their one strength is their eyesight, the best of all demi-humans.[@fc02-vision, fm02-eyesight] It also serves them in poor light, though even prums would struggle to see a pitch-black blade in the Dungeon's darkness; the Gulliver brothers could live in their dim cliff workshop only because of their prum vision.[@fm02-dark, fc02-workshop] Riveria says prums are known for their perception even among demi-humans, and DanMachi 6 says they are known for their big eyes.[@so07-perception, fm06-eyes]
+**Prums** ({{ja|小人族}}, written *small folk*)[@prum.fm08-ja] are "the race shorter than all the others" and are considered the weakest of all the races. They lack the physical capabilities of humans, the magic of elves, the strength of dwarves, the fighting skill of Amazons and the senses of animal people.[@fm08-weakest, so14-six] Their one strength is their eyesight, which excels among the demi-humans.[@fc02-vision, fm02-eyesight] It also serves them in poor light, though even prums would struggle to see a pitch-black blade in the Dungeon's darkness; the Gulliver brothers could live in their dim cliff workshop only because of their prum vision.[@fm02-dark, fc02-workshop] Riveria says prums excel in eyesight among the demi-humans; DanMachi 6 describes Luan as a prum with characteristically big eyes.[@so07-perception, fm06-eyes]
 
 - **Phiana:** Phiana, "a fictional goddess" of prum faith, is the strong, proud prum knight order of the Ancient Times personified as a god; Finn calls her the great ancestor. When she was not among the gods who descended, prum faith collapsed, a blow the race had not recovered from. Finn became an adventurer to give prums a new hope.[@fm08-phiana] Minor Myths and Legends 2 prints her name *Fianna*: "Fianna was a fictional goddess whom the prum worshipped", and Finn prays to her before important battles.[@ss02-fianna] Sword Oratoria 10 calls her "the hero of his race", who in the Ancient Times "killed multitudes of monsters and rescued countless people"; in Sword Oratoria 14 Finn wants to travel north to Maelstra, whose famed opera is staging "a performance about the Phiana knights".[@so10-phiana, so14-maelstra]
 - **Bravery:** Finn holds that courage is the prums' "forgotten weapon".[@fm08-weakest]
@@ -194,14 +194,14 @@ A **half-prum** has one prum parent and one human parent. Van of [[freya-familia
 
 ## Animal people {#animal-people}
 
-**Animal people** ({{ja|獣人}}, *beast people*)[@animal-people.fm01-ja] are demi-humans with animal ears and tails.[@fm01-animal] They are known above all for their senses: they have a better sense of smell than humans, and the senses of some kinds are sharper even than those of adventurers strengthened by a Status (the Yen Press text says "particularly sharp senses with the assistance of their Status").[@so01-smell, fm05-senses, fm05-ja-senses, so10-noses] Their noses can track enemies, so in Astrea Record 1 the Evils use an item to hide their scent "so even animal people noses can't track them". In Knossos the animal people formed the main mapping squad.[@so10-noses, ar01-scent, so11-mapping]
+**Animal people** ({{ja|獣人}}, *beast people*)[@animal-people.fm01-ja] are demi-humans with animal ears and tails.[@fm01-animal] They are known above all for their senses: they have a better sense of smell than humans, and the senses of some kinds are sharper even than those of adventurers strengthened by a Status.[@so01-smell, fm05-senses, fm05-ja-senses, so10-noses] Their noses can track enemies, so in Astrea Record 1 the Evils use an item to hide their scent "so even animal people noses can't track them". In Knossos the animal people formed the main mapping squad.[@so10-noses, ar01-scent, so11-mapping]
 
 - **Transformation:** "confirmed only among a limited number of races of beast people". It unleashes their bestial strength, "trading rationality for strength".[@fm18-transform, so06-transform] Once they receive a Falna, the transformation becomes tied to their Skills. [[ottar|Ottar]] can transform whenever he chooses (see [[skills#vana-arganture|Vana Arganture]]).[@fm18-transform]
 - **Tribes:** [[bete-loga|Bete]] was the son of the chief of the Beastmen of the Plains, a hunting tribe.[@so08-plains]
 
 ### Cat person {#cat-person}
 
-**Cat people** ({{ja|猫人}})[@cat-person.fm08-ja] have cat ears and long, thin tails.[@fc01-ears, fm07-allen, so04-aki] They are "generally known for their gentle appearance and friendliness", a reputation that Allen's rough manner betrays.[@fm07-allen] The English editions print *cat person* or *cat people*, *catperson*, *catman* and *catgirl*.[@fm07-cats, fc01-catperson, fm07-allen, so04-aki]
+**Cat people** ({{ja|猫人}})[@cat-person.fm08-ja] have cat ears and long, thin tails.[@fc01-ears, fm07-allen, so04-aki] The English editions print *cat person* or *cat people*, *catperson*, *catman* and *catgirl*.[@fm07-cats, fc01-catperson, fm07-allen, so04-aki]
 
 - **Examples:** [[anya-fromel|Anya Fromel]] and [[chloe|Chloe Lolo]] of the Benevolent Mistress, [[allen-fromel|Allen Fromel]] and [[anakity-autumn|Anakity Autumn]].[@fm07-cats, fm07-allen, so04-aki]
 
@@ -225,7 +225,7 @@ The **boaz** ({{ja|猪人}}, written *boar person*)[@boaz.fm18-ja] have boar-lik
 
 ### Werewolf {#werewolf}
 
-**Werewolves** ({{ja|狼人}}, written *wolf person*)[@werewolf.fm11-ja] are wolf animal people, with wolf ears.[@fm18-transform, ss02-ears] They are the classic example of transformation: under the full moon they gain a strength behind the saying "no race is a match for a werewolf during the full moon".[@fm18-transform, so08-moon] For the same reason they were long thought the race least suited to the Dungeon, where there is no moon.[@so06-transform] DanMachi 3 adds that werewolf beast people have a lone-wolf streak and can be inflexible (the Yen Press text says they "were not known for their acceptance of others").[@fm03-werewolf, fm03-ja-werewolf]
+**Werewolves** ({{ja|狼人}}, written *wolf person*)[@werewolf.fm11-ja] are wolf animal people, with wolf ears.[@fm18-transform, ss02-ears] They are the classic example of transformation: bathed in moonlight, they transform and gain a strength behind the saying that no race can match a werewolf under the moon.[@fm18-transform, so08-moon] For the same reason they were long thought the race least suited to the Dungeon, where there is no moon.[@so06-transform] DanMachi 3 adds that werewolf beast people have a lone-wolf streak and can be inflexible.[@fm03-werewolf, fm03-ja-werewolf]
 
 - **Example:** [[bete-loga|Bete Loga]], who transforms in Sword Oratoria 6 and 8.[@so01-bete, so06-transform, so08-howl]
 
@@ -255,13 +255,13 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 
 {{nocite}} See [[falna|Falna]] for the gods' blessing and the deity pages for individual gods.
 
-**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a kind of being different from humans, demi-humans and monsters, and will not age as mortals do (Yen Press prints "another plane, Deusdia"; in the Japanese *Deusdia* names the gods as *transcendent beings*).[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for making the races "refuse to accept anyone different".[@fm15-created]
+**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a kind of being different from humans, demi-humans and monsters, and will not age as mortals do (Yen Press prints "another plane, Deusdia"; in the Japanese *Deusdia* names the gods as *transcendent beings*).[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for creating the elves, a superficial race unable to accept others.[@fm15-created]
 
 ### Spirits {#spirit}
 
 **Spirits**, also called fairies, have many names: "Nymphs, spirits, elementals, jinn". They are very few compared with the other races. Stories call them "Children of the gods" and say they are the closest of all to the gods.[@fm04-fairies] They use magic like the elves, and in the time before the gods having a fairy on one's side was the equivalent of a Falna today.[@fm04-fairies] In stories of heroes, many said to be based on truth, fairies guide the hero and lend him strength. For the spirits of old and the one corrupted in the Dungeon, see [[corrupted-spirit|Corrupted spirit]].[@fm04-fairies, fc03-spirits]
 
-- **Kinds:** "Just like animal people", fairies are "classified by their element and place of origin": salamanders, sylphs, undines, gnomes and others.[@fm05-elements] The demi-spirits' chants call on Tonitrus, "Incarnate of thunder", and on Lux, Shade and Undine.[@so04-chants, so12-chants]
+- **Kinds:** "Just like animal people", fairies are "classified by their element and place of origin": salamanders, sylphs, undines, gnomes and others.[@fm05-elements] In their chants the demi-spirits take the elemental spirits' names as their own: Tonitrus, "Incarnate of thunder", and Lux, Shade and Undine.[@so04-chants, so12-chants]
 - **Rank:** there are many lesser spirits such as gnomes in Orario; intermediate spirits have dwindled, and great spirits are now the stuff of legend.[@fc03-spirits]
 - **Gnomes:** spirits of the earth, who love jewels and rare metals and live in mines. Gnomes get on well in human society, and some run safe points for valuables.[@fm04-fairies, so14-gnomes, so12-gnomes]
 - **Spirit cloths:** [[equipment#salamander-wool|salamander wool]] resists fire and [[equipment#undine-cloth|undine cloth]] resists water; Gareth carries gnome toga and Tonitrus mohair flags.[@fm05-elements, so12-cloth]
@@ -269,7 +269,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 
 ### Creatures {#creature}
 
-**Creatures** are human-monster hybrids. The corrupted spirit revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him, and [[levis|Levis]] is "also such a creature". By taking in magic stones they can become enhanced species (see [[magic-stone|Magic stone]]).[@so04-creature, so05-creatures]
+**Creatures** ({{ja|怪人}}, written *monster person*)[@creature.so03-ja] are human-monster hybrids. The corrupted spirit revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him, and [[levis|Levis]] is "also such a creature". By taking in magic stones they can become enhanced species (see [[magic-stone|Magic stone]]).[@so04-creature, so05-creatures]
 
 ### Xenos {#xenos}
 
@@ -287,8 +287,6 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - **Gods' children:** DanMachi 8 says spirits cannot have offspring; a statement that gods cannot have children was not located in the checked text.[@fm08-children]
 > - **Strongest animal people:** a claim that boaz and war tigers are the physically strongest animal people was not located in the checked text.[@so14-six]
-> - **Kam's sons:** Sword Oratoria 9 calls Kam's three sons "crosses with elves and animal people", while DanMachi 8 says demi-humans can have children only within their own race, humans excepted. Sword Oratoria 9 does not name their parents.[@so09-kam, fm08-children]
-> - **Elves and demi-humans:** DanMachi 7 counts elves among the five demi-human races, but DanMachi 4 once lists "humans and demi-humans and elves".[@fm07-amazons, fm07-assault, fm04-interact]
 
 [@fm01-orario]: FM01 | Chapter 1: World, Reality, and Desire | "there are many kinds of demi-humans living in this flourishing metropolis alongside us".
 [@fm01-goddess]: FM01 | Chapter 1: World, Reality, and Desire | Hestia "came from another plane, Deusdia. She won’t age or change much".
@@ -308,7 +306,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fm03-ja-werewolf]: FM03 | Chapter 5: A Hero’s Desire | Japanese original (file c43D, paragraph 47): elves clash easily with other races over differences of opinion; werewolf beast people also have a lone-wolf streak, so they can be inflexible. Yen Press prints that they were not known for their acceptance of others, particularly Bete.
 [@fm04-koine]: FM04 | Chapter 1: Denatus | "Koine, the common language of humans and demi-humans".
 [@fm04-skin]: FM04 | Chapter 2: Changing Environment, New Relationships | "Elves do not allow someone they don’t trust to touch their skin."
-[@fm04-interact]: FM04 | Chapter 3: The Smith’s Situation | "humans and demi-humans and elves didn’t interact very much before the gods descended"; elves "shut themselves off" in a forest.
+[@fm04-interact]: FM04 | Chapter 3: The Smith’s Situation | Elves who shut themselves away in a forest. The Japanese edition (file c2R2, paragraphs 540–541) speaks of contact between humans and demi-humans, and of only some elves, proud ones, who keep to villages deep in the forests.
 [@fm04-fairies]: FM04 | Chapter 3: The Smith’s Situation | "Nymphs, spirits, elementals, jinn"; "Children of the gods"; "fairies are the ones closest to the gods"; magic users like elves; a fairy was "the equivalent of a Falna today"; gnomes; the Crozzo Ancestor's fairy blood.
 [@fm04-nahza]: FM04 | Quest X Quest | "a chienthrope, a dog person named Nahza".
 [@fm05-elements]: FM05 | | "fairies—salamanders, sylphs, undines, gnomes"; "classified by their element and place of origin"; salamander wool against fire.
@@ -317,7 +315,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fm05-senses]: FM05 | Chapter 5: The Outlaws’ Party | "Certain types of animal people were known to have particularly sharp senses".
 [@fm05-ja-senses]: FM05 | Chapter 5: The Outlaws’ Party | Japanese original (file part0025, paragraph 367): the senses of some animal people are sharper than the five senses of adventurers strengthened by receiving a Status; the Status clause belongs to the adventurers.
 [@fm06-lyu]: FM06 | Chapter 4: Those Who Gather | "The elf Lyu sighed".
-[@fm06-eyes]: FM06 | | "Prums are known for their big eyes".
+[@fm06-eyes]: FM06 | | Luan's big eyes. The Japanese edition (file c7Z, paragraph 198) calls Luan a prum adventurer with characteristically big eyes, not prums in general.
 [@fm07-front]: FM07 | Chapter 1: Smooth Sailing? | "elves, dwarves, beastpeople, prums, and even a few people of mixed race".
 [@fm07-amazons]: FM07 | Chapter 2: Run, Cranell | Amazons: hand-to-hand fighters in clans; "Out of all five races of demi-human, they look the most like us humans"; only female children; "Half-Amazons don’t exist."; kidnapped partners.
 [@fm07-aisha]: FM07 | Chapter 2: Run, Cranell | Aisha "and the other Amazons"; "the Amazon named Phryne".
@@ -325,7 +323,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fm07-cats]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "The cat person Ahnya"; "Another cat person, Chloe".
 [@fm07-haruhime]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "a renart called Haruhime".
 [@fm07-rare]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "Renarts were extremely rare and would attract many customers."
-[@fm07-allen]: FM07 | Chapter 5: Killing Stone | Allen, "a catman"; a long, thin tail; "Cat people were generally known for their gentle appearance and friendliness."
+[@fm07-allen]: FM07 | Chapter 5: Killing Stone | Allen, "a catman"; a thin tail. The Japanese edition (file c5MJ, paragraphs 202 and 213) gives him a thin tail and says only that his abuse ill suits his handsome looks.
 [@fm07-killing]: FM07 | Chapter 5: Killing Stone | The killing stone seals a renart's magic; it lets a third party use renart sorcery (the Japanese edition, file c6NY, paragraphs 15 and 20).
 [@fm07-assault]: FM07 | Chapter 6: Yearning of a Hero | "Elves, dwarves, animal people, prums, Amazons, all types of demi-human and human warriors".
 [@fm08-phiana]: FM08 | Chapter 2: The Prum’s Proposal | Phiana, "a fictional goddess"; prums' faith collapsed in the Divine Era; Finn's cause. The Japanese edition (file part0018, paragraphs 438 to 441 and 770) calls her the heroes of the Ancient Times, the prum knight order, personified as a god, and has Finn call her the great ancestor.
@@ -340,12 +338,12 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fm10-amazoness]: FM10 | Chapter 9: Dreams of Beasts | Aisha to Ilta: "Don’t get hung up on small details, Amazoness."
 [@fm14-lyra]: FM14 | | "Lyra the prum was quite the cynic."
 [@fm15-village]: FM15 | Chapter 1: A Day of Departure, a Day of Beginning | Bell's village "had only humans and the occasional animal person".
-[@fm15-barriers]: FM15 | Chapter 1: A Day of Departure, a Day of Beginning | "humans and prum are generally looked down upon as potential adventurers"; dwarves "strong enough to take on the monsters in the lower levels even without divine blessings".
-[@fm15-shunned]: FM15 | Chapter 6: Meetings and Oaths | "the elves alone shunned the other races out of pride"; Lumirua Forest; "a common elven disposition to shun the touch of anyone unworthy".
-[@fm15-created]: FM15 | Chapter 6: Meetings and Oaths | Lyu: "races that refuse to accept anyone different"; the gods "created the humans and demi-humans"; "The mortals believed this to be true".
+[@fm15-barriers]: FM15 | Chapter 1: A Day of Departure, a Day of Beginning | Bell on the races as adventurers. The Japanese edition (file cHD, paragraphs 199–200) says that humans and prums compare poorly with the other races, that dwarves can hold their own against low-ranking monsters even without a Falna, and that Amazons and animal people are perhaps favoured.
+[@fm15-shunned]: FM15 | Chapter 6: Meetings and Oaths | Lumirua Forest; "a common elven disposition to shun the touch of anyone unworthy". The Japanese edition (file c521, paragraphs 7–8) says that some elves, out of pride, shut themselves away deep in the forests, Lumirua Forest among them.
+[@fm15-created]: FM15 | Chapter 6: Meetings and Oaths | The gods "created the humans and demi-humans"; "The mortals believed this to be true". The Japanese edition (file c521, paragraph 100) has Lyu blame the gods for creating the elves, a superficial race unable to accept others.
 [@fm16-standard]: FM16 | Chapter 1: A Stormy Love Letter | a white elf, "considered in some ways to be the standard of elfdom".
 [@fm16-van]: FM16 | Chapter 4: Full Princess Panic! | Van: "a half prum, the child of a prum and a human"; 150 celches; mixed-race children discriminated against "much more before the era of gods".
-[@fm18-transform]: FM18 | Chapter 9: Flower Language for You | "confirmed only among a limited number of races of beast people"; "Wolf beast people would transform when exposed to the full moon"; tied to Skills after Falna; Ottar transforms at will.
+[@fm18-transform]: FM18 | Chapter 9: Flower Language for You | "confirmed only among a limited number of races of beast people"; tied to Skills after Falna; Ottar transforms at will. The Japanese edition (file part0027, paragraphs 943 and 948) says wolf beast people transform by bathing in moonlight, and that no race can match a werewolf under the moon.
 [@fm19-nina]: FM19 | Chapter 2: School Heaven and Hell | Nina: "Ears longer than a human’s but not so pointed as an elf’s. A half-elf".
 [@fm19-disguise]: FM19 | Chapter 2: School Heaven and Hell | "Rabbit ears"; "a short, fluffy tail"; "Bell Cranell has transformed into a hume bunny".
 [@fm19-friends]: FM19 | Chapter 3: School Life in Another World | "All animal people, a chienthrope, a raccoon, and a cow."; "The chienthrope called Betty and the raccoon girl".
@@ -370,7 +368,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@so04-aki]: SO04 | First Chapter: And the Boy… | "The cat girl in black—Aki—flicked her slender obsidian tail".
 [@so04-boaz]: SO04 | First Chapter: And the Boy… | "A pair of boar-like ears, evidence of his boaz heritage".
 [@so04-beastman]: SO04 | Last Chapter: To Adventure | "human, elf, and beastman".
-[@so04-chants]: SO04 | Last Chapter: To Adventure | Demi-spirit chants: "Your envoy beseeches thee, Tonitrus! Incarnate of thunder!"; "Your envoy beseeches thee, Lux!"
+[@so04-chants]: SO04 | Last Chapter: To Adventure | Demi-spirit chants: "Your envoy beseeches thee, Tonitrus! Incarnate of thunder!"; "Your envoy beseeches thee, Lux!" The Japanese edition (file c7V2, paragraph 22, and file c89A, paragraph 27) has the demi-spirit declare itself the deputy and take the spirit's name (my name is Tonitrus; my name is Lux).
 [@so05-creatures]: SO05 | | "the half-human, half-monster creatures".
 [@so05-cruz]: SO05 | Chapter 3: ⅓ Pure Passion | "It was Cruz Bussell, a chienthrope".
 [@so05-children]: SO05 | Interlude: Flip Side of the Compromise | Lefiya: "Spirits aren’t supposed to be able to have children…right?"
@@ -381,7 +379,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@so06-language]: SO06 | Chapter 5: A Duo of Sun and Moon | "Compared to her crude Koine, Argana’s Amazonian language was smooth and fluent".
 [@so06-transform]: SO06 | | Werewolves "the least-suited race for Dungeon crawling"; "confirmed only in a limited number of animal-person species"; "trading rationality for strength"; Bete transforms.
 [@so07-divine]: SO07 | | "close to one thousand years prior—almost immediately after the gods had descended"; "the Divine Era".
-[@so07-perception]: SO07 | Chapter 2: Dungeon Trap | Riveria: "prums are already known for their sense of perception even among us demi-humans".
+[@so07-perception]: SO07 | Chapter 2: Dungeon Trap | Riveria on prums' eyesight (the Japanese edition, file c13E, paragraph 67).
 [@so08-strong]: SO08 | Chapter 1: Lonely Wolf | "For you see, Amazons were attracted to strong men."
 [@so08-plains]: SO08 | Chapter 1: Lonely Wolf | "the Beastmen of the Plains, and Bete was the son of their chief".
 [@so08-narfi]: SO08 | Chapter 5: Battered Wolf | "the animal person Cruz and the human Narfi".
@@ -391,7 +389,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fm06-nahza]: FM06 | Chapter 5: Our War Game | "The Chienthrope woman—Nahza—smiled back at him, wagging her bushy tail".
 [@fc01-ears]: FC01 | Crush the Grand Casino! | "Ahnya, whose cat ears were quivering".
 [@ar01-scent]: AR01 | | "some kind of item to cloak their scent"; "even animal people noses can’t track them".
-[@so09-kam]: SO09 | | Kam's three sons: "all half-breeds, crosses with elves and animal people".
+[@so09-kam]: SO09 | | Kam's three sons: "all half-breeds". The Japanese edition (file c2VX, paragraph 217) calls them Halfs of elf or beastman stock.
 [@so09-halfs]: SO09 | Chapter 4: Those Who Remain, Those Left Behind | Many races of demi-humans; "the unusually high percentage of halfs was noticeable".
 [@so10-noses]: SO10 | Chapter 1: Omen | "the noses of animal people, whose senses had been sharpened by leveling up repeatedly".
 [@so11-mapping]: SO11 | Chapter 4: Avengers ~Knossos War~ | A squad "composed mostly of animal people"; "the main mapping squad"; "The hume bunny Rakuta".
@@ -416,11 +414,11 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@fc01-catperson]: FC01 | Crush the Grand Casino! | "probably a catperson’s".
 [@fc01-mia]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Mia: "She was tall for a dwarf, taller even than Lyu."
 [@fc01-lyu]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "her elven tendency to prevent anyone she hadn’t accepted to touch her skin".
-[@fc02-vision]: FC02 | Ali and the 8 Followers | "the eldest Gulliver brother"; "Prums had the best vision of all demi-humans".
+[@fc02-vision]: FC02 | Ali and the 8 Followers | "the eldest Gulliver brother". The Japanese edition (file c23C, paragraph 812) says prums excel in eyesight among the demi-humans.
 [@fc02-workshop]: FC02 | Their Various Pasts | The Gullivers' dim workshop: "Without their naturally good vision as prums".
 [@fc02-alv]: FC02 | Their Various Pasts | "In the age of gods, dark elves were rare."; the Alv Mountains; white elves "the lineage considered normal elves in current times"; "the dark high elf, whose lineage was said to have continued"; "magic and magical ability and skin color".
 [@fc02-hegni]: FC02 | Their Various Pasts | Hegni, "a dark elf"; warrior king; Heodenings, "two states, one of dark elves and one of white elves".
-[@fc02-hedin]: FC02 | Their Various Pasts | "Hedin was hailed as the brilliant king of the white elves."; Hildr; "elves were all the same race"; "Their children’s skin color was mixed."
+[@fc02-hedin]: FC02 | Their Various Pasts | "Hedin was hailed as the brilliant king of the white elves."; Hildr; "elves were all the same race". The Japanese edition (file c8RE, paragraph 48) says a child's skin colour can follow either parent.
 [@fc02-fairies]: FC02 | Their Various Pasts | Hedin, an embodiment of "the fairies’ tendency to look down on everything other than themselves".
 [@fc03-spirits]: FC03 | The Locus of Stars | "many lesser spirits such as gnomes in Orario"; intermediate spirits dwindled; great spirits legend; "spirits in fairy tales granting strength to heroes".
 [@ar01-dwarves]: AR01 | | "It was no secret that elves and dwarves were not on the best of terms."
@@ -444,3 +442,4 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 [@elf.fm18-ja]: FM18 | | The Japanese edition writes the name with the kanji for fairy, with the reading Elf.
 [@high-elf.so14-ja]: SO14 | | The Japanese edition writes the name with the kanji for royalty, with the reading High Elf.
 [@fm10-amazoness-ja]: FM10 | | The Japanese edition writes Aisha's word over kanji meaning my own kind, with the race's usual reading, Amazoness.
+[@creature.so03-ja]: SO03 | | The Japanese edition writes the name with kanji meaning monster person, read Creatures.

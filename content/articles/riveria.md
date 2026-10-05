@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "High elf of royal blood and Loki Familia's leading mage, titled Nine Hell; Aiz Wallenstein's teacher and parent figure. Level 7 from Sword Oratoria 14.",
-  "aliases": ["Nine Hell", "Riveria", "Reveria", "Rishena"],
+  "aliases": ["Nine Hell", "Riveria", "Reveria"],
   "spoilers": "DanMachi Vols. 2–10, Sword Oratoria Vols. 1–14 and Astrea Record Vols. 1 and 3",
   "related": ["loki-familia", "finn-deimne", "gareth", "aiz-wallenstein", "lefiya", "eina-tulle", "magic"],
   "infobox": {
@@ -30,13 +30,13 @@
 
 ## Early life
 
-Lefiya says that all the elves' nobles, Riveria included, are descended from Rishena, the younger sister of the eternal saint Celdia of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
+Lefiya says that all the elves' nobles, Riveria included, are descended from Rishena, the younger sister of the eternal saint Seldia {{small|printed *Celdia* in Sword Oratoria 5}} of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
 
 ## Skills {#skill}
 
 Her Status sheet in Sword Oratoria 6 lists two Skills. **[[skills#fairy-anthem|Fairy Anthem]]** increases the effect and range of her magic, and greatly increases its power the longer the chant.[@skills.so06-sheet]
 
-Riveria's rare Skill **[[skills#alf-regina|Alf Regina]]**, which no one else has developed, spreads a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening her own abilities and their magic. Loki wanted to call it "Fairy Force"; Riveria refused.[@skills.so10-alf] In Sword Oratoria 10 Finn plans the surprise raid on [[knossos|Knossos]] around it.[@skills.so10-alf]
+Riveria's rare Skill **[[skills#alf-regina|Alf Regina]]**, which no one else has developed, spreads a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening her own Magic and theirs. Loki wanted to call the elf squad built around it "Fairy Force"; Riveria refused the name, though the squad's elves use it.[@skills.so10-alf] In Sword Oratoria 10 Finn plans the surprise raid on [[knossos|Knossos]] around it.[@skills.so10-alf]
 
 ## Magic
 
@@ -124,7 +124,7 @@ The usual printed form is *Rea Laevateinn*. In Sword Oratoria 7 Riveria herself 
 
 | Print | What is printed |
 |---|---|
-| Sword Oratoria 1 (Riveria) | Only the end of "the long incantation": two lines and the ending. One line begins "Thou become the consuming inferno."[@rea-laevateinn.so01-wall] |
+| Sword Oratoria 1 (Riveria) | Six pieces between the events of the battle: the same lines as Sword Oratoria 4, in other English words. It opens "Soon, the flames shall be loosed", and one line begins "Thou become the consuming inferno."[@rea-laevateinn.so01-wall] |
 | Sword Oratoria 4 (Riveria, concatenated) | Five pieces after the linking words from [[#wynn-fimbulvetr|Wynn Fimbulvetr]]. The line that matches Sword Oratoria 1's is worded differently here and ends "Become hellfire."[@rea-laevateinn.so04-concat] |
 | Sword Oratoria 13 (Lefiya, through [[magic#elf-ring|Elf Ring]]) | Two pieces: an opening passage that also appears in Sword Oratoria 4 ("A blaze shall soon descend") and the ending.[@rea-laevateinn.so13-detect] |
 
@@ -149,7 +149,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 ### Via Shilheim {#via-shilheim}
 
-**Via Shilheim** is a protective spell of Riveria Ljos Alf. A jade magic circle forms under her feet and becomes a green dome around everyone inside it, a barrier described as cancelling physical and magical attacks.[@via-shilheim.so04-cast] Sword Oratoria 4 calls it "the ultimate protection spell", but the same scene shows it being broken.[@via-shilheim.so04-cast, via-shilheim.so04-shattered]
+**Via Shilheim** is a protective spell of Riveria Ljos Alf. A jade magic circle forms under her feet and becomes a green dome around everyone inside it, a barrier described as cancelling physical and magical attacks.[@via-shilheim.so04-cast] Sword Oratoria 4 calls it the hardest defensive spell Riveria has, and in the same scene a demi-spirit's Fire Storm breaks it.[@via-shilheim.so04-cast, via-shilheim.so04-shattered]
 
 - **User:** Riveria Ljos Alf[@via-shilheim.so04-cast]
 - **Type:** Barrier against physical and magical attacks[@via-shilheim.so04-cast]
@@ -288,7 +288,7 @@ The third level of her healing magic, and the name under which the sheet lists t
 
 ## Aiz's teacher
 
-Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as her main teacher and a parent. On Floor 12 she gave Aiz the trigger for her wind magic, told her she loved her, and made peace with her.[@so09-riveria]
+Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as her main teacher and a parent. On Floor 12 she gave Aiz the trigger for her wind magic, told her she wanted to love her, and made peace with her.[@so09-riveria]
 
 ## History
 
@@ -316,9 +316,9 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@so01-riveria]: SO01 | | High elf of royal blood; Rea Laevateinn and Wynn Fimbulvetr.
 [@so03-titles]: SO03 | Chapter 1: The Black Robe’s Invitation | "Nine Hell" Riveria Ljos Alf.
 [@so04-nine]: SO04 | | Nine spells and her title.
-[@so09-riveria]: SO09 | | Raising Aiz; Floor 12.
+[@so09-riveria]: SO09 | | Raising Aiz; Floor 12. The Japanese edition (file c5P3, paragraph 81) has Riveria tell Aiz that she wants to love her.
 [@so10-riveria]: SO10 | | The raid into Knossos.
-[@skills.so10-alf]: SO10 | Chapter 5: Brave Soul! | Alf Regina: effect, "Fairy Force", Finn's plan.
+[@skills.so10-alf]: SO10 | Chapter 5: Brave Soul! | Alf Regina: effect; "Fairy Force", Loki's name for the elf squad; Finn's plan.
 [@skills.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Fairy Anthem, Alf Regina.
 [@so11-riveria]: SO11 | | The Floor 12 diversion.
 [@so13-riveria]: SO13 | | Lefiya's rescue.
@@ -340,7 +340,7 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@rea-laevateinn.so13-detect]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's short print; 80-meder circle; dispelled after checking.
 [@rea-laevateinn.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | A single pillar of fire at Level 1.
 [@rea-laevateinn.so14-mine]: SO14 | Chapter 3: The Dwarf’s Embarking | Second tier of her offensive magic; distinguishes targets across the mine.
-[@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; "the ultimate protection spell"; the dome around thirteen.
+[@via-shilheim.so04-cast]: SO04 | Last Chapter: To Adventure | Chant in two pieces; the hardest defensive spell Riveria has (the Japanese edition, file c5SA); the dome around thirteen.
 [@via-shilheim.so04-shattered]: SO04 | Last Chapter: To Adventure | Fire Storm shatters the barrier; Gareth shields the party.
 [@via-shilheim.so04-residue]: SO04 | Last Chapter: To Adventure | The spirit absorbs the barrier's residue.
 [@via-shilheim.so10-city]: SO10 | Chapter 2: Someone Named Fool | "Riveria, the barrier!"; townspeople shielded; others hit.

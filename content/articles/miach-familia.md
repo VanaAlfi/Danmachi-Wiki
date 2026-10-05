@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Familia"},
       {"label": "Japanese", "value": "{{ja|ミアハ・ファミリア}}", "refs": ["fm04-miach-familia-ja"]},
-      {"label": "Patron god", "value": "[[miach|Miach]]", "refs": ["fm01-miach"]},
+      {"label": "Deity", "value": "[[miach|Miach]]", "refs": ["fm01-miach"]},
       {"label": "Business", "value": "Brewing and selling potions and other healing items", "refs": ["fm01-miach", "ss01-home"]},
       {"label": "Home", "value": "Its shop, which doubles as the Familia's home", "refs": ["fm02-shop"]},
       {"label": "Captain", "value": "Nahza Ersuisu", "refs": ["fm15-level", "fm18-nahza"]},
@@ -31,7 +31,7 @@
 
 {{nocite}} The god has his own page: [[miach|Miach]].
 
-Miach is a handsome god with long marine-blue hair tied at the neck, who wears a worn ash-gray robe, a sign of his Familia's finances.[@fm08-join] He is [[bell-cranell|Bell]]'s first acquaintance among the gods other than Hestia; both of their Familias are "bottom-of-the-barrel".[@fm01-miach] He is known as a soft touch who gives away his Familia's potions, and before descending he had never met Hestia, but as a fellow member of the impoverished class he and his Familia help her many times.[@fm15-soft] In Minor Myths and Legends 1 he unknowingly charms a customer by fixing a blue flower in her hair, and his follower Nahza tells him that for a god he can be "really dense".[@ss01-charm]
+Miach is a handsome god with long marine-blue hair tied at the neck, who wears a worn ash-gray robe, a sign of his Familia's finances.[@fm08-join] He is [[bell-cranell|Bell]]'s first acquaintance among the gods other than Hestia; both of their Familias are "bottom-of-the-barrel".[@fm01-miach] He is a kind-hearted god who gives away his Familia's potions, and before descending he had never met Hestia, but as a fellow member of the impoverished class he and his Familia help her many times.[@fm15-soft] In Minor Myths and Legends 1 he unknowingly charms a customer by fixing a blue flower in her hair, and his follower Nahza tells him that for a god he can be "really dense".[@ss01-charm]
 
 ## The loan and the airgetlám
 
@@ -39,7 +39,7 @@ Miach Familia was once in the middle of the ranks, strong enough to compete with
 
 In the side story "Quest X Quest" of DanMachi 4, [[lilliluka-erde|Lilly]] exposes one of Nahza's potions as watered down, a common scam.[@fm04-scam] Nahza then creates a new item from monster eggs and Blue Papillon Wings, the first **[[potions#dual-potion|double potion]]**, which restores both physical strength and mental energy. Miach offers twenty of them to the god [[dian-cecht|Dian Cecht]], whose follower [[amid|Amid]] vouches for the potion, so that their sale will cover that month's payment on the loan.[@fm04-double]
 
-The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Familia War of DanMachi 18, the narration says the massive loans taken out for it were "far from being paid back".[@fm18-loan] In DanMachi 19 she and Miach expect their share of the War Game reward to pay for a new airgetlám, but not to pay off the loans for the old one.[@fm19-arm]
+The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Familia War of DanMachi 18, the narration says the massive loans taken out for it were "far from being paid back".[@fm18-loan] In DanMachi 19 she and Miach expect their share of the [[war-game|War Game]] reward to pay for a new airgetlám, but not to pay off the loans for the old one.[@fm19-arm]
 
 ## Members
 
@@ -91,7 +91,7 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@fm08-choice]: FM08 | Chapter 2: The Prum’s Proposal | They chose the debt-ridden Familia of their own accord.
 [@fm12-join]: FM12 | Chapter 2: Adventure Intermission | Miach Familia members Daphne and Cassandra join the expedition.
 [@fm15-rivals]: FM15 | Prologue: Adventurers’ Rest | "The sleepy-eyed chienthrope Nahza"; "Nazha"; business rivals of Dian Cecht Familia; friendly with Hestia Familia.
-[@fm15-soft]: FM15 | | Miach "a soft touch"; he and his Familia helped Hestia many times.
+[@fm15-soft]: FM15 | | Miach's free potions; he and his Familia helped Hestia many times. The Japanese edition (file c19F, paragraph 259) calls him the kind-hearted god of a tiny Familia.
 [@fm15-compounding]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Compounding: "the ability that Miss Nahza has".
 [@fm15-level]: FM15 | Interlude: Elven Unrest | Two Level 3s; the tax; Daphne calls Nahza "Captain".
 [@fm18-potions]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Mass-producing potions and elixirs. The Japanese edition (file part0017, paragraph 135) says they make (refine) them.

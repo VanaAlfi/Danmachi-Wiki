@@ -20,14 +20,14 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so01-lefiya"]},
       {"label": "Level", "value": "3; 4 from Sword Oratoria 12", "refs": ["so01-lefiya", "so12-level4"]},
-      {"label": "Title", "value": "Thousand Elf", "refs": ["so01-lefiya"]},
+      {"label": "Title", "value": "Thousand Elf ({{ja|千の妖精}}, written *thousand fairies*)", "refs": ["so01-lefiya", "so01-thousand-ja"]},
       {"label": "Magic", "value": "[[#arcs-ray|Arcs Ray]], [[#fusillade-fallarica|Fusillade Fallarica]], [[#elf-ring|Elf Ring]]", "refs": ["so01-lefiya", "so03-lefiya"]},
       {"label": "Skills", "value": "[[skills#fairy-cannon|Fairy Cannon]], [[skills#double-cannon|Double Cannon]]", "refs": ["skills.so12-card"]}
     ]
   }
 }
 ---
-**Lefiya Viridis** is an elf mage of [[loki-familia|Loki Familia]], titled *Thousand Elf*.[@so01-lefiya] Her spell [[#elf-ring|Elf Ring]] lets her summon and cast the magic of other elves, such as [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-lefiya] She deeply admires [[aiz-wallenstein|Aiz Wallenstein]].[@so04-secret, ss02-lefiya] She is Level 3 in Sword Oratoria 1 and reaches Level 4 in Sword Oratoria 12.[@so01-lefiya, so12-level4] In the Familia she shares a room with the mage [[elfie-collette|Elfie Collette]]; after [[filvis|Filvis]]'s death she is moved to another room, out of consideration for Elfie, who has cried herself out trying to cheer her up.[@elfie.so09-girls, elfie.so11-room]
+**Lefiya Viridis** is an elf mage of [[loki-familia|Loki Familia]], titled *Thousand Elf*.[@so01-lefiya] Her spell [[#elf-ring|Elf Ring]] lets her summon and cast the magic of other elves, such as [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-lefiya] She deeply admires [[aiz-wallenstein|Aiz Wallenstein]].[@so04-secret, ss02-lefiya] She is Level 3 in Sword Oratoria 1 and reaches Level 4 in Sword Oratoria 12.[@so01-lefiya, so12-level4] In the Familia she shares a room with the mage [[elfie-collette|Elfie Collette]]; after [[filvis|Filvis]]'s apparent death she is moved to another room, out of consideration for Elfie, who has cried herself out trying to cheer her up.[@elfie.so09-girls, elfie.so11-room]
 
 ## School District
 
@@ -122,7 +122,7 @@ In Sword Oratoria 1 the narration marks the chant as complete ("Her spell comple
 
 #### Effects {#fusillade-fallarica-effects}
 
-- Countless burning bolts fall from above, pierce and ignite every monster in the room, and leave a fence of fire where they miss. Nothing is left of the monsters, not even ash.[@fusillade-fallarica.so01-room]
+- Countless burning bolts fall from above, pierce and ignite every monster in the room, and those that miss blast the ground and tear up the bedrock. Nothing is left of the monsters, not even ash.[@fusillade-fallarica.so01-room]
 - Casting it summons a golden magic circle at her feet, which grows more complex with each syllable. The narration ties this to her Development Ability Conjure, which increases magic strength, range and Mind efficiency.[@fusillade-fallarica.so01-room]
 - It serves as long-range bombardment: in Sword Oratoria 9's opening she fires it at an advancing Rakian formation.[@fusillade-fallarica.so09-rakia] [[lyu-leon|Lyu]]'s [[magic#luminous-wind|Luminous Wind]] is compared to it.[@fusillade-fallarica.so05-compare]
 
@@ -134,7 +134,7 @@ In a crowded melee in Sword Oratoria 13, Lefiya can use it only for her first at
 
 ### Elf Ring {#elf-ring}
 
-**Elf Ring** is the third spell of Lefiya Viridis. It is a *Summon Burst*: after chanting it, she can chant and cast another elf's magic as if it were her own.[@elf-ring.so12-card, elf-ring.so01-summon] Because it gives her access to a whole library of spells, the gods gave her the title *Thousand Elf*.[@elf-ring.so01-summon]
+**Elf Ring** is the third spell of Lefiya Viridis. It is a *Summon Burst* ({{ja|召喚魔法}}, written *summoning magic*)[@elf-ring.so01-ja]: after chanting it, she can chant and cast another elf's magic as if it were her own.[@elf-ring.so12-card, elf-ring.so01-summon] Because it gives her access to a whole library of spells, the gods gave her the title *Thousand Elf*.[@elf-ring.so01-summon]
 
 - **User:** Lefiya Viridis[@elf-ring.so12-card]
 - **Status entry:** Summon Burst; elven magic only; must fully grasp the chant and effects; Mind for both spells[@elf-ring.so12-card]
@@ -145,7 +145,7 @@ In a crowded melee in Sword Oratoria 13, Lefiya can use it only for her first at
 
 Lefiya's Level 4 card in Sword Oratoria 12 lists Elf Ring under Magic with four notes: Summon Burst; only elven magic can be activated; she must fully grasp the chant and the summoned spell's effects; and it expends Mind for this spell and the summoned magic.[@elf-ring.so12-card]
 
-Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with the same four notes.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
+Her illustrated Status sheets in Sword Oratoria 2 and 13 list it as summoning magic (Summon Burst) with the same notes, though the English sheets leave out the requirement to grasp the chant and the summoned spell's effects, which the Japanese sheets have.[@elf-ring.so02-sheet, elf-ring.so13-sheet, elf-ring.so12-card]
 
 #### Incantation {#elf-ring-incantation}
 
@@ -169,14 +169,14 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 - [[filvis|Filvis]]'s protective barrier [[magic#dio-grail|Dio Grail]], which blocks the [[corrupted-spirit|corrupted spirit]]'s magic attack (recalled in Sword Oratoria 5) and is turned against Filvis's own lightning in Sword Oratoria 12.[@elf-ring.so05-grail, elf-ring.so12-final] In Sword Oratoria 13 she also summons Filvis's lightning, [[magic#dio-thyrsos|Dio Thyrsos]], as rapid fire.[@dio-thyrsos.so13-lefiya]
 - The ice spell of her familia colleague [[alicia-forestlight|Alicia Forestlight]], [[magic#hail-dust|Hail Dust]], in Sword Oratoria 13.[@elf-ring.so13-alicia]
 
-#### Requirements: a conflict between volumes {#elf-ring-requirements-a-conflict-between-volumes}
+#### Requirements {#elf-ring-requirements-a-conflict-between-volumes}
 
-> [!NOTE] Two descriptions of what Lefiya must know
-> - Sword Oratoria 1 says she can duplicate any elvish magic whose incantation she can recite **or** whose effects she fully understands, after seeing it at least once.[@elf-ring.so01-summon]
+> [!NOTE] What Lefiya must know
+> - Sword Oratoria 1 says she can duplicate any elvish magic whose chant and effects she has completely grasped, at the cost of two spells' chanting time and Mind.[@elf-ring.so01-summon]
 > - Sword Oratoria 4 says it requires a complete understanding of the magic's effects **and** the proper chant.[@elf-ring.so04-reqs]
-> - The Sword Oratoria 12 Status card and the Status sheets in Sword Oratoria 2 and 13 say she must fully grasp the chant **and** the summoned spell's effects.[@elf-ring.so12-card, elf-ring.so02-sheet, elf-ring.so13-sheet]
+> - The Sword Oratoria 12 Status card and the Japanese Status sheets in Sword Oratoria 2 and 13 say she must fully grasp the chant **and** the summoned spell's effects.[@elf-ring.so12-card, elf-ring.so02-sheet, elf-ring.so13-sheet]
 >
-> This wiki follows the Status card and sheets, which agree with Sword Oratoria 4, and records the earlier "either/or" wording rather than silently dropping it.
+> The volumes agree: she must grasp both the chant and the effects.
 
 #### Cost and limits {#elf-ring-cost-and-limits}
 
@@ -186,7 +186,7 @@ Lefiya's Skill Double Cannon, which holds one finished spell in reserve while sh
 
 #### Slots {#elf-ring-slots}
 
-Sword Oratoria 1 explains that every Status has three spell slots, and that Elf Ring is Lefiya's third, special one.[@elf-ring.so01-summon] See [[magic#how-many-spells|Magic]] for other statements about slots, which do not all agree.
+Sword Oratoria 1 explains that a Status has at most three spell slots, and that Elf Ring is Lefiya's third, special one.[@elf-ring.so01-summon] See [[magic#how-many-spells|Magic]] for other statements about slots.
 
 {{nocite}} Notable uses and open questions for Elf Ring are on the combined page: [[magic#elf-ring|Magic § Elf Ring]].
 
@@ -229,13 +229,13 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@arcs-ray.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: Arcs Ray, Fusillade Fallarica, Elf Ring.
 [@arcs-ray.so13-tunnel]: SO13 | Chapter 5: The Mirror’s Voice | "Unleashed pillar of light"; her own original spell; rubble cleared.
 [@arcs-ray.so13-short]: SO13 | Chapter 5: The Mirror’s Voice | "Arcs Ray, which had a short chant".
-[@fusillade-fallarica.so01-room]: SO01 | Chapter 2: Dungeon Confusion | Full chant in three pieces; Conjure and the magic circle; the room burned out.
+[@fusillade-fallarica.so01-room]: SO01 | Chapter 2: Dungeon Confusion | Full chant in three pieces; Conjure and the magic circle; the room burned out. The Japanese edition (file cX0, paragraph 479) has the arrows that miss blast the ground and tear up the bedrock.
 [@fusillade-fallarica.so04-training]: SO04 | First Chapter: And the Boy… | Concurrent casting under Filvis's training; small wording differences.
 [@fusillade-fallarica.so05-compare]: SO05 | Chapter 3: ⅓ Pure Passion | Luminous Wind compared with Fusillade Fallarica.
 [@fusillade-fallarica.so09-rakia]: SO09 | | Release only; bombardment of Rakia's army.
 [@fusillade-fallarica.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: wide-range attack magic, fire element.
 [@fusillade-fallarica.so13-crowd]: SO13 | Chapter 5: The Mirror’s Voice | Only usable for her first attack in the melee.
-[@elf-ring.so01-summon]: SO01 | Chapter 5: To Battle | Chant; "Elf Ring."; circle turns jade; three slots; recite or understand; Thousand Elf.
+[@elf-ring.so01-summon]: SO01 | Chapter 5: To Battle | Chant; "Elf Ring."; circle turns jade; at most three slots; the chant and effects grasped; the cost of two spells; Thousand Elf. The Japanese edition (file c535, paragraphs 360–363) gives the slots as three at most, requires the chant and the effect to be completely grasped, and has her pay two spells' chanting time and Mind.
 [@elf-ring.so03-rea]: SO03 | Chapter 5: Hell and Hell | Same chant; three-minute countdown; Riveria's spell summoned.
 [@elf-ring.so04-reqs]: SO04 | First Chapter: And the Boy… | Elven magic only; two-part chant; understanding and the proper chant.
 [@elf-ring.so05-grail]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's Dio Grail summoned to block the corrupted spirit.
@@ -259,3 +259,5 @@ Sword Oratoria 1 explains that every Status has three spell slots, and that Elf 
 [@elfie.so11-room]: SO11 | Epilogue: Whodunit | Elfie reduced to tears trying to cheer Lefiya up; Lefiya moved to a different room.
 [@alicia.so13-recruit]: SO13 | Fairy Canon: 2 | Anakity and Alicia, the recruiters when Lefiya was a student.
 [@alicia.so13-advice]: SO13 | Fairy Canon: 2 | "Alicia may have been the first adventurer that Lefiya aspired to be like."
+[@so01-thousand-ja]: SO01 | | The Japanese edition writes her title with kanji meaning thousand fairies, read Thousand Elf.
+[@elf-ring.so01-ja]: SO01 | | The Japanese edition writes Summon Burst with kanji meaning summoning magic.

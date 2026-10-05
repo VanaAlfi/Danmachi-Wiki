@@ -44,18 +44,18 @@ In DanMachi 1 Bell explains that some people call a Familia a team: "Team Loki o
 | [[lilliluka-erde|Lilliluka Erde]] (Lilly) | DanMachi 6 | [[soma-familia|Soma Familia]] | Converts with both gods' consent, with the [[hestia-knife|Hestia Knife]] as collateral.[@fm06-lilly] |
 | [[welf-crozzo|Welf Crozzo]] | DanMachi 6 | [[hephaistos-familia|Hephaistos Familia]] | Leaves Hephaistos Familia and converts after reaching Level 2.[@fm06-join] |
 | [[mikoto|Mikoto]] | DanMachi 6 | [[takemikazuchi-familia|Takemikazuchi Familia]] | Converts under the one-year transfer rule.[@fm06-join] |
-| [[haruhime|Haruhime]] | DanMachi 7 | — | Accepted by Hestia.[@fm07-haruhime] |
-| [[lyu-leon|Lyu]] | DanMachi 19–20 | [[astrea-familia|Astrea Familia]] | Astrea releases her [[falna|Falna]] for the conversion. The Guild will not register her under her old name, and the naming discussion ends with "Lyu Astrea".[@fm19-lyu] |
+| [[haruhime|Haruhime]] | DanMachi 7 | [[ishtar-familia|Ishtar Familia]] | Accepted by Hestia.[@fm07-history, fm07-haruhime] |
+| [[lyu-leon|Lyu]] | DanMachi 19 | [[astrea-familia|Astrea Familia]] | Astrea releases her [[falna|Falna]] for the conversion. The Guild will not register her under her old name, and the naming discussion ends with "Lyu Astrea".[@fm19-lyu] |
 
 > [!NOTE] Captivity is not conversion
-> In DanMachi 17 [[freya|Freya]] takes Bell and makes the city believe he belongs to her Familia, but the conversion never happens and he keeps Hestia's Falna throughout.[@fm17-bell]
+> In DanMachi 17 [[freya|Freya]] takes Bell and makes the city believe he belongs to her Familia, but the conversion does not happen and he keeps Hestia's Falna throughout.[@fm17-bell]
 
 ### Roles {#roles}
 
 - **Captain:** Hestia chose Bell to lead. He sees another reason too: he is the only member who "didn’t join by Conversion from another group". Lilly adds that a human leader makes the Familia more attractive to humans.[@fm07-leader] In DanMachi 20 he calls himself "Hestia Familia’s captain".[@fm20-captain]
 - **Commander and accountant:** from DanMachi 7 Lilly is "our accountant of sorts", who knows the Familia's finances better than anyone.[@fm07-accounts] In DanMachi 19 Bell speaks of "Our commander Lilly".[@fm19-commander]
 - **Smith:** Welf's workshop stands in the back garden of the manor.[@fm12-workshop]
-- **Scout:** the Familia never set up a scout position, but on its first expedition the role falls to Mikoto, whose [[skills#yatano-crows|Yatano Black Crow]] Skill suits it.[@fm12-scout]
+- **Scout:** a standing scout position was not located in the checked text; on its first expedition the role falls to Mikoto, whose [[skills#yatano-crows|Yatano Black Crow]] Skill suits it.[@fm12-scout]
 - **Household:** the members take turns cooking, two or three a day including the goddess; only Mikoto's days are agreed by all to be delicious.[@fm08-meals] When the larger home led Lilly and the others to debate hiring a maid, Haruhime volunteered for the housework herself.[@fm15-household]
 - **Mikoto's term:** her transfer is for one year, after which she is due to return to Takemikazuchi Familia.[@fm08-mikoto-year, fm15-household]
 
@@ -120,7 +120,7 @@ In DanMachi 6 the Familia has no symbol, so the War Game posters show "a white r
 
 In DanMachi 1 the Familia is "among the poorest of the poor"; at its founding it is "a bottom-tier group" that must earn enough each day to get by, while Hestia works a part-time job.[@fm01-poor, fm04-founded] Hestia and [[miach|Miach]] are "the poorest of all the gods" in Orario, which binds them, and their Familias are on good terms.[@fm02-miach] In DanMachi 3, besides members, money is what the Familia lacks most.[@fm03-lilly]
 
-- **The rescue (DanMachi 5):** Hestia spends the Familia's savings of 400,000 valis on Bell's rescue. Knowing how young and poor the Familia is, the Guild fines it only "a few thousand vals".[@fm05-rescue, fm06-fine]
+- **The rescue (DanMachi 5):** Hestia spends the Familia's savings of 400,000 valis on Bell's rescue. Because the Familia's savings are small, the Guild fines it several hundred thousand valis, little beside Hermes Familia's loss of half its assets.[@fm05-rescue, fm06-fine]
 - **The War Game (DanMachi 6):** every val held in Apollo's name passes to Hestia Familia, and Lilly uses a large part of it to redeem the Hestia Knife from Soma Familia.[@fm06-spoils]
 - **The loan (DanMachi 7):** almost all the War Game winnings are already spent.[@fm07-accounts] The loan contract then comes to light: Hestia owes Hephaistos Familia 200 million valis for the Hestia Knife, and she insists that she will repay it alone ("I’ll pay it back by myself!").[@fm07-loan, fm07-mine] Rank E raises the Familia's taxes.[@fm07-rank-e]
 - **Quests:** in DanMachi 7 the Albella Trading Company, one of the large trading companies that support Orario's economy, offers the Familia a quest worth one million valis, having seen its War Game victory; the members accept it while hoping to redeem Haruhime.[@fm07-albella]
@@ -167,7 +167,7 @@ In DanMachi 9 the Familia takes in [[wiene|Wiene]], a vouivre who can talk, know
 
 ### Expeditions as a rank-D Familia {#expeditions}
 
-Once the Familia reaches rank D it must take part in periodic Guild expeditions; more than half of the Familia's own members must take part, and failure brings a penalty.[@fm12-rank] Its first expedition sets out exactly five months after Bell arrived in Orario.[@fm12-departure] As its host, Hestia Familia orders Undine battle clothes for the whole party.[@fm12-host] In DanMachi 13–14 Bell and Lyu fall to [[floor-37|Floor 37]], and the rest of the Familia reaches the thirty-seventh floor with [[lido|Lido]] and the Xenos to rescue them.[@fm19-strength, fm20-rescue] The joint expedition technically fails because the required drop item is not collected, and in DanMachi 15 Lilly takes the penalty payment to the Guild.[@fm15-penalty]
+Once the Familia reaches rank D it must take part in periodic Guild expeditions; more than half of the Familia's own members must take part, and failure brings a penalty.[@fm12-rank] Its first expedition sets out exactly five months after Bell arrived in Orario.[@fm12-departure] As its host, Hestia Familia orders Undine battle clothes for the whole party.[@fm12-host] At the end of DanMachi 13 a lambton swallows Bell and Lyu on the twenty-seventh floor and burrows down with them; DanMachi 14 finds them on [[floor-37|Floor 37]], where the rest of the Familia reaches them with [[lido|Lido]] and the Xenos, as DanMachi 19 and 20 recall.[@fm13-swallow, fm14-deep37, fm14-xenos-escort, fm19-strength, fm20-rescue] The joint expedition technically fails because the required drop item is not collected, and in DanMachi 15 Lilly takes the penalty payment to the Guild.[@fm15-penalty]
 
 In DanMachi 15 Lilly reaches Level 2, and the rank-D Familia goes to "a floor entirely unsuited to their experience level" to train Haruhime.[@fm15-lilly-level2, fm15-haruhime]
 
@@ -206,7 +206,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm05-return]: FM05 | Epilogue: The One Who Targets the Rabbit | The party survives; Guild secrecy and penalty.
 [@fm05-rescue]: FM05 | Chapter 2: How Many Meders to a Safe Return? | The Familia's savings spent on the rescue.
 [@fm05-mikoto-level2]: FM05 | Chapter 2: How Many Meders to a Safe Return? | Ouka and Mikoto, Takemikazuchi Familia's only Level 2s.
-[@fm06-fine]: FM06 | Chapter 1: The Furious Rabbit | The Guild's fine of "a few thousand vals" (cited by the body heading; FM06 has no contents list).
+[@fm06-fine]: FM06 | Chapter 1: The Furious Rabbit | The Guild's fine (cited by the body heading; FM06 has no contents list). The Japanese edition (file c7Z, paragraphs 167 and 170) puts it at some hundreds of thousands of valis, because the Familia's savings are small, where Hermes Familia lost half its assets.
 [@fm06-church]: FM06 | Chapter 3: Outbreak | Apollo Familia's assault; the old church collapses.
 [@fm06-soma]: FM06 | Chapter 3: Outbreak | Soma Familia joins the assault, paid by Apollo's side, using Lilly's membership as cover.
 [@fm06-one]: FM06 | Chapter 4: Those Who Gather | A one-member Familia against Apollo Familia (cited by the body heading).
@@ -230,6 +230,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm07-hermes]: FM07 | Chapter 4: Yoshiwara x Utakata | Hermes: the Familia would not stand a chance in a skirmish.
 [@fm07-ishtar]: FM07 | Chapter 5: Killing Stone | Ishtar Familia's threat. The Japanese edition (file c6NY, paragraphs 225–226) says the Berbera, one of the city's foremost fighting forces, would come to punish them.
 [@fm07-haruhime]: FM07 | Epilogue: If Surrounded by Kindness… | Haruhime asks to join; Hestia welcomes her.
+[@fm07-history]: FM07 | | Haruhime's past in Ishtar Familia.
 [@fm08-front]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): not summoned to the front against Rakia. The Japanese edition (file part0015, paragraph 93) says the Guild did not summon it in consideration of its numbers and recent expansion (Hermes's request, file part0013, paragraph 148).
 [@fm08-meals]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): the cooking rota.
 [@fm08-housesitters]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): "a prime piece of real estate"; Takemikazuchi and Miach Familias house-sit.
@@ -277,6 +278,9 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 [@fm18-haruhime]: FM18 | Chapter 9: Flower Language for You | "I am Hestia Familia’s Haruhime!"
 [@fm18-strength]: FM18 | Chapter 9: Flower Language for You | "the Level 5 Bell" and "the Level 2s Lilly, Mikoto, and Haruhime".
 [@fm18-victory]: FM18 | Epilogue: Double Cast | The coalition's victory.
+[@fm13-swallow]: FM13 | Chapter 5: Calamity Arrives | "The lambton was supposed to be dead."; it engulfs Bell and Lyu on the twenty-seventh floor and drills downward.
+[@fm14-deep37]: FM14 | Chapter 9: Hello, Deep Levels | Bell and Lyu on the thirty-seventh floor, carried down from the twenty-seventh (the Japanese edition, file c5FX, paragraphs 28 and 964).
+[@fm14-xenos-escort]: FM14 | Chapter 8: The Voice of the Hammer | Lido's message: "If you want to come, then come. We will take you there."; the Xenos go with Lilly's party to rescue Bell (the Japanese edition, file c3F1, paragraph 1164).
 [@fm19-lyu]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu's conversion and registered name.
 [@fm19-rank]: FM19 | Chapter 1: V-V-V for Victory Party | Rank B, treated internally as B (S).
 [@fm19-elite]: FM19 | Chapter 1: V-V-V for Victory Party | Six members; two first-tier adventurers, one a Level 6; arguments for A; "A small, elite faction". The Japanese edition (file part0017, paragraph 25) says an ultra-small elite faction.

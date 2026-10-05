@@ -23,7 +23,7 @@
       {"label": "Familia", "value": "[[hephaistos-familia|Hephaistos Familia]]", "refs": ["fm14-tsubaki"]},
       {"label": "Position", "value": "Captain, already in the dark age", "refs": ["fm14-tsubaki", "ar01-captain"]},
       {"label": "Level", "value": "5", "refs": ["fm08-tsubaki", "so04-tsubaki"]},
-      {"label": "Nickname", "value": "Cyclops ({{ja|単眼の巨師}}, written *one-eyed great master*), which she dislikes", "refs": ["fm11-cyclops", "so04-cyclops", "fm08-tsubaki-ja"]},
+      {"label": "Title", "value": "Cyclops ({{ja|単眼の巨師}}, written *one-eyed great master*), which she dislikes", "refs": ["fm11-cyclops", "so04-cyclops", "fm08-tsubaki-ja"]},
       {"label": "Weapon", "value": "A tachi, the long sword", "refs": ["fm08-katana"]}
     ]
   }
@@ -47,7 +47,7 @@ She acts on faith. At the war council of Sword Oratoria 12, as the one with "the
 
 ## Smith
 
-Sword Oratoria 4 calls her the finest smith in [[orario|Orario]]; on [[loki-familia|Loki Familia]]'s expedition she leads twenty of Hephaistos Familia's High Smiths.[@so04-tsubaki] Before it she works day and night without sleep on the Familia's [[desperate|Durandal]] weapons, and repairs [[bete-loga|Bete Loga]]'s ruined boots on top of them; on the expedition she guarantees "at least second-tier attack power" from each weapon.[@so04-durandal, so04-guarantee] She made the [[equipment#frosvirt|Frosvirt]] boots that Bete uses in place of his own magic.[@so08-frosvirt] Yet she admits that one smith of her Familia is "Someone far better at forgin’ magic swords", "that ol’ blue blood", until Hephaistos stops her: their colleague would prefer "their lineage kept a secret".[@so04-better] {{inference}} She means [[welf-crozzo|Welf Crozzo]], heir of the Crozzo smiths.[@so04-better]
+Sword Oratoria 4 calls her the finest smith in [[orario|Orario]]; Hephaistos offers [[loki-familia|Loki Familia]]'s expedition about twenty High Smiths, Tsubaki included, and ten go, split between its two parties, with Tsubaki in the second.[@so04-tsubaki, so04-expedition] Before it she works on the Familia's [[desperate|Durandal]] weapons for days on end without eating or drinking, and repairs [[bete-loga|Bete Loga]]'s ruined boots on top of them; on the expedition she guarantees "at least second-tier attack power" from each weapon.[@so04-durandal, so04-guarantee] She made the [[equipment#frosvirt|Frosvirt]] boots that Bete uses in place of his own magic.[@so08-frosvirt] Yet she admits that one smith of her Familia is "Someone far better at forgin’ magic swords", "that ol’ blue blood", until Hephaistos stops her: their colleague would prefer "their lineage kept a secret".[@so04-better] {{inference}} She means [[welf-crozzo|Welf Crozzo]], heir of the Crozzo smiths.[@so04-better]
 
 With Welf, a fellow member of Hephaistos Familia until DanMachi 6, she is demanding. She has teased him since the day he joined, so that the other smiths call him "Tsubaki’s toy" behind his back.[@fm08-parents, fm08-toy] In DanMachi 8 she breaks his short sword to shake him out of his complacency.[@fm08-tsubaki] In DanMachi 14 she recognises his [[magic-sword|magic sword]] [[equipment#shikou-kazuki|Shikou Kazuki]] as his entry into the highest level of the craft.[@fm14-shikou] In DanMachi 15 she insists on being present when he brings Hephaistos a magic sword he forged in the Dungeon, speaks up for him while teasing him, and watches "every bit the senior apprentice pleased with the evident progress of her junior".[@fm15-desk]
 
@@ -82,7 +82,8 @@ When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break"
 [@fm14-rescue]: FM14 | Chapter 8: The Voice of the Hammer | Tsubaki with Anya, Chloe and Runoa.
 [@fm14-shikou]: FM14 | | Tsubaki recognises Shikou Kazuki.
 [@fm20-expedition]: FM20 | Chapter 2: Lion and then Sword Princess | Cyclops to join Loki Familia's expedition.
-[@so04-tsubaki]: SO04 | | Level 5; finest smith; twenty High Smiths.
+[@so04-tsubaki]: SO04 | | Level 5; finest smith; "about twenty, Tsubaki included" High Smiths offered.
+[@so04-expedition]: SO04 | First Chapter: And the Boy… | "Ten Hephaistos Familia smiths had joined the fifteen Loki Familia adventurers."; the smiths are divided between the two parties. The Japanese edition puts Tsubaki with the second, following party.
 [@so05-tsubaki]: SO05 | | The half-dwarf with the eye patch.
 [@so08-frosvirt]: SO08 | Chapter 5: Battered Wolf | Frosvirt made by Tsubaki.
 [@so10-tsubaki]: SO10 | | Ice magic swords in the escape.
@@ -92,7 +93,7 @@ When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break"
 [@fm08-eighth]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Hephaistos's story of Welf; "Tsubaki let out a long sigh and braced herself for the eighth time."
 [@so04-finn]: SO04 | First Chapter: And the Boy… | "C’mere and gimme a squeeze, would ya?"
 [@so04-cyclops]: SO04 | First Chapter: And the Boy… | "You know I don’t like that name, Loki! Makes me feel like some kinda monster!"
-[@so04-durandal]: SO04 | First Chapter: And the Boy… | "Tsubaki had already finished up all the Durandal weapons"; Bete's Frosvirt "completely destroyed"; "working day and night without sleep".
+[@so04-durandal]: SO04 | First Chapter: And the Boy… | "Tsubaki had already finished up all the Durandal weapons"; Bete's Frosvirt "completely destroyed"; at the forge for days on end without eating or drinking (the Japanese edition, file c1K0).
 [@so04-guarantee]: SO04 | Last Chapter: To Adventure | "I can guarantee at least second-tier attack power outta each one of ’em".
 [@so04-better]: SO04 | First Chapter: And the Boy… | "Someone far better at forgin’ magic swords!"; "It’s none other than that ol’ blue blood"; Hephaistos: "our colleague would prefer their lineage kept a secret".
 [@so04-gear]: SO04 | First Chapter: And the Boy… | "Her armor was a mix of island and continent styles"; hakama; battle clothes over her chest.

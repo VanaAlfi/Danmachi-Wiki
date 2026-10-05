@@ -16,7 +16,7 @@
       {"section": "Location"},
       {"label": "Japanese", "value": "{{ja|黄昏の館}}", "refs": ["ar03-twilight-manor-ja"]},
       {"label": "Owner", "value": "[[loki-familia|Loki Familia]]", "refs": ["so01-towers", "ar01-office"]},
-      {"label": "Where", "value": "Due north of [[orario|Orario]], near a city gate", "refs": ["ar01-office", "fm07-north", "ar03-gates"]},
+      {"label": "Location", "value": "Due north of [[orario|Orario]], near a city gate", "refs": ["ar01-office", "fm07-north", "ar03-gates"]},
       {"section": "Buildings"},
       {"label": "Layout", "value": "A tall central tower ringed by seven towers, joined at the base and by stone bridges higher up", "refs": ["so02-towers"]},
       {"label": "Look", "value": "Dark red towers like spears; the Trickster flag on the highest", "refs": ["so01-towers"]},
@@ -35,7 +35,7 @@ Sword Oratoria 2 gives the most detailed description. The seven outer towers var
 
 - **Loki's room** is the highest room of the central tower, full of glass bottles and odd items.[@so02-loki, so07-loki]
 - **Finn's office and private quarters** are in the northernmost tower.[@so02-towers] DanMachi 8 describes the room: a rug that recalls a crown of flowers, a white stone fireplace, a tall grandfather clock, a black wooden desk heaped with paperwork, and a tapestry of an armoured goddess holding a spear.[@fm08-office]
-- **The dining hall.** Loki has always told her followers "We live together, we eat together", so after an expedition nearly the whole Familia crowds into its narrow hall.[@so01-dining] Finn, Riveria and Gareth's Level 7 party in Sword Oratoria 14 is held in the grand dining hall.[@so14-party]
+- **The dining hall.** Loki has always told her followers "We live together, we eat together", so every morning and evening meal starts once all the members not on watch have gathered in its great dining hall.[@so01-dining] Finn, Riveria and Gareth's Level 7 party in Sword Oratoria 14 is held in the grand dining hall.[@so14-party]
 - **The parlour and reception room**, where the leaders meet.[@fm10-spires, fm18-parlour]
 - **The courtyard**, the open ground around the central tower, used for training; [[lefiya|Lefiya]] trains with [[bete-loga|Bete]] there in Sword Oratoria 13.[@so13-courtyard]
 - **The lawn**, with shrubs and flowers, where Loki entertains [[dionysus|Dionysus]] and [[filvis|Filvis]] in Sword Oratoria 10.[@so10-lawn]
@@ -53,7 +53,7 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 | Sword Oratoria 14 | Loki Familia celebrates Finn, Riveria and Gareth reaching Level 7 there.[@so14-party] |
 
 [@so01-towers]: SO01 | Chapter 3: White Rabbit | Dark red towers like spears; the flag of the Trickster on the highest tower; "Loki Familia’s home, Twilight Manor."
-[@so01-dining]: SO01 | Chapter 3: White Rabbit | "We live together, we eat together."; the crowded narrow hall.
+[@so01-dining]: SO01 | Chapter 3: White Rabbit | "We live together, we eat together." The Japanese edition (file c31J, paragraphs 13 and 15) calls it the great dining hall, and the rule holds for every morning and evening meal.
 [@so02-towers]: SO02 | Chapter 1: The Average Day | Several high towers; stone bridges; three towers for men and four for women; Finn's quarters and office in the northernmost tower. The Japanese edition (file cA7, paragraphs 100 and 101) has seven spires in all round the central tower.
 [@so02-loki]: SO02 | Chapter 1: The Average Day | "In the highest room of the Twilight Manor’s central tower"; Loki among glass bottles and unique items. The Japanese edition (file cA7, paragraph 217) says liquor bottles.
 [@so07-loki]: SO07 | Epilogue: To Be Yearned After | Loki's room on the top floor of the central tower; the Pleasure Quarter on fire; windows of Twilight Manor popping open.

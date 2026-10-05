@@ -5,8 +5,8 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "Healer of Freya Familia and representative of its healers, the Andhrímnir; titled Vana Mardöll and known as the golden witch, a Level 4 who can fight like a first-tier adventurer.",
-  "aliases": ["Vana Mardöll", "Vana Mardel", "Golden witch", "Rona", "Ilda", "Lona", "Ilde"],
+  "summary": "Healer of Freya Familia and representative of its healers, the Andhrímnir; titled Vana Mardöll and known as the golden witch, a Level 4 who can still defeat second-tier adventurers on her own.",
+  "aliases": ["Vana Mardöll", "Vana Mardel", "Golden witch"],
   "spoilers": "DanMachi Vols. 17–20 and Minor Myths and Legends Vol. 1",
   "related": ["freya-familia", "folkvangr", "horn", "hedin", "freya", "magic"],
   "infobox": {

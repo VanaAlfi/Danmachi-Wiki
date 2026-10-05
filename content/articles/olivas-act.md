@@ -44,11 +44,11 @@ Sword Oratoria 9's flashback to the same era calls him Vendetta, "one of the lea
 
 ## The creature
 
-In the pantry on Floor 24 in Sword Oratoria 3, Asfi asks whether he survived. "No, I died. However, I have been revived," he answers, in front of [[lefiya|Lefiya]] and the other adventurers. His legs are the yellowish green of the plant monsters, and a vivid magic stone is buried in his chest; he says he was given a second life "by none other than Her".[@so03-revived, ss02-pantry] He calls himself "both and neither", beyond human and monster. His thick skin repels magic, he regenerates quickly, and he shrugs off direct hits from [[bete-loga|Bete]].[@so03-hybrid]
+In the pantry on Floor 24 in Sword Oratoria 3, Asfi asks whether he survived. "No, I died. However, I have been revived," he answers, in front of [[lefiya|Lefiya]] and the other adventurers. His legs are the yellowish green of the plant monsters, and a vivid magic stone is buried in his chest; he says he was given a second life "by none other than Her".[@so03-revived, ss02-pantry] He calls himself a supreme being with the powers of both human and monster. He stops magic with his bare hands, regenerates quickly and shrugs off direct hits from [[bete-loga|Bete]].[@so03-hybrid]
 
 He denies being one of the Evils' remnants: "I am not some puppet who will dance for a god."[@so03-hybrid] His loyalty to "Her", the being in the fetus in the orb, borders on obsession. "She wants to see the sky!", he declares, and Orario, which blocks her view, must be obliterated.[@so03-her] He sets giant flower monsters on [[hermes-familia|Hermes Familia]] and the adventurers with them; many of Hermes Familia's adventurers die in the battle.[@so03-filvis, ss02-pantry]
 
-When he turns on [[aiz-wallenstein|Aiz]] with "Die, Sword Princess!", she cuts down his monsters and then him, shredding his lower body and torso.[@so03-aiz] Levis drags him away, then drives her arm into his chest. "You and I, we're nothing but pawns," she tells him, and she rips out his magic stone. Without his core, Olivas crumbles to ash like any monster.[@so03-death] Eating his stone makes Levis stronger and faster than Aiz at Level 6, so that Aiz needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] He had also called Aiz "Aria", the name Levis used for her in [[rivira|Rivira]].[@so03-aria]
+When he turns on [[aiz-wallenstein|Aiz]] with "Die, Sword Princess!", she cuts down his monsters and then him, shredding his lower body and torso.[@so03-aiz] Levis drags him away, then drives her arm into his chest. She tells him that the two of them are nothing but tentacles of the corrupted spirit, and she rips out his magic stone. Without his core, Olivas crumbles to ash like any monster.[@so03-death] Eating his stone makes Levis stronger and faster than Aiz at Level 6, so that Aiz needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] He had also called Aiz "Aria", the name Levis used for her in [[rivira|Rivira]].[@so03-aria]
 
 ## Afterwards
 
@@ -74,11 +74,11 @@ When he turns on [[aiz-wallenstein|Aiz]] with "Die, Sword Princess!", she cuts d
 [@ar03-retreat]: AR03 | Chapter 7: What She Wished For | Olivas and the other lieutenants leave the battlefield.
 [@so03-identity]: SO03 | Chapter 4: White-Haired Devil | Asfi: "Estimated to be Level Three"; "White Devil, Vendetta"; his god returned; the mastermind of the Twenty-Seventh-Floor Nightmare; devoured; the remains of his lower body.
 [@so03-revived]: SO03 | Chapter 4: White-Haired Devil | "No, I died. However, I have been revived"; yellowish-green legs; the magic stone in his chest; "by none other than Her!!"
-[@so03-hybrid]: SO03 | Chapter 5: Hell and Hell | White hair; "I am both and neither"; thick skin, regeneration; human and monster, a hybrid; "I am not some puppet who will dance for a god."
+[@so03-hybrid]: SO03 | Chapter 5: Hell and Hell | White hair; regeneration; human and monster, a hybrid; "I am not some puppet who will dance for a god." The Japanese edition (file c4J0, paragraphs 43 and 52) has him call himself a supreme being with the powers of both human and monster, and catch magic with his bare hands.
 [@so03-her]: SO03 | Chapter 5: Hell and Hell | Yellow-green eyes; "She wants to see the sky!"; the metropolis must be obliterated.
 [@so03-filvis]: SO03 | Chapter 5: Hell and Hell | Filvis: "Olivas Act!"; the Nightmare; the flower monsters at his command.
 [@so03-aiz]: SO03 | Chapter 5: Hell and Hell | "Die, Sword Princess!"; Aiz's full power; his lower body and torso shredded.
-[@so03-death]: SO03 | Chapter 5: Hell and Hell | "You and I, we’re nothing but pawns."; the magic stone ripped out; he disintegrates into ash.
+[@so03-death]: SO03 | Chapter 5: Hell and Hell | The magic stone ripped out; he disintegrates into ash. The Japanese edition (file c5AH, paragraph 6) has Levis tell him that he and she are nothing but Its tentacles.
 [@so03-stone]: SO03 | Chapter 5: Hell and Hell | Levis stronger and faster than Aiz at Level Six; only Airiel keeps the onslaught at bay.
 [@so03-aria]: SO03 | Chapter 5: Hell and Hell | "That was what Olivas had called Aiz"; Levis called her Aria as well.
 [@so04-her]: SO04 | First Chapter: And the Boy… | "She’s sleeping deep within the earth," "She wants to see the sky"; the Dungeon's lower depths.

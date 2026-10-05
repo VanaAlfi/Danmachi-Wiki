@@ -32,7 +32,7 @@ A Status is a divine record of the follower's own history. Excelia measures both
 
 The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] Getting a [[skills|Skill]] is itself rare, and some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills, fm01-ja-skills]
 
-Magic gained through a Falna is shaped by excelia, interests and desires. A person can hold at most three spells; one is not unusual, and two is very rare.[@fm01-magic]
+Magic gained through a Falna is shaped by excelia, interests and desires. A person can hold at most three spells; one is common, and anyone who can use two is sought after by their companions.[@fm01-magic]
 
 ## Status
 
@@ -58,7 +58,7 @@ A conversion does not erase every trace of the first god's ichor: that god can s
 |---|---|
 | DanMachi 6 | Lilly moves from [[soma-familia|Soma Familia]] to [[hestia-familia|Hestia Familia]], with both gods rewriting her Falna.[@fm06-lilly] |
 | DanMachi 6 | [[welf-crozzo|Welf]] and [[mikoto|Mikoto]] also join Hestia Familia.[@fm06-join] |
-| DanMachi 18 | [[chloe|Chloe]] and [[runoa|Runoa]] convert before the [[war-game|War Game]], which lets them take part.[@fm18-conversions] |
+| DanMachi 18 | At the request of [[chloe|Chloe]] and [[runoa|Runoa]], the staff of [[the-benevolent-mistress|The Benevolent Mistress]] convert to [[demeter|Demeter]] and [[njordr|Njörðr]] before the [[war-game|War Game]], which lets them take part.[@fm18-conversions] |
 | DanMachi 19–20 | [[astrea|Astrea]] releases [[lyu-leon|Lyu]]'s Falna so that she can join Hestia Familia.[@fm19-lyu] |
 
 Being held captive or given a false identity is not a conversion. In DanMachi 17 [[freya|Freya]] demands Bell's conversion and makes the city believe he belongs to her, but he keeps Hestia's Falna throughout.[@fm17-bell]

@@ -25,7 +25,7 @@
       {"label": "Weapons", "value": "The sword Higanbana; short swords bearing the name of her technique, Futaba", "refs": ["ar03-higanbana", "ar02-futaba"]},
       {"label": "Skill and magic", "value": "[[skills#five-lights|Five Lights]], a paired Skill and spell; [[magic#gokou|Gokou]]", "refs": ["ar03-clan", "fm18-gokou"]},
       {"section": "Fate"},
-      {"label": "Died", "value": "In the [[juggernaut|Juggernaut]] ambush, five years before DanMachi 14", "refs": ["fm14-dream", "fm14-death"]}
+      {"label": "Fate", "value": "In the [[juggernaut|Juggernaut]] ambush, five years before DanMachi 14", "refs": ["fm14-dream", "fm14-death"]}
     ]
   }
 }
@@ -66,7 +66,7 @@ Astrea Record 3 tells more. Her "former house", the Gojouno clan, worked in the 
 
 ## Astrea Familia
 
-Kaguya was one of the first members. Alize recalls being there first, "then Kaguya joined, and then Lyra tagged along", and Astrea Record 2 says both had been with Alize since the very beginning.[@fc03-drink, ar02-counting] Astrea counts the day Kaguya joined among the happiest of her life.[@ar02-happiest] Kaguya gives the credit to the goddess, not to Alize: "Lady Astrea's hand melted my heart."[@fc03-drink] She tells Lyu that she adores Astrea and would not be in the Familia otherwise.[@fm14-world] She once said that Astrea was strong enough to make you cry in a sparring match, adding, "I know I did."[@fc03-sparring]
+Kaguya was one of the first members. Alize recalls being there first, "then Kaguya joined, and then Lyra tagged along", and Astrea Record 2 says both had been with Alize since the very beginning.[@fc03-drink, ar02-counting] Among the things Astrea calls her happiness is that Kaguya lent her strength.[@ar02-happiest] Kaguya gives the credit to the goddess, not to Alize: "Lady Astrea's hand melted my heart."[@fc03-drink] She tells Lyu that she adores Astrea and would not be in the Familia otherwise.[@fm14-world] She once said that Astrea was strong enough to make you cry in a sparring match, adding, "I know I did."[@fc03-sparring]
 
 She was the Familia's second: "deputy captain" in Astrea Record 2, "second-in-command" in Familia Chronicle 3 and "vice-captain" in DanMachi 14.[@ar02-deputy, fc03-drink, fm14-rival] She attends the council of Familia leaders and their seconds with Alize, and there asks whether the planned raid might be a trap.[@ar01-council]
 
@@ -78,7 +78,7 @@ The two were called rivals, though Astrea Record 1 says that, to be precise, it 
 
 Their quarrels turned on what justice can do. After Vito's attack on the [[floor-18|eighteenth floor]], Kaguya tells Lyu that nobody could have saved everyone.[@ar01-greenhorn] After the death of Ardee, [[shakti-varma|Shakti]]'s younger sister, she says that criticism, mockery, slander and sacrifice are "all part of the mantle of justice", which everyone but Lyu had accepted. When Lyu grabs her by the collar, she does not fight back.[@ar02-mantle] In DanMachi 14's recollection she tells Lyu, "Don't think we're strong enough to rescue the whole world," and asks why Ardee, printed here as *Adi*, died if Lyu is right.[@fm14-world, fm14-daggers] Alize suspects that her harsh words come from what she saw in the Far East, and that she says them to protect what matters to her.[@fm14-fareast] In an extra in Familia Chronicle 3, set five years before that book's present, Kaguya calls Lyu's refusal to accept sacrifice a flaw, says she believes in a merciless whip, and declares, "I hate that naive little elf." Alize mentions that Kaguya even brought Ardee into their latest argument, which matches the DanMachi 14 scene {{inference}}.[@fc03-ideals, fm14-world]
 
-In a crisis she pulls Lyu back. When Ardee dies, Lyra holds Lyu back from the collapsing building and Kaguya runs up to them.[@ar01-ardee] Later that night she slaps the despairing Lyu and shouts that saving even one life is worth it: "Or else…it'll be just like Ardee all over again!!"[@ar01-slap] When Lyu runs away in Astrea Record 2, Kaguya searches the city for her with Lyra, and when the Familia finds her, sets her penance: "acting as my peon for a week".[@ar02-deputy, ar02-peon] In Astrea Record 3 she saves Lyu from Alfia's hand, and as she watches Lyu fight she asks Vito, "Isn't it beautiful?" The narration says that to Kaguya, striving toward hope was where true justice lay.[@ar03-seventeen, ar03-beautiful] Over drinks she predicts that Lyu will "fester, of course. Over and over", and she and Lyra agree that Lyu will hold to her stubborn justice wherever she ends up; the narration notes that the two of them were both preparing Lyu for hard times ahead.[@fc03-future, fc03-ideals]
+In a crisis she pulls Lyu back. When Ardee dies, Lyra holds Lyu back from the collapsing building and Kaguya runs up to them.[@ar01-ardee] Later that night she slaps the despairing Lyu and shouts that saving even one life is worth it: "Or else…it'll be just like Ardee all over again!!"[@ar01-slap] When Lyu runs away in Astrea Record 2, Kaguya searches the city for her with Lyra, and when the Familia finds her, sets her penance: for a while she is to be their servant.[@ar02-deputy, ar02-peon] In Astrea Record 3 she saves Lyu from Alfia's hand, and as she watches Lyu fight she asks Vito, "Isn't it beautiful?" The narration says that to Kaguya, striving toward hope was where true justice lay.[@ar03-seventeen, ar03-beautiful] Over drinks she predicts that Lyu will "fester, of course. Over and over", and she and Lyra agree that Lyu will hold to her stubborn justice wherever she ends up; the narration notes that the two of them were both preparing Lyu for hard times ahead.[@fc03-future, fc03-ideals]
 
 ## Combat
 
@@ -88,9 +88,8 @@ Her signature is the iai, the draw from the sheath, which she calls an art passe
 
 | Technique | Use |
 |---|---|
-| Iai Strike: Gleaming Blade | Astrea Record 2: from a crouch with her sword sheathed, a draw that knocks Vito's dagger from his hand.[@ar02-iai] |
-| Iai Strike: Futaba | Astrea Record 2: a strike with short swords bearing the technique's name; it grazes Alfia's arm.[@ar02-futaba] |
-| Flashing Blade | Astrea Record 3: the hateful Far Eastern technique named Issen, an iai slice through three foes at once.[@ar03-higanbana] |
+| Issen ({{ja|一閃}}, *a single flash*) | One technique, printed *Iai Strike: Gleaming Blade* in Astrea Record 2: from a crouch with her sword sheathed, a draw that knocks Vito's dagger from his hand.[@ar02-iai, ar02-issen-ja] Printed *Flashing Blade* in Astrea Record 3: the hateful Far Eastern technique, an iai slice through three foes at once.[@ar03-higanbana] |
+| Iai Strike: Futaba ({{ja|双葉}}, *twin leaves*) | Astrea Record 2: a strike with short swords bearing the technique's name; it grazes Alfia's arm.[@ar02-futaba, ar02-futaba-ja] |
 | Iai Strike: Five Lights | Astrea Record 3: the Gojouno clan's highest art; see below.[@ar03-five-lights, ar03-clan] |
 
 | Weapon | Where |
@@ -128,7 +127,7 @@ When townspeople throw stones at the Familia, she reaches for her sword until Al
 
 ### Astrea Record 3
 
-Facing Alfia on the eighteenth floor, she vows revenge "even if my decapitated head must bite out her throat".[@ar03-revenge] When Vito arrives, she sends Lyra back to the main fight and takes on him and his followers alone, with her reforged sword Higanbana.[@ar03-vito, ar03-higanbana] Vito tells her of the defect that lets him see colour only in other people's blood.[@ar03-vito-story] She calls him "a bloodthirsty beast, hiding behind tragic tales", then cuts him down with Five Lights, letting the fifth slash vanish just short of his heart, and leaves him to die.[@ar03-beautiful, ar03-five-lights] She returns in time to save Lyu from Alfia, and rallies the others in the last clash: attack, do not defend; flinch and you die, and to flee is shame.[@ar03-seventeen, ar03-rally] After Alfia's defeat, Astrea raises every member of the Familia to Level 4, and Kaguya joins the attack on [[delphyne|Delphyne]].[@ar03-level, ar03-delphyne] Erebus asks that Vito be left to his fate; Vito, "cut to ribbons by Kaguya", escapes the Dungeon without the arm she cut off.[@ar03-vito-fate] Kaguya says she will never forgive Erebus.[@ar03-erebus]
+Facing Alfia on the eighteenth floor, she vows revenge "even if my decapitated head must bite out her throat".[@ar03-revenge] When Vito arrives, she sends Lyra back to the main fight and takes on him and his followers alone, with her reforged sword Higanbana.[@ar03-vito, ar03-higanbana] Vito tells her of the defect that lets him see colour only in other people's blood.[@ar03-vito-story] She calls him "a bloodthirsty beast, hiding behind tragic tales", then cuts him down with Five Lights, letting the fifth slash vanish just short of his heart, and leaves him to die.[@ar03-beautiful, ar03-five-lights] She returns in time to save Lyu from Alfia, and rallies the others in the last clash: attack, do not defend; flinch and you die, and to flee is shame.[@ar03-seventeen, ar03-rally] After Alfia's defeat, Astrea updates every member of the Familia at once and Alize calls them all Level 4; Kaguya joins the attack on [[delphyne|Delphyne]].[@ar03-level, ar03-delphyne] Erebus asks that Vito be left to his fate; Vito, "cut to ribbons by Kaguya", escapes the Dungeon without the arm she cut off.[@ar03-vito-fate] Kaguya says she will never forgive Erebus.[@ar03-erebus]
 
 ## Death
 
@@ -156,7 +155,6 @@ With four of them left, Alize asked Kaguya and Lyra for their lives so that Lyu 
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How and why she left the Gojouno clan, her "former house", and came west to Astrea; the text says only Astrea knew her past.[@ar03-clan, ar02-deputy]
-> - Whether Iai Strike: Gleaming Blade (Astrea Record 2) and Flashing Blade (Astrea Record 3) are one technique under two names.[@ar02-iai, ar03-higanbana]
 > - What the Skill half of Five Lights does on its own.[@ar03-clan]
 > - Who says "I'll give you my shortsword" in DanMachi 14, and whether Lyu's Futaba came from Kaguya.[@fm14-shortsword]
 > - Her other Skills, spells and Development Abilities, and any title from the gods: none was located in the checked text. Names credited to her in other sources (the Skills Kaina Blood and Tekiheni, the Development Ability Night Fight) were not located in the checked text either.[@ar03-clan, fm14-rival]
@@ -182,14 +180,16 @@ With four of them left, Alize asked Kaguya and Lyra for their lives so that Lyu 
 [@ar02-hero]: AR02 | Chapter 3: A Gray Wildflower | "I can’t think of a word that suits me less."
 [@ar02-camp]: AR02 | Chapter 3: A Gray Wildflower | The evacuee camp and Syr; "We’re just regular old hypocrites"; "far more adept at martial arts than any of her peers"; teamwork with Lyra.
 [@ar02-erebus]: AR02 | | "tricking us like that, Eren"; "Justice is a weapon"; "nothing but regret".
+[@ar02-issen-ja]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): the Japanese edition (file c4A0) names the draw Issen, a single flash, the name Astrea Record 3 gives Flashing Blade.
 [@ar02-iai]: AR02 | | Katana against Vito's dagger; "Iai Strike: Gleaming Blade!"; "An art passed down through my accursed bloodline."
 [@ar02-alfia]: AR02 | | Alfia stops the blade with two fingers; "Gospel"; "Even Kaguya’s sword exploded into a million tiny pieces."
+[@ar02-futaba-ja]: AR02 | | The Japanese edition (file c4JS) names the technique Futaba, twin leaves, and the short swords it is struck with Futaba too.
 [@ar02-futaba]: AR02 | | "Iai Strike: Futaba!"; "the short swords that bore her technique’s name"; "My sword shed your blood!"
 [@ar02-retreat]: AR02 | | "I swear… I’m going to kill that woman!"; "You’re twice my size!"; "We need that idiotic elf, as well…!"
-[@ar02-happiest]: AR02 | | Astrea: "It was the day Kaguya joined us."
+[@ar02-happiest]: AR02 | | Astrea: her happiness, that Kaguya lent her strength (the Japanese edition, file c4X7).
 [@ar02-garden]: AR02 | | Kaguya unconscious under Marieux's care; "That must be where Leon is"; she gets up.
 [@ar02-door]: AR02 | | "I’m going to have to break down this door"; "Because she’s Alize Lovell."
-[@ar02-peon]: AR02 | | "Show your repentance by acting as my peon for a week, you idiot."
+[@ar02-peon]: AR02 | | For a while Lyu's job is to be their servant (the Japanese edition, file c6TM).
 [@ar03-aiz]: AR03 | | Kaguya on Aiz's swordplay. The Japanese edition (file cTV, paragraph 40) calls it an asura's rather than a master swordsman's, at not yet ten.
 [@ar03-revenge]: AR03 | Chapter 4: Apocalypse Cometh | "even if my decapitated head must bite out her throat!"
 [@ar03-vito]: AR03 | Chapter 4: Apocalypse Cometh | Vito arrives; "Get back, Lyra! And don’t tell the others!"

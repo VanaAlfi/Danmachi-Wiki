@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The azure-haired goddess of chastity and an archer, counted with Hestia and Athena among the virgin goddesses; her homeless, all-female Familia wanders the continent on a perpetual hunt, and in Astrea Record 3 she brings it to Orario to fight in the Great Conflict.",
-  "aliases": ["Lady Artemis", "Artemis Familia", "Rethusa", "Lanta", "Lante"],
+  "aliases": ["Lady Artemis", "Artemis Familia"],
   "spoilers": "DanMachi Vols. 2, 17, 18, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 1",
   "related": ["astrea", "hestia", "hermes", "great-conflict", "evils", "freya"],
   "sections": [
@@ -19,7 +19,7 @@
       {"section": "Identity"},
       {"label": "Japanese", "value": "{{ja|アルテミス}}", "refs": ["ar03-artemis-ja"]},
       {"label": "Type", "value": "Goddess of chastity", "refs": ["ar03-arrival"]},
-      {"label": "Hair", "value": "Azure", "refs": ["ar03-arrival", "ar03-hermes"]},
+      {"label": "Appearance", "value": "Azure hair", "refs": ["ar03-arrival", "ar03-hermes"]},
       {"label": "Weapon", "value": "Bow and arrows", "refs": ["ar03-arrival"]},
       {"section": "Familia"},
       {"label": "Familia", "value": "[[#artemis-familia|Artemis Familia]], a wandering, all-female band of hunters", "refs": ["ar03-familia", "ar03-hermes"]},

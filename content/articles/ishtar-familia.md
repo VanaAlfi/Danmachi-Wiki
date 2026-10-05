@@ -21,22 +21,22 @@
       {"section": "Familia"},
       {"label": "Japanese", "value": "{{ja|イシュタル・ファミリア}}", "refs": ["fm07-ishtar-familia-ja"]},
       {"label": "Deity", "value": "[[ishtar|Ishtar]]", "refs": ["fm07-eina", "fm07-meeting"]},
-      {"label": "Territory", "value": "The whole [[pleasure-quarter|Pleasure Quarter]]", "refs": ["fm07-eina"]},
+      {"label": "Territory", "value": "The [[pleasure-quarter|Pleasure Quarter]] (its sphere of influence)", "refs": ["fm07-eina"]},
       {"label": "Home", "value": "Belit Babili", "refs": ["fm07-search"]},
       {"label": "Guild rank", "value": "A", "refs": ["fm07-eina", "fm19-rank"]},
       {"label": "Members", "value": "About 90 percent women, most of them Amazons", "refs": ["fm07-eina"]},
       {"label": "Captain", "value": "[[phryne-jamil|Phryne Jamil]], Level 5", "refs": ["fm07-eina", "so06-meren"]},
-      {"label": "Vice captain", "value": "[[#tammuz-berrilli|Tammuz Berrilli]], Level 4", "refs": ["fm07-second", "so09-vice"]},
+      {"label": "Vice-captain", "value": "[[#tammuz-berrilli|Tammuz Berrilli]], Level 4", "refs": ["fm07-second", "so09-vice"]},
       {"label": "Fate", "value": "Destroyed by [[freya-familia|Freya Familia]] in DanMachi 7; Ishtar sent back to the heavens", "refs": ["fm07-attack", "fm07-epilogue"]}
     ]
   }
 }
 ---
-**Ishtar Familia** was the Familia of the goddess [[ishtar|Ishtar]]: an influential Dungeon-prowling Familia, ranked A by the [[guild|Guild]], whose territory took in the whole of [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]].[@fm07-eina] Most of its members were women, mainly Amazons, and its fighting core was the Berbera, led by the Level 5 captain [[phryne-jamil|Phryne Jamil]].[@fm07-eina] In DanMachi 7 [[freya-familia|Freya Familia]] attacked first and destroyed it; Ishtar was sent back to the heavens, and its members went on to other Familias.[@fm07-attack, fm07-epilogue, so08-drinks]
+**Ishtar Familia** was the Familia of the goddess [[ishtar|Ishtar]]: an influential Dungeon-prowling Familia, ranked A by the [[guild|Guild]], whose sphere of influence was [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]].[@fm07-eina] Most of its members were women, mainly Amazons, and its fighting core was the Berbera, led by the Level 5 captain [[phryne-jamil|Phryne Jamil]].[@fm07-eina] In DanMachi 7 [[freya-familia|Freya Familia]] attacked first and destroyed it; Ishtar was sent back to the heavens, and its members went on to other Familias.[@fm07-attack, fm07-epilogue, so08-drinks]
 
 ## Organisation
 
-[[eina-tulle|Eina]] tells [[bell-cranell|Bell]] that Ishtar Familia earned a great deal in the Dungeon by day, but drew 40 percent of its income from the Pleasure Quarter in the third district. About 90 percent of its members were women, most of them Amazons.[@fm07-eina] Its home was the palace Belit Babili, and when Phryne makes off with Bell the search draws in the whole Familia: animal people, elves and noncombatants, adventurers and prostitutes alike.[@fm07-search] Ishtar's leading Amazons meet in a room on the twentieth floor of the home.[@fm07-meeting] [[haruhime|Haruhime]] is not on the Guild's roster, and Eina guesses she is a noncombatant without a Blessing.[@fm07-eina]
+[[eina-tulle|Eina]] tells [[bell-cranell|Bell]] that Ishtar Familia earned a great deal in the Dungeon by day, while its brothels in the third district were said to bring in over 40 percent of the whole Pleasure Quarter's income. About 90 percent of its members were women, most of them Amazons.[@fm07-eina] Its home was the palace Belit Babili, and when Phryne makes off with Bell the search draws in the whole Familia: animal people, elves and noncombatants, adventurers and prostitutes alike.[@fm07-search] Ishtar's leading Amazons meet in a room on the twentieth floor of the home.[@fm07-meeting] [[haruhime|Haruhime]] is not on the Guild's roster, and Eina guesses she is a noncombatant without a Blessing.[@fm07-eina]
 
 Ishtar kept a ring of handsome male servants around her, Tammuz chief among them.[@fm07-servants] Her Charm weighed on her followers: [[aisha-belka|Aisha]] could never have rebelled against her goddess anyway, though she kept her own will.[@fm07-charm] DanMachi 18 sets Samira, who took part in the Killing Stone ritual willingly, against Aisha, who could not resist the Charm, and [[lena-tully|Lena]] and others, who were threatened.[@fm18-samira]
 
@@ -52,7 +52,7 @@ Ishtar kept a ring of handsome male servants around her, Tammuz chief among them
 
 ## The Berbera {#berbera}
 
-The Berbera were the Familia's leaders and its strongest Amazon warriors.[@fm07-meeting] Eina says most of them were Level 3, apart from their Level 5 leader Phryne.[@fm07-eina] On the night of the ritual, most of the Berbera posted in the palace, including almost every member of Level 3 or higher, more than a hundred Amazons, gathered in the Floating Garden.[@fm07-ritual] DanMachi 14 recalls them in the Dungeon: they killed the [[amphisbaena|Amphisbaena]] many times, a monster that usually took more than twenty Berbera, and in the deep levels Haruhime was dragged into battle to chant for them while Amazons fell around her.[@fm14-amphisbaena, fm14-deep]
+The Berbera were the Familia's leaders and its strongest Amazon warriors.[@fm07-meeting] Eina says many of them were Level 3 or higher, under their Level 5 leader Phryne.[@fm07-eina] On the night of the ritual, most of the Berbera posted in the palace, including almost every member of Level 3 or higher, more than a hundred Amazons, gathered in the Floating Garden.[@fm07-ritual] DanMachi 14 recalls them in the Dungeon: they killed the [[amphisbaena|Amphisbaena]] many times, a monster that usually took more than twenty Berbera, and in the deep levels Haruhime was dragged into battle to chant for them while Amazons fell around her.[@fm14-amphisbaena, fm14-deep]
 
 After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's crew, most of them Level 3, still meet for drinks although they have all converted to different Familias.[@so08-drinks] DanMachi 19 recalls that the Familia was rank A before it was disbanded.[@fm19-rank]
 
@@ -65,7 +65,7 @@ After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's 
 | DanMachi 7 | Ishtar orders Bell captured to strike at [[freya|Freya]].[@fm07-meeting] Phryne abducts him against her orders.[@fm07-search] The Familia prepares the Killing Stone ritual on the Floating Garden.[@fm07-ritual] Freya Familia attacks first, and its elite sets out to incapacitate the Familia's fighters.[@fm07-attack] Aisha tells Lena to lead the others out, since the Familia is "as good as dead".[@fm07-lena] Ishtar is sent back to the heavens. With her Status sealed, Aisha leaves to find a new Familia.[@fm07-epilogue] |
 | Sword Oratoria 6 | At Port Meren Ishtar brings Phryne and the Berbera to meet [[kali-familia|Kali Familia]]. She agrees to let them fight [[loki-familia|Loki Familia]], but will pull her girls out if the fight goes badly.[@so06-meren] After Phryne's defeat Aisha orders the Berbera to retreat.[@so06-retreat] |
 | Sword Oratoria 7 | Tammuz is at Ishtar's side in [[knossos|Knossos]] as she watches the spirit there crush Loki Familia.[@so07-tammuz] |
-| Sword Oratoria 8 | Assassins of Sekhmet Familia hunt down Amazons, most of them former members. [[finn-deimne|Finn]] concludes that the Evils are silencing them to keep Loki Familia from finding Ishtar's key to Knossos.[@so08-hunt, so08-sekhmet, so08-victims] Amid's anti-curse [[potions#elixir|elixir]] saves most of the victims, but not all.[@so08-graves] |
+| Sword Oratoria 8 | Assassins of Sekhmet Familia hunt down Amazons, most of them former members. [[finn-deimne|Finn]] concludes that the Evils are silencing them to keep Loki Familia from finding Ishtar's key to Knossos.[@so08-hunt, so08-sekhmet, so08-victims] Amid's anti-curse [[potions#elixir|elixir]] saves many of the victims, but not all.[@so08-graves] |
 | Sword Oratoria 9 | Freya questions Tammuz about Ishtar's plans and keeps the key he brought with him.[@so09-tammuz] |
 | Sword Oratoria 12 | Aisha and the Berbera join the battle for Knossos, where they guard Haruhime. When Samira howls, the Berbera who had been held back charge.[@so12-join, so12-guard, so12-charge] |
 | DanMachi 18 | In the war game against Freya Familia, Aisha and the former Ishtar Amazons hold the left wing, while Samira commands the reserves around Haruhime.[@fm18-left, fm18-reserves] |
@@ -79,7 +79,7 @@ After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's 
 
 Samira is an Amazon of the Berbera with short ash-grey hair and cocoa skin, who speaks in a distinctly masculine way.[@fm07-samira, so08-samira] In DanMachi 7 she was in charge of preparing the Killing Stone ritual, so she missed the hunt for Bell.[@fm07-ritual, fm07-mikoto] When [[mikoto|Mikoto]] breaks into the Floating Garden to rescue Haruhime, Samira asks Phryne and Aisha to let her have the intruder, and beats her while Haruhime watches in tears.[@fm07-mikoto]
 
-In Sword Oratoria 8 she brushes off [[hyrute-sisters|Tiona]], who calls her "Salami"; the narration there calls her "the ex–Ishtar Familia captain", although Phryne was the captain in DanMachi 7.[@so08-samira, fm07-eina] When the Amazon hunt seems to have killed her friends, she weeps and buys their gravestones, and Lena calls her "our old ritual leader".[@so08-graves]
+In Sword Oratoria 8, a former member of Ishtar Familia, she brushes off [[hyrute-sisters|Tiona]], who calls her "Salami".[@so08-samira] When the Amazon hunt seems to have killed her friends, she weeps and buys their gravestones, and Lena recalls that she was once in charge of the ritual implements.[@so08-graves]
 
 In DanMachi 18 she commands the reserves guarding Haruhime. Haruhime decides to keep using her Level Boost in front of the whole city, although it will expose her secret. Samira admits that she once hated her, but likes who she has become, and promises to protect her.[@fm18-samira] She fights on even as she wrecks her own limbs, and with a spear through her shoulder brings down the Freya Familia warrior Noga with a headbutt.[@fm18-noga]
 
@@ -93,11 +93,11 @@ In DanMachi 18 she commands the reserves guarding Haruhime. Haruhime decides to 
 
 ## Tammuz Berrilli {#tammuz-berrilli}
 
-Tammuz is a dark-skinned, black-haired human, Ishtar's favourite servant and personal assistant.[@fm07-servants, so09-tammuz] He is the Familia's second-in-command; Sword Oratoria 9 names him once in full as "Ishtar Familia's vice captain, Tammuz Berrilli".[@fm07-second, so09-vice] He pins Bell to the floor before Bell can react, and Ishtar explains: "He may not look it, but Tammuz is Level Four."[@fm07-second] In Sword Oratoria 8 Lena remembers him catching her in Ishtar's secret vault and telling her to forget what she saw; [[valletta|Valletta]] knows him as the right-hand man who came with Ishtar to Knossos.[@so08-vault, so08-valletta]
+Tammuz ({{ja|タンムズ・ベリリ}})[@tammuz-berrilli.so09-ja] is a dark-skinned, black-haired human, Ishtar's favourite servant and personal assistant.[@fm07-servants, so09-tammuz] He is the Familia's second-in-command; Sword Oratoria 9 names him once in full as "Ishtar Familia's vice captain, Tammuz Berrilli".[@fm07-second, so09-vice] He pins Bell to the floor before Bell can react, and Ishtar explains: "He may not look it, but Tammuz is Level Four."[@fm07-second] In Sword Oratoria 8 Lena remembers him catching her in Ishtar's secret vault and telling her to forget what she saw; [[valletta|Valletta]] knows him as the right-hand man who came with Ishtar to Knossos.[@so08-vault, so08-valletta]
 
 When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof and reaches for Freya's neck from behind. She turns, and her beauty charms him on the spot, in front of Ishtar.[@fm07-tammuz-freya] Sword Oratoria 9 shows what followed. Freya took him home out of curiosity, had [[ottar|Ottar]] dispose of the assassins sent after him, and hid him from [[loki|Loki]]. He tells her that Ishtar had reached out to Kali Familia and the Evils' remnants to defeat her, and he had brought Ishtar's Daedalus's Orb, a key to Knossos, with him.[@so09-tammuz] In Sword Oratoria 11 Ottar says he heard about the creatures from Tammuz.[@so11-ottar] In DanMachi 18, fighting for Freya Familia, a Level 4 human named Tammuz is knocked out by [[lyu-leon|Lyu]] with a single blow.[@fm18-tammuz]
 
-[@fm07-eina]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Eina: territory "all of the Pleasure Quarter"; 90 percent female, most Amazons; 40 percent of income from the Pleasure Quarter; the Berbera mostly Level 3, led by Phryne (Level 5); Aisha Level 3, Antianeira; Haruhime not on the list; Guild rank A.
+[@fm07-eina]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | Eina: the Pleasure Quarter; 90 percent female, most Amazons; the Berbera, led by Phryne (Level 5); Aisha Level 3, Antianeira; Haruhime not on the list; Guild rank A. The Japanese edition (file c3DU, paragraphs 188 and 191–192) calls the Pleasure Quarter its sphere of influence, says its brothels are said to bring in over 40 percent of the whole quarter's income, and has many of the Berbera at Level 3 or higher.
 [@fm07-meeting]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | The meeting room on the twentieth floor; "The Berbera had assembled"; "All of you avoid Freya’s brats—and bring me Bell Cranell."
 [@fm07-samira]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "Samira, an Amazon with hair the color of ash, voiced her opinion in a distinctly male way."
 [@fm07-search]: FM07 | Chapter 5: Killing Stone | "Ishtar Familia’s home, Belit Babili"; Phryne takes Bell; the entire Familia, "including animal people, elves, and noncombatants", joins the search.
@@ -133,12 +133,12 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@so07-tammuz]: SO07 | Chapter 5: Battle of Tears | Ishtar watches the spirit's destruction in Knossos; "Look, Tammuz! It makes even the floor bosses look like mere playthings!"
 [@so08-drinks]: SO08 | Chapter 1: Lonely Wolf | Aisha's crew of Berbera, most of them Level 3, "continuing to meet for drinks even though they had all converted to different familias".
 [@so08-valletta]: SO08 | Chapter 1: Lonely Wolf | "The goddess’s most trusted right-hand man, he came with her time and time again on her visits to Knossos."
-[@so08-samira]: SO08 | Chapter 2: Did Someone Order a Wolf? | "My name is Samira! Not some food!"; "the cocoa-skinned Amazon with the short ashen hair"; "the ex–Ishtar Familia captain’s rejection".
+[@so08-samira]: SO08 | Chapter 2: Did Someone Order a Wolf? | "My name is Samira! Not some food!"; "the cocoa-skinned Amazon with the short ashen hair". The Japanese edition (file c1Y3, paragraph 26) calls her a former member of Ishtar Familia.
 [@so08-vault]: SO08 | Chapter 3: Unshed Tears | "I got caught by Tammuz. He was our vice captain."; "forget everything I saw".
 [@so08-hunt]: SO08 | Chapter 3: Unshed Tears | Finn: "They must be trying to silence them to keep us from finding the key…!"
 [@so08-sekhmet]: SO08 | Chapter 4: Lonesome Night | "The assailants have been identified as Sekhmet Familia, the shadow of the mainland".
 [@so08-victims]: SO08 | Chapter 4: Lonesome Night | Those affected by the "Amazon hunt": "Most were former Ishtar Familia members", with noncombatant courtesans.
-[@so08-graves]: SO08 | Epilogue: Instead of Good-bye— | Samira's graves for her friends; "our old ritual leader"; Amid's item saved almost all, but some, like Fallujah, died.
+[@so08-graves]: SO08 | Epilogue: Instead of Good-bye— | Samira's graves for her friends; Amid's item saved many, but some, like Fallujah, died. The Japanese edition (file c5VH, paragraphs 12 and 21) has Lena recall that Samira was in charge of the ritual implements, and says many were saved.
 [@so09-vice]: SO09 | Chapter 2: A Brief Calm | "The location of Ishtar Familia’s vice captain, Tammuz Berrilli, and the whereabouts of the key to Knossos."
 [@so09-tammuz]: SO09 | Chapter 2: A Brief Calm | "Tammuz, tell me again. What was Ishtar planning?"; "dark-skinned, black-haired"; Ottar disposes of the assassins; the key he had taken with him.
 [@so11-ottar]: SO11 | Chapter 3: The True Face of a God | Ottar: "A creature, huh? I heard about it from Tammuz".
@@ -147,3 +147,4 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@so12-charge]: SO12 | Chapter 8: A Heroes’ Chorus | "Samira howled, and the Berbera who had been kept out of the fight on strict orders charged as one."
 [@ss01-berbera]: SS01 | | "Eyewitness Account: The Berbera": Aisha is out with Samira and her colleagues from the old Ishtar Familia when one of them points out Bell. The Japanese edition (file part0087, paragraphs 3–5) does not say who speaks.
 [@fm07-ishtar-familia-ja]: FM07 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@tammuz-berrilli.so09-ja]: SO09 | | The Japanese edition prints the name in katakana.

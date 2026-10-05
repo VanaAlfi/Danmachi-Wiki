@@ -16,9 +16,9 @@
       {"section": "Monster"},
       {"label": "Japanese", "value": "{{ja|ラムトン}}", "refs": ["so14-lambton-ja"]},
       {"label": "Proper name", "value": "Wormwell (\"serpent\" + \"water well\") ({{ja|大蛇の井戸}}, written *the great serpent's well*)", "refs": ["fm13-name", "so14-name", "fm14-wormwell-ja"]},
-      {"label": "Class", "value": "Extreme large category, big enough to be a floor boss", "refs": ["fm13-size"]},
+      {"label": "Type", "value": "Extreme large category, big enough to be a floor boss", "refs": ["fm13-size"]},
       {"label": "Size", "value": "About 5 meders high and at least 10 long", "refs": ["fm13-size"]},
-      {"label": "Habitat", "value": "Normally [[floor-37|Floor 37]]; highest sighting before DanMachi 13 was Floor 29", "refs": ["fm13-floor", "fm13-record"]},
+      {"label": "Found", "value": "Normally [[floor-37|Floor 37]]; highest sighting before DanMachi 13 was Floor 29", "refs": ["fm13-floor", "fm13-record"]},
       {"label": "Ability", "value": "Bores through rock to move between floors", "refs": ["fm13-name", "so14-name"]},
       {"label": "Features", "value": "Pointed head, jaws that open vertically, nine pits on each side of the mouth; deep blue skin", "refs": ["fm13-look"]}
     ]
@@ -31,7 +31,7 @@ The **lambton** is a giant serpent monster from the deep levels of the [[dungeon
 
 The lambton is an extreme large-category monster, big enough to be a floor boss: about five meders high and at least ten long.[@fm13-size] Its head narrows to a point, its jaws open vertically and are wide enough to swallow an [[monsters#orc|orc]], and on each side of its mouth are nine holes, an organ other monsters lack. Bell describes deep blue skin and amber eyes.[@fm13-look] The pits on its head are its senses: losing them is like being blinded, and it can no longer burrow.[@fm13-pits] Its stomach acid melts Bell's protective gear.[@fm14-acid] In Sword Oratoria 14 one lambton has three pairs of eyes.[@so14-fight]
 
-What makes it terrifying is that it ignores the Dungeon's levels. It bores vertically upward through the floors, like digging a well in reverse, and can appear on floors far above its own; for wormwells this is their nature, not an irregularity.[@fm13-floor] [[aisha-belka|Aisha]] says the written characters of its "over-the-top" nickname mean "evil omen", and Bell notes that the sound of its burrowing foretells disaster.[@fm13-name, fm13-record] Sword Oratoria 14 calls the rumble of its movement through rock the only warning of a wipeout.[@so14-name]
+What makes it terrifying is that it ignores the Dungeon's levels. It bores vertically upward through the floors, like digging a well in reverse, and can appear on floors far above its own; for wormwells this is their nature, not an irregularity.[@fm13-floor] For Aisha, though, a deep-level species on the Water Capital's floors is one more of the expedition's Irregulars.[@fm14-another] [[aisha-belka|Aisha]] says the written characters of its "over-the-top" nickname mean "evil omen", and Bell notes that the sound of its burrowing foretells disaster.[@fm13-name, fm13-record] Sword Oratoria 14 calls the rumble of its movement through rock the only warning of a wipeout.[@so14-name]
 
 ## DanMachi 13: the Water Capital
 
@@ -67,6 +67,7 @@ Before he joined [[loki-familia|Loki Familia]], [[gareth|Gareth]] meets a lambto
 [@fm13-pits]: FM13 | Chapter 4: Countdown | "For a lambton, losing the pits on its head was equivalent to being blinded"; it could no longer burrow.
 [@fm13-swallow]: FM13 | Chapter 5: Calamity Arrives | The collar still pulsing with the dead man's last wish; "The lambton was supposed to be dead."; Bell and Lyu engulfed; the Juggernaut follows.
 [@fm13-escape]: FM13 | | The lambton burned open from inside; the black knife; Bell crawls out.
+[@fm14-another]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "The moss huge, the lambton…it’s been one Irregular after another!"; the Japanese edition (file cAP, paragraph 119) calls the lambton a deep-level species.
 [@fm14-swallowed]: FM14 | Chapter 9: Hello, Deep Levels | "It’s the lambton, otherwise known as a wormwell"; swallowed on the twenty-seventh floor, burrowed down.
 [@fm14-acid]: FM14 | Chapter 9: Hello, Deep Levels | "melted by the lambton’s acid"; the wormwell's stomach acid.
 [@so14-mines]: SO14 | Chapter 3: The Dwarf’s Embarking | Due west from Lonza to the Celcebo mines; the lambton's den; the cave-ins.

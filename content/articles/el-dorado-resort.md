@@ -19,7 +19,7 @@
     "rows": [
       {"section": "Casino"},
       {"label": "Japanese", "value": "{{ja|エルドラド・リゾート}}", "refs": ["fc01-el-dorado-ja"]},
-      {"label": "Also called", "value": "The Grand Casino; \"The Golden City\"", "refs": ["fc01-grand", "fc01-vault"]},
+      {"label": "Also called", "value": "The Grand Casino ({{ja|最大賭博場}}, written *largest gambling hall*); \"The Golden City\"", "refs": ["fc01-grand", "fc01-vault", "fc01-grand-ja"]},
       {"label": "Location", "value": "The Shopping District of [[orario|Orario]]", "refs": ["fc01-district"]},
       {"label": "Backed by", "value": "The Paradise City, Santorio Vega", "refs": ["fc01-grand"]},
       {"label": "Security", "value": "[[ganesha-familia|Ganesha Familia]], under contract", "refs": ["fc01-district"]},
@@ -53,13 +53,13 @@ Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign
 | Exposed | Lyu reveals that he is not Terry Cervantes but Ted, and proves it with the [[status-thief|Status Thief]].[@fc01-ted] His two bodyguards, who fight under the names Faust and Lolo, "the aliases of a menacing bounty hunter and an assassin", are defeated. [[runoa|Runoa]] and [[chloe|Chloe]] later grumble about the borrowed names.[@fc01-bodyguards, fc01-names] |
 | The vault | Ted drags Anna into the vault, and Lyu blasts through its adamantite door.[@fc01-vault, fc01-blast] Syr whispers a name in his ear, and Ted is left muttering "F-Freya Familia…" when Ganesha Familia arrives.[@fc01-whisper] |
 
-Afterwards the owner was replaced, El Dorado Resort carried on as before, and the women of Ted's collection were paid reparations and sent home.[@fc01-after] Ganesha Familia got the credit. The count and countess were never identified, and rumours ranged from robbers to agents of the Guild or the return of the "envoys of justice".[@fc01-rumours]
+Afterwards the owner was replaced, El Dorado Resort carried on as before, and the women of Ted's collection were paid reparations and sent home.[@fc01-after] Ganesha Familia got the credit. The count and countess are not identified, and rumours ranged from robbers to agents of the Guild or the return of the "envoys of justice".[@fc01-rumours]
 
 ## Terry Cervantes (Ted) {#ted}
 
-**Ted** is a dwarf who runs El Dorado Resort as **Terry Cervantes**, in a fine black suit, with slicked-back hair and a well-kept beard.[@fc01-meeting] He was once the bookie of an establishment that ran illegal gambling dens in Orario. His goddess was exiled and returned to the heavens, but her Status remains on his back. [[astrea-familia|Astrea Familia]] once caught him in a roundup of criminals.[@fc01-ted, fc01-astrea]
+**Ted** is a dwarf who runs El Dorado Resort as **Terry Cervantes** ({{ja|テリー・セルバンティス}})[@ted.fc01-ja], in a fine black suit, with slicked-back hair and a well-kept beard.[@fc01-meeting] He was once the bookie of an establishment that ran illegal gambling dens in Orario. His goddess was exiled and returned to the heavens, but her Status remains on his back. [[astrea-familia|Astrea Familia]] once caught him in a roundup of criminals.[@fc01-ted, fc01-astrea]
 
-- **The stolen name:** the real Terry Cervantes, sent from Santorio Vega, died in an accident shortly before arriving, which Ted happened to witness. Ted took his identity, bribed Santorio Vega's investigators, and had his bodyguards dispose of people who knew the real man.[@fc01-identity]
+- **The stolen name:** the real Terry Cervantes, sent from Santorio Vega, died in an accident shortly before arriving; Ted seized on the death and took his identity, bribed Santorio Vega's investigators, and had his bodyguards dispose of people who knew the real man.[@fc01-identity]
 - **Fate:** he confessed everything under the Guild's questioning, and Santorio Vega cut him loose. He is held in one of the Guild's solitary cells, still shaking.[@fc01-identity, fc01-after]
 
 ## Anna Kreiz {#anna-kreiz}
@@ -73,6 +73,8 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@fc01-district]: FC01 | Crush the Grand Casino! | "Gambling’s the biggest industry in the city after ­magic-­stone items."; "the one place in Orario that the law can’t reach"; Mayrustra and Santorio Vega; "contracted Ganesha Familia for security".
 [@fc01-invitation]: FC01 | Crush the Grand Casino! | "if you aren’t rich, you can’t get in"; "It’s a count from some small country, apparently."
 [@fc01-grand]: FC01 | Crush the Grand Casino! | "Financed and established by the Paradise City, Santorio Vega"; "Orario’s number one gambling establishment, the Grand Casino"; the Kreizes' daughter.
+[@ted.fc01-ja]: FC01 | | The Japanese edition prints the assumed name in katakana.
+[@fc01-grand-ja]: FC01 | | The Japanese edition writes the Grand Casino with kanji meaning largest gambling hall, read Grand Casino.
 [@fc01-anna]: FC01 | Crush the Grand Casino! | "the man who had stolen Karen and Huey Kreiz’s daughter, Anna".
 [@fc01-entry]: FC01 | Crush the Grand Casino! | "El Dorado Resort is the Grand Casino."; a special pass for Gold Card holders.
 [@fc01-bell]: FC01 | Crush the Grand Casino! | "on the introduction of the Gold Card holder Mord".
@@ -89,7 +91,7 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@fc01-names]: FC01 | Crush the Grand Casino! | Chloe: "I wanted to go see what sort of villains tried to take our names, meow."
 [@fc01-blast]: FC01 | Crush the Grand Casino! | "the vault exploded with an enormous boom".
 [@fc01-whisper]: FC01 | Crush the Grand Casino! | Syr: "I said the name of the familia of our benefactor, Mama Mia."; "F-Freya Familia…"
-[@fc01-identity]: FC01 | Crush the Grand Casino! | "the real Terry Cervantes who had been sent from Santorio Vega"; "died in an unfortunate accident"; "exorbitant bribes"; "Santorio Vega obviously cut him loose".
+[@fc01-identity]: FC01 | Crush the Grand Casino! | "the real Terry Cervantes who had been sent from Santorio Vega"; "died in an unfortunate accident"; "exorbitant bribes"; "Santorio Vega obviously cut him loose". The Japanese edition (file c3JC, paragraph 253) says Ted seized on the real man's accidental death; it does not say he witnessed it.
 [@fc01-after]: FC01 | Crush the Grand Casino! | "locked away in one of the Guild’s solitary cells"; "the owner had been replaced"; the women "sent back to their homelands".
 [@fc01-rumours]: FC01 | Crush the Grand Casino! | "Ganesha Familia is getting all the credit"; "envoys of justice who had returned"; "Ganesha Familia stopped their investigation".
 [@ss02-allen]: SS02 | The Night Before a Grand Casino Infiltration | "bring me an invitation to the casino!"; "he did infiltrate the casino".

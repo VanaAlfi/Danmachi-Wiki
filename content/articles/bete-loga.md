@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Animal-person fighter of Loki Familia from the Beastmen of the Plains, formerly captain of Víðarr Familia; Level 6 from Sword Oratoria 6.",
-  "aliases": ["Bete", "Fenris", "Vanargand", "Selenia", "Luna", "Renee", "Reene"],
+  "aliases": ["Bete", "Fenris", "Vanargand"],
   "spoilers": "DanMachi Vols. 1, 10, 17, 18, Sword Oratoria Vols. 1, 5, 6, 8, 10, 12, 13, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["aiz-wallenstein", "haruhime", "tsubaki", "bell-cranell", "horn", "magic"],
   "infobox": {
@@ -15,6 +15,7 @@
     "rows": [
       {"section": "Personal"},
       {"label": "Japanese", "value": "{{ja|ベート・ローガ}}", "refs": ["so12-bete-ja"]},
+      {"label": "Race", "value": "[[races#werewolf|Werewolf]]", "refs": ["so01-werewolf"]},
       {"label": "People", "value": "Beastmen of the Plains", "refs": ["so08-plains"]},
       {"section": "Adventurer"},
       {"label": "Familia", "value": "Víðarr Familia (captain); later Loki Familia", "refs": ["so08-vidarr"]},
@@ -23,7 +24,7 @@
       {"label": "Title", "value": "Vanargand ({{ja|凶狼}}, written *vicious wolf*)", "refs": ["fm10-vanargand", "so12-vanargand", "so12-bete-ja"]},
       {"label": "Magic", "value": "[[#hati|Hati]]", "refs": ["so08-hati"]},
       {"label": "Skills", "value": "[[skills#ulfhedinn|Úlfheðinn]], [[skills#fenris-wolf|Fenris Wolf]], [[skills#solmani|Solmani]]", "refs": ["skills.so05-sheet", "skills.so10-solmani"]},
-      {"label": "Equipment", "value": "Frosvirt, made by Tsubaki", "refs": ["so08-hati"]}
+      {"label": "Weapons", "value": "Frosvirt, made by Tsubaki", "refs": ["so08-hati"]}
     ]
   }
 }
@@ -32,11 +33,11 @@
 
 ## Past
 
-A dragon destroyed Bete's tribe on the plains: his father, his mother and his sister, Luna, were killed, and so was the girl born on the same day as him, his childhood friend, whom he had trained to "claim her for his own"; over her remains he cries "Renee…!"[@so08-plains, so08-renee] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), Selenia, bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
+A dragon destroyed Bete's tribe on the plains: his father, his mother and his sister, Luna, were killed, and so was the girl born on the same day as him, his childhood friend; he had trained day in and day out until he was the strongest of the tribe's children and "could claim her for his own". Over her remains he cries "Renee…!"[@so08-plains, so08-renee] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), Selenia, bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
 
 Sword Oratoria 8 presents his contempt for weakness as a response to these losses.[@so08-hati]
 
-The healer [[leene-arshe|Leene Arshe]], who loved him, is killed in Knossos in Sword Oratoria 7. Bete mocks her as she dies, and the Familia turns against him. Later [[raul-nord|Raul]] realises that Bete was telling them he does not want to lose them again, even in their next lives.[@leene.so08-death, leene.so08-raul] Minor Myths and Legends 2 gives his last words to her: "How many times have your hands saved me? You’ve done enough."[@leene.ss02-memory]
+The healer [[leene-arshe|Leene Arshe]], who loved him, is killed in Knossos in Sword Oratoria 7.[@leene.so07-losses] Bete mocks her as she dies, and the Familia turns against him. Later [[raul-nord|Raul]] realises that Bete was telling them never to lose again, even in their next lives.[@leene.so08-death, leene.so08-raul] Minor Myths and Legends 2 gives his last words to her: "How many times have your hands saved me? You’ve done enough."[@leene.ss02-memory]
 
 The young Amazon [[lena-tully|Lena Tully]], formerly of [[ishtar-familia|Ishtar Familia]], falls for him after he beats her at Port Meren. In Sword Oratoria 8 she trades what she saw of Ishtar's key for a Dungeon date. When assassins hunt the former Ishtar Familia Amazons, she runs to draw them away from him and is left for dead.[@lena.so08-meet, lena.so08-run] She survives thanks to [[amid|Amid]]'s anti-curse [[potions#elixir|elixir]], and finds forget-me-nots, the gift she had told him she liked best, on the grave made for her; only he could have left them.[@lena.so08-flowers, lena.so08-alive, lena.so08-graves]
 
@@ -87,12 +88,12 @@ Sword Oratoria 12 prints the whole chant again in seven pieces, split by other a
 
 - **Four flames.** Hati sets four enchantments of fire on his arms and legs; they have firepower of their own.[@hati.so08-explain, hati.so08-cast]
 - **Magic drain.** Any magic-based attack it touches is absorbed and raises its output and destructive power.[@hati.so08-explain]
-- **Damage drain.** Every injury makes it stronger, including the burns its own flames give him. Loki says it "basically has no limits", and it can grow into a pillar of fire.[@hati.so08-explain]
+- **Damage drain.** Every injury makes it stronger; since it drains magic by touching it, he cannot avoid being hit by the magic it absorbs. Loki says it "basically has no limits", and it can grow into a pillar of fire.[@hati.so08-explain]
 - **Allied magic.** In Sword Oratoria 12 [[lefiya|Lefiya]] fires [[magic#fusillade-fallarica|Fusillade Fallarica]] into Bete's attack on [[filvis|Filvis]]; the flames explode and, through the magic and damage drains, make his strike far stronger.[@hati.so12-filvis]
 
 #### Limits {#hati-limits}
 
-The drained damage does not heal him: in Sword Oratoria 8 his wounds remain however much power Hati has absorbed, and he knows he could die before reaching his enemy.[@hati.so08-wounds] Loki's "no limits" is a description of its growth, not a demonstrated absence of any limit.
+The drained damage does not heal him: in Sword Oratoria 8 his wounds remain however much power Hati has absorbed, and Valletta reckons he will die long before she does.[@hati.so08-wounds] Loki's "no limits" is a description of its growth, not a demonstrated absence of any limit.
 
 #### Frosvirt {#hati-frosvirt}
 
@@ -123,6 +124,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@fm17-bete]: FM17 | | Bete and Allen.
 [@fm18-bete]: FM18 | Chapter 9: Flower Language for You | Bete, Anya and Hörn.
 [@so01-bete]: SO01 | Chapter 3: White Rabbit | "Bete Loga."
+[@so01-werewolf]: SO01 | Chapter 3: White Rabbit | "An animal person, the werewolf Bete".
 [@so06-bete]: SO06 | | Level 6 after Floor 59.
 [@so08-plains]: SO08 | Chapter 1: Lonely Wolf | The dragon and his tribe.
 [@fm10-vanargand]: FM10 | Chapter 9: Dreams of Beasts | "“Vanargand” Bete Loga."
@@ -134,7 +136,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so08-drove]: SO08 | Chapter 3: Unshed Tears | Driving his former comrades away.
 [@so08-hati]: SO08 | Chapter 5: Battered Wolf | Hati; Frosvirt; Valletta; the reconciliation.
 [@leene.so08-death]: SO08 | Prologue: Scorn of the Strong | Leene Arshe dying in Knossos; Bete's words; her peaceful smile.
-[@leene.so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?"
+[@leene.so08-raul]: SO08 | Chapter 5: Battered Wolf | Raul: "he was doing the same for Leene and the others?" The Japanese edition (file c45H, paragraph 225) has Raul read Bete's last words to them as: even after you're reborn, don't lose again.
 [@leene.ss02-memory]: SS02 | | "How many times have your hands saved me? You’ve done enough." The Japanese edition (file part0047, paragraphs 19 to 21) words them as *You idiot…* and *I have been saved enough by your hands…*.
 [@lena.so08-meet]: SO08 | Chapter 1: Lonely Wolf | "You’re one of those whores from Ishtar Familia we fought in Meren…!"; "I’m Lena! Lena Tully!"
 [@lena.so08-flowers]: SO08 | Chapter 2: Did Someone Order a Wolf? | "There’s nothing that makes me happier than getting forget-me-nots!!"
@@ -146,10 +148,11 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 [@so12-bete]: SO12 | | Pseudo-Level 7 against Filvis.
 [@so13-bete]: SO13 | Chapter 1: Girl’s Revolution | Training Lefiya.
 [@hati.so08-cast]: SO08 | Chapter 5: Battered Wolf | Chant in seven pieces; "Hati."; the pyre; four flames.
-[@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits.
-[@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain.
+[@hati.so08-explain]: SO08 | Chapter 5: Battered Wolf | Gareth and Loki: magic drain, damage drain, Frosvirt, his scars, no limits. The Japanese edition (file c45H, paragraph 692) says that to drain magic he cannot avoid being hit by it, and that Hati feeds even on the damage carved into his body.
+[@hati.so08-wounds]: SO08 | Chapter 5: Battered Wolf | His wounds do not heal from the drain; Valletta's reckoning: "He’d kick the bucket far before Valletta even got close."
 [@hati.so12-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | The whole chant again in seven pieces ("Chained Fenris, king of wolves!"); flaming wolf; Fusillade Fallarica strengthens it.
 [@hati.so12-ja]: SO12 | Chapter 8: A Heroes’ Chorus | The Japanese edition (file cAFK, paragraph 356) writes the opening with the kanji for evil wolf and the reading Fros, as Sword Oratoria 8 does (paragraph 567).
 [@hati.so05-sheet]: SO05 | | Illustrated Status sheet, p. 212 (Level 5): Hati, enchant spell, fire attribute, Magic Drain, Damage Drain.
 [@so08-renee]: SO08 | Chapter 1: Lonely Wolf | "Father…Mother…Luna…"; "There had been a girl, too—born on the same day"; "he could claim her for his own"; "His mother; his sister, Luna"; "Renee…!"
 [@so12-bete-ja]: SO12 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning vicious wolf, with the reading Vanargand; the infobox gives the printed name and the kanji.
+[@leene.so07-losses]: SO07 | Chapter 5: Battle of Tears | "Seven dead, including those who’ve gone missing. Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."

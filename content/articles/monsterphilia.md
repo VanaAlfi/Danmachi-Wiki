@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Festival"},
       {"label": "Japanese", "value": "{{ja|怪物祭}}, written *monster festival*", "refs": ["fm01-monsterphilia-ja"]},
-      {"label": "Held", "value": "Once a year, for a day", "refs": ["fm01-event"]},
+      {"label": "When", "value": "Once a year, for a day", "refs": ["fm01-event"]},
       {"label": "Place", "value": "The amphitheatre in Orario's second district, in the east", "refs": ["fm16-east"]},
       {"label": "Staged by", "value": "[[ganesha-familia|Ganesha Familia]], which mainly runs it", "refs": ["fm01-guild", "fm01-event"]},
       {"label": "Organised by", "value": "The [[guild|Guild]]", "refs": ["fm01-guild", "so02-proposed"]},
@@ -26,7 +26,7 @@
   }
 }
 ---
-The **Monsterphilia** is a festival held once a year by [[ganesha-familia|Ganesha Familia]]. In Anya's words, "We fill the stadium for a day and tame the monsters".[@fm01-event] Ganesha Familia mainly runs the festival, but the plan came from the [[guild|Guild]]'s upper management.[@fm01-guild] It is one of Orario's most famous celebrations, and people travel from around the world to see it.[@fm16-celebrations, so01-famous]
+The **Monsterphilia** is a festival held once a year by [[ganesha-familia|Ganesha Familia]]. In Anya's words, "We fill the stadium for a day and tame the monsters".[@fm01-event] Ganesha Familia mainly runs the festival, but the plan came from the [[guild|Guild]]'s upper management.[@fm01-guild] It is one of Orario's most famous celebrations, and some come from outside the city to see it.[@fm16-celebrations, so01-famous]
 
 ## The festival {#festival}
 
@@ -34,6 +34,7 @@ The **Monsterphilia** is a festival held once a year by [[ganesha-familia|Ganesh
 - **The show:** thousands of citizens fill the stadium for the main event. Tamers ride monsters on the main stage, such as a small, long-necked dragon ridden like a rodeo bull.[@fm01-main-event, fm01-dragon]
 - **Live monsters:** Ganesha Familia is the only organisation allowed to keep live monsters in the city, to train them for the Monsterphilia, and to bring them up from the Dungeon.[@fm09-monsters, fm10-monsters] Elsewhere in Orario, bringing monsters out of the Dungeon is strictly prohibited.[@so10-prohibited]
 - **Its reputation:** Sword Oratoria 1 says this kind of bloodless entertainment is good for adventurers' image.[@so01-famous]
+- **Remembered:** DanMachi 15 recalls Eina's first Monsterphilia, in her early years at the Guild, a time that also saw trouble between the Guild and Ishtar Familia.[@fm15-ishtar]
 
 ## Its true purpose {#purpose}
 
@@ -47,16 +48,11 @@ At the Monsterphilia of DanMachi 1 and Sword Oratoria 1, two separate plots set 
 
 - **Freya's monsters:** [[freya|Freya]] charms the Ganesha Familia guards and monsters held for the show, among them a [[monsters#silverback|silverback]].[@fm01-charm] Monsters escape from open cages, but the culprit did not release them all; a Guild officer guesses they were after something.[@fm01-escape] The silverback, from the eleventh floor, ignores everyone but [[hestia|Hestia]] and chases her and Bell into [[daedalus-street|Daedalus Street]].[@fm01-species, fm01-chase, fm07-lost] There Bell kills it with the newly made [[hestia-knife|Hestia Knife]], to cheers.[@fm01-knife]
 - **The man-eating flowers:** at the same time, flower-like monsters, the [[monsters#violas|violas]], burst from underground and fight [[aiz-wallenstein|Aiz]], whose rapier shatters, and the Hyrute sisters and [[lefiya|Lefiya]].[@so02-rapier, ss02-plants, so02-sisters, so05-apology] Sword Oratoria 12 reveals them as part of Enyo's plan to search for "Aria", misfired because it coincided with Freya's game.[@so12-misfired, so12-enyo] Because Ganesha Familia and Loki Familia reacted so quickly to the charmed monsters, Enyo missed his chance to release all the flowers waiting in the sewers (see [[dionysus|Dionysus]] and [[corrupted-spirit|Corrupted spirit]]).[@so12-enyo]
-- **Aftermath:** quick action by Ganesha Familia and the Guild kept damage low. No fairgoer was hurt, and Bell was the only one injured that afternoon. The attacked Ganesha Familia and Guild members remember nothing; the culprit was never caught, and the affair simply died down.[@fm01-aftermath] [[loki|Loki]] learned of Freya's part but kept quiet in exchange for a robe.[@so05-robe] At the next Denatus, Ganesha apologises for letting the monsters run wild.[@so05-apology]
+- **Aftermath:** quick action by Ganesha Familia and the Guild kept damage low. No fairgoer was hurt, and Bell was the only one injured that afternoon. The attacked Ganesha Familia and Guild members remember nothing; in DanMachi 1 the culprit is not caught, and the affair simply dies down.[@fm01-aftermath] That night Freya gave [[loki|Loki]] a robe in exchange for turning a blind eye to what Freya would do next.[@so05-robe] At the next Denatus, Ganesha apologises for letting the monsters run wild.[@so05-apology]
 
 {{nocite}} The incident echoes through later volumes:
 
 - **Later echoes:** the Guild's reputation suffers from "the Monsterphilia incident" onward.[@so13-guild, fm09-guild] Fels sends a [[equipment#golem|golem]] into the sewers afterwards, and the Guild grows uptight about escaped monsters.[@fm10-golem, fm11-uptight] Lefiya remembers her cowardice that day.[@so04-lefiya]
-
-## Open questions
-
-> [!UNRESOLVED] Not settled by the covered English volumes
-> - **Organiser:** every other passage names Ganesha Familia as the festival's host, but DanMachi 15 says Eina saw "her first Monsterphilia put on by Ishtar Familia and the Guild".[@fm15-ishtar, fm01-event]
 
 [@fm01-event]: FM01 | Chapter 5: The Goddess’s Prank | Anya: "Monsterphilia is an event put on once a year by Ganesha Familia, nya!"; "We fill the stadium for a day and tame the monsters, nya!"
 [@fm01-main-event]: FM01 | Chapter 5: The Goddess’s Prank | "Thousands of citizens filed into the stadium to witness the spectacle."
@@ -76,17 +72,17 @@ At the Monsterphilia of DanMachi 1 and Sword Oratoria 1, two separate plots set 
 [@fm10-ganesha]: FM10 | Chapter 6: Before the Storm | "It was a goblin, wearing a red hat"; he "decided to cooperate with Ouranos’s proposal". The Japanese edition (file cEV, paragraphs 85 and 91) glosses the festival's name first as monster festival, then as friendship with monsters.
 [@fm10-golem]: FM10 | Chapter 10: The Fool | "dispatched into the sewer system after the Monsterphilia incident".
 [@fm11-uptight]: FM11 | Chapter 5: Ultra Soul! | "they’ve gotten very uptight about things ever since the Monsterphilia incident".
-[@fm15-ishtar]: FM15 | Chapter 4: Guild Alone | "seeing her first Monsterphilia put on by Ishtar Familia and the Guild"; "the Time of Unrest".
+[@fm15-ishtar]: FM15 | Chapter 4: Guild Alone | Eina's first Monsterphilia; "the Time of Unrest". The Japanese edition (file c325, paragraph 108) lists the festival and the trouble between the Guild and Ishtar Familia as two separate things she saw.
 [@fm16-celebrations]: FM16 | Chapter 1: A Stormy Love Letter | "Holy Night Festival, Monsterphilia, Grand Day"; "Orario’s most famous celebrations".
 [@fm16-east]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | "Monsterphilia, which was centered more in Orario’s east, in the second district where the amphitheater was".
-[@so01-famous]: SO01 | Chapter 4: Between Tranquility and Turbulence | "this kind of bloodless entertainment—taming—was good for their image"; "famous enough for people around the world to travel to Orario just to see it".
+[@so01-famous]: SO01 | Chapter 4: Between Tranquility and Turbulence | "this kind of bloodless entertainment—taming—was good for their image". The Japanese edition (file c4FW, paragraph 93) says some come from outside the city to see it.
 [@so01-flags]: SO01 | Chapter 4: Between Tranquility and Turbulence | "Flags bearing the official logo of the Monsterphilia and the elephant mask of Ganesha Familia".
 [@so02-rapier]: SO02 | Chapter 1: The Average Day | "The rapier had been at her side during the Monsterphilia and shattered".
 [@so02-proposed]: SO02 | | "the Monsterphilia had been first proposed by the Guild"; the Guild explained little. The Japanese edition (file c1R7, paragraph 264) says the Denatus approved it because it seemed interesting.
 [@so02-sisters]: SO02 | | "Tiona and Tione did some pokin’ around down here the day of the Monsterphilia".
 [@so04-lefiya]: SO04 | First Chapter: And the Boy… | "the cowardice she’d shown during the Monsterphilia".
 [@so05-apology]: SO05 | | Ganesha "apologizing for the debacle at the Monsterphilia"; "those violas you speak of".
-[@so05-robe]: SO05 | | "Loki had threatened to go to the Guild with a report about the goddess of beauty’s antics at Monsterphilia"; "I’ll offer you the robe for your silence."
+[@so05-robe]: SO05 | | "Loki had threatened to go to the Guild with a report about the goddess of beauty’s antics at Monsterphilia". The Japanese edition (file c1D2, paragraphs 17–19) has Freya, the night of the Monsterphilia, offer the robe if Loki will turn a blind eye to what she does from now on.
 [@so10-prohibited]: SO10 | Chapter 1: Omen | "Aside from the Monsterphilia, bringing beasts out of the labyrinth was strictly prohibited."
 [@so12-enyo]: SO12 | Chapter 6: The Divine Providence of Despair | "You did it to search for Aria."; "the charmed monsters started rampaging first"; "Enyo had missed the timing to unleash all the man-eating flowers waiting in the sewer system".
 [@so12-misfired]: SO12 | Chapter 8: A Heroes’ Chorus | "The man-eating flowers at Monsterphilia: That was part of the enemy’s plan that had misfired when it coincided with Freya’s game."

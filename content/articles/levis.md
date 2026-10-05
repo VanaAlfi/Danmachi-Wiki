@@ -34,13 +34,13 @@ Levis has red hair, which Sword Oratoria 11 calls "bloodred", and green eyes tha
 
 Sword Oratoria 4 explains what she is. The being called "her" had revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him, "giving birth to a new human-monster hybrid", and "The red-haired woman, Levis, was also such a creature"; by assimilating magic stones, such creatures turn into enhanced species.[@so04-hybrid] Her own magic stone sits in the centre of her chest.[@so03-fight]
 
-She grows stronger by eating. In Sword Oratoria 3 she tells Olivas "You and I, we’re nothing but pawns", tears out his magic stone and crunches it between her teeth, which makes her "physically stronger and faster than Aiz at Level Six".[@so03-pawns, so03-stone] In Sword Oratoria 4 she feasts on the monsters and dragons caught by her [[monsters#violas|violas]].[@so04-feast] By Sword Oratoria 7 she commands "power well over that of a Level 7", and in Sword Oratoria 11 Aiz reflects that whenever she thought she had caught up, Levis had leapt past her again.[@so07-power, so11-aiz]
+She grows stronger by eating. In Sword Oratoria 3 she tells Olivas that the two of them are nothing but tentacles of the [[corrupted-spirit|corrupted spirit]], tears out his magic stone and crunches it between her teeth, which makes her "physically stronger and faster than Aiz at Level Six".[@so03-pawns, so03-stone] In Sword Oratoria 4 she feasts on the monsters and dragons caught by her [[monsters#violas|violas]].[@so04-feast] By Sword Oratoria 7 she commands "power well over that of a Level 7", and in Sword Oratoria 11 Aiz reflects that whenever she thought she had caught up, Levis had leapt past her again.[@so07-power, so11-aiz]
 
 Wounds that would end an adventurer do not stop her: in Sword Oratoria 7 she presses a severed arm back onto its stump, and it "connected itself at once".[@so07-arm] She commands violas in battle and fights with a crimson greatsword "fast enough to leave crimson afterimages"; in Sword Oratoria 10 she throws one of her twin blades at [[riveria|Riveria]] "with inhuman strength".[@so03-fight, so10-blades] The sword she used against Aiz and [[finn-deimne|Finn]] in [[knossos|Knossos]] carried the curse that wounds with "merely a single graze".[@so08-curse]
 
 ## Character {#character}
 
-Levis is cold and businesslike. When she springs a trap on Loki Familia in Knossos, [[valletta|Valletta]] praises her: "Guess you picked the right profession, eh, Miss Kill for Hire?"[@so07-valletta] Her fixation on Aiz changes her. Sword Oratoria 12 says that the fights with Aria had become "her one reason to keep living", and that her emotions, "which had rotted away during those numb days a long time ago", were returning; for the first time she is curious about Aiz: "What changed you? How did you become that strong?"[@so12-reason, so12-curious] In their last battle she shouts: "After rotting away! Encountering you and this battle have been pure entertainment!"[@so12-end]
+Levis is cold and businesslike. When she springs a trap on Loki Familia in Knossos, [[valletta|Valletta]] thanks her as their bodyguard.[@so07-valletta] Her fixation on Aiz changes her. Sword Oratoria 12 says that the fights with Aria had become "her one reason to keep living", and that her emotions, "which had rotted away during those numb days a long time ago", were returning; for the first time she is curious about Aiz: "What changed you? How did you become that strong?"[@so12-reason, so12-curious] In their last battle she shouts: "After rotting away! Encountering you and this battle have been pure entertainment!"[@so12-end]
 
 ## Against Aiz
 
@@ -55,7 +55,7 @@ Levis is cold and businesslike. When she springs a trap on Loki Familia in Knoss
 
 ## Name
 
-The English volumes print *Levis*; Fandom spells the name *Revis*. Valletta's "Miss Kill for Hire" (Sword Oratoria 7) is the only other name located for her.[@so07-valletta]
+The English volumes print *Levis*; Fandom spells the name *Revis*. In Sword Oratoria 7 Valletta calls her their bodyguard; no other name is located for her.[@so07-valletta]
 
 ## Open questions
 
@@ -75,14 +75,14 @@ The English volumes print *Levis*; Fandom spells the name *Revis*. Valletta's "M
 [@so02-tamer]: SO02 | Chapter 4: Orb | "Could it be—a Tamer…?!"
 [@so03-name]: SO03 | Chapter 2: Let’s Party? | "The red-haired woman—Levis—looked back out over the cavern."
 [@so03-eyes]: SO03 | Chapter 5: Hell and Hell | "Levis’s green eyes"; "Her green eyes showed no emotion at all while she spoke."
-[@so03-pawns]: SO03 | Chapter 5: Hell and Hell | "You and I, we’re nothing but pawns."; "Levis brought the magic stone up to her mouth and crunched it between her teeth."
+[@so03-pawns]: SO03 | Chapter 5: Hell and Hell | "Levis brought the magic stone up to her mouth and crunched it between her teeth." The Japanese edition (file c5AH, paragraph 6) has her tell Olivas that he and she are nothing but Its tentacles.
 [@so03-fight]: SO03 | Chapter 5: Hell and Hell | "the violas at her command"; "her crimson greatsword"; "fast enough to leave crimson afterimages"; "Just barely missing the center of Levis’s chest and her magic stone".
 [@so04-hybrid]: SO04 | First Chapter: And the Boy… | "giving birth to a new human-monster hybrid"; "The red-haired woman, Levis, was also such a creature."; "By assimilating magic stones".
 [@so04-feast]: SO04 | Last Chapter: To Adventure | "she began to feast, both on the monsters caught in her violas and the dragons impaled atop her weapons".
-[@so07-valletta]: SO07 | Chapter 2: Dungeon Trap | Valletta: "That was some quality work. Guess you picked the right profession, eh, Miss Kill for Hire?"
+[@so07-valletta]: SO07 | Chapter 2: Dungeon Trap | Valletta: "That was some quality work." The Japanese edition (file c1KE, paragraph 196) has her thank Levis as their bodyguard.
 [@so07-power]: SO07 | Chapter 4: The Sword’s Wind Calls | "Levis was an enhanced species"; "power well over that of a Level 7".
 [@so07-arm]: SO07 | Chapter 4: The Sword’s Wind Calls | "she pressed her severed arm against the bloody stump of her elbow. It connected itself at once".
-[@so08-curse]: SO08 | Chapter 2: Did Someone Order a Wolf? | "The sword the creature Levis had used against Aiz and Finn"; the curse "with merely a single graze".
+[@so08-curse]: SO08 | Chapter 2: Did Someone Order a Wolf? | "The sword the creature Levis had used against Aiz and Finn"; the curse "with merely a single graze". The Japanese edition (file c1DU, paragraph 109) says it was Tione who got off with a scratch against the assassins; it says nothing of the curse working with a single graze.
 [@so10-blades]: SO10 | Chapter 6: The Hero’s Self-Denial | "Cocking one of her twin blades behind her back, she threw it with inhuman strength."; Finn and Gareth against Levis.
 [@so11-aiz]: SO11 | Chapter 3: The True Face of a God | "The creature with bloodred hair"; "Levis had become an enhanced species that leapfrogged past Aiz again at an inhuman speed".
 [@so12-reason]: SO12 | Chapter 5: Final War | "her one reason to keep living"; "which had rotted away during those numb days a long time ago".

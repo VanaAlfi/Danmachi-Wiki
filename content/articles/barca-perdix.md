@@ -26,7 +26,7 @@
   }
 }
 ---
-**Barca Perdix** is a descendant of the architect Daedalus and the man who keeps building and running [[knossos|Knossos]], the labyrinth whose completion has been his family's obsession for a thousand years.[@so07-orb, so11-life, so11-collapse] He works with [[thanatos|Thanatos]], the god of [[evils|the Evils]]' remnants, and is a hexer who forges their cursed weapons.[@so07-god, so11-life] He is the elder half-brother of [[ikelos-familia#dix-perdix|Dix Perdix]], who shares his mother.[@so07-dix, so11-life] In Sword Oratoria 11 he fuses with a [[corrupted-spirit|corrupted spirit]]'s seed and dies as a monster.[@so11-fusion, so11-end]
+**Barca Perdix** is a descendant of the architect [[daedalus|Daedalus]] and the man who keeps building and running [[knossos|Knossos]], the labyrinth whose completion has been his family's obsession for a thousand years.[@so07-orb, so11-life, so11-collapse] He works with [[thanatos|Thanatos]], the god of [[evils|the Evils]]' remnants, and is a [[hexers|hexer]] who forges their [[cursed-weapons|cursed weapons]].[@so07-god, so11-life] He is the elder half-brother of [[ikelos-familia#dix-perdix|Dix Perdix]], who shares his mother.[@so07-dix, so11-life] In Sword Oratoria 11 he fuses with a [[corrupted-spirit|corrupted spirit]]'s seed and dies as a monster.[@so11-fusion, so11-end]
 
 ## Appearance and character
 

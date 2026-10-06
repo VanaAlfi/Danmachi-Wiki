@@ -45,7 +45,7 @@ In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to pu
 
 Before Astrea left Orario she told Lyu, "please forget about justice", and Lyu went on to take her revenge.[@fm14-forget] In DanMachi 14 Lyu understands that Astrea said it for Lyu's own sake: she forsook her own justice to protect Lyu, shouldered a share of her vengeance herself, and believed that justice would live in Lyu again.[@fm14-protect]
 
-Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Solingen]]. She lives there with six girls; two, Cecille and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes]
+Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Solingen]]. She lives there with six girls; two, [[cecille-blackliza|Cecille]] and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes]
 
 In DanMachi 18 Lyu comes to her in Solingen. Astrea updates her through two [[level|Levels]] in succession, has the sword Alvs Iustitia made for her, and arrives at Orza with a new Familia so that Lyu can take part in the [[war-game|Familia War]].[@fm18-zolingam] She later releases Lyu's [[falna|Falna]] so that Lyu can join [[hestia-familia|Hestia Familia]]; her first blessing remains in Lyu's back.[@fm19-bond]
 

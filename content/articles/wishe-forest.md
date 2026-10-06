@@ -29,7 +29,7 @@
 
 ## An open forest
 
-Among the many elven villages of the world, Wishe Forest is widely known outside. Most elves living in the forests protect their sacred trees, follow their people's teachings and draw a distinct line between themselves and the outside world. Many people of other races, though, visit Wishe Forest and pass through it.[@so13-open] Its people seek out other races, dream of the world outside and eventually set out on journeys of their own. "Sociable, compatible with other races, and possessing magic powers that stood out even among fellow elves": that is the trademark of a Wishe Forest elf.[@so13-open] [[filvis|Filvis Challia]] tells Lefiya her homeland is "known for possessing high magic power even among our kin".[@so03-magic]
+Among the many elven villages of the world, Wishe Forest is widely known outside. Most elves living in the forests protect their [[holy-tree|sacred trees]], follow their people's teachings and draw a distinct line between themselves and the outside world. Many people of other races, though, visit Wishe Forest and pass through it.[@so13-open] Its people seek out other races, dream of the world outside and eventually set out on journeys of their own. "Sociable, compatible with other races, and possessing magic powers that stood out even among fellow elves": that is the trademark of a Wishe Forest elf.[@so13-open] [[filvis|Filvis Challia]] tells Lefiya her homeland is "known for possessing high magic power even among our kin".[@so03-magic]
 
 ## The bard Wishe
 

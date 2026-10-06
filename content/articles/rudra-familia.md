@@ -34,7 +34,7 @@ After Lyu burns his Familia's hideout, Rudra comes out of hiding and stands befo
 
 ## In the dark age
 
-In Astrea Record 1, members of Rudra Familia are among the high-ranking Evils, all Level 3s, whom [[alfia|Alfia]] knocks out in a black-market church before [[ganesha-familia|Ganesha Familia]] arrives.[@ar01-church] In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[valletta|Valletta Grede]] has the hunters of [[ikelos-familia|Ikelos Familia]] capture monsters, and Jura and the rest of Rudra Familia tame and control the strongest. For this she forces a hexer with the [[development-ability#enigma|Enigma]] ability to make a prototype crimson whip that lets anyone tame any monster. Jura rides a collared red dragon into the attack.[@ar03-jura]
+In Astrea Record 1, members of Rudra Familia are among the high-ranking Evils, all Level 3s, whom [[alfia|Alfia]] knocks out in a black-market church before [[ganesha-familia|Ganesha Familia]] arrives.[@ar01-church] In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[valletta|Valletta Grede]] has the hunters of [[ikelos-familia|Ikelos Familia]] capture monsters, and Jura and the rest of Rudra Familia tame and control the strongest. For this she forces a [[hexers|hexer]] with the [[development-ability#enigma|Enigma]] ability to make a prototype crimson whip that lets anyone tame any monster. Jura rides a collared red dragon into the attack.[@ar03-jura]
 
 ## The trap in the Dungeon
 
@@ -58,7 +58,7 @@ Jura Harma is a catman tamer known as the *Slaver Cat*, extremely tall and thin 
 - **The plan.** {{statement}} Jura says he wanted the Juggernaut because, as a tamer, he thought it "more beautiful than a goddess"; with it, he would overcome the nightmare of Lyu that had haunted him for five years.[@fm13-why] Five years of experiments told him the monster could not be called near the surface, and that about 20 percent of a floor had to be destroyed; he concluded that the Dungeon treats the whole [[water-capital|Water Capital]] as one floor.[@fm13-research]
 - **Death.** When Bell and Lyu bring the Juggernaut to its knees, Jura reappears and drives it to its feet with whip and collar, ordering it to kill them. It swings its tail and cuts him in two.[@fm13-death]
 
-After the battle, the story that spreads is that Jura Harma and other survivors of Rudra Familia died, and the Gale Wind with them.[@fm14-story] Bors tells the Guild that Rudra Familia, not the Gale Wind, was to blame, and asks in vain for a share of the reward money for Jura.[@fm14-bors]
+After the battle, the story that spreads is that Jura Harma and other survivors of Rudra Familia died, and the Gale Wind with them.[@fm14-story] Bors tells the Guild that Rudra Familia, not the Gale Wind, was to blame, and asks in vain for a share of the [[bounty|reward money]] for Jura.[@fm14-bors]
 
 ## Open questions
 

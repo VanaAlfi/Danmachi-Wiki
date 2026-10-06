@@ -152,7 +152,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Why Zeus faked his death and where he is now.[@fm05-death]
 > - Whether Bell will learn who his parents were.[@ar03-parents, fm20-parents]
-> - Whether and when Bell learns the name and purpose of Liaris Freese: the update paper Hestia hands him in DanMachi 20 still lists only his other three Skills.[@fm20-level5]
+> - Whether and when Bell learns the name and purpose of Liaris Freese: the [[status#update-sheet|update paper]] Hestia hands him in DanMachi 20 still lists only his other three Skills.[@fm20-level5]
 
 [@fm01-bell]: FM01 | | Human, fourteen, Hestia's only follower; his hometown and grandfather; Aiz's rescue. The Japanese edition (file cFB, paragraph 12) calls his home a village in the countryside.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.

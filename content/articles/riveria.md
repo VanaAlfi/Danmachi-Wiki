@@ -219,7 +219,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 #### Effect {#veil-breath-effect}
 
-- **Protection:** when Riveria casts it, it can protect an adventurer even from a [[monsters#valgang-dragon|valgang dragon]]'s great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the fifty-second floor, it cancels most of a fireball's damage.[@veil-breath.so04-party]
+- **Protection:** when Riveria casts it, it can protect an adventurer even from a [[monsters#valgang-dragon|valgang dragon]]'s great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the [[floor-52|fifty-second floor]], it cancels most of a fireball's damage.[@veil-breath.so04-party]
 - **Healing:** as a side effect, it heals; in Sword Oratoria 12 [[aisha-belka|Aisha]]'s fractured bones mend under it.[@veil-breath.so12-lefiya]
 - **Targets:** Sword Oratoria 2 describes it protecting its target.[@veil-breath.so02-aiz] Other scenes show it covering several people at once: Lefiya and her three rescuers, the whole Loki Familia party, four fighters, or every member of Astrea Familia.[@veil-breath.so04-party, veil-breath.so12-lefiya, veil-breath.ar03-astrea]
 

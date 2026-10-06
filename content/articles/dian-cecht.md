@@ -22,7 +22,7 @@
   }
 }
 ---
-**Dian Cecht** is the god of [[dian-cecht-familia|Dian Cecht Familia]], which makes medicine and healing items and treats patients, and the patron of [[amid|Amid Teasanare]].[@fm04-dian, ss02-unicorn] He is the business rival and creditor of [[miach|Miach]], with whom he has "never seen eye to eye, even in Tenkai".[@fm04-dian] His Familia, its products and its history are on the [[dian-cecht-familia|Dian Cecht Familia]] page.
+**Dian Cecht** is the god of [[dian-cecht-familia|Dian Cecht Familia]], which makes medicine and healing items and treats patients, and the [[patron-deity|patron]] of [[amid|Amid Teasanare]].[@fm04-dian, ss02-unicorn] He is the business rival and creditor of [[miach|Miach]], with whom he has "never seen eye to eye, even in Tenkai".[@fm04-dian] His Familia, its products and its history are on the [[dian-cecht-familia|Dian Cecht Familia]] page.
 
 ## Character
 
@@ -36,7 +36,7 @@ Their rivalry goes back to the dark age. In Astrea Record 1, when the [[evils|Ev
 
 ## Amid and his Familia
 
-Dian Cecht calls Amid "my personal assistant", with a mountain of work waiting for her. In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with her and commissions a hunt for a [[monsters#unicorn|unicorn]]'s horn, said to neutralise any poison, with a three-day limit.[@ss02-unicorn] {{statement}} Before the final assault of Sword Oratoria 12 he shouts at his healers to leave the hard work to Loki and get ready to run away; they ignore him, understanding that he is worried for them.[@so12-healers]
+Dian Cecht calls Amid "my personal assistant", with a mountain of work waiting for her. In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with her and commissions a hunt for a [[monsters#unicorn|unicorn]]'s horn, said to neutralise any poison, with a three-day limit.[@ss02-unicorn] {{statement}} Before the final assault of Sword Oratoria 12 he shouts at his [[healer|healers]] to leave the hard work to Loki and get ready to run away; they ignore him, understanding that he is worried for them.[@so12-healers]
 
 [@fm04-dian]: FM04 | Quest X Quest | Dian Cecht: greying hair and beard, gold robe; "you ruined beggar"; Lilly: respected by adventurers, makes healing items, a business rival; payment by tomorrow; "never seen eye to eye, even in Tenkai"; Amid.
 [@fm04-double]: FM04 | Quest X Quest | Twenty double potions; Amid's verdict; "Wh…Why youuuuu…?!"; "Dian Cecht gasped as he took the vial from Miach’s outstretched hands."

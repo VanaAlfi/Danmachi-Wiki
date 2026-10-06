@@ -27,7 +27,7 @@
   }
 }
 ---
-**Leene Arshe** is a human healer of [[loki-familia|Loki Familia]], a shy girl with glasses and braided hair.[@so07-bete, so08-memory] She is in love with [[bete-loga|Bete Loga]].[@so07-bete, so08-tiona] In Sword Oratoria 7 she is among the seven members dead or missing in [[knossos|Knossos]]. Bete mocks her as she dies, and the way she dies, and what he really meant, become the centre of Sword Oratoria 8.[@so07-losses, so08-death, so08-raul]
+**Leene Arshe** is a human [[healer|healer]] of [[loki-familia|Loki Familia]], a shy girl with glasses and braided hair.[@so07-bete, so08-memory] She is in love with [[bete-loga|Bete Loga]].[@so07-bete, so08-tiona] In Sword Oratoria 7 she is among the seven members dead or missing in [[knossos|Knossos]]. Bete mocks her as she dies, and the way she dies, and what he really meant, become the centre of Sword Oratoria 8.[@so07-losses, so08-death, so08-raul]
 
 ## Character
 

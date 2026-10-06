@@ -38,7 +38,7 @@ Sword Oratoria 9's flashback to the same era calls him Vendetta, "one of the lea
 
 ## The Twenty-Seventh-Floor Nightmare
 
-[[asfi|Asfi]] gives his record in Sword Oratoria 3: a wanted man, estimated Level 3, whose god has returned to Heaven and whose Familia was wiped out. He was the mastermind of the Twenty-Seventh-Floor Nightmare. Familias fighting for the Guild cornered him, monsters devoured him, and his death was thought confirmed when the shredded remains of his lower body were found.[@so03-identity] [[filvis|Filvis Challia]], one of that day's survivors, recognises him with hatred.[@so03-filvis]
+[[asfi|Asfi]] gives his record in Sword Oratoria 3: a [[bounty|wanted man]], estimated Level 3, whose god has returned to Heaven and whose Familia was wiped out. He was the mastermind of the Twenty-Seventh-Floor Nightmare. Familias fighting for the Guild cornered him, monsters devoured him, and his death was thought confirmed when the shredded remains of his lower body were found.[@so03-identity] [[filvis|Filvis Challia]], one of that day's survivors, recognises him with hatred.[@so03-filvis]
 
 {{statement}} In Sword Oratoria 7 Valletta says the Evils "egged on ol' Olivas" in the Nightmare and pretended that all of them had died.[@so07-valletta] Sword Oratoria 12 adds that a fragment of the [[corrupted-spirit|corrupted spirit]] was in the lower floors that day, drawn by the smell of blood and looking for new feelers. On that same day Olivas became a creature, and so did Filvis.[@so12-spirit, so12-filvis]
 

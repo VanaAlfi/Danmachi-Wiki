@@ -30,7 +30,7 @@
   }
 }
 ---
-**Hestia Familia** is the Familia of the goddess [[hestia|Hestia]]. It begins with a single member, [[bell-cranell|Bell Cranell]], in a hidden room under an old church, and after its [[war-game|War Game]] victory over [[apollo-familia|Apollo Familia]] in DanMachi 6 it gains new members and a new home.[@fm01-found, fm01-base, fm06-manor] Bell is its captain, and Lilly commands its party in the Dungeon.[@fm07-leader, fm19-commander] By DanMachi 19 it holds [[guild|Guild]] rank B: six adventurers, two of them first-tier, "A small, elite faction".[@fm19-rank, fm19-elite]
+**Hestia Familia** is the Familia of the goddess [[hestia|Hestia]]. It begins with a single member, [[bell-cranell|Bell Cranell]], in a hidden room under an old church, and after its [[war-game|War Game]] victory over [[apollo-familia|Apollo Familia]] in DanMachi 6 it gains new members and a new home.[@fm01-found, fm01-base, fm06-manor] Bell is its captain, and Lilly commands its party in the Dungeon.[@fm07-leader, fm19-commander] By DanMachi 19 it holds [[guild|Guild]] [[familia-rank|rank]] B: six adventurers, two of them first-tier, "A small, elite faction".[@fm19-rank, fm19-elite]
 
 In DanMachi 1 Bell explains that some people call a Familia a team: "Team Loki or Team Hestia".[@fm01-team]
 
@@ -63,7 +63,7 @@ In DanMachi 1 Bell explains that some people call a Familia a team: "Team Loki o
 
 Before DanMachi 1 Hestia's invitations are turned down every day: the Familia is "an unknown group with no reputation", and the goddess's undignified figure is also a problem.[@fm04-invitations]
 
-After the War Game Hestia's recruiting posters, headed by the new emblem, bring more than fifty applicants to the manor. Lilly calls the Familia "the talk of the town", above all among adventurers new to Orario, and Bell and Hestia celebrate that they are no longer "the baby familia", three months after it all began.[@fm07-recruits] Before the interviews start, Mikoto finds a "two-hundred-million-valis loan contract" signed by Hestia and Hephaistos Familia, and every candidate walks away.[@fm07-loan] Among them were [[daphne|Daphne]] and [[cassandra|Cassandra]], formerly of Apollo Familia.[@fm08-daphne] Rumours spread that the Familia is "about to crumble under the weight of debt", and the chance of new recruits is put at zero.[@fm07-rumours]
+After the War Game Hestia's recruiting posters, headed by the new [[emblem|emblem]], bring more than fifty applicants to the manor. Lilly calls the Familia "the talk of the town", above all among adventurers new to Orario, and Bell and Hestia celebrate that they are no longer "the baby familia", three months after it all began.[@fm07-recruits] Before the interviews start, Mikoto finds a "two-hundred-million-valis loan contract" signed by Hestia and Hephaistos Familia, and every candidate walks away.[@fm07-loan] Among them were [[daphne|Daphne]] and [[cassandra|Cassandra]], formerly of Apollo Familia.[@fm08-daphne] Rumours spread that the Familia is "about to crumble under the weight of debt", and the chance of new recruits is put at zero.[@fm07-rumours]
 
 In DanMachi 19, with Lyu joined, Lilly and Hestia decide to recruit nobody from the [[school-district|School District]] and look for no one new for a while: as a new rank-B Familia with "an unnecessary amount of fame", it expects more powerful Familias to give it the cold shoulder. Bell notes that since the debt became known, hardly anyone has wanted to join.[@fm19-recruiting] At the end of the volume [[nina-tulle|Nina Tulle]] of the School District sets her sights on joining Hestia Familia, and in DanMachi 20 she interns in its home with [[balder|Balder]]'s permission, where Lilly, Mikoto and Haruhime urge her to join.[@fm19-nina, fm20-return, fm20-nina-join]
 
@@ -80,9 +80,9 @@ In DanMachi 19, with Lyu joined, Lilly and Hestia decide to recruit nobody from 
 | [[haruhime|Haruhime]] | 1 | 2 | Still Level 1 in DanMachi 15; Level 2 in the Familia War.[@fm15-haruhime, fm18-haruhime-level2] |
 | [[lyu-leon|Lyu]] | 6 | 6 | Joins as a Level 6.[@fm19-elite] |
 
-In DanMachi 12 Haruhime's [[magic#kokonoe|Kokonoe]] combined with [[magic#uchide-no-kozuchi|Uchide no Kozuchi]] gives a group Level Boost, "Hestia Familia’s new trump card".[@fm12-trump] By DanMachi 19, Bell reckons, the boost can put the whole party at Level 3 or higher, enough to go down to the thirty-sixth floor by the Guild's suggested requirements; in DanMachi 20 it keeps Welf and Mikoto at Level 3 in battle.[@fm19-strength, fm20-ready]
+In DanMachi 12 Haruhime's [[magic#kokonoe|Kokonoe]] combined with [[magic#uchide-no-kozuchi|Uchide no Kozuchi]] gives a group Level Boost, "Hestia Familia’s new trump card".[@fm12-trump] By DanMachi 19, Bell reckons, the boost can put the whole party at Level 3 or higher, enough to go down to the [[floor-36|thirty-sixth floor]] by the Guild's suggested requirements; in DanMachi 20 it keeps Welf and Mikoto at Level 3 in battle.[@fm19-strength, fm20-ready]
 
-Lyu's arrival changes the party. The Guild cannot rank a Familia with "two first-tier adventurers" below B.[@fm19-elite] She can cover whatever position is missing, healer included, and with Welf's magic swords and Nahza's items Bell and Lilly see no gaps left in the party.[@fm19-strength] Bell calls her "unmistakably the strongest person in Hestia Familia".[@fm19-strongest] In DanMachi 20 he judges the Familia ready to fight on the twenty-ninth floor even without [[aisha-belka|Aisha]] and her companions.[@fm20-ready]
+Lyu's arrival changes the party. The Guild cannot rank a Familia with "two first-tier adventurers" below B.[@fm19-elite] She can cover whatever position is missing, [[healer|healer]] included, and with Welf's magic swords and Nahza's items Bell and Lilly see no gaps left in the party.[@fm19-strength] Bell calls her "unmistakably the strongest person in Hestia Familia".[@fm19-strongest] In DanMachi 20 he judges the Familia ready to fight on the [[floors-29-31-and-32#floor-29|twenty-ninth floor]] even without [[aisha-belka|Aisha]] and her companions.[@fm20-ready]
 
 ## Rank {#rank}
 
@@ -100,7 +100,7 @@ In DanMachi 8 the Familia is now "a middle-ranking familia" of the city.[@fm08-m
 
 ### B (S) {#b-s}
 
-Hestia is officially in charge of [[syr-flover|Syr]], so [[ottar|Ottar]] and Freya's other followers stay in the city and go on clearing the Dungeon. In Bell's words the Familia "has absorbed the enormous power of Freya Familia", though it cannot give them orders.[@fm19-bs] With [[folkvangr|Folkvangr]] confiscated by the Guild, Van and others of Freya's followers move their main battlefield to the Dungeon, exploring it daily, and take turns quietly guarding Hearthstone Manor, which Bell thinks is probably "the safest place in the world".[@fm19-guards] In DanMachi 20, when the Guild wants them in the [[orariad|Orariad]], the einherjar count officially as "unaffiliated adventurers awaiting conversion"; the Guild argues that they are effectively part of Hestia Familia, but the Denatus will not let Freya Familia take part.[@fm20-einherjar]
+Hestia is officially in charge of [[syr-flover|Syr]], so [[ottar|Ottar]] and Freya's other followers stay in the city and go on clearing the Dungeon. In Bell's words the Familia "has absorbed the enormous power of Freya Familia", though it cannot give them orders.[@fm19-bs] With [[folkvangr|Folkvangr]] confiscated by the Guild, [[van|Van]] and others of Freya's followers move their main battlefield to the Dungeon, exploring it daily, and take turns quietly guarding Hearthstone Manor, which Bell thinks is probably "the safest place in the world".[@fm19-guards] In DanMachi 20, when the Guild wants them in the [[orariad|Orariad]], the einherjar count officially as "unaffiliated adventurers awaiting conversion"; the Guild argues that they are effectively part of Hestia Familia, but the Denatus will not let Freya Familia take part.[@fm20-einherjar]
 
 ## Home and emblem {#home}
 
@@ -123,13 +123,13 @@ In DanMachi 1 the Familia is "among the poorest of the poor"; at its founding it
 - **The rescue (DanMachi 5):** Hestia spends the Familia's savings of 400,000 valis on Bell's rescue. Because the Familia's savings are small, the Guild fines it several hundred thousand valis, little beside Hermes Familia's loss of half its assets.[@fm05-rescue, fm06-fine]
 - **The War Game (DanMachi 6):** every val held in Apollo's name passes to Hestia Familia, and Lilly uses a large part of it to redeem the Hestia Knife from Soma Familia.[@fm06-spoils]
 - **The loan (DanMachi 7):** almost all the War Game winnings are already spent.[@fm07-accounts] The loan contract then comes to light: Hestia owes Hephaistos Familia 200 million valis for the Hestia Knife, and she insists that she will repay it alone ("I’ll pay it back by myself!").[@fm07-loan, fm07-mine] Rank E raises the Familia's taxes.[@fm07-rank-e]
-- **Quests:** in DanMachi 7 the Albella Trading Company, one of the large trading companies that support Orario's economy, offers the Familia a quest worth one million valis, having seen its War Game victory; the members accept it while hoping to redeem Haruhime.[@fm07-albella]
+- **Quests:** in DanMachi 7 the Albella Trading Company, one of the large trading companies that support Orario's economy, offers the Familia a [[quest|quest]] worth one million valis, having seen its War Game victory; the members accept it while hoping to redeem Haruhime.[@fm07-albella]
 - **The expedition penalty (DanMachi 15):** the failed first expedition costs a penalty payment, which Lilly takes to the Guild (see [[#expeditions|Expeditions]]).[@fm12-rank, fm15-penalty]
 - **DanMachi 19:** despite the new rank, the Familia still holds "a significant debt", which Hestia "adamantly insists is her personal loan".[@fm19-debt]
 
 ## Allies {#allies}
 
-The Familia's closest friends are [[takemikazuchi-familia|Takemikazuchi Familia]] and [[miach-familia|Miach Familia]]. They house-sit its home, and in DanMachi 8 Hestia Familia and Takemikazuchi Familia go down to the seventeenth floor as a joint party.[@fm08-housesitters, fm08-joint] On the first expedition the party is all of Hestia Familia with [[ouka|Ouka]] and [[chigusa|Chigusa]] of Takemikazuchi Familia, Daphne and Cassandra, and Aisha.[@fm12-party] [[finn-deimne|Finn]] counts Hephaistos as "friends with Hestia Familia".[@fm11-hephaistos] In the Familia War of DanMachi 18 Hestia Familia leads a coalition of Familias; near the end only four of its gods' Familias are left: Hestia's, Miach's, Hathor's and Plutus's.[@fm18-coalition, fm18-four]
+The Familia's closest friends are [[takemikazuchi-familia|Takemikazuchi Familia]] and [[miach-familia|Miach Familia]]. They house-sit its home, and in DanMachi 8 Hestia Familia and Takemikazuchi Familia go down to the seventeenth floor as a joint party.[@fm08-housesitters, fm08-joint] On the first expedition the party is all of Hestia Familia with [[ouka|Ouka]] and [[chigusa|Chigusa]] of Takemikazuchi Familia, Daphne and Cassandra, and Aisha.[@fm12-party] [[finn-deimne|Finn]] counts Hephaistos as "friends with Hestia Familia".[@fm11-hephaistos] In the Familia War of DanMachi 18 Hestia Familia leads a [[familia-coalition|coalition of Familias]]; near the end only four of its gods' Familias are left: Hestia's, Miach's, [[hathor|Hathor]]'s and Plutus's.[@fm18-coalition, fm18-four]
 
 ## History
 
@@ -145,7 +145,7 @@ In DanMachi 1 Bell is the only member; with no supporter, he carries everything 
 
 ### DanMachi 5: the eighteenth floor
 
-In DanMachi 5 a pass parade on Floor 13 drives Bell's party down to the safe point on [[floor-18|Floor 18]], where they fight the Black [[goliath|Goliath]]. Every member of their group survives, and the Guild imposes secrecy and penalizes Hestia and [[hermes|Hermes]].[@fm05-return] Hestia spends the Familia's savings of 400,000 valis on the rescue.[@fm05-rescue]
+In DanMachi 5 a [[pass-parade|pass parade]] on Floor 13 drives Bell's party down to the [[safe-point|safe point]] on [[floor-18|Floor 18]], where they fight the Black [[goliath|Goliath]]. Every member of their group survives, and the Guild imposes secrecy and penalizes Hestia and [[hermes|Hermes]].[@fm05-return] Hestia spends the Familia's savings of 400,000 valis on the rescue.[@fm05-rescue]
 
 ### The Apollo War Game
 
@@ -187,7 +187,7 @@ Bell reflects that the Familia "has grown at a dizzying rate", so Familias that 
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Whether [[nina-tulle|Nina]], who interns with the Familia in DanMachi 20, will join. Hestia leaves it undecided.[@fm20-nina]
-> - The exact amount Lilly finally pays for her release; only Zanis's demand of at least ten million valis is stated.[@fm06-lilly]
+> - The exact amount Lilly finally pays for her release; only [[zanis-lustra|Zanis]]'s demand of at least ten million valis is stated.[@fm06-lilly]
 
 [@fm01-found]: FM01 | | Hestia's failed recruitments; the Familia founded with Bell.
 [@fm01-bell]: FM01 | | Bell is the only member.

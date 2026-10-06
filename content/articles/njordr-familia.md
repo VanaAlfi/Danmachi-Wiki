@@ -21,13 +21,13 @@
       {"label": "Deity", "value": "[[njordr|Njörðr]]", "refs": ["so06-fishing"]},
       {"label": "Trade", "value": "Fishing in Lolog Lake and the sea; fish sold in Meren and Orario", "refs": ["so06-fishing", "fc01-chloe"]},
       {"label": "Home", "value": "Nóatún, in [[#port-meren|Port Meren]]", "refs": ["so06-noatun", "so06-rubart-joins"]},
-      {"label": "Captain", "value": "Rod", "refs": ["so06-rod", "ss02-market"]},
+      {"label": "Captain", "value": "[[rod|Rod]]", "refs": ["so06-rod", "ss02-market"]},
       {"label": "Status contract", "value": "[[chloe|Chloe Lolo]], for Status updates only (Familia Chronicle 1)", "refs": ["fc01-chloe", "fc01-farewell"]}
     ]
   }
 }
 ---
-**Njörðr Familia** is the Familia of the god [[njordr|Njörðr]], the fishing Familia of Port Meren, southwest of [[orario|Orario]].[@so06-fishing, fc01-chloe] The Familia is neither adventurers nor merchants; Sword Oratoria 6 says it seems more like an organisation of fishermen than a true Familia. Its captain, Rod, says most men in the city grow up to be fishers under Lord Njörðr. He adds that his blessing makes them stronger than ordinary trawlers, which matters at sea, and that the god has protected the city for generations.[@so06-rod] Because Njörðr has run Meren's fishing for so long, no other Familia has tried to set up there.[@so06-rod]
+**Njörðr Familia** is the Familia of the god [[njordr|Njörðr]], the fishing Familia of Port Meren, southwest of [[orario|Orario]].[@so06-fishing, fc01-chloe] The Familia is neither adventurers nor merchants; Sword Oratoria 6 says it seems more like an organisation of fishermen than a true Familia. Its captain, [[rod|Rod]], says most men in the city grow up to be fishers under Lord Njörðr. He adds that his blessing makes them stronger than ordinary trawlers, which matters at sea, and that the god has protected the city for generations.[@so06-rod] Because Njörðr has run Meren's fishing for so long, no other Familia has tried to set up there.[@so06-rod]
 
 ## Port Meren {#port-meren}
 

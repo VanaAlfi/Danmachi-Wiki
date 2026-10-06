@@ -45,7 +45,7 @@ Within it lies a red-light district in the Far Eastern style, with tiled roofs, 
 
 ## Ishtar's territory
 
-The Pleasure Quarter was Ishtar Familia's sphere of influence. The Familia was about 90 percent female, mostly Amazons, and its brothels in the third district were said to bring in over 40 percent of the whole quarter's income.[@fm07-ishtar] Sword Oratoria 7 calls its brothels the greatest source of funds in Orario, which made Ishtar valuable to the Evils.[@so07-funds]
+The Pleasure Quarter was Ishtar Familia's sphere of influence. The Familia was about 90 percent female, mostly Amazons, and its brothels in the [[third-district|third district]] were said to bring in over 40 percent of the whole quarter's income.[@fm07-ishtar] Sword Oratoria 7 calls its brothels the greatest source of funds in Orario, which made Ishtar valuable to the Evils.[@so07-funds]
 
 Belit Babili is the palace of more than forty floors where the goddess and her followers live, with a huge annex beside it.[@fm07-palace] On the tower's ziggurat roof is the Floating Garden, paved with slabs of darubu ore and lunatic light that glow under the moon, where three stone pillars surround an altar.[@fm07-garden] It was there that Ishtar Familia meant to perform the [[killing-stone|Killing Stone]] ritual on [[haruhime|Haruhime]].[@fm07-ritual, fm07-garden]
 

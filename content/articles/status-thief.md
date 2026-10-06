@@ -26,11 +26,11 @@
   }
 }
 ---
-**Status Thief** is a magic item that forces a hidden [[status|Status]] to appear. A god normally "locks" the Status written on a follower's back, and no one can undo that lock alone; the Thief picks it, revealing the person's full name and the name of their patron god.[@so02-rivira, so03-lulune] It is used above all to identify criminals and assassins.[@so02-rivira]
+**Status Thief** is a magic item that forces a hidden [[status|Status]] to appear. A god normally "locks" the Status written on a follower's back, and no one can undo that lock alone; the Thief picks it, revealing the person's full name and the name of their [[patron-deity|patron god]].[@so02-rivira, so03-lulune] It is used above all to identify criminals and assassins.[@so02-rivira]
 
 ## Making and selling it
 
-In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at [[rivira|Rivira]]. It is made from the ichor in a deity's blood, and only people with the Advanced Ability Enigma can produce it (see [[development-ability|Development Ability]]). That ingredient makes it illegal: it is not sold in ordinary shops, but it sometimes appears on the underground market, and Rivira is a likely place to find it. Because it has only one use and few chemists can make it, there is little in stock at any time, and it is very expensive.[@so02-rivira]
+In Sword Oratoria 2 [[riveria|Riveria]] explains the item as it is being used at [[rivira|Rivira]]. It is made from the [[ichor|ichor]] in a deity's blood, and only people with the Advanced Ability Enigma can produce it (see [[development-ability|Development Ability]]). That ingredient makes it illegal: it is not sold in ordinary shops, but it sometimes appears on the underground market, and Rivira is a likely place to find it. Because it has only one use and few chemists can make it, there is little in stock at any time, and it is very expensive.[@so02-rivira]
 
 ## Using it
 

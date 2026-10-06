@@ -45,9 +45,9 @@ In DanMachi 14, when Cassandra insists that the party must flee east, Daphne sti
 
 ## Level 3 and the Great Familia War
 
-Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, with [[aisha-belka|Aisha]] and Tsubaki, one of the three named to command the coalition if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing] When a first-tier adventurer bears down on her party, its members call on her as "Laurus Fuga" for a decision; in DanMachi 19 [[ouka|Ouka]] says they "were simply following Laurus Fuga’s order".[@fm18-laurus, fm19-laurus]
+Daphne and Cassandra both reach Level 3 on the expedition.[@fm15-level] Before the Great Familia War of DanMachi 18 she helps [[miach|Miach]] mass-produce potions and [[potions#elixir|elixirs]].[@fm18-potions] In the battle she is a valuable Level 3 fighter and, with [[aisha-belka|Aisha]] and Tsubaki, one of the three named to command the [[familia-coalition|coalition]] if Lilly falls; she and [[bors|Bors]] lead the right wing.[@fm18-command, fm18-wing] When a first-tier adventurer bears down on her party, its members call on her as "Laurus Fuga" for a decision; in DanMachi 19 [[ouka|Ouka]] says they "were simply following Laurus Fuga’s order".[@fm18-laurus, fm19-laurus]
 
-Against [[hegni|Hegni]] she holds on far longer than expected because of her rare Skill [[skills#laurel-wreath|Laurel Wreath]], which raises her endurance when she is exhausted or close to death.[@fm18-laurel] Her party draws attack after attack out of Hegni's cursed sword so that he uses them up.[@fm18-lure]
+Against [[hegni|Hegni]] she holds on far longer than expected because of her rare Skill [[skills#laurel-wreath|Laurel Wreath]], which raises her endurance when she is exhausted or close to death.[@fm18-laurel] Her party draws attack after attack out of Hegni's [[cursed-weapons|cursed sword]] so that he uses them up.[@fm18-lure]
 
 ## Status sheet
 

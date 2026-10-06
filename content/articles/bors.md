@@ -30,7 +30,7 @@
 
 ## Appearance and character
 
-Bors is a hulking man with a black patch over his left eye.[@fm05-boris, so02-bors] He embodies the formula that adventurers are outlaws, and he owns one of Rivira's storehouses, where adventurers leave spare equipment for a fee.[@so03-bors] He trades information for valis, though he talks quickly enough once [[bete-loga|Bete]] grabs his collar.[@so03-bors] Money moves him: he puts a bounty hunt together in DanMachi 13 and tries to claim a share of a reward in DanMachi 14.[@fm13-bounty, fm14-report]
+Bors is a hulking man with a black patch over his left eye.[@fm05-boris, so02-bors] He embodies the formula that adventurers are outlaws, and he owns one of Rivira's storehouses, where adventurers leave spare equipment for a fee.[@so03-bors] He trades information for valis, though he talks quickly enough once [[bete-loga|Bete]] grabs his collar.[@so03-bors] Money moves him: he puts a [[bounty|bounty hunt]] together in DanMachi 13 and tries to claim a share of a reward in DanMachi 14.[@fm13-bounty, fm14-report]
 
 He once dreamed of becoming a smith and has become something of a weapons expert. After [[aiz-wallenstein|Aiz]] defeats the floor boss [[udaeus|Udaeus]] in Sword Oratoria 2, he talks her into leaving its black sword with him, promising to make it into a great weapon.[@so02-sword] When Aiz asks about it in Minor Myths and Legends 2, he breaks into a sweat and runs off with a fake smile.[@ss02-sword]
 
@@ -63,9 +63,9 @@ Bors also recovered a fragment of Lyu's broken wooden sword, [[equipment#alvs-lu
 | Volume | Events |
 |---|---|
 | Sword Oratoria 12 | Fighting [[monsters#violas|violas]] above ground in the city's northwest, where cheap weapons fail against their skin, he is moved to tears when the god [[goibniu|Goibniu]] opens his Familia's stockpile of top-tier weapons to the defenders.[@so12-violas] |
-| DanMachi 18 | Joins the coalition against [[freya-familia|Freya Familia]]. His goddess signed up and dragged him along, he says, but he also owes Bell and Lyu his life and is "payin' my debt".[@fm18-join] He commands the right wing with [[daphne|Daphne Laulos]].[@fm18-wing] [[hegni|Hegni]] cuts him down with the others, as part of Daphne's plan to make Hegni use up his attacks.[@fm18-hegni] |
-| DanMachi 19 | Celebrates the coalition's share of Freya Familia's fortune.[@fm19-party] Rivira dislikes the [[school-district|School District]]'s students, but he agrees to escort Bell's squad of them below Floor 18 as a protection quest, saying he owes Bell more than he can ever repay.[@fm19-quest] |
-| DanMachi 20 | Tells Bell why no one does business on Floor 28: it is too deep, and there are too few customers.[@fm20-garden] |
+| DanMachi 18 | Joins the [[familia-coalition|coalition]] against [[freya-familia|Freya Familia]]. His goddess signed up and dragged him along, he says, but he also owes Bell and Lyu his life and is "payin' my debt".[@fm18-join] He commands the right wing with [[daphne|Daphne Laulos]].[@fm18-wing] [[hegni|Hegni]] cuts him down with the others, as part of Daphne's plan to make Hegni use up his attacks.[@fm18-hegni] |
+| DanMachi 19 | Celebrates the coalition's share of Freya Familia's fortune.[@fm19-party] Rivira dislikes the [[school-district|School District]]'s students, but he agrees to escort Bell's squad of them below Floor 18 as a protection [[quest|quest]], saying he owes Bell more than he can ever repay.[@fm19-quest] |
+| DanMachi 20 | Tells Bell why no one does business on [[floor-28|Floor 28]]: it is too deep, and there are too few customers.[@fm20-garden] |
 
 ## Open questions
 

@@ -34,15 +34,15 @@
   }
 }
 ---
-**Modi Familia** and **Magni Familia** are two Familias of [[orario|Orario]]: Modi Familia's adventurers are elves, and Magni Familia's are dwarves.[@fm12-epilogue, fm18-center] Their best-known members, the elf Luvis Lilix and the dwarf Dormul Bolster, are both Level 3, both former advisees of [[eina-tulle|Eina Tulle]], and constant rivals.[@fm08-dormul, fm08-luvis] [[hestia-familia|Hestia Familia]] saves both Familias' parties in the [[water-capital|Water Capital]] in DanMachi 12, and in DanMachi 18 both join Hestia's coalition in the Great Familia War to repay that debt.[@fm12-epilogue, fm18-denatus]
+**Modi Familia** and **Magni Familia** are two Familias of [[orario|Orario]]: Modi Familia's adventurers are elves, and Magni Familia's are dwarves.[@fm12-epilogue, fm18-center] Their best-known members, the elf Luvis Lilix and the dwarf Dormul Bolster, are both Level 3, both former advisees of [[eina-tulle|Eina Tulle]], and constant rivals.[@fm08-dormul, fm08-luvis] [[hestia-familia|Hestia Familia]] saves both Familias' parties in the [[water-capital|Water Capital]] in DanMachi 12, and in DanMachi 18 both join Hestia's [[familia-coalition|coalition]] in the Great Familia War to repay that debt.[@fm12-epilogue, fm18-denatus]
 
 ## The two Familias
 
 The two Familias quarrel the way elves and dwarves are expected to. In DanMachi 12 the wounded of both rest in one cave room in [[rivira|Rivira]] with a boundary line drawn down its centre, "evidence of the usual bad relations between the dwarves and the elves".[@fm12-epilogue] Sword Oratoria 12 introduces Dormul and Luvis as "predictably quarrelling", and says their Familia had been rated by the Guild as "a mid-level faction with high battle potential".[@so12-knossos]
 
-- **Quests.** Both Familias took the same quest in DanMachi 12: to search the Water Capital for a missing party, or for its corpses.[@fm12-quest] In Sword Oratoria 12 they help clear the green flesh from [[knossos|Knossos]], and the route into Knossos from the Dungeon's ninth floor was dug by Magni and Modi Familias as part of the [[guild|Guild]]'s mission.[@so12-knossos, so12-route]
+- **Quests.** Both Familias took the same [[quest|quest]] in DanMachi 12: to search the Water Capital for a missing party, or for its corpses.[@fm12-quest] In Sword Oratoria 12 they help clear the green flesh from [[knossos|Knossos]], and the route into Knossos from the Dungeon's ninth floor was dug by Magni and Modi Familias as part of the [[guild|Guild]]'s mission.[@so12-knossos, so12-route]
 - **Standing.** In DanMachi 14, with much of Rivira away on the hunt for Gale Wind, the members of Magni and Modi Familias rank highest among the upper-class adventurers left there.[@fm14-rivira]
-- **The Tangled Gorge.** In DanMachi 20 Bell has heard that Luvis and Dormul have long had trouble getting past the dinosaur monsters of this region, from the twenty-ninth floor down.[@fm20-gorge]
+- **The Tangled Gorge.** In DanMachi 20 Bell has heard that Luvis and Dormul have long had trouble getting past the dinosaur monsters of this region, from the [[floors-29-31-and-32#floor-29|twenty-ninth floor]] down.[@fm20-gorge]
 
 ## Modi and Magni {#modi-and-magni}
 

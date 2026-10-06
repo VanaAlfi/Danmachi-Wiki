@@ -54,7 +54,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 ## History
 
 - **The Great Conflict.** In Astrea Record 2 Fels, having struck down a band of Evils cultists with [[equipment#briefly-named|Magic Eater]], drops the hood of their cloak, "the Reverse Veil", and becomes visible.[@ar02-fels]
-- **DanMachi 10.** Fels travels invisibly with the subjugation team under "a veil that granted invisibility".[@fm10-fels] {{inference}} This is very probably the same item, but the passage does not name it.
+- **DanMachi 10.** Fels travels invisibly with the [[subjugation-team|subjugation team]] under "a veil that granted invisibility".[@fm10-fels] {{inference}} This is very probably the same item, but the passage does not name it.
 - **The Daedalus Street battle (DanMachi 11).** Hestia Familia uses several veils while helping the Xenos escape, as described above.[@fm11-bell, fm11-welf, fm11-gros]
 - **Knossos (Sword Oratoria 12).** Fels moves alone through the labyrinth using "the reversible veil" and other magic items, avoiding every kind of detection, to find the points of the enemy's magic circle.[@so12-fels] The narration credits that with the combination of items, not the veil alone.
 - **The escape with Syr (DanMachi 16).** Bell borrows a veil and a scent remover from the hidden store of the mage Lenoa, an acquaintance of Fels, to slip away from [[freya-familia|Freya Familia]]'s surveillance with [[syr-flover|Syr]].[@fm16-escape]

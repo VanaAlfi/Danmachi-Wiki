@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
-  "aliases": ["Fia", "Lett", "Ranieh", "Orde", "Aude", "Foh", "Cliff", "Gryuu", "Gryu"],
+  "aliases": ["Fia", "Ranieh", "Orde", "Aude", "Foh", "Cliff", "Gryuu", "Gryu"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
   "sections": [
@@ -46,13 +46,13 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[rei|Rei]] | Shields [[alicia-forestlight|Alicia]] of [[loki-familia|Loki Familia]] in Sword Oratoria 10.[@so10-gros] |
 | [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 | [[#fia|Fia]] | A red-haired [[monsters#harpy|harpy]], more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
-| Lett | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
+| [[lett|Lett]] | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 | [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
 | [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushes her own magic stone.[@fm10-ranieh, fm10-death] |
 | Orde | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
 | Foh | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
 | Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
-| Gryuu | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[monsters#mermaid|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
+| Gryuu | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[mari|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
 
 ## Ranieh {#ranieh}
 

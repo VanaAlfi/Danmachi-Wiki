@@ -21,7 +21,7 @@
       {"label": "Magic", "value": "[[#airiel|Airiel]]", "refs": ["so03-update"]},
       {"label": "Skills", "value": "[[skills#avenger|Avenger]]", "refs": ["so12-avenger"]},
       {"section": "Family"},
-      {"label": "Mother", "value": "Aria", "refs": ["so03-aria"]}
+      {"label": "Mother", "value": "[[aria|Aria]]", "refs": ["so03-aria"]}
     ]
   }
 }
@@ -112,7 +112,7 @@ Aiz tells the creature [[levis|Levis]] that Aria is her mother.[@so03-aria] Rive
 
 Her favourite food is [[jyaga-maru-kun|Jyaga Maru Kun]], one of her "secret guilty pleasures"; Loki first bought it for her in her early years with Loki Familia.[@so04-jmk, so01-jmk, so09-jmk]
 
-Aiz leaves flowers at the grave of the ancient hero Albert, also called Valdstejn. Bell notices the likeness between *Valdstejn* and *Wallenstein* and suspects a connection, but it remains his theory.[@fm15-grave, fm16-albert, fm20-albert]
+Aiz leaves flowers at the grave of the ancient hero [[albert|Albert]], also called Valdstejn. Bell notices the likeness between *Valdstejn* and *Wallenstein* and suspects a connection, but it remains his theory.[@fm15-grave, fm16-albert, fm20-albert]
 
 ## With Bell Cranell
 

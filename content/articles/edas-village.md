@@ -6,11 +6,11 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "A hidden village deep in the Beor Mountain Range, home to people who left or were driven from the world, and protected from monsters by scales shed by the Black Dragon. Bell, Aiz and Hestia shelter there after Ares's kidnapping of Hestia in DanMachi 8 and Sword Oratoria 9, and its elder Kam dies while they stay.",
-  "aliases": ["Edas", "Kam", "Rina", "Brigit"],
+  "aliases": ["Edas", "Kam", "Rina"],
   "spoilers": "DanMachi Vols. 8, 18, 20, Sword Oratoria Vols. 9 and 10 and Minor Myths and Legends Vol. 2",
   "related": ["hestia", "bell-cranell", "aiz-wallenstein", "ares", "three-great-quests", "loki"],
   "sections": [
-    {"anchor": "kam", "title": "Kam", "summary": "The elderly elder of Edas Village, once the only follower of the goddess Brigit, who died saving him more than fifty years earlier. He shelters Bell, Aiz and Hestia, and dies hearing Hestia speak to him as Brigit would.", "aliases": ["Kam", "Brigit", "Rina", "Caam", "Brigid"]}
+    {"anchor": "kam", "title": "Kam", "summary": "The elderly elder of Edas Village, once the only follower of the goddess Brigit, who died saving him more than fifty years earlier. He shelters Bell, Aiz and Hestia, and dies hearing Hestia speak to him as Brigit would.", "aliases": ["Kam", "Rina", "Caam"]}
   ],
   "infobox": {
     "title": "Edas Village",
@@ -63,7 +63,7 @@ More than fifty years earlier he was the only follower of a goddess. They loved 
 
 Unable to marry after losing his goddess, he adopted every child with nowhere to go: orphans of a plague and abandoned children. Rina and his sons are not related to him by blood.[@fm08-story] Bell had noticed the odd age gap, and that no one of an age to be their mother lived in the house.[@fm08-rina] Kam asks Bell to protect his goddess.[@fm08-story] To Aiz he says, "You remind me of myself", and prays that someone will fill the hole in her heart.[@so09-talk]
 
-On his deathbed he tells Hestia that meeting her brought back memories of his goddess, Brigit ({{ja|ブリギッド|Burigiddo}}).[@fm08-brigit-ja] Hestia knows her: "Blond hair, deep-red eyes", a friend from Tenkai. Then, taking his hand, Hestia speaks in a different voice, as she imagines Brigit would: "Thank you for your love." His last words are "Lady Brigit, I…I, too."[@fm08-death] Sword Oratoria 9 says that in his final moments he was saved by what remained of his goddess, and passed in peace.[@so09-death]
+On his deathbed he tells Hestia that meeting her brought back memories of his goddess, [[brigit|Brigit]] ({{ja|ブリギッド|Burigiddo}}).[@fm08-brigit-ja] Hestia knows her: "Blond hair, deep-red eyes", a friend from Tenkai. Then, taking his hand, Hestia speaks in a different voice, as she imagines Brigit would: "Thank you for your love." His last words are "Lady Brigit, I…I, too."[@fm08-death] Sword Oratoria 9 says that in his final moments he was saved by what remained of his goddess, and passed in peace.[@so09-death]
 
 ## Open questions
 

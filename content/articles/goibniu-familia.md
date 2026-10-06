@@ -28,7 +28,7 @@
 
 ## Home and members {#home}
 
-- **The Three Hammers Forge:** the Familia's home and workshop stands in a narrow, quiet district between North Main and Northwest Main Streets; its emblem of three hammers is carved on the door.[@so01-workshop, so02-forge] Astrea Record 1 places Goibniu's home in the northwest of the city.[@ar01-hephaistos]
+- **The Three Hammers Forge:** the Familia's home and workshop stands in a narrow, quiet district between North Main and Northwest Main Streets; its [[emblem|emblem]] of three hammers is carved on the door.[@so01-workshop, so02-forge] Astrea Record 1 places Goibniu's home in the northwest of the city.[@ar01-hephaistos]
 - **Members:** its smiths pride themselves on simplicity and fortitude and work almost entirely on custom orders; its High Smiths made Desperate, and its architects renovated [[hestia-familia|Hestia Familia]]'s manor. Its blacksmiths and craftsmen "have quite a following", and several top-ranking Dungeon-exploring Familias seek its plain, sturdy arms.[@so01-workshop, so01-desperate, fm07-unique] In Astrea Record 3 its captain is a forgemaster.[@ar03-captain]
 - **Joining:** smithing students of the [[school-district|School District]] who intern with the Familia keep failing ("We were interning with Goibniu Familia and failed again!"); on Goibniu's own test, see [[goibniu|Goibniu]].[@fm19-interns]
 
@@ -41,7 +41,7 @@
 | [[urga|Urga]] | [[hyrute-sisters|Tiona]]'s custom double-bladed sword, made with a huge amount of [[metals#adamantite|adamantite]].[@so01-workshop] |
 | The [[equipment#fortia-spear|Fortia Spear]] | Finn's bespoke spear, which he often entrusts to the Familia.[@ss01-finn] |
 | Ottar's sword | A jet-black sword as tall as [[ottar|Ottar]], made from the drop item [[udaeus|Udaeus]] Black Sword.[@fc02-ottar] |
-| Other orders | Lilly's wrist crossbow, made for prums; the paired daggers Tenka and Chizan, bought by [[takemikazuchi|Takemikazuchi]], who keeps the white Tenka and gives the black Chizan to Mikoto; Lyu's wooden sword from a branch of the holy tree, made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
+| Other orders | Lilly's wrist crossbow, made for prums; the paired daggers Tenka and Chizan, bought by [[takemikazuchi|Takemikazuchi]], who keeps the white Tenka and gives the black Chizan to Mikoto; Lyu's wooden sword from a branch of the [[holy-tree|holy tree]], made by the Familia's captain (Astrea Record 3).[@fm07-renovation, fm08-mikoto, ar03-lyu] |
 | Building | Renovating Hestia Familia's new home, [[hearthstone-manor|Hearthstone Manor]], in four days: "that’s Goibniu Familia for you—fast and efficient."[@fm07-renovation, fm07-fast] |
 
 ## History {#history}

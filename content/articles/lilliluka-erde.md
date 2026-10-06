@@ -27,13 +27,13 @@
   }
 }
 ---
-**Lilliluka Erde**, usually called **Lilly**, is a prum supporter. Born into [[soma-familia|Soma Familia]], she meets [[bell-cranell|Bell Cranell]] in DanMachi 2 and converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm02-lilly, fm06-lilly] She becomes the party's tactician, and in DanMachi 18 she commands the coalition in the Familia War.[@fm12-commander, fm18-command]
+**Lilliluka Erde**, usually called **Lilly**, is a prum supporter. Born into [[soma-familia|Soma Familia]], she meets [[bell-cranell|Bell Cranell]] in DanMachi 2 and converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm02-lilly, fm06-lilly] She becomes the party's tactician, and in DanMachi 18 she commands the [[familia-coalition|coalition]] in the Familia War.[@fm12-commander, fm18-command]
 
 ## Soma Familia
 
 Lilly was born into Soma Familia. As a supporter she stole from adventurers to save up for her release, and was exploited by others in the Familia.[@fm02-lilly] In DanMachi 2 Bell rescues and forgives her after she steals from him.[@fm02-lilly] Soon afterwards a former comrade robs her of everything she has saved.[@fm03-stolen] She then goes nearly half a year without a Status update: she reached the quota but did not hand the money in, so as not to stand out, and being unable to update was the side effect.[@fm03-status, fm03-ja-status]
 
-In DanMachi 6 Zanis demands at least ten million valis for her release and later captures her. She resists the Familia's [[soma#divine-wine|Divine Wine]] through willpower and persuades [[soma|Soma]] to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
+In DanMachi 6 [[zanis-lustra|Zanis]] demands at least ten million valis for her release and later captures her. She resists the Familia's [[soma#divine-wine|Divine Wine]] through willpower and persuades [[soma|Soma]] to stop the fighting.[@fm06-soma] Hestia puts up the [[hestia-knife|Hestia Knife]] as collateral, Soma consents, and the two gods rewrite her [[falna|Falna]] so that she joins Hestia Familia.[@fm06-lilly] Two days after the [[war-game|War Game]] she pays Soma Familia, and Soma apologises to her.[@fm06-paid]
 
 ## Hestia Familia
 
@@ -74,7 +74,7 @@ Lilly's Status cards in DanMachi 8 and DanMachi 15 list Cinder Ella under Magic 
 | Shape-shifting Magic[@cinder-ella.fm08-card] | Shape-shifting magic[@cinder-ella.fm15-card] |
 | The target takes the envisioned shape; fails without a clear image[@cinder-ella.fm08-card] | The target assumes the form envisioned when casting; fails without a clear image[@cinder-ella.fm15-card] |
 | Imitation is recommended[@cinder-ella.fm08-card] | Mimicking an existing form is recommended[@cinder-ella.fm15-card] |
-| **Trigger Spell** and **Release Spell**[@cinder-ella.fm08-card] | **Activation chant** and **Deactivation chant**[@cinder-ella.fm15-card] |
+| **[[trigger-spell|Trigger Spell]]** and **Release Spell**[@cinder-ella.fm08-card] | **Activation chant** and **Deactivation chant**[@cinder-ella.fm15-card] |
 
 #### Incantation {#cinder-ella-incantation}
 

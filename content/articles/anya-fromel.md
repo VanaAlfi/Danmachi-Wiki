@@ -106,7 +106,7 @@ In a later confrontation in the street, her old title is recognised, and her bro
 After Freya's charm rewrites the city's memories in DanMachi 17, Anya and Mia still remember Syr.[@fm17-memory]
 
 > [!INFERENCE] Why she remembers
-> Hedin explains that Freya's followers kept their awareness because they were released through her ichor. Applying that to Anya and Mia is an inference: their individual cases are not narrated in the same detail. She is not simply immune, since Freya offers to charm her into forgetting.[@fm17-hedin]
+> Hedin explains that Freya's followers kept their awareness because they were released through her [[ichor|ichor]]. Applying that to Anya and Mia is an inference: their individual cases are not narrated in the same detail. She is not simply immune, since Freya offers to charm her into forgetting.[@fm17-hedin]
 
 Freya then reveals directly to Anya that she is Syr. Anya refuses to accept it, cries, demands Syr back and lunges forward; Allen knocks her away.[@fm17-reveal] Freya's separate explanation to Lyu afterwards is not something Anya hears.[@fm17-reveal]
 

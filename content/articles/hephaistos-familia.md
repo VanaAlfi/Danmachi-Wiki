@@ -26,7 +26,7 @@
   }
 }
 ---
-**Hephaistos Familia** is the Familia of [[hephaistos|Hephaistos]], goddess of the forge: "Masters of the Forge", the largest group of smiths and artisans in [[orario|Orario]].[@fm04-masters, so03-largest] Its name is known around the world, and its emblem is printed Ἥφαιστος.[@so09-logo, fm02-babel] Its High Smiths ({{ja|上級鍛冶師}}, written *upper-class smiths*)[@so01-highsmith-ja] are masters of their craft and also stronger in battle than most high-level adventurers.[@so03-largest] The captain is [[tsubaki|Tsubaki Collbrande]], a Level 5 master smith.[@fm08-tsubaki, fm14-level] The goddess herself is described on [[hephaistos|her own page]].
+**Hephaistos Familia** is the Familia of [[hephaistos|Hephaistos]], goddess of the forge: "Masters of the Forge", the largest group of smiths and artisans in [[orario|Orario]].[@fm04-masters, so03-largest] Its name is known around the world, and its [[emblem|emblem]] is printed Ἥφαιστος.[@so09-logo, fm02-babel] Its High Smiths ({{ja|上級鍛冶師}}, written *upper-class smiths*)[@so01-highsmith-ja] are masters of their craft and also stronger in battle than most high-level adventurers.[@so03-largest] The captain is [[tsubaki|Tsubaki Collbrande]], a Level 5 master smith.[@fm08-tsubaki, fm14-level] The goddess herself is described on [[hephaistos|her own page]].
 
 ## Shops and home
 
@@ -65,13 +65,13 @@
 | Sword Oratoria 12 | The Familia makes the [[equipment#spirit-cloth|spirit flag]]s for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] |
 | Sword Oratoria 13 | Some of its High Smiths are among those killed by the demi-spirit's attack in Knossos, and are mourned at the funerals that follow.[@so13-dead] |
 | DanMachi 17 | Almost all its members, its High Smiths included, surround [[folkvangr|Folkvangr]] from the south and west, alongside Loki Familia, while an angry Hephaistos tells Freya she will have to pay.[@fm17-siege] |
-| DanMachi 18 | With Loki Familia barred, it is the only Familia able to fully support Hestia in the Great Familia War. Its smiths forge magic swords under Hephaistos's strict judgement and fight at the coalition's centre.[@fm18-home, fm18-center] [[hedin|Hedin]] provokes them into wasting many of the swords, and [[allen-fromel|Allen]] picks off its smiths and tears Hephaistos's flower, eliminating the Familia.[@fm18-hedin, fm18-out] |
+| DanMachi 18 | With Loki Familia barred, it is the only Familia able to fully support Hestia in the Great Familia War. Its smiths forge magic swords under Hephaistos's strict judgement and fight at the [[familia-coalition|coalition]]'s centre.[@fm18-home, fm18-center] [[hedin|Hedin]] provokes them into wasting many of the swords, and [[allen-fromel|Allen]] picks off its smiths and tears Hephaistos's flower, eliminating the Familia.[@fm18-hedin, fm18-out] |
 | Familia Chronicle 3 | Word in [[zolingam|Solingen]] is that the Familia buys raw materials there and supports several workshops; many residents have become Hephaistos's followers.[@fc03-zolingam] |
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - The Familia's size, Guild rank and full roster beyond Tsubaki and Welf were not located in the checked text.[@so04-expedition]
+> - The Familia's size, Guild [[familia-rank|rank]] and full roster beyond Tsubaki and Welf were not located in the checked text.[@so04-expedition]
 
 [@fm01-store]: FM01 | Chapter 5: The Goddess’s Prank | Hephaistos Familia's store, "located on Northwest Main"; its third floor.
 [@fm01-ja-store]: FM01 | Chapter 5: The Goddess’s Prank | Japanese original (file c3FS, paragraphs 43 and 113): the store is headed Hephaistos Familia, Northwest Main Street branch, and is later called this branch.

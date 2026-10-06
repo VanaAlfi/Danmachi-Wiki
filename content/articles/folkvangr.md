@@ -32,7 +32,7 @@ At its centre are a walled field and a manor.[@fm16-field] The field hosts death
 
 ## The einherjar
 
-Members below the first tier fight daily battle royals that would kill them, while the healers of the Andhrímnir restore those left close to death. The fighters are called *einherjar*, which also means "dead warriors" in the gods' language, and they hold a nightly feast in Sessrúmnir.[@fm17-einherjar] [[heith-velvet|Heith Velvet]] went through this "baptism" as a fighter before becoming a healer.[@fm18-heith]
+Members below the first tier fight daily battle royals that would kill them, while the [[healer|healers]] of the Andhrímnir restore those left close to death. The fighters are called *einherjar*, which also means "dead warriors" in the gods' language, and they hold a nightly feast in Sessrúmnir.[@fm17-einherjar] [[heith-velvet|Heith Velvet]] went through this "baptism" as a fighter before becoming a healer.[@fm18-heith]
 
 ## History
 
@@ -40,7 +40,7 @@ Members below the first tier fight daily battle royals that would kill them, whi
 |---|---|
 | DanMachi 16 | Freya Familia's first-tier members hold an emergency meeting there during the festival.[@fm16-field] |
 | DanMachi 17 | [[bell-cranell|Bell]] is held there for more than two weeks and trained in its battles; [[lyu-leon|Lyu]], captured, is imprisoned beneath it and damages the interior while escaping.[@fm17-bell, fm17-lyu] |
-| DanMachi 18 | After the Familia War it is placed under [[guild|Guild]] management, while Freya Familia's other wealth is divided among the coalition.[@fm18-guild] |
+| DanMachi 18 | After the Familia War it is placed under [[guild|Guild]] management, while Freya Familia's other wealth is divided among the [[familia-coalition|coalition]].[@fm18-guild] |
 | DanMachi 20 | [[syr-flover|Syr]] cannot come and go there because the Guild has seized it.[@fm20-seized] |
 
 [@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location; Twilight Manor in the north.

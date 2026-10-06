@@ -32,7 +32,7 @@
 
 Sword Oratoria 1 opens with the story of "a great Hole in the world", which existed long before anyone found it and endlessly gave birth to monsters. They overran forests, mountains, seas and skies until the surface races united behind new heroes and drove them back to the Hole. Inside lay "a realm divided into many levels", lit by strange lights and full of unknown plants, ores and minerals. Humans and demi-humans built a tower over the Hole as a "lid", and curiosity about what lay at its bottom drew the first explorers, later known as adventurers.[@so01-hole] In Familia Chronicle 2 the monsters from "the giant hole" are said to have spread over land, sea and sky.[@fc02-hole]
 
-Sword Oratoria 2 tells the Guild's side of the story. The body that preceded the Guild tried to build a lid over the hole, but every lid was destroyed, the last tower collapsing just after it was finished. Then the gods descended; most said they had come "To be entertained", but one, [[ouranos|Ouranos]], joined the people's effort. He was the first to bestow Falna in this land, and with his work and the other gods' help the fortress city that became Orario was completed; worshipped as Orario's founding deity, he became the patron god of that body, which reorganised under him as the Guild.[@so02-lid] DanMachi 9 adds that he was one of the first gods to descend and that his help made the city the first line of defence.[@fm09-ouranos]
+Sword Oratoria 2 tells the Guild's side of the story. The body that preceded the Guild tried to build a lid over the hole, but every lid was destroyed, the last tower collapsing just after it was finished. Then the gods descended; most said they had come "To be entertained", but one, [[ouranos|Ouranos]], joined the people's effort. He was the first to bestow Falna in this land, and with his work and the other gods' help the fortress city that became Orario was completed; worshipped as Orario's founding deity, he became the [[patron-deity|patron god]] of that body, which reorganised under him as the Guild.[@so02-lid] DanMachi 9 adds that he was one of the first gods to descend and that his help made the city the first line of defence.[@fm09-ouranos]
 
 The lid is Babel Tower. DanMachi 1 calls it the Guild's "guard tower", built because monsters came out "almost every day" in ancient times.[@fm01-tower] Lilly has heard that Babel was once no bigger than the buildings around it.[@fm02-babel] Ouranos stays in the Guild's temple and prays to the Dungeon without pause; his mighty divine aura holds the Dungeon down, so that the monsters' great invasion does not happen, and keeps them on their floors, or so the Guild believes.[@so02-prayer] DanMachi 17 calls Orario "the lid on the great pit" and Ouranos the keystone of the mortal realm, and in DanMachi 19 the Dungeon is thought "just barely made manageable" by Babel and Ouranos's prayers together.[@fm17-keystone, fm19-shaft]
 
@@ -51,8 +51,8 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 | Floors | Band | Notes |
 |---|---|---|
 | 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. Floors 11 and 12 are held to be the deepest that Level 1 adventurers can clear.[@fm02-upper, fm02-limit] |
-| 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a safe point.[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
-| 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] Floor 28, the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on Floor 29.[@fm20-gorge] |
+| 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a [[safe-point|safe point]].[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
+| 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] [[floor-28|Floor 28]], the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on [[floors-29-31-and-32#floor-29|Floor 29]].[@fm20-gorge] |
 | Deeper floors | Deep levels | [[floor-37|Floor 37]] lies in the deep levels {{small|(printed *Lower Fortress* in DanMachi 2)}} and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] Hephaistos speaks of Loki Familia going to "the Deep Zone".[@fm12-deepzone] |
 
 For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls]
@@ -60,12 +60,12 @@ For the first twelve floors, the recommended basic abilities run from I–H on F
 ### Known deep floors {#deep-floors}
 
 - **Floor 39:** "The first safety point in the deep levels".[@fm14-safepoint]
-- **Floors 40–41:** the fortieth floor is rumoured to rival Orario itself in size; Astrea Familia's record registered with the Guild was the forty-first floor.[@fm03-size, fm13-record]
+- **Floors 40–41:** the [[floor-40|fortieth floor]] is rumoured to rival Orario itself in size; Astrea Familia's record registered with the Guild was the [[floor-41|forty-first floor]].[@fm03-size, fm13-record]
 - **Floor 44:** a floor of "sweltering heat", with a burning crimson floor and Flaming Rocks; DanMachi 4 places it in the Dungeon's deep levels.[@fm04-floor44]
-- **Floor 49:** the Moitra Sands, where the floor boss Balror lives and [[monsters#fomoire|Fomoire]] attack Loki Familia in Sword Oratoria 1.[@fc02-moitra, so01-camp]
-- **Floor 50:** a safe point where monsters are not born; Loki Familia camps there.[@so01-camp]
-- **Floor 51:** the Cadmus Springs (see [[monsters#cadmus|Cadmus]]).[@so01-camp]
-- **Floors 52–58:** going down to Floor 52 "is like descending into hell itself". Zeus Familia nicknamed this area the Dragon's Urn, for the [[monsters#valgang-dragon|valgang dragons]] of Floor 58 at its bottom.[@so04-urn]
+- **[[floor-49|Floor 49]]:** the Moitra Sands, where the floor boss Balror lives and [[monsters#fomoire|Fomoire]] attack Loki Familia in Sword Oratoria 1.[@fc02-moitra, so01-camp]
+- **[[floor-50|Floor 50]]:** a safe point where monsters are not born; Loki Familia camps there.[@so01-camp]
+- **[[floor-51|Floor 51]]:** the Cadmus Springs (see [[monsters#cadmus|Cadmus]]).[@so01-camp]
+- **Floors 52–58:** going down to [[floor-52|Floor 52]] "is like descending into hell itself". Zeus Familia nicknamed this area the Dragon's Urn, for the [[monsters#valgang-dragon|valgang dragons]] of [[floor-58|Floor 58]] at its bottom.[@so04-urn]
 - **Floor 59:** still unexplored when Loki Familia sets out for it in Sword Oratoria 1–4 (see [[corrupted-spirit|Corrupted spirit]]).[@so01-camp, so03-unexplored]
 - **Floors 60–61:** Thalia's Ice Garden lies in "The gulf between the sixtieth and sixty-first floors"; in DanMachi 18 the Guild shows Finn a relic brought back from it.[@fm18-icegarden]
 - **Floor 67:** Zeus and Hera discovered a monster there.[@fm20-floor67]
@@ -91,7 +91,7 @@ The Behemoth, the Leviathan and the Black Dragon escaped the Dungeon in ancient 
 
 ## Expeditions
 
-Familias of Guild rank D and above must take part in periodic Guild expeditions; more than half of the assigned Familia's own members must take part, and failure brings a penalty.[@fm12-expedition] The results can be a new floor, an unknown mineral, a mapped Frontier, or sometimes a floor boss; most Familias clear a new floor.[@fm12-deepzone] The deepest floor reached is Floor 71, a record set by Zeus Familia and Hera Familia.[@fm19-record]
+Familias of Guild [[familia-rank|rank]] D and above must take part in periodic Guild expeditions; more than half of the assigned Familia's own members must take part, and failure brings a penalty.[@fm12-expedition] The results can be a new floor, an unknown mineral, a mapped Frontier, or sometimes a floor boss; most Familias clear a new floor.[@fm12-deepzone] The deepest floor reached is Floor 71, a record set by Zeus Familia and Hera Familia.[@fm19-record]
 
 [[loki-familia|Loki Familia]] leads the deep-level expeditions of the story. In Sword Oratoria 1 it fights through the Moitra Sands to the safe point on Floor 50.[@so01-camp] In DanMachi 20 it sets out with [[tsubaki|Tsubaki]], [[amid|Amid]] and other strong adventurers of other Familias, and at the end of the volume its survivors return with the news that "The alliance was wiped out on the sixtieth floor".[@fm20-alliance, fm20-floor60]
 

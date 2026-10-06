@@ -25,7 +25,7 @@
   }
 }
 ---
-**Loki** is a goddess and the head of [[loki-familia|Loki Familia]], whose emblem is "the mark of the trickster: a comedic smile".[@fm01-loki, so01-emblem] She is an old acquaintance of [[freya|Freya]] and [[hestia|Hestia]].[@fm01-loki]
+**Loki** is a goddess and the head of [[loki-familia|Loki Familia]], whose [[emblem|emblem]] is "the mark of the trickster: a comedic smile".[@fm01-loki, so01-emblem] She is an old acquaintance of [[freya|Freya]] and [[hestia|Hestia]].[@fm01-loki]
 
 ## Appearance and character {#character}
 
@@ -57,7 +57,7 @@ Newly come down to the Lower World near Preblica, Loki made the fourteen-year-ol
 | DanMachi 11 | Tells [[bell-cranell|Bell]] that the gods have their eyes on him and that she is interested in him too.[@fm11-bell] |
 | Sword Oratoria 12 | Exposes Dionysus as Enyo, the mind behind the Evils' plan, and witnesses his return to the heavens with [[filvis|Filvis]].[@so12-loki] |
 | DanMachi 17 | Freya's charm does not reach the members of Loki Familia on an expedition in the deep levels; when the charm breaks, Loki Familia stands against [[freya-familia|Freya Familia]].[@fm17-expedition, fm17-stand] |
-| DanMachi 18 | The Guild bars Loki Familia from the war game against Freya, in exchange for permission to challenge a dangerous place alone.[@fm18-deal] Loki keeps coming back to [[mia-grand|Mia]]'s tavern to ask her to join the coalition, and Hermes asks what magic she used to send Mia in. She and Hermes both support the coalition from the shadows.[@fm18-mia, fm18-hermes] |
+| DanMachi 18 | The Guild bars Loki Familia from the war game against Freya, in exchange for permission to challenge a dangerous place alone.[@fm18-deal] Loki keeps coming back to [[mia-grand|Mia]]'s tavern to ask her to join the [[familia-coalition|coalition]], and Hermes asks what magic she used to send Mia in. She and Hermes both support the coalition from the shadows.[@fm18-mia, fm18-hermes] |
 
 ## Open questions
 

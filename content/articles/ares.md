@@ -26,7 +26,7 @@
   }
 }
 ---
-**Ares** is the God of War and the patron god of the [[ares-familia#kingdom-of-rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia, [[ares-familia|Ares Familia]].[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
+**Ares** is the God of War and the [[patron-deity|patron god]] of the [[ares-familia#kingdom-of-rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia, [[ares-familia|Ares Familia]].[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
 
 ## Ares
 

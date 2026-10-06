@@ -40,7 +40,7 @@ Raul had been in [[orario|Orario]] only a short time when the [[great-conflict|G
 | Volume | Events |
 |---|---|
 | Sword Oratoria 1 | Struck down by the new monsters, he is carried off over Gareth's shoulder; later Riveria gives him command of a battle, since "Finn believes you are ready to gain some experience".[@so01-raul, so01-command] |
-| Sword Oratoria 7 | When [[finn-deimne|Finn]] is struck down he catches him, takes over field command, and with [[anakity-autumn|Anakity]] turns a pass parade against the enemy; Finn praises him as a fine adventurer.[@so07-raul] |
+| Sword Oratoria 7 | When [[finn-deimne|Finn]] is struck down he catches him, takes over field command, and with [[anakity-autumn|Anakity]] turns a [[pass-parade|pass parade]] against the enemy; Finn praises him as a fine adventurer.[@so07-raul] |
 | DanMachi 11 | Is at Loki Familia's headquarters during the [[daedalus-street|Daedalus Street]] operation.[@fm11-raul] |
 | Sword Oratoria 10 | Is fooled by [[lilliluka-erde|Lilly]] disguised as Finn, then serves as Finn's aide.[@so10-raul] |
 | Sword Oratoria 12 | Leads the reserve that rescues the hostages, discovers the [[corrupted-spirit|demi-spirit]] [[corrupted-spirit#nidhogg|Nidhogg]], commands the defence of [[bell-cranell|Bell]]'s charge and sees his decisive attack.[@so12-raul, so12-hostages] |

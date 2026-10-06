@@ -38,7 +38,7 @@ After the [[juggernaut|Juggernaut]] incident, Gale Wind is officially recorded a
 
 ## Background
 
-Lyu comes from Lumirua Forest, where her clan guards the holy tree; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
+Lyu comes from Lumirua Forest, where her clan guards the [[holy-tree|holy tree]]; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
 
 Astrea Familia is later destroyed and Lyu is its only survivor. She persuades Astrea to leave Orario and then takes revenge on those responsible and anyone connected to them, which gets her blacklisted by the Guild.[@fm05-past] After her revenge, [[syr-flover|Syr]] finds and nurses her, and [[mia-grand|Mia]] gives her a place at the tavern.[@fc01-rescue]
 
@@ -64,7 +64,7 @@ Before the Familia War of DanMachi 18, Astrea, waiting in [[zolingam|Solingen]],
 
 ### DanMachi 19–20
 
-Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Familia accepts her.[@fm19-lyu] Her joining raises the Familia to Guild rank B.[@fm19-rank] In DanMachi 20 she asks Bell to hold off on turning her down.[@fm20-lyu]
+Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Familia accepts her.[@fm19-lyu] Her joining raises the Familia to Guild [[familia-rank|rank]] B.[@fm19-rank] In DanMachi 20 she asks Bell to hold off on turning her down.[@fm20-lyu]
 
 ## Abilities
 
@@ -195,7 +195,7 @@ Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it
 
 ### Astrea Record (spell) {#astrea-record-spell}
 
-**Astrea Record** is Lyu Leon's third magic. Her Status lists it with the words "Inherited justice", which is also the meaning of its name.[@astrea-record-spell.fc03-card] In [[astrea|Astrea]]'s words it is "a magic that Lyu alone can use to inherit everyone's magic": the magic of all ten of her dead companions in [[astrea-familia|Astrea Familia]], who shared the same Falna and Astrea's ichor.[@astrea-record-spell.fc03-nature, astrea-record-spell.fm18-inherit] DanMachi 18 says it manifested when she reached Level 6.[@astrea-record-spell.fm18-inherit]
+**Astrea Record** is Lyu Leon's third magic. Her Status lists it with the words "Inherited justice", which is also the meaning of its name.[@astrea-record-spell.fc03-card] In [[astrea|Astrea]]'s words it is "a magic that Lyu alone can use to inherit everyone's magic": the magic of all ten of her dead companions in [[astrea-familia|Astrea Familia]], who shared the same Falna and Astrea's [[ichor|ichor]].[@astrea-record-spell.fc03-nature, astrea-record-spell.fm18-inherit] DanMachi 18 says it manifested when she reached Level 6.[@astrea-record-spell.fm18-inherit]
 
 {{nocite}} It shares its name with the *Astrea Record* novels; this section is about the spell.
 
@@ -238,7 +238,7 @@ Later in DanMachi 18 the opening line is printed again without "the", followed b
 |---|---|---|
 | [[#agris-arvensis|Agris Arvensis]] (also printed *Agaris Alvesince*) | Alize Lovell | Fire enchantment on arms, legs and weapon[@astrea-record-spell.fc03-cast, astrea-record-spell.fm18-cast] |
 | [[magic#gokou|Gokou]] | [[gojouno-kaguya|Gojouno Kaguya]] | "A magic that merely created a magic slash in the positions she set"; Kaguya combined it with her draw to make five slashes from all sides[@astrea-record-spell.fm18-gokou] |
-| [[magic#rea-vindemia|Rea Vindemia]] | Maryu, the Familia's only healer | Area healing; Lyu's own [[#noa-heal|Noa Heal]] targets one person and is slow[@astrea-record-spell.fm18-maryu, astrea-record-spell.ar03-maryu] |
+| [[magic#rea-vindemia|Rea Vindemia]] | Maryu, the Familia's only [[healer|healer]] | Area healing; Lyu's own [[#noa-heal|Noa Heal]] targets one person and is slow[@astrea-record-spell.fm18-maryu, astrea-record-spell.ar03-maryu] |
 | "Moose Mine" | Not stated; probably [[lyra|Lyra]] {{inference}} | Not described. Familia Chronicle 3 follows the shout with "The shrewd prum tactician who set traps", and Lyra was the Familia's prum strategist[@astrea-record-spell.fc03-others, astrea-record-spell.fc03-moose] |
 | "Irivute" | Not stated | Named in Familia Chronicle 3 alongside the other companions' powers[@astrea-record-spell.fc03-others] |
 

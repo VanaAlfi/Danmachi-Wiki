@@ -24,7 +24,7 @@
   }
 }
 ---
-**Runoa Faust** is a human waitress at [[the-benevolent-mistress|The Benevolent Mistress]] and a former bounty hunter, known in [[orario|Orario]]'s underworld as *Black Fist*. She is a Level 4 adventurer.[@fm16-fight, fc01-alias, fc01-card]
+**Runoa Faust** is a human waitress at [[the-benevolent-mistress|The Benevolent Mistress]] and a former [[bounty|bounty hunter]], known in [[orario|Orario]]'s underworld as *Black Fist*. She is a Level 4 adventurer.[@fm16-fight, fc01-alias, fc01-card]
 
 ## Past
 

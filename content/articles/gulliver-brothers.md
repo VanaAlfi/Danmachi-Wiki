@@ -57,8 +57,8 @@ In [[ali|Ali]]'s war of Familia Chronicle 2 the brothers act as Freya's guards a
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | Alfrik and Hedin have studied old battles in the Guild library, and so recognise Osiris Familia among the Evils' fighters.[@ar01-library] |
-| Astrea Record 3 | Driven back by Basram's spirit soldiers.[@ar03-basram] At the Amphitheatrum they destroy the four spirit warriors at Basram's side, Alfrik cuts off the arm holding his staff, and Alfrik's spear kills the transformed Basram.[@ar03-basram-end] |
+| Astrea Record 1 | Alfrik and Hedin have studied old battles in the Guild library, and so recognise [[minor-familias#osiris-familia|Osiris Familia]] among the Evils' fighters.[@ar01-library] |
+| Astrea Record 3 | Driven back by [[basram|Basram]]'s spirit soldiers.[@ar03-basram] At the Amphitheatrum they destroy the four spirit warriors at Basram's side, Alfrik cuts off the arm holding his staff, and Alfrik's spear kills the transformed Basram.[@ar03-basram-end] |
 | Familia Chronicle 2 | In [[ali|Ali]]'s war in the Kaios Desert they rampage through Warsa's army.[@fc02-desert] |
 | Sword Oratoria 4 | With Allen, they keep [[loki-familia|Loki Familia]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]].[@so04-bringar] |
 | Sword Oratoria 12 | Join the final battle: they take the [[equipment#spirit-cloth|spirit flag]]s from [[tsubaki|Tsubaki]] and Loki Familia and charge through the enemy's magic, which "Those four small frames nullified" by working as one.[@so12-flags-g] |

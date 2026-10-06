@@ -35,7 +35,7 @@ Njörðr has brown hair pulled back into a ponytail, untanned skin, and the musc
 
 ## Njörðr Familia {#familia}
 
-Njörðr's Familia runs the fishing of Port Meren, southwest of Orario; its captain, Rod, says the god has protected the city for generations.[@so06-fishing, so06-rod, fc01-chloe] The Familia, its home Nóatún and [[njordr-familia#port-meren|the port]] are described on [[njordr-familia|Njörðr Familia]].
+Njörðr's Familia runs the fishing of Port Meren, southwest of Orario; its captain, [[rod|Rod]], says the god has protected the city for generations.[@so06-fishing, so06-rod, fc01-chloe] The Familia, its home Nóatún and [[njordr-familia#port-meren|the port]] are described on [[njordr-familia|Njörðr Familia]].
 
 ## The viola bargain
 

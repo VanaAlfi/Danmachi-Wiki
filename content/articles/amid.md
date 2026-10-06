@@ -23,7 +23,7 @@
   }
 }
 ---
-**Amid Teasanare** is a healer of [[dian-cecht-familia|Dian Cecht Familia]], titled *Dea Saint*.[@fm18-amid] She and [[heith-velvet|Heith Velvet]] of [[freya-familia|Freya Familia]] are known as [[orario|Orario]]'s two great healers, the silver saint and the golden witch.[@ss01-healers, fm18-healers] She is considered the best healer in the city.[@fm14-best]
+**Amid Teasanare** is a [[healer|healer]] of [[dian-cecht-familia|Dian Cecht Familia]], titled *Dea Saint*.[@fm18-amid] She and [[heith-velvet|Heith Velvet]] of [[freya-familia|Freya Familia]] are known as [[orario|Orario]]'s two great healers, the silver saint and the golden witch.[@ss01-healers, fm18-healers] She is considered the best healer in the city.[@fm14-best]
 
 In Minor Myths and Legends 2 she is nineteen, under 150 celch tall and Level 2.[@ss02-amid] In the same volume [[hyrute-sisters|Tiona]] spots her in a crowd by "a head of silver hair".[@ss02-hair]
 
@@ -97,7 +97,7 @@ The Japanese chant is {{ja|癒しの滴、光の涙、永久の聖域。薬奏�
 
 #### Earlier treatments {#dia-frater-earlier-treatments}
 
-In Sword Oratoria 8 Amid says that only her magic made headway against the Unhealable Curse on Finn, at "an extraordinary amount of Mind", and she nearly reaches Mind Down after treating Bete, whose wounds still need time to heal.[@dia-frater.so08-finn, dia-frater.so08-bete] {{inference}} These are very probably Dia Frater, but the spell is not named.
+In Sword Oratoria 8 Amid says that only her magic made headway against the [[cursed-weapons|Unhealable Curse]] on Finn, at "an extraordinary amount of Mind", and she nearly reaches Mind Down after treating Bete, whose wounds still need time to heal.[@dia-frater.so08-finn, dia-frater.so08-bete] {{inference}} These are very probably Dia Frater, but the spell is not named.
 
 #### Compared with Heith {#dia-frater-compared-with-heith}
 

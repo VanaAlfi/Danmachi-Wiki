@@ -50,7 +50,7 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 | DanMachi 10 | The hunter [[ikelos-familia#dix-perdix|Dix]] removes her Tear, transforming her. A cursed spearhead cracks her [[magic-stone|magic stone]] and she dies declaring her love for Bell, then is brought back to life by [[fels|Fels]]'s [[magic#dia-orpheus|Dia Orpheus]].[@fm10-wiene] |
 | DanMachi 11 | Saves Ruu, a child of Maria's orphanage, from falling rubble. Facing [[aiz-wallenstein|Aiz]], she tears off her own claws and new wing and tells Aiz that Bell rescued her from darkness and loneliness; Aiz lets them go. She returns safely underground after Bell promises they will share a future.[@fm11-wiene] |
 | Sword Oratoria 10 | The same meeting with Aiz, told from Aiz's side: her loneliness moves Aiz.[@so10-wiene] |
-| DanMachi 12 | Bell's promise to her drives him on, and he makes the same promise to Mari, a mermaid Xenos of the [[water-capital|Water Capital]].[@fm12-promise, fm12-mari] |
+| DanMachi 12 | Bell's promise to her drives him on, and he makes the same promise to [[mari|Mari]], a mermaid Xenos of the [[water-capital|Water Capital]].[@fm12-promise, fm12-mari] |
 | Sword Oratoria 11 | Volunteers to go with [[lido|Lido]] into [[knossos|Knossos]]: "I want to go, too", to protect the place where the goddess and Bell live.[@so11-wiene] |
 | Sword Oratoria 12 | Fights in Knossos in a black robe. Her dragon's ears catch the danger an instant before magic circles fill the passage, and when the grand bell rings she is the first to cry, "It’s Bell!"[@so12-robe, so12-ears, so12-bell] |
 | DanMachi 14 | Takes part in the rescue from [[floor-37|Floor 37]] and asks after Bell.[@fm14-wiene] |

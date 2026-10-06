@@ -34,7 +34,7 @@ Remnants of the Evils later hide in [[knossos|Knossos]], which serves as their b
 
 Sword Oratoria 12 reveals that the god [[dionysus|Dionysus]], under the name Enyo, brought the Evils and the [[corrupted-spirit|corrupted spirit]]'s forces together, aiming at Orario's destruction.[@so12-enyo]
 
-{{nocite}} Related magic: [[valletta|Valletta]]'s [[magic#shaldo|Shaldo]] and the [[apate-and-alecto-familias#alecto-familia|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
+{{nocite}} Related magic: [[valletta|Valletta]]'s [[magic#shaldo|Shaldo]] and the [[dis-sisters|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]].
 
 ## Open questions
 

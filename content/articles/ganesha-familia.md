@@ -31,7 +31,7 @@
 
 ## Standing
 
-DanMachi 10 calls Ganesha Familia, also known as *Orario's Peacekeepers*, Orario's largest Familia by membership if the Guild's figures are right. It has an S Rank and is named alongside [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]]; its members are stationed at all of the city's gates, and citizens hold them in high esteem.[@fm10-standing] It has more first-tier adventurers than any other Familia, eleven, though "All of them might only have been at Level 5".[@fm10-first-tier] Its home, *Iam Ganesha* (also printed *Aiam Ganesha* and *I Am Ganesha*), is a giant statue of the god; see [[ganesha#iam-ganesha|Ganesha § Iam Ganesha]].[@fm10-standing]
+DanMachi 10 calls Ganesha Familia, also known as *Orario's Peacekeepers*, Orario's largest Familia by membership if the Guild's figures are right. It has an [[familia-rank|S Rank]] and is named alongside [[loki-familia|Loki Familia]] and [[freya-familia|Freya Familia]]; its members are stationed at all of the city's gates, and citizens hold them in high esteem.[@fm10-standing] It has more first-tier adventurers than any other Familia, eleven, though "All of them might only have been at Level 5".[@fm10-first-tier] Its home, *Iam Ganesha* (also printed *Aiam Ganesha* and *I Am Ganesha*), is a giant statue of the god; see [[ganesha#iam-ganesha|Ganesha § Iam Ganesha]].[@fm10-standing]
 
 ## Monsterphilia
 
@@ -47,7 +47,7 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 2 | Its Level 4 member [[hashana|Hashana Dorlia]], on a secret quest, is murdered in [[rivira|Rivira]] by [[levis|Levis]]. The Familia insists that she be named as his killer and blacklisted by the Guild.[@so02-hashana, so02-blacklist] |
+| Sword Oratoria 2 | Its Level 4 member [[hashana|Hashana Dorlia]], on a secret [[quest|quest]], is murdered in [[rivira|Rivira]] by [[levis|Levis]]. The Familia insists that she be named as his killer and blacklisted by the Guild.[@so02-hashana, so02-blacklist] |
 | DanMachi 10 | [[asterios|Asterios]] defeats Ganesha Familia's adventurers.[@fm10-asterios] |
 | Sword Oratoria 11 | Evacuates and guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]].[@so11-ganesha] |
 | Sword Oratoria 12 | Members of the Familia are among those killed in the final battle.[@so12-losses] |

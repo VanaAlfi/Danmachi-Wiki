@@ -6,12 +6,12 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The sword-smithing city far east of Orario, beyond the Alv Mountains: a walled industrial city of workshops whose mass-produced weapons sell across the world. It has lived with the spirits of its forests since ancient times and holds a spirit forge. Astrea settled outside it at Stars' Rest, and Lyu came there in Familia Chronicle 3 and DanMachi 18.",
-  "aliases": ["Zolingam", "Sword-smithing city", "City of sword smiths", "City of swordsmiths", "Stars' Rest", "Spirit forge", "Spirit's tear", "Blackliza", "Yufie", "Cecille", "Iselina", "Schau", "Uranda"],
+  "aliases": ["Zolingam", "Sword-smithing city", "City of sword smiths", "City of swordsmiths", "Stars' Rest", "Spirit forge", "Spirit's tear", "Blackliza", "Yufie", "Iselina", "Schau", "Uranda"],
   "spoilers": "DanMachi Vols. 15, 18, 19 and Familia Chronicle Vol. 3",
   "related": ["astrea", "astrea-familia", "lyu-leon", "hephaistos", "hephaistos-familia", "welf-crozzo", "hermes", "asfi", "races"],
   "sections": [
     {"anchor": "spirits", "title": "Solingen's spirits and the spirit forge", "summary": "The spirits of Solingen's forests and mountains, angered five years before Familia Chronicle 3 and calmed by Astrea; the spirit forge, open only to smiths who bring back a spirit's tear; the spirit Yufie.", "aliases": ["Spirit forge", "Spirit's tear", "Yufie"]},
-    {"anchor": "stars-rest", "title": "Stars' Rest", "summary": "Astrea's home in the forest east of Solingen, where she lives with six girls, among them Cecille, Iselina, Schau and Uranda.", "aliases": ["Stars' Rest", "Cecille", "Iselina", "Schau", "Uranda", "Cecille Blackliza", "Cecil Blackliza"]}
+    {"anchor": "stars-rest", "title": "Stars' Rest", "summary": "Astrea's home in the forest east of Solingen, where she lives with six girls, among them Cecille, Iselina, Schau and Uranda.", "aliases": ["Stars' Rest", "Iselina", "Schau", "Uranda"]}
   ],
   "infobox": {
     "title": "Solingen",
@@ -31,7 +31,7 @@
   }
 }
 ---
-**Solingen** {{small|printed *Zolingam*}} is the sword-smithing city. It lies a long journey from [[orario|Orario]], across the Alv Mountains and farther east, and is home to smiths who forge swords, weapons and armour.[@fc03-arrival] DanMachi 18 calls it "The greatest sword-making city in the world".[@fm18-greatest] [[astrea|Astrea]] went there after leaving Orario, and [[lyu-leon|Lyu]] travels there to find her in Familia Chronicle 3 and DanMachi 18.[@fm18-greatest, fc03-home]
+**Solingen** {{small|printed *Zolingam*}} is the sword-smithing city. It lies a long journey from [[orario|Orario]], across the [[alv-mountains|Alv Mountains]] and farther east, and is home to smiths who forge swords, weapons and armour.[@fc03-arrival] DanMachi 18 calls it "The greatest sword-making city in the world".[@fm18-greatest] [[astrea|Astrea]] went there after leaving Orario, and [[lyu-leon|Lyu]] travels there to find her in Familia Chronicle 3 and DanMachi 18.[@fm18-greatest, fc03-home]
 
 ## The city {#city}
 
@@ -46,7 +46,7 @@ Solingen is a fortress city. Its walls are some thirty meders high, not as tall 
 
 Many smithing Familias have settled in Solingen. [[hephaistos-familia|Hephaistos Familia]] reportedly comes there for raw materials and supports several workshops, and many residents become Hephaistos's followers.[@fc03-city] Hephaistos herself "visits Zolingam fairly often".[@fc03-hephaistos]
 
-Cecille's father, a master smith, tells Lyu that Solingen makes "The best-selling weapons". Bulk orders come from the empire, Dizara and the [[kaios-desert|Kaios Desert]]. With mass production the norm, he says, its smiths have forgotten who will use their weapons and can never complete a masterpiece.[@fc03-smiths] Solingen's strength is many solid weapons rated in the 80s or 90s, but not a single great weapon above 100 points.[@fc03-smiths]
+[[cecille-blackliza|Cecille]]'s father, a master smith, tells Lyu that Solingen makes "The best-selling weapons". Bulk orders come from [[empire|the empire]], Dizara and the [[kaios-desert|Kaios Desert]]. With mass production the norm, he says, its smiths have forgotten who will use their weapons and can never complete a masterpiece.[@fc03-smiths] Solingen's strength is many solid weapons rated in the 80s or 90s, but not a single great weapon above 100 points.[@fc03-smiths]
 
 ## Solingen's spirits and the spirit forge {#spirits}
 
@@ -61,7 +61,7 @@ Solingen was reportedly founded where it is because spirits lived there, and spi
 
 **Stars' Rest** ({{ja|星休む宿}}, *the inn where stars rest*)[@stars-rest.fc03-ja] is the home that Astrea established after leaving Orario five years before Familia Chronicle 3. It is a two-storey wooden house in the forest east of the city's workshops, like Astrea Familia's old home, the Stardust Garden. Six girls live there with her as her followers.[@fc03-home] Astrea says it is still the same [[astrea-familia|Astrea Familia]], though it looks like a new one from outside.[@fc03-home]
 
-- **Cecille:** Cecille Blackliza, a blue-haired human, Level 2, and the only one of the girls born in Solingen; the youngest of the eight children of the head of the Blackliza workshop and his only daughter.[@fc03-cecille, fc03-level, fc03-born, fc03-blackliza] Her family of smiths runs one of the city's largest workshops, and her father would not let her use the spirit forge. When Astrea calmed the spirits, she asked Cecille to make a weapon for someone she would meet again. It was Lyu's.[@fc03-forge, fc03-family, fc03-reason]
+- **Cecille:** [[cecille-blackliza|Cecille Blackliza]], a blue-haired human, Level 2, and the only one of the girls born in Solingen; the youngest of the eight children of the head of the Blackliza workshop and his only daughter.[@fc03-cecille, fc03-level, fc03-born, fc03-blackliza] Her family of smiths runs one of the city's largest workshops, and her father would not let her use the spirit forge. When Astrea calmed the spirits, she asked Cecille to make a weapon for someone she would meet again. It was Lyu's.[@fc03-forge, fc03-family, fc03-reason]
 - **Iselina:** a [[races#werewolf|werewolf]], Level 2, who joined because of what Astrea had done for the city.[@fc03-level, fc03-others, fc03-peace]
 - **Schau and Uranda:** a prum girl and a black-haired human girl, both Level 1.[@fc03-others, fc03-forge-day]
 

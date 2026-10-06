@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the god Soma, whose divine wine was used as a reward that drove its members to fight over it; Lilly's first Familia, reformed after DanMachi 6.",
-  "aliases": ["Kanu", "Zanis", "Zanis Lustra", "Chandra", "Chandra Ihit"],
+  "aliases": ["Kanu"],
   "spoilers": "DanMachi Vols. 2–15",
   "related": ["soma", "lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
   "sections": [
@@ -29,7 +29,7 @@
 
 ## The wine and Zanis
 
-The divine wine, *soma*, caused the Familia to collapse from within: its members grew selfish and fought each other for more.[@fm06-collapse] Soma knew they fought over it, but was disillusioned and detached, leaving ordinary affairs to his commander Zanis Lustra.[@fm06-soma]
+The divine wine, *soma*, caused the Familia to collapse from within: its members grew selfish and fought each other for more.[@fm06-collapse] Soma knew they fought over it, but was disillusioned and detached, leaving ordinary affairs to his commander [[zanis-lustra|Zanis Lustra]].[@fm06-soma]
 
 Zanis, a Level 2 titled *Gandharva, the Wine-Guardian* and resistant to the wine, demands a large sum for Lilly's release. He plans to exploit Lilly's shapeshifting magic to capture monsters, steals soma, and in DanMachi 6 is defeated and arrested.[@fm06-zanis, fm06-demand] DanMachi 10 prints his name as *Zanis Rustra*: stripped of his command, he is held in the Familia's cell with his Status sealed by Soma.[@fm10-zanis]
 
@@ -47,7 +47,7 @@ In DanMachi 6 Soma tests Lilly with the divine wine. When she resists it, he cha
 
 ## Afterwards
 
-By DanMachi 10, the dwarf Chandra Ihit leads the Familia, which has stopped using the wine as a reward; its cellar now develops fine wines to serve to the members, paid for out of Soma's pocket money.[@fm10-chandra] In DanMachi 15 Soma senses Lilly's advancement and congratulates her from afar, but does not approach her, believing he abandoned her.[@fm15-soma]
+By DanMachi 10, the dwarf [[chandra-ihit|Chandra Ihit]] leads the Familia, which has stopped using the wine as a reward; its cellar now develops fine wines to serve to the members, paid for out of Soma's pocket money.[@fm10-chandra] In DanMachi 15 Soma senses Lilly's advancement and congratulates her from afar, but does not approach her, believing he abandoned her.[@fm15-soma]
 
 ## Open questions
 

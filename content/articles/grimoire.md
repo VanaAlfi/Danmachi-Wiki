@@ -54,7 +54,7 @@ The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spe
 
 - **For sale.** In Sword Oratoria 2 the merchant Lenoa has a grimoire for sale, its price rewritten several times. She says an acquaintance in [[altena|Altena]] {{small|printed *Altina*}} spared it for her; the narration suggests she is not telling the whole story.[@so02-lenoa, so02-altina-ja]
 - **Used copies.** [[loki-familia|Loki Familia]]'s archives have used grimoires on their shelves.[@so03-archive]
-- **A reward.** In Sword Oratoria 3 the black-robed quest giver gives [[lulune-louie|Lulune]] two keys; the vaults they open hold jewels, rings and several unused grimoires, which [[aiz-wallenstein|Aiz]] gives to her Familia.[@so03-vault]
+- **A reward.** In Sword Oratoria 3 the black-robed [[quest|quest]] giver gives [[lulune-louie|Lulune]] two keys; the vaults they open hold jewels, rings and several unused grimoires, which [[aiz-wallenstein|Aiz]] gives to her Familia.[@so03-vault]
 
 ## Open questions
 

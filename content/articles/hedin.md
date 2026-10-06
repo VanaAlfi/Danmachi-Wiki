@@ -43,12 +43,12 @@ Hedin and Hegni were the kings of rival white-elf and dark-elf states on the isl
 | DanMachi 16 | Meets [[bell-cranell|Bell]] at a café, trains him for five days for [[syr-flover|Syr]]'s date, and runs the plan to guard it, while secretly steering pursuers away so Bell can grant Syr's wish.[@fm16-cafe, fm16-hedin] |
 | DanMachi 17 | Trains Bell harshly in [[folkvangr|Folkvangr]], yet dismisses his guard and lookouts, tells him to move forward, and lets him skip dinner. After the charm is broken he commands the estate's defence.[@fm17-hedin] |
 | DanMachi 18 | Turns against the Familia for Freya's own sake: he wears down [[heith-velvet|Heith]]'s healing, coordinates the fight against [[ottar|Ottar]], and helps Bell reach Freya.[@fm18-hedin] |
-| DanMachi 19 | His former comrades punish him for his part in the defeat; Bell says the coalition won only because of him. With Hegni he protects [[haruhime|Haruhime]].[@fm19-hedin] |
+| DanMachi 19 | His former comrades punish him for his part in the defeat; Bell says the [[familia-coalition|coalition]] won only because of him. With Hegni he protects [[haruhime|Haruhime]].[@fm19-hedin] |
 
 > [!NOTE] Two sides of DanMachi 17
 > Hedin calls himself Freya's spear and shield while training Bell under her orders, but his actions also clear Bell's path. DanMachi 19 confirms that his help in the war was decisive.[@fm17-hedin, fm19-hedin]
 
-{{nocite}} Related magic: the [[apate-and-alecto-familias#alecto-familia|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
+{{nocite}} Related magic: the [[dis-sisters|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
 
 ## Magic {#magic}
 

@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of the god Dionysus, of middling strength and captained by Filvis Challia; allied with Loki Familia against the Evils, its adventurers are wiped out in the first assault on Knossos in Sword Oratoria 11, and Sword Oratoria 12 reveals that they had really been Penia Familia.",
-  "aliases": ["Dionysus's Familia", "Aura Moriel", "Aura", "Krater"],
+  "aliases": ["Dionysus's Familia"],
   "spoilers": "Sword Oratoria Vols. 1, 3, 4, 10–13 and Astrea Record Vol. 1",
   "related": ["dionysus", "filvis", "penia", "loki-familia", "hermes-familia", "knossos", "evils", "olivas-act"],
   "infobox": {
@@ -31,7 +31,7 @@
 - **Strength:** according to the Guild's records it was "in the middle of the pack in terms of strength within the Labyrinth City", with quite a few Level 2 adventurers but none with notable achievements: "nothing particularly good or bad about the group, nothing special".[@so01-standing]
 - **Home:** a luxurious manor; an underground room holds Dionysus's prized wine cellar.[@so10-cellar, so11-manor]
 - **Captain:** Filvis, "A Level 3 magic swordsman".[@so04-filvis, so11-leader] Every party she joined after the Twenty-Seventh-Floor Nightmare was wiped out except for her, so she is called "Banshee", and "Even the members of her own Dionysus Familia kept a good distance from their leader".[@so11-aura, so03-distance]
-- **Second-in-command:** Aura Moriel, an elf mage titled *Krater* ({{ja|葡萄の杯}}, written *grape cup*)[@so11-krater-ja]: "A Level 2. Alias: Krater." She joined the Familia at the same time as Filvis, and in Sword Oratoria 11 she asks her: "Are you going to kill us this time, Banshee?"[@so11-aura]
+- **Second-in-command:** [[aura-moriel|Aura Moriel]], an elf mage titled *Krater* ({{ja|葡萄の杯}}, written *grape cup*)[@so11-krater-ja]: "A Level 2. Alias: Krater." She joined the Familia at the same time as Filvis, and in Sword Oratoria 11 she asks her: "Are you going to kill us this time, Banshee?"[@so11-aura]
 - **The dark age:** in Astrea Record 1 Filvis and Dionysus Familia "were proud to fight for Orario’s safety in the name of their lord".[@ar01-dark]
 
 ## The Twenty-Seventh-Floor Nightmare {#twenty-seventh-floor-nightmare}

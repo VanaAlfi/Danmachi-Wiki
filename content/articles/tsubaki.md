@@ -71,7 +71,7 @@ When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break"
 | DanMachi 14 | Leads [[anya-fromel|Anya]], [[chloe|Chloe]] and [[runoa|Runoa]] into the [[water-capital|Water Capital]] to rescue the stranded expedition, and joins the rescue on [[floor-37|Floor 37]].[@fm14-tsubaki, fm14-rescue] |
 | DanMachi 15 | Speaks for Welf before Hephaistos.[@fm15-desk] |
 | Minor Myths and Legends 2 | Meets [[ottar|Ottar]] on a Dungeon floor: "Stiff as a board, that man".[@ss02-ottar] |
-| DanMachi 18 | With "the whole familia" backing "Welfy", she joins the coalition in the Great Familia War. She is posted at the centre of the line, which [[hegni|Hegni]] and [[allen-fromel|Allen]] break, and when she falls the coalition loses "a first-tier adventurer’s strength".[@fm18-forge, fm18-centre] |
+| DanMachi 18 | With "the whole familia" backing "Welfy", she joins the [[familia-coalition|coalition]] in the Great Familia War. She is posted at the centre of the line, which [[hegni|Hegni]] and [[allen-fromel|Allen]] break, and when she falls the coalition loses "a first-tier adventurer’s strength".[@fm18-forge, fm18-centre] |
 | DanMachi 20 | Is to accompany Loki Familia's next expedition.[@fm20-expedition] |
 
 [@fm08-tsubaki]: FM08 | | Level 5; Welf's short sword; the Rakian infiltrators.

@@ -36,7 +36,7 @@ Hegni and Hedin were the kings of rival dark-elf and white-elf states on the isl
 ## Abilities
 
 - His magic, also called [[#dainsleif|Dáinsleif]], changes his personality: it lets the timid, nervous elf become the warrior he imagines himself to be.[@fc02-magic] Minor Myths and Legends 2 treats this battle persona as a changed expression of the same person, not a separate one.[@ss02-hegni]
-- His curse sword **[[equipment#victim-abyss|Victim Abyss]]** reaches beyond its visible tip and is made to fight swordsmen at the front line.[@fm16-sword] Wounds from it take time to heal.[@fm17-cuts]
+- His [[cursed-weapons|curse sword]] **[[equipment#victim-abyss|Victim Abyss]]** reaches beyond its visible tip and is made to fight swordsmen at the front line.[@fm16-sword] Wounds from it take time to heal.[@fm17-cuts]
 
 ## Magic {#magic}
 
@@ -118,7 +118,7 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 | DanMachi 18 | In the Familia War Lyu, now Level 6, defeats him. Hedin then persuades him to help save Syr, and he protects [[anya-fromel|Anya]] from [[allen-fromel|Allen]].[@fm18-fall, fm18-anya] |
 | DanMachi 19 | Works at [[the-benevolent-mistress|The Benevolent Mistress]], too shy for the job, and with Hedin protects [[haruhime|Haruhime]].[@fm19-hegni] |
 
-{{nocite}} Related magic: the [[apate-and-alecto-familias#alecto-familia|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
+{{nocite}} Related magic: the [[dis-sisters|Dis sisters]]' [[magic#dialv-dis|Dialv Dis]] and [[magic#dialv-stige|Dialv Stige]], faced by Hedin and Hegni in Astrea Record 1 and 3.
 
 ## Open questions
 

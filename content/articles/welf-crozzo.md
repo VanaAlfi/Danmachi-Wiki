@@ -37,7 +37,7 @@ DanMachi 2 prints his name as *Welf Krozzo*, on Bell's armour; from DanMachi 4 i
 
 The Crozzos carry the blood of a spirit, received by the first Crozzo after he rescued one. Their power to make magic swords came from that blood once a Crozzo received a god's blessing.[@fm04-curse, so05-blood] The family later lost the ability, cursed by the fairies, but Welf can still make them; he does not know why.[@fm04-curse]
 
-Welf received his first [[falna|Falna]] from the goddess Phobos on his tenth birthday. His Status showed Blood of Crozzo, the same Skill as other members of his family, and Phobos told him to forge a magic sword.[@fm15-blood] He grew to reject the family's destructive legacy and at first refuses to make Crozzo magic swords at all.[@fm04-smith, so05-blood]
+Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on his tenth birthday. His Status showed Blood of Crozzo, the same Skill as other members of his family, and Phobos told him to forge a magic sword.[@fm15-blood] He grew to reject the family's destructive legacy and at first refuses to make Crozzo magic swords at all.[@fm04-smith, so05-blood]
 
 ## History
 

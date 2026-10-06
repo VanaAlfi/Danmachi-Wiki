@@ -29,13 +29,13 @@
   }
 }
 ---
-**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is [[twilight-manor|Twilight Manor]], on the northern edge of the city.[@fm06-home, fm06-twilight] The [[guild|Guild]] ranks it S, and it is often called the strongest Familia in the city.[@fm19-rank-s, fm06-strongest]
+**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is [[twilight-manor|Twilight Manor]], on the northern edge of the city.[@fm06-home, fm06-twilight] The [[guild|Guild]] [[familia-rank|ranks it S]], and it is often called the strongest Familia in the city.[@fm19-rank-s, fm06-strongest]
 
 ## Standing and emblem {#standing}
 
 In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it the city's greatest faction, dreaded for its fighting strength, and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When [[hestia-familia|Hestia Familia]] wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant]
 
-Its emblem is the trickster's mark, "a comedic smile", flown on its flags in the Dungeon and hung on the wall behind Finn's desk.[@so01-emblem, so02-emblem] In the Great Conflict of Astrea Record 3 a member raises "the flag of the trickster god" over a stronghold, and at the end of DanMachi 20 the survivors of its expedition return under a tattered flag with "the emblem of the jester".[@ar03-flag, fm20-floor60]
+Its [[emblem|emblem]] is the trickster's mark, "a comedic smile", flown on its flags in the Dungeon and hung on the wall behind Finn's desk.[@so01-emblem, so02-emblem] In the Great Conflict of Astrea Record 3 a member raises "the flag of the trickster god" over a stronghold, and at the end of DanMachi 20 the survivors of its expedition return under a tattered flag with "the emblem of the jester".[@ar03-flag, fm20-floor60]
 
 ## Founding
 
@@ -57,7 +57,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[lefiya|Lefiya Viridis]] | Elf mage titled *Thousand Elf*; Level 3, and Level 4 from Sword Oratoria 12.[@so01-lefiya, so12-level4] |
 | [[anakity-autumn|Anakity Autumn]] (Aki) | Cat person titled *Alsha*; Level 4 in Sword Oratoria 4 and Level 5 from Sword Oratoria 13.[@so04-aki, so10-alsha, so13-level] |
 | [[alicia-forestlight|Alicia Forestlight]] | Elf; a Level 4 in the Familia's reserve crew by Sword Oratoria 8.[@so08-reserve] |
-| [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A healer and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
+| [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A [[healer|healer]] and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
 
 Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter Carmillia, she is told to give Bell a greatsword.[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
 
@@ -80,7 +80,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 | Volume | Events |
 |---|---|
 | Astrea Record 2 | Fights in the [[great-conflict|Great Conflict]]; [[alfia|Alfia]] sees that Aiz now belongs to the Familia.[@ar02-loki] |
-| Sword Oratoria 1 and DanMachi 1 | Returning from an expedition in which it fights through the Moitra Sands to the safe point on Floor 50, the Familia lets a group of Minotaurs run away up the Dungeon. Aiz kills the last one on the fifth floor, and at the bar Bete mocks the boy she saved as "Tomato Boy".[@so01-camp, so01-minotaurs, fm01-aiz] |
+| Sword Oratoria 1 and DanMachi 1 | Returning from an expedition in which it fights through the [[floor-49|Moitra Sands]] to the [[safe-point|safe point]] on [[floor-50|Floor 50]], the Familia lets a group of Minotaurs run away up the Dungeon. Aiz kills the last one on the fifth floor, and at the bar Bete mocks the boy she saved as "Tomato Boy".[@so01-camp, so01-minotaurs, fm01-aiz] |
 | Astrea Record 3 | Its oldest members, the veterans [[noir-dyne-and-bahra|Noir, Dyne and Bahra]], who had taught Finn, Riveria and Gareth, leave [[twilight-manor|Twilight Manor]] against Loki's wishes to charge the monster horde, and die there.[@ar03-mentors, ar03-veterans] |
 | Sword Oratoria 4–6 | Expedition to Floor 59, where Aiz destroys a [[corrupted-spirit|demi-spirit]]; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
 | Sword Oratoria 7 | First attempt on Knossos, which Gareth calls a defeat; Loki makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
@@ -96,7 +96,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - What lies in Thalia's Ice Garden, and whether Loki Familia will find its key.[@fm18-thalia]
-> - The fate of Finn and the others left in the depths when the alliance is wiped out on Floor 60 at the end of DanMachi 20.[@fm20-floor60]
+> - The fate of Finn and the others left in the depths when the [[familia-coalition|alliance]] is wiped out on Floor 60 at the end of DanMachi 20.[@fm20-floor60]
 
 [@so14-founding]: SO14 | | Loki's descent; Finn, Riveria and Gareth recruited.
 [@so14-finn]: SO14 | | Finn's name and vow.

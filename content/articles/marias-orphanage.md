@@ -81,7 +81,7 @@ In Sword Oratoria 10 Lai drags him away from Finn in case the monsters appear, a
 | Sword Oratoria 10 | Ossian meets Finn.[@so10-ossian] |
 | Sword Oratoria 12 | With Daedalus Street being rebuilt, its residents are in temporary housing in the northwest; Hestia visits the children there.[@so12-hestia] |
 | DanMachi 16 | At the harvest festival, the children run their own stall, and Bell brings Syr to see them.[@fm16-festival] |
-| DanMachi 18 | Watching the Familia War, Lai, Ruu and Fina break into tears as the coalition falters, and Maria holds them.[@fm18-watch] |
+| DanMachi 18 | Watching the Familia War, Lai, Ruu and Fina break into tears as the [[familia-coalition|coalition]] falters, and Maria holds them.[@fm18-watch] |
 | DanMachi 20 | Lai, Fina and Ruu cheer Bell from the railings.[@fm20-cheer] |
 
 [@fm08-names]: FM08 | Chapter 5: The City Girl’s Secret | "Lai, Fina, and me, Ruu…We live here, in Mother Maria’s house."

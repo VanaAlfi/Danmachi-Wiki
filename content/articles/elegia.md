@@ -48,7 +48,7 @@ The next morning Bell lays flowers at Celia's new grave in the First Graveyard a
 
 ## The First Graveyard {#first-graveyard}
 
-The **First Graveyard**, "also known as the Adventurers Graveyard", is a public burial ground in the south-eastern quarter of Orario and "the final resting place for those who fall in the Dungeon".[@fm15-firstday, fm15-graveyard] Its countless gravestones are of white stone, which mortals have come to associate with the heavens.[@fm15-graveyard] At its centre stands a giant jet-black monument to the heroes of ancient times, carved with their names; the gravestone in the middle of it was placed for the hero Albert.[@fm15-firstday, fm15-graveyard, fm16-albert] Bell first sees it on his first day in Orario. After Elegia the monument is heaped with flowers and burned-out candles.[@fm15-firstday, fm15-graveyard]
+The **First Graveyard**, "also known as the Adventurers Graveyard", is a public burial ground in the south-eastern quarter of Orario and "the final resting place for those who fall in the Dungeon".[@fm15-firstday, fm15-graveyard] Its countless gravestones are of white stone, which mortals have come to associate with the heavens.[@fm15-graveyard] At its centre stands a giant jet-black monument to the heroes of ancient times, carved with their names; the gravestone in the middle of it was placed for the hero [[albert|Albert]].[@fm15-firstday, fm15-graveyard, fm16-albert] Bell first sees it on his first day in Orario. After Elegia the monument is heaped with flowers and burned-out candles.[@fm15-firstday, fm15-graveyard]
 
 ## The Goddess Festival {#goddess-festival}
 

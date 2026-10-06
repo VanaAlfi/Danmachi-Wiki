@@ -26,7 +26,7 @@
   }
 }
 ---
-**Floor 18** of the [[dungeon|Dungeon]], called the **Under Resort**, is a safe point: monsters do not normally spawn there, although some wander up from Floor 19. Its crystal ceiling gives it a cycle of day and night.[@fm05-safe] It is home to [[rivira|Rivira]], a town run by adventurers.[@fm05-rivira]
+**Floor 18** of the [[dungeon|Dungeon]], called the **Under Resort**, is a [[safe-point|safe point]]: monsters do not normally spawn there, although some wander up from Floor 19. Its crystal ceiling gives it a cycle of day and night.[@fm05-safe] It is home to [[rivira|Rivira]], a town run by adventurers.[@fm05-rivira]
 
 ## Geography
 
@@ -40,7 +40,7 @@ The only way down from the floors above passes the [[goliath|Goliath]], the [[mo
 
 Rivira stands on an island in the floor's western lake and is reached by a tree bridge. It is called the deepest town in the world, and its current version, the 334th, is named after Rivira Santilini.[@fm05-rivira]
 
-Its businesses trade by exchange at very high prices, and adventurers use their Familia's emblem for identity and credit. The Guild once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-forest]
+Its businesses trade by exchange at very high prices, and adventurers use their Familia's [[emblem|emblem]] for identity and credit. The Guild once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town and confirms the steep prices of antivenin and basic supplies.[@so05-forest]
 
 The [[xenos|Xenos]] destroy the 334th Rivira in DanMachi 10 while hunting [[ikelos-familia|Ikelos Familia]].[@fm10-rivira]
 
@@ -51,7 +51,7 @@ Sword Oratoria 2 also counts the town as its 334th version, after 333 destructio
 | Volume | Events on Floor 18 |
 |---|---|
 | DanMachi 3 | [[loki-familia|Loki Familia]]'s expedition heads for Floor 18.[@fm03-loki] |
-| DanMachi 5 | Driven down by a pass parade, [[bell-cranell|Bell]]'s party takes refuge here. After [[hestia|Hestia]]'s divine presence is exposed, the Dungeon blocks the exit and gives birth to the Black Goliath on this floor.[@fm05-return, fm05-black] |
+| DanMachi 5 | Driven down by a [[pass-parade|pass parade]], [[bell-cranell|Bell]]'s party takes refuge here. After [[hestia|Hestia]]'s divine presence is exposed, the Dungeon blocks the exit and gives birth to the Black Goliath on this floor.[@fm05-return, fm05-black] |
 | DanMachi 10 | A [[knossos|Knossos]] entrance is found at the forest's eastern edge, and the Xenos destroy Rivira.[@fm10-knossos, fm10-rivira] |
 | Sword Oratoria 13 | A Goliath's fall collapses the only passage from Floor 17 to Floor 18.[@so13-goliath] |
 

@@ -37,7 +37,7 @@ A **magic sword** is a weapon that releases magic without a chant. Ordinary magi
 |---|---|
 | DanMachi 2 | [[lilliluka-erde|Lilly]] carries a magic sword and saves it for emergencies, since it would break if used too much.[@fm02-lilly] |
 | Sword Oratoria 3–4 | For its expedition, Loki Familia buys thirty top-of-the-line magic swords to protect its regular equipment from the corrosive caterpillars, and arms its lower-ranking members with them to guard the base camp.[@so03-loki] |
-| DanMachi 18 | In the Great Familia War, Welf's mass-produced Crozzo swords and Hephaistos Familia's magic swords give the coalition firepower "far exceeding" even an advanced mage's long-cast magic.[@fm18-firepower] |
+| DanMachi 18 | In the Great Familia War, Welf's mass-produced Crozzo swords and Hephaistos Familia's magic swords give the [[familia-coalition|coalition]] firepower "far exceeding" even an advanced mage's long-cast magic.[@fm18-firepower] |
 
 ## Crozzo Magic Swords
 

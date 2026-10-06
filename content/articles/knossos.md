@@ -26,7 +26,7 @@
   }
 }
 ---
-**Knossos** is a man-made labyrinth beneath [[daedalus-street|Daedalus Street]] in [[orario|Orario]], built over nearly a thousand years by the descendants of the architect Daedalus.[@so07-knossos, fm10-knossos] Its walls are adamantite with a magic-resistant surface, its doors are orichalcum, and it is filled with traps and monsters and watched from a central control system, making it a fortress for the [[evils|Evils]] who hide there.[@so07-knossos] It connects to [[dungeon|the Dungeon]], so that monsters and people can pass between the city and the Dungeon without going through [[babel|Babel]].[@so07-route]
+**Knossos** is a man-made labyrinth beneath [[daedalus-street|Daedalus Street]] in [[orario|Orario]], built over nearly a thousand years by the descendants of the architect [[daedalus|Daedalus]].[@so07-knossos, fm10-knossos] Its walls are adamantite with a magic-resistant surface, its doors are orichalcum, and it is filled with traps and monsters and watched from a central control system, making it a fortress for the [[evils|Evils]] who hide there.[@so07-knossos] It connects to [[dungeon|the Dungeon]], so that monsters and people can pass between the city and the Dungeon without going through [[babel|Babel]].[@so07-route]
 
 ## Structure {#structure}
 
@@ -52,7 +52,7 @@ The descendants of Daedalus inherit the marked eye, his notebook and a duty to k
 | Sword Oratoria 7 | [[loki-familia|Loki Familia]]'s first attempt to enter ends in defeat, as [[gareth|Gareth]] tells [[loki|Loki]]; she concludes that the labyrinth cannot be taken without its keys.[@so07-defeat] |
 | Sword Oratoria 10 | [[riveria|Riveria]]'s raid secures two Orbs and part of the map.[@so10-raid] |
 | DanMachi 11 | The Xenos escape through Knossos after the fighting in Daedalus Street.[@fm11-escape] |
-| Sword Oratoria 11 | [[asfi|Asfi]] re-creates a working key, a mythril orb made with Dungeon materials such as a deformis spider's compound eye, and the allies capture Daedalus's notebook, which gives them the layout.[@so11-key, so11-replica] Barca sets Dix's device to collapse the eighth floor on the advancing alliance, though it would put the labyrinth's completion beyond his lifetime; he hesitates, and Asfi's blade cuts his neck before he finishes.[@so11-collapse, so11-asfi] |
+| Sword Oratoria 11 | [[asfi|Asfi]] re-creates a working key, a mythril orb made with Dungeon materials such as a deformis spider's compound eye, and the allies capture Daedalus's notebook, which gives them the layout.[@so11-key, so11-replica] Barca sets Dix's device to collapse the eighth floor on the advancing [[familia-coalition|alliance]], though it would put the labyrinth's completion beyond his lifetime; he hesitates, and Asfi's blade cuts his neck before he finishes.[@so11-collapse, so11-asfi] |
 | Sword Oratoria 12 | The decisive assault spans the ninth to twelfth levels; six ritual chambers surround central Orario, and the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] waits in a hidden chamber.[@so12-assault] |
 | DanMachi 19 | After being conquered, Knossos is under [[guild|Guild]] management, in practice under [[ouranos|Ouranos]]'s control; [[fels|Fels]] sets up facilities inside it.[@fm19-guild] Knossos is one reason for the Guild's Shaft plan: the Dungeon stayed quiet despite a man-made labyrinth connected to several of its floors, and nearly all of Knossos's orichalcum doors are to be stripped, with [[goibniu-familia|Goibniu Familia]]'s help, and reused for the shaft (see [[orariad|Orariad]]).[@fm19-shaft] |
 

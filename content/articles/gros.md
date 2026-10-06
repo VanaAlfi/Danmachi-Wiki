@@ -37,7 +37,7 @@ In DanMachi 11 he volunteers for [[hermes|Hermes]]'s staged attack: "Since I use
 
 | Volume | Events |
 |---|---|
-| DanMachi 10 | Leads the Xenos' destruction of [[rivira|Rivira]] in retaliation, later helps [[bell-cranell|Bell]] escape on the surface, and kills the hunter Gran after [[wiene|Wiene]] is mortally wounded.[@fm10-gros] |
+| DanMachi 10 | Leads the Xenos' destruction of [[rivira|Rivira]] in retaliation, later helps [[bell-cranell|Bell]] escape on the surface, and kills the hunter [[gran|Gran]] after [[wiene|Wiene]] is mortally wounded.[@fm10-gros] |
 | DanMachi 11 | Volunteers for [[hermes|Hermes]]'s staged attack so his brethren can escape. He attacks [[eina-tulle|Eina]] without killing anyone, and stops his final charge when Bell trusts him. He survives and returns to the Hidden Village.[@fm11-gros, fm11-village] |
 | Sword Oratoria 10 | The same events from [[loki-familia|Loki Familia]]'s side: his choice shows that a monster can act bravely for a person, and it changes [[finn-deimne|Finn]].[@so10-gros] |
 | Sword Oratoria 12 | Digs through "this repulsive flesh" beside Lido.[@so12-gros] |

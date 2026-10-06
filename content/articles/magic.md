@@ -175,10 +175,10 @@ Some spells are known only from a sheet; a search of the story text did not find
 | [[#cure-ephialtes|Cure Ephialtes]] | Cassandra Illion | Dispels harm[@cure-ephialtes.fm14-sheet] | *Not printed (known only from a Status sheet)*[@cure-ephialtes.fm14-sheet] |
 | [[#raumure|Raumure]] | [[daphne|Daphne Laulos]] | Protection: endurance and agility[@raumure.fm14-cast] | "Follow blindly the sun in the sky. Blossom, armor of laurel, so that all will flee from thee."[@raumure.fm14-cast] |
 | [[#blaze-of-the-round|Blaze of the Round]] | Leon Verdenberg | Buff through successive weapons of light[@blaze-of-the-round.fm20-buff] | Ring out, remnant light. Twelve seats of greatness.[@blaze-of-the-round.fm20-cast] |
-| [[#school-district-spells|Dark Mine]] | Legi | Magic mines[@school-district-spells.fm19-mine] | *Name only;* spell key "Boom."[@school-district-spells.fm19-mine] |
-| [[#school-district-spells|Zalga Yell]] | Nano | Lightning[@school-district-spells.so13-yell] | Lightning, heaven’s name. Betray thy earthly kin, share not thy voice. Grant me the blessing of lightning—Zalga Yell!!![@school-district-spells.so13-yell] |
+| [[#school-district-spells|Dark Mine]] | [[legi|Legi]] | Magic mines[@school-district-spells.fm19-mine] | *Name only;* spell key "Boom."[@school-district-spells.fm19-mine] |
+| [[#school-district-spells|Zalga Yell]] | [[natalinoe-cladfield|Nano]] | Lightning[@school-district-spells.so13-yell] | Lightning, heaven’s name. Betray thy earthly kin, share not thy voice. Grant me the blessing of lightning—Zalga Yell!!![@school-district-spells.so13-yell] |
 | [[#school-district-spells|Zalga Amalda]] | Nano | Lightning torrent[@school-district-spells.so13-amalda] | Growling torrent gleam, blessed censure. Shatter the noble with thy splendor. Swallow, jaws of lightning.[@school-district-spells.so13-amalda] |
-| [[#school-district-spells|Silva Vine]] | Miliria | Binding vines of light[@school-district-spells.so13-vine] | Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest. And bind. Admonish the savages. This is the forest shrine kept by its guardian.[@school-district-spells.so13-vine] |
+| [[#school-district-spells|Silva Vine]] | [[miliria|Miliria]] | Binding vines of light[@school-district-spells.so13-vine] | Sprout new leaves and verdant light. Grow, grow, grow, ascend trees, dampen flowers, adorn the forest. And bind. Admonish the savages. This is the forest shrine kept by its guardian.[@school-district-spells.so13-vine] |
 | [[#elven-innate-magic|Gale Blast]] | Probably the elven knights (innate magic) | Wind[@elven-innate-magic.so14-chase] | Printed ending only. By ancient compact I summon you, winds of nature. Heed my call and mow down my enemies![@elven-innate-magic.so14-chase] |
 | [[#elven-innate-magic|Flare Burn]] | Probably the young Riveria (innate magic) | Fire[@elven-innate-magic.so14-chase] | Printed ending only. Gh…By ancient compact I summon you, inferno of earth. Heed my call and scorch all violence![@elven-innate-magic.so14-chase] |
 | [[#hildis-vini|Hildis Vini]] | Ottar | Enhancement: weapon power[@hildis-vini.fm18-slash] | Silver moon’s mercy and the golden plains. I offer this body to the lord of battle. Charge bearing the goddess’s will.[@hildis-vini.fc02-udaeus] |
@@ -195,7 +195,7 @@ Some spells are known only from a sheet; a search of the story text did not find
 | [[#silentium-eden|Silentium Eden]] | Alfia | Magic-nullifying enchantment[@silentium-eden.ar03-passive] | "Ataraxia"[@silentium-eden.ar01-riveria, silentium-eden.ar03-again] |
 | [[#genos-angelus|Genos Angelus]] | Alfia | Wide-area sound from a bursting bell[@genos-angelus.ar03-bell] | O cursed root of my blessing, O maledict birth. O sin of mine, my twinn’d half’s demise… There is no ablution, purification, or solace. Heaven’s bell begets my sin. O bugle of the gods. O harp of spirits passed, O melody of light; all traces of my unpardonable act. O wretched life of mine; the god’s most blessed craft, hearken now my hate! Here is my confession! The price of my sin, I pay in full! Hear the howl of the holy belfry![@genos-angelus.ar03-chant] |
 | [[#rea-ambrosia|Rea Ambrosia]] | Zald | Flames that clad his weapon[@rea-ambrosia.ar03-cast] | O Father, forgive me, for I thieve from the plate of the gods! Let my flaming tongue devour! Let my burning fangs consume! Rea Ambrosia!![@rea-ambrosia.ar03-cast] **Partial print; completeness uncertain.** |
-| [[#dialv-dis|Dialv Dis]] | [[apate-and-alecto-familias#alecto-familia|Vena Dis]] | Pillars of hellfire[@dialv-dis.ar01-churches] | … "Open, the fifth garden! Resound, the ninth song!" *(only the ending printed)*[@dialv-dis.ar01-churches] |
+| [[#dialv-dis|Dialv Dis]] | [[dis-sisters#vena-dis|Vena Dis]] | Pillars of hellfire[@dialv-dis.ar01-churches] | … "Open, the fifth garden! Resound, the ninth song!" *(only the ending printed)*[@dialv-dis.ar01-churches] |
 | [[#dialv-otua|Dialv Otua]] | Vena and Dina Dis | Rain of black fire[@dialv-otua.ar03-cast] | "Let the first gate devour all. Turn all hope into despair!"[@dialv-otua.ar03-cast] |
 | [[#dialv-stige|Dialv Stige]] | Dina Dis | Curse: takes Strength and Agility[@dialv-stige.ar03-exchange] | Black mire; red sin. We tear each other with our teeth; the slime that is our bodies mix’d![@dialv-stige.ar03-cast] |
 | [[#shaldo|Shaldo]] | [[valletta|Valletta Grede]] | Status Down field[@shaldo.so08-explain] | *Not printed (a super-long chant, by Valletta's account)*[@shaldo.so08-field, shaldo.so08-explain] |
@@ -295,7 +295,7 @@ Lilly's Status cards in DanMachi 8 and DanMachi 15 list Cinder Ella under Magic 
 | Shape-shifting Magic[@cinder-ella.fm08-card] | Shape-shifting magic[@cinder-ella.fm15-card] |
 | The target takes the envisioned shape; fails without a clear image[@cinder-ella.fm08-card] | The target assumes the form envisioned when casting; fails without a clear image[@cinder-ella.fm15-card] |
 | Imitation is recommended[@cinder-ella.fm08-card] | Mimicking an existing form is recommended[@cinder-ella.fm15-card] |
-| **Trigger Spell** and **Release Spell**[@cinder-ella.fm08-card] | **Activation chant** and **Deactivation chant**[@cinder-ella.fm15-card] |
+| **[[trigger-spell|Trigger Spell]]** and **Release Spell**[@cinder-ella.fm08-card] | **Activation chant** and **Deactivation chant**[@cinder-ella.fm15-card] |
 
 #### Incantation {#cinder-ella-incantation}
 
@@ -732,7 +732,7 @@ Most later prints show only the second part, or pieces of it, split by action; t
 |---|---|
 | Sword Oratoria 1 | Cast unarmed against a new monster; interrupted before release.[@arcs-ray.so01-chant] |
 | Sword Oratoria 4 | First successful Concurrent Casting, while training with [[filvis|Filvis]].[@arcs-ray.so04-concurrent] |
-| Sword Oratoria 5 | Fired straight up from below to hit a trap monster.[@arcs-ray.so05-trap] |
+| Sword Oratoria 5 | Fired straight up from below to hit a [[trap-monster|trap monster]].[@arcs-ray.so05-trap] |
 | Sword Oratoria 13 | Clears rubble during the rescue in the Dungeon; later one of the few spells she can use in a crowded melee.[@arcs-ray.so13-tunnel, arcs-ray.so13-short] |
 
 #### Open questions {#arcs-ray-open-questions}
@@ -1037,7 +1037,7 @@ Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-br
 
 #### Effect {#veil-breath-effect}
 
-- **Protection:** when Riveria casts it, it can protect an adventurer even from a valgang dragon's great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the fifty-second floor, it cancels most of a fireball's damage.[@veil-breath.so04-party]
+- **Protection:** when Riveria casts it, it can protect an adventurer even from a valgang dragon's great fireballs.[@veil-breath.so12-lefiya] In Sword Oratoria 4, cast from the [[floor-52|fifty-second floor]], it cancels most of a fireball's damage.[@veil-breath.so04-party]
 - **Healing:** as a side effect, it heals; in Sword Oratoria 12 [[aisha-belka|Aisha]]'s fractured bones mend under it.[@veil-breath.so12-lefiya]
 - **Targets:** Sword Oratoria 2 describes it protecting its target.[@veil-breath.so02-aiz] Other scenes show it covering several people at once: Lefiya and her three rescuers, the whole Loki Familia party, four fighters, or every member of Astrea Familia.[@veil-breath.so04-party, veil-breath.so12-lefiya, veil-breath.ar03-astrea]
 
@@ -1513,7 +1513,7 @@ Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it
 
 ### Astrea Record (spell) {#astrea-record-spell}
 
-**Astrea Record** ({{ja|星々の記憶}}, written *memory of the stars*)[@astrea-record-spell.fm18-ja] is [[lyu-leon|Lyu Leon]]'s third magic. Her Status lists it with the words "Inherited justice", which is also the meaning of its name.[@astrea-record-spell.fc03-card] In [[astrea|Astrea]]'s words it is "a magic that Lyu alone can use to inherit everyone's magic": the magic of all ten of her dead companions in [[astrea-familia|Astrea Familia]], who shared the same Falna and Astrea's ichor.[@astrea-record-spell.fc03-nature, astrea-record-spell.fm18-inherit] DanMachi 18 says it manifested when she reached Level 6.[@astrea-record-spell.fm18-inherit]
+**Astrea Record** ({{ja|星々の記憶}}, written *memory of the stars*)[@astrea-record-spell.fm18-ja] is [[lyu-leon|Lyu Leon]]'s third magic. Her Status lists it with the words "Inherited justice", which is also the meaning of its name.[@astrea-record-spell.fc03-card] In [[astrea|Astrea]]'s words it is "a magic that Lyu alone can use to inherit everyone's magic": the magic of all ten of her dead companions in [[astrea-familia|Astrea Familia]], who shared the same Falna and Astrea's [[ichor|ichor]].[@astrea-record-spell.fc03-nature, astrea-record-spell.fm18-inherit] DanMachi 18 says it manifested when she reached Level 6.[@astrea-record-spell.fm18-inherit]
 
 {{nocite}} It shares its name with the *Astrea Record* novels; this section is about the spell.
 
@@ -1572,7 +1572,7 @@ DanMachi 19 sums it up: Lyu can use the magic of all her fallen allies, includin
 
 | Volume | Use |
 |---|---|
-| Familia Chronicle 3 | First used in battle, against the spirits, as Cecille looks on.[@astrea-record-spell.fc03-cast] |
+| Familia Chronicle 3 | First used in battle, against the spirits, as [[cecille-blackliza|Cecille]] looks on.[@astrea-record-spell.fc03-cast] |
 | DanMachi 18 | In the Familia War: against the einherjar and Hegni with Alize's flame; against [[ottar|Ottar]] with Gokou and Rea Vindemia.[@astrea-record-spell.fm18-cast, astrea-record-spell.fm18-gokou, astrea-record-spell.fm18-maryu] |
 
 #### Open questions {#astrea-record-spell-open-questions}
@@ -2037,7 +2037,7 @@ The Japanese chant is {{ja|癒しの滴、光の涙、永久の聖域。薬奏�
 
 #### Earlier treatments {#dia-frater-earlier-treatments}
 
-In Sword Oratoria 8 Amid says that only her magic made headway against the Unhealable Curse on Finn, at "an extraordinary amount of Mind", and she nearly reaches Mind Down after treating Bete, whose wounds still need time to heal.[@dia-frater.so08-finn, dia-frater.so08-bete] {{inference}} These are very probably Dia Frater, but the spell is not named.
+In Sword Oratoria 8 Amid says that only her magic made headway against the [[cursed-weapons|Unhealable Curse]] on Finn, at "an extraordinary amount of Mind", and she nearly reaches Mind Down after treating Bete, whose wounds still need time to heal.[@dia-frater.so08-finn, dia-frater.so08-bete] {{inference}} These are very probably Dia Frater, but the spell is not named.
 
 #### Compared with Heith {#dia-frater-compared-with-heith}
 
@@ -2130,7 +2130,7 @@ Anya's voice becomes "an awful, mysterious sound wave", an "ultra-wide range att
 
 | Volume | Use |
 |---|---|
-| DanMachi 18 | In the Familia War, under cover of Hedin's bombardment, it weakens Allen, the einherjar and the Gulliver brothers, and also Lilly and the other unprotected members of the coalition.[@remisto-felis.fm18-cast, remisto-felis.fm18-effect] |
+| DanMachi 18 | In the Familia War, under cover of Hedin's bombardment, it weakens Allen, the einherjar and the Gulliver brothers, and also Lilly and the other unprotected members of the [[familia-coalition|coalition]].[@remisto-felis.fm18-cast, remisto-felis.fm18-effect] |
 
 #### Open questions {#remisto-felis-open-questions}
 
@@ -2343,7 +2343,7 @@ Only one line is printed, in DanMachi 12, before the name: "Oh sunlight, may you
 #### Limits {#soul-light-limits}
 
 - **Parasitic ivy:** in DanMachi 12 it cannot remove the ivy tormenting Chigusa and [[modi-and-magni-familias#luvis-lilix|Luvis]]; the healing light even spurs the ivy's growth.[@soul-light.fm12-ivy]
-- **Cursed wounds:** in DanMachi 18 it cannot fully close Daphne's wounds, because [[hegni|Hegni]]'s cursed sword obstructs healing.[@soul-light.fm18-daphne]
+- **Cursed wounds:** in DanMachi 18 it cannot fully close Daphne's wounds, because [[hegni|Hegni]]'s [[cursed-weapons|cursed sword]] obstructs healing.[@soul-light.fm18-daphne]
 
 #### Notable uses {#soul-light-notable-uses}
 
@@ -2694,7 +2694,7 @@ Hegni plants his black sword in the ground and a black magic circle spreads arou
 |---|---|
 | DanMachi 16 | During the festival he attacks Bell in a deserted alley.[@dainsleif.fm16-bell] |
 | Familia Chronicle 2 | In the desert war he casts it before ten thousand enemies and cuts through the Warsa soldiers.[@dainsleif.fc02-cast] |
-| Astrea Record 3 | Against [[apate-and-alecto-familias#apate-familia|Basram]]'s spirit warriors in the Great Conflict.[@dainsleif.ar03-cast] |
+| Astrea Record 3 | Against [[basram|Basram]]'s spirit warriors in the Great Conflict.[@dainsleif.ar03-cast] |
 | DanMachi 18 | Casting it despite a hail of magic swords and arrows, he cuts through [[tsubaki|Tsubaki]]'s adventurers and smiths; Tsubaki knows he once felled over a thousand of the Evils in one battle with it.[@dainsleif.fm18-cast] [[lyu-leon|Lyu]] later defeats him, and Orario roars at his defeat.[@dainsleif.fm18-lyu] |
 
 #### Open questions {#dainsleif-open-questions}
@@ -2762,9 +2762,9 @@ Familia Chronicle 2 describes the lightning as orbs each the size of a human hea
 | Volume | Use |
 |---|---|
 | Familia Chronicle 2 | In the desert war, Hedin alone bombards the Warsa forces.[@caurus-hildr.fc02-warsa] |
-| Astrea Record 1 | Leaping from a belfry, he drives back Basram's spirit warriors and the Dis sisters so that Hegni and the others can be pulled out.[@caurus-hildr.ar01-street] |
+| Astrea Record 1 | Leaping from a belfry, he drives back [[basram|Basram]]'s spirit warriors and the Dis sisters so that Hegni and the others can be pulled out.[@caurus-hildr.ar01-street] |
 | DanMachi 17 | Part of Bell's training in Folkvangr, cast one after another with Valiant Hildr.[@caurus-hildr.fm17-training] |
-| DanMachi 18 | His bombardment covers [[anya-fromel|Anya]] while she casts [[#remisto-felis|Remisto Felis]].[@caurus-hildr.fm18-gulliver] Turned on the Andhrímnir, it outlasts [[heith-velvet|Heith]]'s [[#ars-gullveig|Ars Gullveig]]: the accelerating barrage overtakes her healing and she falls, and the Andhrímnir are annihilated.[@caurus-hildr.fm18-heith] The Gulliver brothers, who know how it works, use the tavern's staff and coalition fighters as shields.[@caurus-hildr.fm18-gulliver] |
+| DanMachi 18 | His bombardment covers [[anya-fromel|Anya]] while she casts [[#remisto-felis|Remisto Felis]].[@caurus-hildr.fm18-gulliver] Turned on the [[freya-familia#andhrimnir|Andhrímnir]], it outlasts [[heith-velvet|Heith]]'s [[#ars-gullveig|Ars Gullveig]]: the accelerating barrage overtakes her healing and she falls, and the Andhrímnir are annihilated.[@caurus-hildr.fm18-heith] The Gulliver brothers, who know how it works, use the tavern's staff and coalition fighters as shields.[@caurus-hildr.fm18-gulliver] |
 
 #### Open questions {#caurus-hildr-open-questions}
 
@@ -2797,7 +2797,7 @@ The bolt is described as an enormous lightning spear, a cannon blast that fills 
 | Volume | Use |
 |---|---|
 | Familia Chronicle 2 | Hedin cuts short a fight between [[allen-fromel|Allen]] and [[ottar|Ottar]]; everyone, the Gullivers and Hegni included, leaps back.[@valiant-hildr.fc02-ottar] |
-| Astrea Record 1 | After Caurus Hildr, it forces the Dis sisters and Basram's spirit warriors to withdraw from the crossroads.[@valiant-hildr.ar01-street] |
+| Astrea Record 1 | After Caurus Hildr, it forces the Dis sisters and [[basram|Basram]]'s spirit warriors to withdraw from the crossroads.[@valiant-hildr.ar01-street] |
 | Astrea Record 3 | Dina expects Caurus Hildr and gets a single great beam that engulfs her and [[hegni|Hegni]] alike.[@valiant-hildr.ar03-dina] Later Hedin kills Vena Dis with it.[@valiant-hildr.ar03-vena] |
 | DanMachi 17 | Part of [[bell-cranell|Bell]]'s training in Folkvangr.[@valiant-hildr.fm17-training] |
 | DanMachi 18 | A "single, concentrated blast" knocks Ottar's golden slash off course and saves Bell, Lyu and Mia; later, with Bell, Hedin fires it at Ottar himself.[@valiant-hildr.fm18-ottar] |
@@ -3176,7 +3176,7 @@ The number of pillars is not fixed: four in one scene, more than ten in the othe
 
 ### Dialv Otua {#dialv-otua}
 
-**Dialv Otua** ({{ja|ディアルヴ・オチュア}})[@dialv-otua.ar03-ja] is a spell of the Dis sisters, the twin leaders of Alecto Familia. In Astrea Record 3 they call out its name together from a rooftop in support of the [[evils|Evils]]' assault.[@dialv-otua.ar03-cast] Compare Vena's own [[#dialv-dis|Dialv Dis]].
+**Dialv Otua** ({{ja|ディアルヴ・オチュア}})[@dialv-otua.ar03-ja] is a spell of the Dis sisters, who lead Alecto Familia. In Astrea Record 3 they call out its name together from a rooftop in support of the [[evils|Evils]]' assault.[@dialv-otua.ar03-cast] Compare Vena's own [[#dialv-dis|Dialv Dis]].
 
 - **Casters:** Vena and Dina Dis, together[@dialv-otua.ar03-cast]
 - **Effect:** A rain of black fireballs[@dialv-otua.ar03-cast]

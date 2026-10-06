@@ -25,21 +25,21 @@
   }
 }
 ---
-An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. DanMachi 9 explains that mass outbreaks of particular monsters happen often in the Dungeon, though at irregular times, and are observed as one kind of Irregular.[@fm09-definition] Since the Dungeon is "alive", the frequent Irregulars feel to [[loki-familia|Loki Familia]] like the abuse of a single living thing.[@so07-alive] No one knows when one will appear, and even a safe point is not safe.[@so02-rivira]
+An **Irregular** is an unpredictable, unusual event in the [[dungeon|Dungeon]]. DanMachi 9 explains that mass outbreaks of particular monsters happen often in the Dungeon, though at irregular times, and are observed as one kind of Irregular.[@fm09-definition] Since the Dungeon is "alive", the frequent Irregulars feel to [[loki-familia|Loki Familia]] like the abuse of a single living thing.[@so07-alive] No one knows when one will appear, and even a [[safe-point|safe point]] is not safe.[@so02-rivira]
 
 ## Kinds {#kinds}
 
 - **Monsters out of place:** most monsters stay on the floor where they are born, but occasionally a monster born on a lower floor comes up, or one goes down, an irregular case.[@fm01-floors] The typical Irregular is a monster that becomes a threat by climbing from a lower floor to a higher one, like the [[minotaur|Minotaur]] that attacks Bell in the [[upper-levels|upper levels]].[@fm12-types, fm01-minotaur] In DanMachi 7, Lilly identifies as an Irregular a monster that should not appear above the fifteenth floor.[@fm07-floor]
 - **Outbreaks and mass spawns:** in DanMachi 9 [[monsters#firebird|firebirds]] overflow onto the nineteenth floor. "Mass spawns were just another one of the Dungeon's Irregulars", like the [[monsters#poison-vermis|poison vermis]] that Loki Familia meets in Sword Oratoria 5.[@fm09-definition, so05-spawns, ss02-vermis]
-- **Subspecies:** in Aiz's memories of Sword Oratoria 9, a pure-black [[monsters#wyvern|wyvern]] on the upper floors is "clearly an Irregular, a subspecies".[@so09-wyvern] The armed monsters that overrun [[rivira|Rivira]] in DanMachi 10 are taken for a special subspecies.[@fm10-rivira]
+- **Subspecies:** in Aiz's memories of Sword Oratoria 9, a pure-black [[monsters#wyvern|wyvern]] on the upper floors is "clearly an Irregular, a subspecies".[@so09-wyvern] The [[armed-monsters|armed monsters]] that overrun [[rivira|Rivira]] in DanMachi 10 are taken for a special subspecies.[@fm10-rivira]
 - **Enhanced species:** monsters that grow strong by eating others' [[magic-stone|magic stones]] are viewed as Irregulars. DanMachi 12's [[monsters#moss-huge|moss huge]], which went *down* to deeper floors after stronger magic stones, is "the exact opposite of a typical Irregular". To prevent them, supporters gather the magic stones after a battle.[@fm12-types, fm13-stones]
 - **Unknown monsters:** the [[juggernaut|Juggernaut]], "The being the Dungeon spawned five years ago", was an Irregular that not even [[ouranos|Ouranos]] had anticipated. In DanMachi 14 the moss huge and the [[lambton|lambton]] come "one Irregular after another".[@fm13-juggernaut, fm14-another]
 - **Floor bosses:** the Black [[goliath|Goliath]]'s appearance in [[floor-18|Floor 18]]'s safe point "hasn't happened in this era".[@fm06-safe-point, fm05-calamity]
 
 ## The Guild and adventurers {#response}
 
-- **Records and quests:** the [[guild|Guild]] issues quests to deal with Irregulars, sometimes as compulsory missions (printed *direct orders*).[@fm09-orders, fm09-mission-ja] Through Fels's oculi, it has the [[xenos|Xenos]] investigate or eliminate them, especially when adventurers cannot cope.[@fm09-xenos, fm10-quests]
-- **Bounties:** when extraordinarily strong individuals appear, the Guild places bounties on them and issues subjugation orders.[@fm12-types]
+- **Records and quests:** the [[guild|Guild]] issues [[quest|quests]] to deal with Irregulars, sometimes as compulsory missions (printed *direct orders*).[@fm09-orders, fm09-mission-ja] Through Fels's oculi, it has the [[xenos|Xenos]] investigate or eliminate them, especially when adventurers cannot cope.[@fm09-xenos, fm10-quests]
+- **Bounties:** when extraordinarily strong individuals appear, the Guild places [[bounty|bounties]] on them and issues subjugation orders.[@fm12-types]
 - **Calamity:** the Guild declared the Black Goliath an "act of the gods" and classified it as a "Calamity". Hestia and Hermes were penalised and forbidden to speak of it.[@fm05-calamity]
 - **Secrecy:** in Sword Oratoria 2 the attack on Rivira by [[levis|Levis]]'s monster, whose Tamer no one else met, comes to be treated as an Irregular; what the Guild keeps quiet is the murder and the near-destruction of the town.[@so02-recorded]
 - **Preparation:** parties study where Irregulars have appeared before setting out. On an expedition, the vanguard clears any Irregulars from the route.[@fm12-planning, so04-vanguard]

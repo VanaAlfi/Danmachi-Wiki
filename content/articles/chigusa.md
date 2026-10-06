@@ -30,7 +30,7 @@ DanMachi 5 introduces her as "a girl whose eyes were covered by her bangs".[@fm0
 
 | Volume | Events |
 |---|---|
-| DanMachi 5 | To save her on Floor 13, Ouka orders the pass parade that pushes monsters onto [[bell-cranell|Bell]]'s party.[@fm05-parade, fm05-ouka] Still Level 1, she joins the rescue party as its supporter, carrying weapons and potions.[@fm05-level] |
+| DanMachi 5 | To save her on Floor 13, Ouka orders the [[pass-parade|pass parade]] that pushes monsters onto [[bell-cranell|Bell]]'s party.[@fm05-parade, fm05-ouka] Still Level 1, she joins the rescue party as its supporter, carrying weapons and potions.[@fm05-level] |
 | DanMachi 8 | Takemikazuchi says that she and another member, Asuka, reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]].[@fm08-level] |
 | DanMachi 11 | Sees for herself that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] |
 | DanMachi 12 | Two members of Takemikazuchi Familia level up, and the gods discuss a title for Chigusa at [[denatus|Denatus]], calling her shy.[@fm12-denatus] |

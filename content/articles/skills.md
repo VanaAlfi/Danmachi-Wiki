@@ -154,7 +154,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#fairy-serenade|Fairy Serenade]] | Lyu Leon | Magic support | Stronger magic, more so at night[@fc03-lyu-card5] |
 | [[#mind-load|Mind Load]] | Lyu Leon | Mind into Strength | Spends Mind to raise Strength when she attacks[@fc03-lyu-card5] |
 | [[#aero-mana|Aero Mana]] | Lyu Leon | Speed into attack | Attack strength rises with running speed[@fc03-lyu-card5] |
-| [[#astrae-varmas|Astrae Varmas]] | Lyu Leon | Party (same ichor) | Strengthens allies of the same god; resistance to psychological corruption for all in range[@fc03-lyu-card5] |
+| [[#astrae-varmas|Astrae Varmas]] | Lyu Leon | Party (same [[ichor|ichor]]) | Strengthens allies of the same god; resistance to psychological corruption for all in range[@fc03-lyu-card5] |
 | [[#rubrud-beckia|Rubrud Beckia]] | Alize Lovell | Conditional boosts | Stats rise in combat, in a crisis and against a powerful foe[@sheet.ar03-alize] |
 | [[#batrea-acras|Batrea Acras]] | Alize Lovell | Skill and spell support | Stronger Skills in close combat; stronger spells[@sheet.ar03-alize] |
 | [[#five-lights|Five Lights]] | [[gojouno-kaguya|Gojouno Kaguya]] | Hereditary; paired with a spell | Not described apart from the spell[@five-lights.ar03-clan] |
@@ -184,7 +184,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 - **Effect:** Early maturing: rapid growth, sustained and strengthened by his longing[@liaris-freese.fm01-skill]
 - **Driven by:** Bell's feelings for [[aiz-wallenstein|Aiz Wallenstein]][@liaris-freese.fm08-hestia]
 - **Appeared:** At his first Status update after the Minotaur rescue (DanMachi 1)[@liaris-freese.fm01-skill]
-- **Known to Bell:** Hidden from him by Hestia; even the update paper she hands him in DanMachi 20 lists only his other three Skills[@liaris-freese.fm01-hidden, liaris-freese.fm20-paper]
+- **Known to Bell:** Hidden from him by Hestia; even the [[status#update-sheet|update paper]] she hands him in DanMachi 20 lists only his other three Skills[@liaris-freese.fm01-hidden, liaris-freese.fm20-paper]
 - **Known to:** Hestia (DanMachi 1); Ishtar (DanMachi 7); Lilly, Welf, Mikoto and Haruhime (DanMachi 8); Freya (DanMachi 17) and her followers (DanMachi 18)[@liaris-freese.fm01-hidden, liaris-freese.fm07-side, liaris-freese.fm08-members, liaris-freese.fm17-fragile, liaris-freese.fm18-share]
 
 #### Name {#liaris-freese-name}
@@ -321,7 +321,7 @@ It is why a supporter of her size can carry a pack bursting at the seams: in Dan
 - **Appeared:** At the update that let her reach Level 2 (DanMachi 15); DanMachi 18 describes it as gained with her Level Up[@command-call.fm15-new, command-call.fm18-war]
 - **Also called:** Mind Call (DanMachi 18), a second reading of the same name[@command-call.fm18-mindcall]
 
-In the DanMachi 18 Familia War, commanding the allied Familias, she uses it to shout orders to fighters who have no oculus.[@command-call.fm18-war]
+In the DanMachi 18 Familia War, commanding the [[familia-coalition|allied Familias]], she uses it to shout orders to fighters who have no oculus.[@command-call.fm18-war]
 
 Later in DanMachi 18 the narration names the Skill Lilly developed at her Level Up as **Mind Call**: it allows telepathic communication with people who share her blessing, and after her oculus breaks it carries her message to Welf and Bell.[@command-call.fm18-mindcall] It is Command Call: the Japanese writes the same Skill name both times, read Command Call in Chapter 8 and Mind Call in Chapter 9.[@command-call.fm18-mindcall, command-call.fm18-war]
 
@@ -330,7 +330,7 @@ Later in DanMachi 18 the narration names the Skill Lilly developed at her Level 
 **Blood of Crozzo** ({{ja|魔剣血統}}, written *magic-sword bloodline*)[@blood-of-crozzo.fm15-ja] is the Crozzo family's hereditary Skill, held by [[welf-crozzo|Welf Crozzo]]. It lets him make magic swords and raise their power while he forges them.[@blood-of-crozzo.fm15-card, blood-of-crozzo.fm15-first]
 
 - **Holder:** Welf Crozzo; many of his family gained the same Skill[@blood-of-crozzo.fm04-ancestor, blood-of-crozzo.fm15-first]
-- **Appeared:** With his first Falna, from the goddess Phobos, on his tenth birthday[@blood-of-crozzo.fm15-first]
+- **Appeared:** With his first Falna, from the goddess [[phobos|Phobos]], on his tenth birthday[@blood-of-crozzo.fm15-first]
 - **Name:** Printed on his DanMachi 15 cards; DanMachi 4 speaks only of the family's Skill and bloodline[@blood-of-crozzo.fm15-card, blood-of-crozzo.fm04-ancestor]
 
 Before Welf tells his story in DanMachi 4, Bell guesses that he must have a Skill that lets him make magic swords without the Development Ability Forge.[@blood-of-crozzo.fm04-bell] Welf explains that the family's ancestor received a fairy's blood; once a Crozzo received a god's blessing, that blood awakened a Skill for making magic swords, and many of the family gained it the moment they were blessed. The family came to treat the Skill as their own power, made more and more swords, and was cursed.[@blood-of-crozzo.fm04-ancestor, blood-of-crozzo.fm04-curse] When Phobos first reads it on Welf's back, she tells him to forge a magic sword.[@blood-of-crozzo.fm15-first]
@@ -619,7 +619,7 @@ Only a few races of beast people can transform; werewolves, the classic case, ch
 - **Holder:** Daphne Laulos[@laurel-wreath.fm18-daphne]
 - **Status entry:** Greatly increases *Defense* when exhausted or near death; she chooses the location, and the skin there is modified (DanMachi 14 Status page). The DanMachi 18 narration speaks of endurance instead.[@sheet.fm14-daphne, laurel-wreath.fm18-daphne]
 
-In the DanMachi 18 Familia War her bark-covered arm turns aside [[hegni|Hegni]]'s cursed sword, though the Skill cannot stop his slashes completely and the bark spreads the longer she holds it. She says she developed it because Apollo chased her, and thinks of it as more like a curse; her skin stays rough for a while afterwards.[@laurel-wreath.fm18-daphne]
+In the DanMachi 18 Familia War her bark-covered arm turns aside [[hegni|Hegni]]'s [[cursed-weapons|cursed sword]], though the Skill cannot stop his slashes completely and the bark spreads the longer she holds it. She says she developed it because Apollo chased her, and thinks of it as more like a curse; her skin stays rough for a while afterwards.[@laurel-wreath.fm18-daphne]
 
 ### Helios Passion {#helios-passion}
 

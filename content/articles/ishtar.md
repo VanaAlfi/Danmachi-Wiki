@@ -17,7 +17,7 @@
       {"label": "Type", "value": "Goddess", "refs": ["fm07-ishtar"]},
       {"section": "Familia"},
       {"label": "Head of", "value": "Ishtar Familia", "refs": ["fm07-ishtar"]},
-      {"label": "Territory", "value": "The Pleasure Quarter, in the third district", "refs": ["fm07-quarter"]},
+      {"label": "Territory", "value": "The Pleasure Quarter, in the [[third-district|third district]]", "refs": ["fm07-quarter"]},
       {"label": "Fate", "value": "Sent back to the heavens in DanMachi 7", "refs": ["fm07-ishtar", "fm07-quarter"]}
     ]
   }

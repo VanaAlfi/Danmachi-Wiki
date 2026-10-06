@@ -31,7 +31,7 @@
   }
 }
 ---
-The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirteenth to the seventeenth floor. The thirteenth floor is "the first of what people call the Dungeon’s middle floors, in a place known as the Cave Labyrinth", and it is called the *First Line* because the Cave Labyrinth starts there.[@ss01-middle, fm09-first-line] The region ends at [[floor-18|Floor 18]], the safe point.[@fm05-tunnel] It lies below the [[upper-levels|upper levels]], and adventurers need to be at least Level 2 to survive it.[@fm04-middle]
+The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirteenth to the seventeenth floor. The thirteenth floor is "the first of what people call the Dungeon’s middle floors, in a place known as the Cave Labyrinth", and it is called the *First Line* because the Cave Labyrinth starts there.[@ss01-middle, fm09-first-line] The region ends at [[floor-18|Floor 18]], the [[safe-point|safe point]].[@fm05-tunnel] It lies below the [[upper-levels|upper levels]], and adventurers need to be at least Level 2 to survive it.[@fm04-middle]
 
 ## Names {#names}
 
@@ -76,8 +76,8 @@ The **Cave Labyrinth** is the region of [[dungeon|the Dungeon]] from the thirtee
 |---|---|
 | DanMachi 1 | Minotaurs that [[loki-familia|Loki Familia]] fights on the lower seventeenth floor flee upward.[@fm01-flee] |
 | DanMachi 3 | [[ottar|Ottar]] trains a Minotaur on the seventeenth floor.[@fm03-seventeenth] |
-| DanMachi 5 | Bell, Welf and Lilly enter the middle levels. After [[takemikazuchi-familia|Takemikazuchi Familia]]'s pass parade and a rockslide on the thirteenth floor they fall through a hole, struggle down past the Great Wall of Sorrows as the Goliath is reborn, and reach Floor 18.[@fm05-parade, fm05-fall, fm05-wall] |
-| DanMachi 7 | Bell's party mines blood onyx on the thirteenth floor; on the fourteenth, a quest to the quartz pantry is a lure set for them by [[ishtar-familia|Ishtar Familia]]'s Amazons under [[aisha-belka|Aisha]].[@fm07-onyx, fm07-pantry, fm07-lure] |
+| DanMachi 5 | Bell, Welf and Lilly enter the middle levels. After [[takemikazuchi-familia|Takemikazuchi Familia]]'s [[pass-parade|pass parade]] and a rockslide on the thirteenth floor they fall through a hole, struggle down past the Great Wall of Sorrows as the Goliath is reborn, and reach Floor 18.[@fm05-parade, fm05-fall, fm05-wall] |
+| DanMachi 7 | Bell's party mines blood onyx on the thirteenth floor; on the fourteenth, a [[quest|quest]] to the quartz pantry is a lure set for them by [[ishtar-familia|Ishtar Familia]]'s Amazons under [[aisha-belka|Aisha]].[@fm07-onyx, fm07-pantry, fm07-lure] |
 | DanMachi 8 | Hestia Familia clears the fifteenth floor and goes on to the sixteenth.[@fm08-fifteenth, fm08-sixteenth] On a mini-expedition with Takemikazuchi Familia it joins Rivira's battle against the Goliath on the seventeenth floor.[@fm08-goliath] |
 | DanMachi 9 | With the Goliath already killed, Bell's party reaches Floor 18 in three hours.[@fm09-three-hours] |
 | DanMachi 16 | [[hedin|Hedin]] trains Bell on the thirteenth floor.[@fm16-thirteenth] |

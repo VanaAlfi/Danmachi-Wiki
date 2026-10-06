@@ -46,7 +46,7 @@ In DanMachi 18's war against [[freya-familia|Freya Familia]] the gods on Hestia'
 
 ## The shrine in the Far East
 
-Takemikazuchi and other gods ran a shrine on a mountain in the Far East that took in children with no relatives and raised them.[@fm07-shrine, fm15-shrine] The goddess Tsukuyomi is also at the shrine.[@fm08-daughter, fm07-reunion] When the young Mikoto, an orphan, is crying alone, he asks her to become his daughter: one day he will give her his Falna, and "we will share a bond of blood like a true familya familia". He will teach her so many martial arts that she has no time for loneliness. From that day he became her father.[@fm08-daughter]
+Takemikazuchi and other gods ran a shrine on a mountain in the Far East that took in children with no relatives and raised them.[@fm07-shrine, fm15-shrine] The goddess [[tsukuyomi|Tsukuyomi]] is also at the shrine.[@fm08-daughter, fm07-reunion] When the young Mikoto, an orphan, is crying alone, he asks her to become his daughter: one day he will give her his Falna, and "we will share a bond of blood like a true familya familia". He will teach her so many martial arts that she has no time for loneliness. From that day he became her father.[@fm08-daughter]
 
 Haruhime, a noble's daughter, lived in a manor at the foot of the mountain. Takemikazuchi took pity on her and told the children to bring her into the outside world. When her father found out, he apologised on all fours until her father agreed to let them off.[@fm07-shrine] Mikoto says she received his Falna at that time to repay Haruhime's kindness; when Haruhime came to the shrine he thanked her for helping them through a hard winter.[@fm07-blessing, fm15-shrine]
 
@@ -54,7 +54,7 @@ The shrine could not feed the orphans it took in, so the oldest and strongest of
 
 ## Mikoto
 
-At DanMachi 4's [[denatus|Denatus]], when the gods start naming Mikoto, he jumps to his feet. They mock him as a "Natural-born gigolo" and trade joke titles for her while he protests that he raised Mikoto with loving care; she is named *Eternal † Shadow*, and he wails in humiliation and cries tears of blood.[@fm04-naming] In DanMachi 5 his followers' pass parade leaves Bell's party lost in the Dungeon; he apologises to Hestia for it, and his followers join the rescue.[@fm05-apology]
+At DanMachi 4's [[denatus|Denatus]], when the gods start naming Mikoto, he jumps to his feet. They mock him as a "Natural-born gigolo" and trade joke titles for her while he protests that he raised Mikoto with loving care; she is named *Eternal † Shadow*, and he wails in humiliation and cries tears of blood.[@fm04-naming] In DanMachi 5 his followers' [[pass-parade|pass parade]] leaves Bell's party lost in the Dungeon; he apologises to Hestia for it, and his followers join the rescue.[@fm05-apology]
 
 In DanMachi 6 Mikoto bows to the floor and asks to go and help [[bell-cranell|Bell]] in the [[war-game|War Game]]. He had come to the same conclusion: "One year…Such a long time." He tells her to learn from Hestia's followers and "come back stronger than ever", and she converts to [[hestia-familia|Hestia Familia]] for a year.[@fm06-conversion] He watches the War Game from his home.[@fm06-watch]
 

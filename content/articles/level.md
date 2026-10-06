@@ -46,7 +46,7 @@ Higher Levels also slow aging, more so with each Level, but they do not make mor
 
 | Term | Example in the novels |
 |---|---|
-| Upper-class adventurer | Zanis, a Level 2, is called an upper-class adventurer.[@fm10-upper] |
+| Upper-class adventurer | [[zanis-lustra|Zanis]], a Level 2, is called an upper-class adventurer.[@fm10-upper] |
 | Second-tier adventurer | Bell describes himself as second-tier at Level 4.[@fm17-second] |
 | First-tier adventurer | The Level 5 [[gulliver-brothers|Gulliver brothers]] are first-tier adventurers of [[freya-familia|Freya Familia]].[@fc02-first] |
 

@@ -24,7 +24,7 @@
   }
 }
 ---
-**Dian Cecht Familia** is the Familia of the god Dian Cecht. It makes and sells medicine and healing items, takes custom orders, and treats patients, and adventurers respect it highly.[@fm04-dian, fm04-trade, so01-shop] Its healer [[amid|Amid Teasanare]], the Dea Saint, is called the greatest healer in [[orario|Orario]].[@fm14-amid] It is the business rival of [[miach-familia|Miach Familia]], which owes it money.[@fm04-dian, fm15-infirmary]
+**Dian Cecht Familia** is the Familia of the god Dian Cecht. It makes and sells medicine and healing items, takes custom orders, and treats patients, and adventurers respect it highly.[@fm04-dian, fm04-trade, so01-shop] Its [[healer|healer]] [[amid|Amid Teasanare]], the Dea Saint, is called the greatest healer in [[orario|Orario]].[@fm14-amid] It is the business rival of [[miach-familia|Miach Familia]], which owes it money.[@fm04-dian, fm15-infirmary]
 
 ## The Familia
 
@@ -48,7 +48,7 @@ In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, 
 | Sword Oratoria 1 | Pays Loki Familia twenty elixirs for spring water it had requested.[@so01-shop] |
 | Sword Oratoria 5 | Loki Familia sets out to buy up its antivenin against [[monsters#poison-vermis|poison vermis]]; asking the Dea Saint herself to go into the Dungeon would cost even more.[@so05-antivenin] |
 | Sword Oratoria 7 | [[finn-deimne|Finn]] wakes in Dian Cecht's clinic after his curse is broken.[@so07-finn] |
-| Sword Oratoria 8 | Its hospital takes in the Amazons wounded by cursed weapons.[@so08-hospital] |
+| Sword Oratoria 8 | Its hospital takes in the Amazons wounded by [[cursed-weapons|cursed weapons]].[@so08-hospital] |
 | Sword Oratoria 11 | Its healers join the assault on [[knossos|Knossos]]; Amid heals the northeast squad and lifts the [[barca-perdix|Barca]] Monster's curse, leaving the recovery to Marta and Bernadette: "Take over the recovery in my stead."[@so11-healers, so11-barca, so11-marta] |
 | Sword Oratoria 12 | The whole Familia sends its healers into the second assault to heal and resupply every squad.[@so12-healers] Some of its healers are among the dead.[@so13-dead] |
 | DanMachi 15 | [[bell-cranell|Bell]] is treated at its infirmary for his arm. Nahza of Miach Familia calls them quacks, but Miach Familia itself referred him to Amid.[@fm15-infirmary] |

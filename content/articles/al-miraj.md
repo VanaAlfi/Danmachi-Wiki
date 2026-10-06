@@ -38,7 +38,7 @@ DanMachi 5 prints the name capitalised, *Al-Miraj*; DanMachi 7 prints *almirage*
 - **Where:** they first appear on the thirteenth floor. DanMachi 5 says they appear only on the thirteenth and fourteenth floors, so one seen on [[floor-18|Floor 18]] makes an adventurer suspicious.[@fm05-rabbit, fm05-floors]
 - **Strength:** one al-miraj has low fighting ability: even upper-ranked Level 1 adventurers can only just manage one, if they know it is more agile than a [[monsters#silverback|silverback]]. The rating of Level 2 is for their danger "in groups".[@fm05-level, fm05-ja-level] They boast high agility even among middle-level monsters; [[welf-crozzo|Welf]]'s Status equals or beats theirs in everything except Agility.[@fm05-mikoto, fm05-ja-level, fm05-bell]
 - **Weapons:** they smash the large rocks lying about and take small stone tomahawks out of them, and throw them; the Japanese calls the tomahawks natural weapons and the rocks that hold them the labyrinth's armouries (landform), where the Yen Press text says they "smash them open with a hard stomp" and calls the tomahawks "landform weapons".[@fm05-tomahawk, fm05-ja-tomahawk] Disarmed, they charge horn first.[@fm09-hesitate]
-- **Drops:** in DanMachi 7 Bell's party fulfils a quest for "almirage furs" after slaying a pack.[@fm07-almirage]
+- **Drops:** in DanMachi 7 Bell's party fulfils a [[quest|quest]] for "almirage furs" after slaying a pack.[@fm07-almirage]
 - **Tactics:** unlike upper-level monsters, they read the situation. They close on a party in a "netlike formation" and change their attack as soon as a gap opens.[@fm05-mikoto] They are often met together with [[monsters#hellhound|hellhounds]].[@fm05-bell, so13-parade]
 
 ## Encounters {#encounters}

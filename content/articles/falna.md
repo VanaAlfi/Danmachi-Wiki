@@ -24,7 +24,7 @@
   }
 }
 ---
-**Falna** is the mark of a god's blessing on a follower. Using blood and hieroglyphs, the god reflects the follower's [[excelia|excelia]], the record of what they have lived through, in a [[status|Status]].[@fm01-status] People who belong to no Familia, called free people, have no Falna or Status, though some races, such as dwarves and elves, can still fight well.[@fm02-free]
+**Falna** is the mark of a god's blessing on a follower. Using blood and hieroglyphs, the god reflects the follower's [[excelia|excelia]], the record of what they have lived through, in a [[status|Status]].[@fm01-status] People who belong to no [[familia|Familia]], called free people, have no Falna or Status, though some races, such as dwarves and elves, can still fight well.[@fm02-free]
 
 ## How it works
 
@@ -46,13 +46,13 @@ Higher Levels slow aging, and each further Level slows it more; this does not ma
 
 A Status is protected personal information. Only an adventurer's Level and Familia are reported to the [[guild|Guild]].[@fm02-privacy] Gods can lock the hieroglyphs so they cannot be read normally, and at [[denatus|Denatus]] it is taboo to force another god to reveal a follower's Status.[@fm08-lock, fm04-denatus]
 
-A specialized item called a [[status-thief|Status Thief]] can still expose the real name and patron god written in a Status.[@fc01-thief] Bell's goddess keeps his Skill [[skills#liaris-freese|Liaris Freese]] off the copies of his Status she gives him.[@fm01-hidden]
+A specialized item called a [[status-thief|Status Thief]] can still expose the real name and [[patron-deity|patron god]] written in a Status.[@fc01-thief] Bell's goddess keeps his Skill [[skills#liaris-freese|Liaris Freese]] off the [[status#update-sheet|copies of his Status]] she gives him.[@fm01-hidden]
 
 ## Conversion
 
 In a conversion, one god removes the old Falna and another engraves a new one. A converted follower cannot transfer again for a year.[@fm06-conversion] A follower normally has to have been with a Familia for a year before converting at all, unless that Familia dissolves; in DanMachi 17 Bell has been with Hestia for only six months, which blocks an immediate conversion.[@fm17-wait]
 
-A conversion does not erase every trace of the first god's ichor: that god can still sense whether the follower is alive, and [[soma|Soma]] senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace]
+A conversion does not erase every trace of the first god's [[ichor|ichor]]: that god can still sense whether the follower is alive, and [[soma|Soma]] senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace]
 
 | Volume | Conversion |
 |---|---|

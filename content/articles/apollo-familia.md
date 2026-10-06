@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of the god Apollo, a Guild rank D Familia of over a hundred adventurers that hunted Bell Cranell through Orario in DanMachi 6, lost the War Game to Hestia Familia and was disbanded; its manor became Hearthstone Manor.",
-  "aliases": ["Apollo's Familia", "Luan", "Luan Espel", "Louann", "Ruan", "Ruan Espel", "Lissos"],
+  "aliases": ["Apollo's Familia", "Luan", "Luan Espel", "Louann", "Ruan", "Ruan Espel"],
   "spoilers": "DanMachi Vols. 6–9, 12, 13, 15, 17, 18, 20, Sword Oratoria Vol. 10 and Minor Myths and Legends Vol. 1",
   "related": ["apollo", "hyacinthus", "daphne", "cassandra", "war-game", "hestia-familia", "hearthstone-manor", "lilliluka-erde"],
   "sections": [
@@ -29,7 +29,7 @@
   }
 }
 ---
-**Apollo Familia** was the Familia of the god [[apollo|Apollo]], a Guild rank D Familia with "a good deal of influence as well as many powerful adventurers".[@fm06-standing] In DanMachi 6 it hunted [[bell-cranell|Bell Cranell]] through Orario so that Apollo could claim him, fought [[hestia-familia|Hestia Familia]] in a [[war-game|War Game]], lost, and was disbanded.[@fm06-pursuit, fm06-disbanded]
+**Apollo Familia** was the Familia of the god [[apollo|Apollo]], a Guild [[familia-rank|rank]] D Familia with "a good deal of influence as well as many powerful adventurers".[@fm06-standing] In DanMachi 6 it hunted [[bell-cranell|Bell Cranell]] through Orario so that Apollo could claim him, fought [[hestia-familia|Hestia Familia]] in a [[war-game|War Game]], lost, and was disbanded.[@fm06-pursuit, fm06-disbanded]
 
 ## Standing and members {#members}
 
@@ -43,7 +43,7 @@
 {{nocite}} The War Game itself is told on the [[war-game|War Game]] page and on [[apollo|Apollo]]'s; this section follows the Familia.
 
 - **The Celebration:** a day after a brawl between Apollo Familia's members and Bell in a bar, the Familia hosts a Celebration at which each deity must bring one follower, "a god and human mixer party of sorts".[@fm06-celebration, fm06-emblem]
-- **The pursuit:** the whole Familia then hunts Bell through the city ("The full force of Apollo Familia was overwhelming"), and it destroys the church that was Hestia Familia's home. It had made an arrangement with [[soma-familia|Soma Familia]]'s Zanis, who joined the plan to capture Bell "for money".[@fm06-pursuit, fm09-church, fm06-zanis] One of the hunters' team leaders is Lissos, "a rather handsome elf even by their standards", who wears a scarf over his mouth and had led the attack on the church.[@fm06-lissos]
+- **The pursuit:** the whole Familia then hunts Bell through the city ("The full force of Apollo Familia was overwhelming"), and it destroys the church that was Hestia Familia's home. It had made an arrangement with [[soma-familia|Soma Familia]]'s [[zanis-lustra|Zanis]], who joined the plan to capture Bell "for money".[@fm06-pursuit, fm09-church, fm06-zanis] One of the hunters' team leaders is [[lissos|Lissos]], "a rather handsome elf even by their standards", who wears a scarf over his mouth and had led the attack on the church.[@fm06-lissos]
 - **The War Game:** a Castle Siege at the castle ruins of Shreme, which [[ganesha-familia|Ganesha Familia]] first cleared of thieves and marauders; Apollo Familia defended, with a time limit of three days.[@fm06-siege] The odds were "twenty-to-one in Apollo Familia’s favor".[@fm06-odds] An attack involving [[lyu-leon|Lyu]] and a magic-sword assault cut Apollo Familia's forces "by almost 80 percent", and Hestia Familia won; the "betrayal" by the prum Luan was Lilly in disguise (see [[#luan-espel|Luan Espel]]).[@fm06-eighty, fm06-luan-captured, fm06-disbanded]
 
 ## Disbanding and afterwards {#afterwards}
@@ -51,7 +51,7 @@
 - "Obeying Hestia’s demands, Apollo Familia was disbanded immediately": Apollo released every follower from their contracts and was escorted out of Orario for the last time.[@fm06-disbanded]
 - Its manor became Hestia Familia's prize and new home, [[hearthstone-manor|Hearthstone Manor]], and the books Apollo Familia left on its shelves still fill the study.[@fm06-prize, fm07-manor, fm12-expedition]
 - Its former members were free to join another Familia of their choice; third-tier members such as Daphne and Cassandra received offers, and the two turn up at Bell's new home in DanMachi 7. See [[daphne|Daphne]] and [[cassandra|Cassandra]].[@fm08-luan, fm07-manor]
-- Later volumes remember the War Game: in DanMachi 18 the coalition is reminded of "the apparent betrayal during the war game with Apollo Familia", and the Shreme Castle ruins, near the village of Agris southeast of Orario, become a stage of the [[orariad|Orariad]] in DanMachi 20.[@fm18-betrayal, fm17-shreme, fm20-orariad]
+- Later volumes remember the War Game: in DanMachi 18 the [[familia-coalition|coalition]] is reminded of "the apparent betrayal during the war game with Apollo Familia", and the Shreme Castle ruins, near the village of Agris southeast of Orario, become a stage of the [[orariad|Orariad]] in DanMachi 20.[@fm18-betrayal, fm17-shreme, fm20-orariad]
 
 ## Luan Espel {#luan-espel}
 

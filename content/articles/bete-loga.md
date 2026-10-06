@@ -37,7 +37,7 @@ A dragon destroyed Bete's tribe on the plains: his father, his mother and his si
 
 Sword Oratoria 8 presents his contempt for weakness as a response to these losses.[@so08-hati]
 
-The healer [[leene-arshe|Leene Arshe]], who loved him, is killed in Knossos in Sword Oratoria 7.[@leene.so07-losses] Bete mocks her as she dies, and the Familia turns against him. Later [[raul-nord|Raul]] realises that Bete was telling them never to lose again, even in their next lives.[@leene.so08-death, leene.so08-raul] Minor Myths and Legends 2 gives his last words to her: "How many times have your hands saved me? You’ve done enough."[@leene.ss02-memory]
+The [[healer|healer]] [[leene-arshe|Leene Arshe]], who loved him, is killed in Knossos in Sword Oratoria 7.[@leene.so07-losses] Bete mocks her as she dies, and the Familia turns against him. Later [[raul-nord|Raul]] realises that Bete was telling them never to lose again, even in their next lives.[@leene.so08-death, leene.so08-raul] Minor Myths and Legends 2 gives his last words to her: "How many times have your hands saved me? You’ve done enough."[@leene.ss02-memory]
 
 The young Amazon [[lena-tully|Lena Tully]], formerly of [[ishtar-familia|Ishtar Familia]], falls for him after he beats her at Port Meren. In Sword Oratoria 8 she trades what she saw of Ishtar's key for a Dungeon date. When assassins hunt the former Ishtar Familia Amazons, she runs to draw them away from him and is left for dead.[@lena.so08-meet, lena.so08-run] She survives thanks to [[amid|Amid]]'s anti-curse [[potions#elixir|elixir]], and finds forget-me-nots, the gift she had told him she liked best, on the grave made for her; only he could have left them.[@lena.so08-flowers, lena.so08-alive, lena.so08-graves]
 

@@ -54,16 +54,16 @@ For Bell she obtains the [[hestia-knife|Hestia Knife]] from Hephaistos on a loan
 | DanMachi 5 | Spends the Familia's savings of 400,000 valis on Bell's rescue and goes down into the Dungeon herself. Her divine presence there provokes the Black [[goliath|Goliath]], and the [[guild|Guild]] penalises her and [[hermes|Hermes]].[@fm05-rescue, fm05-goliath, fm05-fine] |
 | DanMachi 6 | Accepts [[apollo|Apollo]]'s challenge to a [[war-game|War Game]] and wins it. She puts up the Hestia Knife as collateral so that [[lilliluka-erde|Lilly]] can convert, then has [[apollo-familia|Apollo Familia]] disbanded and Apollo exiled, and moves into his former manor.[@fm06-lilly, fm06-manor] |
 | DanMachi 7 | Accepts [[haruhime|Haruhime]] into the Familia.[@fm07-debt] |
-| DanMachi 8 | Is kidnapped by [[ares|Ares]], and shelters in [[edas-village|Edas Village]] after falling into a gorge; there she speaks to the dying elder Kam as his lost goddess Brigit would.[@fm08-edas] She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |
+| DanMachi 8 | Is kidnapped by [[ares|Ares]], and shelters in [[edas-village|Edas Village]] after falling into a gorge; there she speaks to the dying elder Kam as his lost goddess [[brigit|Brigit]] would.[@fm08-edas] She explains how mortals are purified and reborn, and promises Bell that she will find him after every rebirth.[@fm08-rebirth] |
 | DanMachi 11 | Directs the rescue of the stranded [[xenos|Xenos]].[@fm11-xenos] |
 | DanMachi 12 | Updates Bell to Level 4.[@fm12-vesta] |
 | DanMachi 16 | Is working at [[the-benevolent-mistress|The Benevolent Mistress]] during the festival. She follows Bell with [[aiz-wallenstein|Aiz]], and recognizes that the "[[syr-flover|Syr]]" on the second day shows a divinity that doesn't match her memories.[@fm16-tavern] |
 | DanMachi 17 | Resists [[freya|Freya]]'s charm and purges it from the whole city.[@fm17-hearth] |
-| DanMachi 19 | Speaking for the victorious coalition, allows Syr to stay on as an ordinary girl serving penance.[@fm19-syr] |
+| DanMachi 19 | Speaking for the victorious [[familia-coalition|coalition]], allows Syr to stay on as an ordinary girl serving penance.[@fm19-syr] |
 
 ## Breaking Freya's charm
 
-In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it: like Athena and [[artemis|Artemis]], she is a deity "of purity and chastity" with "the power to reject the goddess of beauty’s control".[@fm17-hearth, fm17-chastity] With Hermes, [[asfi|Asfi]] and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her ichor, into an altar. From [[babel|Babel]] she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
+In DanMachi 17, Freya's charm rewrites the city's memories, but Hestia's virgin divinity resists it: like Athena and [[artemis|Artemis]], she is a deity "of purity and chastity" with "the power to reject the goddess of beauty’s control".[@fm17-hearth, fm17-chastity] With Hermes, [[asfi|Asfi]] and [[ouranos|Ouranos]] she turns hearths across Orario, treated with her [[ichor|ichor]], into an altar. From [[babel|Babel]] she invokes Dios Aedes Vesta, which turns the city into a temporary image of her heavenly temple and burns the charm away without harming anyone.[@fm17-hearth, fm17-domain] She then accepts Freya's challenge to a Familia War.[@fm17-hearth]
 
 > [!NOTE] Divine power
 > A god cannot be permanently killed by a mortal. A life-threatening injury automatically releases divine power, heals the god and sends them back to the heavens as punishment for using [[tenkai-and-gekai#arcanum|Arcanum]].[@fm06-gods] Hestia's charm-breaking flame is treated as a feat of her divine domain, the hearth.[@fm17-domain]

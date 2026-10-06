@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The body that governs Dungeon affairs in Orario: it registers Familias and adventurers, ranks Familias, runs the Exchange for magic stones, and assigns advisers and missions.",
-  "aliases": ["Guild", "Guild Headquarters", "Pantheon", "Rose", "Rose Fannett", "Sophie", "Sofi"],
+  "aliases": ["Guild", "Guild Headquarters", "Pantheon", "Sophie", "Sofi"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1, 2, 9 and 12, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
   "sections": [
     {"anchor": "chamber-of-prayers", "title": "Chamber of Prayers", "summary": "The underground temple beneath Guild Headquarters where Ouranos sits at his altar, lit by four torches; the Guild's secret business is done there.", "aliases": []}
@@ -35,16 +35,16 @@
 | Function | Details |
 |---|---|
 | Registration | Familias register with the Guild; only an adventurer's Level and Familia are reported to it.[@fm04-rank, fm02-privacy] |
-| Familia ranks | Every Familia is ranked from I to S; higher ranks bring greater public trust and higher taxes.[@fm04-rank] |
+| [[familia-rank|Familia ranks]] | Every Familia is ranked from I to S; higher ranks bring greater public trust and higher taxes.[@fm04-rank] |
 | Advisers | Staff such as [[eina-tulle|Eina Tulle]] advise new adventurers; new Familias receive guidance and starter gear.[@fm01-eina, ss01-guild] |
 | Dungeon limits | The eleventh and twelfth floors are held to be the deepest that Level 1 adventurers can clear, a standard of ability rather than a Guild rule.[@fm02-limit] |
 | Expeditions | Familias of rank D and above must take part in periodic Guild expeditions.[@fm12-expedition] |
-| Missions | A mission is a direct Guild order that a Familia cannot refuse.[@fm09-mission] |
+| Missions | A mission is a direct Guild order that a [[familia|Familia]] cannot refuse.[@fm09-mission] |
 | Penalties | Blacklisting can revoke registration, confiscate loot without payment and lead to imprisonment.[@fm02-blacklist] |
 
 Receptionists are chosen partly for their looks, because their rapport with adventurers affects morale and the flow of magic stones. Advisers are discouraged from growing close to adventurers, since repeated deaths take a toll on staff.[@fm08-guild]
 
-Among Eina's fellow receptionists are [[misha-frot|Misha]], Rose and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi] The Japanese writes her name {{ja|ソフィ}}, the name of the elf receptionist printed *Sophie* in DanMachi 15.[@so09-sofi-ja]
+Among Eina's fellow receptionists are [[misha-frot|Misha]], [[rose|Rose]] and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi] The Japanese writes her name {{ja|ソフィ}}, the name of the elf receptionist printed *Sophie* in DanMachi 15.[@so09-sofi-ja]
 
 [[eina-tulle|Eina]]'s boss is Chief Rehmer, a chienthrope, who appears in the flashback of DanMachi 15; in DanMachi 19 he brings her to the meeting of Royman and the Guild's leadership on the second floor of the headquarters, where the Shaft plan is discussed.[@fm15-rehmer, fm19-rehmer]
 
@@ -62,7 +62,7 @@ Beneath the headquarters lies the **Chamber of Prayers** ({{ja|祈禱の間}}, *
 
 | Volume | Events |
 |---|---|
-| DanMachi 5 | Classes the Black [[goliath|Goliath]]'s appearance at a safe point as a "Calamity", an act of the gods, and penalises [[hestia|Hestia]] and [[hermes|Hermes]].[@fm05-calamity] |
+| DanMachi 5 | Classes the Black [[goliath|Goliath]]'s appearance at a [[safe-point|safe point]] as a "Calamity", an act of the gods, and penalises [[hestia|Hestia]] and [[hermes|Hermes]].[@fm05-calamity] |
 | DanMachi 14 | Accepts [[bors|Bors]]'s report that the Gale Wind died, and suppresses information about the [[juggernaut|Juggernaut]].[@fm14-report] |
 | DanMachi 18 | After the Familia War, orders [[freya|Freya]] banished, dissolves her Familia and takes [[folkvangr|Folkvangr]] under its management; Royman at first tries to protect her.[@fm18-dissolved] |
 | DanMachi 19 | Asks [[lyu-leon|Lyu]] not to register under her old name.[@fm19-name] |

@@ -37,13 +37,13 @@ Sword Oratoria 9's flashback to the same era also shows her leading an attack on
 
 ## The Twenty-Seventh-Floor Nightmare
 
-Loki Familia believed she was long dead. In Sword Oratoria 7 she explains that during the Twenty-Seventh-Floor Nightmare six years earlier, a huge pass parade the Evils had instigated, she and other high-level Evils added their own "dead bodies" to the carnage and went into hiding.[@so07-finn, so07-nightmare]
+Loki Familia believed she was long dead. In Sword Oratoria 7 she explains that during the Twenty-Seventh-Floor Nightmare six years earlier, a huge [[pass-parade|pass parade]] the Evils had instigated, she and other high-level Evils added their own "dead bodies" to the carnage and went into hiding.[@so07-finn, so07-nightmare]
 
 ## Knossos
 
-Valletta reappears in Sword Oratoria 7 inside [[knossos|Knossos]], directing the trap set for [[loki-familia|Loki Familia]]. She deliberately shows Finn one of the labyrinth's keys, an orb carved with a D, and vows to kill him herself.[@so07-finn, so07-key] [[thanatos|Thanatos]] says he picked up Valletta and her crew after they lost their patron; she still fights as a Level 5.[@so07-thanatos, so07-level]
+Valletta reappears in Sword Oratoria 7 inside [[knossos|Knossos]], directing the trap set for [[loki-familia|Loki Familia]]. She deliberately shows Finn one of the labyrinth's keys, an orb carved with a D, and vows to kill him herself.[@so07-finn, so07-key] [[thanatos|Thanatos]] says he picked up Valletta and her crew after they lost their [[patron-deity|patron]]; she still fights as a Level 5.[@so07-thanatos, so07-level]
 
-In Sword Oratoria 8 she operates from Knossos and then from a base in the ruins of [[pleasure-quarter|the Pleasure Quarter]], with a crew of assassins identified as Sekhmet Familia.[@so08-coat, so08-assassins] She taunts [[bete-loga|Bete Loga]] by claiming the murder of his fallen companions in Knossos, among them the healer [[leene-arshe|Leene]]: "It was me! All of it!"[@so08-admit]
+In Sword Oratoria 8 she operates from Knossos and then from a base in the ruins of [[pleasure-quarter|the Pleasure Quarter]], with a crew of assassins identified as [[minor-familias#sekhmet-familia|Sekhmet Familia]].[@so08-coat, so08-assassins] She taunts [[bete-loga|Bete Loga]] by claiming the murder of his fallen companions in Knossos, among them the [[healer|healer]] [[leene-arshe|Leene]]: "It was me! All of it!"[@so08-admit]
 
 ## Death
 

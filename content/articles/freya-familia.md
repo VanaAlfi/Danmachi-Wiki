@@ -6,9 +6,12 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Freya, one of Orario's two strongest until its defeat in the Familia War of DanMachi 18, after which the Guild dissolves it.",
-  "aliases": ["Van", "Remilia", "Rask"],
+  "aliases": ["Remilia", "Rask"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 4, Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["freya", "ottar", "allen-fromel", "hedin", "hegni", "horn", "mia-grand", "anya-fromel", "syr-flover", "hestia-familia", "war-game"],
+  "sections": [
+    {"anchor": "andhrimnir", "title": "Andhrímnir", "summary": "Andhrímnir is Freya Familia's formation of female healers and herbalists, responsible for treatment and preparing food.", "aliases": ["Andhrimnir", "Sooted servers"]}
+  ],
   "infobox": {
     "title": "Freya Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -25,7 +28,7 @@
   }
 }
 ---
-**Freya Familia** is the Familia of the goddess [[freya|Freya]]. Together with [[loki-familia|Loki Familia]] it drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]] after the Black Dragon broke their strength.[@fm06-zeus] Its home is [[folkvangr|Folkvangr]], a walled estate in the city's fifth district.[@fm07-folkvangr] In DanMachi 18 it loses a Familia War against a coalition led by [[hestia|Hestia]], and the [[guild|Guild]] dissolves it.[@fm18-flower, fm18-dissolved]
+**Freya Familia** is the Familia of the goddess [[freya|Freya]]. Together with [[loki-familia|Loki Familia]] it drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]] after the Black Dragon broke their strength.[@fm06-zeus] Its home is [[folkvangr|Folkvangr]], a walled estate in the city's fifth district.[@fm07-folkvangr] In DanMachi 18 it loses a Familia War against a [[familia-coalition|coalition]] led by [[hestia|Hestia]], and the [[guild|Guild]] dissolves it.[@fm18-flower, fm18-dissolved]
 
 ## Members {#members}
 
@@ -38,9 +41,9 @@
 | [[hedin|Hedin Selrand]] | Hildsleif | 6 | White elf.[@fc02-execs, fm16-hedin] |
 | [[hegni|Hegni Ragnar]] | Dáinsleif | 6 | [[races#dark-elf|Dark elf]]; often paired with Hedin although they are not related.[@fc02-execs, ar01-hegni] |
 | Alfrik, Dvalinn, Berling and Grer Gulliver | Bringar | 5 | Prum quadruplets whose teamwork is counted the best in Orario.[@fc02-execs] |
-| [[heith-velvet|Heith Velvet]] | Vana Mardöll | 4 | Healer and representative of the Andhrímnir; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
+| [[heith-velvet|Heith Velvet]] | Vana Mardöll | 4 | [[healer|Healer]] and representative of the [[#andhrimnir|Andhrímnir]]; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
 | [[horn|Hörn]] | none | — | Freya's attendant, known as "Nameless" because Freya refused to let the gods give her a title.[@fm16-horn] |
-| Van | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; told by Hedin to deploy Hegni's unit south of the church in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
+| [[van|Van]] | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; told by Hedin to deploy Hegni's unit south of the church in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
 | Remilia and Rask | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |
 
 [[mia-grand|Mia Grand]], the Level 6 *Demi Ymir* and captain before Ottar, half-retired and now owns [[the-benevolent-mistress|The Benevolent Mistress]], though she still bears Freya's blessing.[@fm18-mia, fc01-owner] Anya Fromel (*Vana Alfi*) was sent away after a Deep Levels expedition in which she nearly died.[@fm17-anya, fm18-allen]
@@ -56,6 +59,26 @@ Only recognised second-tier members and the core forces know that [[syr-flover|S
 ### Folkvangr and the einherjar {#folkvangr}
 
 Folkvangr's field holds death matches from dawn to sunset. Members below the first tier fight daily battle royals that would kill them, while the healers of the Andhrímnir restore those left close to death; the fighters are called *einherjar*, which also means "dead warriors" in the gods' language. The einherjar hold a nightly feast in Sessrúmnir, the estate's great dining hall.[@fm17-folkvangr]
+
+### Andhrímnir {#andhrimnir}
+
+**Andhrímnir** ({{ja|満たす煤者達}}, written *the sooted ones who satisfy*)[@fm17-andhrimnir-ja] is Freya Familia's formation of female healers and herbalists, responsible for treatment and preparing food.[@fm18-formation, fm17-support] The Andhrímnir support Freya Familia's warriors through healing and the aftercare that follows their baptism.[@fm17-support, fm18-formation] Their kitchen work includes preparing stamina-enhancing herbs, stewing boar meat and serving a drink made with goat's milk and honey.[@fm17-support]
+
+#### Members and name {#andhrimnir-members-and-name}
+
+[[heith-velvet|Heith]] is the group's young representative and has [[freya|Freya]]'s trust.[@fm17-support]
+
+Before the War Game, she asks Rona and Ilde {{small|printed *Ilda*}} to assist her once fighting begins.[@fm18-assistants]
+
+Whispered explanations connect the name both to maidens satisfying brave warriors and to overwork making their backs look soot-covered.[@fm17-support]
+
+#### Recorded work {#andhrimnir-recorded-work}
+
+| Volume | Events |
+|---|---|
+| Astrea Record 3 | Their wide-area healing answers damage around the arena while leaving destroyed barricades and structures unrepaired.[@ar03-healing] |
+| DanMachi 18 | Heith provides automatic healing protection for the group, but [[hedin|Hedin]] subsequently defeats the formation with lightning during the [[war-game|War Game]].[@fm18-war] |
+| DanMachi 19 | After Freya Familia's effective dissolution, [[mia-grand|Mia]] makes former members, particularly the Andhrímnir, work at [[the-benevolent-mistress|her tavern]].[@fm19-service] |
 
 ## History
 
@@ -137,3 +160,10 @@ In DanMachi 19 Mia puts the former members to work at The Benevolent Mistress: t
 [@ar03-ottar]: AR03 | | Ottar defeats Zald and reaches Level 7.
 [@ar03-hegni]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Hermes: "the other top dogs of Freya Familia became Level 6 as well" (the Japanese edition, file c9M1, paragraph 82: the Familia's executives).
 [@fm18-freya-familia-ja]: FM18 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@fm17-support]: FM17 | Chapter 3: The Field of Battle | Kitchen duties, the group name, explanations of its name and Heith's position. The Japanese edition (file part0019, paragraph 249) says Freya places deep trust in Heith, and gives one origin of the name as the maidens who satisfy the warriors who fight (the English edition: valkyries).
+[@fm18-formation]: FM18 | Chapter 9: Flower Language for You | A formation of female healers and herbalists.
+[@fm18-assistants]: FM18 | Chapter 8: The Great Familia War | Heith addresses Rona and Ilda as her support.
+[@ar03-healing]: AR03 | Chapter 2: The Conqueror’s Return | Wide-area healing around the arena.
+[@fm18-war]: FM18 | | Automatic healing protection and Hedin's lightning attack.
+[@fm19-service]: FM19 | Chapter 1: V-V-V for Victory Party | Mia employs former Freya Familia members, particularly the support group.
+[@fm17-andhrimnir-ja]: FM17 | | The Japanese edition writes the name in kanji meaning the sooted ones who satisfy, with the reading Andhrímnir (printed "the sooted servers"); the section gives the kanji.

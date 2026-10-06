@@ -22,7 +22,7 @@
   }
 }
 ---
-**Daedalus Street** is a poor, densely built district of [[orario|Orario]], laid out as a labyrinth on the surface and named after its architect, Daedalus. Its routes are so tangled that outsiders may not find their way out; red arrows called *ariadne* serve as signposts.[@fm01-daedalus] Sword Oratoria 1 calls it Orario's second labyrinth, in the southeast of the city.[@so01-daedalus] It was begun about a thousand years ago, and its sewers hide an entrance to [[knossos|Knossos]].[@so07-daedalus]
+**Daedalus Street** is a poor, densely built district of [[orario|Orario]], laid out as a labyrinth on the surface and named after its architect, [[daedalus|Daedalus]]. Its routes are so tangled that outsiders may not find their way out; red arrows called *ariadne* serve as signposts.[@fm01-daedalus] Sword Oratoria 1 calls it Orario's second labyrinth, in the southeast of the city.[@so01-daedalus] It was begun about a thousand years ago, and its sewers hide an entrance to [[knossos|Knossos]].[@so07-daedalus]
 
 ## Penia
 

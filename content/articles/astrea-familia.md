@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Familia of Astrea, goddess of justice and order. It fought the Evils through Orario's dark ages, and was destroyed in an ambush five years before DanMachi 13, leaving Lyu Leon as its only survivor.",
-  "aliases": ["Noin", "Neze", "Asta", "Lyana", "Celty", "Iska", "Maryu", "Marieux", "Lyana Lietz", "Ryana Lietz", "Asta Nox", "Asta Knox", "Maryu Réage", "Maryuu Reage", "Noin Unic", "Neze Rankett", "Iska Bra", "Celty Srowa"],
+  "aliases": ["Noin", "Neze", "Asta", "Lyana", "Iska", "Maryu", "Marieux", "Lyana Lietz", "Ryana Lietz", "Asta Nox", "Asta Knox", "Maryu Réage", "Maryuu Reage", "Noin Unic", "Neze Rankett", "Iska Bra"],
   "spoilers": "DanMachi Vols. 5–19, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
   "related": ["lyu-leon", "alize-lovell", "gojouno-kaguya", "lyra", "hermes", "ouranos", "knossos", "dungeon", "magic"],
   "infobox": {
@@ -27,11 +27,11 @@
   }
 }
 ---
-**Astrea Familia** was the Familia of [[astrea|Astrea]], goddess of justice and order.[@fm05-astrea] It reached rank B with the [[guild|Guild]], had eleven second-tier adventurers, reached Floor 41 and defeated twenty-one floor bosses.[@fc01-record] It was destroyed in an ambush in the Dungeon five years before DanMachi 13, and [[lyu-leon|Lyu Leon]] is its only survivor.[@fm13-ambush, fm05-astrea]
+**Astrea Familia** was the Familia of [[astrea|Astrea]], goddess of justice and order.[@fm05-astrea] It reached [[familia-rank|rank]] B with the [[guild|Guild]], had eleven second-tier adventurers, reached [[floor-41|Floor 41]] and defeated twenty-one floor bosses.[@fc01-record] It was destroyed in an ambush in the Dungeon five years before DanMachi 13, and [[lyu-leon|Lyu Leon]] is its only survivor.[@fm13-ambush, fm05-astrea]
 
 ## Members
 
-The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, Celty, Iska and Maryu.[@fm14-ten, fm15-circle] Maryu's name is {{ja|マリュー}}, *Maryū*, in the Japanese; Astrea Record 2 prints it as *Marieux*, and once gives it as the reading of the word *healer*.[@ar02-marieux, ar02-names-ja] Familia Chronicle 3 gives the companions' full names when Lyu tells Astrea's new followers about their predecessors: "the human attacker, Noin Unic", "the dwarf defender, the brave Asta Nox, who protected everyone with her small frame", "the werewolf middle guard, Neze Rankett", "the Amazon brawler, Iska Bra", "the human healer, Maryu Réage, who was a beacon of tolerance and motherliness", "the human wandering mage, Lyana Lietz", from [[altena|Altena]], and the elf Celty Srowa, "the only one actually younger than Lyu".[@fc03-lietz, fc03-names]
+The captain was Alize Lovell, who rescued Lyu, challenged her prejudices, and brought her into the Familia's ten-member oath.[@fm15-alize] The ten companions who died were Alize, Kaguya, Lyra, Noin, Neze, Asta, Lyana, [[celty-srowa|Celty]], Iska and Maryu.[@fm14-ten, fm15-circle] Maryu's name is {{ja|マリュー}}, *Maryū*, in the Japanese; Astrea Record 2 prints it as *Marieux*, and once gives it as the reading of the word *healer*.[@ar02-marieux, ar02-names-ja] Familia Chronicle 3 gives the companions' full names when Lyu tells Astrea's new followers about their predecessors: "the human attacker, Noin Unic", "the dwarf defender, the brave Asta Nox, who protected everyone with her small frame", "the werewolf middle guard, Neze Rankett", "the Amazon brawler, Iska Bra", "the human healer, Maryu Réage, who was a beacon of tolerance and motherliness", "the human wandering mage, Lyana Lietz", from [[altena|Altena]], and the elf Celty Srowa, "the only one actually younger than Lyu".[@fc03-lietz, fc03-names]
 
 | Member | Notes |
 |---|---|

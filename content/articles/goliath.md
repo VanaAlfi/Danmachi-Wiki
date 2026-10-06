@@ -39,7 +39,7 @@ In DanMachi 8 the Goliath is fought in one of these regular exterminations. [[ha
 Goliaths can differ from one another. In Sword Oratoria 13 a Goliath appears two days before the reported interval and shows unusual intelligence: it throws projectiles, calls in other monsters and watches [[lefiya|Lefiya]]'s casting. Its fall collapses the only passage down to Floor 18, and a squad holds it off until Lefiya's [[magic#rea-laevateinn|Rea Laevateinn]] destroys it together with the surrounding monsters.[@so13-goliath, so13-variation] The book explains this as individual variation among floor bosses, not a separate species.[@so13-variation]
 
 > [!STATEMENT] Why it came early
-> The students in Sword Oratoria 13 expected two more days before the next Goliath. Cole suggests either a bad report or the Dungeon's malice; the narration does not choose between them.[@so13-early]
+> The students in Sword Oratoria 13 expected two more days before the next Goliath. [[cole|Cole]] suggests either a bad report or the Dungeon's malice; the narration does not choose between them.[@so13-early]
 
 ## The Black Goliath
 

@@ -101,7 +101,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 
 ## History
 
-In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she arrives at [[hearthstone-manor|Hearthstone Manor]] as an intern, with [[balder|Balder]]'s permission, three days after [[bell-cranell|Bell]] leaves the School District. Hestia welcomes her but leaves open whether she will join.[@fm20-intern] The School District later cuts off all internships, forcing her to leave.[@fm20-cut] Bell sees winning the [[orariad|Orariad]] as a way for her to join without trouble.[@fm20-orariad] She takes part in the Floor 29 mission and the journey north.[@fm20-nina]
+In DanMachi 19 she makes peace with Eina.[@fm19-reconcile] In DanMachi 20 she arrives at [[hearthstone-manor|Hearthstone Manor]] as an intern, with [[balder|Balder]]'s permission, three days after [[bell-cranell|Bell]] leaves the School District. Hestia welcomes her but leaves open whether she will join.[@fm20-intern] The School District later cuts off all internships, forcing her to leave.[@fm20-cut] Bell sees winning the [[orariad|Orariad]] as a way for her to join without trouble.[@fm20-orariad] She takes part in the [[floors-29-31-and-32#floor-29|Floor 29]] mission and the journey north.[@fm20-nina]
 
 ## Open questions
 

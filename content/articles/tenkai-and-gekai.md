@@ -37,11 +37,11 @@
 
 - **Gekai:** printed *Gekai*, "lower world", and in later volumes often *mortal realm* or *mortal world*. DanMachi 4 glosses it as "Gekai—Earth".[@fm01-worlds, fm08-prum, fm04-earth]
 - **Tenkai:** printed *Tenkai*, the "upper world", or *the heavens*.[@fm01-worlds, fm02-souls, fm17-arcanum]
-- **Deusdia:** Yen Press prints it as a place: the gods are said to come from "another plane, Deusdia", "the heavenly plane of Deusdia".[@fm01-hestia, fm05-deusdia] In the Japanese originals *Deusdia* is the reading of {{ja|超越存在|chōetsu sonzai}}, *transcendent beings*: it names the gods themselves, who are *one dimension* apart from humans, demi-humans and monsters, while Tenkai is the place they came from.[@fm01-ja-deusdia, fm05-ja-deusdia, fm08-ja-deusdia]
+- **[[deusdea|Deusdia]]:** Yen Press prints it as a place: the gods are said to come from "another plane, Deusdia", "the heavenly plane of Deusdia".[@fm01-hestia, fm05-deusdia] In the Japanese originals *Deusdia* is the reading of {{ja|超越存在|chōetsu sonzai}}, *transcendent beings*: it names the gods themselves, who are *one dimension* apart from humans, demi-humans and monsters, while Tenkai is the place they came from.[@fm01-ja-deusdia, fm05-ja-deusdia, fm08-ja-deusdia]
 
 ## The descent {#descent}
 
-When the gods appeared all over Gekai, then "a world overrun with monsters", most told the people they had come "To be entertained". One, [[ouranos|Ouranos]], joined the people in building the "lid" over the Dungeon's hole.[@so02-descent] Many changes followed. Before the gods came, magic was the exclusive preserve of particular races; now anyone in a Familia can learn it.[@so01-descent, fm01-magic] Many gods appeared and created Familias in many places.[@fm02-babel]
+When the gods appeared all over Gekai, then "a world overrun with monsters", most told the people they had come "To be entertained". One, [[ouranos|Ouranos]], joined the people in building the "lid" over the Dungeon's hole.[@so02-descent] Many changes followed. Before the gods came, magic was the exclusive preserve of particular races; now anyone in a [[familia|Familia]] can learn it.[@so01-descent, fm01-magic] Many gods appeared and created Familias in many places.[@fm02-babel]
 
 {{nocite}} The prum goddess Phiana was not among those who descended (see [[races#prum|Races]]).
 

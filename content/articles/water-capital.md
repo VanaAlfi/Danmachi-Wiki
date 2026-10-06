@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The Dungeon's twenty-fifth to twenty-seventh floors: three vast caverns joined by a single waterfall, the Great Falls, each with a plunge pool as large as a lake. Hestia Familia's DanMachi 12 expedition reaches it, and in DanMachi 13–14 it is the scene of the hunt for Gale Wind, the Juggernaut and the Amphisbaena.",
-  "aliases": ["Water Capital of the Dungeon", "Great Falls", "twenty-fifth floor", "twenty-sixth floor", "twenty-seventh floor", "Floor 25", "Floor 26", "Floor 27", "Undine cloth", "Mari"],
+  "aliases": ["Water Capital of the Dungeon", "Great Falls", "twenty-fifth floor", "twenty-sixth floor", "twenty-seventh floor", "Floor 25", "Floor 26", "Floor 27", "Undine cloth"],
   "spoilers": "DanMachi Vols. 12–14 and 20",
   "related": ["dungeon", "floor-18", "amphisbaena", "juggernaut", "lyu-leon", "xenos", "modi-and-magni-familias", "olivas-act"],
   "infobox": {
@@ -18,7 +18,7 @@
       {"label": "Floors", "value": "25–27", "refs": ["fm13-region"]},
       {"label": "Layout", "value": "Three caverns linked by the Great Falls, each with a plunge pool", "refs": ["fm12-capital", "fm13-region"]},
       {"label": "Above", "value": "The Colossal Tree Labyrinth; reached from the twenty-fourth floor", "refs": ["fm12-tree", "fm12-entrance"]},
-      {"label": "Below", "value": "The Under Garden, a safe point on the twenty-eighth floor; then the Tangled Gorge, from the twenty-ninth", "refs": ["fm20-garden", "fm20-gorge"]},
+      {"label": "Below", "value": "The [[floor-28|Under Garden]], a safe point on the twenty-eighth floor; then the Tangled Gorge, from the twenty-ninth", "refs": ["fm20-garden", "fm20-gorge"]},
       {"label": "Floor boss", "value": "[[amphisbaena|Amphisbaena]], on the twenty-seventh floor", "refs": ["fm13-boss"]},
       {"label": "Gear", "value": "Undine cloth (spirit protective cloth)", "refs": ["fm12-undine"]}
     ]
@@ -32,7 +32,7 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 - **Three floors, one waterfall.** The three great caverns, linked across three floors by a single waterfall, are together called the Water Capital of the Dungeon.[@fm12-capital] The floors are multistory: to go down, adventurers descend the height of the Great Falls through connecting passages at the depth of the plunge pools.[@fm12-layout]
 - **Source of the falls.** The Great Falls pour out near the twenty-fifth floor's ceiling, where the roots of an enormous tree from the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]] above spread outward.[@fm12-tree]
 - **Arrival.** From the twenty-fourth floor, the connecting passage ends at a sheer cliff at the far southern tip of the twenty-fifth floor, with the cavern and the Great Falls in the centre.[@fm12-entrance]
-- **The bottom.** The end point of the falls is on the twenty-seventh floor, the lowest level of the Water Capital.[@fm13-region, fm13-depths] Below it, the twenty-eighth floor is the Under Garden, the second safe point after the Under Resort of [[floor-18|Floor 18]], used as a base for taking on the Tangled Gorge, which begins on the twenty-ninth floor.[@fm20-garden, fm20-gorge]
+- **The bottom.** The end point of the falls is on the twenty-seventh floor, the lowest level of the Water Capital.[@fm13-region, fm13-depths] Below it, the twenty-eighth floor is the [[floor-28|Under Garden]], the second [[safe-point|safe point]] after the Under Resort of [[floor-18|Floor 18]], used as a base for taking on the Tangled Gorge, which begins on the [[floors-29-31-and-32#floor-29|twenty-ninth floor]].[@fm20-garden, fm20-gorge]
 - **Monsters.** [[monsters#harpy|Harpies]] and other bird-type monsters fly around the falls; [[monsters#merman|mermen]], blue-scaled fish-men with nature weapons that Bell likens to "an underwater version of [[monsters#lizardman|lizardmen]]", appear from the twenty-sixth floor and are among the Water Capital's stronger enemies, and the [[monsters#kelpie|kelpie]] ranks among the region's strongest.[@fm12-entrance, fm13-lizardmen, fm14-kelpie] The floor boss [[amphisbaena|Amphisbaena]] appears on the twenty-seventh floor.[@fm13-boss]
 - **Gear.** Adventurers wear [[equipment#undine-cloth|Undine cloth]], a waterproof "spirit protective cloth" linked to water spirits; its protection works fully underwater, reducing water resistance and pressure. It is the counterpart of the [[equipment#salamander-wool|salamander wool]] worn against the fire of the thirteenth floor.[@fm12-undine]
 - **Few reach it.** Many fewer parties are able to get through the Water Capital and reach the twenty-eighth floor than reach the floors above.[@fm20-few]
@@ -42,7 +42,7 @@ The **Water Capital** is a region of the [[dungeon|Dungeon]] spanning the twenty
 | Volume | Events |
 |---|---|
 | DanMachi 14 (memory) | The Evils' Twenty-Seventh-Floor Nightmare took place on its lowest floor, the year before Astrea Familia's destruction; see [[olivas-act|Olivas Act]].[@fm14-nightmare] |
-| DanMachi 12 | [[hestia-familia|Hestia Familia]]'s expedition reaches it guided by Aisha. Bell meets the [[monsters#mermaid|mermaid]] Mari, one of the [[xenos|Xenos]], whose blood heals him, and the party rescues [[modi-and-magni-familias|Modi and Magni Familias]] from an enhanced [[monsters#moss-huge|moss huge]].[@fm12-capital, fm12-mari, fm12-mosshuge] |
+| DanMachi 12 | [[hestia-familia|Hestia Familia]]'s expedition reaches it guided by Aisha. Bell meets the [[monsters#mermaid|mermaid]] [[mari|Mari]], one of the [[xenos|Xenos]], whose blood heals him, and the party rescues [[modi-and-magni-familias|Modi and Magni Familias]] from an enhanced [[monsters#moss-huge|moss huge]].[@fm12-capital, fm12-mari, fm12-mosshuge] |
 | DanMachi 13 | Bors's hunting party comes down to catch Gale Wind ([[lyu-leon|Lyu]]); following Cassandra's prophecy, Aisha stays behind on the twenty-fifth floor while a chosen party goes on to the twenty-seventh, where they find a huge hole never seen before.[@fm13-region, fm13-depths, fm13-hole] |
 | DanMachi 13–14 | After the [[juggernaut|Juggernaut]]'s birth and a chain of explosions, the floor boss [[amphisbaena|Amphisbaena]] appears at the end of DanMachi 13, about two weeks before the Guild expected it, and in DanMachi 14 the labyrinth of the twenty-fifth floor collapses.[@fm14-irregular, fm14-early, fm14-collapse] While the Dungeon repairs the twenty-fifth floor, no new monsters spawn on any of the region's three floors.[@fm14-repair] |
 

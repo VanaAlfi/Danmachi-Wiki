@@ -10,10 +10,10 @@
   "spoilers": "DanMachi Vols. 19 and 20 and Sword Oratoria Vol. 13",
   "related": ["school-district", "leon-verdenberg", "nina-tulle", "lefiya", "bell-cranell", "eina-tulle", "guild"],
   "sections": [
-    {"anchor": "balder-class", "title": "Balder Class", "summary": "The School District class of the god Balder, captained by Leon Verdenberg, whose combat students form four-person squads, among them the elite 7th Squad and the 3rd Squad, the \"worst party\".", "aliases": ["Combat Studies", "Malik Alfort", "Mimi"], "former_slug": "balder-class"},
-    {"anchor": "third-squad", "title": "3rd Squad", "summary": "Balder Class's \"worst party\" of Level 2 problem students: Nina Tulle, the dwarf Iglin, the dark elf Legi and the prum Chris, joined by Bell as Rapi Flemish in DanMachi 19.", "aliases": ["Third Squad", "Worst party", "Iglin", "Legi", "Christia Elvia", "Chris"]},
+    {"anchor": "balder-class", "title": "Balder Class", "summary": "The School District class of the god Balder, captained by Leon Verdenberg, whose combat students form four-person squads, among them the elite 7th Squad and the 3rd Squad, the \"worst party\".", "aliases": ["Combat Studies", "Malik Alfort"], "former_slug": "balder-class"},
+    {"anchor": "third-squad", "title": "3rd Squad", "summary": "Balder Class's \"worst party\" of Level 2 problem students: Nina Tulle, the dwarf Iglin, the dark elf Legi and the prum Chris, joined by Bell as Rapi Flemish in DanMachi 19.", "aliases": ["Third Squad", "Worst party"]},
     {"anchor": "rapi-flemish", "title": "Rapi Flemish", "summary": "Bell Cranell's disguise as a hume bunny student of the School District in DanMachi 19, arranged by Hermes in exchange for watching over the 3rd Squad.", "aliases": ["Rapi"]},
-    {"anchor": "seventh-squad", "title": "7th Squad", "summary": "Balder Class's elite squad: the Level 3s Luke Fowl and Nano (Natalinoe Cladfield), the elf archer Miliria and the werewolf scout Cole, instructed by Lefiya in Sword Oratoria 13.", "aliases": ["Seventh Squad", "Natalinoe Cladfield", "Nano", "Luke Fowl", "Luke", "Miliria", "Cole"]},
+    {"anchor": "seventh-squad", "title": "7th Squad", "summary": "Balder Class's elite squad: the Level 3s Luke Fowl and Nano (Natalinoe Cladfield), the elf archer Miliria and the werewolf scout Cole, instructed by Lefiya in Sword Oratoria 13.", "aliases": ["Seventh Squad"]},
     {"anchor": "alisa-ragast", "title": "Alisa Ragast", "summary": "Balder Class's prefect, Lefiya's friend and former squadmate.", "aliases": []}
   ],
   "infobox": {
@@ -37,7 +37,7 @@
   }
 }
 ---
-**Balder** is a god and the principal and patron of [[school-district|the School District]].[@so13-balder] His own class, [[#balder-class|Balder Class]], includes the professor [[leon-verdenberg|Leon Verdenberg]] as its captain and the student [[nina-tulle|Nina Tulle]].[@so13-leon, fm20-nina]
+**Balder** is a god and the principal and [[patron-deity|patron]] of [[school-district|the School District]].[@so13-balder] His own class, [[#balder-class|Balder Class]], includes the professor [[leon-verdenberg|Leon Verdenberg]] as its captain and the student [[nina-tulle|Nina Tulle]].[@so13-leon, fm20-nina]
 
 ## History
 
@@ -48,11 +48,11 @@
 
 ## Balder Class {#balder-class}
 
-**Balder Class** is one of the classes of the [[school-district|School District]], under the god Balder. Its emblem is a light and a ship, and its captain is [[leon-verdenberg|Leon Verdenberg]].[@fm19-classes, fm19-emblem, so13-leon] [[lefiya|Lefiya]] and [[eina-tulle|Eina]] studied in it, and [[nina-tulle|Nina Tulle]] belongs to it.[@so13-lefiya, fm20-eina, fm20-nina]
+**Balder Class** is one of the classes of the [[school-district|School District]], under the god Balder. Its [[emblem|emblem]] is a light and a ship, and its captain is [[leon-verdenberg|Leon Verdenberg]].[@fm19-classes, fm19-emblem, so13-leon] [[lefiya|Lefiya]] and [[eina-tulle|Eina]] studied in it, and [[nina-tulle|Nina Tulle]] belongs to it.[@so13-lefiya, fm20-eina, fm20-nina]
 
 ### Classes and squads {#squads}
 
-The School District has as many classes as patron gods; DanMachi 19 counts ten, among them Balder, Idun and Bragi Classes.[@so13-classes, fm19-classes] Students who choose combat disciplines are put into four-person squads within their class. Gods and teachers form the squads from students they think fit well together. Sometimes they group badly unbalanced students in the hope that they will spark each other.[@so13-cells, so13-classes]
+The School District has as many classes as patron gods; DanMachi 19 counts ten, among them Balder, [[idun|Idun]] and Bragi Classes.[@so13-classes, fm19-classes] Students who choose combat disciplines are put into four-person squads within their class. Gods and teachers form the squads from students they think fit well together. Sometimes they group badly unbalanced students in the hope that they will spark each other.[@so13-cells, so13-classes]
 
 - **Prefects:** a class prefect represents the class and may discipline students; DanMachi 20 likens the post to an assistant teacher or, in Familia terms, a candidate for the Familia's cadre.[@fm20-prefect]
 - **Instructors:** Malik Alfort, a Level 5 Balder Class instructor, wins the mage contest of the [[orariad|Orariad]].[@fm20-malik]
@@ -63,10 +63,10 @@ The **3rd Squad** is known as the "worst party", "the absolute bottom of the bar
 
 | Member | Notes |
 |---|---|
-| [[nina-tulle|Nina Tulle]] | The half-elf who tries to hold the squad together, and its healer.[@fm19-joins, fm19-quarrel] |
-| Iglin | A dwarf of about 150 celches who acts like an aristocrat and wears a rose on his chest; Level 2.[@fm19-iglin, fm19-levels] |
-| Legi | A masked [[races#dark-elf|dark elf]] with dark skin and red hair, about 160 celches tall, who speaks oddly; Level 2.[@fm19-legi, fm19-levels] |
-| Chris | Christia Elvia, a confident prum boy who calls himself "A slumbering lion not yet known to the world"; Level 2.[@fm19-chris] |
+| [[nina-tulle|Nina Tulle]] | The half-elf who tries to hold the squad together, and its [[healer|healer]].[@fm19-joins, fm19-quarrel] |
+| [[iglin|Iglin]] | A dwarf of about 150 celches who acts like an aristocrat and wears a rose on his chest; Level 2.[@fm19-iglin, fm19-levels] |
+| [[legi|Legi]] | A masked [[races#dark-elf|dark elf]] with dark skin and red hair, about 160 celches tall, who speaks oddly; Level 2.[@fm19-legi, fm19-levels] |
+| [[christia-elvia|Chris]] | Christia Elvia, a confident prum boy who calls himself "A slumbering lion not yet known to the world"; Level 2.[@fm19-chris] |
 
 - **Rapi joins:** Leon assigns "Rapi" to the squad, over loud protests.[@fm19-joins] The School District had admitted Bell on condition that he watch over the 3rd Squad in the Dungeon.[@fm19-condition]
 - **The [[monsters#infant-dragon|infant dragon]]:** the squad reaches the seventh floor on its first day but is still stuck on the twelfth floor's infant dragon, a grade requirement, after three attempts. Its members fight alone and exhaust themselves.[@fm19-stuck] Following Rapi's lead as supporter, they work together and defeat it.[@fm19-dragon]
@@ -76,7 +76,7 @@ The **3rd Squad** is known as the "worst party", "the absolute bottom of the bar
 
 ### Rapi Flemish {#rapi-flemish}
 
-**Rapi Flemish** is the name under which [[bell-cranell|Bell]] enrols in the School District in DanMachi 19. He wears a brown wig with rabbit ears and a short fluffy tail, as a [[races#hume-bunny|hume bunny]]. His student ID makes him a Combat Studies student of Balder Class.[@fm19-disguise, fm19-student] Sword Oratoria 13 shows Lefiya passing him in the Guild courtyard without realising who he is.[@so13-rapi]
+**Rapi Flemish** is the name under which [[bell-cranell|Bell]] enrols in the School District in DanMachi 19. He wears a brown [[cursed-items|wig]] with rabbit ears and a short fluffy tail, as a [[races#hume-bunny|hume bunny]]. His student ID makes him a Combat Studies student of Balder Class.[@fm19-disguise, fm19-student] Sword Oratoria 13 shows Lefiya passing him in the Guild courtyard without realising who he is.[@so13-rapi]
 
 ### 7th Squad {#seventh-squad}
 
@@ -84,10 +84,10 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 
 | Member | Notes |
 |---|---|
-| Luke Fowl | An ashen-haired human boy, Level 3, the squad's leader and "the best student with a sword".[@so13-intro, so13-luke] |
-| Nano | Natalinoe Cladfield, a small human girl with strawberry-blond hair, Level 3, the squad's mage and Luke's childhood friend.[@so13-intro, so13-nano] |
-| Miliria | An elf archer who covers the middle of the formation; Nina calls her "Milly".[@so13-members, so13-roles, fm19-miliria] |
-| Cole | A werewolf, a knife-wielding scout, fifteen years old.[@so13-members, so13-roles, so13-cole] |
+| [[luke-fowl|Luke Fowl]] | An ashen-haired human boy, Level 3, the squad's leader and "the best student with a sword".[@so13-intro, so13-luke] |
+| [[natalinoe-cladfield|Nano]] | Natalinoe Cladfield, a small human girl with strawberry-blond hair, Level 3, the squad's mage and Luke's childhood friend.[@so13-intro, so13-nano] |
+| [[miliria|Miliria]] | An elf archer who covers the middle of the formation; Nina calls her "Milly".[@so13-members, so13-roles, fm19-miliria] |
+| [[cole|Cole]] | A werewolf, a knife-wielding scout, fifteen years old.[@so13-members, so13-roles, so13-cole] |
 
 - **In battle:** the squad's plan is to push in hard behind its two Level 3s, with Miliria and Cole in support.[@so13-plan]
 - **Lefiya's rebuke:** when Luke wants to go deeper than she allows, Lefiya tells him that Nano reached Level 3 only because she was "dragged along in your rashness".[@so13-rash, so13-rebuke]

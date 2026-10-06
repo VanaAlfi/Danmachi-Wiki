@@ -32,11 +32,11 @@
   }
 }
 ---
-**Ishtar Familia** was the Familia of the goddess [[ishtar|Ishtar]]: an influential Dungeon-prowling Familia, ranked A by the [[guild|Guild]], whose sphere of influence was [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]].[@fm07-eina] Most of its members were women, mainly Amazons, and its fighting core was the Berbera, led by the Level 5 captain [[phryne-jamil|Phryne Jamil]].[@fm07-eina] In DanMachi 7 [[freya-familia|Freya Familia]] attacked first and destroyed it; Ishtar was sent back to the heavens, and its members went on to other Familias.[@fm07-attack, fm07-epilogue, so08-drinks]
+**Ishtar Familia** was the Familia of the goddess [[ishtar|Ishtar]]: an influential Dungeon-prowling Familia, [[familia-rank|ranked A]] by the [[guild|Guild]], whose sphere of influence was [[orario|Orario]]'s [[pleasure-quarter|Pleasure Quarter]].[@fm07-eina] Most of its members were women, mainly Amazons, and its fighting core was the Berbera, led by the Level 5 captain [[phryne-jamil|Phryne Jamil]].[@fm07-eina] In DanMachi 7 [[freya-familia|Freya Familia]] attacked first and destroyed it; Ishtar was sent back to the heavens, and its members went on to other Familias.[@fm07-attack, fm07-epilogue, so08-drinks]
 
 ## Organisation
 
-[[eina-tulle|Eina]] tells [[bell-cranell|Bell]] that Ishtar Familia earned a great deal in the Dungeon by day, while its brothels in the third district were said to bring in over 40 percent of the whole Pleasure Quarter's income. About 90 percent of its members were women, most of them Amazons.[@fm07-eina] Its home was the palace Belit Babili, and when Phryne makes off with Bell the search draws in the whole Familia: animal people, elves and noncombatants, adventurers and prostitutes alike.[@fm07-search] Ishtar's leading Amazons meet in a room on the twentieth floor of the home.[@fm07-meeting] [[haruhime|Haruhime]] is not on the Guild's roster, and Eina guesses she is a noncombatant without a Blessing.[@fm07-eina]
+[[eina-tulle|Eina]] tells [[bell-cranell|Bell]] that Ishtar Familia earned a great deal in the Dungeon by day, while its brothels in the [[third-district|third district]] were said to bring in over 40 percent of the whole Pleasure Quarter's income. About 90 percent of its members were women, most of them Amazons.[@fm07-eina] Its home was the palace Belit Babili, and when Phryne makes off with Bell the search draws in the whole Familia: animal people, elves and noncombatants, adventurers and prostitutes alike.[@fm07-search] Ishtar's leading Amazons meet in a room on the twentieth floor of the home.[@fm07-meeting] [[haruhime|Haruhime]] is not on the Guild's roster, and Eina guesses she is a noncombatant without a Blessing.[@fm07-eina]
 
 Ishtar kept a ring of handsome male servants around her, Tammuz chief among them.[@fm07-servants] Her Charm weighed on her followers: [[aisha-belka|Aisha]] could never have rebelled against her goddess anyway, though she kept her own will.[@fm07-charm] DanMachi 18 sets Samira, who took part in the Killing Stone ritual willingly, against Aisha, who could not resist the Charm, and [[lena-tully|Lena]] and others, who were threatened.[@fm18-samira]
 
@@ -65,7 +65,7 @@ After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's 
 | DanMachi 7 | Ishtar orders Bell captured to strike at [[freya|Freya]].[@fm07-meeting] Phryne abducts him against her orders.[@fm07-search] The Familia prepares the Killing Stone ritual on the Floating Garden.[@fm07-ritual] Freya Familia attacks first, and its elite sets out to incapacitate the Familia's fighters.[@fm07-attack] Aisha tells Lena to lead the others out, since the Familia is "as good as dead".[@fm07-lena] Ishtar is sent back to the heavens. With her Status sealed, Aisha leaves to find a new Familia.[@fm07-epilogue] |
 | Sword Oratoria 6 | At Port Meren Ishtar brings Phryne and the Berbera to meet [[kali-familia|Kali Familia]]. She agrees to let them fight [[loki-familia|Loki Familia]], but will pull her girls out if the fight goes badly.[@so06-meren] After Phryne's defeat Aisha orders the Berbera to retreat.[@so06-retreat] |
 | Sword Oratoria 7 | Tammuz is at Ishtar's side in [[knossos|Knossos]] as she watches the spirit there crush Loki Familia.[@so07-tammuz] |
-| Sword Oratoria 8 | Assassins of Sekhmet Familia hunt down Amazons, most of them former members. [[finn-deimne|Finn]] concludes that the Evils are silencing them to keep Loki Familia from finding Ishtar's key to Knossos.[@so08-hunt, so08-sekhmet, so08-victims] Amid's anti-curse [[potions#elixir|elixir]] saves many of the victims, but not all.[@so08-graves] |
+| Sword Oratoria 8 | Assassins of [[minor-familias#sekhmet-familia|Sekhmet Familia]] hunt down Amazons, most of them former members. [[finn-deimne|Finn]] concludes that the Evils are silencing them to keep Loki Familia from finding Ishtar's key to Knossos.[@so08-hunt, so08-sekhmet, so08-victims] Amid's anti-curse [[potions#elixir|elixir]] saves many of the victims, but not all.[@so08-graves] |
 | Sword Oratoria 9 | Freya questions Tammuz about Ishtar's plans and keeps the key he brought with him.[@so09-tammuz] |
 | Sword Oratoria 12 | Aisha and the Berbera join the battle for Knossos, where they guard Haruhime. When Samira howls, the Berbera who had been held back charge.[@so12-join, so12-guard, so12-charge] |
 | DanMachi 18 | In the war game against Freya Familia, Aisha and the former Ishtar Amazons hold the left wing, while Samira commands the reserves around Haruhime.[@fm18-left, fm18-reserves] |
@@ -73,7 +73,7 @@ After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's 
 | Minor Myths and Legends 1 | Aisha is out on the prowl with Samira and her colleagues from the old Ishtar Familia when they spot Bell on a date.[@ss01-berbera] |
 
 > [!NOTE] Where the Berbera went
-> Sword Oratoria 8 says the former members "all converted to different familias". In DanMachi 18, Samira and the remaining Berbera are counted among the followers of the goddess Hathor.[@so08-drinks, fm18-reserves, fm18-hathor]
+> Sword Oratoria 8 says the former members "all converted to different familias". In DanMachi 18, Samira and the remaining Berbera are counted among the followers of the goddess [[hathor|Hathor]].[@so08-drinks, fm18-reserves, fm18-hathor]
 
 ## Samira {#samira}
 

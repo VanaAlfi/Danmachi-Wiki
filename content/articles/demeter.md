@@ -31,7 +31,7 @@ Demeter heads [[demeter-familia|Demeter Familia]], a farming and commerce Famili
 
 ## The goddess
 
-[[hestia|Hestia]] greets her in a bathhouse in DanMachi 2 with "it's been a long time!"[@fm02-baths] She is one of the harvest goddesses honoured at the [[elegia#goddess-festival|Goddess Festival]] in DanMachi 16, with Damia, Hathor and [[freya|Freya]], and the festival is opened every year by her proclamation.[@fm16-festival] In DanMachi 18 Hestia is told that Demeter will not help against [[freya|Freya]]: her Familia is exhausted, and she gets along with Freya.[@fm18-freya] {{statement}} Before the Familia War, a waitress of the Benevolent Mistress tells [[anya-fromel|Anya]]: "We begged Lord Njǫrðr and Lady Demeter." (see [[njordr|Njörðr]])[@fm18-waitresses] During the war Demeter comes with Astrea and Njörðr to Freya's island.[@fm18-island]
+[[hestia|Hestia]] greets her in a bathhouse in DanMachi 2 with "it's been a long time!"[@fm02-baths] She is one of the harvest goddesses honoured at the [[elegia#goddess-festival|Goddess Festival]] in DanMachi 16, with Damia, [[hathor|Hathor]] and [[freya|Freya]], and the festival is opened every year by her proclamation.[@fm16-festival] In DanMachi 18 Hestia is told that Demeter will not help against [[freya|Freya]]: her Familia is exhausted, and she gets along with Freya.[@fm18-freya] {{statement}} Before the Familia War, a waitress of the Benevolent Mistress tells [[anya-fromel|Anya]]: "We begged Lord Njǫrðr and Lady Demeter." (see [[njordr|Njörðr]])[@fm18-waitresses] During the war Demeter comes with Astrea and Njörðr to Freya's island.[@fm18-island]
 
 ## Enyo's scapegoat
 

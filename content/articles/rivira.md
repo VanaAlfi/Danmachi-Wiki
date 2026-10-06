@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Adventurer-run town on Floor 18 of the Dungeon, called the deepest town in the world; destroyed and rebuilt many times.",
-  "aliases": ["Rogue Town", "Willy's Inn", "Willy", "Villy"],
+  "aliases": ["Rogue Town", "Willy's Inn"],
   "spoilers": "DanMachi Vols. 5–19, Sword Oratoria Vols. 2, 3 and 5, and Minor Myths and Legends Vol. 1",
   "sections": [
     {"anchor": "crystal-square", "title": "Crystal Square", "summary": "The centre of Rivira on Floor 18, named for its twin white and blue crystals, with a large sand dial showing the floor's remaining daylight.", "aliases": []}
@@ -31,9 +31,9 @@
 
 ## The town
 
-Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's emblem for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town ({{ja|ならず者達の街}}, written *town of ruffians*)[@so05-rogue-ja] and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
+Businesses in Rivira trade by exchange and charge very high prices, and adventurers use their Familia's [[emblem|emblem]] for identity and credit. The [[guild|Guild]] once tried to run the town, but the attempt ended.[@fm05-rivira] Sword Oratoria 5 calls it Rogue Town ({{ja|ならず者達の街}}, written *town of ruffians*)[@so05-rogue-ja] and confirms the steep prices of antivenin and basic supplies.[@so05-rogue]
 
-Its strongest resident is [[bors|Bors]], a one-eyed adventurer who owns the Rivira [[the-exchange#rivira|Exchange]].[@fm05-bors] Willy's Inn is "a cheap hotel built into a cave", one of the town's nicer places for the price; its owner, Willy, is an animal person with messy hair and "Stripes of red war paint" on his cheeks. In Sword Oratoria 2 [[hashana|Hashana]]'s body is found there.[@fm13-willy, so02-willy] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
+Its strongest resident is [[bors|Bors]], a one-eyed adventurer who owns the Rivira [[the-exchange#rivira|Exchange]].[@fm05-bors] Willy's Inn is "a cheap hotel built into a cave", one of the town's nicer places for the price; its owner, [[willy|Willy]], is an animal person with messy hair and "Stripes of red war paint" on his cheeks. In Sword Oratoria 2 [[hashana|Hashana]]'s body is found there.[@fm13-willy, so02-willy] Illegal goods pass through the town: the Status Snitch that [[freya|Freya]] uses on [[bell-cranell|Bell]] in DanMachi 17 comes from Rivira.[@fm17-snitch]
 
 ### Crystal Square {#crystal-square}
 

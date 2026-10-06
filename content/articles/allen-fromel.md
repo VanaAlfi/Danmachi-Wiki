@@ -45,7 +45,7 @@ In Astrea Record 2, during the [[great-conflict|Great Conflict]], Allen is Level
 
 | Volume | Events |
 |---|---|
-| Familia Chronicle 2 | Among Freya's followers in Ali's war; he kills the Level 4 curse-caster Seal despite being trapped in an illusion that shows him his sister.[@fc02-seal] |
+| Familia Chronicle 2 | Among Freya's followers in Ali's war; he kills the Level 4 [[hexers|curse-caster]] Seal despite being trapped in an illusion that shows him his sister.[@fc02-seal] |
 | Minor Myths and Legends 2 | Obtains [[syr-flover|Syr]]'s invitation to the casino, then secretly guards her inside.[@ss02-invite] |
 | Sword Oratoria 4 | Warns [[aiz-wallenstein|Aiz]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]], alongside the Bringar.[@so04-allen] |
 | DanMachi 8 | While guarding Syr he kills a [[monsters#barbarian|barbarian]] with a silver javelin. Bell recognises his voice as that of a cat person who attacked him in the street during his training with Aiz, and connects him with Freya Familia.[@fm08-barbarian, fm08-allen] |

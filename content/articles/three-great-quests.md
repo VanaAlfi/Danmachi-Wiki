@@ -39,7 +39,7 @@ DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ru
 
 ## The Black Dragon
 
-The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Quests.[@so07-dragon] In DanMachi 20 Leon tells of an ancient hero who took its eye and drove it from the western lands, and of a great spirit who gave up its own body to seal it in the [[valley-of-dragons|Valley of Dragons]]. The sleeping Black Dragon's snore sometimes opens a way for other dragons to escape.[@fm20-valley] On the Bridge of Heroes, an empty place opposite the hero Albert waits for the final hero who will defeat the Black Dragon.[@fm16-bridge] In the [[beor-mountains|Beor Mountains]], [[edas-village|Edas Village]] keeps and reveres scales it says the Black Dragon shed as it fled north after heroes drove it out of Orario; monsters fear them and stay away.[@fm08-scales]
+The Black Dragon, also called the One-Eyed Dragon, is the last of the Great Quests.[@so07-dragon] In DanMachi 20 Leon tells of an ancient hero who took its eye and drove it from the western lands, and of a great spirit who gave up its own body to seal it in the [[valley-of-dragons|Valley of Dragons]]. The sleeping Black Dragon's snore sometimes opens a way for other dragons to escape.[@fm20-valley] On the Bridge of Heroes, an empty place opposite the hero [[albert|Albert]] waits for the final hero who will defeat the Black Dragon.[@fm16-bridge] In the [[beor-mountains|Beor Mountains]], [[edas-village|Edas Village]] keeps and reveres scales it says the Black Dragon shed as it fled north after heroes drove it out of Orario; monsters fear them and stay away.[@fm08-scales]
 
 ## Preparations in the covered volumes
 

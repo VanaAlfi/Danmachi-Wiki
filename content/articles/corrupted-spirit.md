@@ -22,7 +22,7 @@
       {"label": "Japanese", "value": "{{ja|穢れた精霊}}", "refs": ["so12-corrupted-spirit-ja"]},
       {"label": "Origin", "value": "A spirit of the Ancient Times that went into the Dungeon and was consumed by a monster", "refs": ["so04-ouranos", "so06-her"]},
       {"label": "Called", "value": "\"Her\" by the creatures", "refs": ["so03-olivas", "so06-her"]},
-      {"label": "Main body", "value": "Probably beyond Floor 60 (Ouranos's inference)", "refs": ["so04-main"]},
+      {"label": "Main body", "value": "Probably on Floor 60 or below (Ouranos's inference)", "refs": ["so04-main"]},
       {"label": "Agents", "value": "Creatures such as [[levis|Levis]], [[olivas-act|Olivas]] and [[filvis|Filvis]]; colourful monsters such as violas and caterpillars", "refs": ["so04-tentacles", "so04-creatures", "so12-feelers"]},
       {"section": "Demi-spirits"},
       {"label": "Nature", "value": "Half-spirit, half-monster hybrids grown from crystal-orb fetuses", "refs": ["so05-demi", "so04-finn"]},
@@ -44,7 +44,7 @@ Watching Floor 59 through Fels's eye on Aiz's loin guard, [[ouranos|Ouranos]] ta
 
 [[olivas-act|Olivas Act]] tells Loki Familia on Floor 24 that She wants to see the sky, and that the city blocking her view from underground must be destroyed.[@so03-olivas] In the [[guild#chamber-of-prayers|Chamber of Prayers]], Fels and Ouranos take the hybrid creatures to be a result of the corrupted spirit as well.[@so04-creatures] In Sword Oratoria 12 [[filvis|Filvis]] explains that a fragment of it was on Floor 27 on the day of the Twenty-Seventh-Floor Nightmare, drawn by the smell of blood and looking for new feelers among the adventurers there.[@so12-feelers]
 
-Its colourful monsters, the caterpillars and the [[monsters#violas|violas]], attack other monsters to collect [[magic-stone|magic stones]] for it. Finn calls them its "tentacles".[@so04-tentacles, so06-her] Loki explains in Sword Oratoria 6 that the violas prefer other monsters' magic stones even to human flesh.[@so06-dust] From the transformed terrain of Floor 59, and the tentacles that came up from far below to protect the demi-spirit, Ouranos concludes that the spirit's true form lies much deeper, on the sixtieth floor or below.[@so04-main]
+Its colourful monsters, the caterpillars and the [[monsters#violas|violas]], attack other monsters to collect [[magic-stone|magic stones]] for it. Finn calls them its "tentacles".[@so04-tentacles, so06-her] Loki explains in Sword Oratoria 6 that the violas prefer other monsters' magic stones even to human flesh.[@so06-dust] From the transformed terrain of Floor 59, and the tentacles that came up from far below to protect the demi-spirit, Ouranos concludes that the spirit's true form lies much deeper, on the [[floor-60|sixtieth floor]] or below.[@so04-main]
 
 ## Crystal orbs and seeds
 

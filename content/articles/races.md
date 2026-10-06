@@ -70,7 +70,7 @@ The DanMachi novels describe many peoples. [[orario|Orario]] is home not only to
 
 DanMachi 8 sets out the rule while [[finn-deimne|Finn]] explains why his heir must be a full-blooded prum: "All the races of demi-humans can reproduce only with themselves."[@fm08-children] Pairs such as an elf and a dwarf, or an animal person and a prum, have no children, and spirits cannot have offspring at all. The exceptions are humans, who can interbreed with demi-humans, and Amazons, whose children are always Amazon daughters.[@fm08-children] DanMachi 7 adds that "Half-Amazons don't exist."[@fm07-amazons]
 
-- **Halfs:** each mixed race named in the text has one human parent. [[eina-tulle|Eina Tulle]] is half human and half elf, [[tsubaki|Tsubaki Collbrande]] is the child of a human and a dwarf, and Van of [[freya-familia|Freya Familia]] is the child of a prum and a human.[@fm02-eina, so04-tsubaki, fm16-van]
+- **Halfs:** each mixed race named in the text has one human parent. [[eina-tulle|Eina Tulle]] is half human and half elf, [[tsubaki|Tsubaki Collbrande]] is the child of a human and a dwarf, and [[van|Van]] of [[freya-familia|Freya Familia]] is the child of a prum and a human.[@fm02-eina, so04-tsubaki, fm16-van]
 - **Inherited traits:** in the School District's Racial History class, [[nina-tulle|Nina]] teaches dominant traits. A child of two half-dwarves is a human (one chance in four), a half-dwarf (one in two) or a dwarf (one in four).[@fm20-traits] [[leon-verdenberg|Leon Verdenberg]], born to half-dwarf parents, is a dwarf with a human's height and long limbs; the dwarves of his home village shunned him for it.[@fm20-traits, fm20-leon]
 - **Prejudice:** Van grew up mocked for his height, and had heard that mixed-race children were discriminated against "much more before the era of gods".[@fm16-van] Finn says that a half-prum heir could not be the symbol of the prums' hope.[@fm08-children]
 - **Edas Village:** in [[edas-village|Edas Village]], home to many races, "the unusually high percentage of halfs was noticeable".[@so09-halfs]
@@ -90,8 +90,8 @@ When Bell looks for a Familia, he has heard that humans and prums compare poorly
 | [[#human|Human]] | human | Human | [[bell-cranell|Bell Cranell]], [[runoa|Runoa Faust]], [[narfi|Narfi]][@fm01-bell, fm08-runoa, so08-narfi] |
 | [[#elf|Elf]] | elf, elves; fairy | Demi-human | [[lyu-leon|Lyu Leon]], [[lefiya|Lefiya Viridis]], [[filvis|Filvis Challia]][@fm06-lyu, so01-lefiya, so02-filvis] |
 | [[#high-elf|High elf]] | high elf | Elf | [[riveria|Riveria Ljos Alf]][@so01-riveria] |
-| [[#white-elf|White elf]] | white elf | Elf | [[hedin|Hedin Selrand]], Dina Dis[@fc02-hedin, ar01-dis] |
-| [[#dark-elf|Dark elf]] | dark elf; dark high elf | Elf | [[hegni|Hegni Ragnar]], Vena Dis, Legi[@fc02-hegni, ar01-dis, fm19-legi] |
+| [[#white-elf|White elf]] | white elf | Elf | [[hedin|Hedin Selrand]], [[dis-sisters#dina-dis|Dina Dis]][@fc02-hedin, ar01-dis] |
+| [[#dark-elf|Dark elf]] | dark elf; dark high elf | Elf | [[hegni|Hegni Ragnar]], Vena Dis, [[legi|Legi]][@fc02-hegni, ar01-dis, fm19-legi] |
 | [[#half-elf|Half-elf]] | half-elf | Mixed | [[eina-tulle|Eina Tulle]], [[nina-tulle|Nina Tulle]][@fm02-eina, fm19-nina] |
 | [[#dwarf|Dwarf]] | dwarf, dwarves | Demi-human | [[gareth|Gareth Landrock]], [[mia-grand|Mia Grand]], [[leon-verdenberg|Leon Verdenberg]][@so01-gareth, fc01-mia, fm20-traits] |
 | [[#half-dwarf|Half-dwarf]] | half-dwarf | Mixed | [[tsubaki|Tsubaki Collbrande]][@so04-tsubaki] |
@@ -132,7 +132,7 @@ When Bell looks for a Familia, he has heard that humans and prums compare poorly
 
 #### High elf {#high-elf}
 
-**High elves** ({{ja|王族}}, written *royalty*)[@high-elf.so14-ja] are elven royalty. Riveria is a high elf because "royal blood flowed through her veins".[@so01-riveria] Her name Alf means "primogenitor of elves", and her home, the Alf Royal Woods, is an elven holy land on a par with the Alv Mountains.[@so14-alf] In Sword Oratoria 2 an elf hands his bow to Riveria at once, obeying her voice without condition.[@so02-order] High elves live even longer than other elves and have even fewer children, which is why Riveria's father would not let her leave.[@so14-fruitful]
+**High elves** ({{ja|王族}}, written *royalty*)[@high-elf.so14-ja] are elven royalty. Riveria is a high elf because "royal blood flowed through her veins".[@so01-riveria] Her name Alf means "primogenitor of elves", and her home, the Alf Royal Woods, is an elven holy land on a par with the [[alv-mountains|Alv Mountains]].[@so14-alf] In Sword Oratoria 2 an elf hands his bow to Riveria at once, obeying her voice without condition.[@so02-order] High elves live even longer than other elves and have even fewer children, which is why Riveria's father would not let her leave.[@so14-fruitful]
 
 - **Example:** [[riveria|Riveria Ljos Alf]].[@so01-riveria]
 
@@ -146,7 +146,7 @@ The **white elves** are "the lineage considered normal elves in current times". 
 
 **Dark elves** differ from white elves in "magic and magical ability and skin color". They were rare in the age of the gods because they lost so many of their people defending the Alv Mountains when monsters poured out over the land in the Ancient Times.[@fc02-alv, so12-rare] They cursed the white elves as cowards, and some dreamed of the day "the dark high elf, whose lineage was said to have continued", would lead them again.[@fc02-alv]
 
-- **Heodenings:** on this forested island, dark and white elves fought for generations, and [[hegni|Hegni]] was made the dark elves' warrior king. [[hedin|Hedin]] descends from Hildr, a dark-elf healer given over during a truce, but inherited the white elves' traits most strongly.[@fc02-hegni, fc02-hedin]
+- **Heodenings:** on this forested island, dark and white elves fought for generations, and [[hegni|Hegni]] was made the dark elves' warrior king. [[hedin|Hedin]] descends from Hildr, a dark-elf [[healer|healer]] given over during a truce, but inherited the white elves' traits most strongly.[@fc02-hegni, fc02-hedin]
 - **Legi:** a dark-elf student in DanMachi 19 who is waiting for "a high elf. A dark one."[@fm19-legi, fm19-dream]
 - **Examples:** [[hegni|Hegni Ragnar]]; Vena Dis, Dina's sister, whom Hegni will not count as one of his own race; and Legi of the School District.[@fc02-hegni, ar01-dis, fm19-legi, fm20-squad]
 
@@ -255,7 +255,7 @@ A **cow** ({{ja|牛人}}, written *cow person*)[@cow.fm19-ja] is named once, amo
 
 {{nocite}} See [[falna|Falna]] for the gods' blessing and the deity pages for individual gods.
 
-**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a *Deusdia* or transcendent being, one dimension apart from humans, demi-humans and monsters, and will not age as mortals do; the word is explained under [[tenkai-and-gekai#names|Tenkai and Gekai]].[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for creating the elves, a superficial race unable to accept others.[@fm15-created]
+**Gods and goddesses** are not mortal: Bell says that [[hestia|Hestia]] is a god, a *[[deusdea|Deusdia]]* or transcendent being, one dimension apart from humans, demi-humans and monsters, and will not age as mortals do; the word is explained under [[tenkai-and-gekai#names|Tenkai and Gekai]].[@fm01-goddess, fm01-ja-deusdia] They descended to the mortal world about a thousand years ago; the Ancient Times ended and the Divine Era began.[@so07-divine, fm08-phiana] Every human or demi-human who has received a god's Blessing carries the gods' hieroglyphs on their back.[@so01-blessing] Mortals believe the gods created the humans and demi-humans; Lyu blames them for creating the elves, a superficial race unable to accept others.[@fm15-created]
 
 ### Spirits {#spirit}
 

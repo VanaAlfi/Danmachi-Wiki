@@ -51,7 +51,7 @@ Familia Chronicle 3 adds that she travelled alone with Astrea before the two set
 
 ### Founding the Familia
 
-Astrea counts among her happiest days, before anyone else joined, "the day you and I decided to start a family".[@ar02-astrea] Alize recalls the order: she came first, then Kaguya joined, then Lyra.[@fc03-moment] [[gojouno-kaguya|Gojouno Kaguya]] and [[lyra|Lyra]] had been with her "since the very beginning", and she respected their opinions more than anyone else's.[@ar02-noanswer] Kaguya became her deputy captain (second-in-command) and Lyra the Familia's strategist.[@ar02-deputies, fc03-moment] Cecille, one of Astrea's later followers, calls Alize "Astrea Familia's first captain".[@fc03-flame]
+Astrea counts among her happiest days, before anyone else joined, "the day you and I decided to start a family".[@ar02-astrea] Alize recalls the order: she came first, then Kaguya joined, then Lyra.[@fc03-moment] [[gojouno-kaguya|Gojouno Kaguya]] and [[lyra|Lyra]] had been with her "since the very beginning", and she respected their opinions more than anyone else's.[@ar02-noanswer] Kaguya became her deputy captain (second-in-command) and Lyra the Familia's strategist.[@ar02-deputies, fc03-moment] [[cecille-blackliza|Cecille]], one of Astrea's later followers, calls Alize "Astrea Familia's first captain".[@fc03-flame]
 
 When Alize brings Lyu home, Kaguya and Lyra greet them, one asking whether she has brought in "another one of your strays". Alize tells Lyu there are ten of them and announces proudly that she is the captain.[@fm15-home] She later reminds the others of their early poverty, when a lost Dungeon run left them feeding Astrea herb soup for seven days.[@ar02-poverty]
 

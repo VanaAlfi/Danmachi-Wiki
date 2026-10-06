@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The god Ikelos's Familia of monster hunters and smugglers, led in the field by Dix Perdix. From a base inside Knossos it captures and sells Xenos until DanMachi 10, when it is wiped out, Dix is killed and Ikelos is exiled from Orario.",
-  "aliases": ["Dix", "Dix Perdix", "Hazer", "Gran"],
+  "aliases": ["Dix", "Dix Perdix", "Hazer"],
   "sections": [
     {"anchor": "dix-perdix", "title": "Dix Perdix", "summary": "Goggle-wearing leader of Ikelos Familia's hunters, addressed as Hazer; Barca Perdix's half-brother, killed in DanMachi 10.", "aliases": ["Dix", "Hazer"]}
   ],
@@ -38,13 +38,13 @@ Ikelos is a god with brown skin and navy-blue hair.[@fm10-exile] When [[hermes|H
 
 Dix Perdix is the goggle-wearing leader of the hunters, with red eyes and a wickedly curved red spear.[@fm09-hunters, fm10-dix, fm10-spear]
 
-Among his hunters is Gran, a tall, muscular, bald man with a black tattoo over most of his face. In DanMachi 10 he kills Orde with one flash of his greatsword, yet cowers at a single angry word from Dix; later he reports to Dix the monsters that swept through the eighteenth floor and Orario's state of emergency.[@fm10-gran, fm10-gran-news]
+Among his hunters is [[gran|Gran]], a tall, muscular, bald man with a black tattoo over most of his face. In DanMachi 10 he kills Orde with one flash of his greatsword, yet cowers at a single angry word from Dix; later he reports to Dix the monsters that swept through the eighteenth floor and Orario's state of emergency.[@fm10-gran, fm10-gran-news]
 
 - **Level:** [[asfi|Asfi]] says he was already a second-tier Level 4 ten years earlier; in the fight with [[bell-cranell|Bell]] he says "I'm Level Five".[@fm10-dix, fm10-level]
 - **Title:** [[fels|Fels]] addresses him as "Hazer, Dix Perdix".[@fm10-hazer]
 - **Curse:** his magic, the confusion curse [[magic#phobetor-daedalus|Phobetor Daedalus]], sends everyone it touches into a mindless rampage and lowers his own Status while it lasts.[@fm10-level]
 - **The spear:** custom-made by a mage with a curse built in, so that what it cuts will not heal, even with potions or magic, while the curse lasts. He warns Bell that one bad hit will kill him.[@fm10-spear]
-- **Daedalus's heir:** he is one of Daedalus's descendants, whose ancestors spent a thousand years building Knossos without the Guild finding out. His "Daedalus Eye" lets him move anywhere in the labyrinth, and he was forced to read the blueprints in the Daedalus Notebook.[@fm10-daedalus, fm10-eye]
+- **Daedalus's heir:** he is one of [[daedalus|Daedalus]]'s descendants, whose ancestors spent a thousand years building Knossos without the Guild finding out. His "Daedalus Eye" lets him move anywhere in the labyrinth, and he was forced to read the blueprints in the Daedalus Notebook.[@fm10-daedalus, fm10-eye]
 - **His half-brother:** [[barca-perdix|Barca Perdix]], the "Hexer" who builds Knossos's traps, shares his mother but not his father. Barca had become "nothing more than a function" for expanding the labyrinth; Dix was shown the notebook only after he had a self of his own, suffered for it, and despised Knossos. Their only fraternal feeling was not trying to kill each other, for their mutual benefit.[@so07-barca, so11-brothers]
 - **Origin:** Ikelos tells [[hermes|Hermes]] that Daedalus "went a bit off the deep end after seeing the Dungeon" and left his notebook and blueprint to his descendants, who "did whatever it took to complete their dungeon", even "kidnapping women to make sure there would always be someone working on their piece". Dix was born from one such abductee; Ikelos calls it "Cursed blood…as Dix puts it."[@fm10-origin]
 - **Character:** he laughs as he fights, and in DanMachi 10 he toys with Bell, "smacking him around for fun with a smile". Ikelos tells him,"You better make me laugh this time as well, Dix." When Fels asks his hunters why they follow him, one answers that "it’s fun as hell" and that Dix brings them "all the money and women we could ever want": "Monsters are nothing but toys!"[@fm10-toying, fm09-laugh]

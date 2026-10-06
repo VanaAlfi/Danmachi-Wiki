@@ -31,7 +31,7 @@ Barrier devices made by [[school-district|the School District]] stand around the
 
 ## Attacks
 
-Dragon attacks from beyond the School District's barrier are increasing in DanMachi 19.[@fm19-attacks] In Sword Oratoria 13 the student Luke of the [[balder#seventh-squad|7th Squad]] points to the valley, where more and more vicious dragons appear, as he argues that the world's suffering is growing; and [[alicia-forestlight|Alicia Forestlight]] of Loki Familia, whose village lies in the north not far from the valley, tells School District students that she became an adventurer to destroy the dragons that threatened her people's homes and forests.[@so13-valley]
+Dragon attacks from beyond the School District's barrier are increasing in DanMachi 19.[@fm19-attacks] In Sword Oratoria 13 the student [[luke-fowl|Luke]] of the [[balder#seventh-squad|7th Squad]] points to the valley, where more and more vicious dragons appear, as he argues that the world's suffering is growing; and [[alicia-forestlight|Alicia Forestlight]] of Loki Familia, whose village lies in the north not far from the valley, tells School District students that she became an adventurer to destroy the dragons that threatened her people's homes and forests.[@so13-valley]
 
 ## Open questions
 

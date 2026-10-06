@@ -24,7 +24,7 @@
   }
 }
 ---
-**Cassandra Illion** is a healer and former third-tier adventurer of [[apollo|Apollo]]'s Familia who, with her friend [[daphne|Daphne Laulos]], joins [[miach-familia|Miach Familia]].[@fm06-intro, fm08-join] She has prophetic dreams that foretell disasters, but almost no one believes her warnings; the narration says it was "like she was cursed".[@fm13-dreams, fm13-curse]
+**Cassandra Illion** is a [[healer|healer]] and former third-tier adventurer of [[apollo|Apollo]]'s Familia who, with her friend [[daphne|Daphne Laulos]], joins [[miach-familia|Miach Familia]].[@fm06-intro, fm08-join] She has prophetic dreams that foretell disasters, but almost no one believes her warnings; the narration says it was "like she was cursed".[@fm13-dreams, fm13-curse]
 
 ## Apollo Familia
 
@@ -51,7 +51,7 @@ In DanMachi 14 she realises she has misread one verse: the "reviving sun" is not
 
 ## Level 3 and the Great Familia War
 
-Cassandra and Daphne both reach Level 3 on that expedition; [[miach-familia#nahza-ersuisu|Nahza]], their captain, notes that Miach Familia now has two Level 3s.[@fm15-level] In the Great Familia War of DanMachi 18 she is the healer on the coalition's right wing, helping fighters recover countless times, until [[hegni|Hegni]] breaks the wing and she heals Daphne with all her remaining Mind.[@fm18-wing, fm18-daphne]
+Cassandra and Daphne both reach Level 3 on that expedition; [[miach-familia#nahza-ersuisu|Nahza]], their captain, notes that Miach Familia now has two Level 3s.[@fm15-level] In the Great Familia War of DanMachi 18 she is the healer on the [[familia-coalition|coalition]]'s right wing, helping fighters recover countless times, until [[hegni|Hegni]] breaks the wing and she heals Daphne with all her remaining Mind.[@fm18-wing, fm18-daphne]
 
 ## Status sheet
 
@@ -86,7 +86,7 @@ Only one line is printed, in DanMachi 12, before the name: "Oh sunlight, may you
 #### Limits {#soul-light-limits}
 
 - **Parasitic ivy:** in DanMachi 12 it cannot remove the ivy tormenting Chigusa and [[modi-and-magni-familias#luvis-lilix|Luvis]]; the healing light even spurs the ivy's growth.[@soul-light.fm12-ivy]
-- **Cursed wounds:** in DanMachi 18 it cannot fully close Daphne's wounds, because [[hegni|Hegni]]'s cursed sword obstructs healing.[@soul-light.fm18-daphne]
+- **Cursed wounds:** in DanMachi 18 it cannot fully close Daphne's wounds, because [[hegni|Hegni]]'s [[cursed-weapons|cursed sword]] obstructs healing.[@soul-light.fm18-daphne]
 
 {{nocite}} Notable uses and open questions for Soul Light are on the combined page: [[magic#soul-light|Magic § Soul Light]].
 

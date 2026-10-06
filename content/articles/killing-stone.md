@@ -42,7 +42,7 @@ Hermes remarks that, surprisingly, Killing Stones were created by renarts themse
 {{statement}} As Asfi, Hermes and Takemikazuchi explain it:[@fm07-soul, fm07-shards]
 
 - The renart's magical power, "no, soul", is sealed in the stone. If everything is set up right, their sorcery can then be used by another; Hermes calls it a magic item no less than a [[magic-sword|magic sword]]. The price is that the renart becomes a soulless shell, alive but not among the living, which is why the stones are forbidden.[@fm07-soul]
-- A whole stone cannot release all its energy, so Killing Stones are shattered. Each shard can unleash as much sorcery as the original, without trigger spells.[@fm07-shards]
+- A whole stone cannot release all its energy, so Killing Stones are shattered. Each shard can unleash as much sorcery as the original, without [[trigger-spell|trigger spells]].[@fm07-shards]
 - If the stone is returned to the renart, they awaken and can live normally, provided their body was not harmed while their soul was absent. If a shard is lost or broken, they will never be normal again, even if every other piece is returned.[@fm07-shards]
 - {{statement}} Aisha later says that a smashed Killing Stone allows only a single power to be used.[@fm12-aisha]
 

@@ -25,7 +25,7 @@
   }
 }
 ---
-The **Colossal Tree Labyrinth** is the region of the [[dungeon|Dungeon]] from the nineteenth to the twenty-fourth floor. Its entrance lies under the great tree in the middle of [[floor-18|Floor 18]], the safe point.[@so03-region, fm09-start] Floor 18's "Central Tree" stands in the middle of the floor's plain, and some of its roots form the tunnel down to the nineteenth floor.[@so02-tree]
+The **Colossal Tree Labyrinth** is the region of the [[dungeon|Dungeon]] from the nineteenth to the twenty-fourth floor. Its entrance lies under the great tree in the middle of [[floor-18|Floor 18]], the [[safe-point|safe point]].[@so03-region, fm09-start] Floor 18's "Central Tree" stands in the middle of the floor's plain, and some of its roots form the tunnel down to the nineteenth floor.[@so02-tree]
 
 ## The floors {#floors}
 
@@ -47,7 +47,7 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 3 | On a quest about a monster outbreak, [[aiz-wallenstein|Aiz]] and [[hermes-familia|Hermes Familia]] travel the twenty-fourth floor's main route to the pantry at its depths (see [[corrupted-spirit|Corrupted spirit]]).[@so03-region, so03-quest] |
+| Sword Oratoria 3 | On a [[quest|quest]] about a monster outbreak, [[aiz-wallenstein|Aiz]] and [[hermes-familia|Hermes Familia]] travel the twenty-fourth floor's main route to the pantry at its depths (see [[corrupted-spirit|Corrupted spirit]]).[@so03-region, so03-quest] |
 | DanMachi 9 | [[bell-cranell|Bell]] meets [[wiene|Wiene]] on the nineteenth floor. Later he and [[welf-crozzo|Welf]] go down there as a two-man cell. Ordered to the deepest part of the twentieth floor, [[hestia-familia|Hestia Familia]]'s party reaches one of the Xenos' Hidden Villages (see [[xenos|Xenos]]).[@fm09-wiene, fm09-mission, fm09-twentieth, fm09-village] |
 | DanMachi 10 | The Xenos travel through its bark-walled passages.[@fm10-xenos] |
 | DanMachi 12 | Hestia Familia's expedition camps on the twenty-fourth floor before going down to the Water Capital.[@fm12-camp, fm12-roots] |

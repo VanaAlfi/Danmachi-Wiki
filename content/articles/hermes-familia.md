@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the god Hermes: nominally a delivery service that travels freely, it gathers information, investigates for the Guild and hides its members' true Levels.",
-  "aliases": ["Laurier", "Laurier Swall", "Meryl Tear", "Meryl", "Merrill", "Thane", "Thane Hire"],
+  "aliases": ["Laurier", "Laurier Swall", "Thane", "Thane Hire"],
   "spoilers": "DanMachi Vols. 5–17, Sword Oratoria Vols. 2, 3, 11 and 12, Familia Chronicle Vol. 3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
   "related": ["hermes", "asfi", "aisha-belka", "guild", "lyu-leon", "astrea"],
   "sections": [
@@ -35,7 +35,7 @@
 | [[asfi|Asfi Al Andromeda]] | Captain, titled Perseus; succeeded Lydis during the [[great-conflict|Great Conflict]].[@fm05-asfi, fm05-ja-asfi, ar02-captain] |
 | [[lulune-louie|Lulune Louie]] | A [[races#chienthrope|chienthrope]], secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
 | [[falgar-batros|Falgar]] | Fights in the Great Conflict.[@ar02-falgar] |
-| Merrill | A prum mage, a girl with a pointed hat and a short rod. In Sword Oratoria 3 Asfi calls her forward, and her fireball blasts open the fleshy "gate" on Floor 24. In Sword Oratoria 11 the Familia supports [[loki-familia|Loki Familia]] with her magic.[@so03-merrill, so11-merrill] In DanMachi 17 she is one of the members who pass Hermes's fragmentary messages along while Freya's charm holds.[@fm17-merrill] |
+| [[merrill|Merrill]] | A prum mage, a girl with a pointed hat and a short rod. In Sword Oratoria 3 Asfi calls her forward, and her fireball blasts open the fleshy "gate" on Floor 24. In Sword Oratoria 11 the Familia supports [[loki-familia|Loki Familia]] with her magic.[@so03-merrill, so11-merrill] In DanMachi 17 she is one of the members who pass Hermes's fragmentary messages along while Freya's charm holds.[@fm17-merrill] |
 | Thane ({{ja|セイン}}, read *Sein*) | In Astrea Record 2 Asfi tells Falgar, "You take Thane and lead our people"; in Sword Oratoria 3 she has "Falgar, Thane" make two squads to scout other routes, and in Sword Oratoria 11 she calls "Falgar! Thane!" to leave the vanguard to Loki Familia. In DanMachi 17 Hermes leaves "a tiny update of information with Thane".[@ar02-thane, so03-thane, so11-thane, fm17-thane, ar02-hermes-names-ja] |
 | [[#lydis|Lydis]] | Captain until her death in the Great Conflict.[@ar01-lydis, ar02-captain] |
 | [[#laurier|Laurier Swall]] | A Level 2 elf who usually works outside the city; she found the Xenos held by Elurian nobility.[@ss01-laurier, fm09-laurier] |
@@ -67,7 +67,7 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 |---|---|
 | DanMachi 5 | Joins the rescue of [[bell-cranell|Bell]]'s party on [[floor-18|Floor 18]]. The Guild afterwards takes half of Hermes Familia's assets as a penalty and fines [[hestia-familia|Hestia Familia]], whose savings are small, several hundred thousand valis.[@fm05-asfi, fm06-penalty] |
 | Sword Oratoria 3 | Several members die in an operation on Floor 24.[@so03-losses] |
-| DanMachi 17 | Delivers firewood treated with [[hestia|Hestia]]'s ichor to homes across [[orario|Orario]], which lets Hestia break [[freya|Freya]]'s charm.[@fm17-firewood] |
+| DanMachi 17 | Delivers firewood treated with [[hestia|Hestia]]'s [[ichor|ichor]] to homes across [[orario|Orario]], which lets Hestia break [[freya|Freya]]'s charm.[@fm17-firewood] |
 | Familia Chronicle 3 | Only Hermes knows where [[astrea|Astrea]] is, and [[lyu-leon|Lyu]] keeps in touch with her through the Familia.[@fc03-hermes] |
 
 ## Open questions

@@ -23,7 +23,7 @@
   }
 }
 ---
-**Thanatos** is the God of Death and the patron of the [[evils|Evils]]' remnants, who call themselves his Familia and hide in [[knossos|Knossos]].[@so07-lefiya, so07-sermon] He recruits people who have lost someone, promising that they will be reunited in the next life if they give their lives for him.[@so07-contract] In Sword Oratoria 11, cornered by [[loki|Loki]], he realises that the mastermind Enyo has used him, sends himself back to Heaven, and leaves Loki Familia an escape route.[@so11-cornered, so11-return]
+**Thanatos** is the God of Death and the [[patron-deity|patron]] of the [[evils|Evils]]' remnants, who call themselves his Familia and hide in [[knossos|Knossos]].[@so07-lefiya, so07-sermon] He recruits people who have lost someone, promising that they will be reunited in the next life if they give their lives for him.[@so07-contract] In Sword Oratoria 11, cornered by [[loki|Loki]], he realises that the mastermind Enyo has used him, sends himself back to Heaven, and leaves Loki Familia an escape route.[@so11-cornered, so11-return]
 
 ## The God of Death
 
@@ -43,7 +43,7 @@ His followers' readiness to die comes from his contracts. Each one promises to s
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 7 | Preaches to his followers from an altar in Knossos.[@so07-sermon] The Hexer [[barca-perdix|Barca]], who builds the labyrinth, works with him and the Evils.[@so07-barca] He tells Lefiya and [[filvis|Filvis]] who he is and how his contracts work.[@so07-lefiya, so07-contract] He has taken in [[valletta|Valletta]] and her crew.[@so07-valletta] [[ishtar|Ishtar]], who has funded him for five years, makes him release the [[corrupted-spirit#gugalanna|Bull of Heaven]] against [[loki-familia|Loki Familia]] against the orders he had been given; he admits he wants to see Enyo's trump card too.[@so07-ishtar] |
+| Sword Oratoria 7 | Preaches to his followers from an altar in Knossos.[@so07-sermon] The [[hexers|Hexer]] [[barca-perdix|Barca]], who builds the labyrinth, works with him and the Evils.[@so07-barca] He tells Lefiya and [[filvis|Filvis]] who he is and how his contracts work.[@so07-lefiya, so07-contract] He has taken in [[valletta|Valletta]] and her crew.[@so07-valletta] [[ishtar|Ishtar]], who has funded him for five years, makes him release the [[corrupted-spirit#gugalanna|Bull of Heaven]] against [[loki-familia|Loki Familia]] against the orders he had been given; he admits he wants to see Enyo's trump card too.[@so07-ishtar] |
 | Sword Oratoria 8 | Works with Valletta against Loki Familia; his followers fight Bete beside her assassins.[@so08-death-god, so08-familia, so08-resurrection] |
 | Sword Oratoria 10 | Directs the Evils from Knossos with Barca, wearing Loki Familia down with monsters.[@so10-attrition] Finn's attack takes him by surprise: in Heaven he was a workaholic who purified souls and knows nothing of battlefields.[@so10-surprise] Loki Familia takes a key to Knossos from the leader of his detached force.[@so10-key] He counts on Loki Familia and the [[xenos|Xenos]] fighting if they meet, gathers his own forces in the meantime, and the result is a three-sided battle.[@so10-three-sides] |
 

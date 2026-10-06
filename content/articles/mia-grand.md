@@ -60,7 +60,7 @@ Before DanMachi 1, Mia takes in [[lyu-leon|Lyu]] after Syr finds her, and in Fam
 
 When Freya's charm rewrites the city in DanMachi 17, Mia still remembers Syr.[@fm17-memory] Keeping to her pledge not to intervene openly, she nonetheless encourages [[bell-cranell|Bell]] to believe in himself and keep going.[@fm17-bell, fm18-mia]
 
-Before the Familia War of DanMachi 18, [[loki|Loki]] asks her to join the coalition, and she refuses because of her promise.[@fm18-mia] During the war, [[horn|Hörn]]'s plea to save Syr moves Mia to join the fighting. She faces Ottar, and with Bell, Lyu and [[hedin|Hedin]] forces him to one knee.[@fm18-ottar]
+Before the Familia War of DanMachi 18, [[loki|Loki]] asks her to join the [[familia-coalition|coalition]], and she refuses because of her promise.[@fm18-mia] During the war, [[horn|Hörn]]'s plea to save Syr moves Mia to join the fighting. She faces Ottar, and with Bell, Lyu and [[hedin|Hedin]] forces him to one knee.[@fm18-ottar]
 
 ## Afterwards
 

@@ -74,7 +74,7 @@ She loses that war in DanMachi 18. Bell scatters her flower at the ruins of Orza
 
 ### Afterwards
 
-Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-fromel|Anya]], [[chloe|Chloe]], [[runoa|Runoa]] and Mia.[@fm18-syr] Bell promises to keep watching over Syr so that she does not hurt others or herself; this is not a romantic commitment.[@fm18-syr, fm19-promise] In DanMachi 19 Hestia, speaking for the coalition, lets Syr stay as an ordinary girl serving penance. The official story is that Freya has left Orario. Almost every deity knows the truth, but few mortals do.[@fm19-syr]
+Freya chooses to live as Syr, and is welcomed back at the tavern by Lyu, [[anya-fromel|Anya]], [[chloe|Chloe]], [[runoa|Runoa]] and Mia.[@fm18-syr] Bell promises to keep watching over Syr so that she does not hurt others or herself; this is not a romantic commitment.[@fm18-syr, fm19-promise] In DanMachi 19 Hestia, speaking for the [[familia-coalition|coalition]], lets Syr stay as an ordinary girl serving penance. The official story is that Freya has left Orario. Almost every deity knows the truth, but few mortals do.[@fm19-syr]
 
 ## Open questions
 

@@ -75,7 +75,7 @@ DanMachi 19 prints her name once as *Rena*.[@fm19-rena]
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Which Familia she joins after Ishtar Familia. Sword Oratoria 8 says the former members all converted, and DanMachi 18 counts the remaining Berbera among Hathor's followers, but neither names Lena's Familia directly.[@so08-drinks, fm18-reserves]
+> - Which Familia she joins after Ishtar Familia. Sword Oratoria 8 says the former members all converted, and DanMachi 18 counts the remaining Berbera among [[hathor|Hathor]]'s followers, but neither names Lena's Familia directly.[@so08-drinks, fm18-reserves]
 > - Her present Level: DanMachi 19 says only that she levelled up.[@fm19-levels]
 
 [@fm07-lena]: FM07 | Chapter 7: Goddess War | "Lena, lead the others outta here."; Lena rushes up to her leader, swinging her tied-back long hair (the Japanese edition, file cA4Z, paragraph 118).

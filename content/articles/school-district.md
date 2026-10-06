@@ -17,7 +17,7 @@
       {"label": "Japanese", "value": "{{ja|学区}}", "refs": ["fm19-school-district-ja"]},
       {"label": "Official name", "value": "Maritime Academy for Scholarship Special Administrative District ({{ja|海上学術機関特区}})", "refs": ["fm19-name", "fm19-school-district-ja"]},
       {"label": "Principal", "value": "The god Balder", "refs": ["so13-balder"]},
-      {"label": "Classes", "value": "Ten deity-led Familias, among them [[balder#balder-class|Balder Class]], Iðunn Class and Bragi Class (see [[#classes|Classes and squads]])", "refs": ["so13-classes", "fm19-classes", "so13-class-names"]},
+      {"label": "Classes", "value": "Ten deity-led Familias, among them [[balder#balder-class|Balder Class]], [[idun|Iðunn Class]] and Bragi Class (see [[#classes|Classes and squads]])", "refs": ["so13-classes", "fm19-classes", "so13-class-names"]},
       {"label": "Departments", "value": "Combat Studies, Liberal Arts, Alchemy, Business, Smithing, Crafts, Compounding and others (see [[#departments|Departments]])", "refs": ["fm19-courses", "fm19-alchemy", "fm19-business", "fm19-crafts", "fm19-compounding"]},
       {"section": "Ship"},
       {"label": "Vessel", "value": "The Hringhorni, about 700 meders across", "refs": ["so13-ship"]},
@@ -43,13 +43,13 @@ The school's classes are Familias, each led by a god, and it grants the [[falna|
 
 ### Classes and squads {#classes}
 
-The school has ten classes, among them [[balder#balder-class|Balder Class]], Iðunn Class and Bragi Class.[@fm19-classes] A class is a god's Familia under another name: "Iðunn Familia became Iðunn Class, Bragi Familia became Bragi Class".[@so13-class-names] DanMachi 19 prints *Idun Class*; Sword Oratoria 13 and DanMachi 20 print *Iðunn Class*.[@fm19-classes, so13-class-names, fm20-prefects] Bragi Class wears a badge of "a lyre and a book".[@fm19-bragi]
+The school has ten classes, among them [[balder#balder-class|Balder Class]], [[idun|Iðunn Class]] and Bragi Class.[@fm19-classes] A class is a god's Familia under another name: "Iðunn Familia became Iðunn Class, Bragi Familia became Bragi Class".[@so13-class-names] DanMachi 19 prints *Idun Class*; Sword Oratoria 13 and DanMachi 20 print *Iðunn Class*.[@fm19-classes, so13-class-names, fm20-prefects] Bragi Class wears a badge of "a lyre and a book".[@fm19-bragi]
 
 Classes are divided into squads, each drawn from a single class, whose members receive their Status updates together. Outside the school the Combat Studies Department works in four-person cells, occasionally five.[@fm19-squads] The students have prefects and a student council.[@so13-prefect, fm20-prefects]
 
 ### Departments {#departments}
 
-- **Combat Studies:** Martial Studies, Fieldwork and a Combat Volunteer session are required, and a student needs at least six electives for enough credits; without them a student is not given the right to graduate and may, at worst, be expelled.[@fm19-courses] Its students wear a red-and-white battle uniform that protects as well as adventurers' battle clothes.[@fm19-uniform] The Dungeon practical is required training for all of them.[@so13-practical] [[leon-verdenberg|Leon]] lists the careers it leads to: imperial knights, Dizaran marines, court mages of Altena and adventurers in Orario.[@fm19-routes]
+- **Combat Studies:** Martial Studies, Fieldwork and a Combat Volunteer session are required, and a student needs at least six electives for enough credits; without them a student is not given the right to graduate and may, at worst, be expelled.[@fm19-courses] Its students wear a red-and-white battle uniform that protects as well as adventurers' battle clothes.[@fm19-uniform] The Dungeon practical is required training for all of them.[@so13-practical] [[leon-verdenberg|Leon]] lists the careers it leads to: [[empire|imperial knights]], Dizaran marines, court mages of Altena and adventurers in Orario.[@fm19-routes]
 - **Alchemy:** "a world-leader in rare metals work, including the manufacture of orichalcum"; the Guild's planned shaft into the Dungeon cannot be built without its orichalcum.[@fm19-alchemy] It made a magic projector with [[altena|Altena]], and its magic items include a magic star hammer and the light flower.[@fm19-projector, so13-items]
 - **Business:** any student in it who earns enough credits and passes the qualification exam can run a shop.[@fm19-business]
 - **Smithing:** at the School District's previous visit, all its students wanted to join [[goibniu-familia|Goibniu Familia]], and every one of them failed the god's test.[@so13-smithing]

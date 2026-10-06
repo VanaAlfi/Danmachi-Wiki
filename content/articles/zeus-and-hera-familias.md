@@ -31,7 +31,7 @@
 
 Astrea Record 1 says Zeus and Hera ruled Orario for a thousand years without a threat to their existence and were what every Familia aspired to be.[@ar01-thousand] A veteran recalls in DanMachi 20 that the city held "Zeus and Hera, and then there was everyone else".[@fm20-heroes] Loki admits that her own Familia still lacks the long seasoning of Zeus's and Hera's.[@so06-mompop]
 
-Rival Familias of their time hid Level 6 and even Level 7 captains from the [[guild|Guild]], but Zeus and Hera always came out on top.[@ar01-rivals] Osiris Familia, with several Level 6s and a Level 7 captain, Melty Zara, attacked them and lost; that was more than twenty years before Astrea Record 1, before the Dark Age began, and Orario then threw Osiris Familia out.[@ar01-osiris] A Loki Familia veteran remembers their wars with Horus and Sobek as "a Great Conflict every night".[@ar03-horus]
+Rival Familias of their time hid Level 6 and even Level 7 captains from the [[guild|Guild]], but Zeus and Hera always came out on top.[@ar01-rivals] [[minor-familias#osiris-familia|Osiris Familia]], with several Level 6s and a Level 7 captain, Melty Zara, attacked them and lost; that was more than twenty years before Astrea Record 1, before the Dark Age began, and their [[patron-deity|patron]] Osiris was then banished from the city.[@ar01-osiris] A Loki Familia veteran remembers their wars with Horus and Sobek as "a Great Conflict every night".[@ar03-horus]
 
 ## Their heroes
 
@@ -82,7 +82,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@ar01-dark-age]: AR01 | Prologue: The Unforgettable Melody of Justice | Prologue: "Zeus and Hera’s defeat at the hands of the Black Dragon was the harbinger of the Age of Darkness."
 [@ar01-thousand]: AR01 | Chapter 1: Astrea Familia | "Zeus and Hera ruled over Orario for a thousand years without a single threat to their existence."
 [@ar01-rivals]: AR01 | Chapter 6: Assemblies of Light and Dark | Rivals harboured unreported Level 6 or Level 7 captains; Zeus and Hera came out on top.
-[@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | Osiris Familia, defeated more than twenty years before, when the Dark Age had not yet begun (the Japanese edition, file c6WV); several Level 6s and the Level 7 captain Melty Zara; thrown out by Orario.
+[@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | Osiris Familia, defeated more than twenty years before, when the Dark Age had not yet begun (the Japanese edition, file c6WV); several Level 6s and the Level 7 captain Melty Zara; their patron Osiris banished from the city (the Japanese edition, file c6WV, paragraph 174).
 [@ar02-history]: AR02 | | "The two most powerful forces in Orario’s thousand-year history."
 [@ar02-remnants]: AR02 | | The enemy led by Erebus has "two old members of Zeus Familia and Hera Familia on their side".
 [@ar03-horus]: AR03 | Prologue: Last Intermission | "When Zeus and Hera were warring with Horus and Sobek? It was like a Great Conflict every night!"

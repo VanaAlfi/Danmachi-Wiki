@@ -22,7 +22,7 @@
   }
 }
 ---
-**Penia Familia** was the Familia of the goddess [[penia|Penia]] that the followers of [[dionysus|Dionysus]] secretly belonged to. In Sword Oratoria 12 [[loki|Loki]] reveals that Dionysus, who had made himself drunk on his divine wine, had also got Penia drunk and made her his puppet. He then converted his own followers to her: all the [[dionysus-familia|Dionysus Familia]] adventurers in the first assault on [[knossos|Knossos]], from his second-in-command Aura Moriel down, had in reality been Penia Familia.[@so12-puppet, so12-convert] He chose her because a goddess of poverty with no followers had no one to notice what was happening.[@so12-cover] Three of his followers who sobered up during their Status update fled, and a creature killed them; Dionysus then blamed their deaths on an unknown enemy.[@so12-three]
+**Penia Familia** was the Familia of the goddess [[penia|Penia]] that the followers of [[dionysus|Dionysus]] secretly belonged to. In Sword Oratoria 12 [[loki|Loki]] reveals that Dionysus, who had made himself drunk on his divine wine, had also got Penia drunk and made her his puppet. He then converted his own followers to her: all the [[dionysus-familia|Dionysus Familia]] adventurers in the first assault on [[knossos|Knossos]], from his second-in-command [[aura-moriel|Aura Moriel]] down, had in reality been Penia Familia.[@so12-puppet, so12-convert] He chose her because a goddess of poverty with no followers had no one to notice what was happening.[@so12-cover] Three of his followers who sobered up during their Status update fled, and a creature killed them; Dionysus then blamed their deaths on an unknown enemy.[@so12-three]
 
 ## The end of the Familia {#end}
 

@@ -86,7 +86,13 @@ Magic consumes Mind. Using too much makes the caster pass out, which is called *
 
 ## Curses {#curses}
 
-A curse is a kind of magic of its own. Sword Oratoria 6 explains that it is a jinx, different from "pure" magic spells: it weakens its target with witchcraft-like effects that ordinary magic cannot produce, in exchange for a penalty on the caster, and only very limited methods can ward it off or lift it.[@sharay-silencing-curse.so06-curse] Curses on this page include [[#kalima|Kalima]], [[#lunus-wolfsbane|Lunus Wolfsbane]], [[#hal-reshef|Hal Reshef]], [[#dialv-stige|Dialv Stige]], [[#sharay-silencing-curse|Sharay's silencing curse]] and [[#phobetor-daedalus|Phobetor Daedalus]]; the novels explicitly call each of them a curse.[@kalima.so06-explain, lunus-wolfsbane.fc03-curse, hal-reshef.fc02-cast, dialv-stige.ar03-cast, sharay-silencing-curse.so06-curse, phobetor-daedalus.so07-cast] Some weapons also carry curses, such as Hegni's sword Victim Abyss; those are items, not spells.[@dialv-dis.ar03-ignis]
+A curse is a kind of magic of its own. Sword Oratoria 6 explains that it is a jinx, different from "pure" magic spells: it weakens its target with witchcraft-like effects that ordinary magic cannot produce, in exchange for a penalty on the caster, and only very limited methods can ward it off or lift it.[@sharay-silencing-curse.so06-curse] Curses are triggered by incantations and can cause confusion, restricted movement or pain.[@fm10-trigger] [[development-ability#abnormal-resistance|Abnormal Resistance]] does not protect against them.[@so06-definition] Curses on this page include [[#kalima|Kalima]], [[#lunus-wolfsbane|Lunus Wolfsbane]], [[#hal-reshef|Hal Reshef]], [[#dialv-stige|Dialv Stige]], [[#sharay-silencing-curse|Sharay's silencing curse]] and [[#phobetor-daedalus|Phobetor Daedalus]]; the novels explicitly call each of them a curse.[@kalima.so06-explain, lunus-wolfsbane.fc03-curse, hal-reshef.fc02-cast, dialv-stige.ar03-cast, sharay-silencing-curse.so06-curse, phobetor-daedalus.so07-cast] Some weapons also carry curses, such as Hegni's sword Victim Abyss; those are items, not spells.[@dialv-dis.ar03-ignis]
+
+In Sword Oratoria 6, Sharay of [[ishtar-familia|Ishtar Familia]] uses a silencing curse that prevents [[aiz-wallenstein|Aiz Wallenstein]] from casting her wind enchantment.[@so06-sharay] This type can be lifted by defeating its caster, but Sharay has already disappeared.[@so06-sharay] Argana of [[kali-familia|Kali Familia]] says Kalima raises her abilities through blood taken from Falna bearers, sharply lowers her Endurance and returns her abilities to normal when released.[@so06-kalima] In DanMachi 10, Dix of [[ikelos-familia|Ikelos Familia]] casts Phobetor Daedalus, making victims rampage until exhausted while sharply reducing his own Status.[@fm10-phobetor]
+
+[[fels|Fels]]'s black robe protects [[bell-cranell|Bell Cranell]] and the [[xenos|Xenos]] sheltered behind him from that curse.[@fm10-robe] Dix later releases the curse himself immediately before an attack lands, restoring his original Level 5 durability to survive the blow.[@fm10-release]
+
+In Familia Chronicle 2, Seal, a [[hexers|hexer]], uses Hal Reshef to show a victim their most beloved person and revive traumatic memories.[@fc02-hal] After Seal fails to lift it, the effect persists even after his death and requires a set time to elapse.[@fc02-persistence] In Astrea Record 3, Dina Dis of the [[dis-sisters|Dis sisters]] uses Dialv Stige to take half a touched target's Strength and Agility, transferring equivalent Endurance and Magic in payment.[@ar03-dialv] In Familia Chronicle 3, Uranda's Lunus Wolfsbane lowers [[lyu-leon|Lyu Leon]]'s Status and restrains her, and Lyu takes Uranda's self-inflicted pain to be its payment.[@fc03-lunus] Lyu escapes its influence by propelling herself outside its range with [[#luminous-wind|Luminous Wind]].[@fc03-escape] In Sword Oratoria 8, [[amid|Amid Teasanare]] reports removing the Unhealable Curse with her magic and completes a specialized anti-curse medicine distilled from her own curse-exposed blood.[@so08-amid] [[bete-loga|Bete Loga]]'s [[#hati|Hati]] can consume curses as well as attacks and barriers that derive from magic power.[@so08-hati] In DanMachi 19, [[nina-tulle|Nina Tulle]]'s Lagriell Krisheim creates a healing barrier that prevents curses and psychological attacks.[@fm19-nina]
 
 ## Casting techniques {#casting-techniques}
 
@@ -116,7 +122,7 @@ A Status lists spells, [[skills|Skills]] and [[development-ability|Development A
 
 {{nocite}} Many English volumes print Status sheets as illustrations, usually at the end of a Sword Oratoria or Astrea Record volume, or among the pages of DanMachi 14. They are part of the official English editions, so this page cites them like the text, by volume and page, and records their wording in each spell's section.
 
-Some spells are known only from a sheet; a search of the story text did not find them named. They are Riveria's [[#riveria-nine-spells|Vas Windheim, Liv Ilusio, Fil Eldis and Van Alheim]], Finn's [[#tir-na-nog|Tir na Nog]], Gareth's [[#earth-raid|Earth Raid]], [[cassandra|Cassandra Illion]]'s [[#cure-ephialtes|Cure Ephialtes]] and Adi Varma's [[#adi-varma-spells|Ghana Avimutta and Dia Kaumudi]].[@riveria-nine-spells.so06-sheet, tir-na-nog.so08-sheet, earth-raid.so07-sheet, cure-ephialtes.fm14-sheet, ardee-varma-spells.ar02-sheet]
+Some spells are known only from a sheet; a search of the story text did not find them named. They are Riveria's [[#riveria-nine-spells|Vas Windheim, Liv Ilusio, Fil Eldis and Van Alheim]], Finn's [[#tir-na-nog|Tir na Nog]], Gareth's [[#earth-raid|Earth Raid]], [[cassandra|Cassandra Illion]]'s [[#cure-ephialtes|Cure Ephialtes]] and [[adi-varma|Adi Varma]]'s [[#adi-varma-spells|Ghana Avimutta and Dia Kaumudi]].[@riveria-nine-spells.so06-sheet, tir-na-nog.so08-sheet, earth-raid.so07-sheet, cure-ephialtes.fm14-sheet, ardee-varma-spells.ar02-sheet]
 
 ## Spell index
 
@@ -1345,7 +1351,7 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 
 ### Hail Dust {#hail-dust}
 
-**Hail Dust** is the ice magic of Alicia Forestlight, an elf of [[loki-familia|Loki Familia]] from the Frozen Woods of Fanache in the north of the continent. [[lefiya|Lefiya]] learned it from her and summons it through [[#elf-ring|Elf Ring]] in Sword Oratoria 13.[@hail-dust.so13-cast]
+**Hail Dust** is the ice magic of Alicia Forestlight, an elf of [[loki-familia|Loki Familia]] from the [[geography#elven-forests-frozen-woods-of-fanache|Frozen Woods of Fanache]] in the north of the continent. [[lefiya|Lefiya]] learned it from her and summons it through [[#elf-ring|Elf Ring]] in Sword Oratoria 13.[@hail-dust.so13-cast]
 
 - **User:** Alicia Forestlight; summoned by [[lefiya|Lefiya]][@hail-dust.so13-cast]
 - **Type:** Ice: a rain of hail[@hail-dust.so13-cast]
@@ -1968,7 +1974,7 @@ A field of white flowers, or of dancing white feathers or petals, bursts out aro
 
 - **Cleansing:** a midsize healing barrier that clears poison, paralysis and other negative effects, and also keeps out curses and psychological attacks.[@lagriell-krisheim.fm19-effect]
 - **Healing:** it fills everyone inside with a cleansing light that heals continuously, and it pushes back even a blue dragon's aurora breath.[@lagriell-krisheim.fm19-effect]
-- **Miasma:** in the black wasteland of DanMachi 20 it purifies the poisonous air around their camp so the group can rest.[@lagriell-krisheim.fm20-camp] Later it keeps out a centipede dragon's miasma, the "dragma" that impedes healing magic.[@lagriell-krisheim.fm20-dragma]
+- **Miasma:** in the [[geography#the-north-of-the-continent-land-beyond-the-wall|black wasteland]] of DanMachi 20 it purifies the poisonous air around their camp so the group can rest.[@lagriell-krisheim.fm20-camp] Later it keeps out a centipede dragon's miasma, the "dragma" that impedes healing magic.[@lagriell-krisheim.fm20-dragma]
 
 #### Limits {#lagriell-krisheim-limits}
 
@@ -2693,7 +2699,7 @@ Hegni plants his black sword in the ground and a black magic circle spreads arou
 | Volume | Use |
 |---|---|
 | DanMachi 16 | During the festival he attacks Bell in a deserted alley.[@dainsleif.fm16-bell] |
-| Familia Chronicle 2 | In the desert war he casts it before ten thousand enemies and cuts through the Warsa soldiers.[@dainsleif.fc02-cast] |
+| Familia Chronicle 2 | In the desert war he casts it before ten thousand enemies and cuts through the [[geography#kaios-desert-countries-and-towns-warsa|Warsa]] soldiers.[@dainsleif.fc02-cast] |
 | Astrea Record 3 | Against [[basram|Basram]]'s spirit warriors in the Great Conflict.[@dainsleif.ar03-cast] |
 | DanMachi 18 | Casting it despite a hail of magic swords and arrows, he cuts through [[tsubaki|Tsubaki]]'s adventurers and smiths; Tsubaki knows he once felled over a thousand of the Evils in one battle with it.[@dainsleif.fm18-cast] [[lyu-leon|Lyu]] later defeats him, and Orario roars at his defeat.[@dainsleif.fm18-lyu] |
 
@@ -3285,7 +3291,7 @@ In Astrea Record 1, set years earlier, the narration remarks that a mage, had on
 
 ### Hal Reshef {#hal-reshef}
 
-**Hal Reshef** is the curse of Seal, an elf who leads Resheph Familia, used against [[allen-fromel|Allen Fromel]] in Familia Chronicle 2. Through eye contact it makes its victim see their most beloved person and relive their painful memories; Seal uses it so that his followers can strike while the victim hesitates.[@hal-reshef.fc02-cast, hal-reshef.fc02-effect] Resheph is the name of Seal's god; the curse is printed *Hal Reshef*.[@hal-reshef.fc02-cast]
+**Hal Reshef** is the curse of Seal, an elf who leads [[resheph|Resheph Familia]], used against [[allen-fromel|Allen Fromel]] in Familia Chronicle 2. Through eye contact it makes its victim see their most beloved person and relive their painful memories; Seal uses it so that his followers can strike while the victim hesitates.[@hal-reshef.fc02-cast, hal-reshef.fc02-effect] Resheph is the name of Seal's god; the curse is printed *Hal Reshef*.[@hal-reshef.fc02-cast]
 
 - **Caster:** Seal, leader of Resheph Familia[@hal-reshef.fc02-cast]
 - **Type:** Illusionary curse, by eye contact[@hal-reshef.fc02-cast, hal-reshef.fc02-effect]
@@ -4138,3 +4144,18 @@ In Sword Oratoria 12 the spirit pillar's main body chants a ritual to destroy th
 [@arcs-ray.so01-ja]: SO01 | | The Japanese edition (file c535, paragraphs 169 and 174) prints the chant in two pieces.
 [@elf-ring.so03-ja]: SO03 | | The Japanese edition (file c5AH, paragraph 211) prints the line; the feast is said rakuen over the kanji for joyful feast.
 [@hati.so08-chant-ja]: SO08 | | The Japanese edition (file c45H, paragraph 578) prints the three wounds' names over the kanji for restraint, pain cry and driven stake.
+[@fm10-trigger]: FM10 | Chapter 9: Dreams of Beasts | Curses are triggered by incantations and can cause confusion, restricted movement or pain.
+[@so06-definition]: SO06 | Chapter 5: A Duo of Sun and Moon | Abnormal Resistance does not protect against curses. The Japanese edition (file c4EV, paragraph 363) says that Abnormal Resistance and abilities like it are useless against a curse; the English prints "Status effects were ineffective against it".
+[@so06-sharay]: SO06 | Chapter 5: A Duo of Sun and Moon | Sharay's silencing curse stops Aiz's wind enchantment; this type is lifted by defeating its caster, who has already gone. The Japanese edition (file c4EV, paragraph 379) states in the narration that this type of curse can be lifted by defeating its caster; the English prints "The only way Aiz could think of to break the curse was to take out its caster".
+[@so06-kalima]: SO06 | Chapter 5: A Duo of Sun and Moon | Argana of Kali Familia says Kalima raises her abilities through blood taken from Falna bearers, sharply lowers her Endurance and returns her abilities to normal when released.
+[@fm10-phobetor]: FM10 | Chapter 9: Dreams of Beasts | In DanMachi 10, Dix of Ikelos Familia casts Phobetor Daedalus, making victims rampage until exhausted while sharply reducing his own Status.
+[@fm10-robe]: FM10 | Chapter 9: Dreams of Beasts | Fels's black robe protects Bell Cranell and the Xenos sheltered behind him from that curse.
+[@fm10-release]: FM10 | Chapter 9: Dreams of Beasts | Dix later releases the curse himself immediately before an attack lands, restoring his original Level 5 durability to survive the blow.
+[@fc02-hal]: FC02 | Ali and the 8 Followers | In Familia Chronicle 2, Seal, a hexer, uses Hal Reshef to show a victim their most beloved person and revive traumatic memories.
+[@fc02-persistence]: FC02 | Ali and the 8 Followers | After Seal fails to lift it, the effect persists even after his death and requires a set time to elapse.
+[@ar03-dialv]: AR03 | Chapter 6: The Nameless Heroes | In Astrea Record 3, Dina Dis of the Dis sisters uses Dialv Stige to take half a touched target's Strength and Agility, transferring equivalent Endurance and Magic in payment.
+[@fc03-lunus]: FC03 | The Locus of Stars | In Familia Chronicle 3, Uranda's Lunus Wolfsbane lowers Lyu Leon's Status and restrains her, and Lyu takes Uranda's self-inflicted pain to be its payment.
+[@fc03-escape]: FC03 | The Locus of Stars | Lyu escapes its influence by propelling herself outside its range with Luminous Wind.
+[@so08-amid]: SO08 | Chapter 2: Did Someone Order a Wolf? | In Sword Oratoria 8, Amid Teasanare reports removing the Unhealable Curse with her magic and completes a specialized anti-curse medicine distilled from her own curse-exposed blood.
+[@so08-hati]: SO08 | Chapter 5: Battered Wolf | Bete Loga's Hati can consume curses as well as attacks and barriers that derive from magic power.
+[@fm19-nina]: FM19 | Chapter 5: My Dream | In DanMachi 19, Nina Tulle's Lagriell Krisheim creates a healing barrier that prevents curses and psychological attacks.

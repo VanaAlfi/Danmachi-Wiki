@@ -38,7 +38,7 @@
 | Sword Oratoria 13 | Separated from their squadmates by a collapse, Luke and Lefiya Viridis begin searching for them, and he reaches the others while she holds the monsters' attention.[@so13-collapse, so13-reunion] |
 | Sword Oratoria 13 | Luke returns with the squad to help her, rebukes her attempt to die alone, and charges [[goliath|Goliath]] to draw its attention while declaring his admiration for her.[@so13-return] |
 | Sword Oratoria 13 | After the squad earns all its practical credits, Luke promises to catch up with Lefiya Viridis and become a greater adventurer.[@so13-farewell] |
-| DanMachi 20 | Students congratulate Luke after a flag is captured at Shreme castle ruins during the second round of the [[orariad|Orariad]].[@fm20-flag] |
+| DanMachi 20 | Students congratulate Luke after a flag is captured at [[geography#ruins-near-orario-shreme-castle-ruins|Shreme castle ruins]] during the second round of the [[orariad|Orariad]].[@fm20-flag] |
 
 
 [@so13-introduction]: SO13 | Chapter 3: Class is in Session | Human, Level 3, ashen-haired student; five years at school and older than Lefiya.

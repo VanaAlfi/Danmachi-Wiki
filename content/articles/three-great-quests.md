@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The quests to slay the three monsters that escaped the Dungeon in ancient times: the Behemoth, the Leviathan and the Black Dragon. Only the Black Dragon remains.",
-  "aliases": ["Black Dragon", "One-Eyed Dragon", "Leviathan", "Ruler of the Sea", "Leviathan Seal", "Leviathan's Fins", "Behemoth", "Terrestrial Tyrant", "Leviathan's Blue Fin", "Black Desert", "Dedyne", "Dedine"],
+  "aliases": ["Black Dragon", "One-Eyed Dragon", "Leviathan", "Ruler of the Sea", "Leviathan Seal", "Leviathan's Fins", "Behemoth", "Terrestrial Tyrant", "Leviathan's Blue Fin"],
   "spoilers": "DanMachi Vols. 6, 8, 15–20, Sword Oratoria Vols. 6, 7, 9 and 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["dungeon", "great-conflict", "school-district", "freya-familia", "fels", "aiz-wallenstein"],
   "infobox": {
@@ -32,7 +32,7 @@ Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]], 
 
 ## The Behemoth and the Leviathan {#leviathan}
 
-DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts] In the same volume Gareth speaks of the Evils' believers in Dedyne before the Great Conflict, and Dedyne is recalled as the "home of the Black Desert, where the battle with the Behemoth was fought".[@ar03-dedyne]
+DanMachi 6 calls the Behemoth "the Terrestrial Tyrant" and the Leviathan "the Ruler of the Sea".[@fm06-titles] Riveria says that Zald and Alfia, "Glutton and Silence", played important parts in slaying both.[@ar03-parts] In the same volume Gareth speaks of the Evils' believers in [[geography#ruined-and-remote-lands-dedyne|Dedyne]] before the Great Conflict, and Dedyne is recalled as the "home of the Black Desert, where the battle with the Behemoth was fought".[@ar03-dedyne]
 
 - **The Hringhorni:** in DanMachi 20 [[leon-verdenberg|Leon]] explains that the School District's ship was originally a floating fortress, a foothold for fighting the Leviathan, which could capsize ships just by twisting its body. Its round layers are the remnants of that foothold, and its blue wings are the drop item Leviathan's Fins. Leon himself slipped into the battle, and he calls it the cornerstone of the school.[@fm20-hringhorni]
 - **The Leviathan Seal:** after the Leviathan's defeat Zeus and Hera Familias brought back its skeleton and used it on the lid of the tunnel under Lolog Lake, completing what the Guild officially calls the Leviathan Seal; monsters flee from its bones as they do from the Black Dragon's scales (see [[njordr-familia#port-meren|Port Meren]]).[@so06-seal]

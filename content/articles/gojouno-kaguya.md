@@ -56,7 +56,7 @@ Her public manner was graceful and polite; Astrea Record 1 calls her the picture
 
 She was a pragmatist. Speaking of the future is fine, she tells Alize, but "we can't look away from reality"; then she gives in to Alize's optimism with a smile.[@ar01-alize] Asked by Erebus what justice is, she calls it "a weapon" and "a blank flag to justify all manner of atrocities"; Erebus replies that her justice is "nothing but regret", and she cannot answer.[@ar02-erebus] She hates being called a hero ("I can't think of a word that suits me less") and calls herself and Lyra "regular old hypocrites".[@ar02-hero, ar02-camp] Yet at the council of Familia leaders she rebukes [[finn-deimne|Finn]] for treating the victims of a diversion as "beads on your abacus".[@ar01-council]
 
-The narration often shows a kinder side that Lyu misses: the warmth behind her mockery, the sadness and worry behind her lecture after the death of Adi {{small|printed *Ardee* in Astrea Record 1 and 2}}, and the smile of "the gentle elder sister" as she watches Lyu fight.[@ar01-greenhorn, ar02-mantle, ar03-beautiful] Lyra grumbles that the gods will be talking about "that tsundere thing" again.[@fc03-ideals]
+The narration often shows a kinder side that Lyu misses: the warmth behind her mockery, the sadness and worry behind her lecture after the death of [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}}, and the smile of "the gentle elder sister" as she watches Lyu fight.[@ar01-greenhorn, ar02-mantle, ar03-beautiful] Lyra grumbles that the gods will be talking about "that tsundere thing" again.[@fc03-ideals]
 
 ## Origin
 

@@ -32,7 +32,7 @@ The **Alv Mountains** {{small|printed *Alb Mountains* in DanMachi 9}} are the el
 | DanMachi 9 | Ice water from the sacred peaks is described as a nonalcoholic drink popular among elves.[@fm09-water] |
 | DanMachi 20 | A wall comes into view at the range's end, and completion and repair of the wall east of the mountains take priority.[@fm20-wall] |
 | Sword Oratoria 13 | A girl obtains [[loki|Loki]]'s permission to leave [[orario|Orario]], carries her friend's ashes to the mountains, scatters them at a peak and leaves no gravestone.[@so13-ashes] |
-| Sword Oratoria 14 | The Alf Royal Woods and the Alv Mountains are both called holy lands for elves.[@so14-west] |
+| Sword Oratoria 14 | The [[geography#elven-forests-alf-royal-woods|Alf Royal Woods]] and the Alv Mountains are both called holy lands for elves.[@so14-west] |
 | Familia Chronicle 2 | The dark elves are overrun and their population shrinks, while the white elves survive after descending under their high elf's decision.[@fc02-history] |
 | Familia Chronicle 3 | [[zolingam|Solingen]] lies farther east beyond the mountains when viewed from [[orario|Orario]].[@fc03-east] |
 | Minor Myths and Legends 2 | [[riveria|Riveria Ljos Alf]] rides toward the mountains with a [[monsters#unicorn|unicorn]] beside her.[@ss02-unicorn] |

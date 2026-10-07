@@ -22,7 +22,7 @@
   }
 }
 ---
-**Lido** is a scarlet [[monsters#lizardman|lizardman]] and the current leader of the [[xenos|Xenos]], a skilled fighter with two swords. He leads because the old-timer Gryuu is too big to move about freely.[@fm09-lido] The strongest fighter among them is not Lido but the newer arrival [[asterios|Asterios]]; leadership and strength are separate.[@fm09-lido]
+**Lido** is a scarlet [[monsters#lizardman|lizardman]] and the current leader of the [[xenos|Xenos]], a skilled fighter with two swords. He leads because the old-timer [[xenos#gryuu|Gryuu]] is too big to move about freely.[@fm09-lido] The strongest fighter among them is not Lido but the newer arrival [[asterios|Asterios]]; leadership and strength are separate.[@fm09-lido]
 
 ## History
 

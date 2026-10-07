@@ -33,7 +33,7 @@
 
 ## Early life
 
-Allen and Anya lost their parents and then their home, a country destroyed in a single night; Allen carried his crying sister through the ruins, known as the Scrap Heap. Two years later, when he was six, Freya found them, and Allen took her hand.[@fc02-past] In DanMachi 18 he reveals that a dragon destroyed their home; the Japanese edition writes it as *black dragon*, the word it uses for the Black Dragon, though he says only *dragon* aloud.[@fm18-dragon]
+Allen and Anya lost their parents and then their home, a country destroyed in a single night; Allen carried his crying sister through the ruins, known as the [[geography#ruined-and-remote-lands-scrap-heap|Scrap Heap]]. Two years later, when he was six, Freya found them, and Allen took her hand.[@fc02-past] In DanMachi 18 he reveals that a dragon destroyed their home; the Japanese edition writes it as *black dragon*, the word it uses for the Black Dragon, though he says only *dragon* aloud.[@fm18-dragon]
 
 In Freya Familia he adapted quickly to [[folkvangr|Folkvangr]] and reached Level 2 within a year. When he reached Level 3, Anya reached Level 2.[@fm17-past] After Anya forced her way onto a Deep Levels expedition that nearly killed them both, she was sent away from the Familia.[@fm17-past] DanMachi 18 reveals that Allen himself had asked Freya to take Anya off battlefields she could not survive and give her another family at the tavern, offering to fight for both of them.[@fm18-request]
 

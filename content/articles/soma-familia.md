@@ -10,7 +10,8 @@
   "spoilers": "DanMachi Vols. 2–15",
   "related": ["soma", "lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
   "sections": [
-    {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": ["Canoe Belway", "Gedo", "Ged Raish"]}
+    {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": ["Canoe Belway"]},
+    {"anchor": "gedo", "title": "Gedo", "summary": "Gedo is a human adventurer and Lilliluka Erde's former employer, who attacks her in the Dungeon with partners from Soma Familia; his own Familia is not named.", "aliases": ["Ged Raish"]}
   ],
   "infobox": {
     "title": "Soma Familia",
@@ -37,9 +38,19 @@ Zanis, a Level 2 titled *Gandharva, the Wine-Guardian* and resistant to the wine
 
 Kanu is an animal-person adventurer of Soma Familia, one of the members who keep taking advantage of Lilly. DanMachi 15's look back at her past shows him beating her, taking her coin pouch and suggesting that Zanis sell her to a brothel; a dwarf of the Familia objects.[@fm15-kanu]
 
-- **DanMachi 2:** the adventurer Gedo, who has caught Lilly in the Dungeon, calls in Kanu and his partners. Kanu makes Gedo drop everything taken from her, including a magic sword, then drives him off with [[monsters#killer-ant|killer ants]]. He takes the key to Lilly's storage unit of gnome jewels, then throws her to the ants as a decoy so his party can escape: "Without money, you’re useless."[@fm02-kanu, fm02-decoy]
+- **DanMachi 2:** the adventurer [[#gedo|Gedo]], who has caught Lilly in the Dungeon, calls in Kanu and his partners. Kanu makes Gedo drop everything taken from her, including a magic sword, then drives him off with [[monsters#killer-ant|killer ants]]. He takes the key to Lilly's storage unit of gnome jewels, then throws her to the ants as a decoy so his party can escape: "Without money, you’re useless."[@fm02-kanu, fm02-decoy]
 - **DanMachi 3:** in the Dungeon, Kanu's party sees [[ottar|Ottar]] fighting off a group of Amazons while guarding a large cargo box; the narration calls the attack the planned ambush of "a goddess" who saw her chance. They steal the box, taking it for a first-class adventurer's spoils. Inside is a [[minotaur|Minotaur]], which breaks its chains, kills one of them, and takes up a massive cleaver from the box.[@fm03-cargo, fm03-ja-cargo] Kanu fires the magic sword he took from Lilly until it crumbles, and the Minotaur strikes him down.[@fm03-death] This is very probably the sword-wielding Minotaur that Bell defeats later in the volume, though the text does not say so outright. {{inference}}
 - **DanMachi 6:** Zanis tells Lilly that Kanu had reported her dead, and asks whether she had anything to do with Kanu's group having gone missing.[@fm06-kanu]
+
+## Gedo {#gedo}
+
+**Gedo** ({{ja|ゲド}})[@fm02-gedo-ja] is a [[races#human|human]] adventurer and a former employer of [[lilliluka-erde|Lilliluka Erde]], who attacks her in the [[dungeon|Dungeon]].[@fm02-employer, fm02-ambush] He recruits members of Soma Familia to help him ambush her there; his own Familia is not named in the checked text.[@fm02-ambush, fm02-partners]
+
+### History {#gedo-history}
+
+| Volume | Events |
+|---|---|
+| DanMachi 2 | He places his partners at the routes leading downward, and Lilliluka Erde takes the route where he is waiting.[@fm02-ambush] Seeking revenge for his stolen sword, he strips her of possessions and takes interest in the [[magic-sword|magic sword]] and crimson knife she carries.[@fm02-theft] Kanu says that Gedo, who has reached deeper floors, may be stronger than his group, so they have chosen another method.[@fm02-estimate] Five [[monsters#killer-ant|killer ants]] appear behind him while Kanu and his partners control the other three exits.[@fm02-coercion] Gedo throws down everything he took from Lilliluka Erde and runs past Kanu when an escape route is opened.[@fm02-coercion] Sounds of a disturbance follow his escape, but Lilliluka Erde cannot see what happens beyond the ants blocking her view.[@fm02-aftermath] |
 
 ## Lilly's release
 
@@ -73,3 +84,11 @@ By DanMachi 10, the dwarf [[chandra-ihit|Chandra Ihit]] leads the Familia, which
 [@fm10-chandra]: FM10 | Chapter 9: Dreams of Beasts | Chandra Ihit; the end of the reward system. The Japanese edition (file c3E7, paragraph 544) says the cellar is turning into a place that develops fine wines to serve to the members, within the god's pocket money.
 [@fm15-soma]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Soma senses Lilly's growth.
 [@fm17-arcanum]: FM17 | Chapter 3: The Field of Battle | Ouranos: "Whether it be Hephaistos’s forging or Soma’s wine…Freya’s beauty falls within the same bounds."; "That was not the same as arcanum."
+[@fm02-employer]: FM02 | Chapter 5: Reset | Gedo is a human adventurer and Lilly’s former employer.
+[@fm02-ambush]: FM02 | Chapter 5: Reset | He recruits partners and places them along the Dungeon routes.
+[@fm02-theft]: FM02 | Chapter 5: Reset | Revenge for a stolen sword; takes her possessions and examines her knife.
+[@fm02-partners]: FM02 | Chapter 5: Reset | His partners belong to Soma Familia; Kanu addresses him by name.
+[@fm02-estimate]: FM02 | Chapter 5: Reset | Kanu says Gedo might be stronger because he has reached deeper floors.
+[@fm02-coercion]: FM02 | Chapter 5: Reset | Five ants appear; four exits blocked; Gedo drops the stolen goods and flees.
+[@fm02-aftermath]: FM02 | Chapter 5: Reset | Sounds after his flight; Lilly cannot see what happens beyond the ants.
+[@fm02-gedo-ja]: FM02 | Chapter 5: Reset | The Japanese edition writes his name in katakana, read Gedo, first when Kanu greets him as "Master Gedo" (file c5J8, paragraph 593).

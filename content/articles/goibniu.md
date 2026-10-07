@@ -41,7 +41,7 @@ His Familia's home, the Three Hammers Forge between North Main and Northwest Mai
 | Astrea Record 1 | Caught at Hephaistos's forge when the [[evils|Evils]] attack, he asks to stay there.[@ar01-hephaistos] |
 | Astrea Record 2 | Alone, with blistered hands, he repairs the damaged Bridge of Heroes and its statues: "We need this bridge…If it falls, we all fall." [[raul-nord|Raul]] and [[anakity-autumn|Anakity]] defend him against six cultists.[@ar02-bridge] |
 | Astrea Record 3 | With no trained mage free, Goibniu himself helps with the magical work on [[lyu-leon|Lyu]]'s wooden sword, which the captain calls a rush job.[@ar03-lyu] |
-| Sword Oratoria 1 | Lends Aiz a rapier while Desperate is repaired, telling her that a lesser weapon would soon be worn out in her hands.[@so01-goibniu] |
+| Sword Oratoria 1 | Lends Aiz a [[desperate#rapier|rapier]] while Desperate is repaired, telling her that a lesser weapon would soon be worn out in her hands.[@so01-goibniu] |
 | Sword Oratoria 2 | The rapier comes back shattered after the [[monsterphilia|Monsterphilia]]; Desperate's repair costs about forty million valis, which sends Aiz into the Dungeon to earn it.[@so02-forge, so02-bill] |
 | Minor Myths and Legends 1 | Returns Finn's restored spear and tells him that a prum girl came the other day to order a weapon. Finn asks him to put his leftover material toward her new weapon.[@ss01-finn] |
 | Sword Oratoria 12 | When monsters reach the surface, he opens his Familia's stockpile and hands top-tier weapons to adventurers such as [[bors|Bors]]'s group.[@so12-stockpile] |

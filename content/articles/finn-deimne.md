@@ -32,7 +32,7 @@
 
 ## Early life
 
-Born Deimne, he took the name *Finn*, meaning "light", after his parents died saving him when he was ten, and vowed to restore the prums. At fourteen he became Loki's first follower, saved the village of Preblica, and then helped recruit [[riveria|Riveria]] and [[gareth|Gareth]].[@so14-finn] His first [[falna|Falna]] held two powerful Skills, [[skills#finn-skills|Prum Spirit and Noble Brave]], and the magic [[#hell-finegas|Hell Finegas]], which raises all his abilities at the cost of his judgement.[@so14-finn]
+Born Deimne, he took the name *Finn*, meaning "light", after his parents died saving him when he was ten, and vowed to restore the prums. At fourteen he became Loki's first follower, saved the village of [[geography#preblica-karna-and-lonza-preblica|Preblica]], and then helped recruit [[riveria|Riveria]] and [[gareth|Gareth]].[@so14-finn] His first [[falna|Falna]] held two powerful Skills, [[skills#finn-skills|Prum Spirit and Noble Brave]], and the magic [[#hell-finegas|Hell Finegas]], which raises all his abilities at the cost of his judgement.[@so14-finn]
 
 ## Leader
 

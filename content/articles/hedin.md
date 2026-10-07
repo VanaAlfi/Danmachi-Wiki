@@ -9,6 +9,9 @@
   "aliases": ["Hedin", "Hildsleif", "black and white knights", "white and black knights", "Hedin Selland"],
   "spoilers": "DanMachi Vols. 16–20, Sword Oratoria Vol. 13, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["hegni", "freya-familia", "freya", "bell-cranell", "syr-flover", "ottar", "magic"],
+  "sections": [
+    {"anchor": "hildr", "title": "Hildr", "summary": "The holy woman and miraculous healer whom the dark elves handed over to the white elves of Heodenings, Hedin's ancestor.", "aliases": []}
+  ],
   "infobox": {
     "title": "Hedin Selrand",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -32,6 +35,22 @@
 ## Heodenings
 
 Hedin and Hegni were the kings of rival white-elf and dark-elf states on the island of Heodenings. [[freya|Freya]] provoked the final war between them, and when the two of them were the last left standing, they followed her.[@fc02-past]
+
+## Hildr {#hildr}
+
+**Hildr** ({{ja|ヒルド}}) was a holy woman and miraculous healer handed over by the dark elves, and an ancestor of Hedin Selrand.[@fc02-hildr, fc02-hildr-ja]
+
+### History {#hildr-history}
+
+| Volume | Events |
+|---|---|
+| Familia Chronicle 2 | The [[races#dark-elf|dark elves]] handed Hildr over to the [[races#white-elf|white elves]] as proof of a temporary nonaggression pact during their long history of fighting.[@fc02-hildr] Later, Hedin restrained the other white elves and sent a peace envoy, judging the fighting inefficient; the dark elves nevertheless insisted on reclaiming Hildr.[@fc02-demand] The account explains that their demand meant extracting every last drop of Hedin's blood, since he was her descendant, although he had inherited white-elf traits more strongly.[@fc02-blood] Hedin rejected the demand and the negotiations broke down.[@fc02-blood] |
+
+### Names in magic {#hildr-names-in-magic}
+
+| Volume | Events |
+|---|---|
+| Familia Chronicle 2; DanMachi 18 | Hedin's spells include [[#caurus-hildr|Caurus Hildr]], [[#valiant-hildr|Valiant Hildr]] and [[#laurus-hildr|Laurus Hildr]], each containing the name Hildr.[@fc02-caurus, fc02-valiant, fm18-laurus] |
 
 ## History
 
@@ -162,3 +181,10 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@so12-knights]: SO12 | Chapter 7: Final War II | "The black and white knights."
 [@fm18-knights]: FM18 | Chapter 9: Flower Language for You | "both kings died—and the white and black knights were born"; also "the black and white knights".
 [@fm18-hedin-ja]: FM18 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the white fairy's magic staff, with the reading Hildsleif; the infobox gives the printed name and the kanji.
+[@fc02-hildr]: FC02 | Their Various Pasts | Hildr, miraculous healer, handed over as proof of temporary pact; Hedin descended from her.
+[@fc02-hildr-ja]: FC02 | Their Various Pasts | The Japanese edition writes {{ja|ヒルド}}, Hildr, the holy woman (file c8RE, paragraph 47); the dark elves' "our Hildr" is written {{ja|我等の聖女}}, our holy woman, with the reading Hildr (paragraph 46), and the Japanese name of Laurus Hildr, {{ja|聖女の雷賛}}, the holy woman's lightning praise (DanMachi 18, file part0027, paragraph 1588), uses the same word for holy woman.
+[@fc02-demand]: FC02 | Their Various Pasts | Hedin’s peace envoy meets the demand to reclaim Hildr.
+[@fc02-blood]: FC02 | Their Various Pasts | Hedin’s descent and white-elf traits; demand to extract his blood; negotiations fail.
+[@fc02-caurus]: FC02 | Ali and the 8 Followers | Caurus Hildr spell name.
+[@fc02-valiant]: FC02 | The Origin of the Strongest | Valiant Hildr spell name.
+[@fm18-laurus]: FM18 | Chapter 9: Flower Language for You | Hedin’s third magic is Laurus Hildr.

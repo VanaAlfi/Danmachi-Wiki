@@ -27,7 +27,7 @@
   }
 }
 ---
-**Shakti Varma** is the captain of [[ganesha-familia|Ganesha Familia]], the Familia that serves as [[orario|Orario]]'s city watch.[@ar02-speech, fm10-shakti] Titled *[[ganesha|Ganesha]]'s Cane, Ankusha*, she ranks alongside [[aiz-wallenstein|Aiz]] as a first-tier human adventurer.[@fm10-shakti] In the dark age told in Astrea Record she is a close friend of [[astrea-familia|Astrea Familia]], and she loses her younger sister Adi to [[evils|the Evils]].[@ar01-alize, ar01-ardee] In the main series she is one of very few people who know that [[lyu-leon|Lyu Leon]] is still alive.[@fc01-casino]
+**Shakti Varma** is the captain of [[ganesha-familia|Ganesha Familia]], the Familia that serves as [[orario|Orario]]'s city watch.[@ar02-speech, fm10-shakti] Titled *[[ganesha|Ganesha]]'s Cane, Ankusha*, she ranks alongside [[aiz-wallenstein|Aiz]] as a first-tier human adventurer.[@fm10-shakti] In the dark age told in Astrea Record she is a close friend of [[astrea-familia|Astrea Familia]], and she loses her younger sister [[adi-varma|Adi]] to [[evils|the Evils]].[@ar01-alize, ar01-ardee] In the main series she is one of very few people who know that [[lyu-leon|Lyu Leon]] is still alive.[@fc01-casino]
 
 ## Appearance and character
 
@@ -43,7 +43,7 @@ Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level
 
 In Astrea Record 2 Shakti tells her troops never to show mercy to their foes and calls Adi's death a mistake that none of them must repeat. When Lyu confronts her, she replies that Adi "died for it", and that using even her sister's memory to keep people alive "is my justice". Lyu runs from her.[@ar02-speech]
 
-Later she visits Astrea Familia's home with a branch of the [[holy-tree|holy tree]] from Lyu's birthplace, Lumirua Forest {{small|printed *Lyumilua Forest* in Astrea Record 2}}, seized from the black market, and tells Lyu that Adi wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Adi that day, "it made me happy". She then visits Adi's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
+Later she visits Astrea Familia's home with a branch of the [[holy-tree|holy tree]] from Lyu's birthplace, [[geography#elven-forests-lumirua-forest|Lumirua Forest]] {{small|printed *Lyumilua Forest* in Astrea Record 2}}, seized from the black market, and tells Lyu that Adi wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Adi that day, "it made me happy". She then visits Adi's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
 
 In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]] entrusts her with the command of the southwest district.[@ar03-command] Lyu afterwards carries Adi's sword, Sacred Oath, with Shakti's permission.[@ar03-sword]
 
@@ -55,7 +55,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 | DanMachi 10 | Commands Ganesha Familia's force against the [[armed-monsters|armed monsters]], the [[xenos|Xenos]], on [[floor-18|Floor 18]], where the Guild has ordered them tamed. She fights with fists and whip.[@fm10-faith, fm10-subjugation, fm11-recovery] Then a single blow from the black [[minotaur|minotaur]], later called [[asterios|Asterios]], smashes her into a tree and leaves her motionless.[@fm10-asterios] Later that day [[lido|Lido]], the Xenos' leader, counts her among the few adventurers he could not easily dispatch.[@fm10-asterios-view] |
 | DanMachi 11 | Recovering in bed at the Familia's home, she tells Ganesha, who had told her about the Xenos, that she feels both fierce anger and sympathy toward them; their hesitation cost Ganesha Familia lives.[@fm11-recovery] |
 | Sword Oratoria 11 | Guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]]; Ganesha tells her and Ilta that they need not be avengers for the murdered [[hashana|Hashana]].[@so11-daedalus] |
-| DanMachi 18 | Insists that Ganesha Familia do its duty and prepare the battlefield for the Familia War against [[freya-familia|Freya Familia]], and explains the politics to the angry Ilta.[@fm18-ilta] She opens the bridge to the Orza ruins for the [[familia-coalition|coalition]].[@fm18-bridge] |
+| DanMachi 18 | Insists that Ganesha Familia do its duty and prepare the battlefield for the Familia War against [[freya-familia|Freya Familia]], and explains the politics to the angry Ilta.[@fm18-ilta] She opens the bridge to the [[geography#ruins-near-orario-orza-ruins|Orza ruins]] for the [[familia-coalition|coalition]].[@fm18-bridge] |
 | DanMachi 20 | The School District's fighters name Ankusha as an adventurer to beware of.[@fm20-wary] At the [[orariad|Orariad]] she and Ilta win the tag-team match against the School District.[@fm20-orariad] |
 
 ## Open questions

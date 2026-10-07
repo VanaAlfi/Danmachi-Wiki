@@ -33,7 +33,7 @@ Ishtar plans to use [[haruhime|Haruhime]]'s Level Boost, sealed with Haruhime's 
 
 Bell's Status first catches Ishtar's eye for its Luck, and then for a particular Skill she reads on it.[@fm07-skill] She cannot charm him, because his Skill protects him from her charm.[@fm07-ishtar, fm07-charm] [[hermes|Hermes]] had given Ishtar information about Bell, and Sword Oratoria 7 confirms that he deliberately set Ishtar and Freya against each other, judging Ishtar a danger to Orario.[@fm07-hermes, so07-hermes]
 
-After she abducts Bell, Freya Familia overwhelms Ishtar Familia and Freya sends Ishtar back to the heavens. The Pleasure Quarter is left badly damaged, though no one is killed, and the [[guild|Guild]] fines Freya.[@fm07-quarter] Freya takes in Ishtar's follower [[ishtar-familia#tammuz-berrilli|Tammuz]] and keeps his Daedalus Orb.[@so09-tammuz, so11-orb]
+After she abducts Bell, Freya Familia overwhelms Ishtar Familia and Freya sends Ishtar back to the heavens. The Pleasure Quarter is left badly damaged, though no one is killed, and the [[guild|Guild]] fines Freya.[@fm07-quarter] Freya takes in Ishtar's follower [[ishtar-familia#tammuz-berrilli|Tammuz]] and keeps his [[knossos#daedalus-orb|Daedalus Orb]].[@so09-tammuz, so11-orb]
 
 ## Open questions
 

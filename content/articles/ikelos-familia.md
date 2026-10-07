@@ -53,7 +53,7 @@ Among his hunters is [[gran|Gran]], a tall, muscular, bald man with a black tatt
 
 ## Trafficking the Xenos
 
-[[hermes-familia|Hermes Familia]] investigates the smuggling for the Guild and traces the buyers to an Elurian noble's mansion; when his hunters lose the vouivre on the nineteenth floor, Dix complains that "those freaks in charge of Eluria" would have paid a fortune for it alive.[@fm09-buyers, fm09-hunters] Fels later explains that the hunters capture Xenos, smuggle them out of the city and sell them to collectors.[@fm09-sell]
+[[hermes-familia|Hermes Familia]] investigates the smuggling for the Guild and traces the buyers to an [[geography#world-powers-and-nations-eluria|Elurian]] noble's mansion; when his hunters lose the vouivre on the nineteenth floor, Dix complains that "those freaks in charge of Eluria" would have paid a fortune for it alive.[@fm09-buyers, fm09-hunters] Fels later explains that the hunters capture Xenos, smuggle them out of the city and sell them to collectors.[@fm09-sell]
 
 In DanMachi 10 Bell and [[fels|Fels]] follow the trail through Knossos to Ikelos Familia's base, where rows of black cages hold captured monsters; Lido and the Xenos break them open and free the prisoners.[@fm10-cages, fm10-daedalus] Dix fights Lido, Gros and the other Xenos, and then Bell, with his curse and his spear.[@fm10-hazer, fm10-level] After the battle every captured Xenos has been taken back and, as far as Dix can tell, the whole Familia but him has been wiped out; one man, the hunter Gran, slipped away unnoticed.[@fm10-wiped]
 

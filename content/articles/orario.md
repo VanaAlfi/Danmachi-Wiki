@@ -8,7 +8,7 @@
   "summary": "The Labyrinth City: a walled, circular city built over the Dungeon, centred on the tower Babel, with eight Main Streets running out to the wall.",
   "aliases": ["Labyrinth City"],
   "spoilers": "DanMachi Vols. 1–20 and Sword Oratoria Vols. 1 and 7",
-  "related": ["dungeon", "the-benevolent-mistress", "freya-familia", "hestia-familia", "war-game"],
+  "related": ["dungeon", "the-benevolent-mistress", "freya-familia", "hestia-familia", "war-game", "geography"],
   "infobox": {
     "title": "Orario",
     "image_note": "No suitable official image has been chosen for this page yet.",

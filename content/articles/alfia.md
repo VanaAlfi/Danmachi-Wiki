@@ -62,7 +62,7 @@ In Astrea Record 1 Alfia defeats Riveria and [[gareth|Gareth]].[@ar01-alfia] Exp
 
 #### Effect {#satanas-verion-effect}
 
-- **A wall of sound.** In Astrea Record 1 a single "Gospel" scatters Ganesha Familia's fighters, as many as twenty of them, in a church and throws [[shakti-varma|Shakti]] and Adi {{small|printed *Ardee* in Astrea Record 1 and 2}} against the wall, while the hooded Alfia escapes. Shakti takes it at first for some kind of vacuum wave.[@satanas-verion.ar01-church]
+- **A wall of sound.** In Astrea Record 1 a single "Gospel" scatters Ganesha Familia's fighters, as many as twenty of them, in a church and throws [[shakti-varma|Shakti]] and [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}} against the wall, while the hooded Alfia escapes. Shakti takes it at first for some kind of vacuum wave.[@satanas-verion.ar01-church]
 - **Damage without a direct hit.** In Astrea Record 2 it hurls [[gojouno-kaguya|Kaguya]] into the ruins and shatters her sword. [[lyra|Lyra]] dodges the blast but is still knocked down, bleeding from her eyes, ears and mouth, and realises: "It wasn't wind or light. It was sound!!" Alfia agrees: "my magic is sound".[@satanas-verion.ar02-sound]
 - **Speed and reach.** Lyra judges it an ultra-short chant with huge range, which even outclasses [[riveria|Riveria]] in a straight contest of magic.[@satanas-verion.ar02-sound]
 

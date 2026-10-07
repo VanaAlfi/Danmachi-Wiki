@@ -38,7 +38,7 @@ After the [[juggernaut|Juggernaut]] incident, Gale Wind is officially recorded a
 
 ## Background
 
-Lyu comes from Lumirua Forest, where her clan guards the [[holy-tree|holy tree]]; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
+Lyu comes from [[geography#elven-forests-lumirua-forest|Lumirua Forest]], where her clan guards the [[holy-tree|holy tree]]; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
 
 Astrea Familia is later destroyed and Lyu is its only survivor. She persuades Astrea to leave Orario and then takes revenge on those responsible and anyone connected to them, which gets her blacklisted by the Guild.[@fm05-past] After her revenge, [[syr-flover|Syr]] finds and nurses her, and [[mia-grand|Mia]] gives her a place at the tavern.[@fc01-rescue]
 

@@ -23,7 +23,7 @@
   }
 }
 ---
-**Colored monsters** include [[monsters#violas|violas]], caterpillars and [[monsters#varg|vargs]], with the former two identified as appendages of the [[corrupted-spirit|corrupted spirit]].[@so06-appendages, so11-vargs] The flowers' brilliantly colored magic-stone cores differ from normal dark-purple stones and resemble those recovered from the caterpillars.[@so02-stones] Information collected by [[aiz-wallenstein|Aiz]]'s party identifies these monsters as appendages of the [[corrupted-spirit|corrupted spirit]] that seek magic stones.[@so06-appendages]
+**Colored monsters** include [[monsters#violas|violas]], caterpillars and [[monsters#varg|vargs]], with the former two identified as appendages of the [[corrupted-spirit|corrupted spirit]].[@so06-appendages, so11-vargs] The flowers' [[magic-stone#richly-colored|brilliantly colored magic-stone cores]] differ from normal dark-purple stones and resemble those recovered from the caterpillars.[@so02-stones] Information collected by [[aiz-wallenstein|Aiz]]'s party identifies these monsters as appendages of the [[corrupted-spirit|corrupted spirit]] that seek magic stones.[@so06-appendages]
 
 ## Traits and distinctions {#traits-and-distinctions}
 

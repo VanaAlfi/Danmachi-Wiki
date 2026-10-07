@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Loki, founded with Finn Deimne as its first member, which with Freya Familia drove Zeus and Hera Familias out of Orario. Ranked S by the Guild and often called the city's strongest Familia, it is the Familia of Aiz Wallenstein.",
-  "aliases": ["Giant Killers", "Cynthia", "Sharon", "Arcus", "Olba", "Lloyd", "Anju", "Orba", "Carmillia", "Carmilia", "Kalos", "Liza", "Crea", "Karna", "Karuna"],
+  "aliases": ["Giant Killers", "Cynthia", "Sharon", "Arcus", "Olba", "Lloyd", "Anju", "Orba", "Carmillia", "Carmilia", "Kalos", "Liza", "Crea"],
   "spoilers": "DanMachi Vols. 1, 2, 5, 6, 8, 11, 17–20, Sword Oratoria Vols. 1, 2, 4–14 and Astrea Record Vols. 2 and 3",
   "related": ["loki", "finn-deimne", "riveria", "gareth", "aiz-wallenstein", "bete-loga", "hyrute-sisters", "lefiya", "twilight-manor", "freya-familia", "knossos", "xenos", "dungeon", "orario"],
   "infobox": {
@@ -39,7 +39,7 @@ Its [[emblem|emblem]] is the trickster's mark, "a comedic smile", flown on its f
 
 ## Founding
 
-Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of Lonza she arranged.[@so14-founding] Ten days after leaving Preblica, Loki and Finn reach Karna, an inn town in the continent's central region and "a key transit hub", where Loki declares "That’s why it’s gotta be an elf!"; after Riveria joins, they celebrate there.[@so14-karna, so14-karna2]
+Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of [[geography#preblica-karna-and-lonza-lonza|Lonza]] she arranged.[@so14-founding] Ten days after leaving [[geography#preblica-karna-and-lonza-preblica|Preblica]], Loki and Finn reach [[geography#preblica-karna-and-lonza-karna|Karna]], an inn town in the continent's central region and "a key transit hub", where Loki declares "That’s why it’s gotta be an elf!"; after Riveria joins, they celebrate there.[@so14-karna, so14-karna2]
 
 ## Leading members
 

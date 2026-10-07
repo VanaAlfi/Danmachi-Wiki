@@ -41,7 +41,7 @@
 | Sword Oratoria 8 | Amid Teasanare treats wounded Amazons and [[bete-loga|Bete Loga]] at the hospital, but cannot save those already dead when brought there.[@so08-hospital] |
 | Sword Oratoria 10 | Riveria Ljos Alf provides healing support that helps sustain a battle line.[@so10-support] |
 | Sword Oratoria 12 | [[dian-cecht-familia|Dian Cecht Familia]] plans to mobilize all its healers to handle healing and supplies for the squads entering [[knossos|Knossos]].[@so12-deployment] |
-| Familia Chronicle 2 | Hildr is described as a miraculous healer from the dark elves and an ancestor of [[hedin|Hedin Selrand]].[@fc02-hildr] |
+| Familia Chronicle 2 | [[hedin#hildr|Hildr]] is described as a miraculous healer from the dark elves and an ancestor of [[hedin|Hedin Selrand]].[@fc02-hildr] |
 | Familia Chronicle 3 | [[astrea-familia|Astrea Familia]]'s Maryu Réage is remembered as a human healer.[@fc03-maryu] |
 
 

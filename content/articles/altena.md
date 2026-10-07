@@ -27,7 +27,7 @@
 
 ## The supremacy of magic
 
-Altena believes fundamentally in the supremacy of magic: it is elitist towards mages, and its citizens say "Magic is everything" with straight faces.[@fc02-belief] Seeing an Altena-made desert ship, [[freya|Freya]] thinks "It seems we should be wary of Altena…"[@fc02-belief] Sword Oratoria 13 calls it "the nation of magic", and its court mages are one of the careers that experience in the Dungeon can lead to.[@so13-destinations, fm19-careers]
+Altena believes fundamentally in the supremacy of magic: it is elitist towards mages, and its citizens say "Magic is everything" with straight faces.[@fc02-belief] Seeing an Altena-made [[desert-ship|desert ship]], [[freya|Freya]] thinks "It seems we should be wary of Altena…"[@fc02-belief] Sword Oratoria 13 calls it "the nation of magic", and its court mages are one of the careers that experience in the Dungeon can lead to.[@so13-destinations, fm19-careers]
 
 ## Trade and products
 

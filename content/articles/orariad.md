@@ -44,7 +44,7 @@ The Guild had high-handedly requisitioned the School District's [[metals#orichal
 | Round | Contest | Result |
 |---|---|---|
 | 1 | Mage showdown | The School District: the elf Malik Alfort, a Level 5 [[balder#balder-class|Balder Class]] instructor, beats [[hathor|Hathor Familia]]'s mage Nernati.[@fm20-round1, fm20-nernati] |
-| 2 | Melee: capture the flag for Level 3 and below, at the Shreme castle ruins of the [[war-game|War Game]] | The School District's student alliance, with bold plans and traps; the main event the Denatus designed.[@fm20-round2, fm20-melee] |
+| 2 | Melee: capture the flag for Level 3 and below, at the [[geography#ruins-near-orario-shreme-castle-ruins|Shreme castle ruins]] of the [[war-game|War Game]] | The School District's student alliance, with bold plans and traps; the main event the Denatus designed.[@fm20-round2, fm20-melee] |
 | 3 | Tag team | Orario: [[ilta-faana|Ilta Faana]] and [[shakti-varma|Shakti Varma]] beat the School District's assassins, aboard the School District with no Orario spectators.[@fm20-round3, fm20-home] |
 | 4 | Trios aquatic match | Orario, easily.[@fm20-round4] |
 | 5 | [[leon-verdenberg|Leon Verdenberg]] against [[bell-cranell|Bell]] | Suspended when a dragon attacks; recorded as a draw.[@fm20-final, fm20-dragon, fm20-draw] |

@@ -107,7 +107,7 @@ Alize hears out Lyu's troubles, takes her hand to "practice", and Lyu does not p
 - When troubled, Lyu went to Alize first, then to Lyra. Alize could calm her by squeezing her little finger.[@fm14-lyra, fm14-ideals]
 - In a crystal clearing on [[floor-18|Floor 18]] she tells Lyu, "Your sense of justice is beautiful, Leon. Hold on to that." Then, quietly: "Promise me you'll stay like that forever…"[@ar01-forest]
 - She tells Syr that Lyu is "a wonderful friend". When Lyu lets a repentant thief go, Alize hugs her: "You're finally growing up!"[@ar02-syr, ar02-supper]
-- At the end of the war she leans on Lyu, asks for a piggyback, and suggests they visit the grave of Adi {{small|printed *Ardee* in Astrea Record 1 and 2}} together.[@ar03-after]
+- At the end of the war she leans on Lyu, asks for a piggyback, and suggests they visit the grave of [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}} together.[@ar03-after]
 - In a short story in Familia Chronicle 3, set five years before its present, she drinks with Kaguya and Lyra and asks what justice Leon will find. She pictures Lyu surrounded by people she does not know, and toasts "To the hope that Leon finds!" The story calls it "a simple, ordinary moment" Lyu would never know of.[@fc03-moment]
 
 ## Astrea Record

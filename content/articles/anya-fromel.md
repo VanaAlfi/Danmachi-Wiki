@@ -141,7 +141,11 @@ Her Level changes over the story. Each row applies only from the point shown; no
 
 ### Spear
 
-Anya fights with an engraved gold long spear.[@fc01-fight, fm18-allen] On the tavern roof in Familia Chronicle 1 she spins it to scatter Chloe's smoke and mirages, and uses the open space and the spear's reach to strike Chloe hard enough to send her flying.[@fc01-fight]
+Anya fights with an engraved gold long spear.[@fc01-fight, fm18-allen] In Familia Chronicle 1 the spear, with its engraved gold decoration, is concealed beneath white cloth.[@fc01-look] After revealing the spear, she spins it and takes a fighting stance against [[chloe|Chloe Lolo]].[@fc01-reveal] The weapon makes Chloe realize that Anya is Vana Alfi, the vanished golden-spear wielder and younger sister of the silver-spear cat person called the fastest in a Goddess of Beauty's great Familia.[@fc01-alias] On the tavern roof in Familia Chronicle 1 she spins it to scatter Chloe's smoke and mirages, and uses the open space and the spear's reach to strike Chloe hard enough to send her flying.[@fc01-fight]
+
+In Astrea Record 2, Anya tears away the cloth and sweeps an Evils soldier off his feet with the golden long spear.[@ar02-use] In Familia Chronicle 2, [[allen-fromel|Allen Fromel]] knows she carries a golden long spear, although she does not have it with her in that encounter.[@fc02-carry] In DanMachi 14, she runs while twirling the long spear with one hand.[@fm14-run] She also sweeps through a group of mermen, cutting their bodies in two with the golden spear.[@fm14-mermen]
+
+In DanMachi 18, she spins the spear overhead as Freya Familia's warriors charge.[@fm18-spin] Anya readies her golden spear and charges to meet Allen Fromel's silver spear.[@fm18-duel] Their spears clash repeatedly, and her golden spear strains under the accelerating silver spear.[@fm18-pressure]
 
 ### Senses and resistance
 
@@ -293,3 +297,13 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@ss02-training]: SS02 | The Illusive Second Master |
 [@ss02-invite]: SS02 | The Night Before a Grand Casino Infiltration |
 [@fm16-anya-ja]: FM16 | | The Japanese edition prints her name in katakana and writes her former title in kanji meaning the other half of the chariot, with the reading Vana Alfi; the infobox gives the printed name and the kanji.
+[@fc01-look]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Anya unwraps the white cloth from her club-like weapon and reveals the spear. The Japanese edition (file c5X2, paragraphs 327 and 329) describes a spear worked with gold and a long spear engraved with a gold design; the English prints "a masterfully crafted spear" and "An engraved golden long spear".
+[@fc01-reveal]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | After revealing the spear, she spins it and takes a fighting stance against Chloe Lolo.
+[@fc01-alias]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The weapon makes Chloe realize that Anya is Vana Alfi, the vanished golden-spear wielder and younger sister of the silver-spear cat person called the fastest in a Goddess of Beauty's great Familia.
+[@ar02-use]: AR02 | Chapter 3: A Gray Wildflower | In Astrea Record 2, Anya tears away the cloth and sweeps an Evils soldier off his feet with the golden long spear.
+[@fc02-carry]: FC02 | Ali and the 8 Followers | In Familia Chronicle 2, Allen Fromel knows she carries a golden long spear, although she does not have it with her in that encounter.
+[@fm14-run]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | In DanMachi 14, she runs while twirling the long spear with one hand.
+[@fm14-mermen]: FM14 | Chapter 8: The Voice of the Hammer | She also sweeps through a group of mermen, cutting their bodies in two with the golden spear.
+[@fm18-spin]: FM18 | Chapter 9: Flower Language for You | In DanMachi 18, she spins the spear overhead as Freya Familia's warriors charge.
+[@fm18-duel]: FM18 | Chapter 9: Flower Language for You | Anya readies her golden spear and charges to meet Allen Fromel's silver spear.
+[@fm18-pressure]: FM18 | Chapter 9: Flower Language for You | Their spears clash repeatedly, and her golden spear strains under the accelerating silver spear.

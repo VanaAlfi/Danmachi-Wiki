@@ -41,7 +41,7 @@ DanMachi 15 explains how such a Familia works. Rakia's soldiers and knights numb
 
 ### Wars and the Crozzo magic swords
 
-Rakia has been the aggressor in many wars over the centuries.[@fm08-rakia] In DanMachi 4 [[lyu-leon|Lyu]] tells Bell its history. The Crozzo family made its magic swords in exchange for nobility, and an army of common soldiers armed with them became "a mobile inferno". The wars changed the face of the world, and finally their flames burned down a forest of the elves. The surviving elves joined Familias abroad and took their revenge once Rakia no longer had the swords.[@fm04-lyu] Sword Oratoria 5 says the records describe Rakia using Crozzo swords even stronger than ordinary magic.[@so05-records] Shreme Castle, the [[war-game|War Game]] site of DanMachi 6, was long a Rakian strategic point, until more than a century ago.[@fm06-shreme]
+Rakia has been the aggressor in many wars over the centuries.[@fm08-rakia] In DanMachi 4 [[lyu-leon|Lyu]] tells Bell its history. The Crozzo family made its magic swords in exchange for nobility, and an army of common soldiers armed with them became "a mobile inferno". The wars changed the face of the world, and finally their flames burned down a forest of the elves. The surviving elves joined Familias abroad and took their revenge once Rakia no longer had the swords.[@fm04-lyu] Sword Oratoria 5 says the records describe Rakia using Crozzo swords even stronger than ordinary magic.[@so05-records] [[geography#ruins-near-orario-shreme-castle-ruins|Shreme Castle]], the [[war-game|War Game]] site of DanMachi 6, was long a Rakian strategic point, until more than a century ago.[@fm06-shreme]
 
 ## Marius Victrix Rakia {#marius-victrix-rakia}
 

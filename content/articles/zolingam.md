@@ -46,7 +46,7 @@ Solingen is a fortress city. Its walls are some thirty meders high, not as tall 
 
 Many smithing Familias have settled in Solingen. [[hephaistos-familia|Hephaistos Familia]] reportedly comes there for raw materials and supports several workshops, and many residents become Hephaistos's followers.[@fc03-city] Hephaistos herself "visits Zolingam fairly often".[@fc03-hephaistos]
 
-[[cecille-blackliza|Cecille]]'s father, a master smith, tells Lyu that Solingen makes "The best-selling weapons". Bulk orders come from [[empire|the empire]], Dizara and the [[kaios-desert|Kaios Desert]]. With mass production the norm, he says, its smiths have forgotten who will use their weapons and can never complete a masterpiece.[@fc03-smiths] Solingen's strength is many solid weapons rated in the 80s or 90s, but not a single great weapon above 100 points.[@fc03-smiths]
+[[cecille-blackliza|Cecille]]'s father, a master smith, tells Lyu that Solingen makes "The best-selling weapons". Bulk orders come from [[empire|the empire]], [[geography#world-powers-and-nations-dizara|Dizara]] and the [[kaios-desert|Kaios Desert]]. With mass production the norm, he says, its smiths have forgotten who will use their weapons and can never complete a masterpiece.[@fc03-smiths] Solingen's strength is many solid weapons rated in the 80s or 90s, but not a single great weapon above 100 points.[@fc03-smiths]
 
 ## Solingen's spirits and the spirit forge {#spirits}
 

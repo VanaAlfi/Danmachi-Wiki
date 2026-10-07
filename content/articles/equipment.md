@@ -7,9 +7,10 @@
   "continuity": "light-novel",
   "summary": "The named weapons, armour and magic items of the English novels, one searchable section per item: Bell's Hakugen and Pyonkichi armour, Welf's Shikou-Kazuki, Mikoto's blades, Ouka's Kougou, Finn's Fortia Spear, Tsubaki's Roland series, Hegni's Victim Abyss, Hedin's Dizaria, Tione's Zolas, the staffs of Lefiya and Riveria, Filvis's Tear Pain, Lyu's swords, Bete's Frosvirt, spirit cloth, Asfi's Talaria and Burst Oil, Fels's Golem, and a table of briefly named gear.",
   "aliases": ["Named gear", "Gear", "Named equipment", "Weapons and armour", "Weapons and armor", "Named weapons", "Superior", "Superiors"],
-  "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vols. 1–13, Familia Chronicle Vols. 1–3, Astrea Record Vols. 2 and 3 and Minor Myths and Legends Vols. 1 and 2",
+  "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vols. 1–13, Familia Chronicle Vols. 1–3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hestia-knife", "ushiwakamaru", "desperate", "urga", "magic-sword", "goliath-robe", "metals", "potions", "welf-crozzo", "tsubaki", "hephaistos-familia", "goibniu-familia"],
   "sections": [
+    {"anchor": "guild-dagger-and-light-armour", "title": "Bell's Guild dagger and light armour", "summary": "The dagger and light armour Bell Cranell receives from the Guild when he starts as an adventurer.", "aliases": []},
     {"anchor": "hakugen", "title": "Hakugen", "summary": "Bell's white longknife, made by Welf from a unicorn horn: lighter and sharper than the Ushiwakamaru, and able to draw out poison.", "aliases": []},
     {"anchor": "shikou-kazuki", "title": "Shikou-Kazuki", "summary": "The crimson magic sword Welf forges in the Dungeon in DanMachi 14 and shows to Hephaistos in DanMachi 15.", "aliases": ["Shikou Kazuki", "Kazuki"]},
     {"anchor": "tenka-and-chizan", "title": "Tenka and Chizan", "summary": "A pair of daggers forged by Goibniu Familia: Takemikazuchi keeps the white Tenka and gives the black Chizan to Mikoto.", "aliases": ["Tenka", "Chizan"]},
@@ -78,6 +79,7 @@
 | [[#futaba|Futaba]] | Twin shortswords | Lyu Leon | Not named in the checked text[@fm16-futaba] |
 | [[#frosvirt|Frosvirt]] | Metal boots | [[bete-loga|Bete Loga]] | Hephaistos Familia[@so01-frosvirt] |
 | [[#pyonkichi|Pyonkichi]] | Light armour | Bell Cranell | Welf Crozzo[@fm04-pyonkichi] |
+| [[#guild-dagger-and-light-armour|Guild dagger and light armour]] | Dagger; light armour | Bell Cranell | Issued by the Guild[@fm02-provisions] |
 | [[#salamander-wool|Salamander wool]] | Spirit cloth | Many adventurers | Salamanders[@fm05-salamander] |
 | [[#undine-cloth|Undine cloth]] | Spirit cloth | Many adventurers | Water spirits[@fm12-undine] |
 | [[#talaria|Talaria]] | Winged sandals | [[asfi|Asfi Al Andromeda]] | Asfi[@so03-talaria] |
@@ -104,7 +106,7 @@ Tenka and Chizan ({{ja|天華}} and {{ja|地残}}, written *heavenly flower* and
 
 ### Kotetsu {#kotetsu}
 
-Kotetsu ({{ja|虎鉄}}, written *tiger iron*)[@kotetsu.fm08-ja] is the katana Welf forges for Mikoto in DanMachi 8, with a black-and-silver blade 90 celch long and a black-lacquered sheath bearing a tiger mark. Welf forged it to rival Chizan, her parting gift from Takemikazuchi, and is pleased with how it turned out. He proposes "Iron Tiger, Kotetsu…No, Stripey, Shimajirou"; Haruhime finds "Master Stripey" "quite cute", and Mikoto, begging on her hands and knees, wins "the battle to give the new katana the name Kotetsu".[@fm08-kotetsu, fm08-kotetsu-name] She fights with it from then on: in DanMachi 8 she sheathes Chizan and "drew Kotetsu in one swift motion"; in DanMachi 10, when "A creature resembling a lamia" runs amok in the city, she raises "her long katana, Kotetsu", and she and Welf cross greatsword and katana "to make a wall and stop its advance"; and DanMachi 11 calls it "her third-tier adventurer’s weapon".[@fm08-fight, fm10-kotetsu, fm11-kotetsu] In DanMachi 12 she returns the "Iron Tiger Kotetsu" to her hip to draw [[#shunsan|Shunsan]].[@fm12-shunsan]
+Kotetsu ({{ja|虎鉄}}, written *tiger iron*)[@kotetsu.fm08-ja] is the katana Welf forges for Mikoto in DanMachi 8, with a black-and-silver blade 90 celch long and a black-lacquered sheath bearing a tiger mark. Welf forged it to rival Chizan, her parting gift from Takemikazuchi, and is pleased with how it turned out. He proposes "Iron Tiger, Kotetsu…No, Stripey, Shimajirou"; Haruhime finds "Master Stripey" "quite cute", and Mikoto, begging on her hands and knees, wins "the battle to give the new katana the name Kotetsu".[@fm08-kotetsu, fm08-kotetsu-name] She fights with it from then on: in DanMachi 8 she sheathes Chizan and "drew Kotetsu in one swift motion"; in DanMachi 10, when "A creature resembling a lamia" runs amok in the city, she raises "her long katana, Kotetsu", and she and Welf cross [[welf-crozzo#greatsword|greatsword]] and katana "to make a wall and stop its advance"; and DanMachi 11 calls it "her third-tier adventurer’s weapon".[@fm08-fight, fm10-kotetsu, fm11-kotetsu] In DanMachi 12 she returns the "Iron Tiger Kotetsu" to her hip to draw [[#shunsan|Shunsan]].[@fm12-shunsan]
 
 ### Shunsan {#shunsan}
 
@@ -192,6 +194,22 @@ He wears Pyonkichi in the [[war-game|War Game]] and after it, and by DanMachi 10
 
 **Name:** DanMachi 2 prints *Pyonkina*; DanMachi 4, 7, 10 and 12 print *Pyonkichi*. Fandom lists models MK-II to MK-V; the checked text names MK-II (as Pyonkina) and MK-III and speaks of a fifth incarnation.[@fm02-sheet, fm04-mk3, fm10-pyonkichi]
 
+### Bell's Guild dagger and light armour {#guild-dagger-and-light-armour}
+
+[[bell-cranell|Bell Cranell]] receives a **dagger and light armour** from the [[guild|Guild]].[@fm02-provisions] [[eina-tulle|Eina Tulle]] hands Bell Cranell the Guild provisions, which he orders on credit because his newly founded Familia cannot afford its own equipment.[@ss01-starter] His initial dagger has a blade twenty celch long and is his only weapon.[@fm01-size]
+
+#### Guild equipment by volume {#guild-dagger-and-light-armour-guild-equipment-by-volume}
+
+The dagger costs 3,600 valis, borrowed from the Guild; by this point Bell Cranell has repaid both its cost and his armour debt.[@fm01-cost] When he attacks the [[monsters#silverback|silverback]], the dagger fails to penetrate its fur and its edge chips.[@fm01-chip]
+
+In DanMachi 2, Bell Cranell values his current Guild light armour at 5,000 valis.[@fm02-price] The armour he picks out, made by [[welf-crozzo|Welf Crozzo]], is much lighter than the Guild provision; he feels its protection is reliable, although tapping it proves little.[@fm02-replace] He no longer wears the Guild's equipment, but still carries the dagger, tucked into his new armour with the [[hestia-knife|Hestia Knife]].[@fm02-outfit] Fighting a [[monsters#killer-ant|killer ant]], Bell Cranell passes the dagger from his left hand to his right and strikes between sections of its shell.[@fm02-use]
+
+In DanMachi 4, he throws the dagger into the left eye of a silverback behind Welf Crozzo.[@fm04-throw] After two months of use, Bell Cranell decides to retire the lowest-rank Guild dagger when commissioning another weapon from Welf Crozzo.[@fm04-retire] In Minor Myths and Legends 1, Bell Cranell gives his disused dagger to Dald without payment, and Dald frames it for display in his shop.[@ss01-display]
+
+#### Other owners {#guild-dagger-and-light-armour-other-owners}
+
+[[asfi|Asfi Al Andromeda]] also carries a dagger, drawing it from inside her white cloak.[@fm05-asfi] [[miach-familia#nahza-ersuisu|Nahza]] of Miach Familia wears asymmetric light armour over her travelling clothes while shooting at monsters.[@fm04-nahza]
+
 ### Spirit cloth {#spirit-cloth}
 
 Spirit cloth ({{ja|精霊の護布}}, written *spirit's protective cloth*)[@spirit-cloth.fm05-ja] is fabric "infused with the protection of spirits", with high defence against certain elements: "the salamander wool was imbued with fire resistance, undine cloth with water resistance, and so on". Against a spirit's own magic it creates "a massive repulsion, negating the magic".[@so12-flags] DanMachi 5 explains that spirits ("fairies" in its wording), such as salamanders, sylphs, undines and gnomes, are classified by element and habitat, so "Fairy Protection" items vary with the kind of spirit that made them.[@fm05-salamander] DanMachi 12 calls the material "spirit protective cloth", and Sword Oratoria 6 says that such cloth "could outperform even the armor of the most advanced smiths".[@fm12-undine, so06-undine]
@@ -214,12 +232,15 @@ In Sword Oratoria 6 Loki has undine-cloth swimsuits made for the Amazons, whose 
 
 ### Talaria {#talaria}
 
-Talaria ({{ja|飛翔靴}}, written *flying shoes*)[@talaria.fm05-ja] are [[asfi|Asfi Al Andromeda]]'s winged sandals: "Winged sandals, Talaria. A high-level magic item reserved for Perseus herself."[@fm05-talaria] Asfi made them ("Talaria—a magic item created by Perseus herself"), and "Her knowledge as the creator of Talaria allowed her to move through the air at any speed or direction she wished".[@so03-talaria] "The effects of Talaria were influenced by the user’s Status": with the Level Boost, Asfi flies much faster than normal.[@so12-talaria]
+Talaria ({{ja|飛翔靴}}, written *flying shoes*)[@talaria.fm05-ja] are [[asfi|Asfi Al Andromeda]]'s winged sandals: "Winged sandals, Talaria. A high-level magic item reserved for Perseus herself."[@fm05-talaria] With them Asfi alone can take to the air.[@fm05-talaria-goliath] A princess of an island nation who longed to travel the skies made them long ago with [[development-ability#enigma|Enigma]].[@fm05-talaria-goliath] Asfi made them ("Talaria—a magic item created by Perseus herself"), and "Her knowledge as the creator of Talaria allowed her to move through the air at any speed or direction she wished".[@so03-talaria] "The effects of Talaria were influenced by the user’s Status": with the Level Boost, Asfi flies much faster than normal.[@so12-talaria] At rest they show golden wing decorations around each sandal; when Asfi strokes them and calls their name, each spreads two wings, four in all.[@fm05-talaria-goliath] Bell supposes that her ability to fly is little known in [[orario|Orario]].[@fm08-talaria-rakia]
 
+- In Astrea Record 1, still unfinished, the sandals give only midair acceleration, not flight, yet with them and bomb blasts Asfi snatches [[riveria|Riveria Ljos Alf]] and [[gareth|Gareth Landrock]] from [[alfia|Alfia]].[@ar01-talaria-prototype]
+- In DanMachi 5 she reluctantly uses them before many people against the [[goliath|Goliath]], flying before its face and looping around it.[@fm05-talaria-goliath]
 - In DanMachi 8 she marks the position of Rakia's army from the air and offers to carry her companions "one by one using Talaria".[@fm08-talaria]
-- In Sword Oratoria 3 an enemy stops her full-speed dive and smashes the wings underfoot; in Sword Oratoria 12 everything below her right knee, "including the Talaria", is charred black.[@so03-talaria, so12-talaria]
-- In DanMachi 16 she searches from the sky, invisible, with Talaria and [[hades-head|Hades Head]]; in the Familia War of DanMachi 18 Talaria is banned.[@fm16-talaria, fm18-talaria]
-- In DanMachi 19 [[hermes|Hermes]] borrows Asfi's spares, and as he and Bell fall, "Talaria’s four wings unfurl".[@fm19-talaria]
+- In Sword Oratoria 3 an enemy stops her full-speed dive and smashes the wings underfoot; in Sword Oratoria 12 everything below her right knee, "including the Talaria", is charred black.[@so03-talaria, so12-talaria] Before that, against [[filvis|Filvis Challia]] she flies sideways out of sight, then again and again gathers fallen weapons, flies up and hurls them down.[@so12-talaria-filvis] Afterwards she fights on with only one Talaria to control herself.[@so12-talaria-charred]
+- In DanMachi 16 she searches from the sky, invisible, with Talaria and [[hades-head|Hades Head]]; in the Familia War of DanMachi 18 Talaria is banned.[@fm16-talaria, fm18-talaria] Her search from the sky in DanMachi 16 finds [[bell-cranell|Bell Cranell]].[@fm16-talaria-search] In Familia Chronicle 3, before Lyu leaves Orario, Asfi gives her a magic item to break as a signal, promising to fetch her with Talaria if she would be too late for the [[war-game|War Game]].[@fc03-talaria-promise] Asfi supposes she was barred from the Familia War because flying she could find [[freya|Freya]] or end it by surprise; [[hermes|Hermes]] says that, more precisely, Talaria was.[@fm18-talaria-ban] Answering the signal, she flies Lyu over the [[geography#ruins-near-orario-orza-ruins|Orza city ruins]] with Talaria and drops her there.[@fm18-talaria-orza]
+- In DanMachi 17, flying with the unconscious [[lyu-leon|Lyu Leon]], Asfi forgets to go invisible; from the sky far from Orario she alone sees a goddess's charm cover the city.[@fm17-talaria-lyu] She flies [[hestia|Hestia]] to the roof of [[babel|Babel]], and Hestia later leaps from her arms into Bell's.[@fm17-talaria-babel]
+- In DanMachi 19 [[hermes|Hermes]] borrows Asfi's spares, and as he and Bell fall, "Talaria’s four wings unfurl".[@fm19-talaria] Bell wears the spare in a fall into the [[school-district|School District]] and cannot fully brake though its four wings unfurl; Hermes then takes it back.[@fm19-talaria-spare]
 
 ### Burst Oil {#burst-oil}
 
@@ -255,11 +276,12 @@ The Golem is [[fels|Fels]]'s "own magic item, dispatched into the sewer system a
 | Red spear (Fandom: Red Spear) | Dix Perdix | A "wickedly curved red spear", described rather than named, with "a curse built in"; see [[ikelos-familia#dix-perdix|Dix Perdix]].[@fm10-spear] |
 | Magic Eater ({{ja|魔咆手}}, written *magic-roaring hand*) | [[fels|Fels]] | Gloves, "magic items designed for attacking", a projectile weapon for Fels's own use; in Astrea Record 2 "Fels unleashed Magic Eater" on Evils cultists.[@fm10-magiceater, ar02-magiceater, ar02-magiceater-ja] |
 | Seeker Powder | Fels | Sprinkled on a map, it shows where everyone is (DanMachi 11); see [[oculus|Oculus]].[@fm11-seeker] |
-| Crimson whip | Tamers | In Astrea Record 3 Valletta has a [[hexers|hexer]] with Enigma make "a prototype magic item—a crimson whip that allowed any monster to be tamed, regardless of the tamer’s skill", for Jura and [[rudra-familia|Rudra Familia]]; in Familia Chronicle 2 the god Resheph hands the one tamer among his followers "a crimson whip with jewels in the end of it".[@ar03-whip, fc02-whip] |
+| Crimson whip | Tamers | In Astrea Record 3 Valletta has a [[hexers|hexer]] with Enigma make "a prototype magic item—a crimson whip that allowed any monster to be tamed, regardless of the tamer’s skill", for Jura and [[rudra-familia|Rudra Familia]]; in Familia Chronicle 2 the god [[resheph|Resheph]] hands the one tamer among his followers "a crimson whip with jewels in the end of it".[@ar03-whip, fc02-whip] |
 | Silver barrette (Fandom: Silver Barrette) | Lefiya | The "silver barrette accessory" she ties her hair back with.[@so04-barrette] |
 | Schweizerdegen | Bell | DanMachi 3's end-of-volume card: a baselard that "once decorated the walls of a gnome shop", worth 19,000 valis, "a masterwork" good enough for beginning adventurers, which Bell first received as a parting present from a prum who could not be candid.[@fm03-schweizerdegen] |
 | Backpack: Hermes Special | Lilly | DanMachi 15's equipment card: "brand-new gear to match her weapons", designed by [[hermes-familia|Hermes Familia]] and "sold directly on the marketplace" alongside Perseus's magic items, at 49,800 valis against about 2,000 for a standard backpack.[@fm15-backpack] |
 | Flash grenades and smoke bombs | Various | Thrown items: in DanMachi 7 [[mikoto|Mikoto]] finds "flash grenades and smoke bombs" in a vault and fills Bell's item pouch, and she uses smoke bombs again in DanMachi 18; [[valletta|Valletta]] signals with "a flash bomb" in Astrea Record 3, and Chloe, as Black Cat, throws "a smoke ball" in Familia Chronicle 1.[@fm07-flash, fm18-smoke, ar03-flashbomb, fc01-smoke] |
+| Smoke ball | Chloe; also Mikoto and Lilly (smoke bombs) | [[chloe|Chloe Lolo]] throws a smoke ball onto the floor while fighting [[lyu-leon|Lyu Leon]].[@fc01-throw] Lyu Leon recognizes that she must escape the smoke-filled corridor.[@fc01-cover] Chloe Lolo combines the smoke with illusions while hiding her presence and footsteps, making the real attacker difficult to distinguish.[@fc01-combo] Against [[anya-fromel|Anya Fromel]], Chloe Lolo throws knives and then bursts another smoke ball at her own feet without waiting to see whether the knives were deflected.[@fc01-repeat] Yamato Mikoto also uses a smoke bomb taken from the vault in DanMachi 7; in DanMachi 18, Lilliluka Erde throws a black ball identified as a smoke bomb, more precisely a magic item made by [[fels|Fels]].[@fm07-bomb, fm18-bomb] |
 
 [@fm02-gift]: FM02 | Chapter 1: Date, Then Supporter | Eina's gift; "I can feel gentle warmth flowing from the emerald protector on my arm."
 [@fm02-protector]: FM02 | Chapter 1: Date, Then Supporter | "The new armor was so light that he could barely feel it."; "His new emerald-green protector lightly sparkled on his left arm."
@@ -462,3 +484,35 @@ The Golem is [[fels|Fels]]'s "own magic item, dispatched into the sewer system a
 [@zolas.so11-ja]: SO11 | | The Japanese edition writes the name with kanji meaning curved short sword, read Zolas.
 [@roland-series.so11-ja]: SO11 | | The Japanese edition (file c4FG, paragraph 79) prints the name in katakana in the Japanese order, Halberd Roland, as for the other Roland weapons.
 [@so09-dress-ja]: SO09 | | The Japanese data page (file c60Z, an image read in the Sword Oratoria 9 check) names Aiz's armour in katakana, Armor Dress Loki Custom.
+[@fm02-provisions]: FM02 | Chapter 1: Date, Then Supporter | Bell receives a dagger and light armour from the Guild.
+[@ss01-starter]: SS01 | | Eina hands Bell the Guild provisions, which he orders on credit because his newly founded Familia cannot afford its own equipment.
+[@fm01-size]: FM01 | Chapter 2: That’s Why I Run | His initial dagger has a blade twenty celch long and is his only weapon. The Japanese edition (file cYT, paragraph 139) gives the length of the blade as 20 celch; the English prints "This particular dagger is about twenty celch long and is my only weapon".
+[@fm01-cost]: FM01 | Chapter 2: That’s Why I Run | The dagger costs 3,600 valis, borrowed from the Guild; by this point Bell has repaid both its cost and his armour debt.
+[@fm01-chip]: FM01 | Chapter 6: Bump of Chicken! | When he attacks the silverback, the dagger fails to penetrate its fur and its edge chips. The Japanese edition (file c4N9, paragraphs 242 to 244) has the edge chip and its fragments fly; the English prints "—The blade! It’s broken?!"
+[@fm02-price]: FM02 | Chapter 1: Date, Then Supporter | In DanMachi 2, Bell values his current Guild light armour at 5,000 valis.
+[@fm02-replace]: FM02 | Chapter 1: Date, Then Supporter | The armour he picks out, made by Welf, is much lighter than the Guild provision. The Japanese edition (file cUK, paragraph 84) has him feel that its protection is assured; the English prints "I think it’s sturdier than my Guild armor, too".
+[@fm02-outfit]: FM02 | Chapter 1: Date, Then Supporter | "Now that he no longer had to wear Guild provision equipment, he looked more like a full-fledged adventurer"; "dagger and Divine Knife tucked into the armor behind his lower back".
+[@fm02-use]: FM02 | Chapter 2: The Supporter’s Situation | Fighting a killer ant, Bell passes the dagger from his left hand to his right and strikes between sections of its shell.
+[@fm04-throw]: FM04 | Chapter 3: The Smith’s Situation | In DanMachi 4, he throws the dagger into the left eye of a silverback behind Welf. The Japanese edition (file c2R2, paragraph 100) names the left eye; the English prints "straight into the eye of the silverback behind him".
+[@fm04-retire]: FM04 | Chapter 3: The Smith’s Situation | After two months of use, Bell decides to retire the lowest-rank Guild dagger when commissioning another weapon from Welf. The Japanese edition (file c2R2, paragraph 723) says these two months; the English prints "I’ve used my dagger for about two months already".
+[@ss01-display]: SS01 | | In Minor Myths and Legends 1, Bell gives his disused dagger to Dald without payment, and Dald frames it for display in his shop.
+[@fm05-asfi]: FM05 | Chapter 3: Dungeon Death March | Asfi also carries a dagger, drawing it from inside her white cloak.
+[@fm04-nahza]: FM04 | Quest X Quest | Nahza of Miach Familia wears asymmetric light armour over her travelling clothes while shooting at monsters.
+[@fc01-throw]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe throws a smoke ball onto the floor while fighting Lyu.
+[@fc01-cover]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Lyu recognizes that she must escape the smoke-filled corridor.
+[@fc01-combo]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe combines the smoke with illusions, hiding her presence and footsteps. The Japanese edition (file c5X2, paragraph 184) says she shuts off even her faint footsteps, so that the real one and the fakes cannot be told apart; the English prints "with only the faintest footsteps separating the two".
+[@fc01-repeat]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Against Anya, Chloe throws knives and bursts another smoke ball at her own feet without waiting to see whether they were deflected.
+[@fm07-bomb]: FM07 | Chapter 6: Yearning of a Hero | Mikoto uses a smoke bomb, one of the items she took from the vault.
+[@fm18-bomb]: FM18 | Chapter 9: Flower Language for You | Lilly throws a black ball, a smoke bomb, more precisely a magic item: Fels's black mist.
+[@fm05-talaria-goliath]: FM05 | Chapter 6: Praise to the Heroes | Asfi alone can fly with them; a princess of an island nation made them long ago with Enigma; golden wing decorations that spread into four wings; she uses them against the Goliath. The Japanese edition (file part0027, paragraph 642) says that a certain sea nation's princess made them; the English prints "the young queen of an island nation".
+[@fm08-talaria-rakia]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Asfi marks Rakia's army from the air, offers to carry Bell's group, and Bell muses that few know she flies.
+[@ar01-talaria-prototype]: AR01 | Chapter 11: Absolute Evil | The unfinished winged sandals give only midair acceleration; Asfi snatches Riveria and Gareth from Alfia.
+[@so12-talaria-filvis]: SO12 | Chapter 8: A Heroes’ Chorus | Against Filvis: flight depends on Status; sidestep by flight; weapons gathered, carried up and thrown.
+[@so12-talaria-charred]: SO12 | Chapter 8: A Heroes’ Chorus | Asfi's right leg below the knee is charred with the Talaria; she fights on with one Talaria.
+[@fm16-talaria-search]: FM16 | Chapter 6: The Wish’s Cost | Invisible with Talaria and Hades Head, Asfi searches from the sky and finds Bell.
+[@fm17-talaria-lyu]: FM17 | Chapter 1: The Opening of Hostilities | Asfi flies carrying the unconscious Lyu and alone sees the charm cover Orario from the sky.
+[@fm17-talaria-babel]: FM17 | Chapter 5: The End of Her World | Asfi lands Hestia on Babel's roof; Hestia leaps from her arms into Bell's.
+[@fc03-talaria-promise]: FC03 | The Locus of Stars | Asfi's signal item and her promise to fetch Lyu with Talaria if she would arrive late.
+[@fm18-talaria-ban]: FM18 | Chapter 8: The Great Familia War | Asfi and Hermes on the ban of Talaria from the Familia War.
+[@fm18-talaria-orza]: FM18 | Chapter 9: Flower Language for You | Answering the signal, Asfi flies Lyu over the Orza ruins and drops her there. The Japanese edition (file part0026, paragraph 455) names Talaria as the means; the English prints "Asfi carried only Lyu" and names no item.
+[@fm19-talaria-spare]: FM19 | Chapter 2: School Heaven and Hell | Bell wears Asfi's spare Talaria in a fall into the School District; Hermes takes it back.

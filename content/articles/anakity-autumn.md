@@ -49,7 +49,7 @@ Anakity has shoulder-length black hair and black-furred ears and tail.[@so04-aki
 
 ## The key to Knossos
 
-In Sword Oratoria 10 Anakity sees through Lilly's disguise, and Finn changes his plan: Lilly, transformed into an [[armed-monsters|armed monster]], is made to run around carrying a replica key to draw out the [[evils|Evils]]' detached force.[@so10-detachment] When five of them come for it, Anakity cuts down three in the blink of an eye.[@so10-detachment] She tells Lilly she is "pretty angry" about Raul, smiles, says "this just makes us even", and lets her go.[@so10-angry] From the force's leader she takes a real Daedalus Orb, the key Loki Familia has been chasing since it fled Knossos, and hands it to [[riveria|Riveria]].[@so10-orb]
+In Sword Oratoria 10 Anakity sees through Lilly's disguise, and Finn changes his plan: Lilly, transformed into an [[armed-monsters|armed monster]], is made to run around carrying a replica key to draw out the [[evils|Evils]]' detached force.[@so10-detachment] When five of them come for it, Anakity cuts down three in the blink of an eye.[@so10-detachment] She tells Lilly she is "pretty angry" about Raul, smiles, says "this just makes us even", and lets her go.[@so10-angry] From the force's leader she takes a real [[knossos#daedalus-orb|Daedalus Orb]], the key Loki Familia has been chasing since it fled Knossos, and hands it to [[riveria|Riveria]].[@so10-orb]
 
 ## Trusting the Xenos
 

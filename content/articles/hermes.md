@@ -41,7 +41,7 @@ In DanMachi 5 Hermes tells [[hestia|Hestia]] that the man who raised Bell faked 
 | DanMachi 7 | Delivers a [[killing-stone|Killing Stone]] to [[ishtar|Ishtar]] and later admits it was he who told Ishtar about Bell.[@fm07-stone, fm07-admits] Sword Oratoria 7 confirms that he deliberately set Ishtar and [[freya|Freya]] against each other, judging Ishtar a danger to [[orario|Orario]].[@so07-plan] |
 | DanMachi 9 | Sends Bell away from [[ikelos|Ikelos]], "an old friend from our days back in the heavenly realm", and confronts him over his Familia's part in a smuggling ring.[@fm09-ikelos] |
 | DanMachi 10 | Tracks Ikelos down on a rooftop in [[daedalus-street|Daedalus Street]] and learns from him about Knossos; later persuades him to give himself up to Gareth so that [[fels|Fels]] can escape.[@fm10-ikelos, fm10-fels] |
-| Sword Oratoria 10 | Obtains a Daedalus Orb from Freya.[@so10-orb] |
+| Sword Oratoria 10 | Obtains a [[knossos#daedalus-orb|Daedalus Orb]] from Freya.[@so10-orb] |
 | DanMachi 11 | Has Asfi forge Daedalus's notebook, and coerces the [[xenos|Xenos]] into staging an attack, carried out by [[gros|Gros]], who volunteers, and three others, meant to force Bell to kill them; he places a linked bracelet on [[eina-tulle|Eina]] as the target. Bell's trust in Gros and [[asterios|Asterios]]'s arrival wreck the plan.[@fm11-plan, fm11-bracelet] |
 | Sword Oratoria 11 | Proposes the Guild expedition that keeps Bell away from the assault on [[knossos|Knossos]].[@so11-hermes] |
 | DanMachi 17 | Notices Freya's charm through contradictions and notes he left for himself across repeated memory resets. His Familia delivers firewood treated with Hestia's [[ichor|ichor]] to homes across the city, which lets Hestia break the charm.[@fm17-hermes, fm17-firewood] |

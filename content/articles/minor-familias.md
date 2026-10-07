@@ -49,7 +49,7 @@ In Sword Oratoria 8, assassins' cloaks bear a hooded, masked lion's-head insigni
 
 ## Thor Familia {#thor-familia}
 
-In Sword Oratoria 14, the newly descended [[loki|Loki]] says [[freya|Freya]] and Thor preceded her as she plans her own Familia.[@so14-thor] In DanMachi 20, [[leon-verdenberg|Leon Verdenberg]] states that [[orario|Orario]] and many Familias including Thor Familia ({{ja|トール・ファミリア}})[@fm20-thor-ja] were involved in constructing the Great Dragon Wall.[@fm20-wall]
+In Sword Oratoria 14, the newly descended [[loki|Loki]] says [[freya|Freya]] and Thor preceded her as she plans her own Familia.[@so14-thor] In DanMachi 20, [[leon-verdenberg|Leon Verdenberg]] states that [[orario|Orario]] and many Familias including Thor Familia ({{ja|トール・ファミリア}})[@fm20-thor-ja] were involved in constructing the [[geography#the-north-of-the-continent-great-dragon-wall|Great Dragon Wall]].[@fm20-wall]
 
 
 [@fm18-orders]: FM18 | Chapter 8: The Great Familia War | Lilliluka orders mages from Serket through Ratri Familia to concentrate fire on the center of the line.

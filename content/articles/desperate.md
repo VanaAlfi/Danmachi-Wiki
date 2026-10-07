@@ -7,8 +7,11 @@
   "continuity": "light-novel",
   "summary": "Aiz Wallenstein's silver saber, a Superior weapon made by Goibniu Familia's High Smiths with the Durandal trait, which means it cannot break, though it needs sharpening. It is her sword from Astrea Record 3 to Sword Oratoria 12, where a crack finally runs through it under the strain of her black wind. Durandal weapons made by Hephaistos Familia also arm Loki Familia's other top fighters in Sword Oratoria 4.",
   "aliases": ["Durandal", "Durandal weapon", "Durandal weapons", "the Unbreaking", "Blade Roland", "Roland Blade", "Dual Roland"],
-  "spoilers": "DanMachi Vol. 10, Sword Oratoria Vols. 1, 3, 4, 6, 7, 11, 12 and Astrea Record Vol. 3",
+  "spoilers": "DanMachi Vols. 10 and 15, Sword Oratoria Vols. 1–4, 6–8, 11, 12 and Astrea Record Vol. 3",
   "related": ["aiz-wallenstein", "goibniu", "hephaistos-familia", "loki-familia", "alfia", "delphyne", "ottar", "magic-sword"],
+  "sections": [
+    {"anchor": "rapier", "title": "Rapier", "summary": "Goibniu lends Aiz Wallenstein a rapier while Desperate is being repaired.", "aliases": []}
+  ],
   "infobox": {
     "title": "Desperate",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -29,7 +32,7 @@
 
 - **A saber.** Beside Tiona's huge weapon it looks like a toothpick, but no matter how many bodies it pierces, "the silver saber never lost its luster".[@so01-saber]
 - **Durandal.** Forged by smiths with a god's blessing, it was given "a superior characteristic: Durandal, the Unbreaking"; it is physically impossible for it to snap in combat.[@so01-saber]
-- **Upkeep.** It does need sharpening to keep its edge. Such weapons usually need no serious maintenance, but Aiz is not a normal adventurer.[@so01-sharpen] Its repairs, the forty-million-valis bill and the rapier Goibniu lends her meanwhile are described on [[goibniu|Goibniu]]'s page.
+- **Upkeep.** It does need sharpening to keep its edge. Such weapons usually need no serious maintenance, but Aiz is not a normal adventurer.[@so01-sharpen] Its repairs, the forty-million-valis bill and the [[#rapier|rapier]] Goibniu lends her meanwhile are described on [[goibniu|Goibniu]]'s page.
 - **[[metals#orichalcum|Orichalcum]].** Sword Oratoria 7 calls orichalcum "the master ingot, integral in the creation of the Durandal from which Superior-grade weapons, like Aiz's Desperate, were forged".[@so07-orichalcum] DanMachi 10 likewise says orichalcum can be forged into "unbreakable Durandal-class items".[@fm10-orichalcum]
 
 ## History
@@ -41,6 +44,18 @@
 | Sword Oratoria 6 | While Desperate is in maintenance, Aiz fights with a backup sword. Later, when Loki Familia's weapons are handed out, Bete takes Aiz's Desperate.[@so06-backup, so06-bete] |
 | Sword Oratoria 11 | Aiz uses it to knock away [[ottar|Ottar]]'s sword and to catch his blow.[@so11-ottar] |
 | Sword Oratoria 12 | Fighting in her black wind, Aiz does not notice when a crack runs through Desperate: even the unbreakable Durandal sword cannot endure the power of that wind.[@so12-split] |
+
+## Rapier {#rapier}
+
+[[goibniu|Goibniu]] lends [[aiz-wallenstein|Aiz Wallenstein]] a **rapier** while Desperate is being repaired.[@so02-loan] The borrowed rapier is slender, with a blade long for its kind, restrained decoration and a knuckle guard.[@so01-look] Aiz Wallenstein uses it to kill a dragonfly-shaped monster, sever a [[monsters#bugbear|bugbear]]'s arm and stab through the monster's chest.[@so01-use]
+
+### Loan history {#rapier-loan-history}
+
+During [[monsterphilia|Monsterphilia]], the rapier breaks under Aiz Wallenstein's sword techniques and the output of her wind magic.[@so01-break] In Sword Oratoria 2, she returns its fragments to Goibniu when collecting Desperate; only the hilt retains its shape.[@so02-return] In Sword Oratoria 3, Aiz Wallenstein has finished paying the rapier debt by selling [[udaeus|Udaeus]]'s drop items other than its black greatsword.[@so03-payment]
+
+### Other rapiers {#rapier-other-rapiers}
+
+[[alize-lovell|Alize Lovell]] carries a rapier and draws it against the men threatening [[lyu-leon|Lyu Leon]] in DanMachi 15.[@fm15-alize] In Sword Oratoria 8, a figure jumps from a roof and attacks an adventurer guard with a rapier.[@so08-assassin]
 
 ## Durandal weapons
 
@@ -82,3 +97,11 @@ Durandal is a trait that other Superior weapons can carry too:[@so03-durandal]
 [@ar03-cracks]: AR03 | Chapter 9: A Hero’s Trail | "her sword, Desperate, and at the cracks running along its length".
 [@so01-superior-ja]: SO01 | | The Japanese edition (file cX0, paragraph 35) writes Superior in kanji meaning special armament, with the reading Superiors.
 [@so01-durandal-ja]: SO01 | | The Japanese edition (file cX0, paragraph 34) writes the trait in kanji meaning unbreakable attribute, with the reading Durandal.
+[@so02-loan]: SO02 | Chapter 1: The Average Day | Aiz returns the rapier that Goibniu lent her while Desperate was being repaired.
+[@so01-look]: SO01 | Chapter 3: White Rabbit | The borrowed rapier: slender, long for its kind, little decoration, a knuckle guard. The Japanese edition (file c31J, paragraph 364) says its blade is long for a rapier and its decoration kept down; the English prints "A long rapier was in his hands when he returned".
+[@so01-use]: SO01 | Chapter 4: Between Tranquility and Turbulence | Aiz kills a dragonfly-shaped monster, severs a bugbear’s arm and stabs through its chest.
+[@so01-break]: SO01 | Chapter 5: To Battle | The rapier breaks under Aiz’s sword techniques and the output of her wind magic.
+[@so02-return]: SO02 | Chapter 1: The Average Day | She returns its fragments to Goibniu when collecting Desperate; only the hilt keeps its shape.
+[@so03-payment]: SO03 | Epilogue: Catching the White Rabbit | The rapier debt paid off. The Japanese edition (file c64J, paragraph 14) says she paid off the debt for the substitute rapier by selling Udaeus's drop items other than the black greatsword.
+[@fm15-alize]: FM15 | Chapter 6: Meetings and Oaths | Alize carries a rapier and draws it against the men threatening Lyu.
+[@so08-assassin]: SO08 | Chapter 3: Unshed Tears | A figure jumps from a roof, rapier drawn, and attacks the adventurer guards.

@@ -38,7 +38,7 @@
 
 ## Founding her Familia {#founding}
 
-Newly come down to the Lower World near Preblica, Loki made the fourteen-year-old [[finn-deimne|Finn]] her first follower. She recruited [[riveria|Riveria]], who had left the elves' royal forest, arranged [[gareth|Gareth]]'s release from Lonza, and created the three's ritual of stacking their hands for a vow.[@so14-founding]
+Newly come down to the Lower World near [[geography#preblica-karna-and-lonza-preblica|Preblica]], Loki made the fourteen-year-old [[finn-deimne|Finn]] her first follower. She recruited [[riveria|Riveria]], who had left the elves' royal forest, arranged [[gareth|Gareth]]'s release from [[geography#preblica-karna-and-lonza-lonza|Lonza]], and created the three's ritual of stacking their hands for a vow.[@so14-founding]
 
 ## History {#history}
 

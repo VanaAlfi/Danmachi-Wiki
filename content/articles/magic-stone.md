@@ -7,8 +7,12 @@
   "continuity": "light-novel",
   "summary": "The crystal of magical power at the core of every Dungeon monster. Removing or breaking it destroys the monster; adventurers sell stones to the Guild, and Orario's engineers turn them into lamps, stoves and other magic-stone products sold far beyond the city. Monsters that eat other monsters' stones become enhanced species.",
   "aliases": ["magic stones", "magic-stone lamp", "magic stone lamp", "magic-stone products", "shard", "drop item", "drop items", "enhanced species"],
-  "spoilers": "DanMachi Vols. 1, 4, 12, 14 and Sword Oratoria Vol. 4",
+  "spoilers": "DanMachi Vols. 1, 4, 12, 14 and Sword Oratoria Vols. 1–5, 10 and 12",
   "related": ["dungeon", "guild", "orario", "xenos", "levis", "olivas-act", "minotaur", "modi-and-magni-familias"],
+  "sections": [
+    {"anchor": "richly-colored", "title": "Richly colored magic stones", "summary": "The unusual magic stones of the flower monsters and Levis, with a richly colored centre and a dark-purple remainder (Sword Oratoria 1 to 12).", "aliases": ["Richly colored magic stone", "Vibrantly colored magic stone", "Brilliantly colored magic stone", "Deeply colored magic stone"]},
+    {"anchor": "minotaurs-magic-stone", "title": "The Minotaur's magic stone", "summary": "The Minotaur's magic stone, exchanged for 50,000 valis in DanMachi 4, while Bell keeps its horn.", "aliases": []}
+  ],
   "infobox": {
     "title": "Magic stone",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -49,6 +53,18 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 - **Creatures.** "She" revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him; he and [[levis|Levis]] are human-monster hybrids, enhanced species that grow stronger by taking in magic stones.[@so04-hybrids] Levis eats other monsters' stones to recover her strength.[@so04-levis]
 - **Xenos.** The Xenos kill ordinary monsters and eat their stones to survive; see [[xenos|Xenos]].[@fm12-enhanced]
 
+## Richly colored magic stones {#richly-colored}
+
+An unusual [[#in-monsters|magic stone]] has a **richly colored** centre and a dark-purple remainder.[@so01-core] The stones extracted from the flower monsters differ from ordinary stones, which are entirely dark purple.[@so02-flowers] In Sword Oratoria 2, the [[guild|Guild]] confiscates the large quantity of stones extracted from the flower monsters.[@so02-guild]
+
+In Sword Oratoria 3, [[olivas-act|Olivas Act]] has a richly colored magic stone embedded in his chest.[@so03-olivas] [[levis|Levis]] removes Olivas Act's stone, leaving him to crumble into ash, and [[#eating-magic-stones|eats it]].[@so03-eat] In Sword Oratoria 4, [[finn-deimne|Finn Deimne]] discusses the new [[colored-monsters|colored monsters]] bearing these stones while Levis's identity remains unresolved.[@so04-origin] The [[corrupted-spirit|corrupted spirit and demi-spirits]] encounter shows caterpillar and flower monsters offering their stones to the female-shaped plant, then turning to ash as it consumes them.[@so04-offerings]
+
+In Sword Oratoria 5, the flower monsters' richly colored stones shatter under the force of the spell [[magic#luminous-wind|Luminous Wind]] and their bodies turn to ash.[@so05-shatter] In Sword Oratoria 10, richly colored stones lie among heaps of ash ahead of the fighting elves.[@so10-remains] After [[aiz-wallenstein|Aiz Wallenstein]] destroys Levis's stone in Sword Oratoria 12, Levis collapses into ash and colored fragments remain.[@so12-end]
+
+## The Minotaur's magic stone {#minotaurs-magic-stone}
+
+The [[minotaur|Minotaur]]'s magic stone is exchanged after its body turns to ash, while [[bell-cranell|Bell Cranell]] keeps its horn.[@fm04-exchange] The stone brings 50,000 valis, and Bell Cranell believes the Minotaur was special because the exchange staff were surprised.[@fm04-value]
+
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
@@ -71,3 +87,15 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 [@so04-hybrids]: SO04 | First Chapter: And the Boy… | "implanting within him a vivid magic stone"; "a new human-monster hybrid"; she and her kind are enhanced species that grow stronger by taking in magic stones (the Japanese edition, file c2ZU).
 [@so04-levis]: SO04 | Last Chapter: To Adventure | "she had the ability to consume other monsters’ magic stones".
 [@so04-wyvern]: SO04 | Last Chapter: To Adventure | "An enhanced species was a creature that had attacked a great many other monsters and stolen their magic stones"; the king of the wyverns (the Japanese edition, file c5SA).
+[@so01-core]: SO01 | Chapter 3: White Rabbit | An unusual magic stone with a richly colored centre and a dark-purple remainder.
+[@so02-flowers]: SO02 | Chapter 3: Gekai Detective Loki | The stones extracted from the flower monsters differ from ordinary stones, which are entirely dark purple.
+[@so02-guild]: SO02 | Chapter 6: Parched Scream | The Guild confiscates the large quantity of stones extracted from the flower monsters.
+[@so03-olivas]: SO03 | Chapter 4: White-Haired Devil | Olivas Act has a richly colored magic stone embedded in his chest.
+[@so03-eat]: SO03 | Chapter 5: Hell and Hell | Levis removes Olivas Act’s stone, leaving him to crumble into ash, and eats it.
+[@so04-origin]: SO04 | First Chapter: And the Boy… | Finn discusses the new species and their richly colored stones while Levis’s identity remains unresolved.
+[@so04-offerings]: SO04 | Last Chapter: To Adventure | Caterpillar and flower monsters offer their stones to the female-shaped plant and turn to ash as it consumes them.
+[@so05-shatter]: SO05 | Chapter 3: ⅓ Pure Passion | The flower monsters’ richly colored stones shatter under the spell, called out as "Luminous Wind!!", and their bodies turn to ash.
+[@so10-remains]: SO10 | Chapter 5: Brave Soul! | Richly colored stones lie among heaps of ash ahead of the fighting elves.
+[@so12-end]: SO12 | Chapter 8: A Heroes’ Chorus | After Aiz destroys Levis’s stone, Levis collapses into ash and colored fragments remain.
+[@fm04-exchange]: FM04 | Chapter 2: Changing Environment, New Relationships | The Minotaur’s magic stone is exchanged after its body turns to ash, and Bell keeps its horn. The Japanese edition (file c1ER, paragraph 24) has Bell narrate that the stone has been exchanged and that he kept the horn; the English prints "She’d already exchanged the magic stone for money, but she held on to the horn for me".
+[@fm04-value]: FM04 | Chapter 2: Changing Environment, New Relationships | The stone brings 50,000 valis; Bell believes the Minotaur was special because the exchange staff were surprised.

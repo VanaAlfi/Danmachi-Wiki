@@ -7,8 +7,11 @@
   "continuity": "light-novel",
   "summary": "Smith from the fallen Crozzo family, the only one of them still able to forge magic swords. He joins Bell's party in DanMachi 4 and Hestia Familia in DanMachi 6.",
   "aliases": ["Welf Krozzo", "Ignis"],
-  "spoilers": "DanMachi Vols. 2–19 and Sword Oratoria Vols. 5 and 12",
+  "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vols. 5 and 12, Familia Chronicle Vol. 2 and Astrea Record Vol. 2",
   "related": ["hestia-familia", "bell-cranell", "lilliluka-erde", "hestia", "development-ability", "falna", "magic"],
+  "sections": [
+    {"anchor": "greatsword", "title": "Greatsword", "summary": "The greatswords Welf Crozzo fights with from DanMachi 4 on, the special sword he forges for Bell in DanMachi 20, and other greatsword fighters.", "aliases": ["Greatswords"]}
+  ],
   "infobox": {
     "title": "Welf Crozzo",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -31,13 +34,17 @@
 
 ## Name
 
-DanMachi 2 prints his name as *Welf Krozzo*, on Bell's armour; from DanMachi 4 it is *Welf Crozzo*.[@fm02-krozzo, fm04-name] His father's name is *Vil Crozzo*, the spelling of DanMachi 15, which the Japanese edition supports {{small|printed *Wil Crozzo* in DanMachi 8}}.[@fm15-phobos, fm08-wil, fm08-vil-ja]
+DanMachi 2 prints his name as *Welf Krozzo*, on Bell's armour; from DanMachi 4 it is *Welf Crozzo*.[@fm02-krozzo, fm04-name] His father's name is *[[vil-crozzo|Vil Crozzo]]*, the spelling of DanMachi 15, which the Japanese edition supports {{small|printed *Wil Crozzo* in DanMachi 8}}.[@fm15-phobos, fm08-wil, fm08-vil-ja]
 
 ## The Crozzo magic swords
 
-The Crozzos carry the blood of a spirit, received by the first Crozzo after he rescued one. Their power to make magic swords came from that blood once a Crozzo received a god's blessing.[@fm04-curse, so05-blood] The family later lost the ability, cursed by the fairies, but Welf can still make them; he does not know why.[@fm04-curse]
+The Crozzos carry the blood of a spirit, received by the first Crozzo after he rescued one. Their power to make magic swords came from that blood once a Crozzo received a god's blessing.[@fm04-curse, so05-blood] Welf says Crozzo was originally one man's name, later adopted as a family name by his descendants.[@fm04-crozzo-family-name] His account says the ancestor gained spirit magic and a longer lifespan after receiving the blood.[@so05-crozzo-family-miracle] The family later lost the ability, cursed by the fairies, but Welf can still make them; he does not know why.[@fm04-curse]
 
-Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on his tenth birthday. His Status showed Blood of Crozzo, the same Skill as other members of his family, and Phobos told him to forge a magic sword.[@fm15-blood] He grew to reject the family's destructive legacy and at first refuses to make Crozzo magic swords at all.[@fm04-smith, so05-blood]
+The family gained noble status by supplying its [[magic-sword|magic swords]] to a royal house.[@fm04-crozzo-family-nobles] The kingdom of [[ares-familia|Rakia]] repeatedly used the swords in wars that burned elven homelands.[@fm04-crozzo-family-wars] In Sword Oratoria 5, the elf [[alicia-forestlight|Alicia Forestlight]] rages at Welf's family name, blaming the Crozzo family for burned elven villages and for the many clans left without a forest.[@so05-crozzo-family-anger] Welf says unused magic swords suddenly shattered during a war and the kingdom suffered defeat.[@fm04-crozzo-family-curse] Further defeats led to the family being blamed and stripped of its position, leaving it ruined by Welf's birth.[@fm04-crozzo-family-fall]
+
+Garon Crozzo is Welf's grandfather, the former family head who taught him and Vil the foundations of smithing.[@fm08-crozzo-family-garon] [[vil-crozzo|Vil Crozzo]], Welf's father, is the current head of the fallen smithing nobility in Rakia.[@fm08-crozzo-family-wil]
+
+Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on his tenth birthday. His Status showed Blood of Crozzo, the same Skill as other members of his family, and Phobos told him to forge a magic sword.[@fm15-blood] Garon had ordered the Falna to wait until then, so that Welf would first understand hardship as a craftsman.[@fm15-crozzo-family-first] He grew to reject the family's destructive legacy and at first refuses to make Crozzo magic swords at all.[@fm04-smith, so05-blood] Welf initially vows to stop forging magic swords after a Crozzo sword destroys a wall and critically injures knights.[@fm15-crozzo-family-refusal]
 
 ## History
 
@@ -57,6 +64,26 @@ Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on hi
 - **[[#will-o-the-wisp|Will-o'-the-Wisp]]**, triggered by the phrase *Blasphemous Burn*, is an anti-magic spell: when an enemy uses magic, it makes the spell blow up in their hands (*Ignis Fatuus*).[@fm05-wisp]
 - **[[skills#blood-of-crozzo|Blood of Crozzo]]** is the family Skill behind his magic swords.[@fm15-blood]
 - **[[skills#veritas-burn|Veritas Burn]]** is a Skill gained in DanMachi 15, giving high resistance to flame and stronger fire-element attacks; his card also lists the Development Ability Blacksmith.[@fm15-card]
+
+## Greatsword {#greatsword}
+
+Welf Crozzo carries a **greatsword** balanced on his shoulder.[@fm06-welf] In DanMachi 4, [[bell-cranell|Bell Cranell]] tries a silver sword made by Welf Crozzo that a shop returned unsold, finding it much heavier than his knife.[@fm04-reject] Welf Crozzo uses a single-edged sword in his right hand to knock two attackers away from Bell Cranell and [[hestia|Hestia]].[@fm06-rescue]
+
+### Recorded use by volume {#greatsword-recorded-use-by-volume}
+
+He then knocks [[zanis-lustra|Zanis Lustra]]'s sword from his grasp and strikes his face through his glasses.[@fm06-zanis] In DanMachi 7, Welf Crozzo returns with a damaged greatsword, which is set in a corner beside the battered backpack.[@fm07-damage]
+
+In DanMachi 8, he carries a separate [[magic-sword|magic sword]] on his back alongside the greatsword's sheath as a contingency for that day's mini-expedition.[@fm08-pair]
+
+In DanMachi 9, Welf Crozzo cuts down [[al-miraj|al-miraj]] with the greatsword[@fm09-combat] and cleaves a [[monsters#mad-beetle|mad beetle]] in two.[@fm09-beetle] Refusing to leave his sword behind when crossing water, he walks along the bottom under its weight.[@fm09-water]
+
+In DanMachi 12, Welf Crozzo switches to the greatsword to conserve a magic sword and cuts through a crab's shell seam on his third strike.[@fm12-shell] Against the floor boss in DanMachi 14, he holds the greatsword in his left hand and a magic sword in his right.[@fm14-dual]
+
+For Bell Cranell, Welf Crozzo painstakingly forges a special sword using adamantite awarded by [[hephaistos|Hephaistos]] after the Familia war.[@fm20-forge] After Bell Cranell's attacks in DanMachi 20, the sword exceeds its limit and is left broken and charred.[@fm20-end]
+
+### Other wielders {#greatsword-other-wielders}
+
+Other greatsword wielders include [[falgar-batros|Falgar Batros]], who fights alongside [[asfi|Asfi Al Andromeda]] against enemy soldiers; [[gulliver-brothers|Gulliver brothers]] member Grer also carries a greatsword.[@ar02-falgar, fc02-grer] [[ottar|Ottar]] supplies a greatsword to a [[minotaur|Minotaur]] and deflects its first swing.[@fm03-ottar]
 
 ## Magic {#magic}
 
@@ -167,3 +194,30 @@ DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visit
 [@will-o-the-wisp.so12-skill]: SO12 | Chapter 7: Final War II | The anti-magic fire, a magic killer. The Japanese edition (file c698, paragraphs 742–744) calls it Welf's rare magic.
 [@fm08-welf-ja]: FM08 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning never cooling, with the reading Ignis; the infobox gives the printed name and the kanji.
 [@fm08-vil-ja]: FM08 | | The Japanese edition of DanMachi 8 spells his father's given name as DanMachi 15 does, beginning with Vi.
+[@fm06-welf]: FM06 | Chapter 5: Our War Game | Welf carries a greatsword balanced on his shoulder.
+[@fm04-reject]: FM04 | Chapter 3: The Smith’s Situation | Bell tries a silver sword made by Welf that a shop returned unsold, finding it much heavier than his knife.
+[@fm06-rescue]: FM06 | Chapter 3: Outbreak | Welf knocks two attackers away from Bell and Hestia. The Japanese edition (file c2CX, paragraph 444) has him swing a single-edged great blade held in his right hand; the English prints "Holding a greatsword in his left hand".
+[@fm06-zanis]: FM06 | Chapter 4: Those Who Gather | He knocks Zanis Lustra’s sword from his grasp and strikes his face through his glasses.
+[@fm07-damage]: FM07 | Chapter 5: Killing Stone | Welf returns with a damaged greatsword, set in a corner beside the battered backpack.
+[@fm08-pair]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | A Crozzo magic sword strapped to his back with the greatsword’s sheath, in case of trouble during that day’s mini-expedition. The Japanese edition (file part0021, paragraph 195) has the two strapped to his back together; the English prints "just underneath his greatsword’s sheath".
+[@fm09-combat]: FM09 | Chapter 3: The World and Reality and Monsters | Welf cuts down several al-miraj with a swing of his greatsword.
+[@fm09-beetle]: FM09 | Chapter 5: Heretics | Welf brings his greatsword down on a mad beetle and cleaves it in two.
+[@fm09-water]: FM09 | Chapter 5: Heretics | Refusing to leave his sword behind when crossing water, he walks along the bottom under its weight.
+[@fm12-shell]: FM12 | Chapter 6: The Hero’s Sacred Flame | Welf switches to the greatsword to conserve a magic sword and cuts through a crab’s shell seam on his third strike.
+[@fm14-dual]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Against the floor boss, the greatsword in his left hand and a magic sword in his right.
+[@fm20-forge]: FM20 | Chapter 4: The Knight’s Afterglow | For Bell, Welf forges a special sword from the adamantite that Hephaistos awarded after the Familia war.
+[@fm20-end]: FM20 | Chapter 4: The Knight’s Afterglow | After Bell’s attacks, the sword exceeds its limit and is left broken and charred. The Japanese edition (file J22, paragraph 9) has Bell lower the broken, charred greatsword; the English prints "The charred greatsword, having surpassed its limit, crumbles to dust".
+[@ar02-falgar]: AR02 | Chapter 8: A Tragic Performance | Falgar fights with a greatsword alongside Asfi against enemy soldiers.
+[@fc02-grer]: FC02 | Ali and the 8 Followers | Grer of the Gulliver brothers carries a greatsword.
+[@fm03-ottar]: FM03 | Chapter 2: Ox and Hare Special Training | Ottar supplies a greatsword to a Minotaur and deflects its first swing.
+[@fm04-crozzo-family-name]: FM04 | Chapter 3: The Smith’s Situation | Welf says Crozzo was originally one man's name, later taken by his descendants as their family name. The Japanese edition (file c2R2, paragraph 821) says the descendants later used it as their family name; the English prints "It was his descendants who made his name what it is now".
+[@so05-crozzo-family-miracle]: SO05 | Interlude: Flip Side of the Compromise | The spirit's blood gave the first Crozzo spirit magic and a longer life. The Japanese edition (file c2BG, paragraph 195) says that he could use spirit-born magic and that even his lifespan was lengthened; the English prints "spirit-borne magic for the rest of his life".
+[@fm04-crozzo-family-nobles]: FM04 | Chapter 3: The Smith’s Situation | The family gained noble status by supplying its magic swords to a royal house.
+[@fm04-crozzo-family-wars]: FM04 | Chapter 3: The Smith’s Situation | The kingdom of Rakia repeatedly used the swords in wars that burned elven homelands.
+[@so05-crozzo-family-anger]: SO05 | Interlude: Flip Side of the Compromise | In Sword Oratoria 5, the elf Alicia Forestlight rages at Welf's family name, blaming the Crozzo family for burned elven villages and for the many clans left without a forest.
+[@fm04-crozzo-family-curse]: FM04 | Chapter 3: The Smith’s Situation | Welf says unused magic swords suddenly shattered during a war and the kingdom suffered defeat.
+[@fm04-crozzo-family-fall]: FM04 | Chapter 3: The Smith’s Situation | Further defeats led to the family being blamed and stripped of its position, leaving it ruined by Welf's birth.
+[@fm08-crozzo-family-garon]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Garon Crozzo, Welf's grandfather and the former head of the family, taught Vil and Welf the foundations of smithing. The Japanese edition (file part0021, paragraph 840) has Garon teach Vil and Welf; the English prints "he and his son Wil were the ones who had given Welf his foundation as a smith".
+[@fm08-crozzo-family-wil]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Vil Crozzo, Welf's father, is the current head of the fallen smithing nobility in Rakia; DanMachi 8 prints "Wil Crozzo".
+[@fm15-crozzo-family-first]: FM15 | Chapter 5: Blue Flame | Garon had ordered the Falna to wait until then, so that Welf would first understand hardship as a craftsman.
+[@fm15-crozzo-family-refusal]: FM15 | Chapter 5: Blue Flame | Welf initially vows to stop forging magic swords after a Crozzo sword destroys a wall and critically injures knights.

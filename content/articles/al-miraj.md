@@ -73,7 +73,7 @@ The narration calls Aruru "she", and Rei confirms it.[@fm09-aruru] Helga's sex i
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who "that person" is whom Lido sends Aruru to fetch in DanMachi 10; the sequence on Floor 18 suggests Asterios.[@fm10-ride, fm10-floor18]
-> - Whether Cassandra's dream of the rabbit charm warned of DanMachi 11 or of DanMachi 14; she asks herself and does not decide.[@fm14-cassandra]
+> - Whether Cassandra's dream of the [[cassandra#rabbit-charm|rabbit charm]] warned of DanMachi 11 or of DanMachi 14; she asks herself and does not decide.[@fm14-cassandra]
 
 [@fm05-rabbit]: FM05 | | "basically needle rabbits that learned how to walk on two legs"; "First appearing on level thirteen".
 [@fm05-ja-rabbit]: FM05 | | Japanese original (file part0011, paragraph 108): long ears bobbing about, white-and-yellow fur, a bushy tail, and a sharp single horn on the forehead. Yen Press prints floppy ears and a long sharp horn.

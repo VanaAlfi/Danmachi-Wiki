@@ -106,7 +106,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 | [[#pummel|Pummel]] | Tiona, Tione, Bete, Gareth, Leon | Not described[@sheet.so03-tiona] |
 | [[#fracture|Fracture]] | Tiona, Gareth, Ottar, Leon | Not described[@sheet.so03-tiona] |
 | [[#other-abilities|Healing Power]] | Tione | Not described[@sheet.so04-tione] |
-| [[#other-abilities|Healing]] | Riveria, [[cassandra|Cassandra]], Adi {{small|printed *Ardee* in Astrea Record 1 and 2}} | Not described[@sheet.so06-riveria] |
+| [[#other-abilities|Healing]] | Riveria, [[cassandra|Cassandra]], [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}} | Not described[@sheet.so06-riveria] |
 | [[#other-abilities|Bulwark]] | Gareth | Not described[@sheet.so07-gareth] |
 | [[#other-abilities|Initiative]] | Finn | Not described[@sheet.so08-finn] |
 | [[#other-abilities|Sturdy Body]] | Ottar | Not described[@sheet.fc02-ottar] |
@@ -156,7 +156,7 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 ### Hunter {#hunter}
 
-**Hunter** raises the basic abilities in fights against kinds of monster the adventurer has fought before and gained excelia from. It can appear only at the Level 2 rank-up, and its condition, repelling a great many monsters in a short time, makes it extremely hard to get; it counts as a precious ability, popular with adventurers and gods alike.[@fm04-hunter] Bell is offered it at Level 2 but chooses Luck.[@fm04-luck]
+**Hunter** raises the basic abilities in fights against kinds of monster the adventurer has fought before and gained excelia from. It can appear only at the Level 2 rank-up, and its condition, repelling a great many monsters in a short time, makes it extremely hard to get; it counts as a precious ability, popular with adventurers and gods alike.[@fm04-hunter] Bell is offered it at Level 2 but chooses Luck.[@fm04-luck] [[eina-tulle|Eina Tulle]] recommends Hunter for steady Dungeon progress, but suggests that Bell's higher goal may also require luck beyond his own ability.[@fm04-hunter-advice]
 
 | Holder | Rank | Where |
 |---|---|---|
@@ -170,10 +170,10 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 ### Luck {#luck}
 
-**Luck** was a never-before-seen Development Ability when Bell was offered it at Level 2; Eina thinks he is probably the first adventurer ever to discover it.[@fm04-luck] He chooses it, and it rises from I to H at Level 3, G at Level 4 and F by DanMachi 15.[@fm04-card, fm07-card, fm12-escape, fm15-bell]
+**Luck** was a never-before-seen Development Ability when Bell was offered it at Level 2; Eina thinks he is probably the first adventurer ever to discover it.[@fm04-luck] Hestia urges Bell to choose it, and he accepts Eina's advice when making his decision.[@fm04-luck-choice] He chooses it, and it rises from I to H at Level 3, G at Level 4 and F by DanMachi 15.[@fm04-card, fm07-card, fm12-escape, fm15-bell] The text's Status displays keep it at I through DanMachi 6, H in DanMachi 8 and Minor Myths and Legends 1, and F in DanMachi 17, 18 and 20, where Bell is Level 5.[@fm04-luck-initial, fm05-luck-five, fm06-luck-six, fm08-luck-eight, ss01-luck-ss, fm17-luck-seventeen, fm18-luck-eighteen, fm20-luck-twenty] DanMachi 9 says Eina has withheld information about Luck from her reports.[@fm09-luck-secret]
 
 > [!STATEMENT] What Luck does
-> When Bell chooses Luck, [[hestia|Hestia]] guesses it might protect him and [[eina-tulle|Eina]] suggests it might bring more item drops. Both are speculation. In Familia Chronicle 1 he wins extraordinarily at roulette and thinks of his Status, which suggests a connection without proving how Luck works.[@fm04-luck, fc01-luck]
+> When Bell chooses Luck, [[hestia|Hestia]] guesses it might protect him and [[eina-tulle|Eina]] suggests it might bring more item drops. Both are speculation. In Familia Chronicle 1 he wins extraordinarily at roulette and thinks of his Status, which suggests a connection without proving how Luck works.[@fm04-luck, fc01-luck] [[welf-crozzo|Welf Crozzo]] notices how readily drops and ores appear when he accompanies Bell, prompting Bell to recall Eina's hypothesis about Luck.[@fm07-luck-drops]
 
 ### Forge {#forge}
 
@@ -214,6 +214,8 @@ Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged 
 | [[lefiya|Lefiya Viridis]] | H | [@sheet.so02-lefiya, so06-cards, so12-lefiya, sheet.so13-p26] |
 | [[lyu-leon|Lyu Leon]] | I, chosen at Level 5 | [@fc03-cards, fc03-control] |
 
+In Sword Oratoria 1, the circle at Lefiya Viridis's feet is explicitly identified as evidence that she has acquired Mage.[@so01-lefiya] In Familia Chronicle 3, Lyu Leon acquires Mage at I upon reaching Level 5, after [[astrea|Astrea]] selects the magic-related ability from two available options.[@fc03-choice] The enhancement strengthens her [[magic#luminous-wind|Luminous Wind]], and she can now call herself a proper magic swordswoman.[@fc03-spell]
+
 Without it a caster can still work wonders: the young Riveria, at Level 1, already tells friend from foe within Rea Laevateinn's circle, and Amid raises a magic circle though she never worked towards the ability.[@so14-riveria, so11-amid]
 
 ### Spirit Healing {#spirit-healing}
@@ -236,6 +238,8 @@ Without it a caster can still work wonders: the young Riveria, at Level 1, alrea
 | Bell Cranell | I at Level 4; G from DanMachi 18 | [@fm12-escape, fm18-bell, fm20-bell] |
 | [[chloe|Chloe Lolo]] | I | [@fc01-chloe] |
 | [[raul-nord|Raul Nord]] | I | [@sheet.so11-raul] |
+
+In the pursuit at the end of DanMachi 18, [[bell-cranell|Bell Cranell]]'s speed jumps the moment he assumes a fleeing posture.[@fm18-flight] In DanMachi 19, Bell connects his Escape ability with the group-evasion tactics he developed in the [[dungeon|Dungeon]] and against [[apollo-familia|Apollo Familia]] and [[ishtar-familia|Ishtar Familia]].[@fm19-flight]
 
 Daphne's Skill [[skills#helios-passion|Helios Passion]] lends it to her while she is being chased; see [[#lent-abilities|Abilities lent by Skills and magic]].[@sheet.fm14-daphne]
 
@@ -444,3 +448,20 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@mage.so01-ja]: SO01 | | The Japanese edition names the ability with the word for sorcery.
 [@spirit-healing.so03-ja]: SO03 | | The Japanese edition writes the name with kanji meaning spirit healing, read Spirit Healing.
 [@swordsman.so03-ja]: SO03 | | The Japanese edition writes the name with kanji meaning swordsman, read Swordsman.
+[@fm18-flight]: FM18 | Chapter 9: Flower Language for You | In the pursuit at the end of DanMachi 18, Bell Cranell's speed jumps the moment he assumes a fleeing posture.
+[@fm19-flight]: FM19 | Chapter 2: School Heaven and Hell | In DanMachi 19, Bell connects his Escape ability with the group-evasion tactics he developed in the Dungeon and against Apollo Familia and Ishtar Familia.
+[@so01-lefiya]: SO01 | Chapter 2: Dungeon Confusion | In Sword Oratoria 1, the circle at Lefiya Viridis's feet is explicitly identified as evidence that she has acquired Mage.
+[@fc03-choice]: FC03 | The Locus of Stars | In Familia Chronicle 3, Lyu Leon acquires Mage at I upon reaching Level 5, after Astrea selects the magic-related ability from two available options.
+[@fc03-spell]: FC03 | The Locus of Stars | The enhancement strengthens her Luminous Wind, and she can now call herself a proper magic swordswoman.
+[@fm04-hunter-advice]: FM04 | Chapter 1: Denatus | Eina recommends Hunter for steady progress and suggests that Luck may serve a loftier goal. The Japanese edition (file c87, paragraphs 137, 139 and 141) speaks of steady, sound progress, step by step; the English prints "powerfully and thoroughly" and "with great efficiency".
+[@fm04-luck-choice]: FM04 | Chapter 1: Denatus | Hestia urges Bell to choose it, and he accepts Eina's advice when making his decision.
+[@fm04-luck-initial]: FM04 | Chapter 1: Denatus | Both textual Status displays in DanMachi 4 list Luck at I.
+[@fm05-luck-five]: FM05 | Chapter 5: The Outlaws' Party | DanMachi 5 lists Luck at I.
+[@fm06-luck-six]: FM06 | Chapter 3: Outbreak | DanMachi 6 still lists Luck at I.
+[@fm08-luck-eight]: FM08 | Chapter 2: The Prum’s Proposal | DanMachi 8 lists Luck at H.
+[@ss01-luck-ss]: SS01 | | Bell's Level 3 Status sheet lists Luck at H.
+[@fm17-luck-seventeen]: FM17 | Chapter 2: Alone Inside a Sandbox | DanMachi 17 lists Luck at F.
+[@fm18-luck-eighteen]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Both textual Status displays in DanMachi 18 keep Luck at F.
+[@fm20-luck-twenty]: FM20 | Chapter 2: Lion and then Sword Princess | Bell's Level 5 Status lists Luck at F.
+[@fm07-luck-drops]: FM07 | Prologue: The Divine Are Mercilessly Erotic Royalty | Welf Crozzo notices how readily drops and ores appear when he accompanies Bell, prompting Bell to recall Eina's hypothesis about Luck.
+[@fm09-luck-secret]: FM09 | Chapter 4: Mission | DanMachi 9 says Eina has withheld information about Luck from her reports.

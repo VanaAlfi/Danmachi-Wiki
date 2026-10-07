@@ -26,7 +26,7 @@
   }
 }
 ---
-**The Dungeon** is the vast underground labyrinth beneath [[orario|Orario]], and the only one known. The [[guild|Guild]] oversees access to it.[@fm01-dungeon] Its entrance is sealed beneath [[babel|Babel Tower]].[@fm12-sealed] Its walls repair themselves and give birth to fully grown monsters.[@fm01-walls] DanMachi 1 calls it one of the world's three great unexplored regions and the birthplace of the ancestors of the monsters on the surface.[@fm01-mystery]
+**The Dungeon** is the vast underground labyrinth beneath [[orario|Orario]], and the only one known. The [[guild|Guild]] oversees access to it.[@fm01-dungeon] Its entrance is sealed beneath [[babel|Babel Tower]].[@fm12-sealed] Its walls repair themselves and give birth to fully grown monsters.[@fm01-walls] DanMachi 1 calls it one of the world's [[geography#the-continent-three-great-unexplored-regions|three great unexplored regions]] and the birthplace of the ancestors of the monsters on the surface.[@fm01-mystery]
 
 ## History {#history}
 

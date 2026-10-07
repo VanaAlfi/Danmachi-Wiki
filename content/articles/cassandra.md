@@ -9,6 +9,9 @@
   "aliases": ["Cassandra", "Mirabilis"],
   "spoilers": "DanMachi Vols. 6–18 and Minor Myths and Legends Vol. 1",
   "related": ["daphne", "miach-familia", "apollo", "bell-cranell", "magic", "skills"],
+  "sections": [
+    {"anchor": "rabbit-charm", "title": "Rabbit charm", "summary": "Cassandra Illion dreams that a rabbit charm lets her escape a jet-black wave when she is near death.", "aliases": []}
+  ],
   "infobox": {
     "title": "Cassandra Illion",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -43,6 +46,18 @@ After the War Game, Cassandra's dream leads her back to [[apollo-familia|Apollo 
 - **Disbelief:** Daphne never believes the dreams, and neither does anyone else; "It was like she was cursed." Cassandra herself feels her dreams are a curse. Bell is the exception: he believed her, and she is sure some kind of fate lets him push that curse aside.[@fm13-curse] Minor Myths and Legends 1 also speaks of "Cassandra’s curse": no one she tells ever believes her oracles.[@ss01-curse]
 - **Mirabilis:** in DanMachi 13 [[welf-crozzo|Welf]] tells Bell that "our prophetic Mirabilis" helped him make the [[goliath-robe#goliath-scarf|Goliath Scarf]]: "she was the one who suggested I make it".[@fm13-mirabilis]
 
+## Rabbit charm {#rabbit-charm}
+
+Cassandra Illion dreams that a **rabbit charm** ({{ja|兎のお守り}})[@fm11-charm-ja] lets her escape a jet-black wave when she is near death.[@fm11-dream] The dream's rabbit charm turns out to be an [[al-miraj|al-miraj]] and a [[monsters#hellhound|hellhound]], both bloodied and unconscious.[@fm11-identity] Following the dream, Cassandra Illion finds them in a deserted alley five days before the narrated scene.[@fm11-find]
+
+### DanMachi 11 {#rabbit-charm-danmachi-11}
+
+Still frightened of the monsters, she keeps them until the appointed day and feeds them [[jyaga-maru-kun|Jyaga Maru Kun]] so they will not starve.[@fm11-care]
+
+### DanMachi 14 {#rabbit-charm-danmachi-14}
+
+In DanMachi 14, [[xenos#fia|Fia]] credits [[al-miraj#aruru|Aruru]] and Helga with finding the party, and the al-miraj arrives riding the hellhound.[@fm14-locate] Cassandra Illion initially interprets the black wave as the black [[minotaur|Minotaur]], believing that sheltering the monsters saved her from its attack.[@fm14-first] On seeing the black [[monsters#voltemeria|voltemeria]] gathered together, she wonders whether their swarm was the wave foretold by her dream.[@fm14-rethink] She wonders whether they tracked their own scent left on her during her care, and realizes she has now escaped the predicted fate.[@fm14-scent]
+
 ## The Water Capital catastrophe
 
 On the joint expedition of DanMachi 12–14, Cassandra serves as the party's healer, in the rear of the formation.[@fm12-healer] In DanMachi 13 a new dream foretells a catastrophe. She works out that "the depths of hell" means the end of the Great Falls on the twenty-seventh floor, and tries to keep her companions off that floor.[@fm13-floor27] The calamity comes all the same.[@fm13-calamity]
@@ -55,7 +70,7 @@ Cassandra and Daphne both reach Level 3 on that expedition; [[miach-familia#nahz
 
 ## Status sheet
 
-Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-light|Soul Light]] and [[#cure-ephialtes|Cure Ephialtes]], and one Skill, [[skills#five-dimension-troia|Five-Dimension Troia]], whose effect is marked indecipherable; the sheet says even its name is [[miach|Miach]]'s interpretation. It also describes her Rabbit Charm, made from the fur of the Xenos [[al-miraj|al-miraj]] after a prophetic dream.[@sheet.fm14-cassandra]
+Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-light|Soul Light]] and [[#cure-ephialtes|Cure Ephialtes]], and one Skill, [[skills#five-dimension-troia|Five-Dimension Troia]], whose effect is marked indecipherable; the sheet says even its name is [[miach|Miach]]'s interpretation. It also describes her [[#rabbit-charm|Rabbit Charm]], made from the fur of the Xenos [[al-miraj|al-miraj]] after a prophetic dream.[@sheet.fm14-cassandra]
 
 ## Magic {#magic}
 
@@ -139,3 +154,12 @@ The Status entry on the Level 2 sheet is a single note: it dispels harm. The she
 [@soul-light.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, wide-area recovery magic, area varies with Mind; Cure Ephialtes.
 [@soul-light.fm18-daphne]: FM18 | Chapter 9: Flower Language for You | Daphne's wounds; Hegni's cursed sword obstructs healing.
 [@fm13-mirabilis]: FM13 | Chapter 2: The Prophetess of Tragedy | Welf: "our prophetic Mirabilis helped me out"; "she was the one who suggested I make it".
+[@fm11-dream]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | Cassandra dreams that a rabbit charm lets her escape a jet-black wave when she is near death.
+[@fm11-identity]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | The dream’s rabbit charm turns out to be an al-miraj and a hellhound, both bloodied and unconscious.
+[@fm11-find]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | Following the dream, she finds them in a deserted alley five days before the narrated scene.
+[@fm11-care]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | Still frightened of the monsters, she keeps them until the appointed day and feeds them Jyaga Maru Kun so they will not starve.
+[@fm14-locate]: FM14 | Chapter 8: The Voice of the Hammer | Fia credits Aruru and Helga with finding the party; the al-miraj arrives riding the hellhound.
+[@fm14-first]: FM14 | Chapter 8: The Voice of the Hammer | Cassandra first takes the black wave for the black Minotaur, believing that sheltering the monsters saved her from its attack.
+[@fm14-rethink]: FM14 | Chapter 8: The Voice of the Hammer | Seeing the black voltemeria gathered together, she wonders whether their swarm was the wave of her dream.
+[@fm14-scent]: FM14 | Chapter 8: The Voice of the Hammer | She wonders how they found her, and realizes she has escaped the predicted fate. The Japanese edition (file c3F1, paragraph 1010) has her wonder whether they followed the girl’s scent, or rather their own smell soaked into her; the English prints "grown used to her scent when she cared for it for days on end".
+[@fm11-charm-ja]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | The Japanese edition writes it with the words for rabbit and protective charm (file c44D, paragraph 60; DanMachi 14, file c3F1, paragraph 1010).

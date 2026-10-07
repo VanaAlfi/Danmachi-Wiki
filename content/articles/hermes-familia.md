@@ -6,12 +6,13 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the god Hermes: nominally a delivery service that travels freely, it gathers information, investigates for the Guild and hides its members' true Levels.",
-  "aliases": ["Laurier", "Laurier Swall", "Thane", "Thane Hire"],
+  "aliases": ["Laurier", "Laurier Swall"],
   "spoilers": "DanMachi Vols. 5–17, Sword Oratoria Vols. 2, 3, 11 and 12, Familia Chronicle Vol. 3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
   "related": ["hermes", "asfi", "aisha-belka", "guild", "lyu-leon", "astrea"],
   "sections": [
     {"anchor": "lydis", "title": "Lydis", "summary": "Hermes Familia's captain before Asfi, a carefree human beauty who chose Asfi as her successor and gave her life in the Great Conflict so that other adventurers could escape.", "aliases": ["Lydis"]},
-    {"anchor": "laurier", "title": "Laurier Swall", "summary": "A Level 2 elf of Hermes Familia who usually works outside Orario; she found the Xenos held by Elurian nobility, and fell for Bell when he rescued her in the Dungeon.", "aliases": ["Laurier"]}
+    {"anchor": "laurier", "title": "Laurier Swall", "summary": "A Level 2 elf of Hermes Familia who usually works outside Orario; she found the Xenos held by Elurian nobility, and fell for Bell when he rescued her in the Dungeon.", "aliases": ["Laurier"]},
+    {"anchor": "thane", "title": "Thane", "summary": "Thane is an elven man in Hermes Familia who investigates routes and receives information from Hermes.", "aliases": ["Thane Hire"]}
   ],
   "infobox": {
     "title": "Hermes Familia",
@@ -36,9 +37,9 @@
 | [[lulune-louie|Lulune Louie]] | A [[races#chienthrope|chienthrope]], secretly Level 3, who carries cargo for [[fels|Fels]] in Sword Oratoria 2.[@so02-lulune, so03-lulune] |
 | [[falgar-batros|Falgar]] | Fights in the Great Conflict.[@ar02-falgar] |
 | [[merrill|Merrill]] | A prum mage, a girl with a pointed hat and a short rod. In Sword Oratoria 3 Asfi calls her forward, and her fireball blasts open the fleshy "gate" on Floor 24. In Sword Oratoria 11 the Familia supports [[loki-familia|Loki Familia]] with her magic.[@so03-merrill, so11-merrill] In DanMachi 17 she is one of the members who pass Hermes's fragmentary messages along while Freya's charm holds.[@fm17-merrill] |
-| Thane ({{ja|セイン}}, read *Sein*) | In Astrea Record 2 Asfi tells Falgar, "You take Thane and lead our people"; in Sword Oratoria 3 she has "Falgar, Thane" make two squads to scout other routes, and in Sword Oratoria 11 she calls "Falgar! Thane!" to leave the vanguard to Loki Familia. In DanMachi 17 Hermes leaves "a tiny update of information with Thane".[@ar02-thane, so03-thane, so11-thane, fm17-thane, ar02-hermes-names-ja] |
+| [[#thane|Thane]] ({{ja|セイン}}, read *Sein*) | In Astrea Record 2 Asfi tells Falgar, "You take Thane and lead our people"; in Sword Oratoria 3 she has "Falgar, Thane" make two squads to scout other routes, and in Sword Oratoria 11 she calls "Falgar! Thane!" to leave the vanguard to Loki Familia. In DanMachi 17 Hermes leaves "a tiny update of information with Thane".[@ar02-thane, so03-thane, so11-thane, fm17-thane, ar02-hermes-names-ja] |
 | [[#lydis|Lydis]] | Captain until her death in the Great Conflict.[@ar01-lydis, ar02-captain] |
-| [[#laurier|Laurier Swall]] | A Level 2 elf who usually works outside the city; she found the Xenos held by Elurian nobility.[@ss01-laurier, fm09-laurier] |
+| [[#laurier|Laurier Swall]] | A Level 2 elf who usually works outside the city; she found the Xenos held by [[geography#world-powers-and-nations-eluria|Elurian]] nobility.[@ss01-laurier, fm09-laurier] |
 | [[aisha-belka|Aisha Belka]] | Joins after [[ishtar|Ishtar]]'s fall; the Familia keeps her affiliation from the Guild to preserve its neutrality.[@fm10-aisha] |
 
 The Familia hides its members' true Levels. In Sword Oratoria 3 one of them admits this, saying Asfi and the others are quite the fighters behind their innocent faces.[@so03-hide]
@@ -49,7 +50,7 @@ Lydis was the Familia's captain in the dark age, with Asfi as her vice-captain.[
 
 Over lunch at [[the-benevolent-mistress|The Benevolent Mistress]] in Astrea Record 2, Lydis tells Asfi to take over as captain if she dies, saying that followers of Hermes must patch up any hole and keep sailing. She tells Asfi she is right for the job because she takes more trouble than anyone, and calls her "our Perseus".[@ar02-lunch] Asfi takes it for one of her tasteless jokes.[@ar02-death]
 
-On the night of the Great Conflict, Lydis gave her life so that a band of upper-class adventurers could escape.[@ar02-death] Hermes tells Asfi, "Lydis is dead," and "You’re the captain now."[@ar02-captain] Afraid of getting everyone killed "just like Lydis", Asfi falters. [[falgar-batros|Falgar]], keeping his promise to Lydis to support the new captain, persuades her to lead.[@ar02-falgar-plea] Hermes later promises that they will all visit the former captain ({{ja|前団長}}, read *Lydis*) and the other fallen once the war is over.[@ar02-visit, ar02-hermes-names-ja] In Astrea Record 3 Asfi fights on, careful not to let the deaths of Lydis and Adi {{small|printed *Ardee* in Astrea Record 1 and 2}} blind her.[@ar03-lydis]
+On the night of the Great Conflict, Lydis gave her life so that a band of upper-class adventurers could escape.[@ar02-death] Hermes tells Asfi, "Lydis is dead," and "You’re the captain now."[@ar02-captain] Afraid of getting everyone killed "just like Lydis", Asfi falters. [[falgar-batros|Falgar]], keeping his promise to Lydis to support the new captain, persuades her to lead.[@ar02-falgar-plea] Hermes later promises that they will all visit the former captain ({{ja|前団長}}, read *Lydis*) and the other fallen once the war is over.[@ar02-visit, ar02-hermes-names-ja] In Astrea Record 3 Asfi fights on, careful not to let the deaths of Lydis and [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}} blind her.[@ar03-lydis]
 
 ## Laurier Swall {#laurier}
 
@@ -60,6 +61,19 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 - **The rescue:** in a story printed at the end of DanMachi 16 and again in Minor Myths and Legends 1, Hermes sends her to win the confidence of another Familia's party by posing as a solo adventurer. The party abandons her to monsters in the middle levels. Bell, trained by [[hedin|Hedin]], who was ready to stage an "accident" himself, saves her and escorts her back, and she falls for him.[@fm16-laurier, ss01-rescue]
 - **Sword Oratoria 12:** Hermes passes word that "Laurier and the others" are not to move out until he says so.[@so12-laurier]
 - **After the War Game:** collecting votes for the adventurer rankings, Laurier meets [[horn|Hörn]] and then Bell, who remembers his promise to go shopping with her. When Hörn draws a knife on Bell, Laurier defends him, and the two women go on fighting, then arguing, after Hestia has taken Bell away.[@ss01-horn]
+
+## Thane {#thane}
+
+**Thane** ({{ja|セイン}}, read *Sein*)[@fm17-thane-ja] is an [[races#elf|elven]] man in Hermes Familia who investigates routes and receives information from [[hermes|Hermes]].[@so03-squads, fm17-message] [[asfi|Asfi Al Andromeda]] assigns him work alongside [[falgar-batros|Falgar Batros]], including route investigations and support during battle.[@so03-squads, so11-support]
+
+### History {#thane-history}
+
+| Volume | Events |
+|---|---|
+| Sword Oratoria 3 | After a barrier blocks the route to the pantry, Asfi Al Andromeda sends Thane and Falgar Batros to investigate other routes, each taking five adventurers.[@so03-squads] |
+| Sword Oratoria 11 | During the battle involving [[barca-perdix|Barca Perdix]], she orders them to leave the vanguard to [[loki-familia|Loki Familia]] and concentrate on support with [[merrill|Merrill]].[@so11-support] |
+| Astrea Record 2 | Asfi Al Andromeda decides to scout alone with magic items and tells Falgar Batros to lead their people with Thane.[@ar02-command] |
+| DanMachi 17 | Hermes entrusts updated information to Thane, who looks at him with exasperation and thinks he is playing around again.[@fm17-message] Falgar Batros reports that Thane and others in the busy district heard about trouble at [[freya-familia|Freya Familia]]'s home.[@fm17-news] |
 
 ## History
 
@@ -110,3 +124,9 @@ Laurier Swall is an elf of Hermes Familia, with long golden hair tied back and d
 [@so11-thane]: SO11 | Chapter 5: Obsession Manifest | "Falgar! Thane! Leave the vanguard to Loki Familia".
 [@fm17-thane]: FM17 | Chapter 5: The End of Her World | "Hermes left a tiny update of information with Thane".
 [@fm17-hermes-familia-ja]: FM17 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@so03-squads]: SO03 | Chapter 3: A Hideous Beauty | Thane is an elven man; Asfi sends him and Falgar to investigate other routes.
+[@so11-support]: SO11 | Chapter 5: Obsession Manifest | Asfi orders Thane and Falgar to support Loki Familia with Merrill during the Barca Monster fight.
+[@ar02-command]: AR02 | Chapter 4: Those Who Struggle | Asfi orders Falgar to lead their people with Thane while she scouts alone.
+[@fm17-message]: FM17 | Chapter 5: The End of Her World | Hermes leaves updated information with Thane, who thinks he is playing around.
+[@fm17-news]: FM17 | Chapter 5: The End of Her World | Falgar reports that Thane’s group heard trouble at Freya Familia’s home. The Japanese edition (file part0023_split_001, paragraph 159) says that Thane and the others were in the busy downtown district; the English prints "Thane and the others near the shopping district got wind of it".
+[@fm17-thane-ja]: FM17 | Chapter 5: The End of Her World | The Japanese edition writes his name in katakana, read Sein (file part0023_split_000, paragraph 850; Sword Oratoria 3 the same, file c2N8, paragraph 70).

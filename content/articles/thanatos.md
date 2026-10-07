@@ -36,7 +36,7 @@ His followers' readiness to die comes from his contracts. Each one promises to s
 {{nocite}} Astrea Record and Sword Oratoria 9's flashbacks show Thanatos in Orario's dark age.
 
 - **The Faithful.** Some of the fanatical followers gathered for the [[great-conflict|Great Conflict]] were lured by Thanatos's false promises.[@ar02-faithful] [[rudra-familia|Rudra]] complains to [[erebus|Erebus]] that his Familia and Thanatos's have taken heavy losses.[@ar02-rudra]
-- **Adi's death.** In Astrea Record 1 a little girl blows herself up and kills Adi Varma {{small|printed *Ardee* in Astrea Record 1 and 2}} of [[ganesha-familia|Ganesha Familia]]. She had made a deal with Thanatos: kill an adventurer and see her parents again in the afterlife.[@ar01-ardee]
+- **Adi's death.** In Astrea Record 1 a little girl blows herself up and kills [[adi-varma|Adi Varma]] {{small|printed *Ardee* in Astrea Record 1 and 2}} of [[ganesha-familia|Ganesha Familia]]. She had made a deal with Thanatos: kill an adventurer and see her parents again in the afterlife.[@ar01-ardee]
 - **Aiz.** In Sword Oratoria 9's recollection, almost a year after [[aiz-wallenstein|Aiz]] joined Loki Familia at seven, Thanatos approaches her in the Dungeon and offers her everything she desires if she comes with him. When she refuses, he releases the divine power he had been suppressing, and the Dungeon seals the exits and responds. He takes out a silver orb, and he and his followers vanish out of the Dungeon by means the scene does not show.[@so09-aiz, so09-escape] Thanatos Familia was then one of the factions working behind the scenes to spread destruction in the city.[@so09-thanatos]
 
 ## The remnants in Knossos

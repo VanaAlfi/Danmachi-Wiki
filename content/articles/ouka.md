@@ -37,7 +37,7 @@ By DanMachi 12 his weapon is the [[equipment#kougou|Kougou]] battle-ax. Welf for
 | Volume | Events |
 |---|---|
 | DanMachi 5 | To save Chigusa on Floor 13, he orders a [[pass-parade|pass parade]] that pushes monsters onto [[bell-cranell|Bell]]'s party. Later he nearly dies shielding the exhausted Bell from the Black [[goliath|Goliath]].[@fm05-parade, fm05-ouka] |
-| DanMachi 8 | [[takemikazuchi|Takemikazuchi]] says that Chigusa and another member, Asuka, reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]]; Ouka was already Level 2 in DanMachi 5.[@fm08-ouka, fm05-level] |
+| DanMachi 8 | [[takemikazuchi|Takemikazuchi]] says that Chigusa and another member, [[takemikazuchi-familia#asuka|Asuka]], reached Level 2 during the skirmishes with [[ishtar-familia|Ishtar Familia]]; Ouka was already Level 2 in DanMachi 5.[@fm08-ouka, fm05-level] |
 | DanMachi 11 | Sees for himself that the [[xenos|Xenos]] hold back and act out of kindness.[@fm11-witness] |
 | DanMachi 12 | Joins the joint expedition; Haruhime's [[magic#kokonoe|Kokonoe]] boosts him with four others, and he praises Bell's renewed fighting.[@fm12-boost, fm12-praise] |
 | DanMachi 13 | Haruhime saves Mind by boosting only him and [[welf-crozzo|Welf]] in the fight against the [[lambton|lambton]].[@fm13-ouka] Aisha's order calls the two "Ignis and Masuratakeo". {{inference}} *Ignis* is Welf's title, so *Masuratakeo* is presumably Ouka's.[@fm13-masuratakeo] |

@@ -23,7 +23,7 @@
   }
 }
 ---
-**Israfan** is a trading country in the western [[kaios-desert|Kaios Desert]], drawn into the war between [[ali#shalzad|Shalzad]] and Warsa.[@fc02-country, fc02-burning] It lies in the western Kaios Desert, and [[ali#bofman|Bofman]] describes it as a country prosperous through commerce.[@fc02-country] Its town of Leodo flourishes around an oasis near the border, while Shalzad lies to the north of Israfan.[@fc02-country, fc02-border]
+**Israfan** is a trading country in the western [[kaios-desert|Kaios Desert]], drawn into the war between [[ali#shalzad|Shalzad]] and [[geography#kaios-desert-countries-and-towns-warsa|Warsa]].[@fc02-country, fc02-burning] It lies in the western Kaios Desert, and [[ali#bofman|Bofman]] describes it as a country prosperous through commerce.[@fc02-country] Its town of [[geography#kaios-desert-countries-and-towns-leodo|Leodo]] flourishes around an oasis near the border, while Shalzad lies to the north of Israfan.[@fc02-country, fc02-border]
 
 ## History {#history}
 
@@ -32,7 +32,7 @@
 | Familia Chronicle 2 | [[ali|Ali]] describes a hidden fortress on the Israfan–Shalzad border where she planned to reunite with her retainers.[@fc02-border] |
 | Familia Chronicle 2 | Warsa invades Israfan and burns Leodo; Bofman also reports assaults on other towns and villages near Shalzad's border.[@fc02-burning] |
 | Familia Chronicle 2 | Ali asks Israfan's merchants and people to carry her message to Shalzad's soldiers.[@fc02-speech] |
-| Familia Chronicle 2 | [[hedin|Hedin Selrand]] chooses the Gazoob Wasteland, where Israfan's, Shalzad's and Warsa's borders meet, and proposes requesting Israfan's troops as a contingency.[@fc02-contingency] |
+| Familia Chronicle 2 | [[hedin|Hedin Selrand]] chooses the [[geography#kaios-desert-countries-and-towns-gazoob-wasteland|Gazoob Wasteland]], where Israfan's, Shalzad's and Warsa's borders meet, and proposes requesting Israfan's troops as a contingency.[@fc02-contingency] |
 | Familia Chronicle 2 | The battles involving these countries later become known as the [[ali#calamity-of-the-hot-sands|Calamity of the Hot Sands]].[@fc02-name] |
 
 

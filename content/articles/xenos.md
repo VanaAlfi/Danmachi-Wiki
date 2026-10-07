@@ -6,12 +6,13 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
-  "aliases": ["Fia", "Ranieh", "Orde", "Aude", "Foh", "Cliff", "Gryuu", "Gryu"],
+  "aliases": ["Fia", "Ranieh", "Orde", "Aude", "Foh", "Cliff"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
   "sections": [
     {"anchor": "ranieh", "title": "Ranieh", "summary": "An arachne Xenos who distrusted surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushed her own magic stone rather than be abused, and her acid led the Xenos to one of the hunters.", "aliases": ["Ranye"]},
-    {"anchor": "fia", "title": "Fia", "summary": "A red-haired harpy Xenos, more curious about the surface than any of the others; captured with Wiene by Ikelos Familia's hunters in DanMachi 10 and freed in Knossos.", "aliases": ["Fear"]}
+    {"anchor": "fia", "title": "Fia", "summary": "A red-haired harpy Xenos, more curious about the surface than any of the others; captured with Wiene by Ikelos Familia's hunters in DanMachi 10 and freed in Knossos.", "aliases": ["Fear"]},
+    {"anchor": "gryuu", "title": "Gryuu", "summary": "Gryuu is a green dragon among the Xenos, whom Lido describes as a long-standing member and village caretaker.", "aliases": ["Gryu"]}
   ],
   "infobox": {
     "title": "Xenos",
@@ -52,7 +53,7 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | Orde | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
 | Foh | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
 | Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
-| Gryuu | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[mari|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
+| [[#gryuu|Gryuu]] | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[mari|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
 
 ## Ranieh {#ranieh}
 
@@ -65,6 +66,18 @@ Gros, who saw her death through the crystal, calls on the Xenos to avenge Ranieh
 ## Fia {#fia}
 
 Fia is a [[monsters#harpy|harpy]] with "deep-red hair flowing past her shoulders", who seems about the same age as [[wiene|Wiene]]; on the journey in DanMachi 10 she walks beside the newcomer to reassure her.[@fm10-fia2] She is "much more interested in the surface and its inhabitants than anyone else", always with a question to ask.[@fm10-fia] Captured with Wiene when Ranieh's band is ambushed, she is found in the first cage of the hunters' hold and left in Lett's care.[@fm10-captured, fm10-cages] When the hold falls into chaos under Dix's curse, Fels asks, "Lett, Fia, can you escape from here?", and "Airborne but unsteady", she flies off with the red-cap holding one of her legs, over their crazed brethren.[@fm10-flight] In DanMachi 11 she falls from the sky during the flight and Lett goes after her; the separated Xenos later find Bell's group by following Haruhime's magical light.[@fm11-separated, fm11-reunion] In the Water Capital of DanMachi 12, wild harpies and sirens "uglier than old crones" make Bell realize "how far Rei and Fia have deviated from the norms of their race".[@fm12-norms] In DanMachi 14, hooded among Lett's group, she "smiled brightly at the teary-eyed Lilly".[@fm14-lett] She and Lett, in adventurers' costumes, are among the Xenos who came "to rescue Hestia Familia".[@fm14-costumes] In Sword Oratoria 12's final battle in Knossos she and Lett speak "in fluent Koine", their words "tinged with fear",[@so12-fia] and in Minor Myths and Legends 1 a Xenos teases Rei that "even Fia and Aruru will get to Bell before you!"[@ss01-fia]
+
+## Gryuu {#gryuu}
+
+**Gryuu** {{small|printed *Gryu* in DanMachi 14}} ({{ja|木竜}}, written *wood dragon*, read *Gryū*)[@fm09-gryuu-ja] is a [[monsters#green-dragon|green dragon]] among the Xenos, whom [[lido|Lido]] describes as a long-standing member and village caretaker.[@fm09-leadership, fm14-caretakers] Lido says that Gryuu cannot move freely with his large body, so Lido is the one who leads the group.[@fm09-leadership]
+
+### History {#gryuu-history}
+
+| Volume | Events |
+|---|---|
+| DanMachi 9 | An unnamed green dragon lies beside a quartz pillar, at least ten meders long, with scars and quiet eyes watching the visitors.[@fm09-dragon] This is probably Gryuu, based on the matching species, large body and presence in the Xenos village described by Lido {{inference}}.[@fm09-dragon, fm09-leadership] |
+| DanMachi 14 | Lido tells [[welf-crozzo|Welf Crozzo]] that [[floor-37|Floor 37]] lacks a village caretaker like Gryuu or [[mari|Mari]], and that Xenos seldom stay there.[@fm14-caretakers] |
+| Minor Myths and Legends 1 | Gryuu is probably the unnamed green dragon guarding the hidden village on [[colossal-tree-labyrinth|Floor 20]], based on the matching species and Lido's description of him as a village caretaker {{inference}}.[@ss01-lookout, fm14-caretakers] |
 
 ## History
 
@@ -129,3 +142,8 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@ss01-fia]: SS01 | | Printed heading "Monstrous Longing, and a Sage’s Enlightenment" (not in the evidence map): "even Fia and Aruru will get to Bell before you!"
 [@fm10-xenos-ja]: FM10 | | The Japanese edition writes the name in kanji meaning heretic children, with the reading Xenos; the infobox gives the kanji.
 [@fm14-gryu-ja]: FM14 | | The Japanese edition writes his name as the reading of the kanji for wood dragon, the word Sword Oratoria 14's Japanese reads as green dragon; DanMachi 9's Japanese writes it the same way.
+[@fm09-leadership]: FM09 | Chapter 5: Heretics | Lido describes the Xenos villages and Gryuu’s restricted movement; Welf asks about leadership. The Japanese edition (file c5SZ, paragraph 971) has Lido call Gryuu an old-timer, a wood dragon who cannot move about freely with a body like that, so that Lido leads everyone; the body is the one the party has just seen in the same village (file c5SZ, paragraphs 558 to 560).
+[@fm09-dragon]: FM09 | Chapter 5: Heretics | An unnamed green dragon lies by a quartz pillar, more than ten meders long and scarred. The Japanese edition (file c5SZ, paragraphs 558 and 560) writes its species with the kanji for wood dragon, read green dragon, and gives its full length as ten meders or more; the English prints "a dragon more than ten meders long".
+[@fm14-caretakers]: FM14 | Epilogue: You’ll Be Back II | Lido describes the thirty-seventh floor and names Gryu and Mari as village caretakers.
+[@ss01-lookout]: SS01 | | An unnamed Green Dragon guards the twentieth-floor hidden village; Mari guards the twenty-seventh. The Japanese edition (file part0072, paragraph 4) calls each village's guard by the word DanMachi 14 uses for Gryuu and Mari as the villages' lookouts (file cD0B, paragraph 103), and writes this dragon's species with the kanji for wood dragon, read green dragon.
+[@fm09-gryuu-ja]: FM09 | Chapter 5: Heretics | The Japanese edition writes his name as the reading of the kanji for wood dragon, the word Sword Oratoria 14's Japanese reads as green dragon (file c5SZ, paragraph 971; DanMachi 14 the same, file cD0B, paragraph 103).

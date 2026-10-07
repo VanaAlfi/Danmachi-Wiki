@@ -6,9 +6,10 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The body that governs Dungeon affairs in Orario: it registers Familias and adventurers, ranks Familias, runs the Exchange for magic stones, and assigns advisers and missions.",
-  "aliases": ["Guild", "Guild Headquarters", "Pantheon", "Sophie", "Sofi"],
+  "aliases": ["Guild", "Guild Headquarters", "Pantheon"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1, 2, 9 and 12, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
   "sections": [
+    {"anchor": "sophie", "title": "Sophie", "summary": "Sophie is an elven employee of the Guild who joined at the same time as Rose.", "aliases": ["Sofi"]},
     {"anchor": "chamber-of-prayers", "title": "Chamber of Prayers", "summary": "The underground temple beneath Guild Headquarters where Ouranos sits at his altar, lit by four torches; the Guild's secret business is done there.", "aliases": []}
   ],
   "related": ["ouranos", "eina-tulle", "orario", "dungeon", "hestia-familia", "war-game"],
@@ -44,9 +45,20 @@
 
 Receptionists are chosen partly for their looks, because their rapport with adventurers affects morale and the flow of magic stones. Advisers are discouraged from growing close to adventurers, since repeated deaths take a toll on staff.[@fm08-guild]
 
-Among Eina's fellow receptionists are [[misha-frot|Misha]], [[rose|Rose]] and Sophie. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi] The Japanese writes her name {{ja|ソフィ}}, the name of the elf receptionist printed *Sophie* in DanMachi 15.[@so09-sofi-ja]
+Among Eina's fellow receptionists are [[misha-frot|Misha]], [[rose|Rose]] and [[#sophie|Sophie]]. Rose is a werewolf with long red hair and "a capable coordinator", who wants nothing to do with adventurers, since nothing good comes from being with someone with a death wish; in DanMachi 15's flashback to Bell's registration she offers to bet "on how long that kid has". Sophie, "a beautiful elven woman who had entered the Guild at the same time Rose had", turns him down: "It’s a waste to put time and effort into adventurers who aren’t going to last."[@fm08-rose, fm15-rose, fm15-rose2] In Sword Oratoria 9's recollections Rose is "the bored werewolf receptionist" at the counter when [[riveria|Riveria]] brings the young [[aiz-wallenstein|Aiz]] to register, and an orange-haired god teases "a lovely elf" receptionist, printed *Sofi*.[@so09-rose, so09-sofi] The Japanese writes her name {{ja|ソフィ}}, the name of the elf receptionist printed *Sophie* in DanMachi 15.[@so09-sofi-ja]
 
 [[eina-tulle|Eina]]'s boss is Chief Rehmer, a chienthrope, who appears in the flashback of DanMachi 15; in DanMachi 19 he brings her to the meeting of Royman and the Guild's leadership on the second floor of the headquarters, where the Shaft plan is discussed.[@fm15-rehmer, fm19-rehmer]
+
+### Sophie {#sophie}
+
+**Sophie** ({{ja|ソフィ}})[@fm15-sophie-ja] is an [[races#elf|elven]] employee of the Guild and a colleague of [[eina-tulle|Eina Tulle]] and [[rose|Rose]].[@fm15-employee] She entered the Guild at the same time as Rose and ranks among its two most popular employees.[@fm15-employee]
+
+#### History {#sophie-history}
+
+| Volume | Events |
+|---|---|
+| DanMachi 15 | After [[bell-cranell|Bell Cranell]] registers, Rose asks whether Sophie will accept him as an advisee because he requested an elven woman.[@fm15-request, fm15-adviser] Sophie refuses while continuing her paperwork, saying that effort spent on adventurers who will not last is wasted.[@fm15-employee] Eina Tulle protests against Sophie and Rose dismissing him so readily.[@fm15-employee] |
+| Sword Oratoria 9 | The elven Guild receptionist who rejects a returning god's invitation is probably Sophie, based on the matching Japanese name, occupation and race {{inference}}.[@so09-rebuff, fm15-employee] She says she had not noticed his absence, then asks him to leave because he is interfering with her work.[@so09-rebuff] |
 
 ## Headquarters
 
@@ -110,3 +122,8 @@ Beneath the headquarters lies the **Chamber of Prayers** ({{ja|祈禱の間}}, *
 [@fm01-guild-ja]: FM01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
 [@chamber-of-prayers.fm13-ja]: FM13 | | The Japanese edition names it the chamber of prayer.
 [@so09-sofi-ja]: SO09 | | The Japanese edition (file c4J4, paragraphs 70 and 75) writes the receptionist's name in katakana; DanMachi 15's Japanese writes the same name for the elf receptionist printed Sophie (file c325, paragraphs 319 and 323).
+[@fm15-employee]: FM15 | Chapter 4: Guild Alone | Sophie is an elf, Rose’s employment contemporary, and a highly popular Guild employee. The Japanese edition (file c325, paragraph 321) has her turn Bell down while carrying on with her clerical work; the English prints the refusal alone ("She refused the offer with extreme bluntness").
+[@fm15-request]: FM15 | Chapter 4: Guild Alone | Bell registers as an adventurer; Eina returns to the back office.
+[@fm15-adviser]: FM15 | Chapter 4: Guild Alone | Bell requested an elven female adviser; Sophie refuses, prompting Eina’s protest.
+[@so09-rebuff]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | A receptionist called Sofi dismisses a returning god’s flirtation and asks him to leave. The English prints the name as Sofi here; the Japanese edition writes it as for Sophie in DanMachi 15 (file c4J4, paragraphs 70 and 75; DanMachi 15, file c325, paragraph 319), and Rose works at another window in the same scene. Against the identification: this receptionist is "The cold-looking silver-haired elf receptionist", while the Japanese edition of DanMachi 15 gives Sophie long pale-purple hair (file c325, paragraph 322), which the English does not print.
+[@fm15-sophie-ja]: FM15 | Chapter 4: Guild Alone | The Japanese edition writes her name in katakana, read Sofi (file c325, paragraph 319).

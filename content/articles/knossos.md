@@ -6,9 +6,12 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "A man-made labyrinth beneath Daedalus Street, built over nearly a thousand years by the descendants of Daedalus, with orichalcum doors, adamantite walls faced with anti-magic stone, watching statues and a control pedestal; it connects to the Dungeon, reaches at least Floor 18 and served as the Evils' lair. Conquered in Sword Oratoria 12, it passes to the Guild, which plans to reuse its doors for the Shaft.",
-  "aliases": ["Man-made dungeon", "Daedalus Orb", "Daedalus Orbs", "Daedalus's Notebook", "Orichalcum door", "Orichalcum doors"],
+  "aliases": ["Man-made dungeon", "Daedalus's Notebook", "Orichalcum door", "Orichalcum doors"],
   "spoilers": "DanMachi Vols. 10, 11, 19 and Sword Oratoria Vols. 7 and 9–12",
   "related": ["dungeon", "daedalus-street", "barca-perdix", "ikelos-familia", "orario", "xenos", "loki-familia", "floor-18", "hermes"],
+  "sections": [
+    {"anchor": "daedalus-orb", "title": "Daedalus Orb", "summary": "The magic item, a jewel, that opens the doors of Knossos: who holds, steals, copies and uses the orbs in Sword Oratoria 10 to 12.", "aliases": ["Daedalus Orbs", "Daedalus's Orb", "Orb of Knossos"]}
+  ],
   "infobox": {
     "title": "Knossos",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -43,6 +46,18 @@ Its doors open only with keys that use the magic of a *D*-marked eye, an eye inh
 ## The Daedalus line {#daedalus-line}
 
 The descendants of Daedalus inherit the marked eye, his notebook and a duty to keep building, passed on from infancy over nearly a millennium. Dix describes this as a compulsion, and Sword Oratoria 11's history of [[barca-perdix|Barca]] supports his account.[@fm10-knossos, so11-eye]
+
+## Daedalus Orb {#daedalus-orb}
+
+The **Daedalus Orb** ({{ja|ダイダロス・オーブ}}) is a magic item that opens the doors of Knossos.[@so10-key, so10-orb-ja] The eyes of [[daedalus|Daedalus]]'s descendants, marked with D, emit the magic that makes the gates open and close.[@so11-power]
+
+### History {#daedalus-orb-history}
+
+| Volume | Events |
+|---|---|
+| Sword Oratoria 10 | [[loki-familia|Loki Familia]] sought a key carried by the armed monsters, using them as bait for the [[evils|Evils]].[@so10-bait] [[finn-deimne|Finn Deimne]] showed his familia a metal replica made from his memory and [[lena-tully|Lena Tully]]'s testimony.[@so10-replica] [[anakity-autumn|Anakity Autumn]] obtained an orb after interrogating the detached-force leader and handed it to [[riveria|Riveria Ljos Alf]]; [[freya|Freya]] separately gave [[hermes|Hermes]] another.[@so10-capture, so10-hermes] |
+| Sword Oratoria 11 | [[barca-perdix|Barca Perdix]] made keys using the eyes of relatives who had killed themselves.[@so11-maker] Five keys were available for the assault: Anakity's, one Riveria captured inside Knossos, Freya's transferred through Hermes to [[cruz-bussell|Cruz Bussell]]'s squad, and two held by the [[xenos|Xenos]].[@so11-five] After studying an original, [[asfi|Asfi Al Andromeda]] made one working imitation in ten days, using mythril and a reproduced eye.[@so11-imitation, so11-power] A familia member used an orb to lower gates and block the invading green flesh.[@so11-close] |
+| Sword Oratoria 12 | The fifth squad used an orb to enter through the route on Floor 9, and the masked creature later used one to activate an exposed pitfall.[@so12-enter, so12-trap] |
 
 ## History {#history}
 
@@ -90,3 +105,16 @@ The descendants of Daedalus inherit the marked eye, his notebook and a duty to k
 [@so11-levels]: SO11 | | Floors nine, ten and twelve.
 [@so12-entrances]: SO12 | Chapter 5: Final War | "the entrance connecting to Knossos on the Dungeon’s ninth floor".
 [@so12-assault]: SO12 | | The second assault; the ritual chambers; Nidhogg.
+[@so10-key]: SO10 | Chapter 1: Omen | Daedalus’s Orb is a magic-item jewel opening Knossos doors.
+[@so10-orb-ja]: SO10 | Chapter 1: Omen | The Japanese edition writes {{ja|ダイダロス・オーブ}}, the Daedalus Orb, a jewel that can open the doors of Knossos (file c5J, paragraph 8); the English prints *Daedalus’s Orb* there.
+[@so11-maker]: SO11 | Chapter 5: Obsession Manifest | Barca makes keys from relatives’ eyes after their suicides.
+[@so11-power]: SO11 | Chapter 5: Obsession Manifest | Eyes marked D emit magic that opens/closes gates; Asfi makes one imitation.
+[@so10-bait]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | Armed monsters carrying a key serve as bait for the Evils.
+[@so10-replica]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | Finn’s replica. The Japanese edition (file c2N6, paragraph 776) says it is just a lump of metal, made to look like the orb from Lena’s testimony; the English prints "It was just a lump of gold".
+[@so10-capture]: SO10 | Chapter 5: Brave Soul! | Anakity obtains a key from the detached-force leader and gives it to Riveria.
+[@so10-hermes]: SO10 | Interlude: A Private Conversation Between Gods | Freya hands Hermes an orb.
+[@so11-five]: SO11 | Chapter 2: The Decisive Battle Intermission | Five keys: three with Loki’s side and two with the Xenos.
+[@so11-imitation]: SO11 | Chapter 5: Obsession Manifest | Asfi creates a mythril imitation after studying an original.
+[@so11-close]: SO11 | Chapter 6: And Then the God Smiled | A familia member closes gates against invading flesh.
+[@so12-enter]: SO12 | Chapter 5: Final War | Fifth squad enters through the ninth-floor route with an orb.
+[@so12-trap]: SO12 | Chapter 5: Final War | Masked creature uses orb to activate an exposed pitfall.

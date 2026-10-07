@@ -50,7 +50,7 @@
 
 ### Recruitment of the executives
 
-Ottar was the first. At seventeen he was Level 5 and second-in-command; after him came Hegni and Hedin, then the [[gulliver-brothers|Gulliver brothers]], and finally Allen and his sister.[@fc02-origin] Hedin and Hegni had been kings of rival white-elf and dark-elf states on the island of Heodenings; Freya provoked their final war, and the two of them, the last left standing, followed her.[@fc02-pasts] She found Allen, then six, and his younger sister Anya two years after a dragon destroyed their home country in one night.[@fc02-pasts, fm18-allen]
+Ottar was the first. At seventeen he was Level 5 and second-in-command; after him came Hegni and Hedin, then the [[gulliver-brothers|Gulliver brothers]], and finally Allen and his sister.[@fc02-origin] Hedin and Hegni had been kings of rival white-elf and dark-elf states on the island of [[geography#ruined-and-remote-lands-heodenings|Heodenings]]; Freya provoked their final war, and the two of them, the last left standing, followed her.[@fc02-pasts] She found Allen, then six, and his younger sister Anya two years after a dragon destroyed their home country in one night.[@fc02-pasts, fm18-allen]
 
 ## Organisation
 
@@ -98,7 +98,7 @@ After Hestia purges the charm, Freya declares a Familia War, staking her Familia
 
 ### The Familia War
 
-In DanMachi 18 forty-seven Familias and more than eight hundred adventurers fight Freya Familia at the ruins of Orza under flower-capture rules. Hedin secretly turns against the Familia for Freya's own sake, and Mia enters the battle against Ottar.[@fm18-orza, fm18-hedin, fm18-mia] Bell scatters Freya's flower, and the coalition wins. Nobody dies in the [[war-game|War Game]].[@fm18-flower, fm18-orza]
+In DanMachi 18 forty-seven Familias and more than eight hundred adventurers fight Freya Familia at the [[geography#ruins-near-orario-orza-ruins|ruins of Orza]] under flower-capture rules. Hedin secretly turns against the Familia for Freya's own sake, and Mia enters the battle against Ottar.[@fm18-orza, fm18-hedin, fm18-mia] Bell scatters Freya's flower, and the coalition wins. Nobody dies in the [[war-game|War Game]].[@fm18-flower, fm18-orza]
 
 ## Dissolution {#dissolution}
 

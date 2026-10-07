@@ -29,11 +29,11 @@
 
 | Volume | Events |
 |---|---|
-| DanMachi 15 | [[lyu-leon|Lyu Leon]] belongs to the clan that has guarded her village's holy tree for generations in Lumirua Forest.[@fm15-guardians] |
+| DanMachi 15 | [[lyu-leon|Lyu Leon]] belongs to the clan that has guarded her village's holy tree for generations in [[geography#elven-forests-lumirua-forest|Lumirua Forest]].[@fm15-guardians] |
 | Sword Oratoria 11 | [[lefiya|Lefiya Viridis]] invites [[filvis|Filvis Challia]] to her village, saying its tree's crown of light apparently occurs only in [[wishe-forest|Wishe Forest]].[@so11-invitation] |
 | Sword Oratoria 13 | [[wishe-forest|Wishe Forest]]'s great holy tree is famed for its crown of light and bears it on [[lefiya|Lefiya Viridis]]'s departure day.[@so13-crown] |
-| Sword Oratoria 14 | In the Alf Royal Woods, the [[races#high-elf|high elves]]' home, a town extends around the royal sacred tree, which receives prayers and elven pilgrims.[@so14-royal] |
-| Astrea Record 1 | Adi Varma {{small|printed *Ardee* in Astrea Record 1 and 2}} reports smuggled branches in [[orario|Orario]], and [[riveria|Riveria Ljos Alf]] expresses concern about their circulation.[@ar01-trees] |
+| Sword Oratoria 14 | In the [[geography#elven-forests-alf-royal-woods|Alf Royal Woods]], the [[races#high-elf|high elves]]' home, a town extends around the royal sacred tree, which receives prayers and elven pilgrims.[@so14-royal] |
+| Astrea Record 1 | [[adi-varma|Adi Varma]] {{small|printed *Ardee* in Astrea Record 1 and 2}} reports smuggled branches in [[orario|Orario]], and [[riveria|Riveria Ljos Alf]] expresses concern about their circulation.[@ar01-trees] |
 
 ## Branches and weapons {#branches-and-weapons}
 

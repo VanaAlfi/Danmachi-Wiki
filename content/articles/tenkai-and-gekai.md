@@ -8,7 +8,7 @@
   "summary": "Tenkai, the gods' upper world, and Gekai, the lower world of mortals, where bored gods came down to live among their \"children\" as equals. While in Gekai they keep their divine power, Arcanum, sealed by their own rule: using it, or a fatal wound that triggers it, sends a god back to Tenkai in a pillar of light. In Tenkai the gods judge the souls of the dead, who are mostly purified and reborn.",
   "aliases": ["Tenkai", "Gekai", "Upper world", "Lower world", "Heaven", "The heavens", "Mortal realm", "Mortal world", "Deusdia", "Arcanum", "Arkanam", "Divine power", "Divine Mirror", "Pillar of light", "Sent back to Tenkai", "Reincarnation"],
   "spoilers": "DanMachi Vols. 1–8 and 17, Sword Oratoria Vols. 1, 2, 5, Familia Chronicle Vol. 2 and Astrea Record Vols. 2 and 3",
-  "related": ["falna", "races", "hestia", "freya", "denatus", "war-game", "ishtar", "delphyne", "edas-village"],
+  "related": ["falna", "races", "hestia", "freya", "denatus", "war-game", "ishtar", "delphyne", "edas-village", "geography"],
   "sections": [
     {"anchor": "arcanum", "title": "Arcanum", "summary": "The gods' powers of omniscience and omnipotence, sealed by their own agreement while in Gekai. Using it gets a god sent back to Tenkai; a fatal wound triggers it and returns the god in a pillar of light. The Divine Mirror is the one permitted exception.", "aliases": ["Arkanam", "Divine Mirror", "Pillar of light"]},
     {"anchor": "souls", "title": "Souls and rebirth", "summary": "In Tenkai the gods judge the souls of the dead, on whim; most souls are purified and reborn into a new life in Gekai.", "aliases": ["Reincarnation"]}

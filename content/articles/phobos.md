@@ -31,7 +31,7 @@
 | DanMachi 15 | At Garon's direction, Phobos grants Welf his Falna on his tenth birthday and subsequently tells him to make a [[magic-sword|magic sword]].[@fm15-blessing] |
 | DanMachi 15 | She uses her contacts to help him leave [[ares-familia#kingdom-of-rakia|Barva]], getting him through two walls before soldiers discover him at the third.[@fm15-escape] |
 | DanMachi 15 | After his escape, she gives him his first and last [[status|Status]] update from her, allowing him to join another god's Familia while retaining his enhanced abilities.[@fm15-release] |
-| DanMachi 15 | Phobos says she will claim that she manipulated Vil and the others and egged Welf on, all for her own amusement, and that Ares, a fool, will believe it.[@fm15-release] |
+| DanMachi 15 | Phobos says she will claim that she manipulated [[vil-crozzo|Vil]] and the others and egged Welf on, all for her own amusement, and that Ares, a fool, will believe it.[@fm15-release] |
 | DanMachi 15 | In the present, Welf looks up at the sky and asks whether Phobos is watching him.[@fm15-memory] |
 
 

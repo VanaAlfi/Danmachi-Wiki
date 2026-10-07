@@ -63,14 +63,14 @@ In Familia Chronicle 2 Freya mentors Ali, later [[ali|King Aram]] of Shalzad, be
 | DanMachi 4 | At Denatus she protects [[hestia-familia|Hestia Familia]] from scrutiny of its Status.[@fm04-denatus] |
 | DanMachi 7 | After [[ishtar|Ishtar]] abducts Bell, sends her Familia against [[ishtar-familia|Ishtar Familia]]; Ishtar is sent back to the heavens and the [[guild|Guild]] fines Freya.[@fm07-ishtar, fm07-fine] |
 | Sword Oratoria 9 | Shelters [[ishtar-familia#tammuz-berrilli|Tammuz]], a former follower of Ishtar, and has Ottar dispose of the assassins sent after him.[@so09-tammuz] |
-| Sword Oratoria 10 | Gives [[hermes|Hermes]] the Daedalus Orb she had kept, judging his plan a worthy trial for Bell.[@so10-orb] |
+| Sword Oratoria 10 | Gives [[hermes|Hermes]] the [[knossos#daedalus-orb|Daedalus Orb]] she had kept, judging his plan a worthy trial for Bell.[@so10-orb] |
 | DanMachi 11 | Orders her Familia to keep others away from Bell's rematch with [[asterios|Asterios]] and watches it from Babel.[@fm11-asterios] |
 
 ### DanMachi 16–18
 
 During the [[elegia#goddess-festival|Goddess Festival]] of DanMachi 16, Freya as Syr goes on a date with Bell, confesses, and is turned down. She then resolves to take him.[@fm16-rejected] In DanMachi 17 she demands his conversion, seizes him and charms the city into believing he belongs to her Familia; he keeps Hestia's Falna throughout.[@fm17-seizure] Hörn exposes Freya's hidden plea to be saved, and Hestia breaks the charm. Freya then stakes her Familia, her wealth and herself on a Familia War.[@fm17-horn, fm17-hearth, fm17-wager]
 
-She loses that war in DanMachi 18. Bell scatters her flower at the ruins of Orza, and nobody dies in the fighting.[@fm18-odr, fm18-orza] The Guild orders her banished and dissolves Freya Familia.[@fm18-dissolved]
+She loses that war in DanMachi 18. Bell scatters her flower at the [[geography#ruins-near-orario-orza-ruins|ruins of Orza]], and nobody dies in the fighting.[@fm18-odr, fm18-orza] The Guild orders her banished and dissolves Freya Familia.[@fm18-dissolved]
 
 ### Afterwards
 

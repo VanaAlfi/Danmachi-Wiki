@@ -34,7 +34,7 @@ Bell defeats Hyacinthus in single combat and Hestia Familia wins.[@fm06-victory]
 
 ## The Familia War against Freya Familia (DanMachi 18)
 
-In DanMachi 17 [[freya|Freya]] declares a War Game against Hestia, staking her Familia, its wealth, her fame and honour, and herself.[@fm17-declare] It is fought in DanMachi 18 at the ruins of Orza, an ancient city on an island in a caldera lake northwest of Orario. Forty-seven Familias and more than eight hundred adventurers form a [[familia-coalition|coalition]] against [[freya-familia|Freya Familia]] under flower-capture rules.[@fm18-orza] The format and rules are argued over for days at [[denatus|Denatus]], split between Hestia's supporters and Freya's backers.[@fm18-babel, fm18-days]
+In DanMachi 17 [[freya|Freya]] declares a War Game against Hestia, staking her Familia, its wealth, her fame and honour, and herself.[@fm17-declare] It is fought in DanMachi 18 at the [[geography#ruins-near-orario-orza-ruins|ruins of Orza]], an ancient city on an island in a caldera lake northwest of Orario. Forty-seven Familias and more than eight hundred adventurers form a [[familia-coalition|coalition]] against [[freya-familia|Freya Familia]] under flower-capture rules.[@fm18-orza] The format and rules are argued over for days at [[denatus|Denatus]], split between Hestia's supporters and Freya's backers.[@fm18-babel, fm18-days]
 
 {{nocite}} Some rules differ from the first War Game:
 

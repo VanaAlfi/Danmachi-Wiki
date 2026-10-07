@@ -166,7 +166,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#filvis-skills|Fairy Senior]] | Filvis Challia | Magic support | Stronger magic, growing with her grief[@sheet.so12-filvis] |
 | [[#filvis-skills|Monstrum Union]] | Filvis Challia | Hybrid | Status bug; anima erosion[@sheet.so12-filvis] |
 | [[#filvis-skills|Dark Light]] | Filvis Challia | Magic change | Changes the light and the wavelength of her magic; adds a recovery-rejecting enchantment[@sheet.so12-filvis] |
-| [[#adi-skills|Ganapati Blood]] | Adi Varma | Blessing | Slightly modified stats[@sheet.ar02-ardee] |
+| [[#adi-skills|Ganapati Blood]] | [[adi-varma|Adi Varma]] | Blessing | Slightly modified stats[@sheet.ar02-ardee] |
 | [[#adi-skills|Dharmas Algo]] | Adi Varma | Party (same Familia) | Passive stat boost for Familia members in range[@sheet.ar02-ardee] |
 | [[#deus-ambrosia|Deus Ambrosia]] | Zald | Eating | What he eats boosts his stats[@deus-ambrosia.ar03-glutton] |
 | [[#gif-blessing|Gif Blessing]] | Alfia | Negative | Permanent Limit Off, with ailments and a steady decline[@gif-blessing.ar03-effect] |

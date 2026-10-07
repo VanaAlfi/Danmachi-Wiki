@@ -6,12 +6,13 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "Orario's greatest casino, the \"Grand Casino\" in the Shopping District, built and backed by the Paradise City, Santorio Vega, and beyond the Guild's oversight. In Familia Chronicle 1 Lyu and Syr enter it disguised as a count and countess to rescue Anna Kreiz, and expose its owner, \"Terry Cervantes\", as the criminal Ted.",
-  "aliases": ["Grand Casino", "The Grand Casino", "Casino", "Paradise City", "Santorio Vega", "The Golden City", "Terry Cervantes", "Ted", "Anna Kreiz", "Karen Kreiz", "Huey Kreiz", "Ariud Maximilian", "Sirène", "Crush the Grand Casino!", "Mayrustra", "Meilstora", "Opera Country Meilstora", "Maelstra"],
-  "spoilers": "Sword Oratoria Vols. 13 and 14, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 2",
+  "aliases": ["Grand Casino", "The Grand Casino", "Casino", "Paradise City", "Santorio Vega", "The Golden City", "Terry Cervantes", "Ted", "Anna Kreiz", "Ariud Maximilian", "Sirène", "Crush the Grand Casino!"],
+  "spoilers": "Sword Oratoria Vols. 13 and 14, Familia Chronicle Vol. 1, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
   "related": ["lyu-leon", "syr-flover", "status-thief", "ganesha-familia", "mord-latro", "bell-cranell", "astrea-familia", "mia-grand", "asfi"],
   "sections": [
     {"anchor": "ted", "title": "Terry Cervantes (Ted)", "summary": "The dwarf owner of El Dorado Resort, really Ted, a former bookie for illegal gambling dens who had taken the identity of the real Terry Cervantes; exposed by Lyu with the Status Thief.", "aliases": ["Terry Cervantes", "Ted"]},
-    {"anchor": "anna-kreiz", "title": "Anna Kreiz", "summary": "The western-district girl whose father lost her in a rigged wager; bought by Ted and rescued by Lyu in Familia Chronicle 1.", "aliases": ["Anna", "Karen Kreiz", "Huey Kreiz"]}
+    {"anchor": "anna-kreiz", "title": "Anna Kreiz", "summary": "The western-district girl whose father lost her in a rigged wager; bought by Ted and rescued by Lyu in Familia Chronicle 1.", "aliases": ["Anna"]},
+    {"anchor": "huey-and-karen-kreiz", "title": "Huey and Karen Kreiz", "summary": "Huey and Karen Kreiz are Anna Kreiz's parents, whose family is helped by Lyu Leon.", "aliases": ["Huey Kreiz", "Karen Kreiz", "Huey", "Karen", "Kreizes"]}
   ],
   "infobox": {
     "title": "El Dorado Resort",
@@ -34,7 +35,7 @@
 
 ## The casinos of Orario {#casinos}
 
-Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign money and know-how from places such as Mayrustra, the Country of Opera, and the Paradise City, Santorio Vega. The Theater and the casinos of the Shopping District came from this.[@fc01-district] Gambling became the city's biggest industry after magic-stone items. The Guild had to tread carefully around the casinos, and their foreign investors took full control, making them practically extraterritorial: "the one place in Orario that the law can’t reach".[@fc01-district] {{inference}} The *Maelstra* of Sword Oratoria 14, whose "famed opera" Finn wants to see, is probably the same country.[@so14-maelstra]
+Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign money and know-how from places such as [[geography#world-powers-and-nations-maelstra|Mayrustra]], the Country of Opera, and the Paradise City, Santorio Vega. The Theater and the casinos of the Shopping District came from this.[@fc01-district] Gambling became the city's biggest industry after magic-stone items. The Guild had to tread carefully around the casinos, and their foreign investors took full control, making them practically extraterritorial: "the one place in Orario that the law can’t reach".[@fc01-district] {{inference}} The *Maelstra* of Sword Oratoria 14, whose "famed opera" Finn wants to see, is probably the same country.[@so14-maelstra]
 
 - **El Dorado Resort:** financed and established by Santorio Vega, it has the Guild's cooperation and contracts [[ganesha-familia|Ganesha Familia]] for security.[@fc01-grand, fc01-district]
 - **Entry:** only the rich get in. Holders of a Gold Card have special passes, and Bell enters on the introduction of [[mord-latro|Mord]], who holds one.[@fc01-entry, fc01-bell]
@@ -45,7 +46,7 @@ Orario once lacked entertainment. To satisfy the gods, the city welcomed foreign
 
 | Stage | Events |
 |---|---|
-| The wager | Huey Kreiz, a gambler, is drawn into a game with delinquent adventurers, loses his daughter Anna as collateral, and loses his house. Thugs take her that morning. Lyu suspects the girl was the target from the start.[@fc01-kreiz, fc01-target] |
+| The wager | [[#huey-and-karen-kreiz|Huey Kreiz]], a gambler, is drawn into a game with delinquent adventurers, loses his daughter Anna as collateral, and loses his house. Thugs take her that morning. Lyu suspects the girl was the target from the start.[@fc01-kreiz, fc01-target] |
 | The trail | [[asfi|Asfi]] traces Anna through the "Marketplace", the gateway of the city's trade, where people are also sold in secret, and finds she was bought by the owner of El Dorado Resort, a dwarf named Terry Cervantes, who was behind the scheme.[@fc01-asfi, fc01-owner] |
 | The invitation | Syr obtains an invitation for a count from a small country.[@fc01-invitation] Minor Myths and Legends 2 shows that [[allen-fromel|Allen]] procured it at her "request" and secretly guarded her inside.[@ss02-allen] |
 | The disguise | Lyu enters as "Ariud Maximilian" with Syr as his wife, "Sirène".[@fc01-disguise] Terry shows them his collection of women, girls in the same plight as Anna.[@fc01-collection] |
@@ -65,6 +66,18 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 ## Anna Kreiz {#anna-kreiz}
 
 **Anna Kreiz** is the daughter of Karen and Huey Kreiz, who work in a small magic-stone store in the western district.[@fc01-kreiz] She is pretty and good-natured, has turned down proposals from male gods, and delivers flowers across the city for the shop where she works.[@fc01-target] At the casino Terry presents her among his mistresses ("Pleased to…meet you…My name is Anna."), attractive enough that the wealthy guests are "nodding in appreciation"; she does not understand the card game and is "on the verge of tears" as he pulls her close.[@fc01-anna-vip] When Ted drags her into the vault, she throws herself flat just before it explodes, and Lyu, still disguised as the count, "wrapped one arm around Anna’s waist as she blushed".[@fc01-anna-vault] At the carriage home she begins to confess her love to her rescuer ("you put your life on the line to save me") until Lyu reveals: "I’m a woman, just like you". "The romantic tale that had set her heart aflutter crumbled pitifully."[@fc01-anna-confess] Later she catches her father drinking in a bar: "You promised you wouldn’t drink anymore!"[@fc01-anna-father] In Minor Myths and Legends 2 she sighs at her window, her mother sees "the face of a girl in love", and she confesses that she has fallen in love with "The brave, dashing young woman who saved me", to her parents' dismay.[@ss02-anna-sigh, ss02-anna]
+
+## Huey and Karen Kreiz {#huey-and-karen-kreiz}
+
+**Huey and Karen Kreiz** ({{ja|ヒューイ}}, {{ja|カレン}}, family name {{ja|クレーズ}})[@fc01-kreiz-ja] are a married couple and the parents of [[#anna-kreiz|Anna Kreiz]], whose family is helped by [[lyu-leon|Lyu Leon]].[@fc01-parents, fc01-family, fc01-promise] They earn their living by manufacturing [[magic-stone|magic-stone]] products and helping at a shop, and live in [[orario|Orario]]'s western district before Huey's gambling costs them their house.[@fc01-parents, fc01-kreiz-wager]
+
+### History {#huey-and-karen-kreiz-history}
+
+| Volume | Events |
+|---|---|
+| Familia Chronicle 1 | After Huey loses their daughter as gambling collateral, Karen goes to [[the-benevolent-mistress|The Benevolent Mistress]], where the couple explain their trouble.[@fc01-kreiz-wager] Karen wishes [[astrea-familia|Astrea Familia]] still existed and believes [[astrea|Astrea]] would help them.[@fc01-kreiz-astrea] After Anna's rescue, Lyu Leon and [[syr-flover|Syr Flover]] arrange a carriage to take her back to her parents.[@fc01-return] Huey later says that Lyu Leon restored his house and daughter and that he promised his family to stop gambling.[@fc01-promise] Anna finds him drinking anyway, threatens to tell Karen, and leads him away by the arm.[@fc01-drinking] |
+| Minor Myths and Legends 2 | Karen interprets Anna's sighing as lovesickness, prompting Huey to rush in and question his daughter.[@ss02-love] When Anna says she loves the woman who saved her, both parents freeze; Huey's subsequent comment provokes Karen.[@ss02-reaction] |
+| Astrea Record 2 | Astrea directs a human married couple named Karen and Huey to disinfect wounds, stop bleeding, and cool and splint fractures.[@ar02-volunteers] They are probably the Kreiz couple, based on their shared names, marital status and Karen's later faith in Astrea, though this scene supplies no surname {{inference}}.[@ar02-volunteers, fc01-parents, fc01-kreiz-astrea] |
 
 [@fc01-kreiz]: FC01 | Crush the Grand Casino! | "The woman’s name was Karen and her husband’s was Huey."; "the ­magic-­stone manufacturing business"; "wager my daughter, Anna"; "losing his daughter and his house".
 [@fc01-target]: FC01 | Crush the Grand Casino! | "Some male gods even proposed to her."; "At the flower shop she worked at"; "out and about delivering things"; "they were after the girl from the beginning".
@@ -104,3 +117,14 @@ Afterwards the owner was replaced, El Dorado Resort carried on as before, and th
 [@fc01-anna-father]: FC01 | Crush the Grand Casino! | "You promised you wouldn’t drink anymore!"
 [@ss02-anna-sigh]: SS02 | | Printed heading "And at that Moment, Lyu Leon Shivered" (not in the evidence map): "That’s the face of a girl in love."; "This was the fabled yuri of which the gods spoke!"
 [@fc01-el-dorado-ja]: FC01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
+[@fc01-parents]: FC01 | Crush the Grand Casino! | Names, marriage, livelihood and western-district residence. The Japanese edition (file c4Z, paragraph 102) names two ways of making a living, making magic-stone products and helping at a shop; the English prints "by helping out in a small store".
+[@fc01-kreiz-wager]: FC01 | Crush the Grand Casino! | Huey’s wager loses their daughter and house; Karen seeks refuge at the tavern.
+[@fc01-family]: FC01 | Crush the Grand Casino! | Karen and Huey Kreiz are the parents of Anna.
+[@fc01-kreiz-astrea]: FC01 | Crush the Grand Casino! | Karen wishes Astrea Familia still existed and believes Astrea would help.
+[@fc01-return]: FC01 | Crush the Grand Casino! | Anna is sent toward her parents in a carriage.
+[@fc01-promise]: FC01 | Crush the Grand Casino! | The father says the elf restored home and daughter; promises to stop gambling.
+[@fc01-drinking]: FC01 | Crush the Grand Casino! | Anna discovers her father drinking; threatens to tell her mother and leads him away.
+[@ss02-love]: SS02 | | Anna’s parents discuss her lovesickness; Huey rushes to question her.
+[@ss02-reaction]: SS02 | | Anna identifies a woman; Huey and Karen react and quarrel.
+[@ar02-volunteers]: AR02 | Chapter 4: Those Who Struggle | Karen and Huey help Astrea with the wounded. The Japanese edition (file c2V4, paragraphs 366 and 371) has Astrea send Karen to disinfect wounds and stop bleeding together with Huey, and to cool broken limbs before splinting them, and calls the two a human married couple; the English prints "Clean their wounds and brace their fractures" and "the two townspeople".
+[@fc01-kreiz-ja]: FC01 | Crush the Grand Casino! | The Japanese edition writes the names in katakana, read Karen and Hyūi (file c4Z, paragraph 101), and calls them the Kurēzu couple, Anna's parents (file c105, paragraph 17).

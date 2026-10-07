@@ -45,7 +45,7 @@ What makes it terrifying is that it ignores the Dungeon's levels. It bores verti
 
 ## Sword Oratoria 14: the Celcebo mines
 
-Before he joined [[loki-familia|Loki Familia]], [[gareth|Gareth]] meets a lambton outside the Dungeon. It had made the Celcebo mines, west of the village of Lonza, its den, and its tunnelling had been causing cave-ins.[@so14-mines, so14-name] It is stronger and more vicious than any monster he has faced.[@so14-strength] [[finn-deimne|Finn]] and [[riveria|Riveria]] arrive. Gareth's punch cracks its scales, Riveria's [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]] freezes it in place, Finn drives his spear into its body, and Gareth pushes a dwarven explosive into the wound. The blast tears it in two, and the collapsing ceiling buries it.[@so14-fight]
+Before he joined [[loki-familia|Loki Familia]], [[gareth|Gareth]] meets a lambton outside the Dungeon. It had made the [[geography#preblica-karna-and-lonza-celcebo-mines|Celcebo mines]], west of the village of [[geography#preblica-karna-and-lonza-lonza|Lonza]], its den, and its tunnelling had been causing cave-ins.[@so14-mines, so14-name] It is stronger and more vicious than any monster he has faced.[@so14-strength] [[finn-deimne|Finn]] and [[riveria|Riveria]] arrive. Gareth's punch cracks its scales, Riveria's [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]] freezes it in place, Finn drives his spear into its body, and Gareth pushes a dwarven explosive into the wound. The blast tears it in two, and the collapsing ceiling buries it.[@so14-fight]
 
 ## Open questions
 

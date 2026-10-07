@@ -6,9 +6,12 @@
   "reviewed": "2026-09-29",
   "continuity": "light-novel",
   "summary": "Mia Grand's three-storey stone tavern on West Main Street in Orario, where Syr, Anya, Lyu, Chloe and Runoa work.",
-  "aliases": ["Benevolent Mistress", "Hostess of Fertility", "Mei", "May"],
+  "aliases": ["Benevolent Mistress", "Hostess of Fertility"],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 9, Familia Chronicle Vol. 1 and Astrea Record Vol. 2",
   "related": ["anya-fromel", "mia-grand", "syr-flover", "lyu-leon", "chloe", "runoa", "orario"],
+  "sections": [
+    {"anchor": "mei", "title": "Mei", "summary": "Mei is a catgirl chef at The Benevolent Mistress.", "aliases": ["May"]}
+  ],
   "infobox": {
     "title": "The Benevolent Mistress",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -76,9 +79,22 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 | [[lyu-leon|Lyu]] | Waitress | Joins in Familia Chronicle 1's tavern story.[@fc01-recruit] |
 | [[chloe|Chloe]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
 | [[runoa|Runoa]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
-| Mei | Staff | A catgirl, one of the catperson cooks who made the tavern's signature dishes for the welcome party in Familia Chronicle 1; in DanMachi 16 Syr hushes Runoa so as not to "wake Mei and the others".[@fc01-mei, fm16-mei] |
+| [[#mei|Mei]] | Staff | A catgirl, one of the catperson cooks who made the tavern's signature dishes for the welcome party in Familia Chronicle 1; in DanMachi 16 Syr hushes Runoa so as not to "wake Mei and the others".[@fc01-mei, fm16-mei] |
 
 {{nocite}} This is not a complete staff list; other waitresses appear in group scenes without names.
+
+## Mei {#mei}
+
+**Mei** ({{ja|メイ}})[@fc01-mei-ja] is a [[races#cat-person|catgirl]] chef working at The Benevolent Mistress.[@fc01-kitchen] She is smaller than [[lyu-leon|Lyu Leon]] and [[anya-fromel|Anya Fromel]], and works so busily that she cannot straighten her slipping chef's hat.[@fc01-kitchen]
+
+### History {#mei-history}
+
+| Volume | Events |
+|---|---|
+| Familia Chronicle 1 | Anya Fromel tells Lyu Leon that Mei initially looked depressed after various troubles, but has become too busy for that.[@fc01-kitchen] While [[mia-grand|Mia Grand]] is away, Mei and the other cooks prepare the tavern's signature dishes for a party in the side building's dining hall.[@fc01-party] [[syr-flover|Syr Flover]] later tells Mia Grand that Mei and the others became drunk on the tavern's alcohol.[@fc01-drunk] |
+| DanMachi 16 | Syr Flover warns [[runoa|Runoa Faust]] to lower her voice so that Mei and the others will not wake.[@fm16-sleep] |
+| DanMachi 17 | Anya Fromel appeals to Mei and the other staff about Syr Flover, but their reactions show no recognition.[@fm17-forgotten] |
+| DanMachi 18 | [[chloe|Chloe Lolo]] says Mei and the other workers have converted as the staff prepare to join the [[war-game|War Game]].[@fm18-conversion] A coworker reports that Mei witnessed [[bete-loga|Bete Loga]] abduct Anya Fromel.[@fm18-witness] |
 
 ## Open questions
 
@@ -108,3 +124,11 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 [@ar02-conflict]: AR02 | Chapter 3: A Gray Wildflower |
 [@fc01-mei]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The welcome party's dishes. The Japanese edition (file c5X2, paragraph 67) credits the catperson cooks, Mei and the others, with the signature dishes.
 [@fm16-mei]: FM16 | Chapter 1: A Stormy Love Letter | "Shhh. You’re too loud, Runoa. You’ll wake Mei and the others."
+[@fc01-kitchen]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Anya points to Mei, a catgirl chef kept busy in the kitchen.
+[@fc01-party]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Mei prepares signature dishes for a party while Mia is away. The Japanese edition (file c5X2, paragraph 67) says the dishes are the work of the catgirl cooks, Mei among them; the English prints "The catgirl Mei made all of the tavern’s signature dishes".
+[@fc01-drunk]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Syr reports that Mei and the other girls got drunk.
+[@fm16-sleep]: FM16 | Chapter 1: A Stormy Love Letter | Syr warns Runoa not to wake Mei and the others.
+[@fm17-forgotten]: FM17 | Chapter 4: Those Left Behind | Anya appeals to Mei and the others; they do not recognize Syr.
+[@fm18-conversion]: FM18 | Chapter 8: The Great Familia War | Chloe says Mei and the others converted as the workers prepare for the War Game.
+[@fm18-witness]: FM18 | Chapter 9: Flower Language for You | A coworker reports Mei witnessed Anya’s abduction; workers follow her.
+[@fc01-mei-ja]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The Japanese edition writes her name in katakana, read Mei (file c4SR, paragraph 146).

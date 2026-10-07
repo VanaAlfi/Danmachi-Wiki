@@ -47,7 +47,7 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 
 ## The first Black Sword
 
-To pay off the debt for a broken rapier, Aiz sold Udaeus's other drop items but kept the black sword; Minor Myths and Legends 2 says she entrusted it to [[bors|Bors]], who promised to make a weapon from it and keeps telling her it is not finished.[@so03-sold, ss02-bors]
+To pay off the debt for a broken [[desperate#rapier|rapier]], Aiz sold Udaeus's other drop items but kept the black sword; Minor Myths and Legends 2 says she entrusted it to [[bors|Bors]], who promised to make a weapon from it and keeps telling her it is not finished.[@so03-sold, ss02-bors]
 
 ## Later mentions
 

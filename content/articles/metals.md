@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The rare metals and ores of the English novels: adamantite mined in the Dungeon and its lighter processed form, dir adamantite; mythril; orichalcum, the master ingot of Durandal weapons; Damascus; the Far East's scarletite; valmars from the lower levels; and seiros, the white ore mages favour. One combined page with a section per metal.",
   "aliases": ["Rare metals", "Rare metal", "Ores and metals", "Ores", "Ore"],
-  "spoilers": "DanMachi Vols. 1, 7, 10–15, 19, 20, Sword Oratoria Vols. 2, 3, 6, 7, 9–11, 13, 14, Familia Chronicle Vol. 1 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 1, 7, 10–15, 19, 20, Sword Oratoria Vols. 2, 3, 6, 7, 9–11, 13, 14, Familia Chronicle Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["knossos", "desperate", "hestia-knife", "school-district", "welf-crozzo", "hephaistos-familia", "goibniu-familia", "dungeon", "equipment"],
   "sections": [
     {"anchor": "adamantite", "title": "Adamantite", "summary": "One of the finest rare metals, mined in the Dungeon and purest from the deep levels; exceedingly hard to forge. Knossos's passages are built of it, and dir adamantite is its lighter processed form.", "aliases": ["Dir adamantite", "Dir-adamantite", "Dual adamantite", "Dual-adamantite"]},
@@ -16,7 +16,8 @@
     {"anchor": "damascus", "title": "Damascus", "summary": "A foreign material, also called rippled steel, used to forge weapons; Aiz's custom sword in Sword Oratoria 9 is made of it.", "aliases": ["Damascus steel", "Rippled steel"]},
     {"anchor": "scarletite", "title": "Scarletite", "summary": "A miraculous metal created in the Far East, equal to orichalcum in value and rarity.", "aliases": []},
     {"anchor": "valmars", "title": "Valmars", "summary": "A high-quality Dungeon ore from the lower levels, also printed varmath: Ouka's battle-ax Kougou and the School District's arenas are made of it.", "aliases": ["Varmath", "Valmarth"], "former_anchors": ["varmath"]},
-    {"anchor": "seiros", "title": "Seiros", "summary": "A white ore that mages favour; Lefiya's staff and the high elves' castle are made of it.", "aliases": ["Seiros ore"]}
+    {"anchor": "seiros", "title": "Seiros", "summary": "A white ore that mages favour; Lefiya's staff and the high elves' castle are made of it.", "aliases": ["Seiros ore"]},
+    {"anchor": "light-metal", "title": "Light metal", "summary": "A lightweight metal used for the hammer head of Cecille Blackliza's weapon in Familia Chronicle 3.", "aliases": ["Lightweight metal"]}
   ],
   "infobox": {
     "title": "Metals",
@@ -46,6 +47,7 @@
 | [[#scarletite|Scarletite]] | As valuable and rare as orichalcum | Created in the Far East.[@so13-scarletite] |
 | [[#valmars|Valmars]] | Ouka's battle-ax and shield; the School District's arenas | A Dungeon ore of the lower levels.[@fm12-varmath, fm19-arena] |
 | [[#seiros|Seiros]] | Lefiya's staff; the high elves' castle | A white ore.[@so03-seiros, so14-seiros] |
+| [[#light-metal|Light metal]] | The hammer head of Cecille Blackliza's weapon | Not named in the checked text.[@fc03-metal] |
 
 ## Adamantite {#adamantite}
 
@@ -89,7 +91,11 @@ Valmars ({{ja|白剛石}}, written *white hard stone*)[@varmath.fm12-ja] is "a h
 
 ## Seiros {#seiros}
 
-Seiros ({{ja|白聖石}}, written *white holy stone*)[@seiros.so06-ja] is a white ore that "mages were rather fond of"; [[lefiya|Lefiya]]'s staff [[equipment#forests-teardrop|Forest's Teardrop]] is made from it.[@so03-seiros] When [[lyu-leon|Lyu]] ran away from her home, she took "only some seiros ore to use as traveling money".[@fm15-seiros] In the Alf Royal Woods, the high elves' home, the castle at the base of the [[holy-tree|royal sacred tree]] is "built of seiros" ([[riveria|Riveria]]'s room is near its top).[@so14-seiros] In Familia Chronicle 1, after Syr asks favours of the gods at a casino to back up her and Lyu's disguise as the Count and Countess of Felnas, gossip in the hall says that Felnas, a small country with economic difficulties, has found "a mountain of seiros in a forest within their territory".[@fc01-seiros] The seal at Lolog Lake may be seiros or valmars.[@so06-seal]
+Seiros ({{ja|白聖石}}, written *white holy stone*)[@seiros.so06-ja] is a white ore that "mages were rather fond of"; [[lefiya|Lefiya]]'s staff [[equipment#forests-teardrop|Forest's Teardrop]] is made from it.[@so03-seiros] When [[lyu-leon|Lyu]] ran away from her home, she took "only some seiros ore to use as traveling money".[@fm15-seiros] In the [[geography#elven-forests-alf-royal-woods|Alf Royal Woods]], the high elves' home, the castle at the base of the [[holy-tree|royal sacred tree]] is "built of seiros" ([[riveria|Riveria]]'s room is near its top).[@so14-seiros] In Familia Chronicle 1, after Syr asks favours of the gods at a casino to back up her and Lyu's disguise as the Count and Countess of Felnas, gossip in the hall says that Felnas, a small country with economic difficulties, has found "a mountain of seiros in a forest within their territory".[@fc01-seiros] The seal at Lolog Lake may be seiros or valmars.[@so06-seal]
+
+## Light metal {#light-metal}
+
+**Light metal** ({{ja|軽量金属}}, written *lightweight metal*)[@fc03-metal-ja] is used for the hammer head of [[cecille-blackliza|Cecille Blackliza]]'s long-handled weapon.[@fc03-metal] Its head has reduced killing power, but Cecille Blackliza's arm strength and decisive swings still make its attacks strong and sharp.[@fc03-strength]
 
 [@fm01-mythril]: FM01 | Chapter 5: The Goddess’s Prank | Mythril chosen from a case of metals and alloys; "Lighter and stronger than iron" (cited by the body heading, printed "The G♥ddess’s Prank").
 [@fm01-knife]: FM01 | Chapter 6: Bump of Chicken! | The Hestia Knife forged from Hephaistos's mythril (cited by the body heading, printed "Bump ◆ of ◆ Chicken!").
@@ -145,3 +151,6 @@ Seiros ({{ja|白聖石}}, written *white holy stone*)[@seiros.so06-ja] is a whit
 [@fm12-valmars-ja]: FM12 | | The Japanese edition writes the ore in kanji meaning white hard stone, with the reading Valmars, in DanMachi 12 as in the other volumes.
 [@fm19-master-ingot-ja]: FM19 | | The Japanese edition (file part0023, paragraph 43) calls the School District's orichalcum famed as the master ingot, written as the hardest refined metal.
 [@mythril.so11-ja]: SO11 | | The Japanese edition (file c3H6, paragraph 245) writes mythril in kanji meaning true silver, with the reading Mythril (the sphere Asfi makes as a key to Knossos).
+[@fc03-metal]: FC03 | The Locus of Stars | Light metal for the hammer head of Cecille's long-handled weapon.
+[@fc03-strength]: FC03 | The Locus of Stars | Reduced killing power, but Cecille's arm strength and decisive swings make it strong and sharp. The Japanese edition (file c12G, paragraph 129) says that, being light metal, its killing power is held down; the English prints "it possessed an unmistakable lethality".
+[@fc03-metal-ja]: FC03 | The Locus of Stars | The Japanese edition writes it in kanji meaning lightweight metal, read light metal (file c12G, paragraphs 127 and 128).

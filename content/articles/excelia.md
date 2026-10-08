@@ -59,7 +59,7 @@ A Level Up needs a great feat, such as defeating a stronger opponent, which yiel
 Everyone who fights in a group battle is entitled to a share, and those who bear the heaviest burden get the largest. After the Goliath on [[floor-18|Floor 18]], Bell is sure that [[lyu-leon|Lyu]] received far more than anyone.[@fm06-share] Astrea Record 3 says the same: excelia is divided "according to their contribution". Even split eleven ways, the excelia from defeating [[alfia|Alfia]] was enough to level up every one of the eleven.[@ar03-split] A party that slays a stronger beast together splits its excelia among all its members.[@fm03-great]
 
 - **Level boost:** Aisha warns that anyone under a level boost earns half the usual excelia or less, which agrees with DanMachi 19's "supposed to be halved".[@fm15-boost, fm19-boost]
-- **Rakia:** at the end of DanMachi 8, Orario demands that Rakia's soldiers not take home for free the excelia gained in battle against Orario's adventurers.[@fm08-rakia]
+- **[[rakia|Rakia]]:** at the end of DanMachi 8, Orario demands that Rakia's soldiers not take home for free the excelia gained in battle against Orario's adventurers.[@fm08-rakia]
 
 ## Holding excelia back {#loophole}
 

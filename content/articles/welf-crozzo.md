@@ -30,7 +30,7 @@
   }
 }
 ---
-**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[ares-familia#kingdom-of-rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
+**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
 
 ## Name
 

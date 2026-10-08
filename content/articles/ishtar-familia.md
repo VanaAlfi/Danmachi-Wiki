@@ -77,19 +77,19 @@ After the Familia's fall the Berbera stay together. In Sword Oratoria 8 Aisha's 
 
 ## Samira {#samira}
 
-Samira is an Amazon of the Berbera with short ash-grey hair and cocoa skin, who speaks in a distinctly masculine way.[@fm07-samira, so08-samira] In DanMachi 7 she was in charge of preparing the Killing Stone ritual, so she missed the hunt for Bell.[@fm07-ritual, fm07-mikoto] When [[mikoto|Mikoto]] breaks into the Floating Garden to rescue Haruhime, Samira asks Phryne and Aisha to let her have the intruder, and beats her while Haruhime watches in tears.[@fm07-mikoto]
+Samira is an Amazon of the Berbera with short ash-grey hair and cocoa skin, who speaks in a distinctly masculine way.[@fm07-samira, so08-samira] In DanMachi 7 she was in charge of preparing the Killing Stone ritual, so she missed the hunt for Bell.[@fm07-ritual, fm07-mikoto] When [[mikoto|Mikoto]] breaks into the Floating Garden to rescue Haruhime, Samira asks Phryne and Aisha to let her have the intruder, and beats her while Haruhime watches in tears.[@fm07-mikoto] Mikoto judges her to be Level 3; Samira is a second-tier adventurer.[@fm07-samira-tier] She fights without weapons, in a dance-like fistfight, and overpowers the Level 2 Mikoto with her far stronger Status and skill.[@fm07-samira-ritual-duel] Mikoto clings to her and deliberately causes an Ignis Fatuus, leaving Samira burned and unable to rise.[@fm07-samira-explosion]
 
-In Sword Oratoria 8, a former member of Ishtar Familia, she brushes off [[hyrute-sisters|Tiona]], who calls her "Salami".[@so08-samira] When the Amazon hunt seems to have killed her friends, she weeps and buys their gravestones, and Lena recalls that she was once in charge of the ritual implements.[@so08-graves]
+In Sword Oratoria 8, a former member of Ishtar Familia, she brushes off [[hyrute-sisters|Tiona]], who calls her "Salami".[@so08-samira] When the Amazon hunt seems to have killed her friends, she weeps and buys their gravestones, and Lena recalls that she was once in charge of the ritual implements.[@so08-graves] When they turn up alive, she complains about the money wasted on their gravestones.[@so08-samira-graves]
 
-In DanMachi 18 she commands the reserves guarding Haruhime. Haruhime decides to keep using her Level Boost in front of the whole city, although it will expose her secret. Samira admits that she once hated her, but likes who she has become, and promises to protect her.[@fm18-samira] She fights on even as she wrecks her own limbs, and with a spear through her shoulder brings down the Freya Familia warrior Noga with a headbutt.[@fm18-noga]
+In DanMachi 18 she commands the reserves guarding Haruhime. Haruhime decides to keep using her Level Boost in front of the whole city, although it will expose her secret. Samira admits that she once hated her, but likes who she has become, and promises to protect her.[@fm18-samira] By then she is a follower of [[hathor|Hathor]].[@fm18-samira-hathor] Unlike Aisha, who could not resist Ishtar's charm, or Lena and the others, who were threatened, she had taken part in the Killing Stone ritual willingly, for the sake of a fight with Freya Familia.[@fm18-samira-promise] With [[lena-tully|Lena Tully]] she holds a line that the einherjar cannot cross.[@fm18-samira-headbutt] She fights on even as she wrecks her own limbs, and with a spear through her shoulder brings down the Freya Familia warrior Noga with a headbutt.[@fm18-noga]
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 and 3 | Fights the Evils and the monsters of the Great Conflict with Aisha.[@ar01-aisha, ar03-berbera] |
-| DanMachi 8 | Goes after "hunky knights" in [[ares-familia#kingdom-of-rakia|Rakia]]'s forward camp with Aisha.[@fm08-samira] |
-| Sword Oratoria 12 | Her howl sends the held-back Berbera charging.[@so12-charge] |
-| DanMachi 19 | Has levelled up after the war game.[@fm19-levels] |
-| Minor Myths and Legends 1 | Out with Aisha when the group spots Bell.[@ss01-berbera] |
+| Astrea Record 1 and 3 | Fights the Evils and the monsters of the Great Conflict with Aisha.[@ar01-aisha, ar03-berbera] In Astrea Record 3 her blows join Aisha's sword and Phryne's charge.[@ar03-samira-monsters] |
+| DanMachi 8 | Goes after "hunky knights" in [[rakia|Rakia]]'s forward camp with Aisha.[@fm08-samira] |
+| Sword Oratoria 12 | Her howl sends the held-back Berbera charging.[@so12-charge] Aisha's order to stop comes too late.[@so12-samira-charge] |
+| DanMachi 19 | Has levelled up after the war game.[@fm19-levels] After Haruhime's Level Boost becomes public knowledge, Samira and the other Berbera help guard her; thanking Hegni for protecting her, Bell says he owes them the same thanks.[@fm19-samira-guard] |
+| Minor Myths and Legends 1 | Out with Aisha when the group spots Bell.[@ss01-berbera] Bell is walking with a grey-haired girl.[@ss01-samira-outing] |
 
 ## Tammuz Berrilli {#tammuz-berrilli}
 
@@ -149,3 +149,14 @@ When Freya Familia storms Belit Babili, the wounded Tammuz climbs onto the roof 
 [@fm07-ishtar-familia-ja]: FM07 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
 [@tammuz-berrilli.so09-ja]: SO09 | | The Japanese edition prints the name in katakana.
 [@so08-belit-ja]: SO08 | | The Japanese edition (file c3H1, paragraph 314) writes the palace's name in kanji meaning the goddess's palace, with the reading Belit Babili.
+[@fm18-samira-hathor]: FM18 | Chapter 9: Flower Language for You | By the war game Samira is a follower of Hathor.
+[@fm07-samira-tier]: FM07 | Chapter 6: Yearning of a Hero | Mikoto judges Samira to be Level 3; Samira is a second-tier adventurer.
+[@fm07-samira-ritual-duel]: FM07 | Chapter 6: Yearning of a Hero | Samira fights Mikoto without weapons and overpowers her with a far stronger Status and skill.
+[@fm07-samira-explosion]: FM07 | Chapter 6: Yearning of a Hero | Mikoto clings to her and deliberately causes an Ignis Fatuus, leaving Samira burned and unable to rise.
+[@so08-samira-graves]: SO08 | Epilogue: Instead of Good-bye— | Samira complains about the money wasted on her friends' gravestones when they return alive.
+[@ar03-samira-monsters]: AR03 | Chapter 5: Playing the Violence Card | Samira's blows join Aisha's sword and Phryne's charge.
+[@so12-samira-charge]: SO12 | Chapter 8: A Heroes’ Chorus | Samira's howl sends the Berbera charging; Aisha's order to stop comes too late.
+[@fm18-samira-promise]: FM18 | Chapter 9: Flower Language for You | Samira had taken part in the Killing Stone ritual willingly, unlike Aisha and Lena.
+[@fm18-samira-headbutt]: FM18 | Chapter 9: Flower Language for You | Samira and Lena hold a line that the einherjar cannot cross.
+[@fm19-samira-guard]: FM19 | Chapter 1: V-V-V for Victory Party | After Haruhime's Level Boost becomes public knowledge, Samira and the other Berbera help guard her; thanking Hegni for protecting her, Bell says he owes them the same thanks.
+[@ss01-samira-outing]: SS01 | | Samira, Aisha and their old companions spot Bell walking with a grey-haired girl.

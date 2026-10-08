@@ -45,7 +45,7 @@ Looking back, the veteran of DanMachi 20 thinks they were always spurring the yo
 
 ## The Dungeon and the Great Quests
 
-- **Deepest floor.** Their record of Floor 71 still stands in DanMachi 19.[@fm19-record] The deep level called the Dragon's Urn had been reached only by them.[@ar03-urn] They discovered a centipede dragon on Floor 67 and estimated its potential at Level 7.[@fm20-centipede] In Sword Oratoria 6, Loki Familia is the first to reach Floor 59 since Zeus and Hera.[@so06-59]
+- **Deepest floor.** Their record of Floor 71 still stands in DanMachi 19.[@fm19-record] The deep level called the Dragon's Urn had been reached only by them.[@ar03-urn] They discovered a centipede dragon on Floor 67 and estimated its potential at Level 7.[@fm20-centipede] In Sword Oratoria 6, Loki Familia is the first to reach [[floor-59|Floor 59]] since Zeus and Hera.[@so06-59]
 - **What they could not find.** In DanMachi 18 [[royman|Royman]] says they did not find the key to Thalia's Ice Garden, and brought back only a small trinket from it.[@fm18-garden]
 - **Development Abilities.** Astrea Record 3 says their Familias reported to the Guild the conditions for acquiring [[development-ability|Development Abilities]].[@ar03-unlock]
 - **The Leviathan.** With Poseidon Familia's help they fought the sea dragon from a huge sea fortress, now the ship of the [[school-district|School District]].[@so13-ship] With Poseidon Familia they also sealed the hole beneath Lolog Lake, using the Leviathan's skeleton as the lid.[@so06-lake]

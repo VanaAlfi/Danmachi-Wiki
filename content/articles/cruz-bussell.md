@@ -28,7 +28,7 @@
 
 ## Character
 
-Sword Oratoria 5 names him in full as one of the lower-level members who went to Floor 59, "a man of few words".[@so05-cruz] In Knossos [[finn-deimne|Finn]] sends him ahead with Bete to scout, and "the normally reticent Cruz" reports back for both of them.[@so07-scout] Bete counts him and Raul as the two he has spent the most time with.[@so08-ignored] Asked what he thinks of allying with the Xenos, he says he is fine either way as long as they avenge [[leene-arshe|Leene]], Lloyd and the others, though he has reservations about borrowing a monster's strength.[@so11-junior]
+Sword Oratoria 5 names him in full as one of the lower-level members who went to [[floor-59|Floor 59]], "a man of few words".[@so05-cruz] In Knossos [[finn-deimne|Finn]] sends him ahead with Bete to scout, and "the normally reticent Cruz" reports back for both of them.[@so07-scout] Bete counts him and Raul as the two he has spent the most time with.[@so08-ignored] Asked what he thinks of allying with the Xenos, he says he is fine either way as long as they avenge [[leene-arshe|Leene]], [[minor-characters#lloyd|Lloyd]] and the others, though he has reservations about borrowing a monster's strength.[@so11-junior]
 
 ## The key from Hermes
 

@@ -23,7 +23,7 @@
   }
 }
 ---
-**Altena** is "the magic country", counted with [[orario|Orario]] as a major global power.[@fc02-power] Its people believe in the supremacy of magic, and it competes with Orario in the trade in magic items.[@fc02-belief, fc02-monopoly] [[astrea-familia|Astrea Familia]]'s wandering mage Lyana Lietz came from "the distant magical land of Altena".[@fc03-lyana] No description of its location or cities was located in the checked text.
+**Altena** is "the magic country", counted with [[orario|Orario]] as a major global power.[@fc02-power] Its people believe in the supremacy of magic, and it competes with Orario in the trade in magic items.[@fc02-belief, fc02-monopoly] [[astrea-familia|Astrea Familia]]'s wandering mage [[minor-characters#lyana|Lyana Lietz]] came from "the distant magical land of Altena".[@fc03-lyana] No description of its location or cities was located in the checked text.
 
 ## The supremacy of magic
 

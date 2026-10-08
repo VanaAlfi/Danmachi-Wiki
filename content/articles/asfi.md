@@ -37,7 +37,7 @@ DanMachi 5 introduces Asfi as a human woman with distinct features and blue eyes
 
 ## Background {#background}
 
-The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma.[@fm05-talaria] In DanMachi 8 [[ares-familia#kingdom-of-rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
+The narration of DanMachi 5 tells how her winged sandals came to be: long ago a princess of a sea nation, who longed for the sky more than anyone, made them with Enigma.[@fm05-talaria] In DanMachi 8 [[rakia|Rakia]]'s prince Marius taunts her with a rumour he has heard, that "a god stole you, a beautiful young princess, from an island nation", and that she fell through the ranks of society to become an adventurer; that nation, he adds, would never admit it.[@fm08-marius]
 
 {{inference}} Since Enigma is Asfi's own ability, the two passages point to her royal birth; the narration and Marius both speak of a princess of a sea nation, and the checked text adds nothing more about her homeland.[@fm05-talaria, fm08-marius]
 

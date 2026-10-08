@@ -115,7 +115,7 @@ A list of deeds by heroes still spoken of in legends includes the revival of Orl
 
 ### Other countries and cities {#world-powers-and-nations-other-countries-and-cities}
 
-[[ares-familia|Ares Familia]] forms the [[ares-familia#kingdom-of-rakia|Kingdom of Rakia]], a monarchy on the western side of the main continent.[@fm08-rakia-west] The [[far-east|Far East]] is [[haruhime|Haruhime]]'s island homeland.[@fm07-far-east-island] [[el-dorado-resort|Santorio Vega]] is named among Orario's sources of entertainment expertise.[@fc01-maelstra-entertainment] [[zolingam|Solingen]] {{small|printed *Zolingam*}} is an industrial swordmaking city east of Orario beyond the [[alv-mountains|Alv Mountains]].[@fc03-solingen-city] Bofman describes [[israfan|Israfan]] as a country prosperous through trade.[@fc02-israfan-country] [[ali#shalzad|Shalzad]] is described as the first great country of western-central Kaios after the war with Warsa.[@ss02-shalzad-status]
+[[ares-familia|Ares Familia]] forms the [[rakia|Kingdom of Rakia]], a monarchy on the western side of the main continent.[@fm08-rakia-west] The [[far-east|Far East]] is [[haruhime|Haruhime]]'s island homeland.[@fm07-far-east-island] [[el-dorado-resort|Santorio Vega]] is named among Orario's sources of entertainment expertise.[@fc01-maelstra-entertainment] [[zolingam|Solingen]] {{small|printed *Zolingam*}} is an industrial swordmaking city east of Orario beyond the [[alv-mountains|Alv Mountains]].[@fc03-solingen-city] Bofman describes [[israfan|Israfan]] as a country prosperous through trade.[@fc02-israfan-country] [[ali#shalzad|Shalzad]] is described as the first great country of western-central Kaios after the war with Warsa.[@ss02-shalzad-status]
 
 ## Surroundings of Orario {#surroundings-of-orario}
 
@@ -142,7 +142,7 @@ The Alb mountain range ({{ja|アルブ山脈}}; not the Alv Mountains, {{ja|ア�
 
 ### Eastern plain {#surroundings-of-orario-eastern-plain}
 
-Fifty kirlos east of Orario, Loki Familia camps on a plain overlooking the Alb range and Seoro while the city's alliance fights [[ares-familia#kingdom-of-rakia|Rakia]].[@fm08-eastern-plain] Rakia's invading army belongs to [[ares-familia|Ares Familia]].[@fm08-rakia-west]
+Fifty kirlos east of Orario, Loki Familia camps on a plain overlooking the Alb range and Seoro while the city's alliance fights [[rakia|Rakia]].[@fm08-eastern-plain] Rakia's invading army belongs to [[ares-familia|Ares Familia]].[@fm08-rakia-west]
 
 ### Bell's home village {#surroundings-of-orario-bells-home-village}
 
@@ -158,7 +158,7 @@ Shreme and Orza are ancient defensive **ruins near Orario** that later serve as 
 
 ### Shreme Castle ruins {#ruins-near-orario-shreme-castle-ruins}
 
-Shreme ({{ja|シュリーム古城跡地}}, written *the old castle ruins of Shreme*) stands on a plain without woods or hills and was built before [[babel|Babel]] and the city wall to hold back monsters from nearby settlements.[@fm06-shreme-fortress, fm06-shreme-ja] [[ares-familia#kingdom-of-rakia|Rakia]] used it for a long time as a strategic point until more than a century ago, leaving functioning walls despite its decay.[@fm06-shreme-fortress] [[ganesha-familia|Ganesha Familia]] captured its resident bandits by tunnelling in one day without damaging the castle, and the tunnels were then filled.[@fm06-shreme-thieves] It hosted the [[war-game|War Game]] between [[hestia-familia|Hestia Familia]] and [[apollo-familia|Apollo Familia]], then became the second-round battlefield of the [[orariad|Orariad]] more than six months later.[@fm20-shreme-later-use]
+Shreme ({{ja|シュリーム古城跡地}}, written *the old castle ruins of Shreme*) stands on a plain without woods or hills and was built before [[babel|Babel]] and the city wall to hold back monsters from nearby settlements.[@fm06-shreme-fortress, fm06-shreme-ja] [[rakia|Rakia]] used it for a long time as a strategic point until more than a century ago, leaving functioning walls despite its decay.[@fm06-shreme-fortress] [[ganesha-familia|Ganesha Familia]] captured its resident bandits by tunnelling in one day without damaging the castle, and the tunnels were then filled.[@fm06-shreme-thieves] It hosted the [[war-game|War Game]] between [[hestia-familia|Hestia Familia]] and [[apollo-familia|Apollo Familia]], then became the second-round battlefield of the [[orariad|Orariad]] more than six months later.[@fm20-shreme-later-use]
 
 ### Orza ruins {#ruins-near-orario-orza-ruins}
 
@@ -273,7 +273,7 @@ The Scrap Heap ({{ja|廃棄世界}}, written *the discarded world*) is the remai
 
 ### Dedyne {#ruined-and-remote-lands-dedyne}
 
-[[loki|Loki]] places Dedyne far south of Orario and relays a report that the [[evils|Evils]]' followers there are moving about as if gathering something.[@ar01-dedyne-location] It contains the Black Desert ({{ja|黒の砂漠}}), where the Behemoth hunt of the [[three-great-quests|Three Great Quests]] was fought.[@ar03-dedyne-black-desert, ar03-dedyne-ja] [[astrea|Astrea]] reports medicinal herbs thriving in land long exposed to Behemoth's poison; [[erebus|Erebus]] confirms sending followers to collect ingredients for an antidote that restrains [[zald|Zald]]'s symptoms.[@ar03-dedyne-herbs]
+[[loki|Loki]] places Dedyne far south of Orario and relays a report that a group of the [[evils|Evils]]' believers there is moving about as if gathering something.[@ar01-dedyne-location] It contains the Black Desert ({{ja|黒の砂漠}}), where the Behemoth hunt of the [[three-great-quests|Three Great Quests]] was fought.[@ar03-dedyne-black-desert, ar03-dedyne-ja] [[astrea|Astrea]] reports medicinal herbs thriving in land long exposed to Behemoth's poison; [[erebus|Erebus]] confirms having the believers collect ingredients for an antidote that restrains [[zald|Zald]]'s symptoms.[@ar03-dedyne-herbs]
 
 ### Heodenings {#ruined-and-remote-lands-heodenings}
 
@@ -317,7 +317,7 @@ The Scrap Heap ({{ja|廃棄世界}}, written *the discarded world*) is the remai
 | Israfan | Bofman describes it as prosperous through trade.[@fc02-israfan-country] | Familia Chronicle 2 | [[israfan|Israfan]] |
 | Kaios Desert | It lies far southwest of the central concentration of countries.[@fc02-continent-kaios] | DanMachi 7 | [[kaios-desert|Kaios Desert]] |
 | Karna | The inn town in the southwest of the central region is a key transit hub.[@so14-karna-geography, so14-karna-hub] | Sword Oratoria 14 | [[#preblica-karna-and-lonza-karna|Karna]] |
-| Kingdom of Rakia | It is a monarchy in the continent's west.[@fm08-rakia-west] | DanMachi 4 | [[ares-familia#kingdom-of-rakia|Kingdom of Rakia]] |
+| Kingdom of Rakia | It is a monarchy in the continent's west.[@fm08-rakia-west] | DanMachi 4 | [[rakia|Kingdom of Rakia]] |
 | Leodo | The oasis merchant town belongs to Israfan.[@fc02-leodo-site] | Familia Chronicle 2 | [[#kaios-desert-countries-and-towns-leodo|Leodo]] |
 | Lolog Lake | The lake beside Meren connects with the sea.[@fm19-continent-meren] | DanMachi 8 | [[njordr-familia#port-meren|Port Meren]] |
 | Lonza | The dwarf village lies underground due south of Karna.[@so14-lonza-site] | Sword Oratoria 14 | [[#preblica-karna-and-lonza-lonza|Lonza]] |

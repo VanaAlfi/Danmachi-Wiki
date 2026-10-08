@@ -6,9 +6,12 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Loki, founded with Finn Deimne as its first member, which with Freya Familia drove Zeus and Hera Familias out of Orario. Ranked S by the Guild and often called the city's strongest Familia, it is the Familia of Aiz Wallenstein.",
-  "aliases": ["Giant Killers", "Cynthia", "Sharon", "Arcus", "Olba", "Lloyd", "Anju", "Orba", "Carmillia", "Carmilia", "Kalos", "Liza", "Crea"],
+  "aliases": ["Giant Killers", "Crea"],
   "spoilers": "DanMachi Vols. 1, 2, 5, 6, 8, 11, 17–20, Sword Oratoria Vols. 1, 2, 4–14 and Astrea Record Vols. 2 and 3",
   "related": ["loki", "finn-deimne", "riveria", "gareth", "aiz-wallenstein", "bete-loga", "hyrute-sisters", "lefiya", "twilight-manor", "freya-familia", "knossos", "xenos", "dungeon", "orario"],
+  "sections": [
+    {"anchor": "arcus", "title": "Arcus", "summary": "A human member of Loki Familia who goes into Knossos with its parties and is reported to reach Level 4 in Sword Oratoria 13.", "aliases": []}
+  ],
   "infobox": {
     "title": "Loki Familia",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -49,7 +52,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | Riveria Ljos Alf | High elf of royal blood, called Orario's most powerful magic user; Aiz's teacher and parent figure.[@fm05-leaders, so09-riveria] |
 | Gareth Landrock | Dwarf warrior; DanMachi 5 prints his name as *Galess Landrock*.[@fm05-leaders, fm08-gareth] |
 | [[aiz-wallenstein|Aiz Wallenstein]] | Joined at seven; Level 6 from DanMachi 2.[@so09-aiz, fm02-aiz] |
-| [[bete-loga|Bete Loga]] | Joined after leaving Víðarr Familia; Level 6 from Sword Oratoria 6.[@so08-bete, so06-bete] |
+| [[bete-loga|Bete Loga]] | Joined after leaving [[minor-characters#vidarr|Víðarr]] Familia; Level 6 from Sword Oratoria 6.[@so08-bete, so06-bete] |
 | [[raul-nord|Raul Nord]] | Level 4; supervises the Familia's lower ranks.[@so04-raul] |
 | [[narfi|Narfi]] and [[cruz-bussell|Cruz Bussell]] | A human and a [[races#chienthrope|chienthrope]], both Level 4 members of the Familia's second army.[@so10-secondary] |
 | [[rakuta|Rakuta]] | [[races#hume-bunny|Hume bunny]] supporter whose maps of Knossos underpin Finn's assault plans.[@so10-rakuta, so11-rakuta] |
@@ -59,7 +62,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[alicia-forestlight|Alicia Forestlight]] | Elf; a Level 4 in the Familia's reserve crew by Sword Oratoria 8.[@so08-reserve] |
 | [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A [[healer|healer]] and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
 
-Other members are named only in passing. Cynthia fights beside Elfie in Sword Oratoria 7 and 11, and Sharon is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, Olba and Arcus reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter Carmillia, she is told to give Bell a greatsword.[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
+[[minor-characters#loki-familias-minor-members|Other members]] are named only in passing. [[minor-characters#cynthia|Cynthia]] fights beside Elfie in Sword Oratoria 7 and 11, and [[minor-characters#sharon|Sharon]] is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, [[minor-characters#olba|Olba]] and [[#arcus|Arcus]] reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter [[minor-characters#carmillia|Carmillia]], she is told to give Bell a greatsword.[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
 
 ### Fighting strength {#fighting-strength}
 
@@ -68,6 +71,19 @@ Sword Oratoria 13 reports a wave of Level-ups: almost all the Level 2 members re
 ### Recruiting {#recruiting}
 
 The Familia is not eager to recruit from the [[school-district|School District]]: in Sword Oratoria 13 Lefiya, herself a former student, has heard that Loki "had only grudgingly engaged with it last time". Even so, its recruiters are given "pride of place" as the first allowed aboard.[@so13-recruiting]
+
+## Arcus {#arcus}
+
+**Arcus** ({{ja|アークス}}) is a human member of Loki Familia, reported to reach Level 4 after the familia's quest in Sword Oratoria 13.[@so07-human, so13-arcus-level, so07-arcus-ja] He accompanies the Familia's parties into [[knossos|Knossos]].[@so07-human, so07-support]
+
+### History {#arcus-history}
+
+| Volume | Events |
+|---|---|
+| Sword Oratoria 7 | A [[monsters#poison-vermis|poison vermis]] attaches to his arm, and Tiona cuts it away without injuring him.[@so07-human] Already poisoned, he is supported by [[elfie-collette|Elfie Collette]] as the trapped party struggles to find a way out.[@so07-support] After they rejoin the others, Tiona reports that both she and Arcus have been poisoned, and the familia performs emergency treatment.[@so07-reunite] |
+| Sword Oratoria 10 | [[finn-deimne|Finn Deimne]] orders him to follow the [[monsters#vouivre|vouivre]] unnoticed by the monsters, with a squad and [[lefiya|Lefiya Viridis]].[@so10-follow] Tiona joins his group in the pursuit.[@so10-chase] Finn later orders the squad to withdraw, explaining that [[ottar|Ottar]] and the others are preventing them from acting.[@so10-withdraw] |
+| Sword Oratoria 11 | [[riveria|Riveria Ljos Alf]] directs a retreat to the room where Arcus and the others are waiting, to meet the approaching creature with an equipped squad.[@so11-wait] |
+| Sword Oratoria 13 | The post-quest report lists Arcus among the members who have reached Level 4.[@so13-arcus-level] |
 
 ## Rivalry with Freya Familia
 
@@ -82,7 +98,7 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 | Astrea Record 2 | Fights in the [[great-conflict|Great Conflict]]; [[alfia|Alfia]] sees that Aiz now belongs to the Familia.[@ar02-loki] |
 | Sword Oratoria 1 and DanMachi 1 | Returning from an expedition in which it fights through the [[floor-49|Moitra Sands]] to the [[safe-point|safe point]] on [[floor-50|Floor 50]], the Familia lets a group of Minotaurs run away up the Dungeon. Aiz kills the last one on the fifth floor, and at the bar Bete mocks the boy she saved as "Tomato Boy".[@so01-camp, so01-minotaurs, fm01-aiz] |
 | Astrea Record 3 | Its oldest members, the veterans [[noir-dyne-and-bahra|Noir, Dyne and Bahra]], who had taught Finn, Riveria and Gareth, leave [[twilight-manor|Twilight Manor]] against Loki's wishes to charge the monster horde, and die there.[@ar03-mentors, ar03-veterans] |
-| Sword Oratoria 4–6 | Expedition to Floor 59, where Aiz destroys a [[corrupted-spirit|demi-spirit]]; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
+| Sword Oratoria 4–6 | Expedition to [[floor-59|Floor 59]], where Aiz destroys a [[corrupted-spirit|demi-spirit]]; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
 | Sword Oratoria 7 | First attempt on Knossos, which Gareth calls a defeat; Loki makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
 | DanMachi 10–11 | Pursues the [[xenos|Xenos]] through [[daedalus-street|Daedalus Street]]; afterwards [[ouranos|Ouranos]] spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep the Xenos secret; Finn forms a limited alliance with them for the assault on [[knossos|Knossos]].[@so10-compact, so10-alliance] |
@@ -172,3 +188,12 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so14-karna2]: SO14 | Chapter 3: The Dwarf’s Embarking | "This town’s name is Karna, an inn town where many travelers and merchants come and go on most days. It’s a key transit hub."; "a quick little party to celebrate Rivvy entering the familia".
 [@fm11-loki-familia-ja]: FM11 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
 [@fm06-giant-ja]: FM06 | | The Japanese edition writes the name with the kanji for floor boss, read as the word for giant: said giant killers, written floor-boss killers.
+[@so07-human]: SO07 | Chapter 3: Feast of the Dead | Human Arcus has a poison vermis on his arm; Tiona cuts it off without hurting him.
+[@so07-arcus-ja]: SO07 | Chapter 3: Feast of the Dead | The Japanese edition writes {{ja|アークス}}, Ākusu (file c2JK, paragraph 85); once, in Sword Oratoria 10, Finn calls him {{ja|アルク}}, Aruku (file c7PC, paragraph 64); the spell Arcs Ray, {{ja|アルクス・レイ}}, is another word.
+[@so07-support]: SO07 | Chapter 4: The Sword's Wind Calls | Poisoned Arcus is supported by Elfie while the party is trapped.
+[@so07-reunite]: SO07 | Chapter 4: The Sword's Wind Calls | Tiona reports poisoning after reunion; emergency measures follow.
+[@so10-follow]: SO10 | Chapter 2: Someone Named Fool | Finn orders Arcus and a squad to follow the vouivre via back alleys with Lefiya.
+[@so10-chase]: SO10 | Interlude: Their Respective Battles | Tiona joins Arcus’s group pursuing the vouivre.
+[@so10-withdraw]: SO10 | Chapter 6: The Hero's Self-Denial | Finn withdraws the squad. The Japanese edition (file c7PC, paragraph 64) has Finn call him Aruku here, not Ākusu as elsewhere; the English prints "…Arcus. Pull back the squad."
+[@so11-wait]: SO11 | Chapter 4: Avengers ~Knossos War~ | Riveria directs retreat to the room where Arcus’s group waits.
+[@so13-arcus-level]: SO13 | Chapter 1: Girl's Revolution | Arcus reaches Level 4 after the quest.

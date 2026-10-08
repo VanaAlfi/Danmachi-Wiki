@@ -28,7 +28,7 @@
 ## Members {#members}
 
 - **Runoa.** [[runoa|Runoa Faust]] contracted with Demeter only to have her Status updated; it was her fifth membership, and she was free to convert at any time. She feels at ease in Demeter's company.[@fc01-runoa]
-- **Persephone.** A follower of Demeter. In Minor Myths and Legends 1 Demeter sends her to fetch rinne herbs for [[miach-familia|Miach]], and goddesses gossiping about Bell say that even Persephone was impressed by his gardening.[@ss01-persephone, ss01-gossip] In Familia Chronicle 1 Demeter tells Runoa that Persephone wanted to meet her.[@fc01-persephone] She is among the hostages of Sword Oratoria 12 (see below).[@so12-confession]
+- **[[minor-characters#persephone|Persephone]].** A follower of Demeter. In Minor Myths and Legends 1 Demeter sends her to fetch rinne herbs for [[miach-familia|Miach]], and goddesses gossiping about Bell say that even Persephone was impressed by his gardening.[@ss01-persephone, ss01-gossip] In Familia Chronicle 1 Demeter tells Runoa that Persephone wanted to meet her.[@fc01-persephone] She is among the hostages of Sword Oratoria 12 (see below).[@so12-confession]
 
 ## The dark age {#dark-age}
 

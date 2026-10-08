@@ -28,7 +28,7 @@
     {"anchor": "abnormal-resistance", "title": "Abnormal Resistance", "summary": "The Development Ability that protects against poison and other status ailments, most often printed as Immunity and also as Resistance. The commonest ability on the printed Status cards.", "aliases": ["Immunity", "Resistance"], "former_slug": "abnormal-resistance"},
     {"anchor": "hunter", "title": "Hunter", "summary": "Raises the basic abilities against kinds of monster the adventurer has fought before; only available at the Level 2 rank-up.", "aliases": []},
     {"anchor": "luck", "title": "Luck", "summary": "Bell Cranell's unprecedented Development Ability, chosen at Level 2; its effect is unknown.", "aliases": []},
-    {"anchor": "forge", "title": "Forge", "summary": "The smith's Development Ability that lets them give weapons and armour special properties; also printed Blacksmith and Smith.", "aliases": ["Blacksmith", "Smith"]},
+    {"anchor": "forge", "title": "Forge", "summary": "The smith's Development Ability that lets them give weapons and armour special properties; also printed Blacksmith and Smith.", "aliases": ["Blacksmith", "Smith", "Smithing"]},
     {"anchor": "compounding", "title": "Compounding", "summary": "The item-maker's Development Ability for better potions and medicine; also printed Synthesize and Synthesis.", "aliases": ["Synthesize", "Synthesis"]},
     {"anchor": "enigma", "title": "Enigma", "summary": "The rare Development Ability behind the most remarkable magic items, from the Philosopher's Stone to grimoires and the Status Thief; also printed Mystery.", "aliases": ["Mystery"]},
     {"anchor": "mage", "title": "Mage", "summary": "The caster's Development Ability: a magic circle that raises the power, range and Mind efficiency of spells; also printed Magic Control and Conjure.", "aliases": ["Magic Control", "Conjure"]},
@@ -177,12 +177,13 @@ Like basic abilities, Development Abilities carry a rank letter that can rise be
 
 ### Forge {#forge}
 
-**Forge** is the smith's Development Ability. Smiths with it can give their work special properties, such as a sword that never breaks or never dulls; Eina says it is needed to be a smith today, and more than half of [[hephaistos|Hephaistos Familia]]'s smiths have it.[@fm02-named] When it is at work, the hammer or the smith's hands glow red.[@fm08-forge, so02-forge]
+**Forge** is the smith's Development Ability. Smiths with it can give their work special properties, such as a sword that never breaks or never dulls; Eina says it is needed to be a smith today, and more than half of [[hephaistos|Hephaistos Familia]]'s smiths have it.[@fm02-named] When it is at work, the hammer or the smith's hands glow red.[@fm08-forge, so02-forge] In [[zolingam|Solingen]] a spirit forge bathes tools, materials and smiths in spirit magic, raising the ability along with the tools' and materials' performance.[@fc03-forge-spirit]
 
 - **Printed as:** Forge; Blacksmith (DanMachi 15); Smith (DanMachi 14 sheet)[@fm08-cards, fm15-welf, sheet.fm14-welf]
 - **Holder:** [[welf-crozzo|Welf Crozzo]], rank I, gained when he reaches Level 2 in DanMachi 6[@fm06-welf, fm08-cards]
+- **Other holders:** [[cecille-blackliza|Cecille Blackliza]], Level 2, in Familia Chronicle 3, which prints the ability as Smithing.[@fc03-forge-cecille] In Sword Oratoria 2 the working smiths of [[goibniu-familia|Goibniu Familia]] have it.[@so02-forge-goibniu]
 
-Welf joins Bell's party in DanMachi 4 to earn it, because he wants to be a High Smith.[@fm04-forge, fm06-welf] His family's [[magic-sword|magic swords]] come from a Skill, not from Forge: see [[skills#blood-of-crozzo|Blood of Crozzo]].[@fm04-forge]
+Welf joins Bell's party in DanMachi 4 to earn it, because he wants to be a High Smith.[@fm04-forge, fm06-welf] Eina had taught Bell that, of the smiths who have Forge, only a handful can make magic swords.[@fm04-forge-blood] His family's [[magic-sword|magic swords]] come from a Skill, not from Forge: see [[skills#blood-of-crozzo|Blood of Crozzo]].[@fm04-forge] His DanMachi 15 Status still lists it at rank I.[@fm15-forge-blacksmith]
 
 ### Compounding {#compounding}
 
@@ -195,12 +196,12 @@ Lilly is offered it at Level 2 and is tempted, since she could make her own poti
 
 ### Enigma {#enigma}
 
-**Enigma** lets its holder perform a kind of miracle; Eina calls it a divine art. Long ago someone with it made the Philosopher's Stone, which grants eternal life.[@fm02-named] With Mage it is needed to make a [[grimoire|grimoire]].[@fm02-grimoire]
+**Enigma** lets its holder perform a kind of miracle; Eina calls it a divine art. Long ago someone with it made the Philosopher's Stone, which grants eternal life.[@fm02-named] As Eina tells it, the stone was made by accident and never made again.[@fm02-enigma-definition] With Mage it is needed to make a [[grimoire|grimoire]].[@fm02-grimoire]
 
 - **Printed as:** Enigma; Mystery (Sword Oratoria 7)[@fm05-enigma, so07-mystery]
 - **Holders:** [[asfi|Asfi Al Andromeda]], one of fewer than five people in Orario with it; the Sage, now [[fels|Fels]]; Barca Perdix; [[amid|Amid Teasanare]][@fm05-enigma, fm05-ja-enigma, fm09-sage, so07-mystery, so11-amid-enigma]
 
-Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged sandals [[equipment#talaria|Talaria]] and her copy of a [[knossos|Knossos]] key.[@so02-enigma, so03-talaria, so11-asfi]
+Items attributed to it include the [[status-thief|Status Thief]], Asfi's winged sandals [[equipment#talaria|Talaria]] and her copy of a [[knossos|Knossos]] key.[@so02-enigma, so03-talaria, so11-asfi] [[barca-perdix|Barca Perdix]] took the ability because he needed it, became a hexer and mass-produced cursed weapons.[@so11-enigma-curses] Asfi's own inventions include herbs that protect against curses and status magic, a harp whose music draws particular monsters, and a feather pen that needs no ink.[@so03-enigma-inventions] For the Knossos key she works out the wavelength of the magic that the Daedalus eyes give off to open the gates and, combining several Dungeon materials and all her Enigma, reproduces it.[@so11-enigma-key] Amid, who has the same ability, can tell that Barca's curses grow stronger as if resonating with his Enigma.[@so11-enigma-amid] In Astrea Record 3 [[valletta|Valletta Grede]] forces a hexer with Enigma to make a prototype crimson whip that enslaves monsters whatever the tamer's skill.[@ar03-enigma-whip] In Sword Oratoria 13 [[school-district|the School District]] has laboratories for Enigma, compounding and alchemy.[@so13-enigma-labs]
 
 ### Mage {#mage}
 
@@ -465,3 +466,15 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@fm20-luck-twenty]: FM20 | Chapter 2: Lion and then Sword Princess | Bell's Level 5 Status lists Luck at F.
 [@fm07-luck-drops]: FM07 | Prologue: The Divine Are Mercilessly Erotic Royalty | Welf Crozzo notices how readily drops and ores appear when he accompanies Bell, prompting Bell to recall Eina's hypothesis about Luck.
 [@fm09-luck-secret]: FM09 | Chapter 4: Mission | DanMachi 9 says Eina has withheld information about Luck from her reports.
+[@fm15-forge-blacksmith]: FM15 | Interlude: That Never-Cooling Iron | Welf's DanMachi 15 Status lists Blacksmith at rank I.
+[@fc03-forge-cecille]: FC03 | The Locus of Stars | Cecille, Level 2, has the ability, printed Smithing in Familia Chronicle 3.
+[@fc03-forge-spirit]: FC03 | The Locus of Stars | In Solingen a spirit forge bathes tools, materials and smiths in spirit magic, raising the ability along with the tools' and materials' performance.
+[@so02-forge-goibniu]: SO02 | Chapter 1: The Average Day | Goibniu Familia's working smiths have Forge.
+[@fm04-forge-blood]: FM04 | Chapter 3: The Smith’s Situation | Eina's teaching about magic swords, as Bell recalls it. The Japanese edition (file c2R2, paragraph 312) has only a handful of the smiths with Forge able to make them; the English prints "Only high-level smiths who have mastered the Forge ability to a certain degree can make them".
+[@so11-enigma-curses]: SO11 | Chapter 5: Obsession Manifest | Barca took Enigma because he needed it and mass-produced cursed weapons.
+[@fm02-enigma-definition]: FM02 | Chapter 1: Date, Then Supporter | Eina: the Philosopher's Stone was made by accident and never made again.
+[@so03-enigma-inventions]: SO03 | Chapter 2: Let’s Party? | Asfi's inventions: herbs against curses and status magic, a harp that draws monsters, an inkless feather pen.
+[@so11-enigma-key]: SO11 | Chapter 5: Obsession Manifest | Asfi reproduces a Knossos key with all her Enigma.
+[@so11-enigma-amid]: SO11 | Chapter 6: And Then the God Smiled | Amid senses Barca's curses resonating with his Enigma.
+[@ar03-enigma-whip]: AR03 | Chapter 5: Playing the Violence Card | Valletta's prototype crimson whip, forced from a hexer with Enigma.
+[@so13-enigma-labs]: SO13 | Chapter 2: Nostalgic Schoolhouse | The School District's laboratories. The Japanese edition (file part0017, paragraph 246) names Enigma with Compounding and Alchemy; the English prints "the compounding, alchemy, and mystery departments' experimental laboratories".

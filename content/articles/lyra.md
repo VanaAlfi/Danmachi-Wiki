@@ -75,7 +75,7 @@ When something troubled her, Lyu went first to Alize and then to Lyra, whose opi
 
 Her favourite saying was "Remember it all and use it all." She told Lyu that "Knowledge is a weapon. Information is a meal ticket", that she should improvise what she lacked and study human nature, that she should take everything, Lyra's own advice included, "with a grain of salt", and that she must turn knowledge into wisdom.[@fm14-lessons]
 
-Familia Chronicle 3's short story set two years after the Great Conflict shows Lyra drinking with Alize and Kaguya and talking about Lyu.[@fc03-drinks] Her lesson to Lyu is called "the middle way": observing reality carefully while also building her own. Lyra herself had turned knowledge into wisdom through years of fighting as a weak prum, and Alize says Kaguya and Lyra are both preparing Lyu for hard times to come.[@fc03-wisdom] Lyra and Neze teasingly called Lyu "the baby of the familia".[@fc03-baby]
+Familia Chronicle 3's short story set two years after the Great Conflict shows Lyra drinking with Alize and Kaguya and talking about Lyu.[@fc03-drinks] Her lesson to Lyu is called "the middle way": observing reality carefully while also building her own. Lyra herself had turned knowledge into wisdom through years of fighting as a weak prum, and Alize says Kaguya and Lyra are both preparing Lyu for hard times to come.[@fc03-wisdom] Lyra and [[minor-characters#neze|Neze]] teasingly called Lyu "the baby of the familia".[@fc03-baby]
 
 {{inference}} Familia Chronicle 1 says that a prum colleague in Astrea Familia "with a wide grin" taught Lyu to gamble successfully. It does not name her, but DanMachi 14 says Lyra taught Lyu to always win at gambling.[@fc01-gamble, fm14-lessons]
 
@@ -87,9 +87,9 @@ Familia Chronicle 3's short story set two years after the Great Conflict shows L
 
 ### Astrea Record 1
 
-- At a burning factory she clears a warehouse with her boomerang, and Alize sends her with Iska and Maryu to clear the next section.[@ar01-factory]
+- At a burning factory she clears a warehouse with her boomerang, and Alize sends her with [[minor-characters#iska|Iska]] and [[minor-characters#maryu|Maryu]] to clear the next section.[@ar01-factory]
 - She brings Alize an order from Finn ("Who else? My hero!") to watch for suspicious activity. On [[floor-18|Floor 18]] she fights the [[evils|Evils]]' [[vito|Vito]] beside Alize and Kaguya.[@ar01-hero, ar01-vito]
-- In a clearing in the eastern forest of Floor 18, Lyana asks to be buried there if she dies, and Lyra answers, "Count me in."[@ar01-clearing] {{inference}} Lyu's later grave of mementos is also in the eastern forest of Floor 18.[@ar01-grave]
+- In a clearing in the eastern forest of Floor 18, [[minor-characters#lyana|Lyana]] asks to be buried there if she dies, and Lyra answers, "Count me in."[@ar01-clearing] {{inference}} Lyu's later grave of mementos is also in the eastern forest of Floor 18.[@ar01-grave]
 - On patrol with Lyu and Kaguya she brushes off the god "Eren", who is [[erebus|Erebus]] in disguise; he calls her the level-headed one.[@ar01-eren, ar02-erebus]
 - On the night the Great Conflict begins she raids an Evils base with Alize, Kaguya, Lyu and Shakti's Ganesha Familia. She suspects a trap; when a child blows herself up and kills Shakti's sister [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}}, Lyra is the first to understand, holds Lyu back, and warns that the fallen enemies are "all rigged to blow".[@ar01-trap, ar01-ardee] The ambush is [[valletta|Valletta Grede]]'s.[@ar01-trap]
 - When Alize senses that Astrea is in danger, Lyra backs her hunch and holds the line so that Alize can go: "If I die 'cause of this, I'm gonna spit on you from heaven!"[@ar01-hunch]

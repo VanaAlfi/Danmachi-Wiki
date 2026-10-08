@@ -35,7 +35,7 @@ Blue streams branch among tall trees beneath faintly phosphorescent ceiling pill
 |---|---|
 | Sword Oratoria 1–2 | [[aiz-wallenstein|Aiz]] defeats a female caterpillar monster there, and [[loki-familia|Loki Familia]] abandons further descent after the Floor 50 battle.[@so02-recollection, so01-return] |
 | Sword Oratoria 3 | Caterpillar monsters are identified as inhabiting the vicinity of Floor 50.[@so03-monsters] |
-| Sword Oratoria 4–5 | The next expedition reaches the campsite in about six days and later returns from Floor 59 for a brief rest before departing.[@so04-camp, so05-return] |
+| Sword Oratoria 4–5 | The next expedition reaches the campsite in about six days and later returns from [[floor-59|Floor 59]] for a brief rest before departing.[@so04-camp, so05-return] |
 | Sword Oratoria 5 | The female-shaped monsters fought on Floor 50 and [[floor-18|Floor 18]] have bodies as large as floor bosses and strength of at least Level 5.[@so05-comparison] |
 | DanMachi 12 | [[lilliluka-erde|Lilly]] says the [[guild|Guild]] restricts information from Floor 50 downward, while [[aisha-belka|Aisha]] says [[ishtar-familia|Ishtar Familia]] was also denied that information.[@fm12-information] |
 

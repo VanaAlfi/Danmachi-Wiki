@@ -29,7 +29,7 @@
 
 | Volume | Events |
 |---|---|
-| DanMachi 16 | Hathor appears with Damia, [[freya|Freya]] and [[demeter|Demeter]] as the festival's harvest goddesses.[@fm16-festival] |
+| DanMachi 16 | Hathor appears with [[minor-characters#damia|Damia]], [[freya|Freya]] and [[demeter|Demeter]] as the festival's harvest goddesses.[@fm16-festival] |
 | DanMachi 18 | The goddesses ask her to lead them, despite her attempts to refuse.[@fm18-leader] |
 | DanMachi 18 | They shield her from the approaching [[freya-familia#folkvangr|einherjar]] while she escapes their fortress.[@fm18-escape] |
 | DanMachi 18 | Hathor Familia remains among the [[familia-coalition|coalition]]'s four surviving factions, and its followers continue fighting while she hides.[@fm18-survivors] |

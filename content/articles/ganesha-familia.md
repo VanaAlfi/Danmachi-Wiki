@@ -10,6 +10,7 @@
   "spoilers": "DanMachi Vols. 1, 9, 10, 18–20, Sword Oratoria Vols. 1, 2, 11, 12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["ganesha", "xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
   "sections": [
+    {"anchor": "modaka", "title": "Modaka", "summary": "A young male member of Ganesha Familia who relays orders, searches Rivira and serves as a war-game judge, and whose name Ilta keeps getting wrong.", "aliases": ["Modak"]},
     {"anchor": "shakti-and-adi", "title": "Shakti and Adi", "summary": "The captain, Shakti Varma (Ankusha), and her younger sister Adi Varma, who dies in Astrea Record 1: her sword, Skills and spells.", "former_anchors": ["shakti-and-ardee"]}
   ],
   "infobox": {
@@ -42,6 +43,18 @@ Monsterphilia is not only for research: Ganesha and [[ouranos|Ouranos]] also use
 The captain, [[shakti-varma|Shakti Varma]], titled *Ankusha*, is the Familia's strongest first-tier adventurer. An old ally of [[lyu-leon|Lyu]] from the dark age, she protects the secret of Lyu's survival.[@fc01-shakti] In Astrea Record 1 she loses her younger sister, [[adi-varma|Adi]] {{small|printed *Ardee* in Astrea Record 1 and 2}}, a Level 3 who taught Lyu, but continues to lead; in Astrea Record 2 she chooses to look to the future.[@ar01-shakti, ar02-shakti] By Astrea Record 3, Lyu carries Adi's sword, Sacred Oath, with Shakti's permission.[@ar03-sword] Familia Chronicle 3 gives her full name, Adi Varma.[@fc03-adi] Adi's character sheet at the end of Astrea Record 2 lists two [[skills#adi-skills|Skills]], Ganapati Blood ({{ja|守人血統}}, written *guardian bloodline*) and Dharmas Algo ({{ja|正義巡継}}, written *justice passed on in turn*), the second a passive boost for Familia members around her.[@skills.ar02-sheet, ardee-sheet.ar02-ja] The same sheet lists two spells, Ghana Avimutta ({{ja|ガーナ・アヴィムサ}}, read *Gāna Avimusa*) and Dia Kaumudi; see [[magic#adi-varma-spells|Magic § Adi Varma's spells]].[@ardee-varma-spells.ar02-sheet, ardee-sheet.ar02-ja]
 
 The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. She was one of the city's most lawless newcomers until Shakti and her sister caught and punished her, and she now calls Shakti "sister".[@fm18-ilta, so12-paluza] In DanMachi 20 she and Shakti win the third round of the [[orariad|Orariad]] against the School District.[@fm20-orariad]
+
+## Modaka {#modaka}
+
+**Modaka** ({{ja|モダーカ}}) is a young male member of Ganesha Familia who relays orders, searches Rivira and serves as a war-game judge.[@fm10-member, fm10-orders, fm10-squad, fm18-judge, fm10-modaka-ja] He carries his god's instructions to [[shakti-varma|Shakti Varma]] and repeatedly corrects [[ilta-faana|Ilta Faana]] when she gets his name wrong.[@fm10-orders, fm10-member, fm18-name]
+
+### History {#modaka-history}
+
+| Volume | Events |
+|---|---|
+| DanMachi 8 | One of [[ganesha|Ganesha]]'s bodyguards, whom the god calls "Follower A", protests that the Guild already knows and gives his name, printed *Modak* here.[@fm08-modaka] |
+| DanMachi 10 | Before the monster-taming mission, he tells Shakti that Ganesha wants the [[guild|Guild]]'s orders followed, then warns [[bell-cranell|Bell Cranell]] to keep his presence inconspicuous.[@fm10-orders, fm10-bell] When Shakti Varma orders him to take a small team to [[rivira|Rivira]] to look for survivors, he forms a five-person squad and separates from her main force.[@fm10-squad] In the ruins he finds mutilated corpses and sees monsters emerging from the Central Tree's roots.[@fm10-ruins] The sight of another shadow prompts him to call for retreat and warn that an [[irregular|Irregular]] has appeared.[@fm10-alarm] |
+| DanMachi 18 | During preparations he corrects Ilta's mistaken name again.[@fm18-name] At the island bridge, he questions the arrival of fighters from outside the coalition and reminds Ilta of their role as judges.[@fm18-judge] He is astonished when Shakti allows the newcomers to cross.[@fm18-bridge] |
 
 ## History
 
@@ -79,3 +92,14 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@ar03-sword]: AR03 | Prologue: Last Intermission | Sacred Oath, carried with Shakti's permission.
 [@ardee-varma-spells.ar02-sheet]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3): Magic Ghana Avimutta and Dia Kaumudi.
 [@fm10-ganesha-familia-ja]: FM10 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@fm08-modaka]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Ganesha calls his bodyguard "Follower A"; he answers "And my name is Modak!" The Japanese edition (file part0030, paragraph 444) writes the name Modaka, as in DanMachi 10 and 18.
+[@fm10-member]: FM10 | Chapter 8: City Panic | Young male member of Ganesha Familia corrects Ilta over his name.
+[@fm10-modaka-ja]: FM10 | Chapter 8: City Panic | The Japanese edition writes {{ja|モダーカ}}, Modaka (file c2BU, paragraph 504), and DanMachi 8's Japanese the same name where the English prints Modak (file part0030, paragraph 444).
+[@fm10-orders]: FM10 | Chapter 8: City Panic | Modaka relays Ganesha’s instruction to obey the Guild; Shakti orders taming.
+[@fm10-bell]: FM10 | Chapter 8: City Panic | Modaka warns Bell not to draw attention and offers to explain him as a supporter.
+[@fm10-squad]: FM10 | Chapter 9: Dreams of Beasts | Shakti sends him to Rivira with a small team. The Japanese edition (file c3E7, paragraph 74) has him form a five-person squad and leave the main force led by Shakti; the English prints "swiftly assembled a team of five adventurers to join him".
+[@fm10-ruins]: FM10 | Chapter 9: Dreams of Beasts | Survivor search, mutilated bodies and monsters at the tree.
+[@fm10-alarm]: FM10 | Chapter 9: Dreams of Beasts | New shadow triggers Modaka’s alarm and call to retreat.
+[@fm18-name]: FM18 | Chapter 7: We're Getting Married Once This Battle Is Over | Ilta’s mistaken name and Modaka’s correction.
+[@fm18-judge]: FM18 | Chapter 9: Flower Language for You | Modaka questions unauthorized participation and reminds Ilta that they are judges.
+[@fm18-bridge]: FM18 | Chapter 9: Flower Language for You | Shakti clears the bridge; Modaka is astonished.

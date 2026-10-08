@@ -23,17 +23,17 @@
   }
 }
 ---
-**Celty Srowa** is an elf mage in [[astrea-familia|Astrea Familia]]'s rearguard, its youngest member and the only one younger than [[lyu-leon|Lyu Leon]].[@fc03-member, fc03-name, ar03-alfia]
+**Celty Srowa** is an elf mage in [[astrea-familia|Astrea Familia]]'s rearguard, its youngest member and the only one younger than [[lyu-leon|Lyu Leon]].[@fc03-member, fc03-name, ar03-alfia] She fights with a rod, one of the Familia's three magic users with [[minor-characters#lyana|Lyana]] and [[minor-characters#maryu|Maryu]].[@ar03-celty-alfia, ar03-celty-dragon] Lyu remembers her as diligent.[@fc03-celty-circle]
 
 ## History {#history}
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | [[astrea-familia|Neze]] grabs Celty's arm and breaks through a shuttered window, and the rest of their group follows.[@ar01-escape] |
+| Astrea Record 1 | [[minor-characters#neze|Neze]] grabs Celty's arm and breaks through a shuttered window, and the rest of their group follows.[@ar01-escape] |
 | Astrea Record 2 | Celty cheerfully suggests that they can chew herbs again if necessary, helping dispel the group's gloom.[@ar02-herbs] |
-| Astrea Record 3 | Celty and [[astrea-familia|Lyana]] raise their staffs alongside [[riveria|Riveria Ljos Alf]] to oppose [[alfia|Alfia]]'s magical attacks.[@ar03-alfia] |
-| Astrea Record 3 | They later unleash two fire spells, which Alfia nullifies with her enchantment.[@ar03-fire] |
-| Astrea Record 3 | Celty and the other rearguard mages attack a dragon alongside Riveria's spell, exposing its core.[@ar03-dragon] |
+| Astrea Record 3 | Celty and [[minor-characters#lyana|Lyana]] raise their staffs alongside [[riveria|Riveria Ljos Alf]] to oppose [[alfia|Alfia]]'s magical attacks.[@ar03-alfia] |
+| Astrea Record 3 | They later unleash two fire spells, which Alfia nullifies with her enchantment.[@ar03-fire] With the dwarf [[minor-characters#asta|Asta]] she says that they will all keep walking forward, and the two share a smile that transcends race.[@ar03-celty-forward] Against Alfia she and the other mages are the first to see that Alfia is invoking a hidden third ability.[@ar03-celty-dragon] |
+| Astrea Record 3 | Celty and the other rearguard mages attack a dragon alongside Riveria's spell, exposing its core.[@ar03-dragon] Afterwards she runs to celebrate with the front ranks, and trembles with Lyu as Riveria punishes the young [[aiz-wallenstein|Aiz]].[@ar03-celty-after] |
 | DanMachi 14 | In Lyu's recollection, the [[juggernaut|Juggernaut]] reflects Celty and Lyana's magic back at them, and both burst into flames.[@fm14-reflection] |
 | DanMachi 15 | Lyu's recollection of joining the Familia places Celty at her welcome ceremony.[@fm15-memory] |
 | Familia Chronicle 3 | Recollections show Celty sitting beside [[astrea|Astrea]] to chat and supplying raspberry cookies for a sweets party.[@fc03-member, fc03-cookies] |
@@ -50,3 +50,8 @@
 [@fm15-memory]: FM15 | Chapter 6: Meetings and Oaths | Lyu recalls the names of her deceased familia companions including Celty.
 [@fc03-cookies]: FC03 | A Simple Moment from Five Years Ago | Alize sets out raspberry cookies made by Celty during a sweets party.
 [@fc03-celty-ja]: FC03 | The Locus of Stars | The Japanese edition writes her name in katakana, read Seruti Suroa (file c1JZ, paragraph 243).
+[@ar03-celty-alfia]: AR03 | Chapter 8: The Price of Talent | Facing Alfia, Celty with her rod.
+[@fc03-celty-circle]: FC03 | The Locus of Stars | Celty, the elf anchoring the rear and the only member younger than Lyu. The Japanese edition (file c1JZ, paragraph 243) calls her diligent; the English prints "the elf who was their anchor in the rear".
+[@ar03-celty-forward]: AR03 | Chapter 7: What She Wished For | Asta and Celty: they will keep walking forward; a smile that transcends race.
+[@ar03-celty-dragon]: AR03 | Chapter 9: A Hero’s Trail | The mages Lyana, Maryu and Celty first see Alfia's third ability; Celty in the rear; her spells and Riveria's strike the dragon's core.
+[@ar03-celty-after]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Celty runs to celebrate with the front ranks; she and Lyu tremble as Riveria punishes the young Aiz.

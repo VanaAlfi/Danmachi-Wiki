@@ -6,7 +6,7 @@
   "reviewed": "2026-10-02",
   "continuity": "light-novel",
   "summary": "The epic of the heroes of the Ancient Times, first written a thousand years ago and copied ever since. Bell's grandfather gave him a picture-book version, his childhood 'bible'; its final chapter tells of Albert, the strongest hero.",
-  "aliases": ["Labyrinth's scripture", "Hulrand of Water and Light", "Ivelda", "Evelda", "Hulrand", "Fulland Howls", "Dine", "Belinda Altanetta", "Couple's Pendant"],
+  "aliases": ["Labyrinth's scripture", "Hulrand of Water and Light", "Hulrand", "Fulland Howls", "Dine", "Belinda Altanetta", "Couple's Pendant"],
   "spoilers": "DanMachi Vols. 1, 2, 6, 7, 15, 16, Sword Oratoria Vols. 4, 5, 14 and Minor Myths and Legends Vol. 1",
   "related": ["bell-cranell", "three-great-quests", "elegia", "corrupted-spirit", "aiz-wallenstein", "races"],
   "infobox": {
@@ -37,8 +37,8 @@ Sword Oratoria 4 traces its origin to the spirits, who gave heroes their protect
 - **The great spirit:** Sword Oratoria 5 speaks of "the great spirit of the Dungeon Oratoria", [[aria|Aria]], closely connected to the life of Albert the Great (see [[aiz-wallenstein|Aiz Wallenstein]]).[@so05-aria]
 - **The final monster:** a "cruel and merciless monster" appears in the book's final chapter.[@fm06-scripture]
 - **Hulrand of Water and Light:** a well-known epic in the book, tied to Hulrand's Cathedral in Orario.[@fm16-hulrand] In DanMachi 16 Bell tells Syr the story: the knight Hulrand swore his love to a spirit, but "in the end, he chose the saint" who had long supported him; the spirit's tears formed a lake and she tried to kill him, yet she died protecting him from monsters, and he raised the cathedral, where her coffin is still kept. She "never once revealed her name" and is "only described as an undine, a water spirit", so the cathedral bears the knight's name; the saint is not named in the checked text either.[@fm16-epic] DanMachi 16's equipment card for a *Couple's Pendant*, whose two halves are inscribed in Koine with *Knight* and *Spirit*, quotes the saint's soliloquy from the epic's sixth chapter.[@fm16-pendant]
-- **Seldia:** Sword Oratoria 14 says that the eternal saint Seldia, the first high elf to leave the forest, features in it; Sword Oratoria 5 prints her name *Celdia* (see [[races#high-elf|High elf]]).[@so14-seldia, so05-celdia]
-- **Ivelda:** asked who the women in Albert's party were, Bell names "the Amazonian empress Ivelda" and the high elf princess Seldia (Sword Oratoria 5). In DanMachi 16 "the Amazon empress Ivelda" is among the thirty-one heroes whose statues line the Bridge of Heroes, with the knight Hulrand, Saruon, Galzanef, Sidhu, Sphia and the high elf saint Seldia.[@so05-ivelda, fm16-heroes]
+- **[[minor-characters#seldia|Seldia]]:** Sword Oratoria 14 says that the eternal saint Seldia, the first high elf to leave the forest, features in it; Sword Oratoria 5 prints her name *Celdia* (see [[races#high-elf|High elf]]).[@so14-seldia, so05-celdia]
+- **[[minor-characters#ivelda|Ivelda]]:** asked who the women in Albert's party were, Bell names "the Amazonian empress Ivelda" and the high elf princess Seldia (Sword Oratoria 5). In DanMachi 16 "the Amazon empress Ivelda" is among the thirty-one heroes whose statues line the Bridge of Heroes, with the knight Hulrand, Saruon, Galzanef, Sidhu, Sphia and the high elf saint Seldia.[@so05-ivelda, fm16-heroes]
 - **The heroes' graves:** the [[elegia#first-graveyard|First Graveyard]] is the grave of the ancient heroes whose exploits fill the book.[@fm15-graveyard]
 
 ## Bell and the book {#bell}

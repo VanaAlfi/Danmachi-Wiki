@@ -6,10 +6,11 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
-  "aliases": ["Fia", "Ranieh", "Orde", "Aude", "Foh", "Cliff"],
+  "aliases": ["Fia", "Ranieh", "Cliff"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
   "sections": [
+    {"anchor": "foh", "title": "Foh", "summary": "Foh is a hulking formoire from the deep levels, one of the Xenos fighters chosen to guard Wiene; the hunter Dix Perdix kills him in DanMachi 10.", "aliases": []},
     {"anchor": "ranieh", "title": "Ranieh", "summary": "An arachne Xenos who distrusted surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushed her own magic stone rather than be abused, and her acid led the Xenos to one of the hunters.", "aliases": ["Ranye"]},
     {"anchor": "fia", "title": "Fia", "summary": "A red-haired harpy Xenos, more curious about the surface than any of the others; captured with Wiene by Ikelos Familia's hunters in DanMachi 10 and freed in Knossos.", "aliases": ["Fear"]},
     {"anchor": "gryuu", "title": "Gryuu", "summary": "Gryuu is a green dragon among the Xenos, whom Lido describes as a long-standing member and village caretaker.", "aliases": ["Gryu"]}
@@ -50,8 +51,8 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[lett|Lett]] | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
 | [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
 | [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushes her own magic stone.[@fm10-ranieh, fm10-death] |
-| Orde | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
-| Foh | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
+| [[minor-characters#orde|Orde]] | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
+| [[#foh|Foh]] | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
 | Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
 | [[#gryuu|Gryuu]] | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[mari|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
 
@@ -78,6 +79,12 @@ Fia is a [[monsters#harpy|harpy]] with "deep-red hair flowing past her shoulders
 | DanMachi 9 | An unnamed green dragon lies beside a quartz pillar, at least ten meders long, with scars and quiet eyes watching the visitors.[@fm09-dragon] This is probably Gryuu, based on the matching species, large body and presence in the Xenos village described by Lido {{inference}}.[@fm09-dragon, fm09-leadership] |
 | DanMachi 14 | Lido tells [[welf-crozzo|Welf Crozzo]] that [[floor-37|Floor 37]] lacks a village caretaker like Gryuu or [[mari|Mari]], and that Xenos seldom stay there.[@fm14-caretakers] |
 | Minor Myths and Legends 1 | Gryuu is probably the unnamed green dragon guarding the hidden village on [[colossal-tree-labyrinth|Floor 20]], based on the matching species and Lido's description of him as a village caretaker {{inference}}.[@ss01-lookout, fm14-caretakers] |
+
+## Foh {#foh}
+
+**Foh** ({{ja|フォー}}, read *Fō*)[@fm10-foh-ja] is a hulking [[monsters#fomoire|formoire]] from the deep levels, one of the Xenos fighters chosen to guard [[wiene|Wiene]]; the hunter [[ikelos-familia#dix-perdix|Dix Perdix]] kills him in DanMachi 10.[@fm10-foh-party, fm10-foh-dix] Despite his size he has a kind heart; he cannot speak as Wiene does, but communicates through howls and grunts, and his gestures convey his warmth.[@fm10-foh-party] His round, pitch-black eyes reveal little, but they always watch over his comrades.[@fm10-foh-party] In battle his body, behind a gigantic breastplate, becomes a shield, and his giant mace sends enemies flying to protect the others.[@fm10-foh-party]
+
+He travels with Wiene's party of six, led by the arachne [[#ranieh|Ranieh]], and catches a [[monsters#siren|siren]] when she is freed from her bonds.[@fm10-foh-party] When hunters attack, Foh, a large-class monster over two meders tall, holds them off alone, reading their moves to escape arrows and magic, and five of them cannot pin him down.[@fm10-foh-hunters] Dix turns aside a blow from arms three times the size of his own, and as Foh's swing leaves his back open, Dix's spear runs him through from behind.[@fm10-foh-dix] Gripping the spear with trembling fingers, he sinks to his knees, his lifeless eyes meeting Wiene's as he falls, and she weeps over his body.[@fm10-foh-dix] A hunter calls him one of the most skilled of the monsters, and Foh, Orde and Cliff are left as ash.[@fm10-foh-dix]
 
 ## History
 
@@ -147,3 +154,7 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm14-caretakers]: FM14 | Epilogue: You’ll Be Back II | Lido describes the thirty-seventh floor and names Gryu and Mari as village caretakers.
 [@ss01-lookout]: SS01 | | An unnamed Green Dragon guards the twentieth-floor hidden village; Mari guards the twenty-seventh. The Japanese edition (file part0072, paragraph 4) calls each village's guard by the word DanMachi 14 uses for Gryuu and Mari as the villages' lookouts (file cD0B, paragraph 103), and writes this dragon's species with the kanji for wood dragon, read green dragon.
 [@fm09-gryuu-ja]: FM09 | Chapter 5: Heretics | The Japanese edition writes his name as the reading of the kanji for wood dragon, the word Sword Oratoria 14's Japanese reads as green dragon (file c5SZ, paragraph 971; DanMachi 14 the same, file cD0B, paragraph 103).
+[@fm10-foh-party]: FM10 | Chapter 7: The King of Atrocity | Foh, the hulking formoire from the deep levels in Wiene's party: kind, voiceless, a living wall with a mace; he catches the freed siren.
+[@fm10-foh-dix]: FM10 | Chapter 7: The King of Atrocity | Dix turns Foh's blow aside and runs him through from behind; Foh dies before Wiene and is turned to ash.
+[@fm10-foh-hunters]: FM10 | Chapter 7: The King of Atrocity | Foh, two meders tall, holds off the hunters alone, reading their movements. The Japanese edition (file cUX, paragraph 249) calls him a large-class monster over two meders tall; the English prints "his two-meder-tall frame".
+[@fm10-foh-ja]: FM10 | Chapter 7: The King of Atrocity | The Japanese edition writes his name in katakana, read Fō (first in file cUX, paragraph 51); the English prints Foh (13 lines of DanMachi 10).

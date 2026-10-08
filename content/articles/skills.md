@@ -437,7 +437,7 @@ It drains her Mind, all the more because she is combining two spells, and she mu
 - **Squad:** Fairy Force ({{ja|妖精部隊}}, written *fairy unit*), Loki's name for the elf squad built around the Skill; Riveria rejected it, but the squad's elves use it[@alf-regina.so10-name, alf-regina.so10-ja]
 - **Kind:** A party Skill for elves[@alf-regina.so10-effect, alf-regina.so10-name]
 
-Its Mind recovery is much stronger than the automatic recovery of the Development Ability Spirit Healing, though far weaker than the [[corrupted-spirit|demi-spirit]]'s recharge on the fifty-ninth floor.[@alf-regina.so10-effect] It does not heal in full, as Riveria tells her squad.[@alf-regina.so10-limit] Finn ordered the surprise attack on [[knossos|Knossos]] knowing of this Skill, which lets an elven squad keep its magic up in a vast labyrinth.[@alf-regina.so10-effect] In Sword Oratoria 10 Levis sees the jade circle and can tell only that it is a rare Skill.[@alf-regina.so10-levis]
+Its Mind recovery is much stronger than the automatic recovery of the Development Ability Spirit Healing, though far weaker than the [[corrupted-spirit|demi-spirit]]'s recharge on the [[floor-59|fifty-ninth floor]].[@alf-regina.so10-effect] It does not heal in full, as Riveria tells her squad.[@alf-regina.so10-limit] Finn ordered the surprise attack on [[knossos|Knossos]] knowing of this Skill, which lets an elven squad keep its magic up in a vast labyrinth.[@alf-regina.so10-effect] In Sword Oratoria 10 Levis sees the jade circle and can tell only that it is a rare Skill.[@alf-regina.so10-levis]
 
 When Riveria developed it, Loki wanted an elf-only squad built around her and tried to give that squad the name "Fairy Force"; Riveria refused the showy name, though the elves of the squad use it among themselves.[@alf-regina.so10-name]
 
@@ -488,7 +488,7 @@ The novels describe the transformation in general terms: once beast people recei
 - **Holder:** Bete Loga[@sheet.so05-bete]
 - **Source:** Status sheet only[@sheet.so05-bete]
 
-*Fenris* was also Bete's first title, from his time as captain of Víðarr Familia; the sheet does not connect the two.[@fenris-wolf.so08-title]
+*Fenris* was also Bete's first title, from his time as captain of [[minor-characters#vidarr|Víðarr]] Familia; the sheet does not connect the two.[@fenris-wolf.so08-title]
 
 ### Solmani {#solmani}
 

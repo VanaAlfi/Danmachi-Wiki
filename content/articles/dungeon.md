@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The vast underground labyrinth beneath Orario, sealed under Babel Tower and held in check by Ouranos's prayers. Its walls give birth to monsters, and adventurers descend it floor by floor; its bottom is unknown.",
   "aliases": ["Labyrinth", "Great Hole", "Deep Zone"],
-  "spoilers": "DanMachi Vols. 1–6, 8, 9, 12–14, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
+  "spoilers": "DanMachi Vols. 1–6, 8, 9, 12–15, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["upper-levels", "cave-labyrinth", "floor-18", "colossal-tree-labyrinth", "water-capital", "floor-37", "monsters", "rivira", "monster-rex", "irregular", "goliath", "level", "babel", "ouranos", "guild", "orario", "three-great-quests"],
   "infobox": {
     "title": "The Dungeon",
@@ -52,13 +52,14 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 |---|---|---|
 | 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. Floors 11 and 12 are held to be the deepest that Level 1 adventurers can clear.[@fm02-upper, fm02-limit] |
 | 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a [[safe-point|safe point]].[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
-| 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] [[floor-28|Floor 28]], the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on [[floors-29-31-and-32#floor-29|Floor 29]].[@fm20-gorge] |
+| 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] [[floor-28|Floor 28]], the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on [[floors-29-31-and-32#floor-29|Floor 29]].[@fm20-gorge] Familia Chronicle 2 names a Sand Land ({{ja|砂漠の迷園}}, written *desert labyrinth-garden*) twice, without a floor: [[freya|Freya]] says [[ottar|Ottar]] and the others bring her things from it, and in the [[kaios-desert|Kaios Desert]] [[allen-fromel|Allen]], whose speed raises a sandstorm, curses that it is just as in Sand Land; the Japanese adds that this also happens in the Dungeon's lower levels.[@fc02-floors-sand-freya, fc02-floors-sand-allen] |
 | Deeper floors | Deep levels | [[floor-37|Floor 37]] lies in the deep levels {{small|(printed *Lower Fortress* in DanMachi 2)}} and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] Hephaistos speaks of Loki Familia going to "the Deep Zone".[@fm12-deepzone] |
 
 For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls]
 
 ### Known deep floors {#deep-floors}
 
+- **Floor 38:** in Sword Oratoria 2 [[loki-familia|Loki Familia]]'s party under [[finn-deimne|Finn]] has gone over most of [[floor-37|Floor 37]] and stands near its centre, from where going on would mean going down to the thirty-eighth.[@so02-floor38-turnback] [[riveria|Riveria]], mindful of their thin supplies and worn weapons, asks Finn what to do; he proposes heading home, and they return to the surface.[@so02-floor38-turnback] In DanMachi 15 [[lilliluka-erde|Lilly]] fears that once their visit to the deep levels is known, the Guild may set the thirty-eighth floor as Hestia Familia's next goal.[@fm15-floor38-lilly]
 - **Floor 39:** "The first safety point in the deep levels".[@fm14-safepoint]
 - **Floors 40–41:** the [[floor-40|fortieth floor]] is rumoured to rival Orario itself in size; Astrea Familia's record registered with the Guild was the [[floor-41|forty-first floor]].[@fm03-size, fm13-record]
 - **Floor 44:** a floor of "sweltering heat", with a burning crimson floor and Flaming Rocks; DanMachi 4 places it in the Dungeon's deep levels.[@fm04-floor44]
@@ -66,7 +67,7 @@ For the first twelve floors, the recommended basic abilities run from I–H on F
 - **[[floor-50|Floor 50]]:** a safe point where monsters are not born; Loki Familia camps there.[@so01-camp]
 - **[[floor-51|Floor 51]]:** the Cadmus Springs (see [[monsters#cadmus|Cadmus]]).[@so01-camp]
 - **Floors 52–58:** going down to [[floor-52|Floor 52]] "is like descending into hell itself". Zeus Familia nicknamed this area the Dragon's Urn, for the [[monsters#valgang-dragon|valgang dragons]] of [[floor-58|Floor 58]] at its bottom.[@so04-urn]
-- **Floor 59:** still unexplored when Loki Familia sets out for it in Sword Oratoria 1–4 (see [[corrupted-spirit|Corrupted spirit]]).[@so01-camp, so03-unexplored]
+- **[[floor-59|Floor 59]]:** still unexplored when Loki Familia sets out for it in Sword Oratoria 1–4 (see [[corrupted-spirit|Corrupted spirit]]).[@so01-camp, so03-unexplored]
 - **Floors 60–61:** Thalia's Ice Garden lies in "The gulf between the sixtieth and sixty-first floors"; in DanMachi 18 the Guild shows Finn a relic brought back from it.[@fm18-icegarden]
 - **Floor 67:** Zeus and Hera discovered a monster there.[@fm20-floor67]
 - **Floor 71:** the deepest floor reached, by Zeus Familia and Hera Familia.[@fm19-record]
@@ -157,3 +158,7 @@ Familias of Guild [[familia-rank|rank]] D and above must take part in periodic G
 [@so13-will]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | Lefiya's seminar: the Dungeon possesses a will.
 [@ar03-forbidden]: AR03 | Chapter 9: A Hero’s Trail | Lyu: deities are forbidden to enter the Dungeon; Astrea: "They are".
 [@fm01-dungeon-ja]: FM01 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
+[@fc02-floors-sand-freya]: FC02 | Ali and the 8 Followers | Freya: Ottar and the others bring her desert-related items from Sand Land.
+[@fc02-floors-sand-allen]: FC02 | Ali and the 8 Followers | Allen's sandstorm in the Kaios Desert. The Japanese edition (file c69N, paragraphs 56 to 58) calls it a phenomenon that also happens in the Dungeon's lower levels; the English prints "Tch, just like in Sand Land, huh? This always happens in sandy terrain".
+[@so02-floor38-turnback]: SO02 | Chapter 6: Parched Scream | Finn's party near the centre of Floor 37, the way down to the thirty-eighth; it returns to the surface.
+[@fm15-floor38-lilly]: FM15 | Interlude: Growth, the Present, and Rye Bread | Lilly fears the Guild may set the thirty-eighth floor as the next goal.

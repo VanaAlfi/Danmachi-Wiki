@@ -18,7 +18,7 @@
       {"label": "Also printed", "value": "*Wil*, *Wil Crozzo* (DanMachi 8)", "refs": ["fm08-identity"]},
       {"label": "Race", "value": "Human", "refs": ["fm08-identity"]},
       {"label": "Position", "value": "Head of the Crozzo family", "refs": ["fm08-identity"]},
-      {"label": "Country", "value": "The [[ares-familia#kingdom-of-rakia|kingdom of Rakia]]", "refs": ["fm08-identity", "fm15-kingdom"]},
+      {"label": "Country", "value": "The [[rakia|kingdom of Rakia]]", "refs": ["fm08-identity", "fm15-kingdom"]},
       {"label": "Blessing", "value": "[[phobos|Phobos]]", "refs": ["fm15-blessing"]},
       {"label": "Family", "value": "[[welf-crozzo|Welf Crozzo]], his son; Garon Crozzo, Welf's grandfather", "refs": ["fm08-identity", "fm15-blessing"]},
       {"label": "DanMachi 8", "value": "Captured in Orario and led to the Guild", "refs": ["fm08-captives"]}
@@ -26,7 +26,7 @@
   }
 }
 ---
-**Vil Crozzo** {{small|printed *Wil Crozzo* in DanMachi 8}} is [[welf-crozzo|Welf Crozzo]]'s [[races#human|human]] father and the current head of the Crozzo family in [[ares-familia|Ares Familia]]'s kingdom of Rakia.[@fm08-identity, fm15-kingdom] He and Welf Crozzo's grandfather, Garon Crozzo, bear [[phobos|Phobos]]'s [[falna|Blessing]] and work together at the forge.[@fm15-blessing]
+**Vil Crozzo** {{small|printed *Wil Crozzo* in DanMachi 8}} is [[welf-crozzo|Welf Crozzo]]'s [[races#human|human]] father and the current head of the Crozzo family in [[ares-familia|Ares Familia]]'s [[rakia|kingdom of Rakia]].[@fm08-identity, fm15-kingdom] He and Welf Crozzo's grandfather, Garon Crozzo, bear [[phobos|Phobos]]'s [[falna|Blessing]] and work together at the forge.[@fm15-blessing]
 
 ## History {#history}
 

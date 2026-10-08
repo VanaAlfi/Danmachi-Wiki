@@ -31,7 +31,7 @@
 
 Adventurers call her "Banshee", "The party-killing elf"; in Sword Oratoria 3 [[bors|Bors]] tells Lefiya that it is not her title: "That’s just what we call her."[@so03-banshee] Sword Oratoria 12 traces the name to the Twenty-Seventh-Floor Nightmare, after which Bors saw her wandering [[rivira|Rivira]] "seemingly dead on the inside".[@so12-banshee]
 
-On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her magic [[#dio-grail|Dio Grail]] saved the Floor 59 expedition, challenging her belief that she and her magic are unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, begs her to leave [[orario|Orario]], and promises her a trip to [[wishe-forest|Wishe Forest]].[@ss02-filvis, so11-filvis]
+On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her magic [[#dio-grail|Dio Grail]] saved the [[floor-59|Floor 59]] expedition, challenging her belief that she and her magic are unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, begs her to leave [[orario|Orario]], and promises her a trip to [[wishe-forest|Wishe Forest]].[@ss02-filvis, so11-filvis]
 
 ## The truth
 

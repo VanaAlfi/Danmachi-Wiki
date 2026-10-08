@@ -6,7 +6,7 @@
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
   "summary": "The Familia of the goddess Freya, one of Orario's two strongest until its defeat in the Familia War of DanMachi 18, after which the Guild dissolves it.",
-  "aliases": ["Remilia", "Rask"],
+  "aliases": [],
   "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 4, Familia Chronicle Vol. 2 and Astrea Record Vols. 1–3",
   "related": ["freya", "ottar", "allen-fromel", "hedin", "hegni", "horn", "mia-grand", "anya-fromel", "syr-flover", "hestia-familia", "war-game"],
   "sections": [
@@ -44,7 +44,7 @@
 | [[heith-velvet|Heith Velvet]] | Vana Mardöll | 4 | [[healer|Healer]] and representative of the [[#andhrimnir|Andhrímnir]]; she first endured Folkvangr as a fighter before changing to healing.[@fm18-heith] |
 | [[horn|Hörn]] | none | — | Freya's attendant, known as "Nameless" because Freya refused to let the gods give her a title.[@fm16-horn] |
 | [[van|Van]] | not located | 4 | Half-prum in his thirties with "an attractive, androgynous face"; told by Hedin to deploy Hegni's unit south of the church in Astrea Record 1; leads one of the units guarding Syr in DanMachi 16, where his squad's charge angers Hedin; in DanMachi 17 he looks after Bell under Freya's charm and fights him with twin blades.[@ar01-van, fm16-van, fm17-van] |
-| Remilia and Rask | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |
+| [[minor-characters#remilia|Remilia]] and [[minor-characters#rask|Rask]] | not located | not located | Bell's "impromptu guards" in Folkvangr in DanMachi 17, who with Van spoke to him most often. In DanMachi 18 they guard the house of the gods and carry Freya's order to the first-tier adventurers.[@fm17-guards, fm18-guards] |
 
 [[mia-grand|Mia Grand]], the Level 6 *Demi Ymir* and captain before Ottar, half-retired and now owns [[the-benevolent-mistress|The Benevolent Mistress]], though she still bears Freya's blessing.[@fm18-mia, fc01-owner] Anya Fromel (*Vana Alfi*) was sent away after a Deep Levels expedition in which she nearly died.[@fm17-anya, fm18-allen]
 
@@ -68,7 +68,7 @@ Folkvangr's field holds death matches from dawn to sunset. Members below the fir
 
 [[heith-velvet|Heith]] is the group's young representative and has [[freya|Freya]]'s trust.[@fm17-support]
 
-Before the War Game, she asks Rona and Ilde {{small|printed *Ilda*}} to assist her once fighting begins.[@fm18-assistants]
+Before the War Game, she asks [[minor-characters#rona|Rona]] and [[minor-characters#ilde|Ilde]] {{small|printed *Ilda*}} to assist her once fighting begins.[@fm18-assistants]
 
 Whispered explanations connect the name both to maidens satisfying brave warriors and to overwork making their backs look soot-covered.[@fm17-support]
 

@@ -31,7 +31,7 @@
 | Volume | Events |
 |---|---|
 | DanMachi 9 | He complains to Dix after their attempt to locate the monsters' nest is frustrated by [[hermes-familia|Hermes Familia]].[@fm09-failedhunt] |
-| DanMachi 10 | Gran cuts down [[xenos|Orde]] with his greatsword and takes part in the attack on [[wiene|Wiene]]'s companions.[@fm10-capture] |
+| DanMachi 10 | Gran cuts down [[minor-characters#orde|Orde]] with his greatsword and takes part in the attack on [[wiene|Wiene]]'s companions.[@fm10-capture] |
 | DanMachi 10 | He reports the armed monsters' destruction of [[rivira|Rivira]] and handles the base's doors with a key at Dix's command.[@fm10-report, fm10-doors] |
 | DanMachi 10 | He fights [[fels|Fels]], but [[gros|Gros]] gouges away the left half of his face during the battle.[@fm10-fight] |
 | DanMachi 10 | After escaping to the surface, Gran throws Dix's spear at Wiene, and Gros kills him with his claws.[@fm10-end] |

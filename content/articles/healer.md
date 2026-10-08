@@ -18,7 +18,7 @@
       {"label": "Place in a party", "value": "The rear", "refs": ["so11-position"]},
       {"label": "Means", "value": "Healing magic; ointments and bandages for lighter wounds", "refs": ["so05-treatment"]},
       {"label": "Scarcity", "value": "Pure healers are few", "refs": ["fm20-value"]},
-      {"label": "Known healers", "value": "[[amid|Amid Teasanare]], [[heith-velvet|Heith Velvet]], [[cassandra|Cassandra Illion]], [[nina-tulle|Nina Tulle]], [[leene-arshe|Leene Arshe]], Maryu Réage", "refs": ["fm14-items", "fm17-specialty", "fm12-cassandra", "fm19-nina", "so05-treatment", "fc03-maryu"]}
+      {"label": "Known healers", "value": "[[amid|Amid Teasanare]], [[heith-velvet|Heith Velvet]], [[cassandra|Cassandra Illion]], [[nina-tulle|Nina Tulle]], [[leene-arshe|Leene Arshe]], [[minor-characters#maryu|Maryu Réage]]", "refs": ["fm14-items", "fm17-specialty", "fm12-cassandra", "fm19-nina", "so05-treatment", "fc03-maryu"]}
     ]
   }
 }
@@ -42,7 +42,7 @@
 | Sword Oratoria 10 | Riveria Ljos Alf provides healing support that helps sustain a battle line.[@so10-support] |
 | Sword Oratoria 12 | [[dian-cecht-familia|Dian Cecht Familia]] plans to mobilize all its healers to handle healing and supplies for the squads entering [[knossos|Knossos]].[@so12-deployment] |
 | Familia Chronicle 2 | [[hedin#hildr|Hildr]] is described as a miraculous healer from the dark elves and an ancestor of [[hedin|Hedin Selrand]].[@fc02-hildr] |
-| Familia Chronicle 3 | [[astrea-familia|Astrea Familia]]'s Maryu Réage is remembered as a human healer.[@fc03-maryu] |
+| Familia Chronicle 3 | [[astrea-familia|Astrea Familia]]'s [[minor-characters#maryu|Maryu Réage]] is remembered as a human healer.[@fc03-maryu] |
 
 
 [@so05-treatment]: SO05 | Chapter 2: Rabbit Rookie | Riveria and Leene treat the injured with magic, ointments and bandages.

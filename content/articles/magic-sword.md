@@ -41,7 +41,7 @@ A **magic sword** is a weapon that releases magic without a chant. Ordinary magi
 
 ## Crozzo Magic Swords
 
-The Crozzo Magic Swords are weapons of legend, known throughout the world; the old Kingdom of [[ares-familia#kingdom-of-rakia|Rakia]] long used them in its wars.[@so05-crozzo] They were said to be strong enough to "set fire to the ocean", and the Crozzos were called "the masters of the magic sword".[@fm04-ocean, so05-crozzo]
+The Crozzo Magic Swords are weapons of legend, known throughout the world; the old Kingdom of [[rakia|Rakia]] long used them in its wars.[@so05-crozzo] They were said to be strong enough to "set fire to the ocean", and the Crozzos were called "the masters of the magic sword".[@fm04-ocean, so05-crozzo]
 
 - **The elves' grudge.** The flames of Crozzo swords in the Rakian wars reached the forests of the elves, who had no part in the war; the number of elves who lost their villages is almost uncountable. [[alicia-forestlight|Alicia]] calls the Crozzos the cause of the burning of her fellow elves' villages.[@so05-elves]
 - **Rakia's battalion.** In DanMachi 8 [[ares|Ares]] hopes to use Welf's power to revive Rakia's magic-sword battalion.[@fm08-battalion]

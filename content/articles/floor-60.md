@@ -8,7 +8,7 @@
   "summary": "Floor 60 of the Dungeon features in Ouranos's theory about the corrupted spirit and in a report of an expedition alliance's defeat.",
   "aliases": ["Sixtieth Floor"],
   "spoilers": "DanMachi Vols. 18 and 20 and Sword Oratoria Vol. 4",
-  "related": ["dungeon", "floor-58", "corrupted-spirit", "ouranos", "royman", "loki-familia"],
+  "related": ["dungeon", "floor-58", "floor-59", "corrupted-spirit", "ouranos", "royman", "loki-familia"],
   "infobox": {
     "title": "Floor 60",
     "image_note": "No suitable official image has been chosen for this page yet.",

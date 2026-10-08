@@ -139,7 +139,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 | DanMachi 17 | Is taken by Freya and trained in Folkvangr; he learns the truth about Freya and Syr and resolves to save her.[@fm17-seizure, fm17-folkvangr] |
 | DanMachi 18 | Reaches Level 5, helps defeat Ottar, refuses to be Freya's Odr and scatters her flower to win the Familia War.[@fm18-level5, fm18-odr] |
 | DanMachi 19 | Enters the [[school-district|School District]] under the name Rapi Flemish.[@fm19-rapi] |
-| Minor Myths and Legends 1 | In "Blue Twilight" Bell has the knife Welf made him sharpened by Dald, a dwarf who makes "a living honing adventurers’ weapons" and to whom [[eina-tulle|Eina]] introduced him as a beginner. Bell donates his old knife, which Dald hangs on a wall of weapons, though "Most of the names up on that wall died a while back".[@ss01-dald] |
+| Minor Myths and Legends 1 | In "Blue Twilight" Bell has the knife Welf made him sharpened by [[minor-characters#dald|Dald]], a dwarf who makes "a living honing adventurers’ weapons" and to whom [[eina-tulle|Eina]] introduced him as a beginner. Bell donates his old knife, which Dald hangs on a wall of weapons, though "Most of the names up on that wall died a while back".[@ss01-dald] |
 
 ## Relationships
 

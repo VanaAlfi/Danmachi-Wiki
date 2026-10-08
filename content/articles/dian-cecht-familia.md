@@ -6,7 +6,7 @@
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
   "summary": "The god Dian Cecht's Familia of healers and medicine makers, home of the Dea Saint Amid Teasanare. It sells Orario's most expensive potions, runs a clinic on Northwest Main Street, and is the business rival and creditor of Miach Familia.",
-  "aliases": ["Marta", "Martha", "Bernadette"],
+  "aliases": [],
   "spoilers": "DanMachi Vols. 4, 14, 15 and 18, Sword Oratoria Vols. 1, 5–8 and 11–13, Astrea Record Vols. 1–2 and Minor Myths and Legends Vol. 2",
   "related": ["dian-cecht", "amid", "miach-familia", "airgetlam", "loki-familia", "guild", "orario"],
   "infobox": {
@@ -49,7 +49,7 @@ In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, 
 | Sword Oratoria 5 | Loki Familia sets out to buy up its antivenin against [[monsters#poison-vermis|poison vermis]]; asking the Dea Saint herself to go into the Dungeon would cost even more.[@so05-antivenin] |
 | Sword Oratoria 7 | [[finn-deimne|Finn]] wakes in Dian Cecht's clinic after his curse is broken.[@so07-finn] |
 | Sword Oratoria 8 | Its hospital takes in the Amazons wounded by [[cursed-weapons|cursed weapons]].[@so08-hospital] |
-| Sword Oratoria 11 | Its healers join the assault on [[knossos|Knossos]]; Amid heals the northeast squad and lifts the [[barca-perdix|Barca]] Monster's curse, leaving the recovery to Marta and Bernadette: "Take over the recovery in my stead."[@so11-healers, so11-barca, so11-marta] |
+| Sword Oratoria 11 | Its healers join the assault on [[knossos|Knossos]]; Amid heals the northeast squad and lifts the [[barca-perdix|Barca]] Monster's curse, leaving the recovery to [[minor-characters#marta|Marta]] and [[minor-characters#bernadette|Bernadette]]: "Take over the recovery in my stead."[@so11-healers, so11-barca, so11-marta] |
 | Sword Oratoria 12 | The whole Familia sends its healers into the second assault to heal and resupply every squad.[@so12-healers] Some of its healers are among the dead.[@so13-dead] |
 | DanMachi 15 | [[bell-cranell|Bell]] is treated at its infirmary for his arm. Nahza of Miach Familia calls them quacks, but Miach Familia itself referred him to Amid.[@fm15-infirmary] |
 | DanMachi 18 | Runs the first-aid base for the Familia War; its healers stay out of the fighting.[@fm18-base, fm18-amid] |

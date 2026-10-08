@@ -26,7 +26,7 @@
 
 ## Character
 
-Dian Cecht looks like a middle-aged god with greying hair and a beard. In DanMachi 4 he arrives at Miach's shop in an extravagant embroidered gold robe, calls Miach "you ruined beggar" and laughs until spittle flies.[@fm04-dian] During Rakia's invasion in DanMachi 8 he gloats to Amid that his goods are "selling like there’s no tomorrow", unaware that Miach is not there to hear it.[@fm08-sales] He charges heavily: [[loki|Loki]] fears that he would take full advantage of any request for Amid's help in the Dungeon, as he already charges "an arm and a leg" for her procedures at the clinic.[@so05-price]
+Dian Cecht looks like a middle-aged god with greying hair and a beard. In DanMachi 4 he arrives at Miach's shop in an extravagant embroidered gold robe, calls Miach "you ruined beggar" and laughs until spittle flies.[@fm04-dian] During [[rakia|Rakia]]'s invasion in DanMachi 8 he gloats to Amid that his goods are "selling like there’s no tomorrow", unaware that Miach is not there to hear it.[@fm08-sales] He charges heavily: [[loki|Loki]] fears that he would take full advantage of any request for Amid's help in the Dungeon, as he already charges "an arm and a leg" for her procedures at the clinic.[@so05-price]
 
 ## Miach
 

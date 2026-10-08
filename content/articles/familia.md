@@ -46,7 +46,7 @@ A transferred follower must wait one year before another Conversion; a faction t
 | DanMachi 4 | [[quest|Quest]] notices display client signatures and Familia [[emblem|emblems]] together with the requested work and rewards.[@fm04-quests] |
 | DanMachi 5 | [[hermes|Hermes]] keeps his Familia's home in Orario but commonly travels elsewhere, leaving its administration neglected.[@fm05-management] |
 | DanMachi 6 | After the [[war-game|War Game]], [[apollo|Apollo]] performs his followers' departure ceremonies and his Familia disbands; [[hestia|Hestia]] later proposes an emblem for the Familia she began with [[bell-cranell|Bell]].[@fm06-war, fm06-emblem] |
-| DanMachi 8 | The [[guild|Guild]] orders specified Familias to oppose Rakia together, and the assembled forces display their respective Familia flags and emblems.[@fm08-alliance] |
+| DanMachi 8 | The [[guild|Guild]] orders specified Familias to oppose [[rakia|Rakia]] together, and the assembled forces display their respective Familia flags and emblems.[@fm08-alliance] |
 | DanMachi 12 | Dungeon-exploring Familias reaching a certain [[familia-rank|rank]] must conduct successful periodic expeditions under their own leadership, although they may hire adventurers from other factions.[@fm12-expedition] |
 | DanMachi 15 | [[alize-lovell|Alize]] identifies herself as [[astrea-familia|Astrea Familia]]'s captain at its home, and [[lyu-leon|Lyu]] formally joins after receiving a Status and the emblem of justice's sword and wings.[@fm15-organization] |
 | DanMachi 18 | [[freya-familia|Freya Familia]] dissolves after defeat, its assets are seized, and its property is divided among the victors except for [[folkvangr|Folkvangr]], which the [[guild|Guild]] holds.[@fm18-dissolution] |

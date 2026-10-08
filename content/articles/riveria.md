@@ -30,7 +30,7 @@
 
 ## Early life
 
-Lefiya says that all the elves' nobles, Riveria included, are descended from Rishena, the younger sister of the eternal saint Seldia {{small|printed *Celdia* in Sword Oratoria 5}} of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
+Lefiya says that all the elves' nobles, Riveria included, are descended from [[minor-characters#rishena|Rishena]], the younger sister of the eternal saint [[minor-characters#seldia|Seldia]] {{small|printed *Celdia* in Sword Oratoria 5}} of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
 
 ## Skills {#skill}
 

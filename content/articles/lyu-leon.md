@@ -187,7 +187,7 @@ Her earlier sheets describe it too. The Astrea Record 1 sheet (Level 3) calls it
 - In Sword Oratoria 5 a dappled light like sun through trees closes Bell's head wound and heals his cuts, bruises and acid burns.[@noa-heal.so05-heal]
 - In DanMachi 13 she uses it on Bell's injured neck after the [[juggernaut|Juggernaut]] strikes him. The narration calls it all-purpose, healing surface wounds and other damage and restoring strength, but slow to reach full recovery.[@noa-heal.fm13-neck]
 - In DanMachi 14 she heals her own broken leg with it once her mental strength has partly returned.[@noa-heal.fm14-leg]
-- In DanMachi 18 it recovers stamina and closes wounds but is slow; because it has only one target, Lyu heals a group with a different, area-effect spell that she inherited from her dead companion Maryu.[@noa-heal.fm18-slow, noa-heal.fm18-single]
+- In DanMachi 18 it recovers stamina and closes wounds but is slow; because it has only one target, Lyu heals a group with a different, area-effect spell that she inherited from her dead companion [[minor-characters#maryu|Maryu]].[@noa-heal.fm18-slow, noa-heal.fm18-single]
 
 {{nocite}} Notable uses and open questions for Noa Heal are on the combined page: [[magic#noa-heal|Magic § Noa Heal]].
 

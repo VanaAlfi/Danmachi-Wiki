@@ -38,7 +38,7 @@ Ikelos is a god with brown skin and navy-blue hair.[@fm10-exile] When [[hermes|H
 
 Dix Perdix is the goggle-wearing leader of the hunters, with red eyes and a wickedly curved red spear.[@fm09-hunters, fm10-dix, fm10-spear]
 
-Among his hunters is [[gran|Gran]], a tall, muscular, bald man with a black tattoo over most of his face. In DanMachi 10 he kills Orde with one flash of his greatsword, yet cowers at a single angry word from Dix; later he reports to Dix the monsters that swept through the eighteenth floor and Orario's state of emergency.[@fm10-gran, fm10-gran-news]
+Among his hunters is [[gran|Gran]], a tall, muscular, bald man with a black tattoo over most of his face. In DanMachi 10 he kills [[minor-characters#orde|Orde]] with one flash of his greatsword, yet cowers at a single angry word from Dix; later he reports to Dix the monsters that swept through the eighteenth floor and Orario's state of emergency.[@fm10-gran, fm10-gran-news]
 
 - **Level:** [[asfi|Asfi]] says he was already a second-tier Level 4 ten years earlier; in the fight with [[bell-cranell|Bell]] he says "I'm Level Five".[@fm10-dix, fm10-level]
 - **Title:** [[fels|Fels]] addresses him as "Hazer, Dix Perdix".[@fm10-hazer]

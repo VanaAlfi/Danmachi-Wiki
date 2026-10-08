@@ -33,7 +33,7 @@
 
 ## Past
 
-A dragon destroyed Bete's tribe on the plains: his father, his mother and his sister, Luna, were killed, and so was the girl born on the same day as him, his childhood friend; he had trained day in and day out until he was the strongest of the tribe's children and "could claim her for his own". Over her remains he cries "Renee…!"[@so08-plains, so08-renee] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined Víðarr Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), Selenia, bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
+A dragon destroyed Bete's tribe on the plains: [[minor-characters#betes-father|his father]], [[minor-characters#betes-mother|his mother]] and his sister, [[minor-characters#luna|Luna]], were killed, and so was the girl born on the same day as him, his childhood friend; he had trained day in and day out until he was the strongest of the tribe's children and "could claim her for his own". Over her remains he cries "Renee…!"[@so08-plains, so08-renee] His father had always heeded the teachings of his ancestors, and young Bete revered him; "The values of the dog-eat-dog world that Bete’s father had long impressed upon him finally hit home" when the tribe fell.[@so08-father] He later joined [[minor-characters#vidarr|Víðarr]] Familia, whose rise he led as its captain, and received his first title, *Fenris*.[@so08-vidarr] While he was away killing the Master of the Plains, the Familia's vice-captain, whom he loved, died on a Dungeon raid. He drove the surviving members out of the city to keep them away from the Dungeon and fought on alone, before joining Loki Familia.[@so08-vidarr, so08-drove] In the Great Conflict, Astrea Record 1 shows another member of the Familia (printed *Vidar Familia* there), [[minor-characters#selenia|Selenia]], bringing rescued townsfolk to safety, and in Astrea Record 3 Bete fights on, "Ignoring Selenia’s cries".[@ar01-selenia, ar03-selenia]
 
 Sword Oratoria 8 presents his contempt for weakness as a response to these losses.[@so08-hati]
 
@@ -108,7 +108,7 @@ Bete's usual boots, Frosvirt, were made for him by [[tsubaki|Tsubaki]] as a down
 | Volume | Events |
 |---|---|
 | DanMachi 1 | Mocks Bell at [[the-benevolent-mistress|The Benevolent Mistress]].[@fm01-bete] |
-| Sword Oratoria 6 | Reaches Level 6 after the Floor 59 expedition.[@so06-bete] |
+| Sword Oratoria 6 | Reaches Level 6 after the [[floor-59|Floor 59]] expedition.[@so06-bete] |
 | Sword Oratoria 8 | Casts Hati and kills [[valletta|Valletta]]; Loki Familia reconciles with him.[@so08-hati] |
 | Sword Oratoria 12 | [[haruhime|Haruhime]] raises him to pseudo-Level 7, and he breaks his own ban on Hati against [[filvis|Filvis]].[@so12-bete] |
 | Sword Oratoria 13 | Trains [[lefiya|Lefiya]] in close combat without holding back.[@so13-bete] |

@@ -64,7 +64,7 @@ Among Eina's fellow receptionists are [[misha-frot|Misha]], [[rose|Rose]] and [[
 
 The Guild headquarters stands on Northwest Main Street, known as Adventurers Way.[@so01-northwest, fm08-store, fm01-ja-hq] Its bulletin board carries public announcements, such as [[bell-cranell|Bell]]'s promotion to Level 3.[@fm07-board]
 
-The building is called the **Pantheon**, "temple of the gods": it is built of white pillars, with monuments in a broad front court that greet adventurers at the doors.[@so01-pantheon] Astrea Record 1 calls it "a grand construction meant to resemble the Pantheon", one of the city centre's primary landmarks, and has the top adventurers of the Familias meet there in a large conference room seating more than a hundred.[@ar01-pantheon] Its crowds of adventurers can rival those on the street outside.[@so02-crowds] In DanMachi 8 the soldiers captured from Rakia are held in chambers deep inside it.[@fm08-chambers]
+The building is called the **Pantheon**, "temple of the gods": it is built of white pillars, with monuments in a broad front court that greet adventurers at the doors.[@so01-pantheon] Astrea Record 1 calls it "a grand construction meant to resemble the Pantheon", one of the city centre's primary landmarks, and has the top adventurers of the Familias meet there in a large conference room seating more than a hundred.[@ar01-pantheon] Its crowds of adventurers can rival those on the street outside.[@so02-crowds] In DanMachi 8 the soldiers captured from [[rakia|Rakia]] are held in chambers deep inside it.[@fm08-chambers]
 
 ### Chamber of Prayers {#chamber-of-prayers}
 

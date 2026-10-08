@@ -59,7 +59,7 @@ At the graveyard Lena prays for the friends who did not survive. On the gravesto
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 9 | Turns up at Loki Familia's camp in the war with [[ares-familia#kingdom-of-rakia|Rakia]], eager to look after Bete.[@so09-camp] He drags her back to Belit Babili to show him the vault, but the box is empty.[@so09-key] |
+| Sword Oratoria 9 | Turns up at Loki Familia's camp in the war with [[rakia|Rakia]], eager to look after Bete.[@so09-camp] He drags her back to Belit Babili to show him the vault, but the box is empty.[@so09-key] |
 | Sword Oratoria 10 | Tags along with Bete and [[anakity-autumn|Anakity]] in [[daedalus-street|Daedalus Street]], misreads their exchange and worries about their relationship.[@so10-squad] Finn's copy of the Knossos key is based on his own memory of the key he saw and on her testimony.[@so10-copy] |
 | Sword Oratoria 11 | Asks to join the assault on Knossos, although Aisha told her to keep out of it. Bete tells her she is "in the minor leagues" and should stay aboveground with [[ganesha-familia|Ganesha Familia]].[@so11-left] |
 | Sword Oratoria 12 | Arrives at Knossos with Aisha and the Berbera.[@so12-arrive] When Bete lies unconscious, she knows she cannot protect him, but she can make him angry, and she goads him until he gets up.[@so12-bete] |

@@ -26,7 +26,7 @@
   }
 }
 ---
-**Narfi** is a human adventurer of [[loki-familia|Loki Familia]], a blonde fighter with twin blades.[@so05-blondes, so07-greenhorns] Already a Level 4 in Sword Oratoria 5 and a second-tier member in Sword Oratoria 7 and 8, she and [[cruz-bussell|Cruz Bussell]] are members of the Familia's second army in Sword Oratoria 10.[@so05-blondes, so08-resent, so10-leaders] Sword Oratoria 4 already calls her a Level 4.[@so04-level] She is one of the support members on the expedition to Floor 59, and in Sword Oratoria 7 she is trapped in [[knossos|Knossos]] with [[gareth|Gareth]].[@so04-support, so07-greenhorns]
+**Narfi** is a human adventurer of [[loki-familia|Loki Familia]], a blonde fighter with twin blades.[@so05-blondes, so07-greenhorns] Already a Level 4 in Sword Oratoria 5 and a second-tier member in Sword Oratoria 7 and 8, she and [[cruz-bussell|Cruz Bussell]] are members of the Familia's second army in Sword Oratoria 10.[@so05-blondes, so08-resent, so10-leaders] Sword Oratoria 4 already calls her a Level 4.[@so04-level] She is one of the support members on the expedition to [[floor-59|Floor 59]], and in Sword Oratoria 7 she is trapped in [[knossos|Knossos]] with [[gareth|Gareth]].[@so04-support, so07-greenhorns]
 
 ## Character
 
@@ -44,7 +44,7 @@
 | Sword Oratoria 6 | At Port Meren, the governor Borg Murdock turns her and Alicia away from his door.[@so06-murdock] She brings Aiz word of Amazons at the pier, and Aiz sends her to fetch the others.[@so06-pier, so06-fetch] When she and the other girls shout to warn Aiz, [[phryne-jamil|Phryne]] throws an ax at them, and Aiz blocks it with her sword.[@so06-ax] |
 | Sword Oratoria 7 | Trapped in Knossos, she, a second-tier member, is one of only three members left with Gareth, fighting with twin blades. Gareth shields them with his body against waves of fire and has her take the shield while he breaks through an [[metals#adamantite|adamantite]] wall with his fists.[@so07-greenhorns, so07-shield, so07-hands] |
 | Sword Oratoria 8 | Like Alicia and Cruz, she resents Bete after [[leene-arshe|Leene]]'s death. When Loki explains what Bete's insults meant, she hangs her head in shame.[@so08-resent, so08-shame] |
-| Sword Oratoria 9 | Carries messages between groups in the war with Rakia.[@so09-messenger] On Floor 18, with Aiz and [[lefiya|Lefiya]], she examines a door into Knossos.[@so09-door] |
+| Sword Oratoria 9 | Carries messages between groups in the war with [[rakia|Rakia]].[@so09-messenger] On Floor 18, with Aiz and [[lefiya|Lefiya]], she examines a door into Knossos.[@so09-door] |
 | Sword Oratoria 10 | As members of the second army, she and Cruz protect the people of [[daedalus-street|Daedalus Street]] from a swarm of monsters.[@so10-leaders] During the rescue of Riveria's elf squad she is told to retrieve Alicia's group and lead them back. At Finn's order she and the others carry the wounded [[monsters#siren|siren]] [[rei|Rei]] out like a comrade.[@so10-rearguard, so10-siren] |
 | Sword Oratoria 11 | Admits she is scared of fighting beside monsters, remembering the black [[minotaur|minotaur]]'s howl.[@so11-uneasy] Gareth leaves the rear to her and Cruz during the first assault.[@so11-rear] |
 | Sword Oratoria 12 | Searches books for clues with Aiz.[@so12-books] In the reserve squad on the tenth floor of Knossos she warns Cruz of approaching monsters, and [[bell-cranell|Bell]] cuts them down; his fighting reminds her of Aiz.[@so12-reserve, so12-bell] |

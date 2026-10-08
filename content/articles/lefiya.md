@@ -126,7 +126,7 @@ In Sword Oratoria 1 the narration marks the chant as complete ("Her spell comple
 
 - Countless burning bolts fall from above, pierce and ignite every monster in the room, and those that miss blast the ground and tear up the bedrock. Nothing is left of the monsters, not even ash.[@fusillade-fallarica.so01-room]
 - Casting it summons a golden magic circle at her feet, which grows more complex with each syllable. The narration ties this to her Development Ability Conjure, which increases magic strength, range and Mind efficiency.[@fusillade-fallarica.so01-room]
-- It serves as long-range bombardment: in Sword Oratoria 9's opening she fires it at an advancing Rakian formation.[@fusillade-fallarica.so09-rakia] [[lyu-leon|Lyu]]'s [[magic#luminous-wind|Luminous Wind]] is compared to it.[@fusillade-fallarica.so05-compare]
+- It serves as long-range bombardment: in Sword Oratoria 9's opening she fires it at an advancing [[rakia|Rakian]] formation.[@fusillade-fallarica.so09-rakia] [[lyu-leon|Lyu]]'s [[magic#luminous-wind|Luminous Wind]] is compared to it.[@fusillade-fallarica.so05-compare]
 
 #### Limits {#fusillade-fallarica-limits}
 

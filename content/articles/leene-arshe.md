@@ -31,7 +31,7 @@
 
 ## Character
 
-Leene wears glasses and usually braids her long hair.[@so04-braids, so05-bath] Sword Oratoria 4 names her, with Raul and Aki, among the Familia's members of the second tier and below.[@so04-second] She is a healer: after the Floor 59 expedition she cares for the wounded with [[riveria|Riveria]] and the other healers, and in Sword Oratoria 6 she heals [[hyrute-sisters|Tiona]] after the rite at Meren, which takes considerable time.[@so05-healer, so06-tiona] At Meren she and [[anakity-autumn|Anakity]] also check that the [[metals#mythril|mythril]] grating on Orario's sewer outflow is in place.[@so06-grate]
+Leene wears glasses and usually braids her long hair.[@so04-braids, so05-bath] Sword Oratoria 4 names her, with Raul and Aki, among the Familia's members of the second tier and below.[@so04-second] She is a healer: after the [[floor-59|Floor 59]] expedition she cares for the wounded with [[riveria|Riveria]] and the other healers, and in Sword Oratoria 6 she heals [[hyrute-sisters|Tiona]] after the rite at Meren, which takes considerable time.[@so05-healer, so06-tiona] At Meren she and [[anakity-autumn|Anakity]] also check that the [[metals#mythril|mythril]] grating on Orario's sewer outflow is in place.[@so06-grate]
 
 When Tiona asks the girls whom they like in Sword Oratoria 7, Leene shyly names "Mister Bete". The twins can't believe it, but she says he can be gallant and is a good person deep down.[@so07-bete] Tiona later tells Bete, "Leene liked you, you know?"[@so08-tiona]
 
@@ -41,7 +41,7 @@ Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of 
 
 ## Death in Knossos
 
-On Loki Familia's first venture into Knossos, Leene is among the healers brought along for support.[@so07-knossos] A trap divides the party.[@ss02-aiz] [[valletta|Valletta]] finds her leading a group of badly wounded companions, encouraging them and lending one her shoulder; the sight fills Valletta with sadistic glee.[@so07-valletta] Riveria lists seven dead or missing: Lloyd, Crea, Anju, Liza, Kalos, Remilia and Leene.[@so07-losses]
+On Loki Familia's first venture into Knossos, Leene is among the healers brought along for support.[@so07-knossos] A trap divides the party.[@ss02-aiz] [[valletta|Valletta]] finds her leading a group of badly wounded companions, encouraging them and lending one her shoulder; the sight fills Valletta with sadistic glee.[@so07-valletta] Riveria lists seven dead or missing: [[minor-characters#lloyd|Lloyd]], Crea, [[minor-characters#anju|Anju]], [[minor-characters#liza|Liza]], [[minor-characters#kalos|Kalos]], Remilia and Leene.[@so07-losses]
 
 The prologue of Sword Oratoria 8 returns to that battle: [[aiz-wallenstein|Aiz]] finds her dying with a cursed dagger in her ribs. Bete laughs at her: weaklings only get in the way, her death is pointless, and she should never come out of her hole again. Then he mutters something only Aiz hears, and Leene dies with the faintest trace of a smile.[@so08-death] Minor Myths and Legends 2 tells the scene from Leene's side. She understood that he was doing his duty as one of the strong, and his last words to her were "How many times have your hands saved me? You've done enough."[@ss02-memory]
 

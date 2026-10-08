@@ -24,7 +24,7 @@
   }
 }
 ---
-**Heith Velvet** is a [[healer|healer]] of [[freya-familia|Freya Familia]] and the representative of its healers, the [[freya-familia#andhrimnir|Andhrímnir]]. She is a Level 4 titled *Vana Mardöll* {{small|(printed *Vana Mardel*)}}.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells Rona and Ilde {{small|printed *Ilda*}} to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"; the Japanese writes this *Rona* over the word for *deputy*.[@fm18-rona, fm18-rona2]
+**Heith Velvet** is a [[healer|healer]] of [[freya-familia|Freya Familia]] and the representative of its healers, the [[freya-familia#andhrimnir|Andhrímnir]]. She is a Level 4 titled *Vana Mardöll* {{small|(printed *Vana Mardel*)}}.[@fm17-heith, fm18-heith] She and [[amid|Amid Teasanare]] of [[dian-cecht-familia|Dian Cecht Familia]] are known as [[orario|Orario]]'s two great healers, the golden witch and the silver saint.[@fm18-heith, ss01-healers] Two of the Andhrímnir are named in DanMachi 18: before the Familia War begins Heith tells [[minor-characters#rona|Rona]] and [[minor-characters#ilde|Ilde]] {{small|printed *Ilda*}} to support her, and while healing [[hegni|Hegni]] she calls, "Rona! You and the others tend to the Einherjar!"; the Japanese writes this *Rona* over the word for *deputy*.[@fm18-rona, fm18-rona2]
 
 ## Background
 

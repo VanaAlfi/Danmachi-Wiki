@@ -138,7 +138,7 @@ Some spells are known only from a sheet; a search of the story text did not find
 | [[#astrea-record-spell|Astrea Record (spell)]] | Lyu Leon | Use of dead companions' magic[@astrea-record-spell.fc03-nature] | Astrea Record. Duty shall be fulfilled, and scales shall be balanced. Bastion of order, crown of the righteous, vanquishing torch. In the goddess’s name, racing across the sky, bind the star trails to this land. —Justice will go on!![@astrea-record-spell.fc03-cast] *Other printed wording is recorded below.* |
 | [[#agris-arvensis|Agris Arvensis]] | Alize Lovell; Lyu Leon | Fire enchantment[@agris-arvensis.fm14-alize] | "Alga" *(Alize's Status sheet; spoken three times in Astrea Record 3).* Name printed "Agallis Arvesynce", "Agris Arvensis" or "Agaris Alvesince"; spell key "Arvellia" / "Alveria" / "Arveria", one word in the Japanese[@agris-arvensis.ar03-sheet, agris-arvensis.ar03-alga, agris-arvensis.ar03-alize, agris-arvensis.fc03-lyu, agris-arvensis.fm14-alize, agris-arvensis.fm18-hegni, agris-arvensis.fm18-ottar, agris-arvensis.ar03-key-ja] |
 | [[#gokou|Gokou]] | [[gojouno-kaguya|Gojouno Kaguya]]; Lyu Leon | Magic slashes at set positions[@gokou.fm18-ottar] | *None printed under this name; named at the end of Astrea Record. It is the Five Lights spell, whose ultrashort chant Astrea Record 3 prints*[@gokou.fc03-lyu, gokou.fm18-ottar, gokou.ar03-five] |
-| [[#rea-vindemia|Rea Vindemia]] | Maryu; Lyu Leon | Area healing[@rea-vindemia.fm18-lyu] | *None printed; named at the end of Astrea Record*[@rea-vindemia.ar03-maryu, rea-vindemia.fm18-lyu] |
+| [[#rea-vindemia|Rea Vindemia]] | [[minor-characters#maryu|Maryu]]; Lyu Leon | Area healing[@rea-vindemia.fm18-lyu] | *None printed; named at the end of Astrea Record*[@rea-vindemia.ar03-maryu, rea-vindemia.fm18-lyu] |
 | [[#adi-varma-spells|Ghana Avimutta]] | Adi Varma | Restraint; lowers abilities[@ardee-varma-spells.ar02-sheet] | *Not printed (known only from a Status sheet)*[@ardee-varma-spells.ar02-sheet] |
 | [[#adi-varma-spells|Dia Kaumudi]] | Adi Varma | Recovery; briefly raises stats[@ardee-varma-spells.ar02-sheet] | *Not printed (known only from a Status sheet)*[@ardee-varma-spells.ar02-sheet] |
 | [[#cinder-ella|Cinder Ella]] | Lilliluka Erde | Transformation (shape-shifting)[@cinder-ella.fm15-card] | "Your scars are mine. My scars are mine." Release: "Stroke of midnight’s bell."[@cinder-ella.fm08-card, cinder-ella.fm15-card, cinder-ella.fm11-chase, cinder-ella.fm15-activation, cinder-ella.so12-finn, cinder-ella.ss01-activation, cinder-ella.fm02-release, cinder-ella.fm05-release] |
@@ -781,7 +781,7 @@ In Sword Oratoria 1 the narration marks the chant as complete ("Her spell comple
 
 - Countless burning bolts fall from above, pierce and ignite every monster in the room, and those that miss blast the ground and tear up the bedrock. Nothing is left of the monsters, not even ash.[@fusillade-fallarica.so01-room]
 - Casting it summons a golden magic circle at her feet, which grows more complex with each syllable. The narration ties this to her Development Ability Conjure, which increases magic strength, range and Mind efficiency.[@fusillade-fallarica.so01-room]
-- It serves as long-range bombardment: in Sword Oratoria 9's opening she fires it at an advancing Rakian formation.[@fusillade-fallarica.so09-rakia] [[lyu-leon|Lyu]]'s [[#luminous-wind|Luminous Wind]] is compared to it.[@fusillade-fallarica.so05-compare]
+- It serves as long-range bombardment: in Sword Oratoria 9's opening she fires it at an advancing [[rakia|Rakian]] formation.[@fusillade-fallarica.so09-rakia] [[lyu-leon|Lyu]]'s [[#luminous-wind|Luminous Wind]] is compared to it.[@fusillade-fallarica.so05-compare]
 
 #### Limits {#fusillade-fallarica-limits}
 
@@ -1684,7 +1684,7 @@ No chant of its own is printed. Maryu calls out only the name in Astrea Record 3
 
 #### Effect {#rea-vindemia-effect}
 
-- **Maryu's cast:** in Astrea Record 3 its curative light envelops Lyu and the wounded front-liners Asta and Noin at once.[@rea-vindemia.ar03-maryu]
+- **Maryu's cast:** in Astrea Record 3 its curative light envelops Lyu and the wounded front-liners [[minor-characters#asta|Asta]] and [[minor-characters#noin|Noin]] at once.[@rea-vindemia.ar03-maryu]
 - **Lyu's cast:** in DanMachi 18 a purple starlight reaches as far as [[bell-cranell|Bell]] and heals everyone a little. Lyu relies on it because her own [[#noa-heal|Noa Heal]] targets only one person and, though powerful, is slow.[@rea-vindemia.fm18-lyu]
 
 #### Notable uses {#rea-vindemia-notable-uses}
@@ -2243,7 +2243,7 @@ Filvis teaches Lefiya its effects and its chant so that Lefiya can summon it wit
 
 | Volume | Use |
 |---|---|
-| Sword Oratoria 4 | On the Floor 59 expedition Lefiya throws it up against a corrupted spirit's lightning. The barrier cracks, and [[hyrute-sisters|Tiona and Tione]] brace it with their weapons.[@dio-grail.so04-floor59] |
+| Sword Oratoria 4 | On the [[floor-59|Floor 59]] expedition Lefiya throws it up against a corrupted spirit's lightning. The barrier cracks, and [[hyrute-sisters|Tiona and Tione]] brace it with their weapons.[@dio-grail.so04-floor59] |
 | Sword Oratoria 5 | Lefiya thanks Filvis: at the end of the battle on the fifty-ninth floor her summoned Dio Grail blocked the corrupted spirit's attack, and "if it weren’t for your magic, neither I nor the others would be standing here".[@dio-grail.so05-saved] |
 | Astrea Record 3 | In the Great Conflict, Filvis shields her companions from a volley of fire; the barrier creaks but holds.[@dio-grail.ar03-filvis] |
 | Sword Oratoria 12 | In the final clash Lefiya answers Filvis's black [[#dio-thyrsos|Dio Thyrsos]] with Dio Grail, "Filvis's magic", a spell that "protected the user from any obstacle".[@dio-grail.so12-final] |

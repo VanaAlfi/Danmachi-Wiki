@@ -68,7 +68,7 @@ In DanMachi 8 he refuses the money Mikoto brings for the shrine and tells her to
 | DanMachi 6 | At Apollo's party he dances with Mikoto and coaches Bell and [[aiz-wallenstein|Aiz]]: "No techniques are necessary, only advance and retreat."[@fm06-dance] |
 | DanMachi 7 | Joins Hestia in the search for Bell and Mikoto in the [[pleasure-quarter|Pleasure Quarter]]. After Haruhime's rescue he offers her a way back to the Far East and its shrine; she thanks him and stays.[@fm07-search, fm07-reunion] |
 | DanMachi 11 | Does not tell Ouka and Chigusa about the [[xenos|Xenos]], knowing the strife they would cause; with [[miach|Miach]], he chooses to help Bell, who is trying to save the Xenos.[@fm11-xenos, fm11-trust] |
-| Sword Oratoria 12 | Hermes recalls that, around the time of Rakia's attack, Takemikazuchi told him something about [[demeter|Demeter]] was off, though he "couldn’t understand a woman’s heart".[@so12-demeter] |
+| Sword Oratoria 12 | Hermes recalls that, around the time of [[rakia|Rakia]]'s attack, Takemikazuchi told him something about [[demeter|Demeter]] was off, though he "couldn’t understand a woman’s heart".[@so12-demeter] |
 | Minor Myths and Legends 1 | Mikoto throws Bell with a move called the Mikazuchi, and [[welf-crozzo|Welf]] asks who teaches such a move to a woman.[@ss01-mikazuchi] |
 
 [@fm01-poor]: FM01 | Chapter 4: That’s Why I Want to Help | "It’s the head of the dirt-poor Familia, Takemikazuchi!"; "the guy who has so little money every year his face is caving in".

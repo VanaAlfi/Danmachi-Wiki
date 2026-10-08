@@ -64,7 +64,7 @@ When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break"
 | Astrea Record 1 | Already captain, she is pressed for more magic swords by the adventurers holding the line, and launches a fireball from one herself.[@ar01-captain] |
 | Astrea Record 3 | Charges the spirit warriors with a sword in each hand.[@ar03-swords] The shield with which [[lyra|Lyra]] attacks [[alfia|Alfia]], able to "steal any magic spell", was a joint work: "Perseus worked together with that Cyclops to make it happen."[@ar03-shield] |
 | Sword Oratoria 4 | Accompanies Loki Familia's expedition with Hephaistos Familia's smiths.[@so04-tsubaki] |
-| DanMachi 8 | Helps [[rivira|Rivira]]'s adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of [[ares-familia#kingdom-of-rakia|Rakia]]'s infiltrators.[@fm08-goliath, fm08-tsubaki] |
+| DanMachi 8 | Helps [[rivira|Rivira]]'s adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of [[rakia|Rakia]]'s infiltrators.[@fm08-goliath, fm08-tsubaki] |
 | DanMachi 11 | Sent by [[hephaistos|Hephaistos]] to help Welf and his Familia rescue the [[xenos|Xenos]]; in the smoke she seems to go after [[gareth|Gareth]] alone.[@fm11-cyclops, fm11-gareth] |
 | Sword Oratoria 10 | Covertly supports the Xenos' escape with ice magic swords.[@so10-tsubaki] |
 | Sword Oratoria 12 | Represents Hephaistos Familia at the war council and fights in Gareth's third squad.[@so12-xenos, so12-squad] |

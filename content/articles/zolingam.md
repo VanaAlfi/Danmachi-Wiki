@@ -69,7 +69,7 @@ Solingen was reportedly founded where it is because spirits lived there, and spi
 
 | Volume | Events |
 |---|---|
-| DanMachi 15 | After Welf leaves Rakia, [[hephaistos|Hephaistos]], visiting a Solingen smithy on a contract, sees a redheaded boy who works there for room and board. He gives his name as Welf, and she invites him to join her Familia.[@fm15-welf] |
+| DanMachi 15 | After Welf leaves [[rakia|Rakia]], [[hephaistos|Hephaistos]], visiting a Solingen smithy on a contract, sees a redheaded boy who works there for room and board. He gives his name as Welf, and she invites him to join her Familia.[@fm15-welf] |
 | Familia Chronicle 3 | Five years after Astrea's arrival, Lyu reaches Solingen to have her Status updated. Astrea releases her stored [[excelia|excelia]] in stages, keeps her there to adjust, and has Cecille finish her weapon.[@fc03-home, fc03-stages, fc03-reason] |
 | DanMachi 18 | Lyu reaches Solingen with the help of Hermes and [[asfi|Asfi]]. Her wooden sword [[equipment#alvs-lumina|Alvs Lumina]] is reborn as the stardust sword [[equipment#alvs-iustitia|Alvs Iustitia]]. Lyu, Astrea and the new followers then return to Orario for the Familia War.[@fm18-east, fm18-greatest, fm18-return] |
 | DanMachi 19 | Lyu escorts Astrea back to Solingen, which she calls "that final act of familial piety".[@fm19-escort] |

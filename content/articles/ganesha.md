@@ -81,7 +81,7 @@ At the [[war-game|War Game]] of DanMachi 6 Ganesha joins his follower Ibly Arche
 
 ## Hestia at the gate
 
-In DanMachi 8, while Ganesha Familia is called out against Rakia, Ganesha rides up to the north gate and lets Hestia through to fetch herbs for [[jyaga-maru-kun|Jyaga Maru Kun]] on his own authority, over his bodyguards' protests.[@fm08-gate] When Rakia's soldiers capture her, Loki berates him and tells him to go and get a grilling from the Guild; he then leads the merchants and citizens away from the staging area.[@fm08-loki, fm08-evacuate]
+In DanMachi 8, while Ganesha Familia is called out against [[rakia|Rakia]], Ganesha rides up to the north gate and lets Hestia through to fetch herbs for [[jyaga-maru-kun|Jyaga Maru Kun]] on his own authority, over his bodyguards' protests.[@fm08-gate] When Rakia's soldiers capture her, Loki berates him and tells him to go and get a grilling from the Guild; he then leads the merchants and citizens away from the staging area.[@fm08-loki, fm08-evacuate]
 
 ## The dark age
 

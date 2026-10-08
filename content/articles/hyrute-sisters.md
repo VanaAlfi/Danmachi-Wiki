@@ -9,6 +9,9 @@
   "aliases": ["Tiona Hyrute", "Tione Hyrute", "Hyrute sisters", "Amazon the Slasher", "Jormungand"],
   "spoilers": "DanMachi Vols. 2–17, Sword Oratoria Vols. 1, 2, 4–7 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "finn-deimne", "bell-cranell", "xenos", "wiene", "magic"],
+  "sections": [
+    {"anchor": "seldas", "title": "Seldas", "summary": "The Amazon of Telskyura who cared for the young Tione like an older sister and was killed by her in one of Kali Familia's rites.", "aliases": []}
+  ],
   "infobox": {
     "title": "Tiona and Tione Hyrute",
     "image_note": "No suitable official image has been chosen for this page yet.",
@@ -29,11 +32,11 @@
 
 ## Tiona
 
-Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by [[goibniu-familia|Goibniu Familia]].[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the [[intelligent-monsters|intelligent monsters]] are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters] Her title is printed *Amazon the Slasher* (DanMachi 11) and, in DanMachi 10's roll of "Orario’s strongest adventurers", simply *Amazon*.[@fm11-slasher, fm10-titles] In Minor Myths and Legends 2 she haggles with Lulu, an Amazon stall owner, to get a boy a fair price for his old equipment: "Three hundred thousand!!"[@ss02-lulu]
+Tiona loved heroic stories as a child; books were her refuge.[@ss02-tiona] Her weapon is [[urga|Urga]], a giant double-bladed sword made for her by [[goibniu-familia|Goibniu Familia]].[@so01-urga, so02-urga] In DanMachi 6 she helps [[aiz-wallenstein|Aiz]] train [[bell-cranell|Bell]] for a week before the [[war-game|War Game]], bringing food and weapons and teaching him endurance and how to fight people.[@fm06-tiona] In DanMachi 11 she sees the [[xenos|Xenos]] girl [[wiene|Wiene]] save a child from a collapsing building, decides the [[intelligent-monsters|intelligent monsters]] are different, and lets Wiene escape.[@fm11-tiona] In Sword Oratoria 6 she defeats [[kali-familia#bache-kalif|Bache]] but refuses to kill her.[@so06-sisters] Her title is printed *Amazon the Slasher* (DanMachi 11) and, in DanMachi 10's roll of "Orario’s strongest adventurers", simply *Amazon*.[@fm11-slasher, fm10-titles] In Minor Myths and Legends 2 she haggles with [[minor-characters#lulu|Lulu]], an Amazon stall owner, to get a boy a fair price for his old equipment: "Three hundred thousand!!"[@ss02-lulu]
 
 ## Tione
 
-Tione is one of Loki Familia's executives under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed Seldas and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione] Her title is *Jormungand*: "Tione Hyrute—the Jormungand."[@so04-jormungand, fm10-titles]
+Tione is one of Loki Familia's executives under [[finn-deimne|Finn]], whom she openly pursues.[@fm08-tione] At five she killed [[#seldas|Seldas]] and reached Level 2.[@so06-tione] In Sword Oratoria 6 Finn stops the rite she is caught in and defeats [[kali-familia#argana-kalif|Argana]].[@so06-tione] In Sword Oratoria 7 her Skill [[skills#berserk|Berserk]] reverses the effect of stacked weakening spells, and her magic [[#restrict-iorum|Restrict Iorum]] binds the monster [[corrupted-spirit#gugalanna|Gugalanna]].[@so07-tione] Her title is *Jormungand*: "Tione Hyrute—the Jormungand."[@so04-jormungand, fm10-titles]
 
 ## Together
 
@@ -44,6 +47,16 @@ Both sisters have the Skill **[[skills#berserk|Berserk]]**, which raises their a
 In Sword Oratoria 7 Tiona combines her own Skills and cuts through Gugalanna's legs while Tione binds it.[@so07-tiona, so07-tione] In DanMachi 17, after [[freya|Freya]]'s charm is broken, they fight [[hegni|Hegni]] with Aiz and [[lyu-leon|Lyu]].[@fm17-sisters]
 
 {{nocite}} Related magic: Argana's curse [[magic#kalima|Kalima]] and Bache's poison enchantment [[magic#velgas|Velgas]], used against Tione and Tiona in Sword Oratoria 6.
+## Seldas {#seldas}
+
+**Seldas** ({{ja|セルダス}}) was an [[races#amazon|Amazon]] of [[telskyura|Telskyura]] who cared for Tione and was killed by her in a rite.[@so06-care, so06-seldas-ja] She tended Tione's wounds and slept beside her, and was an important person who had acted as an older sister to her.[@so06-care]
+
+### History {#seldas-history}
+
+| Volume | Events |
+|---|---|
+| Sword Oratoria 6 | Tione killed Seldas in one of the rites associated with [[kali-familia|Kali Familia]], then removed her opponent's mask and recognized her.[@so06-care] The girls had misunderstood why they had not fought their roommates before: the rites waited until bonds formed, then required them to kill people they loved.[@so06-rite] On Tiona's fifth birthday, she found Tione alone and learned that she had fought Seldas.[@so06-birthday] Tiona had been fond of Seldas and trusted her more than anyone except Tione, but was relieved that her sister had survived.[@so06-birthday] Tione struck Tiona for expressing relief, then cried in anger and grief.[@so06-tears] Seeing those tears made Tiona resolve to protect her sister, and she later asked [[kali|Kali]] to let her replace Tione in rites against their roommates.[@so06-protect] Later, [[kali-familia|Argana]]'s reference to Seldas's death sent Tione into a rage.[@so06-taunt] |
+
 ## Magic {#magic}
 
 {{nocite}} Tione's spell, with its incantation as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
@@ -112,3 +125,10 @@ A bluish-purple whip of light forms in her hand and strikes like a snake, wrappi
 [@so04-jormungand]: SO04 | Last Chapter: To Adventure | "Tione Hyrute—the Jormungand."
 [@ss02-lulu]: SS02 | My Memory | "The stall owner’s name turned out to be Lulu, and she refused to budge on the price."; Tiona: "Three hundred thousand!!"
 [@fm10-hyrute-ja]: FM10 | | The Japanese edition prints both names in katakana and writes the sisters' titles in kanji meaning great severing (Tiona, read Amazon) and angry serpent (Tione, read Jormungand); the infobox gives the printed names and the kanji.
+[@so06-care]: SO06 | Chapter 3: Kingdom of the Amazons | Tione unmasks the Amazon she killed, identifying Seldas, who cared for her.
+[@so06-seldas-ja]: SO06 | Chapter 3: Kingdom of the Amazons | The Japanese edition writes {{ja|セルダス}}, Seldas (file c2F8, paragraphs 110 and 166).
+[@so06-rite]: SO06 | Chapter 3: Kingdom of the Amazons | Rites pair loved roommates to manufacture warriors; Tione’s grief.
+[@so06-birthday]: SO06 | Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light | Tiona learns who died on her fifth birthday; closeness and relief. The Japanese edition (file c34V, paragraphs 12 and 17) has Tiona fond of Seldas, the one she trusted most apart from Tione; the English prints "Besides her sister, Seldas had been easily the most generous and kind of anyone she’d ever known".
+[@so06-tears]: SO06 | Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light | Tiona’s relief provokes a blow; Tione’s tears and worsening behavior.
+[@so06-taunt]: SO06 | Chapter 3: Kingdom of the Amazons | Argana invokes Seldas’s death, provoking Tione’s rage.
+[@so06-protect]: SO06 | Chapter 5: A Duo of Sun and Moon | Tiona’s resolve to protect her sister leads to replacing her in rites.

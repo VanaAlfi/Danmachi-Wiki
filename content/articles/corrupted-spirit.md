@@ -32,7 +32,7 @@
   }
 }
 ---
-The **corrupted spirit** is a spirit of the Ancient Times that went down into the [[dungeon|Dungeon]], was presumably consumed by a monster, and has kept its own will for over a thousand years as a monster itself.[@so04-ouranos] The creatures who serve it call it "Her".[@so03-olivas, so06-her] Its crystal-orb fetuses feed on monsters and grow into **demi-spirits** ({{ja|精霊の分身}}, written *the spirit's alter ego*), half-spirit and half-monster hybrids that can cast magic.[@so04-finn, so05-demi, so04-demi-ja] [[loki-familia|Loki Familia]] fights one on Floor 59 in Sword Oratoria 4. In Sword Oratoria 11–12 Enyo, the god [[dionysus|Dionysus]], uses seven in [[knossos|Knossos]] in a plan to erase [[orario|Orario]].[@so04-titan, so12-heavens-gate, so12-nidhogg]
+The **corrupted spirit** is a spirit of the Ancient Times that went down into the [[dungeon|Dungeon]], was presumably consumed by a monster, and has kept its own will for over a thousand years as a monster itself.[@so04-ouranos] The creatures who serve it call it "Her".[@so03-olivas, so06-her] Its crystal-orb fetuses feed on monsters and grow into **demi-spirits** ({{ja|精霊の分身}}, written *the spirit's alter ego*), half-spirit and half-monster hybrids that can cast magic.[@so04-finn, so05-demi, so04-demi-ja] [[loki-familia|Loki Familia]] fights one on [[floor-59|Floor 59]] in Sword Oratoria 4. In Sword Oratoria 11–12 Enyo, the god [[dionysus|Dionysus]], uses seven in [[knossos|Knossos]] in a plan to erase [[orario|Orario]].[@so04-titan, so12-heavens-gate, so12-nidhogg]
 
 ## The spirits of old
 
@@ -60,7 +60,7 @@ Its colourful monsters, the caterpillars and the [[monsters#violas|violas]], att
 
 ### Floor 59 {#floor-59}
 
-On Floor 59 Loki Familia finds a woman with a giant plant-like lower half: Riveria thinks it has absorbed a titan alm, the deep-level Corpse Flower King. Caterpillars and violas offer it the magic stones on their tongues, then rot to ash.[@so04-titan] It laughs and calls Aiz "Aria", asking whether she won't let it eat her.[@so04-aria] Its spells include Fire Storm and Thunder Ray.[@so04-spells] [[riveria|Riveria]]'s [[magic#rea-laevateinn|Rea Laevateinn]] burns away its armour of ten petals, and Aiz's wind-driven sword cuts it in two.[@so04-rea, so04-aiz] Loki Familia barely wins.[@so04-finn] The terms overlap in the text: Sword Oratoria 4 calls the creature on Floor 59 the corrupted spirit, and Sword Oratoria 5 calls the same fiend both the "corrupted spirit" and a demi-spirit, while Ouranos concludes that the spirit's main body lies deeper.[@so04-ouranos, so05-demi, so04-main]
+On [[floor-59|Floor 59]] Loki Familia finds a woman with a giant plant-like lower half: Riveria thinks it has absorbed a titan alm, the deep-level Corpse Flower King. Caterpillars and violas offer it the magic stones on their tongues, then rot to ash.[@so04-titan] It laughs and calls Aiz "Aria", asking whether she won't let it eat her.[@so04-aria] Its spells include Fire Storm and Thunder Ray.[@so04-spells] [[riveria|Riveria]]'s [[magic#rea-laevateinn|Rea Laevateinn]] burns away its armour of ten petals, and Aiz's wind-driven sword cuts it in two.[@so04-rea, so04-aiz] Loki Familia barely wins.[@so04-finn] The terms overlap in the text: Sword Oratoria 4 calls the creature on Floor 59 the corrupted spirit, and Sword Oratoria 5 calls the same fiend both the "corrupted spirit" and a demi-spirit, while Ouranos concludes that the spirit's main body lies deeper.[@so04-ouranos, so05-demi, so04-main]
 
 ### Gugalanna, the Bull of Heaven {#gugalanna}
 

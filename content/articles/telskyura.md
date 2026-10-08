@@ -34,7 +34,7 @@ Its warriors travel by sea. In Sword Oratoria 6 Kali Familia comes to [[njordr-f
 
 ## The country
 
-Loki compares it to [[ares|Ares]]'s kingdom of Rakia: "A nation-state familia".[@so06-where] The only men allowed in the country are slaves or those kept for breeding.[@so06-where] Riveria has heard that no day passes there without battle cries and cheering crowds, and that its people possess an incredible capacity for war.[@so06-power]
+Loki compares it to [[ares|Ares]]'s [[rakia|kingdom of Rakia]]: "A nation-state familia".[@so06-where] The only men allowed in the country are slaves or those kept for breeding.[@so06-where] Riveria has heard that no day passes there without battle cries and cheering crowds, and that its people possess an incredible capacity for war.[@so06-power]
 
 - **The Falna from birth.** Its girls are christened children of their goddess from the moment they are born, and it was said that they knew how to kill a goblin before they could speak.[@so06-girls]
 - **The rites.** To be respected in Telskyura one had to be a "true warrior", and the rites, the daily fights to the death in the arena against captured monsters and fellow warriors, are "a time-honored national custom". Survivors are known simply as True Warriors; the inhabitants receive no aliases, with one exception, Argana's *Kalima*.[@so06-rites, so06-alias] See [[kali-familia|Kali Familia]].

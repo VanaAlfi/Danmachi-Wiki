@@ -6,11 +6,11 @@
   "reviewed": "2026-10-05",
   "continuity": "light-novel",
   "summary": "The Familia of Ares, the God of War: the Kingdom of Rakia, a monarchy in the west of the continent that is really a nation-sized Familia, with vassal-gods to bless its hundred thousand soldiers. Its conquests rested on Crozzo magic swords; its crown prince Marius is the Familia's second-in-command.",
-  "aliases": ["Rakia", "Kingdom of Rakia", "Rakian army"],
+  "aliases": [],
   "spoilers": "DanMachi Vols. 4, 6, 8, 15 and 19 and Sword Oratoria Vols. 5, 6 and 9",
   "related": ["ares", "welf-crozzo", "magic-sword", "kali-familia", "telskyura", "asfi", "beor-mountains", "edas-village"],
   "sections": [
-    {"anchor": "kingdom-of-rakia", "title": "Kingdom of Rakia", "summary": "A militant monarchy in the west of the main continent with at least 600,000 people, in reality a nation-sized Familia ruled by Ares. Its armies once conquered with Crozzo magic swords.", "aliases": ["Rakia", "Barva"]},
+    {"anchor": "kingdom-of-rakia", "title": "Kingdom of Rakia", "summary": "A militant monarchy in the west of the main continent with at least 600,000 people, in reality a nation-sized Familia ruled by Ares. Its armies once conquered with Crozzo magic swords.", "aliases": []},
     {"anchor": "marius-victrix-rakia", "title": "Marius Victrix Rakia", "summary": "Crown prince of Rakia, son of King Martinus and Ares Familia's second-in-command, who would rather be an adventurer in Orario and spends the invasion trying to talk his god into going home.", "aliases": ["Marius"]}
   ],
   "infobox": {
@@ -33,7 +33,7 @@
 
 ## Kingdom of Rakia {#kingdom-of-rakia}
 
-Rakia is a monarchy on the western side of the main continent, with at least 600,000 people. A great castle stands at the centre of its largest settlement, the land is fertile, and it is a military state with a barbarous side.[@fm08-rakia] Its capital is Barva.[@fm15-ball, fm15-light]
+[[rakia|Rakia]] is a monarchy on the western side of the main continent, with at least 600,000 people. A great castle stands at the centre of its largest settlement, the land is fertile, and it is a military state with a barbarous side.[@fm08-rakia] Its capital is Barva.[@fm15-ball, fm15-light]
 
 In reality the kingdom is a Familia on the scale of a country. Every soldier bears Ares's Falna, the subjects who run its industries are its noncombatants, and Ares, its one and only [[patron-deity|patron god]], has chosen every king in its history. The country grew from Ares and a handful of followers.[@fm08-rakia] Sword Oratoria 9 calls it "nominally a militant monarchy", headed in fact by Ares and Ares Familia.[@so09-rakia] [[loki|Loki]] compares [[kali-familia|Kali]]'s rule of [[telskyura|Telskyura]] to "Ares and Rakia", a nation-state Familia.[@so06-kali]
 

@@ -8,7 +8,7 @@
   "summary": "Floor 58 of the Dungeon is a single hall in the deep levels, at the bottom of the Dragon's Urn.",
   "aliases": ["Fifty-eighth Floor"],
   "spoilers": "Sword Oratoria Vols. 4, 7, 12",
-  "related": ["dungeon", "floor-52", "monsters", "loki-familia", "finn-deimne", "lefiya", "gareth"],
+  "related": ["dungeon", "floor-52", "floor-59", "monsters", "loki-familia", "finn-deimne", "lefiya", "gareth"],
   "infobox": {
     "title": "Floor 58",
     "image_note": "No suitable official image has been chosen for this page yet.",

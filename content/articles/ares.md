@@ -21,12 +21,12 @@
       {"label": "Domain", "value": "War: \"the god of the military, otherwise known as the God of War\"", "refs": ["fm08-ares"]},
       {"label": "Appearance", "value": "Golden hair like a lion's mane, red eyes, red armour", "refs": ["fm08-ares", "fm08-gate"]},
       {"section": "Familia"},
-      {"label": "Familia", "value": "[[ares-familia|Ares Familia]]: the [[ares-familia#kingdom-of-rakia|Kingdom of Rakia]]", "refs": ["fm08-rakia", "so09-rakia"]}
+      {"label": "Familia", "value": "[[ares-familia|Ares Familia]]: the [[rakia|Kingdom of Rakia]]", "refs": ["fm08-rakia", "so09-rakia"]}
     ]
   }
 }
 ---
-**Ares** is the God of War and the [[patron-deity|patron god]] of the [[ares-familia#kingdom-of-rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia, [[ares-familia|Ares Familia]].[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
+**Ares** is the God of War and the [[patron-deity|patron god]] of the [[rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia, [[ares-familia|Ares Familia]].[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
 
 ## Ares
 
@@ -34,7 +34,7 @@ Ares has golden hair as thick as a lion's mane, red eyes and stark red armour, a
 
 ## Ares Familia {#familia}
 
-Ares is the one and only patron god of Rakia and has chosen every king in its history; every soldier bears his Falna.[@fm08-rakia] The [[ares-familia#kingdom-of-rakia|kingdom]], its vassal-gods, its [[ares-familia#wars-and-the-crozzo-magic-swords|wars with Crozzo magic swords]] and its crown prince [[ares-familia#marius-victrix-rakia|Marius]] are described on [[ares-familia|Ares Familia]].
+Ares is the one and only patron god of Rakia and has chosen every king in its history; every soldier bears his Falna.[@fm08-rakia] The [[rakia|kingdom]], its vassal-gods, its [[ares-familia#wars-and-the-crozzo-magic-swords|wars with Crozzo magic swords]] and its crown prince [[ares-familia#marius-victrix-rakia|Marius]] are described on [[ares-familia|Ares Familia]].
 
 ## The Sixth Orario Invasion {#sixth-orario-invasion}
 

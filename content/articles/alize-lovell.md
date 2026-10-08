@@ -57,7 +57,7 @@ When Alize brings Lyu home, Kaguya and Lyra greet them, one asking whether she h
 
 ### Captain
 
-In Astrea Record 1 she gives the orders in the field, leads the evening debrief and lifts the others' spirits; Maryu says that this is the Alize they followed.[@ar01-factory, ar01-meeting] She attends the Guild's council of Familia leaders with Kaguya.[@ar01-council] She is a close friend of [[shakti-varma|Shakti Varma]], captain of [[ganesha-familia|Ganesha Familia]].[@ar01-shakti] When the Evils overrun a district in Astrea Record 2, [[finn-deimne|Finn]] calls on "Astrea Familia… Alize Lovell!" to answer.[@ar02-finn]
+In Astrea Record 1 she gives the orders in the field, leads the evening debrief and lifts the others' spirits; [[minor-characters#maryu|Maryu]] says that this is the Alize they followed.[@ar01-factory, ar01-meeting] She attends the Guild's council of Familia leaders with Kaguya.[@ar01-council] She is a close friend of [[shakti-varma|Shakti Varma]], captain of [[ganesha-familia|Ganesha Familia]].[@ar01-shakti] When the Evils overrun a district in Astrea Record 2, [[finn-deimne|Finn]] calls on "Astrea Familia… Alize Lovell!" to answer.[@ar02-finn]
 
 She hides her own doubts from the others. As a captain and "a second-class adventurer", Astrea Record 2 says, she could not let anyone see her struggles; she tells Astrea that "the serious me" comes out only when she is alone.[@ar02-poverty, ar02-astrea]
 

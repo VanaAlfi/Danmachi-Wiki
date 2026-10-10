@@ -17,13 +17,13 @@
       {"label": "Japanese", "value": "{{ja|大型級}}, written *large class*; the largest are {{ja|超大型級}}, *super-large class*", "refs": ["fm02-large-ja", "fm14-amphisbaena"]},
       {"label": "Also printed", "value": "*large-class*; for the largest, *extreme large-category*, *ultra-large-class* and *super-large-class*", "refs": ["fm08-bugbear", "fm13-examples", "fm14-amphisbaena", "so12-preparation"]},
       {"label": "First met", "value": "From [[upper-levels#floors-10-12|Floor 10]]", "refs": ["fm02-orcs"]},
-      {"label": "Fighting them", "value": "Hit the legs and bring them down, as with floor bosses", "refs": ["fm08-barbarian"]},
+      {"label": "Fighting them", "value": "Hit the legs and bring them down, as with floor bosses", "refs": ["fm08-legs"]},
       {"label": "Largest", "value": "Extreme large-category: [[lambton|Lambton]], the [[amphisbaena|Amphisbaena]]", "refs": ["fm13-examples", "fm14-amphisbaena"]}
     ]
   }
 }
 ---
-**Large-category** describes monsters including [[monsters#orc|orcs]], the [[minotaur|Minotaur]] and [[monsters#barbarian|barbarians]].[@fm02-orcs, fm03-minotaur, fm08-barbarian] [[bell-cranell|Bell Cranell]] describes large-category monsters as appearing on [[upper-levels#floors-10-12|Floor 10]] and encounters an orc in his first large-category battle.[@fm02-orcs] A strategy for fighting large-category monsters and [[monster-rex|floor bosses]] is to hit their legs and bring them down.[@fm08-barbarian]
+**Large-category** describes monsters including [[monsters#orc|orcs]], the [[minotaur|Minotaur]] and [[monsters#barbarian|barbarians]].[@fm02-orcs, fm03-minotaur, fm08-barbarian] [[bell-cranell|Bell Cranell]] describes large-category monsters as appearing on [[upper-levels#floors-10-12|Floor 10]] and encounters an orc in his first large-category battle.[@fm02-orcs] A strategy for fighting large-category monsters and [[monster-rex|floor bosses]] is to hit their legs and bring them down.[@fm08-legs] They are normally slow: the [[juggernaut|Juggernaut]], a large-category monster three meders tall (the English prints "three meders long"), owes its slaughter of adventurers to a speed such monsters normally lack.[@fm13-juggernaut-speed]
 
 ## Examples by volume {#examples-by-volume}
 
@@ -43,7 +43,7 @@
 [@fm02-orcs]: FM02 | Chapter 5: Reset | The appearance from floor ten and Bell's first large-category fight against an orc.
 [@fm03-minotaur]: FM03 | Chapter 2: Ox and Hare Special Training | A Minotaur described as large-category with a bull's head and human body.
 [@fm04-bloodsaurus]: FM04 | Quest X Quest | The encountered bloodsaurus is identified as large-category.
-[@fm08-barbarian]: FM08 | | Leg-targeting strategy and the barbarian's size and Guild level estimate. The Japanese edition (file part0027, paragraph 716) gives the Guild's estimated Level, 3 to 4; the English prints "the Guild classifies them as Level 3—or even 4".
+[@fm08-barbarian]: FM08 | Chapter 5: The City Girl's Secret | The barbarian's size and Guild level estimate. The Japanese edition (file part0027, paragraph 716) gives the Guild's estimated Level, 3 to 4; the English prints "the Guild classifies them as Level 3—or even 4".
 [@fm09-examples]: FM09 | Chapter 5: Heretics | Battle boar and Fomoire identified as large-category. The Japanese edition (file c4T8, paragraph 282) gives the battle boar a body length of as much as two meders.
 [@fm10-vouivre]: FM10 | Chapter 10: The Fool | A vouivre identified as a rare large-category monster.
 [@fm12-serpent]: FM12 | Chapter 3: New World ~Water Island~ | Aqua serpent identified as large-category.
@@ -53,3 +53,5 @@
 [@fm14-amphisbaena]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Amphisbaena is described as ultra-large-class ({{ja|超大型級}}).
 [@so12-preparation]: SO12 | Chapter 7: Final War II | Lilliluka asks Welf and Mikoto to ready equipment against a super-large-class monster.
 [@fm02-large-ja]: FM02 | Chapter 5: Reset | The Japanese edition writes the term in kanji meaning large class (file c5J8, paragraph 56).
+[@fm08-legs]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "There was one strategy for taking on large-category monsters and floor bosses: hit them low, bring them down."
+[@fm13-juggernaut-speed]: FM13 | Chapter 5: Calamity Arrives | "measured three meders long" (the Japanese edition, file c56X, paragraph 10, gives three meders as its height); "There was no question this was a large-category monster."; "Normally, large-category monsters could not move this fast."

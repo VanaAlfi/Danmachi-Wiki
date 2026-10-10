@@ -43,7 +43,7 @@ It has to be worn to work. Against Remisto Felis, [[allen-fromel|Allen]] covers 
 
 ## History
 
-Astrea Record 3 describes the modification during the [[great-conflict|Great Conflict]].[@ar03-lyre] DanMachi 18 recalls that it was made against a sound-using enemy in the Dark Age, and that [[lyu-leon|Lyu]] kept a pair among the mementos of her comrades.[@fm18-lyra]
+Astrea Record 3 describes the modification during the [[great-conflict|Great Conflict]].[@ar03-lyre] There [[gareth|Gareth]], [[lyu-leon|Lyu]] and [[aiz-wallenstein|Aiz]] each wear one, "a small purple piercing in the shape of a miniature harp" hanging from the ear, and stagger back to their feet after a spell from [[alfia|Alfia]] that would otherwise end the battle.[@ar03-lyre-worn] DanMachi 18 recalls that it was made against a sound-using enemy in the Dark Age, and that [[lyu-leon|Lyu]] kept a pair among the mementos of her comrades.[@fm18-lyra]
 
 After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Benevolent Mistress]] asked for the accessory to be mass-produced. In the [[war-game|War Game]], the fighters equipped with it are not weakened by Remisto Felis, and turn the spell against their opponents.[@fm18-lyra]
 
@@ -51,9 +51,10 @@ After experiencing Anya's spell, the staff of [[the-benevolent-mistress|The Bene
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many were made for the War Game, and exactly who wore them.[@fm18-lyra]
-> - DanMachi 18 describes the original target only as a sound-using enemy. Astrea Record 3 says the modified accessory was "custom-made to counter Alfia", whose magic is sound ([[magic#satanas-verion|Satanas Verion]]); it gives it the provisional name "Alfia Velador—Witch Bane".[@fm18-lyra, ar03-lyre] Whether DanMachi 18 means the same enemy is not stated.
+> - DanMachi 18 describes the original target only as a sound-using enemy. Astrea Record 3 says the modified accessory was "custom-made to counter Alfia", whose magic is sound ([[magic#satanas-verion|Satanas Verion]]); it gives it the provisional name "Alfia Velador—Witch Bane".[@fm18-lyra, ar03-lyre] Whether DanMachi 18 means the same enemy was not located in the checked text.
 
-[@fm18-lyra]: FM18 | Chapter 9: Flower Language for You |
+[@fm18-lyra]: FM18 | Chapter 9: Flower Language for You | "Its name was Silence Lyra."; "Lyu had had a pair among the mementos of her former comrades"; "had put in a request with Asfi for mass production"
 [@fm18-remisto]: FM18 | Chapter 9: Flower Language for You | Allen covers his ears and is still affected.
-[@ar03-lyre]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "a type of accessory called a Silence Lyre"; "custom-made to counter Alfia".
+[@ar03-lyre]: AR03 | Chapter 3: Eden’s Demise | "a type of accessory called a Silence Lyre"; "custom-made to counter Alfia".
 [@ar03-silence-lyra-ja]: AR03 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
+[@ar03-lyre-worn]: AR03 | Chapter 3: Eden’s Demise | "a single spell from Alfia was enough to end the battle then and there"; "Gareth, Lyu, and Aiz all staggered to their feet, ready for more"; "From each of their ears hung a small purple piercing in the shape of a miniature harp."; "One for each of us"

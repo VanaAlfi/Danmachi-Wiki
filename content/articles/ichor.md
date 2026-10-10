@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Ichor is divine blood used to engrave and update a follower's Status.",
   "aliases": ["Divine blood"],
-  "spoilers": "DanMachi Vols. 6–8, 15, 17, Sword Oratoria Vols. 1, 2, 12 and Familia Chronicle Vol. 3",
+  "spoilers": "DanMachi Vols. 1, 6–8, 15, 17, Sword Oratoria Vols. 1, 2, 12 and Familia Chronicle Vol. 3",
   "related": ["falna", "status", "patron-deity", "status-thief", "hestia", "freya", "lyu-leon", "phobos"],
   "infobox": {
     "title": "Ichor",
@@ -28,6 +28,7 @@
 
 | Volume | Events |
 |---|---|
+| DanMachi 1 | The [[hestia-knife|Hestia Knife]] is made with Hestia's hair, her ichor and hieroglyphs, and has a Status of its own.[@fm01-knife-ichor] |
 | DanMachi 6 | [[soma|Soma]] and [[hestia|Hestia]] apply their ichor during [[lilliluka-erde|Lilliluka Erde]]'s [[falna#conversion|Conversion]].[@fm06-conversion] |
 | DanMachi 7 | [[mikoto|Yamato Mikoto]] detects companions sharing her ichor, including the [[hestia-knife|Hestia Knife]].[@fm07-recognition] |
 | DanMachi 8 | The first ichor remains after Conversion, allowing the original deity to continue sensing the follower.[@fm08-persistence] |
@@ -56,3 +57,4 @@
 [@fc03-skill]: FC03 | The Locus of Stars | Shared ichor is a condition for the skill’s strengthening effects.
 [@fc03-inheritance]: FC03 | The Locus of Stars | Astrea’s ichor preserves Lyu’s bond to her companions through Conversion.
 [@so01-ichor-ja]: SO01 | Chapter 3: White Rabbit | The Japanese edition writes the word in kanji meaning divine blood, with the reading ichor, as the medium through which the hieroglyphs of a Status are engraved (file c31J, paragraph 67).
+[@fm01-knife-ichor]: FM01 | Chapter 6: Bump of Chicken! | "HESTIA’S HAIR, BLOOD"; "AND HIEROGLYPHS WENT INTO ITS CREATION."; "THE KNIFE HAS A STATUS OF ITS OWN."

@@ -23,7 +23,7 @@
   }
 }
 ---
-**Rose** is a [[races#werewolf|werewolf]] receptionist for the [[guild|Guild]] and has long red hair.[@fm15-receptionist, so09-advice] Her fellow receptionists rely on her as a coordinator, while her dealings with adventurers include warnings about their risk of dying.[@fm15-receptionist, so09-register]
+**Rose** is a [[races#werewolf|werewolf]] receptionist for the [[guild|Guild]] and has long red hair.[@fm15-receptionist, so09-advice] Her fellow receptionists rely on her as a coordinator, while her dealings with adventurers include warnings about their risk of dying.[@fm15-receptionist, so09-register] DanMachi 8 calls her the eldest receptionist and DanMachi 15 one of the most experienced.[@fm08-rose-eldest, fm15-rose-veteran] In Sword Oratoria 9, [[riveria|Riveria]] recalls first meeting her behind the counter five years before [[aiz-wallenstein|Aiz Wallenstein]]'s registration, when Rose was about fourteen and had just started the job.[@so09-rose-start]
 
 ## History {#history}
 
@@ -46,3 +46,6 @@
 [@fm15-payout]: FM15 | Interlude: I, His Adviser | Rose approaches Eina about the betting money.
 [@fm17-diary]: FM17 | Chapter 2: Alone Inside a Sandbox | Eina’s diary recalls the betting and her decision to advise Bell.
 [@so09-rose-ja]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | The Japanese edition writes her full name in katakana, read Rōzu Fanetto (file c4J4, paragraph 46); the English prints it once, as Rose Faunette ("the werewolf Rose Faunette").
+[@fm08-rose-eldest]: FM08 | Chapter 4: Beloved Bodyguard | "she looked toward the eldest receptionist"; "But, Rose, you’ve sworn off adventurers, haven’t you?"
+[@fm15-rose-veteran]: FM15 | Chapter 4: Guild Alone | "a werewolf woman, one of the most experienced receptionists"; "said the werewolf receptionist grumpily as she played with her red hair"
+[@so09-rose-start]: SO09 | Recollections Chapter 1: The Young Girl’s Beginnings | "Five years ago, when I first met you behind the counter, you were so innocent."; "I think you were fourteen then?"; "That was right after I started the job."

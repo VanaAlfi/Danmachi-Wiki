@@ -46,11 +46,11 @@ Misha and Eina were schoolmates, both graduated from the School District, and en
 | DanMachi 6 | She drapes herself over Eina's back amid the paperwork, tries to cheer her up, and watches the War Game beside her on the Divine Mirror.[@fm06-desk, fm06-mirror] |
 | DanMachi 8 | She drags Eina out to lunch, and Dormul and Luvis waylay them on the way (see [[modi-and-magni-familias|Modi and Magni Familias]]).[@fm08-friend, fm08-dormul] |
 | DanMachi 11 | She protests that [[ikelos-familia|Ikelos Familia]] is to blame, not "Eina's little brother…I mean Bell", when coworkers blame him for the Xenos crisis.[@fm11-outburst] |
-| DanMachi 15 | Eina's recollection of their early days at the Guild, from their first day as recruits to drinks together after work.[@fm15-recruits, fm15-drinks] |
+| DanMachi 15 | Eina's recollection of their early days at the Guild, from their first day as recruits to drinks together after work.[@fm15-recruits, fm15-drinks] Misha had joined with a carefree "If Eina’s doing it, then I’m doing it, too". When one of her own adventurers, one she had been taken with, dies, she weeps on Eina's shoulder; afterwards she starts to think about what she can do for her adventurers and asks Eina for advice.[@fm15-misha-adviser] |
 | DanMachi 17 | When [[royman|Royman]] orders the Guild to protect Freya Familia, she objects, then urges Eina to follow the order.[@fm17-royman] |
 | Sword Oratoria 2 | [[loki|Loki]] greets her at the counter; the two had cooperated during the [[monsterphilia|Monsterphilia]] crisis a few days before.[@so02-misha] |
 | Sword Oratoria 3 | Late at night an angry adventurer files a request at her counter, and when the document cannot be found her boss asks whether she lost it.[@so03-request] |
-| Sword Oratoria 4, 6 | She accepts Loki Familia's expedition application from Gareth, and welcomes the Familia back from Meren.[@so04-application, so06-welcome] |
+| Sword Oratoria 4, 6 | She accepts Loki Familia's expedition application from Gareth, and welcomes Finn back when he reports the Familia's return from that expedition.[@so04-application, so06-welcome] |
 | Sword Oratoria 12 | In the chaos of the final assault Royman sends Eina to coordinate the Familias, calls Misha "useless", and sends her to ask [[the-benevolent-mistress|the Benevolent Mistress]] for help.[@so12-royman] |
 
 ## Open questions
@@ -70,11 +70,12 @@ Misha and Eina were schoolmates, both graduated from the School District, and en
 [@fm15-mentor]: FM15 | Chapter 4: Guild Alone | "He had been Eina and Misha’s teacher and mentor when they’d first entered the Guild"; "it’s been a year since you and Frott started here".
 [@fm17-royman]: FM17 | Chapter 5: The End of Her World | "Protect Freya Familia!!!"; "Misha interjected on hearing the order"; "E-Eina! I’m not sure how to feel about it, but we should probably do what he…!"
 [@fm19-graduate]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Misha graduated from the School District, too…"; "Frot wouldn’t have worked."
-[@fm19-miracle]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): "five years ago, there was the Miracle of Frot! She passed even though she got a Z on the practice exam!"
+[@fm19-miracle]: FM19 | Chapter 5: My Dream | "five years ago, there was the Miracle of Frot! She passed even though she got a Z on the practice exam!"
 [@so02-misha]: SO02 | Chapter 4: Orb | Loki: "Oh, Misha."; "Misha Frot worked at the Guild as one of the receptionists"; met "at the Monsterphilia"; "standing at 150 celch"; "peach-pink hair". The Japanese edition (file c2AJ, paragraph 10) speaks of her innocent looks.
-[@so03-request]: SO03 | | "startling the receptionist behind the counter, Misha Frot"; "Frot, don’t tell me…You lost it?"
+[@so03-request]: SO03 | Prologue: Ill Omen | "startling the receptionist behind the counter, Misha Frot"; "Frot, don’t tell me…You lost it?"
 [@so04-application]: SO04 | First Chapter: And the Boy… | "Misha Frot cheerfully replied as she accepted the application parchment from Gareth."
 [@so06-welcome]: SO06 | Chapter 1: Quest Results & Next Quest | "Misha Frot at your service! Welcome back!"
 [@so12-royman]: SO12 | Chapter 7: Final War II | "Tulle! See to it that every familia works together! Frot is useless!"; "Frot, go to the Benevolent Mistress!"
 [@ss01-rankings]: SS01 | Bell Cranell☆Ranking: Events of a Half Year | "this week’s adventurer rankings"; "You always did, even back at the School District."
 [@fm08-misha-ja]: FM08 | | The Japanese edition prints her name in katakana, the surname with a doubled t (Frott); the infobox gives that printed form.
+[@fm15-misha-adviser]: FM15 | Chapter 4: Guild Alone | "If Eina’s doing it, then I’m doing it, too"; "One of Misha’s adventurers had died, too."; "Misha had been visibly enamored by the adventurer in question"; "Misha moved over to the couch next to Eina and began to cry."; "And Misha started to change, too."; "had started thinking in terms of what exactly she could do for her adventurers"

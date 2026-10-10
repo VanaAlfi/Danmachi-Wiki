@@ -25,6 +25,8 @@
 ---
 **Demeter Familia** is the Familia of the goddess [[demeter|Demeter]], a farming and commerce Familia: it grows grain, vegetables and fruit and sells them in Orario, and Sword Oratoria 12 says most of the produce brought into the city is its harvest.[@so01-wine, so12-suspect, fc01-runoa] Because she runs farms and a base outside the walls, Demeter is the one goddess allowed to come and go freely, without the Guild's usual formalities.[@so12-suspect] The Familia also buys strange fruit and seeds that adventurers find in the Dungeon and tries to grow them.[@ss01-farm] Its home is Wheat Hall, in the north of the city.[@fc01-runoa]
 
+Counting the workers on its big farm outside the city who have no Blessing, Demeter Familia is larger than [[ganesha-familia|Ganesha Familia]]. Focused on production and business, it lacks combat strength but is still a C-rank Familia, and many say that if it disappeared people would starve and the city would fall into an eternal winter.[@so12-demeter-familia-size]
+
 ## Members {#members}
 
 - **Runoa.** [[runoa|Runoa Faust]] contracted with Demeter only to have her Status updated; it was her fifth membership, and she was free to convert at any time. She feels at ease in Demeter's company.[@fc01-runoa]
@@ -51,5 +53,6 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 [@ss01-gossip]: SS01 | | Gods' gossip about Bell, near the end of the volume (not placed): "Even Persephone was impressed."; "Persephone seems to like him".
 [@fc01-persephone]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Persephone also wanted to meet you."
 [@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Wheat Hall in the north of Orario; Runoa's contract, her fifth conversion; farms producing wheat, vegetables and fruit.
-[@ar01-food]: AR01 | | A soup kitchen hosted by the Guild and run by adventurers, with the cooperation of Demeter Familia (the Japanese edition, file c2W8); feeding the poor.
+[@ar01-food]: AR01 | Chapter 5: Tragedy in Sunlight | A soup kitchen hosted by the Guild and run by adventurers, with the cooperation of Demeter Familia (the Japanese edition, file c2W8); feeding the poor.
 [@so12-demeter-familia-ja]: SO12 | | The Japanese edition prints the Familia's name in katakana (file cC1, paragraph 194); the infobox gives that printed form.
+[@so12-demeter-familia-size]: SO12 | Chapter 2: An Evil Omen | "her familia was larger than Ganesha Familia"; "though it was still a C-rank familia"; "starve and the city would fall into an eternal winter."

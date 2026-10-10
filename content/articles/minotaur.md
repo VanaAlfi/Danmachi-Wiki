@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A bull-headed man-shaped monster of the Dungeon's middle levels, rated Level 2 and among the most dangerous monsters there. A Minotaur that fled from Loki Familia nearly killed Bell Cranell on his first days in the Dungeon; in DanMachi 3 he defeats a Minotaur that Ottar had trained, and levels up.",
   "aliases": ["Minotaurs", "minotaur", "minotaurs"],
-  "spoilers": "DanMachi Vols. 1, 3–5, 10, 12, 19 and Sword Oratoria Vol. 1",
+  "spoilers": "DanMachi Vols. 1, 3–5, 8, 10, 12, 19 and Sword Oratoria Vol. 1",
   "related": ["bell-cranell", "aiz-wallenstein", "ottar", "asterios", "ushiwakamaru", "dungeon", "loki-familia", "skills"],
   "infobox": {
     "title": "Minotaur",
@@ -29,12 +29,13 @@ The **Minotaur** is a monster of the [[dungeon|Dungeon]]: a massive man-shaped b
 
 - **Where it lives.** Bell says that Minotaurs appear only from the lower fifteenth floor down.[@fm01-level] Sword Oratoria 1 calls them the strongest and most dangerous monsters of the middle levels, as rated by the Guild.[@so01-herd]
 - **Strength.** It is a "category Level Two monster", so even experienced adventurers find it hard; a Level 1 who meets one on the [[upper-levels|upper floors]] is in mortal danger.[@fm01-level, fm01-irregular]
+- **Hide and howl.** Minotaurs are "hard to cut": a blade that pierces the skin can stick in the dense muscle, the skin resists magic and fire, and Minotaur skin is a valuable drop item for armour with very high Defense. Their howl awakens fear in weaker creatures and freezes them in place.[@fm03-hide, fm08-howl]
 - **Weapons.** Its horn is its trump card in a charge.[@fm03-horn] In DanMachi 19 a Minotaur swings a "nature weapon", an ax.[@fm19-minotaurs]
 - **Drops.** When it dies it can leave a [[magic-stone#minotaurs-magic-stone|magic stone]], as in DanMachi 3, and a horn; DanMachi 4 adds that a horn remained after Bell's fight.[@fm03-death, fm03-ja-death, fm04-horn] Bell's Minotaur Horn later becomes the dagger [[ushiwakamaru|Ushiwakamaru]].[@fm04-split]
 
 ## Bell's first Minotaur (DanMachi 1, Sword Oratoria 1)
 
-Returning from an expedition, [[loki-familia|Loki Familia]] meets a herd of Minotaurs. The monsters are no match for adventurers who were fighting thirty floors deeper days before, and half of them are dead when one turns and runs; the rest panic and flee up the stairs toward the surface.[@so01-herd, so01-flight] The Familia chases them up through the Dungeon; [[bete-loga|Bete]] brings one down at the last moment, as it is about to attack an adventurer.[@so01-chase]
+Returning from an expedition, [[loki-familia|Loki Familia]] meets a herd of Minotaurs. The monsters are no match for adventurers who were fighting thirty floors deeper days before, and almost half of them are dead when one turns and runs; the rest panic and flee up the stairs toward the surface.[@so01-herd, so01-flight] The Familia chases them up through the Dungeon; [[bete-loga|Bete]] brings one down at the last moment, as it is about to attack an adventurer.[@so01-chase]
 
 The last of them reaches the lower fifth floor, where it corners Bell, then a new adventurer, until [[aiz-wallenstein|Aiz]] cuts it apart. In the tavern afterwards Bete mocks the blood-soaked boy as "tomato boy", and one of the Familia's elves rebukes him: the escape was the Familia's own mistake.[@fm01-chase, fm01-tavern] Eina calls the Minotaur an irregular: something that should never have been on that floor.[@fm01-irregular]
 
@@ -42,7 +43,7 @@ The last of them reaches the lower fifth floor, where it corners Bell, then a ne
 
 [[freya|Freya]] leaves Bell's development to [[ottar|Ottar]], who knows of his fear of Minotaurs.[@fm03-freya] Ottar goes down to a floor far below his own Level, finds a Minotaur as tall as himself, tosses it one of his greatswords and trains it, sword against sword, for hours.[@fm03-training]
 
-On the ninth floor, the trained Minotaur confronts Bell and Lilly.[@fm03-ninth] Bell's Firebolt cannot wound its body, and his short sword only scratches it.[@fm03-ninth, fm03-fight] The Minotaur has been trained to use its great sword and is wary of the [[hestia-knife|Hestia Knife]] (though Bell finds its movements crude).[@fm03-fight, fm03-ja-fight] Bell cuts through its right wrist with the knife, so that its hand flies off with the sword, catches the sword and fights it with the sword, and at the end drives the Hestia Knife into its body and fires Firebolt after Firebolt through the blade until its upper body bursts apart.[@fm03-fight, fm03-ja-fight, fm03-death]
+On the ninth floor, the trained Minotaur confronts Bell and Lilly.[@fm03-ninth] When [[aiz-wallenstein|Aiz]] arrives and shields him, Bell refuses to be saved by her yet again: he pulls her behind him and challenges the Minotaur alone, while Aiz, [[finn-deimne|Finn]], [[riveria|Riveria]], Bete and the [[hyrute-sisters|Hyrute sisters]] of Loki Familia watch the duel.[@fm03-challenge] Bell's Firebolt cannot wound its body, and his short sword only scratches it.[@fm03-ninth, fm03-fight] The Minotaur has been trained to use its great sword and is wary of the [[hestia-knife|Hestia Knife]] (though Bell finds its movements crude).[@fm03-fight, fm03-ja-fight] Bell cuts through its right wrist with the knife, so that its hand flies off with the sword, catches the sword and fights it with the sword, and at the end drives the Hestia Knife into its body and fires Firebolt after Firebolt through the blade until its upper body bursts apart.[@fm03-fight, fm03-ja-fight, fm03-death]
 
 The victory makes Bell Level 2 in just over a month, by far the fastest Level Up on record. The town wonders how a Level 1 could kill a Level 2 monster such as a Minotaur, and some say he was simply lucky.[@fm04-record, fm05-luck] At [[denatus|Denatus]], [[ishtar|Ishtar]] taunts [[freya|Freya]] that one of her followers has been "dueling Minotaur after Minotaur for fun" in the middle levels.[@fm04-freya]
 
@@ -50,7 +51,7 @@ The victory makes Bell Level 2 in just over a month, by far the fastest Level Up
 
 | Volume | Encounter |
 |---|---|
-| DanMachi 5 | On the middle floors [[welf-crozzo|Welf]] meets a Minotaur for the first time and is so overwhelmed he forgets to breathe.[@fm05-welf] |
+| DanMachi 5 | On the middle floors [[welf-crozzo|Welf]] meets a Minotaur for the first time and is so overwhelmed he forgets to breathe.[@fm05-welf] Bell, now Level 2, kills it and three more in a row, and Welf sees in him a "Minotaur Slayer".[@fm05-four] |
 | DanMachi 10 | A black minotaur appears in the Dungeon, a monster that [[asfi|Asfi]], for all her knowledge, has never heard of. It is [[asterios|Asterios]], one of the [[xenos|Xenos]], described on his own page.[@fm10-black] |
 | DanMachi 19 | Bell's School District squad meets three Minotaurs, its first, and Bell kills them.[@fm19-minotaurs] Earlier in the volume Eina remarks that only half a year ago he was being chased by one on the fifth floor.[@fm19-memory] |
 
@@ -70,7 +71,7 @@ DanMachi 1 and Sword Oratoria 1 both put Loki Familia's meeting with the herd on
 [@so01-herd]: SO01 | Chapter 3: White Rabbit | "a herd of Minotaurs: massive man-shaped beasts with bull-like heads"; "the strongest and most dangerous of the Dungeon’s middle levels"; "more than thirty floors lower".
 [@so01-flight]: SO01 | Chapter 3: White Rabbit | "almost half the Minotaur herd lay dead"; "turned its back to the battle"; "hurtled down the passageway leading up to the sixteenth floor".
 [@so01-chase]: SO01 | Chapter 3: White Rabbit | Bete and a Minotaur. The Japanese edition (file c2EU, paragraph 109) has Bete bring down, at the last moment, a Minotaur about to attack an adventurer.
-[@fm03-freya]: FM03 | | Prologue (not in the evidence map): Freya and Ottar; "Ottar knew of Bell’s encounter with a Minotaur"; "I leave his development in your hands, Ottar."
+[@fm03-freya]: FM03 | Prologue: "Alea Jacta Est" | Freya and Ottar; "Ottar knew of Bell’s encounter with a Minotaur"; "I leave his development in your hands, Ottar."
 [@fm03-training]: FM03 | Chapter 2: Ox and Hare Special Training | "a level of the Dungeon filled with monsters far below his own level"; a Minotaur "even with Ottar"; the greatsword tossed to it; "fully intended to “train” it"; "for hour upon hour".
 [@fm03-box]: FM03 | Chapter 4: The Meaning of Adventure | Kanu's party sees Ottar guarding a large cargo box against Amazons and steals it; a chained Minotaur breaks out and takes up a great sword from the box (the Japanese edition, file c37K, paragraphs 199 to 227).
 [@fm03-ninth]: FM03 | Chapter 4: The Meaning of Adventure | "W-why is there a Minotaur on the ninth floor…?"; Firebolts leave no wound.
@@ -83,9 +84,13 @@ DanMachi 1 and Sword Oratoria 1 both put Loki Familia's meeting with the herd on
 [@fm04-split]: FM04 | Chapter 3: The Smith’s Situation | The horn split; the smaller half was forged into the dagger.
 [@fm04-record]: FM04 | Chapter 1: Denatus | "Reaching Level 2 in just over a month was by far and away the fastest level-up on record"; "a Level 1 adventurer managed to take down a Level 2 monster like a Minotaur".
 [@fm04-freya]: FM04 | Chapter 1: Denatus | Ishtar to Freya: "Just roaming around the middle levels, dueling Minotaur after Minotaur for fun, yes?" (the follower is unnamed: "one of your house"); Freya answers, "Hee-hee, you may be right."
-[@fm05-luck]: FM05 | | Printed heading "Chapter 1: The Middle Levels" (not in the evidence map): "the only reason he defeated a Minotaur is that he was lucky enough to land this Magic attack".
+[@fm05-luck]: FM05 | Chapter 1: The Middle Levels | "the only reason he defeated a Minotaur is that he was lucky enough to land this Magic attack".
 [@fm05-welf]: FM05 | Chapter 3: Dungeon Death March | "Welf was so overwhelmed by his first encounter with a Minotaur that he forgot to breathe."
 [@fm10-black]: FM10 | Chapter 9: Dreams of Beasts | "A black minotaur…?!"; "She’d never heard of anything like this."
 [@fm12-oxslayer]: FM12 | Chapter 1: Rabbit Close-Up | "Ox Slayer"; a super-high correction to all abilities against the fierce-bull type (the Japanese edition, file part0012, paragraphs 50 and 51); "a slayer-type skill"; "his old adversary".
 [@fm19-memory]: FM19 | Chapter 1: V-V-V for Victory Party | Eina: "only half a year ago you were being chased around by a minotaur on the fifth floor".
-[@fm19-minotaurs]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): "three minotaurs"; "their first encounter with minotaurs"; "swinging its massive nature weapon down"; Bell ends them.
+[@fm19-minotaurs]: FM19 | Chapter 5: My Dream | "three minotaurs"; "their first encounter with minotaurs"; "swinging its massive nature weapon down"; Bell ends them.
+[@fm03-hide]: FM03 | Chapter 5: A Hero’s Desire | "Minotaurs are hard to cut."; "Even if an attack was strong enough to pierce the skin, there was a very real chance the blade would get stuck in the muscles."; "Minotaur skin was an extremely valuable drop item used to create armor with very high Defense."; "nor how resistant its skin was to Magic"
+[@fm08-howl]: FM08 | | "The Minotaur’s howl, a menacing sound that awakened the instinct of fear in weaker creatures and froze them in their tracks"; "Even the Minotaurs, whose skin was known to be naturally resistant to fire"
+[@fm03-challenge]: FM03 | Chapter 5: A Hero’s Desire | "Aiz is shielding me from the Minotaur, facing it down."; "I can’t be saved by Aiz Wallenstein yet again!"; "I challenge you…!"; "The Amazonian sisters watched"; "Riveria and Finn appraised the battle realistically"
+[@fm05-four]: FM05 | Chapter 3: Dungeon Death March | "He had defeated four Minotaurs in a row."; "—Minotaur Slayer."

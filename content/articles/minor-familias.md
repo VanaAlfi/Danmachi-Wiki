@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-06",
   "continuity": "light-novel",
-  "summary": "Familias the novels name only briefly: Serket Familia and Ratri Familia in the DanMachi 18 War Game, and Osiris, Sekhmet and Thor Familia in separate accounts.",
+  "summary": "Familias the novels name only briefly: Serket Familia and Ratri Familia in the DanMachi 18 War Game, and Osiris, Sebek, Sekhmet and Thor Familia in separate accounts.",
   "aliases": ["Minor Familia"],
   "spoilers": "DanMachi Vols. 18 and 20, Sword Oratoria Vols. 8 and 14 and Astrea Record Vol. 1",
   "related": ["war-game", "lilliluka-erde", "apate-and-alecto-familias", "zeus-and-hera-familias", "ishtar-familia", "loki"],
@@ -22,7 +22,7 @@
     "rows": [
       {"section": "Familias"},
       {"label": "In the War Game", "value": "[[#serket-familia|Serket Familia]] and [[#ratri-familia|Ratri Familia]], in the coalition Lilly commands (DanMachi 18)", "refs": ["fm18-orders"]},
-      {"label": "Elsewhere", "value": "[[#osiris-familia|Osiris Familia]] (Astrea Record 1), [[#sekhmet-familia|Sekhmet Familia]] (Sword Oratoria 8), [[#thor-familia|Thor Familia]] (Sword Oratoria 14, DanMachi 20)", "refs": ["ar01-rank", "so08-assassins", "so14-thor", "fm20-wall"]}
+      {"label": "Elsewhere", "value": "[[#osiris-familia|Osiris Familia]] and Sebek Familia (Astrea Record 1), [[#sekhmet-familia|Sekhmet Familia]] (Sword Oratoria 8), [[#thor-familia|Thor Familia]] (Sword Oratoria 14, DanMachi 20)", "refs": ["ar01-rank", "ar01-sebek", "so08-assassins", "so14-thor", "fm20-wall"]}
     ]
   }
 }
@@ -33,7 +33,7 @@ Serket Familia and Ratri Familia are among the [[familia-coalition|coalition]] g
 
 ## Osiris Familia {#osiris-familia}
 
-In Astrea Record 1, Osiris Familia ({{ja|オシリス・ファミリア}})[@ar01-osiris-ja] is described as having concealed several Level 6 adventurers and its Level 7 captain, Melty Zara, before attacking [[zeus|Zeus]]'s Familia.[@ar01-rank] It lost to Zeus and [[hera|Hera]] more than twenty years before the account, before the Dark Age began.[@ar01-defeat] [[basram|Basram]] says surviving second-tier members converted from their expelled [[patron-deity|patron]] Osiris to [[apate-and-alecto-familias#apate-familia|Apate]], seeking revenge that never came.[@ar01-rank, ar01-conversion] [[gareth|Gareth Landrock]] also cites Osiris Familia as a precedent when considering whether an enemy has concealed first-tier strength.[@ar01-hiding]
+In Astrea Record 1, Osiris Familia ({{ja|オシリス・ファミリア}})[@ar01-osiris-ja] is described as having concealed several Level 6 adventurers and its Level 7 captain, Melty Zara, before attacking [[zeus|Zeus]]'s Familia.[@ar01-rank] It lost to Zeus and [[hera|Hera]] more than twenty years before the account, before the Dark Age began.[@ar01-defeat] [[basram|Basram]] says surviving second-tier members converted from their expelled [[patron-deity|patron]] Osiris to [[apate-and-alecto-familias#apate-familia|Apate]], seeking revenge that never came.[@ar01-rank, ar01-conversion] [[gareth|Gareth Landrock]] also cites Osiris Familia as a precedent when considering whether an enemy has concealed first-tier strength.[@ar01-hiding] In the same passage, Astrea Record 1 recalls that many Familias once vied with Zeus and Hera; most of those they gutted left Orario, but some stayed, among them Sebek Familia, "a mere shadow of its former self".[@ar01-sebek]
 
 ## Ratri Familia {#ratri-familia}
 
@@ -67,3 +67,4 @@ In Sword Oratoria 14, the newly descended [[loki|Loki]] says [[freya|Freya]] and
 [@fm18-familias-ja]: FM18 | Chapter 8: The Great Familia War | The Japanese edition writes the two names in katakana, read Seruketo and Rātorī (file part0021, paragraph 1077).
 [@so08-sekhmet-ja]: SO08 | Chapter 4: Lonesome Night | The Japanese edition writes the name in kanji meaning criminal organisation, read Sekhmet Familia (file c3H1, paragraph 29).
 [@fm20-thor-ja]: FM20 | Chapter 3: The World, The Festival, and Reality | The Japanese edition writes the name in katakana, read Tōru (file J14, paragraph 554).
+[@ar01-sebek]: AR01 | Chapter 6: Assemblies of Light and Dark | "Back when Zeus and Hera were around, there were many other familias who vied with them for supremacy."; "often had no choice but to leave Orario entirely"; "Sebek Familia was one such example, though by now it was a mere shadow of its former self."

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Fels's paired communication crystals (plural oculi). Each shows what its twin sees and hears, even between the surface and the Dungeon, but only with that twin. Used by Ouranos, the Xenos, Hestia Familia and Lilly's commands.",
   "aliases": ["Oculi", "twin crystals"],
-  "spoilers": "DanMachi Vols. 10–18, Sword Oratoria Vols. 4, 11 and 12, Astrea Record Vols. 1–2 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 10, 11, 14 and 18, Sword Oratoria Vols. 4, 11 and 12, Astrea Record Vols. 1–2 and Minor Myths and Legends Vol. 1",
   "related": ["fels", "ouranos", "xenos", "lido", "hestia", "lilliluka-erde", "knossos", "asfi"],
   "infobox": {
     "title": "Oculus",
@@ -45,6 +45,7 @@ DanMachi 10 credits the crystals to Fels, "once known as the Sage". They were ex
 - **The Great Conflict.** Ouranos hears Erebus's proclamation through the oculus his mage gave him in Astrea Record 1, and in Astrea Record 2 he speaks with Fels in the field through one.[@ar01-erebus, ar02-ouranos]
 - **The Xenos.** Fels gives the [[xenos|Xenos]] several sets; Lido carries the only one linked to the surface.[@fm10-pairs]
 - **Hestia Familia's rescue.** In DanMachi 11 Hestia and [[haruhime|Haruhime]] direct Welf, Mikoto and the others through the streets of [[daedalus-street|Daedalus Street]] through the twins of their oculi.[@fm11-rescue]
+- **The Knossos assaults.** In Sword Oratoria 11 Gareth and the other squad leaders carry Fels's oculi so that the allied forces in the Dungeon and on the surface can attack together, and for the final battle of Sword Oratoria 12 each of the six main squads carries one to keep open lines of communication.[@so11-squads, so12-squads]
 - **Knossos.** In Sword Oratoria 12 Fels gives Lilly oculi connected to both assault squads in [[knossos|Knossos]]. Because people near a crystal can hear the voice coming from it, she takes [[finn-deimne|Finn]]'s form with [[magic#cinder-ella|Cinder Ella]] before taking over command.[@so12-lilly]
 - **The Familia War.** In DanMachi 18 there are not enough oculi for everyone, so Lilly gives them to groups she trusts, such as Aisha's and Tsubaki's.[@fm18-supply] Their advantage in speed is largely cancelled when [[hedin|Hedin]] keeps Freya Familia's whole force within earshot of his orders.[@fm18-hedin]
 
@@ -78,5 +79,7 @@ Destroying one crystal of a pair cuts the connection. In DanMachi 10 [[gros|Gros
 [@so11-floors]: SO11 | Chapter 5: Obsession Manifest | Communication across Dungeon floors; Perseus's pride.
 [@so12-lilly]: SO12 | Chapter 7: Final War II | Oculi for both squads; bystanders can hear; Lilly becomes Finn.
 [@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | Ouranos hears Erebus through an oculus.
-[@ar02-ouranos]: AR02 | | Ouranos speaks with Fels through an oculus.
+[@ar02-ouranos]: AR02 | Chapter 4: Those Who Struggle | Ouranos speaks with Fels through an oculus.
 [@ss01-xenos]: SS01 | | The Xenos follow Bell through an oculus in the sewers. The Japanese edition (file part0067, paragraphs 3, 4 and 9) says Hestia's group had put Bell's twin crystal near Fels's oculus, so that the Xenos in the sewers could hear everything of his situation, voice after voice.
+[@so11-squads]: SO11 | Chapter 4: Avengers ~Knossos War~ | "They were receiving information from Fels’s oculus. Gareth and the leaders of the other squads had them, too, to collectively respond when the signal began."
+[@so12-squads]: SO12 | Chapter 4: Nameless Heroes | "To that end, each squad will have an oculus for maintaining open lines of communication."

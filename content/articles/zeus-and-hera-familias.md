@@ -47,7 +47,7 @@ Looking back, the veteran of DanMachi 20 thinks they were always spurring the yo
 
 - **Deepest floor.** Their record of Floor 71 still stands in DanMachi 19.[@fm19-record] The deep level called the Dragon's Urn had been reached only by them.[@ar03-urn] They discovered a centipede dragon on Floor 67 and estimated its potential at Level 7.[@fm20-centipede] In Sword Oratoria 6, Loki Familia is the first to reach [[floor-59|Floor 59]] since Zeus and Hera.[@so06-59]
 - **What they could not find.** In DanMachi 18 [[royman|Royman]] says they did not find the key to Thalia's Ice Garden, and brought back only a small trinket from it.[@fm18-garden]
-- **Development Abilities.** Astrea Record 3 says their Familias reported to the Guild the conditions for acquiring [[development-ability|Development Abilities]].[@ar03-unlock]
+- **Development Abilities.** Astrea Record 3 says their Familias reported to the Guild the conditions for acquiring [[development-ability|Development Abilities]].[@ar03-unlock] The same passage says that Zeus and Hera had a special relationship with Ouranos, the city's founder: they delved deeper than anyone, mapped out each floor and studied how best to develop Statuses, so that the city's history was their history. After their fall Finn asked the Guild for their records, and it agreed with Ouranos's blessing.[@ar03-legacy]
 - **The Leviathan.** With Poseidon Familia's help they fought the sea dragon from a huge sea fortress, now the ship of the [[school-district|School District]].[@so13-ship] With Poseidon Familia they also sealed the hole beneath Lolog Lake, using the Leviathan's skeleton as the lid.[@so06-lake]
 - **The Black Dragon.** The last beast "was too strong and wiped them out"; both Familias lost their strongest followers in the battle.[@fm06-fall] Sword Oratoria 13 says the dragon had grown stronger over a thousand years than Orario or even the gods had estimated.[@so13-levels] [[zald|Zald]] speaks of the time after their captain, Maxim, and the others lost to the Black Dragon.[@ar03-blood]
 - **Aegis.** Zeus Familia handed down a legendary shield, Aegis, which every member of Hera Familia knew. In Astrea Record 3 Hermes gives Astrea Familia a prototype shield (the Japanese word means *original form*), and they use it against [[alfia|Alfia]].[@ar03-aegis]
@@ -69,7 +69,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 
 ## The gods
 
-- **[[zeus|Zeus]].** [[bell-cranell|Bell]]'s grandfather, who raised him, is revealed in DanMachi 5 to be Zeus; [[hermes|Hermes]] calls Bell "the last hero your Familia left behind" (in the Japanese he also calls Bell Zeus's grandson, said *mago* and written *adoptive grandson*, {{ja|義孫|mago}}).[@fm05-zeus, fm05-ja-zeus] [[ouranos|Ouranos]] sees Bell as "a parting gift from that Zeus".[@fm17-gift] Zeus's debauchery is notorious; Zald insists he does not share it.[@ar03-blood, fm20-heroes]
+- **[[zeus|Zeus]].** [[bell-cranell|Bell]]'s grandfather, who raised him, is revealed in DanMachi 5 to be Zeus; [[hermes|Hermes]] calls Bell "the last hero your Familia left behind" and Zeus's grandson (the Japanese writes the word *grandson*, read *mago*, as *adoptive grandson*, {{ja|義孫|mago}}).[@fm05-zeus, fm05-ja-zeus] [[ouranos|Ouranos]] sees Bell as "a parting gift from that Zeus".[@fm17-gift] Zeus's debauchery is notorious; Zald insists he does not share it.[@ar03-blood, fm20-heroes]
 - **[[hera|Hera]].** {{statement}} Ouranos describes [[freya|Freya]] as having "lost to Hera" and become bound to Orario.[@fm17-gift]
 - **A child of both Familias.** In Astrea Record 3's extra story Alfia says her younger sister's son carries the blood of a child of Hera and of one of Zeus's; Zald admits the father was one of the lowliest humans in his Familia. The dying sister, Metelia, entrusted the boy to Zeus.[@ar03-blood] {{inference}} Since Zeus raised Bell, the boy is evidently Bell, though his name was not located in the checked text.[@ar03-blood, fm05-zeus]
 
@@ -83,12 +83,12 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@ar01-thousand]: AR01 | Chapter 1: Astrea Familia | "Zeus and Hera ruled over Orario for a thousand years without a single threat to their existence."
 [@ar01-rivals]: AR01 | Chapter 6: Assemblies of Light and Dark | Rivals harboured unreported Level 6 or Level 7 captains; Zeus and Hera came out on top.
 [@ar01-osiris]: AR01 | Chapter 11: Absolute Evil | Osiris Familia, defeated more than twenty years before, when the Dark Age had not yet begun (the Japanese edition, file c6WV); several Level 6s and the Level 7 captain Melty Zara; their patron Osiris banished from the city (the Japanese edition, file c6WV, paragraph 174).
-[@ar02-history]: AR02 | | "The two most powerful forces in Orario’s thousand-year history."
-[@ar02-remnants]: AR02 | | The enemy led by Erebus has "two old members of Zeus Familia and Hera Familia on their side".
+[@ar02-history]: AR02 | Prologue: A City Shrouded in Darkness | "The two most powerful forces in Orario’s thousand-year history."
+[@ar02-remnants]: AR02 | Prologue: A City Shrouded in Darkness | The enemy led by Erebus has "two old members of Zeus Familia and Hera Familia on their side".
 [@ar03-horus]: AR03 | Prologue: Last Intermission | "When Zeus and Hera were warring with Horus and Sobek? It was like a Great Conflict every night!"
-[@ar03-remnants]: AR03 | | Zald and Alfia, "the remnants of Zeus’s and Hera’s familias"; the two forces that ruled Orario for a thousand years.
-[@ar03-urn]: AR03 | | "The Dragon’s Urn is a deep level that only Zeus and Hera have ever reached."
-[@ar03-feuds]: AR03 | | The long feuds with Zeus and Hera; Riveria and Gareth beaten so soundly and so often. The Japanese edition (file c2HE, paragraph 187) says the many defeats let them prepare their decisive-battle gear quickly.
+[@ar03-remnants]: AR03 | Chapter 2: The Conqueror’s Return | Zald and Alfia, "the remnants of Zeus’s and Hera’s familias"; the two forces that ruled Orario for a thousand years.
+[@ar03-urn]: AR03 | Chapter 3: Eden’s Demise | "The Dragon’s Urn is a deep level that only Zeus and Hera have ever reached."
+[@ar03-feuds]: AR03 | Chapter 3: Eden’s Demise | The long feuds with Zeus and Hera; Riveria and Gareth beaten so soundly and so often. The Japanese edition (file c2HE, paragraph 187) says the many defeats let them prepare their decisive-battle gear quickly.
 [@ar03-final]: AR03 | Chapter 7: What She Wished For | Zald dies; the goddess closes his eyes: "The final remnant of Zeus Familia is no more."
 [@ar03-unlock]: AR03 | Chapter 8: The Price of Talent | Zeus and Hera reported the conditions for Development Abilities. The Japanese edition (file c7UR, paragraph 21) says they reported them to the Guild, among maps and growth models.
 [@ar03-aegis]: AR03 | Chapter 9: A Hero’s Trail | The shield from Hermes; "Aegis"; known to every member of Hera Familia. The Japanese edition (file c86J, paragraphs 132–138) has Hermes give them the prototype (original) shield and says every member of Hera Familia knew the Aegis.
@@ -96,7 +96,7 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@fc02-ottar]: FC02 | The Origin of the Strongest | Defeats by Zeus and Hera followers; "the Level-8 supreme"; "the Level-9 empress"; every Level Up after Level 5 related to them.
 [@fm05-zeus]: FM05 | Chapter 6: Praise to the Heroes | "Rejoice, Great Lord Zeus! Your grandson is the real deal! The last hero your Familia left behind!"
 [@fm05-ja-zeus]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0031, paragraph 61): Hermes calls Bell Zeus's grandson by adoption, the word for grandson with the adoptive prefix, read as the ordinary word for grandson. Yen Press prints "grandson".
-[@fm06-fall]: FM06 | | Hermes: fifteen years ago; the Behemoth and the Leviathan defeated; "wiped them out"; Loki and Freya forced them out; the Guild did not protect them. The Japanese edition (file c1RJ, paragraphs 39, 42 and 58) dates both to fifteen years before: the campaign, at the height of their power, and Loki and Freya's overthrow of the two Familias.
+[@fm06-fall]: FM06 | Chapter 2: Shall We Dance? | Hermes: fifteen years ago; the Behemoth and the Leviathan defeated; "wiped them out"; Loki and Freya forced them out; the Guild did not protect them. The Japanese edition (file c1RJ, paragraphs 39, 42 and 58) dates both to fifteen years before: the campaign, at the height of their power, and Loki and Freya's overthrow of the two Familias.
 [@fm11-ouranos]: FM11 | Epilogue: And So I Start to Run Again | "With Zeus and Hera gone, the military forces at my command are limited."
 [@fm17-gift]: FM17 | Chapter 2: Alone Inside a Sandbox | "A parting gift from that Zeus"; to Freya: "You, who lost to Hera and became bound to Orario?"
 [@fm18-garden]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Thalia's Ice Garden: its key is "Undiscovered, as of now. At the very least, Zeus and Hera couldn’t find it"; only a little trinket brought back.
@@ -111,7 +111,8 @@ Weakened by the Black Dragon, the two Familias were forced out of the city by Lo
 [@so06-59]: SO06 | Chapter 1: Quest Results & Next Quest | The first to reach the fifty-ninth floor since Zeus and Hera.
 [@so06-lake]: SO06 | Chapter 2: Port Meren | With Poseidon Familia they closed the hole under the lake; the Leviathan's skeleton as the lid.
 [@so09-successor]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | Finn: "They want a successor to Zeus and Hera"; "we were the ones who ran them out of the city in the first place."
-[@so13-dark-age]: SO13 | | Prologue: "the age of darkness when Zeus and Hera disappeared and the Evils rose".
+[@so13-dark-age]: SO13 | Prologue: The Sequel to Loss and Resolve | Prologue: "the age of darkness when Zeus and Hera disappeared and the Evils rose".
 [@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The platform used against the Leviathan with Poseidon Familia.
 [@so13-levels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | The Black Dragon's strength surpassed estimates; "two great factions who possessed a Level 8 and a Level 9". The Japanese edition (file part0033, paragraph 61) says over a thousand years.
 [@so14-pinnacle]: SO14 | Prologue: Accomplishments and Reminiscences | "With Zeus and Hera gone, Level Seven is the pinnacle."
+[@ar03-legacy]: AR03 | Chapter 8: The Price of Talent | "Zeus and Hera shared a special relationship with Ouranos, the founder of the city"; "mapped out each of its floors"; "studied the best way to develop Statuses"; "The city’s history was their history."; "After their familias crumbled, Finn had gone to the Guild to request it."; "The Guild, with Ouranos’s blessing, agreed"

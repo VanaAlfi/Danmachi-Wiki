@@ -31,11 +31,13 @@
 | Volume | Events |
 |---|---|
 | Familia Chronicle 3 | [[astrea|Astrea]] recruits Cecille first after parting from [[lyu-leon|Lyu Leon]], making her the longest-serving member of the rebuilt group.[@fc03-captain] |
+| Familia Chronicle 3 | Astrea sought her out with a commission, to make "a new power, a new starlight" for a child she hoped to meet again after a long journey, Lyu; Cecille took it on to use the goddess in turn, and in five years she could not finish the weapon.[@fc03-commission] |
 | Familia Chronicle 3 | Cecille recalls joining to obtain Smithing and win her family's recognition, then reaching Level 2 and coming to adore Astrea.[@fc03-motive] |
 | Familia Chronicle 3 | Initially hostile to Lyu, she supplies training weapons and spars with her, but Lyu knocks away her hammer.[@fc03-spar] |
 | Familia Chronicle 3 | After hearing Cecille's troubles, Lyu asks her to make a weapon and shares her own history with her.[@fc03-talk] |
 | Familia Chronicle 3 | Cecille gives Lyu new battle clothes and later strikes [[zolingam#spirits|Yufie]]'s forehead to interrupt the spirit's attack on Lyu, subsequently receiving a spirit's drop.[@fc03-clothes, fc03-tear] |
 | Familia Chronicle 3 | Working inside the [[zolingam#spirits|spirit forge]], she finishes [[equipment#alvs-iustitia|Alvs Iustitia]], joining Lyu's donated wood and Yufie's drop into a weapon usable as sword and staff.[@fc03-sword] |
+| Familia Chronicle 3 | Her father tells Lyu that Cecille has the most talent in the family and that they pushed her away so that Zolingam's standardized work would not waste it, wanting her to go to Astrea; when she comes out of the spirit forge with the finished sword, he and her brothers turn away to hide their tears.[@fc03-father] |
 | Familia Chronicle 3 | She asks to make Lyu's primary weapons, and Lyu agrees.[@fc03-contract] |
 | DanMachi 18 | Cecille accompanies Astrea from Solingen to the [[war-game|War Game]], where the goddess says that they may watch but cannot fight.[@fm18-watch] |
 | Minor Myths and Legends 1 | Cecille reports that her weapon is unfinished and an elf has arrived, then prepares for Astrea to meet the visitor.[@ss01-reports] |
@@ -54,3 +56,5 @@
 [@fm18-watch]: FM18 | Chapter 9: Flower Language for You | Cecille accompanies Astrea from Zolingam; Astrea tells them to watch rather than fight.
 [@ss01-reports]: SS01 | | Cecille reports an unfinished weapon and an elf's visit, then prepares for Astrea's meeting.
 [@fc03-cecille-ja]: FC03 | The Locus of Stars | The Japanese edition writes her name in katakana, read Seshiru Burakkurīza (file c20T, paragraph 48).
+[@fc03-commission]: FC03 | The Locus of Stars | "When that time comes, she will need a new power, a new starlight. I would like you to make that for her."; "So I figured I might as well use her, too"; "Cecille’s connection with Astrea had begun with the order for Lyu’s weapon."; "Five years of dogged perseverance."
+[@fc03-father]: FC03 | The Locus of Stars | "She’s got the most talent."; "We didn’t want that talent wasting away. That’s why we pushed her away from us."; "I wanted her to go to Lady Astrea, someone who had nothing to do with smithing."; "His sons did the same to hide the tears in their eyes."

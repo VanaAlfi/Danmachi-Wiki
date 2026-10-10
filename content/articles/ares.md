@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "The God of War, sole deity of the Kingdom of Rakia, a monarchy in the west of the continent that is really his Familia. Rakia's history of conquest rested on Crozzo magic swords. In DanMachi 8 and Sword Oratoria 9 he leads the Sixth Orario Invasion, kidnaps Hestia, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.",
+  "summary": "The God of War, sole patron god of the Kingdom of Rakia, a monarchy in the west of the continent that is really his Familia. Rakia's history of conquest rested on Crozzo magic swords. In DanMachi 8 and Sword Oratoria 9 he leads the Sixth Orario Invasion, kidnaps Hestia, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 4, 8, 9, 18, Sword Oratoria Vol. 9 and Minor Myths and Legends Vol. 1",
   "related": ["ares-familia", "welf-crozzo", "hestia", "loki", "asfi", "aiz-wallenstein", "lefiya", "finn-deimne", "orario"],
@@ -26,7 +26,7 @@
   }
 }
 ---
-**Ares** is the God of War and the [[patron-deity|patron god]] of the [[rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia, [[ares-familia|Ares Familia]].[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
+**Ares** is the God of War and the [[patron-deity|patron god]] of the [[rakia|Kingdom of Rakia]], a monarchy in the west of the main continent that is in truth his Familia, [[ares-familia|Ares Familia]].[@fm08-rakia, so09-rakia] Rakia's armies once won war after war with [[magic-sword|Crozzo magic swords]], and its wars burned the forests of the elves.[@fm04-lyu, so05-villages] Rakia has attacked [[orario|Orario]] many times and lost every time.[@so09-sixth, fm08-terms] In DanMachi 8 and Sword Oratoria 9 Ares leads the Sixth Orario Invasion to win back [[welf-crozzo|Welf Crozzo]], kidnaps [[hestia|Hestia]] when that fails, and is captured; Rakia pays heavy reparations for him and its soldiers, and he must release about ten thousand Statuses.[@fm08-welf, fm08-gate, fm08-terms]
 
 ## Ares
 
@@ -34,7 +34,7 @@ Ares has golden hair as thick as a lion's mane, red eyes and stark red armour, a
 
 ## Ares Familia {#familia}
 
-Ares is the one and only patron god of Rakia and has chosen every king in its history; every soldier bears his Falna.[@fm08-rakia] The [[rakia|kingdom]], its vassal-gods, its [[ares-familia#wars-and-the-crozzo-magic-swords|wars with Crozzo magic swords]] and its crown prince [[ares-familia#marius-victrix-rakia|Marius]] are described on [[ares-familia|Ares Familia]].
+Ares is the one and only patron god of Rakia and has chosen every king in its history; every soldier has received a Falna.[@fm08-rakia] The [[rakia|kingdom]], its vassal-gods, its [[ares-familia#wars-and-the-crozzo-magic-swords|wars with Crozzo magic swords]] and its crown prince [[ares-familia#marius-victrix-rakia|Marius]] are described on [[ares-familia|Ares Familia]].
 
 ## The Sixth Orario Invasion {#sixth-orario-invasion}
 
@@ -44,7 +44,7 @@ The real objective is Welf. News of his magic swords reached Rakia after the War
 
 With the plan in ruins, Ares decides to kidnap Welf's goddess, Hestia, and trade her for Welf.[@fm08-marius] Disguised as a traveller and queuing at the gate, he runs into Hestia herself as she leaves the city, seizes her and rides off.[@fm08-gate] His strike force of about thirty soldiers, with Level 2 captains and Level 3 generals, flees through the [[beor-mountains|Beor Mountains]] with Hestia tied to his back.[@fm08-beor] When [[aiz-wallenstein|Aiz]] catches up, he charges her, and she cuts his sword in half.[@fm08-aiz] In the fight Hestia falls into a gorge and Bell dives after her; the three of them shelter in the hidden [[edas-village|Edas Village]].[@fm08-edas] [[asfi|Asfi]] marks the army's position from the air for Orario's forces.[@fm08-chain]
 
-Separated from Marius, Ares is cornered and taken to the Guild. Loki spares him from being sent back to Heaven, since too many people in Rakia depend on him, but demands that he release the Statuses of the soldiers captured. On a later day he releases about ten thousand of them outside the wall, without sleep or rest, the heaviest loss in Rakia's history; in exchange for Ares and the soldiers, Rakia also pays heavy reparations.[@fm08-terms] Minor Myths and Legends 1 dates its story a few days after the Rakian army's complete withdrawal.[@ss01-surrender]
+Separated from Marius, Ares is cornered and taken to the Guild. Loki spares him from being sent back to Heaven, since too many people in Rakia depend on him, but demands that he release the Statuses of the soldiers captured. On a later day he releases about ten thousand of them outside the wall, without sleep or rest, the heaviest loss in Rakia's history; in exchange for Ares and the soldiers, Rakia also pays heavy reparations.[@fm08-terms] Minor Myths and Legends 1 dates its story a few days after the Rakian army's complete withdrawal.[@ss01-surrender, ss01-rakia-surrender]
 
 ## Later mentions
 
@@ -55,7 +55,7 @@ Separated from Marius, Ares is cornered and taken to the Guild. Loki spares him 
 
 [@fm04-denatus]: FM04 | Chapter 1: Denatus | "There is information that the Kingdom of Rakia is preparing to invade Orario."; "Don’t tell me it’s that Ares guy again."; "a personality that’s hard to hate"; "his amazing good looks".
 [@fm04-lyu]: FM04 | Chapter 3: The Smith’s Situation | Lyu: one god who declared himself king; the Crozzos' magic swords for nobility; "a mobile inferno"; the elves' forest; their revenge.
-[@fm08-rakia]: FM08 | Prologue: Attack of the War God | A monarchy on the western side of the main continent; at least 600,000 people; a military state with a barbarous side (the Japanese edition, file part0013, paragraph 5); every soldier blessed with Ares's Falna; Ares chose its kings; around 30,000 troops.
+[@fm08-rakia]: FM08 | Prologue: Attack of the War God | A monarchy on the western side of the main continent; at least 600,000 people; a military state with a barbarous side (the Japanese edition, file part0013, paragraph 5); every soldier a follower who has received a Falna (the Japanese edition, file part0013, paragraph 10; the English prints "Every Rakian soldier had been blessed with Ares’s Falna"); Ares chose its kings; around 30,000 troops.
 [@fm08-gareth]: FM08 | Prologue: Attack of the War God | "companies of mostly Level 1 knights from the Kingdom of Rakia. Their captains might have been Level 2 but no higher."
 [@fm08-alliance]: FM08 | Prologue: Attack of the War God | "Rakia’s invading army of 30,000"; the Guild's mission; Finn as commander. The Japanese edition (file part0013, paragraph 71) says the Familias are to intercept the army.
 [@fm08-merchants]: FM08 | Prologue: Attack of the War God | "there hasn’t been one casualty among Rakia’s forces"; the merchants; Loki's "pretend ‘war’"; the prostitutes in the camp.
@@ -74,8 +74,10 @@ Separated from Marius, Ares is cornered and taken to the Guild. Loki spares him 
 [@fm09-ended]: FM09 | Chapter 1: An Irregular Girl | "The war against Rakia had ended three days ago."
 [@fm18-methods]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "relying on the methods of Ares Familia and the legend of their invincibility".
 [@fm18-swords]: FM18 | Chapter 8: The Great Familia War | Welf's homeland fought many countries with Crozzo magic swords.
-[@so09-rakia]: SO09 | | "It was nominally a militant monarchy located in the western part of the continent"; Ares Familia.
-[@so09-lefiya]: SO09 | | "That pink elf from Orario"; Marius on the artillery units; "Have all the troops retreat."; "the first prince of Rakia who served as his executive officer".
-[@so09-sixth]: SO09 | | "Rakia had picked fights with Orario before, suffering losses every time"; "this was their sixth attempt to invade".
+[@so09-rakia]: SO09 | Prologue: Recollections of an Elf | "It was nominally a militant monarchy located in the western part of the continent"; Ares Familia.
+[@so09-lefiya]: SO09 | Prologue: Recollections of an Elf | "That pink elf from Orario"; Marius on the artillery units; "Have all the troops retreat."; "the first prince of Rakia who served as his executive officer".
+[@so09-sixth]: SO09 | Prologue: Recollections of an Elf | "Rakia had picked fights with Orario before, suffering losses every time"; "this was their sixth attempt to invade".
 [@so09-spies]: SO09 | Chapter 2: A Brief Calm | "They want to keep Orario’s forces outside the walls."; "the spies Rakia has probably snuck into the city"; "they had received word that Ares Familia’s spies had been captured".
 [@ss01-surrender]: SS01 | | The Japanese edition (file part0048, paragraph 3) dates the story a few days after the complete withdrawal of Rakia's army.
+[@ss01-rakia-surrender]: SS01 | | "It had been a few days since the Rakian army tendered their unconditional surrender."
+[@so05-villages]: SO05 | Interlude: Flip Side of the Compromise | "So many elven tribes have no forest, no village to return to thanks to his family!"; "The number of elves who’d lost their villages due to the heedless embers of those magic swords was almost uncountable."

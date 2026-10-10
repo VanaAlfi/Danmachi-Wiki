@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "Monsters of the Dungeon born with minds, language and feelings of their own. They want to live on the surface in peace, and are secretly supported by Ouranos.",
+  "summary": "Monsters of the Dungeon born with minds and feelings of their own, many of them able to speak. They want to live on the surface in peace, and are secretly supported by Ouranos.",
   "aliases": ["Fia", "Ranieh", "Cliff"],
   "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vols. 10–12 and Minor Myths and Legends Vol. 1",
   "related": ["dungeon", "bell-cranell", "hermes", "knossos", "loki-familia", "haruhime", "hestia-familia", "al-miraj"],
@@ -38,6 +38,8 @@ Xenos dream of their lives as earlier monsters. Ouranos's theory is that monster
 
 They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Floor 20, reached through an underwater passage; there are several between the middle and deep levels.[@fm09-village]
 
+Fels first met Lido and his kind fifteen or sixteen years before DanMachi 9, when members of a Familia close to Ouranos captured them; Ouranos kept them secret with a strict gag order, that Familia later fell into ruin, and Fels became their messenger and first contact with the surface. After talking with Lido's group, Fels and Ouranos named them Xenos.[@fm09-xenos-found] In return for the secrecy, food and equipment that Ouranos's people provide, the Xenos accept the Guild's requests to investigate incidents and to deal with Irregulars too difficult for adventurers, so that Bell's party comes to see them as Ouranos's private army; by Sword Oratoria 12 they have handled dozens of his requests regarding Irregulars.[@fm09-xenos-bargain, so12-xenos-requests] They fall into two factions, Lido's and Gros's: those who detest the people of the surface are a minority, about a third of the Xenos, led by the senior gargoyle [[gros|Gros]].[@fm10-xenos-factions]
+
 ## Known Xenos
 
 | Xenos | Notes |
@@ -49,18 +51,18 @@ They live in Hidden Villages, unmapped safe areas in the Dungeon. One lies on Fl
 | [[asterios|Asterios]] | A black [[minotaur|Minotaur]] who remembers his former battle with Bell and seeks a rematch.[@fm11-asterios] |
 | [[#fia|Fia]] | A red-haired [[monsters#harpy|harpy]], more curious about the surface than any of the others. She is captured with Wiene by Ikelos Familia's hunters and freed from her cage in Knossos in DanMachi 10.[@fm10-fia, fm10-captured, fm10-cages] |
 | [[lett|Lett]] | A "gentlemanly" red-cap [[monsters#goblin|goblin]] with an oversized battle-ax, who watches Bell's party on the nineteenth floor in DanMachi 9. In DanMachi 11 he goes after Fia when she falls from the sky.[@fm09-lett, fm11-separated, fm14-lett] |
-| [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated] |
+| [[al-miraj#aruru|Aruru]] and Helga | An [[al-miraj|al-miraj]] in a blue battle jacket who takes a liking to Bell, and the [[monsters#hellhound|hellhound]] she rides. [[cassandra|Cassandra]] shelters them in DanMachi 11.[@fm11-separated, fm11-xenos-aruru] |
 | [[#ranieh|Ranieh]] | An [[monsters#arachne|arachne]] who distrusts surface people; captured by Ikelos Familia's hunters in DanMachi 10, she crushes her own magic stone.[@fm10-ranieh, fm10-death] |
 | [[minor-characters#orde|Orde]] | A [[monsters#war-shadow|war shadow]] in Ranieh's party who cannot make a sound but is "always the first into combat"; in the hunters' ambush of DanMachi 10 a greatsword cuts him in half.[@fm10-party, fm10-deaths] |
 | [[#foh|Foh]] | A hulking [[monsters#fomoire|formoire]] with "a kind heart", who speaks only in "various howls and grunts"; his breastplate makes him "a living wall" and he fights with a large mace. He is run through in the same ambush.[@fm10-party, fm10-deaths] |
 | Cliff | A cheerful [[monsters#hippogriff|hippogriff]] who "preferred to be airborne" and liked teasing the others; killed with Orde and Foh in DanMachi 10.[@fm10-party, fm10-deaths] |
-| [[#gryuu|Gryuu]] | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word Sword Oratoria 14 reads as *green dragon*. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[mari|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja] |
+| [[#gryuu|Gryuu]] | An old-timer, a wood dragon too big to move about freely, which is why Lido leads (DanMachi 9). The Japanese writes his name over the kanji for *wood dragon*, the word DanMachi 9 itself reads as *green dragon* when the party first sees the dragon. DanMachi 14 names him, printed *Gryu*, as a "village caretaker" like [[mari|Mari]].[@fm09-gryuu, fm14-gryu, fm14-gryu-ja, fm09-dragon] |
 
 ## Ranieh {#ranieh}
 
 Ranieh is an arachne: she has the upper body of a woman and the many legs of a spider. She wears adventurer's armour and a helmet whose visor hides her face, and she takes the helmet off only among Xenos. Under it she has white hair and red, human-like eyes, unlike the compound eyes of ordinary arachnes.[@fm10-ranieh] She speaks the language of people better than most Xenos, but unlike Lido and Rei she belongs to the Xenos who detest the surface. She tells [[wiene|Wiene]] that she knows nothing of people's "cruelty, their cunning".[@fm10-ranieh, fm10-hatred]
 
-In DanMachi 10 Ranieh leads a party of six, among them Wiene and the harpy Fia, through the Dungeon.[@fm10-ranieh] When Wiene hears cries for help, Ranieh leads them to a crucified [[monsters#siren|siren]]. She ignores [[gros|Gros]], who warns her through a paired crystal that it may be a trap, and the party is ambushed by [[ikelos-familia|Ikelos Familia]]'s hunters.[@fm10-trap] With both arms and all her legs broken, she is captured. When the hunters move to abuse her, she spits acid onto three of them, and as they stab her she tears out her own magic stone and crushes it, crying "I’d never let you have it!!"[@fm10-death]
+In DanMachi 10 Ranieh leads a party of six, among them Wiene and the harpy Fia, through the Dungeon.[@fm10-ranieh] When Wiene hears cries for help, Ranieh leads them to a crucified [[monsters#siren|siren]]. She ignores [[gros|Gros]], who warns her through a paired crystal that it may be a trap, and the party is ambushed by [[ikelos-familia|Ikelos Familia]]'s hunters.[@fm10-trap] With both arms and all her legs broken, she is captured. When the hunters move to abuse her, she spits acid onto three of them, and as they stab her she drives her hand into her own chest and crushes her magic stone, crying "I’d never let you have it!!"[@fm10-death]
 
 Gros, who saw her death through the crystal, calls on the Xenos to avenge Ranieh and the others.[@fm10-revenge] One of the hunters she burned takes refuge in [[rivira|Rivira]], and the scent of her venom, left behind like a thread, leads the Xenos there.[@fm10-acid] Minor Myths and Legends 1 shows her earlier in the Hidden Village on the twentieth floor, offering to teach the newly arrived, weeping Wiene "how things work around here", to Lido's alarm.[@ss01-ranieh]
 
@@ -90,11 +92,13 @@ He travels with Wiene's party of six, led by the arachne [[#ranieh|Ranieh]], and
 
 | Volume | Events |
 |---|---|
-| DanMachi 9 | Bell shelters Wiene and becomes the first person from the surface welcomed into a Hidden Village. [[ikelos-familia|Ikelos Familia]]'s hunters are capturing, torturing and selling Xenos abroad.[@fm09-bell, fm09-ikelos] |
+| DanMachi 9 | Bell and his party, who sheltered Wiene, become the first guests from the surface ever welcomed into a Hidden Village. [[ikelos-familia|Ikelos Familia]]'s hunters are capturing, torturing and selling Xenos abroad.[@fm09-bell, fm09-ikelos] |
 | DanMachi 10 | Xenos are freed from the hunters' prison in [[knossos|Knossos]]; the fighting spills into [[daedalus-street|Daedalus Street]], and Bell's public defence of Wiene wrecks his reputation.[@fm10-freed, fm10-reputation] |
 | DanMachi 11 | Hermes's staged attack fails when Bell trusts Gros; the Xenos escape and return safely to a Hidden Village. Ouranos spreads a false story that Loki Familia exterminated them.[@fm11-gros, fm11-village, fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep them secret, and [[finn-deimne|Finn]] forms a limited alliance with them for the assault on Knossos.[@so10-compact] |
-| DanMachi 14 | On Ouranos's orders, Xenos help rescue Bell and [[lyu-leon|Lyu]] from [[floor-37|Floor 37]].[@fm14-rescue] Lett's group, Fia among them, goes through the secret passage on the eighteenth floor towards the [[water-capital|Water Capital]], disguised in robes, while Rei's group stays in Knossos. They had pledged to come to Bell's aid.[@fm14-lett] |
+| Sword Oratoria 11 | The Xenos join Loki Familia's first attack on Knossos as a separate force, striking from the Dungeon's eighteenth floor while the adventurers come in from the surface.[@so11-xenos-knossos] |
+| Sword Oratoria 12 | At Fels's request the Xenos, who all have the potential of Level 3 or above (printed "a potential beyond Level Three"), take on one front of the final battle, and Asterios comes to reinforce Lido's group.[@so12-xenos-front, so12-xenos-asterios] |
+| DanMachi 14 | On Ouranos's orders, Xenos help rescue Bell and [[lyu-leon|Lyu]] from [[floor-37|Floor 37]].[@fm14-rescue, fm14-xenos-floor37] Lett's group, Fia among them, goes through the secret passage on the eighteenth floor towards the [[water-capital|Water Capital]], disguised in robes, while Rei's group stays in Knossos. They had pledged to come to Bell's aid.[@fm14-lett] |
 
 The alliance with Loki Familia is limited to the Knossos campaign; Finn declines to promise peace or coexistence afterwards.[@so10-compact] Their existence remains hidden from the public.[@fm11-cover]
 
@@ -104,25 +108,25 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 > - Why Xenos are born, beyond Ouranos's theory.[@fm09-reborn]
 > - Whether they will ever live openly on the surface; Fels says clearing the Dungeon's deepest floor is necessary for coexistence but does not say why.[@fm12-fels]
 
-[@fm09-xenos]: FM09 | | About forty intelligent monsters; their nature and hopes.
-[@fm09-ouranos]: FM09 | | Ouranos and Fels's secret network.
-[@fm09-reborn]: FM09 | | Dreams of past lives; the rebirth theory; magic stones.
+[@fm09-xenos]: FM09 | Chapter 5: Heretics | About forty intelligent monsters; their nature and hopes.
+[@fm09-ouranos]: FM09 | Chapter 5: Heretics | Ouranos and Fels's secret network.
+[@fm09-reborn]: FM09 | Chapter 5: Heretics | Dreams of past lives; the rebirth theory; magic stones.
 [@fm09-village]: FM09 | Chapter 5: Heretics | The Floor 20 Hidden Village.
-[@fm09-lido]: FM09 | | Lido.
+[@fm09-lido]: FM09 | Chapter 5: Heretics | Lido.
 [@fm09-wiene]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hestia names Wiene.
-[@fm09-bell]: FM09 | | Bell welcomed into the Hidden Village.
+[@fm09-bell]: FM09 | Chapter 5: Heretics | Bell's party welcomed as the Hidden Village's first guests: "the first people we’ve ever had as guests".
 [@fm09-ikelos]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Ikelos Familia's hunters.
 [@fm10-freed]: FM10 | Chapter 9: Dreams of Beasts | The prison in Knossos.
-[@fm10-reputation]: FM10 | | Bell's reputation.
+[@fm10-reputation]: FM10 | Epilogue: The Decision's Cost | Bell's reputation.
 [@fm11-gros]: FM11 | | Gros and Hermes's plan.
 [@fm11-volunteer]: FM11 | Chapter 6: A Deity’s Scheme | "Since I used to abhor humans, I’m best for this role."
 [@fm11-asterios]: FM11 | Chapter 7: The Return of the Hero | Asterios.
 [@fm11-village]: FM11 | Epilogue: And So I Start to Run Again | Return to the Hidden Village.
-[@fm11-cover]: FM11 | | The false extermination story; secrecy.
+[@fm11-cover]: FM11 | Epilogue: And So I Start to Run Again | The false extermination story; secrecy.
 [@fm12-fels]: FM12 | Chapter 1: Rabbit Close-Up | Fels on the future.
 [@fm14-rescue]: FM14 | Chapter 8: The Voice of the Hammer | Ouranos's mission for the Xenos.
 [@so10-gros]: SO10 | Chapter 6: The Hero’s Self-Denial | Gros spares Bell; Rei shields Alicia.
-[@so10-compact]: SO10 | | The Loki–Ouranos compact; Finn's limited alliance.
+[@so10-compact]: SO10 | Chapter 6: The Hero's Self-Denial | The Loki–Ouranos compact; Finn's limited alliance.
 [@fm09-lett]: FM09 | Chapter 5: Heretics | "Lett and his team started observing you upstairs, on the nineteenth floor."
 [@fm10-ranieh]: FM10 | Chapter 7: The King of Atrocity | "an arachne, a harpy, a formoire, a hippogriff, a war shadow"; "Her name was Ranieh."; "an arachne Xenos"; "arachnes typically had compound eyes"; "better command of the language spoken by people than most Xenos".
 [@fm10-hatred]: FM10 | Chapter 7: The King of Atrocity | "Ranieh was part of the group of Xenos that detested the people who lived on the surface."; "Nothing of their cruelty, their cunning."
@@ -136,14 +140,14 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm10-cages]: FM10 | Chapter 9: Dreams of Beasts | "The harpy Fia was in the first cage in the row"; "Lido left Fia in Lett’s care".
 [@fm10-fia2]: FM10 | Chapter 7: The King of Atrocity | "came to walk beside her to reassure her"; "Fia seemed about the same age as their new companion, with deep-red hair flowing past her shoulders".
 [@fm11-reunion]: FM11 | Chapter 5: Ultra Soul! | "There they stand, Lett the red-cap next to Fia the harpy."; "they saw Haruhime’s magical light".
-[@fm11-separated]: FM11 | | Rei: "Fia was with us, but when things got too intense, she fell from the sky…and Lett went after her"; "red-cap goblin, harpy".
+[@fm11-separated]: FM11 | Chapter 2: Diverging Strands, Intersecting Plans | Rei: "Fia was with us, but when things got too intense, she fell from the sky…and Lett went after her"; "red-cap goblin, harpy".
 [@fm14-lett]: FM14 | Chapter 8: The Voice of the Hammer | "the harpy Fia"; "Lett, the gentlemanly red-cap goblin"; "a battle-ax far too large for its size"; "Rei had taken charge of the group that remained in Knossos"; "We made a pledge to Mr. Bell!"
 [@fm10-party]: FM10 | Chapter 7: The King of Atrocity | "the hulking formoire named Foh"; "Despite his massive and intimidating frame, Foh had a kind heart."; "various howls and grunts"; "transforming him into a living wall"; "his large mace"; "Cliff the hippogriff preferred to be airborne"; "The lighthearted and cheerful monster also enjoyed teasing those around him."; "The war shadow Orde, though unable to produce any sounds, was always the first into combat".
 [@fm10-deaths]: FM10 | Chapter 7: The King of Atrocity | "A greatsword appeared from behind Dix’s shadow and cut Orde in half."; "Foh was completely run through"; "Foh was dead. Orde and Cliff had been killed as well."
 [@fm09-gryuu]: FM09 | Chapter 5: Heretics | Lido on why he leads. The Japanese edition (file c5SZ, paragraphs 969–971) has him call Gryuu an old-timer, a wood dragon who cannot move about freely with his bulk, so that he leads everyone.
 [@fm14-gryu]: FM14 | Epilogue: You’ll Be Back II | "there’s no village caretaker like Gryu or Mari down there".
 [@fm10-flight]: FM10 | Chapter 9: Dreams of Beasts | Fels: "Lett, Fia, can you escape from here?"; "Airborne but unsteady, the red-cap took hold of one of her legs."; "passing over their crazed brethren".
-[@fm12-norms]: FM12 | | Printed heading "Chapter 5: Bride of the Water Capital" (not in the evidence map): "Both are uglier than old crones"; "how far Rei and Fia have deviated from the norms of their race".
+[@fm12-norms]: FM12 | Chapter 5: Bride of the Water Capital | "Both are uglier than old crones"; "how far Rei and Fia have deviated from the norms of their race".
 [@fm14-costumes]: FM14 | Chapter 8: The Voice of the Hammer | "They had done it all to rescue Hestia Familia"; "If an outsider had seen Lett and Fia in their costumes, they wouldn’t have been the least bit suspicious".
 [@so12-fia]: SO12 | Chapter 5: Final War | "Fia the harpy and Lett the red-cap spoke in fluent Koine, comments tinged with fear." The Japanese edition (file c2DW, paragraph 355) says fluent human speech.
 [@ss01-fia]: SS01 | | Printed heading "Monstrous Longing, and a Sage’s Enlightenment" (not in the evidence map): "even Fia and Aruru will get to Bell before you!"
@@ -158,3 +162,12 @@ The alliance with Loki Familia is limited to the Knossos campaign; Finn declines
 [@fm10-foh-dix]: FM10 | Chapter 7: The King of Atrocity | Dix turns Foh's blow aside and runs him through from behind; Foh dies before Wiene and is turned to ash.
 [@fm10-foh-hunters]: FM10 | Chapter 7: The King of Atrocity | Foh, two meders tall, holds off the hunters alone, reading their movements. The Japanese edition (file cUX, paragraph 249) calls him a large-class monster over two meders tall; the English prints "his two-meder-tall frame".
 [@fm10-foh-ja]: FM10 | Chapter 7: The King of Atrocity | The Japanese edition writes his name in katakana, read Fō (first in file cUX, paragraph 51); the English prints Foh (13 lines of DanMachi 10).
+[@fm11-xenos-aruru]: FM11 | | Aruru and Helga: "a bulky blue battle jacket" (Chapter 4); Cassandra "hid the two monsters in a box" and the al-miraj "straddled the hellhound" (Interlude); "Aruru, who is still glued to me" (Chapter 5).
+[@fm14-xenos-floor37]: FM14 | Epilogue: You'll Be Back II | "we got Ouranos’s message from Fels telling us to head to the thirty-seventh floor"
+[@fm09-xenos-found]: FM09 | Chapter 5: Heretics | Fels: "I first encountered Lido and his kind fifteen, maybe sixteen years ago."; "That familia fell into ruin and no longer existed."; "we decided to dub their group of heretics ‘Xenos.’"
+[@fm09-xenos-bargain]: FM09 | Chapter 5: Heretics | Lido: "They’ve pulled a lot of strings to keep us hidden, as well as provide us with food and equipment"; Rei: "We accept their requests to investigate situations or strange incidents while suppressing uprisings in the shadows"; "Ouranos’s private army".
+[@so12-xenos-requests]: SO12 | Chapter 5: Final War | "With dozens of requests under their belt from Ouranos regarding Irregulars in the Dungeon"
+[@fm10-xenos-factions]: FM10 | Chapter 7: The King of Atrocity | "The senior gargoyle, Gros, was the leader of this faction."; "they still made up about one third of the Xenos"; "Both Xenos factions, Lido’s and Gros’s, were up in arms."
+[@so11-xenos-knossos]: SO11 | Chapter 2: The Decisive Battle Intermission | Ouranos: "I’m planning to have them, the Xenos, join the first attack."; "So the Xenos will attack from the eighteenth floor, and the adventurers will come in from aboveground"
+[@so12-xenos-front]: SO12 | Chapter 4: Nameless Heroes | Fels: "—The Xenos will do it."; "they all hold a potential beyond Level Three"; "allow the Xenos to bear the responsibility for one of the fronts in this crucial battle". The Japanese edition (file c1PZ, paragraph 154) gives every one of them a potential of Level 3 or above, which takes Level 3 in; the English prints "beyond Level Three".
+[@so12-xenos-asterios]: SO12 | Chapter 7: Final War II | "the strongest Xenos had cast untold masses of adventurers into the depths of fear—as the black minotaur. He had appeared to reinforce Lido’s group."

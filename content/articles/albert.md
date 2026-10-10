@@ -23,7 +23,7 @@
   }
 }
 ---
-**Albert** is a legendary hero whose story appears in [[dungeon-oratoria|Dungeon Oratoria]] and other tales.[@fm16-hero] [[bell-cranell|Bell Cranell]] recalls him as the strongest hero, with his legend in [[dungeon-oratoria|Dungeon Oratoria]]'s final chapter.[@fm16-hero] That legend tells of his taking an eye from the dragon of [[three-great-quests|the Three Great Quests]] and driving it away at the cost of his life.[@fm16-dragon, fm20-target]
+**Albert** is a legendary hero whose story appears in [[dungeon-oratoria|Dungeon Oratoria]] and other tales.[@fm16-hero] [[bell-cranell|Bell Cranell]] recalls him as the strongest hero, with his legend in [[dungeon-oratoria|Dungeon Oratoria]]'s final chapter.[@fm16-hero] That legend tells of his taking an eye from the dragon of [[three-great-quests|the Three Great Quests]] and driving it away at the cost of his life.[@fm16-dragon, fm20-target] His feat ended the ancient era: "His death marked the beginning of the age of deities." Shortly after the dragon was gone, the first gods descended to the mortal realm.[@fm16-albert-era]
 
 ## Occurrences by volume {#occurrences-by-volume}
 
@@ -32,12 +32,13 @@
 | Sword Oratoria 5 | [[bell-cranell|Bell Cranell]] identifies [[aria|Aria]] as the great spirit associated with Albert's life in [[dungeon-oratoria|Dungeon Oratoria]].[@so05-aria] |
 | Sword Oratoria 5 | [[bell-cranell|Bell Cranell]] says the version drawn by his grandfather includes Albert's child, who disappears in the final battle.[@so05-child] |
 | DanMachi 15 | [[aiz-wallenstein|Aiz Wallenstein]] leaves flowers at Albert's marker, while [[bell-cranell|Bell Cranell]] recalls that books use different appellations.[@fm15-grave] |
+| DanMachi 16 | Bell links Aiz's family name with Albert's other name, Valdstejn, the Mercenary King, and suspects "something more than simple coincidence" between the strongest hero of ancient times and the strongest of today, though Aiz did not look like someone visiting a distant ancestor's grave.[@fm16-valdstejn-aiz] |
 | DanMachi 16 | [[bell-cranell|Bell Cranell]] finds an appellation from his grandfather's version absent from his official [[dungeon-oratoria|Dungeon Oratoria]] copy and the statue's pedestal.[@fm16-name] |
 | DanMachi 16 | [[syr-flover|Syr Flover]] says the empty place opposite Albert on the Bridge of Heroes awaits the final hero who defeats the ancient dragon and completes the bridge.[@fm16-bridge] |
 | DanMachi 20 | [[leon-verdenberg|Leon Verdenberg]] recounts Albert's driving the dragon from the western lands, followed by a great spirit sacrificing itself to seal the dragon.[@fm20-seal] |
 
 
-[@fm16-hero]: FM16 | | Albert’s reputation and the legend in Dungeon Oratoria’s final chapter.
+[@fm16-hero]: FM16 | Chapter 1: A Stormy Love Letter | Albert’s reputation and the legend in Dungeon Oratoria’s final chapter.
 [@fm16-dragon]: FM16 | Chapter 5: The Proof of ( ) | The legend of the hero taking an eye, driving the dragon away at the cost of his life and the gods’ later descent.
 [@fm20-target]: FM20 | Chapter 3: The World, The Festival, and Reality | The dragon is the last target of the Three Great Quests.
 [@so05-aria]: SO05 | Interlude: Flip Side of the Compromise | Bell identifies Aria as the great spirit associated with Albert’s life.
@@ -47,3 +48,5 @@
 [@fm16-bridge]: FM16 | Chapter 5: The Proof of ( ) | Syr explains the empty place opposite Albert’s statue on the Bridge of Heroes.
 [@fm20-seal]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon explains the dragon’s retreat under Albert and its subsequent sealing by a spirit.
 [@fm15-albert-ja]: FM15 | Epilogue: Hero’s Elegy | The Japanese edition writes the name in katakana, Albert (file c6MZ, paragraph 355).
+[@fm16-albert-era]: FM16 | Chapter 5: The Proof of ( ) | "His death marked the beginning of the age of deities."; "shortly after the Black Dragon was gone, the first of the deities descended to the mortal realm"
+[@fm16-valdstejn-aiz]: FM16 | Chapter 1: A Stormy Love Letter | "Albert the Great is known by many names and one of them is Valdstejn, the Mercenary King."; "something more than simple coincidence linking the strongest of ancient times and the current generation’s strongest"; "didn’t seem very much like someone visiting the grave of a distant ancestor"

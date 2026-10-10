@@ -37,6 +37,7 @@
 | DanMachi 19 | He also demands that Bell Cranell write and submit his report, claiming the newcomer receives credit through the squad's work.[@fm19-homework] |
 | DanMachi 19 | With his companions' support, he leaps from a dead tree and brings his hammer down on an [[monsters#infant-dragon|infant dragon]]'s back.[@fm19-dragon] |
 | DanMachi 19 | Afterward, he tells Bell Cranell to call him Iglin without honorifics and to stop using polite speech.[@fm19-familiarity] |
+| DanMachi 19 | When a mass birth of bad bats brings down the ceiling of the fifteenth floor, Bell Cranell pushes Iglin and Legi clear of the rubble.[@fm19-collapse] Fleeing to the Great Wall of Sorrows, the squad is chased by [[goliath|Goliath]], and Bell shoves Iglin, Nina and Legi into the connecting passage just as its blow lands; the exhausted squad reaches [[rivira|Rivira]].[@fm19-collapse] |
 | DanMachi 19 | During the later trip with [[rivira|Rivira]] adventurers, he takes the opportunity to examine their weapons.[@fm19-study] |
 | DanMachi 19 | Bell Cranell pushes Iglin away from a [[monsters#blue-dragon|dragon]]'s corrosive light but is caught in the attack himself.[@fm19-rescue] |
 | DanMachi 20 | Initially unsure how to treat Bell Cranell after discovering his identity, Iglin smiles when they meet again.[@fm20-distance, fm20-reunion] |
@@ -58,3 +59,4 @@
 [@fm20-games]: FM20 | Chapter 3: The World, The Festival, and Reality | The third squad performs comparably to elite squads in the Orariad.
 [@fm20-secret]: FM20 | Chapter 4: The Knight’s Afterglow | Iglin shouts over Chris to avoid exposing Rapi’s identity, then watches Leon and Bell.
 [@fm19-iglin-ja]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The Japanese edition writes his name in katakana, read Igurin (file part0023, paragraph 360).
+[@fm19-collapse]: FM19 | Chapter 5: My Dream | "I push Legi and Iglin forward"; "This is the Great Wall of Sorrows"; "Goliath, the Monster Rex!"; "I push him, Nina, and Legi forward"; "actually made it all the way to Rivira"

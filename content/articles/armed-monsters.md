@@ -41,14 +41,14 @@ During the [[ganesha-familia|Ganesha Familia]] encounter, equipped monsters can 
 | DanMachi 10 | [[ganesha-familia|Ganesha Familia]] struggles against monsters that knock its members' weapons aside and strike back; a gargoyle, siren and lizardman show potential exceeding the [[subjugation-team|team]]'s first-tier adventurers.[@fm10-battle] |
 | Sword Oratoria 10 | [[loki-familia|Loki Familia]] gains the advantage in the street battle, but [[hyrute-sisters|Tione]] recognizes learned combat techniques in the lizardman she fights.[@so10-street] |
 | Sword Oratoria 11 | [[finn-deimne|Finn]] reports intelligence sufficient for communication and announces the Xenos designation to his Familia.[@so11-recognition] |
-| DanMachi 14 | [[anya-fromel|Anya]] {{small|printed *Ahnya*}} and her companions follow an armed-monster parade on [[water-capital|Floor 27]], and the monsters fight other monsters while ignoring the adventurers.[@fm14-help] |
+| DanMachi 14 | [[anya-fromel|Anya]] {{small|printed *Ahnya*}} and her companions follow an armed-monster parade on [[water-capital|Floor 27]], and the monsters hunt down the voltemerias besieging the party before rushing off; Chigusa feels they were intentionally helping them.[@fm14-help] |
 | Sword Oratoria 12 | The armed Xenos cut, smash and remove the green flesh blocking their way through Knossos.[@so12-equipment, so12-clearing] |
 
 
 [@so12-equipment]: SO12 | Chapter 2: An Evil Omen | Human equipment identifies the armed Xenos group in Knossos.
 [@fm10-rivira]: FM10 | Chapter 8: City Panic | Attack on Rivira and the Guild's suspected subspecies interpretation.
 [@fm10-battle]: FM10 | Chapter 9: Dreams of Beasts | Weapons, combat skill, difficult taming and the fight with Ganesha Familia.
-[@so10-street]: SO10 | | Loki Familia's street battle and the lizardman's learned techniques.
+[@so10-street]: SO10 | Chapter 2: Someone Named Fool | Loki Familia's street battle and the lizardman's learned techniques.
 [@so11-recognition]: SO11 | Chapter 1: Why I’ll Start Running, Too | Finn's distinction between Xenos and ordinary monsters and Alicia's account.
 [@fm14-help]: FM14 | Chapter 8: The Voice of the Hammer | Armed monsters fighting other monsters and the companions' reactions.
 [@so12-clearing]: SO12 | Chapter 2: An Evil Omen | The Xenos remove the obstructing green flesh.

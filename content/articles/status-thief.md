@@ -51,7 +51,7 @@ Criminals who fear identification destroy the evidence. In Sword Oratoria 3 [[lu
 ## Notable uses
 
 - **Rivira (Sword Oratoria 2).** Identifying the murdered Hashana.[@so02-rivira, so02-read]
-- **The casino (Familia Chronicle 1).** [[lyu-leon|Lyu]] holds up a vial to back her claim that the man calling himself Terry Cervantes is really Ted, a former bookie. She later slips the vial to [[shakti-varma|Shakti]] of Ganesha Familia, and once the Status Thief has revealed his identity, Ted confesses everything during the Guild's questioning.[@fc01-ted, fc01-shakti, fc01-confession] The novel does not show who applied it.
+- **The casino (Familia Chronicle 1).** [[lyu-leon|Lyu]] holds up a vial to back her claim that the man calling himself Terry Cervantes is really Ted, a former bookie. She later slips the vial to [[shakti-varma|Shakti]] of Ganesha Familia, and once the Status Thief has revealed his identity, Ted confesses everything during the Guild's questioning.[@fc01-ted, fc01-shakti, fc01-confession] Who applied it was not located in the checked text.
 - **Freya and Bell (DanMachi 17).** Bell still bears [[hestia|Hestia]]'s [[falna|Falna]]. [[freya|Freya]] uses Status Thief to unlock his Status, then Status Snitch to update it, then her own ichor so that her mark stays on his back for a time.[@fm17-snitch] Earlier in the volume Hestia sees his Status exposed and guesses that "a Status Thief or something of the like" has removed her lock.[@fm17-hestia]
 
 ## Status Snitch
@@ -68,8 +68,8 @@ Status Snitch is a separate and far rarer item, made by combining the ichor of s
 [@so03-lulune]: SO03 | Chapter 4: White-Haired Devil | Lulune's vial; the Inferno Stones; no point using it.
 [@so05-fire]: SO05 | Interlude: Flip Side of the Stage | Fire rather than poison, because of Status Thief.
 [@fc01-ted]: FC01 | Crush the Grand Casino! | Lyu holds up the vial: "Your name is Ted."
-[@fc01-shakti]: FC01 | | Lyu gives the vial to Shakti.
-[@fc01-confession]: FC01 | | Ted's identity revealed; his confession.
+[@fc01-shakti]: FC01 | Crush the Grand Casino! | Lyu gives the vial to Shakti.
+[@fc01-confession]: FC01 | Crush the Grand Casino! | Ted's identity revealed; his confession.
 [@fm17-hestia]: FM17 | Chapter 1: The Opening of Hostilities | Hestia guesses a Status Thief removed her lock.
 [@fm17-snitch]: FM17 | Chapter 2: Alone Inside a Sandbox | Status Snitch; Freya uses both items and her ichor.
 [@fm17-status-thief-ja]: FM17 | | The Japanese edition writes the name in kanji meaning unlocking drug, with the reading Status Thief; the infobox gives the kanji.

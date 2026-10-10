@@ -39,6 +39,7 @@
 | Volume | Events |
 |---|---|
 | DanMachi 6 | Magic "windows" in the bars, the Guild's garden and Central Park show the [[war-game|War Game]] to the city.[@fm06-mirror] |
+| DanMachi 10 | [[ganesha-familia|Ganesha Familia]]'s [[subjugation-team|subjugation team]] for the armed monsters gathers in Central Park, while adventurers, citizens and gods form a ring around the park's edge to watch it.[@fm10-subjugation] |
 | DanMachi 11 | Bell comes down into Central Park, and its eastern side becomes the battlefield of his final clash with [[asterios|Asterios]]. The city watches from Familia homes overlooking the park and from the Pleasure Quarter's theatre.[@fm11-clash] |
 | DanMachi 15 | At [[elegia|Elegia]], people in white robes set out from Central Park to visit the city's monuments to its heroes, then return to sing.[@fm15-elegia] |
 | DanMachi 16–17 | A goddess opens the [[elegia#goddess-festival|Goddess Festival]] from Central Park by magic-stone amplifier. [[freya|Freya]] later stands on one of the "four towers of bounty" there and charms everyone who sees or hears her.[@fm16-gather, fm17-towers, fm17-charm] |
@@ -61,29 +62,30 @@
 [@fm03-killing]: FM03 | Chapter 4: The Meaning of Adventure | "Waves of adventurers are coming out of Babel Tower, out of the Dungeon."
 [@fm04-spot]: FM04 | Quest X Quest | "We are in a corner of Central Park, very close to Babel Tower."; "the wide leaf tree"; "the brick planter".
 [@fm06-streets]: FM06 | Chapter 3: Outbreak | Central Park "was located where all eight main streets met in the center of the city".
-[@fm06-mirror]: FM06 | | "Magic “windows” of various sizes filled the bars, the Guild’s front garden, and Central Park."
+[@fm06-mirror]: FM06 | Chapter 5: Our War Game | "Magic “windows” of various sizes filled the bars, the Guild’s front garden, and Central Park."
 [@fm10-size]: FM10 | Chapter 7: The King of Atrocity | "The fifth floor, part of the upper levels, is said to be about as wide as Central Park on the surface."
 [@fm11-clash]: FM11 | Chapter 7: The Return of the Hero | "Bell descended into Central Park"; "The eastern side of Central Park was now the battlefield for the final clash between Bell and Asterios."; the onlookers.
 [@fm15-elegia]: FM15 | Epilogue: Hero’s Elegy | "most of the assembled people wear robes of white"; "people will start from Central Park and visit each one in turn"; "Then they come back here and sing."
-[@fm16-gather]: FM16 | | "A goddess’s gentle voice projected by a magic-stone amplifier"; "where all eight arteries of the city converged, a place where tens of thousands of people could comfortably gather".
+[@fm16-gather]: FM16 | Chapter 3: Harvest Festival | "A goddess’s gentle voice projected by a magic-stone amplifier"; "where all eight arteries of the city converged, a place where tens of thousands of people could comfortably gather".
 [@fm17-towers]: FM17 | Chapter 1: The Opening of Hostilities | "Freya was standing on one of the four towers of bounty at the center of Central Park."
 [@fm17-charm]: FM17 | Chapter 2: Alone Inside a Sandbox | "Every person in Central Park who saw her, every person who heard her voice via the magic-stone speakers—they were all charmed."
 [@fm20-crowd]: FM20 | Epilogue: Beautiful World | "The plaza that should have been mostly empty after adventurers departed into the Dungeon for the day was instead packed with people".
-[@so01-clock]: SO01 | | "The big hand of the large clock at Central Park traveled halfway around."
+[@so01-clock]: SO01 | Epilogue: Under the Sky | "The big hand of the large clock at Central Park traveled halfway around."
 [@so03-circle]: SO03 | Chapter 1: The Black Robe’s Invitation | "Central Park, the point where all eight main streets converged"; "Adventurers streamed into the circular park from every direction."
 [@so12-size]: SO12 | Chapter 3: Rabbit Oracle | "That would make it a little bigger than Central Park".
 [@so12-army]: SO12 | Chapter 6: The Divine Providence of Despair | "the strongest army gathered in Central Park at the base of Babel".
 [@ar01-base]: AR01 | Chapter 9: The Opening Act of Evil | "Send them to Central Park"; "Loki had relocated the remaining members of her familia from the Twilight Manor to Central Park."; "Let’s erect a perimeter around Central Park"; barricades of rubble and tavern barrels (the Japanese edition, file c4VY, paragraph 281).
-[@ar02-base]: AR02 | | "They’re setting up a forward base in Central Park"; "our true headquarters from now on".
+[@ar02-base]: AR02 | Prologue: A City Shrouded in Darkness | "They’re setting up a forward base in Central Park"; "our true headquarters from now on".
 [@ar02-guild]: AR02 | Chapter 2: Wavering Justice | Guild Headquarters, in the north-west of the city (the Japanese edition, file c1E0), "now the second-most important base of operations in the city after Central Park".
 [@ar02-speech]: AR02 | Epilogue: All You Need Is Justice | "Familia members from all across the city had gathered there."; "Central Park erupted into howls."
 [@ar03-ice]: AR03 | Prologue: Last Intermission | "The barrier is made of ice"; "It encircles all of Central Park."; "multiple layers of thick ice".
 [@ar03-fortress]: AR03 | Prologue: Last Intermission | "Finn had quickly decided to make Central Park the base of allied operations"; "the foot of Babel was the most fortified location in the city".
-[@ar03-barrier]: AR03 | | "Zald’s reached Central Park! He’s made contact with Warlord!!"; "Seal off Central Park"; "They’re trappin’ Zald inside Central Park?!"
-[@ar03-forces]: AR03 | | "The bulk of the city’s forces had been gathered in Central Park to take out Zald and Alfia."; "These were both myths that Valletta was made to believe."
+[@ar03-barrier]: AR03 | Chapter 2: The Conqueror’s Return | "Zald’s reached Central Park! He’s made contact with Warlord!!"; "Seal off Central Park"; "They’re trappin’ Zald inside Central Park?!"
+[@ar03-forces]: AR03 | Chapter 2: The Conqueror’s Return | "The bulk of the city’s forces had been gathered in Central Park to take out Zald and Alfia."; "These were both myths that Valletta was made to believe."
 [@ar03-duel]: AR03 | Chapter 5: Playing the Violence Card | "There, in Central Park, a duel had just reached its conclusion. The boaz man fell to one knee".
 [@ar03-stands]: AR03 | Chapter 5: Playing the Violence Card | "The noise coming from Central Park…it’s started up again!"; "Ottar still stands…"
 [@ar03-monsters]: AR03 | Chapter 5: Playing the Violence Card | "let loose every last monster they had and concentrate their forces in Central Park".
 [@ar03-ring]: AR03 | Chapter 6: The Nameless Heroes | "a strange ring of light surrounding Central Park"; "a halo of silver and black".
 [@ar03-aftermath]: AR03 | Chapter 7: What She Wished For | "In Central Park, just south of Babel’s gates, the defeated conqueror was lying on the ground."
 [@ar03-execution]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "people flocked the base of Babel to bear witness to their foe’s execution"; "Central Park was teeming with so many people".
+[@fm10-subjugation]: FM10 | Chapter 8: City Panic | "The city, still engulfed by shaking, nervous energy, had shifted its attention to Central Park."; "A ring of bystanders had formed around the park’s edge, all focused on the strong adventurers gathered inside"; "To get to Central Park before the subjugation team set out."

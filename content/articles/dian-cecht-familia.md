@@ -67,16 +67,16 @@ In Minor Myths and Legends 2 he visits [[loki-familia|Loki Familia]] with Amid, 
 [@fm18-base]: FM18 | Chapter 8: The Great Familia War | The base camp as the evacuation point; Dian Cecht Familia members there.
 [@fm18-amid]: FM18 | Chapter 8: The Great Familia War | "Among the Dian Cecht Familia, healers who had avoided participating in the war game, Amid".
 [@so01-shop]: SO01 | Chapter 3: White Rabbit | The white stone building and banner; the white robe uniform; medicines, custom orders; the sight-restoring treatment; twenty elixirs, no less than 500,000 valis each. The Japanese edition (file c31J, paragraphs 235 and 243) speaks of an advanced treatment that restores even lost sight, and of a white uniform that suggests a healer.
-[@so05-antivenin]: SO05 | | "I’m headed to Dian Cecht Familia. Even if I buy up every dose they have, it probably won’t be enough"; asking Dea Saint would cost even more.
+[@so05-antivenin]: SO05 | Interlude: Flip Side of the Farce | "I’m headed to Dian Cecht Familia. Even if I buy up every dose they have, it probably won’t be enough"; asking Dea Saint would cost even more.
 [@so06-clinic]: SO06 | Chapter 1: Quest Results & Next Quest | The clinic, "complete with emblem of herb and light".
 [@so07-finn]: SO07 | Chapter 5: Battle of Tears | "Dian Cecht’s clinic. You’ve been bedridden since the curse was broken".
 [@so08-hospital]: SO08 | Chapter 3: Unshed Tears | Pandemonium at Dian Cecht Familia's hospital.
 [@so11-healers]: SO11 | Chapter 4: Avengers ~Knossos War~ | Healers of Dian Cecht Familia at the southeast entrance; Amid healing the northeast squad.
 [@so11-barca]: SO11 | Chapter 6: And Then the God Smiled | The healers of Dian Cecht Familia; Amid against the Barca Monster.
 [@so12-healers]: SO12 | Chapter 4: Nameless Heroes | Their large mansion; all healers dispatched; Dian Cecht: "Focus on getting ready to run away!"
-[@so13-dead]: SO13 | | The dead included healers of Dian Cecht Familia.
+[@so13-dead]: SO13 | Prologue: The Sequel to Loss and Resolve | The dead included healers of Dian Cecht Familia.
 [@ss02-unicorn]: SS02 | | Dian Cecht and Amid at Loki Familia's home; the unicorn's horn; "Amid’s my personal assistant"; three days.
 [@ar01-supplies]: AR01 | Chapter 9: The Opening Act of Evil | Miach and Dian Cecht open their medical stores for anyone who needs them.
 [@ar01-amid]: AR01 | Chapter 9: The Opening Act of Evil | The emblem: a ball of light flanked by herbs; one of the best medicinal suppliers; Amid its prodigal child and secret weapon.
-[@ar02-supplies]: AR02 | | "The members of Dian Cecht Familia are distributing medical supplies all over the city".
+[@ar02-supplies]: AR02 | Chapter 1: The Taste of Stones | "The members of Dian Cecht Familia are distributing medical supplies all over the city".
 [@so11-marta]: SO11 | Chapter 6: And Then the God Smiled | Amid: "Marta, Bernadette. Take over the recovery in my stead. Please support the battle lines."

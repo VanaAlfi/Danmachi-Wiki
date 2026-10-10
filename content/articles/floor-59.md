@@ -37,8 +37,8 @@ In Loki Familia's battle with this [[corrupted-spirit|demi-spirit]] the jungle b
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 1 | Finn plans a quest before the expedition goes on to Floor 59.[@so01-floor59-quest] |
-| Sword Oratoria 3 | [[levis|Levis]] tells Aiz, "Aria, go to the fifty-ninth floor."[@so03-floor59-levis, so04-floor59-plan] |
+| Sword Oratoria 1 | Finn plans a quest before the expedition goes on to Floor 59.[@so01-floor59-quest] After the battle on [[floor-50|Floor 50]] the expedition gives up that goal and returns to the surface, a failure.[@so01-floor59-turned-back] |
+| Sword Oratoria 3 | [[levis|Levis]] tells Aiz, "Aria, go to the fifty-ninth floor."[@so03-floor59-levis, so04-floor59-plan] Aiz recounts Levis's words to her superiors and asks to go there; [[finn-deimne|Finn]] agrees, and Loki Familia begins preparing its next expedition.[@so03-floor59-request] |
 | Sword Oratoria 4 | Loki Familia goes down in two parties that meet on [[floor-18|Floor 18]] and go on to [[floor-50|Floor 50]]; [[lefiya|Lefiya]] is in the main party.[@so04-floor59-plan] On Floor 59 it narrowly defeats the demi-spirit and withdraws at once.[@so04-floor59-ouranos] |
 | Sword Oratoria 5 | Finn sends [[loki|Loki]] a letter on what took place on Floor 59, including the corrupted spirit and the enemy's plot to bring down Orario.[@so05-floor59-letter] |
 | Sword Oratoria 6 | Orario talks of Loki Familia as the first to reach Floor 59 since [[zeus|Zeus]] and [[hera|Hera]].[@so06-floor59-first] |
@@ -58,3 +58,5 @@ In Loki Familia's battle with this [[corrupted-spirit|demi-spirit]] the jungle b
 [@so06-floor59-first]: SO06 | Chapter 1: Quest Results & Next Quest | Loki Familia the talk of Orario, the first to reach the fifty-ninth floor since Zeus and Hera.
 [@so12-floor59-dionysus]: SO12 | Chapter 8: A Heroes’ Chorus | Dionysus had made Loki Familia fight the demi-spirit on the fifty-ninth floor; Finn sees that battle as foreshadowing.
 [@so04-floor59-ja]: SO04 | Last Chapter: To Adventure | The Japanese edition names the floor by its number, {{ja|59階層}}, and Finn recalls that Zeus Familia's records call the floors from there on the Glacier Region, {{ja|氷河の領域}}, printed the Glacial Territories (file c5SA, paragraph 675).
+[@so01-floor59-turned-back]: SO01 | Chapter 3: White Rabbit | "Loki Familia decided to give up their expedition’s original goal and return to the surface after the battle on the fiftieth floor."; "To put it simply, their mission had ended in failure."
+[@so03-floor59-request]: SO03 | Epilogue: Catching the White Rabbit | "Aiz had stayed behind to recount everything that Levis told her."; "She finished her statement by expressing her desire to go to the fifty-ninth floor."; "Loki Familia officially began preparations for the next expedition."

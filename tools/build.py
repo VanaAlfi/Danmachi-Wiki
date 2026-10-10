@@ -172,6 +172,13 @@ SMALL = re.compile(r"\{\{small\|([^{}]+?)\}\}")
 HEADING = re.compile(r"^(#{2,4})\s+(.*?)(?:\s+\{#([\w-]+)\})?\s*$")
 LISTITEM = re.compile(r"^(\s*)(?:[-*]|(\d+)\.)\s+(.*)$")
 DIRECTIVE = re.compile(r"^\{\{([\w-]+)\}\}$")
+# Tabs (Status-tabs prototype, 9 Oct 2026), each marker on a line of its own:
+#   {{tabs|name}}  {{tab|Label}} … {{tab|Label}} …  {{/tabs}}
+# Each tab becomes a section headed by its label (id "<name>-<label slug>", or {{tab|Label|id}}); site.js turns the
+# sections into clickable tabs, and without script or in print they stay stacked.
+TABS_OPEN = re.compile(r"^\{\{tabs(?:\|([\w-]+))?\}\}$")
+TAB = re.compile(r"^\{\{tab\|([^{}|]+?)(?:\|([\w-]+))?\}\}$")
+TABS_CLOSE = re.compile(r"^\{\{/tabs\}\}$")
 
 LABELS = {
     "statement": ("Character statement", "Said by a character in the story; the narration does not confirm it."),
@@ -190,6 +197,8 @@ class Renderer:
         self.uses: dict[str, int] = {}
         self._cited = False
         self.check = art.kind == "article" and art.status == "complete"
+        self.level = 1  # level of the last heading, so that tab labels are headed one level below it
+        self.tabsets = 0
 
     # inline ---------------------------------------------------------------
     def inline(self, text: str) -> str:
@@ -280,9 +289,22 @@ class Renderer:
                 flush()
                 i += 1
                 continue
+            if (m := TABS_OPEN.match(line.strip())):
+                flush()
+                block = []
+                i += 1
+                while i < len(lines) and not TABS_CLOSE.match(lines[i].strip()):
+                    block.append(lines[i])
+                    i += 1
+                if i == len(lines):
+                    ERRORS.append(f"{self.art.slug}: {{{{tabs}}}} has no closing {{{{/tabs}}}}")
+                i += 1
+                out.append(self.tabs(m.group(1), block, callout))
+                continue
             if (m := HEADING.match(line)):
                 flush()
                 level, text, hid = len(m.group(1)), m.group(2), m.group(3)
+                self.level = level
                 hid = hid or slugify(text)
                 inner = self.inline(text)
                 if level <= 3:
@@ -323,6 +345,27 @@ class Renderer:
             i += 1
         flush()
         return "\n".join(out)
+
+    def tabs(self, name: str | None, lines: list[str], callout) -> str:
+        """A {{tabs}} block: one <section> per {{tab|Label}}, headed by its label, so the page reads as stacked
+        sections without script; site.js turns each block into tabs in the manner of MediaWiki's Tabber."""
+        self.tabsets += 1
+        group = name or f"tabs-{self.tabsets}"
+        panels: list[tuple[str, str, list[str]]] = []
+        for line in lines:
+            if (m := TAB.match(line.strip())):
+                panels.append((m.group(1).strip(), m.group(2) or f"{group}-{slugify(m.group(1))}", []))
+            elif panels:
+                panels[-1][2].append(line)
+            elif line.strip():
+                ERRORS.append(f"{self.art.slug}: text before the first {{{{tab|…}}}} of a tabs block: {line.strip()[:60]!r}")
+        if not panels:
+            ERRORS.append(f"{self.art.slug}: a {{{{tabs}}}} block has no {{{{tab|…}}}}")
+            return ""
+        h = min(self.level + 1, 4)
+        sections = [f'<section class="tabber__panel" id="{esc(pid)}"><h{h} class="tabber__title">{esc(label)}</h{h}>'
+                    f'{self.blocks(body, callout)}</section>' for label, pid, body in panels]
+        return f'<div class="tabber">{"".join(sections)}</div>'
 
     def callout(self, lines: list[str]) -> str:
         m = re.match(r"^\[!(\w+)\]\s*(.*)$", lines[0]) if lines else None
@@ -392,10 +435,13 @@ class Renderer:
     def table(self, lines: list[str], callout) -> str:
         rows = [self.split_row(l) for l in lines]
         head, body = rows[0], [r for r in rows[1:] if not all(re.fullmatch(r":?-{2,}:?", c) for c in r)]
+        # A citation in the header row covers every row: for a table copied from one printed source (a Status sheet).
+        self._cited = False
         th = "".join(f"<th scope=\"col\">{self.inline(c)}</th>" for c in head)
+        covered = self._cited
         trs = []
         for r in body:
-            self._cited = False
+            self._cited = covered
             cells = "".join(f"<td>{self.inline(c)}</td>" for c in r)
             self.need_cite("table row", " | ".join(r), callout)
             trs.append(f"<tr>{cells}</tr>")

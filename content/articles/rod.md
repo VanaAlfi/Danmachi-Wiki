@@ -23,7 +23,7 @@
   }
 }
 ---
-**Rod** is the captain of [[njordr-familia|Njörðr Familia]], a fishing Familia in [[njordr-familia#port-meren|Meren]].[@so06-captain, ss02-market] He leads it in Meren and speaks with [[aiz-wallenstein|Aiz Wallenstein]] about its fishing.[@so06-captain, ss02-market] He has reached [[level|Level]] 2 through years at sea and repeated battles.[@so06-level]
+**Rod** is the captain of [[njordr-familia|Njörðr Familia]], a fishing Familia in [[njordr-familia#port-meren|Meren]].[@so06-captain, ss02-market] He leads it in Meren and speaks with [[aiz-wallenstein|Aiz Wallenstein]] about its fishing.[@so06-captain, ss02-market] He has reached [[level|Level]] 2 through years at sea and repeated battles.[@so06-level] He is a human man nearly two meders tall, with a crop of black hair and black eyes, who says he has probably spent more of his life on the waves than on land.[@so06-rod-looks] Like the other fishermen, he loves [[njordr|Njörðr]], whom they call "Skip", for having taken care of them since childhood.[@so06-rod-skip]
 
 ## History {#history}
 
@@ -50,3 +50,5 @@
 [@so06-future]: SO06 | Epilogue: Disturbing Elements | Njörðr discusses Rod's unsettled feelings and continued work together. The Japanese edition (file c779, paragraph 25) has Njörðr say that Rod does not seem to have sorted it out either; the English prints "I'm not sure things will ever be the same between us".
 [@so12-lure]: SO12 | Chapter 7: Final War II | The fishermen respond to Orario's crisis and lure violas toward adventurers.
 [@so06-rod-ja]: SO06 | Chapter 3: Kingdom of the Amazons | The Japanese edition writes the name in katakana, read Roddo (file c1NT, paragraph 399).
+[@so06-rod-looks]: SO06 | Chapter 3: Kingdom of the Amazons | "He was a human man nearly two meders tall with a crop of black hair above his jet-black eyes"; "I’ve probably spent more of my life on the waves than here on land"
+[@so06-rod-skip]: SO06 | Chapter 3: Kingdom of the Amazons | "we all love Skip Njörðr! He’s taken care of us since we were knee-high to a minnow"

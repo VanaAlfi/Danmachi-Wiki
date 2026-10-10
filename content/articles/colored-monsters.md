@@ -42,7 +42,9 @@ They usually respond to magic power, so [[lefiya|Lefiya]] expects casting to red
 | Sword Oratoria 7 | [[anakity-autumn|Aki]] reasons that only tamers and creatures can control these monsters, so the [[evils|Evils]] would otherwise risk attacks from them.[@so07-control] |
 | Sword Oratoria 10 | Countless colored monsters occupy [[knossos|Knossos]] with the creatures' assistance.[@so10-knossos] |
 | Sword Oratoria 11 | [[bete-loga|Bete]] shatters swarms of water-spider-shaped [[monsters#varg|vargs]] with his kicks.[@so11-vargs] |
+| Sword Oratoria 11 | In [[knossos|Knossos]], plants of green flesh shaped like upside-down funnels produce colored monsters such as vargs; the [[xenos|Xenos]] crush them one after another.[@so11-plants] |
 | Sword Oratoria 12 | [[bell-cranell|Bell]] repeatedly defeats monsters from a horde whose potential exceeds Level 4.[@so12-bell] |
+| Sword Oratoria 12 | Once all the demi-spirits have been taken down and the green flesh is rotting, no monsters remain in Knossos: the colored monsters, feelers for the [[corrupted-spirit|spirit]], have stopped functioning.[@so12-feelers] |
 
 
 [@so02-stones]: SO02 | Chapter 3: Gekai Detective Loki | Brilliantly colored cores differ from normal purple stones and link the flowers to caterpillars.
@@ -59,3 +61,5 @@ They usually respond to magic power, so [[lefiya|Lefiya]] expects casting to red
 [@so11-vargs]: SO11 | Chapter 4: Avengers ~Knossos War~ | Bete smashes the water-spider-shaped vargs.
 [@so12-bell]: SO12 | Chapter 7: Final War II | Bell defeats a horde with potential exceeding Level 4.
 [@so04-colored-ja]: SO04 | Last Chapter: To Adventure | The Japanese edition writes the term in kanji meaning vividly colored monsters (file c5SA, paragraph 477).
+[@so11-plants]: SO11 | Chapter 4: Avengers ~Knossos War~ | "A grotesque organ in the shape of an upside-down funnel was enshrined in the middle of the large room"; "Composed of a green meat"; "several vargs were born from the sticky ooze seeping from the egg in the center"; "how many vividly colored monsters it could produce"; "the plant did not have any real means of defending itself"
+[@so12-feelers]: SO12 | Epilogue: Raining Light | "All the demi-spirits had been taken down and the green flesh in the labyrinth had turned a yellowish-brown color, rotting away"; "There was no trace of monsters, either"; "The vibrantly colored monsters that were like feelers for the spirit had stopped functioning"

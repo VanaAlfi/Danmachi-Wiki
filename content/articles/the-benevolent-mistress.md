@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Mia Grand's three-storey stone tavern on West Main Street in Orario, where Syr, Anya, Lyu, Chloe and Runoa work.",
   "aliases": ["Benevolent Mistress", "Hostess of Fertility"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 9, Familia Chronicle Vol. 1 and Astrea Record Vol. 2",
+  "spoilers": "DanMachi Vols. 1, 13 and 16–20, Sword Oratoria Vol. 9, Familia Chronicle Vol. 1 and Astrea Record Vols. 1–2",
   "related": ["anya-fromel", "mia-grand", "syr-flover", "lyu-leon", "chloe", "runoa", "orario"],
   "sections": [
     {"anchor": "mei", "title": "Mei", "summary": "Mei is a catgirl chef at The Benevolent Mistress.", "aliases": ["May"]}
@@ -36,23 +36,25 @@
 Familia Chronicle 1 places the tavern on West Main Street, where customers can easily come and go.[@fc01-building, fc01-west]
 
 > [!UNRESOLVED] East or West Main Street?
-> Sword Oratoria 9's recollection of Aiz's childhood reaches the newly built tavern from East Main Street. Neither book mentions a move, and neither says which is right, so the difference is recorded rather than corrected.[@so09-founding, fc01-building]
+> Sword Oratoria 9's recollection of Aiz's childhood reaches the newly built tavern from East Main Street. Neither book mentions a move, and neither says which is right, so the difference is recorded rather than corrected.[@so09-founding, fc01-building] DanMachi 13 and Astrea Record 1 also put it on East Main Street, in the Japanese editions as well.[@fm13-east, ar01-tavern]
 
 ## Building and business
 
-The building is three storeys of stone and gives the impression of a tidy inn that is larger inside than it looks from the street.[@fc01-building] Most of the employees live in its side building; Anya's own room is in the building behind the tavern.[@fc01-staffhouse, fm17-room]
+The building is three storeys of stone and gives the impression of a tidy inn that is larger inside than it looks from the street.[@fc01-building] DanMachi 1, in the Japanese as well, calls it two storeys but very deep, perhaps the largest tavern in the area; the difference is not explained in the checked text.[@fm01-tavern] Most of the employees live in its side building; Anya's own room is in the building behind the tavern.[@fc01-staffhouse, fm17-room]
 
-By day its customers are mostly women who live in the city; after dark the bar and tables fill with adventurers back from the Dungeon. The menu changes between morning and evening, and adventurers, who have more money to spend, are charged higher prices.[@fc01-building]
+By day its customers are mostly women who live in the city; after dark the bar and tables fill with adventurers back from the Dungeon. The menu changes between morning and evening, and adventurers, who have more money to spend, are charged higher prices.[@fc01-building] Mia hires only women, many of them with questionable backgrounds, and most are used to fighting; customers who make trouble are thrown out into the street.[@fm01-tavern, fc01-staff-fight]
 
-The waitresses are poorly paid. Anya, Chloe and Runoa are in debt to Mia and earn very little.[@fm16-pay] In Familia Chronicle 1, Chloe and Runoa are charged a hundred-million-valis repair bill; it is not assigned to Anya.[@fc01-bill]
+For various reasons Anya, Chloe and Runoa are in debt to Mia and earn very little.[@fm16-pay] In Familia Chronicle 1, Chloe and Runoa are charged a hundred-million-valis repair bill; it is not assigned to Anya.[@fc01-bill]
 
 ## History
 
 ### Founding
 
-Sword Oratoria 9's recollections show the tavern newly built when the young Aiz visits it, and give Mia's purpose as making a refuge in the dark times of that era.[@so09-founding]
+Sword Oratoria 9's recollections show the tavern newly built when the young Aiz visits it, and give Mia's purpose as making a refuge in the dark times of that era.[@so09-founding] Mia, a former adventurer, opened it with the money she had made in the Dungeon after the god of her Familia let her retire from dungeon crawling.[@fm01-tavern, so09-mia-money]
 
 ### Before the main story
+
+When the Evils attack the city in Astrea Record 1, the tavern is the one building left undamaged although no adventurers guard it: Mia flattens intruders with a single punch.[@ar01-tavern] In Astrea Record 2 it has been in business for two years.[@ar02-tavern-years]
 
 Anya is already working there, helping Syr, during the [[great-conflict|Great Conflict]] in Astrea Record 2.[@ar02-conflict] She was at the tavern before Lyu, Chloe and Runoa arrived.[@fc01-precedes]
 
@@ -62,9 +64,9 @@ Familia Chronicle 1's story "That Is a Benevolent Tavern: ~Girl Meets Girls~" sh
 
 Bell Cranell meets Syr at the tavern the morning after [[aiz-wallenstein|Aiz]] rescues him from a [[minotaur|Minotaur]].[@fm01-syr] In Familia Chronicle 1's casino story, set later, Anya, Chloe and Runoa wash dishes while discussing Syr's gambling.[@fc01-casino]
 
-In DanMachi 17, [[freya|Freya]]'s charm rewrites the city's memories, but Mia and Anya still remember Syr.[@fm17-memory] Freya then reveals to Anya that she had been living at the tavern as Syr.[@fm17-reveal]
+In DanMachi 17, [[freya|Freya]]'s charm rewrites the city's memories, but Mia and Anya still remember Syr.[@fm17-memory] Freya then reveals to Anya that she had been living at the tavern as Syr.[@fm17-reveal] In DanMachi 18 the tavern's staff, whose waitresses had converted so that their joining would break no rule, force their way across the bridge onto the War Game island behind Mia to fight Freya Familia; the narration calls it Orario's strongest tavern.[@fm18-tavern-war]
 
-At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her staying on as Syr.[@fm18-syr]
+At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her staying on as Syr.[@fm18-syr] In DanMachi 19 members of the defeated Freya Familia work at the tavern beside Syr, the women in its uniform and the men in their battle clothes, to share in her punishment.[@fm19-tavern-freya]
 
 > [!STATEMENT] Crowded beds
 > In DanMachi 20, Syr says she has been sharing crowded beds with coworkers while arguing for permission to stay elsewhere. That is her account in a negotiation, not a description of the staff's rooms.[@fm20-bed]
@@ -79,7 +81,7 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 | [[lyu-leon|Lyu]] | Waitress | Joins in Familia Chronicle 1's tavern story.[@fc01-recruit] |
 | [[chloe|Chloe]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
 | [[runoa|Runoa]] | Waitress | Joins in the same story; in debt to Mia.[@fc01-recruit, fm16-pay] |
-| [[#mei|Mei]] | Staff | A catgirl, one of the catperson cooks who made the tavern's signature dishes for the welcome party in Familia Chronicle 1; in DanMachi 16 Syr hushes Runoa so as not to "wake Mei and the others".[@fc01-mei, fm16-mei] |
+| [[#mei|Mei]] | Staff | A catgirl, one of the catperson cooks who made the tavern's signature dishes for the staff's party while Mia was away in Familia Chronicle 1; in DanMachi 16 Syr hushes Runoa so as not to "wake Mei and the others".[@fc01-mei, fm16-mei] |
 
 {{nocite}} This is not a complete staff list; other waitresses appear in group scenes without names.
 
@@ -105,8 +107,8 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 
 [@fc01-building]: FC01 | Crush the Grand Casino! | Three-storey stone building on West Main Street; customers and prices.
 [@fc01-west]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | West Main Street.
-[@fc01-owner]: FC01 | | Mia Grand owns the tavern.
-[@fc01-staffhouse]: FC01 | | Most employees live in the side building.
+[@fc01-owner]: FC01 | Crush the Grand Casino! | Mia Grand owns the tavern.
+[@fc01-staffhouse]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Most employees live in the side building.
 [@fc01-recruit]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
 [@fc01-precedes]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
 [@fc01-bill]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ |
@@ -122,7 +124,7 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 [@fm18-syr]: FM18 | Epilogue: Double Cast |
 [@fm20-bed]: FM20 | Chapter 1: Orario Rumble | Syr's account.
 [@ar02-conflict]: AR02 | Chapter 3: A Gray Wildflower |
-[@fc01-mei]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The welcome party's dishes. The Japanese edition (file c5X2, paragraph 67) credits the catperson cooks, Mei and the others, with the signature dishes.
+[@fc01-mei]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The dishes for the staff's party while Mia is away. The Japanese edition (file c5X2, paragraph 67) credits the catperson cooks, Mei and the others, with the signature dishes.
 [@fm16-mei]: FM16 | Chapter 1: A Stormy Love Letter | "Shhh. You’re too loud, Runoa. You’ll wake Mei and the others."
 [@fc01-kitchen]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Anya points to Mei, a catgirl chef kept busy in the kitchen.
 [@fc01-party]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Mei prepares signature dishes for a party while Mia is away. The Japanese edition (file c5X2, paragraph 67) says the dishes are the work of the catgirl cooks, Mei among them; the English prints "The catgirl Mei made all of the tavern’s signature dishes".
@@ -132,3 +134,11 @@ At the end of DanMachi 18, Syr's coworkers stop her from leaving and accept her 
 [@fm18-conversion]: FM18 | Chapter 8: The Great Familia War | Chloe says Mei and the others converted as the workers prepare for the War Game.
 [@fm18-witness]: FM18 | Chapter 9: Flower Language for You | A coworker reports Mei witnessed Anya’s abduction; workers follow her.
 [@fc01-mei-ja]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | The Japanese edition writes her name in katakana, read Mei (file c4SR, paragraph 146).
+[@fm13-east]: FM13 | Prologue: You'll Be Back | "She had just returned to The Benevolent Mistress, the bar on East Main Street."
+[@ar01-tavern]: AR01 | Chapter 9: The Opening Act of Evil | "Amid all the buildings of the city was one that stood undamaged despite the lack of adventurers guarding it. It was a tavern called The Benevolent Mistress over on East Main Street."; "flattened the intruders with a single punch"
+[@fm01-tavern]: FM01 | Chapter 2: That’s Why I Run | "It’s two stories tall like the rest, but it looks very deep. It might be the biggest bar in the area."; "She got permission from the god of her Familia to retire from dungeon crawling and open up shop."; "She only hires women, period."
+[@fc01-staff-fight]: FC01 | Crush the Grand Casino! | "It was a place where the women Mia employed all had special circumstances, and most were accustomed to fighting."; "It was a familiar scene in the neighborhood to see customers who made foolish mistakes come flying out the door"
+[@so09-mia-money]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | "You started this shop with the money you made from being an adventurer, after all."
+[@ar02-tavern-years]: AR02 | Chapter 4: Those Who Struggle | "It had been in business for two years and was surprisingly profitable, considering the times."
+[@fm18-tavern-war]: FM18 | Chapter 9: Flower Language for You | "Orario’s strongest tavern had joined the fray."; "The Benevolent Mistress’s staff had forced their way through"; "it had been Demi Ymir of all people leading that charge"; "the girls from The Benevolent Mistress had finished their conversions already"
+[@fm19-tavern-freya]: FM19 | Chapter 1: V-V-V for Victory Party | "Mr. Hegni and the other male members of Freya Familia are just wearing their normal battle clothes, while the women are wearing the iconic The Benevolent Mistress outfit"; "To share in her punishment."

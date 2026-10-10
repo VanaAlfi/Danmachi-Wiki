@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Level 3 captain of Apollo Familia, who beats Bell before the War Game of DanMachi 6 and loses to him in its final duel.",
   "aliases": ["Phoebus Apollo"],
-  "spoilers": "DanMachi Vols. 5–8",
+  "spoilers": "DanMachi Vols. 5, 6 and 8",
   "related": ["apollo", "war-game", "bell-cranell", "hestia-familia", "magic"],
   "infobox": {
     "title": "Hyacinthus",
@@ -23,15 +23,15 @@
   }
 }
 ---
-**Hyacinthus** is the Level 3 captain of [[apollo-familia|Apollo Familia]], titled *Sun's Favored Child, Phoebus Apollo*.[@fm06-hyacinthus] He tells [[apollo|Apollo]] of Bell's likely victory over the Black [[goliath|Goliath]] in DanMachi 5, after which Apollo declares he will claim Bell.[@fm05-hyacinthus]
+**Hyacinthus** is the Level 3 captain of [[apollo-familia|Apollo Familia]], titled *Sun's Favored Child, Phoebus Apollo*.[@fm06-hyacinthus] He is tall and lanky, handsome enough to rival an elf, with long, neatly styled brown hair, smooth white skin, metal earrings (the English prints "golden earrings") and sea-blue eyes.[@fm06-looks] Unlike [[daphne|Daphne]], he is one of the followers who cherish Apollo, and his god adores him.[@fm06-cherish, fm06-adored] He tells [[apollo|Apollo]] of Bell's likely victory over the Black [[goliath|Goliath]] in DanMachi 5, after which Apollo declares he will claim Bell.[@fm05-hyacinthus]
 
 ## The War Game
 
-Before the [[war-game|War Game]] of DanMachi 6, Hyacinthus defeats [[bell-cranell|Bell]].[@fm06-hyacinthus] In the Castle Siege he is Apollo Familia's commander; he fights with the [[magic-sword|magic sword]] Solar Flamberge and the spell [[#aro-zephyros|Aro Zephyros]], and Bell defeats him in their final duel, winning the War Game for [[hestia-familia|Hestia Familia]].[@fm06-hyacinthus, fm06-duel]
+Before the [[war-game|War Game]] of DanMachi 6, Hyacinthus defeats [[bell-cranell|Bell]].[@fm06-hyacinthus] In the Castle Siege he is Apollo Familia's commander; he fights with the Solar Flamberge, the special blade only the leader of Apollo Familia may carry, and the spell [[#aro-zephyros|Aro Zephyros]], and Bell defeats him in their final duel, winning the War Game for [[hestia-familia|Hestia Familia]].[@fm06-hyacinthus, fm06-duel]
 
 ## After the war
 
-When Apollo is exiled from [[orario|Orario]], a small group of his followers, including Hyacinthus, leaves with him.[@fm08-alumni]
+When Apollo is exiled from [[orario|Orario]], a small group of his followers, including Hyacinthus, breaks the city's laws to leave with him.[@fm06-exile, fm08-alumni]
 ## Magic {#magic}
 
 {{nocite}} Hyacinthus's spells, with their incantations as printed in the English novels. The combined [[magic|Magic]] page describes every spell on this wiki together.
@@ -72,11 +72,15 @@ When Apollo is exiled from [[orario|Orario]], a small group of his followers, in
 
 {{nocite}} Notable uses and open questions for Aro Zephyros are on the combined page: [[magic#aro-zephyros|Magic § Aro Zephyros]].
 
-[@fm05-hyacinthus]: FM05 | | Hyacinthus reports to Apollo.
+[@fm05-hyacinthus]: FM05 | Epilogue: The One Who Targets the Rabbit | Hyacinthus reports to Apollo.
 [@fm06-hyacinthus]: FM06 | | Level 3 captain; his title; his defeat of Bell; Solar Flamberge and Aro Zephyros.
 [@fm06-duel]: FM06 | Chapter 5: Our War Game | Bell's fist in Hyacinthus's cheek.
-[@fm08-alumni]: FM08 | | Those who follow Apollo out.
+[@fm08-alumni]: FM08 | Chapter 2: The Prum's Proposal | Apollo exiled: "exiled Apollo from Orario. Former members of Apollo Familia had been released and been given the chance to join another familia of their choice"
 [@aro-zephyros.fm06-duel]: FM06 | Chapter 5: Our War Game | Chant in four pieces; Firebolt fails to stop it; burning disk; homing.
 [@aro-zephyros.fm06-rubele]: FM06 | Chapter 5: Our War Game | "Rubele!"; the disk explodes; Bell's arm disabled.
 [@fm06-hyacinthus-ja]: FM06 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the sun's favoured child of light, with the reading Phoebus Apollo; the infobox gives the printed name and the kanji.
 [@fm06-aro-ja]: FM06 | | The Japanese edition writes the spell's name in kanji meaning the west wind's ring of fire, with the reading Aro Zephyros, and its second word in kanji meaning red flower, read Rubele.
+[@fm06-exile]: FM06 | Chapter 5: Our War Game | "A small group, including Hyacinthus, went against the laws of Orario by leaving the city to follow their god."
+[@fm06-looks]: FM06 | Chapter 1: The Furious Rabbit | "He’s a tall, kind of lanky adventurer. The man is handsome enough to rival an elf."; "His long brown hair is well kept and neatly styled."; "The man’s skin is smooth and white, almost feminine."; "several golden earrings" (the Japanese edition, file c7Z, paragraph 277, has metal earrings among the adventurer's accessories he wears over the Familia uniform); "Eyes as blue and vast as the sea"
+[@fm06-cherish]: FM06 | Chapter 3: Outbreak | "She was not like Hyacinthus and the others who cherished their leader."
+[@fm06-adored]: FM06 | Chapter 5: Our War Game | "Hyacinthus’s handsome face, one that his god adored"

@@ -33,9 +33,9 @@
 
 DanMachi 7 describes a massive Amazon at least two meders tall, with tiny, muscular limbs, a mushroom of black hair, a frog's face and a croaking voice; Sword Oratoria 6 also gives her strangely short limbs and short bobbed hair, and adds a hugely thick torso.[@fm07-waiting, fm07-chase, so06-proposal] [[aisha-belka|Aisha]] calls her "toad", and others call her "the toad" or "that frog".[@fm07-waiting, ar03-charge, so08-aisha] She is as fast as she is strong: Bell is shaken to see her dodge his Firebolt without warning, a speed that does not match her build.[@fm07-firebolt]
 
-She believes herself the most beautiful woman alive. She tells Aisha that no other woman measures up, and that even Ishtar only "comes close".[@fm07-waiting] With men she is predatory. Ishtar's servant [[ishtar-familia#tammuz-berrilli|Tammuz]] says she forces aphrodisiac on any man she catches and leaves only "the empty shell of a man".[@fm07-aphrodisiac] She keeps a room of her own in the secret passages under the palace, which even Ishtar does not know about.[@fm07-room]
+She believes herself the most beautiful woman alive. She tells Aisha that no other woman measures up, and that even Ishtar only "comes close".[@fm07-waiting] With men she is predatory. Ishtar's servant [[ishtar-familia#tammuz-berrilli|Tammuz]] says she forces aphrodisiac on any man she catches and leaves only "the empty shell of a man".[@fm07-aphrodisiac] As her title suggests, many adventurers have died by her blade.[@fm07-man-slayer] She keeps a room of her own in the secret passages under the palace, which even Ishtar does not know about.[@fm07-room]
 
-Within her Familia she rules by fear. After Aisha destroyed the first [[killing-stone|Killing Stone]], Phryne "disciplined" her until she was a nearly lifeless wreck, and she threatens the younger Amazons Aisha looks after; those Amazons trust Aisha far more than their captain.[@fm07-aisha] [[lena-tully|Lena Tully]] remembers her sending the young ones running round the temple on errands.[@so08-lena-vault]
+Within her Familia she rules by fear. After Aisha destroyed the first [[killing-stone|Killing Stone]], Phryne "disciplined" her until she was a nearly lifeless wreck, and she threatens the younger Amazons Aisha looks after; those Amazons trust Aisha far more than their captain.[@fm07-aisha] [[lena-tully|Lena Tully]] remembers that Phryne was always ordering her about, sending her all over the palace on errands (the English prints "Phryne and the other girls").[@so08-lena-vault]
 
 ## Rivalry with Aiz
 
@@ -65,7 +65,7 @@ At the altar Phryne drags Haruhime by the hair and tells Bell that the girl is t
 
 ### Ottar
 
-Ottar arrives alone: "Phryne Jamil…the last one."[@fm07-ottar] Ishtar Familia's plan had been to meet him with Phryne and the top Berbera boosted by Killing Stone shards, and to weaken him with anti-Status magic and curses; without them, the narration says, fighting him was suicide.[@fm07-ottar] He stops her ax with one hand and punches her across the garden.[@fm07-beaten] Surrounded by [[allen-fromel|Allen]], [[hedin|Hedin]], [[hegni|Hegni]] and the [[gulliver-brothers|Gulliver brothers]], she begs for her life and offers her body. When she adds that even Freya looks ugly next to her, Ottar loses his temper.[@fm07-plea]
+Ottar arrives alone: "Phryne Jamil…the last one."[@fm07-ottar] Ishtar Familia's plan had been to meet him with Phryne and the top Berbera boosted by Killing Stone shards, and to weaken him with anti-Status magic and curses; without them, the narration says, fighting him was suicide.[@fm07-ottar] He stops her ax with one hand, crushing its handle and most of the bones in her hand, and when she attacks again he punches her off the top of the tower; she falls more than forty stories into the front garden and survives only through her Level 5 Defense.[@fm07-beaten] Surrounded by [[allen-fromel|Allen]], [[hedin|Hedin]], [[hegni|Hegni]] and the [[gulliver-brothers|Gulliver brothers]], she begs for her life and offers her body. When she adds that even Freya looks ugly next to her, Ottar loses his temper.[@fm07-plea]
 
 In the epilogue Aisha says they found her beaten to a pulp in the front garden. She can no longer show her face in public and is shut away in the back room of a hotel.[@fm07-hotel]
 
@@ -84,7 +84,7 @@ Bete then takes over. He strips away her armour, and when the light around her f
 | Astrea Record 1 | Aisha counts her own band among the weakest of the Berbera, with stronger warriors such as "the toadess Phryne".[@ar01-toadess] |
 | Astrea Record 3 | In the Great Conflict she charges with Aisha and Samira as the Berbera cut through monsters.[@ar03-charge] |
 | DanMachi 9 and 11 | Bell suspects the [[monsters#lizardman|lizardman]] [[lido|Lido]] could be stronger than Phryne, and finds Aiz in their fight far beyond her.[@fm09-lido, fm11-aiz] |
-| DanMachi 14 | Aisha recalls killing the [[amphisbaena|Amphisbaena]] many times with a band of Level 3 Berbera and Phryne. Haruhime remembers deep-level battles in which even Phryne was wounded until she vomited blood.[@fm14-amphisbaena, fm14-deep] |
+| DanMachi 14 | Aisha recalls killing the [[amphisbaena|Amphisbaena]] many times with Berbera of Level 3 and above (the English prints "a band of Level 3 Berberas") and Phryne. Haruhime remembers deep-level battles in which even Phryne was wounded until she vomited blood.[@fm14-amphisbaena, fm14-deep] |
 | Sword Oratoria 8 | Bete recalls subduing her at Meren. During the Amazon hunt Aisha scoffs at the idea that the assassins could kill "that frog".[@so08-meren, so08-aisha] |
 | Sword Oratoria 10 | Aiz recalls the light particles around Phryne at Meren a month earlier.[@so10-aiz] |
 
@@ -121,16 +121,16 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 [@fm07-plea]: FM07 | Chapter 7: Goddess War | Allen, Hegni, Hedin and the Gulliver brothers surround her; "S-SPARE MEEEE!"; "Even that Freya looks ugly next to me!"; Ottar's fury.
 [@fm07-hotel]: FM07 | Epilogue: If Surrounded by Kindness… | "found that toad beaten to a pulp in the front garden"; shut up in the back room of a hotel.
 [@so06-proposal]: SO06 | Chapter 3: Kingdom of the Amazons | "A warm-up for the fight with Freya"; short limbs, a hugely thick torso, short bobbed hair, toad-like profile; "Phryne Jamil, Ishtar Familia’s captain. At Level 5, she was the strongest in the familia." The Japanese edition (file c2XS, paragraph 130) says a hugely thick torso.
-[@so06-armor]: SO06 | | The bag of vermilion armour brought from Orario; "Prepare yourselfffff, Haruhime!"
+[@so06-armor]: SO06 | Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light | The bag of vermilion armour brought from Orario; "Prepare yourselfffff, Haruhime!"
 [@so06-duels]: SO06 | Chapter 5: A Duo of Sun and Moon | "Androctonus, the Man Slayer"; three duels with Aiz; "The same way that Ishtar despised Freya, in fact."
 [@so06-boost]: SO06 | Chapter 5: A Duo of Sun and Moon | Tiny light particles drifting up from Phryne's face.
 [@so06-axes]: SO06 | Chapter 5: A Duo of Sun and Moon | The ax in her right hand and the ax in her left.
 [@so06-curse]: SO06 | Chapter 5: A Duo of Sun and Moon | "Nowwwww, Sharay! Do it nowwwwww!!"; "I readdddddddied these anti-statuses and curses for my fight with Ottarrrrr"; Aiz a fine test; she had meant to neutralise Nine Hell too (the Japanese edition, file c4EV, paragraph 372).
-[@so06-aiz]: SO06 | | "The temporary strength Phryne had gained for this duel was no match for the swordsmanship Aiz had perfected".
-[@so06-bete]: SO06 | | Her armour torn off by Bete; "M-my time rannnnnnnn out—?!"; Bete's kick sends her into Lolog Lake.
+[@so06-aiz]: SO06 | Chapter 6: War’s End | "The temporary strength Phryne had gained for this duel was no match for the swordsmanship Aiz had perfected".
+[@so06-bete]: SO06 | Chapter 6: War’s End | Her armour torn off by Bete; "M-my time rannnnnnnn out—?!"; Bete's kick sends her into Lolog Lake.
 [@so06-loki]: SO06 | Epilogue: Disturbing Elements | Loki recalls that Ishtar's Level 5 captain wielded the combat power of a Level 6, with "some kind of magic user".
 [@so08-meren]: SO08 | Chapter 1: Lonely Wolf | Bete recalls subduing "that ugly frog of a woman, Phryne" at Meren.
-[@so08-lena-vault]: SO08 | Chapter 3: Unshed Tears | Lena: "Phryne and the other girls were always pushing me around"; "that old frog".
+[@so08-lena-vault]: SO08 | Chapter 3: Unshed Tears | Lena: "Phryne and the other girls were always pushing me around" (the Japanese edition, file c2DE, paragraph 13, has only Phryne, written as the first-class adventurer, ordering her about all over the palace); "that old frog".
 [@so08-aisha]: SO08 | Chapter 3: Unshed Tears | "You really think that frog would let herself be killed by the likes of this lot?"
 [@ar01-toadess]: AR01 | Chapter 9: The Opening Act of Evil | "There were plenty of stronger warriors, like the toadess Phryne".
 [@ar03-charge]: AR03 | Chapter 5: Playing the Violence Card | "Whoa! It’s the toad!"; Aisha's sword, Phryne's charge and Samira's blows.
@@ -140,3 +140,4 @@ DanMachi 7 prints her name once as *Phyrne*.[@fm07-phyrne]
 [@fm14-deep]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | "Even Phryne, a first-tier adventurer, was often wounded so badly she vomited blood."
 [@so10-aiz]: SO10 | Interlude: Their Respective Battles | "the first-tier adventurer Phryne Jamil, who’d attacked her when they had fought Ishtar Familia in Meren"; the light particles.
 [@fm07-phryne-ja]: FM07 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning man killer, with the reading Androctonus; the infobox gives the printed name and the kanji.
+[@fm07-man-slayer]: FM07 | Chapter 7: Goddess War | "thousands of male adventurers had fallen to her blade". The Japanese edition says she has buried many adventurers.

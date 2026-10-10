@@ -140,7 +140,7 @@ Lyana Lietz ({{ja|リャーナ・リーツ}})[@fc03-astrea-names-ja] is the huma
 
 ## Other minor people of Sword Oratoria {#other-minor-people-of-sword-oratoria}
 
-Seldia and Rishena of the elves' tales, the Amazon empress Ivelda, Elnea and Belnas of [[kali-familia|Kali Familia]], Bernadette and Marta under Amid, and Bete's family are named in Sword Oratoria.[@so05-seldia, so05-rishena, so05-ivelda, so06-elnea, so06-belnas, so11-bernadette, so11-marta, so08-luna, so08-bete-father, so08-bete-mother] They appear in Sword Oratoria 5, 6, 8, 11 and 14, and Seldia and Ivelda also among the statues of heroes in DanMachi 16; no names for Bete's father and mother were located in the checked text.[@so05-seldia, so06-elnea, so08-luna, so11-bernadette, so14-seldia, fm16-seldia, fm16-ivelda, so08-bete-father, so08-bete-mother]
+Sword Oratoria tells of Seldia and Rishena of the elves' tales, the Amazon empress Ivelda, Elnea and Belnas of [[kali-familia|Kali Familia]], Bernadette and Marta under Amid, and Bete's family and his childhood friend Renee.[@so05-seldia, so05-rishena, so05-ivelda, so06-elnea, so06-belnas, so11-bernadette, so11-marta, so08-luna, so08-bete-father, so08-bete-mother, so08-renee] They appear in Sword Oratoria 5, 6, 8, 11 and 14, and Seldia and Ivelda also among the statues of heroes in DanMachi 16; no names for Bete's father and mother were located in the checked text.[@so05-seldia, so06-elnea, so08-luna, so11-bernadette, so14-seldia, fm16-seldia, fm16-ivelda, so08-bete-father, so08-bete-mother]
 
 ### Seldia {#seldia}
 
@@ -236,7 +236,7 @@ Lulu ({{ja|ルル}})[@ss01-other-names-ja] is an Amazon stall owner with babyish
 
 ### Selenia {#selenia}
 
-Selenia ({{ja|セレニア}})[@ss01-other-names-ja] is a member of Vidar Familia: in Astrea Record 1 she is told to take a prum girl to Central Park, and she leads another group of rescued townsfolk through the barricades.[@ar01-selenia] In Astrea Record 3 [[bete-loga|Bete Loga]] fights on, ignoring her tears.[@ar03-selenia]
+Selenia ({{ja|セレニア}})[@ss01-other-names-ja] is a member of Vidar Familia: in Astrea Record 1 she is told to take a prum girl to Central Park, and she leads another group of rescued townsfolk through the barricades.[@ar01-selenia] In Astrea Record 3 [[bete-loga|Bete Loga]] fights on, ignoring her tears.[@ar03-selenia] In Astrea Record 1 it is Bete, whose vice-captain she apparently is, who tells her to take the prum girl to Central Park, and the girl, who falls asleep in her arms drowsy from the divine wine, is the young [[lilliluka-erde|Lilliluka Erde]].[@ar01-selenia-lilly]
 
 ### Orde {#orde}
 
@@ -256,7 +256,7 @@ Damia ({{ja|ダミアー}})[@so12-gods-names-ja] is one of the goddesses of the 
 
 ### Víðarr {#vidarr}
 
-Víðarr ({{ja|ヴィーザル}}; printed *Vidar* in Astrea Record 1)[@so12-gods-names-ja] is a god of few words, more of a hermit, with long auburn hair and eyes of the same colour; Bete Loga joined his Dungeon-type Familia.[@so08-vidarr] In Sword Oratoria 8 Víðarr apologizes to Bete; he and his broken Familia then leave Orario, and Bete fights on with Víðarr's half-withdrawn blessing, which lets him convert.[@so08-vidarr-leave] [[loki|Loki]] later tells Bete that Víðarr told her a little about him; the two gods are from the same place in Heaven, but she finds him unapproachable.[@so08-vidarr-loki]
+Víðarr ({{ja|ヴィーザル}}; printed *Vidar* in Astrea Record 1)[@so12-gods-names-ja] is a god of few words, more of a hermit, with long auburn hair and eyes of the same colour; Bete Loga joined his Dungeon-type Familia.[@so08-vidarr] In Sword Oratoria 8 Víðarr apologizes to Bete; he and his broken Familia then leave Orario, and Bete fights on with Víðarr's half-withdrawn blessing, which lets him convert.[@so08-vidarr-leave] [[loki|Loki]] later tells Bete that Víðarr told her a little about him; the two gods are from the same place in Heaven, but she finds him unapproachable.[@so08-vidarr-loki] Drunk in a pub one night, Víðarr had told her that he worried staying with him and his Familia would end up killing Bete, and asked her to look out for him if he ever escaped Víðarr's grasp.[@so08-vidarr-request]
 
 [@so07-cynthia]: SO07 | Chapter 3: Feast of the Dead | Tiona shouts "Elfie! Cynthia! Outta the way!", cuts the vermis off Arcus's arm, and Elfie and Cynthia run to his side.
 [@so07-lloyd]: SO07 | Chapter 5: Battle of Tears | Finn asks about casualties; Riveria lists seven dead counting the missing, Lloyd first.
@@ -349,3 +349,5 @@ Víðarr ({{ja|ヴィーザル}}; printed *Vidar* in Astrea Record 1)[@so12-gods
 [@fc02-nahzo]: FC02 | Ali and the 8 Followers | "My name is Nahzo, one of the big four in this town!"; "I’d like you to give me all the money that you currently have on you".
 [@so08-renee-ja]: SO08 | Chapter 1: Lonely Wolf | The Japanese edition writes {{ja|レーネ}}, read Rēne, in Bete's cry (file c168, paragraph 69).
 [@fc02-nahzo-ja]: FC02 | Ali and the 8 Followers | The Japanese edition writes {{ja|ナァーゾ}}, read Nāzo (file c23C, paragraph 256).
+[@ar01-selenia-lilly]: AR01 | Chapter 9: The Opening Act of Evil | "Calm down, Bete!"; "He turned and issued some kind of order to his vice-captain"; "drowsy from the effects of the divine wine"; "Lilliluka Erde fell asleep in her savior’s arms". The Japanese edition calls her a human woman who seemed to be the vice-captain (file c5M0, paragraph 289).
+[@so08-vidarr-request]: SO08 | Chapter 4: Lonesome Night | "when I ran into him in the pub that one night, drunk as he was"; "But I worry that staying with me, staying with my familia, will end up killing him."; "If ever he were to escape from my grasp, would you look out for him, Loki?"

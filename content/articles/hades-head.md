@@ -80,7 +80,7 @@ Flight in these scenes comes from Asfi's winged sandals, Talaria, not from the h
 [@fm10-discarded]: FM10 | Chapter 9: Dreams of Beasts | Discarded helmets. The Japanese edition (file c3E7, paragraph 142) values these super-rare magic items of Perseus's make at no less than several million, if a price were put on them.
 [@fm10-broken]: FM10 | Chapter 9: Dreams of Beasts | "By smell or a gut feeling"; Asfi's helmet broken. The Japanese edition (file c59K, paragraph 434) says it grasped exactly where Asfi was.
 [@fm11-kaos]: FM11 | Chapter 4: A Skirmish in Daedalus Street | "Hades Head" and "the Kaos Head" in one comparison.
-[@fm11-survey]: FM11 | | Hermes: the Knossos survey with Hades Head and scent pouches (the Japanese edition, file c14W, paragraph 349).
+[@fm11-survey]: FM11 | Chapter 2: Diverging Strands, Intersecting Plans | Hermes: the Knossos survey with Hades Head and scent pouches (the Japanese edition, file c14W, paragraph 349).
 [@fm11-crizea]: FM11 | Chapter 6: A Deity’s Scheme | The invisible Asfi and the Crizea needle.
 [@fm16-search]: FM16 | Chapter 6: The Wish’s Cost | Talaria and Hades Head in the search.
 [@fm17-watch]: FM17 | Chapter 5: The End of Her World | Watching Folkvangr invisibly.

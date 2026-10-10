@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A Familia's emblem identifies its affiliation and can serve as identification and security for purchases on credit.",
   "aliases": ["Emblems", "Familia emblem"],
-  "spoilers": "DanMachi Vols. 1–8, 12, 19, Sword Oratoria Vols. 1, 2, 7, 8, Familia Chronicle Vol. 3 and Astrea Record Vol. 1",
+  "spoilers": "DanMachi Vols. 1–8, 12, 16, 19, Sword Oratoria Vols. 1, 2, 6–8, Familia Chronicle Vol. 3 and Astrea Record Vol. 1",
   "related": ["familia", "rivira", "quest", "status", "loki-familia", "hestia-familia", "freya-familia", "balder"],
   "infobox": {
     "title": "Emblem",
@@ -26,7 +26,7 @@ A [[familia|Familia]]'s **emblem** functions as a means of identification.[@fm05
 
 ## Uses {#uses}
 
-[[quest|Quest]] notices include the client's signature and Familia emblem.[@fm04-quests] [[hestia|Hestia]]'s flame symbol appears on [[bell-cranell|Bell Cranell]]'s back beside the deity's and follower's names.[@fm12-status] The sword-and-wings symbol appears when [[astrea|Astrea]] begins updating [[lyu-leon|Lyu Leon]]'s [[status|Status]].[@fc03-status]
+[[quest|Quest]] notices include the client's signature and Familia emblem.[@fm04-quests] Members carry their Familia's emblem as a badge: when [[mikoto|Mikoto]] joins Hestia Familia for the War Game she leaves hers with [[takemikazuchi|Takemikazuchi]] until she returns, and [[hermes|Hermes]] takes [[lyu-leon|Lyu]]'s badge, "engraved with the sword of justice and wings", to ease the Guild paperwork for her part in the War Game.[@fm06-emblem-badge] The Guild keeps an official list of insignias, on which [[ishtar-familia|Ishtar Familia]]'s emblem appears.[@so06-guild-list] [[hestia|Hestia]]'s flame symbol appears on [[bell-cranell|Bell Cranell]]'s back beside the deity's and follower's names.[@fm12-status] The sword-and-wings symbol appears when [[astrea|Astrea]] begins updating [[lyu-leon|Lyu Leon]]'s [[status|Status]].[@fc03-status]
 
 ## Described designs by volume {#described-designs-by-volume}
 
@@ -43,6 +43,7 @@ A [[familia|Familia]]'s **emblem** functions as a means of identification.[@fm05
 | DanMachi 8 | [[ares-familia|Ares Familia]]'s emblem depicts a warrior in heavy armor.[@fm08-ares] |
 | DanMachi 8 | [[hephaistos-familia|Hephaistos Familia]]'s emblem combines two crossed hammers and a volcano.[@fm08-hephaistos] |
 | DanMachi 8 | [[edas-village|Kam]] preserves the worn fire emblem of his goddess, [[brigit|Brigit]].[@fm08-brigit] |
+| DanMachi 16 | [[demeter-familia|Demeter Familia]]'s emblem depicts wheat and Demeter; at the Harvest Festival it is on the little shield-shaped food badges sold by the Guild.[@fm16-demeter] |
 | DanMachi 19 | The light-and-ship badge identifies [[balder#balder-class|Balder Class]], in a system compared with Familia emblems.[@fm19-balder] |
 | Sword Oratoria 1 | [[loki-familia|Loki Familia]]'s Trickster emblem is a comical smile on its flag.[@so01-loki] |
 | Sword Oratoria 1 | [[goibniu-familia|Goibniu Familia]]'s emblem depicts three hammers.[@so01-goibniu] |
@@ -77,3 +78,6 @@ A [[familia|Familia]]'s **emblem** functions as a means of identification.[@fm05
 [@so08-ishtar]: SO08 | Chapter 5: Battered Wolf | Ishtar Familia’s palace bears the emblem of a veiled courtesan.
 [@ar01-astrea]: AR01 | Prologue: The Unforgettable Melody of Justice | Astrea Familia’s emblem. The Japanese edition (file cAZ, paragraph 75) gives wings and a sword modelled on scales, without a count; the English prints "Four sets of wings, and a sword that resembled a set of scales".
 [@fm05-emblem-ja]: FM05 | Chapter 4: Dungeon Resort? | The Japanese edition writes the word in katakana from the English, read enburemu (file part0021, paragraph 675), and also in kanji meaning badge, read kishō (paragraph 680).
+[@fm06-emblem-badge]: FM06 | Chapter 4: Those Who Gather | "she gave him her Familia emblem for him to hold on to until she returned"; "handle the paperwork with the Guild"; "the badge engraved with the sword of justice and wings"
+[@so06-guild-list]: SO06 | Epilogue: Disturbing Elements | "one of the insignias on the Guild’s official list"
+[@fm16-demeter]: FM16 | Chapter 3: Harvest Festival | "It is in the shape of a little shield and depicts wheat and Demeter"; "Demeter Familia’s emblem"

@@ -60,7 +60,7 @@ On the expedition of DanMachi 13, Welf secretly cuts a piece from Lilly's robe w
 | DanMachi 19–20 | Bell still wears it in the School District arc, and unwinds it in battle in DanMachi 20.[@fm19-bell, fm20-bell] |
 
 [@fm05-hide]: FM05 | Chapter 6: Praise to the Heroes | "revealing a drop item—Goliath’s Hide".
-[@fm06-fine]: FM06 | | "The item drop left over after the battle with the floor boss, Goliath’s Hide, was practically forced onto me"; "worth enough to cover the penalty".
+[@fm06-fine]: FM06 | Chapter 1: The Furious Rabbit | "The item drop left over after the battle with the floor boss, Goliath’s Hide, was practically forced onto me"; "worth enough to cover the penalty".
 [@fm08-robes]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "a black hooded robe"; "Made it from the drop item we got from that Goliath."; "the Black Goliath"; "Welf used half of it"; "the wreckage of Bell and Hestia’s old room under the church".
 [@fm08-warning]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "No blade or spell is getting through these."; "Artel Assist"; "this does nothing to soften the blow". The Japanese edition (file part0021, paragraph 107) says they prevent a one-hit kill even in a surprise attack by monsters of the middle or lower levels.
 [@fm08-pride]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Shouldn’t Bell be wearing a Goliath robe"; "Giving him a drop item to wear into battle just won’t cut it."

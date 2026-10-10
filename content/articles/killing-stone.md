@@ -35,7 +35,7 @@ A **Killing Stone**, also called **Sesshouseki**, is a forbidden magic item crea
 - **Toba stone.** [[lilliluka-erde|Lilly]] identifies it as *lunatic light*. [[welf-crozzo|Welf]] describes an ore that gains magical attributes and glows different colours under the moon, used by some smiths; Takemikazuchi adds that it is not on the market in [[orario|Orario]], since there is no moonlight in the Dungeon.[@fm07-toba]
 - **The full moon.** At the full moon the Killing Stone, its two stones already fused, turns into a devil's stone.[@fm07-toba]
 
-Hermes remarks that, surprisingly, Killing Stones were created by renarts themselves.[@fm07-soul] Who made the stone Ishtar received is not stated.
+Hermes remarks that, surprisingly, Killing Stones were created by renarts themselves.[@fm07-soul] Who made the stone Ishtar received is not located in the checked text.
 
 ## How it works
 
@@ -48,7 +48,7 @@ Hermes remarks that, surprisingly, Killing Stones were created by renarts themse
 
 In one sentence of this explanation Takemikazuchi is printed speaking of "a morality stone"; the context shows he means the Killing Stone, and this wiki treats it as a printing slip, not a second item.[@fm07-shards]
 
-None of this is shown working: the one ritual in the novels is stopped before Haruhime's soul is sealed.[@fm07-shattered]
+None of this is shown working in the checked text: the one ritual located there is stopped before Haruhime's soul is sealed.[@fm07-shattered]
 
 ## Ishtar's plan
 
@@ -59,6 +59,8 @@ Ishtar intended to seal Haruhime's soul in a Killing Stone, break it into pieces
 [[aisha-belka|Aisha]] destroyed [[ishtar-familia|Ishtar Familia]]'s first Killing Stone. [[phryne-jamil|Phryne]] "disciplined" her brutally and dragged her before Ishtar; afterwards the younger Amazons Aisha looked after were kept under threat, which the narration calls Ishtar's punishment.[@fm07-aisha] The annex built as the stage for the ritual was begun five years before DanMachi 7 and had stood idle since a prostitute destroyed the stone, which was hard to obtain, three years before.[@fm07-garden]
 
 ### The second stone
+
+Ishtar had contracted [[hermes|Hermes]] to deliver the stone, which had "traveled a great distance, passing through many cities before finally arriving in Orario"; for secrecy he brought it to her himself, mingling with the customers of the Pleasure Quarter.[@fm07-handover] Handing it over, he asks, "That’s a Killing Stone, isn’t it?", and admits that he saw it, though not on purpose.[@fm07-handover]
 
 Hermes tells Bell that on the night they met in [[pleasure-quarter|the Pleasure Quarter]] he was delivering a Killing Stone to Ishtar.[@fm07-delivery] [[mikoto|Mikoto]] finds the ritual papers, which say the [[ishtar-familia#berbera|Berbera]] will act "once the Killing Stone has been delivered by Hermes Familia".[@fm07-papers] Hermes says he did not know what the cargo was until he saw it.[@fm07-asfi]
 
@@ -96,3 +98,4 @@ As the longsword is raised, Bell leaps over the guard; his [[hestia-knife|Hestia
 [@fm10-aisha]: FM10 | Chapter 8: City Panic | Aisha joined Hermes Familia to hear if "a certain stone" arrived.
 [@fm12-aisha]: FM12 | Chapter 2: Adventure Intermission | A smashed Killing Stone allows only one power.
 [@fm18-warning]: FM18 | Chapter 9: Flower Language for You | Samira's warning; she took part in the ritual.
+[@fm07-handover]: FM07 | Chapter 2: Run, Cranell | "This particular item had traveled a great distance, passing through many cities before finally arriving in Orario."; "Hermes mingled with the customers of the Pleasure Quarter to elude prying eyes"; "That’s a Killing Stone, isn’t it?"; "Wasn’t on purpose."

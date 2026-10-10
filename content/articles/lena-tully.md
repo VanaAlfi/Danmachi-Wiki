@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Young Amazon of the Berbera, formerly of Ishtar Familia, who falls for Bete Loga after he beats her at Port Meren. In Sword Oratoria 8 she trades what she saw of Ishtar's key for a Dungeon date, is caught with Bete in the Amazon hunt and runs to draw the assassins away from him. Believed dead, she turns out to have been saved by Amid's anti-curse elixir.",
   "aliases": ["Lena", "Rena"],
-  "spoilers": "DanMachi Vols. 7, 18, 19, Sword Oratoria Vols. 8–13 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 7, 18, 19, Sword Oratoria Vols. 6, 8–13 and Minor Myths and Legends Vol. 2",
   "related": ["bete-loga", "ishtar-familia", "aisha-belka", "phryne-jamil", "amid", "riveria", "haruhime", "knossos"],
   "infobox": {
     "title": "Lena Tully",
@@ -31,7 +31,7 @@
 
 ## Ishtar Familia
 
-As the Familia collapses in DanMachi 7, [[aisha-belka|Aisha]] tells Lena to lead the others out.[@fm07-lena] Lena later says that [[phryne-jamil|Phryne]] and the older Amazons were always sending her round the temple on errands. Once Phryne told her to find Ishtar's weak point; she slipped into Ishtar's room and saw, through a hidden door, a secret vault with a [[metals#mythril|mythril]] ball in a small box. The vice captain, [[ishtar-familia#tammuz-berrilli|Tammuz]], caught her and chased her out, telling her to "forget everything I saw".[@so08-vault]
+As the Familia collapses in DanMachi 7, [[aisha-belka|Aisha]] tells Lena to lead the others out.[@fm07-lena] Lena later says that [[phryne-jamil|Phryne]] was always ordering her about, sending her all over the palace on errands (the English prints "Phryne and the other girls" and "the temple"). Once Phryne told her to find Ishtar's weak point; she slipped into Ishtar's room and saw, through a hidden door, a secret vault with a [[metals#mythril|mythril]] ball in a small box. The vice captain, [[ishtar-familia#tammuz-berrilli|Tammuz]], caught her and chased her out, telling her to "forget everything I saw".[@so08-vault]
 
 Sword Oratoria 8 recalls that at Port Meren in Sword Oratoria 6 she aimed a scimitar at Bete's back after he had subdued Phryne, and he punched her in the stomach. He does not remember her face; she remembers him.[@so08-meet]
 
@@ -70,16 +70,16 @@ At the graveyard Lena prays for the friends who did not survive. On the gravesto
 
 ## Names
 
-DanMachi 19 prints her name once as *Rena*.[@fm19-rena]
+DanMachi 19 prints her name once as *Rena*.[@fm19-rena] DanMachi 7 and Sword Oratoria 6 also print it so, once each.[@fm07-rena, so06-rena]
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Which Familia she joins after Ishtar Familia. Sword Oratoria 8 says the former members all converted, and DanMachi 18 counts the remaining Berbera among [[hathor|Hathor]]'s followers, but neither names Lena's Familia directly.[@so08-drinks, fm18-reserves]
+> - Which Familia she joins after Ishtar Familia: DanMachi 18 answers it. Sword Oratoria 8 says only that Aisha and her crew of former members had all converted to different Familias, but in the war game Lena speaks of [[hathor|Hathor]] as her patron goddess, and only Hathor's followers, Samira and the remaining Berbera among them, are left in the reserves.[@so08-drinks, fm18-reserves, fm18-hathor]
 > - Her present Level: DanMachi 19 says only that she levelled up.[@fm19-levels]
 
 [@fm07-lena]: FM07 | Chapter 7: Goddess War | "Lena, lead the others outta here."; Lena rushes up to her leader, swinging her tied-back long hair (the Japanese edition, file cA4Z, paragraph 118).
-[@so08-drinks]: SO08 | Chapter 1: Lonely Wolf | The former Ishtar Familia members "had all converted to different familias after Ishtar’s return to the upper world".
+[@so08-drinks]: SO08 | Chapter 1: Lonely Wolf | Aisha and her crew of Berbera, former Ishtar Familia members, "had all converted to different familias after Ishtar’s return to the upper world".
 [@so08-meet]: SO08 | Chapter 1: Lonely Wolf | "You’re one of those whores from Ishtar Familia we fought in Meren…!"; the scimitar at his back; the punch to her stomach; "I’m Lena! Lena Tully!"
 [@so08-fate]: SO08 | Chapter 2: Did Someone Order a Wolf? | "mine’s more like an alarm going off"; "it’s made me believe in fate!"
 [@so08-deal]: SO08 | Chapter 2: Did Someone Order a Wolf? | The D symbol in the sketch; "isn’t that the rule of you adventurers? To always pay for your information?"; a "Dungeon date".
@@ -87,14 +87,14 @@ DanMachi 19 prints her name once as *Rena*.[@fm19-rena]
 [@so08-fishbait]: SO08 | Chapter 2: Did Someone Order a Wolf? | "Then…does that mean once I’m not a piece of fish bait anymore…I can be with you?!"; her orange eyes.
 [@so08-flowers]: SO08 | Chapter 2: Did Someone Order a Wolf? | "Lena may have been an Amazon, but she was also a teenage girl"; "There’s nothing that makes me happier than getting forget-me-nots!!"
 [@so08-aisha]: SO08 | Chapter 2: Did Someone Order a Wolf? | "Just what the hell do you think you’re doing, Lena?"; Aisha, "as good as an older sister to her".
-[@so08-vault]: SO08 | Chapter 3: Unshed Tears | Phryne's errands; "Find me Lady Ishtar’s weak point!"; the hidden door, the vault and the mythril ball; caught by Tammuz; "forget everything I saw".
+[@so08-vault]: SO08 | Chapter 3: Unshed Tears | Phryne's errands (the Japanese edition, file c2DE, paragraph 13, has only Phryne, written as the first-class adventurer, ordering her about all over the palace); "Find me Lady Ishtar’s weak point!"; the hidden door, the vault and the mythril ball; caught by Tammuz; "forget everything I saw".
 [@so08-ambush]: SO08 | Chapter 3: Unshed Tears | The assassins focus on Lena; "Quite the opposite, actually—Lena had dragged Bete into this mess."
 [@so08-run]: SO08 | Chapter 3: Unshed Tears | "If it weren’t for me…you’d be strong…wouldn’t you, Bete Loga?"; "Win for me, okay, Bete Loga? —And don’t die."; Valletta sends the assassins after her.
 [@so08-dying]: SO08 | Chapter 3: Unshed Tears | Her copper skin painted with blood; the black dagger; "I couldn’t keep my…promise…"; "I really wanted to…stand alongside you…"
 [@so08-alive]: SO08 | Chapter 5: Battered Wolf | "Yoo-hoo, Bete Loga!"; Amid's elixir from her own curse-exposed blood; Riveria's account of the hospital and the feigned death.
 [@so08-blows]: SO08 | Chapter 5: Battered Wolf | Bete's hand on her head; the knees to the stomach; Lena's delight.
 [@so08-graves]: SO08 | Epilogue: Instead of Good-bye— | Lena prays at her friends' graves; her own grave; "The bouquet of forget-me-nots clutched between her fingers".
-[@so09-camp]: SO09 | | "Hwa! Lena arrives on the scene! Yoo-hoo, Bete Loga!"; "I’ve only got eyes for you".
+[@so09-camp]: SO09 | Chapter 1: A Scene at the Camp | "Hwa! Lena arrives on the scene! Yoo-hoo, Bete Loga!"; "I’ve only got eyes for you".
 [@so09-key]: SO09 | Chapter 2: A Brief Calm | Bete drags Lena from the war front to Belit Babili; "The small box on top of the table that Lena had seen was empty."
 [@so10-squad]: SO10 | Chapter 1: Omen | Bete elbows Lena Tully; Lena misinterprets his exchange with Anakity.
 [@so10-copy]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | The key copied from memory and "the testimony of the former Ishtar Familia member Lena".
@@ -109,3 +109,6 @@ DanMachi 19 prints her name once as *Rena*.[@fm19-rena]
 [@ss02-wolf]: SS02 | | "Afterward: The Girl and the Wolf": the fifth night after Rakia's attack; Bete brings Lena Tully because of the key.
 [@ss02-graves]: SS02 | Paths So Far, an Unending Journey | "We’re the same age, aren’t we?"; the pale blue forget-me-nots; "how many kids Bete Loga wants!" The Japanese edition (file part0074, paragraph 410) has her ask Aiz to find this out for her in secret.
 [@so12-lena-ja]: SO12 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm18-hathor]: FM18 | Chapter 9: Flower Language for You | "Lady Hathor is still in the game at least…". The Japanese edition has Lena call Hathor her patron goddess, using the word for a Familia's own god.
+[@fm07-rena]: FM07 | Chapter 5: Killing Stone | "Hold it, Rena."
+[@so06-rena]: SO06 | Chapter 6: War’s End | "Don’t try it, Rena!!"

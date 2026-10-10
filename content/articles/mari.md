@@ -22,7 +22,7 @@
   }
 }
 ---
-**Mari** is a [[monsters#mermaid|mermaid]] [[xenos|Xenos]] of the [[water-capital|Water Capital]], whose blood heals [[bell-cranell|Bell Cranell]] and whose song controls weaker monsters.[@fm12-meeting, fm13-nature, fm14-report, fm13-capital] She cannot leave the Water Capital.[@fm13-capital, fm14-report] She speaks human language poorly and can use her song to control monsters whose abilities are lower than hers.[@fm13-nature]
+**Mari** is a [[monsters#mermaid|mermaid]] [[xenos|Xenos]] of the [[water-capital|Water Capital]], whose blood heals [[bell-cranell|Bell Cranell]] and whose song controls weaker monsters.[@fm12-meeting, fm13-nature, fm14-report, fm13-capital] She cannot leave the Water Capital.[@fm13-capital, fm14-report] She speaks human language poorly and can use her song to control monsters whose abilities are lower than hers.[@fm13-nature] She has long emerald-blue hair adorned with ornaments of shells and pearls, and her speech and actions make her seem younger than [[wiene|Wiene]].[@fm13-mari-looks] She loves Bell: after he saves the party in DanMachi 12, she surfaces to tell him, "Thank you, Bell…I love you!"[@fm12-mari-love]
 
 ## History {#history}
 
@@ -48,3 +48,5 @@
 [@fm14-blood]: FM14 | Epilogue: You’ll Be Back II | Mari supplies lifeblood for Bell and Lyu; Lido stops her as she nearly faints.
 [@ss01-village]: SS01 | | Mari keeps watch over the Floor 27 village, invites Rei to sing and tells the Xenos she loves Bell.
 [@fm12-mari-ja]: FM12 | Chapter 5: Bride of the Water Capital | The Japanese edition writes her name in katakana, read Marii (file part0022, paragraph 195).
+[@fm13-mari-looks]: FM13 | Chapter 3: The True Intentions of Gale Wind | "her long emerald-blue hair adorned with ornaments made of shells and pearls"; "Mari’s speech and actions make her seem younger than Wiene, and she speaks human poorly"
+[@fm12-mari-love]: FM12 | Chapter 6: The Hero’s Sacred Flame | "It was Mari, who had parted ways with Bell just before he saved the party."; "Thank you, Bell…I love you!"

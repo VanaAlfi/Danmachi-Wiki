@@ -36,11 +36,11 @@ Hestia values an unused grimoire at least as highly as [[hephaistos|Hephaistos]]
 
 ## Magic slots
 
-Sword Oratoria 2 states that a well-made grimoire not only teaches magic but can add a magic slot: a reader with one slot gains a second, and one with two gains a third. Three is the absolute limit; there is no way to add a fourth.[@so02-slots] How a book's quality decides what it does is not explained. For the different statements about slot numbers, see [[magic#how-many-spells|Magic § How many spells]].
+Sword Oratoria 2 states that a well-made grimoire not only teaches magic but can add a magic slot: a reader with one slot gains a second, and one with two gains a third. Three is the absolute limit; there is no way to add a fourth.[@so02-slots] How a book's quality decides what it does was not located in the checked text. For the different statements about slot numbers, see [[magic#how-many-spells|Magic § How many spells]].
 
 ## Bell's grimoire
 
-In DanMachi 2 [[freya|Freya]] takes a thick book from her bookcase. She decides not to have [[ottar|Ottar]] deliver it and instead leaves it at a bar near where she first saw Bell, sure that it will reach him.[@fm02-freya] Bell borrows the book from [[syr-flover|Syr]] at the tavern, reads it, and Firebolt appears in his Status as Swift-Strike Magic.[@fm02-syr, fm02-card] At the time Bell believes a friend lent him a book someone had left behind; Hestia then identifies it as a grimoire.[@fm02-hestia]
+In DanMachi 2 [[freya|Freya]] takes a thick book from her bookcase. She decides not to have [[ottar|Ottar]] deliver it and instead leaves it at a bar near where she first saw Bell, sure that it will reach him.[@fm02-freya] Bell borrows the book from [[syr-flover|Syr]] at the tavern, reads it, and Firebolt appears in his Status as Swift-Strike Magic.[@fm02-syr, fm02-card] While he reads, its strange characters pull him in until a face appears in the text, "another me" that speaks with his own voice and asks what magic is to him; he answers that it is power, and fire.[@fm02-grimoire-mirror] At the time Bell believes a friend lent him a book someone had left behind; Hestia then identifies it as a grimoire.[@fm02-hestia]
 
 In DanMachi 17 Freya tells Bell that the grimoire, the amulet for the [[war-game|War Game]] and everything else were meant to help him grow and to protect him.[@fm17-freya]
 
@@ -48,7 +48,7 @@ In DanMachi 17 Freya tells Bell that the grimoire, the amulet for the [[war-game
 
 Before the expedition of DanMachi 12, [[aisha-belka|Aisha]] brings Haruhime a grimoire. Aisha, now in [[hermes-familia|Hermes Familia]], says she stole it from her Familia's storeroom, and that she does not know what magic it will produce.[@fm12-gift] {{statement}} She explains that [[ishtar|Ishtar]] never let Haruhime read one because she was fixated on the Level Boost: the smashed [[killing-stone|Killing Stone]] would allow only a single power, so extra magic would have been wasted.[@fm12-gift] Aisha steps away while Haruhime reads, so as not to take the grimoire's effect herself by accident.[@fm12-gift]
 
-The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spell is not the same as mastering it: in DanMachi 15 Mikoto recalls Haruhime's practice sessions with Aisha, with frequent Ignis Fatuus explosions.[@fm15-practice]
+The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spell is not the same as mastering it: in DanMachi 15 Mikoto recalls Haruhime's practice sessions with Aisha, with occasional Ignis Fatuus explosions.[@fm15-practice]
 
 ## Other grimoires
 
@@ -71,7 +71,7 @@ The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spe
 [@fm02-value]: FM02 | Chapter 4: Divine Wine | Worth at least Hephaistos Familia's best weapons; single use.
 [@fm12-gift]: FM12 | Chapter 2: Adventure Intermission | Aisha's stolen grimoire; "phantom books"; Ishtar's reason; Aisha steps away.
 [@fm12-kokonoe]: FM12 | Chapter 6: The Hero’s Sacred Flame | Kokonoe, the power the grimoire opened her eyes to.
-[@fm15-practice]: FM15 | | Practice with Aisha; Ignis Fatuus.
+[@fm15-practice]: FM15 | Chapter 7: Tales of Times Past: The Black Bird and the Golden Fox | Practice with Aisha; Ignis Fatuus.
 [@fm17-freya]: FM17 | Chapter 5: The End of Her World | Freya: the grimoire and amulet were to help him grow and protect him.
 [@so02-slots]: SO02 | Chapter 1: The Average Day | A high-grade grimoire can add a slot with a certain probability, up to three (the Japanese edition, file cA7, paragraph 174).
 [@so02-lenoa]: SO02 | Chapter 1: The Average Day | Lenoa's grimoire; an acquaintance in Altina.
@@ -79,3 +79,4 @@ The book gives Haruhime her second spell, Kokonoe.[@fm12-kokonoe] Learning a spe
 [@so03-vault]: SO03 | Epilogue: Catching the White Rabbit | The black-robed figure's reward; several unused grimoires.
 [@fm02-grimoire-ja]: FM02 | | The Japanese edition writes the name in kanji meaning book of magic, with the reading Grimoire; the infobox gives the kanji.
 [@so02-altina-ja]: SO02 | | The Japanese edition names the country Altena, as the other volumes do.
+[@fm02-grimoire-mirror]: FM02 | | "Magic is interest. This is a vital factor for all acquired magic."; "the sea of characters is pulling me in"; "A terrible mirror of truth lies before you."; "another me"; "It speaks with my voice."; "What is magic to me?"; "Magic has to be fire."

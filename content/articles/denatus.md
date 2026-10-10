@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The meeting of Orario's gods, held every three months on the thirtieth floor of Babel. Once idle gossip among retired gods, it became an advisory body recognised by the Guild. Its Naming Ceremony gives titles to adventurers who level up, and it also settles war-game rules and sponsors events such as the Orariad.",
   "aliases": ["Naming Ceremony", "meeting of the gods", "second name", "title", "Little Rookie", "Rabbit Foot"],
-  "spoilers": "DanMachi Vols. 4, 6, 12, 18, 20 and Sword Oratoria Vol. 5",
+  "spoilers": "DanMachi Vols. 4, 6, 12, 16, 18, 20 and Sword Oratoria Vol. 5",
   "related": ["babel", "guild", "level", "war-game", "loki", "hestia", "freya", "bell-cranell"],
   "infobox": {
     "title": "Denatus",
@@ -33,7 +33,7 @@ The Denatus began as a gathering of retired gods with too much free time. Their 
 
 - **Entry.** Sword Oratoria 5 says the only requirement is at least one upper-class adventurer, Level 2 or higher, in the god's [[familia|Familia]].[@so05-requirement] DanMachi 4 adds that any god who has once taken part may attend later meetings; gods with no newly levelled-up followers come for the entertainment.[@fm04-invitation]
 - **Status.** Since a higher Level brings a mortal closer to the gods, a Familia's number of high-Level followers is a way for gods to be recognised by their peers.[@so05-requirement]
-- **Host.** [[loki|Loki]] hosts the meetings shown in DanMachi 4 and Sword Oratoria 5; she opens the first as the umpteen-thousandth Denatus and the second as "the one thousand something-th".[@fm04-host, so05-host]
+- **Host.** [[loki|Loki]] hosts the meeting that DanMachi 4 and Sword Oratoria 5 both tell, one from Hestia's side and one from Loki's; DanMachi 4 has her open it as the umpteen-thousandth Denatus, Sword Oratoria 5 as "the one thousand something-th".[@fm04-host, so05-host, so05-same-meeting]
 - **The room.** The meeting room has been rebuilt around a large round table, with glass outer walls that put the meeting among the clouds.[@fm04-room]
 - **Newcomers.** Gods attending for the first time, especially their first Naming Ceremony, are treated with the utmost cruelty.[@fm04-naming]
 
@@ -46,6 +46,7 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 - **Second chances.** Each Level Up brings a chance to change the title, so an odd first title can be fixed at the next Naming Ceremony.[@fm04-correct]
 - **Announcement.** The results go to the Guild, whose staff are eager to see them; in DanMachi 12 the new titles are posted on a board in the Guild Headquarters lobby.[@fm04-guild, fm12-board]
 - **Reach.** Sword Oratoria 5 says every adventurer's official title is decided at Denatus, from Aiz's "Sword Princess" to Tiona's "Amazon".[@so05-names]
+- **What a title means.** Sword Oratoria 5 says the titles are "meant to extol the exploits of the mortal recipient" and stand for the gods' official recognition.[@so05-alias-meaning] In DanMachi 16 Bell reflects that for a Familia they also display its power and serve as a check on rivals, and he hears the rumour that Freya refused at Denatus to give her follower [[horn|Hörn]] any title: "This child will never become anyone."[@fm16-refused]
 
 ### Bell Cranell's titles
 
@@ -53,7 +54,7 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 |---|---|
 | DanMachi 4 | Bell levels up just before the meeting and is squeezed onto the last page; he becomes "Little Rookie".[@fm04-late, fm04-rookie] |
 | DanMachi 12 | Bell has levelled up twice, to Level 4. [[freya|Freya]] proposes "Vanadis Odr, Companion of Vanadis", and Hestia slams the table in protest.[@fm12-bell, fm12-freya] With the help of [[miach|Miach]] and Takemikazuchi she wrenches a safe title from the gods: "Rabbit Foot".[@fm12-rabbit] |
-| DanMachi 20 | At what may be the best-attended Denatus ever held, [[modi-and-magni-familias#modi-and-magni|Magni and Modi]] propose putting off Bell's new title until one is found that everyone accepts.[@fm20-crowded, fm20-postpone] |
+| DanMachi 20 | At what may be the best-attended Denatus ever held, [[modi-and-magni-familias#modi-and-magni|Magni and Modi]] propose putting off Bell's new title until one is found that everyone accepts.[@fm20-crowded, fm20-postpone] In the epilogue a name proposed at Denatus is officially accepted for him, now a Level 5 first-tier adventurer: *Regulus Arne*, "One who brings hope"; Hestia has no choice but to raise her hands in defeat.[@fm20-regulus] |
 
 ## Other business
 
@@ -80,10 +81,10 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 [@fm04-late]: FM04 | Chapter 1: Denatus | Bell squeezed in. The Japanese edition (file cMS, paragraph 346) says he levelled up just before the Denatus.
 [@fm04-guild]: FM04 | Chapter 1: Denatus | "the usual scene on the second floor of the Guild after a Denatus meeting"; "the Denatus results are here!"
 [@fm04-rookie]: FM04 | Chapter 1: Denatus | "It’s ‘Little Rookie.’"
-[@so05-advisory]: SO05 | | "the grand meeting of the deities that took place once every three months"; "an advisory body technically recognized by the Guild"; "there were times they had to convene outside the normal schedule".
-[@so05-requirement]: SO05 | | "at least one member needed to be Level 2 or higher"; "the number of high-level followers in one’s familia had become a sort of achievement".
-[@so05-host]: SO05 | | "Let the one thousand something-th meeting of the gods, Denatus, commence! I’ll be yer host, Loki!" The Japanese edition (file cVH, paragraph 21) has the same umpteen-thousandth count as DanMachi 4.
-[@so05-investigate]: SO05 | | "using this month’s Denatus to investigate the identity of this leader"; Ganesha apologises for Monsterphilia.
+[@so05-advisory]: SO05 | Interlude: Flip Side of the Farce | "the grand meeting of the deities that took place once every three months"; "an advisory body technically recognized by the Guild"; "there were times they had to convene outside the normal schedule".
+[@so05-requirement]: SO05 | Interlude: Flip Side of the Farce | "at least one member needed to be Level 2 or higher"; "the number of high-level followers in one’s familia had become a sort of achievement".
+[@so05-host]: SO05 | Interlude: Flip Side of the Farce | "Let the one thousand something-th meeting of the gods, Denatus, commence! I’ll be yer host, Loki!" The Japanese edition (file cVH, paragraph 21) has the same umpteen-thousandth count as DanMachi 4.
+[@so05-investigate]: SO05 | Interlude: Flip Side of the Farce | "using this month’s Denatus to investigate the identity of this leader"; Ganesha apologises for Monsterphilia.
 [@so05-names]: SO05 | | "Every adventurer’s official nickname was decided at Denatus, from Aiz’s “Sword Princess” to Tiona’s “Amazon.”"
 [@fm06-emergency]: FM06 | Chapter 3: Outbreak | "Will need to open an emergency Denatus!"; "The finer details of our Game will be decided at Denatus."
 [@fm06-vote]: FM06 | Chapter 4: Those Who Gather | "a large group of male deities sided with Freya and voted to allow the addition of outsiders".
@@ -98,3 +99,7 @@ At the Naming Ceremony the gods give titles to adventurers who have levelled up.
 [@fm20-postpone]: FM20 | Chapter 1: Orario Rumble | "I, Magni, propose that we postpone the question of Bell’s second name"; "I, Modi, second the motion".
 [@fm20-orariad]: FM20 | Chapter 2: Lion and then Sword Princess | "That it’s being sponsored by Denatus instead of the Guild is key!"
 [@fm20-hermes]: FM20 | Chapter 3: The World, The Festival, and Reality | "Hermes, as the representative of Denatus, offered earnest applause to the victors".
+[@so05-same-meeting]: SO05 | Interlude: Flip Side of the Farce | The same meeting as DanMachi 4's: "Mikoto’s title is now…Eternal Shadow!"; "The Sword Princess, Aiz Wallenstein, had finally joined the ranks of the Level 6s."
+[@fm20-regulus]: FM20 | Epilogue: Beautiful World | "who had been given the title Regulus Arne"; "When that name was proposed at Denatus, the boy’s patron goddess had no choice but to raise her hands in defeat."
+[@so05-alias-meaning]: SO05 | Interlude: Flip Side of the Farce | "meant to extol the exploits of the mortal recipient"; "They signified the official recognition of deusdea"
+[@fm16-refused]: FM16 | Chapter 1: A Stormy Love Letter | "Freya apparently refused to name her at Denatus"; "They are displays of the power of your own familia and can serve as a check on rivals, too."

@@ -33,9 +33,9 @@ Alfia has had an incurable illness since birth; receiving a [[falna|Falna]] did 
 
 ## The Great Conflict
 
-In Astrea Record 1 Alfia defeats Riveria and [[gareth|Gareth]].[@ar01-alfia] Explaining her choice, she says Zeus and Hera Familias slew the Behemoth and the Leviathan but were powerless against the Black Dragon, and that a hero able to overcome it must be forged at any cost.[@ar03-reason] She and Zald hope that the world will become one where her sister's child need not fight, and that if he does come to Orario and is drawn into battle, many heroes will stand in his way and make him a stronger adventurer.[@ar03-family]
+In Astrea Record 1 Alfia defeats Riveria and [[gareth|Gareth]].[@ar01-alfia] Explaining her choice, she says Zeus and Hera Familias slew the Behemoth and the Leviathan but were powerless against the Black Dragon, and Zald adds that no hero of the Age of Gods can slay it, so that millions must pay the price to produce the one hero who can.[@ar03-reason] She and Zald hope that the world will become one where her sister's child need not fight, and that if he does come to Orario and is drawn into battle, many heroes will stand in his way and make him a stronger adventurer.[@ar03-family]
 
-[[astrea-familia|Astrea Familia]] defeats her, and she dies in the flames of the dragon [[delphyne|Delphyne]].[@ar03-family, ar03-end]
+[[astrea-familia|Astrea Familia]] defeats her, and she walks into the burning pit that the dragon [[delphyne|Delphyne]]'s fire had bored.[@ar03-family, ar03-alfia-death, ar03-end]
 
 ## Magic {#magic}
 
@@ -150,7 +150,7 @@ In the Japanese edition the first three pieces agree in sense with the print, an
 - **Last line (excerpt):** "Hear the howl of the holy belfry!"[@genos-angelus.ar03-chant]
 - **Release:** "Genos Angelus."[@genos-angelus.ar03-chant]
 
-The narration calls it "a third incantation", "an ultra-long chant", and says it is neither her fast sound wave ([[#satanas-verion|Satanas Verion]]) nor her magic-nullifying enchantment ([[#silentium-eden|Silentium Eden]]).[@genos-angelus.ar03-chant] Alfia recites it with Concurrent Casting, dodging every blow Astrea Familia aims at her and striking back, so they cannot stop her.[@genos-angelus.ar03-chant]
+The narration calls it "a third incantation", a voice from Astrea Familia cries that it is "an ultra-long chant", and the narration says it is neither her fast sound wave ([[#satanas-verion|Satanas Verion]]) nor her magic-nullifying enchantment ([[#silentium-eden|Silentium Eden]]).[@genos-angelus.ar03-chant] Alfia recites it with Concurrent Casting, dodging every blow Astrea Familia aims at her and striking back, so they cannot stop her.[@genos-angelus.ar03-chant]
 
 #### Effect {#genos-angelus-effect}
 
@@ -169,30 +169,30 @@ The narration says it could be neither dodged nor blocked, but Lyra throws herse
 
 [@ar01-alfia]: AR01 | | Former Hera Level 7; defeats Riveria and Gareth.
 [@ar01-silence]: AR01 | Chapter 10: Conquerors | "Alfia, the Silence!"
-[@ar02-level]: AR02 | | "Alfia, the Level 7 witch."
+[@ar02-level]: AR02 | Prologue: A City Shrouded in Darkness | "Alfia, the Level 7 witch."
 [@ar03-family]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | Metelia; her nephew; her self-blame; her hopes. The Japanese edition (file c9X3, paragraphs 134 to 150) has them wish for a world where the child need not fight and, should he be drawn into battle, that many heroes stand in his way, so that he receives the heroes' baptism and becomes a stronger adventurer.
 [@ar03-zeus]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | The blood of a child of Hera and of one of Zeus's; "My sister entrusted him to Zeus"; the child is not named.
 [@ar03-illness]: AR03 | Chapter 8: The Price of Talent | Her illness became a negative Skill.
-[@ar03-weakness]: AR03 | Chapter 8: The Price of Talent | Why she is only Level 7.
-[@ar03-reason]: AR03 | Chapter 5: Playing the Violence Card | Alfia on the Black Dragon.
+[@ar03-weakness]: AR03 | Chapter 7: What She Wished For | Why she is only Level 7: "it’s the reason Alfia is still only Level Seven despite all her talent".
+[@ar03-reason]: AR03 | Chapter 5: Playing the Violence Card | Alfia on the Black Dragon; Zald draws the conclusion: "No hero of the Age of Gods can slay that beast!"; "We must pay the price of millions to produce the one!"
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Erebus recruited Zald and Alfia.
 [@ar03-end]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "Delphyne and Alfia were no more."
 [@fc02-opponents]: FC02 | The Origin of the Strongest | Ottar's unnamed early opponents.
-[@satanas-verion.ar01-church]: AR01 | | "Gospel"; a wall of noise in the church; Shakti's vacuum-wave guess. The Japanese edition (file c2EX, paragraph 191) says as many as twenty.
-[@satanas-verion.ar02-sound]: AR02 | | Kaguya and Lyra; "my magic is sound"; ultra-short chant.
-[@satanas-verion.ar02-westmain]: AR02 | | West Main Street; Riveria's ears bleed.
-[@satanas-verion.ar03-rugio]: AR03 | | "Rugio"; a spell key detonating residual energy.
-[@satanas-verion.ar03-lyre]: AR03 | | The Silence Lyre, custom-made to counter Alfia.
-[@satanas-verion.ar03-still]: AR03 | | Defences cannot fully soften her attacks.
+[@satanas-verion.ar01-church]: AR01 | Chapter 4: Questioning Justice | "Gospel"; a wall of noise in the church; Shakti's vacuum-wave guess. The Japanese edition (file c2EX, paragraph 191) says as many as twenty.
+[@satanas-verion.ar02-sound]: AR02 | Chapter 6: Melody of Silence | Kaguya and Lyra; "my magic is sound"; ultra-short chant.
+[@satanas-verion.ar02-westmain]: AR02 | Intermission: While the Scales of Justice Tremble | West Main Street; Riveria's ears bleed.
+[@satanas-verion.ar03-rugio]: AR03 | Chapter 3: Eden’s Demise | "Rugio"; a spell key detonating residual energy.
+[@satanas-verion.ar03-lyre]: AR03 | Chapter 3: Eden’s Demise | The Silence Lyre, custom-made to counter Alfia.
+[@satanas-verion.ar03-still]: AR03 | Chapter 3: Eden’s Demise | Defences cannot fully soften her attacks.
 [@satanas-verion.ar03-name]: AR03 | Chapter 4: Apocalypse Cometh | "Gospel: Satanas Verion"; chant, then the true name.
 [@satanas-verion.ar03-death]: AR03 | Chapter 4: Apocalypse Cometh | A fan-shaped zone of death.
 [@satanas-verion.ar03-fail]: AR03 | Chapter 7: What She Wished For | "It didn't work…?"; Alfia coughs blood.
 [@satanas-verion.ar03-gif]: AR03 | Chapter 8: The Price of Talent | Gif Blessing.
 [@satanas-verion.ar03-again]: AR03 | Chapter 9: A Hero’s Trail | "Gospel!" again.
 [@satanas-verion.ar03-genos-third]: AR03 | Chapter 9: A Hero’s Trail | A third ability, neither her sound wave nor her enchantment.
-[@silentium-eden.ar01-riveria]: AR01 | | "Ataraxia"; Wynn Fimbulvetr erased. The Japanese edition (file c67J, paragraphs 130–138) describes a receding sound and an invisible barrier that erases the spell, which Riveria calls nullification.
+[@silentium-eden.ar01-riveria]: AR01 | Chapter 10: Conquerors | "Ataraxia"; Wynn Fimbulvetr erased. The Japanese edition (file c67J, paragraphs 130–138) describes a receding sound and an invisible barrier that erases the spell, which Riveria calls nullification.
 [@silentium-eden.ar01-report]: AR01 | Chapter 11: Absolute Evil | "Immune to…magical and nonmagical attack".
-[@silentium-eden.ar03-barrage]: AR03 | | "Ataraxia"; the barrage disperses.
+[@silentium-eden.ar03-barrage]: AR03 | Chapter 3: Eden’s Demise | "Ataraxia"; the barrage disperses.
 [@silentium-eden.ar03-passive]: AR03 | Chapter 4: Apocalypse Cometh | "A passive enchantment"; the gestures are for show; Alize's flames.
 [@silentium-eden.ar03-mind]: AR03 | Chapter 4: Apocalypse Cometh | It must drain her Mind; "outwitted me".
 [@silentium-eden.ar03-named]: AR03 | Chapter 4: Apocalypse Cometh | "My Silentium Eden"; it weakens her own magic; she drops it. The Japanese edition (file c370, paragraph 379) has her call her silence no armour but a seal to hold down hateful sound.
@@ -207,3 +207,4 @@ The narration says it could be neither dodged nor blocked, but Lyra throws herse
 [@genos-angelus.ar03-after]: AR03 | Chapter 9: A Hero’s Trail | The aura fades; Alfia coughs blood. The Japanese edition (file c86J, paragraphs 140–141) says the recoil of the enormous spell made her cough blood.
 [@genos-angelus.ar03-gif]: AR03 | Chapter 8: The Price of Talent | Gif Blessing.
 [@ar03-alfia-ja]: AR03 | | The Japanese edition prints her name in katakana and her title in kanji meaning silence; the infobox gives both.
+[@ar03-alfia-death]: AR03 | Chapter 9: A Hero’s Trail | "the tunnel to the lower depths that Delphyne had wrought with fire"; "And then she was gone, removed from this world by the judgmental fires of hell."

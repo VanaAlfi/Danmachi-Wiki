@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Familia of the god Soma, whose divine wine was used as a reward that drove its members to fight over it; Lilly's first Familia, reformed after DanMachi 6.",
   "aliases": ["Kanu"],
-  "spoilers": "DanMachi Vols. 2–15",
+  "spoilers": "DanMachi Vols. 2, 3, 6, 10, 15 and 17",
   "related": ["soma", "lilliluka-erde", "falna", "bell-cranell", "hestia", "eina-tulle", "minotaur"],
   "sections": [
     {"anchor": "kanu", "title": "Kanu", "summary": "An animal-person member of Soma Familia who robbed and beat Lilly, threw her to killer ants in DanMachi 2, and was killed in DanMachi 3 by the Minotaur in the cargo box he stole from Ottar.", "aliases": ["Canoe Belway"]},
@@ -26,7 +26,7 @@
   }
 }
 ---
-**Soma Familia** is the Familia of the god [[soma|Soma]], maker of a [[soma#divine-wine|divine wine]] that can take hold of a person's spirit. He makes it without [[tenkai-and-gekai#arcanum|Arcanum]], and leaves the running of the Familia to others while its members fight over the wine he gives as a reward.[@fm02-soma, fm17-arcanum] [[lilliluka-erde|Lilliluka Erde]] was born into it.[@fm02-lilly]
+**Soma Familia** is the Familia of the god [[soma|Soma]], maker of a [[soma#divine-wine|divine wine]] that can take hold of a person's spirit. He makes it without [[tenkai-and-gekai#arcanum|Arcanum]], and leaves the running of the Familia to others while its members fight over the wine he gives as a reward.[@fm02-soma, fm17-arcanum] [[lilliluka-erde|Lilliluka Erde]] was born into it.[@fm02-lilly] Besides crawling the Dungeon, it sells wine.[@fm02-retail] Its emblem is a crescent moon over a glass of wine.[@fm02-emblem] Its home and its wine cellar stand in Orario's [[third-district|third district]], between East Main Street and Southeast Main Street; the home is near the city centre, the cellar a few blocks from the city wall.[@fm10-home]
 
 ## The wine and Zanis
 
@@ -54,6 +54,8 @@ Kanu is an animal-person adventurer of Soma Familia, one of the members who keep
 
 ## Lilly's release
 
+In DanMachi 6 Zanis takes [[apollo-familia|Apollo Familia]]'s money, and Soma Familia, whose wine had drawn "hundreds of adventurers" into its ranks, joins the hunt for Bell, with Lilly, still its member, as its excuse; when Lilly gives herself up to Zanis, a flare calls its members back.[@fm06-hunt] Hestia, [[welf-crozzo|Welf]], [[mikoto|Mikoto]] and their allies then fight its members in the courtyard of its wine storage to free her.[@fm06-courtyard]
+
 In DanMachi 6 Soma tests Lilly with the divine wine. When she resists it, he changes course, orders the Familia to stop fighting and allows her to convert to [[hestia-familia|Hestia Familia]].[@fm06-soma] Two days after the [[war-game|War Game]] she pays for her release, and Soma apologises to her by name.[@fm06-apology] Conditions in the Familia improve from that day.[@fm06-apology]
 
 ## Afterwards
@@ -65,7 +67,7 @@ By DanMachi 10, the dwarf [[chandra-ihit|Chandra Ihit]] leads the Familia, which
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How much Soma knew about the individual crimes committed within his Familia.[@fm06-soma]
 
-[@fm02-soma]: FM02 | | Soma's divine wine and reward cycle.
+[@fm02-soma]: FM02 | Chapter 4: Divine Wine | Soma's divine wine and reward cycle.
 [@fm02-lilly]: FM02 | Chapter 5: Reset | Lilly born into Soma Familia.
 [@fm02-kanu]: FM02 | Chapter 5: Reset | "Get this, Kanu. The runt had a magic sword!"; "An adult male animal person, the one called Kanu"; "I suggest you leave it all on the ground."; "K-killer ant…?!"
 [@fm02-decoy]: FM02 | Chapter 5: Reset | "A key to a gnome rental storage unit"; "Buy us some time."; "Without money, you’re useless."
@@ -73,7 +75,7 @@ By DanMachi 10, the dwarf [[chandra-ihit|Chandra Ihit]] leads the Familia, which
 [@fm03-ja-cargo]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c37K, paragraphs 199 to 227, especially 204 and 210): several Amazons surround one tall man, who guards a large transport cargo; the attack was a premeditated ambush by a certain goddess who had her eye on the opportunity (Ottar had been sighted alone on the seventeenth floor for a week); Kanu takes the cargo for the spoils of a first-class adventurer, and the magic sword he recently took came from a pallum who had been a Familia comrade. Yen Press adds "to keep things interesting" and "from the lower Dungeon".
 [@fm03-death]: FM03 | Chapter 4: The Meaning of Adventure | "The magic sword that he’d recently acquired from a…former associate of his"; "The blade fell to pieces in his hand."; "Kanu’s consciousness disappeared into oblivion".
 [@fm06-kanu]: FM06 | Prologue: Evil in the Moonlit Night | Zanis and Lilly. The Japanese edition (file c3F, paragraphs 26 and 34) has Zanis say that Kanu reported her dead and that Kanu and his lot have gone missing.
-[@fm15-kanu]: FM15 | | "An animal person named Kanu"; "Boss, we oughtta just sell this trash to a brothel."; "No brothels. Stop this."
+[@fm15-kanu]: FM15 | Chapter 3: The Cinder Girl | "An animal person named Kanu"; "Boss, we oughtta just sell this trash to a brothel."; "No brothels. Stop this."
 [@fm06-collapse]: FM06 | Chapter 4: Those Who Gather | "The Divine Wine, soma, had caused Soma Familia to collapse from within."
 [@fm06-soma]: FM06 | | Soma's detachment; his test of Lilly.
 [@fm06-zanis]: FM06 | | Zanis: Level 2, Gandharva, the Wine-Guardian; his defeat.
@@ -92,3 +94,8 @@ By DanMachi 10, the dwarf [[chandra-ihit|Chandra Ihit]] leads the Familia, which
 [@fm02-coercion]: FM02 | Chapter 5: Reset | Five ants appear; four exits blocked; Gedo drops the stolen goods and flees.
 [@fm02-aftermath]: FM02 | Chapter 5: Reset | Sounds after his flight; Lilly cannot see what happens beyond the ants.
 [@fm02-gedo-ja]: FM02 | Chapter 5: Reset | The Japanese edition writes his name in katakana, read Gedo, first when Kanu greets him as "Master Gedo" (file c5J8, paragraph 593).
+[@fm02-retail]: FM02 | Chapter 2: The Supporter’s Situation | "Looks like Soma Familia is your model dungeon-prowling Familia. They are a little different from other Familias in that they also dabble in the retail industry."; "They sell wine."
+[@fm02-emblem]: FM02 | Chapter 5: Reset | "an emblem with a crescent moon over a glass of wine on their armor"; "Soma Familia’s symbol"
+[@fm10-home]: FM10 | Chapter 9: Dreams of Beasts | "stood between East Main Street and Southeast Main Street in Orario’s third district"; "While Soma Familia’s home was relatively close to the city center, their wine cellar was located only a few blocks from the city wall."
+[@fm06-hunt]: FM06 | Chapter 3: Outbreak | "Is Mr. Zanis insane?! Doing this for money"; "They were using the fact that Lilly was still technically a member of Soma Familia as an excuse to join the assault on Hestia Familia."; "Its appeal had attracted hundreds of adventurers into her Familia’s ranks."; "Just as Zanis had promised, the members of Soma Familia started to withdraw."
+[@fm06-courtyard]: FM06 | Chapter 4: Those Who Gather | "Welf and Ouka protected the front lines, Mikoto providing them with blind-side protection."; "Her only desire now was to help Hestia and those fighting for her in the courtyard."

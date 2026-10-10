@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Healer of Dian Cecht Familia, titled Dea Saint and known as the silver saint; considered the best healer in Orario, she rebuilds Bell's arm in DanMachi 14.",
   "aliases": ["Dea Saint", "Silver saint", "Amid"],
-  "spoilers": "DanMachi Vols. 14–18, Sword Oratoria Vols. 7–12, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
+  "spoilers": "DanMachi Vols. 14–18 and 20, Sword Oratoria Vols. 7–12, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["heith-velvet", "bell-cranell", "finn-deimne", "lyu-leon", "magic"],
   "infobox": {
     "title": "Amid Teasanare",
@@ -23,11 +23,13 @@
   }
 }
 ---
-**Amid Teasanare** is a [[healer|healer]] of [[dian-cecht-familia|Dian Cecht Familia]], titled *Dea Saint*.[@fm18-amid] She and [[heith-velvet|Heith Velvet]] of [[freya-familia|Freya Familia]] are known as [[orario|Orario]]'s two great healers, the silver saint and the golden witch.[@ss01-healers, fm18-healers] She is considered the best healer in the city.[@fm14-best]
+**Amid Teasanare** is a [[healer|healer]] of [[dian-cecht-familia|Dian Cecht Familia]], titled *Dea Saint*.[@fm18-amid] She and [[heith-velvet|Heith Velvet]] of [[freya-familia|Freya Familia]] are known as [[orario|Orario]]'s two great healers, the silver saint and the golden witch.[@ss01-healers, fm18-healers] She is considered the best healer in the city.[@fm14-best] A human girl with long, light silver hair and delicate, doll-like features, she is famous for her calm, collected manner as much as for her skill.[@so02-amid-look, so04-amid-human, fm15-amid-manner]
 
-In Minor Myths and Legends 2 she is nineteen, under 150 celch tall and Level 2.[@ss02-amid] In the same volume [[hyrute-sisters|Tiona]] spots her in a crowd by "a head of silver hair".[@ss02-hair]
+In Minor Myths and Legends 2 she is nineteen, under 150 celch tall and Level 2.[@ss02-amid] She holds the Advanced Ability Enigma, which strengthens her healing magic: though she never worked toward the mage ability, a magic circle forms at her feet when she casts.[@so11-amid-enigma, so11-amid-circle] In the same volume [[hyrute-sisters|Tiona]] spots her in a crowd by "a head of silver hair".[@ss02-hair]
 
 When [[aiz-wallenstein|Aiz]] comes to her in Minor Myths and Legends 2 to ask how to do first aid, so as not to use up potions in training, Amid answers with a gentle smile and is simply glad that a younger adventurer has come to rely on her, as a healer and an elder.[@ss02-firstaid] In that volume's later story "Girls×Cross: Four Paths of a Half Year", set months after the Enyo incident, she has secretly lent [[lefiya|Lefiya]] a book on magical healing, which Lefiya reads on a day off.[@ss02-lefiya]
+
+Nahza Ersuisu of [[miach-familia|Miach Familia]], a year younger but taller, is her rival: in Astrea Record 1 the twelve-year-old Amid yanks Nahza's tail, and in Minor Myths and Legends 2, when Nahza takes a customer from her, Amid says their paths have crossed a few times and that Nahza does not like her very much.[@ar01-amid-nahza, ss02-amid-nahza]
 
 ## Healing
 
@@ -36,11 +38,12 @@ Amid's healing covers a broad area, and she is thought to win over Heith in raw 
 | Volume | Events |
 |---|---|
 | Sword Oratoria 7 | Treats [[finn-deimne|Finn]] after [[levis|Levis]]'s curse, which prevents normal healing.[@so07-amid] |
-| Sword Oratoria 8 | The only healer shown able to lift a certain curse directly, she makes a limited anti-curse [[potions#antidote|remedy]], a curse-breaking magic item, from her own blood, which saves many of the afflicted Amazons.[@so08-amid, so08-elixir] |
+| Sword Oratoria 8 | The only healer shown able to lift a certain curse directly, she makes a limited anti-curse [[potions#antidote|remedy]], a curse-breaking magic item, from her own blood, which saves many of the afflicted Amazons.[@dia-frater.so08-bete, so08-amid, so08-elixir] |
 | Sword Oratoria 11 | Keeps the assault force going with Dia Frater, and turns its curse-removing effect alone on the cursed [[barca-perdix|Barca]] Monster, which is afterwards found dead.[@so11-amid] |
-| DanMachi 14 | Rebuilds [[bell-cranell|Bell]]'s badly damaged left arm after the [[juggernaut|Juggernaut]]; [[lyu-leon|Lyu]] notes it is still the same length.[@fm14-arm, fm14-best] |
+| DanMachi 14 | Rebuilds [[bell-cranell|Bell]]'s badly damaged left arm after the [[juggernaut|Juggernaut]]; Bell notes it is still the same length, and [[lyu-leon|Lyu]] thinks she is not called the best healer in the city for nothing.[@fm14-arm, fm14-best] |
 | DanMachi 15 | Scolds Bell for overworking the arm at a follow-up appointment.[@fm15-amid] |
-| DanMachi 18 | At Dian Cecht Familia's first-aid base outside the battlefield island she and the Familia's other healers, who take no part in the fighting, bring the wounded back to consciousness.[@fm18-amid] |
+| DanMachi 18 | At Dian Cecht Familia's first-aid base outside the battlefield island she and the Familia's other healers, who take no part in the fighting, bring the wounded back to consciousness.[@fm18-amid, fm18-amid-firstaid] |
+| DanMachi 20 | Loki Familia announces that she will go on its expedition, together with [[tsubaki|Tsubaki]] and other strong adventurers of other Familias.[@fm20-amid-expedition] |
 
 In Minor Myths and Legends 2 she makes the [[monsters#unicorn|Unicorn]] Cup from a horn that was freely given.[@ss02-amid]
 ## Magic {#magic}
@@ -108,9 +111,9 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 [@fm14-arm]: FM14 | Epilogue: You’ll Be Back II | Amid rebuilds Bell's arm.
 [@fm14-best]: FM14 | Epilogue: You’ll Be Back II | "The best healer in the city."
 [@fm15-amid]: FM15 | Prologue: Adventurers’ Rest | Amid scolds Bell.
-[@fm18-amid]: FM18 | Chapter 8: The Great Familia War | Amid Teasanare, Dea Saint, of Dian Cecht Familia; "healers who had avoided participating in the war game"; "Outside the island, at Dian Cecht Familia’s first-aid base", the wounded "had regained consciousness thanks to Amid and the other healer’s hard work".
+[@fm18-amid]: FM18 | Chapter 8: The Great Familia War | Amid Teasanare, Dea Saint, of Dian Cecht Familia; "healers who had avoided participating in the war game".
 [@fm18-healers]: FM18 | Chapter 8: The Great Familia War | The silver saint and the golden witch compared.
-[@so07-amid]: SO07 | | Amid treats Finn.
+[@so07-amid]: SO07 | Chapter 5: Battle of Tears | Amid treats Finn.
 [@so08-amid]: SO08 | Chapter 5: Battered Wolf | Lifting the curse; the elixir from her blood.
 [@so08-elixir]: SO08 | Epilogue: Instead of Good-bye— | Amid's curse-repelling potion saves the Amazons. The Japanese edition (file c5HH, paragraph 161; c5VH, paragraph 21) calls it a curse-breaking magic item, an anti-curse secret remedy, and says many were saved.
 [@so11-amid]: SO11 | | Dia Frater and the cursed enemy.
@@ -133,3 +136,12 @@ DanMachi 18 names Amid and [[heith-velvet|Heith Velvet]] Orario's two great heal
 [@dia-frater.fm18-heith]: FM18 | Chapter 8: The Great Familia War | Amid and Heith compared.
 [@fm14-amid-ja]: FM14 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning saint of the battlefield, with the reading Dea Saint; the infobox gives the printed name and the kanji.
 [@dia-frater.so11-ja]: SO11 | Chapter 6: And Then the God Smiled | The Japanese edition (file c4FG, paragraphs 126, 134 and 136) prints the chant in three pieces; the healer's almanac is said oto, sound, all things nanji, thee, and holy thought kami, god.
+[@fm18-amid-firstaid]: FM18 | Chapter 9: Flower Language for You | "Outside the island, at Dian Cecht Familia’s first-aid base"; "had regained consciousness thanks to Amid and the other healer’s hard work"
+[@so02-amid-look]: SO02 | Chapter 1: The Average Day | "a doll-like girl with long, light silver hair"
+[@so04-amid-human]: SO04 | First Chapter: And the Boy… | "a beautiful silver-haired human with features so delicate they resembled a doll"
+[@fm15-amid-manner]: FM15 | Prologue: Adventurers’ Rest | "a girl often likened to an exquisite porcelain doll, and famous for her calm, collected demeanor"
+[@so11-amid-enigma]: SO11 | Chapter 6: And Then the God Smiled | "Amid, who wielded the same Enigma ability herself"
+[@so11-amid-circle]: SO11 | Chapter 4: Avengers ~Knossos War~ | "her magic was influenced by her Enigma ability"; "Though she never worked toward gaining the ability of a mage, there was a magic circle at"
+[@ar01-amid-nahza]: AR01 | Chapter 9: The Opening Act of Evil | "She was noticeably taller than Amid, despite being a year her junior."; "pulled with all her might"
+[@ss02-amid-nahza]: SS02 | | "What are you doing to my customer, Amid?"; "our paths have crossed a few times"; "she likes me very much"
+[@fm20-amid-expedition]: FM20 | Chapter 2: Lion and then Sword Princess | "accompanied by Cyclops, Dea Saint, and several other powerful members of other familia"

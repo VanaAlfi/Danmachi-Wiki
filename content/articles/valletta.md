@@ -31,19 +31,19 @@
 
 In the Astrea Record books, set in [[orario|Orario]]'s dark age, Valletta is one of the Evils' most important officers, recognisable by her toxic-pink hair.[@ar01-arachnia] She and Finn have crossed blades many times over the years and foiled each other's schemes so often that Valletta has come to see him as her despicable archnemesis; her attack on a soup kitchen in Astrea Record 1 turns out to be a diversion that Finn had already anticipated.[@ar01-finn, ar01-diversion] In Astrea Record 2 she watches from the city walls as her subordinates throw bombs into the crowd.[@ar02-bombs] The narration calls Finn "the object of her obsession".[@ar02-obsession]
 
-In [[great-conflict|the Great Conflict]] of Astrea Record 3 she directs the Evils' side of the battle for the city.[@ar03-smart] Finn breaks through her troops and drives his spear into her shoulder; she escapes into [[daedalus-street|Daedalus Street]], and Finn chooses not to pursue her.[@ar03-wound]
+In [[great-conflict|the Great Conflict]] of Astrea Record 3 she directs the Evils' side of the battle for the city.[@ar03-smart] Her hidden card is a horde of Dungeon monsters trained in Knossos: she has [[ikelos-familia|Ikelos Familia]]'s hunters capture them, [[rudra-familia|Rudra Familia]] tame the strongest and a hexer make a crimson whip that lets anyone tame a monster, and she looses them on the city's adventurers.[@ar03-valletta-monsters] Finn breaks through her troops and drives his spear into her shoulder; she escapes into [[daedalus-street|Daedalus Street]], and Finn chooses not to pursue her.[@ar03-wound]
 
 Sword Oratoria 9's flashback to the same era also shows her leading an attack on the home of a Familia that supported the Guild.[@so09-past]
 
 ## The Twenty-Seventh-Floor Nightmare
 
-Loki Familia believed she was long dead. In Sword Oratoria 7 she explains that during the Twenty-Seventh-Floor Nightmare six years earlier, a huge [[pass-parade|pass parade]] the Evils had instigated, she and other high-level Evils added their own "dead bodies" to the carnage and went into hiding.[@so07-finn, so07-nightmare]
+Raul had assumed she was long dead, though Finn had a hunch she was still alive. In Sword Oratoria 7 she explains that during the Twenty-Seventh-Floor Nightmare six years earlier, a huge [[pass-parade|pass parade]] the Evils had instigated, she and other high-level Evils added their own "dead bodies" to the carnage and went into hiding.[@so07-finn, so07-nightmare]
 
 ## Knossos
 
-Valletta reappears in Sword Oratoria 7 inside [[knossos|Knossos]], directing the trap set for [[loki-familia|Loki Familia]]. She deliberately shows Finn one of the labyrinth's keys, an orb carved with a D, and vows to kill him herself.[@so07-finn, so07-key] [[thanatos|Thanatos]] says he picked up Valletta and her crew after they lost their [[patron-deity|patron]]; she still fights as a Level 5.[@so07-thanatos, so07-level]
+Valletta reappears in Sword Oratoria 7 inside [[knossos|Knossos]], directing the trap set for [[loki-familia|Loki Familia]]. She deliberately shows Finn one of the labyrinth's keys, an orb carved with a D, and vows to kill him herself.[@so07-finn, so07-key] [[thanatos|Thanatos]] says he picked up Valletta and her crew after they lost their [[patron-deity|patron]]; she still fights as a Level 5.[@so07-thanatos, so07-level] When she moves in to kill the downed Finn, [[raul-nord|Raul]] covers her and her assassins in crushed magic stones that draw a swarm of spider monsters onto them, and [[anakity-autumn|Aki]] strikes her down with a blow to the neck so that the party can escape.[@so07-valletta-swarm]
 
-In Sword Oratoria 8 she operates from Knossos and then from a base in the ruins of [[pleasure-quarter|the Pleasure Quarter]], with a crew of assassins identified as [[minor-familias#sekhmet-familia|Sekhmet Familia]].[@so08-coat, so08-assassins] She taunts [[bete-loga|Bete Loga]] by claiming the murder of his fallen companions in Knossos, among them the [[healer|healer]] [[leene-arshe|Leene]]: "It was me! All of it!"[@so08-admit]
+In Sword Oratoria 8 she operates from Knossos and then from a base in the ruins of [[pleasure-quarter|the Pleasure Quarter]], with a crew of assassins identified as [[minor-familias#sekhmet-familia|Sekhmet Familia]].[@so08-coat, so08-assassins] The Evils had given one of Knossos's keys to [[ishtar|Ishtar]], a sponsor of the labyrinth, and lost track of it after her defeat; Valletta has the ruined Pleasure Quarter searched for it, fearing Finn will find it first.[@so08-valletta-key] Thanatos then says she has gone "hunting" for Amazons.[@so08-valletta-hunt] The targets of her assassins are the former members of [[ishtar-familia|Ishtar Familia]].[@so08-valletta-targets] She taunts [[bete-loga|Bete Loga]] by claiming the murder of his fallen companions in Knossos, among them the [[healer|healer]] [[leene-arshe|Leene]]: "It was me! All of it!"[@so08-admit]
 
 ## Death
 
@@ -88,7 +88,7 @@ Valletta expects Shaldo to drain even a transformed Bete if he keeps moving. Ins
 
 #### Earlier history {#shaldo-earlier-history}
 
-In Astrea Record 1, set years earlier, the narration remarks that a mage, had one been there, would have sensed its traces.[@shaldo.ar01-valletta] That does not say when she gained Shaldo.
+Shaldo was not located in Astrea Record 1–3, set years earlier. In Astrea Record 1 the narration remarks that a mage would have sensed faint traces of magic in the smoke rising from her allies' hideouts after the adventurers attacked them; those traces are not of her spell.[@shaldo.ar01-valletta]
 
 {{nocite}} Notable uses and open questions for Shaldo are on the combined page: [[magic#shaldo|Magic § Shaldo]].
 
@@ -97,12 +97,12 @@ In Astrea Record 1, set years earlier, the narration remarks that a mage, had on
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Her life before the Evils, and which Familia she belonged to.[@ar01-arachnia, so07-thanatos]
 
-[@ar01-arachnia]: AR01 | | Toxic-pink hair; the Guild blacklist; "A human known as Arachnia" (the Japanese edition, file c2W8, paragraph 154, calls her one of the Evils' most important officers).
-[@ar01-finn]: AR01 | | Finn and Valletta have crossed blades for eight years; she sees him as her archnemesis.
+[@ar01-arachnia]: AR01 | Chapter 5: Tragedy in Sunlight | Toxic-pink hair; the Guild blacklist; "A human known as Arachnia" (the Japanese edition, file c2W8, paragraph 154, calls her one of the Evils' most important officers).
+[@ar01-finn]: AR01 | Chapter 5: Tragedy in Sunlight | Finn and Valletta have crossed blades for eight years; she sees him as her archnemesis.
 [@ar01-diversion]: AR01 | | The attack on the soup kitchen was a diversion; Finn one step ahead.
-[@ar02-bombs]: AR02 | | Atop the walls; bombs thrown into the crowd.
-[@ar02-obsession]: AR02 | | "The object of her obsession was, of course, Finn."
-[@ar03-smart]: AR03 | | Valletta commands the Evils; "a frighteningly intelligent woman".
+[@ar02-bombs]: AR02 | Prologue: A City Shrouded in Darkness | Atop the walls; bombs thrown into the crowd.
+[@ar02-obsession]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "The object of her obsession was, of course, Finn."
+[@ar03-smart]: AR03 | Chapter 1: March and Break | Valletta commands the Evils; "a frighteningly intelligent woman".
 [@ar03-wound]: AR03 | Chapter 7: What She Wished For | Finn's spear in her shoulder; she escapes into Daedalus Street.
 [@so07-finn]: SO07 | Chapter 2: Dungeon Trap | "A major player in the Evils’ uprising"; Raul thought her long dead.
 [@so07-nightmare]: SO07 | Chapter 2: Dungeon Trap | She faked her death in the Twenty-Seventh-Floor Nightmare six years ago.
@@ -114,12 +114,17 @@ In Astrea Record 1, set years earlier, the narration remarks that a mage, had on
 [@so08-admit]: SO08 | Chapter 3: Unshed Tears | "It was me! All of it!"; the murders in Knossos.
 [@so08-blacklist]: SO08 | Chapter 4: Lonesome Night | On the Guild's blacklist for six years; the alias Arachnia.
 [@so08-death]: SO08 | Chapter 5: Battered Wolf | Hati's flames; "if you kill me, you’ll never…never find the key!!"; burned to blackened ash.
-[@so09-past]: SO09 | | Arachnia leads an attack on the home of a Familia supporting the Guild.
+[@so09-past]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | Arachnia leads an attack on the home of a Familia supporting the Guild.
 [@so10-loss]: SO10 | Chapter 2: Someone Named Fool | "The enemy had lost a skilled commander in Arachnia, Valletta Grede."
-[@shaldo.ar01-valletta]: AR01 | | The narration on the traces. The Japanese edition (file c2W8, paragraph 239) says that a mage, had one been there, would have sensed them.
+[@shaldo.ar01-valletta]: AR01 | Chapter 5: Tragedy in Sunlight | The narration on the traces. The Japanese edition (file c2W8, paragraph 239) says that a mage, had one been there, would have sensed them.
 [@shaldo.so08-bombard]: SO08 | Chapter 5: Battered Wolf | Magic swords; Bete hit trying to flee.
 [@shaldo.so08-explain]: SO08 | Chapter 5: Battered Wolf | "I call it Shaldo"; barrier magic; a super-long chant; Mind; dissipates; a trap; Status Down. The Japanese edition (file c45H, paragraph 460) has Valletta call it barrier magic that blocks nothing, with a super-long chant.
 [@shaldo.so08-field]: SO08 | Chapter 5: Battered Wolf | Reddish-purple shapes centred on Valletta. The Japanese edition (file c45H, paragraph 359) gives the field a radius of 60 meders, reaching almost the whole underground space.
 [@shaldo.so08-hati]: SO08 | Chapter 5: Battered Wolf | The patterns flicker; Hati eats barriers; Valletta struck.
 [@shaldo.so08-level4]: SO08 | Chapter 5: Battered Wolf | No repeated casting; one, dozens or hundreds; below about Level 4. The Japanese edition (file c45H, paragraphs 467 and 476) states the reach as fact and puts Bete's power below about Level 4.
 [@so09-arachnia-ja]: SO09 | | The Japanese edition writes her title with kanji meaning murder empress, read Arachnia.
+[@so07-valletta-swarm]: SO07 | Chapter 4: The Sword’s Wind Calls | "Valletta narrowed her eyes as she slowly went in for the kill."; "The crystal dust now covering their bodies would encourage the spider monsters to charge straight at Valletta and her assassins."; "she aimed a blow straight at the vertebrae in Valletta’s neck"; "Valletta’s eyes popped open as she was sent crumbling to the ground."
+[@so08-valletta-key]: SO08 | Chapter 1: Lonely Wolf | "Ishtar had been one of the sponsors the Evils had enlisted to help expand Knossos."; "Thus, they’d provided her with a key to the labyrinth."; "Only now, with Ishtar’s sudden defeat, they’d lost track of the one they’d entrusted to her."; "we’re already searching the ruined Pleasure Quarter"; "Do you even realize the shit we’d be in if Finn and his little goons got their hands on it first"
+[@so08-valletta-hunt]: SO08 | Chapter 3: Unshed Tears | "our dear Valletta is going hunting"; "for Amazons."
+[@so08-valletta-targets]: SO08 | Chapter 4: Lonesome Night | "Considering the targets were former members of Ishtar Familia"; "Valletta and her crew of assassins"
+[@ar03-valletta-monsters]: AR03 | Chapter 5: Playing the Violence Card | "I guess we’ve been trainin’ ’em in Knossos"; "Valletta had tasked Hazer and other hunters of Ikelos Familia with capturing monsters from the Dungeon, while Jura and the rest of Rudra Familia were asked to tame and control the more powerful specimens"; "a crimson whip that allowed any monster to be tamed"; "Everywhere she looked she could see monsters preying on adventurers"

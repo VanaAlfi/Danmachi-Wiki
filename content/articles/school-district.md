@@ -39,7 +39,7 @@ Orario was heavily involved in establishing the School District.[@so13-meren] It
 
 ## How it works
 
-The school's classes are Familias, each led by a god, and it grants the [[falna|Falna]] to its students and teachers.[@so13-classes, fm19-falna] Ordinary admission is for children aged six to eighteen, of any origin or race, with no large entrance fee; entry depends on an interview with the gods to test the applicant's determination to study.[@so13-admission, fm19-interview] Students graduate when their teachers and gods approve.[@so13-admission] There is no fixed graduation date: a student who has made up their mind may leave the ship as a graduate at any point, and the triennial return to Orario is the busiest time for admissions.[@so13-graduation] Although their Statuses may be strong, students' practice in the Dungeon stops at Floor 15, because they lack adventurers' experience.[@so13-practice]
+The school's classes are Familias, each led by a god, and it grants the [[falna|Falna]] to its students and teachers.[@so13-classes, fm19-falna] Ordinary admission is for children aged six to eighteen, of any origin or race, with no large entrance fee; entry depends on an interview with the gods to test the applicant's determination to study.[@so13-admission, fm19-interview] Students graduate when their teachers and gods approve.[@so13-admission] There is no fixed graduation date: a student who has made up their mind may leave the ship as a graduate at any point, and the triennial return to Orario is the busiest time for admissions.[@so13-graduation] Although their Statuses may be strong, students' practice in the Dungeon stops at Floor 15, because they lack adventurers' experience.[@so13-practice] The School District is also one of the most powerful forces in the world: at the request of the countries and towns it visits it acts as "a volunteer army, or even a mercenary group", sending teachers and students who volunteer into battle, slaying monsters and at times intervening in conflicts between countries.[@so13-volunteer-army, fm19-trouble] Its instructors, Leon among them, installed the barrier devices that maintain the seal around the [[valley-of-dragons|Valley of Dragons]].[@fm20-dragon-barrier]
 
 ### Classes and squads {#classes}
 
@@ -72,6 +72,8 @@ Each return is Orario's recruiting season. With the school's cooperation every F
 
 ## The Orariad
 
+The dispute begins with the Guild's requisition of the School District's orichalcum for its shaft; by one account the Guild, pleading Orario's support for the School District and Ouranos's permission, took it to Orario more or less by force (the English prints "a whole half of the orichalcum"). The School District answers with an indefinite halt to recruitment, calls back everyone connected with it, interning students included, keeps the Hringhorni in Meren and reserves the right to leave port without a new deal.[@fm20-orichalcum-dispute]
+
 In DanMachi 20 a dispute between Orario and the School District is settled through a contest, the [[orariad|Orariad]], which ends 2–2–1. Leon has the better of his fight with Bell, but it is recorded as a draw. The School District secures favourable terms in the reconciliation that follows, and Balder offers the help of its Alchemy Department for the [[guild|Guild]]'s shaft project.[@fm20-orariad, fm20-reconcile]
 
 ## Open questions
@@ -87,16 +89,16 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@fm19-eina]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Eina enrolled at six.
 [@fm19-rapi]: FM19 | Chapter 2: School Heaven and Hell | Bell as Rapi Flemish.
 [@fm20-leon]: FM20 | Chapter 2: Lion and then Sword Princess | Leon, Knight of Knights, Level 7.
-[@fm20-parents]: FM20 | | Leon's half-dwarf parents.
+[@fm20-parents]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon's half-dwarf parents.
 [@fm20-nina]: FM20 | Chapter 1: Orario Rumble | Nina of Balder Class.
-[@fm20-orariad]: FM20 | | The Orariad, ending 2–2–1.
+[@fm20-orariad]: FM20 | Epilogue: Beautiful World | The Orariad, ending 2–2–1.
 [@fm20-reconcile]: FM20 | Epilogue: Beautiful World | The draw, the reconciliation and the shaft.
 [@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The Hringhorni.
-[@so13-classes]: SO13 | | Deity-led classes.
-[@so13-balder]: SO13 | | Balder.
-[@so13-admission]: SO13 | | Admission and graduation. The Japanese edition (file part0021, paragraphs 48 and 49) gives the admission ages as six to eighteen and asks no large entrance fee.
+[@so13-classes]: SO13 | Chapter 2: Nostalgic Schoolhouse | Deity-led classes.
+[@so13-balder]: SO13 | Chapter 2: Nostalgic Schoolhouse | Balder.
+[@so13-admission]: SO13 | Fairy Canon: 1 | Admission and graduation. The Japanese edition (file part0021, paragraphs 48 and 49) gives the admission ages as six to eighteen and asks no large entrance fee.
 [@so13-practice]: SO13 | Chapter 3: Class is in Session | Dungeon practice stops at Floor 15.
-[@so13-leon]: SO13 | | Leon, captain of Balder Class.
+[@so13-leon]: SO13 | Chapter 3: Class is in Session | Leon, captain of Balder Class.
 [@so13-lefiya]: SO13 | Fairy Canon: 1 | Lefiya's admission.
 [@so13-bardain]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Ha-ha! Rulebreaker Bardain!"
 [@so13-bardain-fc]: SO13 | Fairy Canon: 1 | "I’m Bardain! A bull person, as you can see!"; "Generous and always smiling, Bardain was like everyone’s older brother"; "Bardain often dragged him and Lefiya into fights and messes."; "Bardain wants to be an imperial knight."
@@ -127,3 +129,7 @@ In DanMachi 20 a dispute between Orario and the School District is settled throu
 [@fm20-prefects]: FM20 | Chapter 2: Lion and then Sword Princess | Prefects of Bragi Class and Iðunn Class; the student council.
 [@so13-rescue]: SO13 | Chapter 5: The Mirror’s Voice | "Because of Bardain’s desire to see the eighteenth floor, they had enlisted the 1st and 2nd Squads, challenging the Cave Labyrinth with twelve students."; "at the cost of one of his arms, managing to rescue Alisa and Nassen"; "the heads of the monsters trying to eat Bardain and the other students were suddenly rolling"; "Lefiya saw Bardain groaning as Tiona held his severed arm to the wound".
 [@fm19-school-district-ja]: FM19 | | The Japanese edition calls it by a kanji name meaning school district, short for its official name, which the infobox also gives.
+[@so13-volunteer-army]: SO13 | Chapter 3: Class is in Session | "one of the most powerful forces in the world, supported by Orario"; "their role as a volunteer army, or even a mercenary group, taking requests from countries and towns it visited and sending its teachers and students who volunteered into battle"
+[@fm19-trouble]: FM19 | Chapter 2: School Heaven and Hell | "If there’s a request from a town, they’ll slay monsters, and at times even intervene in conflicts between countries."
+[@fm20-dragon-barrier]: FM20 | Chapter 3: The World, The Festival, and Reality | "Around the base of the storm are barrier devices developed by the School District’s finest, maintaining and strengthening the seal."; "It was Professor Leon and the rest of the School District’s instructors who installed the barrier devices"
+[@fm20-orichalcum-dispute]: FM20 | Chapter 2: Lion and then Sword Princess | "The idea is to dig a giant shaft down into the Dungeon using the School District’s orichalcum"; "They demanded a whole half of the orichalcum, I heard." (the Japanese edition, file J12, paragraphs 127 and 133, says the Guild brought it to Orario more or less by force and names no share); "The School District officially announced an indefinite hiatus to recruitment."; "Everyone connected with the School District was called back, and the Hringhorni remained in port in Meren. This of course included all students interning with familias."; "they pointedly reserved the right to simply leave port without hammering out a new deal"

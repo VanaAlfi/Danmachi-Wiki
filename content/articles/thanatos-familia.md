@@ -18,6 +18,7 @@
       {"label": "Allegiance", "value": "[[evils|The Evils]]", "refs": ["so08-evils", "so09-dark"]},
       {"label": "Members", "value": "Bereaved people bound by their god's contracts", "refs": ["so07-army"]},
       {"label": "Home", "value": "[[knossos|Knossos]]", "refs": ["so11-home"]},
+      {"label": "Emblem", "value": "A heart of iron and bronze with a black wing like the God of Death's scythe, on the altar wall of its room in Knossos", "refs": ["so11-emblem"]},
       {"label": "Fate", "value": "Its god returns to Heaven and the Evils are crushed (Sword Oratoria 11)", "refs": ["so11-crushed"]}
     ]
   }
@@ -27,7 +28,7 @@
 
 ## Home {#home}
 
-The Familia hides in [[knossos|Knossos]]. Sword Oratoria 11 describes a wide room of round pillars there as if it were the home of a Familia that "had nowhere to go aboveground".[@so11-home]
+The Familia hides in [[knossos|Knossos]]. Sword Oratoria 11 describes a wide room of round pillars there as if it were the home of a Familia that "had nowhere to go aboveground".[@so11-home] On the room's back wall, which serves as an altar, is the Familia's emblem: a heart of iron and bronze with a black wing like the God of Death's scythe.[@so11-emblem]
 
 ## History {#history}
 
@@ -46,3 +47,4 @@ The Familia hides in [[knossos|Knossos]]. Sword Oratoria 11 describes a wide roo
 [@so09-dark]: SO09 | Recollections Chapter 4: The Wind’s Desired Eternity | "Thanatos Familia and several other factions and followers of the evil gods were operating behind the scenes to spread more destruction and upheaval in the city."
 [@so11-home]: SO11 | Chapter 6: And Then the God Smiled | "It was a wide room hosting a set of round pillars, as though the home of Thanatos Familia"; "had nowhere to go aboveground."
 [@so11-crushed]: SO11 | Chapter 6: And Then the God Smiled | "They had achieved their goal of crushing the Evils. And Thanatos, the patron god of the Evils, had been sent back, too."
+[@so11-emblem]: SO11 | Chapter 6: And Then the God Smiled | "On the back wall that was designated as an altar"; "there was an emblem with a heart made of iron and bronze and a black wing that resembled the God of Death’s scythe"

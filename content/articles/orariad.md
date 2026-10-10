@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The contest of representatives between Orario and the School District in DanMachi 20, declared by Hermes and sponsored by the Denatus to settle the quarrel over the Guild's demand for the School District's orichalcum. Over six days the sides split four contests, and the final bout, Leon Verdenberg against Bell, is broken off by a dragon: a 2-2-1 draw that Leon and Balder had planned all along.",
   "aliases": ["Orichalcum requisition", "Shaft plan", "Battle of representatives"],
-  "spoilers": "DanMachi Vol. 20",
+  "spoilers": "DanMachi Vols. 19 and 20",
   "related": ["school-district", "balder", "leon-verdenberg", "hermes", "denatus", "royman", "bell-cranell", "nina-tulle", "war-game"],
   "infobox": {
     "title": "Orariad",
@@ -29,7 +29,7 @@ The **Orariad** is the contest of representatives between [[orario|Orario]] and 
 
 ## The quarrel {#quarrel}
 
-The Guild had high-handedly requisitioned the School District's [[metals#orichalcum|orichalcum]], claiming Ouranos's permission; the Yen Press text has Syr say they demanded "a whole half" of it, but the Japanese gives no fraction. The students demand that the requisition be withdrawn. Until it is, they threaten to halt all recruitment and internships and even to cut ties with Orario.[@fm20-demand, fm20-half] For the School District, orichalcum is "the pride and manifestation" of its research.[@fm20-pride] Leon explains that the Guild wants it for a great plan, the shaft plan: a giant pillar made of the School District's orichalcum would be driven into the Dungeon and serve as an elevator to carry people and materials quickly to the lower floors and the depths.[@fm20-shaft]
+The Guild had high-handedly requisitioned the School District's [[metals#orichalcum|orichalcum]], claiming Ouranos's permission; the Yen Press text has Syr say they demanded "a whole half" of it, but the Japanese gives no fraction. The students demand that the requisition be withdrawn. Until it is, they threaten to halt all recruitment and internships and even to cut ties with Orario.[@fm20-demand, fm20-half] For the School District, orichalcum is "the pride and manifestation" of its research.[@fm20-pride] Leon explains that the Guild wants it for a great plan, the shaft plan: a giant pillar made of the School District's orichalcum would be driven into the Dungeon and serve as an elevator to carry people and materials quickly to the lower floors and the depths.[@fm20-shaft] The plan had been adopted in DanMachi 19 at a Guild meeting under [[royman|Royman]] as "a shortcut for adventurers" to raise exploration efficiency; [[eina-tulle|Eina]]'s safety concerns were brushed aside, and with Ouranos's sign-off "there was no stopping the Shaft plan anymore".[@fm19-shaft-adopted]
 
 ## The declaration {#declaration}
 
@@ -46,8 +46,8 @@ The Guild had high-handedly requisitioned the School District's [[metals#orichal
 | 1 | Mage showdown | The School District: the elf Malik Alfort, a Level 5 [[balder#balder-class|Balder Class]] instructor, beats [[hathor|Hathor Familia]]'s mage Nernati.[@fm20-round1, fm20-nernati] |
 | 2 | Melee: capture the flag for Level 3 and below, at the [[geography#ruins-near-orario-shreme-castle-ruins|Shreme castle ruins]] of the [[war-game|War Game]] | The School District's student alliance, with bold plans and traps; the main event the Denatus designed.[@fm20-round2, fm20-melee] |
 | 3 | Tag team | Orario: [[ilta-faana|Ilta Faana]] and [[shakti-varma|Shakti Varma]] beat the School District's assassins, aboard the School District with no Orario spectators.[@fm20-round3, fm20-home] |
-| 4 | Trios aquatic match | Orario, easily.[@fm20-round4] |
-| 5 | [[leon-verdenberg|Leon Verdenberg]] against [[bell-cranell|Bell]] | Suspended when a dragon attacks; recorded as a draw.[@fm20-final, fm20-dragon, fm20-draw] |
+| 4 | Trios aquatic match | Orario, easily.[@fm20-round4] [[lyu-leon|Lyu]], [[aisha-belka|Aisha]] and [[asfi|Asfi]] beat the School District's teachers among small boats in Meren Harbor.[@fm20-round4-trio] |
+| 5 | [[leon-verdenberg|Leon Verdenberg]] against [[bell-cranell|Bell]] | Suspended when a dragon attacks; recorded as a draw.[@fm20-final, fm20-dragon, fm20-draw] It is fought far to the north, and the city watches it through a magic mirror.[@fm20-final-north] |
 
 - **What rode on it:** Bell fights the final bout knowing that if Orario wins, Nina can join Hestia Familia without trouble.[@fm20-nina]
 
@@ -84,3 +84,6 @@ The Orariad ended 2–2–1. Leon had the better of Bell throughout, but no one 
 [@fm20-result]: FM20 | Epilogue: Beautiful World | "The Orariad officially concluded in a 2-2-1 draw."; "Leon held the advantage over Bell from start to finish".
 [@fm20-terms]: FM20 | Epilogue: Beautiful World | "The requisition for orichalcum was scrapped."; "the School District would directly participate in and contribute to the Guild’s shaft plan".
 [@fm20-scheme]: FM20 | Epilogue: Beautiful World | "plotting with Balder from the moment the Guild demanded the orichalcum".
+[@fm19-shaft-adopted]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "In other words, a shortcut for adventurers."; "When the Shaft plan is complete, exploration efficiency will go up dramatically."; "might it not need a little more consideration from a safety perspective?"; "there was no stopping the Shaft plan anymore"
+[@fm20-round4-trio]: FM20 | Chapter 3: The World, The Festival, and Reality | "Lyu, the elf in her hooded white gear, the Amazon Aisha, and the human Asfi bantered as they stood in Meren Harbor"; "they were almost hopelessly outmatched"
+[@fm20-final-north]: FM20 | Chapter 4: The Knight’s Afterglow | "cheering wildly for the scene unfolding far, far to the north"; "those watching through a mirror"

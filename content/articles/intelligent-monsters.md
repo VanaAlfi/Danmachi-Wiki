@@ -15,7 +15,7 @@
     "rows": [
       {"section": "Term"},
       {"label": "Japanese", "value": "{{ja|理知を備えるモンスター}}, written *monsters endowed with reason*; for the form, {{ja|人型のモンスター}}, *humanoid monster*", "refs": ["fm09-intelligent-ja", "fm09-form"]},
-      {"label": "Also printed", "value": "*sentient monsters*", "refs": ["fm10-sentient"]},
+      {"label": "Also printed", "value": "*sentient monsters*; *self-aware monsters* (Sword Oratoria 10)", "refs": ["fm10-sentient", "so10-self-aware"]},
       {"label": "Name for", "value": "The [[xenos|Xenos]], in [[ouranos|Ouranos]]'s words", "refs": ["fm09-xenos"]},
       {"label": "Kept secret", "value": "From the public and, in DanMachi 10, from the Guild's upper management", "refs": ["fm10-secret", "fm10-sentient", "fm11-conceal"]},
       {"label": "Humanoid forms", "value": "[[monsters#vouivre|Vouivres]], sirens, harpies, mermaids and lamias", "refs": ["fm09-form", "fm12-forms"]}
@@ -38,9 +38,10 @@ The term **intelligent monsters** describes the [[xenos|Xenos]], while *humanoid
 | DanMachi 12 | The [[monsters#moss-huge|moss huge]] is described as highly intelligent, using mimicry, ambushes and escapes.[@fm12-moss] |
 | DanMachi 14 | [[lyu-leon|Lyu Leon]]'s delaying tactics work because the deep-level monsters are highly intelligent.[@fm14-tactics] |
 | Sword Oratoria 10 | Humanoid monsters are placed from [[colossal-tree-labyrinth|Floor 19]], allowing for confusion with a beast-headed [[monsters#kobold|kobold]].[@so10-forms] |
-| Sword Oratoria 10 | The humanoid monster seen in town is identified as a [[monsters#vouivre|Vouivre]] differing from the familiar form.[@so10-forms] |
+| Sword Oratoria 10 | The humanoid monster seen in town is identified as a [[monsters#vouivre|Vouivre]] differing from the familiar form.[@so10-vouivre] |
 | Sword Oratoria 10 | [[riveria|Riveria Ljos Alf]] proposes negotiating a cease-fire with intelligent monsters through [[ouranos|Ouranos]].[@so10-deal] |
 | Sword Oratoria 10 | Monsters with intelligence can cooperate to attack people, while protecting one another is treated as unheard of.[@so10-cooperation] |
+| Sword Oratoria 10 | [[fels|Fels]] tells Loki Familia's wavering elves, [[alicia-forestlight|Alicia]] among them, and [[rakuta|Rakuta]] that the self-aware monsters are called Xenos, and [[finn-deimne|Finn]] later judges that their existence can no longer be hidden within [[loki-familia|Loki Familia]].[@so10-self-aware] |
 | Minor Myths and Legends 1 | [[ouranos|Ouranos]] orders [[fels|Fels]] to watch [[bell-cranell|Bell Cranell]]'s group after an intelligent monster reaches the surface.[@ss01-watch] |
 
 
@@ -51,10 +52,12 @@ The term **intelligent monsters** describes the [[xenos|Xenos]], while *humanoid
 [@fm11-conceal]: FM11 | Chapter 3: The Night Before Battle | Xenos called intelligent monsters and Hestia and Fels avoiding disclosure to prevent chaos.
 [@fm12-forms]: FM12 | Chapter 3: New World ~Water Island~ | Humanoid examples and Aisha’s warning not to expect them to speak.
 [@fm12-moss]: FM12 | Chapter 4: A Hunter at the Water’s Edge | Moss huge’s high intelligence, mimicry, ambushes and escape.
-[@so10-forms]: SO10 | | The stated nineteenth-floor appearance and the unusual vouivre identified in town.
+[@so10-forms]: SO10 | Chapter 1: Omen | The stated nineteenth-floor appearance and the possible misidentification of a beast-headed monster such as a kobold.
 [@so10-deal]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | Riveria proposes a cease-fire and negotiations through Ouranos.
 [@so10-cooperation]: SO10 | Chapter 2: Someone Named Fool | Monsters can cooperate to attack humans; protecting one another is treated differently.
 [@ss01-watch]: SS01 | | Ouranos orders Fels to observe after an intelligent monster reaches the surface.
 [@fm10-sentient]: FM10 | Epilogue: The Decision’s Cost | Hermes reports to Ouranos that people still have not noticed monsters with reason; the English prints "sentient monsters".
 [@fm14-tactics]: FM14 | Chapter 11: Where the Will to Kill Leads | Lyu buys Bell time by causing highly intelligent deep-level monsters to hesitate.
 [@fm09-intelligent-ja]: FM09 | Chapter 5: Heretics | The Japanese edition writes the term as monsters endowed with reason (file c5SZ, paragraph 626).
+[@so10-vouivre]: SO10 | Chapter 2: Someone Named Fool | "That matches the reports of a winged monster"; "Its female dragon body and tail were a bit much to call humanoid"; "A subspecies? Or maybe a variant?"
+[@so10-self-aware]: SO10 | Chapter 6: The Hero's Self-Denial | "Self-aware monsters"; "We call them Xenos"; "Fels explained, looking at the confusion growing in the elves, Alicia, and Rakuta"; "There was no longer any way to sweep the existence of self-aware monsters under the carpet"

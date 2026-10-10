@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A man-made labyrinth beneath Daedalus Street, built over nearly a thousand years by the descendants of Daedalus, with orichalcum doors, adamantite walls faced with anti-magic stone, watching statues and a control pedestal; it connects to the Dungeon, reaches at least Floor 18 and served as the Evils' lair. Conquered in Sword Oratoria 12, it passes to the Guild, which plans to reuse its doors for the Shaft.",
   "aliases": ["Man-made dungeon", "Daedalus's Notebook", "Orichalcum door", "Orichalcum doors"],
-  "spoilers": "DanMachi Vols. 10, 11, 19 and Sword Oratoria Vols. 7 and 9–12",
+  "spoilers": "DanMachi Vols. 10, 11, 19, Sword Oratoria Vols. 7 and 9–12 and Astrea Record Vol. 3",
   "related": ["dungeon", "daedalus-street", "barca-perdix", "ikelos-familia", "orario", "xenos", "loki-familia", "floor-18", "hermes"],
   "sections": [
     {"anchor": "daedalus-orb", "title": "Daedalus Orb", "summary": "The magic item, a jewel, that opens the doors of Knossos: who holds, steals, copies and uses the orbs in Sword Oratoria 10 to 12.", "aliases": ["Daedalus Orbs", "Daedalus's Orb", "Orb of Knossos"]}
@@ -33,7 +33,7 @@
 
 ## Structure {#structure}
 
-Its doors open only with keys that use the magic of a *D*-marked eye, an eye inherited in the Daedalus bloodline.[@fm10-knossos, so11-eye] DanMachi 10 reveals an entrance on [[floor-18|Floor 18]], and Sword Oratoria 9 confirms that it reaches that far.[@fm10-reach, so09-floor18] [[ikelos-familia#dix-perdix|Dix]] says construction reaches the middle levels and only about 30 percent of the planned design is finished.[@fm10-dix] In Sword Oratoria 11 the Evils' base is on the ninth underground level and the main [[corrupted-spirit|demi-spirit]] chamber on the tenth, with a connection to the Dungeon's Floor 12.[@so11-levels] Its floors are numbered on their own, apart from the Dungeon's (see [[upper-levels#floors-8-9|Upper levels]] for the entrances on the Dungeon's ninth floor).[@so12-entrances]
+Its doors open only with keys that use the magic of a *D*-marked eye, an eye inherited in the Daedalus bloodline.[@fm10-knossos, so11-eye] DanMachi 10 reveals an entrance on [[floor-18|Floor 18]], and Sword Oratoria 9 confirms that it reaches that far.[@fm10-reach, so09-floor18] Daedalus's Notebook shows six entrances below the central zone of [[daedalus-street|Daedalus Street]]: northeast, northwest, west, southwest, southeast and east.[@fm11-knossos-entrances] [[ikelos-familia#dix-perdix|Dix]] says construction reaches the middle levels and only about 30 percent of the planned design is finished.[@fm10-dix] Daedalus's blueprints set the labyrinth in the space around the Dungeon's circular floors, so that it wraps around them like a pillar beneath the city; since it cannot regenerate as the Dungeon does, it had to be all but unbreakable for Daedalus's aim, a work that would surpass the Dungeon itself.[@fm10-knossos-design] In Sword Oratoria 11 the Evils' base is on the ninth underground level and the main [[corrupted-spirit|demi-spirit]] chamber on the tenth, with a connection to the Dungeon's Floor 12.[@so11-levels] Its floors are numbered on their own, apart from the Dungeon's (see [[upper-levels#floors-8-9|Upper levels]] for the entrances on the Dungeon's ninth floor).[@so12-entrances]
 
 - **Passages:** the maze is so complex that it puts even [[daedalus-street|Daedalus Street]] to shame. Its tunnels are wide enough for three dwarves to walk side by side and so uniform that they seem unlikely to collapse, though the stone is old and cracked, as if the maze had been built inside ancient ruins.[@so07-tunnels]
 - **Orichalcum doors:** the doors are orichalcum, stronger even than adamantite and "easily the highest-grade material in the entire world"; destroying such a door is all but impossible.[@so07-orichalcum]
@@ -63,11 +63,13 @@ The **Daedalus Orb** ({{ja|ダイダロス・オーブ}}) is a magic item that o
 
 | Volume | Events |
 |---|---|
+| Astrea Record 3 | During the [[great-conflict|Great Conflict]] the Evils already use Knossos, whose existence is not yet public: [[valletta|Valletta]] has monsters trained there and sends Vito through it into the Dungeon.[@ar03-knossos-vito, ar03-knossos-monsters] |
 | DanMachi 10 | [[ikelos-familia|Ikelos Familia]]'s hunters use Knossos to hold and smuggle captured [[xenos|Xenos]]; its Floor 18 entrance is revealed.[@fm10-knossos, fm11-smuggling] |
 | Sword Oratoria 7 | [[loki-familia|Loki Familia]]'s first attempt to enter ends in defeat, as [[gareth|Gareth]] tells [[loki|Loki]]; she concludes that the labyrinth cannot be taken without its keys.[@so07-defeat] |
-| Sword Oratoria 10 | [[riveria|Riveria]]'s raid secures two Orbs and part of the map.[@so10-raid] |
+| Sword Oratoria 10 | [[riveria|Riveria]]'s raid, entering with the Orb Anakity captured, retrieves a second Orb and the start of a map of the labyrinth.[@so10-raid] |
 | DanMachi 11 | The Xenos escape through Knossos after the fighting in Daedalus Street.[@fm11-escape] |
 | Sword Oratoria 11 | [[asfi|Asfi]] re-creates a working key, a mythril orb made with Dungeon materials such as a deformis spider's compound eye, and the allies capture Daedalus's notebook, which gives them the layout.[@so11-key, so11-replica] Barca sets Dix's device to collapse the eighth floor on the advancing [[familia-coalition|alliance]], though it would put the labyrinth's completion beyond his lifetime; he hesitates, and Asfi's blade cuts his neck before he finishes.[@so11-collapse, so11-asfi] |
+| Sword Oratoria 11 | At the end of the first assault a mass of green flesh pours through the labyrinth and re-forms Knossos from the tenth floor.[@so11-knossos-reformed] [[fels|Fels]] reports that the corrupted spirit's power has turned it into a spirit realm whose flesh attacks any intruder.[@so11-knossos-spirit-realm] |
 | Sword Oratoria 12 | The decisive assault spans the ninth to twelfth levels; six ritual chambers surround central Orario, and the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]] waits in a hidden chamber.[@so12-assault] |
 | DanMachi 19 | After being conquered, Knossos is under [[guild|Guild]] management, in practice under [[ouranos|Ouranos]]'s control; [[fels|Fels]] sets up facilities inside it.[@fm19-guild] Knossos is one reason for the Guild's Shaft plan: the Dungeon stayed quiet despite a man-made labyrinth connected to several of its floors, and nearly all of Knossos's orichalcum doors are to be stripped, with [[goibniu-familia|Goibniu Familia]]'s help, and reused for the shaft (see [[orariad|Orariad]]).[@fm19-shaft] |
 
@@ -78,9 +80,9 @@ The **Daedalus Orb** ({{ja|ダイダロス・オーブ}}) is a magic item that o
 
 [@fm10-knossos]: FM10 | | The Floor 18 entrance; eye-keys; nearly a thousand years of construction; Ikelos Familia.
 [@fm10-reach]: FM10 | Chapter 9: Dreams of Beasts | Knossos reaches at least Floor 18.
-[@fm10-dix]: FM10 | | Dix: middle levels; 30 percent complete.
+[@fm10-dix]: FM10 | Chapter 9: Dreams of Beasts | Dix: middle levels; 30 percent complete.
 [@fm11-smuggling]: FM11 | Chapter 5: Ultra Soul! | Hunters used Knossos for smuggling.
-[@fm11-dig]: FM11 | | "Gareth and Tiona managed to dig through the adamantite wall and get in. But an orichalcum door blocked the far side".
+[@fm11-dig]: FM11 | Chapter 1: The White Rabbit Brought Low | "Gareth and Tiona managed to dig through the adamantite wall and get in. But an orichalcum door blocked the far side".
 [@fm11-escape]: FM11 | Epilogue: And So I Start to Run Again | The Xenos brought to Knossos.
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "the knowledge of the existence of Knossos had been a significant factor in the push for the Shaft plan"; "the orichalcum doors found throughout Knossos would almost all be stripped down".
 [@fm19-guild]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Guild management; Fels's facilities.
@@ -92,16 +94,16 @@ The **Daedalus Orb** ({{ja|ダイダロス・オーブ}}) is a magic item that o
 [@so07-obsidian]: SO07 | Chapter 3: Feast of the Dead | "Obsidian soldier matter."; "If not even I am capable of breaking in".
 [@so07-pedestal]: SO07 | Chapter 3: Feast of the Dead | "the Evils’ lair, having been annexed onto the maze post-completion"; "The most important device in the entire maze."; "beyond the scope of my ancestor’s design"; "it was in the Evils’ contract".
 [@so07-eyes]: SO07 | Chapter 4: The Sword’s Wind Calls | "the statues and reliefs that housed his all-seeing “eyes” in the labyrinth".
-[@so07-route]: SO07 | | Routes that bypass Babel.
-[@so07-defeat]: SO07 | | Gareth: "We lost."; Loki on the keys.
-[@so09-floor18]: SO09 | | The orichalcum gate on Floor 18.
+[@so07-route]: SO07 | Chapter 2: Dungeon Trap | Routes that bypass Babel.
+[@so07-defeat]: SO07 | Chapter 5: Battle of Tears | Gareth: "We lost."; Loki on the keys.
+[@so09-floor18]: SO09 | Chapter 2: A Brief Calm | The orichalcum gate on Floor 18.
 [@so10-dig]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "they’d dug through the adamantite wall and broken into the area in question".
-[@so10-raid]: SO10 | | Riveria's raid.
-[@so11-eye]: SO11 | | The D-marked eye; Barca.
+[@so10-raid]: SO10 | Chapter 5: Brave Soul! | Riveria's raid.
+[@so11-eye]: SO11 | Chapter 5: Obsession Manifest | The D-marked eye; Barca.
 [@so11-collapse]: SO11 | Chapter 5: Obsession Manifest | "this one would release the support pillars of the designated floor"; "none other than Dix had created that mechanism"; "He dictated the collapse to happen on the eighth floor".
 [@so11-replica]: SO11 | Chapter 5: Obsession Manifest | "a metallic orb made out of mythril"; "the compound eye of a deformis spider".
 [@so11-asfi]: SO11 | Chapter 5: Obsession Manifest | "After pressing the orb disinterestedly, Barca hesitated for a moment."; "…Perseus?!"
-[@so11-key]: SO11 | | Asfi's key; the notebook captured.
+[@so11-key]: SO11 | Chapter 5: Obsession Manifest | Asfi's key; the notebook captured.
 [@so11-levels]: SO11 | | Floors nine, ten and twelve.
 [@so12-entrances]: SO12 | Chapter 5: Final War | "the entrance connecting to Knossos on the Dungeon’s ninth floor".
 [@so12-assault]: SO12 | | The second assault; the ritual chambers; Nidhogg.
@@ -118,3 +120,9 @@ The **Daedalus Orb** ({{ja|ダイダロス・オーブ}}) is a magic item that o
 [@so11-close]: SO11 | Chapter 6: And Then the God Smiled | A familia member closes gates against invading flesh.
 [@so12-enter]: SO12 | Chapter 5: Final War | Fifth squad enters through the ninth-floor route with an orb.
 [@so12-trap]: SO12 | Chapter 5: Final War | Masked creature uses orb to activate an exposed pitfall.
+[@fm11-knossos-entrances]: FM11 | Chapter 3: The Night Before Battle | "there are six entrances to Knossos, which lie below the central zone of Daedalus Street: northeast, northwest, west, southwest, southeast, and east"
+[@fm10-knossos-design]: FM10 | Chapter 9: Dreams of Beasts | "Daedalus’s blueprints called for a structure that sat in the negative space around the Dungeon’s circular edges, transforming it into a pillar of sorts beneath the city."; "This man-made labyrinth wrapped around the Dungeon’s circular floors."; "Knossos didn’t have the Dungeon’s regenerative ability—it was imperative that this piece be nearly impossible to break in order to realize Daedalus’s vision."; "the madman’s intention was to create something that surpassed the Dungeon itself"
+[@ar03-knossos-vito]: AR03 | Chapter 2: The Conqueror’s Return | "I want you to head through Knossos and enter the Dungeon."
+[@ar03-knossos-monsters]: AR03 | Chapter 5: Playing the Violence Card | "I guess we’ve been trainin’ ’em in Knossos"; "at a time when the existence of Knossos was not publicly known"
+[@so11-knossos-reformed]: SO11 | Chapter 6: And Then the God Smiled | "It started re-forming Knossos from the tenth floor, completely ravishing Daedalus’s thousand-year obsession."
+[@so11-knossos-spirit-realm]: SO11 | Epilogue: Whodunit | "Knossos has transformed into a spirit realm."; "The green flesh filling all the passages has agency and attempts to eliminate any intruders."; "there’s no doubt that it’s related to the power of the corrupted spirit"

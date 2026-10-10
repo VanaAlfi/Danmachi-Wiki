@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Far Eastern adventurer who leaves Takemikazuchi Familia for Hestia Familia in DanMachi 6; her gravity spell pins enemies to the ground.",
   "aliases": ["Mikoto", "Mikoto Yamato"],
-  "spoilers": "DanMachi Vols. 5–18, Sword Oratoria Vol. 12 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 4–18, Sword Oratoria Vol. 12 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "haruhime", "bell-cranell", "welf-crozzo", "war-game", "magic"],
   "infobox": {
     "title": "Yamato Mikoto",
@@ -24,15 +24,34 @@
   }
 }
 ---
-**Yamato Mikoto** is an adventurer from the [[far-east|Far East]]. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card]
+**Yamato Mikoto** is an adventurer from the [[far-east|Far East]]. A Level 2 member of [[takemikazuchi-familia|Takemikazuchi Familia]] when she first appears, she converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm05-mikoto, fm06-join, ss01-name] She knew [[haruhime|Haruhime]] as a child, which drives her loyalty to her.[@fm15-card] Like [[ouka|Ouka]] and [[chigusa|Chigusa]], she is an orphan who grew up in a home run by [[takemikazuchi|Takemikazuchi]] and other gods.[@fm11-mikoto-orphan] Takemikazuchi is the object of her own love.[@fm15-mikoto-love]
 
-The novels usually print her name given name first, *Mikoto Yamato*. At her first [[denatus|Denatus]] in DanMachi 4, Loki reads it from the Guild's papers as *Yamato Mikoto*, remarking that names from the Far East are "backward". This wiki gives Far Eastern names family name first.[@fm04-name, ss01-name]
+The novels usually print her name given name first, *Mikoto Yamato*. At the same Denatus she receives her title, printed "Eternal † Shadow".[@fm04-mikoto-title] At her first [[denatus|Denatus]] in DanMachi 4, Loki reads it from the Guild's papers as *Yamato Mikoto*, remarking that names from the Far East are "backward". This wiki gives Far Eastern names family name first.[@fm04-name, ss01-name]
 
 ## Abilities
 
 - **[[#futsu-no-mitama|Futsu no Mitama]]**, her magic, creates a gravity field that crushes everything inside it to the ground, including Mikoto herself. DanMachi 6 prints it as *Futsu no Tama*.[@fm05-mikoto, fm06-gravity]
 - **[[skills#yatano-crows|Yatano Black Crow]]** and **Yatano White Crow** are Skills, not spells, revealed in DanMachi 7: the first senses monsters she has gained [[excelia|excelia]] from, the second senses her allies, and using them drains Mind. Her DanMachi 15 card lists both under Skills. She uses the first to keep watch in DanMachi 9.[@fm07-crow, fm09-crow, fm15-card]
 - Her DanMachi 8 card lists the Development Ability Immunity.[@fm08-card]
+
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level, each copying the last Status sheet of that Level that the English volumes print as text in the story: ability names, grade letters and numbers as printed. Where a sheet records an update, each ability is printed as the old value, an arrow and the new value. Sheets printed only as pictures are not transcribed here.
+
+{{tabs|status-sheet}}
+{{tab|Level 2}}
+| Ability | As printed in DanMachi 15[@sheet.fm15-lv2] |
+|---|---|
+| Strength | H185 -> G279 |
+| Defense | H158 -> G255 |
+| Dexterity | G232 -> F334 |
+| Agility | G217 -> 298 |
+| Magic | I97 -> H149 |
+| Resistance | I |
+
+Printed together with Haruhime's update; her abilities rise about as much as Lilly's. The sheet also lists the Magic [[#futsu-no-mitama|Futsu no Mitama]] and the Skills [[skills#yatano-crows|Yatano Black Crow]] and [[skills#yatano-crows|Yatano White Crow]].[@sheet.fm15-lv2]
+
+{{/tabs}}
 
 ## Magic {#magic}
 
@@ -70,6 +89,7 @@ Mikoto's DanMachi 15 card lists Futsu no Mitama under **Magic**: gravity magic t
 |---|---|---|
 | DanMachi 5 | Opening, one middle passage and the ending, split by narration; the last line and the closing phrase run together in print ("earthshinbu tousei"). | Opening: "Fear, strong and winding—"[@futsu-no-mitama.fm05-goliath] |
 | DanMachi 6 | Seven printed pieces from opening to closing phrase, then "Futsu no Tama!". The narration says she "finished her incantation" with the closing phrase. | Last lines: "Descend from the heavens, seize the earth—" / "—Shinbu Tousei!"[@futsu-no-mitama.fm06-war] |
+| DanMachi 7 | The opening and the first middle passage, in fragments between blows. She never finishes it: clinging to Samira, she pours all her Mind into the gathering magic and lets it explode as a deliberate [[magic#ignis-fatuus|Ignis Fatuus]]. | Opening: "Fear, strong and winding—"[@futsu-no-mitama.fm07-samira] |
 | DanMachi 14 (first cast) | The chant's opening line, then one passage from the middle of the chant and "Shinbu Tousei!". | Opening: "Forgive my impudence as I beseech thee—"[@futsu-no-mitama.fm14-first] |
 | DanMachi 14 (second cast) | Six lines ending "Shinbu Tousei—", then "—Futsu no Mitama!!".[@futsu-no-mitama.fm14-second] | — |
 | DanMachi 18 | Only the spell name.[@futsu-no-mitama.fm18-cage] | — |
@@ -85,7 +105,7 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 - **Area.** In the DanMachi 6 [[war-game|War Game]] it spreads fifty meders in every direction, its maximum range, trapping twenty-two enemies and Mikoto herself. Anything that touches its outer layer, physical or magical, is forced to the ground.[@futsu-no-mitama.fm06-war]
 - **Reach.** Against the [[amphisbaena|Amphisbaena]] she places the sword at maximum range so that the gravity pulls down the tree-root dome above the monster.[@futsu-no-mitama.fm14-first] Later she chants underwater and pins the dragon, though the gravity crushes her too.[@futsu-no-mitama.fm14-second]
 - **Deflection.** In Sword Oratoria 12, boosted by [[haruhime|Haruhime]]'s Level Boost, her field bends a [[corrupted-spirit|demi-spirit]]'s blast of light into the floor. She cannot cancel the spell itself, only change its path.[@futsu-no-mitama.so12-shield]
-- **Focus.** In DanMachi 18 she narrows it to the smallest possible area to cage the [[gulliver-brothers|Gulliver brothers]]; Berling eventually breaks out.[@futsu-no-mitama.fm18-cage]
+- **Focus.** In DanMachi 18, strengthened by [[haruhime|Haruhime]]'s Level Boost, it first presses all four [[gulliver-brothers|Gulliver brothers]] to the ground inside a screen of black mist, but it is a cage for Berling alone: focused on the smallest possible area, it holds him while the other three escape and [[lilliluka-erde|Lilly]] takes his place, until he breaks out.[@futsu-no-mitama.fm18-cage]
 
 #### Limits {#futsu-no-mitama-limits}
 
@@ -99,14 +119,16 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 
 | Volume | Events |
 |---|---|
-| DanMachi 5 | Takemikazuchi Familia's party pushes monsters onto [[bell-cranell|Bell]]'s party (a "pass parade"); she later pins down the Black [[goliath|Goliath]] with Futsu no Mitama.[@fm05-mikoto, fm05-goliath] |
-| DanMachi 6 | Converts to Hestia Familia under the one-year rule. In the [[war-game|War Game]], her gravity field traps twenty-two enemy fighters along with herself.[@fm06-join, fm06-gravity] |
-| DanMachi 7 | Infiltrates [[ishtar-familia|Ishtar Familia]]'s palace and deliberately makes a spell backfire to open Bell's way to Haruhime.[@fm07-crow] |
+| DanMachi 5 | Takemikazuchi Familia's party pushes monsters onto [[bell-cranell|Bell]]'s party (a "pass parade"); she later pins down the Black [[goliath|Goliath]] with Futsu no Mitama.[@fm05-mikoto, fm05-goliath] In between, she, Ouka and Chigusa, the best their Familia has, join the search party sent down for Bell.[@fm05-mikoto-search] |
+| DanMachi 6 | Converts to Hestia Familia under the one-year rule. In the [[war-game|War Game]], her gravity field traps twenty-two enemy fighters along with herself.[@fm06-join, fm06-gravity] She had converted because Takemikazuchi, who wanted to help Hestia, saw her as his only choice despite the mission from their Far Eastern hometown; she was to come back once the year had passed, and left her Familia emblem with him until her return.[@fm06-mikoto-conversion] |
+| DanMachi 7 | Infiltrates [[ishtar-familia|Ishtar Familia]]'s palace and deliberately makes a spell backfire to open Bell's way to Haruhime.[@fm07-crow] Before that, disguised as a man, she had found her childhood friend Haruhime in the Pleasure Quarter, and her earnest pleas had won Hestia's consent to buy Haruhime's freedom.[@fm07-mikoto-haruhime, fm07-mikoto-pleas] |
 | DanMachi 8 | Receives a sword from Takemikazuchi and another from [[welf-crozzo|Welf]]; Haruhime secretly boosts her against the Goliath.[@fm08-card] |
 | DanMachi 9 | Finds the underwater passage into the [[xenos|Xenos]]' territory on Floor 20.[@fm09-crow] |
 | DanMachi 12 | Uses the quick-draw technique Zekka.[@fm12-mikoto] |
 | DanMachi 14 | Pins the [[amphisbaena|Amphisbaena]] underwater with her gravity spell, though she is crushed by it too, so that [[ouka|Ouka]] can cut off its head.[@fm14-mikoto] |
 | DanMachi 15 | Makes major gains at Level 2. Hestia holds back an available Skill because she suspects it could destroy Mikoto.[@fm15-card] |
+| DanMachi 17 | When Freya Familia attacks Hestia Familia, a hammer blow she never sees coming shatters her bones; under Freya's charm her memory is rewritten so that she saved Haruhime all by herself.[@fm17-mikoto-attack, fm17-mikoto-memory] |
+| DanMachi 18 | In the Familia War she fights on the coalition's left wing with Aisha and the former Ishtar Familia Amazons, where her gravity magic is deployed.[@fm18-mikoto-wing] Boosted by Haruhime, her Futsu no Mitama later holds Berling Gulliver in a cage focused on the smallest possible area until he breaks free.[@futsu-no-mitama.fm18-cage] |
 
 ## Open questions
 
@@ -121,7 +143,7 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 [@fm08-card]: FM08 | | Level 2 card; Immunity; new swords; Haruhime's boost.
 [@fm09-crow]: FM09 | | Yatano Black Crow; the Frontier passage.
 [@fm12-mikoto]: FM12 | Chapter 6: The Hero’s Sacred Flame | Zekka.
-[@fm14-mikoto]: FM14 | | Mikoto and the Amphisbaena.
+[@fm14-mikoto]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Mikoto and the Amphisbaena.
 [@fm15-card]: FM15 | | Level 2 card (Futsu no Mitama under Magic; the Yatano crows under Skills); the withheld Skill; her history with Haruhime.
 [@fm04-name]: FM04 | Chapter 1: Denatus | Loki: "she’s from one of those Far East places, so her name’s backward…Little Miss Yamato Mikoto!" The Japanese edition (file cMS, paragraph 183) says that, born in the Far East, she has her given name last.
 [@ss01-name]: SS01 | | "Mikoto Yamato."
@@ -134,3 +156,15 @@ In the Japanese of DanMachi 5 the opening is {{ja|掛けまくも畏き|kakemaku
 [@futsu-no-mitama.fm18-cage]: FM18 | Chapter 9: Flower Language for You | Name only; boosted; narrowed cage; Berling breaks out.
 [@futsu-no-mitama.so12-shield]: SO12 | Chapter 7: Final War II | Last line and name; light bent into the floor.
 [@fm08-mikoto-ja]: FM08 | | The Japanese edition prints her name family name first, the given name in kanji with the reading Mikoto; the infobox gives that printed form.
+[@fm11-mikoto-orphan]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | "Both Ouka and Chigusa were orphans themselves. So was Mikoto, who had transferred to Hestia Familia."; "all had grown up at a home run by Takemikazuchi and other benevolent deities"
+[@fm15-mikoto-love]: FM15 | Chapter 7: Tales of Times Past: The Black Bird and the Golden Fox | "Having someone work alongside their love interest could have surprising effects."; "This had been Mikoto’s experience with Takemikazuchi."
+[@fm04-mikoto-title]: FM04 | Chapter 1: Denatus | "This gal Mikoto’s nickname is…"; "Eternal † Shadow"
+[@fm05-mikoto-search]: FM05 | Chapter 2: How Many Meders to a Safe Return? | "Ouka and Mikoto will go for sure…Chigusa, can you accompany them as a supporter?"; "They were the best that the Familia had to offer, so they were selected to form the search party."
+[@fm06-mikoto-conversion]: FM06 | Chapter 4: Those Who Gather | "Which would mean the only option was Mikoto—"; "There was also the mission given to them by their hometown in the Far East to consider"; "I’m the one who wants to help Hestia"; "But it will pass. Learn as much as you can from Hestia’s children and come back stronger than ever."; "Lastly, she gave him her Familia emblem for him to hold on to until she returned."
+[@fm07-mikoto-haruhime]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "Lady Haruhime?! It is I—Mikoto!"; "It was her childhood friend who should be far away from here—Mikoto, disguised as a man."
+[@fm07-mikoto-pleas]: FM07 | Chapter 4: Yoshiwara x Utakata | "It was Mikoto’s earnest pleas that made her begrudgingly accept"
+[@fm17-mikoto-attack]: FM17 | Chapter 1: The Opening of Hostilities | "Unarmored and not knowing what had hit her, Mikoto felt her bones shatter."; "The same hammer that had struck Mikoto was threatening to crush her."
+[@fm17-mikoto-memory]: FM17 | Chapter 2: Alone Inside a Sandbox | "Lilly had been saved from Soma Familia by Welf, Welf had made Mikoto’s weapons, and Mikoto had saved Haruhime all by herself."
+[@fm18-mikoto-wing]: FM18 | Chapter 8: The Great Familia War | "The left wing was Aisha and the ex-Ishtar Familia Amazons. Because they had notably fewer magic swords than the other two divisions, Mikoto with her gravity magic had also been deployed there."
+[@futsu-no-mitama.fm07-samira]: FM07 | Chapter 6: Yearning of a Hero | "Fear, strong and winding—"; "It’s a kick-ass spell, but the trigger takes forever!"; "Mikoto had converted all her Mind into magical energy without completing the trigger spell."
+[@sheet.fm15-lv2]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | "Mikoto Yamato"; "Level 2"; "Strength: H185 -> G279 Defense: H158 -> G255 Dexterity: G232 -> F334 Agility: G217 -> 298 Magic: I97 -> H149 Resistance: I"; Magic "Futsu no Mitama"; Skills "Yatano Black Crow", "Yatano White Crow"; "These were Mikoto’s and Haruhime’s updated Statuses."; "Their abilities had improved significantly, about as much as Lilly’s had".

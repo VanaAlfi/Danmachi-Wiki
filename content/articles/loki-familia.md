@@ -32,17 +32,17 @@
   }
 }
 ---
-**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is [[twilight-manor|Twilight Manor]], on the northern edge of the city.[@fm06-home, fm06-twilight] The [[guild|Guild]] [[familia-rank|ranks it S]], and it is often called the strongest Familia in the city.[@fm19-rank-s, fm06-strongest]
+**Loki Familia** is the Familia of the goddess [[loki|Loki]]. Its first member was the prum [[finn-deimne|Finn Deimne]], and it grew to become, alongside [[freya-familia|Freya Familia]], one of the two Familias that drove [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] out of [[orario|Orario]].[@so14-founding, fm06-zeus] Its home is [[twilight-manor|Twilight Manor]], on the northern edge of the city.[@fm06-home, fm06-twilight] The [[guild|Guild]] [[familia-rank|ranks it S]], and it is often called the strongest Familia in the city.[@fm19-rank-s, fm06-strongest] It is a Dungeon-exploring Familia that presses as deep into the labyrinth as it can, and in Sword Oratoria 6 the city hails it as the first to reach the 59th floor since Zeus and Hera.[@so01-crawling, so06-floor59] Like Freya Familia, it keeps exploring the Dungeon above all because of the [[three-great-quests|Three Great Quests]], a duty that fell to Orario's adventurers once Zeus and Hera were gone.[@so13-great-quests] It has also long fought the [[evils|Evils]]: it took part in stamping out the Evils, who had risen fifteen years before Sword Oratoria 7 (the English prints that it "had naturally been involved in the extermination of the Evils for the past fifteen years"), and with [[dionysus-familia|Dionysus Familia]] and [[hermes-familia|Hermes Familia]] it has formed "a united front" to chase down the monstrous creatures and the remnants of the Evils.[@so07-evils-fifteen, so10-united-front]
 
 ## Standing and emblem {#standing}
 
-In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it the city's greatest faction, dreaded for its fighting strength, and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When [[hestia-familia|Hestia Familia]] wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant]
+In DanMachi 6 Bell sees the adventurers in a bar stand in awe of "the strongest Familia in Orario"; DanMachi 11 calls it the city's greatest faction, dreaded for its fighting strength, and in DanMachi 20 Bell still calls it "the strongest familia in the city".[@fm06-strongest, fm11-strongest, fm20-strongest] The Guild ranks it S, above [[ishtar-familia|Ishtar Familia]]'s A.[@fm19-rank-s] In DanMachi 18 the Guild's head, [[royman|Royman]], calls Loki Familia and Freya Familia "the twin peaks of the city", who must keep the balance that Zeus and Hera kept before them.[@fm18-twin] When [[hestia-familia|Hestia Familia]] wins its War Game in DanMachi 6, the commentator ranks the feat with the deeds of Loki Familia, the Giant Killers.[@fm06-giant] Its strength is teamwork: where Freya Familia prizes individual strength above all, Loki Familia challenges the Dungeon "as a united whole", and DanMachi 18 says it "excelled at strength in cooperation".[@fm17-united-whole, fm18-cooperation]
 
 Its [[emblem|emblem]] is the trickster's mark, "a comedic smile", flown on its flags in the Dungeon and hung on the wall behind Finn's desk.[@so01-emblem, so02-emblem] In the Great Conflict of Astrea Record 3 a member raises "the flag of the trickster god" over a stronghold, and at the end of DanMachi 20 the survivors of its expedition return under a tattered flag with "the emblem of the jester".[@ar03-flag, fm20-floor60]
 
 ## Founding
 
-Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose release from his village of [[geography#preblica-karna-and-lonza-lonza|Lonza]] she arranged.[@so14-founding] Ten days after leaving [[geography#preblica-karna-and-lonza-preblica|Preblica]], Loki and Finn reach [[geography#preblica-karna-and-lonza-karna|Karna]], an inn town in the continent's central region and "a key transit hub", where Loki declares "That’s why it’s gotta be an elf!"; after Riveria joins, they celebrate there.[@so14-karna, so14-karna2]
+Newly come down to the Lower World, Loki made the fourteen-year-old Finn her first follower. She then recruited the [[races#high-elf|high elf]] [[riveria|Riveria Ljos Alf]], who had left the elves' royal forest, and the dwarf [[gareth|Gareth Landrock]], whose village of [[geography#preblica-karna-and-lonza-lonza|Lonza]] released him once Finn had found a way to provide for it.[@so14-founding] Ten days after leaving [[geography#preblica-karna-and-lonza-preblica|Preblica]], Loki and Finn reach [[geography#preblica-karna-and-lonza-karna|Karna]], an inn town in the continent's central region and "a key transit hub", where Loki declares "That’s why it’s gotta be an elf!"; after Riveria joins, they celebrate there.[@so14-karna, so14-karna2]
 
 ## Leading members
 
@@ -62,7 +62,7 @@ Newly come down to the Lower World, Loki made the fourteen-year-old Finn her fir
 | [[alicia-forestlight|Alicia Forestlight]] | Elf; a Level 4 in the Familia's reserve crew by Sword Oratoria 8.[@so08-reserve] |
 | [[leene-arshe|Leene Arshe]] and [[elfie-collette|Elfie Collette]] | A [[healer|healer]] and a mage among the Familia's younger members.[@so05-healer, so09-girls] |
 
-[[minor-characters#loki-familias-minor-members|Other members]] are named only in passing. [[minor-characters#cynthia|Cynthia]] fights beside Elfie in Sword Oratoria 7 and 11, and [[minor-characters#sharon|Sharon]] is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, [[minor-characters#olba|Olba]] and [[#arcus|Arcus]] reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter [[minor-characters#carmillia|Carmillia]], she is told to give Bell a greatsword.[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
+[[minor-characters#loki-familias-minor-members|Other members]] are named only in passing. [[minor-characters#cynthia|Cynthia]] fights beside Elfie in Sword Oratoria 7 and, as a mage supporter, hands Tione a halberd in Sword Oratoria 11, and [[minor-characters#sharon|Sharon]] is "a second-tier adventurer from Loki Familia" in Sword Oratoria 12.[@so07-cynthia, so11-cynthia, so12-sharon] After the battle with the demi-spirit, Sharon, [[minor-characters#olba|Olba]] and [[#arcus|Arcus]] reach Level 4.[@so13-level4s] Olba, a Level 3 animal person, lights the way with Cruz for Tione in Knossos in Sword Oratoria 7, and gives Amid a shoulder to lean on in Sword Oratoria 12.[@so07-olba, so12-olba] In Sword Oratoria 12's final battle, when [[bell-cranell|Bell]] eyes the larger weapons on the backpack of the rescue squad's supporter [[minor-characters#carmillia|Carmillia]], she is told to give Bell a greatsword.[@so12-carmillia] Seven members died or went missing in the first fight in Knossos: "Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."[@so07-losses]
 
 ### Fighting strength {#fighting-strength}
 
@@ -97,12 +97,13 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 |---|---|
 | Astrea Record 2 | Fights in the [[great-conflict|Great Conflict]]; [[alfia|Alfia]] sees that Aiz now belongs to the Familia.[@ar02-loki] |
 | Sword Oratoria 1 and DanMachi 1 | Returning from an expedition in which it fights through the [[floor-49|Moitra Sands]] to the [[safe-point|safe point]] on [[floor-50|Floor 50]], the Familia lets a group of Minotaurs run away up the Dungeon. Aiz kills the last one on the fifth floor, and at the bar Bete mocks the boy she saved as "Tomato Boy".[@so01-camp, so01-minotaurs, fm01-aiz] |
-| Astrea Record 3 | Its oldest members, the veterans [[noir-dyne-and-bahra|Noir, Dyne and Bahra]], who had taught Finn, Riveria and Gareth, leave [[twilight-manor|Twilight Manor]] against Loki's wishes to charge the monster horde, and die there.[@ar03-mentors, ar03-veterans] |
+| Astrea Record 3 | Its oldest members, the veterans [[noir-dyne-and-bahra|Noir, Dyne and Bahra]], who had taught Finn, Riveria and Gareth, leave [[twilight-manor|Twilight Manor]] against Loki's wishes to charge the monster horde, and die there.[@ar03-mentors, ar03-veterans-leave, ar03-veterans] |
 | Sword Oratoria 4–6 | Expedition to [[floor-59|Floor 59]], where Aiz destroys a [[corrupted-spirit|demi-spirit]]; Bete reaches Level 6 afterwards.[@so04-59, so06-bete] |
+| Sword Oratoria 6 | Its women investigate at Port Meren and fight [[kali-familia|Kali Familia]] of [[telskyura|Telskyura]], the first Familia of [[hyrute-sisters|Tiona and Tione]]; the Guild blames the fight on the wharf on Kali Familia.[@so06-meren] |
 | Sword Oratoria 7 | First attempt on Knossos, which Gareth calls a defeat; Loki makes obtaining the Daedalus keys the condition for another assault.[@so07-knossos] |
 | DanMachi 10–11 | Pursues the [[xenos|Xenos]] through [[daedalus-street|Daedalus Street]]; afterwards [[ouranos|Ouranos]] spreads a false story that Loki Familia exterminated the monsters.[@fm11-cover] |
 | Sword Oratoria 10 | Loki agrees with Ouranos to keep the Xenos secret; Finn forms a limited alliance with them for the assault on [[knossos|Knossos]].[@so10-compact, so10-alliance] |
-| Sword Oratoria 11–12 | Two assaults on Knossos; the second ends with [[dionysus|Dionysus]] exposed as Enyo.[@so11-assault, so12-enyo] |
+| Sword Oratoria 11–12 | Two assaults on Knossos; during the second, [[dionysus|Dionysus]] is exposed as Enyo, and it ends with Knossos taken.[@so11-assault, so12-enyo, so13-knossos-taken] |
 | DanMachi 17 | Its Deep Levels party is outside Freya's charm, which does not reach inside the Dungeon, until it returns.[@fm17-dungeon] |
 | DanMachi 18 | The [[guild|Guild]] hopes Loki Familia can find the key to Thalia's Ice Garden, between Floors 60 and 61.[@fm18-thalia] |
 | Sword Oratoria 13 | Its recruiters visit the School District (see [[#recruiting|Recruiting]]).[@so13-recruiting] |
@@ -115,21 +116,21 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 > - The fate of Finn and the others left in the depths when the [[familia-coalition|alliance]] is wiped out on Floor 60 at the end of DanMachi 20.[@fm20-floor60]
 
 [@so14-founding]: SO14 | | Loki's descent; Finn, Riveria and Gareth recruited.
-[@so14-finn]: SO14 | | Finn's name and vow.
+[@so14-finn]: SO14 | Chapter 1: The Prum's Adventure | Finn's name and vow.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7 as the highest rank; the three at Level 7.
 [@fm02-aiz]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Aiz reaches Level 6.
 [@fm05-leaders]: FM05 | Chapter 4: Dungeon Resort? | Finn, "Galess Landrock" and Riveria.
 [@fm05-ja-leaders]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraph 148): the prum hero Finn Deimne, the head of Loki Familia.
 [@fm06-home]: FM06 | Chapter 3: Outbreak | "Loki Familia's home on the northern edge of the city."
-[@fm06-twilight]: FM06 | | Twilight Manor.
-[@fm06-zeus]: FM06 | | Loki and Freya Familias expel Zeus and Hera Familias.
+[@fm06-twilight]: FM06 | Chapter 4: Those Who Gather | Twilight Manor.
+[@fm06-zeus]: FM06 | Chapter 2: Shall We Dance? | Loki and Freya Familias expel Zeus and Hera Familias.
 [@fm08-gareth]: FM08 | Prologue: Attack of the War God | "Loki Familia's Gareth Landrock."
 [@fm11-cover]: FM11 | | The false extermination story.
-[@fm17-dungeon]: FM17 | | The charm and the Dungeon.
+[@fm17-dungeon]: FM17 | Chapter 2: Alone Inside a Sandbox | The charm and the Dungeon.
 [@fm18-braver]: FM18 | Chapter 9: Flower Language for You | "Braver."
 [@fm18-thalia]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Royman's hope for Loki Familia.
 [@fm20-sevens]: FM20 | Chapter 2: Lion and then Sword Princess | The Level 7s.
-[@fm20-expedition]: FM20 | | The planned expedition.
+[@fm20-expedition]: FM20 | Chapter 2: Lion and then Sword Princess | The planned expedition.
 [@so04-ottar]: SO04 | First Chapter: And the Boy… | Ottar as a longstanding foe.
 [@so04-block]: SO04 | First Chapter: And the Boy… | Freya Familia blocks Loki Familia.
 [@so04-raul]: SO04 | | Raul Nord, Level 4.
@@ -137,15 +138,15 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so10-rakuta]: SO10 | Chapter 5: Brave Soul! | "It was the hume bunny Rakuta. There was a reason why Finn had sent her along with Lefiya for their romp in the deep levels: her genius at mapping."
 [@so11-rakuta]: SO11 | Chapter 2: The Decisive Battle Intermission | Finn "tapped the map Rakuta had created".
 [@so04-59]: SO04 | | Aiz destroys the Floor 59 demi-spirit.
-[@so06-bete]: SO06 | | Bete reaches Level 6.
-[@so07-knossos]: SO07 | | Gareth's verdict on the first Knossos operation ("We lost.") and Loki's conclusion about the keys.
-[@so08-bete]: SO08 | | Bete joins Loki Familia.
-[@so09-aiz]: SO09 | | Aiz receives Loki's blessing at seven.
+[@so06-bete]: SO06 | Chapter 1: Quest Results & Next Quest | Bete reaches Level 6.
+[@so07-knossos]: SO07 | Chapter 5: Battle of Tears | Gareth's verdict on the first Knossos operation ("We lost.") and Loki's conclusion about the keys.
+[@so08-bete]: SO08 | Chapter 1: Lonely Wolf | Bete joins Loki Familia.
+[@so09-aiz]: SO09 | Recollections Chapter 1: The Young Girl's Beginnings | Aiz receives Loki's blessing at seven.
 [@so09-riveria]: SO09 | | Riveria raises Aiz.
 [@so10-compact]: SO10 | Chapter 6: The Hero’s Self-Denial | The Loki–Ouranos compact.
-[@so10-alliance]: SO10 | | Finn's limited alliance with the Xenos.
+[@so10-alliance]: SO10 | Chapter 6: The Hero’s Self-Denial | Finn's limited alliance with the Xenos.
 [@so11-assault]: SO11 | | The first Knossos assault.
-[@so12-enyo]: SO12 | | Dionysus exposed as Enyo.
+[@so12-enyo]: SO12 | Chapter 6: The Divine Providence of Despair | Dionysus exposed as Enyo.
 [@ar02-loki]: AR02 | Intermission: While the Scales of Justice Tremble | "It seems the girl is now yours."
 [@ar03-mentors]: AR03 | Prologue: Last Intermission | Noir Sachsen, "one of several mentors who taught Finn, Riveria, and Gareth"; Dyne and Bahra, "the three veterans of Loki Familia".
 [@ar03-veterans]: AR03 | Chapter 6: The Nameless Heroes | The three veterans charge the monster horde; Olivas's volley kills Bahra, Dyne and Noir.
@@ -168,12 +169,12 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so01-lefiya]: SO01 | | Level 3 Thousand Elf; Fusillade Fallarica; Elf Ring.
 [@so02-emblem]: SO02 | Chapter 1: The Average Day | The trickster's smile, the Familia's emblem, behind Finn's desk.
 [@so04-aki]: SO04 | Last Chapter: To Adventure | "Anakity Autumn"; Level 4, second-tier, like Raul.
-[@so05-healer]: SO05 | | Riveria, Leene and the other healers caring for the wounded.
+[@so05-healer]: SO05 | Chapter 2: Rabbit Rookie | Riveria, Leene and the other healers caring for the wounded.
 [@so06-sisters]: SO06 | | Level 6 and Dive; Telskyura; Tiona and Bache.
 [@so08-reserve]: SO08 | Chapter 5: Battered Wolf | "a Level 4 in Loki Familia’s reserve crew".
-[@so09-girls]: SO09 | | "Lefiya’s roommate, the magic user Elfie; the other human Narfi".
+[@so09-girls]: SO09 | Chapter 1: A Scene at the Camp | "Lefiya’s roommate, the magic user Elfie; the other human Narfi".
 [@so10-alsha]: SO10 | Chapter 5: Brave Soul! | "Her second name was Alsha"; one of the best Level 4s in the city.
-[@so12-level4]: SO12 | | Lefiya at Level 4.
+[@so12-level4]: SO12 | Chapter 4: Nameless Heroes | Lefiya at Level 4.
 [@so13-level]: SO13 | Chapter 1: Girl’s Revolution | "Anakity Level Five"; Loki Familia's eighth first-tier adventurer.
 [@so07-cynthia]: SO07 | Chapter 3: Feast of the Dead | "Elfie! Cynthia! Outta the way!"
 [@so07-losses]: SO07 | Chapter 5: Battle of Tears | Riveria: seven dead or missing.
@@ -197,3 +198,13 @@ In DanMachi 18 the Guild, wanting the two Familias to remain the city's twin pea
 [@so10-withdraw]: SO10 | Chapter 6: The Hero's Self-Denial | Finn withdraws the squad. The Japanese edition (file c7PC, paragraph 64) has Finn call him Aruku here, not Ākusu as elsewhere; the English prints "…Arcus. Pull back the squad."
 [@so11-wait]: SO11 | Chapter 4: Avengers ~Knossos War~ | Riveria directs retreat to the room where Arcus’s group waits.
 [@so13-arcus-level]: SO13 | Chapter 1: Girl's Revolution | Arcus reaches Level 4 after the quest.
+[@so13-knossos-taken]: SO13 | Prologue: The Sequel to Loss and Resolve | "Three days had passed since the allied forces led by Loki Familia conquered the artificial dungeon Knossos."
+[@ar03-veterans-leave]: AR03 | Chapter 5: Playing the Violence Card | "…W-wait! Noir!!"; "It’s a real shameful way to go, defyin’ our mistress like this."
+[@so01-crawling]: SO01 | Chapter 1: Loki Familia | "As for Loki Familia—they specialized in Dungeon crawling, pressing as deep into the labyrinth as possible, as well as developing the floors that were already cleared."
+[@so06-floor59]: SO06 | Chapter 1: Quest Results & Next Quest | "Loki Familia was the hot topic in Orario, the first ones to make it to the Dungeon’s fifty-ninth floor since the deities Zeus and Hera had so long ago."
+[@so06-meren]: SO06 | | "the only ones allowed to join the investigation at the port had been Loki Familia’s women"; "That’s their old familia. Their very first one, too, from before they joined ours."; "Kali Familia consists of the goddess of Telskyura and her followers."; "The Guild decided to blame Kali Familia for Loki Familia’s fight in the middle of the wharf."
+[@so13-great-quests]: SO13 | Fairy Canon: 2 | "With Zeus and Hera gone, someone had to step up and complete them."; "the fundamental reason the city’s greatest factions, Loki Familia and Freya Familia, continued to explore the Dungeon was the Three Great Quests"
+[@so07-evils-fifteen]: SO07 | Chapter 2: Dungeon Trap | "Loki Familia had naturally been involved in the extermination of the Evils for the past fifteen years." (the Japanese edition, file c1KE, paragraph 9, dates the rise of the Evils fifteen years back, not the Familia's part in fighting them; paragraph 4 has Orario's dark age begin fifteen years before)
+[@so10-united-front]: SO10 | Chapter 1: Omen | "Loki Familia, Dionysus Familia, and Hermes Familia had formed a united front to chase down the underground forces of the monstrous creatures and the remnants of the Evils."
+[@fm17-united-whole]: FM17 | Chapter 2: Alone Inside a Sandbox | "if Freya Familia, a group that prioritized individual strength above all, began to challenge the Dungeon as a united whole like Loki Familia"
+[@fm18-cooperation]: FM18 | Chapter 9: Flower Language for You | "if it were Loki Familia who prioritized cooperation and teamwork"; "Loki Familia, who excelled at strength in cooperation"

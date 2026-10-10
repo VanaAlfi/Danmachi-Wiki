@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The grade of an adventurer's vessel and the measure of their Status that matters most. A Level Up comes from a great feat that yields higher-grade excelia, and raises their power far more than the abilities' gains.",
   "aliases": ["Level Up", "Rank Up"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–14, Familia Chronicle Vols. 2–3 and Astrea Record Vol. 3",
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1–14 and Familia Chronicle Vols. 2–3",
   "related": ["status", "falna", "development-ability", "monster-rex", "bell-cranell", "lyu-leon", "magic"],
   "infobox": {
     "title": "Level",
@@ -25,9 +25,11 @@
 ---
 A **Level** is the grade of an adventurer's vessel, the measure of their [[status|Status]] that matters most. Its rise, the *Level Up*, also called the evolution of body and mind, raises their power far more than the abilities' gains and is said to bring them a step closer to the gods.[@so01-level]
 
+The Guild also rates monsters by Level: the Minotaur is categorized as a Level 2 monster, and the average Goliath is classified as a Level 4.[@fm03-level-minotaur, fm08-level-goliath]
+
 ## Levelling up
 
-A Level Up needs a great accomplishment that yields high-quality [[excelia|excelia]], such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] In Sword Oratoria 3 [[aiz-wallenstein|Aiz]] reaches Level 6 for defeating [[udaeus|Udaeus]] alone.[@so03-udaeus]
+A Level Up needs a great accomplishment that yields high-quality [[excelia|excelia]], such as defeating a powerful enemy, for example a [[monster-rex|Monster Rex]], alone.[@fm03-feat, so02-container] In Sword Oratoria 3 [[aiz-wallenstein|Aiz]] reaches Level 6 for defeating [[udaeus|Udaeus]] alone.[@so03-udaeus] Most adventurers find it hard to reach Level 2: more than half never advance beyond Level 1, and most Level 2s belong to large Familias.[@fm01-level-rare]
 
 > [!NOTE] Stated ability threshold
 > In DanMachi 3 Lyu tells Bell that an adventurer gains the qualification to level up on reaching D, the sixth stage.[@fm03-d, fm03-ja-d] DanMachi 15 says at least one ability must reach the sixth rank (D), and Familia Chronicle 3 likewise gives the minimum as a D in *one* basic ability; Lyu herself advances with only her Agility at D.[@fm15-rank, fc03-d] The Japanese DanMachi 3 does not say how many abilities are needed, so it does not disagree with the later volumes.
@@ -47,6 +49,7 @@ Higher Levels also slow aging, more so with each Level, but they do not make mor
 | Term | Example in the novels |
 |---|---|
 | Upper-class adventurer | [[zanis-lustra|Zanis]], a Level 2, is called an upper-class adventurer.[@fm10-upper] |
+| Third-tier adventurer | At the Guild, an adventurer who reports reaching Level 2 is told, "Your advancement to third-tier adventurer is now official."[@fm08-level-third] |
 | Second-tier adventurer | Bell describes himself as second-tier at Level 4.[@fm17-second] |
 | First-tier adventurer | The Level 5 [[gulliver-brothers|Gulliver brothers]] are first-tier adventurers of [[freya-familia|Freya Familia]].[@fc02-first] |
 
@@ -74,16 +77,16 @@ A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozu
 [@so01-level]: SO01 | Chapter 2: Dungeon Confusion | The Level and the Level Up. The Japanese edition (file cX0, paragraph 84) calls the Level the grade of the vessel, and its rise, the evolution of body and mind, a step closer to the gods that lifts a person's power far more than the abilities' gains.
 [@so02-container]: SO02 | Chapter 6: Parched Scream | A bigger container; defeating a Monster Rex alone.
 [@so03-udaeus]: SO03 | Chapter 1: The Black Robe’s Invitation | Udaeus defeated alone.
-[@so06-delay]: SO06 | | Points carry over; promotions delayed.
+[@so06-delay]: SO06 | Chapter 1: Quest Results & Next Quest | Points carry over; promotions delayed.
 [@so13-past]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | Zeus and Hera's Level 8 and Level 9.
 [@so14-highest]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7 as the highest rank; the line that Ottar may rank up soon too (the Japanese edition, file part0011, paragraphs 151 to 153).
-[@fm03-feat]: FM03 | | A great feat and high-quality excelia.
+[@fm03-feat]: FM03 | Chapter 4: The Meaning of Adventure | A great feat and high-quality excelia.
 [@fm03-d]: FM03 | Chapter 4: The Meaning of Adventure | Lyu on the D rank and the qualification to level up.
 [@fm03-ja-d]: FM03 | Chapter 4: The Meaning of Adventure | Japanese original (file c2VG, paragraph 226): an ability evaluation of the sixth stage or higher, reaching D, is what first gives the qualification to rank up; the number of abilities is not stated.
 [@fm03-bell]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
-[@fm04-hidden]: FM04 | | Values reset; hidden parameter.
+[@fm04-hidden]: FM04 | Chapter 1: Denatus | Values reset; hidden parameter.
 [@fm04-choice]: FM04 | Chapter 1: Denatus | One Development Ability per Level Up.
-[@fm08-aging]: FM08 | | Higher Levels slow aging.
+[@fm08-aging]: FM08 | Chapter 2: The Prum's Proposal | Higher Levels slow aging.
 [@fm10-upper]: FM10 | Chapter 9: Dreams of Beasts | Zanis as a Level 2 upper-class adventurer.
 [@fm15-rank]: FM15 | Interlude: Does Cinderella Dream of Happiness? | "At least one ability to the sixth rank."
 [@fm15-haruhime]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Haruhime's promotion held back.
@@ -96,3 +99,7 @@ A temporary boost, such as the one from [[magic#uchide-no-kozuchi|Uchide no Kozu
 [@fc02-first]: FC02 | Ali and the 8 Followers | The Gulliver brothers as first-tier Level 5s.
 [@fc02-ottar]: FC02 | The Origin of the Strongest | Ottar's first Level Up.
 [@fc03-d]: FC03 | The Locus of Stars | "A D in a basic ability."
+[@fm03-level-minotaur]: FM03 | Chapter 5: A Hero's Desire | "The Minotaur was categorized as a Level-Two monster."
+[@fm08-level-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "the average Goliath was still classified as a Level 4 monster by the Guild"
+[@fm01-level-rare]: FM01 | Chapter 4: That's Why I Want to Help | "Most adventurers had a difficult time reaching Level Two, so much so that most Level Twos were members of large Familias. More than half of adventurers never advanced beyond Level One."
+[@fm08-level-third]: FM08 | Chapter 4: Beloved Bodyguard | "every time an adventurer comes to report a Level Up"; "Your advancement to third-tier adventurer is now official."

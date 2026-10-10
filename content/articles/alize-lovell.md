@@ -80,7 +80,7 @@ Alize leads the Familia's oath; Familia Chronicle 3 says she was the one who sta
 
 Lyu respected her as someone always looking to the future, kind to everyone alike and more honest than anyone she knew. DanMachi 14 puts her manner two ways: kindly, candid and straightforward; unkindly, presumptuous and unthinking. Like Astrea, she was the most popular and trusted member of the Familia.[@fm14-dream, fm14-hide]
 
-She praises herself at every turn ("He-hem! I'm so great!") and calls herself pure, pretty and perfect, to her companions' groans; Lyra says she "doesn't read the mood".[@ar01-captain, ar01-home, ar03-alfia] Kaguya admits she can never win against her optimism.[@ar01-meeting] She trusts her hunches: on the first night of the Great Conflict she senses that Astrea is in danger, and Lyra backs her.[@ar01-hunch] She loved high places and often took Lyu to hilltops and rooftops to talk.[@fm14-hill, fc01-high] With children she is gentle: she talks [[aiz-wallenstein|Aiz]] out of her rage against Delphyne in "the voice of a gentle big sister".[@ar03-aiz]
+She praises herself at every turn ("He-hem! I'm so great!") and calls herself pure, pretty and perfect, to her companions' groans; Lyra says she "doesn't read the mood".[@ar01-captain, ar01-home, ar03-alfia] Kaguya admits she can never win against her optimism.[@ar01-meeting] She trusts her hunches: on the first night of the Great Conflict she senses that Astrea is in danger, and Lyra backs her.[@ar01-hunch] She loved high places and often took Lyu to hilltops and rooftops to talk.[@fm14-hill, fc01-high] She can be gentle with a child: she talks [[aiz-wallenstein|Aiz]] out of her rage against Delphyne in "the voice of a gentle big sister".[@ar03-aiz]
 
 She rejects judging people by race. At their first meeting she tells Lyu, "Race has nothing to do with it!"[@fm15-pigheaded] In Astrea Record 1 she says she always wanted to be born a dwarf, because dwarves are stout and can protect many people, until [[gareth|Gareth]] reminds her what humans and elves can do.[@ar01-gareth]
 
@@ -151,6 +151,27 @@ In the last exchange she and Lyu rush in together. As Lyu calls "Luminous Wind!"
 "Arveria!" in Astrea Record 3 has no speaker tag; it comes in the pair's combined attack, beside Lyu's "Luminous Wind!".[@ar03-arveria] It is the same spell key as "Arvellia!!" and "Alveria!": the Japanese writes all three as one word ({{ja|炎華}}), said *Arveria* and written *flame flower*. The cry "Alvarna!" earlier in that fight is a different word, written *full-open flame power* and shouted outside the spell's brackets; it too has no speaker named, though it follows Alize's own move.[@ar03-alga, ar03-key-ja]
 
 After her death, Lyu uses the enchantment through [[magic#astrea-record-spell|Astrea Record]]. When she does so in DanMachi 18, Shakti murmurs "…Alize?" and [[hegni|Hegni]] shouts that it is "Scarlet Harnell's—Alize Lovell's magic!!!" The narration says Hegni had secretly respected her.[@fc03-flame, fm18-hegni] Lyu cannot control its output as precisely as Alize could.[@fm18-accel]
+
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level, each copying an illustrated Status sheet, a picture printed in the book, as read in the English and the Japanese edition: ability names, grade letters and numbers as printed. Where the English sheet leaves a row out, the tab adds it from the Japanese original of the same volume, and the line under the table says so.
+
+{{tabs|status-sheet}}
+{{tab|Level 4}}
+| Ability | As printed in Astrea Record 3, illustrated sheet, pp. 266–267[@sheet.ar03-lv4] |
+|---|---|
+| Strength | H128 |
+| Defense | H177 |
+| Dexterity | I77 |
+| Agility | H114 |
+| Magic | H153 |
+| Hunter | H |
+| Immunity | I |
+| Conflagrate | I |
+
+Read from the picture in the English and the Japanese edition, which print the same values, except that Hunter H is printed only in the Japanese edition's sheet: the English sheet does not show it. The sheet also lists the Magic [[magic#agris-arvensis|Agris Arvensis]] {{small|printed *Agallis Arvesynce*}} and the Skills [[skills#batrea-acras|Batrea Acras]] and [[skills#rubrud-beckia|Rubrud Beckia]].[@sheet.ar03-lv4]
+
+{{/tabs}}
 
 ## Death
 
@@ -244,28 +265,28 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar01-eren]: AR01 | Chapter 2: Eren | "I’m Alize Lovell!"; "Captain of Astrea Familia!". The Japanese edition (file c1BK, paragraph 17) has her cry that the way he talks is somehow lewd and tell Lyu to get away.
 [@ar01-vito]: AR01 | Chapter 2: Eren | Alize, Kaguya and Lyra against Vito.
 [@ar01-forest]: AR01 | Chapter 2: Eren | The crystal clearing on the eighteenth floor; the talk of graves; "Your sense of justice is beautiful, Leon."; "Promise me you’ll stay like that forever…" The Japanese edition (file c1BK, paragraphs 359–370) has her say that Lyra and Kaguya are praising Lyu's justice as lovely and that Lyu must stay as she is; the narration calls it a promise.
-[@ar01-gareth]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): the soup kitchen; "old man Gareth"; "race doesn’t matter!"; "I always wanted to be born a dwarf!"
-[@ar01-valletta]: AR01 | | Printed heading "Chapter 5: Tragedy in Sunlight" (not in the evidence map): Alize's slender sword (the Japanese edition, file c2W8); "How could two Level Threes possibly hope to defeat a Level Five?!"; the evacuation.
+[@ar01-gareth]: AR01 | Chapter 5: Tragedy in Sunlight | the soup kitchen; "old man Gareth"; "race doesn’t matter!"; "I always wanted to be born a dwarf!"
+[@ar01-valletta]: AR01 | Chapter 5: Tragedy in Sunlight | Alize's slender sword (the Japanese edition, file c2W8); "How could two Level Threes possibly hope to defeat a Level Five?!"; the evacuation.
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | Alize and Kaguya at the council; "Why do we have to sit around pointing fingers?"; "Astrea Familia will take one!"
 [@ar01-raid]: AR01 | Chapter 8: Sound of Life | Valletta against Shakti and Alize, "Levels 4 and 3 respectively"; Adi's death; "Shakti! Lyra! Kaguya! Pull out!!"
 [@ar01-hunch]: AR01 | Chapter 11: Absolute Evil | "It’s Lady Astrea"; "She’s in trouble!"; Lyra trusts "Alize’s uncanny hunch"; her order to hold on and live (the Japanese edition, file c6WV, paragraph 138: captain's orders, hold on, and live).
 [@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | Alize finds Astrea and Hermes; "You have you and yours to thank for that."; the pillars of light.
-[@ar02-stones]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): the stones; "I’m sorry."; "We were weak"; the slap; Leah's teddy bear.
-[@ar02-noanswer]: AR02 | | Printed heading "Chapter 1: The Taste of Stones" (not in the evidence map): "I don’t have an answer for you right now."; "If I lied to Leon, I’d be lying to myself"; Kaguya and Lyra "since the very beginning".
+[@ar02-stones]: AR02 | Chapter 1: The Taste of Stones | the stones; "I’m sorry."; "We were weak"; the slap; Leah's teddy bear.
+[@ar02-noanswer]: AR02 | Chapter 1: The Taste of Stones | "I don’t have an answer for you right now."; "If I lied to Leon, I’d be lying to myself"; Kaguya and Lyra "since the very beginning".
 [@ar02-garden-ja]: AR02 | Chapter 3: A Gray Wildflower | The Japanese edition (file cS6) calls the home by a name meaning Stardust Garden where the English has Starlight Garden.
 [@ar02-deputies]: AR02 | Chapter 3: A Gray Wildflower | "the Starlight Garden"; "supporting Alize as deputy captain and prum strategist".
-[@ar02-poverty]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): the seven days of herb soup; "a second-class adventurer, she couldn’t let anyone see the struggles".
-[@ar02-syr]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): "Are you human?"; "I’m Syr"; stars behind clouds; "shines so much brighter than I do"; "so long as Leon doesn’t lose her hope."
-[@ar02-astrea]: AR02 | | Printed heading "Chapter 7: Dialogues on Justice" (not in the evidence map): the Stardust Garden; "Am I wrong?"; "the serious me"; "I think both Alizes are very strong"; sunlight; "the day you and I decided to start a family"; "Keep moving forward".
+[@ar02-poverty]: AR02 | Chapter 5: Banquet of Evil | the seven days of herb soup; "a second-class adventurer, she couldn’t let anyone see the struggles".
+[@ar02-syr]: AR02 | Chapter 5: Banquet of Evil | "Are you human?"; "I’m Syr"; stars behind clouds; "shines so much brighter than I do"; "so long as Leon doesn’t lose her hope."
+[@ar02-astrea]: AR02 | Chapter 7: Dialogues on Justice | the Stardust Garden; "Am I wrong?"; "the serious me"; "I think both Alizes are very strong"; sunlight; "the day you and I decided to start a family"; "Keep moving forward".
 [@ar02-finn]: AR02 | Intermission: While the Scales of Justice Tremble | "Astrea Familia… Alize Lovell! Answer the call!"
-[@ar02-origin]: AR02 | | Printed heading "Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell" (not in the evidence map): "I couldn’t stand injustice when I was young."; the bully; "Not even my parents."; "So I left the city."; Lady Astrea in the rain.
-[@ar02-eren]: AR02 | | Printed heading "Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell" (not in the evidence map): "the evil god had appeared many times before her in the guise of Eren".
-[@ar02-answer]: AR02 | | Printed heading "Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell" (not in the evidence map): "Nope."; "the answer is something it’ll take our whole lives to find!"; "Because she’s Alize Lovell."
-[@ar02-crimson]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): "We came to get you!"; Olivas; "her blade, Crimson Order".
-[@ar02-speech]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): "Let’s keep on searching together!"; "only we ever-changing mortals can do"; the oath: "We follow our duty! We balance the scales!", "Be a fortress of law! An honest crown!", "Justice will go on!"; "we leave our starry trails on this earth".
-[@ar02-supper]: AR02 | | Printed heading "Chapter 11: Warriors’ Last Supper: FINAL WAR EVE" (not in the evidence map): "You’re finally growing up!"
+[@ar02-origin]: AR02 | Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell | "I couldn’t stand injustice when I was young."; the bully; "Not even my parents."; "So I left the city."; Lady Astrea in the rain.
+[@ar02-eren]: AR02 | Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell | "the evil god had appeared many times before her in the guise of Eren".
+[@ar02-answer]: AR02 | Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell | "Nope."; "the answer is something it’ll take our whole lives to find!"; "Because she’s Alize Lovell."
+[@ar02-crimson]: AR02 | Chapter 10: What I Learned: Twilight Answer | "We came to get you!"; Olivas; "her blade, Crimson Order".
+[@ar02-speech]: AR02 | Chapter 10: What I Learned: Twilight Answer | "Let’s keep on searching together!"; "only we ever-changing mortals can do"; the oath: "We follow our duty! We balance the scales!", "Be a fortress of law! An honest crown!", "Justice will go on!"; "we leave our starry trails on this earth".
+[@ar02-supper]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "You’re finally growing up!"
 [@ar03-armor]: AR03 | Prologue: Last Intermission | Alize's new armour; "her trusty one-handed sword, Crimson Order"; Astrea's special attention for the captain.
-[@ar03-nope]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): the burning eighteenth floor; "My alias is Scarlett Harnell"; Alfia's demand; "Nope, sorry!!"; "our justice doesn’t care what you think!"
+[@ar03-nope]: AR03 | Chapter 3: Eden’s Demise | the burning eighteenth floor; "My alias is Scarlett Harnell"; Alfia's demand; "Nope, sorry!!"; "our justice doesn’t care what you think!"
 [@ar03-alfia]: AR03 | Chapter 4: Apocalypse Cometh | "You and old man Gareth go save the Sword Princess!"; "a group of Level Threes at best"; "So please trust me, okay, Gareth?"; "pure, pretty, and perfect".
 [@ar03-agallis]: AR03 | Chapter 4: Apocalypse Cometh | "Agallis Arvesynce!"; "Alize’s chant"; arm, legs and sword aflame; "they call me the Scarlett Harnell!"; the ring formation.
 [@ar03-rubrud]: AR03 | Chapter 4: Apocalypse Cometh | "You must possess a rare skill."; "my skill, Rubrud Beckia, lets me—"; Lyu cuts her off.
@@ -283,3 +304,4 @@ Lyra and Kaguya die first. Alize goes last, casting her enchantment. She lets th
 [@ar03-sheet]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4): Magic Agallis Arvesynce (enchantment, fire attribute, chant "Alga"); Skills Rubrud Beckia (three conditions) and Batrea Acras; Development Abilities Immunity I and Conflagrate I (as recorded on the Magic, Skills and Development Abilities pages).
 [@ar03-sheet-ja]: AR03 | | Illustrated Status sheet (Level 4) in the Japanese edition (file c9VS, the sheet image after the Epilogue): three Development Abilities, Hunter H first, then Abnormal Resistance I and Conflagrate I.
 [@ar01-alize-ja]: AR01 | | The Japanese edition prints her name in katakana and writes her title in kanji meaning crimson true flower, with the reading Scarlett Harnell; the infobox gives the printed name and the kanji.
+[@sheet.ar03-lv4]: AR03 | | Illustrated Status sheet, pp. 266–267 (Level 4; image pg266-267.jpg): Strength H128, Defense H177, Dexterity I77, Agility H114, Magic H153, Immunity I, Conflagrate I; Magic Agallis Arvesynce; Skills Batrea Acras and Rubrud Beckia. The Japanese edition's sheet (file c9VS, image image_rsrcAC2.jpg) prints the same values and also Hunter H, between Magic and Immunity; the English sheet does not show it.

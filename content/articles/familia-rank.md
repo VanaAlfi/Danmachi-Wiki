@@ -27,7 +27,7 @@
 
 ## Assessment and obligations {#assessment-and-obligations}
 
-Commercial achievements can improve a mercantile faction's standing, and completing Guild [[quest|quests]] contributes to assessment.[@fm04-system, so02-quests] Concealing actual strength can conceal the rank and tax burden a Familia should bear, as the account of [[hermes-familia|Hermes Familia]] explains.[@so03-fraud] Dungeon-exploring Familias at D or above must undertake expeditions at intervals and produce results, such as reaching a new floor, discovering resources or mapping unexplored territory.[@fm12-duty] [[lilliluka-erde|Lilliluka Erde]] fears that publicizing deeper exploration will raise her Familia's grade, taxes and future expedition requirements.[@fm15-concern]
+Commercial achievements can improve a mercantile faction's standing, and completing Guild [[quest|quests]] contributes to assessment.[@fm04-system, so02-quests] Concealing actual strength can conceal the rank and tax burden a Familia should bear, as the account of [[hermes-familia|Hermes Familia]] explains.[@so03-fraud] Dungeon-exploring Familias at D or above must undertake expeditions at intervals and produce results, such as reaching a new floor, discovering resources or mapping unexplored territory.[@fm12-duty] The Familia must carry out the expedition itself: it may hire adventurers from elsewhere, but its own members must make up more than half the party, and skipping the expedition or bringing back too little counts as a failure, usually punished with a fine.[@fm12-rules] [[lilliluka-erde|Lilliluka Erde]] fears that publicizing deeper exploration will raise her Familia's grade, taxes and future expedition requirements.[@fm15-concern]
 
 ## Recorded grades {#recorded-grades}
 
@@ -64,3 +64,4 @@ Commercial achievements can improve a mercantile faction's standing, and complet
 [@fm19-grades]: FM19 | Chapter 1: V-V-V for Victory Party | Hestia B (S), Loki S and former Ishtar A.
 [@fm20-duty]: FM20 | Chapter 1: Orario Rumble | Minimum twenty-ninth floor goal.
 [@fm04-rank-ja]: FM04 | A Campanella to the Goddess | The Japanese edition writes the term in kanji meaning grade, with the reading rank (file c5KW, paragraphs 257 and 259).
+[@fm12-rules]: FM12 | Chapter 2: Adventure Intermission | "members of our own familia have to make up more than half the party"; "if you don’t go on an expedition or don’t produce enough results, it’ll be treated as a failure and you’ll be penalized"; "Apparently, the penalty was generally issued as a fine."

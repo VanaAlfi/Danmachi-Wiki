@@ -106,7 +106,7 @@ Familia Chronicle 3's short story set two years after the Great Conflict shows L
 ### Astrea Record 3
 
 - Before the battle she carries a round shield almost as big as herself, which is unusual for someone who fights from the back. She says Finn told her to take it, that she has no idea how it will help, and that Perseus made it for her; Asfi, exhausted, blames "Slyle".[@ar03-shield, ar03-asfi] It is the item she asked Asfi for in Astrea Record 2, when she told her there was a prototype of similar armour to work from.[@ar02-item]
-- In the battle with Alfia, Kaguya splits off to fight Vito and orders Lyra to make up for her absence.[@ar03-kaguya] Lyra strikes Alfia with a shield bash, then explains that Alfia's protection, [[magic#silentium-eden|Silentium Eden]], is not a barrier spell but an enchantment that is always on and must be draining her Mind. Alfia admits that "that Level Two prum has outwitted me for a second time".[@ar03-passive]
+- In the battle with Alfia, Kaguya splits off to fight Vito and orders Lyra to make up for her absence.[@ar03-kaguya] Lyra strikes Alfia with a shield bash, then explains that Alfia's protection, [[magic#silentium-eden|Silentium Eden]], is not a barrier spell but an enchantment that is always on and must be draining her Mind. Alfia admits that "that Level Two prum has outwitted me for a second time".[@ar03-passive] Alfia then reveals the point Lyra had failed to realise, that the enchantment also greatly weakens her own magic; when she undoes it, Lyra cries that the gale bursting out is the magical energy that had been kept inside.[@ar03-own-magic]
 - When Alfia casts her final spell, [[magic#genos-angelus|Genos Angelus]], Lyra throws herself in front of it behind her shield. The shield neutralises the spell and shatters. She explains that the earlier shield bash let it take Alfia's own Silentium Eden; Perseus made it with "that Cyclops" from a prototype shield (the Japanese word means *original form*) that [[hermes|Hermes]] gave them, the one [[zeus-and-hera-familias|Zeus]] is said to have had: the Aegis.[@ar03-genos] (See [[alfia#genos-angelus-stopped-by-lyra|Alfia § Stopped by Lyra]].)
 - Facing [[delphyne|Delphyne]], she argues that they cannot win without an edge; she judges it at least Level 6 or 7. After Astrea updates the whole Familia, Lyra proposes "a real raid battle", asks Riveria for a buff, and is one of the eight fighters who close in on the dragon.[@ar03-delphyne, ar03-rankup]
 - After Erebus is captured, she kicks a stone in anger.[@ar03-erebus]
@@ -194,31 +194,31 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@ar01-hero]: AR01 | Chapter 2: Eren | "Who else? My hero!"; "marryin’ the hero of our people"; Kaguya: "a sleazy, cunning little brat".
 [@ar01-vito]: AR01 | Chapter 2: Eren | Floor 18; Vito; "Lyra’s boomerangs"; "from the rear ... tossing boomerangs and bombs".
 [@ar01-clearing]: AR01 | Chapter 2: Eren | "the eastern part of the forest on the eighteenth floor"; Lyana's burial wish; "Count me in."
-[@ar01-eren]: AR01 | | Eren; "I’m glad they have someone level-headed on their side."; "Ignore him, Leon".
+[@ar01-eren]: AR01 | Chapter 4: Questioning Justice | Eren; "I’m glad they have someone level-headed on their side."; "Ignore him, Leon".
 [@ar01-trap]: AR01 | Chapter 8: Sound of Life | "her position at the center of the squad"; Valletta's ambush; "Lyra flitted between her enemies’ greatswords"; "I know a trap when I see one."
 [@ar01-ardee]: AR01 | Chapter 8: Sound of Life | "It was Lyra who figured it out before anybody else."; she holds Lyu back; "They’re all rigged to blow!"
 [@ar01-hunch]: AR01 | Chapter 11: Absolute Evil | "If our captain has a hunch, then we oughtta act on it."; "spit on you from heaven".
-[@ar02-pink]: AR02 | | "the pink-haired prum".
-[@ar02-stones]: AR02 | | Lyu collapses; "Leon? Leon! …Shit! C’mon, help me carry her!"
-[@ar02-chatter]: AR02 | | "the prum girl’s chatter"; "She wouldn’t allow any silence to linger unfilled."
-[@ar02-search]: AR02 | | "I’ll go after Leon"; "Not you, Captain."; "since the very beginning".
+[@ar02-pink]: AR02 | Chapter 1: The Taste of Stones | "the pink-haired prum".
+[@ar02-stones]: AR02 | Chapter 1: The Taste of Stones | Lyu collapses; "Leon? Leon! …Shit! C’mon, help me carry her!"
+[@ar02-chatter]: AR02 | Chapter 1: The Taste of Stones | "the prum girl’s chatter"; "She wouldn’t allow any silence to linger unfilled."
+[@ar02-search]: AR02 | Chapter 1: The Taste of Stones | "I’ll go after Leon"; "Not you, Captain."; "since the very beginning".
 [@ar02-pragmatic]: AR02 | Chapter 3: A Gray Wildflower | "as deputy captain and prum strategist"; "That was why Astrea had saved them both".
 [@ar02-syr]: AR02 | Chapter 3: A Gray Wildflower | "Syr!"; "one part katana and one part boomerang"; "the prum’s attacks lacked power".
 [@ar02-heroic]: AR02 | Chapter 3: A Gray Wildflower | "hurt them more than sayin’ nothin’"; "the most ill-natured prum"; "Ain’t it way more heroic that way?"
-[@ar02-erebus]: AR02 | | "tricking us like that, Eren"; "wisdom masquerading as poison"; "a powerless rat"; "Up yours!"
-[@ar02-alfia]: AR02 | | Gospel; "It was sound!!"; "Level Two or thereabouts"; "I’m small…and weak…"; "a measly Level 2"; "I ain’t the only one who knows how to play dead!!"
-[@ar02-escape]: AR02 | | Bomblets; "the height of other races’ children"; "Some clever trick to turn the tables. You’re good at that!"
-[@ar02-bombs]: AR02 | | "characteristically frugal when it came to using her crafted items"; "contingency plans for every possible situation".
-[@ar02-astrea-hand]: AR02 | | Astrea: "It was the day Lyra took my hand."
-[@ar02-report]: AR02 | | "Turns out that bastard’s after Leon."
+[@ar02-erebus]: AR02 | Chapter 6: Melody of Silence | "tricking us like that, Eren"; "wisdom masquerading as poison"; "a powerless rat"; "Up yours!"
+[@ar02-alfia]: AR02 | Chapter 6: Melody of Silence | Gospel; "It was sound!!"; "Level Two or thereabouts"; "I’m small…and weak…"; "a measly Level 2"; "I ain’t the only one who knows how to play dead!!"
+[@ar02-escape]: AR02 | Chapter 6: Melody of Silence | Bomblets; "the height of other races’ children"; "Some clever trick to turn the tables. You’re good at that!"
+[@ar02-bombs]: AR02 | Chapter 7: Dialogues on Justice | "characteristically frugal when it came to using her crafted items"; "contingency plans for every possible situation".
+[@ar02-astrea-hand]: AR02 | Chapter 7: Dialogues on Justice | Astrea: "It was the day Lyra took my hand."
+[@ar02-report]: AR02 | Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell | "Turns out that bastard’s after Leon."
 [@ar02-slyle-ja]: AR02 | | The Japanese edition prints Slyle in title brackets as the reading of kanji meaning cunning rat (file c6TM, paragraph 77; file c7BY, paragraph 166).
-[@ar02-slyle]: AR02 | | Riveria: "This must be your work, Slyle"; "reminds me a lot of our own prum!"
-[@ar02-item]: AR02 | | "I need you to make me a magic item, Perseus."; "a large order of earrings from Braver"; "I told my plan to Finn"; there is said to be a prototype of similar armour (the Japanese edition, file c7BY).
+[@ar02-slyle]: AR02 | Chapter 10: What I Learned: Twilight Answer | Riveria: "This must be your work, Slyle"; "reminds me a lot of our own prum!"
+[@ar02-item]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "I need you to make me a magic item, Perseus."; "a large order of earrings from Braver"; "I told my plan to Finn"; there is said to be a prototype of similar armour (the Japanese edition, file c7BY).
 [@ar02-act]: AR02 | Epilogue: All You Need Is Justice | "Tell us you got somethin’ up your sleeve, hero!"; "It was all an act."
 [@ar02-swindler]: AR02 | Epilogue: All You Need Is Justice | "He’s a swindler and a cheat."; "her eyes were those of a girl in love"; "His words are our courage."
 [@ar03-shield]: AR03 | Prologue: Last Intermission | "almost as large as Lyra"; "usually fought from the back ranks"; "Finn told me to take it"; "Perseus made it for me."
 [@ar03-asfi]: AR03 | Prologue: Last Intermission | "seventy-seven hours"; "it’s Slyle’s fault".
-[@ar03-lyre]: AR03 | | Chapter 3 (not in the evidence map). The harp-shaped piercings; "Finn devised them"; "a type of accessory called a Silence Lyre".
+[@ar03-lyre]: AR03 | Chapter 3: Eden’s Demise | Chapter 3 (not in the evidence map). The harp-shaped piercings; "Finn devised them"; "a type of accessory called a Silence Lyre".
 [@ar03-center]: AR03 | Chapter 4: Apocalypse Cometh | "Lyra and the other support crew in the center of the formation launched their projectiles".
 [@ar03-kaguya]: AR03 | Chapter 4: Apocalypse Cometh | "Make up for my absence, prum!"
 [@ar03-passive]: AR03 | Chapter 4: Apocalypse Cometh | The shield bash; "it’s a passive enchantment"; Mind; "that Level Two prum has outwitted me for a second time".
@@ -228,3 +228,4 @@ In Familia Chronicle 3, when Lyu uses her magic [[lyu-leon#astrea-record-spell|A
 [@ar03-rankup]: AR03 | Chapter 9: A Hero’s Trail | "Level 4 girls"; "eleven levels worth of improvement"; "rank up all eleven"; "Give us a buff, Nine Hell."; the eight fighters.
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Lyra kicks a stone; "That guy pisses me off!"
 [@ar01-lyra-ja]: AR01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@ar03-own-magic]: AR03 | Chapter 4: Apocalypse Cometh | "While it cannot nullify it completely, this enchantment drastically reduces the power of my own magic."; "That was the one point that Lyra had failed to realize."; "It’s all the magical energy that was being kept inside!"

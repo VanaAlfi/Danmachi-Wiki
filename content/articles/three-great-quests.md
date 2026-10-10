@@ -26,7 +26,7 @@
 
 ## Zeus and Hera
 
-Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]], with a Level 8 and a Level 9 at their head.[@fm06-zeus, so13-levels, fc02-levels] They killed the Behemoth and the Leviathan fifteen years before DanMachi 6.[@fm06-quests] In the campaign against the Leviathan they used a sea fortress, with the help of Poseidon Familia; it is now the Hringhorni, the ship of [[school-district|the School District]].[@so13-ship]
+Zeus Familia and Hera Familia were the strongest Familias in [[orario|Orario]]; Zeus Familia had a Level 8 and Hera Familia a Level 9.[@fm06-zeus, so13-levels, fc02-levels] They killed the Behemoth and the Leviathan fifteen years before DanMachi 6.[@fm06-quests] In the campaign against the Leviathan they used a sea fortress, with the help of Poseidon Familia; it is now the Hringhorni, the ship of [[school-district|the School District]].[@so13-ship]
 
 [[zald|Zald]] of Zeus Familia ate the Behemoth's flesh to win, and its poison has slowly eaten away at him ever since.[@ar03-zald] Against the Black Dragon, as [[alfia|Alfia]] of Hera Familia later says, they were powerless.[@ar03-alfia] Their defeat left the power vacuum that the [[evils|Evils]] exploited in Orario's dark age.[@fm15-vacuum]
 
@@ -54,7 +54,9 @@ In DanMachi 18 [[royman|Royman Mardeel]] opposes risking first-tier adventurers 
 ## Preparations in the covered volumes
 
 - In DanMachi 17 [[freya|Freya]] offers [[ouranos|Ouranos]] a full expedition into unexplored territory and preparations against the Black Dragon, in exchange for his non-interference.[@fm17-pledge]
-- In DanMachi 19 [[fels|Fels]] begins making a crimson jewel for the Black Dragon hunt, "for the promised time".[@fm19-jewel]
+- In DanMachi 18 Royman tells Finn that he must slay the Black Dragon, that there will never be another generation like his, and that he will surely command Orario's forces in the coming battle to slay it.[@fm18-royman-finn]
+- In DanMachi 19 [[fels|Fels]] is making a crimson jewel and means to have it ready, whatever the cost, for the Black Dragon hunt, "for the promised time".[@fm19-jewel]
+- In Sword Oratoria 13 Alicia reminds Lefiya that with Zeus and Hera gone, the duty of completing the quests fell to Orario's adventurers; the quests are the fundamental reason Loki Familia and Freya Familia keep exploring the Dungeon.[@so13-quests-duty]
 
 ## Open questions
 
@@ -62,11 +64,11 @@ In DanMachi 18 [[royman|Royman Mardeel]] opposes risking first-tier adventurers 
 > - The name of the great spirit that seals the Black Dragon, and how long the seal can hold.[@fm20-valley]
 > - What "the promised time" refers to.[@fm19-jewel]
 
-[@fm06-quests]: FM06 | | The Three Great Quests; Zeus and Hera Familias.
-[@fm06-zeus]: FM06 | | Zeus and Hera Familias were the strongest.
-[@fm15-vacuum]: FM15 | | The power vacuum after their fall.
+[@fm06-quests]: FM06 | Chapter 2: Shall We Dance? | The Three Great Quests; Zeus and Hera Familias.
+[@fm06-zeus]: FM06 | Chapter 2: Shall We Dance? | Zeus and Hera Familias were the strongest.
+[@fm15-vacuum]: FM15 | Chapter 3: The Cinder Girl | The power vacuum after their fall.
 [@fm16-bridge]: FM16 | Chapter 5: The Proof of ( ) | The Bridge of Heroes.
-[@fm17-pledge]: FM17 | | Freya's pledge.
+[@fm17-pledge]: FM17 | Chapter 2: Alone Inside a Sandbox | Freya's pledge.
 [@fm19-jewel]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "For the Black Dragon hunt…no, for the promised time."
 [@fm08-scales]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "one of the Black Dragon’s scales"; "after heroes drove him from Orario, the Black Dragon fled north"; monsters fear the scales.
 [@fm20-valley]: FM20 | Chapter 3: The World, The Festival, and Reality | The one-eyed dragon; the Valley of Dragons.
@@ -74,7 +76,7 @@ In DanMachi 18 [[royman|Royman Mardeel]] opposes risking first-tier adventurers 
 [@so09-quests]: SO09 | Chapter 4: Those Who Remain, Those Left Behind | Behemoth, Leviathan and the Black Dragon.
 [@so13-levels]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | A Level 8 and a Level 9.
 [@so13-ship]: SO13 | Chapter 2: Nostalgic Schoolhouse | The Hringhorni and the Leviathan campaign.
-[@fm06-titles]: FM06 | | Printed heading "Chapter 2: Shall We Dance?" (not in the evidence map): "the Terrestrial Tyrant, Behemoth, then the Ruler of the Sea, Leviathan".
+[@fm06-titles]: FM06 | Chapter 2: Shall We Dance? | "the Terrestrial Tyrant, Behemoth, then the Ruler of the Sea, Leviathan".
 [@ar03-parts]: AR03 | Chapter 8: The Price of Talent | Riveria: "Glutton and Silence" in the slaying of the Leviathan and the Behemoth.
 [@fm20-hringhorni]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon: the floating fortress, its round layers, Leviathan's Fins, the cornerstone of the school.
 [@so06-seal]: SO06 | Chapter 2: Port Meren | The Leviathan's skeleton on the tunnel's lid; "The “Leviathan Seal,” as the Guild officially called it."
@@ -109,3 +111,5 @@ In DanMachi 18 [[royman|Royman Mardeel]] opposes risking first-tier adventurers 
 [@fm20-black-dragon-gathering]: FM20 | Chapter 3: The World, The Festival, and Reality | Leon: the Black Dragon is reputed to have summoned dragons throughout the world to gather when it landed in the Valley of Dragons.
 [@fm20-black-dragon-warning]: FM20 | Chapter 3: The World, The Festival, and Reality | In DanMachi 20 Leon warns that if another hunt for the Black Dragon fails, humanity will not be able to recover, and that careful preparation is needed.
 [@ar03-black-dragon-alfia]: AR03 | Chapter 5: Playing the Violence Card | Alfia recalls the Black Dragon's slaughter of the strongest adventurers: shattered, dismembered and devoured.
+[@fm18-royman-finn]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "Finn…you have to slay the Black Dragon."; "There won’t be another generation like yours."; "In the coming battle to slay the Black Dragon, you will surely command our forces"
+[@so13-quests-duty]: SO13 | Fairy Canon: 2 | "With Zeus and Hera gone, someone had to step up and complete them."; "the fundamental reason the city’s greatest factions, Loki Familia and Freya Familia, continued to explore the Dungeon was the Three Great Quests"

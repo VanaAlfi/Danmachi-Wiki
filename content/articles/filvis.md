@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Elf captain of Dionysus Familia and Lefiya's friend, revealed in Sword Oratoria 12 to be a creature serving Dionysus, the Evils' mastermind Enyo.",
   "aliases": ["Ein", "Maenad", "Banshee"],
-  "spoilers": "Sword Oratoria Vols. 2–13, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 2",
+  "spoilers": "Sword Oratoria Vols. 2–5, 7 and 11–13, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 2",
   "related": ["lefiya", "loki-familia", "knossos", "loki", "riveria", "magic"],
   "infobox": {
     "title": "Filvis Challia",
@@ -18,20 +18,20 @@
       {"label": "Race", "value": "[[races#elf|Elf]]", "refs": ["so02-elf"]},
       {"label": "Familia", "value": "Dionysus Familia, as captain", "refs": ["so04-captain", "so11-leader"]},
       {"label": "Also called", "value": "Banshee (an adventurers' nickname); Maenad ({{ja|白巫女}}, written *white shrine maiden*)", "refs": ["so03-banshee", "so07-maenad", "so12-filvis-ja"]},
-      {"label": "Public Level", "value": "3", "refs": ["so03-level", "so04-captain"]},
+      {"label": "Apparent Level", "value": "3", "refs": ["so03-level", "so04-captain"]},
       {"label": "Magic", "value": "[[#dio-thyrsos|Dio Thyrsos]]; [[#dio-grail|Dio Grail]]; [[#einsel|Einsel]]", "refs": ["dio-thyrsos.so03-cast", "dio-grail.so04-teach", "einsel.so12-undo"]},
       {"label": "Skills", "value": "[[skills#filvis-skills|Fairy Senior, Monstrum Union, Dark Light]]", "refs": ["skills.so12-sheet"]}
     ]
   }
 }
 ---
-**Filvis Challia** is the elf captain of [[dionysus-familia|Dionysus Familia]] and a friend of [[lefiya|Lefiya Viridis]].[@so11-leader, so05-filvis] Publicly known as a Level 3, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
+**Filvis Challia** is the elf captain of [[dionysus-familia|Dionysus Familia]] and a friend of [[lefiya|Lefiya Viridis]].[@so11-leader, so05-filvis] She has arrow-straight black hair that falls nearly to her waist, red eyes and mostly white clothes, which give her the look of a young priestess.[@so02-filvis-looks] Known to her allies as a Level 3, a level-up that Dionysus had kept secret at the Denatus, she is revealed in Sword Oratoria 12 to be a creature serving her god [[dionysus|Dionysus]], the [[evils|Evils]]' mastermind known as Enyo.[@so03-level, so12-filvis]
 
 ## Filvis and Lefiya
 
-Adventurers call her "Banshee", "The party-killing elf"; in Sword Oratoria 3 [[bors|Bors]] tells Lefiya that it is not her title: "That’s just what we call her."[@so03-banshee] Sword Oratoria 12 traces the name to the Twenty-Seventh-Floor Nightmare, after which Bors saw her wandering [[rivira|Rivira]] "seemingly dead on the inside".[@so12-banshee]
+Adventurers call her "Banshee", "The party-killing elf"; in Sword Oratoria 3 [[bors|Bors]] tells Lefiya that it is not her title: "That’s just what we call her."[@so03-banshee] Sword Oratoria 12 traces the name to the Twenty-Seventh-Floor Nightmare, after which Bors saw her wandering [[rivira|Rivira]] "seemingly dead on the inside".[@so12-banshee] In Sword Oratoria 3 she joins Lefiya and [[bete-loga|Bete]] on their mission to the twenty-fourth floor.[@so03-filvis-party] When she calls herself unclean, Lefiya insists that she is not, and that she is far more beautiful and kind than Lefiya will ever be; Filvis calls her "a bizarre elf", and the two grow close.[@so03-filvis-beautiful] In the pantry they meet [[olivas-act|Olivas Act]], who designed the Twenty-Seventh-Floor Nightmare, and Filvis attacks him in a rage.[@so03-filvis-olivas]
 
-On [[floor-18|Floor 18]] Lefiya and [[riveria|Riveria]] tell Filvis that her magic [[#dio-grail|Dio Grail]] saved the [[floor-59|Floor 59]] expedition, challenging her belief that she and her magic are unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, begs her to leave [[orario|Orario]], and promises her a trip to [[wishe-forest|Wishe Forest]].[@ss02-filvis, so11-filvis]
+On [[floor-18|Floor 18]] Lefiya tells Filvis that her magic [[#dio-grail|Dio Grail]] saved Lefiya's party on [[floor-59|Floor 59]], [[riveria|Riveria]] included, challenging Filvis's belief that she is unclean.[@so05-filvis] She goes with Lefiya through [[knossos|Knossos]] and helps her escape.[@so07-filvis] She protects Lefiya even against Dionysus's wishes, urges her to leave [[orario|Orario]], and, when Lefiya proposes a trip to her home, [[wishe-forest|Wishe Forest]], after the battle, promises to go with her.[@ss02-filvis, so11-filvis]
 
 ## The truth
 
@@ -88,7 +88,7 @@ In Sword Oratoria 3 Filvis starts the chant while cutting down two [[monsters#li
 - **Chant:** "Shield me, cleansing chalice—"[@dio-grail.so04-teach, dio-grail.so12-final]
 - **Name:** "Dio Grail!"[@dio-grail.so04-teach, dio-grail.so12-final]
 
-Sword Oratoria 11 prints chant and name together when [[lefiya|Lefiya]] summons it.[@dio-grail.so11-lefiya] Several scenes print only the name.[@dio-grail.so04-floor59, dio-grail.ar03-filvis]
+Sword Oratoria 11 prints chant and name together when Filvis casts it in the assault on [[knossos|Knossos]].[@dio-grail.so11-lefiya] Several scenes print only the name.[@dio-grail.so04-floor59, dio-grail.ar03-filvis]
 
 #### Effect {#dio-grail-effect}
 
@@ -108,11 +108,11 @@ Filvis teaches Lefiya its effects and its chant so that Lefiya can summon it wit
 - **Type:** Cloning: a second self[@einsel.so12-half]
 - **Status entry:** Cloning magic[@einsel.so12-sheet]
 - **Price:** Half her Status while active[@einsel.so12-half]
-- **Chant:** Only the undoing chant printed[@einsel.so12-undo]
+- **Chant:** Only the undoing chant located in the checked text[@einsel.so12-undo]
 
 #### Incantation {#einsel-incantation}
 
-The chant that starts the spell is not printed. Sword Oratoria 12 prints the one Filvis and Ein speak together "to undo their magic":[@einsel.so12-undo]
+The chant that starts the spell was not located in the checked text. Sword Oratoria 12 prints the one Filvis and Ein speak together "to undo their magic":[@einsel.so12-undo]
 
 - **Undoing chant:** "At the end of illusion, the spirit returns—forming an unbreakable bond."[@einsel.so12-undo] In the Japanese, which Filvis and Ein speak together, it is {{ja|終わる幻想、還る魂──引き裂けぬ貴方}}, *the ending illusion, the returning soul: you, who cannot be torn apart*; its last word is said *bond* and written *you*.[@einsel.so12-ja]
 - **Name:** "Einsel."[@einsel.so12-undo]
@@ -125,12 +125,12 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 
 {{nocite}} Notable uses and open questions for Einsel are on the combined page: [[magic#einsel|Magic § Einsel]].
 
-[@so02-elf]: SO02 | | "The elf called Filvis", beside Dionysus.
+[@so02-elf]: SO02 | Chapter 3: Gekai Detective Loki | "The elf called Filvis", beside Dionysus.
 [@so03-level]: SO03 | Chapter 2: Let’s Party? | "My familia’s only Level Three adventurer."
 [@so04-captain]: SO04 | First Chapter: And the Boy… | "A Level 3 magic swordsman"; a member of Dionysus Familia (the Japanese edition, file c1K0).
 [@so07-maenad]: SO07 | Chapter 4: The Sword’s Wind Calls | Called "Maenad".
-[@so05-filvis]: SO05 | | Floor 18; Dio Grail and the Floor 59 party.
-[@so07-filvis]: SO07 | | Knossos with Lefiya.
+[@so05-filvis]: SO05 | Chapter 3: ⅓ Pure Passion | Floor 18; Dio Grail and the Floor 59 party.
+[@so07-filvis]: SO07 | Chapter 4: The Sword's Wind Calls | Knossos with Lefiya.
 [@so11-leader]: SO11 | Chapter 4: Avengers ~Knossos War~ | "despite being the leader of Dionysus Familia"; "who had been appointed the current leader of the familia".
 [@so11-filvis]: SO11 | | Her plea; her apparent death.
 [@so12-filvis]: SO12 | | Her death on Floor 27; the creature; Dionysus.
@@ -159,3 +159,7 @@ The chant that starts the spell is not printed. Sword Oratoria 12 prints the one
 [@so03-banshee]: SO03 | Chapter 3: A Hideous Beauty | Bors: "That’s just what we call her. That elf’s title is something else."; "The party-killing elf—Banshee."
 [@so12-banshee]: SO12 | Chapter 6: The Divine Providence of Despair | "That had been the origin of the name Banshee"; "seemingly dead on the inside".
 [@so12-filvis-ja]: SO12 | | The Japanese edition prints her name in katakana and writes Maenad in kanji meaning white shrine maiden, with the reading Maenad; the infobox gives the printed name and the kanji.
+[@so02-filvis-looks]: SO02 | Chapter 3: Gekai Detective Loki | "her eyes were like a set of unmarred red jewels"; "Arrow-straight glossy black hair fell nearly to her waist."; "she had the look and feel of a young priestess"
+[@so03-filvis-party]: SO03 | Chapter 2: Let’s Party? | "With your permission, I shall join the party."; "she won’t hold your children back on the twenty-fourth floor"
+[@so03-filvis-beautiful]: SO03 | Chapter 3: A Hideous Beauty | "I am unclean."; "You are not unclean!!"; "You are far more beautiful and kind than I will ever be!"; "You are a bizarre elf"
+[@so03-filvis-olivas]: SO03 | Chapter 5: Hell and Hell | "The thirst for revenge in the elf’s eyes let Olivas know the girl had been directly affected by the Twenty-Seventh-Floor Nightmare."; "Although the plan was executed according to my design"; "Filvis’s loathing was not only directed at the man responsible for her pain"

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Freya Familia's walled estate in Orario's fifth district, where its members fight daily death matches; placed under Guild management after DanMachi 18.",
   "aliases": [],
-  "spoilers": "DanMachi Vols. 7–20",
+  "spoilers": "DanMachi Vols. 7–20 and Astrea Record Vol. 2",
   "related": ["freya-familia", "freya", "orario", "heith-velvet", "bell-cranell"],
   "infobox": {
     "title": "Folkvangr",
@@ -32,24 +32,28 @@ At its centre are a walled field and a manor.[@fm16-field] The field hosts death
 
 ## The einherjar
 
-Members below the first tier fight daily battle royals that would kill them, while the [[healer|healers]] of the Andhrímnir restore those left close to death. The fighters are called *einherjar*, which also means "dead warriors" in the gods' language, and they hold a nightly feast in Sessrúmnir.[@fm17-einherjar] [[heith-velvet|Heith Velvet]] went through this "baptism" as a fighter before becoming a healer.[@fm18-heith]
+Members below the first tier fight daily battle royals that would kill them, while the [[healer|healers]] of the Andhrímnir restore those left close to death. The fighters are called *einherjar*, which also means "dead warriors" in the gods' language, and they hold a nightly feast in Sessrúmnir.[@fm17-einherjar, fm17-folkvangr-dead-warriors] [[heith-velvet|Heith Velvet]] went through this "baptism" as a fighter before becoming a healer.[@fm18-heith]
 
 ## History
 
 | Volume | Events |
 |---|---|
-| DanMachi 16 | Freya Familia's first-tier members hold an emergency meeting there during the festival.[@fm16-field] |
+| Astrea Record 2 | During the [[great-conflict|Great Conflict]], Freya Familia declares a street in southwest Orario "our Folkvangr", and its first-tier adventurers fight one another there in ritual combat to choose their strongest einherjar.[@ar02-folkvangr-ritual, ar02-folkvangr-eve] |
+| DanMachi 16 | Before the Goddess Festival, Freya Familia's first-tier members hold an emergency meeting there to decide who will guard Freya and who will guard [[syr-flover|Syr]] on her date with Bell.[@fm16-field] |
 | DanMachi 17 | [[bell-cranell|Bell]] is held there for more than two weeks and trained in its battles; [[lyu-leon|Lyu]], captured, is imprisoned beneath it and damages the interior while escaping.[@fm17-bell, fm17-lyu] |
 | DanMachi 18 | After the Familia War it is placed under [[guild|Guild]] management, while Freya Familia's other wealth is divided among the [[familia-coalition|coalition]].[@fm18-guild] |
 | DanMachi 20 | [[syr-flover|Syr]] cannot come and go there because the Guild has seized it.[@fm20-seized] |
 
 [@fm07-folkvangr]: FM07 | Chapter 5: Killing Stone | Folkvangr's location; Twilight Manor in the north.
-[@fm16-field]: FM16 | | The walled field and manor; the emergency meeting.
+[@fm16-field]: FM16 | Chapter 1: A Stormy Love Letter | The walled field and manor; the emergency meeting: "We will decide our roles during the Goddess Festival now—who will be responsible for protecting our goddess, and who the girl."
 [@fm17-estate]: FM17 | | Death matches; Sessrúmnir; the manor's rooms.
 [@fm17-einherjar]: FM17 | Chapter 3: The Field of Battle | The einherjar and the Andhrímnir.
 [@fm17-bell]: FM17 | Chapter 5: The End of Her World | More than two weeks in Folkvangr.
-[@fm17-lyu]: FM17 | | Lyu imprisoned; her escape.
+[@fm17-lyu]: FM17 | Chapter 5: The End of Her World | Lyu imprisoned; her escape.
 [@fm18-heith]: FM18 | Chapter 8: The Great Familia War | Heith's background.
 [@fm18-guild]: FM18 | Epilogue: Double Cast | Folkvangr under Guild management.
 [@fm20-seized]: FM20 | Chapter 1: Orario Rumble | "The Guild seized Folkvangr."
 [@fm17-folkvangr-ja]: FM17 | | The Japanese edition writes the name in kanji meaning field of battle, with the reading Folkvangr; the infobox gives the kanji.
+[@fm17-folkvangr-dead-warriors]: FM17 | Chapter 5: The End of Her World | "That word has another meaning in the language of the deities."; "It refers to dead warriors."
+[@ar02-folkvangr-ritual]: AR02 | Chapter 2: Wavering Justice | "This is our Folkvangr now"; "This street is where we’ll choose our strongest Einherjar"
+[@ar02-folkvangr-eve]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "this corner of southwest Orario was the only active battlefield in the city. Here, Folkvangr was remade amid the ruins."

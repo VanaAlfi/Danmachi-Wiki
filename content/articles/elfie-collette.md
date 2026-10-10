@@ -48,14 +48,14 @@ Sword Oratoria 9 calls her "the magic user Elfie"; Sword Oratoria 12 names her i
 | Sword Oratoria 11 | Asks Cruz whether he isn't scared of fighting alongside monsters.[@so11-scared] On the ninth floor of Knossos, in [[alicia-forestlight|Alicia]]'s group, she sees an eye floating in the dark behind a crack in the wall, until Alicia calls her back to the fight.[@so11-eye] |
 | Sword Oratoria 12 | With the reserve force on the ninth floor, she burns through the green flesh and leads them to the hidden room. One of the starving prisoners, the eye she had seen, asks after Demeter. Blaming herself for not having noticed their cries the first time, Elfie hugs [[minor-characters#persephone|Persephone]].[@so12-hostages] |
 
-[@so06-attack]: SO06 | | "Rakuta! Elfie!"; Rakuta's and Elfie's screams.
+[@so06-attack]: SO06 | Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light | "Rakuta! Elfie!"; Rakuta's and Elfie's screams.
 [@so06-charms]: SO06 | Chapter 5: A Duo of Sun and Moon | "Rakuta! Elfie! Come with me…yer gonna be my good luck charms."
 [@so07-vermis]: SO07 | Chapter 3: Feast of the Dead | "Elfie! Cynthia! Outta the way!"; the poison vermis on Arcus.
 [@so07-roger]: SO07 | Chapter 4: The Sword’s Wind Calls | Elfie expects her end; "So…if you could maybe…do the savin’ for me…?"; "Roger!!" Tiona's hand: "Her normally copper-colored skin had turned an intense shade of black."
 [@so07-wind]: SO07 | Chapter 4: The Sword’s Wind Calls | "Is that…wind?" Elfie murmured beneath Arcus's weight.
-[@so09-girls]: SO09 | | "Lefiya’s roommate, the magic user Elfie; the other human Narfi".
-[@so09-tent]: SO09 | | "Lefiya…Are you still awake?"; the treatise on magic.
-[@so09-riveria]: SO09 | | "Elfie came to visit me. She said you were burying yourself in books again."
+[@so09-girls]: SO09 | Chapter 1: A Scene at the Camp | "Lefiya’s roommate, the magic user Elfie; the other human Narfi".
+[@so09-tent]: SO09 | Chapter 1: A Scene at the Camp | "Lefiya…Are you still awake?"; the treatise on magic.
+[@so09-riveria]: SO09 | Chapter 1: A Scene at the Camp | "Elfie came to visit me. She said you were burying yourself in books again."
 [@so10-squad]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | Cruz's surveillance squad; "I’m her roommate, but she won’t talk to me at all!"
 [@so10-door]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | Cruz and Elfie restrain Lefiya at the door of Hearthstone Manor.
 [@so10-messenger]: SO10 | Chapter 4: The Skirmish on Daedalus Street: Behind the Scenes | "Elfie, tell Tione and the others in the northwest"; "responded the messenger Elfie".

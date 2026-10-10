@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The term deusdea designates gods and goddesses as beings transcending mortals.",
   "aliases": ["Deusdia"],
-  "spoilers": "DanMachi Vols. 1, 7, 11, Sword Oratoria Vols. 5, 11, 14 and Familia Chronicle Vol. 2",
+  "spoilers": "DanMachi Vols. 1, 3, 4, 5, 7, 8, 11, Sword Oratoria Vols. 5, 11, 14 and Familia Chronicle Vol. 2",
   "related": ["races", "tenkai-and-gekai", "hestia", "bell-cranell", "mikoto", "dionysus", "riveria", "freya"],
   "infobox": {
     "title": "Deusdea",
@@ -16,12 +16,14 @@
       {"section": "Term"},
       {"label": "Japanese", "value": "{{ja|超越存在}}, written *transcendent being*, read *deusdea*", "refs": ["fm01-deusdea-ja"]},
       {"label": "Meaning", "value": "The [[races#god|gods and goddesses]], as beings above mortals", "refs": ["fm01-designation", "fm11-contrast"]},
-      {"label": "Printed", "value": "*deusdea*; *Deusdia* in DanMachi 1, 3, 4, 5 and 8", "refs": ["fm01-deusdea-ja"]}
+      {"label": "Printed", "value": "*deusdea*; *Deusdia* in DanMachi 1, 3, 4, 5 and 8", "refs": ["fm01-deusdea-ja", "fm01-deusdia-print", "fm03-deusdia-print", "fm04-deusdia-print", "fm05-deusdia-print", "fm08-deusdia-print"]}
     ]
   }
 }
 ---
 The term **deusdea** {{small|printed *Deusdia* in DanMachi 1, 3, 4, 5 and 8}} designates [[races#god|gods and goddesses]] as beings transcending mortals.[@fm01-designation, fm11-contrast] [[bell-cranell|Bell]] describes [[hestia|Hestia]] as a deusdea existing on a different level from humans, demi-humans and Dungeon monsters.[@fm01-designation] He also uses the designation when reflecting on the gap between gods and the inhabitants of the mortal world.[@fm11-contrast]
+
+The English of DanMachi 1, 3, 4, 5 and 8 prints the word as *Deusdia* and treats it as the gods' home plane: Bell says Hestia "came from another plane, Deusdia", and DanMachi 5 calls a god "a being from the heavenly plane of Deusdia".[@fm01-deusdia-print, fm03-deusdia-print, fm04-deusdia-print, fm05-deusdia-print, fm08-deusdia-print]
 
 ## Uses in context {#uses-in-context}
 
@@ -42,3 +44,8 @@ The term **deusdea** {{small|printed *Deusdia* in DanMachi 1, 3, 4, 5 and 8}} de
 [@fc02-dialogue]: FC02 | Ali and the 8 Followers | Freya invokes divine perfection in an argument about bathing.
 [@so14-reflection]: SO14 | Chapter 2: The High Elf’s Departure | Gods are described as parents of mortal inhabitants. The Japanese edition (file part0020, paragraph 27) calls the transcendent beings the fathers of the mortal world's people.
 [@fm01-deusdea-ja]: FM01 | Chapter 1: World, Reality, and Desire | The Japanese edition writes the word in kanji meaning transcendent being, with the reading deusdea (file cFB, paragraph 62). The English prints Deusdia in DanMachi 1, 3, 4, 5 and 8 (6 lines) and deusdea in DanMachi 7 and later and in the other series (27 lines in 18 volumes).
+[@fm01-deusdia-print]: FM01 | Chapter 1: World, Reality, and Desire | "She came from another plane, Deusdia."
+[@fm03-deusdia-print]: FM03 | Chapter 1: The Kenki Approches | "like all deities from Deusdia"
+[@fm04-deusdia-print]: FM04 | Chapter 1: Denatus | "Being from Deusdia, it was common knowledge to Hestia"
+[@fm05-deusdia-print]: FM05 | Chapter 5: The Outlaws' Party | "a being from the heavenly plane of Deusdia"
+[@fm08-deusdia-print]: FM08 | Chapter 6: A Certain Goddess's Love Song | "the gods of Deusdia"

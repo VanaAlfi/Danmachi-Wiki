@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Nahza's silver artificial right arm, a custom item from Dian Cecht Familia bought on a loan by her god Miach. She sacrifices it in the Familia War of DanMachi 18.",
   "aliases": ["Airgetlam", "silver arm"],
-  "spoilers": "DanMachi Vols. 4, 8, 11, 12, 14, 18 and 19",
+  "spoilers": "DanMachi Vols. 2, 4, 8, 11, 12, 14, 18 and 19",
   "related": ["bell-cranell", "war-game", "gulliver-brothers", "anya-fromel", "wiene"],
   "infobox": {
     "title": "Airgetlám",
@@ -20,7 +20,7 @@
       {"label": "Wearer", "value": "Nahza, of Miach Familia", "refs": ["fm04-arm"]},
       {"label": "Paid for", "value": "A loan taken out by Miach", "refs": ["fm04-arm"]},
       {"section": "Fate"},
-      {"label": "Fate", "value": "In the Familia War (DanMachi 18)", "refs": ["fm18-sacrifice"]},
+      {"label": "Fate", "value": "Sacrificed by Nahza in the Familia War (DanMachi 18)", "refs": ["fm18-sacrifice"]},
       {"label": "Replacement", "value": "Planned in DanMachi 19, not shown", "refs": ["fm19-new"]}
     ]
   }
@@ -38,7 +38,7 @@ In DanMachi 4 Nahza tells Bell that she once adventured in the Dungeon until a m
 
 ## Description
 
-The arm is made of a smooth, polished silver metal and looks almost exactly like a human arm, with gems set into its joints; her right hand is made of the same metal. Nahza shows Bell how it bends and straightens.[@fm04-arm] It is a working limb: she holds her longbow steady with it while nocking arrows with her left hand, and it creaks as she moves.[@fm04-bow, fm08-click] What the metal is and how the arm works are not described.
+The arm is made of a smooth, polished silver metal and looks almost exactly like a human arm, with gems set into its joints; her right hand is made of the same metal. Nahza shows Bell how it bends and straightens.[@fm04-arm] It is a working limb: she holds her longbow steady with it while nocking arrows with her left hand, and it creaks as she moves.[@fm04-bow, fm08-click] What the metal is and how the arm works were not located in the checked text.
 
 ## Why a prosthesis
 
@@ -48,11 +48,11 @@ The novels treat a lost limb as something healing cannot restore. In DanMachi 11
 
 In the Familia War of DanMachi 18, the prum Berling of the [[gulliver-brothers|Gulliver brothers]] swings his ax at Nahza. Even with his abilities lowered, it is a first-tier adventurer's blow, but the arm stops it: half-severed, its many joints trap the ax "like a silver snake".[@fm18-sacrifice] Nahza lets the arm go, although the loans taken out for it are far from repaid, and at point-blank range casts her only spell, [[magic#darbh-daol|Darbh Daol]]. Black particles pour from the broken arm and the anti-status magic leaves Berling exhausted.[@fm18-sacrifice]
 
-The narration makes the magic Nahza's own, not a power built into the arm: she manifested it when she lost her right arm, and it has an anti-status effect like [[anya-fromel|Anya]]'s.[@fm18-sacrifice]
+The narration makes the magic Nahza's own, not a power built into the arm: she manifested it when she lost her right arm, and it has an anti-status effect like [[anya-fromel|Anya]]'s.[@fm18-sacrifice] Nahza was a decoy, drawing Berling with her loudly cast spell so that he could not rejoin his brothers: as he shakes off the arm to strike her, [[mikoto|Mikoto]] fells him with her quick-draw Zekka.[@fm18-decoy]
 
 ## Afterwards
 
-In DanMachi 19, Nahza's right sleeve is tied up. She and Miach expect their share of the War Game reward to pay for a new airgetlám, but not to clear the loans for the old one.[@fm19-new] The novels covered here do not show the new arm being made.
+In DanMachi 19, Nahza's right sleeve is tied up. She and Miach expect their share of the War Game reward to pay for a new airgetlám, but not to clear the loans for the old one.[@fm19-new] The making of the new arm was not located in the checked text.
 
 ## Other prosthetic arms
 
@@ -75,3 +75,4 @@ The elf [[modi-and-magni-familias#luvis-lilix|Luvis]], who loses his right arm o
 [@fm18-sacrifice]: FM18 | Chapter 9: Flower Language for You | The arm traps Berling's ax; Darbh Daol; the unpaid loans.
 [@fm19-new]: FM19 | Chapter 1: V-V-V for Victory Party | A new airgetlám from the reward; the old loans remain.
 [@fm18-airgetlam-ja]: FM18 | | The Japanese edition writes the name in kanji meaning silver arm, with the reading Airgetlám; the infobox gives the kanji.
+[@fm18-decoy]: FM18 | Chapter 9: Flower Language for You | "Nahza was a decoy to keep Berling from joining up with the other Gulliver brothers."; "I am in your debt, Lady Nahza"

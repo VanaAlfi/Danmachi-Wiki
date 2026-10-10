@@ -37,7 +37,7 @@ Dina fights at close range with two stiletto daggers, while Vena supports her fr
 
 ## Vena Dis {#vena-dis}
 
-Vena uses magic and a [[magic-sword|magic sword]] for ranged fighting.[@ar01-weapons] In Astrea Record 1, Dina supplies power as Vena releases [[magic#dialv-dis|Dialv Dis]] against the cathedral and churches sheltering civilians.[@ar01-churches] Prepared in advance, the spell sends down four columns of fire; Hedin saves only the cathedral, and civilians burn in the other churches.[@ar01-dis-crossroads] Her third and last spell sets fire to whatever she sees and judges heretical, cannot be dodged and leaves Dina unharmed.[@ar03-dis-end] At the Amphitheatrum, Hegni's thrust pierces her magic circle and her breast, and her spell explodes in an Ignis Fatuus.[@ar03-dis-end] In Astrea Record 3, Vena survives the initial magical explosion through the Defense shared by Dina, but Hedin Selrand kills her with lightning after Dina's death.[@ar03-vena] Before his lightning ends her, she picks up Dina's severed head, throws it away crying that so dirty a thing cannot be her sister, and laughs as she weeps.[@ar03-dis-end]
+Vena uses magic and a [[magic-sword|magic sword]] for ranged fighting.[@ar01-weapons] In Astrea Record 1, Dina supplies power as Vena releases [[magic#dialv-dis|Dialv Dis]] against the cathedral and churches sheltering civilians.[@ar01-churches] Prepared in advance, the spell sends down four columns of fire; Hedin saves only the cathedral, and civilians burn in the other churches.[@ar01-dis-crossroads] Her third and last spell sets fire to whatever she sees and judges heretical, cannot be dodged and leaves Dina unharmed.[@ar03-dis-end] At the Amphitheatrum, Hedin, who has swapped swords with Hegni, thrusts Hegni's cursed sword Victim Abyss through her magic circle and her breast, and her spell explodes in an Ignis Fatuus.[@ar03-dis-end] In Astrea Record 3, Vena survives the initial magical explosion through the Defense shared by Dina, but Hedin Selrand kills her with lightning after Dina's death.[@ar03-vena] Before his lightning ends her, she picks up Dina's severed head, throws it away crying that so dirty a thing cannot be her sister, and laughs as she weeps.[@ar03-dis-end]
 
 ## Shared history {#shared-history}
 
@@ -45,6 +45,7 @@ Vena uses magic and a [[magic-sword|magic sword]] for ranged fighting.[@ar01-wea
 |---|---|
 | Astrea Record 1 | The sisters combine close-range attacks and ranged support against Hegni Ragnar before attacking the civilian refuges.[@ar01-weapons, ar01-churches] Taking Hegni by surprise, they wound him badly, and with [[basram|Basram]]'s spirit warriors they are fourteen Level 5s against Hedin and Hegni.[@ar01-dis-crossroads] |
 | Astrea Record 2 | They dance together and anticipate their next confrontation with Hegni Ragnar and Hedin Selrand.[@ar02-evening, ar02-await] |
+| Astrea Record 3 | At the Amphitheatrum the sisters together cast [[magic#dialv-otua|Dialv Otua]], and balls of black fire rain on its defenders, tipping the battle against Orario.[@ar03-dis-otua] |
 | Astrea Record 3 | Sent against the south side of the Amphitheatrum, they abandon it to go after Hedin and Hegni.[@ar03-dis-amphitheatrum] |
 | Astrea Record 3 | They fight the two elves at the Amphitheatrum, where Vena's flames prevent other [[freya-familia|Freya Familia]] members from intervening.[@ar03-battle] Reports later reach the Evils that the sisters are apparently dead.[@ar03-dis-aftermath] |
 
@@ -63,3 +64,4 @@ Vena uses magic and a [[magic-sword|magic sword]] for ranged fighting.[@ar01-wea
 [@ar03-dis-end]: AR03 | Chapter 6: The Nameless Heroes | The fight with Hedin and Hegni at the Amphitheatrum: Dialv Stige, Vena's last spell, the Ignis Fatuus, Dina's death, Vena's end.
 [@ar01-dis-crossroads]: AR01 | Chapter 11: Absolute Evil | The ambush on Hegni; fourteen Level 5s; Dialv Dis on the churches; Hedin saves only the cathedral.
 [@ar03-dis-aftermath]: AR03 | Chapter 7: What She Wished For | Reports that the Dis sisters and Basram have been killed.
+[@ar03-dis-otua]: AR03 | Chapter 2: The Conqueror’s Return | "Let the first gate devour all. Turn all hope into despair! Dialv Otua!"; "From the sky came balls of black fire"; "the scales of war were tipped"

@@ -37,17 +37,19 @@
 
 ## The Great Conflict {#great-conflict}
 
-During the [[great-conflict|Great Conflict]] Astrea stands with the other gods at the mass graves of those killed on the first night. When [[hermes|Hermes]] calls the prayers a custom of the lower world, mere sentiment for gods, and then breaks off, she finishes his thought: the gods at least should see the souls of the dead on their way.[@ar02-funeral] She treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-astrea, ar02-justice] She explains that restoring the city with [[tenkai-and-gekai#arcanum|Arcanum]] could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum]
+On the night the [[evils|Evils]] set Orario ablaze, Astrea goes into the burning heart of the city with [[hermes|Hermes]] as her escort and sends the adventurers there to bring the people to safety: "You must be as a shield for the weak."[@ar01-astrea-night] The dark god behind the attack then speaks to her from the shadows, says he had wanted to "bury you first", and congratulates her on still being alive.[@ar01-astrea-erebus]
 
-In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus] At the end Erebus asks her to "End it". She asks whether he loves the world, and he says he does. She then passes judgment and her blade sends him back to the heavens, a giant pillar of light that the whole city cheers, but the goddess will not forget that necessary evil.[@ar03-end]
+During the [[great-conflict|Great Conflict]] Astrea stands with the other gods at the mass graves of those killed on the first night. When [[hermes|Hermes]] calls the prayers a custom of the lower world, mere sentiment for gods, and then breaks off, she finishes his thought: the gods at least should see the souls of the dead on their way.[@ar02-funeral] She treats the wounded and rejects the god [[erebus|Erebus]]'s idea of absolute justice.[@ar02-camp, ar02-astrea, ar02-justice] In a camp where no healer can arrive in time, she amputates three patients' limbs herself, and afterwards tells a Guild worker that justice at such a time "means fighting to help those who suffer".[@ar02-astrea-amputation] She explains that restoring the city with [[tenkai-and-gekai#arcanum|Arcanum]] could simply invite an evil god to undo it, turning the mortal world into an endless war between gods.[@ar02-arcanum] Later she walks alone through the enemy's blockade into the ruined church where Erebus is, and after they have talked of justice he withdraws, telling her that since she came by herself "there will be no slaughter today".[@ar02-astrea-church]
+
+In Astrea Record 3 she confronts Erebus over his aim: leading the darkness to put Orario through a trial that would produce a future hero.[@ar03-erebus] She has gone down to the eighteenth floor of the [[dungeon|Dungeon]] to meet him, escorted by followers whom Hermes lent her.[@ar03-astrea-dungeon] There, in the middle of the battle, she updates her own followers' Status, and every member of her Familia ranks up at once.[@ar03-astrea-update] At the end Erebus asks her to "End it". She asks whether he loves the world, and he says he does. She then passes judgment and her blade sends him back to the heavens, a giant pillar of light that the whole city cheers, but the goddess will not forget that necessary evil.[@ar03-end]
 
 ## After Orario {#after-orario}
 
 Before Astrea left Orario she told Lyu, "please forget about justice", and Lyu went on to take her revenge.[@fm14-forget] In DanMachi 14 Lyu understands that Astrea said it for Lyu's own sake: she forsook her own justice to protect Lyu, shouldered a share of her vengeance herself, and believed that justice would live in Lyu again.[@fm14-protect]
 
-Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Solingen]]. She lives there with six girls; two, [[cecille-blackliza|Cecille]] and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes]
+Astrea settled at Stars' Rest, a two-storey wooden house in the forest east of the swordsmiths' city of [[zolingam|Solingen]]. She lives there with six girls; two, [[cecille-blackliza|Cecille]] and Iselina, are Level 2.[@fc03-home, fc03-residents] [[hermes|Hermes]] alone knew where she was, and Lyu kept in touch with her through [[hermes-familia|Hermes Familia]].[@fc03-hermes] In Familia Chronicle 3, when Lyu comes to her, Astrea raises her to Level 5 but deliberately leaves a powerful new spell uninscribed and asks her to stay a while longer, because Lyu cannot master it while her heart is restless and she is "on the verge of forgetting Alize and everyone".[@fc03-astrea-withheld] Later she completes the update to Level 6 with the spell, Astrea Record, "inherited justice".[@fc03-astrea-record]
 
-In DanMachi 18 Lyu comes to her in Solingen. Astrea updates her through two [[level|Levels]] in succession, has the sword Alvs Iustitia made for her, and arrives at [[geography#ruins-near-orario-orza-ruins|Orza]] with a new Familia so that Lyu can take part in the [[war-game|Familia War]].[@fm18-zolingam] She later releases Lyu's [[falna|Falna]] so that Lyu can join [[hestia-familia|Hestia Familia]]; her first blessing remains in Lyu's back.[@fm19-bond]
+In DanMachi 18 Lyu comes to her in Solingen. Astrea updates her through two [[level|Levels]] in succession, Lyu's broken wooden sword is reborn there as Alvs Iustitia, and Astrea arrives at [[geography#ruins-near-orario-orza-ruins|Orza]] with a new Familia to join the coalition in the [[war-game|Familia War]].[@fm18-zolingam] She later releases Lyu's [[falna|Falna]] so that Lyu can join [[hestia-familia|Hestia Familia]]; her first blessing remains in Lyu's back.[@fm19-bond]
 
 [@fm05-astrea]: FM05 | Chapter 4: Dungeon Resort? | Goddess of justice and order; Lyu persuades her to leave.
 [@fm06-astria]: FM06 | Chapter 4: Those Who Gather | Printed as "Astria".
@@ -57,17 +59,25 @@ In DanMachi 18 Lyu comes to her in Solingen. Astrea updates her through two [[le
 [@fm19-bond]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu's Falna released; the ichor remains.
 [@fc01-ted]: FC01 | Crush the Grand Casino! | "Goddess Astrea offered you one more chance"; "Perhaps she wanted to believe in the children’s ability to improve and rehabilitate".
 [@fc03-home]: FC03 | The Locus of Stars | Stars' Rest.
-[@fc03-residents]: FC03 | | The six girls.
+[@fc03-residents]: FC03 | The Locus of Stars | The six girls.
 [@fc03-hermes]: FC03 | The Locus of Stars | Only Hermes knew where she was.
-[@ar01-tea]: AR01 | | "I was just over at the orphanage. Then we all went over to the market to hand out soup."; "Everybody needs a hobby, don’t they?"; "I can’t stand by and do nothing."
-[@ar02-funeral]: AR02 | | Walnut hair wet with rain; "the same color as the sea of stars"; let the gods at least see the souls of the dead on their way (the Japanese edition, file c4S); "her sad indigo eyes".
+[@ar01-tea]: AR01 | Chapter 3: Busy People | "I was just over at the orphanage. Then we all went over to the market to hand out soup."; "Everybody needs a hobby, don’t they?"; "I can’t stand by and do nothing."
+[@ar02-funeral]: AR02 | Prologue: A City Shrouded in Darkness | Walnut hair wet with rain; "the same color as the sea of stars"; let the gods at least see the souls of the dead on their way (the Japanese edition, file c4S); "her sad indigo eyes".
 [@ar02-camp]: AR02 | Chapter 4: Those Who Struggle | "Clean their wounds and brace their fractures."; "having completed her treatment".
-[@ar02-justice]: AR02 | | "There is no such thing as absolute justice."; "different ideologies can coexist"; "That is the light that we call hope."
-[@ar02-alize]: AR02 | | "I am only one star out of many set in the infinite night sky."; "Your justice is something only you can find."
-[@ar02-astrea]: AR02 | | Astrea and Erebus.
-[@ar02-arcanum]: AR02 | | Arcanum and the city.
+[@ar02-justice]: AR02 | Chapter 10: What I Learned: Twilight Answer | "There is no such thing as absolute justice."; "different ideologies can coexist"; "That is the light that we call hope."
+[@ar02-alize]: AR02 | Chapter 7: Dialogues on Justice | "I am only one star out of many set in the infinite night sky."; "Your justice is something only you can find."
+[@ar02-astrea]: AR02 | Chapter 10: What I Learned: Twilight Answer | Astrea and Erebus.
+[@ar02-arcanum]: AR02 | Chapter 4: Those Who Struggle | Arcanum and the city.
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Astrea confronts Erebus.
 [@ar03-end]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "End it, Astrea. For real, this time."; her question, her judgment and what she will not forget. The Japanese edition (file c8ZY, paragraph 347; c9H2, paragraphs 6, 12 and 15) has her ask whether he loved the lower world, judge the evil god Erebus and send him up in a giant pillar of light; she will not forget that necessary evil.
 [@ar03-astrea-ja]: AR03 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
 [@fm06-astria-ja]: FM06 | | The Japanese edition gives her usual name in this passage.
-[@ar01-loki]: AR01 | | Printed heading "Chapter 3: Busy People" (not in the evidence map): "You’re so sweet, I’m gonna be sick. You remind me of Artemis, ’cept at least she has the decency to get violent once in a while."
+[@ar01-loki]: AR01 | Chapter 3: Busy People | "You’re so sweet, I’m gonna be sick. You remind me of Artemis, ’cept at least she has the decency to get violent once in a while."
+[@ar01-astrea-night]: AR01 | Chapter 9: The Opening Act of Evil | "Bring the people to the city center,"; "You must be as a shield for the weak. Do not falter! And may the stars watch over you."; "Would you escort me?"; "Astrea struck out fearlessly into the center of town"
+[@ar01-astrea-erebus]: AR01 | Chapter 11: Absolute Evil | "I wanted to bury you first, you know."; "Congratulations, Astrea. You’re still alive."
+[@ar02-astrea-amputation]: AR02 | Chapter 4: Those Who Struggle | "Three of these patients need amputations."; "If we wait for the healers to arrive, it will be too late."; "Justice, at a time like this, means fighting to help those who suffer."
+[@ar02-astrea-church]: AR02 | Chapter 10: What I Learned: Twilight Answer | "Wait, you seriously came here? Alone?"; "Since you were so brave to come here all by yourself, there will be no slaughter today."
+[@ar03-astrea-dungeon]: AR03 | Chapter 7: What She Wished For | "The eighteenth floor was no home to paradise now"; "Followers of Hermes, I presume?"; "Hermes was kind enough to lend me his own from outside the city. It was pressing I meet with you, you see."
+[@ar03-astrea-update]: AR03 | Chapter 9: A Hero’s Trail | "Every member of the familia ranked up at once?!"; "I updated their Status a moment ago."
+[@fc03-astrea-withheld]: FC03 | The Locus of Stars | "reaching Level 5 brought her some comfort"; "You must stay here in Zolingam a while longer."; "Even if I say that I intentionally did not inscribe the magic you gained the potential for into your status?"; "you are on the verge of forgetting Alize and everyone"
+[@fc03-astrea-record]: FC03 | The Locus of Stars | "This magic, too, will return to you."; "It was translated as “inherited justice” in Koine."

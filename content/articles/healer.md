@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Healers treat injuries with magic and medical care, supporting parties from the rear.",
   "aliases": ["Healers"],
-  "spoilers": "DanMachi Vols. 12, 14, 17, 19, 20, Sword Oratoria Vols. 5, 7, 8, 10–12 and Familia Chronicle Vols. 2 and 3",
+  "spoilers": "DanMachi Vols. 12, 14, 17–20, Sword Oratoria Vols. 5, 7, 8, 10–12 and Familia Chronicle Vols. 2 and 3",
   "related": ["amid", "heith-velvet", "cassandra", "leene-arshe", "nina-tulle", "dian-cecht-familia", "potions", "magic"],
   "infobox": {
     "title": "Healer",
@@ -35,6 +35,7 @@
 |---|---|
 | DanMachi 12 | [[daphne|Daphne Laulos]] identifies [[cassandra|Cassandra Illion]] as a healer who previously took the rear position.[@fm12-cassandra] |
 | DanMachi 17 | Heith Velvet and her fellow healers restore injured trainees with magic and elixirs in [[freya-familia|Freya Familia]].[@fm17-training] |
+| DanMachi 18 | In the Great Familia War, [[freya-familia|Freya Familia]]'s [[freya-familia#andhrimnir|Andhrímnir]], its healers and herbalists, keep reviving its fallen fighters; Amid and Heith are known as Orario's two great healers, "the silver saint and the golden witch".[@fm18-andhrimnir] |
 | DanMachi 19 | [[nina-tulle|Nina Tulle]] carries a staff and appears to be the student party's healer, giving the group a great advantage in the Dungeon's first floors.[@fm19-nina] |
 | Sword Oratoria 5 | [[riveria|Riveria Ljos Alf]] and [[leene-arshe|Leene Arshe]] care for the injured at the expedition camp.[@so05-treatment] |
 | Sword Oratoria 7 | [[finn-deimne|Finn Deimne]] includes a healing unit in the force he and [[gareth|Gareth Landrock]] will lead.[@so07-unit] |
@@ -61,3 +62,4 @@
 [@fc02-hildr]: FC02 | Their Various Pasts | Hildr is a miraculous healer and Hedin’s ancestor.
 [@fc03-maryu]: FC03 | The Locus of Stars | Maryu is Astrea Familia’s human healer.
 [@fm14-healer-ja]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | The Japanese edition writes the word in kanji meaning treatment practitioner, with the reading healer (file cAP, paragraph 923).
+[@fm18-andhrimnir]: FM18 | Chapter 8: The Great Familia War | "The healers and herbalists known as the Andhrímnir"; "The enemy she had just managed to put down would be revived again if Heith and the healers started moving."; "two great healers: the silver saint and the golden witch"

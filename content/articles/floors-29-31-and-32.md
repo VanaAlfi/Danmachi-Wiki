@@ -6,7 +6,7 @@
   "reviewed": "2026-10-06",
   "continuity": "light-novel",
   "summary": "Floors 29, 31 and 32 of the Dungeon are numbered within the Tangled Gorge's range of Floors 29–32.",
-  "aliases": ["Floor 29", "Floor 31", "Floor 32"],
+  "aliases": ["Floor 29", "Floor 31", "Floor 32", "Jungle Glens"],
   "spoilers": "DanMachi Vols. 13, 19, 20",
   "related": ["dungeon", "floor-28", "water-capital", "hestia-familia", "guild", "lilliluka-erde", "lambton", "monsters"],
   "sections": [
@@ -20,7 +20,7 @@
     "rows": [
       {"section": "Floors"},
       {"label": "Japanese", "value": "{{ja|29階層}} and {{ja|31階層}}; Floor 32 only in the range {{ja|29から32}}", "refs": ["fm20-floors-ja"]},
-      {"label": "Region", "value": "The Tangled Gorge ({{ja|密林の峡谷}}, written *jungle gorge*), Floors 29–32", "refs": ["fm20-range", "fm20-floors-ja"]},
+      {"label": "Region", "value": "The Tangled Gorge ({{ja|密林の峡谷}}, written *jungle gorge*; DanMachi 19 prints *Jungle Glens*), Floors 29–32", "refs": ["fm20-range", "fm20-floors-ja", "fm19-jungle-glens"]},
       {"label": "Terrain", "value": "Heavily forested", "refs": ["fm20-range"]},
       {"label": "Above", "value": "[[floor-28|Floor 28]], a safe point", "refs": ["fm19-advice"]},
       {"label": "Monsters on Floor 29", "value": "Almalosauruses, shadow raptors; [[monsters#bloodsaurus|bloodsauruses]] come up from Floor 30", "refs": ["fm20-fight", "fm20-bloodsaurus"]}
@@ -28,7 +28,7 @@
   }
 }
 ---
-**Floors 29, 31 and 32** of the [[dungeon|Dungeon]] are numbered within the Tangled Gorge's range of Floors 29–32.[@fm20-range] [[guild|The Guild]] requires [[hestia-familia|Hestia Familia]] to reach at least Floor 29 after its [[familia-rank|B-rank]] promotion.[@fm20-target] [[lilliluka-erde|Lilliluka Erde]] reports that they must advance without an [[familia-coalition|alliance]] with another group.[@fm20-target]
+**Floors 29, 31 and 32** of the [[dungeon|Dungeon]] are numbered within the Tangled Gorge's range of Floors 29–32.[@fm20-range] DanMachi 19 calls the region beginning at Floor 29 the Jungle Glens: "a heavily forested area where bloodsauruses and other dinosaur-type monsters begin to appear", where "Level 3 is a requirement for survival".[@fm19-jungle-glens] Like the Water Capital it is open, so a party could in theory climb a giant tree to move between floors, but the air belongs to galepteras and other winged monsters; a second main path runs through underground caves, with highly poisonous monsters of its own.[@fm20-gorge-routes] [[guild|The Guild]] requires [[hestia-familia|Hestia Familia]] to reach at least Floor 29 after its [[familia-rank|B-rank]] promotion.[@fm20-target] [[lilliluka-erde|Lilliluka Erde]] reports that they must advance without an [[familia-coalition|alliance]] with another group.[@fm20-target]
 
 ## Floor 29 {#floor-29}
 
@@ -60,3 +60,5 @@
 [@fm20-bloodsaurus]: FM20 | Chapter 1: Orario Rumble | Bell’s thought about bloodsauruses arriving on floor 29 to find prey.
 [@fm20-next]: FM20 | Chapter 1: Orario Rumble | Lilly anticipates a possible future Guild demand to reach at least floor 31.
 [@fm20-floors-ja]: FM20 | Chapter 1: Orario Rumble | The Japanese edition names Floors 29 and 31 by their numbers; Floor 32 appears only as the end of the range from 29 to 32 (file J10, paragraph 328). It calls the region the Tangled Gorge, written in kanji meaning jungle gorge (file J10, paragraph 325); the infobox gives the forms.
+[@fm19-jungle-glens]: FM19 | Chapter 1: V-V-V for Victory Party | "The region beginning at the twenty-ninth floor is known as the Jungle Glens."; "It is a heavily forested area where bloodsauruses and other dinosaur-type monsters begin to appear. Level 3 is a requirement for survival there."
+[@fm20-gorge-routes]: FM20 | Chapter 1: Orario Rumble | "you could theoretically ignore the full layout of the Dungeon and just climb up a giant tree to move between floors"; "But the air is a hunting ground for galepteras and other winged monsters."; "there is a second main path through an underground cave system"; "But that route had its own highly poisonous monsters apparently."

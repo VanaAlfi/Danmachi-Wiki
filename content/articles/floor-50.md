@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Floor 50 is a Dungeon safe point containing an ashen forest, used by Loki Familia as an expedition base.",
   "aliases": ["Fiftieth Floor"],
-  "spoilers": "DanMachi Vol. 12 and Sword Oratoria Vols. 1–5",
+  "spoilers": "DanMachi Vol. 12 and Sword Oratoria Vols. 1–5 and 12",
   "related": ["dungeon", "safe-point", "floor-51", "loki-familia", "aiz-wallenstein", "floor-37", "guild", "lilliluka-erde", "aisha-belka"],
   "infobox": {
     "title": "Floor 50",
@@ -34,10 +34,11 @@ Blue streams branch among tall trees beneath faintly phosphorescent ceiling pill
 | Volume | Events |
 |---|---|
 | Sword Oratoria 1–2 | [[aiz-wallenstein|Aiz]] defeats a female caterpillar monster there, and [[loki-familia|Loki Familia]] abandons further descent after the Floor 50 battle.[@so02-recollection, so01-return] |
-| Sword Oratoria 3 | Caterpillar monsters are identified as inhabiting the vicinity of Floor 50.[@so03-monsters] |
+| Sword Oratoria 3 | Caterpillar monsters are identified as inhabiting the vicinity of Floor 50.[@so03-monsters] Monsters hosting the parasite from the orbs are found to mutate into behemoths nearly identical to the woman-shaped monster met on the floor.[@so03-floor50-orb] |
 | Sword Oratoria 4–5 | The next expedition reaches the campsite in about six days and later returns from [[floor-59|Floor 59]] for a brief rest before departing.[@so04-camp, so05-return] |
 | Sword Oratoria 5 | The female-shaped monsters fought on Floor 50 and [[floor-18|Floor 18]] have bodies as large as floor bosses and strength of at least Level 5.[@so05-comparison] |
 | DanMachi 12 | [[lilliluka-erde|Lilly]] says the [[guild|Guild]] restricts information from Floor 50 downward, while [[aisha-belka|Aisha]] says [[ishtar-familia|Ishtar Familia]] was also denied that information.[@fm12-information] |
+| Sword Oratoria 12 | The female form that appeared at the Floor 50 safe point is judged almost certainly the work of the [[corrupted-spirit|corrupted spirit]].[@so12-floor50-spirit] |
 
 
 [@so01-safe]: SO01 | Chapter 1: Loki Familia | An ashen forest and a safe floor where monsters are not born.
@@ -52,3 +53,5 @@ Blue streams branch among tall trees beneath faintly phosphorescent ceiling pill
 [@so04-exit]: SO04 | Last Chapter: To Adventure | The passage connecting the fiftieth and fifty-first floors, a steep slope inside the hole in the western wall.
 [@so05-comparison]: SO05 | Chapter 3: ⅓ Pure Passion | The female-shaped enemies fought on floors fifty and eighteen have floor-boss-sized bodies and power of at least Level 5. The Japanese edition (file c3JT, paragraph 585) gives their power as Level 5 or above.
 [@so01-floor50-ja]: SO01 | | The Japanese edition names the floor by its number; the infobox gives it.
+[@so03-floor50-orb]: SO03 | Chapter 1: The Black Robe’s Invitation | "Several of the flower monsters hosting the parasite had mutated into behemoths nearly identical to the spore-producing, corrosive-liquid-spewing, woman-shaped abomination they had encountered on the fiftieth floor."
+[@so12-floor50-spirit]: SO12 | Chapter 8: A Heroes' Chorus | "The female form that appeared at the safe point on the fiftieth floor: That was almost certainly the work of the corrupted spirit."

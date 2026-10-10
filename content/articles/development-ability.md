@@ -8,7 +8,7 @@
   "continuity": "light-novel",
   "summary": "Every Development Ability in the covered English novels in one place: how they are gained and ranked, the different English names the editions print for the same ability, and each ability's effect and holders, from the text and from the illustrated Status sheets.",
   "aliases": ["Development Ability", "Advanced Ability", "Advanced Abilities", "development ability", "Abnormal Resistance", "Immunity", "Resistance", "Hunter", "Luck", "Forge", "Blacksmith", "Smith", "Compounding", "Synthesize", "Synthesis", "Enigma", "Mystery", "Mage", "Magic Control", "Conjure", "Spirit Healing", "Regen", "Escape", "Successive Attacks", "Rapid Attacks", "Chain Attack", "Dive", "Drive", "Swordsman", "Knight", "Magic Resistance", "Magic Defense", "Pummel", "Punch", "Fracture", "Crush", "Healing Power", "Healing", "Bulwark", "Initiative", "Sturdy Body", "Conflagrate", "Slash", "Supreme Attack", "Supreme Light", "Speed", "Brawler", "Heavy Guard", "Lancer", "Heal", "Spirit Heal"],
-  "spoilers": "DanMachi Vols. 2–20, Sword Oratoria Vols. 1–14, Familia Chronicle Vols. 1–3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 2, 4–10, 12–15 and 17–20, Sword Oratoria Vols. 1–8 and 10–14, Familia Chronicle Vols. 1–3, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 1",
   "related": ["level", "status", "falna", "skills", "magic", "bell-cranell", "aiz-wallenstein", "welf-crozzo", "lilliluka-erde", "lefiya"],
   "infobox": {
     "title": "Development Abilities",
@@ -404,7 +404,7 @@ Some Skills and spells grant a Development Ability for a time, without it being 
 [@so01-aiz]: SO01 | Chapter 3: White Rabbit | Aiz: Hunter G, Immunity G, Knight I.
 [@so02-forge]: SO02 | Chapter 1: The Average Day | Forge; hammers glow red.
 [@so02-enigma]: SO02 | Chapter 2: Incident | Status Thief made with Enigma.
-[@so02-hashana]: SO02 | | Hashana's Immunity G.
+[@so02-hashana]: SO02 | Chapter 3: Gekai Detective Loki | Hashana's Immunity G.
 [@so03-aiz]: SO03 | Chapter 1: The Black Robe’s Invitation | Knight I→H; none at Level 5; Regen I at Level 6, only Riveria's until then.
 [@so03-talaria]: SO03 | Chapter 4: White-Haired Devil | Talaria, made with Enigma.
 [@so06-cards]: SO06 | Chapter 1: Quest Results & Next Quest | Aiz: Hunter G, Abnormal Resistance G, Swordsman H, Spirit Healing I; Lefiya: Mage H, Abnormal Resistance I.

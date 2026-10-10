@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Dungeon's first twelve floors, where Level 1 adventurers work: pale blue halls with goblins and kobolds on floors 1 to 4, green walls and the first real dangers on 5 to 7, grassy plains with wood-coloured walls on 8 and 9, and fog, dead-tree weapons and larger monsters on 10 to 12, where infant dragons serve as the bosses.",
   "aliases": ["Upper floors", "Upper Levels", "Upper dungeon", "Floors 1–12", "Floor 1", "Floor 2", "Floor 3", "Floor 4", "Floor 5", "Floor 6", "Floor 7", "Floor 8", "Floor 9", "Floor 10", "Floor 11", "Floor 12", "first floor", "second floor", "third floor", "fourth floor", "fifth floor", "sixth floor", "seventh floor", "eighth floor", "ninth floor", "tenth floor", "eleventh floor", "twelfth floor", "Beginning Road", "Onset Road", "Landform", "Landforms", "Blue papillon", "Blue Papilio"],
-  "spoilers": "DanMachi Vols. 1–4, 10, 11, 15, 16, 19, Sword Oratoria Vols. 1, 3–5, 9–12, Astrea Record Vol. 2 and Minor Myths and Legends Vols. 1 and 2",
+  "spoilers": "DanMachi Vols. 1–4, 10, 11, 13, 15, 16, 19, Sword Oratoria Vols. 1, 3–5, 9–12, Astrea Record Vol. 2 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["dungeon", "cave-labyrinth", "monsters", "babel", "guild", "level", "minotaur", "knossos"],
   "sections": [
     {"anchor": "floors-1-4", "title": "Floors 1–4", "summary": "The Dungeon's first four floors: pale blue halls entered through the Beginning Road under Babel, with goblins and kobolds, and no pantries on the first two floors.", "aliases": ["Floor 1", "Floor 2", "Floor 3", "Floor 4", "first floor", "second floor", "third floor", "fourth floor", "Beginning Road", "Onset Road", "Jackbird"]},
@@ -40,6 +40,7 @@ The **upper levels** (also the *upper floors*) are the first twelve floors of [[
 - **Size:** the Dungeon widens with depth. The fifth floor is about the size of [[central-park|Central Park]], and the narrow upper floors make a full expedition party "the very definition of a traffic jam".[@fm03-wider] Because there is less room and there are many more lower-class adventurers, people run into one another constantly.[@fm10-wide] For the same reason the [[xenos|Xenos]] avoid the floors above the tenth.[@so12-xenos]
 - **Light:** no sunlight reaches the Dungeon, yet it is always bright enough to see; the ceiling of the first floor is speckled with tiny lights like sparks.[@fm01-light]
 - **Accidents:** most accidents happen on floors 1 to 12. Eina's explanation, as Bell remembers it, is that the floors simply hold far more adventurers, so mistakes there are far more common.[@fm16-accidents, ss01-accidents]
+- **Ouranos's will:** in DanMachi 13 Jura Harma of [[rudra-familia|Rudra Familia]] concludes from five years of research that however much damage the upper levels take, the Dungeon does not let out its "wail", "or even so much as a warning", because the zone near the surface is heavily affected by the will of [[ouranos|Ouranos]]; so the monster he wants, the [[juggernaut|Juggernaut]], cannot be summoned there.[@fm13-upper-wail]
 - **Pantries:** every floor except the first two has two or three pantries, places where the Dungeon stores food for its monsters. They lie so far from the usual routes that adventurers seldom go to them.[@fm04-pantries, fm04-pantry]
 
 ### Recommended abilities {#abilities}
@@ -69,7 +70,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 
 - **The change:** "Everything changed on the fifth level." The walls turn green, the layout grows more complicated, and unpleasant monsters appear in larger numbers.[@fm02-fifth] Bell knows he has gone too far when the pale blue walls turn light green.[@fm02-green] Monsters are born from the walls much more often from the lower fifth floor down, and from the fifth floor the birthing interval is far shorter than on the fourth.[@fm01-births, fm02-fifth]
 - **The first obstacle:** many overconfident adventurers die here; for newcomers, floors 5 to 7 are "their first major obstacle".[@fm02-fifth]
-- **Monsters:** the sixth floor's [[monsters#war-shadow|war shadow]] (printed *Wall Shadow* in DanMachi 1) and the seventh floor's [[monsters#killer-ant|killer ant]] are each called a "newbie killer".[@fm01-sixth, fm02-ant] [[monsters#frog-shooter|Frog shooters]], [[monsters#purple-moth|purple moths]] and [[monsters#needle-rabbit|needle rabbits]] also live in the upper levels (see [[monsters#upper-levels|Monsters]]). The blue papillon, a rare butterfly monster, is said to appear on the lower seventh floor; in DanMachi 4 Bell and [[lilliluka-erde|Lilly]] wait for one in a pantry in the deepest corner of that floor.[@fm04-papillon]
+- **Monsters:** the sixth floor's [[monsters#war-shadow|war shadow]] (printed *Wall Shadow* in DanMachi 1) and the seventh floor's [[monsters#killer-ant|killer ant]] are each called a "newbie killer".[@fm01-sixth, fm02-ant] [[monsters#frog-shooter|Frog shooters]], [[monsters#purple-moth|purple moths]] and [[monsters#needle-rabbit|needle rabbits]] also live in the upper levels (see [[monsters#upper-levels|Monsters]]).[@so04-frog-shooters, fm04-papillon] The blue papillon, a rare butterfly monster, is said to appear on the lower seventh floor; in DanMachi 4 Bell and [[lilliluka-erde|Lilly]] wait for one in a pantry in the deepest corner of that floor.[@fm04-papillon]
 - **A place for magic:** mages test their spells on the fifth floor, since magic used on the surface could damage the city. [[lefiya|Lefiya]] keeps a cavern at the west end of the floor for her practice.[@ss02-magic, so04-lefiya]
 
 ## Floors 8–9 {#floors-8-9}
@@ -118,7 +119,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@ss01-twelfth]: SS01 | | "the twelfth, the last of what’s commonly known as the upper floors".
 [@ss01-thirteen]: SS01 | Is it Wrong to Fake an Accident to Try to Pick Up Girls in the Dungeon? | "the first of what people call the Dungeon’s middle floors".
 [@ss01-accidents]: SS01 | Is it Wrong to Fake an Accident to Try to Pick Up Girls in the Dungeon? | "many accidents occur on floors one through twelve"; "the sample size is simply much greater".
-[@fm16-accidents]: FM16 | | Story printed after the Afterword: "the rate of accidents is highest in the region between the first and twelfth floors".
+[@fm16-accidents]: FM16 | Bonus story | Story printed after the Afterword: "the rate of accidents is highest in the region between the first and twelfth floors".
 [@fm19-mist]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "The Dungeon’s twelfth floor is covered in a white mist."; "the last of the upper levels".
 [@fm19-rules]: FM19 | Chapter 3: School Life in Another World | "Only Level 2 parties are allowed to proceed to the tenth floor"; "It’s set much stricter than the Guild’s standards".
 [@fm19-road]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "The Dungeon’s first floor. The beginner’s road."
@@ -141,7 +142,7 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@fm02-lilly]: FM02 | Chapter 5: Reset | "Since leaving Bell behind"; "arriving on the eighth-level floor".
 [@fm01-floors]: FM01 | Chapter 2: That’s Why I Run | "Each floor bears different monsters."; "most stay on their birth floor"; "the deeper the floor, the stronger the monsters".
 [@fm01-light]: FM01 | Chapter 2: That’s Why I Run | "The ceiling of the first floor is speckled with tiny lights like sparks".
-[@fm01-lizard]: FM01 | | "It shows up on lower Levels Two though Four, same class as goblins and kobolds."
+[@fm01-lizard]: FM01 | Chapter 5: The Goddess's Prank | "It shows up on lower Levels Two though Four, same class as goblins and kobolds."
 [@fm01-minotaur]: FM01 | Chapter 1: World, Reality, and Desire | "on the lower fifth floor of the Dungeon"; "Minotaurs only show up on the lower fifteenth floor or lower".
 [@fm01-sixth]: FM01 | | "This is the lower-sixth-floor monster, “Wall Shadow.”"
 [@fm01-births]: FM01 | | "Here come the Wall Shadows, lots of them."; "the number of monsters born from the Dungeon walls dramatically increases from the lower sixth…no, lower fifth floor".
@@ -183,6 +184,8 @@ The [[school-district|School District]]'s own rules for its students are stricte
 [@fm03-minotaur]: FM03 | Chapter 4: The Meaning of Adventure | "We’re on the ninth floor"; "W-why is there a Minotaur on the ninth floor…?" The Japanese edition (file c3JP, paragraph 164) gives a wide floor with wood-coloured walls, overgrown with low grasses and flowers.
 [@fm04-minotaur]: FM04 | Prologue: Fastest Boy in the Alleys | "MINOTAUR SIGHTED IN UPPER LEVELS."; "But this Minotaur was spotted on the ninth level, meaning that it had somehow journeyed up from the Middle Fortress. The earliest floor where Minotaurs were usually encountered was the fifteenth, six floors below."; "The fact that this was not the first time a Minotaur had been seen in the upper levels was what really made the adventurers’ blood run cold."
 [@so04-ninth]: SO04 | Last Chapter: To Adventure | "lost in memories of the event she’d witnessed up on the ninth floor"; "The boy Bell had fought the great bull on the ninth floor."
-[@so05-gareth]: SO05 | | Printed heading "Chapter 2: Rabbit Rookie" (not in the evidence map): "I was with ye and the others in the rearguard while that young’un was workin’ his miracle on the ninth floor".
+[@so05-gareth]: SO05 | Chapter 2: Rabbit Rookie | "I was with ye and the others in the rearguard while that young’un was workin’ his miracle on the ninth floor".
 [@fm04-upper-ja]: FM04 | | The Japanese edition calls the region by the kanji for upper levels; the infobox gives it.
 [@fm10-road-ja]: FM10 | | The Japanese edition has one name for the way in, written the road of the beginning, in DanMachi 1, 10 and 19 and Sword Oratoria 4 and 9.
+[@so04-frog-shooters]: SO04 | First Chapter: And the Boy… | "They were on the Dungeon’s fifth floor."; "leaving the croaking mass of reptilian frog shooters nowhere to leap except straight at the less experienced elf"
+[@fm13-upper-wail]: FM13 | Chapter 5: Calamity Arrives | "First, no matter how much damage was inflicted on the upper levels, the Dungeon would not let out its “wail,” or even so much as a warning. This was because the zone near the surface was heavily affected by the will of Ouranos."; "Therefore, he determined, the monster could not be summoned to that area."

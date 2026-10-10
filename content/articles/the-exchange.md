@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The counters where adventurers sell magic stones and drop items for money. The Guild, the only body legally allowed to buy magic stones, runs Exchanges in its headquarters, its branches and Babel; in Rivira, adventurers run Exchange shops that buy cheaply and resell to the Guild.",
   "aliases": ["Exchange", "Exchanges", "Exchange counter", "Exchange room", "Exchange shop"],
-  "spoilers": "DanMachi Vols. 1, 2, 4, 5, 8, 19 and Sword Oratoria Vols. 1, 3, 6",
+  "spoilers": "DanMachi Vols. 1, 2, 4–8, 19 and Sword Oratoria Vols. 1, 3, 6",
   "related": ["guild", "magic-stone", "babel", "rivira", "bors", "soma-familia", "eina-tulle"],
   "infobox": {
     "title": "The Exchange",
@@ -67,7 +67,7 @@ Rivira has Exchange shops of its own (the Japanese narration calls them *buy-bac
 [@fm05-receipt]: FM05 | Chapter 4: Dungeon Resort? | "The opposite was true with the Exchange in Rivira."; payment by a written note issued by the shop.
 [@fm05-ja-receipt]: FM05 | Chapter 4: Dungeon Resort? | Japanese original (file part0021, paragraphs 675, 676 and 678): the shop side issues a written note, the same word as the purchase IOU of the previous lines, and has the seller claim from its own Familia; a note of debt, not proof of payment.
 [@fm05-bors]: FM05 | Chapter 6: Praise to the Heroes | "the strongest man in Rivira, the owner of Rivira’s Exchange".
-[@fm06-vals]: FM06 | | Printed heading "Chapter 2: Shall We Dance?" (not in the evidence map): "dual potions that normally cost tens of thousands of vals"; DanMachi 1 to 6 print the currency *vals*.
+[@fm06-vals]: FM06 | Chapter 2: Shall We Dance? | "dual potions that normally cost tens of thousands of vals"; DanMachi 1 to 6 print the currency *vals*.
 [@fm07-valis]: FM07 | Chapter 1: Smooth Sailing? | "the two-hundred-million-valis debt"; from DanMachi 7 on, and in the other series, the currency is printed *valis*.
 [@fm08-tax]: FM08 | Chapter 5: The City Girl’s Secret | "Normally we just take care of our drop items and magic stones at the Exchange located in Babel Tower"; "the familia tax levied by the Guild".
 [@fm19-squad]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "We can exchange magic stones at Babel, too…"; "A tiny little exchange spot is unbefitting of our triumphant return!"; Iglin.

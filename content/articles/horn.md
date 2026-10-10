@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Freya's attendant and head chamberlain, originally the mortal girl named Syr. Her magic Vana Seiðr lets her take Freya's or Syr's form; in DanMachi 17 she turns against Freya to save her.",
   "aliases": ["Nameless", "Helen"],
-  "spoilers": "DanMachi Vols. 16–20 and Familia Chronicle Vol. 2",
+  "spoilers": "DanMachi Vols. 7, 8 and 16–20, Sword Oratoria Vol. 11 and Familia Chronicle Vol. 2",
   "related": ["freya", "syr-flover", "freya-familia", "bell-cranell", "mia-grand", "the-benevolent-mistress"],
   "infobox": {
     "title": "Hörn",
@@ -30,9 +30,9 @@
 
 ## Name and position
 
-Hörn is allowed at Freya's side as more than a servant, and normally waits on her at [[babel|Babel]] or the Familia's home.[@fm16-chamberlain] She is an upper-class adventurer, but because Freya refused to let the gods give her a title she is called "Nameless".[@fm16-nameless]
+Hörn is allowed at Freya's side as more than a servant, and normally waits on her at [[babel|Babel]] or the Familia's home.[@fm16-chamberlain] Her long ashen hair covers the right half of her face.[@fm19-looks] She is an upper-class adventurer, but because Freya is said to have refused at [[denatus|Denatus]] to let the gods give her a title ("This child will never become anyone") she is called "Nameless".[@fm16-nameless]
 
-Familia Chronicle 2 prints the name *Helen* for Freya's attendant in the scenes about the exchange of names.[@fc02-helen] The Japanese edition gives her there the same name as in the later volumes, so *Helen* is Yen Press's rendering of Hörn.[@fc02-helen-ja]
+Familia Chronicle 2 prints the name *Helen* for Freya's attendant in the scenes about the exchange of names.[@fc02-helen] The Japanese edition gives her there the same name as in the later volumes, so *Helen* is Yen Press's rendering of Hörn.[@fc02-helen-ja] The same printing appears earlier, where Freya's attendant is called Helen ({{ja|ヘルン}} in the Japanese): in DanMachi 7 she reports Freya Familia's positions before the attack on [[ishtar-familia|Ishtar Familia]], in DanMachi 8 she takes Freya's robe in the army camp, and in Sword Oratoria 11 she gives [[aiz-wallenstein|Aiz]], battered by her training, a change of clothes and a damp cloth.[@fm07-helen, fm08-helen, so11-helen]
 
 ## Vana Seiðr
 
@@ -64,7 +64,7 @@ In DanMachi 19 Freya has formally pardoned her, but her former comrades make her
 > - How long Vana Seiðr lasts, its range and Mind cost, and whether it heals wounds or only hides them.[@fm17-senses, fm17-save]
 
 [@fm16-chamberlain]: FM16 | Chapter 1: A Stormy Love Letter | "The goddess's attendant, Hörn… the head chamberlain."
-[@fm16-nameless]: FM16 | | "Nameless".
+[@fm16-nameless]: FM16 | Chapter 1: A Stormy Love Letter | "Nameless".
 [@fm16-names]: FM16 | Chapter 6: The Wish’s Cost | The exchange of names; Vana Seiðr.
 [@fm16-attempt]: FM16 | Chapter 6: The Wish’s Cost | The attempt on Bell.
 [@fm17-prologue]: FM17 | Prologue: Super Orario RPG | Freya's account of Hörn and the Syr persona.
@@ -76,7 +76,7 @@ In DanMachi 19 Freya has formally pardoned her, but her former comrades make her
 [@fm17-between]: FM17 | Between Syr and Hörn | The others' disapproval.
 [@fm17-eye]: FM17 | Between Syr and Hörn | Feelings through her right eye.
 [@fm18-senses]: FM18 | Chapter 9: Flower Language for You | Vana Seiðr active while she lies unconscious.
-[@fm18-plea]: FM18 | | The plea that moves Mia.
+[@fm18-plea]: FM18 | Chapter 9: Flower Language for You | The plea that moves Mia.
 [@fm18-wake]: FM18 | Epilogue: Double Cast | Hörn wakes; her thanks to Bell.
 [@fm19-horn]: FM19 | Chapter 1: V-V-V for Victory Party | Pardon and atonement.
 [@fm20-horn]: FM20 | Chapter 1: Orario Rumble | Hörn at the tavern.
@@ -84,3 +84,7 @@ In DanMachi 19 Freya has formally pardoned her, but her former comrades make her
 [@fc02-helen-ja]: FC02 | | The Japanese edition names Freya's attendant in the scenes about the exchange of names with the same name as in the later volumes.
 [@fm16-horn-ja]: FM16 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
 [@fm16-nameless-ja]: FM16 | | The Japanese edition writes Nameless in kanji meaning the nameless envoy of the goddess, with the reading Nameless; the Title row gives the kanji.
+[@fm07-helen]: FM07 | Chapter 5: Killing Stone | "Ottar has taken up position on Daedalus Street. Allen and Grale have infiltrated the Pleasure Quarter."; "Thank you, Helen." (the Japanese edition, p195, writes {{ja|ヘルン}})
+[@fm08-helen]: FM08 | Chapter 5: The City Girl's Secret | "removed her robe and gave it to a human girl inside the largest tent in the facility"; "said the goddess as her follower gave a deep bow before leaving the tent" (the Japanese edition, p825, writes {{ja|ヘルン}})
+[@so11-helen]: SO11 | Chapter 3: The True Face of a God | "The girl named Helen, who was attending to Freya, had refused to let it pass and given her a change of clothes and a damp cloth to wash herself with" (the Japanese edition writes {{ja|ヘルン}}, as in p160)
+[@fm19-looks]: FM19 | Chapter 1: V-V-V for Victory Party | "Her long ashen hair is covering the right half of her beautiful face"

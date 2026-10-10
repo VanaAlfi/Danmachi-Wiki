@@ -31,7 +31,7 @@
 
 Daphne first appears with Cassandra, delivering Apollo's invitation to [[bell-cranell|Bell]]; [[eina-tulle|Eina]] identifies both as Level 2, third-tier adventurers.[@fm06-intro] She had been conscripted into the Familia by force, after Apollo chased her and Cassandra from city to city until they gave in. She thinks less of Apollo than members like [[hyacinthus|Hyacinthus]] do, but he treats her well, and she follows his orders out of a sense of duty.[@fm06-chased, fm06-conscripted] In Apollo's hunt for Bell she leads a team across the rooftops, sympathising with the boy even as she pursues him.[@fm06-hunt] DanMachi 13 says she had been pushed into the role of commander in [[apollo-familia|Apollo Familia]].[@fm13-commander]
 
-At [[geography#ruins-near-orario-shreme-castle-ruins|Shreme Castle]] before the [[war-game|War Game]] she keeps the other members at the wall repairs, and dismisses Cassandra's warning that the castle will fall as "another dream".[@fm06-castle]
+At [[geography#ruins-near-orario-shreme-castle-ruins|Shreme Castle]] before the [[war-game|War Game]] she keeps the other members at the wall repairs, and dismisses Cassandra's warning that the castle will fall as "another dream".[@fm06-castle] In the War Game she and eight other adventurers hold the end of the sky bridge before the main tower's only entrance as the last line of defence; suspecting that Luan has betrayed them (in fact [[lilliluka-erde|Lilly]] had taken his place), she has her archers and mages fire down the bridge as Bell and [[welf-crozzo|Welf]] cross it, and when Bell breaks through, Welf stays to fight her.[@fm06-daphne-war-game, fm06-daphne-luan-lilly]
 
 ## Joining Miach Familia
 
@@ -52,6 +52,23 @@ Against [[hegni|Hegni]] she holds on far longer than expected because of her rar
 ## Status sheet
 
 Her illustrated Status sheet in DanMachi 14 (Level 2) lists her magic [[#raumure|Raumure]] and two Skills, [[skills#helios-passion|Helios Passion]] and Laurel Wreath.[@sheet.fm14-daphne] It also describes her shortsword, Fencer Laureate, which Apollo had specially ordered for her. The sheet adds that she feels no loyalty to Apollo, and that her feelings about him are complicated: somewhat grateful, but hating him more.[@sheet.fm14-daphne]
+
+{{nocite}} One tab per Level, each copying an illustrated Status sheet, a picture printed in the book, as read in the English and the Japanese edition: ability names, grade letters and numbers as printed.
+
+{{tabs|status-sheet}}
+{{tab|Level 2}}
+| Ability | As printed in DanMachi 14, illustrated sheet, p. 165[@sheet.fm14-lv2] |
+|---|---|
+| Strength | D505 |
+| Defense | E478 |
+| Dexterity | B707 |
+| Agility | C698 |
+| Magic | F370 |
+| Immunity | I |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[#raumure|Raumure]] and the Skills [[skills#helios-passion|Helios Passion]] and [[skills#laurel-wreath|Laurel Wreath]].[@sheet.fm14-lv2]
+
+{{/tabs}}
 
 ## Appearance
 
@@ -92,7 +109,7 @@ Her DanMachi 14 Status sheet (Level 2) words it as protection magic that increas
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Which deity Raumure reminds her of, which is why she dislikes using it.[@raumure.fm14-cast]
 
-[@fm06-intro]: FM06 | | Delivering Apollo's invitation; Eina: "Daphne Laulos and Cassandra Illion. Level Two, third-tier adventurers."
+[@fm06-intro]: FM06 | Chapter 2: Shall We Dance? | Delivering Apollo's invitation; Eina: "Daphne Laulos and Cassandra Illion. Level Two, third-tier adventurers."
 [@fm06-chased]: FM06 | Chapter 3: Outbreak | Daphne: Apollo "chased us… City to city, country to country".
 [@fm06-conscripted]: FM06 | Chapter 3: Outbreak | Forcefully conscripted; less favourable opinion of Apollo; follows orders from duty.
 [@fm06-hunt]: FM06 | Chapter 3: Outbreak | Leads a team against Bell; "He should give up."
@@ -120,3 +137,6 @@ Her DanMachi 14 Status sheet (Level 2) words it as protection magic that increas
 [@fm18-laurus]: FM18 | Chapter 8: The Great Familia War | "What are you doing, Laurus Fuga?!"; the party seeks "a decision from their commander".
 [@fm19-laurus]: FM19 | Chapter 1: V-V-V for Victory Party | Ouka: "We were simply following Laurus Fuga’s order to let the enemy cut us down".
 [@fm06-daphne-ja]: FM06 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm06-daphne-war-game]: FM06 | Chapter 5: Our War Game | "Daphne, along with only eight other adventurers, stood at the end of the sky bridge as the last line of defense."; "Luan…betrayed us…?"; "It was believable"; "Archers to the front! They have nowhere to run—shoot everything you’ve got! Mages, fire on my command!"; "Welf’s and Daphne’s blades flashed"
+[@fm06-daphne-luan-lilly]: FM06 | Chapter 5: Our War Game | "The real Luan had been captured almost four days ago on the night that Apollo Familia first set out to the castle ruins."; "Lilly had taken his place, copying his voice and mannerisms to the point that no one noticed a difference."
+[@sheet.fm14-lv2]: FM14 | | Illustrated Status sheet, p. 165 (Level 2; image Art_P165.jpg): Strength D505, Defense E478, Dexterity B707, Agility C698, Magic F370, Immunity I; Magic Raumure; Skills Helios Passion and Laurel Wreath. The Japanese edition's sheet (file c5ET, image image_rsrcDRE.jpg, p. 219) prints the same values.

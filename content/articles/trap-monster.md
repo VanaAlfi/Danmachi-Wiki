@@ -22,7 +22,7 @@
   }
 }
 ---
-**Trap monsters** include an ambushing bloody hive, a living pitfall and an immobile Grand Treant.[@fm12-hive, so05-body, so12-tree] The bloody hive hides inside a hollow and bursts through [[dungeon|the Dungeon]]'s wall when prey approaches, while living with [[monsters#deadly-hornet|deadly hornet]] monsters.[@fm12-hive] The trap monster encountered by [[bell-cranell|Bell Cranell]] and [[lefiya|Lefiya Viridis]] is itself a pitfall, with dissolving liquid and flesh walls without handholds.[@so05-body]
+**Trap monsters** include an ambushing bloody hive, a living pitfall and an immobile Grand Treant.[@fm12-hive, so05-body, so12-tree] The bloody hive hides inside a hollow and bursts through [[dungeon|the Dungeon]]'s wall when prey approaches, while living with [[monsters#deadly-hornet|deadly hornet]] monsters.[@fm12-hive] The trap monster encountered by [[bell-cranell|Bell Cranell]] and [[lefiya|Lefiya Viridis]] is itself a pitfall, with dissolving liquid and flesh walls without handholds.[@so05-body] Lefiya recognises it as one of the brightly [[colored-monsters|colored monsters]], "a brethren of the creatures born of the corrupted spirit".[@so05-trap-kin] The two robed [[evils|Evils]] associates whose trap it was call it [[monsters#briefly-named|Venenthes]]: "You defeated Venenthes?!"[@so05-trap-venenthes]
 
 ## Occurrences by volume {#occurrences-by-volume}
 
@@ -42,3 +42,5 @@
 [@so09-return]: SO09 | Chapter 2: A Brief Calm | The trap-monster encounter is recalled at the blue crystal grove, and Loki Familia returns to investigate.
 [@so12-tree]: SO12 | Chapter 5: Final War | Grand Treant is an immobile trap-type tree monster and the suggested host of the spirit pillar.
 [@so05-trap-ja]: SO05 | Chapter 3: ⅓ Pure Passion | The Japanese edition writes the Sword Oratoria 5 monster's name in kanji meaning underground gatekeeper, with the reading trap monster (file c3JT, paragraph 513), and calls it the guardian of the forest (file c5A6, paragraph 92); the bloody hive and the Grand Treant are trap-type monsters. Printed "Guardian of the Forest".
+[@so05-trap-kin]: SO05 | Chapter 3: ⅓ Pure Passion | "brightly colored ones"; "a brethren of the creatures born of the corrupted spirit"; "its body was the pitfall itself"
+[@so05-trap-venenthes]: SO05 | Chapter 3: ⅓ Pure Passion | "You defeated Venenthes?!"; "taken down the trap monster waiting for them inside"

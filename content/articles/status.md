@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The record a god writes on a follower's back through the Falna: Level, basic abilities, Development Abilities, magic and Skills. It changes only when the god updates it.",
   "aliases": ["Status update"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1, 6, 9, 11–13, Familia Chronicle Vols. 1 and 3 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 1, 2, 4, 8, 10, 15, 17, 18 and 20, Sword Oratoria Vols. 1, 6, 9, 11–13, Familia Chronicle Vols. 1 and 3 and Minor Myths and Legends Vol. 1",
   "related": ["falna", "level", "development-ability", "skills", "bell-cranell", "hestia"],
   "sections": [
     {"anchor": "update-sheet", "title": "Update sheet", "summary": "An update sheet is a paper record of updated Status that an adventurer can read.", "aliases": ["Update sheets", "Update paper", "Status update sheet", "Status update paper", "Updated parchment"]}
@@ -42,7 +42,7 @@ The names of the basic abilities vary slightly in print: Bell's early cards list
 
 ## Updates
 
-A Status does not change by itself. The god must update it, turning the excelia the follower has gathered into higher values.[@fm01-status, fm01-excelia] When a Level Up becomes possible, the god performs it during an update, and the visible values of the basic abilities reset.[@fm18-sheet, fm04-hidden]
+A Status does not change by itself. The god must update it, turning the excelia the follower has gathered into higher values.[@fm01-status, fm01-excelia] The god's ichor makes the hieroglyphs on the follower's back visible; the god finds the faded characters and numbers and writes new ones over them, then locks the Status again. Only one follower can be updated at a time, so a large Familia has to take turns.[@so01-status-update] When a Level Up becomes possible, the god performs it during an update, and the visible values of the basic abilities reset.[@fm18-sheet, fm04-hidden]
 
 An example of how a printed update looks is Bell's last update at Level 4, in DanMachi 18:[@fm18-sheet]
 
@@ -56,9 +56,9 @@ An example of how a printed update looks is Bell's last update at Level 4, in Da
 
 [[hestia|Hestia]] then raises him to Level 5, and all five abilities start again from I 0.[@fm18-sheet]
 
-Under the rules of the Familia War in DanMachi 18, gods may update their followers during the battle, and Hestia and [[miach|Miach]] do so.[@fm18-wargame]
+In the Familia War of DanMachi 18, [[miach|Miach]] proposes that the gods update their followers' Statuses during the battle, at the risk of being knocked out of the game, and he and Hestia do so.[@fm18-wargame]
 
-Some adventurers have their Status updated under contract rather than as ordinary members: [[runoa|Runoa]] with [[demeter|Demeter Familia]] and [[chloe|Chloe]] with [[njordr|Njörðr]], in Familia Chronicle 1.[@fc01-contracts]
+Some adventurers have their Status updated under contract rather than as ordinary members: [[runoa|Runoa]] with [[demeter|Demeter Familia]] and [[chloe|Chloe]] with [[njordr|Njörðr]], in Familia Chronicle 1.[@fc01-contracts] A Status can also be sealed: the Status of a follower whose god is no longer in the mortal world is sealed, and [[soma|Soma]] seals [[zanis-lustra|Zanis]]'s Status as a punishment.[@fm08-status-sealed, fm10-status-sealed] A god who releases a follower can instead leave the Status unsealed, as [[phobos|Phobos]] does for [[welf-crozzo|Welf]], so that the follower can convert to another god.[@fm15-status-unsealed]
 
 ## Update sheet {#update-sheet}
 
@@ -95,14 +95,14 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 [@fm01-magic]: FM01 | Chapter 1: World, Reality, and Desire | At most three magics.
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm02-privacy]: FM02 | | Status is private; Level and Familia are reported to the Guild.
-[@fm04-hidden]: FM04 | | Values reset at Level Up; hidden parameter.
-[@fm04-choice]: FM04 | | One Development Ability per Level Up.
+[@fm04-hidden]: FM04 | Chapter 1: Denatus | Values reset at Level Up; hidden parameter.
+[@fm04-choice]: FM04 | Chapter 1: Denatus | One Development Ability per Level Up.
 [@fm04-argonaut]: FM04 | Chapter 1: Denatus | Argonaut on Bell's Level 2 card.
 [@fm04-utility]: FM04 | Chapter 1: Denatus | Bell's Level 2 card lists Utility.
 [@fm08-lock]: FM08 | Chapter 2: The Prum’s Proposal | Status lock.
-[@fm17-snitch]: FM17 | | Status Thief, Status Snitch and Freya's emblem.
+[@fm17-snitch]: FM17 | Chapter 2: Alone Inside a Sandbox | Status Thief, Status Snitch and Freya's emblem.
 [@fm18-sheet]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Bell's last Level 4 update and his Level 5 card.
-[@fm18-wargame]: FM18 | | Updates allowed during the Familia War.
+[@fm18-wargame]: FM18 | Chapter 9: Flower Language for You | "update our kids’ statuses"; "we have to avoid being knocked out of the game, too"; "Miach was updating his follower’s status under cover"; "moving to update his status".
 [@so01-status]: SO01 | Chapter 2: Dungeon Confusion | The parts of a Status. The Japanese edition (file cX0, paragraph 84) lists the Level, the five basic abilities and special and unique abilities such as magic and Skills, and says the Level Up raises power far more than the abilities' gains.
 [@fc01-thief]: FC01 | Crush the Grand Casino! | A Status Thief exposes the real name and patron god.
 [@fc01-contracts]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Status-update contracts.
@@ -120,3 +120,7 @@ A Status is private. Only Level and Familia are reported to the [[guild|Guild]].
 [@ss01-bell]: SS01 | | Bell takes his update sheet back to his companions.
 [@so06-tiona]: SO06 | Chapter 1: Quest Results & Next Quest | Tiona holds the update paper received from Loki; the English prints "updated parchment".
 [@so12-update-sheet-ja]: SO12 | Chapter 4: Nameless Heroes | The Japanese edition writes the term in kanji meaning update paper (file c1PZ, paragraph 336).
+[@so01-status-update]: SO01 | Chapter 3: White Rabbit | "The ichor rippled through the epitaph, creating a wave that expanded from Aiz’s back—her Status was exposed."; "Loki looked through the series of hieroglyphs to find any faded characters or numbers and wrote new ones over them."; "However, this could be done only one at a time."; "Loki reversed the process, the red light fading before she locked the Status again, hiding it from view."
+[@fm08-status-sealed]: FM08 | Chapter 6: A Certain Goddess's Love Song | "The Status on his back had been sealed due to the fact that his goddess was no longer in this realm"
+[@fm10-status-sealed]: FM10 | Chapter 9: Dreams of Beasts | "His Status sealed by Soma as punishment, the man now spent his days confined in the holding cell."
+[@fm15-status-unsealed]: FM15 | Chapter 5: Blue Flame | "It means you can convert to another deity whenever you like."; "she hadn’t sealed his Status away but had rather left his improved abilities as they were"

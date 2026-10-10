@@ -56,7 +56,7 @@
 [@fm07-renovation]: FM07 | Chapter 1: Smooth Sailing? | The renovation by Goibniu Familia; "a deity of smithing and architecture"; construction jobs; Lilly's wrist bow gun designed for prums; four days; "a rather stout body, not much different from a dwarf’s".
 [@fm07-fast]: FM07 | Chapter 1: Smooth Sailing? | "Well, that’s Goibniu Familia for you—fast and efficient."
 [@fm08-mikoto]: FM08 | | Takemikazuchi's black and white short swords for Mikoto; "Goibniu Familia’s signature was carved into each".
-[@fm19-interns]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): "We were interning with Goibniu Familia and failed again! We can’t pass no matter what we make!"
+[@fm19-interns]: FM19 | Chapter 5: My Dream | "We were interning with Goibniu Familia and failed again! We can’t pass no matter what we make!"
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "the orichalcum doors found throughout Knossos would almost all be stripped down with the help of Goibniu Familia and reused for the Shaft plan".
 [@so01-workshop]: SO01 | Chapter 3: White Rabbit | A district between North Main and Northwest Main; simplicity and fortitude; custom orders; three hammers on the door; Urga and its adamantite.
 [@so01-goibniu]: SO01 | Chapter 3: White Rabbit | The old-looking, dwarf-like god; orders through him; Desperate a Durandal; the replacement rapier; Arcanum sealed. The Japanese edition (file c31J, paragraphs 344–345 and 361) gives him a wrinkled, well-featured face with a high nose, white hair and a white beard, and has him say that a lesser weapon would soon be worn out.
@@ -70,4 +70,4 @@
 [@fc02-ottar]: FC02 | The Origin of the Strongest | The custom sword from Goibniu Familia; Udaeus Black Sword.
 [@ar01-hephaistos]: AR01 | Chapter 9: The Opening Act of Evil | "Now, what about you, Goibniu?"; his home in the northwest of town.
 [@ar03-captain]: AR03 | Prologue: Last Intermission | "Made from a branch of the holy tree, just as you requested,"; "replied the forgemaster, captain of Goibniu Familia"; "It works perfectly as a sword, of course, but you can also use it like a staff to amplify the power of your magic."
-[@ar03-lyu]: AR03 | | The wooden sword from a branch of the holy tree; the captain of Goibniu Familia; Goibniu as substitute mage; a rush job.
+[@ar03-lyu]: AR03 | Prologue: Last Intermission | The wooden sword from a branch of the holy tree; the captain of Goibniu Familia; Goibniu as substitute mage; a rush job.

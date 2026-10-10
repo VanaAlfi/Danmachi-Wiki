@@ -20,7 +20,7 @@
       {"section": "Adventurer"},
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]]", "refs": ["so04-second", "so07-losses"]},
       {"label": "Role", "value": "Healer", "refs": ["so05-healer", "so07-knossos"]},
-      {"label": "Rank", "value": "Counted among the second-tier members (Sword Oratoria 4)", "refs": ["so04-second"]},
+      {"label": "Rank", "value": "Counted among the members of the second tier and below (Sword Oratoria 4)", "refs": ["so04-second"]},
       {"label": "Status", "value": "Killed in [[knossos|Knossos]] (Sword Oratoria 7)", "refs": ["so07-losses", "so08-death"]},
       {"label": "Grave", "value": "The Adventurers Graveyard", "refs": ["ss02-grave"]}
     ]
@@ -41,9 +41,9 @@ Sword Oratoria 8 recalls an expedition five years earlier, when the tail end of 
 
 ## Death in Knossos
 
-On Loki Familia's first venture into Knossos, Leene is among the healers brought along for support.[@so07-knossos] A trap divides the party.[@ss02-aiz] [[valletta|Valletta]] finds her leading a group of badly wounded companions, encouraging them and lending one her shoulder; the sight fills Valletta with sadistic glee.[@so07-valletta] Riveria lists seven dead or missing: [[minor-characters#lloyd|Lloyd]], Crea, [[minor-characters#anju|Anju]], [[minor-characters#liza|Liza]], [[minor-characters#kalos|Kalos]], Remilia and Leene.[@so07-losses]
+On Loki Familia's first venture into Knossos, Leene is among the healers brought along for support.[@so07-knossos] A trap divides the party.[@ss02-aiz] [[valletta|Valletta]] finds her with a group of badly wounded companions who are likely still alive thanks to her; she lends one her shoulder and encourages the rest, and the sight fills Valletta with sadistic glee.[@so07-valletta] Riveria lists seven dead or missing: [[minor-characters#lloyd|Lloyd]], Crea, [[minor-characters#anju|Anju]], [[minor-characters#liza|Liza]], [[minor-characters#kalos|Kalos]], Remilia and Leene.[@so07-losses]
 
-The prologue of Sword Oratoria 8 returns to that battle: [[aiz-wallenstein|Aiz]] finds her dying with a cursed dagger in her ribs. Bete laughs at her: weaklings only get in the way, her death is pointless, and she should never come out of her hole again. Then he mutters something only Aiz hears, and Leene dies with the faintest trace of a smile.[@so08-death] Minor Myths and Legends 2 tells the scene from Leene's side. She understood that he was doing his duty as one of the strong, and his last words to her were "How many times have your hands saved me? You've done enough."[@ss02-memory]
+The prologue of Sword Oratoria 8 returns to that battle: [[aiz-wallenstein|Aiz]] finds her dying with a cursed dagger in her ribs. Bete laughs at her: weaklings only get in the way, her death is pointless, and she should never come out of her hole again. Then he mutters last words under his breath; Aiz hears them, and Leene dies with the faintest trace of a smile.[@so08-death] Minor Myths and Legends 2 tells the scene from Leene's side. She understood that he was doing his duty as one of the strong, and his last words to her were "How many times have your hands saved me? You've done enough."[@ss02-memory]
 
 The rest of the Familia takes his scorn at face value, and Riveria notes these are the first deaths since Lefiya's generation joined.[@so08-death, so08-first] Once Bete's past is explained, [[raul-nord|Raul]] realises he was saying the same thing to Leene and the others: that, even after they were reborn, they should never lose again.[@so08-raul]
 
@@ -63,11 +63,11 @@ The rest of the Familia takes his scorn at face value, and Riveria notes these a
 
 [@so04-second]: SO04 | Last Chapter: To Adventure | Raul, Aki, Leene and the other members of the second tier and below (the Japanese edition, file c4NY).
 [@so04-braids]: SO04 | Last Chapter: To Adventure | "Leene raised the question, her braided pigtails dangling behind her."
-[@so05-bath]: SO05 | | Leene's long hair, normally done up in braids.
-[@so05-healer]: SO05 | | Riveria, Leene and the other healers caring for the wounded; her healing duties; her glasses.
+[@so05-bath]: SO05 | Prologue: A Moment of Water and Rest | Leene's long hair, normally done up in braids.
+[@so05-healer]: SO05 | Chapter 2: Rabbit Rookie | Riveria, Leene and the other healers caring for the wounded; her healing duties; her glasses.
 [@so06-grate]: SO06 | Chapter 3: Kingdom of the Amazons | Aki and Leene checking the mythril grate on the sewer outflow.
-[@so06-tiona]: SO06 | | "Just healing her took considerable time."; "All thanks to you, Leene!"
-[@so07-bete]: SO07 | | "…Mister Bete, I suppose."; the bespectacled girl, braided hair; "he can be quite gallant".
+[@so06-tiona]: SO06 | Chapter 6: War’s End | "Just healing her took considerable time."; "All thanks to you, Leene!"
+[@so07-bete]: SO07 | Chapter 1: Orario Now | "…Mister Bete, I suppose."; the bespectacled girl, braided hair; "he can be quite gallant".
 [@so07-knossos]: SO07 | Chapter 2: Dungeon Trap | "Leene, one of the healers who’d been brought along for support".
 [@so07-valletta]: SO07 | Chapter 5: Battle of Tears | The healer in glasses supporting her wounded companions; "Leene…it’s…fine…Leave me…"; Valletta's glee.
 [@so07-losses]: SO07 | Chapter 5: Battle of Tears | "Seven dead, including those who’ve gone missing. Lloyd, Crea, Anju, Liza, Kalos, Remilia, and…Leene."

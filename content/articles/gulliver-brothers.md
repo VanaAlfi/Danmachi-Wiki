@@ -34,16 +34,16 @@ DanMachi 16 introduces them as "four identical prums", named in order of age.[@f
 
 | Brother | Weapon |
 |---|---|
-| Alfrik | Spear[@fm16-weapons] |
-| Dvalinn | Hammer[@fm16-weapons] |
-| Berling | Axe[@fm16-weapons] |
-| Grer | Greatsword[@fm16-weapons] |
+| Alfrik | Spear[@fm16-weapons, ar01-spear] |
+| Dvalinn | Hammer[@fm16-weapons, fc02-weapons] |
+| Berling | Axe[@fm16-weapons, fc02-weapons] |
+| Grer | Greatsword[@fm16-weapons, fc02-weapons] |
 
 They joined Freya Familia after [[hegni|Hegni]] and [[hedin|Hedin]] and before [[allen-fromel|Allen]] and [[anya-fromel|Anya]].[@fc02-origin] During the [[great-conflict|Great Conflict]] of Astrea Record 1 they were Level 4; by Familia Chronicle 2 they are Level 5.[@ar01-levels, fc02-bringar]
 
 ## Background {#background}
 
-Familia Chronicle 2 tells their past. The four were born in an industrial city and lost their parents early.[@fc02-past-g] They made their living as craftsmen who together could make "most anything a client might order", from bracelets and earrings to gold- and silverwork, but their dwarf master kept them hidden and "treated them unfairly because they were prums".[@fc02-past-g] [[freya|Freya]] came across one of their works, visited their workshop and ordered a necklace from them. She bargained with the master for their release; when he told them that her price had been four nights with him, the brothers killed him in a rage. Freya told them that "what I really wanted…was you", and they swore allegiance to her.[@fc02-past-g]
+Familia Chronicle 2 tells their past. The four were born in an industrial city and lost their parents early.[@fc02-past-g] They made their living as craftsmen who together could make "most anything a client might order", from bracelets and earrings to gold- and silverwork, but their dwarf master kept them hidden and "treated them unfairly because they were prums".[@fc02-past-g] [[freya|Freya]] came across one of their works, visited their workshop and ordered a necklace from them. She bargained with the master for their release; when he told them that her price had been four nights with him, the brothers killed him in a rage. Freya told them that "what I really wanted…was you", and they swore allegiance to her.[@fc02-past-g] They named the necklace, their "ultimate masterpiece", Bringar, the name by which the four of them are known.[@fc02-bringar-necklace]
 
 ## Teamwork and character {#character}
 
@@ -60,27 +60,27 @@ In [[ali|Ali]]'s war of Familia Chronicle 2 the brothers act as Freya's guards a
 | Astrea Record 1 | Alfrik and Hedin have studied old battles in the Guild library, and so recognise [[minor-familias#osiris-familia|Osiris Familia]] among the Evils' fighters.[@ar01-library] |
 | Astrea Record 3 | Driven back by [[basram|Basram]]'s spirit soldiers.[@ar03-basram] At the Amphitheatrum they destroy the four spirit warriors at Basram's side, Alfrik cuts off the arm holding his staff, and Alfrik's spear kills the transformed Basram.[@ar03-basram-end] |
 | Familia Chronicle 2 | In [[ali|Ali]]'s war in the Kaios Desert they rampage through Warsa's army.[@fc02-desert] |
-| Sword Oratoria 4 | With Allen, they keep [[loki-familia|Loki Familia]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]].[@so04-bringar] |
+| Sword Oratoria 4 | Masked in black armour, they and Allen ambush [[aiz-wallenstein|Aiz]] by night in a back alley as "a warning", telling her to keep out of the way, while other black-clad attackers set on [[bell-cranell|Bell]] and [[hestia|Hestia]].[@so04-bringar] |
 | Sword Oratoria 12 | Join the final battle: they take the [[equipment#spirit-cloth|spirit flag]]s from [[tsubaki|Tsubaki]] and Loki Familia and charge through the enemy's magic, which "Those four small frames nullified" by working as one.[@so12-flags-g] |
 | DanMachi 16 | During the festival they defeat Anya, [[chloe|Chloe]] and [[runoa|Runoa]], who are protecting the false [[syr-flover|Syr]].[@fm16-fight] |
 | DanMachi 17 | Alfrik catches [[lilliluka-erde|Lilly]] by the arm.[@fm17-alfrik] When Freya's charm breaks, the brothers face [[gareth|Gareth]], calling him a "Washed-up old dwarf".[@fm17-gulliver] |
-| DanMachi 18 | In the Familia War, Lilly uses [[magic#cinder-ella|Cinder Ella]] to pass as Berling and breaks their coordination. Chloe defeats Dvalinn, and Runoa, with [[haruhime|Haruhime]]'s Level Boost, defeats Grer.[@fm18-command, fm18-dvalinn, fm18-grer] |
+| DanMachi 18 | In the Familia War, Lilly uses [[magic#cinder-ella|Cinder Ella]] to pass as Berling and breaks their coordination. Chloe defeats Dvalinn, and Runoa, with [[haruhime|Haruhime]]'s Level Boost, defeats Grer.[@fm18-command, fm18-dvalinn, fm18-grer] Nahza keeps Berling from rejoining his brothers and Mikoto's quick-draw fells him; Aisha's magic blade then brings down Alfrik, but he rises again, takes up his fallen brothers' weapons and fights on, and Runoa and Chloe cannot defeat him.[@fm18-alfrik-stand] |
 | DanMachi 19 | Work as waiters at [[the-benevolent-mistress|The Benevolent Mistress]], wearing white aprons over their armour.[@fm19-aprons] |
 
 ## Name
 
-Sword Oratoria 12 prints the family name once as *Gullivar* ("Alfrik Gullivar").[@so12-flags-g]
+Sword Oratoria 12 prints the family name as *Gullivar* ("Alfrik Gullivar", "the Gullivar brothers").[@so12-flags-g]
 
 [@fc02-bringar]: FC02 | Ali and the 8 Followers | Quadruplet prums; Bringar; Level 5; the best teamwork.
 [@fc02-origin]: FC02 | The Origin of the Strongest | Order in which the executives joined.
 [@ar01-levels]: AR01 | Chapter 11: Absolute Evil | The Gullivers at Level 4.
 [@so04-bringar]: SO04 | First Chapter: And the Boy… | Vana Freya and Bringar.
 [@fm16-teamwork]: FM16 | Chapter 6: The Wish’s Cost | Level 5 each; teamwork equal to a Level 6: "Despite being only Level 5, many considered them collectively to be the equals of any Level 6 adventurer."; "in unison without words or even glances".
-[@fm16-weapons]: FM16 | | Their names and weapons.
+[@fm16-weapons]: FM16 | Chapter 6: The Wish's Cost | Their names and weapons.
 [@fm16-fight]: FM16 | Chapter 6: The Wish’s Cost | The fight with Anya, Chloe and Runoa.
 [@fm18-command]: FM18 | Chapter 9: Flower Language for You | Lilly against the Bringar.
-[@fm18-dvalinn]: FM18 | | Chloe defeats Dvalinn.
-[@fm18-grer]: FM18 | | Runoa defeats Grer.
+[@fm18-dvalinn]: FM18 | Chapter 9: Flower Language for You | Chloe defeats Dvalinn.
+[@fm18-grer]: FM18 | Chapter 9: Flower Language for You | Runoa defeats Grer.
 [@fm19-aprons]: FM19 | Chapter 1: V-V-V for Victory Party | "their usual imposing sand-colored armor and helmets"; white aprons over their armour.
 [@fm16-names]: FM16 | Chapter 1: A Stormy Love Letter | "four identical prums"; "In order of age, Alfrik, Dvalinn, Berling, and Grer".
 [@fc02-past-g]: FC02 | Their Various Pasts | "born in an industrial city"; "Their parents died early"; "most anything a client might order"; "treated them unfairly because they were prums"; "Four nights’ worth, one for each of ya"; "the four brothers always knew what the others were thinking"; "what I really wanted…was you"; "The Gulliver brothers swore allegiance to her."
@@ -99,3 +99,7 @@ Sword Oratoria 12 prints the family name once as *Gullivar* ("Alfrik Gullivar").
 [@fc02-bait]: FC02 | Ali and the 8 Followers | "Dvalinn, Berling, you two guide them toward Leodo."; "Grer with his greatsword was left with the eldest brother."; "Alfrik and the others guarding the perimeter around Leodo have wiped out all of the Warsa forces in the vicinity."
 [@fc02-sindh]: FC02 | Ali and the 8 Followers | "their voices overlapping despite being so far away from each other, as if they were telepathic"; "the fourth division and reserve forces were cornered by a catman and four prums".
 [@fm16-gulliver-ja]: FM16 | | The Japanese edition prints the family name in katakana with the word for brothers, and writes their title in kanji meaning four warriors of flame and gold, with the reading Bringar; the infobox gives the printed name and the kanji.
+[@ar01-spear]: AR01 | Chapter 9: The Opening Act of Evil | "Great hammer, greatax, and greatsword were all ready to go. Only Alfrik, spear in hand"
+[@fc02-weapons]: FC02 | Ali and the 8 Followers | "Dvalinn, Berling, you two guide them toward Leodo."; "The hammer-wielding and ax-wielding prums dashed off like the wind. Grer with his greatsword was left with the eldest brother."
+[@fc02-bringar-necklace]: FC02 | Their Various Pasts | "Sure they were creating their ultimate masterpiece, they decided to name it Bringar."
+[@fm18-alfrik-stand]: FM18 | Chapter 9: Flower Language for You | "Nahza was a decoy to keep Berling from joining up with the other Gulliver brothers"; "The slash erupted, running through Berling."; "A magic blade far bigger than his body hit him directly"; "Alfrik had stood up"; "defeat the prum standing in their way"

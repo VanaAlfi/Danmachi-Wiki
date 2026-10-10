@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Cat-person spearman of Freya Familia, titled Vana Freya and called the fastest adventurer; Anya Fromel's older brother and the Familia's second-in-command.",
   "aliases": ["Vana Freya", "City's Fastest", "fastest in the city"],
-  "spoilers": "DanMachi Vols. 8–19, Sword Oratoria Vol. 4, Familia Chronicle Vols. 1 and 2, Astrea Record Vol. 2 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 8 and 16–19, Sword Oratoria Vols. 4 and 12, Familia Chronicle Vols. 1 and 2, Astrea Record Vols. 1–3 and Minor Myths and Legends Vol. 2",
   "related": ["anya-fromel", "freya-familia", "freya", "syr-flover", "ottar", "the-benevolent-mistress", "magic"],
   "infobox": {
     "title": "Allen Fromel",
@@ -35,7 +35,7 @@
 
 Allen and Anya lost their parents and then their home, a country destroyed in a single night; Allen carried his crying sister through the ruins, known as the [[geography#ruined-and-remote-lands-scrap-heap|Scrap Heap]]. Two years later, when he was six, Freya found them, and Allen took her hand.[@fc02-past] In DanMachi 18 he reveals that a dragon destroyed their home; the Japanese edition writes it as *black dragon*, the word it uses for the Black Dragon, though he says only *dragon* aloud.[@fm18-dragon]
 
-In Freya Familia he adapted quickly to [[folkvangr|Folkvangr]] and reached Level 2 within a year. When he reached Level 3, Anya reached Level 2.[@fm17-past] After Anya forced her way onto a Deep Levels expedition that nearly killed them both, she was sent away from the Familia.[@fm17-past] DanMachi 18 reveals that Allen himself had asked Freya to take Anya off battlefields she could not survive and give her another family at the tavern, offering to fight for both of them.[@fm18-request]
+In Freya Familia he adapted quickly to [[folkvangr|Folkvangr]] and reached Level 2 within a year. When he reached Level 3, Anya reached Level 2.[@fm17-past] After Anya forced her way onto a Deep Levels expedition that nearly killed her and left Allen badly wounded, she was sent away from the Familia.[@fm17-past] DanMachi 18 reveals that Allen himself had asked Freya to take Anya off battlefields she could not survive and give her another family at the tavern, offering to fight for both of them.[@fm18-request]
 
 ## Levels
 
@@ -45,13 +45,14 @@ In Astrea Record 2, during the [[great-conflict|Great Conflict]], Allen is Level
 
 | Volume | Events |
 |---|---|
+| Astrea Record 1 | When [[zald|Zald]] appears in the Great Conflict, Allen attacks him from behind and is parried with almost no effort; [[ottar|Ottar]] orders him back to protect Freya, but Allen defies the order, runs back and saves Ottar's life, escaping with his left arm hanging limp and bleeding.[@ar01-zald, ar01-rescue] |
 | Familia Chronicle 2 | Among Freya's followers in Ali's war; he kills the Level 4 [[hexers|curse-caster]] Seal despite being trapped in an illusion that shows him his sister.[@fc02-seal] |
 | Minor Myths and Legends 2 | Obtains [[syr-flover|Syr]]'s invitation to the casino, then secretly guards her inside.[@ss02-invite] |
 | Sword Oratoria 4 | Warns [[aiz-wallenstein|Aiz]] away from [[bell-cranell|Bell]]'s fight with the [[minotaur|Minotaur]], alongside the Bringar.[@so04-allen] |
-| DanMachi 8 | While guarding Syr he kills a [[monsters#barbarian|barbarian]] with a silver javelin. Bell recognises his voice as that of a cat person who attacked him in the street during his training with Aiz, and connects him with Freya Familia.[@fm08-barbarian, fm08-allen] |
+| DanMachi 8 | While guarding Syr he kills a [[monsters#barbarian|barbarian]] with a silver javelin. Bell recognises his voice as that of the cat person who attacked Aiz in the street one night after his training with her, and connects him with Freya Familia.[@fm08-barbarian, fm08-allen] |
 | DanMachi 16 | Breaks Anya's resistance, exposes [[horn|Hörn]]'s plan and leaves Hörn wounded for punishment.[@fm16-second] |
 | DanMachi 17 | Helps Freya use Anya as bait for [[lyu-leon|Lyu]]; after the charm is broken he fights [[bete-loga|Bete]].[@fm17-allen] |
-| DanMachi 18 | In the Familia War he fights Anya and reveals his magic [[#glarinese-fromel|Glarinese Fromel]]. Anya learns why he sent her away, and he tells her he means to kill the dragon that destroyed their home.[@fm18-magic, fm18-request, fm18-dragon] |
+| DanMachi 18 | In the Familia War he fights Anya and reveals his magic [[#glarinese-fromel|Glarinese Fromel]]. He leads the einherjar's hunt for the coalition's deities, after which only four of the coalition's forty-six Familias remain in the war game (the English prints "forty-seven", the count of every Familia in the war game); in the final race to Freya, Bell's speed surpasses his.[@fm18-hunt] Anya learns why he sent her away, and he tells her he means to kill the dragon that destroyed their home.[@fm18-magic, fm18-request, fm18-dragon] |
 | DanMachi 19 | Keeps guard from the tavern's roof while other former members work inside.[@fm19-tavern] |
 
 {{nocite}} Related magic: Seal's illusionary curse [[magic#hal-reshef|Hal Reshef]], used against Allen in Familia Chronicle 2.
@@ -110,9 +111,9 @@ Glarinese Fromel has to be chanted, and Allen has to slow down to do it. On his 
 [@fc02-seal]: FC02 | Ali and the 8 Followers | Seal's curse.
 [@fc02-past]: FC02 | Their Various Pasts | The siblings' childhood; Freya finds them.
 [@ar02-allen]: AR02 | Chapter 2: Wavering Justice | Level 5; asking Ottar.
-[@so04-allen]: SO04 | | Level 6 Vana Freya warns Aiz.
+[@so04-allen]: SO04 | First Chapter: And the Boy… | Level 6 Vana Freya warns Aiz.
 [@ss02-invite]: SS02 | The Night Before a Grand Casino Infiltration | The invitation; guarding Syr.
-[@fm08-barbarian]: FM08 | | The barbarian killed while guarding Syr.
+[@fm08-barbarian]: FM08 | Chapter 5: The City Girl's Secret | The barbarian killed while guarding Syr.
 [@fm08-allen]: FM08 | Chapter 5: The City Girl’s Secret | Vana Freya; the voice.
 [@fm16-allen]: FM16 | Chapter 6: The Wish’s Cost | Anya's only blood relation; Vana Freya.
 [@fm16-second]: FM16 | | Second-in-command; Anya and Hörn.
@@ -125,8 +126,11 @@ Glarinese Fromel has to be chanted, and Allen has to slow down to do it. On his 
 [@glarinese-fromel.fm18-chant]: FM18 | Chapter 9: Flower Language for You | The full chant, casting while leaping back; Anya never knew he had magic; the charge. The Japanese edition (file part0027, paragraph 1187) calls it that hideous spell.
 [@glarinese-fromel.fm18-effect]: FM18 | Chapter 9: Flower Language for You | "Allen’s one and only magic": agility, strength relative to speed, no upper limit.
 [@glarinese-fromel.fm18-second]: FM18 | Chapter 9: Flower Language for You | The second cast near the house of the gods; Welf's Ignis Fatuus.
-[@ar03-fastest]: AR03 | | Printed heading "Chapter 1: March and Break" (not in the evidence map): "a catman who had earned himself the title of the city’s fastest".
+[@ar03-fastest]: AR03 | Chapter 1: March and Break | "a catman who had earned himself the title of the city’s fastest".
 [@fm18-fastest]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Eina's documents: "the famed chariot who bested Vanargand to claim the title of fastest in the city".
 [@so12-fastest]: SO12 | Chapter 7: Final War II | "he had another title, Vana Freya—the city’s fastest".
 [@ss02-fastest]: SS02 | Girls×Cross: Four Paths of a Half Year | The "City’s Fastest" ranking: "Usually it goes Vana Freya, Bete, Aiz".
 [@fm16-allen-ja]: FM16 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the goddess's chariot, with the reading Vana Freya; the infobox gives the printed name and the kanji.
+[@ar01-zald]: AR01 | Chapter 10: Conquerors | "Yet his foe had not only seen the attack coming, he had parried it with almost no effort."; "…Allen, go back to Lady Freya. Protect her."; "Allen defied his captain’s last command and turned back, running as fast as he could to where the boaz man lay."
+[@ar01-rescue]: AR01 | Chapter 11: Absolute Evil | "He paid the price for Ottar’s life. His left arm hung limply, dripping blood"
+[@fm18-hunt]: FM18 | Chapter 9: Flower Language for You | "At Allen’s order, the einherjar immediately headed off in different directions and quickly began capturing coalition deities."; "Of the forty-seven familias at the start, forty-two had been knocked out. Allen’s charge had cruelly run through the eastern ruins"; "In that moment, Bell’s top speed surpassed Allen’s speed limit. The city’s fastest was left in the dust by the fastest in the mortal realm." The English forty-seven is the whole war game's count ("All told, forty-seven familias were taking part", Chapter 8), while the coalition speaks of "all forty-six of our deities" (Chapter 8). The Japanese edition (file part0025, paragraph 206) says forty-two of the coalition's forty-six Familias dropped out; its forty-six gods are in file part0021, paragraph 600, and the forty-seven Familias in all in paragraph 184.

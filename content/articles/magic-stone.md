@@ -5,9 +5,9 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "The crystal of magical power at the core of every Dungeon monster. Removing or breaking it destroys the monster; adventurers sell stones to the Guild, and Orario's engineers turn them into lamps, stoves and other magic-stone products sold far beyond the city. Monsters that eat other monsters' stones become enhanced species.",
+  "summary": "The crystal of magical power at the core of almost every Dungeon monster. Removing or breaking it destroys the monster; adventurers sell stones to the Guild, and Orario's engineers turn them into lamps, stoves and other magic-stone products sold far beyond the city. Monsters that eat other monsters' stones become enhanced species.",
   "aliases": ["magic stones", "magic-stone lamp", "magic stone lamp", "magic-stone products", "shard", "drop item", "drop items", "enhanced species"],
-  "spoilers": "DanMachi Vols. 1, 4, 12, 14 and Sword Oratoria Vols. 1–5, 10 and 12",
+  "spoilers": "DanMachi Vols. 1, 4, 9, 12, 14 and 19, Sword Oratoria Vols. 1–5, 10, 12 and 13 and Astrea Record Vol. 1",
   "related": ["dungeon", "guild", "orario", "xenos", "levis", "olivas-act", "minotaur", "modi-and-magni-familias"],
   "sections": [
     {"anchor": "richly-colored", "title": "Richly colored magic stones", "summary": "The unusual magic stones of the flower monsters and Levis, with a richly colored centre and a dark-purple remainder (Sword Oratoria 1 to 12).", "aliases": ["Richly colored magic stone", "Vibrantly colored magic stone", "Brilliantly colored magic stone", "Deeply colored magic stone"]},
@@ -26,23 +26,26 @@
   }
 }
 ---
-A **magic stone** is a crystal of magical power that every monster of the [[dungeon|Dungeon]] carries. It is the monster's core and power source: the stone's magical energy gives it life, and when the stone is removed the monster turns to ash.[@fm01-core] Adventurers collect the stones and sell them to the [[guild|Guild]], and [[orario|Orario]]'s engineers turn them into the city's magic-stone products.[@fm01-core, fm04-northeast]
+A **magic stone** is a crystal of magical power that every monster of the [[dungeon|Dungeon]] carries. It is the monster's core and power source: the stone's magical energy gives it life, and when the stone is removed the monster turns to ash.[@fm01-core] The [[juggernaut|Juggernaut]] is the exception: it has no magic stone, and it leaves neither a stone nor drop items behind.[@fm14-magic-stone-juggernaut] Adventurers collect the stones and sell them to the [[guild|Guild]], and [[orario|Orario]]'s engineers turn them into the city's magic-stone products.[@fm01-core, fm04-northeast]
 
 ## In monsters
 
 - **Core.** Eina teaches Bell that the magic stone is a monster's core, and that in a pinch the stone is the place to aim, though the Guild will not buy a damaged stone.[@fm01-core]
 - **Death.** When Bell pulls a shard out of a [[monsters#kobold|kobold]], its body goes slack, loses its colour, and turns to ash; all monsters disappear once their stone is removed.[@fm01-core]
-- **Drop items.** Sometimes part of a monster does not turn to ash, such as a kobold's claw; such leftovers are "drop items".[@fm01-drop] A Minotaur Bell kills leaves its magic stone and a horn, which becomes the dagger [[ushiwakamaru|Ushiwakamaru]].[@fm04-horn]
-- **Size.** The monsters of the first floors carry shards about the size of a fingernail; the Guild pays more for bigger shards and whole stones.[@fm01-shard]
+- **Drop items.** Sometimes part of a monster does not turn to ash, such as a kobold's claw; such leftovers are "drop items".[@fm01-drop] A Minotaur Bell kills leaves its magic stone and a horn.[@fm04-horn] [[welf-crozzo|Welf]] later forges the horn into the dagger [[ushiwakamaru|Ushiwakamaru]].[@fm04-magic-stone-ushiwakamaru]
+- **Size.** The monsters of the first floors carry shards about the size of a fingernail; the Guild pays more for bigger shards and whole stones.[@fm01-shard] Stones from deeper floors are worth more, and are far purer and larger than those of higher floors.[@fm04-magic-stone-deeper, fm12-magic-stone-purer]
+- **Outside the Dungeon.** Monsters that have bred on the surface for generations carry far smaller stones than the monsters born in the Dungeon, and are weaker for it; a surface monster's stone can be almost too small to see, while even on the Dungeon's upper floors the smallest stones are 1 to 1.5 celch, about the size of a fingernail.[@fm04-magic-stone-surface, so13-magic-stone-surface]
 - **The Dungeon itself.** The Dungeon is said to be made of a substance of a lower or higher grade than magic stone; scholars cannot explain its make-up, and its closeness to magic stone is why it is bright inside without sunlight.[@fm01-walls]
 
 ## Collecting and selling
 
 Collecting magic stones and drop items is usually a supporter's job; Bell, with no supporter at first, carries everything himself.[@fm01-drop] At the end of a day he exchanges his stones and drop items for money at Guild headquarters; one early haul of shards, mostly from [[monsters#goblin|goblins]] and kobolds, comes to about 1,200 valis.[@fm01-exchange, fm01-haul]
 
+Only the [[guild|Guild]] may legally buy magic stones, so every adventurer sells them at its [[the-exchange|Exchange]]; the stones have become the lifeblood of the world economy.[@so01-magic-stone-guild] Drop items may be bargained over freely, but free trade in magic stones is forbidden.[@ar01-magic-stone-trade] The Guild holds all legal rights to the stones and their products, yet smugglers carry them past the city's checkpoints to sell in other countries, and [[hermes-familia|Hermes Familia]] investigates this black market for the Guild.[@fm09-magic-stone-black-market]
+
 ## Magic-stone products
 
-Human engineers worked out how to make magic-stone lamps; a god remarks that humans are really good with their hands, and when the lamps appeared they were called the invention of the century.[@fm01-ja-lamps, fm01-lamps] Magic stones also power stoves and freeze food, and Orario sells them to other cities and countries for large sums.[@fm01-core] The magic-stone products the city is known for are made along Northeast Main Street.[@fm04-northeast]
+Human engineers worked out how to make magic-stone lamps; a god remarks that humans are really good with their hands, and when the lamps appeared they were called the invention of the century.[@fm01-ja-lamps, fm01-lamps] Magic stones also power stoves and freeze food, and Orario exports magic-stone products to other regions and countries at a large profit.[@fm01-core] The magic-stone products the city is known for are made along Northeast Main Street.[@fm04-northeast] Orario has a monopoly on the production of magic-stone items, and its magic-stone industry has made it the center of the world; most of the trade leaves by sea.[@fm19-magic-stone-monopoly, ar01-magic-stone-trade]
 
 ## Eating magic stones
 
@@ -51,7 +54,7 @@ Human engineers worked out how to make magic-stone lamps; a god remarks that hum
 - **The [[monsters#moss-huge|moss huge]].** In DanMachi 12 an enhanced moss huge in the [[water-capital|Water Capital]], which eats magic stones and even seeks out adventurers' pouches of them, routs Luvis Lilix's party (see [[modi-and-magni-familias#luvis-lilix|Luvis Lilix]]).[@fm12-enhanced, fm12-mosshuge]
 - **Denying stones.** In DanMachi 14, Bell and Lyu dispose of the stones of monsters killed in an explosion so that they cannot feed an enhanced species.[@fm14-dispose]
 - **Creatures.** "She" revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him; he and [[levis|Levis]] are human-monster hybrids, enhanced species that grow stronger by taking in magic stones.[@so04-hybrids] Levis eats other monsters' stones to recover her strength.[@so04-levis]
-- **Xenos.** The Xenos kill ordinary monsters and eat their stones to survive; see [[xenos|Xenos]].[@fm12-enhanced]
+- **Xenos.** The Xenos kill every monster that is not one of their comrades and eat its stone, to survive; see [[xenos|Xenos]].[@fm09-magic-stone-xenos]
 
 ## Richly colored magic stones {#richly-colored}
 
@@ -71,18 +74,18 @@ The [[minotaur|Minotaur]]'s magic stone is exchanged after its body turns to ash
 > - How the Guild prices stones beyond "bigger shards and full stones" paying more.[@fm01-shard]
 > - What the Dungeon is made of: it is only said to be close to magic stone, of a lower or a higher grade.[@fm01-walls]
 
-[@fm01-core]: FM01 | Chapter 2: That’s Why I Run | "It’s a crystal with magical power; all monsters in the dungeon have them."; "the Guild pays cash"; stoves, freezing; "Orario sells the stones to other cities and countries"; "All monsters disappear after their magic stone is removed."; "the magic stone is a monster’s core, its power source"; "If the stone gets damaged in battle, the Guild won’t buy it." The Japanese edition (file cYT, paragraph 183) names ignition devices, and freezers for freezing.
+[@fm01-core]: FM01 | Chapter 2: That’s Why I Run | "It’s a crystal with magical power; all monsters in the dungeon have them."; "the Guild pays cash"; stoves, freezing; "Orario sells the stones to other cities and countries"; "All monsters disappear after their magic stone is removed."; "the magic stone is a monster’s core, its power source"; "If the stone gets damaged in battle, the Guild won’t buy it." The Japanese edition (file cYT, paragraph 183) names ignition devices, and freezers for freezing, and says that Orario exports magic-stone products, not the stones themselves, to other regions and countries.
 [@fm01-shard]: FM01 | Chapter 2: That’s Why I Run | "just a shard"; "Only about the size of my fingernail"; "The Guild pays more for bigger shards and full stones."
 [@fm01-drop]: FM01 | Chapter 2: That’s Why I Run | "Looks like this is a “drop item.”"; "Usually a “supporter” travels with adventurers and collects all the magic stones and drop items."
 [@fm01-walls]: FM01 | Chapter 2: That’s Why I Run | "The walls have to be made of something a lot like magic stones." The Japanese edition (file cYT, paragraphs 216 and 217) gives this as hearsay: the Dungeon is said to be made of a lower- or higher-grade substance than magic stone, scholars cannot yet explain its make-up, and being close to magic stone it is bright inside without sunlight.
 [@fm01-lamps]: FM01 | Chapter 2: That’s Why I Run | "Human engineers figured out how to make magic stone lamps."
 [@fm01-ja-lamps]: FM01 | Chapter 2: That’s Why I Run | Japanese original (file cX6, paragraph 8): a god says humans are really deft with their hands; the lamp was called the invention of the century at the time.
-[@fm01-exchange]: FM01 | | "to exchange my magic stones and drop items for money".
+[@fm01-exchange]: FM01 | Chapter 5: The Goddess's Prank | "to exchange my magic stones and drop items for money".
 [@fm01-haul]: FM01 | Chapter 1: World, Reality, and Desire | "magic stone shards I got for killing mostly goblins and kobolds"; "about 1,200 vals".
 [@fm04-horn]: FM04 | Chapter 2: Changing Environment, New Relationships | "only the magic stone and this horn remained".
 [@fm04-northeast]: FM04 | Chapter 3: The Smith’s Situation | "all of the magic-stone products that Orario is known for are made along Northeast Main".
-[@fm12-enhanced]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): "monsters that kill their own kind and consume the magic stones of their prey"; "Lido and the other Xenos fall into that category as well"; "viewed as Irregulars"; bounties and subjugation orders.
-[@fm12-mosshuge]: FM12 | | Printed heading "Chapter 4: A Hunter at the Water’s Edge" (not in the evidence map): "The monster is after the magic stones that adventurers collect?!"; "snatched their pouches packed with magic stones".
+[@fm12-enhanced]: FM12 | Chapter 4: A Hunter at the Water's Edge | "monsters that kill their own kind and consume the magic stones of their prey"; "Lido and the other Xenos fall into that category as well"; "viewed as Irregulars"; bounties and subjugation orders.
+[@fm12-mosshuge]: FM12 | Chapter 4: A Hunter at the Water's Edge | "The monster is after the magic stones that adventurers collect?!"; "snatched their pouches packed with magic stones".
 [@fm14-dispose]: FM14 | | "we dispose of the magic stones in the corpses of monsters killed in the explosion in order to prevent them from being used to create an enhanced species".
 [@so04-hybrids]: SO04 | First Chapter: And the Boy… | "implanting within him a vivid magic stone"; "a new human-monster hybrid"; she and her kind are enhanced species that grow stronger by taking in magic stones (the Japanese edition, file c2ZU).
 [@so04-levis]: SO04 | Last Chapter: To Adventure | "she had the ability to consume other monsters’ magic stones".
@@ -99,3 +102,14 @@ The [[minotaur|Minotaur]]'s magic stone is exchanged after its body turns to ash
 [@so12-end]: SO12 | Chapter 8: A Heroes’ Chorus | After Aiz destroys Levis’s stone, Levis collapses into ash and colored fragments remain.
 [@fm04-exchange]: FM04 | Chapter 2: Changing Environment, New Relationships | The Minotaur’s magic stone is exchanged after its body turns to ash, and Bell keeps its horn. The Japanese edition (file c1ER, paragraph 24) has Bell narrate that the stone has been exchanged and that he kept the horn; the English prints "She’d already exchanged the magic stone for money, but she held on to the horn for me".
 [@fm04-value]: FM04 | Chapter 2: Changing Environment, New Relationships | The stone brings 50,000 valis; Bell believes the Minotaur was special because the exchange staff were surprised.
+[@fm14-magic-stone-juggernaut]: FM14 | Chapter 11: Where the Will to Kill Leads | "Their greatest peculiarity—the thing that set them apart from other monsters—was their lack of a magic stone."; "The Juggernaut would leave behind neither a magic stone nor any drop items."
+[@fm04-magic-stone-ushiwakamaru]: FM04 | Chapter 3: The Smith’s Situation | "I could make one hell of a weapon from the Minotaur Horn."; "The Young Bull, Ushiwakamaru"
+[@fm09-magic-stone-xenos]: FM09 | Chapter 5: Heretics | "We kill any monsters that aren’t our comrades. Then we pluck out their magic stones and eat them."; "We kill to survive and eat to see tomorrow."
+[@fm04-magic-stone-deeper]: FM04 | Quest X Quest | "it’s more efficient to collect the magic stones that are worth more from monsters farther down"
+[@fm12-magic-stone-purer]: FM12 | Chapter 2: Adventure Intermission | "Purple crystals far purer and larger than those found at higher levels"
+[@fm04-magic-stone-surface]: FM04 | Quest X Quest | "Hundreds of generations of reproducing have taken their toll on the beasts. The magic stone in their chests is so small it might as well not be there."; "Since each individual needed less power to survive, magic stones became smaller over time."
+[@so13-magic-stone-surface]: SO13 | Fairy Canon: 2 | "After generations of breeding, the monsters aboveground have developed far smaller magic stones in their bodies."; "Even on the upper floors, the smallest magic stones are between 1 and 1.5 celch—the size of a fingernail."
+[@so01-magic-stone-guild]: SO01 | Chapter 3: White Rabbit | "the only group legally allowed to buy the magic stones recovered from monsters was the Guild"; "Magic stones had become the lifeblood of the world economy."
+[@ar01-magic-stone-trade]: AR01 | Chapter 3: Busy People | "while everyone is free to haggle over Drop Items"; "free trade of magic stones is entirely prohibited"; "Orario’s magic-stone industry made it the center of the world."
+[@fm09-magic-stone-black-market]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "The Guild controlled all legal rights to magic stones and their related products"; "smuggling them through the checkpoints and into other countries"; "it had fallen to Hermes Familia to investigate the various black market operations"
+[@fm19-magic-stone-monopoly]: FM19 | Chapter 2: School Heaven and Hell | "Orario has a monopoly on the production of magic-stone items, and most trade is conducted not overland, but by sea."

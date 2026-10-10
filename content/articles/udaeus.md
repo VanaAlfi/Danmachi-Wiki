@@ -31,6 +31,7 @@
 
 - **Form.** Close to ten meders tall from the pelvis up, with its lower body underground, with a forward-leaning spine, horns like an [[monsters#ogre|ogre]]'s on its skull, and small crimson flames for eyes.[@so02-form] In truth it has no lower body at all.[@so02-pikes]
 - **Pikes.** It fills its chamber with black pikes (pila) that shoot from the floor, makes anyone who throws caution to the wind "an instant pincushion", and seals the exits so that no one can leave until it is defeated.[@so02-pikes, fc02-awake] Its bones are bound by magic energy at the joints, which lets the skinless monster move in any direction.[@so02-joints]
+- **Fighting it.** Udaeus itself can hardly dodge, which is why even a large battle party cannot charge onto its floor without a plan; normally a party of more than thirty upper-class adventurers coordinates its attacks to slay it, so that the pikes are spread among many targets.[@so02-party]
 - **Spartoi.** Floor 37 is also home to ordinary spartoi, which fight alongside it.[@so02-spartoi]
 - **Respawn.** Like every Monster Rex it has a fixed respawn time. Loki Familia had defeated it with its full strength three months before Aiz's fight.[@so02-udaeus]
 - **Name.** DanMachi 2 prints the name *Udaios*.[@fm02-udaios]
@@ -47,13 +48,13 @@ Three months after Aiz's victory, Udaeus awakens again when Ottar enters its cha
 
 ## The first Black Sword
 
-To pay off the debt for a broken [[desperate#rapier|rapier]], Aiz sold Udaeus's other drop items but kept the black sword; Minor Myths and Legends 2 says she entrusted it to [[bors|Bors]], who promised to make a weapon from it and keeps telling her it is not finished.[@so03-sold, ss02-bors]
+To pay off the debt for a broken [[desperate#rapier|rapier]], Aiz sold Udaeus's other drop items but kept the black sword; Minor Myths and Legends 2 says she entrusted it to [[bors|Bors]], who promised to make a weapon from it but, when she asks about it, sweats and tells her it is not done yet.[@so03-sold, ss02-bors]
 
 ## Later mentions
 
 | Volume | Mention |
 |---|---|
-| DanMachi 14 | On the thirty-seventh floor, as a mountain of swords swallows her and Bell, [[lyu-leon|Lyu]] recognises "the floor boss Udaeus's attack".[@fm14-attack] |
+| DanMachi 14 | On the thirty-seventh floor, when the [[juggernaut|Juggernaut]] swallows her and Bell in a mountain of pila, [[lyu-leon|Lyu]] thinks "this is the floor boss Udaeus's attack" and wonders whether their enemy is equal to the Monster Rex.[@fm14-attack] |
 | DanMachi 20 | A centipede dragon is judged "weaker than Udaeus", drawing the reply "I've never fought Udaeus before, though!"[@fm20-weaker] |
 
 ## Open questions
@@ -82,3 +83,4 @@ To pay off the debt for a broken [[desperate#rapier|rapier]], Aiz sold Udaeus's 
 [@fm14-attack]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "The hideous mountain of swords swallowed up the two adventurers."; "Damn—this is the floor boss Udaeus’s attack—"; "Lyu shuddered".
 [@fm20-weaker]: FM20 | Chapter 4: The Knight’s Afterglow | "the centipede dragon’s estimated potential is a Level Seven"; "this one is weaker than Udaeus"; "I-I’ve never fought Udaeus before, though!"
 [@so02-udaeus-ja]: SO02 | | The Japanese edition prints the name in katakana; the infobox gives that printed form.
+[@so02-party]: SO02 | Chapter 6: Parched Scream | "Udaeus itself was a sitting duck, unable to dodge much of anything."; "a battle party exceeding thirty upper-class adventurers would coordinate their attacks to slay this beast"; "Normally, the pikes would be distributed among the many targets"

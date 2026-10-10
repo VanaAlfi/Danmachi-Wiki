@@ -29,7 +29,7 @@
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 1 | Loki Familia encounters [[monsters#fomoire|Fomoire]] in Moitra Sands, while the floor boss Balor is absent on that passage.[@so01-moitra-1, so01-moitra-2] |
+| Sword Oratoria 1 | Loki Familia encounters [[monsters#fomoire|Fomoire]] in Moitra Sands, while the floor boss Balor is absent on that passage.[@so01-moitra-1, so01-moitra-2] The battle opens the volume: the Fomoire nearly break the dwarves' shield wall, [[aiz-wallenstein|Aiz]] charges out among them, and [[riveria|Riveria]]'s fire spell burns the rest.[@so01-prologue-49, so01-moitra-fight] |
 | Sword Oratoria 4 | The floor is described by comparison as an immense, single open space without a maze or obstructing partitions.[@so04-layout] |
 | Familia Chronicle 2 | [[ottar|Ottar]] previously reached the floor alone but failed to finish off Balor {{small|printed *Balror*}}.[@fc02-ottar] |
 
@@ -39,3 +39,5 @@
 [@so04-layout]: SO04 | Last Chapter: To Adventure | Floor 58’s open layout is compared with Floor 49.
 [@fc02-ottar]: FC02 | The Origin of the Strongest | Ottar’s solo expedition and failure to finish the Floor 49 boss, printed Balror in this volume.
 [@fc02-floor49-ja]: FC02 | The Origin of the Strongest | The Japanese edition names the floor by number and as the great wasteland, written in kanji meaning great wasteland with the reading Moitra, and gives its floor boss the reading Balor (file c76W, paragraph 75).
+[@so01-prologue-49]: SO01 | Prologue: Dawn of the Labyrinth | "On the other side of the shields, the monsters—the Fomoire—howled together."; "The remaining Fomoire were caught up in the firestorm and torn apart"
+[@so01-moitra-fight]: SO01 | Chapter 1: Loki Familia | "No one gets out of a brawl on the wastelands of Moitra without a scratch."; "You didn’t have to charge straight out into those Fomoire."; "My brethren on the wall were nearly finished."

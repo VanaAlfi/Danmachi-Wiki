@@ -253,6 +253,93 @@
     tlText.addEventListener("input", applyTl);
   }
 
+  /* --------------------------------------------------------------- tabs */
+  // A {{tabs}} block is built as stacked sections, each under its own heading. This adds a row of tabs (in the
+  // manner of MediaWiki's Tabber) and shows one section at a time; without this script the sections stay stacked.
+  var tabSets = [];
+  document.querySelectorAll(".tabber").forEach(function (box) {
+    var panels = Array.prototype.filter.call(box.children, function (el) { return el.classList.contains("tabber__panel"); });
+    if (panels.length < 2) return;
+    var nav = document.createElement("div");
+    nav.className = "tabber__nav";
+    nav.setAttribute("role", "tablist");
+    var h = box.previousElementSibling;
+    while (h && !/^H[2-4]$/.test(h.tagName)) h = h.previousElementSibling;
+    if (h && h.id) nav.setAttribute("aria-labelledby", h.id);
+    var tabs = panels.map(function (panel) {
+      var title = panel.querySelector(".tabber__title");
+      var tab = document.createElement("button");
+      tab.type = "button";
+      tab.className = "tabber__tab";
+      tab.id = panel.id + "-tab";
+      tab.textContent = title ? title.textContent : panel.id;
+      tab.setAttribute("role", "tab");
+      tab.setAttribute("aria-controls", panel.id);
+      panel.setAttribute("role", "tabpanel");
+      panel.setAttribute("aria-labelledby", tab.id);
+      nav.appendChild(tab);
+      return tab;
+    });
+    var select = function (k, focus) {
+      tabs.forEach(function (tab, i) {
+        tab.setAttribute("aria-selected", String(i === k));
+        tab.tabIndex = i === k ? 0 : -1;
+        panels[i].hidden = i !== k;
+      });
+      if (focus) tabs[k].focus();
+    };
+    nav.addEventListener("click", function (e) {
+      var k = tabs.indexOf(e.target.closest(".tabber__tab"));
+      if (k !== -1) select(k);
+    });
+    nav.addEventListener("keydown", function (e) {
+      var k = tabs.indexOf(document.activeElement), n = tabs.length;
+      var to = { ArrowRight: k + 1, ArrowLeft: k - 1, Home: 0, End: n - 1 }[e.key];
+      if (k === -1 || to === undefined) return;
+      e.preventDefault();
+      select((to + n) % n, true);
+    });
+    box.insertBefore(nav, panels[0]);
+    box.classList.add("tabber--live");
+    select(0);
+    tabSets.push({ box: box, panels: panels, select: select });
+  });
+  // A link to a tab, or to something inside a hidden one (a citation's back-link), opens that tab first.
+  function openTabFor(id) {
+    var el = id ? document.getElementById(id) : null;
+    if (!el) return null;
+    var shown = el;
+    tabSets.forEach(function (set) {
+      set.panels.forEach(function (panel, k) {
+        if (!panel.contains(el)) return;
+        if (panel.hidden) set.select(k);
+        if (panel === el) shown = set.box;  // a link to a whole tab shows the row of tabs above it too
+      });
+    });
+    return shown;
+  }
+  function hashId(href) {
+    var h = href.slice(href.indexOf("#") + 1);
+    try { return decodeURIComponent(h); } catch (e) { return h; }
+  }
+  if (tabSets.length) {
+    document.addEventListener("click", function (e) {
+      var a = e.target.closest && e.target.closest('a[href^="#"]');
+      var el = a && openTabFor(hashId(a.getAttribute("href")));
+      if (el && el !== document.getElementById(hashId(a.getAttribute("href")))) {
+        e.preventDefault();
+        history.pushState(null, "", a.getAttribute("href"));
+        el.scrollIntoView();
+      }
+    });
+    var fromHash = function () {
+      var el = location.hash && openTabFor(hashId(location.hash));
+      if (el) el.scrollIntoView();
+    };
+    window.addEventListener("hashchange", fromHash);
+    fromHash();
+  }
+
   /* ------------------------------------------------- sidebar page tools */
   document.querySelectorAll("a[data-random]").forEach(function (a) {
     a.addEventListener("click", function (e) {

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "One-eyed Level 3 adventurer who runs the largest Exchange shop in Rivira and is its strongest resident and de facto head. He leads the hunt for the Gale Wind in DanMachi 13, survives the Juggernaut because Lyu Leon saves him, and afterwards clears her name.",
   "aliases": ["Bors", "Boris"],
-  "spoilers": "DanMachi Vols. 5, 9, 12–14 and 18–20, Sword Oratoria Vols. 2, 3 and 12, Familia Chronicle Vol. 3 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 5, 8–10, 12–14 and 18–20, Sword Oratoria Vols. 2, 3 and 12, Familia Chronicle Vol. 3 and Minor Myths and Legends Vol. 2",
   "related": ["rivira", "lyu-leon", "juggernaut", "rudra-familia", "floor-18", "filvis"],
   "infobox": {
     "title": "Bors Elder",
@@ -41,7 +41,9 @@ He once dreamed of becoming a smith and has become something of a weapons expert
 | DanMachi 5 | When the Black [[goliath|Goliath]] attacks, [[asfi|Asfi]] asks him to rally the town. He first wants to flee, then orders every adventurer out against it and threatens to bar anyone who runs from the town.[@fm05-boris, fm05-goliath] |
 | Sword Oratoria 2 | Takes charge after [[hashana|Hashana]]'s murder, but cannot read the dead man's Status and sends for elves who can.[@so02-hieroglyphs] He hands the investigation to [[finn-deimne|Finn]] and seals the town at his request.[@so02-seal] Afterwards he leads the rebuilding with speeches the narration says are really about money.[@so02-rebuild] |
 | Sword Oratoria 3 | Tells [[lefiya|Lefiya]] that every party [[filvis|Filvis]] works with dies, that adventurers call her "Banshee", and that she survived the Twenty-Seventh-Floor Nightmare about six years earlier.[@so03-filvis] |
+| DanMachi 8 | As the makeshift commander of Rivira's force exterminating the [[goliath|Goliath]], he sends a man back to town for help; afterwards Rivira's leader, printed "Boris Elder" here, thanks Bell: "Would have been screwed without you!"[@fm08-bors-goliath] |
 | DanMachi 9 | Rivira's adventurers try to convince him, "the man at the top of Rivira's hierarchy", that they saw a talking monster.[@fm09-talking] |
+| DanMachi 10 | When armed monsters overrun Rivira, he barely escapes to the surface and, as the town's acting head (printed "Boris" here), tells the Guild that Rivira is wiped out and that some adventurers did not make it.[@fm10-bors-report] |
 | DanMachi 12 | Gives [[bell-cranell|Bell]]'s party eggs to celebrate its first expedition. When an adventurer is killed outside town, a witness names the Gale Wind.[@fm12-eggs, fm12-murder] |
 
 ## The hunt for the Gale Wind
@@ -77,7 +79,7 @@ Bors also recovered a fragment of Lyu's broken wooden sword, [[equipment#alvs-lu
 [@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | Wants to flee; then "we’re ending that monster here and now!"; anyone who chickens out barred from the town.
 [@so02-bors]: SO02 | Chapter 2: Incident | "Bors Elder"; hulking, black eye patch; runs an exchange shop; Level 3, the strongest adventurer in Rivira and in charge in emergencies.
 [@so02-hieroglyphs]: SO02 | Chapter 2: Incident | "Can’t read hieroglyphs"; sends for elves.
-[@so02-seal]: SO02 | | Surrenders authority over the crime scene to Finn; seals off the town.
+[@so02-seal]: SO02 | Chapter 3: Gekai Detective Loki | Surrenders authority over the crime scene to Finn; seals off the town.
 [@so02-rebuild]: SO02 | Chapter 6: Parched Scream | Rivira rebuilt; his speeches "just for show. It was money they were after."
 [@so02-sword]: SO02 | Epilogue: An Unexpected Reunion | Dreamed of becoming a smith; a weapons expert; Udaeus's Black Sword left with him.
 [@so03-bors]: SO03 | Chapter 3: A Hideous Beauty | The largest Exchange shop; patch over his left eye; "Adventurers are outlaws"; Level Three; storage facility; asks for valis; Bete. The Japanese edition (file c1WN, paragraphs 115 and 122) has him embody the formula adventurer = outlaw and own one of the town's storehouses.
@@ -101,6 +103,8 @@ Bors also recovered a fragment of Lyu's broken wooden sword, [[equipment#alvs-lu
 [@fm18-wing]: FM18 | Chapter 8: The Great Familia War | "Ms. Daphne and Mr. Bors the right wing."
 [@fm18-hegni]: FM18 | Chapter 9: Flower Language for You | Bors among those Hegni cut down; they drew out Hegni's stock of attacks.
 [@fm19-party]: FM19 | Chapter 1: V-V-V for Victory Party | A share of Freya Familia's massive fortune; Bors and Mord spending freely.
-[@fm19-quest]: FM19 | | Rivira dislikes the students; "I owe you more than I can ever repay!"; "a proper protection quest".
+[@fm19-quest]: FM19 | Chapter 5: My Dream | Rivira dislikes the students; "I owe you more than I can ever repay!"; "a proper protection quest".
 [@fm20-garden]: FM20 | Chapter 1: Orario Rumble | "It’s too deep. The customer base is smaller".
 [@ss02-sword]: SS02 | Paths So Far, an Unending Journey | "The town’s leader, Bors Elder"; Udaeus's sword entrusted to him; beads of sweat; a fake smile.
+[@fm10-bors-report]: FM10 | Chapter 8: City Panic | "Rivira is gone, wiped out!!"; "Boris, acting head of Rivira, who looked as though he had barely escaped with his life"; "Most of us got out somehow but"
+[@fm08-bors-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Like hell I can pull that off, Boris!"; "The makeshift commander of this extermination force from Rivira barked the command"; "Would have been screwed without you!"; "of Rivira, Boris Elder"

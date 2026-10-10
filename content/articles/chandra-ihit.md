@@ -22,7 +22,7 @@
   }
 }
 ---
-**Chandra Ihit** is a Level 2 [[races#dwarf|dwarf]] who becomes captain of [[soma-familia|Soma Familia]].[@fm06-identity, fm10-captain] He is an upper-class adventurer with short hair and a beard.[@fm06-identity] He joined Soma Familia to drink the finest wine, but complains that leadership does not suit him and leaves him less able to drink [[soma|Soma]]'s wine.[@fm10-captain]
+**Chandra Ihit** is a Level 2 [[races#dwarf|dwarf]] who becomes captain of [[soma-familia|Soma Familia]].[@fm06-identity, fm10-captain] He is an upper-class adventurer with short hair and a beard.[@fm06-identity] He joined Soma Familia to drink the finest wine, but complains that leadership does not suit him and that, adding insult to injury, he can no longer drink [[soma|Soma]]'s wine as he used to.[@fm10-captain]
 
 ## History {#history}
 

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Dungeon's nineteenth to twenty-fourth floors, entered through the roots of the Central Tree on Floor 18: passages walled in tree bark, lit by blue wall moss and full of rare plants, where poison-dealing insect monsters make Immunity the key to progress. Wiene is found there, the Xenos have a village there, and the colossal tree's roots hang over the Water Capital below.",
   "aliases": ["Colossal Tree", "nineteenth floor", "twentieth floor", "twenty-first floor", "twenty-second floor", "twenty-third floor", "twenty-fourth floor", "Floor 19", "Floor 20", "Floor 21", "Floor 22", "Floor 23", "Floor 24", "Central Tree", "Pantry", "Lamp Moss", "Akarigoke"],
-  "spoilers": "DanMachi Vols. 9, 10, 12–14, 19, 20 and Sword Oratoria Vols. 2 and 3",
+  "spoilers": "DanMachi Vols. 5, 9, 10, 12–14, 19, 20, Sword Oratoria Vols. 2 and 3 and Astrea Record Vols. 2 and 3",
   "related": ["dungeon", "floor-18", "water-capital", "wiene", "xenos", "corrupted-spirit", "irregular", "development-ability"],
   "infobox": {
     "title": "Colossal Tree Labyrinth",
@@ -41,13 +41,16 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 - **Insects and fungi:** the region is infamous for its many insect monsters, and for mushroom-like monsters that hide among giant fungi and release clouds of poisonous gas.[@fm09-fungi]
 - **Status-ailment attacks:** DanMachi 12 says what sets the region apart is how often its monsters make status-ailment attacks, poison first among them, and that monsters appear more often than on the upper floors.[@fm12-irregular]
 - **Other monsters:** [[monsters#lizardman|lizardmen]] appear there, and their blue-scaled elites deeper down are rated Level 3 to 4.[@fm14-lizardmen] [[monsters#mammoth-fool|Mammoth fools]] are a rare case of a monster there whose danger is simple strength, the largest ordinary monsters of the middle levels.[@fm13-mammoths]
+- **Vouivres:** the [[monsters#vouivre|vouivre]], a dragon as rare as the unicorn, is known to appear between the nineteenth and twenty-fourth floors; the red gem in its forehead is worth a fortune.[@fm09-ctl-vouivre]
 - **Firebirds:** in DanMachi 9 an outbreak of firebirds, normally found from the nineteenth floor down, spills upward.[@fm09-start]
 
 ## Events {#events}
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 3 | On a [[quest|quest]] about a monster outbreak, [[aiz-wallenstein|Aiz]] and [[hermes-familia|Hermes Familia]] travel the twenty-fourth floor's main route to the pantry at its depths (see [[corrupted-spirit|Corrupted spirit]]).[@so03-region, so03-quest] |
+| Astrea Record 2–3 | During the [[great-conflict|Great Conflict]], the monster later called [[delphyne|Delphyne]] is sighted on the twenty-fourth floor climbing toward the surface and destroying everything in its path.[@ar02-ctl-delphyne] It reaches the twentieth floor, inflicting heavy casualties on the scouting party, and by the next report should already be on the nineteenth.[@ar03-ctl-delphyne] |
+| Sword Oratoria 3 | On a [[quest|quest]] about a monster outbreak, [[aiz-wallenstein|Aiz]] and [[hermes-familia|Hermes Familia]] travel the twenty-fourth floor's main route to the pantry at its depths (see [[corrupted-spirit|Corrupted spirit]]).[@so03-region, so03-quest] The pantry turns out to be infested with parasites that make it bear violas, a relay point for breeding Deep-Level monsters on the shallower floors and carrying them toward the surface; that day the twenty-fourth floor's north pantry collapses.[@so03-ctl-collapse] |
+| DanMachi 5 | The Black [[goliath|Goliath]] lands on the Central Tree and drives its trunk halfway underground.[@fm05-ctl-crush] The path to the lower levels under the tree is cut off.[@fm05-ctl-cutoff] |
 | DanMachi 9 | [[bell-cranell|Bell]] meets [[wiene|Wiene]] on the nineteenth floor. Later he and [[welf-crozzo|Welf]] go down there as a two-man cell. Ordered to the deepest part of the twentieth floor, [[hestia-familia|Hestia Familia]]'s party reaches one of the Xenos' Hidden Villages (see [[xenos|Xenos]]).[@fm09-wiene, fm09-mission, fm09-twentieth, fm09-village] |
 | DanMachi 10 | The Xenos travel through its bark-walled passages.[@fm10-xenos] |
 | DanMachi 12 | Hestia Familia's expedition camps on the twenty-fourth floor before going down to the Water Capital.[@fm12-camp, fm12-roots] |
@@ -80,3 +83,9 @@ Beyond Floor 18, Bell thinks, "you’d be better off considering everything beyo
 [@fm19-floor]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "We’re currently on the twenty-second floor, in the Colossal Tree Labyrinth."
 [@fm20-return]: FM20 | Chapter 1: Orario Rumble | "We made it through the Tangled Gorge, the Water Capital, the Colossal Tree Labyrinth".
 [@fm09-lampmoss]: FM09 | Chapter 5: Heretics | "This plant—often called Lamp Moss—is the only source of light on this floor."; "It was the Lamp Moss Lilly had harvested on the nineteenth floor." The Japanese edition (file c4T8, paragraph 62) says that, like the eighteenth floor's crystals, it apparently sells on the surface.
+[@fm09-ctl-vouivre]: FM09 | Chapter 1: An Irregular Girl | "On par with the unicorn, it’s known for being the rarest of rare monsters even in the Dungeon."; "I’ve heard it’s known to appear between the nineteenth and twenty-fourth floors"; "the red gem set in their foreheads"
+[@so03-ctl-collapse]: SO03 | Chapter 5: Hell and Hell | "A pantry infested with parasites forcing it to bear violas"; "A vessel to bring monsters from the Deep Levels to higher floors"; "The twenty-fourth floor’s north pantry collapsed that day." The Japanese edition (file c4J0, paragraphs 68–70) calls the pantry a relay point to breed Deep-Level monsters on the shallow floors and carry them out to the surface.
+[@fm05-ctl-crush]: FM05 | Chapter 5: The Outlaws' Party | "the beast landed with a loud crunch directly on top of the Central Tree"; "the trunk was thrust halfway underground as the colossal tree buckled under the giant’s weight"
+[@fm05-ctl-cutoff]: FM05 | Chapter 6: Praise to the Heroes | "the path to the lower levels under the Central Tree was cut off"
+[@ar02-ctl-delphyne]: AR02 | Epilogue: All You Need Is Justice | "The target was sighted at noon on the twenty-fourth floor, travelling upward toward the surface and destroying everything in its path."
+[@ar03-ctl-delphyne]: AR03 | Prologue: Last Intermission | "the monster has reached the twentieth floor! The scouting party has suffered heavy casualties!"; "the beast should have reached the nineteenth floor by now"

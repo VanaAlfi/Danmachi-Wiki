@@ -26,7 +26,7 @@
   }
 }
 ---
-**Artemis Familia** is the Familia of the goddess [[artemis|Artemis]]: "A familia without a home, who wandered the continent on a perpetual hunt", an all-female band. It is not officially part of Orario, but it counts upper-class adventurers among its members, and the goddess herself is "a formidable fighter to be reckoned with".[@ar03-familia, ar03-hermes] Its captain is [[#rethusa-and-lanta|Rethusa]]; Lanta is another member.[@ar03-captain]
+**Artemis Familia** is the Familia of the goddess [[artemis|Artemis]]: "A familia without a home, who wandered the continent on a perpetual hunt", an all-female band. It is not officially part of Orario, but it counts upper-class adventurers among its members, and the goddess herself is "a formidable fighter to be reckoned with".[@ar03-familia, ar03-hermes] Its captain is [[#rethusa-and-lanta|Rethusa]]; Lanta is another member.[@ar03-captain] Its strongest members are only Level 2, but with their goddess leading them no hunt is too dangerous; [[valletta|Valletta]] and Vito of the [[evils|Evils]] had expected any help from outside Orario to be "Level Two at best".[@ar03-artemis-strength]
 
 ## The Great Conflict {#great-conflict}
 
@@ -51,3 +51,4 @@ In Astrea Record 3, the moment Artemis hears of the [[great-conflict|Great Confl
 [@ar03-wall]: AR03 | Chapter 6: The Nameless Heroes | Eastern wall secured; waits for Lanta; the captain describes the forced march.
 [@ar03-relief]: AR03 | Chapter 6: The Nameless Heroes | Captain asks about other world powers; Artemis assigns those to the School District. The Japanese edition (file c6T0, paragraphs 22 and 23) has the captain ask whether it was right to set aside relief for the world powers, the Empire first, saying that they saved the towns and villages on their way as far as they could, and Artemis answer that she has left that to the School District; the English prints "I can appreciate why it was important to liberate all the towns and villages along our path" and "We’ll leave that to the School District".
 [@ar03-names-ja]: AR03 | Chapter 6: The Nameless Heroes | The Japanese edition writes the captain's name in katakana, read Retūsa (file c6T0, paragraph 30), and gives Lanta's name as the reading, Lante, of the word for Familia members, each time with a plural suffix, Lante and the others (file c6T0, paragraphs 5 and 30); the English prints Lanta.
+[@ar03-artemis-strength]: AR03 | Chapter 6: The Nameless Heroes | "they’ll only be Level Two at best"; "Though the strongest of them were only Level 2, no hunt was too dangerous with the divine leadership of their goddess at their backs."

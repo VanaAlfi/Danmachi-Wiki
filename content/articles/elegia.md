@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Orario's yearly night of mourning for the ancient heroes and for adventurers lost to the Dungeon: the city puts out its magic-stone lamps, walks by candlelight from Central Park to the heroes' monuments, and sings until dawn. With the Goddess Festival that follows it, it is one of the city's two great festivals.",
   "aliases": ["Festival of mourning", "Elegia holiday", "Festival of heroes"],
-  "spoilers": "DanMachi Vols. 15–17 and Sword Oratoria Vol. 13",
+  "spoilers": "DanMachi Vols. 15–17 and Sword Oratoria Vols. 3 and 13",
   "related": ["central-park", "orario", "guild", "three-great-quests", "aiz-wallenstein", "bell-cranell", "monsterphilia"],
   "sections": [
     {"anchor": "first-graveyard", "title": "First Graveyard", "summary": "Orario's public burial ground for those who fall in the Dungeon, also called the Adventurers Graveyard, with a jet-black monument to the ancient heroes and the hero Albert's gravestone at its centre.", "aliases": ["Adventurers Graveyard", "Adventurers' Graveyard"]},
@@ -40,7 +40,7 @@
 
 ## In DanMachi 15 {#danmachi-15}
 
-Elegia closes DanMachi 15. Bell, who has not yet lived in Orario a full year and has never heard of it, comes up from the Dungeon with a party of Dellingr Familia carrying the body of their comrade Celia, and his friends explain the festival to him.[@fm15-bell, fm15-explain]
+Elegia closes DanMachi 15. Bell, who has not yet lived in Orario a full year and knows the festival only by its name, comes up from the Dungeon with a party of Dellingr Familia carrying the body of their comrade Celia, and his friends explain the festival to him.[@fm15-bell, fm15-explain]
 
 [[aiz-wallenstein|Aiz]] walks the candlelit city alone in a white dress. A half-elf girl tells her that the festival is for praying to the great heroes to protect people from the dragon at the edge of the world, and asks her to beat it. Aiz promises, "I swear I’ll beat it", but alone afterwards she says, "…I can’t be anyone’s hero."[@fm15-dragon] (See [[three-great-quests|Three Great Quests]].) Listening to the elegy, Bell hears the gods singing as well, remembers his grandfather's words about heroes, and whispers: "I…want to be a hero…" "So…why is it all so sad?"[@fm15-song, fm15-bell]
 
@@ -48,11 +48,11 @@ The next morning Bell lays flowers at Celia's new grave in the First Graveyard a
 
 ## The First Graveyard {#first-graveyard}
 
-The **First Graveyard**, "also known as the Adventurers Graveyard", is a public burial ground in the south-eastern quarter of Orario and "the final resting place for those who fall in the Dungeon".[@fm15-firstday, fm15-graveyard] Its countless gravestones are of white stone, which mortals have come to associate with the heavens.[@fm15-graveyard] At its centre stands a giant jet-black monument to the heroes of ancient times, carved with their names; the gravestone in the middle of it was placed for the hero [[albert|Albert]].[@fm15-firstday, fm15-graveyard, fm16-albert] Bell first sees it on his first day in Orario. After Elegia the monument is heaped with flowers and burned-out candles.[@fm15-firstday, fm15-graveyard]
+The **First Graveyard**, "also known as the Adventurers Graveyard", is a public burial ground in the south-eastern quarter of Orario and "the final resting place for those who fall in the Dungeon".[@fm15-firstday, fm15-graveyard] As stones keep being added, two more graveyards, the Second and the Third, have been built on a small hill to the north outside the city wall.[@so03-graveyards] Its countless gravestones are of white stone, which mortals have come to associate with the heavens.[@fm15-graveyard] At its centre stands a giant jet-black monument to the heroes of ancient times, carved with their names; the gravestone in the middle of it was placed for the hero [[albert|Albert]].[@fm15-firstday, fm15-graveyard, fm16-albert] Bell first sees it on his first day in Orario. After Elegia the monument is heaped with flowers and burned-out candles.[@fm15-firstday, fm15-graveyard] In DanMachi 17 [[freya|Freya]] tells Bell that she first saw him there, when she had come to leave flowers for her children and he was visiting the heroes' memorial: "I was taken with you at first sight."[@fm17-graveyard-sight]
 
 ## The Goddess Festival {#goddess-festival}
 
-The **Goddess Festival** is the other of the two great festivals: "a harvest festival, a banquet of plenty", centred on the goddesses who preside over bountiful harvests. It is held close after Elegia, which "leaves the city in a sad and somber mood", in order to brighten things up; in DanMachi 16 it is "only six days away".[@fm16-festivals] Lilly names Orario's other famous celebrations as the Holy Night Festival, the [[monsterphilia|Monsterphilia]], Grand Day and the month of the gods.[@fm16-festivals] In DanMachi 17 Freya Familia attacks "another familia in broad daylight during the Goddess Festival that directly followed the Elegia holiday".[@fm17-holiday]
+The **Goddess Festival** is the other of the two great festivals: "a harvest festival, a banquet of plenty", centred on the goddesses who preside over bountiful harvests. It is held close after Elegia, which "leaves the city in a sad and somber mood", in order to brighten things up; in DanMachi 16 it is "only six days away".[@fm16-festivals] The festival lasts three days, and the goddesses sit on altars so that the many visitors can see them.[@fm16-festival-altars] [[demeter|Demeter]] opens it by giving thanks for the earth's bounty, and anyone who pays a modest fee may eat the fruits and vegetables set along the streets.[@fm16-festival-opening] Lilly names Orario's other famous celebrations as the Holy Night Festival, the [[monsterphilia|Monsterphilia]], Grand Day and the month of the gods.[@fm16-festivals] In DanMachi 17 Freya Familia attacks "another familia in broad daylight during the Goddess Festival that directly followed the Elegia holiday".[@fm17-holiday]
 
 ## In Sword Oratoria 13 {#sword-oratoria-13}
 
@@ -73,3 +73,7 @@ After saying her farewells to [[filvis|Filvis]], [[lefiya|Lefiya]] arranges a sm
 [@fm17-holiday]: FM17 | Chapter 1: The Opening of Hostilities | "Freya Familia was brazenly attacking another familia in broad daylight during the Goddess Festival that directly followed the Elegia holiday."
 [@so13-lefiya]: SO13 | Chapter 2: Nostalgic Schoolhouse | "the season of the Labyrinth City’s two great festivals came"; "Lefiya arranged a small expedition and hid away in the Dungeon, dodging Elegia."; "She had already said her farewells"; "She had planned to go alone, but Elfie, Alicia, and some of the other women of the familia joined her."; "the one time a year set aside for sorrow".
 [@fm15-elegia-ja]: FM15 | | The Japanese edition writes the festival's name with kanji meaning elegy festival, read Elegia.
+[@fm16-festival-altars]: FM16 | Chapter 4: Full Princess Panic! | "The Goddess Festival lasts for three days"; "so the goddesses sit up on those altars for them"
+[@fm16-festival-opening]: FM16 | Chapter 3: Harvest Festival | "We offer our thanks for the earth’s bounty—and declare the opening of the Goddess Festival!"; "once you cover a modest fee, it’s okay to pick up any of the fruits and vegetables set along the streets"
+[@so03-graveyards]: SO03 | Chapter 2: Let’s Party? | "Officially dubbed the First Graveyard"; "two more graveyards, the Second and Third, were constructed on top of a small hill to the north outside the city wall"
+[@fm17-graveyard-sight]: FM17 | Chapter 3: The Field of Battle | "At the Adventurers Graveyard. I had come to leave flowers for my children when you were visiting the memorial. I was taken with you at first sight."

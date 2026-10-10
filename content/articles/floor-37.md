@@ -23,11 +23,11 @@
   }
 }
 ---
-**Floor 37** of [[dungeon|the Dungeon]] lies in the deep levels. Called the White Palace, it is a concentric maze of five Ring Walls, large enough to hold all of [[orario|Orario]].[@fm14-palace, fm14-deep] DanMachi 2 places it in the deep levels, home to [[monsters#spartoi|Spartoi]] and to the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-fortress, fm02-rex, so02-rex]
+**Floor 37** of [[dungeon|the Dungeon]] lies in the deep levels. Called the White Palace, it is a concentric maze of five Ring Walls, large enough to hold all of [[orario|Orario]].[@fm14-palace, fm14-deep] The Guild sets Level 4 as the requirement for this floor.[@fm14-floor37-level] DanMachi 2 places it in the deep levels, home to [[monsters#spartoi|Spartoi]] and to the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-fortress, fm02-rex, so02-rex]
 
 ## The White Palace
 
-Its earth and stone are a cloudy white, its rooms immense, its ceilings too high to see, with icy draughts and little light from the walls.[@fm13-floor] The staircase to [[floor-36|Floor 36]] lies south, beyond the Fifth Wall. Within the maze are the Warrior Zone, where fighting monsters gather, and the [[colosseum|Colosseum]], which spawns monsters continually.[@fm14-palace] Lyu knows of no spring on the floor, only pantries, whose fluid causes blisters and vomiting.[@ss01-survival] But she and Bell later find a stream welling up from the bedrock in a passage below the Colosseum, "the thirty-seventh floor’s lone spring", which she had never heard of.[@fm14-spring, ss01-survival]
+Its earth and stone are a cloudy white, its rooms immense, its ceilings too high to see, with icy draughts and little light from the walls.[@fm13-floor] The staircase to [[floor-36|Floor 36]] lies south, beyond the Fifth Wall. The rings of the maze are named, from the centre, the Throne Zone, where floor bosses appear, and the Knight, Warrior, Soldier and Beast Zones, though the names say little about which monsters appear there; inside the Third Wall stands the [[colosseum|Colosseum]], which spawns monsters continually.[@fm14-palace] Lyu knows of no spring on the floor, only pantries, whose fluid causes blisters and vomiting.[@ss01-survival] But she and Bell later find a stream welling up from the bedrock in a passage below the Colosseum, "the thirty-seventh floor’s lone spring", which she had never heard of.[@fm14-spring, ss01-survival]
 
 ## History
 
@@ -51,9 +51,10 @@ They find a shelter with three skeletons and gear from a failed expedition; who 
 [@fm14-palace]: FM14 | | The White Palace; its walls, zones and staircase; Astrea Familia reached the forty-first floor, and Lyu knows the main route.
 [@fm14-deep]: FM14 | Chapter 9: Hello, Deep Levels | Floor 37 in the deep levels.
 [@fm14-four]: FM14 | Epilogue: You’ll Be Back II | Four days on the floor.
-[@fm14-shelter]: FM14 | | The shelter and the skeletons.
+[@fm14-shelter]: FM14 | Chapter 9: Hello, Deep Levels | The shelter and the skeletons.
 [@fm14-spring]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "A spring on the thirty-seventh floor…?"; "Lyu had never heard of such a thing."; "To think that this was here below the Colosseum"; "The sound of the thirty-seventh floor’s lone spring".
 [@so02-rex]: SO02 | Chapter 6: Parched Scream | "The Monster Rex that resided on the thirty-seventh floor."
 [@ss01-survival]: SS01 | | Story "Deep-Floor Survival": "This all happened before we discovered the spring on the thirty-seventh floor."; "There may be a pantry, but nothing more."; the pantry fluid; eight near-deaths (story "Whenever the Adviser and the Loli-Goddess Drink").
 [@ar03-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Delphyne born from the thirty-seventh floor. The Japanese edition (file c370, paragraph 10) says drawn by divine power and born from the thirty-seventh floor.
 [@fm14-floor37-ja]: FM14 | | The Japanese edition names the floor by its number and calls it the White Palace, written in kanji with that reading; the infobox gives both.
+[@fm14-floor37-level]: FM14 | | "the Guild has set the requirement for the thirty-seventh floor at Level 4"

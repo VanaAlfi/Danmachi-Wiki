@@ -190,7 +190,7 @@ Leon distinguishes the still-sealed [[three-great-quests|Black Dragon]] of the T
 
 ## Preblica, Karna and Lonza {#preblica-karna-and-lonza}
 
-Sword Oratoria 14's journey passes through riverside Preblica, the inn town Karna in the southwest of the continent's central region, the underground dwarf village of Lonza south of Karna, and the Celcebo mines west of Lonza.[@so14-preblica-site, so14-karna-geography, so14-karna-hub, so14-lonza-site, so14-celcebo-site]
+Sword Oratoria 14's journey passes through riverside Preblica, the inn town Karna in the southwest of the continent's central region, the underground dwarf village of Lonza south of Karna, and the Celcebo mines west of Lonza.[@so14-preblica-site, so14-karna-geography, so14-karna-hub, so14-lonza-site, so14-celcebo-site] It is the journey on which [[loki-familia|Loki Familia]] is founded: in Preblica [[finn-deimne|Finn Deimne]] becomes Loki's first follower.[@so14-geo-founding] [[riveria|Riveria Ljos Alf]] joins after leaving the Alf Royal Woods, and [[gareth|Gareth Landrock]], the pride of Lonza, sets out from the village with them.[@so14-geo-recruits]
 
 ### Preblica {#preblica-karna-and-lonza-preblica}
 
@@ -471,3 +471,5 @@ The Scrap Heap ({{ja|廃棄世界}}, written *the discarded world*) is the remai
 [@fc02-remote-ja]: FC02 | Their Various Pasts | The Japanese edition writes the Scrap Heap {{ja|廃棄世界}}, the discarded world (file c8F8, paragraph 8), and Heodenings {{ja|ヒャズニング}} (file c8RE, paragraph 14); DanMachi 18's Japanese names both where its English prints *a world of ruins* and *that accursed island* (file part0019, paragraph 117; file part0027, paragraph 46).
 [@ar03-dedyne-ja]: AR03 | Chapter 8: The Price of Talent | The Japanese edition writes Dedyne {{ja|デダイン}} and the Black Desert {{ja|黒の砂漠}} (file c7UR, paragraph 67).
 [@fm18-heodenings-memory]: FM18 | Chapter 9: Flower Language for You | Hegni recalls Freya rescuing himself and Hedin. The Japanese edition (file part0027, paragraph 46) names the island, Heodenings; the English prints "on that accursed island".
+[@so14-geo-founding]: SO14 | Chapter 1: The Prum's Adventure | "The place Loki had stumbled into was called Preblica."; "Yeah, kid, you’re in! You’re officially Loki Familia’s first follower!"; "the fledgling Loki Familia formally came into being in a quiet, backwater little village far from the center of the world"
+[@so14-geo-recruits]: SO14 | Chapter 3: The Dwarf's Embarking | "celebrate Rivvy entering the familia"; "He’s the pride of the town!"; "Gareth of Lonza, will you join our familia?"; "celebrating their comrade setting out into the world"

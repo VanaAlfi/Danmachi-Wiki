@@ -29,7 +29,7 @@
 
 ## Enemy of the Little Rookie
 
-In DanMachi 4 a scarred adventurer with two friends mocks Bell's search for party members at [[the-benevolent-mistress|The Benevolent Mistress]]. When he reaches for [[lyu-leon|Lyu]], she jams his hand into an ale jug.[@fm04-bar] {{inference}} This was probably Mord: DanMachi 5 says his group had been overpowered by the waitresses there, and Familia Chronicle 1 that he once picked a fight in the tavern and was thrown out.[@fm05-waitresses, fc01-casino]
+In DanMachi 4 a scarred adventurer with two friends mocks Bell's search for party members at [[the-benevolent-mistress|The Benevolent Mistress]]. When he reaches for [[lyu-leon|Lyu]], she jams his hand into an ale jug.[@fm04-bar] DanMachi 5 confirms that this was Mord: he and his two companions had been at The Benevolent Mistress during Bell's level-up party and were chased out after angering Lyu and the other staff, and Familia Chronicle 1 recalls that he picked a fight in the tavern and was thrown out.[@fm05-grudge, fm05-waitresses, fc01-casino]
 
 In DanMachi 5, in a bar in Rivira, he rages that a cheeky rookie has reached the middle levels so soon after his Level Up, when they have been there for years.[@fm05-grudge, fm05-ja-grudge] Hermes, overhearing, offers to tell him the plans of Bell's party and lends him a magic item made by [[asfi|Asfi]], the helmet Hades Head, on one condition: "Entertain me."[@fm05-hermes] Made invisible by it, Mord carries Hestia off from the camp.[@fm05-kidnap] He leads Bell to a plateau ringed by more than twenty adventurers and duels him with a great sword and a longsword, beating him while unseen.[@fm05-duel, fm05-invisible] Bell learns to read the malice in Mord's gaze, throws crystal powder in his path, breaks his sword and smashes the helmet with a kick.[@fm05-gaze, fm05-helmet] When the adventurers move to join in, Hestia's divine command freezes them, and they flee.[@fm05-stop]
 
@@ -53,7 +53,7 @@ When the Black Goliath appears, Mord's group is the closest to it and the first 
 
 ## Names
 
-The full name Mord Latro is first printed in DanMachi 8.[@fm08-goliath] His companions are Scott and Gyle; Familia Chronicle 1 prints the second as *Guile*, and DanMachi 20 prints the first once as *Scoot*.[@fm18-ogma, fc01-card, fm20-orariad]
+The full name Mord Latro is first printed in DanMachi 8.[@fm08-goliath] His companions are Scott and Gyle; Familia Chronicle 1 prints the second as *Guile*, and DanMachi 20 prints the first once as *Scoot*.[@fm18-ogma, fc01-card, fm20-orariad] DanMachi 18 also prints the first once as *Scot*.[@fm18-scot]
 
 [@fm04-bar]: FM04 | Chapter 2: Changing Environment, New Relationships | "Having some party problems there, ‘Little Rookie’?!"; a male adventurer and two friends; "Their square faces are covered in scars"; Lyu jams his hand into an ale jug.
 [@fm05-grudge]: FM05 | Chapter 4: Dungeon Resort? | "All three were human men. The one with the scar was named Mord"; "levels up in a few months, and now his ass is all the way down here?!"
@@ -77,8 +77,8 @@ The full name Mord Latro is first printed in DanMachi 8.[@fm08-goliath] His comp
 [@fm06-win]: FM06 | Chapter 5: Our War Game | Mord thought he was the only winner, until he saw Nahza.
 [@fm08-help]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Rivira's extermination of the Goliath; "UOAHHHHHHHHHHH!! Little Rookie, HELP MEEEEEEEEE!!"
 [@fm08-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Third-tier adventurer Mord Latro"; he came to accept Bell; "The man had spent many years at Level 2"; he had started to go on adventures; the Japanese edition (file part0021, paragraph 162) calls him a man who had only swaggered.
-[@fm11-hunt]: FM11 | | Scars on his forehead and cheeks; the bounty; "So stop picking on the Little Rookie!!"
-[@fm11-lizardman]: FM11 | | "It’s…the lizardman!"; "With a chorus of wretched screams, Mord and the others fled at full speed."
+[@fm11-hunt]: FM11 | Prologue: The Lost Ones | Scars on his forehead and cheeks; the bounty; "So stop picking on the Little Rookie!!"
+[@fm11-lizardman]: FM11 | Prologue: The Lost Ones | "It’s…the lizardman!"; "With a chorus of wretched screams, Mord and the others fled at full speed."
 [@fm11-cheer]: FM11 | Chapter 7: The Return of the Hero | "Kill the damn monnnnnnnsterrrrrrrrr!"; "It was Mord, the rogue adventurer."; "Go get ’im, big brotheeeerrrrrrr!!"
 [@fm17-charm]: FM17 | Chapter 2: Alone Inside a Sandbox | "R-Rabbit Foot?! From Freya Familia?!"; "His usual companions, Scott and Gyle"; "I’ve never, ever done anything like that!"
 [@fm17-folkvangr]: FM17 | Chapter 5: The End of Her World | "we can just slip away in the chaos and swipe whatever money they’ve got hidden there…!"
@@ -95,3 +95,4 @@ The full name Mord Latro is first printed in DanMachi 8.[@fm08-goliath] His comp
 [@fc01-riot]: FC01 | Crush the Grand Casino! | "when they heard it was for Lyu, to whom they owed a favor for the fight on the eighteenth floor, they tearfully gave in"; Mord throws Bell across a table.
 [@fc01-thrown]: FC01 | Crush the Grand Casino! | Staff and Ganesha Familia throw Bell, Mord, Scott and Guile out of the Casino Strip.
 [@ss01-debt]: SS01 | | "Incurring an Outlaw’s Debt": the night of the Xenos rescue operation in Daedalus Street; "I’m gonna throw my lot in with Little Rookie here!"; "I ran into a lizardman in the sewers once and got my ass handed to me."
+[@fm18-scot]: FM18 | Chapter 8: The Great Familia War | "Gyle and Scot, and Luvis’s elves went silent"

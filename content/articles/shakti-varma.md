@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Human captain of Ganesha Familia, the city watch, titled Ganesha's Cane, Ankusha. In the dark age she loses her sister Adi to an Evils suicide bomber; years later she is one of the few people who know that Lyu Leon is alive.",
   "aliases": ["Shakti", "Ankusha", "Ganesha's Cane"],
-  "spoilers": "DanMachi Vols. 10, 11, 14, 18 and 20, Sword Oratoria Vol. 11, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
+  "spoilers": "DanMachi Vols. 10, 11, 14, 18 and 20, Sword Oratoria Vols. 11 and 12, Familia Chronicle Vols. 1 and 3, and Astrea Record Vols. 1–3",
   "related": ["ganesha-familia", "lyu-leon", "astrea-familia", "valletta", "thanatos", "asterios"],
   "infobox": {
     "title": "Shakti Varma",
@@ -41,7 +41,7 @@ Leading the joint raid on [[valletta|Valletta Grede]]'s base, Shakti, then Level
 
 ## "That is my justice"
 
-In Astrea Record 2 Shakti tells her troops never to show mercy to their foes and calls Adi's death a mistake that none of them must repeat. When Lyu confronts her, she replies that Adi "died for it", and that using even her sister's memory to keep people alive "is my justice". Lyu runs from her.[@ar02-speech]
+In Astrea Record 2 Shakti tells her troops never to show mercy to their foes and calls Adi's death a mistake that none of them must repeat. When Lyu confronts her, she replies that Adi "died for it", and that using even her sister's memory to keep people alive "is my justice". Lyu runs from her.[@ar02-speech] With [[gareth|Gareth]] she tries to get past [[zald|Zald]] to reach [[olivas-act|Olivas]]'s army, and the two are left on the brink of defeat, their weapons and armour all but destroyed.[@ar02-shakti-zald]
 
 Later she visits Astrea Familia's home with a branch of the [[holy-tree|holy tree]] from Lyu's birthplace, [[geography#elven-forests-lumirua-forest|Lumirua Forest]] {{small|printed *Lyumilua Forest* in Astrea Record 2}}, seized from the black market, and tells Lyu that Adi wanted her to have it. When Lyu apologises, Shakti answers that Lyu was standing up for Adi that day, "it made me happy". She then visits Adi's grave in a makeshift cemetery, where nothing of her sister is actually buried.[@ar02-branch]
 
@@ -53,9 +53,10 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 |---|---|
 | Familia Chronicle 1 | At the [[el-dorado-resort|Grand Casino]] she sees Lyu, one of the very few people who know both Lyu's face and that she is alive, and lets her act. Lyu slips her the [[status-thief|Status Thief]] vial that exposes the casino's owner.[@fc01-casino] |
 | DanMachi 10 | Commands Ganesha Familia's force against the [[armed-monsters|armed monsters]], the [[xenos|Xenos]], on [[floor-18|Floor 18]], where the Guild has ordered them tamed. She fights with fists and whip.[@fm10-faith, fm10-subjugation, fm11-recovery] Then a single blow from the black [[minotaur|minotaur]], later called [[asterios|Asterios]], smashes her into a tree and leaves her motionless.[@fm10-asterios] Later that day [[lido|Lido]], the Xenos' leader, counts her among the few adventurers he could not easily dispatch.[@fm10-asterios-view] |
-| DanMachi 11 | Recovering in bed at the Familia's home, she tells Ganesha, who had told her about the Xenos, that she feels both fierce anger and sympathy toward them; their hesitation cost Ganesha Familia lives.[@fm11-recovery] |
+| DanMachi 11 | Recovering in bed at the Familia's home, she tells Ganesha, who had told her about the Xenos, that she feels both fierce anger and sympathy toward them, and that she fears that Ilta and the others, now knowing of such beings, will hesitate, and that a moment's hesitation will cost comrades their lives (the English prints it as past: "That moment of hesitation cost our friends their lives").[@fm11-recovery] |
 | Sword Oratoria 11 | Guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]]; Ganesha tells her and Ilta that they need not be avengers for the murdered [[hashana|Hashana]].[@so11-daedalus] |
 | DanMachi 18 | Insists that Ganesha Familia do its duty and prepare the battlefield for the Familia War against [[freya-familia|Freya Familia]], and explains the politics to the angry Ilta.[@fm18-ilta] She opens the bridge to the [[geography#ruins-near-orario-orza-ruins|Orza ruins]] for the [[familia-coalition|coalition]].[@fm18-bridge] |
+| Sword Oratoria 12 | At the strategy meeting for the final assault on [[knossos|Knossos]], she judges that the city cannot be evacuated in time and that they should "act as if nothing" is happening; Finn accepts her judgment, and she fights in his first squad.[@so12-shakti-meeting] When Finn hurries off to [[raul-nord|Raul]], he leaves the first squad and the demi-spirit to her and [[allen-fromel|Allen]]: "Shakti, take command!"[@so12-shakti-command] |
 | DanMachi 20 | The School District's fighters name Ankusha as an adventurer to beware of.[@fm20-wary] At the [[orariad|Orariad]] she and Ilta win the tag-team match against the School District.[@fm20-orariad] |
 
 ## Open questions
@@ -69,7 +70,7 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 [@fm10-subjugation]: FM10 | Chapter 9: Dreams of Beasts | Taming whips passed to Shakti; a troll sent flying with a punch; her whip.
 [@fm10-asterios]: FM10 | Chapter 9: Dreams of Beasts | WHAM; Shakti against the tree; facedown and motionless.
 [@fm10-asterios-view]: FM10 | Chapter 10: The Fool | Lido, fighting Tione, excepts only Shakti among those he could handily dispatch; the Japanese edition (file c7C6, paragraph 123) counts Ganesha Familia's other first-tier adventurers and Dix among them.
-[@fm11-recovery]: FM11 | | Indigo-haired; seriously injured on the mission to the eighteenth floor; told about the Xenos; the Guild ordered her to tame the monsters; "Fierce anger, and also sympathy".
+[@fm11-recovery]: FM11 | Chapter 2: Diverging Strands, Intersecting Plans | Indigo-haired; seriously injured on the mission to the eighteenth floor; told about the Xenos; the Guild ordered her to tame the monsters; "Fierce anger, and also sympathy"; "That moment of hesitation cost our friends their lives…It scares me." (the Japanese edition, file c14W, paragraph 233, has her fear that Ilta and the others, knowing of such beings, will hesitate, and that a moment's hesitation will cost comrades their lives).
 [@fm14-adi]: FM14 | Special Chapter: Recollection of Justice | "Why did Shakti’s younger sister, Adi, die?"
 [@fm18-ilta]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Ilta's protest; Shakti and her sister caught and punished Ilta; politics; the preparations for the war game.
 [@fm18-bridge]: FM18 | Chapter 8: The Great Familia War | On Shakti's order the bridge to the Orza ruins is opened.
@@ -85,7 +86,10 @@ In the [[great-conflict|Great Conflict]] of Astrea Record 3, [[finn-deimne|Finn]
 [@ar01-valletta]: AR01 | Chapter 8: Sound of Life | Valletta the sole Level 5; her foes Levels 4 and 3, Shakti and Alize.
 [@ar01-ardee]: AR01 | Chapter 8: Sound of Life | The little girl's bomb; "That kid you tricked"; "There wasn’t anything left of her sister to bury."
 [@ar01-rescue]: AR01 | Chapter 8: Sound of Life | Shakti, covered in blood, hoists Lyu onto her shoulder and carries her away.
-[@ar02-speech]: AR02 | | Ganesha Familia as the city watch; "Ardee died because of mercy!"; "And she died for it."; "That is my justice."
-[@ar02-branch]: AR02 | | The holy tree branch from Lyumilua Forest; "Ardee wanted you to have them."; "It made me happy."; the makeshift cemetery.
-[@ar03-command]: AR03 | | Finn entrusts command of the southwest district to Shakti.
+[@ar02-speech]: AR02 | Chapter 1: The Taste of Stones | Ganesha Familia as the city watch; "Ardee died because of mercy!"; "And she died for it."; "That is my justice."
+[@ar02-branch]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | The holy tree branch from Lyumilua Forest; "Ardee wanted you to have them."; "It made me happy."; the makeshift cemetery.
+[@ar03-command]: AR03 | Chapter 2: The Conqueror’s Return | Finn entrusts command of the southwest district to Shakti.
 [@ar03-sword]: AR03 | Prologue: Last Intermission | Sacred Oath, carried with Shakti's permission.
+[@so12-shakti-meeting]: SO12 | Chapter 4: Nameless Heroes | "be able to evacuate the city in time"; "we should act as if nothing"; "If Shakti has made that judgment"; "be with me in the first"
+[@so12-shakti-command]: SO12 | Chapter 8: A Heroes' Chorus | "Shakti, take command!"; "Leaving the first squad and the demi-spirit to Allen and Shakti"
+[@ar02-shakti-zald]: AR02 | Chapter 10: What I Learned: Twilight Answer | "Zald glanced over in the direction of Olivas"; "Gareth and Shakti, who stood on the brink of defeat, their weapons and armor all but destroyed"; "the conqueror still intended to block their path"

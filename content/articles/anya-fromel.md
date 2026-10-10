@@ -11,7 +11,7 @@
   "aliases": ["Ahnya", "Ahnya Fromel", "Anya", "Vana Alfi"],
   "aliases_display": "Printed as **Ahnya** in most English volumes · former adventurer title **Vana Alfi**",
   "hatnote": "Most English volumes print her name as “Ahnya”. For every printed spelling and her former title Vana Alfi, see [[#names|§ Names and titles]].",
-  "spoilers": "DanMachi Vols. 1–20, Familia Chronicle Vols. 1–2, Astrea Record Vol. 2 and Minor Myths and Legends",
+  "spoilers": "DanMachi Vols. 1–8, 10–11 and 13–20, Sword Oratoria Vol. 9, Familia Chronicle Vols. 1–2, Astrea Record Vol. 2 and Minor Myths and Legends Vols. 1–2",
   "related": ["allen-fromel", "syr-flover", "the-benevolent-mistress", "freya-familia", "lyu-leon", "chloe", "runoa", "mia-grand", "falna", "level"],
   "infobox": {
     "title": "Anya Fromel",
@@ -46,16 +46,16 @@
 
 The English editions print her name in more than one form. Most volumes use **Ahnya**; the full name **Ahnya Fromel** appears in DanMachi 16–18; Astrea Record 2 prints **Anya**.[@fm01-named, fm16-name, ar02-conflict] This wiki uses *Anya* as its display form and keeps the printed spelling in quotations and source notes.[@ar02-conflict]
 
-As an adventurer she was **Vana Alfi**; her brother Allen is **Vana Freya**.[@fm16-street, fc01-fight] When her old title is recognised in Familia Chronicle 1, she disowns it and calls herself only a stray cat of the tavern, a rejection of her former life.[@fc01-fight]
+As an adventurer she was **Vana Alfi**; her brother Allen is **Vana Freya**.[@fm16-street, fc01-fight] When her old title is recognised in Familia Chronicle 1, she disowns it and calls herself just "the stray cat Ahnya", a rejection of her former life.[@fc01-fight]
 
 ## Appearance
 
-The covered novels give few fixed physical details for Anya. Familia Chronicle 1 introduces her on the tavern roof as "a girl with brown fur".[@fc01-fur] The novels describe a slender tail that swishes, droops when she is dejected and quivers when her past comes up, and ears that droop when her old title is recognised.[@fm01-named, fc01-tavern, fc01-fight]
+The covered novels give few fixed physical details for Anya. Familia Chronicle 1 introduces her on the tavern roof as "a girl with brown fur".[@fc01-fur] Her eyes are the same colour as Allen's: DanMachi 16 notes the "faint golden irises" the siblings share, though the colour of their fur differs.[@fm16-anya-eyes] The novels describe a slender tail that swishes, droops when she is dejected and quivers when her past comes up, and ears that droop when her old title is recognised.[@fm01-named, fc01-tavern, fc01-fight]
 
 In battle she carries a gold spear and wears gold armour on her right shoulder, contrasted in DanMachi 18 with Allen's silver equipment on his left.[@fm18-allen] When the spear first appears in Familia Chronicle 1 it is wrapped in cloth and looks like a club.[@fc01-fight]
 
-> [!UNRESOLVED] Hair and eye colour
-> Apart from the "brown fur" of Familia Chronicle 1, which does not separate the hair on her head from her ears and tail, neither is stated in the passages checked for this article. The anime and game designs shown in the infobox and gallery are labelled as such; they are not evidence for the novels and are not used to fill the gap.
+> [!UNRESOLVED] Hair colour
+> Apart from the "brown fur" of Familia Chronicle 1, which does not separate the hair on her head from her ears and tail, her hair colour is not stated in the passages checked for this article. The anime and game designs shown in the infobox and gallery are labelled as such; they are not evidence for the novels and are not used to fill the gap.
 
 ## Personality
 
@@ -78,18 +78,20 @@ Anya's memories of her early life are fragmentary: a happy home, then ruins, wit
 
 Both children received Falna and joined Freya Familia. The training frightened and hurt her, but she fought to keep up with her brother. Allen reached Level 2 within a year; Anya reached Level 2 when he reached Level 3.[@fc02-past, fm17-past]
 
-Eventually she forced her way onto an expedition to the deep floors. She nearly died there, and Allen, dragged into it, was badly hurt too. Afterwards he rejected her, and Freya expelled her from the Familia.[@fm17-expulsion] Anya experienced this as being discarded by the last family she had.[@fm17-expulsion] Syr took her in at The Benevolent Mistress, where hard work and the staff's kindness gradually brought her cheerfulness back.[@fm17-expulsion]
+Eventually she forced her way onto an expedition to the deep floors. She nearly died there, and Allen, dragged into it, was badly hurt too. Afterwards he rejected her, and Freya expelled her from the Familia.[@fm17-expulsion] Anya experienced this as being discarded by the last family she had.[@fm17-expulsion] Syr took her in at The Benevolent Mistress, where Syr's kindness and the hard work Mia gave her gradually brought her cheerfulness back.[@fm17-expulsion]
 
 > [!UNRESOLVED] No dates
 > The novels give the order of these events but not when they happened. The year of the expedition and the dates of her Level 3 and Level 4 promotions are not stated. What is fixed: she is already helping Syr during the [[great-conflict|Great Conflict]] in Astrea Record 2, and she worked at the tavern before Lyu, Chloe and Runoa arrived.[@ar02-conflict, fc01-precedes]
 
 ### Life at the tavern
 
-Astrea Record 2 shows Anya helping Syr during the Great Conflict.[@ar02-conflict] In Familia Chronicle 1 she is an established employee. When Chloe, then an assassin, confronts Lyu on the tavern roof, Anya wakes from a drunken sleep, takes Lyu's side and fights Chloe with her spear.[@fc01-fight] In that volume's casino story she is among the coworkers who already know Lyu's past.[@fc01-casino]
+Sword Oratoria 9 shows her working at the tavern soon after it was built, during the Dark Ages: when [[loki|Loki]] first brings the young [[aiz-wallenstein|Aiz]] there, Mia calls for alcohol from a catgirl waitress "older than Aiz", with "gloomy eyes and a doll-like expression", whom she addresses as Ahnya.[@so09-anya-tavern]
 
-DanMachi 1 introduces her without a name, as the catgirl waitress who shouts that Bell is "the dine-and-dasher from before" when he comes back to the tavern.[@fm01-first] A later scene in the same volume identifies her: she asks Bell to take Syr's forgotten wallet to her, calls him by a nickname based on his white hair, and Lyu addresses her by name.[@fm01-named] In DanMachi 8 she joins the scheme to follow Syr and discover her secret.[@fm08-sing]
+Astrea Record 2 shows Anya helping Syr during the Great Conflict.[@ar02-conflict] In Familia Chronicle 1 she is an established employee. When Chloe, then an assassin, attacks Lyu at the tavern, Anya wakes from a drunken sleep, takes Lyu's side and fights Chloe on the roof with her spear.[@fc01-fight] In that volume's casino story she is among the coworkers who already know Lyu's past.[@fc01-casino]
 
-The short-story collections add everyday scenes. She is among the waitresses watching Lyu's embarrassment in "Eyewitness Account: The Malfunctioning Elf", and she warns about Mia's temper while cleaning.[@ss01-eyewitness, ss01-mia] She cheers Bell's win at cards and watches Lyu train him a few days after the casino affair.[@ss02-cards, ss02-training] She is on shift when Allen delivers an invitation to the tavern; he declines Syr's suggestion that he see his sister.[@ss02-invite]
+DanMachi 1 introduces her without a name, as the catgirl waitress who shouts that Bell is "the dine-and-dasher from before" when he comes back to the tavern.[@fm01-first] A later scene in the same volume identifies her: she asks Bell to take Syr's forgotten wallet to her, calls him by a nickname based on his white hair, and Lyu addresses her by name.[@fm01-named] In DanMachi 8 it is she who proposes a quest for Bell: to trail Syr and discover her secrets.[@fm08-sing]
+
+The short-story collections add everyday scenes. She is among the waitresses watching Lyu's embarrassment in "Eyewitness Account: The Malfunctioning Elf", and she warns Lyu about Mia's temper while they prepare for the day shift.[@ss01-eyewitness, ss01-mia] She cheers Bell's win at cards and watches Lyu train him a few days after the casino affair.[@ss02-cards, ss02-training] She is on shift when Allen delivers an invitation to the tavern; he declines Syr's suggestion that he see his sister.[@ss02-invite]
 
 ### Rescue in the Dungeon
 
@@ -108,13 +110,13 @@ After Freya's charm rewrites the city's memories in DanMachi 17, Anya and Mia st
 > [!INFERENCE] Why she remembers
 > Hedin explains that Freya's followers kept their awareness because they were released through her [[ichor|ichor]]. Applying that to Anya and Mia is an inference: their individual cases are not narrated in the same detail. She is not simply immune, since Freya offers to charm her into forgetting.[@fm17-hedin]
 
-Freya then reveals directly to Anya that she is Syr. Anya refuses to accept it, cries, demands Syr back and lunges forward; Allen knocks her away.[@fm17-reveal] Freya's separate explanation to Lyu afterwards is not something Anya hears.[@fm17-reveal]
+Freya then reveals directly to Anya that she is Syr. Anya refuses to accept it, cries, demands Syr back and lunges forward; Allen knocks her away.[@fm17-reveal] The meeting was a trap: Freya Familia was using Anya as bait to draw out Lyu, who had followed her and leaps out when Allen knocks her away.[@fm17-anya-bait] Whether Anya, lying where Allen knocked her, hears Freya's separate exchange with Lyu afterwards is not stated.[@fm17-reveal] Freya then leaves Anya to Allen, as she had promised him; he warns her that he will destroy the tavern if she does anything uncalled for, carries Lyu away and leaves her alone in the plaza, crying in the rain.[@fm17-anya-left]
 
 ### The War Game
 
 In DanMachi 18, [[bete-loga|Bete]] brings Anya to [[horn|Hörn]], who at that point looks like Syr, and explains only that she mirrors Syr's true feelings. Through her, Anya hears Syr's apology and plea to be saved. Frightened, she chooses to fight for her family.[@fm18-horn] She says that she still wants to be Allen's family again, but that besides Lyu, Chloe, Runoa, Mia and the others she has one more family, the one and only family who saved her: Syr.[@fm18-family]
 
-During the battle she casts [[#remisto-felis|Remisto Felis]] under cover of [[hedin|Hedin]]'s bombardment, and fights at a temporary pseudo-Level 5 under [[haruhime|Haruhime]]'s [[magic#uchide-no-kozuchi|Level Boost]].[@fm18-remisto, fm18-family] [[hegni|Hegni]] saves her from Allen's rage.[@fm18-hegni] In their fight she learns that Allen asked Freya to send her away, to keep her off the battlefield of his hunt for the dragon that destroyed their home, and that he still loves her.[@fm18-allen] His magic, which she had not known about, finally breaks through her resistance.[@fm18-breakthrough]
+During the battle she casts [[#remisto-felis|Remisto Felis]] under cover of [[hedin|Hedin]]'s bombardment, and fights at a temporary pseudo-Level 5 under [[haruhime|Haruhime]]'s [[magic#uchide-no-kozuchi|Level Boost]].[@fm18-remisto, fm18-family] [[hegni|Hegni]] saves her from Allen's rage.[@fm18-hegni] In their fight, from Hegni's words and his own, she learns that Allen pushed her away to keep her off the battlefield of his hunt for the dragon that destroyed their home, and that he still loves her.[@fm18-allen] His memories show that he had asked Freya to discard her and remove her from the battlefields, so that she would be taken to the tavern and given another family and another home.[@fm18-allen-request] His magic, which she had not known about, finally breaks through her resistance.[@fm18-breakthrough]
 
 The fight is not a clean measure of strength. Anya was boosted, Allen was weakened by her magic and emotionally compromised, Hegni intervened, and the narration says a calmer Allen could have ended her resistance quickly.[@fm18-family, fm18-hegni, fm18-allen]
 
@@ -226,7 +228,7 @@ Bete forcibly brings her to Hörn, and a remark of his about Allen gives her som
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Her age, her age when Freya found the siblings, and the age gap with Allen. Only Allen's age, six, is given.[@fc02-past]
 > - The dates of the expedition and of her Level 3 and Level 4 promotions.[@fm17-past]
-> - Whether her Falna was converted before the War Game. Chloe's and Runoa's conversions are mentioned; hers is not, and it should not be assumed.[@fm18-conversions]
+> - Why she still bore Freya's Falna after her expulsion. During the War Game a [[ganesha-familia|Ganesha Familia]] member counts her, with Mia, among Goddess Freya's followers, while Chloe and Runoa had already converted.[@fm18-conversions, fm18-anya-follower]
 > - Her exact wage, and the origin and size of her debt to Mia.[@fm16-pay]
 > - Who told her about Lyu's past, and how much she knows.[@fc01-casino]
 > - How much she understands about Hörn beyond Bete's basic explanation.[@fm18-horn]
@@ -243,11 +245,11 @@ Bete forcibly brings her to Hörn, and a remark of his about Allen gives her som
 - **Astrea Record** 2.[@ar02-conflict]
 - **Minor Myths and Legends** 1 and 2.[@ss01-eyewitness, ss02-cards]
 
-She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been reviewed for this article.[@fm02-name, fm03-name, fm06-name, fm13-name]
+She also appears briefly, mostly in scenes at the tavern, in DanMachi 2–7, 10, 11, 13 and 15 and in a recollection in Sword Oratoria 9.[@fm02-name, fm03-name, fm04-anya, fm05-anya, fm06-name, fm07-anya, fm10-anya, fm11-anya, fm13-name, fm15-anya, so09-anya-named]
 
 [@fm01-syr]: FM01 | Chapter 2: That’s Why I Run | Bell meets Syr at the tavern the morning after the Minotaur rescue.
 [@fm01-first]: FM01 | Chapter 4: That’s Why I Want to Help | An unnamed catgirl waitress: "The dine-and-dasher from before"; identified by the later scene.
-[@fm01-named]: FM01 | Chapter 5: The G♥ddess’s Prank | Wallet errand; Lyu addresses her by name.
+[@fm01-named]: FM01 | Chapter 5: The Goddess’s Prank | Wallet errand; Lyu addresses her by name.
 [@fm02-name]: FM02 | | Name occurrence recorded in the project name registry; scene not reviewed for this article.
 [@fm03-name]: FM03 | | Name occurrence recorded in the project name registry; scene not reviewed for this article.
 [@fm06-name]: FM06 | | Name occurrence recorded in the project name registry; scene not reviewed for this article.
@@ -257,7 +259,7 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fm16-name]: FM16 | Chapter 6: The Wish’s Cost | Full name printed as “Ahnya Fromel”.
 [@fm16-ch1]: FM16 | Chapter 1: A Stormy Love Letter |
 [@fm16-pay]: FM16 | Chapter 2: A Tearful and Painful Festival Eve |
-[@fm16-scent]: FM16 | | Trailing Syr's date by scent.
+[@fm16-scent]: FM16 | Chapter 3: Harvest Festival | Trailing Syr's date by scent.
 [@fm16-boat]: FM16 | Chapter 4: Full Princess Panic! |
 [@fm16-scent2]: FM16 | Chapter 6: The Wish’s Cost |
 [@fm16-street]: FM16 | Chapter 6: The Wish’s Cost |
@@ -307,3 +309,16 @@ She is also named in DanMachi 2, 3, 6 and 13; those scenes have not yet been rev
 [@fm18-spin]: FM18 | Chapter 9: Flower Language for You | In DanMachi 18, she spins the spear overhead as Freya Familia's warriors charge.
 [@fm18-duel]: FM18 | Chapter 9: Flower Language for You | Anya readies her golden spear and charges to meet Allen Fromel's silver spear.
 [@fm18-pressure]: FM18 | Chapter 9: Flower Language for You | Their spears clash repeatedly, and her golden spear strains under the accelerating silver spear.
+[@fm18-allen-request]: FM18 | Chapter 9: Flower Language for You | "I will fight to make up for her share, too, so please discard that idiot."; "Please remove her from my world, from battlefields where the weak will never survive."; "so that she could take his sister to the tavern, to give her another family and another home"
+[@fm18-anya-follower]: FM18 | Chapter 9: Flower Language for You | "Even if we avert our eyes to Demi Ymir and Vana Alfi, since they are Goddess Freya’s followers"; the Japanese edition (part0026, paragraph 423) also counts both among Goddess Freya's followers.
+[@fm04-anya]: FM04 | Chapter 2: Changing Environment, New Relationships | "Two waitresses—Ahnya, a cat person, and a human—come out to meet me and usher me inside."
+[@fm05-anya]: FM05 | Chapter 2: How Many Meders to a Safe Return? | "The catgirls Ahnya and Chloe, as well as Runoa and the other waitresses, were glaring daggers at them."
+[@fm07-anya]: FM07 | Chapter 3: Agony of the Fox and the Rabbit | "The cat person Ahnya grabs my attention as I pass in front of The Benevolent Mistress."
+[@fm10-anya]: FM10 | Chapter 6: Before the Storm | "Ahnya, Runoa, and Chloe watched the conversation on the street"
+[@fm11-anya]: FM11 | Chapter 1: The White Rabbit Brought Low | "I can hear the catgirl waitresses Ahnya and Chloe asking me the same questions over and over"
+[@fm15-anya]: FM15 | Interlude: Elven Unrest | "Ahnya and Chloe abandoned their work entirely"
+[@so09-anya-named]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | "Ahnya! Bring all the alcohol we have."
+[@fm16-anya-eyes]: FM16 | Chapter 6: The Wish’s Cost | "the faint golden irises, the lay of their fur, even if the color itself was different"
+[@so09-anya-tavern]: SO09 | Recollections Chapter 3: Gods and People from Days Gone Past | "Aiz entered Loki Familia during Orario’s Dark Ages."; "It was just built, though."; "It was a catgirl older than Aiz. She had gloomy eyes and a doll-like expression that seemed vaguely familiar."; "Ahnya! Bring all the alcohol we have."
+[@fm17-anya-bait]: FM17 | Chapter 4: Those Left Behind | "The elf who had followed Ahnya"; "And they had used Ahnya, whom they had waited to deal with, as bait to lure Lyu out."; "The exchange with Ahnya had been a trap to lure out Lyu."
+[@fm17-anya-left]: FM17 | Chapter 4: Those Left Behind | "As promised, I will leave Ahnya to you."; "If you do anything uncalled for, I will destroy that tavern."; "The same rain fell on Ahnya as the day she had been abandoned by her brother and her goddess."

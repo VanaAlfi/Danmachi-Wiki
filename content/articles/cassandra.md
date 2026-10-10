@@ -33,7 +33,7 @@
 
 Cassandra and Daphne first appear delivering Apollo's invitation to [[bell-cranell|Bell]]; [[eina-tulle|Eina]] identifies them as Level 2, third-tier adventurers.[@fm06-intro] Daphne later tells [[hestia|Hestia]] that Apollo chased the two of them from city to city and country to country until they gave in and joined him.[@fm06-chased]
 
-Even then Cassandra's dreams warned of what was coming. Before the [[war-game|War Game]] she tells Daphne that the castle will fall and they must get away; Daphne dismisses it as "another dream".[@fm06-dream, fm06-castle] The narration says she was "gifted with prophetic dreams" that no one took seriously, Daphne included.[@fm06-dream]
+Even then Cassandra's dreams warned of what was coming. Before the [[war-game|War Game]] she tells Daphne that the castle will fall and they must get away; Daphne dismisses it as "another dream".[@fm06-dream, fm06-castle] The narration says she was "gifted with prophetic dreams" that no one took seriously, Daphne included.[@fm06-dream] During the War Game she warns [[hyacinthus|Hyacinthus]] that lightning will rise; when the blast comes up through the throne room she tackles him out of the window, and later she knocks Bell's arm aside as his magic fires, "protecting Hyacinthus from the blast", until Lilly tackles her from behind.[@fm06-cassandra-wargame]
 
 ## Joining Miach Familia
 
@@ -72,6 +72,23 @@ Cassandra and Daphne both reach Level 3 on that expedition; [[miach-familia#nahz
 
 Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-light|Soul Light]] and [[#cure-ephialtes|Cure Ephialtes]], and one Skill, [[skills#five-dimension-troia|Five-Dimension Troia]], whose effect is marked indecipherable; the sheet says even its name is [[miach|Miach]]'s interpretation. It also describes her [[#rabbit-charm|Rabbit Charm]], made from the fur of the Xenos [[al-miraj|al-miraj]] after a prophetic dream.[@sheet.fm14-cassandra]
 
+{{nocite}} One tab per Level, each copying an illustrated Status sheet, a picture printed in the book, as read in the English and the Japanese edition: ability names, grade letters and numbers as printed.
+
+{{tabs|status-sheet}}
+{{tab|Level 2}}
+| Ability | As printed in DanMachi 14, illustrated sheet, p. 167[@sheet.fm14-lv2] |
+|---|---|
+| Strength | H101 |
+| Defense | H189 |
+| Dexterity | G248 |
+| Agility | F341 |
+| Magic | D588 |
+| Healing | I |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[#soul-light|Soul Light]] and [[#cure-ephialtes|Cure Ephialtes]], and the Skill [[skills#five-dimension-troia|Five-Dimension Troia]].[@sheet.fm14-lv2]
+
+{{/tabs}}
+
 ## Magic {#magic}
 
 {{nocite}} Cassandra Illion's spells, as printed in the English novels and on her Status sheet. The combined [[magic|Magic]] page describes every spell on this wiki together.
@@ -83,7 +100,7 @@ Her illustrated Status sheet in DanMachi 14 (Level 2) lists two spells, [[#soul-
 - **User:** Cassandra Illion of Miach Familia[@soul-light.fm12-ivy, soul-light.fm12-area]
 - **Type:** Healing, including area healing[@soul-light.fm12-area]
 - **Status entry:** Wide-area recovery magic; its area depends on the Mind used[@soul-light.fm14-sheet]
-- **Chant:** One printed line[@soul-light.fm12-ivy]
+- **Chant:** Four sentences, printed in DanMachi 12 and 14[@soul-light.fm12-area, soul-light.fm14-cast]
 
 #### Status entry {#soul-light-status-entry}
 
@@ -91,7 +108,11 @@ Cassandra's illustrated Status sheet in DanMachi 14 (Level 2) lists Soul Light u
 
 #### Incantation {#soul-light-incantation}
 
-Only one line is printed, in DanMachi 12, before the name: "Oh sunlight, may you beat back ruin."[@soul-light.fm12-ivy] Elsewhere the narration describes her chanting and prints only the name.[@soul-light.fm12-area, soul-light.fm14-cast]
+**Fullest printed chant (FM12, FM14).**[@soul-light.fm12-area, soul-light.fm14-cast]
+
+> Heavenly light, once rejected. Merciful arms that save my shallow self. Rescue my miserable companions in place of my words that cannot reach them. Oh sunlight, may you beat back ruin.
+
+DanMachi 12 and 14 each print these four sentences in two pieces. The first DanMachi 12 cast prints only the last of them before the name, "Oh sunlight, may you beat back ruin."[@soul-light.fm12-ivy] DanMachi 18 prints only the name.[@soul-light.fm18-wing, soul-light.fm18-daphne]
 
 #### Effect {#soul-light-effect}
 
@@ -124,7 +145,7 @@ The Status entry on the Level 2 sheet is a single note: it dispels harm. The she
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Where her prophetic dreams come from, and why others do not believe them; the text calls it only "like she was cursed".[@fm13-curse, fm13-dreams]
 
-[@fm06-intro]: FM06 | | Delivering Apollo's invitation; Eina: "Daphne Laulos and Cassandra Illion. Level Two, third-tier adventurers."
+[@fm06-intro]: FM06 | Chapter 2: Shall We Dance? | Delivering Apollo's invitation; Eina: "Daphne Laulos and Cassandra Illion. Level Two, third-tier adventurers."
 [@fm06-chased]: FM06 | Chapter 3: Outbreak | Daphne: Apollo "chased us… City to city, country to country".
 [@fm06-dream]: FM06 | Chapter 3: Outbreak | Cassandra's warning; "gifted with prophetic dreams"; no one took them seriously.
 [@fm06-castle]: FM06 | Chapter 4: Those Who Gather | "The castle, the castle will fall…"; "Another dream?"
@@ -148,7 +169,7 @@ The Status entry on the Level 2 sheet is a single note: it dispels harm. The she
 [@sheet.fm14-cassandra]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, Cure Ephialtes; Five-Dimension Troia; the Rabbit Charm.
 [@cure-ephialtes.fm14-sheet]: FM14 | | Illustrated Status sheet, pp. 166-167 (Level 2): Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia; the Holy Crystal Rod note: Cassandra assumes Cure Ephialtes reverses poison and does not realise it also reverses curses.
 [@soul-light.fm12-area]: FM12 | Chapter 6: The Hero’s Sacred Flame | Area healing, about ten meders; adjusts to the wounds.
-[@soul-light.fm12-ivy]: FM12 | | "Oh sunlight, may you beat back ruin. Soul light."; rare healing; the ivy grows. The Japanese edition (file part0018, paragraphs 5–7) says the rare healing magic closes all the bloody wounds.
+[@soul-light.fm12-ivy]: FM12 | Chapter 4: A Hunter at the Water's Edge | "Oh sunlight, may you beat back ruin. Soul light."; rare healing; the ivy grows. The Japanese edition (file part0018, paragraphs 5–7) says the rare healing magic closes all the bloody wounds.
 [@soul-light.fm12-ja]: FM12 | | The Japanese edition prints the spell's name in katakana, Sōru Raito; Sōru is the usual Japanese spelling of Sol, while soul is written differently.
 [@soul-light.fm14-cast]: FM14 | Chapter 7: Poem of Despair, Poem of Triumph | Cast into the centre of the fighting; "Recovery is coming!"
 [@soul-light.fm14-sheet]: FM14 | | Illustrated Status sheet, p. 167 (Level 2): Soul Light, wide-area recovery magic, area varies with Mind; Cure Ephialtes.
@@ -163,3 +184,6 @@ The Status entry on the Level 2 sheet is a single note: it dispels harm. The she
 [@fm14-rethink]: FM14 | Chapter 8: The Voice of the Hammer | Seeing the black voltemeria gathered together, she wonders whether their swarm was the wave of her dream.
 [@fm14-scent]: FM14 | Chapter 8: The Voice of the Hammer | She wonders how they found her, and realizes she has escaped the predicted fate. The Japanese edition (file c3F1, paragraph 1010) has her wonder whether they followed the girl’s scent, or rather their own smell soaked into her; the English prints "grown used to her scent when she cared for it for days on end".
 [@fm11-charm-ja]: FM11 | Interlude: Three Orphans, a Cry in the Night, and a Bloody Maze | The Japanese edition writes it with the words for rabbit and protective charm (file c44D, paragraph 60; DanMachi 14, file c3F1, paragraph 1010).
+[@soul-light.fm18-wing]: FM18 | Chapter 8: The Great Familia War | "Soul Light!" on the right wing.
+[@fm06-cassandra-wargame]: FM06 | Chapter 5: Our War Game | "Cassandra had tackled him just as the first electrical burst came through the floor"; "protecting Hyacinthus from the blast"; "Tackling Cassandra from behind"
+[@sheet.fm14-lv2]: FM14 | | Illustrated Status sheet, p. 167 (Level 2; image Art_P167.jpg): Strength H101, Defense H189, Dexterity G248, Agility F341, Magic D588, Healing I; Magic Soul Light and Cure Ephialtes; Skill Five-Dimension Troia. The Japanese edition's sheet (file c5F2, image image_rsrcDRF.jpg, p. 219) prints the same values.

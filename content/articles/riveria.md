@@ -26,11 +26,11 @@
   }
 }
 ---
-**Riveria Ljos Alf** is a [[races#high-elf|high elf]] of royal blood and [[loki-familia|Loki Familia]]'s leading mage, called [[orario|Orario]]'s most powerful magic user.[@so01-riveria, fm05-leaders] The gods gave her the title *Nine Hell*.[@so03-titles] She is Level 7 from Sword Oratoria 14.[@so14-sevens]
+**Riveria Ljos Alf** is a [[races#high-elf|high elf]] of royal blood and [[loki-familia|Loki Familia]]'s leading mage, called [[orario|Orario]]'s most powerful magic user.[@so01-riveria, fm05-leaders] She is Loki Familia's vice captain and [[finn-deimne|Finn Deimne]]'s second-in-command.[@so09-riveria-vice, fm08-riveria-second] She also teaches the elf mage [[lefiya|Lefiya Viridis]], whom Finn has the Familia show off as her successor.[@so13-riveria-teacher, so09-riveria-successor] The gods gave her the title *Nine Hell*.[@so03-titles, so04-nine] She is Level 7 from Sword Oratoria 14.[@so14-sevens] Before that she was Level 6; in Astrea Record 3 Hermes says that she, Finn and Gareth all reached Level 6 after the [[great-conflict|Great Conflict]].[@ar03-riveria-level6]
 
 ## Early life
 
-Lefiya says that all the elves' nobles, Riveria included, are descended from [[minor-characters#rishena|Rishena]], the younger sister of the eternal saint [[minor-characters#seldia|Seldia]] {{small|printed *Celdia* in Sword Oratoria 5}} of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]]. She later helped recruit [[gareth|Gareth]].[@so14-riveria, so14-aina]
+Lefiya says that all the elves' nobles, Riveria included, are descended from [[minor-characters#rishena|Rishena]], the younger sister of the eternal saint [[minor-characters#seldia|Seldia]] {{small|printed *Celdia* in Sword Oratoria 5}} of the [[dungeon-oratoria#stories|Dungeon Oratoria]].[@so05-rishena] She is a princess of the high elves' Alf Royal Woods and the only child of their king, Rafale Ljos Alf, who rebuked her interest in the outside world.[@so14-riveria-princess] At seventy-one she left the elves' royal forest together with Aina, [[eina-tulle|Eina Tulle]]'s mother, accepted Loki's blessing while being pursued, and defeated a [[monsters#green-dragon|green dragon]].[@so14-riveria, so14-aina, fm02-aina] She later helped recruit [[gareth|Gareth]].[@so14-riveria-gareth]
 
 ## Skills {#skill}
 
@@ -38,13 +38,47 @@ Her Status sheet in Sword Oratoria 6 lists two Skills. **[[skills#fairy-anthem|F
 
 Riveria's rare Skill **[[skills#alf-regina|Alf Regina]]**, which no one else has developed, spreads a jade magic circle that gathers leftover magic and returns it as Mind to the elves inside, strengthening her own Magic and theirs. Loki wanted to call the elf squad built around it "Fairy Force"; Riveria refused the name, though the squad's elves use it.[@skills.so10-alf] In Sword Oratoria 10 Finn plans the surprise raid on [[knossos|Knossos]] around it.[@skills.so10-alf]
 
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level, each copying an illustrated Status sheet, a picture printed in the book, as read in the English and the Japanese edition: ability names, grade letters and numbers as printed.
+
+{{tabs|status-sheet}}
+{{tab|Level 1}}
+| Ability | As printed in Sword Oratoria 14, illustrated sheet, p. 182[@sheet.so14-lv1] |
+|---|---|
+| Strength | I7 |
+| Endurance | I13 |
+| Dexterity | I57 |
+| Agility | I38 |
+| Magic | H119 |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[#riveria-nine-spells-vas-windheim|Vas Windheim]] and the Skill [[skills#fairy-anthem|Fairy Anthem]].[@sheet.so14-lv1]
+
+{{tab|Level 6}}
+| Ability | As printed in Sword Oratoria 6, illustrated sheet, p. 296[@sheet.so06-lv6] |
+|---|---|
+| Strength | G243 |
+| Endurance | G277 |
+| Dexterity | C651 |
+| Agility | C609 |
+| Magic | S989 |
+| Mage | E |
+| Healing | G |
+| Immunity | G |
+| Spirit Healing | H |
+| Magic Resistance | H |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[#riveria-nine-spells-vas-windheim|Vas Windheim]], [[#via-shilheim|Via Shilheim]] and [[#riveria-nine-spells-van-alheim|Van Alheim]], and the Skills [[skills#fairy-anthem|Fairy Anthem]] and [[skills#alf-regina|Alf Regina]].[@sheet.so06-lv6]
+
+{{/tabs}}
+
 ## Magic
 
 Her spells come in three kinds, attack, defence and healing, each at three levels, and she can chain them together as the situation demands. These nine spells are the source of her title.[@so04-nine] Among them are [[#rea-laevateinn|Rea Laevateinn]] and [[#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-riveria] Her Status sheet in Sword Oratoria 6 names all nine; see [[#riveria-nine-spells|Riveria Ljos Alf's nine spells]] below.[@riveria-nine-spells.so06-sheet]
 
 ### Wynn Fimbulvetr {#wynn-fimbulvetr}
 
-**Wynn Fimbulvetr** is an ice spell of Riveria Ljos Alf. It releases a freezing blast that turns its targets and the ground around them to ice.[@wynn-fimbulvetr.so01-lefiya, wynn-fimbulvetr.so14-first] It is the first spell she ever cast, in Sword Oratoria 14's account of her joining [[loki|Loki]], and its chant can be carried on into her longer fire spell, [[#rea-laevateinn|Rea Laevateinn]].[@wynn-fimbulvetr.so14-first, wynn-fimbulvetr.so04-concat] [[lefiya|Lefiya]] can also cast it by summoning it with [[magic#elf-ring|Elf Ring]].[@wynn-fimbulvetr.so01-lefiya]
+**Wynn Fimbulvetr** is an ice spell of Riveria Ljos Alf. It releases a freezing blast that turns its targets and the ground around them to ice.[@wynn-fimbulvetr.so01-lefiya, wynn-fimbulvetr.so14-first] It is the first spell she casts with Loki's blessing, in Sword Oratoria 14's account of her joining [[loki|Loki]]; earlier in the same chase she casts the elves' innate fire magic, which needs no blessing. Its chant can be carried on into her longer fire spell, [[#rea-laevateinn|Rea Laevateinn]].[@wynn-fimbulvetr.so14-first, wynn-fimbulvetr.so04-concat] [[lefiya|Lefiya]] can also cast it by summoning it with [[magic#elf-ring|Elf Ring]].[@wynn-fimbulvetr.so01-lefiya]
 
 - **User:** Riveria Ljos Alf[@wynn-fimbulvetr.so01-riveria, wynn-fimbulvetr.so14-first]
 - **Also cast by:** [[lefiya|Lefiya Viridis]], through [[magic#elf-ring|Elf Ring]][@wynn-fimbulvetr.so01-lefiya]
@@ -76,7 +110,7 @@ In Sword Oratoria 1 the Japanese chant is {{ja|終末の前触れよ、白き雪
 | Astrea Record 1 (Riveria against Alfia) | "…, advent of the end—my name is Alf!" The Japanese ends this cast as in the first row, *Blow, thrice-harsh winter — my name is Alf*, with no "advent of the end".[@wynn-fimbulvetr.ar01-alfia] |
 | Sword Oratoria 4 (concatenated) | "…—advent of the end." The chant does not end there: she continues into Rea Laevateinn's lines.[@wynn-fimbulvetr.so04-concat] |
 
-{{nocite}} The phrase "advent of the end" appears only in the Sword Oratoria 14, Astrea Record 1 and Sword Oratoria 4 prints. In the Japanese of Sword Oratoria 14 it closes only the cast that is chained into the next tier; a plain cast ends with "my name is Alf" (see the first row), and so does the Astrea Record 1 cast.
+The phrase "advent of the end" appears in the Sword Oratoria 14, Astrea Record 1 and Sword Oratoria 4 prints, and also in the English prints of Lefiya's summoned cast in Sword Oratoria 7 and of the cast Riveria and Lefiya make together in Sword Oratoria 10.[@wynn-fimbulvetr.so14-first, wynn-fimbulvetr.ar01-alfia, wynn-fimbulvetr.so04-concat, wynn-fimbulvetr.so07-advent, wynn-fimbulvetr.so10-advent] In the Japanese of Sword Oratoria 14 it closes only the cast that is chained into the next tier; a plain cast ends with "my name is Alf" (see the first row), and so does the Astrea Record 1 cast.
 
 #### First cast {#wynn-fimbulvetr-first-cast}
 
@@ -98,7 +132,7 @@ Her Status sheet in Sword Oratoria 6 lists all nine by name; see [[#riveria-nine
 
 ### Rea Laevateinn {#rea-laevateinn}
 
-**Rea Laevateinn** is a fire spell of Riveria Ljos Alf. At the end of a long chant, a magic circle spreads across the battlefield and countless pillars of flame erupt from it, destroying the enemies within it while allies standing in the circle are unharmed.[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat] Sword Oratoria calls it the second tier of her attack magic, the longest spell in her arsenal and the one with the greatest range.[@rea-laevateinn.so04-concat, rea-laevateinn.so14-mine]
+**Rea Laevateinn** is a fire spell of Riveria Ljos Alf. At the end of a long chant, a magic circle spreads across the battlefield and countless pillars of flame erupt from it, destroying the enemies within it while allies standing in the circle are unharmed.[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat] Sword Oratoria calls it the second tier of her attack magic, and Sword Oratoria 4 says it boasts the longest and greatest range (the English prints "the longest in her arsenal").[@rea-laevateinn.so04-concat, rea-laevateinn.so14-mine]
 
 - **User:** Riveria Ljos Alf[@rea-laevateinn.so04-concat, rea-laevateinn.so14-first]
 - **Also cast by:** [[lefiya|Lefiya Viridis]], through [[magic#elf-ring|Elf Ring]][@rea-laevateinn.so03-summon, rea-laevateinn.so13-detect]
@@ -130,9 +164,9 @@ Sword Oratoria 1 prints two lines of the chant; in the Japanese they are {{ja|�
 |---|---|
 | Sword Oratoria 1 (Riveria) | Six pieces between the events of the battle: the same lines as Sword Oratoria 4, in other English words. It opens "Soon, the flames shall be loosed", and one line begins "Thou become the consuming inferno."[@rea-laevateinn.so01-wall] |
 | Sword Oratoria 4 (Riveria, concatenated) | Five pieces after the linking words from [[#wynn-fimbulvetr|Wynn Fimbulvetr]]. The line that matches Sword Oratoria 1's is worded differently here and ends "Become hellfire."[@rea-laevateinn.so04-concat] |
-| Sword Oratoria 13 (Lefiya, through [[magic#elf-ring|Elf Ring]]) | Two pieces: an opening passage that also appears in Sword Oratoria 4 ("A blaze shall soon descend") and the ending.[@rea-laevateinn.so13-detect] |
+| Sword Oratoria 13 (Lefiya, through [[magic#elf-ring|Elf Ring]]) | Two casts. The first prints two pieces: an opening passage that also appears in Sword Oratoria 4 ("A blaze shall soon descend") and the ending. The second, later in the same chapter, prints the same lines as Sword Oratoria 4.[@rea-laevateinn.so13-detect] |
 
-{{inference}} Sword Oratoria 1 and 4 show the same part of the chant in two different English wordings. Sword Oratoria 13 prints the chant much more briefly than Sword Oratoria 4 does, though the narration calls it an "ultra-long chant"; it is best treated as a partial print.[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat, rea-laevateinn.so13-detect]
+{{inference}} Sword Oratoria 1 and 4 show the same part of the chant in two different English wordings. Sword Oratoria 3 (Lefiya), the second cast of Sword Oratoria 13 and Riveria's first cast in Sword Oratoria 14 print the same lines as Sword Oratoria 4. The first cast of Sword Oratoria 13 prints only two pieces, though the narration calls it an "ultra-long chant"; it is best treated as a partial print.[@rea-laevateinn.so01-wall, rea-laevateinn.so04-concat, rea-laevateinn.so13-detect, rea-laevateinn.so03-summon, rea-laevateinn.so14-first]
 
 #### Concatenation with Wynn Fimbulvetr {#rea-laevateinn-concatenation-with-wynn-fimbulvetr}
 
@@ -195,7 +229,7 @@ Lefiya summons it through Elf Ring in Sword Oratoria 3, after about three minute
 
 #### DanMachi 10 {#via-shilheim-danmachi-10}
 
-DanMachi 10 shows the same battle with the black minotaur from Bell's side. Riveria raises "an enormous dome barrier" of green light that shields the townspeople, the young mages, Finn, Aiz and Welf "without so much as a quiver", and later keeps it up because the smoke might be poisonous.[@via-shilheim.fm10-dome, via-shilheim.fm10-smoke] {{inference}} This is very probably Via Shilheim, but DanMachi 10 does not name it.
+DanMachi 10 shows the same battle with the black minotaur from Hestia Familia's side; Bell himself is elsewhere in the city. Just as the last of Hestia Familia dive into the magic circle, Riveria raises "an enormous dome barrier" of green light that shields the townspeople, the young mages, Finn, Aiz and Welf "without so much as a quiver", and later keeps it up because the smoke might be poisonous.[@via-shilheim.fm10-dome, via-shilheim.fm10-smoke] {{inference}} This is very probably Via Shilheim, but DanMachi 10 does not name it.
 
 {{nocite}} Notable uses and open questions for Via Shilheim are on the combined page: [[magic#via-shilheim|Magic § Via Shilheim]].
 
@@ -210,12 +244,12 @@ DanMachi 10 shows the same battle with the black minotaur from Bell's side. Rive
 
 #### Incantation {#veil-breath-incantation}
 
-Every print gives the same line before the name, ending, like Riveria's other spells, with "my name is Alf".[@veil-breath.so02-aiz, veil-breath.so12-lefiya, veil-breath.ar03-astrea]
+The prints in Sword Oratoria 2 and 12 and Astrea Record 3 give the same line before the name, ending, like Riveria's other spells, with "my name is Alf".[@veil-breath.so02-aiz, veil-breath.so12-lefiya, veil-breath.ar03-astrea]
 
 - **Printed line:** "Gather, breath of the earth—my name is Alf!"[@veil-breath.so02-aiz, veil-breath.ar03-astrea]
 - **Name:** "Veil Breath!"[@veil-breath.so02-aiz, veil-breath.ar03-astrea]
 
-Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-breath.so13-students] Sword Oratoria 4 prints only the name.[@veil-breath.so04-party] {{inference}} The novels do not say whether the printed line is the whole chant; when Lefiya summons it, the narration speaks of "a long cast", but that includes her [[magic#elf-ring|Elf Ring]] chant.[@veil-breath.so12-lefiya]
+Sword Oratoria 13 prints the line with a full stop instead of the dash.[@veil-breath.so13-students] In Sword Oratoria 4, when Finn calls for a protection spell, Riveria chants a different line, "Tree spirits, hear my prayer. Gown of the forest!", and the name "Veil Breath!!" is called later in the same chapter; the novel does not say whether that line belongs to Veil Breath.[@veil-breath.so04-party, veil-breath.so04-gown] {{inference}} The novels do not say whether the printed line is the whole chant; when Lefiya summons it, the narration speaks of "a long cast", but that includes her [[magic#elf-ring|Elf Ring]] chant.[@veil-breath.so12-lefiya]
 
 #### Effect {#veil-breath-effect}
 
@@ -269,7 +303,7 @@ Every entry is also marked "Concurrent Casting".[@riveria-nine-spells.so06-sheet
 
 - **Third level of her attack magic**, after Wynn Fimbulvetr and Rea Laevateinn, and the name under which the sheet lists the whole attack series.[@riveria-nine-spells.so06-sheet]
 - **At Level 1:** her Level 1 sheet in Sword Oratoria 14 already lists Vas Windheim, as attack magic with "Chained casting" and the same three levels. It is the only entry under Magic on that sheet.[@riveria-nine-spells.so14-sheet]
-- **Length:** Sword Oratoria 4 calls the second level, Rea Laevateinn, "the longest in her arsenal". The sheets do not describe the third level, and no cast of Vas Windheim was located in the story text.[@riveria-nine-spells.so04-concat, riveria-nine-spells.so06-sheet]
+- **Range:** in the Japanese, Sword Oratoria 4 says that the second level, Rea Laevateinn, boasts the longest and greatest range; the English prints "the longest in her arsenal and boasting the greatest range", which reads as if it were her longest spell. The sheets do not describe the third level, and no cast of Vas Windheim was located in the story text.[@riveria-nine-spells.so04-concat, riveria-nine-spells.so06-sheet]
 
 #### Liv Ilusio {#riveria-nine-spells-liv-ilusio}
 
@@ -298,15 +332,19 @@ Riveria registered the seven-year-old [[aiz-wallenstein|Aiz]] and raised her as 
 
 | Volume | Events |
 |---|---|
+| Astrea Record 1 | In the [[great-conflict|Great Conflict]] she confronts [[alfia|Alfia]], who cancels her Wynn Fimbulvetr with a single word; Riveria is the first to fall, her barrier exhausted, and then Gareth.[@ar01-riveria-alfia] |
+| Astrea Record 3 | When [[astrea-familia|Astrea Familia]] takes on Alfia in the Dungeon, she leaves the girls protected by her Veil Breath and goes with Gareth to help Aiz against the monster [[delphyne|Delphyne]], whose fiery breath vaporizes her magic before it lands.[@ar03-riveria-delphyne] |
 | DanMachi 2 | Recognises [[bell-cranell|Bell]]'s Mind Down and accompanies Aiz against the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-riveria] |
 | DanMachi 3 | Closes [[lilliluka-erde|Lilly]]'s wounds with healing magic, and sees that Bell's SS ability is beyond normal limits.[@fm03-riveria] |
+| Sword Oratoria 7 | While the main party is trapped in [[knossos|Knossos]], she searches with her magic circle as a radar, finds the way in through the staff Lefiya left behind, and leads her group in after them.[@so07-riveria-rescue] |
 | Sword Oratoria 10 | Leads the raid into [[knossos|Knossos]], keeping it going with her magic, and secures keys and part of the map.[@so10-riveria] |
 | Sword Oratoria 11 | Commands the diversion force on Floor 12.[@so11-riveria] |
-| Sword Oratoria 13 | Her magic is decisive in rescuing [[lefiya|Lefiya]] on Floor 17 and helping her recover herself.[@so13-riveria] |
+| Sword Oratoria 12 | In the final battle she leads the second squad with Aiz; later she scorches a demi-spirit with Rea Laevateinn as two elven knights push it back.[@so12-riveria-squad, so12-riveria-spirit] |
+| Sword Oratoria 13 | She stays at the manor with Loki while [[lefiya|Lefiya]] is trapped on Floor 17. Questioned by her Elf Ring in Filvis's and Riveria's voices, Lefiya answers by casting Riveria's Veil Breath, and later her Rea Laevateinn.[@so13-riveria] |
 
 ## Name
 
-DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual name there.[@fm06-reveria, fm06-reveria-ja]
+DanMachi 6 prints her name {{small|*Reveria*}} each of the four times it names her, in Chapters 3 and 5; the Japanese has her usual name.[@fm06-reveria, fm06-reveria-war, fm06-reveria-ja]
 
 ## Open questions
 
@@ -319,27 +357,27 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@fm06-reveria]: FM06 | Chapter 3: Outbreak | Printed as "Reveria".
 [@so01-riveria]: SO01 | | High elf of royal blood; Rea Laevateinn and Wynn Fimbulvetr.
 [@so03-titles]: SO03 | Chapter 1: The Black Robe’s Invitation | "Nine Hell" Riveria Ljos Alf.
-[@so04-nine]: SO04 | | Nine spells and her title.
+[@so04-nine]: SO04 | Last Chapter: To Adventure | Nine spells and her title.
 [@so09-riveria]: SO09 | | Raising Aiz; Floor 12. The Japanese edition (file c5P3, paragraph 81) has Riveria tell Aiz that she wants to love her.
-[@so10-riveria]: SO10 | | The raid into Knossos.
+[@so10-riveria]: SO10 | Chapter 5: Brave Soul! | The raid into Knossos.
 [@skills.so10-alf]: SO10 | Chapter 5: Brave Soul! | Alf Regina: effect; "Fairy Force", Loki's name for the elf squad; Finn's plan.
 [@skills.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Fairy Anthem, Alf Regina.
-[@so11-riveria]: SO11 | | The Floor 12 diversion.
-[@so13-riveria]: SO13 | | Lefiya's rescue.
-[@so14-riveria]: SO14 | | Leaving the royal forest; the green dragon.
-[@so14-aina]: SO14 | | Aina.
+[@so11-riveria]: SO11 | Chapter 4: Avengers ~Knossos War~ | The Floor 12 diversion.
+[@so13-riveria]: SO13 | Chapter 5: The Mirror's Voice | Lefiya's rescue.
+[@so14-riveria]: SO14 | Chapter 2: The High Elf's Departure | Leaving the royal forest; the green dragon.
+[@so14-aina]: SO14 | Chapter 2: The High Elf's Departure | Aina.
 [@so14-sevens]: SO14 | Prologue: Accomplishments and Reminiscences | Level 7.
 [@wynn-fimbulvetr.so01-riveria]: SO01 | Chapter 2: Dungeon Confusion | Riveria's chant in two pieces; release.
 [@wynn-fimbulvetr.so01-lefiya]: SO01 | Chapter 5: To Battle | Summoned through Elf Ring; three monsters frozen.
 [@wynn-fimbulvetr.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; nine spells; "advent of the end"; ice to flame.
-[@wynn-fimbulvetr.so06-bridge]: SO06 | | Bridge of sea ice; immense Mind. The Japanese edition (file c6TU, paragraphs 130–131) calls it a long bridge of ice about five meders wide, running straight to a large ship off the coast, and gives no length.
+[@wynn-fimbulvetr.so06-bridge]: SO06 | Chapter 6: War’s End | Bridge of sea ice; immense Mind. The Japanese edition (file c6TU, paragraphs 130–131) calls it a long bridge of ice about five meders wide, running straight to a large ship off the coast, and gives no length.
 [@wynn-fimbulvetr.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | First cast; "advent of the end—My name is Alf!"; knights frozen. The Japanese edition (file part0020, paragraph 375; part0023, paragraph 51; part0025, paragraph 45) ends the first and second casts with my name is Alf and the third, chained cast with advent of the end.
-[@wynn-fimbulvetr.ar01-alfia]: AR01 | | Riveria's chant against Alfia, cancelled by Ataraxia. The Japanese edition (file c67J, paragraph 124) ends the cast with my name is Alf.
+[@wynn-fimbulvetr.ar01-alfia]: AR01 | Chapter 10: Conquerors | Riveria's chant against Alfia, cancelled by Ataraxia. The Japanese edition (file c67J, paragraph 124) ends the cast with my name is Alf.
 [@wynn-fimbulvetr.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
 [@wynn-fimbulvetr.so14-cave]: SO14 | Chapter 3: The Dwarf’s Embarking | Ice cave in the collapse; past Mind Down.
 [@rea-laevateinn.so01-wall]: SO01 | | Prologue: the end of the long incantation; pillars of flame; allies safe inside the circle.
 [@rea-laevateinn.so03-summon]: SO03 | Chapter 5: Hell and Hell | Summoned by Lefiya; three-minute countdown.
-[@rea-laevateinn.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated chant; second-tier, longest, greatest range; circle covers the battlefield.
+[@rea-laevateinn.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated chant; second-tier; "the longest in her arsenal and boasting the greatest range"; circle covers the battlefield. The Japanese edition (file c7V2, paragraph 130) says it boasts the longest and greatest range; the English prints "the longest in her arsenal".
 [@rea-laevateinn.so07-radar]: SO07 | Chapter 3: Feast of the Dead | "Rae Laevateinn"; horizontal detection; forming and cancelling the circle.
 [@rea-laevateinn.so13-detect]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's short print; 80-meder circle; dispelled after checking.
 [@rea-laevateinn.so14-first]: SO14 | Chapter 2: The High Elf’s Departure | A single pillar of fire at Level 1.
@@ -353,14 +391,14 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@via-shilheim.fm10-dome]: FM10 | Chapter 10: The Fool | A green dome barrier shields the townspeople and others.
 [@via-shilheim.fm10-smoke]: FM10 | Chapter 10: The Fool | Kept up because the smoke might be poisonous.
 [@veil-breath.so02-aiz]: SO02 | Chapter 6: Parched Scream | The line and name; "Riveria’s support magic"; set time; slight healing. The Japanese edition (file c55N, paragraph 45) calls it a robe of light that raises resistance to physical and magic attacks and protects the target.
-[@veil-breath.so04-party]: SO04 | | "Veil Breath!!" from the fifty-second floor; fireball damage cancelled; the whole party protected.
+[@veil-breath.so04-party]: SO04 | Last Chapter: To Adventure | "Veil Breath!!" from the fifty-second floor; fireball damage cancelled; the whole party protected.
 [@veil-breath.so12-lefiya]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya's summon; "Riveria’s forte. Defensive magic."; valgang fireballs; Aisha's bones.
 [@veil-breath.so13-students]: SO13 | Chapter 5: The Mirror’s Voice | Lefiya's summon for the 7th Squad.
 [@veil-breath.ar03-astrea]: AR03 | Chapter 4: Apocalypse Cometh | "Gather, breath of the earth—my name is Alf! Veil Breath!"; Astrea Familia protected.
 [@luna-aldis.so12-cast]: SO12 | Chapter 8: A Heroes’ Chorus | Lefiya pauses the chant for Arcs Ray, resumes; "My name is Alf" and "Luna Aldis!" (two printed lines); "Riveria’s healing magic".
 [@riveria-nine-spells.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): Magic Vas Windheim, Via Shilheim and Van Alheim, each "Concurrent Casting" with three levels.
 [@riveria-nine-spells.so14-sheet]: SO14 | | Illustrated Status sheet, p. 182 (Level 1): Magic Vas Windheim only; attack magic, "Chained casting", three levels.
-[@riveria-nine-spells.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; three types with three levels; nine spells; Rea Laevateinn "the longest in her arsenal".
+[@riveria-nine-spells.so04-concat]: SO04 | Last Chapter: To Adventure | Concatenated Chanting; three types with three levels; nine spells; Rea Laevateinn "the longest in her arsenal and boasting the greatest range". The Japanese edition (file c7V2, paragraph 130) says it boasts the longest and greatest range.
 [@riveria-nine-spells.so14-concat]: SO14 | Chapter 2: The High Elf’s Departure | Loki: incantation concatenation; nine types of magic.
 [@wynn-fimbulvetr.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): attack magic Vas Windheim, level 1 Wynn Fimbulvetr.
 [@rea-laevateinn.so06-sheet]: SO06 | | Illustrated Status sheet, p. 296 (Level 6): attack magic Vas Windheim, level 2 Rea Laevateinn, level 3 Vas Windheim.
@@ -372,3 +410,22 @@ DanMachi 6 once prints her name {{small|*Reveria*}}; the Japanese has her usual 
 [@fm06-reveria-ja]: FM06 | | The Japanese edition gives her usual name in this passage.
 [@rea-laevateinn.so01-ja]: SO01 | | The Japanese edition (file c3K, paragraphs 87 and 88) prints these two lines of the chant.
 [@wynn-fimbulvetr.so01-ja]: SO01 | | The Japanese edition (file cX0, paragraphs 642 and 645) prints the chant in two pieces; the whirl is said uzu over the kanji for wind.
+[@fm02-aina]: FM02 | Chapter 4: Divine Wine | Riveria to Eina: "So even that Aina would force this upon her daughter"; "She escaped the homeland alongside me"
+[@so14-riveria-gareth]: SO14 | Chapter 3: The Dwarf's Embarking | Gareth: "If Loki was the first, then Riveria made two"; Finn: "Save your thanks for Riveria. It was her magic that found you."
+[@wynn-fimbulvetr.so07-advent]: SO07 | Chapter 3: Feast of the Dead | Lefiya through Elf Ring: "Blow with the power of the third harsh winter, advent of the end—my name is Alf!" The Japanese edition (file c2JK, paragraph 308) ends the line with my name is Alf, without advent of the end.
+[@wynn-fimbulvetr.so10-advent]: SO10 | Chapter 5: Brave Soul! | Riveria: "Blow with the power of the third harsh winter, advent of the end"; "the voices of the two elves, master and disciple, overlapped with each other". The Japanese edition (file c5XT, paragraph 178) ends the line with my name is Alf, without advent of the end.
+[@veil-breath.so04-gown]: SO04 | Last Chapter: To Adventure | Finn: "Riveria, hurry! We need a protection spell!"; Riveria: "Tree spirits, hear my prayer. Gown of the forest!"
+[@fm06-reveria-war]: FM06 | Chapter 5: Our War Game | "Gareth, Finn, and Reveria rolled their eyes"; "as Reveria closed her eyes in frustration". The Japanese edition gives her usual name here too.
+[@so09-riveria-vice]: SO09 | Recollections Chapter 1: The Young Girl's Beginnings | "Welcome, Loki Familia Vice Captain Riveria Ljos Alf."
+[@fm08-riveria-second]: FM08 | Chapter 2: The Prum's Proposal | Finn talks over tomorrow's plan with "his second-in-command, Riveria"
+[@so13-riveria-teacher]: SO13 | Chapter 2: Nostalgic Schoolhouse | Lefiya and Riveria: "She greedily requested lessons from her true master."
+[@so09-riveria-successor]: SO09 | Prologue: Recollections of an Elf | "Finn had ordered his familia to show Lefiya off as the successor to Riveria"
+[@ar03-riveria-level6]: AR03 | Epilogue: On and on Down the Unending Road of Justice | Hermes: "We didn’t only lose things during that battle—we gained things, too."; "Braver, Nine Hell, and Elgarm all reached Level 6."
+[@so14-riveria-princess]: SO14 | Chapter 2: The High Elf's Departure | "she was a princess, a member of the proud and noble high elf royalty"; "King Rafale had no children other than Riveria."; "The specific target of his reproach was her interest in the outside world."
+[@ar03-riveria-delphyne]: AR03 | Chapter 4: Apocalypse Cometh | Gareth: "I’d wager you won’t be able to focus without Aiz at your side"; "All she could do was leave those brave girls with one last parting gift."; "Riveria’s magic fared little better, as the dragon’s fiery breath vaporized it utterly before impact."
+[@ar01-riveria-alfia]: AR01 | Chapter 10: Conquerors | "That one word annihilated the fatal blizzard winds."; "Riveria was the first to fall, her barrier exhausted."
+[@so07-riveria-rescue]: SO07 | Chapter 5: Battle of Tears | "The staff you left behind—it was the perfect sign."; "utilizing her magic circle as a sort of radar"; "She and the rest of the group had used the newly discovered entrance to infiltrate the maze"
+[@so12-riveria-squad]: SO12 | Chapter 5: Final War | "there was the second led by Riveria and Aiz"
+[@so12-riveria-spirit]: SO12 | Chapter 8: A Heroes' Chorus | "As the two elven knights pushed back the spirit"; "Riveria activated her extermination spell."; "The city’s strongest mage scorched the spirit in a towering pillar of hellfire."
+[@sheet.so14-lv1]: SO14 | | Illustrated Status sheet, p. 182 (Level 1; image Art_P182.jpg): Strength I7, Endurance I13, Dexterity I57, Agility I38, Magic H119; Magic Vas Windheim; Skill Fairy Anthem. The Japanese edition's sheet (file part0039, image 00025.jpeg) prints the same values.
+[@sheet.so06-lv6]: SO06 | | Illustrated Status sheet, p. 296 (Level 6; image Art_P296.jpg): Strength G243, Endurance G277, Dexterity C651, Agility C609, Magic S989, Mage E, Healing G, Immunity G, Spirit Healing H, Magic Resistance H; Magic Vas Windheim, Via Shilheim and Van Alheim; Skills Fairy Anthem and Alf Regina. The Japanese edition's sheet (file c7DF, image image_rsrc7J9.jpg, p. 382) prints the same values.

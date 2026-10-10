@@ -25,7 +25,7 @@
   }
 }
 ---
-**Miach Familia** is the Familia of the god Miach. It makes and sells potions and other healing items from a small shop that is also its home.[@fm01-miach, fm02-shop] It is poor and in debt, and it is on close terms with [[hestia-familia|Hestia Familia]]: [[hestia|Hestia]] and Miach are described as the poorest of all the gods living in [[orario|Orario]], which gives them a strong bond.[@fm02-poor, fm04-arm]
+**Miach Familia** is the Familia of the god Miach. The shop is a house in a dark, damp spot with a sign bearing the Familia's emblem, a completely healthy human body, over its door.[@fm02-miach-emblem] Its sign reads BLUE PHARMACY; DanMachi 5 calls it the Azure Pharmacy.[@fm08-miach-pharmacy, fm05-miach-azure] It makes and sells potions and other healing items from a small shop that is also its home.[@fm01-miach, fm02-shop] It is poor and in debt, and it is on close terms with [[hestia-familia|Hestia Familia]]: [[hestia|Hestia]] and Miach are described as the poorest of all the gods living in [[orario|Orario]], which gives them a strong bond.[@fm02-poor, fm04-arm]
 
 ## Miach
 
@@ -48,8 +48,8 @@ The debt is not cleared. When Nahza sacrifices the airgetlám in the Great Famil
 Nahza Ersuisu is a sleepy-eyed [[races#chienthrope|chienthrope]], Miach Familia's captain and, until DanMachi 8, its only member.[@fm02-shop, fm15-rivals, fm15-level, fm18-nahza]
 
 - **Manner:** the dog ears on her head "twitch happily" when Bell agrees to buy, and she smiles lazily with "half-lidded eyes". "As usual, Nahza looks like she could fall asleep at any moment", her tail "lazily swishing"; DanMachi 18 calls her one "who always had an indifferent look on her face".[@fm02-nahza, fm04-nahza, fm18-nahza-war]
-- **Adventurer:** she is a Level 2; it took her six years to level up. In the middle levels a monster nearly burned her alive and ate her right arm, and she has been unable to face monsters since.[@fm04-level] DanMachi 18 says she retired as an adventurer six years before.[@fm18-nahza]
-- **Chemist:** she switched from adventurer to chemist and learned the Development Ability printed in DanMachi 4 as *Synthesize*, which later volumes call [[development-ability#compounding|Compounding]].[@fm04-level, fm15-compounding]
+- **Adventurer:** in DanMachi 4 she is a Level 2; it took her six years to level up. In the middle levels a monster nearly burned her alive and ate her right arm, and she has been unable to face monsters since.[@fm04-level] DanMachi 18 says she retired as an adventurer six years before.[@fm18-nahza]
+- **Chemist:** she switched from adventurer to chemist and learned the Development Ability printed in DanMachi 4 as *Synthesize*, which later volumes call [[development-ability#compounding|Compounding]].[@fm04-level, fm15-compounding] Hestia Familia carries her new High Dual Potions, which restore both physical and mental strength, on its DanMachi 12 expedition.[@fm12-miach-high-dual] In the Great Familia War Bell takes one of her newly developed elixirs into battle.[@fm18-miach-elixir]
 - **Magic:** her one spell, [[magic#darbh-daol|Darbh Daol]], manifested when she lost her arm. In the Great Familia War she holds out the airgetlám to catch Berling's ax so that she can cast it.[@fm18-loan]
 - **Level 3:** after the Great Familia War she reaches Level 3.[@fm19-arm]
 - **Archer:** she fights with "a longbow that stood just as tall as she did", held steady with her silver arm. On the surface [[quest|quest]] of DanMachi 4's "Quest X Quest" she keeps "enough space between her and the monsters to prevent Nahza’s traumatic memories from triggering" and shoots, "grinning from ear to ear"; in DanMachi 6 her arrows force Apollo Familia's hunters to take cover among the buildings, though [[hyacinthus|Hyacinthus]] dodges every one; in DanMachi 9 she watches over Hestia from a rooftop with Daphne and Cassandra, ready to use "her Sniper skills".[@fm04-nahza, fm06-nahza, fm09-nahza] In the Great Familia War she shoots Crozzo magic swords "that resembled arrows" from atop a ten-meder column, a "sniping that checked even first-tier adventurers", while the Berbera hold off "the einherjar trying to erase the troublesome archer".[@fm18-nahza-war]
@@ -67,6 +67,7 @@ Nahza Ersuisu is a sleepy-eyed [[races#chienthrope|chienthrope]], Miach Familia'
 | DanMachi 2 | Nahza sells Bell a Mind-restoring potion; the Familia's cheapest potions cost 500 valis.[@fm02-shop] |
 | DanMachi 4 | "Quest X Quest": the watered-down potions, the story of the airgetlám, and the first double potions.[@fm04-scam, fm04-arm, fm04-double] |
 | DanMachi 8 | Daphne and Cassandra join.[@fm08-join] |
+| DanMachi 11 | During the Xenos crisis Miach tells Nahza to help Bell without asking questions.[@fm11-miach-help] At Bell's request she walks the southern part of [[daedalus-street|Daedalus Street]] holding magic flowers that make people hallucinate.[@fm11-miach-flowers] |
 | DanMachi 12–14 | Daphne and Cassandra take part in the joint expedition.[@fm12-join] |
 | DanMachi 18 | The Familia helps mass-produce potions and [[potions#elixir|elixirs]] for the Great Familia War, and fights in the [[familia-coalition|coalition]]; Nahza sacrifices the airgetlám.[@fm18-potions, fm18-loan] |
 | DanMachi 19 | The War Game share is to fund a new arm; Nahza is Level 3.[@fm19-arm] |
@@ -81,7 +82,7 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 > - The size of Miach's loan, how much is still owed, and whether a new airgetlám is made.[@fm18-loan, fm19-arm]
 
 [@fm01-miach]: FM01 | Chapter 5: The Goddess’s Prank | Miach; both in "bottom-of-the-barrel Familias"; his Familia makes items; a small, specialised store.
-[@fm02-poor]: FM02 | | Hestia and Miach "the poorest of all the gods living in Orario"; a strong bond.
+[@fm02-poor]: FM02 | Interlude: Cry Out, Goddess | Hestia and Miach "the poorest of all the gods living in Orario"; a strong bond.
 [@fm02-shop]: FM02 | Chapter 4: Divine Wine | The shop is also the Familia's home; Nahza, its only member; potions from 500 valis.
 [@fm04-scam]: FM04 | Quest X Quest | A watered-down potion: "a common scam".
 [@fm04-arm]: FM04 | Quest X Quest | The airgetlám from Dian Cecht Familia; Miach's loan; the other members left; once mid-ranked.
@@ -110,3 +111,10 @@ DanMachi 4 and DanMachi 15 each print her name once as *Nazha*.[@fm04-level, fm1
 [@fm18-nahza-war]: FM18 | Chapter 8: The Great Familia War | "Even Nahza, who always had an indifferent look on her face, couldn’t avoid being scared."; "Nahza had set up atop a ten meder-tall column"; "A long-range attack using Crozzo magic swords."; "Her sniping that checked even first-tier adventurers had extended the life of the left wing."; "Nahza was firing saber-style magic swords that resembled arrows."; "the einherjar trying to erase the troublesome archer"; "Nahza Ersuisu had always fought while maintaining some insurance."; "had robbed her of the courage to fight monsters".
 [@ss02-nahza]: SS02 | My Memory | "Nahza Ersuisu," Amid said; "Haven’t you stolen enough from us already?"; "This customer is mine."
 [@fm04-miach-familia-ja]: FM04 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
+[@fm02-miach-emblem]: FM02 | Chapter 4: Divine Wine | "Basically, it’s a house that was built in a dark, damp place. But there’s a sign with the Miach Familia’s emblem, a completely healthy human body, above the front door."
+[@fm08-miach-pharmacy]: FM08 | | "BLUE PHARMACY spelled out in the common language known as Koine. This was the home of Miach Familia."
+[@fm05-miach-azure]: FM05 | Chapter 2: How Many Meders to a Safe Return? | "Hestia was standing inside the Azure Pharmacy, Miach Familia’s home."
+[@fm12-miach-high-dual]: FM12 | Chapter 6: The Hero's Sacred Flame | "Haruhime handed Mikoto one of Nahza’s new High Dual Potions. As soon as she chugged it down, her physical and mental strength were completely restored."
+[@fm18-miach-elixir]: FM18 | Chapter 8: The Great Familia War | "My equipment also includes three dual potions and one of Ms. Nahza’s precious newly developed elixirs."
+[@fm11-miach-help]: FM11 | Chapter 3: The Night Before Battle | "Nahza explained that he’d told her I had caused some problems, but she was to help me anyway without asking any questions."
+[@fm11-miach-flowers]: FM11 | Chapter 4: A Skirmish in Daedalus Street | "Wow…these things really do make people hallucinate!"; "Bell had explained how the flowers worked and asked her to simply walk around the southern part of Daedalus Street holding them."

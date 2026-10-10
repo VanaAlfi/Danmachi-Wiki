@@ -34,7 +34,7 @@ Adventurers kill monsters to gain excelia, have their god add it to their Status
 
 - **Kind:** the number beside each basic ability's rank measures proficiency, which rises only when that ability is put to work, so Defense rises only by taking hits; Bell, who mostly runs and dodges, finds his Defense hardly rises.[@fm01-system] Spells grow stronger the more they are used in battle.[@so01-weaker]
 - **Opponents:** excelia builds faster against opponents of equal or greater strength, and comes "in bunches" against one at one's own level or above.[@fm01-stronger, fm01-ja-stronger, so01-weaker] Against much weaker monsters, Sword Oratoria 1 says, the abilities hardly rise.[@so01-weaker]
-- **Level:** the higher the Level, the more excelia it takes to raise the numbers.[@fm06-share, so06-harder] After reaching Level 5, Bell feels as if his container has grown larger in all three dimensions.[@fm20-container]
+- **Level:** the higher the Level, the more excelia it takes to raise the numbers.[@fm06-share, so06-harder] Within a Level, too, Sword Oratoria 1 says excelia gets harder to gain the closer each ability comes to S.[@so01-near-s] After reaching Level 5, Bell feels as if his container has grown larger in all three dimensions.[@fm20-container]
 - **Where:** above ground, monsters and people are much weaker, so excelia is hard to come by. Bell has heard that the strongest adventurers of other cities are only Level 2.[@fm06-outside] Lower-level members of a Familia can still gain excelia on floors below the Familia's level, a practice called "leveling".[@fm15-leveling]
 - **Updates:** updating is manual work that the god does alone, so a large Familia like [[loki-familia|Loki Familia]] must ration its updates with a daily rota and an order of priority.[@so01-update] Sword Oratoria 14 says the Falna's true value lies in unlocking the ability to gain excelia from hardship.[@so14-value]
 
@@ -89,9 +89,9 @@ Enhanced species, which grow by eating magic stones, follow the monsters' law, t
 [@fm04-personality]: FM04 | Chapter 1: Denatus | Skills and Magic "not only affected by excelia but by the blessed person’s personality and aspirations".
 [@fm04-special]: FM04 | Chapter 1: Denatus | Freya: "the excelia he gained could also have had more influence than usual".
 [@fm04-nahza]: FM04 | Quest X Quest | Nahza: "I learned enough by helping make medicine to gain the correct excelia".
-[@fm06-share]: FM06 | | "It’s more difficult to gain excelia at Level Two than it is at Level One."; "All adventurers who take part in group battles are entitled to a share"; Lyu's share.
-[@fm06-outside]: FM06 | | Above ground "adventurers have a very difficult time acquiring excelia"; "only Level 2, rarely making it to Level 3".
-[@fm06-soma]: FM06 | | "Soma was the one who’d found that Magic in her excelia".
+[@fm06-share]: FM06 | Chapter 1: The Furious Rabbit | "It’s more difficult to gain excelia at Level Two than it is at Level One."; "All adventurers who take part in group battles are entitled to a share"; Lyu's share.
+[@fm06-outside]: FM06 | Chapter 2: Shall We Dance? | Above ground "adventurers have a very difficult time acquiring excelia"; "only Level 2, rarely making it to Level 3".
+[@fm06-soma]: FM06 | Chapter 4: Those Who Gather | "Soma was the one who’d found that Magic in her excelia".
 [@fm07-mikoto]: FM07 | Chapter 5: Killing Stone | Yatano Black Crow senses "a monster she had already received excelia from in the past".
 [@fm08-rakia]: FM08 | Epilogue: Birthday | Orario's demand "that Rakia’s soldiers didn’t receive for free the benefits of the excelia gained during battle".
 [@fm09-monsters]: FM09 | Chapter 5: Heretics | Enhanced species. The Japanese edition (file c5SZ, paragraph 1139) calls it the monsters' law, the opposite of humans gathering excelia and updating their Status.
@@ -112,3 +112,4 @@ Enhanced species, which grow by eating magic stones, follow the monsters' law, t
 [@ar03-split]: AR03 | Chapter 9: A Hero’s Trail | "enough excelia to rank up all eleven of them"; "divided among its recipients according to their contribution".
 [@fc03-lyu]: FC03 | The Locus of Stars | "I did not release all the excelia dormant within you."; "you would have been able to go from Level Four all the way to Level Six"; "enough excelia to be able to level up twice, which is unprecedented".
 [@fc03-loophole]: FC03 | The Locus of Stars | "The extraction and release of excelia was entirely discretionary."; a dangerous Skill left dormant; "sometimes called the status loophole".
+[@so01-near-s]: SO01 | Chapter 3: White Rabbit | "It became more difficult to gain excelia the closer each Ability got to S"

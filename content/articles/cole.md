@@ -25,7 +25,7 @@
   }
 }
 ---
-**Cole** is a fifteen-year-old [[races#werewolf|werewolf]] in [[balder#balder-class|Balder Class]]'s [[balder#seventh-squad|7th Squad]], serving as its knife-wielding scout.[@so13-identity-1, so13-identity-2, so14-squad] He carries two daggers and goggles.[@so13-identity-1, so13-identity-2]
+**Cole** is a fifteen-year-old [[races#werewolf|werewolf]] in [[balder#balder-class|Balder Class]]'s [[balder#seventh-squad|7th Squad]], serving as its knife-wielding scout.[@so13-identity-1, so13-identity-2, so14-squad] He carries two daggers and goggles.[@so13-identity-1, so13-identity-2] He is a humble, frank boy, so much so that Lefiya finds it hard to believe he is a werewolf like [[bete-loga|Bete]], and, like [[raul-nord|Raul]], he knows how hard the squad's strong personalities are to handle.[@so13-cole-character] He loves the 7th Squad, where race does not matter to him, and looks up to [[luke-fowl|Luke]] like an older brother.[@so13-cole-squad]
 
 ## History {#history}
 
@@ -34,6 +34,7 @@
 | Sword Oratoria 13 | His previous squad disbanded after students fought one another while lost during fieldwork, leaving him shocked and unable to act.[@so13-past] |
 | Sword Oratoria 13 | [[lefiya|Lefiya Viridis]] recognizes his supporting contribution but advises him to become more aggressive and develop offensive options; later, he and [[miliria|Miliria]] take the front while [[luke-fowl|Luke]] moves back.[@so13-training-1, so13-training-2] |
 | Sword Oratoria 13 | When stranded with [[natalinoe-cladfield|Nano]] and Miliria, he monitors the party's condition and gives the girls recovery items before leading the way.[@so13-supplies] |
+| Sword Oratoria 13 | On the seventeenth floor he sides with Nano in helping adventurers trapped with [[goliath|Goliath]]; as the students run for the passage, he blinds the giant with a flash grenade made by the [[school-district|School District]]'s Alchemy Department, and the girls race off at his signal.[@so13-cole-flash] |
 | Sword Oratoria 13 | A pursuing [[monsters#liger-fang|liger fang]] knocks him down, biting his handguard, after strengthening itself with [[magic-stone|magic stones]] from monsters the students left behind.[@so13-ambush] |
 | Sword Oratoria 13 | During the battle against [[goliath|Goliath]], he wraps a chain borrowed from Nano's weapon around both of the giant's legs.[@so13-chain] |
 | Sword Oratoria 13 | The squad completes its Dungeon practical and promises to join [[loki-familia|Loki Familia]], while Cole tearfully thanks Lefiya Viridis.[@so13-return] |
@@ -51,3 +52,6 @@
 [@so13-chain]: SO13 | Chapter 5: The Mirror’s Voice | Cole binds the giant’s legs with a borrowed chain.
 [@so13-return]: SO13 | Epilogue | Squad completes practical and Cole thanks Lefiya.
 [@so13-cole-ja]: SO13 | Chapter 3: Class is in Session | The Japanese edition writes his name in katakana, read Kōru (file part0025, paragraph 70).
+[@so13-cole-character]: SO13 | Chapter 3: Class is in Session | "Cole was a humble, frank boy. So much so that it was hard to believe he was a werewolf like Bete."; "he was in the same position as Raul, well versed in the difficulty of dealing with the strong personalities of the squad"
+[@so13-cole-squad]: SO13 | Chapter 5: The Mirror’s Voice | "Cole loved the 7th Squad."; "Elf or human—stuff like race did not matter."; "Cole emulated Luke, the boy he looked up to like an older brother."
+[@so13-cole-flash]: SO13 | Chapter 5: The Mirror’s Voice | "His heart quivered in agreement."; "a quality magic item produced by the School District’s famed Alchemy Department"; "The flash grenade exploded high overhead, blinding Goliath."; "the two girls raced off at Cole’s signal"

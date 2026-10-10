@@ -30,7 +30,7 @@ The black Minotaur is first named Asterios in DanMachi 10; in DanMachi 11 he tel
 
 ## Appearance and weapon {#appearance}
 
-When the adventurers first meet him in DanMachi 10 he is simply "A black minotaur" brandishing "a double-sided ax, a Labrys"; each single-handed swing of the Labrys shatters the floor, and his arms sweep foes aside like great trees.[@fm10-labrys] After losing his right arm to Aiz he fights with the Labrys in his left hand.[@fm11-rematch]
+When the adventurers first meet him in DanMachi 10 he is simply "A black minotaur" brandishing "a double-sided ax, a Labrys"; each single-handed swing of the Labrys shatters the floor, and his arms sweep foes aside like great trees.[@fm10-labrys] In the street battle against [[loki-familia|Loki Familia]] he draws a second weapon from behind his right shoulder, a magic blade whose lightning, set off when [[bete-loga|Bete]] kicks it, razes the whole street; in Sword Oratoria 10 Tsubaki identifies it as her own Kaminari-Ikazuchi-Maru.[@fm10-asterios-blade, so10-asterios-blade] After losing his right arm to Aiz he fights with the Labrys in his left hand.[@fm11-rematch]
 
 ## The rematch {#rematch}
 
@@ -56,13 +56,13 @@ For Bell the encounter is decisive: "Bell had been lost since he met the Xenos, 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - The deciding third battle between Asterios and Bell has not yet taken place.[@fm11-name, fm12-level]
 
-[@fm09-strongest]: FM09 | | The strongest newcomer, stronger than Lido.
+[@fm09-strongest]: FM09 | Chapter 5: Heretics | The strongest newcomer, stronger than Lido.
 [@fm10-asterios]: FM10 | | Named Asterios; his rampage; his arm.
 [@fm11-name]: FM11 | Chapter 7: The Return of the Hero | "My name is Asterios"; the rematch.
-[@fm11-dream]: FM11 | | His recurring dream.
+[@fm11-dream]: FM11 | Chapter 7: The Return of the Hero | His recurring dream.
 [@fm11-fels]: FM11 | Epilogue: And So I Start to Run Again | Fels restores his arm; "Afterward Asterios had thanked Fels briefly, but that was all."
 [@fm12-level]: FM12 | Chapter 1: Rabbit Close-Up | A Level 7 monster; Bell's promotion.
-[@so11-level]: SO11 | | The Guild classifies him as Level 7.
+[@so11-level]: SO11 | Chapter 2: The Decisive Battle Intermission | The Guild classifies him as Level 7.
 [@so12-asterios]: SO12 | Chapter 7: Final War II | Asterios returns.
 [@fm10-labrys]: FM10 | Chapter 9: Dreams of Beasts | "It brandished a double-sided ax, a Labrys."; "The floor shattered with every single-handed swing of its double-bladed Labrys."; "A black minotaur…?!" The Japanese edition (file c59K, paragraph 362) says he swept them aside with arms like great trees.
 [@fm11-rematch]: FM11 | Chapter 7: The Return of the Hero | "the Sword Princess had cut off his arm, rather than the left side where he held the Labrys"; Ottar's sword "landing point-down in the center of the plaza at the feet of Bell and Asterios"; "whose left eye had been obliterated"; "the grand hall on the first story of Babel"; "Now we are even…"
@@ -78,3 +78,5 @@ For Bell the encounter is decisive: "Bell had been lost since he met the Xenos, 
 [@fm11-reason]: FM11 | Chapter 7: The Return of the Hero | "Bell had been lost since he met the Xenos, and Asterios had given him a reason to fight."
 [@fm14-opponent]: FM14 | Chapter 11: Where the Will to Kill Leads | "The dramatic events leading up to his advance to Level 4, including meeting the Xenos and encountering his worthy opponent Asterios, had changed him."
 [@fm20-legend]: FM20 | Chapter 3: The World, The Festival, and Reality | "the duel with the Black Minotaur". The Japanese edition (file J14, paragraph 959) has the crowd dream of a return of the War Game's showdown, the single combat with the black bull and the fighting of the Familia War.
+[@fm10-asterios-blade]: FM10 | Chapter 10: The Fool | "the black minotaur reached behind its right shoulder"; "Brutal lightning bolts burst forth the instant his metal boot touched the black minotaur’s weapon."
+[@so10-asterios-blade]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "Its name is Kaminari-Ikazuchi-Maru."; "This was used by the armed monsters…by a black minotaur."

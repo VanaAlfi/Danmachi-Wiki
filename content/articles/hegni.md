@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Dark-elf swordsman of Freya Familia, titled Dáinsleif; a former king of Heodenings whose magic turns his timid self into a fierce warrior.",
   "aliases": ["Hegni", "Dáinsleif", "Sick Edge Lord", "black and white knights", "white and black knights"],
-  "spoilers": "DanMachi Vols. 16–19, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
+  "spoilers": "DanMachi Vols. 16–19, Sword Oratoria Vol. 12, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vols. 1 and 2",
   "related": ["hedin", "freya-familia", "freya", "lyu-leon", "anya-fromel", "allen-fromel", "magic"],
   "infobox": {
     "title": "Hegni Ragnar",
@@ -31,7 +31,7 @@
 
 ## Heodenings
 
-Hegni and Hedin were the kings of rival dark-elf and white-elf states on the island of Heodenings. [[freya|Freya]] provoked the final war between them, and when the two of them were the last left standing on the battlefield, they followed her.[@fc02-past]
+Hegni and Hedin were the kings of rival dark-elf and white-elf states on the island of Heodenings. [[freya|Freya]] provoked the final war between them, and when the two of them were the last left standing on the battlefield, they followed her.[@fc02-past] Hegni was not a high elf, but his talent for battle made him the warrior king of the dark elves, and his clan exploited him; he came to fear the gaze of others and to love the darkness. Freya accepted him as he was, as no one else ever had.[@fc02-hegni-king]
 
 ## Abilities
 
@@ -69,7 +69,7 @@ Familia Chronicle 2 prints the whole chant, three sentences, and calls it a shor
 - **Then:** "Sacrifice reason and offer up blood. Slaughter all until the feast is finished."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
 - **Name:** "Dáinsleif."[@dainsleif.fc02-cast, dainsleif.fm18-cast]
 
-DanMachi 18 prints the last two sentences and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16, when he attacks [[bell-cranell|Bell]], the last sentence is printed before the name: "Slaughter all until the feast is finished."[@dainsleif.fm16-bell]
+DanMachi 18 prints all three sentences, the first apart from the other two, and the name; Astrea Record 3 prints only the last sentence with the name.[@dainsleif.fm18-cast, dainsleif.ar03-cast] In DanMachi 16, when he attacks [[bell-cranell|Bell]], the last sentence is printed before the name: "Slaughter all until the feast is finished."[@dainsleif.fm16-bell]
 
 Hegni plants his black sword in the ground and a black magic circle spreads around it; when he speaks the name, the circle shatters and its light is absorbed into his body.[@dainsleif.fc02-cast]
 
@@ -112,7 +112,8 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; he fights at the front while Hedin casts.[@ar01-hegni] |
+| Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; he fights at the front while Hedin casts.[@ar01-hegni] He and Hedin, both about seventy, face their archenemies, the Level 5 elf sisters [[dis-sisters|Dina and Vena Dis]].[@ar01-dis-sisters] Later the sisters' ambush leaves him bleeding badly, and Hedin chooses to save him over the people in his care.[@ar01-dis-ambush] |
+| Astrea Record 3 | Against the Dis sisters he and Hedin swap targets and, in a deliberate bluff, swords; with Hedin's rhomphaia Dizaria, Hegni cuts down Dina Dis.[@ar03-dina] |
 | DanMachi 16 | Level 6 during the festival; he defeats [[lyu-leon|Lyu]] while she protects the false [[syr-flover|Syr]], holding back from a killing blow.[@fm16-hegni, fm17-cuts] |
 | DanMachi 17 | Continues [[bell-cranell|Bell]]'s training in [[folkvangr|Folkvangr]] and corners the escaped Lyu. After the charm is broken he fights [[aiz-wallenstein|Aiz]], [[hyrute-sisters|Tiona]], Tione and Lyu while defending Freya's estate.[@fm17-hegni] |
 | DanMachi 18 | In the Familia War Lyu, now Level 6, defeats him. Hedin then persuades him to help save Syr, and he protects [[anya-fromel|Anya]] from [[allen-fromel|Allen]].[@fm18-fall, fm18-anya] |
@@ -130,7 +131,7 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 [@fc02-past]: FC02 | Their Various Pasts | Heodenings.
 [@ar01-hegni]: AR01 | Chapter 9: The Opening Act of Evil | Level 5; title Dáinsleif.
 [@fm16-hegni]: FM16 | | Level 6; "Sick Edge Lord".
-[@fm16-sword]: FM16 | | Victim Abyss.
+[@fm16-sword]: FM16 | Chapter 6: The Wish's Cost | Victim Abyss.
 [@fm17-cuts]: FM17 | Chapter 1: The Opening of Hostilities | Dáinsleif held back; slow-healing cuts.
 [@fm17-hegni]: FM17 | | Folkvangr; Lyu; defending the estate.
 [@fm18-fall]: FM18 | Chapter 9: Flower Language for You | "A Level 6 had fallen."
@@ -139,10 +140,10 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 [@ss02-hegni]: SS02 | | Dáinsleif as the same person.
 [@dainsleif.fc02-cast]: FC02 | Ali and the 8 Followers | The full chant; black magic circle; "a rare magic"; no Status increase; the title from the magic.
 [@dainsleif.fm16-bell]: FM16 | Chapter 6: The Wish’s Cost | The last sentence, "Slaughter all until the feast is finished.", then "Dáinsleif"; the attack on Bell.
-[@dainsleif.fm18-cast]: FM18 | Chapter 8: The Great Familia War | Two sentences and the name; "a short cast"; personality-altering; no Status effect; the limiter.
+[@dainsleif.fm18-cast]: FM18 | Chapter 8: The Great Familia War | Three sentences, the first apart from the other two, and the name; "a short cast"; personality-altering; no Status effect; the limiter.
 [@dainsleif.fm18-welf]: FM18 | Chapter 8: The Great Familia War | Constant Mind; active like an enchantment; Welf's attempt.
 [@dainsleif.fm18-resolve]: FM18 | Chapter 9: Flower Language for You | His declaration "without activating Dáinsleif".
-[@dainsleif.ar03-cast]: AR03 | | "Slaughter all until the feast is finished! Dáinsleif!"
+[@dainsleif.ar03-cast]: AR03 | Chapter 2: The Conqueror’s Return | "Slaughter all until the feast is finished! Dáinsleif!"
 [@dainsleif.ar03-worn]: AR03 | Chapter 6: The Nameless Heroes | "Hegni’s Dáinsleif had finally worn off."
 [@dainsleif.ss01-sword]: SS01 | | A sword called Dáinsleif offered to Aiz.
 [@dainsleif.ss02-core]: SS02 | | Still the same person; the alter ego's name; mixed thoughts.
@@ -153,3 +154,7 @@ An eruption of flame pours from his outstretched arm, lit brighter by the black 
 [@fm18-knights]: FM18 | Chapter 9: Flower Language for You | "both kings died—and the white and black knights were born"; also "the black and white knights".
 [@fm18-hegni-ja]: FM18 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning the dark fairy's magic sword, with the reading Dáinsleif; the infobox gives the printed name and the kanji.
 [@ss01-dainsleve-ja]: SS01 | | The Japanese edition writes the dealer's sword in kanji meaning blood-mad cursed sword, with a reading spelled differently from Hegni's title.
+[@fc02-hegni-king]: FC02 | Their Various Pasts | "Hegni was not a high elf, but he was nonetheless chosen as the warrior king of the dark elves’ capital."; "And because of that, he was exploited."; "Hegni started to feel that the gaze of others was the most terrifying thing in the world"; "Hegni started to love the darkness"; "was granted light by someone who accepted him as he was, more than anyone else ever had"
+[@ar01-dis-sisters]: AR01 | Chapter 9: The Opening Act of Evil | "these two were his and Hedin’s archenemies"; "in fact were older than Hedin and Hegni, who were both about seventy"
+[@ar01-dis-ambush]: AR01 | Chapter 11: Absolute Evil | "the Dis sisters had taken Hegni by surprise, and now the dark elf was bleeding profusely"; "You abandoned your people to save Hegni!"
+[@ar03-dina]: AR03 | Chapter 6: The Nameless Heroes | "A mind-numbingly simple bluff that allowed Hedin and Hegni to change swords."; "Hegni pulled out the Hildsleif’s rhomphaia, Dizaria"; "Guided by all Hegni’s might, the blade cut Dina from shoulder to hip."

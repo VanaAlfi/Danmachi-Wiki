@@ -26,14 +26,14 @@
   }
 }
 ---
-**Vil Crozzo** {{small|printed *Wil Crozzo* in DanMachi 8}} is [[welf-crozzo|Welf Crozzo]]'s [[races#human|human]] father and the current head of the Crozzo family in [[ares-familia|Ares Familia]]'s [[rakia|kingdom of Rakia]].[@fm08-identity, fm15-kingdom] He and Welf Crozzo's grandfather, Garon Crozzo, bear [[phobos|Phobos]]'s [[falna|Blessing]] and work together at the forge.[@fm15-blessing]
+**Vil Crozzo** {{small|printed *Wil Crozzo* in DanMachi 8}} is [[welf-crozzo|Welf Crozzo]]'s [[races#human|human]] father and the current head of the Crozzo family in [[ares-familia|Ares Familia]]'s [[rakia|kingdom of Rakia]].[@fm08-identity, fm15-kingdom] He and Welf Crozzo's grandfather, Garon Crozzo, bear [[phobos|Phobos]]'s [[falna|Blessing]] and work together at the forge.[@fm15-blessing] He has long brown hair that he ties back.[@fm15-vil-looks]
 
 ## History {#history}
 
 | Volume | Events |
 |---|---|
 | DanMachi 8 | He orders Welf Crozzo to make [[magic-sword|magic swords]] for his side.[@fm08-demand] He threatens to burn [[orario|Orario]] if Welf Crozzo refuses to accompany him, claiming that fifty Crozzo Magic Swords survived the curse.[@fm08-threat] At the warehouse, his companions are disguised Ares Familia soldiers who surround Welf Crozzo and [[bell-cranell|Bell Cranell]].[@fm08-soldiers] Welf Crozzo exposes the other soldiers' blades as ordinary magic swords, rather than Crozzo Magic Swords.[@fm08-exposed] Vil is knocked down during their clash, and his red magic sword breaks while Welf Crozzo's blade remains intact.[@fm08-defeat] He insists that magic swords are the family's only salvation, while Welf Crozzo reminds him of the smithing ideals he and Garon taught.[@fm08-memory] He objects when Garon abandons their pursuit of Welf Crozzo, fearing the family will lose its place in the kingdom.[@fm08-surrender] He and Garon are led toward the [[guild|Guild]] with their hands bound.[@fm08-captives] |
-| DanMachi 15 | In Welf Crozzo's childhood, Vil insists that he behave as a noble and maintain the family's standing.[@fm15-nobility] Vil, Garon and Welf Crozzo combine their strength to forge a blade, seeking weapons worthy of replacing Crozzo Magic Swords.[@fm15-blessing] Vil demands that Welf Crozzo forge magic swords to restore the family, and declares that substitute weapons are no longer needed.[@fm15-pressure] |
+| DanMachi 15 | In Welf Crozzo's childhood, Vil insists that he behave as a noble and maintain the family's standing.[@fm15-nobility] Vil, Garon and Welf Crozzo combine their strength to forge a blade, seeking weapons worthy of replacing Crozzo Magic Swords.[@fm15-blessing] Vil demands that Welf Crozzo forge magic swords to restore the family, and declares that substitute weapons are no longer needed.[@fm15-pressure] Ares receives Vil in his throne room and laughs with delight at the news that someone in the Crozzo family can forge magic swords.[@fm15-ares-audience] |
 
 
 [@fm08-identity]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Welf’s human father and the current Crozzo head, a citizen of Rakia. The English prints his name as Wil in this volume; the Japanese edition writes Vil, as DanMachi 15 does (file part0021, paragraph 526).
@@ -50,3 +50,5 @@
 [@fm08-surrender]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Garon ends their pursuit; Vil protests the loss of their place in Rakia.
 [@fm08-captives]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Father and grandfather are led toward Guild Headquarters, hands bound.
 [@fm08-vil-ja]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | The Japanese edition writes his name in katakana, read Viru Kurozzo (file part0021, paragraph 526), and DanMachi 15 writes it the same way (file c3VG, paragraph 95).
+[@fm15-vil-looks]: FM15 | Chapter 5: Blue Flame | "Garon had white hair and a beard, while Vil had long brown hair that he tied back."
+[@fm15-ares-audience]: FM15 | Chapter 5: Blue Flame | "He was giving Vil an audience on the castle’s highest floor, in the throne room."; "Someone who can forge magic swords has appeared in the Crozzo family!"

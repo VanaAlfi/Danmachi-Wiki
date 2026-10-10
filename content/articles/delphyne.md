@@ -30,7 +30,7 @@ The [[evils|Evils]] send a god into the Dungeon as bait; an unnamed Evils god re
 
 ## The monster
 
-Delphyne has a huge, misshapen, snake-like body, and later grows toxic purple wings like a butterfly's. It regenerates quickly, closing wounds and re-forming shattered scales.[@ar03-delphyne, ar03-wings, ar03-regen] [[lyra|Lyra]] of Astrea Familia judges it as mighty as the strongest floor bosses and at least Level 6 or 7 — an assessment, not a Status.[@ar03-level]
+Delphyne has a huge, misshapen, snake-like body, and later grows toxic purple wings like a butterfly's. It regenerates quickly, closing wounds and re-forming shattered scales.[@ar03-delphyne, ar03-wings, ar03-regen] Its fiery breath vaporizes [[riveria|Riveria]]'s magic before impact, and a single blast leaves nothing of an Evils lieutenant but his arm.[@ar03-delphyne-breath] [[loki|Loki]] says such pitch-black monsters of the deep are bred to kill gods and go wild when a god is dangled before them.[@ar02-delphyne-godkiller] In Astrea Record 3 it goes for [[erebus|Erebus]] himself, who flees it with his followers.[@ar03-delphyne-erebus] [[lyra|Lyra]] of Astrea Familia judges it as mighty as the strongest floor bosses and at least Level 6 or 7 — an assessment, not a Status.[@ar03-level]
 
 ## Destruction
 
@@ -49,3 +49,6 @@ Because its strength lies in healing, enough firepower can outpace its regenerat
 [@ar03-level]: AR03 | Chapter 9: A Hero’s Trail | Lyra's assessment.
 [@ar03-plan]: AR03 | Chapter 9: A Hero’s Trail | Overcoming its regeneration.
 [@ar03-end]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Delphyne destroyed.
+[@ar03-delphyne-breath]: AR03 | Chapter 4: Apocalypse Cometh | "the dragon’s fiery breath vaporized it utterly before impact"; "all that remained of the Evils lieutenant was his arm"
+[@ar02-delphyne-godkiller]: AR02 | Epilogue: All You Need Is Justice | "Those pitch-black critters are basically bred for killin’ gods."; "Dangle a divinity in front of ’em and they’ll go crazy tryin’ to get it"
+[@ar03-delphyne-erebus]: AR03 | Chapter 4: Apocalypse Cometh | "I suppose it is me you’re after, isn’t it?"; "Delphyne glared at the dark god"; "Erebus fleeing Delphyne alongside his followers"

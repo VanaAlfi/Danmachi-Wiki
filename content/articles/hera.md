@@ -22,11 +22,11 @@
   }
 }
 ---
-**Hera** is the goddess of Hera Familia, which with [[zeus|Zeus]]'s Familia ruled [[orario|Orario]] for a thousand years. Fifteen years before DanMachi 6, after both Familias lost their strongest followers to the Black Dragon, [[loki|Loki]] and [[freya|Freya]] drove Zeus and Hera out of the city.[@fm06-fall] The two Familias' history is on the [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] page; this page gathers what the novels say of the goddess herself. Where she is now was not located in the checked text.
+**Hera** is the goddess of Hera Familia, which with [[zeus|Zeus]]'s Familia ruled [[orario|Orario]] for a thousand years.[@ar03-thousand-years] Fifteen years before DanMachi 6, after both Familias lost their strongest followers to the Black Dragon, [[loki|Loki]] and [[freya|Freya]] drove Zeus and Hera out of the city.[@fm06-fall] The two Familias' history is on the [[zeus-and-hera-familias|Zeus Familia and Hera Familia]] page; this page gathers what the novels say of the goddess herself. Where she is now was not located in the checked text.
 
 ## Hera and Freya
 
-Freya once lost to Hera in a conflict and lost many of her followers with it.[@fc02-freya] Freya tells [[ottar|Ottar]] that Hera had been asked by Zeus to scout her, and that she got "caught up in the farce of a relationship" the two had had since they were in the heavens.[@fc02-freya] [[ouranos|Ouranos]] reminds Freya in DanMachi 17 that she "lost to Hera and became bound to Orario", and in Astrea Record 3 Freya goes into battle wearing "the same clothes I was wearing when Hera defeated me in battle".[@fm17-lost, ar03-clothes]
+Freya once lost to Hera in a conflict and lost many of her followers with it.[@fc02-freya] Freya tells [[ottar|Ottar]] that Hera had been asked by Zeus to scout her, and that she got "caught up in the farce of a relationship" the two had had since they were in the heavens.[@fc02-freya] Zeus wanted Freya's help with their machia, and Freya had accepted the challenge on the deal that she would help them if she lost; after her defeat she kept her promise and for a time gave up looking for her Odr. Though Hera was the one who won, Freya says, she got huffy and let her hatred get the better of her.[@fc02-wager] [[ouranos|Ouranos]] reminds Freya in DanMachi 17 that she "lost to Hera and became bound to Orario", and in Astrea Record 3 Freya goes into battle wearing "the same clothes I was wearing when Hera defeated me in battle".[@fm17-lost, ar03-clothes]
 
 ## As others see her
 
@@ -45,18 +45,20 @@ Hera's followers were feared. When Alfia devastates her foes in Astrea Record 2,
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Where Hera went after leaving Orario.[@fm06-fall]
 
-[@fm06-fall]: FM06 | | Printed heading "Chapter 2" (not in the evidence map): Hermes: "Until Loki and Lady Freya claimed control themselves, Zeus and a goddess named Hera were the top dogs in Orario."; "Both Zeus’s and Hera’s Familias lost their strongest followers in the battle with the Black Dragon"; "Lord Zeus and Lady Hera…Can I ask what happened to them?"
+[@fm06-fall]: FM06 | Chapter 2: Shall We Dance? | Hermes: "Until Loki and Lady Freya claimed control themselves, Zeus and a goddess named Hera were the top dogs in Orario."; "Both Zeus’s and Hera’s Familias lost their strongest followers in the battle with the Black Dragon"; "Lord Zeus and Lady Hera…Can I ask what happened to them?"
 [@fc02-freya]: FC02 | The Origin of the Strongest | "Freya had apparently lost to Hera in a conflict. At the time, she had also lost many of her followers."; "Apparently she had been asked to scout me by Zeus"; "I got caught up in the farce of a relationship they’ve had since they were in the heavens."
 [@fc02-empress]: FC02 | The Origin of the Strongest | "the follower of Hera, the world’s scariest woman, the Level-9 empress, laughed".
 [@fm17-lost]: FM17 | Chapter 2: Alone Inside a Sandbox | "…You, who lost to Hera and became bound to Orario? Why now?"
 [@fm20-hunt]: FM20 | Chapter 2: Lion and then Sword Princess | "whenever one of Zeus’s followers caused a problem, Hera’s followers began their hunt".
 [@fm20-empress]: FM20 | Chapter 2: Lion and then Sword Princess | "Hera’s empress said it with such bemusement after parrying my slash with nothing but her pinky nail."
 [@so11-hestia]: SO11 | Chapter 3: The True Face of a God | "And even that crazy, psycho, hyper-ultra-hysterical Hera."
-[@ar02-girls]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): Erebus: "Glad she’s on our side"; too strong, no wonder Hera was feared (the Japanese edition, file c4JS).
-[@ar02-alfia]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): "I grew lax, arrogant…like Hera was."
+[@ar02-girls]: AR02 | Chapter 6: Melody of Silence | Erebus: "Glad she’s on our side"; too strong, no wonder Hera was feared (the Japanese edition, file c4JS).
+[@ar02-alfia]: AR02 | Chapter 6: Melody of Silence | "I grew lax, arrogant…like Hera was."
 [@ar03-clothes]: AR03 | Prologue: Last Intermission | "These are the same clothes I was wearing when Hera defeated me in battle."
-[@ar03-level7]: AR03 | | Printed heading "Chapter 3: Eden’s Demise" (not in the evidence map): "That was simply how powerful Hera’s Level 7 was."
+[@ar03-level7]: AR03 | Chapter 3: Eden’s Demise | "That was simply how powerful Hera’s Level 7 was."
 [@ar03-told]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "My spells taught him a lesson before he could lay one finger on me"; "And then I told Hera about it."
 [@ar03-purity]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "One of our own, knocking up a Hera girl?" The Japanese edition (file c9X3, paragraphs 60 to 63) has Zald say he truly shuddered at the news, and that with his Familia all but wiped out he alone was scared the whole time, because it was Hera.
 [@ar03-child]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "So, where is that child now? With Hera?"; "My sister entrusted him to Zeus."
 [@ar03-metelia]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "Even Hera did everything she could to prolong her life."; "Metelia," she said, "was the purest, kindest soul I’ve ever known".
+[@ar03-thousand-years]: AR03 | Chapter 2: The Conqueror’s Return | Zald and Alfia, "symbols of the two forces that ruled Orario unchallenged for a thousand years"
+[@fc02-wager]: FC02 | The Origin of the Strongest | "in order to get me to help with their machia"; "even though she was the one who won, she got all huffy and let her hatred get the best of her"; "for a time, I gave up on looking for my Odr, since the deal was that I would help them if I lost"; "It was my fault for accepting the challenge."

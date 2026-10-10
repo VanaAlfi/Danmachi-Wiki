@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The mountain range directly north of Orario, a natural fortress where monsters from the Ancient Times still live: Edas Village lies in one of its valleys, Rakia's forces are pursued through it in DanMachi 8, and the Familia War of DanMachi 18 is fought at a caldera lake at its western end.",
   "aliases": ["Beor Mountain Range", "Beor Mountain", "Beol Mountains"],
-  "spoilers": "DanMachi Vols. 8, 9, 18, 20 and Sword Oratoria Vols. 9 and 12",
+  "spoilers": "DanMachi Vols. 8, 9, 17, 18, 20, Sword Oratoria Vols. 9 and 12 and Astrea Record Vol. 2",
   "related": ["edas-village", "orario", "ares", "war-game", "demeter", "three-great-quests"],
   "infobox": {
     "title": "Beor Mountains",
@@ -23,7 +23,7 @@
   }
 }
 ---
-The **Beor Mountains**, printed both *Beor Mountain Range* and *Beor Mountains*, lie "Directly north from Orario".[@fm08-north, fm09-harpies] Sword Oratoria 9 calls the range "a collection of peaks that formed a natural fortress"; monsters descended from the Originals that went out onto the surface still roam it.[@so09-fortress, fm08-monsters]
+The **Beor Mountains**, printed both *Beor Mountain Range* and *Beor Mountains*, lie "Directly north from Orario".[@fm08-north, fm09-harpies] Sword Oratoria 9 calls the range "a collection of peaks that formed a natural fortress"; monsters descended from the Originals that went out onto the surface still roam it.[@so09-fortress, fm08-monsters] Its steep drops and dangerous paths earned it the name "Mountain Castle", and Sword Oratoria 9 also calls it the "Devil Mountains"; its monsters gave it an evil name, and adventurers hardly go there.[@fm08-beor-castle, so09-beor-devil]
 
 ## Rakia's forces and Edas Village {#edas-village}
 
@@ -38,6 +38,7 @@ The [[war-game|Familia War]] of DanMachi 18 is fought among ruins "in a caldera 
 - **Harpies:** in DanMachi 9 Bell recalls that "I encountered harpies when I was stranded in the Beor Mountains"; see [[monsters#harpy|Harpy]].[@fm09-harpies]
 - **A storehouse:** in Sword Oratoria 12 a building "tucked away in the mountainside" lies "in the Beor Mountain Range due north of Orario"; [[demeter|Demeter]] is said to have kept food there.[@so12-storehouse]
 - **The journey north:** in DanMachi 20 Bell heads "north to the base of the Beor Mountains", following the map in Balder's letter, and the journey continues "with the Beor Mountains to the west and the Alv Mountains to the east". He recalls the terror of the Black Dragon "in Edas village where the dragon’s scale was worshipped" (see [[three-great-quests|Three Great Quests]]).[@fm20-north, fm20-journey, fm20-scale]
+- **A secret route:** Hermes Familia knows a hidden passage through the range from the Dark Age. In Astrea Record 2 Hermes and a few lower-class adventurers go in and out of the besieged city by "that secret route through the Beor Mountain Range"; in DanMachi 17 [[asfi|Asfi]] and [[lyu-leon|Lyu]] enter its tunnel at the base of the mountains and come out inside the city's northwest.[@ar02-beor-route, fm17-beor-tunnel]
 
 **Name:** Fandom's *Beol Mountains* is a search alias; the English text prints *Beor*.[@fm08-north]
 
@@ -49,10 +50,14 @@ The [[war-game|Familia War]] of DanMachi 18 is fought among ruins "in a caldera 
 [@fm08-leave]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "On the fifth morning after we came here as refugees lost in the Beor Mountain Range, we say our last good-byes to the villagers and set a course for Orario."
 [@fm09-harpies]: FM09 | Chapter 1: An Irregular Girl | "I encountered harpies when I was stranded in the Beor Mountains not too long ago".
 [@so09-rakia]: SO09 | Chapter 2: A Brief Calm | "It seems she’s headed toward the Beor Mountain Range with Little Rookie!"
-[@so09-fortress]: SO09 | | "The Beor Mountain Range was a collection of peaks that formed a natural fortress."; "Harsh weather persistently hung over the Beor Mountain Range."
+[@so09-fortress]: SO09 | Chapter 3: From the North Mountains | "The Beor Mountain Range was a collection of peaks that formed a natural fortress."; "Harsh weather persistently hung over the Beor Mountain Range."
 [@fm18-caldera]: FM18 | Chapter 8: The Great Familia War | "a caldera lake to the northwest of Orario, at the western end of the Beor Mountains"; "This caldera is on the opposite end of the mountain range in relation to Edas Village".
 [@so12-storehouse]: SO12 | Chapter 4: Nameless Heroes | "It’s in the Beor Mountain Range due north of Orario. A building tucked away in the mountainside. I’ve heard Demeter had a storehouse".
 [@fm20-north]: FM20 | Chapter 2: Lion and then Sword Princess | "I head north to the base of the Beor Mountains. Following the map included with Lord Balder’s letter".
 [@fm20-journey]: FM20 | Chapter 3: The World, The Festival, and Reality | "The journey continued with the Beor Mountains to the west and the Alv Mountains to the east."
 [@fm20-scale]: FM20 | Chapter 3: The World, The Festival, and Reality | "I glimpsed a trace of the terror of the Black Dragon in the Beor Mountains, too—in Edas village where the dragon’s scale was worshipped."
 [@fm08-beor-ja]: FM08 | | The Japanese edition prints the name in katakana with the word for mountain range; the infobox gives that printed form.
+[@fm08-beor-castle]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "It was known for steep drop-offs and incredibly dangerous paths."; "it had been dubbed the “Mountain Castle.”"; "adventurers hardly came out this way, even during the modern age"
+[@so09-beor-devil]: SO09 | Chapter 3: From the North Mountains | "the Devil Mountains’ extreme inclines and poor trails made it easy to get lost"
+[@ar02-beor-route]: AR02 | Chapter 11: Warriors’ Last Supper: FINAL WAR EVE | "The only ones who went in and out of that secret route through the Beor Mountain Range were me, Laurier, and a few of the other lower-class adventurers."
+[@fm17-beor-tunnel]: FM17 | Chapter 4: Those Left Behind | "Asfi knew of a hidden, underground passage that Hermes Familia had used during the Dark Ages"; "The two of them went into the tunnel at the base of the Beor Mountains north of Orario"; "they got out on the northwest side of the city"

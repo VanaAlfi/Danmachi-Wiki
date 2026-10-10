@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A patron deity heads a Familia and grants its followers Falna, receiving their financial support in return.",
   "aliases": ["Patron deities", "Patron god", "Patron gods", "Patron goddess", "Patron goddesses", "Head god", "Chief god", "Chief goddess"],
-  "spoilers": "DanMachi Vols. 6, 12, 15, 17, 18, 20, Sword Oratoria Vols. 11 and 13 and Astrea Record Vol. 1",
+  "spoilers": "DanMachi Vols. 6, 12, 15, 17, 18, 20, Sword Oratoria Vols. 11–13, Familia Chronicle Vol. 3 and Astrea Record Vol. 1",
   "related": ["deusdea", "familia", "falna", "status", "status-thief", "soma", "hestia", "phobos"],
   "infobox": {
     "title": "Patron deity",
@@ -27,7 +27,7 @@ A **patron deity** is one of the [[deusdea|Deusdea]] who heads a [[familia|Famil
 
 ## Responsibilities and changing patron {#responsibilities-and-changing-patron}
 
-A follower's [[status|Status]] is inscribed with [[ichor|divine blood]] and can ordinarily be updated only by the patron, although [[status-thief#status-snitch|Status Snitch]] allows another deity to perform an update.[@fm17-update, fm17-exception] When [[hermes|Hermes]] considers his followers' safety, the narration calls this the right priority for a patron.[@fm18-care] [[lilliluka-erde|Lilliluka Erde]] needs [[soma|Soma]]'s permission to leave his Familia and undergo Falna [[falna#conversion|Conversion]].[@fm06-release] After he agrees, Soma works on her Status with his blood, and [[hestia|Hestia]] adds hers and inscribes the new contract, making Lilliluka Erde her follower.[@fm06-conversion] A follower transferred by Conversion must wait one year before transferring again.[@fm06-year] A patron can also prepare a follower for a later transfer: [[phobos|Phobos]] releases [[welf-crozzo|Welf Crozzo]]'s contract while leaving his enhanced abilities available.[@fm15-open]
+A follower's [[status|Status]] is inscribed with [[ichor|divine blood]] and can ordinarily be updated only by the patron, although [[status-thief#status-snitch|Status Snitch]] allows another deity to perform an update.[@fm17-update, fm17-exception] The growth of a follower's abilities and their level-ups are at the patron's discretion,[@fc03-discretion] and through the ichor they share a patron can sense the followers' Blessings and feel their number shrink.[@so12-sense] When [[hermes|Hermes]] considers his followers' safety, the narration calls this the right priority for a patron.[@fm18-care] [[lilliluka-erde|Lilliluka Erde]] needs [[soma|Soma]]'s permission to leave his Familia and undergo Falna [[falna#conversion|Conversion]].[@fm06-release] After he agrees, Soma works on her Status with his blood, and [[hestia|Hestia]] adds hers and inscribes the new contract, making Lilliluka Erde her follower.[@fm06-conversion] A follower transferred by Conversion must wait one year before transferring again.[@fm06-year] A patron can also prepare a follower for a later transfer: [[phobos|Phobos]] releases [[welf-crozzo|Welf Crozzo]]'s contract while leaving his enhanced abilities available.[@fm15-open] When a patron returns to heaven, the followers' Status is sealed, and they cannot use their enhanced abilities until they convert to a new deity;[@so11-sealed] when a Familia is disbanded or destroyed because its god was sent back, the [[guild|Guild]] reclaims its property and funds.[@so11-property]
 
 ## History {#history}
 
@@ -53,3 +53,7 @@ A follower's [[status|Status]] is inscribed with [[ichor|divine blood]] and can 
 [@ar01-astrea]: AR01 | Chapter 1: Astrea Familia | Astrea is the patron of Astrea Familia and goddess of justice.
 [@fm20-balder]: FM20 | Prologue: The Heroes’ Afterglow | Balder is School District principal and Leon’s patron.
 [@fm17-patron-ja]: FM17 | Chapter 2: Alone Inside a Sandbox | The Japanese edition writes the term in kanji meaning chief god (file part0017, paragraph 1256). The English prints it as patron deity, patron god or patron goddess (each in some 80 to 105 lines across the series) and in a few lines as head god (Familia Chronicle 1, DanMachi 8, Minor Myths and Legends 1) or chief god or goddess (Familia Chronicle 1, Minor Myths and Legends 1 and 2).
+[@fc03-discretion]: FC03 | The Locus of Stars | "Ability growth and leveling up were at the patron deity’s discretion."
+[@so12-sense]: SO12 | Chapter 6: The Divine Providence of Despair | "The patron goddess could sense them from the connection created by the Ichor she had shared with her children."; "she could sense the number of Blessings shrinking"
+[@so11-sealed]: SO11 | Chapter 6: And Then the God Smiled | "Her patron god had returned to the heavens. Her Status had been sealed."; "The followers of a late god could not wield their enhanced abilities without first converting to a new deity."
+[@so11-property]: SO11 | Epilogue: Whodunit | "If a familia was disbanded or destroyed because its patron god was sent back, its property and funds were reclaimed by the Guild"

@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Tenkai, the gods' upper world, and Gekai, the lower world of mortals, where bored gods came down to live among their \"children\" as equals. While in Gekai they keep their divine power, Arcanum, sealed by their own rule: using it, or a fatal wound that triggers it, sends a god back to Tenkai in a pillar of light. In Tenkai the gods judge the souls of the dead, who are mostly purified and reborn.",
   "aliases": ["Tenkai", "Gekai", "Upper world", "Lower world", "Heaven", "The heavens", "Mortal realm", "Mortal world", "Deusdia", "Arcanum", "Arkanam", "Divine power", "Divine Mirror", "Pillar of light", "Sent back to Tenkai", "Reincarnation"],
-  "spoilers": "DanMachi Vols. 1–8 and 17, Sword Oratoria Vols. 1, 2, 5, Familia Chronicle Vol. 2 and Astrea Record Vols. 2 and 3",
+  "spoilers": "DanMachi Vols. 1–8, 16 and 17, Sword Oratoria Vols. 1, 2, 5 and 11, Familia Chronicle Vol. 2, Astrea Record Vols. 2 and 3 and Minor Myths and Legends Vol. 1",
   "related": ["falna", "races", "hestia", "freya", "denatus", "war-game", "ishtar", "delphyne", "edas-village", "geography"],
   "sections": [
     {"anchor": "arcanum", "title": "Arcanum", "summary": "The gods' powers of omniscience and omnipotence, sealed by their own agreement while in Gekai. Using it gets a god sent back to Tenkai; a fatal wound triggers it and returns the god in a pillar of light. The Divine Mirror is the one permitted exception.", "aliases": ["Arkanam", "Divine Mirror", "Pillar of light"]},
@@ -41,11 +41,14 @@
 
 ## The descent {#descent}
 
+The gods began to descend nearly a thousand years ago.[@fm04-thousand-years] The first of them came some time after the hero Albert drove the Black Dragon away, ending the Ancient Times and opening the Divine Era that continues today.[@fm16-divine-era]
+
 When the gods appeared all over Gekai, then "a world overrun with monsters", most told the people they had come "To be entertained". One, [[ouranos|Ouranos]], joined the people in building the "lid" over the Dungeon's hole.[@so02-descent] Many changes followed. Before the gods came, magic was the exclusive preserve of particular races; now anyone in a [[familia|Familia]] can learn it.[@so01-descent, fm01-magic] Many gods appeared and created Familias in many places.[@fm02-babel]
 
 {{nocite}} The prum goddess Phiana was not among those who descended (see [[races#prum|Races]]).
 
 - **Life in Gekai:** gods in Gekai never age, but without their powers they need mortals' food and money.[@fm01-arcanum, fm08-rules] Hestia found life there "much more difficult than the life of luxury she was used to in Tenkai".[@fm04-hestia]
+- **Illness:** gods in Gekai never age or die, but they can catch colds and fall ill; Hestia says that when they came down they made it so that they could.[@fm08-gods-ill, ss01-gods-ill]
 - **Senses that remain:** gods can still detect lies if they wish, though not what the lie is. Their aura marks them as gods, and mortals bow to them even with their powers sealed.[@fm03-lies, fc02-lies, fm05-aura, fm05-awe]
 
 ## Arcanum {#arcanum}
@@ -54,6 +57,7 @@ When the gods appeared all over Gekai, then "a world overrun with monsters", mos
 
 - **Penalty:** a god who activates Arcanum is sent back to Tenkai as punishment. Other gods would sense it, because using Arcanum always releases a certain amount of the divine aura, which leaks to the other gods (Bell's understanding).[@fm06-penalty, fm05-aura, fm05-ja-aura]
 - **Fatal wounds:** "Arcanum activated at the moment a fatal wound had been inflicted on an immortal body". The god is then sent back in a pillar of light, as [[ishtar|Ishtar]] is in DanMachi 7.[@fm07-ishtar, fm06-penalty] Astrea Record 2 says the pillar is "a manifestation of arcanum energy".[@ar02-pillar]
+- **Followers left behind:** when a god returns to Tenkai, the followers' Status is sealed: the Blessing on their backs falls silent, and they cannot use the abilities they built up until they convert to a new god.[@so11-status-sealed]
 - **The Divine Mirror:** the one Arcanum allowed in Gekai (in the Japanese DanMachi 3 the sole special exception, {{ja|唯一の特例|yuiitsu no tokurei}}), used to show events anywhere, for example to watch a [[war-game|War Game]]. It is exempt because its purpose is entertainment, but abusing it gets a god banished to Tenkai.[@fm03-mirror, fm03-ja-mirror, fm06-mirror]
 - **Not Arcanum:** some abilities are natural gifts rather than Arcanum, such as Freya's Eyes of Insight.[@fm02-freya] Freya's charm over the whole city in DanMachi 17 does not count as using Arcanum, so the gods cannot send her back for it.[@fm17-arcanum]
 - **Illegal use:** an evil god unsealed his Arcanum in the Dungeon to summon the Black [[monsters#wyvern|Wyvern]] that endangered Aiz at Level 1. Astrea Record 3 traces another monster-summoning to a god who used divine power inside the Dungeon while all eyes were on Erebus (see [[delphyne|Delphyne]]).[@ar02-pillar, ar03-summon]
@@ -84,18 +88,23 @@ Lilly has heard that the gods' most important duty in Tenkai is caring for morta
 [@fm08-ja-deusdia]: FM08 | Chapter 6: A Certain Goddess’s Love Song | Japanese original (file part0030, paragraphs 198 and 232): the gods are the Deusdia, transcendent beings of a different dimension from us. Yen Press prints "the gods of Deusdia".
 [@fm05-awe]: FM05 | Chapter 5: The Outlaws’ Party | "still worthy of the awe and reverence of the children of Gekai even with their divine powers, Arcanum, sealed".
 [@fm06-penalty]: FM06 | Chapter 3: Outbreak | "activating Arcanum was against the rules of the gods themselves. They would be sent back to Tenkai as punishment."
-[@fm06-mirror]: FM06 | | "The gods were only allowed to use one specific type of Arcanum—the “Divine Mirror.”"
+[@fm06-mirror]: FM06 | Chapter 5: Our War Game | "The gods were only allowed to use one specific type of Arcanum—the “Divine Mirror.”"
 [@fm07-ishtar]: FM07 | Chapter 7: Goddess War | "Arcanum activated at the moment a fatal wound had been inflicted on an immortal body."; "A bridge of light that signaled a goddess’s return to Tenkai."
 [@fm08-prum]: FM08 | Chapter 2: The Prum’s Proposal | "the deities who descended to the mortal world, Gekai".
 [@fm08-rules]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "no one can use their divine power, Arcanum"; "physically the same as people without a Blessing, or perhaps even weaker"; "they never age".
 [@fm08-souls]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "the gods who control death"; "The spirits that travel to Tenkai get purified".
 [@fm08-kam]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "Gekai and Tenkai are just places—they don’t mean a thing."
 [@fm17-arcanum]: FM17 | Chapter 3: The Field of Battle | "We cannot send Freya back to the heavens by our own discretion. She has not used arcanum."
-[@so01-descent]: SO01 | | "The beings from a higher plane came down to this land that they called “Gekai”"; "the upper realm of “Tenkai”"; "The gods’ decision to descend from heaven caused many changes."
-[@so01-sealed]: SO01 | | "powers of omniscience and omnipotence known as Arcanum". The Japanese edition (file cHH, paragraph 45) says the gods set the rule, in keeping with their aesthetics, to enjoy the game called life in Gekai.
+[@so01-descent]: SO01 | Prologue: Dawn of the Labyrinth | "The beings from a higher plane came down to this land that they called “Gekai”"; "the upper realm of “Tenkai”"; "The gods’ decision to descend from heaven caused many changes."
+[@so01-sealed]: SO01 | Chapter 1: Loki Familia | "powers of omniscience and omnipotence known as Arcanum". The Japanese edition (file cHH, paragraph 45) says the gods set the rule, in keeping with their aesthetics, to enjoy the game called life in Gekai.
 [@so02-descent]: SO02 | Chapter 4: Orb | "a world overrun with monsters"; "To be entertained."; he "joined forces with the people of Gekai in their effort to complete the “lid” over the hole".
-[@so05-mod]: SO05 | | "used their Arcanum to mod their followers"; "everything would become completely and utterly boring".
+[@so05-mod]: SO05 | Interlude: Flip Side of the Farce | "used their Arcanum to mod their followers"; "everything would become completely and utterly boring".
 [@ar02-pillar]: AR02 | Epilogue: All You Need Is Justice | "the god unsealed his arcanum and summoned the Black Wyvern"; "The pillar of light that appears when a god is sent back is a manifestation of arcanum energy".
 [@ar03-summon]: AR03 | Prologue: Last Intermission | A god summons a monster below. The Japanese edition (file c7X, paragraphs 219–220) says divine power was used inside the Dungeon to summon it.
 [@fc02-lies]: FC02 | Ali and the 8 Followers | "it was not possible for them to know what exactly the lie was"; "their arcanum sealed on the mortal plane".
 [@arcanum.so01-ja]: SO01 | | The Japanese edition writes Arcanum with kanji meaning the power of the gods.
+[@fm04-thousand-years]: FM04 | Chapter 1: Denatus | "It had been nearly a thousand years since the deities had come down from the heavens and begun bestowing blessings on the children." The Japanese edition (FM04_ja.txt line 664) says about a thousand years.
+[@fm16-divine-era]: FM16 | Chapter 5: The Proof of ( ) | "shortly after the Black Dragon was gone, the first of the deities descended to the mortal realm, raising the curtain on the age of the deities that was still ongoing"; "Albert had brought the ancient era to an end". The Japanese edition (FM16_ja.txt line 2959) says the first gods descended some time after the Black Dragon left, opening the Divine Era that continues today.
+[@so11-status-sealed]: SO11 | Chapter 6: And Then the God Smiled | "Her patron god had returned to the heavens. Her Status had been sealed."; "The followers of a late god could not wield their enhanced abilities without first converting to a new deity." The Japanese edition (SO11_ja.txt lines 3299–3300) agrees.
+[@fm08-gods-ill]: FM08 | Chapter 6: A Certain Goddess’s Love Song | "not immune to the common cold or getting really sick". The Japanese edition (FM08_ja.txt line 5401) says that, though ageless and deathless, gods can fall ill and catch colds.
+[@ss01-gods-ill]: SS01 | | "I didn’t even know goddesses could get sick"; "when we came down from the heavens, we made it so that we could". The Japanese edition (SS01_ja.txt lines 446–447) has Hestia say that on coming down to the lower world they adjusted themselves so that they could catch colds.

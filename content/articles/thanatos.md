@@ -27,6 +27,8 @@
 
 ## The God of Death
 
+Thanatos has long, silken deep-purple hair that falls down his back like a woman's, eyes of the same dark hue, and a tall, graceful frame in tattered black robes; his Familia's emblem is a heart of iron and bronze with a single black wing that recalls the reaper's scythe.[@so07-thanatos-look] In Sword Oratoria 11 his features are androgynous enough that he could pass for a man or a woman.[@so11-thanatos-look]
+
 {{statement}} Thanatos tells [[lefiya|Lefiya]] that in Heaven he was a diligent, workaholic god who looked after the souls that came up, "bleaching" them and sending them back to be born as someone new.[@so07-lefiya] He is "guardian deity to the dregs" of the Evils, and he denies being Enyo.[@so07-lefiya] He says the evil gods have different motives, and asks whether it is not "only natural for death to desire as many lives as possible", before calling that a joke.[@so07-lefiya]
 
 His followers' readiness to die comes from his contracts. Each one promises to sacrifice themselves to his will; once [[orario|Orario]] is destroyed and he has returned to Heaven, he says, he will have them reborn together with the loved ones they lost.[@so07-contract] Lefiya objects that reincarnated souls keep no memories. Thanatos answers that he tells them the rules, that it is their choice, and that he coerces no one.[@so07-contract] The narration calls his followers ordinary bereaved people who made a contract with the death god, which is how the Evils could mobilise so many so quickly after their defeat.[@so07-contract] In Sword Oratoria 8 they throw themselves at [[bete-loga|Bete]] without fear of death because their god has promised them their course after death.[@so08-resurrection] The followers themselves are described on [[thanatos-familia|Thanatos Familia]].[@so08-familia]
@@ -49,11 +51,13 @@ His followers' readiness to die comes from his contracts. Each one promises to s
 
 ## Return to Heaven
 
+When Loki Familia and Dionysus Familia storm Knossos in Sword Oratoria 11, Thanatos directs the defence from the labyrinth master's room, watching the invaders through the eyes placed around the labyrinth; his followers' suicide bombs also stop any of them from being captured and questioned.[@so11-defence] He pushes Barca to leave the room and collapse a whole floor on Loki Familia.[@so11-barca-sent] Later, alone in the room, he senses that Barca has died.[@so11-barca-dead]
+
 In Sword Oratoria 11 the masked figure the creatures call Ein rejects Thanatos's request, and he understands at once what the mastermind intends.[@so11-ein] When Loki and [[gareth|Gareth]] corner him, he says again that he is not Enyo, admits that Enyo fooled him, and tells Loki that Enyo never saw Knossos as a fortress: "It was an altar. For a sacrifice."[@so11-cornered]
 
 As the [[corrupted-spirit|demi-spirits]]' green flesh closes in, Thanatos says that even he has his pride, and that being beaten without striking back galls him, and promises "a little payback" for what Enyo did to "the dream of my dear Barca". He drives a shortsword into his own chest and, as his [[tenkai-and-gekai#arcanum|Arcanum]] activates, points to the sky: "Go, Loki. A present from me."[@so11-return] His return to Heaven blasts open a shaft, which Sword Oratoria 12 remembers as the place where the God of Death came to the aid of Loki and her Familia. The Evils are crushed and their patron god sent back, but at the cost of [[dionysus|Dionysus]] Familia's destruction.[@so11-return, so11-aftermath, so12-shaft]
 
-In Sword Oratoria 12 the whole city has seen the two pillars of light it takes for Dionysus's and Thanatos's returns; the first was really [[penia|Penia]]'s.[@so12-pillars] Gareth recalls Thanatos's "altar" warning, and the shaft his return opened becomes a route back into Knossos for the final battle.[@so12-altar, so12-shaft]
+In Sword Oratoria 12 the whole city has seen the two pillars of light it takes for Dionysus's and Thanatos's returns.[@so12-pillars] Loki later works out that the first was really [[penia|Penia]]'s.[@so12-penia] Gareth recalls Thanatos's "altar" warning, and the shaft his return opened becomes a route back into Knossos for the final battle.[@so12-altar, so12-shaft]
 
 ## Open questions
 
@@ -61,9 +65,9 @@ In Sword Oratoria 12 the whole city has seen the two pillars of light it takes f
 > - How the silver orb in Sword Oratoria 9 got him out of the Dungeon.[@so09-escape]
 
 [@ar01-ardee]: AR01 | Chapter 8: Sound of Life | "That kid you tricked"; the deal with the god of death: slay an adventurer and be reunited with her parents.
-[@ar02-faithful]: AR02 | | The Faithful: "Some were lured with false promises by Thanatos, the god of death".
-[@ar02-rudra]: AR02 | | Rudra to Erebus: his Familia and Thanatos's have taken heavy losses (the Japanese edition, file c7BY).
-[@so07-sermon]: SO07 | | Prologue in Knossos: the sermon at the altar. The Japanese edition (file c3A, paragraph 19) has him swear by his own divine name to fulfil all their wishes.
+[@ar02-faithful]: AR02 | Chapter 5: Banquet of Evil | The Faithful: "Some were lured with false promises by Thanatos, the god of death".
+[@ar02-rudra]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | Rudra to Erebus: his Familia and Thanatos's have taken heavy losses (the Japanese edition, file c7BY).
+[@so07-sermon]: SO07 | Prologue: Villains | Prologue in Knossos: the sermon at the altar. The Japanese edition (file c3A, paragraph 19) has him swear by his own divine name to fulfil all their wishes.
 [@so07-barca]: SO07 | Chapter 2: Dungeon Trap | Thanatos accosts Barca, who is digging; Barca's "masterpiece".
 [@so07-valletta]: SO07 | Chapter 4: The Sword’s Wind Calls | "I picked up dear Valletta and the rest of her crew."
 [@so07-lefiya]: SO07 | Chapter 4: The Sword’s Wind Calls | "Guardian deity to the dregs of the group you call the Evils"; not Enyo; the God of Death; a workaholic in Heaven, bleaching souls.
@@ -86,3 +90,9 @@ In Sword Oratoria 12 the whole city has seen the two pillars of light it takes f
 [@so12-altar]: SO12 | Chapter 1: The Price of Defeat | Gareth: Thanatos said Knossos was not a fortress but an altar.
 [@so12-pillars]: SO12 | Chapter 2: An Evil Omen | "Everyone in the city saw the return of Dionysus and Thanatos."
 [@so12-shaft]: SO12 | Chapter 5: Final War | The shaft created by Thanatos's return; a route to Knossos.
+[@so12-penia]: SO12 | Chapter 6: The Divine Providence of Despair | "If it wasn’t me, who was sent back in that pillar?"; "Loki responded immediately with the name of the"
+[@so07-thanatos-look]: SO07 | Prologue: Villains | "Long silken hair like a woman’s flowed down his back in a river of deep purple, and his towering frame, shrouded in tattered black robes, was both graceful and delicate."; "His eyes, the same dark hue as his hair"; "a heart of iron and bronze coupled with a single black wing, evocative of the reaper’s scythe"
+[@so11-thanatos-look]: SO11 | Chapter 6: And Then the God Smiled | "With his long locks of deep-purple hair and androgynous features, he could pass for either a man or a woman."
+[@so11-defence]: SO11 | Chapter 4: Avengers ~Knossos War~ | "Both Loki and Dionysus were joining the fray for this first strike."; "as he looked down at the watery screen spread across the central pedestal, at the transmitted information from the eyes placed all around the labyrinth"; "Thanatos was removing that possibility at the root by using suicide bombs as an attack and means of silencing them."
+[@so11-barca-sent]: SO11 | Chapter 5: Obsession Manifest | "As Thanatos pushed Barca to throw in his lot with them"; "After understanding Thanatos’s divine will, Barca was going to use it to collapse an entire floor to crush Loki Familia"
+[@so11-barca-dead]: SO11 | Chapter 6: And Then the God Smiled | "Why’d you go and die on me, Barca?"; "he suspected that the soul that had left his side had been that of the man possessed by obsession"

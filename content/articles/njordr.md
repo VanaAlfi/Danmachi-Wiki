@@ -22,7 +22,7 @@
       {"label": "Appearance", "value": "Brown ponytail; untanned, pearly white skin; muscular, about Bete's height", "refs": ["so06-meet", "so06-cave"]},
       {"label": "Friends", "value": "[[loki|Loki]], from their time in Heaven", "refs": ["so06-meet", "so06-lies"]},
       {"label": "Familia", "value": "[[njordr-familia|Njörðr Familia]], the fishermen of [[njordr-familia#port-meren|Port Meren]]", "refs": ["so06-fishing", "fc01-chloe"]},
-      {"label": "Printed names", "value": "Njörðr; Njǫrðr (DanMachi 18, Sword Oratoria 13); Njrðr (once, Sword Oratoria 7)", "refs": ["so06-meet", "fm18-island", "so13-flowers", "so07-funds"]}
+      {"label": "Printed names", "value": "Njörðr; Njǫrðr (DanMachi 18, Sword Oratoria 13); Njrðr (Sword Oratoria 7)", "refs": ["so06-meet", "fm18-island", "so13-flowers", "so07-funds"]}
     ]
   }
 }
@@ -87,7 +87,7 @@ Before the main series, Chloe saw Njörðr taking freight from a shady group to 
 [@so06-portrait]: SO06 | Epilogue: Disturbing Elements | Ishtar Familia transported the violas; Njörðr made room for their activities; the portrait; perhaps something alive. The Japanese edition (file c779, paragraphs 69 and 75) says he made room for their activities in Meren and that the box was perhaps alive.
 [@so07-barca]: SO07 | Chapter 2: Dungeon Trap | "—The guy from the picture!"; "I am called…Barca." The Japanese edition (file c1KE, paragraph 287) calls Njörðr the fishing god of the port town.
 [@so07-funds]: SO07 | Chapter 5: Battle of Tears | The Evils lacked funds; "their contract with Njrðr to benefit from Meren’s black-market dealings".
-[@so13-flowers]: SO13 | | "the adventurers of Rivira and Njo˛rðr Familia who rushed over from Meren, no one died".
+[@so13-flowers]: SO13 | Prologue: The Sequel to Loss and Resolve | "the adventurers of Rivira and Njo˛rðr Familia who rushed over from Meren, no one died".
 [@fc01-chloe]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Chloe converted and contracted with Njörðr; Port Meren to the southwest; Lolog Lake; the smuggling she saw.
 [@fc01-good]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Njörðr is a good god."; he kept Black Cat's identity to himself.
 [@fc01-farewell]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Demeter and Njörðr visit the tavern; "Njörðr, I’m sorry for all the trouble I caused"; he pats her head.

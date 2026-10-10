@@ -49,7 +49,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 > - In DanMachi 16 the escape uses "two magic items", a Reverse Veil and a scent remover.[@fm16-escape]
 > - In DanMachi 18 Bell again uses a separate item to hide his scent from beast people.[@fm18-bell]
 >
-> The novels do not explain the difference. This wiki records both descriptions and does not decide whether the veil masks scent.
+> An explanation of the difference was not located in the checked text. This wiki records both descriptions and does not decide whether the veil masks scent.
 
 ## History
 
@@ -58,7 +58,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 - **The Daedalus Street battle (DanMachi 11).** Hestia Familia uses several veils while helping the Xenos escape, as described above.[@fm11-bell, fm11-welf, fm11-gros]
 - **Knossos (Sword Oratoria 12).** Fels moves alone through the labyrinth using "the reversible veil" and other magic items, avoiding every kind of detection, to find the points of the enemy's magic circle.[@so12-fels] The narration credits that with the combination of items, not the veil alone.
 - **The escape with Syr (DanMachi 16).** Bell borrows a veil and a scent remover from the hidden store of the mage Lenoa, an acquaintance of Fels, to slip away from [[freya-familia|Freya Familia]]'s surveillance with [[syr-flover|Syr]].[@fm16-escape]
-- **The Familia War (DanMachi 18).** [[lilliluka-erde|Lilly]] has Haruhime put on a veil so that neither the enemy nor the watching city can see who is casting the Level Boost.[@fm18-haruhime] She also gives veils to raiders, and [[mord-latro|Mord]]'s unit casts them off to ambush the Andhrímnir.[@fm18-raiders] Even so, [[hedin|Hedin]] reads her formation in detail, including where the invisible reserves have gone; the text does not say he sees through the cloth.[@fm18-hedin]
+- **The Familia War (DanMachi 18).** [[lilliluka-erde|Lilly]] has Haruhime put on a veil so that neither the enemy nor the watching city can see who is casting the Level Boost.[@fm18-haruhime] She also gives veils to raiders, and [[mord-latro|Mord]]'s unit casts them off to ambush the Andhrímnir.[@fm18-raiders] Even so, [[hedin|Hedin]] reads her formation in detail, including where the invisible reserves have gone; that he sees through the cloth was not located in the checked text.[@fm18-hedin]
 
 ## Open questions
 
@@ -66,7 +66,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 > - Whether the veil masks its wearer's scent.[@ar02-scent, fm16-escape]
 > - How it is made, how many people it can cover and whether it can be repaired.[@fm11-three, fm18-scraps]
 
-[@ar02-fels]: AR02 | | Fels drops the hood of the Reverse Veil.
+[@ar02-fels]: AR02 | Chapter 4: Those Who Struggle | Fels drops the hood of the Reverse Veil.
 [@ar02-veil-ja]: AR02 | Chapter 4: Those Who Struggle | The Japanese edition (file c2V4) prints Reverse Veil as the reading of kanji meaning transparency robe.
 [@ar02-scent]: AR02 | Chapter 4: Those Who Struggle | Ouranos: it cloaks from sight and covers scent.
 [@fm10-fels]: FM10 | Chapter 8: City Panic | Fels invisible under a veil.
@@ -79,7 +79,7 @@ In DanMachi 11 Bell pulls off his black mantle, turns it inside out and throws i
 [@fm11-three]: FM11 | Chapter 5: Ultra Soul! | The veil over Bell, Haruhime and Wiene.
 [@fm11-bete]: FM11 | Chapter 5: Ultra Soul! | Bete finds their alley.
 [@fm11-gros]: FM11 | Chapter 7: The Return of the Hero | Veils thrown over Gros and the Xenos.
-[@so10-bete]: SO10 | | Bete tracks the noise and air tremor.
+[@so10-bete]: SO10 | Interlude: Their Respective Battles | Bete tracks the noise and air tremor.
 [@so12-fels]: SO12 | Chapter 6: The Divine Providence of Despair | Fels drops the reversible veil in Knossos.
 [@fm16-escape]: FM16 | Chapter 4: Full Princess Panic! | The cloak blows off; a Reverse Veil and a scent remover from Lenoa's store.
 [@fm18-haruhime]: FM18 | Chapter 8: The Great Familia War | Lilly orders Haruhime into a reverse veil.

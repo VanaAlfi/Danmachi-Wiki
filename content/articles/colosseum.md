@@ -47,7 +47,7 @@ According to the Guild's records, the Colosseum appeared suddenly about thirty y
 | Stage | Events |
 |---|---|
 | The plan | Too weak and short of supplies to look for another route, [[bell-cranell|Bell]] and [[lyu-leon|Lyu]] must cross the Colosseum to reach the main route. Lyu has sewn skull-sheep robes into a cloak for both of them, and they mask their scent with monster organs. She gives Bell one of their three Inferno Stones and the map.[@fm14-plan, fm14-map] |
-| Discovered | They cross the bridge and creep along the plates. Then a monster dies nearby and a spartoi is born right under Bell, grabs his ankle and lifts him, and the cloak falls. "Every eye in the Colosseum" turns on them.[@fm14-found] |
+| Discovered | They cross the bridge and creep along the plates. Then a monster dies in a distant part of the Colosseum, and its replacement, a spartoi, is born right under Bell, grabs his ankle and lifts him, and the cloak falls. "Every eye in the Colosseum" turns on them.[@fm14-found] |
 | The flight | They flee across the plates. An Inferno Stone, set off by Bell's [[magic#firebolt|Firebolt]], brings down part of the outer rim, but every monster killed is replaced at once.[@fm14-flight] At the southern edge, a pack from outside starts across the bridge towards them.[@fm14-south] |
 | Lyu's choice | Lyu uses [[magic#luminous-wind|Luminous Wind]] to blow Bell off the bridge and out of the Colosseum, then destroys the bridge, staying behind alone.[@fm14-luminous] |
 | Bell's return | Bell runs round to the western doorway and crosses the western bridge, using the route advice Lyu had given him for his escape. From the outer rim he charges through the monsters surrounding her.[@fm14-return, fm14-charge] |
@@ -80,7 +80,7 @@ In DanMachi 15 Bell tells Eina, in short, that he "used an explosive, which made
 [@fm14-water]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "To think that this was here below the Colosseum"; "no one dared to go near the Colosseum".
 [@fm14-lucky]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "They were more than lucky the floor of the Colosseum had caved in".
 [@fm14-blue]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "the stream directly below it—the Blue Road—led straight to the Fourth Wall"; "incredible good fortune".
-[@fm15-eina]: FM15 | | "We were about to die trying to escape the Colosseum, so I used an explosive, which made the floor collapse".
+[@fm15-eina]: FM15 | Interlude: I, His Adviser | "We were about to die trying to escape the Colosseum, so I used an explosive, which made the floor collapse".
 [@fm15-lyu]: FM15 | Interlude: Elven Unrest | "After the boy had caused the collapse of the Colosseum, he’d played dead".
 [@so01-coliseum]: SO01 | Chapter 5: To Battle | "The Coliseum, located in eastern Orario"; "the main event of the Monsterphilia".
 [@fm14-colosseum-ja]: FM14 | | The Japanese edition writes the name in kanji meaning arena, with the reading Colosseum, and calls it the infinite cup; the infobox gives both.

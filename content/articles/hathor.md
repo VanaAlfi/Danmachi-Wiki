@@ -30,7 +30,7 @@
 | Volume | Events |
 |---|---|
 | DanMachi 16 | Hathor appears with [[minor-characters#damia|Damia]], [[freya|Freya]] and [[demeter|Demeter]] as the festival's harvest goddesses.[@fm16-festival] |
-| DanMachi 18 | The goddesses ask her to lead them, despite her attempts to refuse.[@fm18-leader] |
+| DanMachi 18 | The goddesses ask her to lead them, despite her attempts to refuse.[@fm18-leader] They call themselves the Goddess Alliance and mean to bring "a righteous divine punishment" on Freya.[@fm18-alliance] |
 | DanMachi 18 | They shield her from the approaching [[freya-familia#folkvangr|einherjar]] while she escapes their fortress.[@fm18-escape] |
 | DanMachi 18 | Hathor Familia remains among the [[familia-coalition|coalition]]'s four surviving factions, and its followers continue fighting while she hides.[@fm18-survivors] |
 | DanMachi 20 | At [[denatus|Denatus]], she praises [[bell-cranell|Bell Cranell]] for winning with everyone's help and wants to celebrate him.[@fm20-denatus] |
@@ -45,3 +45,4 @@
 [@fm20-denatus]: FM20 | Chapter 1: Orario Rumble | At Denatus Hathor wishes to celebrate Bell after the familia war.
 [@fm20-mage]: FM20 | Chapter 3: The World, The Festival, and Reality | Nernati identified as a Hathor Familia mage during the Orariad; the male gods call her Nerti.
 [@fm18-hathor-ja]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | The Japanese edition writes her name in katakana, read Hatohoru (file part0017, paragraph 465), and her Familia the same way (file part0025, paragraph 1318).
+[@fm18-alliance]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "it’s up to the Goddess Alliance!"; "This is the time to visit a righteous divine punishment on that loathsome Freya!"

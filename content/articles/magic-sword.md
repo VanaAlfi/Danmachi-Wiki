@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "A weapon that releases magic without a chant. Ordinary magic swords give weak magic and break after a limited number of uses; the legendary Crozzo Magic Swords are far stronger, armed Rakia's wars and burned the forests of the elves. Expensive, they are used by parties and Familias from Lilly to Loki Familia to the coalition of the Great Familia War.",
   "aliases": ["magic swords", "Crozzo Magic Sword", "Crozzo Magic Swords", "Crozzo magic sword", "magic-sword battalion"],
-  "spoilers": "DanMachi Vols. 2, 4, 5, 8, 9, 14, 18 and Sword Oratoria Vols. 3–6",
+  "spoilers": "DanMachi Vols. 2, 4, 5, 6, 8, 9, 14, 18 and Sword Oratoria Vols. 3–6",
   "related": ["welf-crozzo", "ares", "hephaistos-familia", "loki-familia", "alicia-forestlight", "lilliluka-erde", "magic", "skills"],
   "infobox": {
     "title": "Magic sword",
@@ -29,6 +29,7 @@ A **magic sword** is a weapon that releases magic without a chant. Ordinary magi
 - **Like a spell.** They produce the same effect as spells, so their users can fight enemies from a safe distance.[@so03-loki]
 - **Consumable.** Magic swords break if they are used too much; "An ordinary magic sword was fundamentally a consumable item."[@fm02-lilly, fm18-consumable] DanMachi 5 calls their shattering "the price for a weapon that wielded the same power as magic".[@fm05-shatter] Bell counts them, like Lilly's stink bombs, among things with "a limited number of uses".[@fm09-limited]
 - **Cost.** Magic swords are expensive, and a top-tier model from [[hephaistos-familia|Hephaistos Familia]] costs more still.[@so04-cost] After its expedition [[loki-familia|Loki Familia]] counts the magic swords among the costs that put it deep in the red.[@so06-red]
+- **Makers.** Only high-level smiths who have mastered the Advanced Ability Forge can make them; Welf, a Crozzo, can make them without it.[@fm04-forge]
 - **Other shapes.** Dormul fights Bell with a hammer-shaped magic weapon, whose handle Bell cuts through (see [[modi-and-magni-familias#dormul-bolster|Dormul Bolster]]).[@fm08-hammer]
 
 ## Users
@@ -36,8 +37,9 @@ A **magic sword** is a weapon that releases magic without a chant. Ordinary magi
 | Volume | User |
 |---|---|
 | DanMachi 2 | [[lilliluka-erde|Lilly]] carries a magic sword and saves it for emergencies, since it would break if used too much.[@fm02-lilly] |
+| DanMachi 6 | In the War Game, [[lyu-leon|Lyu]] storms Apollo Familia's castle with two Crozzo Magic Swords that Welf forged in less than a week; stories told of such swords turning an impenetrable fortress into rubble in one night.[@fm06-war-game] |
 | Sword Oratoria 3–4 | For its expedition, Loki Familia buys thirty top-of-the-line magic swords to protect its regular equipment from the corrosive caterpillars, and arms its lower-ranking members with them to guard the base camp.[@so03-loki] |
-| DanMachi 18 | In the Great Familia War, Welf's mass-produced Crozzo swords and Hephaistos Familia's magic swords give the [[familia-coalition|coalition]] firepower "far exceeding" even an advanced mage's long-cast magic.[@fm18-firepower] |
+| DanMachi 18 | In the Great Familia War, Welf's mass-produced Crozzo swords and Hephaistos Familia's magic swords give the [[familia-coalition|coalition]] firepower far beyond even an advanced mage's long-cast magic.[@fm18-firepower] |
 
 ## Crozzo Magic Swords
 
@@ -45,13 +47,13 @@ The Crozzo Magic Swords are weapons of legend, known throughout the world; the o
 
 - **The elves' grudge.** The flames of Crozzo swords in the Rakian wars reached the forests of the elves, who had no part in the war; the number of elves who lost their villages is almost uncountable. [[alicia-forestlight|Alicia]] calls the Crozzos the cause of the burning of her fellow elves' villages.[@so05-elves]
 - **Rakia's battalion.** In DanMachi 8 [[ares|Ares]] hopes to use Welf's power to revive Rakia's magic-sword battalion.[@fm08-battalion]
-- **Welf's swords.** In DanMachi 18 one of Welf's swords keeps taking Allen's thrusts without breaking, an expression of its maker's persistence.[@fm18-consumable] In DanMachi 14 he forges [[equipment#shikou-kazuki|Shikou Kazuki]], whose flame burns a whole swarm (see [[welf-crozzo|Welf Crozzo]]).[@fm14-kazuki]
+- **Welf's swords.** In DanMachi 18 one of Welf's swords keeps taking Allen's thrusts without breaking, an expression of its maker's persistence.[@fm18-consumable] In DanMachi 14 he forges [[equipment#shikou-kazuki|Shikou Kazuki]], whose flame burns a whole swarm (see [[welf-crozzo|Welf Crozzo]]).[@fm14-kazuki] Unlike other magic swords, this sword of Welf's own is not fated to crumble and keeps developing as its owner grows, but its power depends on its user's strength; so for the war game of DanMachi 18 Welf mass-produces breakable Crozzo swords, the only way to overpower a superior enemy.[@fm14-welfs-sword, fm18-crozzo-choice]
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many uses an ordinary magic sword has, and what it costs; the text gives neither figure.[@fm09-limited, so04-cost]
-> - How magic swords are made by smiths other than the Crozzos was not located in the checked text.[@so04-cost]
+> - How a smith with the Forge ability makes a magic sword, beyond needing that ability, was not located in the checked text.[@so04-cost, fm04-forge]
 
 [@fm02-lilly]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | "You have a magic sword, Lilly?"; "don’t magic swords break if you use them too much?"; "Yes, they do."
 [@fm04-ocean]: FM04 | Chapter 3: The Smith’s Situation | "They were the masters of the magic sword"; "‘set fire to the ocean’".
@@ -67,3 +69,7 @@ The Crozzo Magic Swords are weapons of legend, known throughout the world; the o
 [@so05-crozzo]: SO05 | Interlude: Flip Side of the Compromise | "Originally, magic swords were capable only of producing weak magic in exchange for not requiring chants to cast."; "the Kingdom of Rakia of old had long used them"; "reputed to have lit the sea itself on fire".
 [@so05-elves]: SO05 | Interlude: Flip Side of the Compromise | "The number of elves who’d lost their villages due to the heedless embers of those magic swords was almost uncountable." The Japanese edition (file c2BG, paragraph 158) has Alicia call the Crozzo clan the cause of the burning of her fellow elves' villages.
 [@so06-red]: SO06 | Chapter 1: Quest Results & Next Quest | "There’s the cost of the magic swords and Durandal weapons before we even left".
+[@fm04-forge]: FM04 | Chapter 3: The Smith’s Situation | "Only high-level smiths who have mastered the Forge ability to a certain degree can make them."; "And he really can make magic swords without the ability Forge."
+[@fm06-war-game]: FM06 | Chapter 5: Our War Game | "The weapons had been prepared by Welf in less than a week. Crozzo Magic Swords."; "There were even stories about how they’d used Crozzo Magic Swords to turn a previously impenetrable fortress into a pile of rubble in one night."; "Every time she spun, she swung one of the magic swords forward"
+[@fm14-welfs-sword]: FM14 | Chapter 8: The Voice of the Hammer | "This sword was not fated to crumble; it had shaken off that destiny."; "it would continue to develop as its owner grew"
+[@fm18-crozzo-choice]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | "My magic sword relies on the user’s strength."; "Using Crozzo magic swords is the only way."; "if anyone else used them, their effectiveness would depend on their status"

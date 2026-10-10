@@ -30,6 +30,7 @@
 | Volume | Events |
 |---|---|
 | Familia Chronicle 2 | [[ali|Ali]] describes a hidden fortress on the Israfan–Shalzad border where she planned to reunite with her retainers.[@fc02-border] |
+| Familia Chronicle 2 | [[resheph|Resheph]] guesses that Prince Aram has fled to Israfan and proposes to "put a little fire to the feet of Israfan" to draw him out; a message written in blood at the border fortress threatens that Israfan "will be consumed by a sea of flames" unless the prince comes forward, and that "Leodo will be the first warning".[@fc02-israfan-threat] |
 | Familia Chronicle 2 | Warsa invades Israfan and burns Leodo; Bofman also reports assaults on other towns and villages near Shalzad's border.[@fc02-burning] |
 | Familia Chronicle 2 | Ali asks Israfan's merchants and people to carry her message to Shalzad's soldiers.[@fc02-speech] |
 | Familia Chronicle 2 | [[hedin|Hedin Selrand]] chooses the [[geography#kaios-desert-countries-and-towns-gazoob-wasteland|Gazoob Wasteland]], where Israfan's, Shalzad's and Warsa's borders meet, and proposes requesting Israfan's troops as a contingency.[@fc02-contingency] |
@@ -43,3 +44,4 @@
 [@fc02-contingency]: FC02 | Ali and the 8 Followers | Hedin selects Gazoob and proposes requesting troops from Israfan if needed.
 [@fc02-name]: FC02 | Ali and the 8 Followers | The battles involving the three countries receive a later collective name.
 [@fc02-israfan-ja]: FC02 | Ali and the 8 Followers | The Japanese edition writes the name in katakana, read Isurafan (file cKZ, paragraph 216), and also in kanji meaning commercial country, read Israfan (from paragraph 219).
+[@fc02-israfan-threat]: FC02 | Ali and the 8 Followers | "put a little fire to the feet of Israfan"; "Israfan will be consumed by a sea of flames"; "Leodo will be the first warning"

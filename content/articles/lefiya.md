@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Elf mage of Loki Familia, titled Thousand Elf, who can reproduce other elves' spells; a School District graduate who admires Aiz Wallenstein. Level 4 from Sword Oratoria 12.",
   "aliases": ["Thousand Elf", "Lefiya"],
-  "spoilers": "Sword Oratoria Vols. 1–7, 9, 11–13 and Minor Myths and Legends Vol. 2",
+  "spoilers": "Sword Oratoria Vols. 1–7, 9–13 and Minor Myths and Legends Vol. 2",
   "related": ["loki-familia", "aiz-wallenstein", "riveria", "bete-loga", "school-district", "wishe-forest", "development-ability", "magic"],
   "infobox": {
     "title": "Lefiya Viridis",
@@ -27,11 +27,13 @@
   }
 }
 ---
-**Lefiya Viridis** is an elf mage of [[loki-familia|Loki Familia]], titled *Thousand Elf*.[@so01-lefiya] Her spell [[#elf-ring|Elf Ring]] lets her summon and cast the magic of other elves, such as [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-lefiya] She deeply admires [[aiz-wallenstein|Aiz Wallenstein]].[@so04-secret, ss02-lefiya] She is Level 3 in Sword Oratoria 1 and reaches Level 4 in Sword Oratoria 12.[@so01-lefiya, so12-level4] In the Familia she shares a room with the mage [[elfie-collette|Elfie Collette]]; after [[filvis|Filvis]]'s apparent death she is moved to another room, out of consideration for Elfie, who has cried herself out trying to cheer her up.[@elfie.so09-girls, elfie.so11-room]
+**Lefiya Viridis** is an elf mage of [[loki-familia|Loki Familia]], titled *Thousand Elf*.[@so01-lefiya] Loki and the Familia's leaders want her to follow in [[riveria|Riveria]]'s footsteps.[@so06-riveria-path] Her spell [[#elf-ring|Elf Ring]] lets her summon and cast the magic of other elves, such as [[riveria|Riveria]]'s [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]].[@so01-lefiya] She deeply admires [[aiz-wallenstein|Aiz Wallenstein]].[@so04-secret, ss02-lefiya] She regards [[bell-cranell|Bell Cranell]], whom Aiz trains in secret, as her rival.[@so04-rival] She is Level 3 in Sword Oratoria 1 and reaches Level 4 in Sword Oratoria 12.[@so01-lefiya, so12-level4] By Sword Oratoria 13, after [[filvis|Filvis]]'s death, she has cut her hair short, and her new white-and-red magic outfit is "a blend of Filvis Challia’s dying wish and Lefiya’s quiet passion"; she is fifteen.[@so13-new-look, so13-fifteen] Her new weapon is the twin staff [[equipment#forests-teardrop|Fairy Dust]]: its wand is made from Filvis's Protector's White Torch and its rod from the remnants of her own Forest Teardrop, "the first weapons made in Orario with a dedicated linking function".[@so13-fairy-dust] In the Familia she shares a room with the mage [[elfie-collette|Elfie Collette]]; after [[filvis|Filvis]]'s apparent death she is moved to another room, out of consideration for Elfie, who has cried herself out trying to cheer her up.[@elfie.so09-girls, elfie.so11-room]
 
 ## School District
 
-Lefiya passed the [[school-district|School District]]'s entrance interview at eight, winning one of six places among twelve hundred applicants.[@so13-admitted] Years earlier, when her old squad was nearly wiped out by a [[goliath|Goliath]], Aiz, [[hyrute-sisters|Tiona]] and Tione rescued them, and Aiz told Lefiya to use her magic.[@so13-rescue] In Sword Oratoria 13 she returns to the School District as a recruiter and instructor.[@so13-return] When she was a student, Loki Familia's recruiters there had been [[anakity-autumn|Anakity]] and [[alicia-forestlight|Alicia Forestlight]], and Alicia may have been the first adventurer she aspired to be like.[@alicia.so13-recruit, alicia.so13-advice]
+Lefiya passed the [[school-district|School District]]'s entrance interview at eight, winning one of six places among twelve hundred applicants.[@so13-admitted] There she joined [[balder|Balder]] Class, where Alisa was the first of her good friends; dragged into fights and messes by her classmate Bardain, she was forced to fire off magic left and right, "the origin of her reputation for having ludicrous amounts of magic power".[@so13-balder-class] Years earlier, when her old squad was nearly wiped out by a [[goliath|Goliath]], Aiz, [[hyrute-sisters|Tiona]] and Tione rescued them, and Aiz told Lefiya to use her magic.[@so13-rescue] In Sword Oratoria 13 she returns to the School District as a recruiter and instructor.[@so13-return] When she was a student, Loki Familia's recruiters there had been [[anakity-autumn|Anakity]] and [[alicia-forestlight|Alicia Forestlight]], and Alicia may have been the first adventurer she aspired to be like.[@alicia.so13-recruit, alicia.so13-advice]
+
+She reached Level 2 at eleven, after three years of study, and joined Loki Familia as a Level 2 honours student fresh from the School District, which Sword Oratoria 5 and 6 print as the Education District.[@so06-first-levelup, so05-joined]
 
 ## Magic and Status
 
@@ -78,9 +80,9 @@ The Japanese chant (Sword Oratoria 1) is {{ja|解き放つ一条の光、聖木�
 | Variant | Where |
 |---|---|
 | "Unleashed **beam** of light" | Sword Oratoria 1 and 5[@arcs-ray.so01-chant, arcs-ray.so05-fast] |
-| "Unleashed **pillar** of light" | Sword Oratoria 13, where the narration calls it "her own original spell"[@arcs-ray.so13-tunnel] |
+| "Unleashed **pillar** of light" | Sword Oratoria 2, 3, 4, 6, 7, 10, 12 and 13; in Sword Oratoria 13 the narration calls it "her own original spell"[@arcs-ray.so02-pillar, arcs-ray.so10-wiene, arcs-ray.so13-tunnel] |
 
-Most later prints show only the second part, or pieces of it, split by action; they are partial prints, not a shorter chant.[@arcs-ray.so05-trap, arcs-ray.so13-tunnel]
+Later prints often split the chant by action or give only part of it; they are partial prints, not a shorter chant.[@arcs-ray.so05-trap, arcs-ray.so13-tunnel]
 
 #### Effects {#arcs-ray-effects}
 
@@ -120,7 +122,7 @@ Her illustrated Status sheets in Sword Oratoria 2 and 13 give the same two notes
 - **Excerpt (last line):** "Fall like rain, burn the savages to ash."[@fusillade-fallarica.so01-room]
 - **Release:** "Fusillade Fallarica!"[@fusillade-fallarica.so01-room]
 
-In Sword Oratoria 1 the narration marks the chant as complete ("Her spell complete") before she calls out to her allies and releases it.[@fusillade-fallarica.so01-room] In Sword Oratoria 4 she casts it concurrently while monsters hit her; the wording differs slightly, for example "flames" for "flame" and "nock your arrows" without "and".[@fusillade-fallarica.so04-training] Several other volumes print only the release.[@fusillade-fallarica.so09-rakia, fusillade-fallarica.so13-crowd]
+In Sword Oratoria 1 the narration marks the chant as complete ("Her spell complete") before she calls out to her allies and releases it.[@fusillade-fallarica.so01-room] In Sword Oratoria 4 she casts it concurrently while monsters hit her; the wording differs slightly, for example "flames" for "flame" and "nock your arrows" without "and".[@fusillade-fallarica.so04-training] Several other volumes print only the release.[@fusillade-fallarica.so09-rakia, fusillade-fallarica.so12-release]
 
 #### Effects {#fusillade-fallarica-effects}
 
@@ -176,11 +178,11 @@ Sword Oratoria 4 describes Summon Burst as needing "a two-part chant": Elf Ring'
 #### Requirements {#elf-ring-requirements-a-conflict-between-volumes}
 
 > [!NOTE] What Lefiya must know
-> - Sword Oratoria 1 says she can duplicate any elvish magic whose chant and effects she has completely grasped, at the cost of two spells' chanting time and Mind.[@elf-ring.so01-summon]
+> - Sword Oratoria 1 requires that she has completely grasped both the chant and the effects, at the cost of two spells' chanting time and Mind.[@elf-ring.so01-summon] The English prints "either recite the incantation for or fully understand the effects of" and adds "after witnessing it at least once"; the Japanese has neither.[@elf-ring.so01-summon]
 > - Sword Oratoria 4 says it requires a complete understanding of the magic's effects **and** the proper chant.[@elf-ring.so04-reqs]
 > - The Sword Oratoria 12 Status card and the Japanese Status sheets in Sword Oratoria 2 and 13 say she must fully grasp the chant **and** the summoned spell's effects.[@elf-ring.so12-card, elf-ring.so02-sheet, elf-ring.so13-sheet]
 >
-> The volumes agree: she must grasp both the chant and the effects.
+> The volumes agree, apart from the English wording of Sword Oratoria 1: she must grasp both the chant and the effects.
 
 #### Cost and limits {#elf-ring-cost-and-limits}
 
@@ -194,24 +196,67 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 
 {{nocite}} Notable uses and open questions for Elf Ring are on the combined page: [[magic#elf-ring|Magic § Elf Ring]].
 
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level, each copying the last Status sheet of that Level that the English volumes print as text in the story: ability names, grade letters and numbers as printed. Where a sheet records an update, each ability is printed as the old value, an arrow and the new value. Sheets printed only as pictures are not transcribed here. Where the English print has a misprint, the tab follows the Japanese original of the same volume, and the line under the table says so.
+
+{{tabs|status-sheet}}
+{{tab|Level 3}}
+| Ability | As printed in Sword Oratoria 6, Chapter 1[@sheet.so06-lv3] |
+|---|---|
+| Strength | I84→86 |
+| Endurance | H121→184 |
+| Dexterity | G207→240 |
+| Agility | G252→271 |
+| Magic | B723→797 |
+| Mage | H |
+| Abnormal Resistance | I |
+
+She could reach Level 4 now, but Loki asks her to wait; the sheet lists the abilities only. Dexterity as the Japanese original of the volume prints it.[@sheet.so06-lv3]
+
+{{tab|Level 4}}
+| Ability | As printed in Sword Oratoria 12, Chapter 4[@sheet.so12-lv4] |
+|---|---|
+| Strength | I0 |
+| Defense | I0 |
+| Dexterity | I0 |
+| Agility | I0 |
+| Magic | I0 |
+| Conjure | H |
+| Abnormal Resistance | I |
+| Magic Resistance | I |
+
+Just after her Level Up. The sheet also lists the Magic [[#arcs-ray|Arcs Ray]], [[#fusillade-fallarica|Fusillade Fallarica]] and [[#elf-ring|Elf Ring]], and the Skills [[skills#fairy-cannon|Fairy Cannon]] and [[skills#double-canon|Double Canon]] {{small|printed *Double Cannon*}}.[@sheet.so12-lv4]
+
+{{/tabs}}
+
 ## History
 
 | Volume | Events |
 |---|---|
+| Sword Oratoria 1 | At the Monsterphilia a carnivorous flower monster strikes her down and Aiz saves her; she gets back up and freezes the monsters with Riveria's [[magic#wynn-fimbulvetr|Wynn Fimbulvetr]], summoned through Elf Ring, and Tiona thanks her for saving them.[@so01-monsterphilia] |
+| Sword Oratoria 2 | In Rivira she and Aiz corner [[lulune-louie|Lulune]], and she takes charge of the orb holding a fetus when Aiz collapses at the sight of it.[@so02-orb] The red-haired [[levis|Levis]] nearly strangles her and stops her Arcs Ray with a bare hand; she then fights the transformed monster in Crystal Square alongside Riveria.[@so02-levis] |
+| Sword Oratoria 3 | On the way to Floor 24 with Bete and [[filvis|Filvis]] of Dionysus Familia, she wins over the aloof Filvis.[@so03-filvis-friend] In the pantry, spurred on by Bete, she summons Riveria's [[magic#rea-laevateinn|Rea Laevateinn]], which burns the pantry to a charred wasteland, and she collapses from Mind Down.[@so03-pantry] |
 | Sword Oratoria 4 | Discovers Aiz training [[bell-cranell|Bell]] in secret and agrees to keep quiet.[@so04-secret] |
+| Sword Oratoria 4 | Aiz and then Filvis train her in Concurrent Casting, and Filvis entrusts her with her spell [[magic#dio-grail|Dio Grail]].[@so04-dio-grail] On the expedition a deformis spider drags her down the Dragon's Urn, and on [[floor-59|Floor 59]], casting concurrently, she summons Dio Grail to hold back the corrupted spirit's lightning.[@so04-floor59] |
 | Sword Oratoria 5 | Leads Bell through the [[floor-18|Floor 18]] forest, and with him destroys the monster Venenthes.[@so05-lefiya] |
+| Sword Oratoria 6 | Kali Familia takes her captive as bait to lure in Tiona and Tione.[@so06-bait] |
 | Sword Oratoria 7 | Marks the way out of [[knossos|Knossos]] and leads the final retreat.[@so07-lefiya] |
+| Sword Oratoria 9 | In the war against Rakia her fire support collapses the enemy's front lines, and Finn shows her off as Riveria's successor.[@so09-successor] At the camp Riveria, with Loki, tells her the story of Aiz's past.[@so09-aiz-past] |
+| Sword Oratoria 10 | In Daedalus Street she fires Arcs Ray at the rampaging vouivre [[wiene|Wiene]]; when Bell throws himself into its path, she detonates it with its spell key, *Alio*, just before it reaches him, and the blast throws him back.[@so10-fairys-rage] |
 | Sword Oratoria 11 | Sees her friend Filvis apparently killed and consumed, and is left unresponsive.[@so11-lefiya] |
 | Sword Oratoria 12 | Reaches Level 4, leads the fight against Filvis and destroys her core, staying with her until her death.[@so12-lefiya] |
 | Sword Oratoria 13 | After training in close combat under [[bete-loga|Bete]], returns to the School District; her students show her she has been trying to become Filvis, and she chooses to remain herself.[@so13-return] |
+| Sword Oratoria 13 | At the School District she is given the 7th Squad of [[natalinoe-cladfield|Nano]], [[luke-fowl|Luke]], [[miliria|Miliria]] and [[cole|Cole]] to instruct, and in the Dungeon she beats the defiant Luke in a duel.[@so13-seventh-squad] Loki had sent her as a recruiter, and Balder had placed her with the squad, so that facing her students she would notice the contradiction building in herself; when a cave-in separates the squad, she and Luke cut tunnels of ice through the collapsed Dungeon to reach the others.[@so13-mirror] |
+| Sword Oratoria 13 | She defeats the floor boss Goliath; Aiz's rescue party finds her with her students.[@so13-goliath] |
 
 [@so01-lefiya]: SO01 | | Level 3 Thousand Elf; Fusillade Fallarica; Elf Ring.
 [@so01-wishe]: SO01 | Chapter 5: To Battle | "—I am Lefiya Viridis! An elf of the Wishe Forest!"
 [@so03-lefiya]: SO03 | | Arcs Ray; Elf Ring.
 [@so04-secret]: SO04 | First Chapter: And the Boy… | Lefiya discovers the secret training.
-[@so04-lefiya]: SO04 | | Concurrent Casting.
-[@so05-lefiya]: SO05 | | Filvis's Dio Grail; Bell and Venenthes.
-[@so06-lefiya]: SO06 | | Her card; the delayed promotion.
+[@so04-lefiya]: SO04 | First Chapter: And the Boy… | Concurrent Casting.
+[@so05-lefiya]: SO05 | Chapter 3: ⅓ Pure Passion | Filvis's Dio Grail; Bell and Venenthes.
+[@so06-lefiya]: SO06 | Chapter 1: Quest Results & Next Quest | Her card; the delayed promotion.
 [@so07-lefiya]: SO07 | | Knossos's exit; the retreat.
 [@so11-lefiya]: SO11 | | Filvis's apparent death.
 [@so12-level4]: SO12 | | Level 4.
@@ -222,7 +267,7 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@devab.so13-card]: SO13 | | Level 4 update printed as an image, p. 26: Magic Control H, Immunity I, Magic Defense I.
 [@so12-lefiya]: SO12 | | The fight against Filvis.
 [@so13-admitted]: SO13 | Fairy Canon: 1 | Six places for twelve hundred applicants; her admission.
-[@so13-rescue]: SO13 | | The Goliath rescue.
+[@so13-rescue]: SO13 | Chapter 5: The Mirror's Voice | The Goliath rescue.
 [@so13-return]: SO13 | | Recruiter and instructor; Bete's training; her choice.
 [@ss02-lefiya]: SS02 | | Lefiya and Aiz.
 [@arcs-ray.so01-chant]: SO01 | Chapter 5: To Battle | Both chant parts; spell complete; interrupted by a tendril.
@@ -236,7 +281,7 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@fusillade-fallarica.so01-room]: SO01 | Chapter 2: Dungeon Confusion | Full chant in three pieces; Conjure and the magic circle; the room burned out. The Japanese edition (file cX0, paragraph 479) has the arrows that miss blast the ground and tear up the bedrock.
 [@fusillade-fallarica.so04-training]: SO04 | First Chapter: And the Boy… | Concurrent casting under Filvis's training; small wording differences.
 [@fusillade-fallarica.so05-compare]: SO05 | Chapter 3: ⅓ Pure Passion | Luminous Wind compared with Fusillade Fallarica.
-[@fusillade-fallarica.so09-rakia]: SO09 | | Release only; bombardment of Rakia's army.
+[@fusillade-fallarica.so09-rakia]: SO09 | Prologue: Recollections of an Elf | Release only; bombardment of Rakia's army.
 [@fusillade-fallarica.so12-card]: SO12 | Chapter 4: Nameless Heroes | Level 4 card: wide-range attack magic, fire element.
 [@fusillade-fallarica.so13-crowd]: SO13 | Chapter 5: The Mirror’s Voice | Only usable for her first attack in the melee.
 [@elf-ring.so01-summon]: SO01 | Chapter 5: To Battle | Chant; "Elf Ring."; circle turns jade; at most three slots; the chant and effects grasped; the cost of two spells; Thousand Elf. The Japanese edition (file c535, paragraphs 360–363) gives the slots as three at most, requires the chant and the effect to be completely grasped, and has her pay two spells' chanting time and Mind.
@@ -259,7 +304,7 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@fusillade-fallarica.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Fusillade Fallarica, wide-range attack magic, fire element.
 [@elf-ring.so02-sheet]: SO02 | | Illustrated Status sheet, p. 228: Elf Ring, Summon Burst; only elvish magic; Mind for both. The Japanese edition's sheet (image page c5M4, Level 3) requires a complete grasp of the chant and of the summoned spell's effect.
 [@elf-ring.so13-sheet]: SO13 | | Illustrated Status sheet, p. 244 (Level 4): Elf Ring, Summon Burst; only elven magic; Mind for both. The Japanese edition's sheet (image page part0043) requires a complete grasp of the chant and of the summoned spell's effects.
-[@elfie.so09-girls]: SO09 | | "Lefiya’s roommate, the magic user Elfie".
+[@elfie.so09-girls]: SO09 | Chapter 1: A Scene at the Camp | "Lefiya’s roommate, the magic user Elfie".
 [@elfie.so11-room]: SO11 | Epilogue: Whodunit | Elfie reduced to tears trying to cheer Lefiya up; Lefiya moved to a different room.
 [@alicia.so13-recruit]: SO13 | Fairy Canon: 2 | Anakity and Alicia, the recruiters when Lefiya was a student.
 [@alicia.so13-advice]: SO13 | Fairy Canon: 2 | "Alicia may have been the first adventurer that Lefiya aspired to be like."
@@ -267,3 +312,30 @@ Sword Oratoria 1 explains that a Status has at most three spell slots, and that 
 [@elf-ring.so01-ja]: SO01 | | The Japanese edition writes Summon Burst with kanji meaning summoning magic.
 [@arcs-ray.so01-ja]: SO01 | | The Japanese edition (file c535, paragraphs 169 and 174) prints the chant in two pieces.
 [@elf-ring.so03-ja]: SO03 | | The Japanese edition (file c5AH, paragraph 211) prints the line; the feast is said rakuen over the kanji for joyful feast.
+[@arcs-ray.so02-pillar]: SO02 | Chapter 5: The Battle of Rivira | "—Unleashed pillar of light, limbs of the holy tree. You are the master archer."
+[@arcs-ray.so10-wiene]: SO10 | Interlude: The Fairy's Rage | "—Unleashed pillar of light, limbs of the holy tree. You are the master archer!"; "After it was released, the missile would not disappear until it hit home."; "Arcs Ray scattered just before reaching him"
+[@fusillade-fallarica.so12-release]: SO12 | Chapter 5: Final War | "Fusillade Fallarica!"; no line of the chant is printed in this volume.
+[@so06-riveria-path]: SO06 | Chapter 1: Quest Results & Next Quest | "Finn, the other top spots, and I all want ya to follow in Riveria’s footsteps."
+[@so06-bait]: SO06 | Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light | "use their combined power to save Lefiya"; "Lefiya’s nothin’ more than bait to lure in Tione and her sister."
+[@so10-fairys-rage]: SO10 | Interlude: The Fairy's Rage | "He leaped into the path of the magic, spreading his arms, trying to intercept the ray of light before it hit the vouivre."; "Arcs Ray scattered just before reaching him."; "Bell was blasted away when it exploded directly in front of him." The English prints the call "A-Alio?!" followed by "He immediately chanted a spell to disperse it.", as if Bell made it; in the Japanese edition Lefiya calls the spell key, {{ja|光散《アリオ》}} (*Ario*), and detonates her own homing spell (file c20J, paragraphs 120–125).
+[@so13-goliath]: SO13 | Epilogue | "After she had defeated Goliath and the monsters and Nano and the others had finished crying over her"; "with help from Aiz and the rest of the rescue party"
+[@so04-rival]: SO04 | First Chapter: And the Boy… | "This was the moment that human boy became Lefiya’s rival."
+[@so06-first-levelup]: SO06 | Chapter 1: Quest Results & Next Quest | "had taken her three years to achieve"; "a mere eleven years old, still in the middle of her studies in the Education District"
+[@so05-joined]: SO05 | Chapter 2: Rabbit Rookie | "a Level-2 honors student fresh out of the Education District, had passed through the gate to Twilight Manor"
+[@so03-filvis-friend]: SO03 | Chapter 3: A Hideous Beauty | "You are far more beautiful and kind than I will ever be!"; "Her demeanor was ever so slightly less thorny"
+[@so03-pantry]: SO03 | Chapter 5: Hell and Hell | "That spark grew into flames that spread throughout her body."; "The magic Lefiya had summoned to the battlefield had turned the pantry into a charred, burning wasteland"; "who had collapsed due to Mind Down"
+[@so02-orb]: SO02 | Chapter 4: Orb | "The two had their target caught in a pincer."; "Snatching it up off the ground, she brought it away from the blond girl."
+[@so02-levis]: SO02 | Chapter 5: The Battle of Rivira | "wrapped all the way around her neck"; "Lefiya and Aiz watched on in disbelief as the woman stopped the beam with the palm of her hand."; "do you remember the formation we practiced in our last session? Now is the time to use it."
+[@so01-monsterphilia]: SO01 | Chapter 5: To Battle | "Without any armor to absorb the blow"; "Lefiya saw sparkling blond hair through her painful tears."; "Lefiya was calling forth a blizzard cold enough not only to keep an enemy from moving but to freeze time itself."; "Thanks so much, Lefiya! You saved us!"
+[@so04-dio-grail]: SO04 | First Chapter: And the Boy… | "Please give me training in Concurrent Casting! Please help me practice!"; "only this time with Filvis instead of Aiz"; "she also gained a new spell"
+[@so04-floor59]: SO04 | Last Chapter: To Adventure | "the massive thread of the deformis spider dragged her toward its hole"; "finishing up her Concurrent Casting the moment they ploughed through the monster obstacles"; "Lefiya unleashed the ultrashort chant of her friend"; "pushing back the incoming lightning"
+[@so09-successor]: SO09 | Prologue: Recollections of an Elf | "Due to the Thousand Elf!"; "Finn had ordered his familia to show Lefiya off as the successor to Riveria"
+[@so09-aiz-past]: SO09 | Chapter 1: A Scene at the Camp | "Lefiya leaped at the opportunity to learn more about her idol that had just fallen into her lap."
+[@so13-new-look]: SO13 | Chapter 1: Girl's Revolution | "White and red. Her magic outfit was a blend of Filvis Challia’s dying wish and Lefiya’s quiet passion."; "they could guess the reason Lefiya cut her hair"
+[@so13-fifteen]: SO13 | Chapter 2: Nostalgic Schoolhouse | "touched her shortened hair gently"; "Lefiya was still just fifteen."
+[@so13-fairy-dust]: SO13 | Chapter 5: The Mirror's Voice | "This was the twin staff Fairy Dust, Lefiya’s new weapon."; "The wand, made from Filvis’s Protector’s White Torch, and the rod, made from the remnants of Lefiya’s Forest Teardrop, were the first weapons made in Orario with a dedicated linking function."
+[@so13-seventh-squad]: SO13 | Chapter 3: Class is in Session | "You will be instructing Seventh Squad."; "Easily completing her chant, Lefiya finished the fight."
+[@so13-mirror]: SO13 | Chapter 5: The Mirror's Voice | "That was the reason why Loki had sent Lefiya as a recruiter and Balder had placed her with the 7th Squad."; "Knowing she would try to be honest and proper when facing the students, they wanted her to notice the contradiction building in her own self."; "after watching her make a tunnel of ice four times now"; "linking up with their lost squad members was a battle against time"; "Though they were proceeding through the collapsed Dungeon with Lefiya’s nonsensical method"
+[@so13-balder-class]: SO13 | Fairy Canon: 1 | "As a member of Balder Class, Lefiya was quickly blessed with good friends, starting with Alisa."; "Bardain often dragged him and Lefiya into fights and messes."; "this was the origin of her reputation for having ludicrous amounts of magic power"
+[@sheet.so06-lv3]: SO06 | Chapter 1: Quest Results & Next Quest | "Lefiya Viridis"; "LEVEL 3"; "Strength: I84→86 Endurance: H121→184"; "Agility: G252→271 Magic: B723→797 Mage: H Abnormal Resistance: I"; "To Level Four!"; "could ya be patient for a little while longer? About leveling up, I mean". Dexterity G207→240 in the Japanese edition (file c6F, paragraph 64).
+[@sheet.so12-lv4]: SO12 | Chapter 4: Nameless Heroes | "Lefiya Viridis"; "Strength: I0 Defense: I0 Dexterity: I0 Agility: I0 Magic: I0 Conjure: H Abnormal Resistance: I Magic Resistance: I"; Magic "Arcs Ray", "Fusillade Fallarica", "Elf Ring"; Skills "Fairy Cannon", "Double Cannon"; "Your Status has been updated. You’ve leveled up, too".

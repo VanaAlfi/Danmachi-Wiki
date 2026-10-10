@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Monster Rex of Floor 17, a giant nearly seven meders tall that respawns about every two weeks; the Dungeon also produces a black variant on Floor 18 in DanMachi 5.",
   "aliases": ["Black Goliath"],
-  "spoilers": "DanMachi Vols. 2, 5, 8 and 14 and Sword Oratoria Vol. 13",
+  "spoilers": "DanMachi Vols. 2, 5, 8, 14 and 19 and Sword Oratoria Vol. 13",
   "related": ["floor-18", "monster-rex", "magic", "hestia", "dungeon"],
   "infobox": {
     "title": "Goliath",
@@ -39,7 +39,7 @@ In DanMachi 8 the Goliath is fought in one of these regular exterminations. [[ha
 Goliaths can differ from one another. In Sword Oratoria 13 a Goliath appears two days before the reported interval and shows unusual intelligence: it throws projectiles, calls in other monsters and watches [[lefiya|Lefiya]]'s casting. Its fall collapses the only passage down to Floor 18, and a squad holds it off until Lefiya's [[magic#rea-laevateinn|Rea Laevateinn]] destroys it together with the surrounding monsters.[@so13-goliath, so13-variation] The book explains this as individual variation among floor bosses, not a separate species.[@so13-variation]
 
 > [!STATEMENT] Why it came early
-> The students in Sword Oratoria 13 expected two more days before the next Goliath. [[cole|Cole]] suggests either a bad report or the Dungeon's malice; the narration does not choose between them.[@so13-early]
+> The students in Sword Oratoria 13 expected two more days before the next Goliath. [[cole|Cole]] suggests either a bad report or the Dungeon's malice; the narration of Sword Oratoria 13 does not choose between them.[@so13-early] DanMachi 19 answers it: some adventurers had faked the Goliath report to scare the students, and Bell had already noticed that the reported last kill, twelve days earlier, did not fit, since the Goliath could only have been slain fourteen days before.[@fm19-goliath-report]
 
 ## The Black Goliath
 
@@ -59,19 +59,19 @@ In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18,
 | DanMachi 5 | The Floor 17 Goliath is described; the Black Goliath appears on Floor 18.[@fm05-goliath, fm05-black] |
 | DanMachi 8 | A regular extermination, with Haruhime's secret boost and Tsubaki's strike.[@fm08-goliath] |
 | DanMachi 14 | The Black Goliath is compared with the Amphisbaena.[@fm14-compare] |
-| Sword Oratoria 13 | An unusually intelligent Goliath appears early and is destroyed by Lefiya.[@so13-goliath] |
+| Sword Oratoria 13 | An unusually intelligent Goliath, which a faked report had placed two days in the future, is destroyed by Lefiya.[@so13-goliath, fm19-goliath-report] |
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Why the Dungeon was so sensitive to Hestia's presence in DanMachi 5.[@fm05-black]
-> - Why the Sword Oratoria 13 Goliath appeared before its expected time.[@so13-early]
+> - Who faked the Goliath report that DanMachi 19 exposes.[@fm19-goliath-report]
 
 [@fm02-rex]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Monster Rex: single, slow rebirth, two or more Levels above the floor's monsters. The Japanese edition (file c2ZU, paragraph 103) says two or more.
 [@fm05-goliath]: FM05 | Chapter 3: Dungeon Death March | Floor 17, Great Wall of Sorrows, size and respawn interval.
 [@fm05-ja-goliath]: FM05 | Chapter 3: Dungeon Death March | Japanese original (file part0019, paragraph 10): a giant whose whole body is about to reach as much as seven meders, which is close to seven, not above it; the Black Goliath's body is likewise said to extend to as much as seven (file part0027, paragraph 79).
 [@fm05-black]: FM05 | Chapter 5: The Outlaws’ Party | The Black Goliath after Hestia's divine presence. In the Japanese edition (file part0025, paragraph 565) Hermes says the Dungeon hates the gods who keep it shut in underground, himself among them.
-[@fm05-black-traits]: FM05 | | Howl, roar and regeneration.
+[@fm05-black-traits]: FM05 | Chapter 6: Praise to the Heroes | Howl, roar and regeneration.
 [@fm05-level5]: FM05 | Chapter 6: Praise to the Heroes | Lyu's Level 5 estimate.
 [@fm05-battle]: FM05 | Chapter 6: Praise to the Heroes | Bell destroys the magic stone.
 [@fm05-return]: FM05 | Epilogue: The One Who Targets the Rabbit | Survival; the Guild's Calamity penalty.
@@ -80,3 +80,4 @@ In DanMachi 5, after [[hestia|Hestia]]'s divine presence is exposed on Floor 18,
 [@so13-goliath]: SO13 | Chapter 5: The Mirror’s Voice | The early Goliath and Lefiya's attack.
 [@so13-early]: SO13 | Chapter 5: The Mirror’s Voice | Two days early; Cole's alternatives.
 [@so13-variation]: SO13 | Chapter 5: The Mirror’s Voice | Individual variation among floor bosses.
+[@fm19-goliath-report]: FM19 | Chapter 5: My Dream | "The board says that the next interval should be two days from now"; "which is at odds with the report saying it happened twelve days ago"; "faking the report on Goliath"; "We just wanted to scare"

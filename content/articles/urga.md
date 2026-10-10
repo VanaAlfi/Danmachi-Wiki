@@ -43,7 +43,7 @@
 | Sword Oratoria 2 | Tiona has Urga remade from scratch. "Urga, the second!" is a little thicker than the first and probably sharper.[@so02-remade, so02-second] |
 | Sword Oratoria 4 | A Durandal weapon shaped like Urga could not have been made in time for the expedition along with everyone else's, so Tiona trains with the Durandal sword Blade Roland, grumbling "This isn’t Urga!" (see [[desperate#durandal-weapons|Durandal weapons]]).[@so04-roland] |
 | Sword Oratoria 6 | Tiona has Urga fixed up at Goibniu Familia. Later, [[raul-nord|Raul]] is left carrying it to her, and complains that "her Urga almost broke my back".[@so06-repair, so06-raul, so06-back] |
-| Sword Oratoria 7 | Against the demi-spirit Gugalanna, Urga cracks, and then one of its blades shatters. Tiona fights on with it as a one-bladed greatsword (see [[corrupted-spirit#gugalanna|Gugalanna]]).[@so07-cracked, so07-broken] |
+| Sword Oratoria 7 | Against the demi-spirit Gugalanna, Urga cracks, and then one of its blades shatters. Tiona fights on with it as a one-bladed greatsword (see [[corrupted-spirit#gugalanna|Gugalanna]]).[@so07-cracked, so07-broken] When the demi-spirit's head has been torn off, [[gareth|Gareth]] snatches up the one-bladed Urga and delivers the finishing blow.[@so07-finish] |
 | Sword Oratoria 10 | Facing a [[equipment#golem|golem]] made of adamantite, "just like her Urga", Tiona finds the attacks of her companions deflected.[@so10-adamantite] |
 | DanMachi 17 | Tiona stands with Urga ready against Freya Familia.[@fm17-ready] |
 
@@ -57,14 +57,15 @@
 [@so04-roland]: SO04 | Last Chapter: To Adventure | "This isn’t Urga!"; "the large Durandal sword, Roland Blade". Tiona: "Got told she wouldn’t be able to finish everyone’s stuff on time for the expedition if she had to make something like my Urga".
 [@so04-narfi]: SO04 | Last Chapter: To Adventure | "Narfi! My Urga!"; the supporter "passing her the double-bladed Urga".
 [@so04-tsubaki]: SO04 | Last Chapter: To Adventure | "two of the heaviest custom-made weapons around"; "she sent Urga spinning with nothing but her left hand". The Japanese edition (file c7V2, paragraph 102) names Gareth's great war axe, the Grand Ax, where the English prints the Roland Ax.
-[@so05-giant]: SO05 | | "her giant double-bladed sword, Urga".
+[@so05-giant]: SO05 | Chapter 2: Rabbit Rookie | "her giant double-bladed sword, Urga".
 [@so06-repair]: SO06 | Chapter 1: Quest Results & Next Quest | "I’m headin’ over to Goibniu Familia so I can get my Urga fixed up."
 [@so06-raul]: SO06 | Chapter 5: A Duo of Sun and Moon | "Tiona’s giant oversized Urga falling directly into Raul’s unlucky hands".
-[@so06-back]: SO06 | | Raul: "But her Urga almost broke my back…!"
-[@so06-name]: SO06 | | Tiona's finishing blow. The Japanese edition (file c6TU, paragraph 4) writes its name in kanji meaning great destruction, read Urga.
+[@so06-back]: SO06 | Chapter 6: War’s End | Raul: "But her Urga almost broke my back…!"
+[@so06-name]: SO06 | Chapter 6: War’s End | Tiona's finishing blow. The Japanese edition (file c6TU, paragraph 4) writes its name in kanji meaning great destruction, read Urga.
 [@so07-cracked]: SO07 | Chapter 5: Battle of Tears | "It cracked my Urga!"
 [@so07-broken]: SO07 | Chapter 5: Battle of Tears | "one of the blades of Tiona’s Urga ruptured in a shower of knifelike shards"; "wielding her Urga like a greatsword".
 [@so10-capture]: SO10 | Chapter 2: Someone Named Fool | "there wasn’t a weapon more unsuited to the task of capturing monsters alive than Urga".
 [@so10-adamantite]: SO10 | Chapter 2: Someone Named Fool | "its body was made of adamantite—just like her Urga".
 [@fm17-ready]: FM17 | Chapter 5: The End of Her World | "Tiona had her Urga at the ready".
 [@so02-urga-ja]: SO02 | | The Japanese edition writes the weapon's name in kanji meaning great twin blade, with the reading Urga; the infobox gives the kanji.
+[@so07-finish]: SO07 | Chapter 5: Battle of Tears | "the dwarf sputtered, rising slowly to his feet"; "Snatching up the one-bladed Urga, he launched himself off a nearby pile of rubble into the air."; "and delivered the finishing blow"

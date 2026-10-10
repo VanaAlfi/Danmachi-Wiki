@@ -318,6 +318,22 @@ sup.cite a:visited { color: var(--link); }
 .wikitable th, .wikitable td { border: 1px solid var(--border); padding: .2em .4em; vertical-align: top; }
 .wikitable th { background: var(--th-bg); text-align: center; }
 
+/* tabs ({{tabs}} blocks), in the manner of MediaWiki's Tabber. The build writes stacked sections, each under its
+   own heading; site.js adds the row of tabs and shows one section at a time. Without script, and in print, the
+   sections stay stacked. */
+.tabber { display: flow-root; margin: .6em 0 1em; }
+.tabber__nav { display: flex; align-items: flex-end; overflow-x: auto; padding: 0 0 0 .4em; box-shadow: inset 0 -1px 0 var(--border); }
+.tabber__tab {
+  flex: none; margin: .3em 3px 0 0; padding: .2em .8em; font: inherit; font-weight: bold; line-height: 1.5;
+  color: var(--link); background: var(--box-bg); border: 1px solid var(--border); border-radius: 0; cursor: pointer; white-space: nowrap;
+}
+.tabber__tab:hover { background: var(--th-bg); text-decoration: underline; }
+.tabber__tab[aria-selected="true"] { color: var(--text); background: var(--content-bg); border-bottom-color: var(--content-bg); cursor: default; text-decoration: none; }
+.tabber__tab:focus-visible { outline: 2px solid var(--blue); outline-offset: -3px; }
+.tabber--live > .tabber__panel { padding: 0 .8em .2em; border: 1px solid var(--border); border-top: 0; scroll-margin-top: 2.5em; }
+.tabber--live > .tabber__panel > .tabber__title { display: none; }
+.tabber__panel > .table-wrap > .wikitable { margin: .8em 0 .5em; }
+
 /* see also, sourcing navbox, categories */
 .div-col { column-width: 20em; }
 .div-col ul { margin-top: 0; }
@@ -480,6 +496,7 @@ sup.cite a:visited { color: var(--link); }
   .mw-parser-output > .toc { align-self: stretch; }
   .toc { display: block; }
   .ambox-spoiler { margin: 0 0 .8em; }
+  .tabber__tab { padding: .2em .5em; font-size: .875em; }
   .reflist { margin-left: 2em !important; }
   .navbox-group { white-space: normal; text-align: left; }
   #mp-upper { display: block; }
@@ -500,6 +517,9 @@ sup.cite a:visited { color: var(--link); }
 @media (prefers-reduced-motion: reduce) { .mw-panel { transition: none; } }
 @media print {
   #mw-navigation, .mw-mobile-bar, #mw-page-base, #mw-head-base, .anchor, .toc summary::after { display: none; }
+  .tabber__nav { display: none; }
+  .tabber--live > .tabber__panel { padding: 0; border: 0; }
+  .tabber--live > .tabber__panel[hidden], .tabber--live > .tabber__panel > .tabber__title { display: block; }
   #content.mw-body { margin: 0; border: 0; padding: 0; }
   #footer { margin: 0; }
 }

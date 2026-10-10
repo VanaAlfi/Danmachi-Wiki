@@ -34,6 +34,7 @@
 | DanMachi 10 | Bell Cranell carries both Lett and Fia behind [[fels|Fels]].[@fm10-shield] |
 | DanMachi 11 | Separated from the others after following Fia when she falls, Lett later gives Bell Cranell a key to [[knossos|Knossos]].[@fm11-separated, fm11-key] |
 | DanMachi 14 | He joins the rescue of [[hestia-familia|Hestia Familia]] under Lido's command, explaining that they promised Bell Cranell to help his companions in trouble.[@fm14-rescue] |
+| DanMachi 14 | Staying behind in disguise with Fia, Lett relays the news that a huge monster has chased Bell and an elven adventurer to a lower level, perhaps the deep levels, and passes on Lido's message: "If you want to come, then come. We will take you there."[@fm14-lett-news] |
 | DanMachi 14 | The rescuers expect to exchange information through monster howls relayed by Lett.[@fm14-messages] |
 | Sword Oratoria 12 | He and Fia describe how the spirit continues its city-destroying chant while the pillar's faces attack those approaching.[@so12-faces] |
 
@@ -47,3 +48,4 @@
 [@fm11-separated]: FM11 | Chapter 2: Diverging Strands, Intersecting Plans | Lett follows Fia when she falls from the sky.
 [@fm14-messages]: FM14 | Chapter 8: The Voice of the Hammer | Rescuers expect Lett to relay messages through monster howls.
 [@fm14-lett-ja]: FM14 | Chapter 8: The Voice of the Hammer | The Japanese edition writes his name in katakana, read Retto (file c3F1, paragraph 958).
+[@fm14-lett-news]: FM14 | Chapter 8: The Voice of the Hammer | "Lett, still wearing his adventurer disguise, had remained behind with Fia. He relayed what they had just learned."; "a huge monster chased after Bell and the elf"; "If you want to come, then come. We will take you there."

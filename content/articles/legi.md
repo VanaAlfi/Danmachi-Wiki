@@ -27,7 +27,7 @@
   }
 }
 ---
-**Legi** is a [[races#dark-elf|dark elf]] serving in [[balder#balder-class|Balder Class]]'s [[balder#third-squad|3rd Squad]] and has reached Level 2.[@fm19-identity] She wears a mask even indoors and carries twin shortswords.[@fm19-identity]
+**Legi** is a [[races#dark-elf|dark elf]] serving in [[balder#balder-class|Balder Class]]'s [[balder#third-squad|3rd Squad]] and has reached Level 2.[@fm19-identity] She wears a mask even indoors and carries twin shortswords.[@fm19-identity] She has dark skin and red hair and stands around 160 celches, a little taller than [[nina-tulle|Nina Tulle]]; her mask seems to be armour over the lower half of her face, and [[bell-cranell|Bell Cranell]] finds her an odd child with a unique manner of speaking, reading what looks like a holy tome.[@fm19-legi-looks]
 
 ## History {#history}
 
@@ -53,3 +53,4 @@
 [@fm20-spectators]: FM20 | Chapter 4: The Knight’s Afterglow | Concealing Rapi identity and divided loyalties.
 [@fm19-legi-ja]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The Japanese edition writes her name in katakana, read Regi (file part0023, paragraph 364).
 [@fm19-regi]: FM19 | Chapter 5: My Dream | The English prints her name once as Regi, for the girl whose question Bell answers; the Japanese edition writes the same name as for Legi there (file part0025, paragraph 365).
+[@fm19-legi-looks]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "a dark elf girl wearing a mask that seems to be armor on the lower half of her face"; "Dark skin and red hair, around 160 celches tall, she’s a little taller than Nina."; "reading a book that looks like some sort of holy tome"; "she is an odd child with a unique manner of speaking"

@@ -52,12 +52,12 @@ In Sword Oratoria 13 [[royman|Royman]]'s official account tells the city that "D
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How much Penia knew or agreed to. Dionysus says he warned her not to drink more than necessary, and Loki imagines he won her over with food and drink, but the novels do not show their dealings.[@so12-label, so12-puppet]
 
-[@so07-penia]: SO07 | | "The elderly goddess, Penia, could be described in a single word—squalid."; "Penia the disease"; "She’s like poverty on legs."; "Ruler of poverty. Black sheep of the gods."
-[@so07-hestia]: SO07 | | "The only one who doesn’t treat me like some babbling old kook is Hestia!"
-[@so07-preaching]: SO07 | | Offerings at her feet; wealth a "corruptor of the soul"; feasting on meat; "more like a new religion"; the goddess "hadn’t even formed an actual familia".
-[@so07-giving]: SO07 | | Penia gifts most of the offerings back to the poor of Daedalus Street; "The matriarch of the slums…it would seem."
-[@so07-centuries]: SO07 | | "a few centuries or so"; Loki shows the portrait; "I’ve never seen him before in my life."
-[@so07-refusal]: SO07 | | "I wouldn’t give up information so freely to the likes of you."; "I want nothing to do with this!"
+[@so07-penia]: SO07 | Chapter 1: Orario Now | "The elderly goddess, Penia, could be described in a single word—squalid."; "Penia the disease"; "She’s like poverty on legs."; "Ruler of poverty. Black sheep of the gods."
+[@so07-hestia]: SO07 | Chapter 1: Orario Now | "The only one who doesn’t treat me like some babbling old kook is Hestia!"
+[@so07-preaching]: SO07 | Chapter 1: Orario Now | Offerings at her feet; wealth a "corruptor of the soul"; feasting on meat; "more like a new religion"; the goddess "hadn’t even formed an actual familia".
+[@so07-giving]: SO07 | Chapter 1: Orario Now | Penia gifts most of the offerings back to the poor of Daedalus Street; "The matriarch of the slums…it would seem."
+[@so07-centuries]: SO07 | Chapter 1: Orario Now | "a few centuries or so"; Loki shows the portrait; "I’ve never seen him before in my life."
+[@so07-refusal]: SO07 | Chapter 1: Orario Now | "I wouldn’t give up information so freely to the likes of you."; "I want nothing to do with this!"
 [@so10-ruler]: SO10 | Chapter 2: Someone Named Fool | "The Goddess of Poverty."; "Penia had settled into the labyrinthine district centuries ago, and she was the ruler of Daedalus Street."; her ashen eyes.
 [@so10-nobody]: SO10 | Chapter 2: Someone Named Fool | "Though it’s not like aaaaaaanyone wants to follow me!"
 [@so10-rich]: SO10 | Chapter 2: Someone Named Fool | "Well, if you ask me, it’s far too rich."; love and cooperation; "it’s definitely too happy here."
@@ -72,5 +72,5 @@ In Sword Oratoria 13 [[royman|Royman]]'s official account tells the city that "D
 [@so12-label]: SO12 | Chapter 6: The Divine Providence of Despair | "that old hag was holding a wine bottle with the same label as the one in your cellar"; "I had wasted effort in warning her not to drink more than was necessary."
 [@so12-killed]: SO12 | Chapter 6: The Divine Providence of Despair | "…And then you killed Penia here."; bound and gagged; the dagger; "Once Penia was sent back, Aura and the rest whose abilities had been sealed were wiped out."
 [@so12-dagger]: SO12 | Chapter 8: A Heroes’ Chorus | "a blade with grape designs on the hilt—the one he had used to send Penia back to the heavens".
-[@so13-account]: SO13 | | Royman: "tragedy struck them and their patron god, as well as Goddess Penia of Daedalus Street. The pillars of return the other day were a result of this struggle."
+[@so13-account]: SO13 | Prologue: The Sequel to Loss and Resolve | Royman: "tragedy struck them and their patron god, as well as Goddess Penia of Daedalus Street. The pillars of return the other day were a result of this struggle."
 [@so11-penia-ja]: SO11 | | The Japanese edition writes her name with kanji meaning god of poverty, read Penia.

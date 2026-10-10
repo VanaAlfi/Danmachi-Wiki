@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Orario's red-light district, also called the Night District, ruled by Ishtar Familia from its palace Belit Babili until Freya Familia destroyed the Familia in DanMachi 7. Its ruins later shelter the Evils in Sword Oratoria 8.",
   "aliases": ["Pleasure Quarter", "Night District", "Belit Babili", "Floating Garden"],
-  "spoilers": "DanMachi Vols. 7–10, Sword Oratoria Vols. 7–8, Familia Chronicle Vol. 1, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 7, 9 and 10, Sword Oratoria Vols. 7–8, Familia Chronicle Vol. 1, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 2",
   "related": ["ishtar", "haruhime", "aisha-belka", "killing-stone", "daedalus-street", "orario"],
   "infobox": {
     "title": "The Pleasure Quarter",
@@ -38,7 +38,7 @@ Secret passages built by Daedalus, the architect of neighbouring [[daedalus-stre
 
 The Pleasure Quarter sleeps by day: its businesses shut their doors and bring in their signs, and no ordinary citizens live there.[@fm07-arrival] At night its streets fill with working women, more than half of them Amazons, under pink magic-stone lamps.[@fm07-arrival] To draw customers back, its buildings imitate the architecture of distant lands: [[far-east|Far Eastern]] roofs, desert dwellings, northern stone castles, designs from the [[kaios-desert|Kaios Desert]] and the [[geography#world-powers-and-nations-dizara|Dizara Region]].[@fm07-arrival]
 
-Within it lies a red-light district in the Far Eastern style, with tiled roofs, lanterns, women in kimonos, and rows of ajura trees, blue-flowering Dungeon plants that are always in bloom.[@fm07-yoshiwara, fm07-roofs]
+Within it lies a red-light district in the Far Eastern style, with tiled roofs, lanterns, women in kimonos, and rows of ajura trees, blue-flowering Dungeon plants that are always in bloom.[@fm07-yoshiwara, fm07-roofs] [[haruhime|Haruhime]] tells Bell that in a city with as many adventurers as Orario such places are "irreplaceable necessities to keep the peace"; the Guild turns a blind eye to the quarter because it reduces the bar fights and property damage adventurers cause, a "necessary evil".[@fm07-necessary-evil]
 
 - **Redemption.** By a rule unique to the Pleasure Quarter, someone can buy a prostitute's freedom by paying off her debts or paying the brothel an acceptable sum. [[hermes|Hermes]] says Ishtar allows it if the prostitute wants to go with the man, except for combatants and high-ranking members, and that the price is usually two to three million valis.[@fm07-redemption]
 - **The trade in people.** Familia Chronicle 1 says the sale of people into the Pleasure Quarter through the Marketplace is a closely guarded secret.[@fc01-trade]
@@ -92,3 +92,4 @@ The district is badly scarred, though no one is killed. With its overlord gone, 
 [@ss02-southwest]: SS02 | | "The Pleasure Quarter undergoing reconstruction in the southwest of the city".
 [@fc01-trade]: FC01 | Crush the Grand Casino! | The Marketplace; the sale of people to the Pleasure Quarter, a closely guarded secret.
 [@fm07-pleasure-quarter-ja]: FM07 | | The Japanese edition calls the district by a kanji name meaning pleasure quarter; the infobox gives that written form.
+[@fm07-necessary-evil]: FM07 | Chapter 2: Run, Cranell | "For a city with as many adventurers as Orario, locations such as the Pleasure Quarter are irreplaceable necessities to keep the peace."; "the Guild turns a blind eye to this place"; "Its existence reduces the amount of bar fights and property damage caused by adventurers. The Pleasure Quarter is a necessary evil."

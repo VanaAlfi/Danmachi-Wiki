@@ -31,6 +31,7 @@ The **Far East** is a distant region across the ocean from the Continent. Travel
 {{nocite}} No name for a Far Eastern country or town was located in the checked text. The places the novels describe are these:
 
 - **The shrine and the manor.** [[takemikazuchi|Takemikazuchi]] and other gods ran a poor shrine on a mountain that took in orphans, among them [[mikoto|Yamato Mikoto]], [[ouka|Kashima Ouka]] and [[chigusa|Hitachi Chigusa]]; it was rather isolated. Haruhime's family manor stood at the foot of the mountain, and she never left it until the shrine's children brought her out to play.[@fm07-shrine, fm08-isolated] The goddess [[tsukuyomi|Tsukuyomi]] is also at the shrine.[@fm07-tsukuyomi]
+- **Haruhime's homeland.** Haruhime describes her birthplace in the Far East as "a mountainous island country, completely surrounded by a beautiful blue ocean", whose four seasons are more marked than Orario's: pink sakura in spring, the songs of semi beetles in summer, crimson mountains in autumn and deep snow in winter.[@fm07-homeland]
 - **Childhood friends.** Mikoto and Chigusa both come from the Far East and are childhood friends.[@fm07-chigusa]
 - **Island nations.** [[tsubaki|Tsubaki]], whose mother was a human from the Far East, wears island-country clothes that, with her tachi, recall a Far Eastern swordswoman.[@fm08-island, fm08-tsubaki]
 - **The sea route.** Travellers from the Continent can reach Orario by its northern and eastern roads, but those from the Far East or the island and ocean nations must first pass through Meren. Mikoto's group "would travel across the ocean" with Takemikazuchi to Orario.[@so06-meren, fm07-shrine]
@@ -94,18 +95,19 @@ Part of the [[pleasure-quarter|Pleasure Quarter]] is built in Far Eastern style,
 [@fm13-proverb]: FM13 | Chapter 2: The Prophetess of Tragedy | "a proverb from the Far East"; "If you haven’t seen a man for three days, watch closely when you meet".
 [@fm14-kaguya]: FM14 | Special Chapter: Recollection of Justice | "Her island-style clothing and pretty hairpin suggested her origins in the Far East"; "she was rumored to have grown up in a noble family in the Far East"; "when Kaguya was in the Far East, she went through a lot".
 [@fm14-quickdraw]: FM14 | Chapter 11: Where the Will to Kill Leads | "Lyu had used a quick-draw, a skill her departed battle companion from the Far East had prided herself on."
-[@fm15-shogi]: FM15 | | Printed heading "Interlude: My Home, My Familia" (not in the evidence map): "a board game from the Far East called shogi".
+[@fm15-shogi]: FM15 | Interlude: My Home, My Familia | "a board game from the Far East called shogi".
 [@fm15-proverb]: FM15 | Interlude: Does Cinderella Dream of Happiness? | "the Far Eastern proverb “For rice cakes, go to the rice cake shop,”".
 [@fm15-girls]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | "The girls from the Far East were humble, hardworking, and proactive".
-[@fm15-court]: FM15 | | Printed heading "Chapter 7: Tales of Times Past: The Black Bird and the Golden Fox" (not in the evidence map): "In the Far East, Haruhime had been taught the arts of noble court ladies, such as dance and flower arrangement".
+[@fm15-court]: FM15 | Chapter 7: Tales of Times Past: The Black Bird and the Golden Fox | "In the Far East, Haruhime had been taught the arts of noble court ladies, such as dance and flower arrangement".
 [@fm16-pepper]: FM16 | Chapter 4: Full Princess Panic! | The Japanese edition (file part0029, paragraph 785) names sansho, said to come from the Far East, slightly numbing to taste.
 [@fm18-board]: FM18 | Chapter 8: The Great Familia War | "a strategy used in a Far Eastern board game".
 [@fm20-plum]: FM20 | Chapter 1: Orario Rumble | "The goddess looked like she had just bitten into a Far Eastern dried plum".
 [@so06-meren]: SO06 | Chapter 2: Port Meren | "travelers from the Far East or various island and ocean nations first needed to pass through Meren".
-[@so07-palace]: SO07 | | Printed heading "Chapter 1: Orario Now" (not in the evidence map): "the Dragon Palace of the fairy tales of the Far East".
+[@so07-palace]: SO07 | Chapter 1: Orario Now | "the Dragon Palace of the fairy tales of the Far East".
 [@so13-scarletite]: SO13 | Fairy Canon: 1 | "Scarletite is a miraculous metal created in the Far East". The Japanese edition (file part0021, paragraph 139) says its properties and value are no less than orichalcum's.
 [@ar01-nadeshiko]: AR01 | Chapter 1: Astrea Familia | "what those in the Far East termed a yamato nadeshiko—the embodiment of modest femininity".
-[@ar02-iai]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): "Kaguya had resheathed her sword"; "Iai Strike: Gleaming Blade!"; "A technique from the Far East?!"
+[@ar02-iai]: AR02 | Chapter 6: Melody of Silence | "Kaguya had resheathed her sword"; "Iai Strike: Gleaming Blade!"; "A technique from the Far East?!"
 [@ar03-noir]: AR03 | | Printed heading "Chapter 1: March and Break" (not in the evidence map): Undying Vow, a single-edged blade. The Japanese edition (file cTV, paragraph 287) says it was modelled on the katana of the East, using the general word for the East rather than the name of the Far East.
 [@fc02-saying]: FC02 | Ali and the 8 Followers | "You remind me of that Far East saying: ‘You’re a tanuki trading on a tiger’s reputation.’ Or was it a fox?"
 [@fm07-far-east-ja]: FM07 | | The Japanese edition calls the region by a kanji name meaning the far east; the infobox gives that written form.
+[@fm07-homeland]: FM07 | Chapter 2: Run, Cranell | "is in the Far East"; "It was a mountainous island country, completely surrounded by a beautiful blue ocean."; "The four seasons were much more pronounced than the ones here in Orario."

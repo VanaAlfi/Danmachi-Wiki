@@ -46,8 +46,8 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - How many of her followers Dionysus killed.[@so12-confession, so12-rescue]
 
-[@fm02-baths]: FM02 | | "Ahh…Oh, Demeter, it’s been a long time!"; the bath.
-[@fm16-festival]: FM16 | | Damia, Hathor, Freya and Demeter, goddesses of the harvest; her honey-coloured hair; every year the festival is initiated by Demeter.
+[@fm02-baths]: FM02 | Interlude: Cry Out, Goddess | "Ahh…Oh, Demeter, it’s been a long time!"; the bath.
+[@fm16-festival]: FM16 | Chapter 3: Harvest Festival | Damia, Hathor, Freya and Demeter, goddesses of the harvest; her honey-coloured hair; every year the festival is initiated by Demeter.
 [@fm18-freya]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "Demeter won’t work! Her familia is exhausted…she gets along with Freya!"
 [@fm18-waitresses]: FM18 | Chapter 8: The Great Familia War | "Ahnya, we’re going to the war game meow."; "We begged Lord Njǫrðr and Lady Demeter."
 [@fm18-island]: FM18 | Chapter 9: Flower Language for You | Demeter, who led Orario's biggest agricultural producer, and Njǫrðr; Astrea, Demeter and Njǫrðr enter the island.
@@ -59,7 +59,7 @@ During the second assault on [[knossos|Knossos]], [[loki-familia|Loki Familia]]'
 [@so12-confession]: SO12 | Chapter 6: The Divine Providence of Despair | "I’m the mastermind!"; Persephone and the others kidnapped; killed one by one; the number of Blessings; Takemikazuchi's request.
 [@so12-enyo]: SO12 | Chapter 6: The Divine Providence of Despair | "Enyo’s true identity is—" "—Dionysus."
 [@so12-rescue]: SO12 | Chapter 7: Final War II | Demeter Familia's emaciated followers; the ninth, tenth and eleventh floors; Elfie hugs Persephone; those killed on the tenth to make a point to Demeter.
-[@so13-statement]: SO13 | | Demeter lends credibility to the official statement; beloved as kind and caring; willing to carry the blame.
+[@so13-statement]: SO13 | Prologue: The Sequel to Loss and Resolve | Demeter lends credibility to the official statement; beloved as kind and caring; willing to carry the blame.
 [@ss01-farm]: SS01 | | Demeter in a straw hat, honey-coloured hair; a commerce-focused Familia; Dungeon fruit and seeds cultivated.
 [@fc01-runoa]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Wheat Hall in the north of Orario; Runoa's contract, her fifth conversion; farms producing wheat, vegetables and fruit.
 [@so12-demeter-ja]: SO12 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.

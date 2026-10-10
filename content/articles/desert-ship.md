@@ -30,7 +30,7 @@ A **desert ship** is a giant magic item produced in [[altena|Altena]] by dozens 
 | Volume | Events |
 |---|---|
 | Familia Chronicle 2 | The vessel carrying [[freya|Freya]] has two masts, white sails catching the west wind, and a hull of wood and metal; the narrator estimates that it could carry more than fifty people.[@fc02-hull] [[ali#bofman|Bofman Fazoul]] explains at least thirty slaves continually supply its propulsion with magic, placing their hands on crystal orbs in the ship's bottom.[@fc02-power] Freya reaches [[geography#kaios-desert-countries-and-towns-leodo|Leodo]] aboard the ship, which is secured to a docking pillar with chains rather than an anchor.[@fc02-port] When [[geography#kaios-desert-countries-and-towns-warsa|Warsa]]'s army attacks Leodo, all but a few of its desert ships are burned, along with the warehouses.[@fc02-burnt] Freya later observes the [[geography#kaios-desert-countries-and-towns-sindh-expanse|Sindh]] battlefield from the Fazoul ship as the merchant's people steer it at a distance.[@fc02-observe] |
-| Minor Myths and Legends 2 | A later account notes that trade in the Kaios region is shifting toward Altena, with desert ships among the products involved.[@ss02-trade] |
+| Minor Myths and Legends 2 | In a dream of Ali's, as the grown King Aram, trade in the Kaios region is shifting toward Altena, with desert ships among the products involved.[@ss02-trade] |
 
 
 [@fc02-build]: FC02 | Ali and the 8 Followers | Altena-made giant magic item, made by dozens of mages and sold in Kaios.

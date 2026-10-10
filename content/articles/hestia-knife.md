@@ -62,7 +62,7 @@ In DanMachi 7 Bell's party finds the loan contract: two hundred million valis, s
 | Volume | Use |
 |---|---|
 | DanMachi 1 | Bell kills the [[monsters#silverback|silverback]] with it. Hephaistos says it will "take its first breath" in Bell's hands; it blazes purple, its power spilling from the blade in deep-purple drops that trace a path in the air.[@fm01-alive, fm01-silverback, fm01-ja-silverback] |
-| DanMachi 14 | Bell has charged the Hestia Knife with his Skill [[skills#argonaut|Argonaut]] many times; the charge works on anything he holds.[@fm14-charge] Against the [[juggernaut|Juggernaut]], the hieroglyphs on the Divine Knife pulse with light.[@fm14-hieroglyphs] |
+| DanMachi 14 | Bell has charged the Hestia Knife with his Skill [[skills#argonaut|Argonaut]] many times; the charge works on any weapon in his hand.[@fm14-charge] Against the [[juggernaut|Juggernaut]], the hieroglyphs on the Divine Knife pulse with light.[@fm14-hieroglyphs] |
 | DanMachi 18 | As Bell rises to face [[ottar|Ottar]], the knife "reacted to his growth" and blazes; its indigo slash strikes Ottar through his black greatsword.[@fm18-growth, fm18-ottar] |
 | DanMachi 20 | In his duel with [[leon-verdenberg|Leon]], Bell lets flame and lightning erupt from the Hestia Knife and calls "Firebolt!".[@fm20-firebolt] |
 

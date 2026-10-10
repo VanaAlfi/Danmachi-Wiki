@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The Familia of the god Ganesha, which hosts the Monsterphilia festival, is the only Familia allowed to keep live monsters in Orario, and helps keep the city's order.",
   "aliases": [],
-  "spoilers": "DanMachi Vols. 1, 9, 10, 18–20, Sword Oratoria Vols. 1, 2, 11, 12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
+  "spoilers": "DanMachi Vols. 1, 8–10, 18–20, Sword Oratoria Vols. 1, 2, 11, 12, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["ganesha", "xenos", "ouranos", "lyu-leon", "orario", "asterios", "daedalus-street"],
   "sections": [
     {"anchor": "modaka", "title": "Modaka", "summary": "A young male member of Ganesha Familia who relays orders, searches Rivira and serves as a war-game judge, and whose name Ilta keeps getting wrong.", "aliases": ["Modak"]},
@@ -60,20 +60,23 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 
 | Volume | Events |
 |---|---|
+| Astrea Record 1 | In the dark age the Familia is, with [[astrea-familia|Astrea Familia]], the group upholding law and order against the [[evils|Evils]].[@ar01-ganesha-watch] When the two Familias storm an Evils base, the cultists' suicide bombs engulf many of its members.[@ar01-ganesha-raid] |
 | Sword Oratoria 2 | Its Level 4 member [[hashana|Hashana Dorlia]], on a secret [[quest|quest]], is murdered in [[rivira|Rivira]] by [[levis|Levis]]. The Familia insists that she be named as his killer and blacklisted by the Guild.[@so02-hashana, so02-blacklist] |
+| DanMachi 10 | When armed monsters destroy [[rivira|Rivira]], the Guild makes the Familia its subjugation team and orders it to tame the monsters rather than kill them.[@fm10-ganesha-subjugation] |
 | DanMachi 10 | [[asterios|Asterios]] defeats Ganesha Familia's adventurers.[@fm10-asterios] |
-| Sword Oratoria 11 | Evacuates and guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]].[@so11-ganesha] |
-| Sword Oratoria 12 | Members of the Familia are among those killed in the final battle.[@so12-losses] |
+| Sword Oratoria 11 | Guards [[daedalus-street|Daedalus Street]] during the assault on [[knossos|Knossos]], after the Guild has moved the residents out under the pretext of rebuilding.[@so11-ganesha] |
+| Sword Oratoria 12 | Members of the Familia are among those killed in the final battle.[@so12-losses] The attackers reach the ninth floor of [[knossos|Knossos]] through a shaft the Familia has dug.[@so12-ganesha-shaft] |
+| DanMachi 18 | As the city watch, the Familia stays out of the Great Familia War; it prepares the battleground and runs the [[war-game|war game]] instead.[@fm18-ganesha-watch] |
 | DanMachi 19 | The Guild plans for Ganesha Familia to guard the planned shaft into the Dungeon at all times.[@fm19-shaft] |
 
 [@fm01-ganesha]: FM01 | | Ganesha and Monsterphilia.
 [@fm01-gate]: FM01 | Chapter 5: The Goddess’s Prank | Guards at the west gate.
 [@fm09-monsters]: FM09 | Chapter 4: Mission | The only Familia allowed live monsters.
-[@fm09-network]: FM09 | | Ganesha knows the plan.
+[@fm09-network]: FM09 | Chapter 5: Heretics | Ganesha knows the plan.
 [@fm10-standing]: FM10 | Chapter 6: Before the Storm | "This was Ganesha Familia’s home, Iam Ganesha."; "it was also Orario’s largest familia in terms of membership"; "They possessed an S Rank and were worthy of being mentioned alongside Loki Familia and Freya Familia."; "had members stationed at all of Orario’s gates"; "Average citizens held them in high esteem."
 [@fm10-first-tier]: FM10 | Chapter 9: Dreams of Beasts | "Ganesha Familia had more first-tier adventurers than any other familia in Orario, eleven in total. All of them might only have been at Level 5".
 [@fm10-purpose]: FM10 | Chapter 6: Before the Storm | Monsterphilia's hidden purpose. The Japanese edition (file cEV, paragraphs 85 and 91) glosses the festival's name as friendship with monsters.
-[@fm10-asterios]: FM10 | | Asterios and Ganesha Familia.
+[@fm10-asterios]: FM10 | Chapter 9: Dreams of Beasts | Asterios and Ganesha Familia.
 [@so02-hashana]: SO02 | Chapter 2: Incident | his name and Familia, Hashana Dorlia of Ganesha Familia (the Japanese edition, file cWG, paragraphs 178–179, gives Ganesha Familia as his affiliation); "wasn’t the Strong Fist Warrior Hashana a Level Four?!"
 [@so02-blacklist]: SO02 | Chapter 6: Parched Scream | Ganesha Familia insists the red-haired woman be known as Hashana's killer and blacklisted by the Guild.
 [@fm18-ilta]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "the Amazon second in command Ilta Faana"; caught and punished by Shakti and her sister.
@@ -81,8 +84,8 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@fm20-orariad]: FM20 | Chapter 3: The World, The Festival, and Reality | Orariad round three won by Ilta Faana and Shakti Varma.
 [@so12-paluza]: SO12 | Chapter 4: Nameless Heroes | "Paluza—Ilta Faana"; "This is it, sister!"
 [@so01-trance]: SO01 | Chapter 4: Between Tranquility and Turbulence | The guards in a trance.
-[@so11-ganesha]: SO11 | | Evacuating Daedalus Street.
-[@so12-losses]: SO12 | | Ganesha Familia's dead.
+[@so11-ganesha]: SO11 | Chapter 4: Avengers ~Knossos War~ | Guarding Daedalus Street: "Under the pretext of restoring Daedalus Street after the armed monsters had turned it into a battlefield, the residents had been moved to temporary housing to the city’s northwest at the instruction of the Guild."
+[@so12-losses]: SO12 | Chapter 7: Final War II | Ganesha Familia's dead.
 [@fc01-shakti]: FC01 | | Shakti, Ankusha; Lyu's secret.
 [@fc03-adi]: FC03 | Girl in Twilight | "Adi Varma."
 [@ar01-shakti]: AR01 | | Shakti loses Adi.
@@ -103,3 +106,8 @@ The second-in-command is the Amazon [[ilta-faana|Ilta Faana]], titled *Paluza*. 
 [@fm18-name]: FM18 | Chapter 7: We're Getting Married Once This Battle Is Over | Ilta’s mistaken name and Modaka’s correction.
 [@fm18-judge]: FM18 | Chapter 9: Flower Language for You | Modaka questions unauthorized participation and reminds Ilta that they are judges.
 [@fm18-bridge]: FM18 | Chapter 9: Flower Language for You | Shakti clears the bridge; Modaka is astonished.
+[@ar01-ganesha-watch]: AR01 | Chapter 1: Astrea Familia | "Indeed, Ganesha Familia was the other group besides Astrea Familia dedicated to upholding law and order in Orario."
+[@ar01-ganesha-raid]: AR01 | Chapter 8: Sound of Life | "The men of Ganesha Familia were joined by the women of Astrea Familia"; "Now anyone can blow themselves up whenever we want!!"; "Many of Ganesha Familia disappeared into the clouds of fire and soot"
+[@fm10-ganesha-subjugation]: FM10 | Chapter 8: City Panic | "Ganesha Familia will form the subjugation team."; "they apparently stayed put on the eighteenth after dismantling Rivira"; "the Guild had ordered the subjugation team to tame the monsters"
+[@so12-ganesha-shaft]: SO12 | Chapter 5: Final War | "descended directly to the ninth floor of Knossos using the shaft that Ganesha Familia"; "had tirelessly excavated."
+[@fm18-ganesha-watch]: FM18 | Chapter 7: We're Getting Married Once This Battle Is Over | "Our master is Ganesha, and we act as the city watch."; "Preparing the battleground, clearing away monsters, and managing all the necessary preparations."; "Ganesha Familia was not going to war."

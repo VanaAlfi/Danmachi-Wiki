@@ -27,7 +27,7 @@
   }
 }
 ---
-**Floor 28**, the **Under Garden**, is the second [[safe-point|safe point]] in [[dungeon|the Dungeon]].[@fm20-site] It contains blue crystal pillars, flower fields, hanging pale wisteria and springs, and is smaller than [[floor-18|Floor 18]].[@fm20-site] Adventurers reach it after the [[water-capital|Water Capital]] and use it as a base for exploring the Tangled Gorge.[@fm20-access, fm20-site]
+**Floor 28**, the **Under Garden**, is the second [[safe-point|safe point]] in [[dungeon|the Dungeon]].[@fm20-site] It contains blue crystal pillars, flower fields, hanging pale wisteria and springs, and is smaller than [[floor-18|Floor 18]].[@fm20-site] It has less food than Floor 18's Under Resort, but breaking its blue pillars yields a rare fruit called a crystal drop, and its spring water is safe to drink; monsters are not born from its walls, though they can come in from the floors above and below.[@fm20-supplies] Adventurers reach it after the [[water-capital|Water Capital]] and use it as a base for exploring the Tangled Gorge.[@fm20-access, fm20-site]
 
 ## Occurrences by volume {#occurrences-by-volume}
 
@@ -53,3 +53,4 @@
 [@fm20-food]: FM20 | Chapter 1: Orario Rumble | Lyu brings mruits, and Bell learns they are also found in the Under Garden.
 [@fc02-route]: FC02 | The Origin of the Strongest | Ottar approaches the connection to floor 28 and notices a presence behind him.
 [@fm20-floor28-ja]: FM20 | Chapter 1: Orario Rumble | The Japanese edition names the floor by its number and calls it the Under Garden, written in kanji meaning flower garden of the labyrinth, with that reading; the infobox gives both.
+[@fm20-supplies]: FM20 | Chapter 1: Orario Rumble | "I’ve heard there is less food to be found here than in the Under Resort"; "you can get a rare fruit called a crystal drop"; "Given that monsters aren’t born out of the walls here, it’s practically a paradise."

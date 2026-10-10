@@ -46,6 +46,26 @@ Her short pale blue hair gives her a boyish look, and her eyes are the colour of
 | Familia Chronicle 3 | Seven years earlier, Adi lost her life in the conflict between justice and evil.[@fc03-teaching] In a dream of a twilight wheat field, Adi and Lyu Leon fall into the wheat together, laugh, and share an embrace.[@fc03-embrace] In the dream they read Argonaut together; Adi thanks Lyu for taking on her justice and tells her to share it, not carry it alone, and to smile.[@fc03-adi-twilight] At twilight, Adi taught Lyu Leon that justice passes onward, words that supported Lyu Leon's heart.[@fc03-teaching, ar02-legacy] Lyu Leon believes her new [[skills#astrae-varmas|Astrae Varmas]] reflects her inheritance of Adi's justice.[@fc03-teaching] |
 | DanMachi 18 | {{inference}} The unnamed sister with whom Shakti once punished the lawless [[ilta-faana|Ilta Faana]] is presumably Adi, the only sister of Shakti located in the checked text.[@fm18-adi-ilta] |
 
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level, each copying an illustrated Status sheet, a picture printed in the book, as read in the English and the Japanese edition: ability names, grade letters and numbers as printed.
+
+{{tabs|status-sheet}}
+{{tab|Level 3}}
+| Ability | As printed in Astrea Record 2, illustrated sheet, pp. 276–277[@sheet.ar02-lv3] |
+|---|---|
+| Strength | E401 |
+| Defense | E482 |
+| Dexterity | B745 |
+| Agility | C676 |
+| Magic | B712 |
+| Immunity | H |
+| Healing | I |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[magic#ardee-varma-spells-ghana-avimutta|Ghana Avimutta]] and [[magic#ardee-varma-spells-dia-kaumudi|Dia Kaumudi]], and the Skills [[skills#adi-skills|Ganapati Blood]] and [[skills#adi-skills|Dharmas Algo]].[@sheet.ar02-lv3]
+
+{{/tabs}}
+
 
 [@ar01-identity]: AR01 | Chapter 2: Eren | Adi identifies herself as Shakti’s younger sister, Level Three; city-watch membership.
 [@ar01-human]: AR01 | Chapter 7: What She Taught Me: Twilight Words | The narration calls Adi a human girl.
@@ -77,3 +97,4 @@ Her short pale blue hair gives her a boyish look, and her eyes are the colour of
 [@ar01-adi-introduced]: AR01 | Chapter 1: Astrea Familia | Adi's first appearance: her short pale blue hair, a boyish look.
 [@fc03-adi-skill]: FC03 | The Locus of Stars | Lyu's close friend Adi, named with Alize.
 [@fc03-adi-twilight]: FC03 | Girl in Twilight | Girl in Twilight: Adi's profile and looks; the dream in the wheat field, her thanks and parting words.
+[@sheet.ar02-lv3]: AR02 | | Illustrated Status sheet, pp. 276–277 (Level 3; image pg276-277.jpg): Strength E401, Defense E482, Dexterity B745, Agility C676, Magic B712, Immunity H, Healing I; Magic Ghana Avimutta and Dia Kaumudi; Skills Ganapati Blood and Dharmas Algo. The Japanese edition's sheet (file c8DW, image image_rsrc8K9.jpg) prints the same values.

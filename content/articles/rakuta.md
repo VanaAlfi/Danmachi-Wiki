@@ -48,7 +48,7 @@ In Sword Oratoria 11 Finn spreads the map she created on his desk while he plans
 [@so02-loot]: SO02 | Chapter 6: Parched Scream | Lefiya and Rakuta return with their bags full of loot.
 [@so06-tione]: SO06 | Chapter 3: Kingdom of the Amazons | "the others in her group, hume bunny Rakuta included".
 [@so06-loki]: SO06 | Chapter 3: Kingdom of the Amazons | "Rakuta, looking even more like a rabbit than usual, darted forward to grab the young girl".
-[@so06-attack]: SO06 | | "Sorry, Loki…They were too much for us."; "Rakuta was the only one who was still conscious."; Bache alone; "They took Lefiya…!"
+[@so06-attack]: SO06 | Chapter 4: Sister & Sister, Dusk & Dawn, Shadow & Light | "Sorry, Loki…They were too much for us."; "Rakuta was the only one who was still conscious."; Bache alone; "They took Lefiya…!"
 [@so06-charms]: SO06 | Chapter 5: A Duo of Sun and Moon | "Rakuta! Elfie! Come with me…yer gonna be my good luck charms."
 [@so06-njordr]: SO06 | Chapter 5: A Duo of Sun and Moon | "the hume bunny Rakuta spoke up"; Rakuta and the others look between Rod and Njörðr.
 [@so07-forward]: SO07 | Chapter 2: Dungeon Trap | "Having been shuffled into the forward party, the hume bunny Rakuta hesitated".

@@ -37,7 +37,7 @@
 
 ## Birth {#birth}
 
-DanMachi 8 shows a newborn with blue, scaled skin and bluish-silver hair emerging from a Dungeon wall; DanMachi 9 identifies her as Wiene. Where exactly she was born is not established.[@fm08-birth]
+DanMachi 8 shows a newborn with blue, scaled skin and bluish-silver hair emerging from a Dungeon wall; DanMachi 9 identifies her as Wiene. Where exactly she was born was not located in the checked text.[@fm08-birth]
 
 ## With Hestia Familia {#hestia-familia}
 
@@ -47,6 +47,7 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 
 | Volume | Events |
 |---|---|
+| DanMachi 10 | Ikelos Familia's hunters slaughter the Xenos band she is with and capture her and Fia.[@fm10-wiene-captured] In [[knossos|Knossos]], where Bell finds her in chains, Dix tears off her Tear; she turns into a raging dragon and breaks out into the city.[@fm10-wiene-berserk] Bell turns on the other adventurers to protect her.[@fm10-wiene-fool] |
 | DanMachi 10 | The hunter [[ikelos-familia#dix-perdix|Dix]] removes her Tear, transforming her. A cursed spearhead cracks her [[magic-stone|magic stone]] and she dies declaring her love for Bell, then is brought back to life by [[fels|Fels]]'s [[magic#dia-orpheus|Dia Orpheus]].[@fm10-wiene] |
 | DanMachi 11 | Saves Ruu, a child of Maria's orphanage, from falling rubble. Facing [[aiz-wallenstein|Aiz]], she tears off her own claws and new wing and tells Aiz that Bell rescued her from darkness and loneliness; Aiz lets them go. She returns safely underground after Bell promises they will share a future.[@fm11-wiene] |
 | Sword Oratoria 10 | The same meeting with Aiz, told from Aiz's side: her loneliness moves Aiz.[@so10-wiene] |
@@ -70,22 +71,25 @@ Wiene lives with Hestia Familia for a time and experiences family life on the su
 [@fm09-claws]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "Wiene stares at her own bloody hand, shock in her eyes"; "I…no…so sorry, Bell…!"
 [@fm09-dreams]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | "Everything turns red…Scary dreams."; "I’m always angry in the dreams…always get colder and colder."
 [@fm12-promise]: FM12 | Chapter 1: Rabbit Close-Up | "to keep my promise to Wiene".
-[@fm12-mari]: FM12 | | "I make a promise to Wiene’s kin, just like I did with Wiene herself."
-[@fm15-haruhime]: FM15 | | "Huh, so you ran into Wiene?"; "she has become so very strong"; "so she’s not a little crybaby anymore"; "Little wonder that Wiene had taken to Haruhime before Hestia."
+[@fm12-mari]: FM12 | Chapter 5: Bride of the Water Capital | "I make a promise to Wiene’s kin, just like I did with Wiene herself."
+[@fm15-haruhime]: FM15 | Interlude: My Home, My Familia | "Huh, so you ran into Wiene?"; "she has become so very strong"; "so she’s not a little crybaby anymore"; "Little wonder that Wiene had taken to Haruhime before Hestia."
 [@so11-wiene]: SO11 | Chapter 4: Avengers ~Knossos War~ | "I want to go, too. To the place where the goddess and Bell and the others live"; "beneath her black robe was the body of a full-fledged dragon"; "second only to Rei’s echolocation".
 [@so12-robe]: SO12 | Chapter 2: An Evil Omen | "Wiene the vouivre had called out to him from behind"; "totally covered in a black robe".
 [@so12-ears]: SO12 | Chapter 5: Final War | "Wiene looked up, her dragon’s ears trembling"; "Magic circles of all sizes filled their field of view."
 [@so12-bell]: SO12 | Chapter 8: A Heroes’ Chorus | "It’s Bell! It’s Bell! Everyone!"; "The dragon girl shouted his name."
 [@ss01-hestia]: SS01 | | "Wiene had quickly taken to Hestia, just as she had to Bell and Haruhime"; "Hestia lovingly stroked Wiene’s hair".
 [@ss01-village]: SS01 | | "In the Xenos secret village on the Dungeon’s twentieth floor, Wiene was bawling her eyes out."
-[@fm08-birth]: FM08 | | The newborn in the Dungeon wall.
+[@fm08-birth]: FM08 | Epilogue: Birthday | The newborn in the Dungeon wall.
 [@fm09-wiene]: FM09 | | Wiene, a vouivre; life with Hestia Familia; her wing; she stays with Lido.
 [@fm09-found]: FM09 | Chapter 3: The World and Reality and Monsters | The spot on Floor 19 where Bell found her.
 [@fm09-name]: FM09 | Chapter 2: Daily Life With a Vouivre Girl | Hestia names her Wiene.
-[@fm09-lido]: FM09 | | Lido's group.
+[@fm09-lido]: FM09 | Chapter 5: Heretics | Lido's group.
 [@fm10-wiene]: FM10 | | Transformation, death and resurrection.
 [@fm11-wiene]: FM11 | | Ruu; Aiz; the promise.
 [@fm11-village]: FM11 | Epilogue: And So I Start to Run Again | The return to the Hidden Village.
 [@fm14-wiene]: FM14 | | The Floor 37 rescue.
-[@so10-wiene]: SO10 | | Wiene and Aiz.
+[@so10-wiene]: SO10 | Epilogue: The Resolution of a Girl | Wiene and Aiz.
 [@fm09-wiene-ja]: FM09 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm10-wiene-captured]: FM10 | Chapter 7: The King of Atrocity | "Ranieh’s band has been slaughtered; Wiene and Fia, captured."
+[@fm10-wiene-berserk]: FM10 | Chapter 9: Dreams of Beasts | "Toward the chained, frightened, shaking Wiene."; "The man ripped off the garnet jewel with a forceful flick of the wrist."; "staring up at Wiene towering three meders over him"; "Wiene lost her jewel and has gone berserk"; "Bell had followed Wiene’s path of destruction through the Labyrinth City"
+[@fm10-wiene-fool]: FM10 | Chapter 10: The Fool | "Hot on Wiene’s tail, Bell rounded on those who should be his allies, the adventurers."

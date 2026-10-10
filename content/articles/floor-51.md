@@ -33,6 +33,7 @@
 | Sword Oratoria 1 | [[finn-deimne|Finn Deimne]] sends two teams to gather water from [[monsters#cadmus|Cadmus]] Springs and return without wasting weapons or items.[@so01-water] |
 | Sword Oratoria 1 | [[monsters#cadmus|Cadmus]] is described as the floor's strongest monster and a guardian of the springs.[@so01-spring] |
 | Sword Oratoria 1 | The party finds a destroyed room, an intact spring and a pile of ashes before the water.[@so01-spring] |
+| Sword Oratoria 1 | A new species of caterpillar monsters attacks the teams on this floor: their acid melts weapons and even the floor, and each one bursts into acid when it dies; [[finn-deimne|Finn Deimne]] orders a return to camp at full speed.[@so01-floor51-caterpillars] |
 | Sword Oratoria 3 | [[aiz-wallenstein|Aiz Wallenstein]] recalls caterpillar monsters abandoning pursuit to eat [[monsters#black-rhino|Black rhino]] monsters on this floor.[@so03-predation] |
 | Sword Oratoria 4 | [[finn-deimne|Finn Deimne]] selects a party to advance from Floor 51, while the others guard camp with [[hephaistos-familia|Hephaistos Familia]].[@so04-selection] |
 | Sword Oratoria 4 | Fire rising from below breaks through this floor.[@so04-fire] |
@@ -51,3 +52,4 @@
 [@fm19-logistics]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The journey through fifty floors can exhaust expedition resources before floor 51.
 [@ss02-memory]: SS02 | Girls×Cross: Four Paths of a Half Year | Aiz credits her companions after recalling the expedition before last to floor 51.
 [@so01-floor51-ja]: SO01 | | The Japanese edition names the floor by its number; the infobox gives it.
+[@so01-floor51-caterpillars]: SO01 | Chapter 2: Dungeon Confusion | "A new species?"; "half of Urga had melted away"; "the floor started dissolving and melting away"; "Every dying caterpillar monster exploded, showering the area in an acid rain."; "returning to camp at full speed"

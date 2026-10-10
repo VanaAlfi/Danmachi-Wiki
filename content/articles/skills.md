@@ -16,7 +16,7 @@
       {"section": "Term"},
       {"label": "Recorded in", "value": "The Skill slot of a [[status|Status]]", "refs": ["fm01-slot", "fm12-card"]},
       {"label": "Separate from", "value": "Basic abilities, [[magic|magic]] and [[development-ability|Development Abilities]]", "refs": ["fm01-separate", "so12-card"]},
-      {"label": "Drawbacks", "value": "Rare, but some have them", "refs": ["fm01-separate"]},
+      {"label": "Skills that are a loss", "value": "Very few, but not none", "refs": ["fm01-separate"]},
       {"section": "Kinds"},
       {"label": "Rare Skill", "value": "One held by extremely few adventurers", "refs": ["fm01-rare"]},
       {"label": "Negative Skill", "value": "One that is all downside", "refs": ["gif-blessing.ar03-illness"]}
@@ -44,7 +44,7 @@
     {"anchor": "fairy-serenade", "title": "Fairy Serenade", "summary": "Lyu Leon's magic-amplifying Skill, stronger at night.", "aliases": []},
     {"anchor": "mind-load", "title": "Mind Load", "summary": "Lyu Leon's Skill that spends Mind, as much as she chooses, to raise her Strength when she attacks.", "aliases": []},
     {"anchor": "aero-mana", "title": "Aero Mana", "summary": "Lyu Leon's Skill that raises her attack strength the faster she runs.", "aliases": []},
-    {"anchor": "astrae-varmas", "title": "Astrae Varmas", "summary": "Lyu Leon's fourth Skill, from Level 5: a passive Falna effect that strengthens the Skills, Mind and magic of those who share her god's ichor and gives everyone in range resistance to psychological corruption.", "aliases": []},
+    {"anchor": "astrae-varmas", "title": "Astrae Varmas", "summary": "Lyu Leon's fourth Skill, from Level 5: a passive Falna effect that strengthens the Skills, Mind and magic of those who share her god's ichor and gives every follower of any god in range moderate resistance to psychological corruption.", "aliases": []},
     {"anchor": "rubrud-beckia", "title": "Rubrud Beckia", "summary": "Alize Lovell's Skill, named in Astrea Record 3 before Lyu stops her explaining it. Alfia notes that it greatly raises her speed and power.", "aliases": []},
     {"anchor": "five-lights", "title": "Five Lights", "summary": "The highest art of the Gojouno clan, a paired Skill and spell both called Five Lights, used by Gojouno Kaguya in Astrea Record 3.", "aliases": ["Iai Strike: Five Lights"]},
     {"anchor": "vana-arganture", "title": "Vana Arganture", "summary": "Ottar's active-trigger Skill tied to his beast transformation: strength close to a Level Up, at a heavy cost in stamina and Mind.", "aliases": ["Beast transformation"]},
@@ -57,7 +57,7 @@
     {"anchor": "gareth-skills", "title": "Gareth Landrock's Skills", "summary": "Gareth's Dvergr Enhance, which raises his Strength, and Ardigalea, which raises his Endurance and his resistance to attack magic.", "aliases": ["Dvergr Enhance", "Ardigalea"]},
     {"anchor": "finn-skills", "title": "Finn Deimne's Skills", "summary": "Finn's five Skills on his Sword Oratoria 8 sheet: Prum Spirit, Noble Brave, Dia Phiana, Command Howl and Ail mac Midna.", "aliases": ["Prum Spirit", "Pallum Spirit", "Noble Brave", "Dia Phiana", "Dia Fianna", "Command Howl", "Ail mac Midna"]},
     {"anchor": "batrea-acras", "title": "Batrea Acras", "summary": "Alize Lovell's second Skill: her Skills work better in close combat and her spells work better when cast.", "aliases": ["Batleate Asyrath"]},
-    {"anchor": "stultus-ottar", "title": "Stultus Ottar", "summary": "Ottar's battle Skill: during a fight he temporarily gains the abilities Heal and Spirit Heal, and all his abilities are enhanced in proportion to his Status.", "aliases": ["Stortus Ottar"]},
+    {"anchor": "stultus-ottar", "title": "Stultus Ottar", "summary": "Ottar's battle Skill: while he fights on he temporarily gains the Development Abilities Heal and Spirit Heal, and all the Development Abilities he has acquired are strengthened.", "aliases": ["Stortus Ottar"]},
     {"anchor": "helios-passion", "title": "Helios Passion", "summary": "Daphne Laulos's Skill: slightly higher agility, and the Development Ability Escape while she is being chased.", "aliases": ["Elios Passion"]},
     {"anchor": "five-dimension-troia", "title": "Five-Dimension Troia", "summary": "Cassandra Illion's Skill, which cannot be deciphered; even its name is not written in hieroglyphs, and the name used is Miach's interpretation.", "aliases": []},
     {"anchor": "filvis-skills", "title": "Filvis Challia's Skills", "summary": "Filvis's Fairy Senior, Monstrum Union and Dark Light, from her Sword Oratoria 12 sheet.", "aliases": ["Fairy Senior", "Monstrum Union", "Dark Light", "Darklight"]},
@@ -70,7 +70,7 @@
 
 ## What a Skill is {#what-a-skill-is}
 
-Status cards list Skills under their own heading, each with its name and a few short lines on its effect, apart from the Magic slots and from [[development-ability|Development Abilities]].[@fm12-card, so12-card]
+Status cards list Skills under their own heading, each with its name and a few short lines on its effect, apart from the Magic slots and from [[development-ability|Development Abilities]].[@fm12-card, so12-card] Unlike magic, Skills have no slot limit: as long as the excelia allows, any number can manifest, and in DanMachi 2 Bell has heard of adventurers with five or more.[@fm02-skills-no-limit]
 
 In DanMachi 1 Hestia reflects that many Skills share their effects with other adventurers' Skills: getting a Skill is itself rare, but among the confirmed ones the names often differ while the abilities are alike, so it is usually easy to find another adventurer with something similar. Members of the same race tend to develop similar Skills: many elves have Skills that strengthen magic, and dwarves usually have ones that improve physical strength.[@fm01-rare, fm01-ja-rare] [[haruhime|Haruhime]]'s [[#mikuzume-no-hou|Mikuzume no Hou]] is compared to the Skills elves have developed as a race.[@mikuzume-no-hou.fm15-new]
 
@@ -84,7 +84,7 @@ The novels call these Skills rare: Liaris Freese, [[#avenger|Avenger]], [[#doubl
 
 - A Skill can appear at an ordinary Status update. Liaris Freese appears at Bell's first update after the [[minotaur|Minotaur]] rescue.[@liaris-freese.fm01-skill]
 - Others come with a Level Up: [[#argonaut|Argonaut]] on Bell's first Level 2 card, [[#ox-slayer|Ox Slayer]] at Level 4, [[#vanadis-tevere|Vanadis Tevere]] at Level 5, and [[lefiya|Lefiya]]'s Double Canon at Level 4.[@argonaut.fm04-card, ox-slayer.fm12-card, vanadis-tevere.fm18-card, double-cannon.so12-card]
-- The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
+- The novels often tie a new Skill to what its holder has been through. Hestia sees Ox Slayer as Bell's will made real by his fight with [[asterios|Asterios]]; Welf's [[#veritas-burn|Veritas Burn]] is described as a possible by-product of being tempered on an expedition; [[daphne|Daphne]] says she developed Laurel Wreath because Apollo chased her.[@ox-slayer.fm12-slayer, veritas-burn.fm15-new, laurel-wreath.fm18-daphne]
 - Some Skills come with the blood. Many of the Crozzo family gained the family's magic-sword Skill, and the Gojouno line of the [[far-east|Far East]] passes on identical Skills and spells.[@blood-of-crozzo.fm04-ancestor, five-lights.ar03-clan]
 - Among beast people, only a few races can transform. Once they receive a [[falna|Falna]], their transformation is tied to their Skills, usually with a condition to meet or a risk attached; werewolves transform in moonlight.[@fm18-beast, so08-moon]
 
@@ -102,7 +102,7 @@ DanMachi 5 names **Limit Release** (the Japanese is {{ja|限界解除|genkai kai
 
 ## Keeping Skills secret {#keeping-skills-secret}
 
-Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that working out an opponent's magic and Skills matters as much as technique, because trump cards often decide a fight.[@so10-sussing] In Astrea Record 3, when [[alize-lovell|Alize]] starts to explain her Skill to Alfia in the middle of a battle, Lyu cuts her off.[@rubrud-beckia.ar03-alfia] Hestia hides Liaris Freese from Bell himself, and at the [[denatus|Denatus]] of DanMachi 18 she picks her words so that the gods will not learn what it does.[@fm01-gods, liaris-freese.fm18-denatus]
+Adventurers guard what their Skills do. In Sword Oratoria 10 Aiz reflects that working out an opponent's magic and Skills matters as much as technique, because trump cards often decide a fight.[@so10-sussing] A leak of magic or Skill details can be fatal to a Familia, so the Guild allows Familias to keep them secret, and in DanMachi 18 the Guild documents Eina gathers on Freya Familia hold only hearsay from Guild staff and adventurers.[@fm18-guild-secrecy] In Astrea Record 3, when [[alize-lovell|Alize]] starts to explain her Skill to Alfia in the middle of a battle, Lyu cuts her off.[@rubrud-beckia.ar03-alfia] Hestia hides Liaris Freese from Bell himself, and at the [[denatus|Denatus]] of DanMachi 18 she picks her words so that the gods will not learn what it does.[@fm01-gods, liaris-freese.fm18-denatus]
 
 ## Skills, magic and Development Abilities {#skills-magic-and-development-abilities}
 
@@ -154,7 +154,7 @@ A Status lists Skills apart from spells and Development Abilities; the [[magic#m
 | [[#fairy-serenade|Fairy Serenade]] | Lyu Leon | Magic support | Stronger magic, more so at night[@fc03-lyu-card5] |
 | [[#mind-load|Mind Load]] | Lyu Leon | Mind into Strength | Spends Mind to raise Strength when she attacks[@fc03-lyu-card5] |
 | [[#aero-mana|Aero Mana]] | Lyu Leon | Speed into attack | Attack strength rises with running speed[@fc03-lyu-card5] |
-| [[#astrae-varmas|Astrae Varmas]] | Lyu Leon | Party (same [[ichor|ichor]]) | Strengthens allies of the same god; resistance to psychological corruption for all in range[@fc03-lyu-card5] |
+| [[#astrae-varmas|Astrae Varmas]] | Lyu Leon | Party (same [[ichor|ichor]]) | Strengthens allies of the same god and ichor; moderate resistance to psychological corruption for followers of any god in range[@fc03-lyu-card5] |
 | [[#rubrud-beckia|Rubrud Beckia]] | Alize Lovell | Conditional boosts | Stats rise in combat, in a crisis and against a powerful foe[@sheet.ar03-alize] |
 | [[#batrea-acras|Batrea Acras]] | Alize Lovell | Skill and spell support | Stronger Skills in close combat; stronger spells[@sheet.ar03-alize] |
 | [[#five-lights|Five Lights]] | [[gojouno-kaguya|Gojouno Kaguya]] | Hereditary; paired with a spell | Not described apart from the spell[@five-lights.ar03-clan] |
@@ -217,7 +217,7 @@ When the Skill exists and when Bell can know about it are different things. Hest
 | Volume | What happens |
 |---|---|
 | DanMachi 1 | The Skill appears at Bell's first Status update after the Minotaur rescue. Hestia records it and deliberately keeps it from him.[@liaris-freese.fm01-skill, liaris-freese.fm01-hidden] At the next update she tells him how much he has grown but not why. Jealousy of Aiz is most of her reason, she admits to herself; the rest is the gods, who chase any rare Skill and might even try to lure him into their own Familias, and Bell himself, who could not keep the secret if pressed.[@liaris-freese.fm01-reasons] When she updates him in the middle of the Silverback chase, his abilities rise by more than 600 points in all; her jealousy of Aiz flares, but she is sure the knife's power will rise with them.[@liaris-freese.fm01-silverback] |
-| DanMachi 2 | The sheet Hestia gives him shows no Skills, while she still hints that one is hidden.[@liaris-freese.fm02-sheet] Recalling his last update, in which he grew as fast as ever, she is uneasy: his feelings are still set on Aiz.[@liaris-freese.fm02-uneasy] |
+| DanMachi 2 | The sheet Hestia gives him shows no Skills; when his magic appears she only mutters to herself whether it is related to the Skill, and Bell, overjoyed, pays no attention.[@liaris-freese.fm02-sheet] Recalling his last update, in which he grew as fast as ever, she is uneasy: his feelings are still set on Aiz.[@liaris-freese.fm02-uneasy] |
 | DanMachi 3 | As the update goes on, Hestia's mood sours; the growth rate the Skill gives him is the cause.[@liaris-freese.fm03-mood] |
 | DanMachi 4 | At the [[denatus|Denatus]], pressed by Loki over his record Level Up, Hestia fears that every god present would rush to Bell if the Skill became known; that fear is why she has kept it secret even from him.[@liaris-freese.fm04-denatus] Hestia almost calls Argonaut his "second" Skill before correcting herself; his card lists only Argonaut.[@liaris-freese.fm04-slip] |
 | DanMachi 6 | Before the war game with [[apollo-familia|Apollo Familia]], Hestia stakes everything on Bell's potential; the Japanese text writes the Skill's name there, glossed *potential*.[@liaris-freese.fm06-hope] |
@@ -240,7 +240,7 @@ When the Skill exists and when Bell can know about it are different things. Hest
 
 ### Argonaut {#argonaut}
 
-**Argonaut** ({{ja|英雄願望}}, written *desire to be a hero*)[@argonaut.fm04-ja], printed in full as *Heroic Desire, Argonaut*, is [[bell-cranell|Bell Cranell]]'s second Skill. It charges an action that Bell chooses to take with extra power before he releases it, and it underlies his charged Firebolts and the technique Argo Vesta.[@argonaut.fm04-card, argonaut.fm04-hestia, argonaut.fm12-argo]
+**Argonaut** ({{ja|英雄願望}}, written *desire to be a hero*)[@argonaut.fm04-ja], printed in full as *Heroic Desire, Argonaut*, is [[bell-cranell|Bell Cranell]]'s second Skill. It charges an action that Bell chooses to take with extra power before he releases it, and it underlies his charged Firebolts and the technique Argo Vesta.[@argonaut.fm04-card, argonaut.fm04-hestia, argonaut.fm12-argo] Bell knows the name from a fairy tale his grandfather loved: Argonaut is a young man with nothing special about him, the least heroic of heroes, who sets out to rescue a beautiful princess carried off by a bull monster.[@argonaut.fm04-tale]
 
 - **Holder:** Bell Cranell[@argonaut.fm04-card]
 - **Status entry:** On the DanMachi 4 card it executes automatically with an active action; from DanMachi 5 the Yen Press cards say it charges automatically with an active action. The Japanese DanMachi 4, 5, 6 and 20 cards do not say "automatically": they give Bell the right to execute a charge for active actions.[@argonaut.fm04-card, argonaut.fm05-card, argonaut.fm05-ja-card, argonaut.fm06-card, argonaut.fm20-card]
@@ -251,7 +251,7 @@ When the Skill exists and when Bell can know about it are different things. Hest
 
 The first time it activates, in DanMachi 4, grains of white light circle Bell's arm with a sound like small chimes.[@argonaut.fm04-first] Hestia's reading is that when he stakes everything on one blow, the Skill greatly raises its strength and gives him a chance to turn the tide against overwhelming odds, a "heroic strike".[@argonaut.fm04-hestia] That day an Argonaut-charged Firebolt kills an [[monsters#infant-dragon|infant dragon]] and smashes the Dungeon wall behind it.[@argonaut.fm04-dragon] A charge needs a heroic image in Bell's mind; against the Black Goliath he pictures the Great Hero David.[@argonaut.fm05-image]
 
-It is costly. DanMachi 5 calls it a double-edged sword that takes enormous physical and mental strength, likely to leave Bell unable to move after the attack.[@argonaut.fm05-cost] In DanMachi 12 he tests it: the power gathers wherever the particles of light collect, which works only on attack actions, whether slashes, punches or magic, and he can charge in only one place at a time. An enemy's attack or a lapse of concentration wipes out a charge, and the stamina and Mind already spent are lost with it.[@argonaut.fm12-tests] What interests him most is its convergence, which leads to Argo Vesta, Firebolt charged into his knife.[@argonaut.fm12-tests, argonaut.fm12-argo]
+It is costly. DanMachi 5 calls it a double-edged sword that takes enormous physical and mental strength, likely to leave Bell unable to move after the attack.[@argonaut.fm05-cost] In DanMachi 9, with Wiene in danger, Bell charges Argonaut while moving at high speed for the first time, a Concurrent Charge; until then he could charge only standing still or running at less than full speed.[@argonaut.fm09-concurrent] In DanMachi 12 he tests it: the power gathers wherever the particles of light collect, which works only on attack actions, whether slashes, punches or magic, and he can charge in only one place at a time. An enemy's attack or a lapse of concentration wipes out a charge, and the stamina and Mind already spent are lost with it.[@argonaut.fm12-tests] What interests him most is its convergence, which leads to Argo Vesta, Firebolt charged into his knife.[@argonaut.fm12-tests, argonaut.fm12-argo]
 
 #### Charge times {#argonaut-charge-times}
 
@@ -283,7 +283,7 @@ Hestia sees no need to explain why it appeared: it is Bell's instinct, potential
 #### Open questions {#ox-slayer-open-questions}
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - No scene in the covered volumes names the Skill in use, and the size of the boost is not given.[@ox-slayer.fm12-slayer, ox-slayer.ss01-shock]
+> - A scene that names the Skill in use is not located in the checked text, and the size of the boost is not given.[@ox-slayer.fm12-slayer, ox-slayer.ss01-shock]
 
 ### Vanadis Tevere {#vanadis-tevere}
 
@@ -339,13 +339,13 @@ When he activates it, as while forging Shirahime in Minor Myths and Legends 1, f
 
 ### Veritas Burn {#veritas-burn}
 
-**Veritas Burn** ({{ja|炎化創火}}, written *becoming flame, creating fire*)[@veritas-burn.fm15-ja] is Welf's second Skill, from his DanMachi 15 update at Level 2: it grants high resistance to flame and amplifies the effect of fire-element attacks.[@veritas-burn.fm15-card] The narration treats it as a by-product of being tempered in the extreme conditions of the expedition, and notes that it also makes his fire magic swords more potent.[@veritas-burn.fm15-new]
+**Veritas Burn** ({{ja|炎化創火}}, written *becoming flame, creating fire*)[@veritas-burn.fm15-ja] is Welf's second Skill, from his DanMachi 15 update at Level 2: it grants high resistance to flame and amplifies the effect of fire-element attacks.[@veritas-burn.fm15-card] The narration treats it as a possible by-product of being tempered in the extreme conditions of the expedition, and notes that it also makes his fire magic swords more potent.[@veritas-burn.fm15-new]
 
 - **Holder:** Welf Crozzo[@veritas-burn.fm15-card]
 - **Appeared:** DanMachi 15, at Level 2[@veritas-burn.fm15-new]
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - No later scene names the Skill in use.[@veritas-burn.fm15-card]
+> - A later scene that names the Skill in use is not located in the checked text.[@veritas-burn.fm15-card]
 
 ### Yatano Black Crow and Yatano White Crow {#yatano-crows}
 
@@ -358,7 +358,7 @@ When he activates it, as while forging Shirahime in Minor Myths and Legends 1, f
 
 #### Range and limits {#yatano-crows-range-and-limits}
 
-Their range depends on her Status and condition: about thirty meders at full strength in DanMachi 7. Activating them drains Mind, so she uses them in short bursts.[@yatano.fm07-reveal] She warns Welf that Black Crow senses only monsters she has met, and that its effect depends on the state of her mind and body.[@yatano.fm07-welf] In DanMachi 9 [[monsters#dark-fungus|dark fungi]] slip past it because she has never fought them, and when unseen eyes watch the party, Bell cannot tell whether they are people, unfamiliar monsters or simply beyond its range.[@yatano.fm09-fungi, yatano.fm09-eyes]
+Their range depends on her Status and condition: about thirty meders at full strength in DanMachi 7. Activating them drains Mind, so she uses them in short bursts.[@yatano.fm07-reveal] She warns Welf that Black Crow senses only monsters she has met, and that its effect depends on the state of her mind and body.[@yatano.fm07-welf] It shows monsters as identical red dots on a black field in her mind, so it cannot tell one monster from another or show their size; in DanMachi 12 a monster fools it by wrapping an adventurer in moss from its own body, and the Skill reacts to the shell.[@yatano.fm12-dots] In DanMachi 9 [[monsters#dark-fungus|dark fungi]] slip past it because she has never fought them, and when unseen eyes watch the party, Bell cannot tell whether they are people, unfamiliar monsters or simply beyond its range.[@yatano.fm09-fungi, yatano.fm09-eyes]
 
 #### Uses {#yatano-crows-uses}
 
@@ -446,7 +446,7 @@ When Riveria developed it, Loki wanted an elf-only squad built around her and tr
 Both [[hyrute-sisters|Tiona and Tione Hyrute]] have a Skill called **Berserk**, which raises their attack power the more damage they take.[@berserk.so06-tiona] Tione's also grows with her anger.[@berserk.so06-tione, berserk.so07-cruz]
 
 - **Holders:** Tiona and Tione Hyrute[@berserk.so06-tiona]
-- **Printed as:** Berserk; "Berserker skill" in Sword Oratoria 6 and 12[@berserk.so06-berserker, berserk.so12-tiona]
+- **Printed as:** Berserk; "Berserker skill" in Sword Oratoria 6; "Berserker" in Sword Oratoria 12[@berserk.so06-berserker, berserk.so12-tiona]
 - **Status entry:** Tiona's Sword Oratoria 3 sheet {{small|printed *Berserker*}}: each time she takes damage, her attack power rises. Tione's Sword Oratoria 4 sheet, printed *Berserk* ({{ja|憤化招乱}}, written *anger turning, chaos invited*): attack power increases on taking damage, and the effect grows with her anger.[@sheet.so03-tiona, sheet.so04-tione, berserk.so04-ja]
 
 In Sword Oratoria 6 Tione's Berserk builds against [[kali-familia#argana-kalif|Argana]], though Argana's power grows too.[@berserk.so06-tione, berserk.so06-berserker] In Sword Oratoria 7 the enemy's curses and anti-Status magic only make Tione angrier, so her strength rises until her attack power outweighs the lowered Status, though her speed stays below her true Agility; later her Berserk-backed fist drops the demi-spirit to its knees.[@berserk.so07-cruz, berserk.so07-spirit] Tiona combines hers with [[#intense-heat|Intense Heat]].[@intense-heat.so07-legs, berserk.so12-tiona]
@@ -703,7 +703,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@fm01-ja-rare]: FM01 | Chapter 4: That’s Why I Want to Help | Japanese original (file c2A2, paragraphs 149-152): obtaining a Skill is itself rare; among confirmed Skills the names differ but the abilities are alike.
 [@fm01-gods]: FM01 | Chapter 4: That’s Why I Want to Help | Gods chase rare Skills; Hestia keeps Bell's to herself.
 [@fm04-gods]: FM04 | Chapter 2: Changing Environment, New Relationships | Gods ask Bell whether a rare Skill explains his growth.
-[@so07-riveria]: SO07 | | Riveria: an undiscovered growth ability or a rare Skill.
+[@so07-riveria]: SO07 | Chapter 1: Orario Now | Riveria: an undiscovered growth ability or a rare Skill.
 [@fm12-card]: FM12 | Chapter 1: Rabbit Close-Up | Bell's Level 4 card: Skills listed apart from Magic.
 [@so12-card]: SO12 | Chapter 4: Nameless Heroes | Lefiya's Level 4 card: Development Abilities, Magic and Skills listed separately.
 [@fm15-withheld]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Hestia holds back a possibly self-destructive Skill for Mikoto.
@@ -721,10 +721,10 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@liaris-freese.fm02-sheet]: FM02 | Chapter 3: Magic, Magic That Summons a Lap |
 [@liaris-freese.fm04-slip]: FM04 | Chapter 1: Denatus |
 [@liaris-freese.fm07-ishtar]: FM07 | Chapter 6: Yearning of a Hero |
-[@liaris-freese.fm07-charm]: FM07 | | Resistance to divine charm.
+[@liaris-freese.fm07-charm]: FM07 | Chapter 6: Yearning of a Hero | Resistance to divine charm.
 [@liaris-freese.fm08-hestia]: FM08 | Chapter 2: The Prum’s Proposal |
 [@liaris-freese.fm12-print]: FM12 | Chapter 1: Rabbit Close-Up | Printed as Liaris Freese with the same effect lines.
-[@liaris-freese.fm12-technique]: FM12 | | Growth does not supply learned technique.
+[@liaris-freese.fm12-technique]: FM12 | Chapter 6: The Hero's Sacred Flame | Growth does not supply learned technique.
 [@liaris-freese.fm16-charm]: FM16 | | Hieroglyphs burn under Freya's charm; the Skill is not named.
 [@liaris-freese.fm17-feelings]: FM17 | Chapter 3: The Field of Battle |
 [@liaris-freese.fm18-denatus]: FM18 | Chapter 6: Megami Tensei ~Orario Revelation~ | Hestia asks for Aiz's help while hiding the nature of Bell's rare Skill.
@@ -733,10 +733,10 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@liaris-freese.fm20-paper]: FM20 | Chapter 2: Lion and then Sword Princess | Growth at Level 5. The Japanese edition's update paper lists only Argonaut, Ox Slayer and Vanadis Tevere.
 [@liaris-freese.fm01-reasons]: FM01 | Chapter 4: That’s Why I Want to Help | She tells him how much he has grown but leaves out the Skill; her reasons for keeping it to herself.
 [@liaris-freese.fm01-silverback]: FM01 | Chapter 6: Bump of Chicken! | The update during the Silverback chase. The Japanese edition (file c4N9, paragraphs 560–564) gives a total rise of over 600 and her certainty that the weapon's power will jump.
-[@liaris-freese.fm02-uneasy]: FM02 | | In the interlude printed as Cry Out, Goddess: his last update showed him growing as fast as ever, so his feelings are still set on Aiz.
+[@liaris-freese.fm02-uneasy]: FM02 | Interlude: Cry Out, Goddess | In the interlude printed as Cry Out, Goddess: his last update showed him growing as fast as ever, so his feelings are still set on Aiz.
 [@liaris-freese.fm03-mood]: FM03 | Chapter 4: The Meaning of Adventure | Hestia's mood sours as the update shows his growth rate.
 [@liaris-freese.fm04-denatus]: FM04 | Chapter 1: Denatus | Why she has not told Bell about the Skill.
-[@liaris-freese.fm06-hope]: FM06 | | Before the war game with Apollo Familia. The Japanese edition (file c2CX, paragraph 752) writes the Skill's name here with the reading potential.
+[@liaris-freese.fm06-hope]: FM06 | Chapter 3: Outbreak | Before the war game with Apollo Familia. The Japanese edition (file c2CX, paragraph 752) writes the Skill's name here with the reading potential.
 [@liaris-freese.fm07-side]: FM07 | Chapter 6: Yearning of a Hero | An unrecorded rare Skill that affects his growth rate; immunity to charm as its side effect. The Japanese edition (file c8AX, paragraphs 148–156) has Ishtar read it on his Status and calls the charm immunity a secondary effect of the Skill.
 [@liaris-freese.fm08-members]: FM08 | Chapter 2: The Prum’s Proposal | Welf's summary and Hestia's answer; Lilly's shock. The Japanese edition (file part0018, paragraph 229) has Welf say that Bell is growing to catch up with the Sword Princess he has fallen for.
 [@liaris-freese.fm11-update]: FM11 | Chapter 6: A Deity’s Scheme | After the fight with Aiz; she cannot tell him about the Skill.
@@ -804,7 +804,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@mikuzume-no-hou.fm15-card]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Level 1 card: Mikuzume no Hou.
 [@mikuzume-no-hou.fm15-new]: FM15 | Interlude: The Striving Princess and the Watchful Shinobi | Like the elves' Skills; Mind-efficiency Skills prized.
 [@avenger.so09-skill]: SO09 | Recollections Chapter 1: The Young Girl’s Beginnings | "That Skill"; Finn says it will not work on him.
-[@avenger.so11-ottar]: SO11 | | Training with Ottar.
+[@avenger.so11-ottar]: SO11 | Chapter 3: The True Face of a God | Training with Ottar.
 [@avenger.so12-forbidden]: SO12 | Chapter 5: Final War | "Tempest" / "Avenger"; the black flame controlled as Warlord taught.
 [@avenger.so12-loki]: SO12 | Chapter 5: Final War | Loki: the most potent rare Skill; monsters. The Japanese edition (file c3FK, paragraphs 65–68) has Loki rank its potency highest among all followers and gives its effect as a ravenous surge of power against monsters; this line does not tie it to revenge.
 [@avenger.so12-levis]: SO12 | Chapter 5: Final War | She saw Levis as human; what Warlord taught her.
@@ -835,7 +835,7 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@intense-heat.so07-legs]: SO07 | Chapter 5: Battle of Tears | Both Skills at max; Gugalanna's legs.
 [@backdraft.so06]: SO06 | Chapter 5: A Duo of Sun and Moon | Same activation requirements as Intense Heat.
 [@solmani.so10-aiz]: SO10 | Interlude: Their Respective Battles | Bete's Solmani.
-[@solmani.so05-fastest]: SO05 | | The fastest runner in the Familia, Skill effects included.
+[@solmani.so05-fastest]: SO05 | Chapter 1: Passage and the Present | The fastest runner in the Familia, Skill effects included.
 [@astrae-varmas.fc03-new]: FC03 | The Locus of Stars | Fourth Skill; effects confirmed with Astrea.
 [@astrae-varmas.fc03-ja]: FC03 | | The Japanese edition (file c54, paragraph 450) writes the Skill's name with kanji meaning justice inherited and going round, read Astrae Varmas.
 [@astrae-varmas.fc03-adi]: FC03 | The Locus of Stars | Adi Varma; justice inherited.
@@ -890,3 +890,8 @@ Riveria calls it a rule that no magic or item can overturn.[@gif-blessing.ar03-i
 [@fenris-wolf.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning lone wolf's swift run, read Fenris Wolf.
 [@solmani.so05-ja]: SO05 | | The Japanese edition writes the name with kanji meaning twin wolves' pursuit, read Solmani.
 [@finn-skills.so08-ja]: SO08 | | The Japanese Status sheet (file c5Z3, an image) writes three of Finn's Skills in kanji meaning a knight's heart, one spear (read Dia Fiana), command battle voice (read Command Howl) and commander's decoration (read Aru Makumīna).
+[@fm02-skills-no-limit]: FM02 | Chapter 2: The Supporter’s Situation | "as long as you have the excelia—experience—you can learn many of them"; "there are adventurers with five (!!) skills". The Japanese edition (FM02_ja.txt line 1304) says Skills, unlike Magic, have no slot limit, that any number can manifest if the excelia allows, and that some adventurers have five or more.
+[@fm18-guild-secrecy]: FM18 | Chapter 7: We're Getting Married Once This Battle Is Over | "Leaked details about magic and skills could be fatal for familias"; "the documents Eina gathered were all just reports from various Guild workers and other adventurers". The Japanese edition (FM18_ja.txt lines 797–798) says the Guild allows Familias to keep their members' lifelines secret, so Eina's documents are hearsay marked as approximate abilities; the English reads that the Guild keeps what it collects strictly confidential.
+[@argonaut.fm04-tale]: FM04 | Chapter 1: Denatus | "a hapless young man who ventures out to rescue a beautiful queen from a ferocious bull monster"; "he stands out as the least heroic"; "But Gramps, he loved the story." The Japanese edition (FM04_ja.txt lines 384–388) has a young man with nothing special about him who goes to rescue a beautiful princess abducted by a bull monster; the English has a queen.
+[@argonaut.fm09-concurrent]: FM09 | Chapter 5: Heretics | "Bell had used his Skill, Argonaut, while moving at high speed"; "The situation had forced him to do a Concurrent Charge." The Japanese edition (FM09_ja.txt line 3601) says that until then he could use the concurrent charge only standing still or while running at a held-back pace; the English has "only with his feet firmly planted on the ground".
+[@yatano.fm12-dots]: FM12 | Chapter 4: A Hunter at the Water's Edge | "she cannot distinguish between individuals"; "a piece of black paper unfurls in her mind and red dots appear on it"; "But it reacted to an outer shell." The Japanese edition (FM12_ja.txt line 2172) agrees: it cannot identify individuals, and the dots are all the same size and colour.

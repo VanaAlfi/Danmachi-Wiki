@@ -18,10 +18,10 @@
       {"label": "Familia", "value": "[[loki-familia|Loki Familia]], converts from other Familias", "refs": ["ar02-veterans", "ar03-veterans"]},
       {"label": "Students", "value": "[[finn-deimne|Finn]], [[riveria|Riveria]] and [[gareth|Gareth]]", "refs": ["ar03-veterans", "ar03-manor"]},
       {"section": "Noir Sachsen"},
-      {"label": "Level", "value": "4", "refs": ["ar02-veterans"]},
-      {"label": "Also called", "value": "The Bowstring Blade", "refs": ["ar03-veterans"]},
-      {"label": "Age", "value": "Over seventy", "refs": ["ar02-veterans", "ar03-veterans"]},
-      {"label": "Weapon", "value": "Undying Vow, a single-edged sword modelled on Far Eastern blades", "refs": ["ar03-manor"]},
+      {"label": "Level", "value": "Noir: 4", "refs": ["ar02-veterans"]},
+      {"label": "Noir's title", "value": "The Bowstring Blade", "refs": ["ar03-veterans"]},
+      {"label": "Age", "value": "Noir: over seventy", "refs": ["ar02-veterans", "ar03-veterans"]},
+      {"label": "Weapon", "value": "Noir's Undying Vow, a single-edged sword modelled on Far Eastern blades", "refs": ["ar03-manor"]},
       {"section": "Fate"},
       {"label": "Fate", "value": "All three in the [[great-conflict|Great Conflict]] (Astrea Record 3)", "refs": ["ar03-deaths", "ar03-explosion"]}
     ]
@@ -61,7 +61,7 @@ The narration later credits the veterans with giving [[ottar|Ottar]] just enough
 [@ar02-veterans]: AR02 | Chapter 2: Wavering Justice | "His name was Noir Sachsen, Level 4"; over seventy years of age; over 170 celches; the dwarf and the Amazon; "We were Finn’s equal during our prime"; "Loki Familia’s oldest members—in terms of age, at least"; converts who were braving the Dungeon before Finn, Riveria, Gareth or Loki; Raul and Anakitty. The Japanese edition (file c1E0) gives Noir's height as the upper 170s, and has Bahra say that in seasoning they are not behind even Finn and the others.
 [@ar02-factory]: AR02 | Intermission: While the Scales of Justice Tremble | "Send Noir’s unit to secure the factory district!"
 [@ar03-veterans]: AR03 | Prologue: Last Intermission | Falgar: "The Bowstring Blade…"; Noir at seventy, close to 180 celches, in kimono-like combat gear; "one of several mentors who taught Finn, Riveria, and Gareth"; Dyne and Bahra; Zeus and Hera against Horus and Sobek; Noir's team finishes the evacuation. The Japanese edition (file c4W, paragraph 33) says close to 180 celch.
-[@ar03-manor]: AR03 | | Noir left in charge of Twilight Manor; "Isn’t that how you, Dyne, and Bahra beat sense into us back in the day?"; "its name was Undying Vow". The Japanese edition (file cTV, paragraph 270) has Noir expect the fiercest attacks on the north and the east of the city.
+[@ar03-manor]: AR03 | Chapter 1: March and Break | Noir left in charge of Twilight Manor; "Isn’t that how you, Dyne, and Bahra beat sense into us back in the day?"; "its name was Undying Vow". The Japanese edition (file cTV, paragraph 270) has Noir expect the fiercest attacks on the north and the east of the city.
 [@ar03-assault]: AR03 | Chapter 5: Playing the Violence Card | "Noir! The monsters have stepped up their assault! We can’t hold them off!"
 [@ar03-despair]: AR03 | Chapter 5: Playing the Violence Card | Hordes of monsters down the eight main streets toward the central barrier; no one can leave the strongholds.
 [@ar03-charge-off]: AR03 | Chapter 5: Playing the Violence Card | "It’s been a real pleasure workin’ alongside you old dogs!"; "Loki… See you."; the three veterans leave.

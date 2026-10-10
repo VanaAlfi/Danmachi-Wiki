@@ -33,5 +33,5 @@ During the first assault Dionysus separated from Loki and the adventurers and, w
 [@so12-three]: SO12 | Chapter 6: The Divine Providence of Despair | The three followers who sobered up during their Status update, murdered by a creature.
 [@so12-cover]: SO12 | Chapter 6: The Divine Providence of Despair | "Penia was really a magnificent cover for me."; "she was an odd goddess who had absolutely no followers".
 [@so12-killed]: SO12 | Chapter 6: The Divine Providence of Despair | "…And then you killed Penia here."; bound and gagged; the dagger; "Once Penia was sent back, Aura and the rest whose abilities had been sealed were wiped out."
-[@so13-account]: SO13 | | Royman: "tragedy struck them and their patron god, as well as Goddess Penia of Daedalus Street. The pillars of return the other day were a result of this struggle."
+[@so13-account]: SO13 | Prologue: The Sequel to Loss and Resolve | Royman: "tragedy struck them and their patron god, as well as Goddess Penia of Daedalus Street. The pillars of return the other day were a result of this struggle."
 [@so12-penia-familia-ja]: SO12 | Chapter 6: The Divine Providence of Despair | The Japanese edition prints the Familia's name in katakana (file c4HC, paragraph 55); the infobox gives that printed form.

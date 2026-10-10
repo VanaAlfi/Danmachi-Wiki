@@ -30,7 +30,7 @@
 
 ## Appearance and arms {#appearance}
 
-Zald fights in a visored helmet and wields a greatsword, which Astrea Record 3 calls a "black slab of steel".[@ar01-ottar, ar03-glutton2] Ottar's last sight of him before the Great Conflict was at the battle with the Behemoth: Zald "felled the King of Beasts" on a sea of black sand and collapsed as the sun rose, his greatsword stuck in the earth "as if marking the man’s grave".[@ar01-ottar]
+Zald fights in a visored helmet and wields a greatsword, which Astrea Record 3 calls a "black slab of steel".[@ar01-ottar, ar03-glutton2] Under the helmet his face bears enormous scars across both eyes, as if from a beast's claws, and his hair is dark red; he wears heavy black plate armour and a crimson cloak, and carries a sword "as large as a dragon’s jawbone".[@ar01-face, ar03-armour] Ottar's last sight of him before the Great Conflict was at the battle with the Behemoth: Zald "felled the King of Beasts" on a sea of black sand and collapsed as the sun rose, his greatsword stuck in the earth "as if marking the man’s grave".[@ar01-ottar]
 
 ## Glutton {#glutton}
 
@@ -46,7 +46,7 @@ Zald won the strength to kill the Behemoth, one of the [[three-great-quests|Thre
 
 ## The Great Conflict
 
-Zald was once Ottar's teacher, and in Astrea Record 1 he defeats Ottar.[@ar01-zald] Ottar cannot reconcile what he sees: "Zald had been this city’s protector. Now he was its invader." Zald repeats words he once told him, "You are weak", and beats him.[@ar01-ottar] Riveria later explains that Glutton and Silence played important parts in slaying both the Leviathan and the Behemoth, after which Zald "was forced to retire from frontline combat".[@ar03-retire] He and Alfia, both declining and unable to overcome the Black Dragon, join Erebus to become obstacles the next generation must surpass.[@ar03-trial] In Astrea Record 3 Ottar kills him in their final duel and advances to Level 7.[@ar03-ottar] Dying, Zald tells him "You bested me regardless" and to "Take pride in that"; asked whether he regrets slaying the Behemoth, he answers "…I do not." [[freya|Freya]] stays by him at the end, and for the first time he calls Ottar by name.[@ar03-death] [[orario|Orario]]'s defenders count Zald and Alfia as the two Level 7s the Evils depend on.[@ar03-sevens]
+Zald was once Ottar's teacher, and in Astrea Record 1 he defeats Ottar.[@ar01-zald] Ottar cannot reconcile what he sees: "Zald had been this city’s protector. Now he was its invader." Zald repeats words he once told him, "You are weak", and beats him.[@ar01-ottar] Riveria later explains that Glutton and Silence played important parts in slaying both the Leviathan and the Behemoth, after which Zald "was forced to retire from frontline combat".[@ar03-retire] He and Alfia, both declining and unable to overcome the Black Dragon, join Erebus to become obstacles the next generation must surpass.[@ar03-trial] He tells Ottar that the Dungeon's gate must be torn down, its monsters released and humanity culled, because "Only in chaos can a true hero be born."[@ar03-chaos] In Astrea Record 3 Ottar kills him in their final duel and advances to Level 7.[@ar03-ottar] Dying, Zald tells him "You bested me regardless" and to "Take pride in that"; asked whether he regrets slaying the Behemoth, he answers "…I do not." [[freya|Freya]] stays by him at the end, and for the first time he calls Ottar by name.[@ar03-death] [[orario|Orario]]'s defenders count Zald and Alfia as the two Level 7s the Evils depend on.[@ar03-sevens]
 
 ## Magic {#magic}
 
@@ -89,13 +89,13 @@ Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Fami
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
-> - Whether Zald was the unnamed Zeus Familia adventurer who defeated the young Ottar in Familia Chronicle 2; the text does not name him.[@fc02-opponents]
+> - Whether Zald was the unnamed Zeus Familia adventurer who defeated the young Ottar in Familia Chronicle 2; the text does not name him.[@fc02-opponents] It calls that adventurer "one of the lowest members of Zeus Familia".[@fc02-lowest]
 
 [@ar01-zald]: AR01 | | Former Zeus Level 7; Ottar's teacher; joins the Evils; defeats Ottar.
-[@ar03-glutton]: AR03 | | "Glutton."
-[@ar03-sevens]: AR03 | | "Those two Level 7s."
+[@ar03-glutton]: AR03 | Chapter 2: The Conqueror’s Return | "Glutton."
+[@ar03-sevens]: AR03 | Prologue: Last Intermission | "Those two Level 7s."
 [@ar03-behemoth]: AR03 | Chapter 8: The Price of Talent | Zald and the Behemoth.
-[@ar03-trial]: AR03 | | Zald and Alfia join Erebus.
+[@ar03-trial]: AR03 | Chapter 5: Playing the Violence Card | Zald and Alfia join Erebus.
 [@ar03-erebus]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | Erebus recruited Zald and Alfia.
 [@ar03-ottar]: AR03 | | Ottar kills Zald.
 [@fc02-opponents]: FC02 | The Origin of the Strongest | Ottar's unnamed early opponents.
@@ -106,8 +106,12 @@ Later in Astrea Record 3, drawing on the Guild's confidential records, Loki Fami
 [@ar01-ottar]: AR01 | Chapter 10: Conquerors | "Zald reached up and removed his helmet."; "he felled the King of Beasts"; "as if marking the man’s grave"; "Zald had been this city’s protector. Now he was its invader."; "You are weak".
 [@ar02-gareth]: AR02 | Intermission: While the Scales of Justice Tremble | "Have you forgotten already how I used to drink you and that god of yours under the table?"
 [@ar02-erebus]: AR02 | | Printed heading "Chapter 10: What I Learned: Twilight Answer" (not in the evidence map): Erebus supposes that Zald let Astrea through, the kind of gallant thing that warrior would do (the Japanese edition, file c6TM).
-[@ar03-glutton2]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "It was how Zald had earned his title—Glutton"; "The city’s finest warriors were nothing more than food on his plate."; "his black slab of steel". The Japanese edition (file c1JB, paragraph 48) has him say that he took eating what others will not eat too far, and his senses grew too sharp.
+[@ar03-glutton2]: AR03 | Chapter 2: The Conqueror’s Return | "It was how Zald had earned his title—Glutton"; "The city’s finest warriors were nothing more than food on his plate."; "his black slab of steel". The Japanese edition (file c1JB, paragraph 48) has him say that he took eating what others will not eat too far, and his senses grew too sharp.
 [@ar03-retire]: AR03 | Chapter 8: The Price of Talent | Riveria: "Both Glutton and Silence played important parts in the slaying of the Leviathan and the Behemoth"; "Zald was forced to retire from frontline combat".
 [@ar03-death]: AR03 | Chapter 7: What She Wished For | "You bested me regardless"; "Take pride in that…and never forget it…"; "Zald, do you regret slaying the Behemoth?"; "…I do not."; Freya: "Sleep now, Zald"; "The man had called him by name for the very first time."
 [@ar03-extra]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "Zald was one of the few men of good conscience in the god’s familia"; "No, Alfia! Please!"; "My sister entrusted him to Zeus." The Japanese edition (file c9X3, paragraphs 64 to 70) has him shout his excuse, mainly at Alfia, that he is not that reckless, and her blows land on him as if she were venting her anger on someone else.
 [@ar03-zald-ja]: AR03 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning violent devouring, read as the word for gluttony; the infobox gives the printed name and the kanji.
+[@ar01-face]: AR01 | Chapter 10: Conquerors | "Across both his eyes were enormous scars, as if ravaged by the claws of some mad beast. His hair was dark red, the color of blood and flesh."
+[@ar03-armour]: AR03 | Chapter 2: The Conqueror’s Return | "With a sword as large as a dragon’s jawbone strapped to his back, the man clad in all black set off."; "With his crimson cloak fluttering behind him"
+[@ar03-chaos]: AR03 | Chapter 5: Playing the Violence Card | "We must tear down the Dungeon’s gate, release the monsters within, and cull humanity’s numbers."; "Only in chaos can a true hero be born."
+[@fc02-lowest]: FC02 | The Origin of the Strongest | "had been one of the lowest members of Zeus Familia"

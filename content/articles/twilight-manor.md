@@ -46,7 +46,7 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | Finn receives reports in the manor's office.[@ar01-office] When the [[evils|Evils]] attack the city, Loki moves her remaining followers from the manor to [[central-park|Central Park]].[@ar01-park] |
+| Astrea Record 1 | Finn receives reports in the manor's office.[@ar01-office] The manor is the designated evacuation point: in an earlier Evils raid, [[alize-lovell|Alize]] and [[lyu-leon|Lyu]] guide survivors north to it.[@ar01-evacuation] When the [[evils|Evils]] attack the city, Loki moves her remaining followers from the manor to [[central-park|Central Park]].[@ar01-park] |
 | Astrea Record 3 | One of the five strongholds sheltering the evacuated residents, with Guild Headquarters, the arena, the Casino and Ganesha Familia's home.[@ar03-strongholds] Finn leaves its defence to [[noir-dyne-and-bahra|Noir]], one of the Familia's elders, while he commands at Guild Headquarters.[@ar03-gates] Noir, Dyne and Bahra fight the monsters before its gates, and [[alicia-forestlight|Alicia]], newly Level 2, shoots from the battlements.[@ar03-defence] |
 | DanMachi 7 and Sword Oratoria 7 | From the top of the manor Loki watches the [[pleasure-quarter|Pleasure Quarter]] burn in the southeast, as windows across the manor fly open.[@fm07-loki, so07-loki] |
 | Sword Oratoria 12 | The Xenos [[monsters#siren|siren]] [[rei|Rei]] is hidden in the manor in strict secrecy; the lower-level members know nothing of it. She stays at the top of the northwest spire.[@so12-rei, so12-spire] |
@@ -70,8 +70,9 @@ The gate is guarded. When [[bell-cranell|Bell]] runs there in DanMachi 6 to ask 
 [@fm10-spires]: FM10 | Chapter 8: City Panic | The reception room. The Japanese edition (file c2BU, paragraph 221) calls the manor a mansion famed under the name Long Mansion.
 [@fm18-parlour]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | The parlor of Loki Familia's home, Twilight Manor.
 [@ar01-office]: AR01 | Chapter 2: Eren | "the office of the Twilight Manor, Loki Familia headquarters, located in the north of Orario".
-[@ar01-park]: AR01 | | Loki relocated the remaining members from the Twilight Manor to Central Park.
+[@ar01-park]: AR01 | Chapter 9: The Opening Act of Evil | Loki relocated the remaining members from the Twilight Manor to Central Park.
 [@ar03-strongholds]: AR03 | Prologue: Last Intermission | The five designated strongholds; "our very own Twilight Manor"; the northern point.
-[@ar03-gates]: AR03 | | "The Twilight Manor is in your hands while I’m gone."; Noir on Finn foisting the work "on your elders". The Japanese edition (file cTV, paragraph 273) says the manor stands due north of Orario, near a city gate.
+[@ar03-gates]: AR03 | Chapter 1: March and Break | "The Twilight Manor is in your hands while I’m gone."; Noir on Finn foisting the work "on your elders". The Japanese edition (file cTV, paragraph 273) says the manor stands due north of Orario, near a city gate.
 [@ar03-defence]: AR03 | | Noir before the gates of Twilight Manor; Dyne and Bahra; Alicia on the battlements.
 [@ar03-twilight-manor-ja]: AR03 | | The Japanese edition writes the name in kanji meaning manor of twilight; the infobox gives that written form.
+[@ar01-evacuation]: AR01 | Chapter 5: Tragedy in Sunlight | "toward the designated evacuation point—Twilight Manor, home of Loki Familia"

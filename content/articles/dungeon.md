@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The vast underground labyrinth beneath Orario, sealed under Babel Tower and held in check by Ouranos's prayers. Its walls give birth to monsters, and adventurers descend it floor by floor; its bottom is unknown.",
   "aliases": ["Labyrinth", "Great Hole", "Deep Zone"],
-  "spoilers": "DanMachi Vols. 1–6, 8, 9, 12–15, 17–20, Sword Oratoria Vols. 1–4, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
+  "spoilers": "DanMachi Vols. 1–6, 8–10, 12–15, 17–20, Sword Oratoria Vols. 1–4, 6, 9, 13, Familia Chronicle Vol. 2 and Astrea Record Vol. 3",
   "related": ["upper-levels", "cave-labyrinth", "floor-18", "colossal-tree-labyrinth", "water-capital", "floor-37", "monsters", "rivira", "monster-rex", "irregular", "goliath", "level", "babel", "ouranos", "guild", "orario", "three-great-quests"],
   "infobox": {
     "title": "The Dungeon",
@@ -34,15 +34,17 @@ Sword Oratoria 1 opens with the story of "a great Hole in the world", which exis
 
 Sword Oratoria 2 tells the Guild's side of the story. The body that preceded the Guild tried to build a lid over the hole, but every lid was destroyed, the last tower collapsing just after it was finished. Then the gods descended; most said they had come "To be entertained", but one, [[ouranos|Ouranos]], joined the people's effort. He was the first to bestow Falna in this land, and with his work and the other gods' help the fortress city that became Orario was completed; worshipped as Orario's founding deity, he became the [[patron-deity|patron god]] of that body, which reorganised under him as the Guild.[@so02-lid] DanMachi 9 adds that he was one of the first gods to descend and that his help made the city the first line of defence.[@fm09-ouranos]
 
-The lid is Babel Tower. DanMachi 1 calls it the Guild's "guard tower", built because monsters came out "almost every day" in ancient times.[@fm01-tower] Lilly has heard that Babel was once no bigger than the buildings around it.[@fm02-babel] Ouranos stays in the Guild's temple and prays to the Dungeon without pause; his mighty divine aura holds the Dungeon down, so that the monsters' great invasion does not happen, and keeps them on their floors, or so the Guild believes.[@so02-prayer] DanMachi 17 calls Orario "the lid on the great pit" and Ouranos the keystone of the mortal realm, and in DanMachi 19 the Dungeon is thought "just barely made manageable" by Babel and Ouranos's prayers together.[@fm17-keystone, fm19-shaft]
+The lid is Babel Tower. DanMachi 1 calls it the Guild's "guard tower", built because monsters came out "almost every day" in ancient times.[@fm01-tower] Lilly has heard that Babel was once no bigger than the buildings around it.[@fm02-babel] Ouranos stays in the Guild's temple and prays to the Dungeon without pause; his mighty divine aura holds the Dungeon down, so that the monsters' great invasion does not happen, and keeps them on their floors, or so the Guild believes.[@so02-prayer] DanMachi 17 calls Orario "the lid on the great pit" and Ouranos the keystone of the mortal realm, and in DanMachi 19 the Dungeon is thought "just barely made manageable" by Babel and Ouranos's prayers together.[@fm17-keystone, fm19-shaft] Babel's hole is not the only opening: a tunnel from the lower levels comes out in Lolog Lake by [[njordr-familia#port-meren|Port Meren]], and after slaying the Leviathan, Zeus and Hera Familias set its skeleton on the tunnel's lid to complete the seal (see [[three-great-quests|Three Great Quests]]).[@so06-dungeon-lolog]
+
+In DanMachi 19 the Guild under [[royman|Royman]] pushes the Shaft plan, an orichalcum shaft from the surface into the Dungeon, built in stages ("First the upper levels, then the middle levels and the Under Resort!") so that expeditions can go beyond Zeus and Hera's record; [[eina-tulle|Eina]] warns that it could let monsters spill back out onto the surface (see [[orariad|Orariad]]).[@fm19-shaft-plan]
 
 ## Nature {#nature}
 
-"The Dungeon is alive," say the adventurers.[@fm13-alive] Lefiya tells School District students that it "possesses a will": at times the labyrinth aims to kill adventurers, and "we have all been defeated by the Dungeon".[@so13-will] Orario calls it "the mother of monsters"; most monsters live off their "mother" rather than by hunting.[@fm13-mother, fm04-mother]
+"The Dungeon is alive," say the adventurers.[@fm13-alive] Lefiya tells School District students that it "possesses a will": at times the labyrinth aims to kill adventurers, and "we have all been defeated by the Dungeon".[@so13-will] Orario calls it "the mother of monsters"; most monsters live off their "mother" rather than by hunting.[@fm13-mother, fm04-mother] In DanMachi 9 [[ouranos|Ouranos]] gives his own speculation, which he is confident is correct, that dead monsters return to their mother, the Dungeon, and are born again in new form deep inside it: "A cycle of death and rebirth".[@fm09-rebirth] Since the Ancient Times every attempt to unravel the Dungeon's mysteries has only raised more questions, and the gods tell no one what is really going on; they always dodge the question: "The Dungeon is the Dungeon. What else do you need to know?"[@so01-dungeon-mystery]
 
 When adventurers damage a floor faster than the Dungeon can repair it, the Dungeon can produce a monster to eliminate them, as with the [[juggernaut|Juggernaut]] in DanMachi 13.[@fm13-juggernaut] The Juggernaut's senses are described as an immune ability, the mother's gift for exterminating "foreign viruses".[@fm14-immune]
 
-Deities are forbidden to enter the Dungeon; when Astrea appears below in Astrea Record 3, she confirms the rule and asks her followers to tell nobody.[@ar03-forbidden] When Hestia and Hermes go down to Floor 18 in DanMachi 5, the Dungeon senses them and sends a Goliath to kill them.[@fm05-sensed] Events outside the Dungeon's normal behaviour, such as the Black [[goliath|Goliath]] on Floor 18, are called *[[irregular|Irregulars]]*.[@fm08-irregular]
+Deities are forbidden to enter the Dungeon; when Astrea appears below in Astrea Record 3, she confirms the rule and asks her followers to tell nobody.[@ar03-forbidden] When Hestia and Hermes go down to Floor 18 in DanMachi 5, the Dungeon senses them and sends a Goliath to kill them.[@fm05-sensed] In Astrea Record 3 the [[evils|Evils]] send a god into the Dungeon, who unseals their Arcanum there and so summons [[delphyne|Delphyne]] during the [[great-conflict|Great Conflict]]; no other way exists to call up a monster of that calibre.[@ar03-dungeon-arcanum] Events outside the Dungeon's normal behaviour, such as the Black [[goliath|Goliath]] on Floor 18, are called *[[irregular|Irregulars]]*.[@fm08-irregular]
 
 ## Levels of the Dungeon
 
@@ -51,11 +53,11 @@ The floors are grouped into bands. These are floors of the Dungeon, not adventur
 | Floors | Band | Notes |
 |---|---|---|
 | 1–12 | [[upper-levels|Upper levels]] | [[monsters#goblin|Goblins]] and [[monsters#kobold|kobolds]] on Floors 1–4; conditions change sharply from Floor 5. Floors 11 and 12 are held to be the deepest that Level 1 adventurers can clear.[@fm02-upper, fm02-limit] |
-| 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a [[safe-point|safe point]].[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree] |
-| 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-lower] [[floor-28|Floor 28]], the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on [[floors-29-31-and-32#floor-29|Floor 29]].[@fm20-gorge] Familia Chronicle 2 names a Sand Land ({{ja|砂漠の迷園}}, written *desert labyrinth-garden*) twice, without a floor: [[freya|Freya]] says [[ottar|Ottar]] and the others bring her things from it, and in the [[kaios-desert|Kaios Desert]] [[allen-fromel|Allen]], whose speed raises a sandstorm, curses that it is just as in Sand Land; the Japanese adds that this also happens in the Dungeon's lower levels.[@fc02-floors-sand-freya, fc02-floors-sand-allen] |
+| 13–24 | Middle levels | Begin at Floor 13, with monsters in the Level 2 range; Floors 13–14 are recommended for Level 2 adventurers.[@fm02-upper, fm04-middle] [[floor-18|Floor 18]], the Under Resort, is a [[safe-point|safe point]].[@fm05-safe] Floors 13–17 form the [[cave-labyrinth|Cave Labyrinth]], and Floors 19–24 the [[colossal-tree-labyrinth|Colossal Tree Labyrinth]].[@fm09-cave, fm09-tree, so03-tree-floors] |
+| 25 onward | Lower levels | Floor 25 begins the lower levels, also called the Second Line or New World; Floors 25–27 form the [[water-capital|Water Capital]] around the Great Falls.[@fm12-second-line, fm12-lower] [[floor-28|Floor 28]], the Under Garden, is a safe point.[@fm20-garden] The Tangled Gorge, a heavily forested region, begins on [[floors-29-31-and-32#floor-29|Floor 29]].[@fm20-gorge] Familia Chronicle 2 names a Sand Land ({{ja|砂漠の迷園}}, written *desert labyrinth-garden*) twice, without a floor: [[freya|Freya]] says [[ottar|Ottar]] and the others bring her things from it, and in the [[kaios-desert|Kaios Desert]] [[allen-fromel|Allen]], whose speed raises a sandstorm, curses that it is just as in Sand Land; the Japanese adds that this also happens in the Dungeon's lower levels.[@fc02-floors-sand-freya, fc02-floors-sand-allen] |
 | Deeper floors | Deep levels | [[floor-37|Floor 37]] lies in the deep levels {{small|(printed *Lower Fortress* in DanMachi 2)}} and is home to [[monsters#spartoi|Spartoi]] and the [[monster-rex|Monster Rex]] [[udaeus|Udaeus]].[@fm02-rex, fm14-deep] Hephaistos speaks of Loki Familia going to "the Deep Zone".[@fm12-deepzone] |
 
-For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls]
+For the first twelve floors, the recommended basic abilities run from I–H on Floors 1–4 up to B–S on Floors 11–12.[@fm02-upper] Maps become less reliable deeper down because of the Dungeon's size.[@fm01-walls] The floors also tend to grow larger the deeper one goes; the twenty-eighth is an exception, smaller even than the Under Resort.[@fm20-dungeon-size]
 
 ### Known deep floors {#deep-floors}
 
@@ -76,7 +78,9 @@ For the first twelve floors, the recommended basic abilities run from I–H on F
 
 The Guild holds a great deal of map data, gathered by adventurers and by explorers of the Ancient Times, but the Dungeon is "far too immense to ever be completely mapped". Untouched areas missing from every map are called *Frontiers*.[@fm09-frontier] The [[xenos|Xenos]] use Frontiers from the middle levels to the deep levels as base camps.[@fm09-frontier]
 
-Safe points are floors where no monsters are born, such as Floor 18.[@fm05-safepoint] There are several of them, each used as a resting point; Floor 50 is one.[@so01-camp] From around Floor 10 many monsters can be born into one room at once, and each floor below Floor 2 has two or three pantries where monsters feed.[@fm04-pantries]
+Safe points are floors where no monsters are born, such as Floor 18.[@fm05-safepoint] There are several of them, each used as a resting point; Floor 50 is one.[@so01-camp] From around Floor 10 many monsters can be born into one room at once, and each floor below Floor 2 has two or three pantries where monsters feed.[@fm04-pantries] While the Dungeon repairs damage it spawns no monsters there, so a party making camp first wrecks the walls and floor of its room, posts a guard at the entrance and dims the light, since most monsters are wary of areas lit differently from usual.[@fm12-dungeon-camp]
+
+The man-made labyrinth [[knossos|Knossos]] also connects to the Dungeon: DanMachi 19 calls it "a neighboring massive, man-made labyrinth connecting to multiple floors".[@fm19-knossos-floors] The Dungeon's floors are laid out in circles; Daedalus built Knossos in the space around their edges, making it a second entrance into the Dungeon, far from the Guild's watch at Babel.[@fm10-dungeon-circular]
 
 ## Monsters
 
@@ -100,13 +104,13 @@ Familias of Guild [[familia-rank|rank]] D and above must take part in periodic G
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - The Dungeon's origin, purpose, full depth and what lies at the bottom.[@fm01-mystery]
-> - What Thalia's Ice Garden is; DanMachi 18 gives only its place between Floors 60 and 61.[@fm18-icegarden]
+> - What Thalia's Ice Garden is, and what "the key" Finn asks about is; DanMachi 18 gives only the garden's place, between Floors 60 and 61, and says that the key is "Undiscovered, as of now".[@fm18-icegarden]
 
 [@fm01-dungeon]: FM01 | Chapter 1: World, Reality, and Desire | The Dungeon beneath Orario; the Guild.
 [@fm01-walls]: FM01 | | Walls repair and give birth to monsters; maps.
 [@fm01-stones]: FM01 | Chapter 2: That’s Why I Run | Magic stones and drop items.
 [@fm01-mystery]: FM01 | Chapter 4: That’s Why I Want to Help | The Japanese edition (file c2A2, paragraph 333) calls the Dungeon one of the world's three great unexplored regions; its bottom unknown.
-[@fm01-bands]: FM01 | | Floor bands are Dungeon floors, not Levels.
+[@fm01-bands]: FM01 | Chapter 1: World, Reality, and Desire | Floor bands are Dungeon floors, not Levels.
 [@fm01-tower]: FM01 | Chapter 5: The Goddess’s Prank | The Guild manages the tower, "the lid of the Dungeon" (cited by the body heading, printed "The G♥ddess’s Prank").
 [@fm02-upper]: FM02 | | Floors 1–12 and recommended abilities; Level 2 monsters from Floor 13.
 [@fm02-limit]: FM02 | Chapter 5: Reset | Floor 12 limit for Level 1 adventurers. The Japanese edition (file c5J8, paragraph 49) calls the eleventh and twelfth floors the deepest a Level 1 adventurer is considered able to clear.
@@ -122,7 +126,7 @@ Familias of Guild [[familia-rank|rank]] D and above must take part in periodic G
 [@fm05-safe]: FM05 | Chapter 4: Dungeon Resort? | Floor 18, the Under Resort.
 [@fm05-safepoint]: FM05 | Chapter 4: Dungeon Resort? | A safe point where no monsters are born.
 [@fm05-sensed]: FM05 | Chapter 5: The Outlaws’ Party | The Dungeon senses the deities and sends the Goliath.
-[@fm06-quests]: FM06 | | The Three Great Quests.
+[@fm06-quests]: FM06 | Chapter 2: Shall We Dance? | The Three Great Quests.
 [@fm08-irregular]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | The Black Goliath as an Irregular.
 [@fm09-cave]: FM09 | Chapter 3: The World and Reality and Monsters | "the start of the Cave Labyrinth".
 [@fm09-tree]: FM09 | Chapter 1: An Irregular Girl | "the nineteenth floor is the start of the “Colossal Tree Labyrinth”".
@@ -130,7 +134,7 @@ Familias of Guild [[familia-rank|rank]] D and above must take part in periodic G
 [@fm09-frontier]: FM09 | Chapter 5: Heretics | The Guild's map data; Frontiers; the Xenos' base camps. The Japanese edition calls them unexplored regions.
 [@fm12-sealed]: FM12 | Chapter 3: New World ~Water Island~ | The Dungeon sealed under Babel.
 [@fm12-lower]: FM12 | Chapter 3: New World ~Water Island~ | Floor 25 and the Water Capital.
-[@fm12-expedition]: FM12 | | Mandatory Guild expeditions. The Japanese edition (file part0014, paragraph 73) makes it a condition that a majority of the Familia's members take part.
+[@fm12-expedition]: FM12 | Chapter 2: Adventure Intermission | Mandatory Guild expeditions. The Japanese edition (file part0014, paragraph 73) makes it a condition that a majority of the Familia's members take part.
 [@fm12-deepzone]: FM12 | Chapter 2: Adventure Intermission | Hephaistos on expedition missions: "the Deep Zone"; the results that count.
 [@fm13-juggernaut]: FM13 | Chapter 5: Calamity Arrives | The Dungeon's response to excessive damage.
 [@fm13-mother]: FM13 | Chapter 2: The Prophetess of Tragedy | "The Dungeon is the mother of monsters, as they say in Orario."
@@ -162,3 +166,14 @@ Familias of Guild [[familia-rank|rank]] D and above must take part in periodic G
 [@fc02-floors-sand-allen]: FC02 | Ali and the 8 Followers | Allen's sandstorm in the Kaios Desert. The Japanese edition (file c69N, paragraphs 56 to 58) calls it a phenomenon that also happens in the Dungeon's lower levels; the English prints "Tch, just like in Sand Land, huh? This always happens in sandy terrain".
 [@so02-floor38-turnback]: SO02 | Chapter 6: Parched Scream | Finn's party near the centre of Floor 37, the way down to the thirty-eighth; it returns to the surface.
 [@fm15-floor38-lilly]: FM15 | Interlude: Growth, the Present, and Rye Bread | Lilly fears the Guild may set the thirty-eighth floor as the next goal.
+[@so03-tree-floors]: SO03 | Chapter 3: A Hideous Beauty | "The area extending from there to the twenty-fourth floor was known as the Colossal Tree Labyrinth."
+[@fm12-second-line]: FM12 | Chapter 2: Adventure Intermission | "This threshold is known as the Second Line, just like the First Line up in the middle levels."; "Do you know what adventurers call the zone starting on the twenty-fifth floor?"; "Miss Eina, will you tell me about the Great Falls again?"
+[@fm09-rebirth]: FM09 | Chapter 5: Heretics | "This is only my speculation, but I also have confidence it is correct."; "After death, monsters return to the mother from whence they came, the Dungeon"; "A cycle of death and rebirth"
+[@fm19-knossos-floors]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "Even with a neighboring massive, man-made labyrinth connecting to multiple floors, the Dungeon remained silent."; "the orichalcum doors found throughout Knossos"
+[@fm19-shaft-plan]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "The Shaft plan is certainly an alluring and revolutionary proposition."; "Even if they managed to make an unbreakable orichalcum shaft"; "Creating a shaft also created a risk of monsters spilling back out onto the surface."; "First the upper levels, then the middle levels and the Under Resort!"; "surpassing the seventy-first-floor record set by Zeus and Hera"
+[@so01-dungeon-mystery]: SO01 | Chapter 2: Dungeon Confusion | "Humanity had tried to unravel the mysteries of the Dungeon since the Ancient Times, but every attempt had led to only more questions."; "Even the all-knowing gods who descended from on high hadn’t told a soul what was really going on."; "The Dungeon is the Dungeon. What else do you need to know?"
+[@ar03-dungeon-arcanum]: AR03 | | "nobody realized that a god had unsealed their Arcanum down below and summoned a nightmarish fiend"; "There was no other way to summon a monster of this caliber besides breaking the divine taboo within the Dungeon."; "Sending a god into the Dungeon is risky business"; "Aiz fought madly against Delphyne"
+[@fm20-dungeon-size]: FM20 | Chapter 1: Orario Rumble | "The Dungeon floors tend to get bigger and bigger the deeper you go, but the twenty-eighth floor is an exception, as it’s even smaller than the Under Resort."
+[@fm12-dungeon-camp]: FM12 | Chapter 2: Adventure Intermission | "The first thing we have to do before taking a major rest is wreck the environment of the Dungeon."; "Doing that forces the Dungeon to prioritize repairing the area, meaning no monsters will spawn there for some time."; "most monsters are wary of areas in the Dungeon where the light is different from usual"
+[@fm10-dungeon-circular]: FM10 | Chapter 9: Dreams of Beasts | "The Dungeon layout was circular."; "This man-made labyrinth wrapped around the Dungeon’s circular floors."; "As a second entrance into the Dungeon, one far away from the watchful eyes of the Guild"
+[@so06-dungeon-lolog]: SO06 | Chapter 2: Port Meren | "There exists another tunnel outside Orario"; "There’s a hole that leads to the Dungeon’s lower levels right below our noses"; "Upon defeat of Leviathan, the familias of Zeus and Hera had brought back the beast’s skeleton, using it here on the tunnel’s lid to complete the seal."

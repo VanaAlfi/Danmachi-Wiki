@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Elf adventurer known as Gale Wind, the last survivor of Astrea Familia, a waitress at The Benevolent Mistress, and from DanMachi 19 a member of Hestia Familia.",
   "aliases": ["Lyu Lyon", "Gale Wind", "Lyu Astrea"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
+  "spoilers": "DanMachi Vols. 1–2, 5–6, 10–11 and 13–20, Sword Oratoria Vol. 5, Familia Chronicle Vols. 1 and 3 and Astrea Record Vols. 1–3",
   "related": ["the-benevolent-mistress", "hestia-familia", "bell-cranell", "syr-flover", "anya-fromel", "freya-familia", "hegni", "rivira", "magic"],
   "infobox": {
     "title": "Lyu Leon",
@@ -28,7 +28,7 @@
   }
 }
 ---
-**Lyu Leon** is an elf adventurer known by the title *Gale Wind*. She is the last survivor of [[astrea-familia|Astrea Familia]] and works as a waitress at [[the-benevolent-mistress|The Benevolent Mistress]].[@fm05-past, fm01-lyu] In DanMachi 18 she rises from Level 4 to Level 6 in two successive updates, and in DanMachi 19 she joins [[hestia-familia|Hestia Familia]].[@fm18-double, fm19-lyu]
+**Lyu Leon** is an elf adventurer known by the title *Gale Wind*. She is the last survivor of [[astrea-familia|Astrea Familia]] and works as a waitress at [[the-benevolent-mistress|The Benevolent Mistress]].[@fm05-past, fm01-lyu] In DanMachi 18 she rises from Level 4 to Level 6 through two consecutive Level-ups, and in DanMachi 19 she joins [[hestia-familia|Hestia Familia]].[@fm18-double, fm19-lyu]
 
 ## Name {#name}
 
@@ -36,42 +36,110 @@ DanMachi 5 and 6 print her name as *Lyu Lyon*; Familia Chronicle 1 and DanMachi 
 
 After the [[juggernaut|Juggernaut]] incident, Gale Wind is officially recorded as dead, and her offences are technically wiped out with her. Because of this, when she joins Hestia Familia the [[guild|Guild]] asks her not to register as Lyu Leon, and the discussion of a new name ends with "Lyu Astrea".[@fm14-dead, fm19-lyu]
 
+Her companions call her by her family name, *Leon*. By an elven custom she keeps her first name from all but her closest friends and introduces herself by her family name alone; Alize and the others, on a whim, have taken to calling her Leon as well (the English prints that they "also upheld this custom when they were out in public").[@ar01-leon-custom] [[alize-lovell|Alize]], who first called her Leon, said that "Lyu" was hard to pronounce.[@fm15-leon-nickname]
+
 ## Background
 
-Lyu comes from [[geography#elven-forests-lumirua-forest|Lumirua Forest]], where her clan guards the [[holy-tree|holy tree]]; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu]
+Lyu comes from [[geography#elven-forests-lumirua-forest|Lumirua Forest]], where her clan guards the [[holy-tree|holy tree]]; Astrea Record 1 and 2 print the name *Lyumilua Forest*.[@fm15-origins, ar01-lyumilua, ar02-lyumilua] She rejects the elves' prejudices, and in [[orario|Orario]] meets [[alize-lovell|Alize]], who brings her into Astrea Familia.[@fm15-origins] In Astrea Record 1, set seven years before DanMachi 1, she is a fourteen-year-old member of Astrea Familia during the [[great-conflict|Great Conflict]].[@ar01-lyu] There a god she knows as Eren, who keeps asking her mocking questions about justice, reveals himself as [[erebus|Erebus]], the dark master of the [[evils|Evils]].[@ar01-erebus] After the death of her friend [[adi-varma|Adi Varma]] she asks Astrea what justice is, seeing for the first time how fragile her own justice has been.[@ar01-justice-lost] In Astrea Record 2 she finds her answer in Adi's words, "Justice will go on": justice does not die, but can carry on in a different form and pass to someone new.[@ar02-justice-goes-on]
 
-Astrea Familia is later destroyed and Lyu is its only survivor. She persuades Astrea to leave Orario and then takes revenge on those responsible and anyone connected to them, which gets her blacklisted by the Guild.[@fm05-past] After her revenge, [[syr-flover|Syr]] finds and nurses her, and [[mia-grand|Mia]] gives her a place at the tavern.[@fc01-rescue]
+Astrea Familia is later destroyed and Lyu is its only survivor. She persuades Astrea to leave Orario and then takes revenge on those responsible and anyone connected to them, which gets her blacklisted by the Guild.[@fm05-past] Her revenge destroys twenty-seven organizations, merchant companies and bands of outlaw mercenaries among them; four gods return to Heaven in its wake, and, ironically, it brings the city's dark days to an end.[@fm14-revenge-scale] After her revenge, [[syr-flover|Syr]] finds and nurses her, and [[mia-grand|Mia]] gives her a place at the tavern.[@fc01-rescue]
 
 ## At The Benevolent Mistress
 
-Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] In DanMachi 2 she stops the thief after the first theft of the [[hestia-knife|Hestia Knife]], presumably [[lilliluka-erde|Lilly]], and returns the knife to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the [[el-dorado-resort|El Dorado]] casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
+Lyu is one of the tavern's waitresses from DanMachi 1.[@fm01-lyu] When she starts there, Syr dyes her hair green so that no one will recognise her as Gale Wind; her own hair is blond.[@fc01-dyed-hair, fc03-blond-restored] Before the Familia War of DanMachi 18 Astrea restores its colour at her request, and in that war she fights unmasked, her blond hair tied back.[@fc03-blond-restored, fm18-unmasked] In DanMachi 2, after the first theft of the [[hestia-knife|Hestia Knife]], she chases the thief, presumably [[lilliluka-erde|Lilly]]; the thief escapes, but she recovers the knife and returns it to [[bell-cranell|Bell]].[@fm02-knife] In Familia Chronicle 1 she infiltrates the [[el-dorado-resort|El Dorado]] casino with Bell and Syr to free Anna and other women held there, and afterwards begins training Bell in the mornings.[@fc01-casino]
 
 ## History
 
 ### DanMachi 5–6
 
-In DanMachi 5 she goes down to [[floor-18|Floor 18]] with [[hermes|Hermes]]'s rescue party for Bell and fights the Black [[goliath|Goliath]].[@fm05-past, fm05-goliath] In DanMachi 6 she enters the [[war-game|War Game]] as Hestia's one outside helper.[@fm06-join]
+In DanMachi 5 she goes down to [[floor-18|Floor 18]] with [[hermes|Hermes]]'s rescue party for Bell and fights the Black [[goliath|Goliath]].[@fm05-past, fm05-goliath] In DanMachi 6 she enters the [[war-game|War Game]] as Hestia's one outside helper.[@fm06-join] In DanMachi 10 she joins the fight against the armed monsters on [[floor-18|Floor 18]] with [[aisha-belka|Aisha]] and [[asfi|Asfi]], faces the black Minotaur [[asterios|Asterios]] alone, and is spared only when it walks away.[@fm10-asterios] In DanMachi 11 she helps Bell in Daedalus Street, holding [[aiz-wallenstein|Aiz]] back for him with the help of [[haruhime|Haruhime]]'s level boost.[@fm11-aiz]
 
 ### DanMachi 13–15
 
-In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder near Rivira, and another Juggernaut, the kind of monster that destroyed Astrea Familia, appears.[@fm13-framed] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15, flustered around Bell, she cannot meet his eyes; she assures him that she does not hate him, says she simply cannot stand to look at his face, and apologises.[@fm15-confess]
+In DanMachi 13 a member of [[rudra-familia|Rudra Familia]] frames her for a murder near Rivira.[@fm13-framed] She had gone into [[knossos|Knossos]] with [[asfi|Asfi]]'s search party and, catching sight of a group trying to escape, chased them alone.[@fm13-knossos-chase] Among them was [[rudra-familia#jura-harma|Jura Harma]] of Rudra Familia, the Familia that had entrapped Astrea Familia, who had survived her revenge.[@fm13-jura-survivor, fm13-jura-spotted] Then another Juggernaut, the kind of monster that destroyed Astrea Familia, appears.[@fm13-juggernaut] She and Bell fall to [[floor-37|Floor 37]] and survive there together.[@fm14-floor37] There, with Bell, she destroys the Juggernaut, striking the last blow herself and leaving behind her wish to die and join her friends; the justice she has sought since their deaths turns out to be hope.[@fm14-juggernaut-end] [[bors|Bors]], the head of [[rivira|Rivira]], reports that Gale Wind died protecting the adventurers, and the Guild accepts the report.[@fm14-dead] In DanMachi 15, flustered around Bell, she cannot meet his eyes; she assures him that she does not hate him, says she simply cannot stand to look at his face, and apologises.[@fm15-confess]
 
 ### DanMachi 16–18
 
-During the festival of DanMachi 16 she protects the false Syr from [[hegni|Hegni]] and is defeated by him.[@fm16-hegni] In DanMachi 17 she escapes [[freya|Freya]]'s charm with [[asfi|Asfi]], is captured and held under [[folkvangr|Folkvangr]], and is freed by [[horn|Hörn]].[@fm17-lyu]
+During the festival of DanMachi 16 she protects the false Syr from [[hegni|Hegni]] and is defeated by him.[@fm16-hegni] In DanMachi 17 she escapes [[freya|Freya]]'s charm with [[asfi|Asfi]], is captured and held under [[folkvangr|Folkvangr]], and is freed by an unnamed girl who reminds her of Syr, most likely [[horn|Hörn]] {{inference}}.[@fm17-lyu] Her capture comes after [[syr-flover|Syr]] tells her that she is Freya, calls their days at the tavern "a game" and holds out her hand: Lyu's own hand brushes it away, and she answers, "You…are not Syr."[@fm17-not-syr]
 
-Before the Familia War of DanMachi 18, Astrea, waiting in [[zolingam|Solingen]], updates her twice in succession, from Level 4 to Level 6. It is the first consecutive Level-up since the age of the gods began.[@fm18-double, fc03-stages] In the war she defeats Hegni and helps defeat [[ottar|Ottar]].[@fm18-hegni] During the battle she tells Bell that she loves him; he hears and understands her, but the volume does not show a relationship beginning.[@fm18-confess]
+Before the Familia War of DanMachi 18, Astrea, waiting in [[zolingam|Solingen]], raises her from Level 4 to Level 6 through two consecutive Level-ups, releasing her five years of stored excelia over several updates. It is the first consecutive Level-up since the age of the gods began.[@fm18-double, fc03-stages] In the war she defeats Hegni and helps defeat [[ottar|Ottar]].[@fm18-hegni] During the battle she tells Bell that she loves him; he hears and understands her, but the volume does not show a relationship beginning.[@fm18-confess] After the war, when Syr apologises to the tavern's waitresses, Lyu slaps her and tells her to atone: "Stay at our sides forever!"[@fm18-syr-slap]
 
 ### DanMachi 19–20
 
-Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Familia accepts her.[@fm19-lyu] Her joining raises the Familia to Guild [[familia-rank|rank]] B.[@fm19-rank] In DanMachi 20 she asks Bell to hold off on turning her down.[@fm20-lyu]
+Astrea releases Lyu's [[falna|Falna]] so that she can convert, and Hestia Familia accepts her.[@fm19-lyu] She still works shifts at [[the-benevolent-mistress|The Benevolent Mistress]] when the Familia has no work.[@fm19-tavern-shifts] With her the Familia has two first-tier adventurers, and the Guild promotes it from [[familia-rank|rank]] D to rank B.[@fm19-rank] In DanMachi 20 she asks Bell to hold off on turning her down.[@fm20-lyu]
 
 ## Abilities
 
 - **[[#luminous-wind|Luminous Wind]]**, an attack spell she uses from DanMachi 5 onward.[@fm05-goliath, fc03-magic]
 - **[[#noa-heal|Noa Heal]]**, a healing spell {{small|printed *Noah Heal* in Sword Oratoria 5}}.[@so05-heal]
 - [[#astrea-record-spell|Astrea Record]], which lets her alone use the magic of her dead Astrea Familia companions. It depends on her state of mind, can bring on Mind Down when overused, and survives her conversion.[@fc03-magic, fm18-record]
-- Her Level 5 and Level 6 cards list four [[skills|Skills]]: [[skills#fairy-serenade|Fairy Serenade]], which strengthens her magic, more so at night; [[skills#mind-load|Mind Load]], which spends Mind to raise her Strength when she attacks; [[skills#aero-mana|Aero Mana]], which raises her attack strength with her running speed; and [[skills#astrae-varmas|Astrae Varmas]], new at Level 5, which strengthens allies who share her god and gives everyone in range resistance to psychological corruption.[@skills.fc03-cards] Her Level 3 character sheet in Astrea Record 1 already lists Fairy Serenade and Mind Load.[@skills.ar01-sheet]
+- Her Level 5 and Level 6 cards list four [[skills|Skills]]: [[skills#fairy-serenade|Fairy Serenade]], which strengthens her magic, more so at night; [[skills#mind-load|Mind Load]], which spends Mind to raise her Strength when she attacks; [[skills#aero-mana|Aero Mana]], which raises her attack strength with her running speed; and [[skills#astrae-varmas|Astrae Varmas]], new at Level 5, which strengthens the Skills, Mind and magic of allies in range who share her god and ichor, and gives every follower of any god in range moderate resistance to psychological corruption.[@skills.fc03-cards] Her Level 3 character sheet in Astrea Record 1 already lists Fairy Serenade and Mind Load.[@skills.ar01-sheet]
+- **Weapons:** the wooden sword [[equipment#alvs-lumina|Alvs Lumina]], made from the branch of a holy tree, which breaks in the battle with the Juggernaut in DanMachi 13; the twin shortswords [[equipment#futaba|Futaba]]; and from DanMachi 18 the stardust sword [[equipment#alvs-iustitia|Alvs Iustitia]], into which Alvs Lumina is reborn.[@fm13-lumina, fm16-futaba, fm18-iustitia]
+
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level. A Level that the English volumes print as text in the story copies the last such sheet: ability names, grade letters and numbers as printed; where a sheet records an update, each ability is printed as the old value, an arrow and the new value. A Level printed only as a picture copies that illustrated Status sheet, as read in the English and the Japanese edition. Where the English print has a misprint, the tab follows the Japanese original of the same volume, and the line under the table says so.
+
+{{tabs|status-sheet}}
+{{tab|Level 3}}
+| Ability | As printed in Astrea Record 1, illustrated sheet, pp. 262–263[@sheet.ar01-lv3] |
+|---|---|
+| Strength | D504 |
+| Defense | F373 |
+| Dexterity | S902 |
+| Agility | S904 |
+| Magic | A800 |
+| Hunter | H |
+| Immunity | I |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[#luminous-wind|Luminous Wind]] and [[#noa-heal|Noa Heal]], and the Skills [[skills#fairy-serenade|Fairy Serenade]] and [[skills#mind-load|Mind Load]].[@sheet.ar01-lv3]
+
+{{tab|Level 4}}
+| Ability | As printed in Familia Chronicle 3[@sheet.fc03-lv4] |
+|---|---|
+| Strength | D587 |
+| Endurance | D501 |
+| Dexterity | S935 |
+| Agility | S954 |
+| Magic | S900 |
+| Hunter | G |
+| Resistance | G |
+| Magic Defense | I |
+
+Her final Level 4 Status; the sheet lists the abilities only.[@sheet.fc03-lv4]
+
+{{tab|Level 5}}
+| Ability | As printed in Familia Chronicle 3[@sheet.fc03-lv5] |
+|---|---|
+| Strength | G288 |
+| Endurance | G201 |
+| Dexterity | E494 |
+| Agility | D507 |
+| Magic | E457 |
+| Hunter | G |
+| Resistance | G |
+| Magic Defense | I |
+| Magic Control | I |
+
+Her final Level 5 Status, before Astrea levels her up again; the sheet lists the abilities only.[@sheet.fc03-lv5]
+
+{{tab|Level 6}}
+| Ability | As printed in Familia Chronicle 3[@sheet.fc03-lv6] |
+|---|---|
+| Strength | I0->5 |
+| Endurance | I0 |
+| Dexterity | I0->7 |
+| Agility | I0->15 |
+| Magic | I0->14 |
+| Hunter | G |
+| Resistance | G |
+| Magic Defense | I |
+| Magic Control | I |
+| Successive Attacks | I |
+
+After a day of fighting to adjust to her new Level; the sheet lists the abilities only. The fourth Development Ability is Magic Control, as on the volume's other sheet of this Level and in the Japanese original.[@sheet.fc03-lv6]
+
+{{/tabs}}
 
 ## Magic {#magic}
 
@@ -297,10 +365,10 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 > - How Bell will answer her confession.[@fm18-confess, fm20-lyu]
 > - A complete list of the spells Astrea Record can reproduce.[@fm18-record]
 
-[@fm01-lyu]: FM01 | Chapter 5: The G♥ddess’s Prank | Lyu at the tavern.
+[@fm01-lyu]: FM01 | Chapter 5: The Goddess's Prank | Lyu at the tavern.
 [@fm02-knife]: FM02 | Chapter 2: The Supporter’s Situation | The Hestia Knife returned.
 [@fm05-past]: FM05 | Chapter 4: Dungeon Resort? | Lyu Lyon, Gale Wind; Astrea Familia's end and her revenge.
-[@fm05-goliath]: FM05 | | The Black Goliath battle.
+[@fm05-goliath]: FM05 | Chapter 6: Praise to the Heroes | The Black Goliath battle.
 [@fm06-join]: FM06 | Chapter 4: Those Who Gather | Lyu joins the War Game.
 [@fm13-framed]: FM13 | Chapter 4: Countdown | The framing.
 [@fm14-floor37]: FM14 | | Four days on Floor 37; the rescue.
@@ -315,16 +383,16 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@fm18-record]: FM18 | Chapter 9: Flower Language for You | Astrea Record in battle.
 [@fm19-lyu]: FM19 | Chapter 1: V-V-V for Victory Party | Joining Hestia Familia; the registered name.
 [@fm19-rank]: FM19 | Chapter 1: V-V-V for Victory Party | Rank B.
-[@fm20-lyu]: FM20 | | Lyu and Bell.
+[@fm20-lyu]: FM20 | Chapter 1: Orario Rumble | Lyu and Bell.
 [@fc01-name]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Printed as Lyu Leon.
-[@fc01-rescue]: FC01 | | Syr's rescue; Mia's welcome.
+[@fc01-rescue]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Syr's rescue; Mia's welcome.
 [@fc01-casino]: FC01 | Crush the Grand Casino! | The casino; morning training with Bell.
 [@fc03-stages]: FC03 | The Locus of Stars | Astrea's staged updates.
 [@fc03-magic]: FC03 | The Locus of Stars | Astrea Record; Luminous Wind.
 [@skills.fc03-cards]: FC03 | The Locus of Stars | Level 5 and 6 cards: Fairy Serenade, Mind Load, Aero Mana, Astrae Varmas.
 [@skills.ar01-sheet]: AR01 | | Illustrated character sheet, pp. 262–263 (Level 3): Fairy Serenade, Mind Load.
 [@so05-heal]: SO05 | Chapter 3: ⅓ Pure Passion | Noah Heal.
-[@ar01-lyu]: AR01 | | Lyu at fourteen.
+[@ar01-lyu]: AR01 | Chapter 7: What She Taught Me: Twilight Words | Lyu at fourteen.
 [@luminous-wind.fm05-concurrent]: FM05 | Chapter 6: Praise to the Heroes | Concurrent Casting explained; Mikoto watches.
 [@luminous-wind.fm05-cast]: FM05 | Chapter 6: Praise to the Heroes | Version A chant in three pieces; hundreds of orbs.
 [@luminous-wind.fm05-ja-cast]: FM05 | Chapter 6: Praise to the Heroes | Japanese original (file part0027, paragraph 651): countless large orbs of light wrapped in green wind, born around Lyu and fired all at once into the Goliath; no number is given.
@@ -375,7 +443,33 @@ Lyu cannot control the flames' output nearly as precisely as Alize could, and de
 [@agris-arvensis.ar03-alga]: AR03 | Chapter 9: A Hero’s Trail | "Alga! Alga! Alga!!"; energy drawn into her magic; "Alvarna!" before Alfia's "Gospel!".
 [@agris-arvensis.ar03-arveria]: AR03 | Chapter 9: A Hero’s Trail | "Luminous Wind!" then "Arveria!"; "The pair’s combined attack"; "a flash of fire and starlight".
 [@agris-arvensis.ar03-key-ja]: AR03 | Chapter 9: A Hero’s Trail | The Japanese edition writes the spell key as flame flower, read Arveria (file c86J, paragraph 152), the same word as in DanMachi 14 (file cA0W, paragraph 227) and DanMachi 18 (file part0025, paragraph 962; file part0027, paragraph 827); the earlier shout (file c86J, paragraph 35) is another word, full-open flame power, outside the spell brackets; the chant Alga is written blaze up in the battle (paragraph 31) and bloom on the Status sheet (image page c9VS).
-[@ar01-lyumilua]: AR01 | | Printed heading "Chapter 4: Questioning Justice" (not in the evidence map): "if any of these turn out to be from Lyumilua Forest, where Lyu is from"; "the elves of Lyumilua Forest are the most prideful of all".
-[@ar02-lyumilua]: AR02 | | Printed heading "Chapter 11: Warriors’ Last Supper: FINAL WAR EVE" (not in the evidence map): "From Lyumilua Forest, where you were born."
+[@ar01-lyumilua]: AR01 | Chapter 4: Questioning Justice | "if any of these turn out to be from Lyumilua Forest, where Lyu is from"; "the elves of Lyumilua Forest are the most prideful of all".
+[@ar02-lyumilua]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "From Lyumilua Forest, where you were born."
 [@ar01-lyu-ja]: AR01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
 [@fm14-gale-wind-ja]: FM14 | | The Japanese edition writes her title in kanji meaning gale, with the reading in kana.
+[@fm13-juggernaut]: FM13 | Chapter 5: Calamity Arrives | "I’ve summoned the beast that butchered Astrea Familia!"; "Here was the prime culprit behind Astrea Familia’s suffering."
+[@ar01-erebus]: AR01 | Chapter 11: Absolute Evil | "My name is Erebus"; "The selfsame god who had appeared before her so many times in the recent past, asking her mocking questions about justice."; "the words of their dark master"
+[@ar01-justice-lost]: AR01 | Epilogue: Dawn of Defeat: Next Prologue | "What is justice?"; "She was seeing for the first time just how fragile and powerless her own justice had always been."; "the name of the friend whose smile she would never see again"
+[@ar02-justice-goes-on]: AR02 | Chapter 10: What I Learned: Twilight Answer | "Justice will go on."; "Justice never died. Even if it wasn’t right at first, it could carry on in a different form."; "justice could endure and pass to someone new"
+[@fm10-asterios]: FM10 | Chapter 9: Dreams of Beasts | "Lyu and Aisha discarded their Hades Head items on the ground"; "Lyu confronted the monster alone."; "the black monster lowered its ax and began walking away from Lyu"
+[@fm11-aiz]: FM11 | Chapter 4: A Skirmish in Daedalus Street | "Bell had asked her to prevent Aiz from following him, and as per his instructions, she had come for a level boost."; "Thanks to Lyu, I was able to get away from Aiz"
+[@fm14-juggernaut-end]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "the Juggernaut burst quietly into pieces"; "She had wanted to die and join her friends."; "The justice Lyu had been seeking since the day her companions died was hope."
+[@fm13-lumina]: FM13 | Chapter 5: Calamity Arrives | "Alvs Lumina, her second-tier weapon fashioned from the branch of a holy tree, burst into pieces."
+[@fm16-futaba]: FM16 | Chapter 6: The Wish's Cost | "Holding the twin shortswords, Futaba, in her hands"
+[@fm18-iustitia]: FM18 | Chapter 9: Flower Language for You | "Alvs Lumina, her wooden sword that had been destroyed in the battle with Juggernaut, was processed and reborn into the stardust sword, Alvs Iustitia."
+[@sheet.ar01-lv3]: AR01 | | Illustrated Status sheet, pp. 262–263 (Level 3; image pg262-263.jpg): Strength D504, Defense F373, Dexterity S902, Agility S904, Magic A800, Hunter H, Immunity I; Magic Luminous Wind and Noa Heal; Skills Fairy Serenade and Mind Load. The Japanese edition's sheet (file c81X, image image_rsrc872.jpg) prints the same values.
+[@sheet.fc03-lv4]: FC03 | The Locus of Stars | "Lyu Leon"; "LEVEL 4"; "Strength: D587 Endurance: D501 Dexterity: S935 Agility: S954"; "Magic: S900"; "Hunter: G Resistance: G Magic Defense: I"; "That was Lyu’s final Level 4 status."
+[@sheet.fc03-lv5]: FC03 | The Locus of Stars | "Lyu Leon"; "LEVEL 5"; "Strength: G288 Endurance: G201 Dexterity: E494 Agility: D507 Magic: E457"; "Hunter: G Resistance: G Magic Defense: I Magic Control: I"; "I am going to raise your Level Five abilities to the limit and then level you up"; "This is your final status."
+[@sheet.fc03-lv6]: FC03 | The Locus of Stars | "Lyu Leon"; "LEVEL 6"; "Strength: I0->5 Endurance: I0 Dexterity: I0->7 Agility: I0->15 Magic: I0->14"; "Hunter: G Resistance: G Magic Defense: I"; "Successive Attacks: I"; "Seeing the minor increases on the update sheet"; "Having fought for an entire day, Lyu had fully adjusted to her new status". Magic Control as on the volume's other sheet of this Level ("Magic Control: I"), the same ability in the Japanese edition (file c3V5, paragraph 11).
+[@ar01-leon-custom]: AR01 | Chapter 2: Eren | "it was simply an elvish custom"; "keeping her real name hidden from all but her closest confidantes"; "whenever Lyu had to introduce herself, she did so using her family name only"; "Alize and the others also upheld this custom when they were out in public" (the Japanese edition, file c165, paragraph 115, says that with Alize and the others, too, calling her Leon has stuck, out of a whim, so that hardly anyone knows her true name)
+[@fm15-leon-nickname]: FM15 | Chapter 6: Meetings and Oaths | "It’s kinda hard to pronounce, so…I’m gonna call you Leon!"; DanMachi 5 prints the same moment with "Lyon" (Chapter 4: Dungeon Resort?).
+[@fc01-dyed-hair]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | "Just to be safe, I dyed your hair so that no one will recognize you as Miss Gale Wind."
+[@fc03-blond-restored]: FC03 | The Locus of Stars | "can you return my hair to its original color?"; "Lyu’s faint green hair was dyed, a favor from Syr to help hide her identity."; "Lyu’s original hair was a beautiful blond that befitted a noble elf."; "the natural blond hair Astrea had restored"
+[@fm18-unmasked]: FM18 | Chapter 9: Flower Language for You | "Natural blond hair tied back in a single ponytail"; "didn’t have a mask on her face"
+[@fm14-revenge-scale]: FM14 | Chapter 13: Beyond a Thousand Darknesses | "Lyu destroyed twenty-seven organizations, including businesses and bands of outlaw mercenaries."; "Lyu’s actions led to four sacred columns piercing the heavens."; "Ironically, they triggered the end of the city’s dark days." The Japanese edition (file cA0W, paragraph 322) counts four pillars of gods that rose to the heavens.
+[@fm13-knossos-chase]: FM13 | Chapter 1: Young Cranell's Case File | "go into that man-made dungeon with its shady past"; "The moment Lyu glimpsed the group of adventurers attempting to escape"; "the elf chased after her fleeing targets without so much as a backward glance"
+[@fm13-jura-survivor]: FM13 | Chapter 3: The True Intentions of Gale Wind | "He belongs to a gang of Evils called Rudra Familia"; "The faction that entrapped and slaughtered the very same Astrea Familia that Gale Wind belonged to"; "it seems this one survived"
+[@fm13-jura-spotted]: FM13 | Chapter 4: Countdown | "But Leon happened to be in the group, and she spotted me."
+[@fm17-not-syr]: FM17 | Chapter 4: Those Left Behind | "I’m Syr."; "It was a game. All of it."; "Lyu’s hand brushed Syr’s away."; "You…are not Syr."
+[@fm18-syr-slap]: FM18 | Epilogue: Double Cast | "Lyu slapped Syr’s cheek so fast that Chloe and Runoa winced."; "If you would apologize, then atone!"; "Stay at our sides forever!"
+[@fm19-tavern-shifts]: FM19 | Chapter 2: School Heaven and Hell | "Ms. Lyu is still working some shifts at The Benevolent Mistress whenever there isn’t any familia work going on"

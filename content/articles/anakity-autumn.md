@@ -39,11 +39,11 @@ Anakity has shoulder-length black hair and black-furred ears and tail.[@so04-aki
 
 | Volume | Events |
 |---|---|
-| Astrea Record 2 | During the Great Conflict, aged fourteen, she helps civilians to safety with Raul; the two later defend the god [[goibniu|Goibniu]] while he repairs the Bridge of Heroes. This volume prints her name *Anakitty Autumn*.[@ar02-anakitty, ar02-bridge] |
+| Astrea Record 2 | During the Great Conflict, aged fourteen, she helps civilians to safety with Raul; the two later defend the god [[goibniu|Goibniu]] while he repairs the Bridge of Heroes. This volume prints her name *Anakitty Autumn*.[@ar02-anakitty, ar02-bridge] Fighting the Evils' cultists on the bridge, she and Raul earn their promotion to Level 2.[@ar02-level2] |
 | Sword Oratoria 4 | Finn puts her in command of the party left at the camp while the first-tier members go ahead; she steadies the panicking Raul.[@so04-aki] |
-| Sword Oratoria 7 | Trapped in Knossos, she, Raul and three others tend the critically wounded Finn.[@so07-finn] With [[valletta|Valletta]]'s assassins closing in, they carry out Raul's plan: Raul stays with Finn as the decoy while Aki and the other three each lead a huge [[pass-parade|pass parade]] of monsters; Raul throws magic-stone powder over the assassins, and Aki leaps over their heads so that the swarm falls on them.[@so07-parade] Raul and Aki bring the wounded Finn to safety.[@so07-carry] |
-| Sword Oratoria 10 | Tracks a [[intelligent-monsters|humanoid monster]] by scent with [[bete-loga|Bete]].[@so10-scent] She commands Loki Familia's forces in the passages under the Labyrinth District and serves as Finn's aide.[@so10-command, so10-aide] |
-| Sword Oratoria 11 | Second-in-command, and effective leader, of Bete's squad in the assault on Knossos.[@so11-squad] |
+| Sword Oratoria 7 | Trapped in Knossos, she, Raul and three others tend the critically wounded Finn.[@so07-finn] With [[valletta|Valletta]]'s assassins closing in, they carry out Raul's plan: Raul stays with Finn as the decoy while Aki and the other three each lead a huge [[pass-parade|pass parade]] of monsters; Raul throws magic-stone powder over the assassins, and Aki leaps over their heads so that the swarm falls on them.[@so07-parade] Then Aki attacks Valletta herself, a Level 5, knocks her down with a blow to the neck and gives Raul the opening for his dagger.[@so07-valletta-down] Raul and Aki bring the wounded Finn to safety.[@so07-carry] |
+| Sword Oratoria 10 | Tracks a [[intelligent-monsters|humanoid monster]] by scent with [[bete-loga|Bete]].[@so10-scent] With Raul she commands Loki Familia's forces in the passages under the Labyrinth District, and she serves as Finn's aide.[@so10-command, so10-aide] |
+| Sword Oratoria 11 | Second-in-command, and effective leader, of Bete's squad in the assault on Knossos.[@so11-squad] When the green flesh floods Knossos, she cannot carry Dionysus Familia's helpless members as well, so she abandons them to save her own squad and escapes carrying [[lefiya|Lefiya]].[@so11-abandon] |
 | Sword Oratoria 12 | Second-in-command and de facto commander of the fifth squad. When the masked creature springs a pitfall trap, Bete, [[lefiya|Lefiya]] and several others fall through; she reports it to Finn.[@so12-squad, so12-trap] |
 | Sword Oratoria 13 | Reaches Level 5, Loki Familia's eighth first-tier adventurer.[@so13-level] |
 
@@ -59,7 +59,7 @@ When Finn tells the Familia in Sword Oratoria 11 that he trusts the [[xenos|Xeno
 [@ar02-bridge]: AR02 | Chapter 4: Those Who Struggle | Raul and Anakitty at the bridge; Goibniu: "Take care of these interlopers."
 [@so04-aki]: SO04 | Last Chapter: To Adventure | "Anakity Autumn"; Level 4, second-tier, like Raul; "Aki" because her name is hard to pronounce; shoulder-length black hair, black ears and tail; scouted by Loki; leads the party remaining in the camp; the Japanese edition (file c4NY, paragraph 286) has her push Raul on, as she does here, rather than give advice.
 [@so04-tail]: SO04 | First Chapter: And the Boy… | "The cat girl in black—Aki"; her black tail, the colour of her hair, growing from her waist (the Japanese edition, file c1K0).
-[@so05-joined]: SO05 | | "Raul and I joined around the same time"; Aiz already Level Two.
+[@so05-joined]: SO05 | Chapter 2: Rabbit Rookie | "Raul and I joined around the same time"; Aiz already Level Two.
 [@so07-finn]: SO07 | Chapter 3: Feast of the Dead | Raul, Aki and three others attending to the critically injured Finn.
 [@so07-parade]: SO07 | Chapter 4: The Sword’s Wind Calls | The swarm behind Aki; the magic powder; Aki leaps over the assassins; the pass parades. Raul, left with Finn as the decoy, throws the powder: "he leaped to his feet before launching the bag in his hand in Valletta’s direction".
 [@so07-carry]: SO07 | Chapter 4: The Sword’s Wind Calls | Raul and Aki appear carrying the wounded Finn.
@@ -77,3 +77,6 @@ When Finn tells the Familia in Sword Oratoria 11 that he trusts the [[xenos|Xeno
 [@so13-level]: SO13 | Chapter 1: Girl’s Revolution | "Anakity Level Five"; Loki Familia's eighth first-tier adventurer; Raul joined at the same time.
 [@so04-anakity-ja]: SO04 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
 [@so13-alsha-ja]: SO13 | | The Japanese edition writes her title in kanji meaning noble cat, with the reading Alsha.
+[@ar02-level2]: AR02 | Chapter 4: Those Who Struggle | "Under the eternal gaze of heroes past, Raul and Anakitty earned their promotion to Level 2."
+[@so07-valletta-down]: SO07 | Chapter 4: The Sword's Wind Calls | "Aki abruptly launched herself at Valletta."; "she aimed a blow straight at the vertebrae in Valletta’s neck"; "Utilizing the opening Aki had created for him, Raul sent his dagger flying."
+[@so11-abandon]: SO11 | Chapter 6: And Then the God Smiled | "Faced with that decision, Anakity abandoned them."; "Lifting Lefiya, she sprinted."

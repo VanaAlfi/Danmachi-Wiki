@@ -30,17 +30,17 @@
 
 In Sword Oratoria 2 a client in a black robe pays Lulune to collect a package in [[rivira|Rivira]] and bring it to the surface. The adventurer [[hashana|Hashana]], who had retrieved it, handed it to her and was murdered.[@so02-courier] When [[aiz-wallenstein|Aiz]] and [[lefiya|Lefiya]] find her, frightened, she admits that Hermes asked her to keep her rank-up secret and that she is Level 3. The client evidently knew this.[@so02-level] She hands Aiz the package: a crystal orb holding a female fetus.[@so02-orb]
 
-In Sword Oratoria 3 the self-described humble mage who hires Aiz, [[fels|Fels]], says it was the one who contacted Lulune.[@so03-fels] The black-robed figure approaches Lulune again, and she refuses at first, given the danger the last [[quest|quest]] put her in.[@so03-again] Aiz has already heard from her that on Hermes's orders many of his followers hide their true Levels, so that he can keep up his stance of not seeking to rise and posing as neutral.[@so03-levels]
+In Sword Oratoria 3 the self-described humble mage who hires Aiz, [[fels|Fels]], says it was the one who contacted Lulune.[@so03-fels] The black-robed figure approaches Lulune again, and she refuses at first, given the danger the last [[quest|quest]] put her in.[@so03-again] Black Robe then threatens to expose her true Level, which leaves her no choice: to protect herself and her Familia she has to accept the quest, and Asfi's party of [[hermes-familia|Hermes Familia]] goes with Aiz.[@so03-blackmail] Aiz has already heard from her that on Hermes's orders many of his followers hide their true Levels, so that he can keep up his stance of not seeking to rise and posing as neutral.[@so03-levels]
 
 ## In the Dungeon
 
-On the Floor 24 expedition of Sword Oratoria 3, Aiz is impressed by Lulune's acrobatics and knife work. As a thief she avoids pitched battles but harries monsters with guerrilla tactics, aiming at their limbs.[@so03-fighting] Asked Asfi's real Level, she answers "Level Four" without a second thought.[@so03-fighting] When [[asfi|Asfi]] collapses during the fight with the creatures, Lulune screams, and she begs the others to save her captain.[@so03-asfi]
+On the Floor 24 expedition of Sword Oratoria 3, Aiz is impressed by Lulune's acrobatics and knife work. As a thief she avoids pitched battles but harries monsters with guerrilla tactics, aiming at their limbs.[@so03-fighting] On the way she tells Aiz she is eighteen; as the party's map carrier she guides it, and when it enters an unknown labyrinth she maps it as they go, to Aiz's admiration.[@so03-mapper] Asked Asfi's real Level, she answers "Level Four" without a second thought.[@so03-fighting] When a man in white runs [[asfi|Asfi]] through and she collapses, Lulune screams, and she begs [[bete-loga|Bete]] and [[lefiya|Lefiya]] to save her captain.[@so03-asfi]
 
 ## Later volumes
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 6 | Made to attend a meeting of Loki, Hermes and [[dionysus|Dionysus]], she can only laugh nervously.[@so06-meeting] |
+| Sword Oratoria 6 | Sent in Hermes's stead to a meeting with Loki and [[dionysus|Dionysus]] while he is in the Dungeon, she can only laugh nervously.[@so06-meeting] |
 | Sword Oratoria 7 | Escorts Hermes to a meeting of the three gods.[@so07-escort] |
 | Sword Oratoria 10 | Introduced as "the thief of Hermes Familia" when she reports on a suspicious Familia.[@so10-thief] |
 | Sword Oratoria 11 | After Asfi wounds [[barca-perdix|Barca]], Lulune flips through Daedalus's Notebook "with an ungodly speed" and broadcasts the locations of Knossos's key facilities by oculus.[@so11-notebook, so11-broadcast] With her guidance the squads no longer need to fear getting lost.[@so11-guide] |
@@ -58,7 +58,7 @@ On the Floor 24 expedition of Sword Oratoria 3, Aiz is impressed by Lulune's acr
 [@so03-fighting]: SO03 | Chapter 3: A Hideous Beauty | Lulune's acrobatics and knife skills; a thief; guerrilla tactics; "Level Four"; the chienthrope.
 [@so03-asfi]: SO03 | Chapter 4: White-Haired Devil | Lulune screams as Asfi collapses; the person Lulune had begged them to save.
 [@so06-meeting]: SO06 | Chapter 1: Quest Results & Next Quest | The chienthrope forced to join the meeting; strained chuckles.
-[@so07-escort]: SO07 | | "Hermes had Lulune, the chienthrope".
+[@so07-escort]: SO07 | Chapter 1: Orario Now | "Hermes had Lulune, the chienthrope".
 [@so10-thief]: SO10 | Chapter 1: Omen | "Lulune Louie, the thief of Hermes Familia".
 [@so11-notebook]: SO11 | Chapter 5: Obsession Manifest | The chienthrope thief flips through the notebook "with an ungodly speed".
 [@so11-broadcast]: SO11 | Chapter 5: Obsession Manifest | With the notebook, Lulune reveals the locations of the key facilities over the oculus.
@@ -69,3 +69,5 @@ On the Floor 24 expedition of Sword Oratoria 3, Aiz is impressed by Lulune's acr
 [@fm20-gate]: FM20 | Chapter 2: Lion and then Sword Princess | "With the help of Lulune and a few others, I nervously pass right through the inspection at the gate."
 [@ss02-antivenin]: SS02 | | Bete orders her to gather every vial of antivenin she has.
 [@ss02-drinking]: SS02 | Paths So Far, an Unending Journey | "It was Lulune Louie"; Hermes Familia gathered around a table, drinking.
+[@so03-blackmail]: SO03 | Chapter 2: Let’s Party? | "threatened to expose her true Level"; "The blackmail effectively left Lulune no choice. Unable to protect herself or her familia, it became a necessity to accept the quest."
+[@so03-mapper]: SO03 | Chapter 3: A Hideous Beauty | "Explaining that she was eighteen, Lulune said she wanted to keep things casual."; "Lulune, make a map."; "Lulune busily updated her map as Aiz watched with interest."

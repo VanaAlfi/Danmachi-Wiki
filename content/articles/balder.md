@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-05",
   "continuity": "light-novel",
-  "summary": "God, principal and patron of the School District, and head of Balder Class, its class captained by Leon Verdenberg, whose combat students form four-person squads: the elite 7th Squad, which Lefiya once belonged to and instructs in Sword Oratoria 13, and the 3rd Squad, the \"worst party\", which Bell joins in disguise as Rapi Flemish in DanMachi 19.",
+  "summary": "God, principal and representative of the School District, and patron of Balder Class, which is captained by Leon Verdenberg, whose combat students form four-person squads: the elite 7th Squad, which Lefiya once belonged to and instructs in Sword Oratoria 13, and the 3rd Squad, the \"worst party\", which Bell joins in disguise as Rapi Flemish in DanMachi 19.",
   "aliases": [],
   "spoilers": "DanMachi Vols. 19 and 20 and Sword Oratoria Vol. 13",
   "related": ["school-district", "leon-verdenberg", "nina-tulle", "lefiya", "bell-cranell", "eina-tulle", "guild"],
@@ -23,7 +23,7 @@
       {"section": "Identity"},
       {"label": "Type", "value": "God", "refs": ["so13-balder"]},
       {"section": "School District"},
-      {"label": "Role", "value": "Principal and patron", "refs": ["so13-balder"]},
+      {"label": "Role", "value": "Principal and representative of the School District; patron of Balder Class", "refs": ["so13-balder"]},
       {"label": "Class", "value": "[[#balder-class|Balder Class]]", "refs": ["fm20-nina", "so13-leon"]},
       {"section": "Balder Class"},
       {"label": "Japanese", "value": "{{ja|バルドル・クラス}}", "refs": ["fm19-balder-class-ja"]},
@@ -37,14 +37,15 @@
   }
 }
 ---
-**Balder** is a god and the principal and [[patron-deity|patron]] of [[school-district|the School District]].[@so13-balder] His own class, [[#balder-class|Balder Class]], includes the professor [[leon-verdenberg|Leon Verdenberg]] as its captain and the student [[nina-tulle|Nina Tulle]].[@so13-leon, fm20-nina]
+**Balder** is a god, the principal and representative of [[school-district|the School District]], and the [[patron-deity|patron]] of its Balder Class; the School District's classes, each with its own god, rank equally.[@so13-balder, fm19-balder-headmaster] His own class, [[#balder-class|Balder Class]], includes the professor [[leon-verdenberg|Leon Verdenberg]] as its captain and the student [[nina-tulle|Nina Tulle]].[@so13-leon, fm20-nina] [[hermes|Hermes]] calls him "the biggest god" aboard and the one who first proposed the School District, and he keeps his eyes closed even as he smiles.[@fm19-balder-founder] [[lefiya|Lefiya]] once saw in him "the epitome of what a god should be": "wise, tranquil, beautiful, and above all, divine".[@so13-balder-ideal] [[loki|Loki]] utterly despises him; in the heavens she tried to kill him over his smug smile, a plot he foiled, laughing, with the help of mistletoe and his brother Hodur, yet her words never anger him, and he seems to accept her as one of the few deities who find fault in him.[@so13-balder-loki]
 
 ## History
 
 | Volume | Events |
 |---|---|
 | Sword Oratoria 13 | Assigns [[lefiya|Lefiya]] to the Seventh Squad, recognises that she is trying to become someone else, and coordinates the School District's response to a cave-in in the Dungeon.[@so13-balder] |
-| DanMachi 20 | Gives Nina permission to intern with [[hestia-familia|Hestia Familia]].[@fm20-nina] After the [[orariad|Orariad]], his offer of help from the School District's Alchemy Department, and a hint that it might again allow recruitment of its students, finally overcomes [[guild|the Guild]]'s resistance to its proposal for the shaft project.[@fm20-shaft] |
+| DanMachi 19 | An old friend of [[hermes|Hermes]], he lets Bell enrol in disguise as [[#rapi-flemish|Rapi Flemish]], a Balder Class student, on condition that he watch over the 3rd Squad.[@fm19-balder-welcome, fm19-condition] |
+| DanMachi 20 | Gives Nina permission to intern with [[hestia-familia|Hestia Familia]].[@fm20-nina] After the [[orariad|Orariad]], his offer of help from the School District's Alchemy Department, and a hint that it might again allow recruitment of its students, finally overcomes [[guild|the Guild]]'s resistance to its proposal for the shaft project.[@fm20-shaft] [[hermes|Hermes]] had been plotting with him since the Guild first demanded the orichalcum, long before the Orariad, and calls the outcome Balder's scheme; Balder's letter to [[hestia|Hestia]] had asked for Bell's help with a hunt on a journey to the valley with Leon.[@fm20-balder-scheme, fm20-balder-letter] |
 
 ## Balder Class {#balder-class}
 
@@ -97,7 +98,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 
 **Alisa Ragast** guides Loki and Lefiya when they come aboard in Sword Oratoria 13. She and Lefiya were both in Balder Class: Lefiya was the model student, Alisa the class president who always took charge.[@so13-alisa] Loki remembers her as "the cute little glasses girl who was always with Lefiya".[@so13-alisa-glasses] Her skill in alchemy "was unbelievable", and her teachers thought her "uniquely suited for a career in industrial manufacturing"; in Sword Oratoria 13 she is "The Alchemy Department’s ace and a prefect". She set out to become a teacher because she was "crushing on a certain instructor", but "her determination to become an instructor was genuine".[@so13-alisa-ace] Lefiya remembers her as "a cringeworthy example of a maiden in love".[@so13-alisa-love] The two met as roommates ("So you’re my new roommate. I’m Alisa."), and with Bardain and Nassen they were "considered inseparable and were placed in the same squad".[@so13-alisa-roommate] She is a prefect and clashes often with Luke.[@so13-emblem, so13-prefect] When a rescue is mounted, Balder keeps her aboard ("Alisa, please remain here."); asked what she thought on meeting Lefiya again, she remembers moments when "an elf with long, jet-black hair, who Alisa had never met, seemed to overlap with Lefiya".[@so13-alisa-balder] In DanMachi 20 she slams her hands down on the desk in the student council room as the Orariad is planned: "A promise from the Guild’s pig isn’t worth the paper it’s written on". A Balder Class prefect "has the authority and discretion to personally discipline students", a post likened in Familia terms to a candidate for the cadre.[@fm20-alisa-council] At the opening of the Orariad she swears the athletes' oath for the students.[@fm20-oath]
 
-[@so13-balder]: SO13 | | Principal and patron; Lefiya; the cave-in.
+[@so13-balder]: SO13 | | Principal and representative; Lefiya; the cave-in.
 [@so13-leon]: SO13 | Chapter 3: Class is in Session | "the captain of Balder Class, Leon Verdenberg".
 [@fm20-nina]: FM20 | Chapter 1: Orario Rumble | "I am Nina Tulle from the School District’s Balder Class!"; the internship with Balder's permission.
 [@fm20-shaft]: FM20 | Epilogue: Beautiful World | Balder's proposal.
@@ -116,11 +117,11 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@fm19-condition]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "In exchange for providing you with the School District experience, we want you"
 [@fm19-stuck]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "still hasn’t gotten past the infant dragon"; "After reaching the seventh floor on the very first day"; "we aren’t working as a party".
 [@fm19-dragon]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | "the 3rd Squad attacks from four sides, continually pushing the suffering infant dragon".
-[@fm19-miliria]: FM19 | | "Miliria, who had given Nina permission to shorten her name, was in Balder".
-[@fm19-pillar]: FM19 | | "he managed to bring everyone in the 3rd Squad together!"; "Rapi was the pillar holding up the 3rd Squad"; "in the running with a handful of other squads for top marks".
-[@fm19-fifteen]: FM19 | | "the deepest floor that the School District has allowed for student exploration"; "now that I’ve reached the fifteenth floor with them".
-[@fm19-eighteen]: FM19 | | "The 3rd Squad sets out for the eighteenth floor."; "the 3rd Squad was fighting as one".
-[@fm19-escape]: FM19 | | "Carrying Chris in my arms"; "the terrible noise of the giant".
+[@fm19-miliria]: FM19 | Chapter 5: My Dream | "Miliria, who had given Nina permission to shorten her name, was in Balder".
+[@fm19-pillar]: FM19 | Chapter 5: My Dream | "he managed to bring everyone in the 3rd Squad together!"; "Rapi was the pillar holding up the 3rd Squad"; "in the running with a handful of other squads for top marks".
+[@fm19-fifteen]: FM19 | Chapter 5: My Dream | "the deepest floor that the School District has allowed for student exploration"; "now that I’ve reached the fifteenth floor with them".
+[@fm19-eighteen]: FM19 | Chapter 5: My Dream | "The 3rd Squad sets out for the eighteenth floor."; "the 3rd Squad was fighting as one".
+[@fm19-escape]: FM19 | Chapter 5: My Dream | "Carrying Chris in my arms"; "the terrible noise of the giant".
 [@fm20-secret]: FM20 | Chapter 1: Orario Rumble | "Iglin and the others in the squad also didn’t seem like they knew".
 [@fm20-reunion]: FM20 | Chapter 2: Lion and then Sword Princess | "Iglin, Legi, and Chris…everyone from the 3rd Squad!"; "I’m sorry you had to find out the truth that way."
 [@fm20-prefect]: FM20 | Chapter 2: Lion and then Sword Princess | "Alisa Ragast was a Balder Class prefect". The Japanese edition (file p-012, paragraph 1130) likens the post to junior faculty and, in Familia terms, to a candidate for the cadre.
@@ -145,7 +146,7 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@so13-nano]: SO13 | Chapter 3: Class is in Session | "She was smaller than Lefiya and sported soft, strawberry-blond hair"; "the boy who was her childhood friend".
 [@so13-plan]: SO13 | Chapter 3: Class is in Session | "The 7th Squad’s standard battle plan was to push in fast and hard".
 [@so13-worst]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | "Balder Class Third Squad"; "nicknamed the worst party".
-[@so13-rapi]: SO13 | | "The hume bunny she had passed in the courtyard of the Guild Headquarters"
+[@so13-rapi]: SO13 | Epilogue | "The hume bunny she had passed in the courtyard of the Guild Headquarters"
 [@so13-collapse]: SO13 | Chapter 4: Those Who Teach and Those Who Are Taught | "It was a mass spawning of bad bats."; "Luke immediately reached out as their stunned faces disappeared behind the falling rocks."
 [@so13-cole]: SO13 | Chapter 5: The Mirror’s Voice | "Although Cole was only fifteen years old".
 [@so13-goliath]: SO13 | Chapter 5: The Mirror’s Voice | "Nano still cast her spell"; "approaching the terrifying floor boss".
@@ -157,3 +158,10 @@ The **7th Squad** has a reputation as Balder Class's elite squad. Leon says this
 [@so13-alisa-balder]: SO13 | Chapter 5: The Mirror’s Voice | "Alisa, please remain here."; "Alisa, what did you think when you met Lefiya again?"; "an elf with long, jet-black hair, who Alisa had never met, seemed to overlap with Lefiya"
 [@fm20-alisa-council]: FM20 | Chapter 2: Lion and then Sword Princess | "Alisa Ragast slammed her hands down on the desk in the student council room."; "A promise from the Guild’s pig isn’t worth the paper it’s written on"; "has the authority and discretion to personally discipline students". The Japanese edition (file p-012, paragraph 1130) likens the post to junior faculty and, in Familia terms, to a candidate for the cadre.
 [@fm19-balder-class-ja]: FM19 | | The Japanese edition prints the class's name in katakana; the infobox gives that printed form.
+[@fm19-balder-headmaster]: FM19 | Chapter 3: School Life in Another World | "As the representative of the School District, Lord Balder is headmaster, but the various classes are all equal."
+[@fm19-balder-founder]: FM19 | Chapter 2: School Heaven and Hell | "Balder is the biggest god here"; "he’s the one who proposed this whole School District"; "even as his eyes remain closed"
+[@so13-balder-ideal]: SO13 | Chapter 2: Nostalgic Schoolhouse | "Balder was the epitome of what a god should be"; "wise, tranquil, beautiful, and above all, divine"
+[@so13-balder-loki]: SO13 | Chapter 2: Nostalgic Schoolhouse | "toward its principal, whom she utterly despised"; "with the help of some mistletoe in the heavens and his brother Hodur, he successfully foiled her plot, laughing all the while"; "he even seemed to accept her because she was one of the few deities who found fault in him"
+[@fm19-balder-welcome]: FM19 | Chapter 2: School Heaven and Hell | "got my old friend Balder to hide me"; "Now then, officially, I am pleased to welcome you, Bell. I mean, Rapi."
+[@fm20-balder-scheme]: FM20 | Epilogue: Beautiful World | "I did my part helping out with your scheme"; "who had been plotting with Balder from the moment the Guild demanded the orichalcum"
+[@fm20-balder-letter]: FM20 | Chapter 4: The Knight’s Afterglow | "Balder’s letter just talked about going to the valley with that knight boy and wanting his help with a hunt"

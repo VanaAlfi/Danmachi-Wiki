@@ -34,34 +34,34 @@ Levis has red hair, which Sword Oratoria 11 calls "bloodred", and green eyes tha
 
 Sword Oratoria 4 explains what she is. The being called "her" had revived [[olivas-act|Olivas Act]] by implanting a vivid magic stone in him, "giving birth to a new human-monster hybrid", and "The red-haired woman, Levis, was also such a creature"; by assimilating magic stones, such creatures turn into enhanced species.[@so04-hybrid] Her own magic stone sits in the centre of her chest.[@so03-fight]
 
-She grows stronger by eating. In Sword Oratoria 3 she tells Olivas that the two of them are nothing but tentacles of the [[corrupted-spirit|corrupted spirit]], tears out his magic stone and crunches it between her teeth, which makes her "physically stronger and faster than Aiz at Level Six".[@so03-pawns, so03-stone] In Sword Oratoria 4 she feasts on the monsters and dragons caught by her [[monsters#violas|violas]].[@so04-feast] By Sword Oratoria 7 she commands "power well over that of a Level 7", and in Sword Oratoria 11 Aiz reflects that whenever she thought she had caught up, Levis had leapt past her again.[@so07-power, so11-aiz]
+She grows stronger by eating. In Sword Oratoria 3 she tells Olivas that the two of them are nothing but tentacles of the [[corrupted-spirit|corrupted spirit]], tears out his magic stone and crunches it between her teeth, which makes her "physically stronger and faster than Aiz at Level Six".[@so03-pawns, so03-stone] In Sword Oratoria 4 she feasts on the monsters caught by her [[monsters#violas|violas]] and on the dragons impaled on her weapons.[@so04-feast] By Sword Oratoria 7 she commands "power well over that of a Level 7", and in Sword Oratoria 11 Aiz reflects that when she thought she had surpassed Levis by reaching Level 6, Levis had become an enhanced species and leapt past her again.[@so07-power, so11-aiz]
 
 Wounds that would end an adventurer do not stop her: in Sword Oratoria 7 she presses a severed arm back onto its stump, and it "connected itself at once".[@so07-arm] She commands violas in battle and fights with a crimson greatsword "fast enough to leave crimson afterimages"; in Sword Oratoria 10 she throws one of her twin blades at [[riveria|Riveria]] "with inhuman strength".[@so03-fight, so10-blades] The sword she used against Aiz and [[finn-deimne|Finn]] in [[knossos|Knossos]] carried the curse that wounds with "merely a single graze".[@so08-curse]
 
 ## Character {#character}
 
-Levis is cold and businesslike. When she springs a trap on Loki Familia in Knossos, [[valletta|Valletta]] thanks her as their bodyguard.[@so07-valletta] Her fixation on Aiz changes her. Sword Oratoria 12 says that the fights with Aria had become "her one reason to keep living", and that her emotions, "which had rotted away during those numb days a long time ago", were returning; for the first time she is curious about Aiz: "What changed you? How did you become that strong?"[@so12-reason, so12-curious] In their last battle she shouts: "After rotting away! Encountering you and this battle have been pure entertainment!"[@so12-end]
+Levis is cold and businesslike. When she springs a trap on Loki Familia in Knossos, [[valletta|Valletta]] thanks her as their bodyguard.[@so07-valletta] Taking Aria is her task: in Sword Oratoria 3 she tells Aiz, "There’s someone who wants to meet you. You’re coming along, Aria.", and in Sword Oratoria 12 she says, "Aria, until today, you were my everything. Stealing you away was my job."[@so03-meet, so12-job] Her fixation on Aiz changes her. Sword Oratoria 12 says that the fights with Aria had become "her one reason to keep living", and that her emotions, "which had rotted away during those numb days a long time ago", were returning; for the first time she is curious about Aiz: "What changed you? How did you become that strong?"[@so12-reason, so12-curious] In their last battle she shouts: "After rotting away! Encountering you and this battle have been pure entertainment!"[@so12-end]
 
 ## Against Aiz
 
 | Volume | Events |
 |---|---|
-| Sword Oratoria 2 | Defeats Aiz in Rivira until Finn and Riveria step in, then escapes.[@so02-levis] |
+| Sword Oratoria 2 | Defeats Aiz in Rivira until Finn and Riveria step in, then escapes.[@so02-levis] Before the fight she has killed [[hashana|Hashana]] of [[ganesha-familia|Ganesha Familia]], breaking his neck and peeling off his face to wear as a mask while she stays in Rivira to look for the item he carried.[@so02-hashana-mask] |
 | Sword Oratoria 3 | Tears out the [[magic-stone|magic stone]] of Olivas Act, killing him, and eats it. She becomes stronger and faster than Aiz at Level 6, who needs [[magic#airiel|Airiel]] to keep up.[@so03-stone] As Aiz turns to leave, Levis tells her, "Aria, go to the fifty-ninth floor."[@so03-floor59] |
-| Sword Oratoria 7 | Wounds Finn with a curse that prevents healing, and wins a direct duel with Aiz in Knossos.[@so07-levis] |
+| Sword Oratoria 7 | Wounds Finn with a curse that prevents healing, and wins a direct duel with Aiz in Knossos.[@so07-levis] Aiz rises again with her wind, but Levis beats her down once more and is about to cut off her limbs when [[bete-loga|Bete]], [[hyrute-sisters|Tione and Tiona]] and Gareth arrive; Tiona's Urga cuts off her arm, and when the monster Gugalanna breaks into the room, an Irregular for her side as well, she disappears into the labyrinth wall.[@so07-gugalanna] |
 | Sword Oratoria 10 | Crosses swords with [[gareth|Gareth]] and Finn.[@so10-blades] Loses her left arm to the elves' barrage and regrows it; Ein stops her pursuit on Enyo's orders.[@so10-levis] |
-| Sword Oratoria 11 | Sees through Aiz's diversion but refuses to fight, because Enyo's altar plan is already under way.[@so11-levis] |
+| Sword Oratoria 11 | Sees through Finn's plan to use Aiz's squad as a lure but goes after it anyway, then only watches Aiz without crossing swords.[@so11-levis] When the altar is activated and green flesh floods the twelfth floor, Aiz cries that Levis knew it would end like this; Levis lets her go, saying it would not do to bring her back withered up, and promises, "I’ll finish this next time."[@so11-levis-end] |
 | Sword Oratoria 12 | Faces Aiz alone, transforms into "a monster covered by a mixture of pitch-black and bloodred", and fights in armour of corrupted flesh.[@so12-monster, so12-levis] [[bell-cranell|Bell]]'s bell helps Aiz recover her pure wind, and Aiz splits Levis's magic stone. Crying out "Aria" one last time, Levis crumbles, leaving "a big mound of ash and a few fragments of richly colored magic stone".[@so12-levis, so12-ash] |
 
 ## Name
 
-The English volumes print *Levis*; Fandom spells the name *Revis*. In Sword Oratoria 7 Valletta calls her their bodyguard; no other name is located for her.[@so07-valletta]
+The English volumes print *Levis*; Fandom spells the name *Revis*. In Sword Oratoria 7 Valletta calls her "Miss Kill for Hire", where the Japanese edition has their bodyguard; no other name is located for her.[@so07-valletta, so07-hire]
 
 ## Open questions
 
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Who Levis was before she became a creature, and how she was transformed.[@so03-stone, so12-reason]
-> - Why she and the corrupted spirit seek Aria.[@so03-aria]
+> - Why the corrupted spirit wants Aria: Levis says only that someone wants to meet her and that taking her was Levis's job.[@so03-aria, so03-meet, so12-job]
 
 [@so02-levis]: SO02 | | Levis: red-haired creature; the Tamer; Aria; the fight in Rivira.
 [@so03-aria]: SO03 | Chapter 3: A Hideous Beauty | "I am not Aria." "Aria is my mother."
@@ -91,3 +91,9 @@ The English volumes print *Levis*; Fandom spells the name *Revis*. In Sword Orat
 [@so12-end]: SO12 | Chapter 8: A Heroes’ Chorus | "After rotting away! Encountering you and this battle have been pure entertainment!"
 [@ss02-foe]: SS02 | | Printed heading "Eve of War" (not in the evidence map): "their most fearsome foe, the creature Levis"; "that dangerous woman".
 [@so12-ash]: SO12 | Chapter 8: A Heroes’ Chorus | "the arm crumbled to ash before Aiz’s eyes"; "a big mound of ash and a few fragments of richly colored magic stone".
+[@so11-levis-end]: SO11 | Chapter 6: And Then the God Smiled | "You knew it would end up like this from the start"; "never once attempting to cross blades with them in the end"; "I’ll finish this next time."
+[@so07-hire]: SO07 | Chapter 2: Dungeon Trap | "Guess you picked the right profession, eh, Miss Kill for Hire?"; "Hey, Miss Kill for Hire."
+[@so03-meet]: SO03 | Chapter 3: A Hideous Beauty | "There’s someone who wants to meet you. You’re coming along, Aria."
+[@so12-job]: SO12 | Chapter 5: Final War | "Aria, until today, you were my everything. Stealing you away was my job."
+[@so02-hashana-mask]: SO02 | Chapter 5: The Battle of Rivira | "I just peeled the face off the corpse. Now I’m wearing it."; "After breaking Hashana’s neck, she literally cut his face off."; "She had created the mask in order to stay in Rivira and look for the item Hashana had been carrying."
+[@so07-gugalanna]: SO07 | Chapter 4: The Sword's Wind Calls | "let’s cut off your limbs to make sure you can’t get up to anything else"; "the double-bladed Urga came at her at full power"; "The monster sword cleaved through Levis’s longsword"; "Levis revealed that this was an Irregular for them, as well, before disappearing inside the dilapidated labyrinth wall."

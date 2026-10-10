@@ -30,7 +30,7 @@
   }
 }
 ---
-**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2]
+**Welf Crozzo** is a smith from the Crozzo family, the fallen smith nobility of the kingdom of [[rakia|Rakia]]. He is the only living Crozzo who can still forge [[magic-sword|magic swords]].[@fm08-wil, fm04-curse] [[bell-cranell|Bell]] wears his armour from DanMachi 2, and in DanMachi 4 Welf contracts with Bell and joins his party. In DanMachi 6 he reaches Level 2, becomes a High Smith and converts to [[hestia-familia|Hestia Familia]].[@fm02-krozzo, fm04-smith, fm06-level2] When he meets Bell in DanMachi 4 he says he turns seventeen that year, as the Japanese edition prints it {{small|the English edition prints "Nineteen this year"}}.[@fm04-welf-age]
 
 ## Name
 
@@ -44,7 +44,7 @@ The family gained noble status by supplying its [[magic-sword|magic swords]] to 
 
 Garon Crozzo is Welf's grandfather, the former family head who taught him and Vil the foundations of smithing.[@fm08-crozzo-family-garon] [[vil-crozzo|Vil Crozzo]], Welf's father, is the current head of the fallen smithing nobility in Rakia.[@fm08-crozzo-family-wil]
 
-Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on his tenth birthday. His Status showed Blood of Crozzo, the same Skill as other members of his family, and Phobos told him to forge a magic sword.[@fm15-blood] Garon had ordered the Falna to wait until then, so that Welf would first understand hardship as a craftsman.[@fm15-crozzo-family-first] He grew to reject the family's destructive legacy and at first refuses to make Crozzo magic swords at all.[@fm04-smith, so05-blood] Welf initially vows to stop forging magic swords after a Crozzo sword destroys a wall and critically injures knights.[@fm15-crozzo-family-refusal]
+Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on his tenth birthday. His Status showed Blood of Crozzo, the same Skill as other members of his family, and Phobos told him to forge a magic sword.[@fm15-blood] Garon had ordered the Falna to wait until then, so that Welf would first understand hardship as a craftsman.[@fm15-crozzo-family-first] He grew to reject the family's destructive legacy and at first refuses to make Crozzo magic swords at all.[@fm04-smith, so05-blood] Welf initially vows to stop forging magic swords after a Crozzo sword destroys a wall and critically injures knights.[@fm15-crozzo-family-refusal] He made that vow on the night he ran away from home: after his test sword proved real, his family, his father and even Garon demanded more magic swords to restore the Crozzo name, and [[phobos|Phobos]] helped him flee Rakia.[@fm15-crozzo-escape] Outside the city she then dissolved his pact with her so that he could join another Familia, and told him she would say she had put him up to it.[@fm15-crozzo-escape]
 
 ## History
 
@@ -52,18 +52,50 @@ Welf received his first [[falna|Falna]] from the goddess [[phobos|Phobos]] on hi
 |---|---|
 | DanMachi 2 | Bell buys armour signed "Welf Krozzo", a smith of [[hephaistos-familia|Hephaistos Familia]].[@fm02-krozzo] |
 | DanMachi 4 | Contracts with Bell and joins his party so that he can earn the Development Ability Forge; he forges the dagger [[ushiwakamaru|Ushiwakamaru]] from a [[minotaur|Minotaur]] horn.[@fm04-smith, fm04-horn] |
-| DanMachi 5 | Reveals his anti-magic spell and, to save Bell, uses his first Crozzo magic sword, which shatters after breaking the Black [[goliath|Goliath]]'s regeneration.[@fm05-wisp] |
+| DanMachi 5 | Reveals his anti-magic spell and, to save Bell, uses a Crozzo magic sword he had forged, which [[hephaistos|Hephaistos]] had kept for him; it shatters after breaking the Black [[goliath|Goliath]]'s regeneration.[@fm05-wisp] |
 | DanMachi 6 | Reaches Level 2, gains Forge and becomes a High Smith; he leaves Hephaistos Familia, converts to Hestia Familia and forges magic swords for the [[war-game|War Game]].[@fm06-level2] |
 | DanMachi 8 | His father and grandfather come from Rakia to take him back. His magic sword destroys the family's old one, he rejects Rakia, and he confesses his feelings to [[hephaistos|Hephaistos]].[@fm08-wil, fm08-hephaistos] |
-| DanMachi 12 | Receives the title *Ignis, the Ever Burning*.[@fm12-ignis] |
+| DanMachi 12 | Receives the title *Ignis, the Ever Burning*.[@fm12-ignis] The gods choose it at once, quoting the line he spoke to [[hephaistos|Hephaistos]] when he declared his love, which she had let slip.[@fm12-ignis-origin] |
 | DanMachi 14 | On Floor 26 he forges [[equipment#shikou-kazuki|Shikou Kazuki]], a magic sword that uses its wielder's own magic instead of a stored charge.[@fm14-shikou] |
 | DanMachi 15 | Hephaistos judges Shikou Kazuki; he gains the Skill Veritas Burn.[@fm15-judged, fm15-card] |
+| DanMachi 16 | When [[syr-flover|Syr]] disappears after her date with Bell, Welf tells him that she likes him as a man and that he must not play dumb or leave her hanging.[@fm16-welf-advice] |
+| DanMachi 18 | In the [[war-game|War Game]] against [[freya-familia|Freya Familia]], the coalition's one clear advantage is the mass of Crozzo magic swords he forged instead of sleeping for two weeks.[@fm18-welf-swords] Beaten by [[allen-fromel|Allen]], he crawls to Bell's path and clears it with his anti-magic fire and his magic sword.[@fm18-welf-allen] |
 
 ## Abilities
 
 - **[[#will-o-the-wisp|Will-o'-the-Wisp]]**, triggered by the phrase *Blasphemous Burn*, is an anti-magic spell: when an enemy uses magic, it makes the spell blow up in their hands (*Ignis Fatuus*).[@fm05-wisp]
 - **[[skills#blood-of-crozzo|Blood of Crozzo]]** is the family Skill behind his magic swords.[@fm15-blood]
 - **[[skills#veritas-burn|Veritas Burn]]** is a Skill gained in DanMachi 15, giving high resistance to flame and stronger fire-element attacks; his card also lists the Development Ability Blacksmith.[@fm15-card]
+
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level. A Level that the English volumes print as text in the story copies the last such sheet: ability names, grade letters and numbers as printed; where a sheet records an update, each ability is printed as the old value, an arrow and the new value. A Level printed only as a picture copies that illustrated Status sheet, as read in the English and the Japanese edition.
+
+{{tabs|status-sheet}}
+{{tab|Level 1}}
+| Ability | As printed in DanMachi 4, illustrated sheet, p. 163[@sheet.fm04-lv1] |
+|---|---|
+| Strength | C617 |
+| Defense | D521 |
+| Utility | C645 |
+| Agility | D509 |
+| Magic | I70 |
+
+Read from the picture in the English and the Japanese edition, which print the same values. The sheet also lists the Magic [[#will-o-the-wisp|Will-o'-the-Wisp]] and the Skill [[skills#blood-of-crozzo|Blood of Crozzo]]. The first Falna, the only Level 1 sheet printed as text (DanMachi 15), shows every ability at zero.[@sheet.fm04-lv1]
+
+{{tab|Level 2}}
+| Ability | As printed in DanMachi 15[@sheet.fm15-lv2] |
+|---|---|
+| Strength | H118 -> 177 |
+| Defense | H123 -> 191 |
+| Dexterity | H143 -> G 233 |
+| Agility | I71 -> H138 |
+| Magic | I72 -> 98 |
+| Blacksmith | I |
+
+His update on the day Lilly levels up. The sheet also lists the Magic [[#will-o-the-wisp|Will-o'-the-Wisp]] {{small|printed *Will-o-Wisp*}} and the Skills [[skills#blood-of-crozzo|Blood of Crozzo]] and [[skills#veritas-burn|Veritas Burn]].[@sheet.fm15-lv2]
+
+{{/tabs}}
 
 ## Greatsword {#greatsword}
 
@@ -145,13 +177,13 @@ On its first use, against [[monsters#hellhound|hellhounds]] on the middle floors
 #### Magic or Skill? {#will-o-the-wisp-magic-or-skill}
 
 > [!NOTE] Magic, not a Skill
-> DanMachi 5 and Welf's DanMachi 15 card class Will-o'-the-Wisp as Magic,[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm15-card] and Sword Oratoria 12 calls it Welf's rare magic.[@will-o-the-wisp.so12-skill]
+> DanMachi 5 and Welf's DanMachi 15 card class Will-o'-the-Wisp as Magic,[@will-o-the-wisp.fm05-first, will-o-the-wisp.fm15-card] and Sword Oratoria 12 calls it Welf's rare magic in the Japanese, where the English prints "Welf’s rare Skill".[@will-o-the-wisp.so12-skill]
 
 {{nocite}} Notable uses and open questions for Will-o'-the-Wisp are on the combined page: [[magic#will-o-the-wisp|Magic § Will-o'-the-Wisp]].
 
 ## Hephaistos
 
-DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visits a smithy in [[zolingam|Solingen]] and sees a redheaded boy working there for room and board, under a name the owner thinks false. He tells her his name is just Welf, and she invites him to join her Familia.[@fm15-zolingam] In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hephaistos] Shikou Kazuki is progress toward it, but the narration calls it a foothold and an imitation of her craft, and DanMachi 18 still calls it a stepping stone.[@fm14-shikou, fm18-stone]
+DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visits a smithy in [[zolingam|Solingen]] and sees a redheaded boy working there for room and board, under a name the owner thinks false. He gives her only the name Welf and will not say his family name, and she invites him to join her Familia.[@fm15-zolingam] In DanMachi 8 Welf promises Hephaistos a weapon that will satisfy her.[@fm08-hephaistos] Shikou Kazuki is progress toward it, but the narration calls it a foothold and an imitation of her craft, and DanMachi 18 still calls it a stepping stone.[@fm14-shikou, fm18-stone]
 
 ## Open questions
 
@@ -221,3 +253,11 @@ DanMachi 15 shows their first meeting. After Welf leaves Rakia, Hephaistos visit
 [@fm08-crozzo-family-wil]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Vil Crozzo, Welf's father, is the current head of the fallen smithing nobility in Rakia; DanMachi 8 prints "Wil Crozzo".
 [@fm15-crozzo-family-first]: FM15 | Chapter 5: Blue Flame | Garon had ordered the Falna to wait until then, so that Welf would first understand hardship as a craftsman.
 [@fm15-crozzo-family-refusal]: FM15 | Chapter 5: Blue Flame | Welf initially vows to stop forging magic swords after a Crozzo sword destroys a wall and critically injures knights.
+[@fm04-welf-age]: FM04 | Chapter 2: Changing Environment, New Relationships | "Nineteen this year." The Japanese edition (FM04, paragraph 302) has him say that he turns seventeen this year.
+[@fm15-crozzo-escape]: FM15 | Chapter 5: Blue Flame | "This will restore the Crozzo clan! Only your blades can do this!"; "Welf…forge a magic sword."; "I’m going to get you out of this kingdom."; "That night, he made an oath on his pride as a smith"; "I’ve dissolved your pact with me, too."; "tell them I put you up to the whole thing"
+[@fm12-ignis-origin]: FM12 | Chapter 1: Rabbit Close-Up | "This is nowhere near enough to quell the fires you stoked in my heart"; "had carelessly boasted about Welf’s declaration of love before"
+[@fm18-welf-swords]: FM18 | Chapter 8: The Great Familia War | "the only clear advantage the coalition had left was the massive number of Crozzo magic swords they had prepared"; "that Welf had mass-produced instead of sleeping the past two weeks"
+[@fm18-welf-allen]: FM18 | Chapter 9: Flower Language for You | "After he had been beaten by Allen"; "Allen and the guards who had immediately prepared their magic had all transformed into bombs."; "The ferocious flame blew away everyone who stood in the boy’s way."
+[@fm16-welf-advice]: FM16 | Chapter 6: The Wish's Cost | "there’s no mistaking that that girl likes you"; "And not as a friend. As a man."; "don’t lie to yourself. And don’t leave her hanging like that."
+[@sheet.fm04-lv1]: FM04 | | Illustrated Status sheet, p. 163 (Level 1; image Art_P163.jpg): Strength C617, Defense D521, Utility C645, Agility D509, Magic I70; Magic Will-o'-the-Wisp; Skill Blood of Crozzo. The Japanese edition's sheet (file c4GE, image image_rsrc6EA.jpg, p. 224) prints the same values. DanMachi 15's first-Falna sheet (text, Chapter 5: Blue Flame) prints every basic ability as I0.
+[@sheet.fm15-lv2]: FM15 | Interlude: That Never-Cooling Iron | "Welf Crozzo"; "Level 2"; "Strength: H118 -> 177 Defense: H123 -> 191 Dexterity: H143 -> G 233 Agility: I71 -> H138 Magic: I72 -> 98 Blacksmith: I"; Magic "Will-o-Wisp"; Skills "Blood of Crozzo", "Veritas Burn"; "The same day Lilly leveled up, Welf received a Status update."

@@ -35,7 +35,7 @@ He shows open disdain for divinity, yet serves Erebus alone.[@ar03-disdain, ar03
 
 ## His senses
 
-In Astrea Record 3 Vito tells Kaguya that he is colourblind, and that every sense but touch is impaired: voices rasp, the finest food tastes rotten, and he has never smelled anything fragrant. In his "canvas of eternal ash" one colour alone shone true: "the vivid red of other people's blood".[@ar03-defect] At their first meeting Kaguya had called him "defective"; after hearing his story she calls him "a bloodthirsty beast, hiding behind tragic tales".[@ar01-defective, ar03-beast]
+In Astrea Record 3 Vito tells Kaguya that he is colourblind, and that every sense but touch is impaired: voices rasp, the finest food tastes rotten, and he has never smelled anything fragrant. In his "canvas of eternal ash" one colour alone shone true: "the vivid red of other people's blood".[@ar03-defect] As a boy in a peaceful village he hid his defect, until in a rage he beat a girl who admired him and first saw that red; his own blood never showed it, and without the victim's fear, grief, pain and despair, blood looked as grey as everything else.[@ar03-vito-past] He blames the world that produced him: "to destroy the world of mortal men" is his purpose, and the reason he stands with evil.[@ar03-vito-past] At their first meeting Kaguya had called him "defective"; after hearing his story she calls him "a bloodthirsty beast, hiding behind tragic tales".[@ar01-defective, ar03-beast]
 
 ## In Astrea Record
 
@@ -65,13 +65,13 @@ When the battle on the eighteenth floor ends, Erebus asks Astrea Familia to let 
 [@ar01-defective]: AR01 | Chapter 2: Eren | Kaguya: "…You’re defective".
 [@ar01-valletta]: AR01 | Chapter 6: Assemblies of Light and Dark | Valletta: "where’d your god piss off to? He’s the one who came up with all this, ain’t he?"
 [@ar01-night]: AR01 | Chapter 9: The Opening Act of Evil | "the streets were bathed in the vivid colors that Vito admired most".
-[@ar02-walk]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): "Now come, Vito," said Erebus. "Join me for a walk, will you?"
-[@ar02-kill]: AR02 | | Printed heading "Chapter 5: Banquet of Evil" (not in the evidence map): "Level Two adventurers come apart so easily!"; "five corpses littered the ground".
-[@ar02-follower]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): "Erebus and his follower, Vito".
-[@ar02-escape]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): "Vito casually slipped away after Erebus".
-[@ar03-zald]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "It was Vito, lieutenant of the Evils known as Faceless."; Zald: "You are…Faceless, if I am not mistaken".
-[@ar03-disdain]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "Vito’s disdain for divinity was clear."
-[@ar03-valletta]: AR03 | | Printed heading "Chapter 2: The Conqueror’s Return" (not in the evidence map): "I shall take a contingent and head down there at once.". The Japanese edition (file c1JB, paragraph 453) has Valletta call him about the only one who is any use, Olivas not being up to it.
+[@ar02-walk]: AR02 | Chapter 5: Banquet of Evil | "Now come, Vito," said Erebus. "Join me for a walk, will you?"
+[@ar02-kill]: AR02 | Chapter 5: Banquet of Evil | "Level Two adventurers come apart so easily!"; "five corpses littered the ground".
+[@ar02-follower]: AR02 | Chapter 6: Melody of Silence | "Erebus and his follower, Vito".
+[@ar02-escape]: AR02 | Chapter 6: Melody of Silence | "Vito casually slipped away after Erebus".
+[@ar03-zald]: AR03 | Chapter 2: The Conqueror’s Return | "It was Vito, lieutenant of the Evils known as Faceless."; Zald: "You are…Faceless, if I am not mistaken".
+[@ar03-disdain]: AR03 | Chapter 2: The Conqueror’s Return | "Vito’s disdain for divinity was clear."
+[@ar03-valletta]: AR03 | Chapter 2: The Conqueror’s Return | "I shall take a contingent and head down there at once.". The Japanese edition (file c1JB, paragraph 453) has Valletta call him about the only one who is any use, Olivas not being up to it.
 [@ar03-arrive]: AR03 | Chapter 4: Apocalypse Cometh | "the Evils lieutenant known as Vito. He arrived on the eighteenth floor with a contingent of eight troops."
 [@ar03-defect]: AR03 | Chapter 5: Playing the Violence Card | "Vito was not only colorblind—each of his senses was hopelessly impaired, save touch."; "In my canvas of eternal ash, only one color shone true: the vivid red of other people’s blood."
 [@ar03-beast]: AR03 | Chapter 7: What She Wished For | "a bloodthirsty beast, hiding behind tragic tales".
@@ -81,3 +81,4 @@ When the battle on the eighteenth floor ends, Erebus asks Astrea Familia to let 
 [@ar03-sole]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "To the top of the stairs, where his sole follower stood."
 [@ar03-confession]: AR03 | Chapter 10: A Smile Unknown to All: Twilight Answer | "He had heard the god’s whole confession"; Hermes: "I’ll forget everything I saw and heard here."
 [@ar03-extra]: AR03 | Extra: A Meaningless Tale of Gods and Heroes | "I love you, Vito."; "I love all my children." The Japanese edition (file c9X3, paragraphs 186 to 199) has the voice call itself a god and tell Vito that he will resent his god.
+[@ar03-vito-past]: AR03 | Chapter 5: Playing the Violence Card | "He turned his fists on a girl of his village"; "no matter how much of my own blood I shed, that vibrant hue would not reveal itself"; "without fear, without grief, without pain and despair"; "the blood looked just like everything else"; "to destroy the world of mortal men"

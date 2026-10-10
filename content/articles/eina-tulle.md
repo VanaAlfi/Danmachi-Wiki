@@ -26,7 +26,7 @@
   }
 }
 ---
-**Eina Tulle** is a half-elf who works for the [[guild|Guild]] as [[bell-cranell|Bell Cranell]]'s Dungeon adviser.[@fm01-eina] She has never received a [[falna|Falna]].[@fm11-falna] Her mother, Aina, escaped the elves' homeland together with [[riveria|Riveria Ljos Alf]], and her younger sister is [[nina-tulle|Nina Tulle]].[@so14-aina, fm19-nina]
+**Eina Tulle** is a half-elf who works for the [[guild|Guild]] as [[bell-cranell|Bell Cranell]]'s Dungeon adviser.[@fm01-eina] She has never received a [[falna|Falna]].[@fm11-falna] Her mother, Aina, escaped the elves' homeland together with [[riveria|Riveria Ljos Alf]], and her younger sister is [[nina-tulle|Nina Tulle]].[@so14-aina, fm15-eina-mother, fm19-nina]
 
 ## Appearance
 
@@ -34,21 +34,21 @@ DanMachi 1 introduces Eina with long, pointed ears, "transparent emerald eyes" a
 
 ## Background
 
-Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her first advisee, [[maris-hackard|Maris]], and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frott]] is a friend from school.[@fm04-misha, fm15-misha]
+Eina enrolled in the [[school-district|School District]] at six and was recommended to the Guild after graduating.[@fm19-eina, fm15-eina] DanMachi 15's recollection shows her joining the Guild at fourteen.[@fm15-join] She chose it for the money: Guild pay was good, sometimes better than a lower-tier adventurer's, and she wanted it to send home to her family rather than for its own sake.[@fm15-join] Her mother, who came from the high elves' forest, was often sick and bedridden, and her human father worked constantly to support the family.[@fm15-eina-parents] Her first advisee, [[maris-hackard|Maris]], and all of her other early charges died, which made her a strict adviser who takes her work personally. She volunteered to guide Bell partly to end her coworkers' betting on how soon he would die.[@fm15-eina] Her coworker [[misha-frot|Misha Frott]] is a friend from school.[@fm04-misha, fm15-misha]
 
 ## Bell's adviser
 
-Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] Her hieroglyph reading has limits: she did well in theological studies and can read and write simple hieroglyphs, but the complex characters on Bell's back defeat her: Hestia has protected his Status, and Eina mistakes the protection for the goddess's handwriting.[@fm02-glyphs] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear [[equipment#salamander-wool|salamander wool]].[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
+Eina teaches Bell about the Dungeon's floors and monsters and how to fight there.[@fm01-eina] In DanMachi 2 she reads his Status, gives him a green vambrace, and asks [[aiz-wallenstein|Aiz]] to look out for him.[@fm02-eina] Worried that he may be caught up in trouble through his supporter, she also looks into [[soma-familia|Soma Familia]]: [[riveria|Riveria]], who introduces her as "the daughter of a friend", takes her to [[loki-familia|Loki Familia]]'s home, where [[loki|Loki]] explains how the craving for Soma's wine drives the Familia's members.[@fm02-eina-soma] Her hieroglyph reading has limits: she did well in theological studies and can read and write simple hieroglyphs, but the complex characters on Bell's back defeat her: Hestia has protected his Status, and Eina mistakes the protection for the goddess's handwriting.[@fm02-glyphs] In DanMachi 4 she advises him to choose the Development Ability Luck, and allows his three-person party into the middle levels on condition that all three wear [[equipment#salamander-wool|salamander wool]].[@fm04-eina] Minor Myths and Legends 1 shows her taking him on as an advisee and running his lessons.[@ss01-adviser]
 
-In DanMachi 3 she files a report asking the Guild to recommend that [[soma-familia|Soma Familia]] restrain its operations.[@fm03-soma, fm03-ja-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees, Luvis and Dormul of [[modi-and-magni-familias|Modi and Magni Familias]], propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina]
+In DanMachi 3 she files a report asking the Guild to recommend that [[soma-familia|Soma Familia]] restrain its operations.[@fm03-soma, fm03-ja-soma] By DanMachi 8 she is in her fifth year at the Guild and Bell is her only remaining advisee; when two former advisees, Luvis and Dormul of [[modi-and-magni-familias|Modi and Magni Familias]], propose to her, she claims Bell as her lover to turn them both down.[@fm08-eina] They propose at the end of a scare: a hooded figure had been following her home at night, Bell had become her bodyguard, and the followers turned out to be Luvis and Dormul themselves, who had been secretly trailing her out of worry.[@fm08-eina-bodyguard]
 
 ## Later volumes
 
 | Volume | Events |
 |---|---|
-| DanMachi 11 | [[hermes|Hermes]] places a bracelet on her wrist, making her the target of a staged [[xenos|Xenos]] attack. After Bell loses to [[asterios|Asterios]] she stays at his side and recognises her feelings for him.[@fm11-bracelet, fm11-eina] |
+| DanMachi 11 | [[hermes|Hermes]] places a bracelet on her wrist, making her the target of a staged [[xenos|Xenos]] attack. After Bell loses to [[asterios|Asterios]] she stays at his side and recognises her feelings for him.[@fm11-bracelet, fm11-eina-gros, fm11-eina] |
 | DanMachi 12 | Admits to herself that she is in love with Bell, and teaches him about the lower levels for his first expedition.[@fm12-eina] |
-| DanMachi 17 | [[freya|Freya]] reads Eina's journals about Bell to build a believable false history for him.[@fm17-journals] |
+| DanMachi 17 | [[freya|Freya]] reads Eina's journal about Bell, dozens of volumes long, so that she can answer his questions perfectly.[@fm17-journals, fm17-eina-records] Her feelings for Bell had let her begin to resist the charm by which Freya rewrote the city's memories of him: reading the journal, she wept without understanding why, until Freya found her, took it and charmed her again.[@fm17-eina-resists] |
 | DanMachi 19 | Opposes the Guild's plan for a shaft into the Dungeon, and makes peace with her sister Nina.[@fm19-shaft, fm19-nina] Seeing the same frightening smile on Nina, Bell recalls Eina's spartan Dungeon study sessions: "The Guild’s famed merciless instruction: Fairy Break."[@fm19-fairy] |
 
 ## Open questions
@@ -66,17 +66,24 @@ In DanMachi 3 she files a report asking the Guild to recommend that [[soma-famil
 [@fm04-misha]: FM04 | Prologue: Fastest Boy in the Alleys | Eina and Misha Frott.
 [@fm08-eina]: FM08 | | Nineteen; fifth Guild year; the two proposals.
 [@fm11-bracelet]: FM11 | Chapter 3: The Night Before Battle | Hermes's bracelet.
-[@fm11-eina]: FM11 | | Eina and Bell after Asterios.
+[@fm11-eina]: FM11 | Chapter 7: The Return of the Hero | Eina and Bell after Asterios.
 [@fm11-falna]: FM11 | Chapter 7: The Return of the Hero | Eina has never received Falna.
 [@fm12-eina]: FM12 | | Her feelings; the lower-level lessons.
-[@fm15-eina]: FM15 | | The Guild recommendation; Maris; her advisees.
+[@fm15-eina]: FM15 | Chapter 4: Guild Alone | The Guild recommendation; Maris; her advisees.
 [@fm15-join]: FM15 | Chapter 4: Guild Alone | "Eina Tulle. Fourteen years old."; the Guild chosen for its pay, to send money home.
 [@fm15-misha]: FM15 | Chapter 4: Guild Alone | "Misha Frott, her friend from school."
 [@fm17-journals]: FM17 | Chapter 2: Alone Inside a Sandbox | Freya and Eina's journals.
 [@fm19-eina]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | School District graduate who enrolled at six.
 [@fm19-nina]: FM19 | | Nina, Eina's sister; their reconciliation.
 [@fm19-shaft]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | The shaft plan.
-[@so14-aina]: SO14 | | Aina and Riveria.
+[@so14-aina]: SO14 | Chapter 2: The High Elf's Departure | Aina and Riveria.
 [@ss01-adviser]: SS01 | | Eina becomes Bell's adviser.
 [@fm19-fairy]: FM19 | Chapter 3: School Life in Another World | Bell's thoughts on Nina's smile: "The Guild’s famed merciless instruction: Fairy Break." The Japanese edition (file part0021, paragraph 611) says the Guild's famous half-elf's thorough instruction.
 [@fm01-eina-ja]: FM01 | | The Japanese edition prints her name in katakana; the infobox gives that printed form.
+[@fm17-eina-records]: FM17 | Chapter 3: The Field of Battle | "In order to perfectly answer the boy’s questions, she had prioritized reading through all the records of Bell Cranell that the methodical half-elf had created—a thick journal spanning dozens of volumes."
+[@fm15-eina-mother]: FM15 | Chapter 4: Guild Alone | "her mother was a high elf who had escaped her forest home along with a certain queen". The Japanese edition says she came from the high elves' forest and left it together with a certain princess.
+[@fm11-eina-gros]: FM11 | Chapter 6: A Deity’s Scheme | "Within his stone hand, he gripped a sparkling jewel that resonated with Eina’s bracelet."; "Hermes had coerced the Xenos into something."; "If you don’t do it, then your dear Eina will die."
+[@fm15-eina-parents]: FM15 | Chapter 4: Guild Alone | "the outside world’s air seemed not to have agreed with her, for she was frequently sick and bedridden"; "Eina’s human father loved her mother and worked constantly to support Eina and her younger sister." The Japanese edition says that her mother came from the high elves' forest, where the English calls her a high elf.
+[@fm02-eina-soma]: FM02 | Chapter 4: Divine Wine | "she was concerned about the possibility of Bell being caught up in a difficult situation"; "She is the daughter of a friend."; "the allure of Soma, and the members cravin’ fer it all mix together ta make the craziness that infects Soma Familia"
+[@fm08-eina-bodyguard]: FM08 | Chapter 4: Beloved Bodyguard | "Whoever it was, they were persistently following her."; "The time had come for Bell to fulfill his role as her bodyguard."; "Basically, the both of you were worried…so you decided to secretly follow me around?"
+[@fm17-eina-resists]: FM17 | Chapter 2: Alone Inside a Sandbox | "the only ones in this city who retain their memories from before I acted are Bell, Hestia, and you, Ouranos"; "She kept reading, crying all the while without understanding anything."; "particularly around those who had especially strong feelings toward him"; "For a powerless girl like you to be able to resist me…I’m jealous."; "it was a powerful, direct reapplication of Freya’s charm"

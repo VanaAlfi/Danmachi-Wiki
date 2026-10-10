@@ -32,7 +32,7 @@ Dian Cecht looks like a middle-aged god with greying hair and a beard. In DanMac
 
 Dian Cecht Familia made the silver arm, the [[airgetlam|airgetlám]], for which Miach went into debt. In DanMachi 4 Dian Cecht gives Miach one day to pay that month's instalment. That night Miach brings him twenty of Nahza's new [[potions#dual-potion|double potions]]; Amid confirms their value, and he roars in frustration but takes them.[@fm04-dian, fm04-double]
 
-Their rivalry goes back to the dark age. In Astrea Record 1, when the [[evils|Evils]] attack the city, he and Miach open their medical stores to anyone in need.[@ar01-supplies] When Miach says he will go to [[central-park|Central Park]] and leave Dian Cecht in charge, "the white-haired old man" snaps back: "What, and let you steal all the glory?" Miach persuades him that one of them must stay to heal the north-western front.[@ar01-quarrel] In Astrea Record 2 the city's relief camps call on both gods for help.[@ar02-camps]
+The rivalry was already as strong between the two gods as between their followers in the dark age.[@ar01-quarrel] In Astrea Record 1, when the [[evils|Evils]] attack the city, he and Miach open their medical stores to anyone in need.[@ar01-supplies] When Miach says he will go to [[central-park|Central Park]] and leave Dian Cecht in charge, "the white-haired old man" snaps back: "What, and let you steal all the glory?" Miach persuades him that one of them must stay to heal the north-western front.[@ar01-quarrel] In Astrea Record 2 the city's relief camps call on both gods for help.[@ar02-camps]
 
 ## Amid and his Familia
 
@@ -41,7 +41,7 @@ Dian Cecht calls Amid "my personal assistant", with a mountain of work waiting f
 [@fm04-dian]: FM04 | Quest X Quest | Dian Cecht: greying hair and beard, gold robe; "you ruined beggar"; Lilly: respected by adventurers, makes healing items, a business rival; payment by tomorrow; "never seen eye to eye, even in Tenkai"; Amid.
 [@fm04-double]: FM04 | Quest X Quest | Twenty double potions; Amid's verdict; "Wh…Why youuuuu…?!"; "Dian Cecht gasped as he took the vial from Miach’s outstretched hands."
 [@fm08-sales]: FM08 | Prologue: Attack of the War God | "How do you like that, Miach? My goods are selling like there’s no tomorrow! Looks like I win this one, too, wouldn’t you say, Amid?"; "No, Lord Dian Cecht. Lord Miach and his familia are not here."
-[@so05-price]: SO05 | | Printed heading "Interlude: Flip Side of the Farce" (not in the evidence map): "the real problem was her patron deity, Dian Cecht. He was liable to take full advantage of the situation"; "he already charged an arm and a leg for the medical procedures Amid normally performed at their clinic".
+[@so05-price]: SO05 | Interlude: Flip Side of the Farce | "the real problem was her patron deity, Dian Cecht. He was liable to take full advantage of the situation"; "he already charged an arm and a leg for the medical procedures Amid normally performed at their clinic".
 [@ar01-supplies]: AR01 | Chapter 9: The Opening Act of Evil | "Miach and Dian Cecht, who opened the doors of their medical stores for anyone who needed it".
 [@ar01-quarrel]: AR01 | Chapter 9: The Opening Act of Evil | "Dian! We’re heading over to Central Park!"; "“What, and let you steal all the glory?” snapped the white-haired old man."; "One of us must stay back to provide healing on the northwestern front!"
 [@ar02-camps]: AR02 | Chapter 4: Those Who Struggle | "We called on Lord Dian Cecht and Lord Miach for assistance, but there are many other camps in need just like this one".

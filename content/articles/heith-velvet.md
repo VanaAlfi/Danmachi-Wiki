@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Healer of Freya Familia and representative of its healers, the Andhrímnir; titled Vana Mardöll and known as the golden witch, a Level 4 who can still defeat second-tier adventurers on her own.",
   "aliases": ["Vana Mardöll", "Vana Mardel", "Golden witch"],
-  "spoilers": "DanMachi Vols. 17–20 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 17–20, Astrea Record Vol. 1 and Minor Myths and Legends Vol. 1",
   "related": ["freya-familia", "folkvangr", "horn", "hedin", "freya", "magic"],
   "infobox": {
     "title": "Heith Velvet",
@@ -34,7 +34,8 @@ Heith first went through the "baptism" of [[folkvangr|Folkvangr]] as one of the 
 
 | Volume | Events |
 |---|---|
-| DanMachi 17 | Watches over [[bell-cranell|Bell]] during his training in Folkvangr, uses [[#zeo-gullveig|Zeo Gullveig]] to pull him back from the edge of death, and later treats the wounded [[horn|Hörn]] on Freya's orders.[@fm17-heith, fm17-zeo] |
+| Astrea Record 1 | With Freya Familia adventurers and healers disguised as townsfolk, she takes from Syr a note on would-be killers of Freya and hands it to the others, hoping to capture them alive.[@ar01-heith] |
+| DanMachi 17 | Watches over [[bell-cranell|Bell]] during his training in Folkvangr, uses [[#zeo-gullveig|Zeo Gullveig]] to pull him back from the edge of death, and later treats the wounded [[horn|Hörn]] on Freya's orders.[@fm17-heith, fm17-zeo] Freya had used her from the start to plant in Bell the idea that his state was a curse, so that he would believe the path he walked was only its effect.[@fm17-curse] |
 | DanMachi 18 | In the Familia War her [[#ars-gullveig|Ars Gullveig]] keeps restoring the Andhrímnir; [[hedin|Hedin]], boasting the greater reserve of Mind, keeps up his lightning until it overtakes her healing.[@ars-gullveig.fm18-hedin][@fm18-ars, fm18-hedin] After the defeat she argues against Freya's order that her followers stay behind.[@fm18-stay] |
 | DanMachi 19 | Waits tables at [[the-benevolent-mistress|The Benevolent Mistress]], and tells Hörn she is first in line for punishment for betraying them.[@fm19-heith] |
 | DanMachi 20 | The tavern's rooms are crowded with Heith and the other former members.[@fm20-heith] |
@@ -96,7 +97,7 @@ The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’
 {{nocite}} Notable uses and open questions for Ars Gullveig are on the combined page: [[magic#ars-gullveig|Magic § Ars Gullveig]].
 
 [@fm17-heith]: FM17 | | Heith and the Andhrímnir; Bell; Hörn.
-[@fm17-zeo]: FM17 | | Zeo Gullveig.
+[@fm17-zeo]: FM17 | Chapter 3: The Field of Battle | Zeo Gullveig.
 [@fm18-heith]: FM18 | Chapter 8: The Great Familia War | Level 4; Vana Mardel; the two great healers; her background.
 [@fm18-heith-ja]: FM18 | | The Japanese edition prints her name and the reading of her title in katakana; the infobox gives those printed forms.
 [@fm18-ars]: FM18 | Chapter 8: The Great Familia War | Ars Gullveig.
@@ -111,3 +112,5 @@ The narration calls it an auto-heal that "even Crozzo’s magic swords couldn’
 [@ars-gullveig.fm18-hedin]: FM18 | Chapter 9: Flower Language for You | "Ars Gullveig!" under Hedin's lightning; "a Level 4’s magic"; "It’s finite"; the Mind contest.
 [@fm18-rona]: FM18 | Chapter 8: The Great Familia War | "you will support me, Rona, Ilda"; "The healers and herbalists known as the Andhrímnir snapped to attention". The Japanese edition (file part0021, paragraph 475) names the second healer Ilde.
 [@fm18-rona2]: FM18 | Chapter 9: Flower Language for You | "I will heal Hegni! He will rise at once! Rona! You and the others tend to the Einherjar!" The Japanese edition (file part0025, paragraph 1031) writes this call to Rona over the word for deputy.
+[@fm17-curse]: FM17 | Chapter 3: The Field of Battle | "If I can get him to believe that the path he walks is just the effects of a curse, then I win."; "she had used Heith to implant the idea of a curse all the way at the start"
+[@ar01-heith]: AR01 | Chapter 9: The Opening Act of Evil | "adventurers and healers disguised as commonfolk"; "Now we shall be able to stop those would-be killers before they can get their grubby paws on our Lady Freya."; "I’d like to capture them alive if at all possible…"

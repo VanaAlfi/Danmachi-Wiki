@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "The divine blessing a god engraves on a follower. It records the follower's Status and lets them grow through excelia; conversion moves it to another god.",
   "aliases": ["Blessing", "Conversion"],
-  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 1 and Familia Chronicle Vol. 1",
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vols. 1 and 11 and Familia Chronicle Vol. 1",
   "related": ["status", "level", "development-ability", "hestia", "hestia-familia", "skills", "war-game"],
   "infobox": {
     "title": "Falna",
@@ -18,21 +18,21 @@
       {"label": "Records", "value": "The follower's [[status|Status]]", "refs": ["fm01-status"]},
       {"label": "Held by", "value": "Members of a god's Familia", "refs": ["fm01-familia", "fm02-free"]},
       {"section": "Changing gods"},
-      {"label": "Conversion", "value": "One god removes the Falna, another engraves a new one", "refs": ["fm06-conversion"]},
+      {"label": "Conversion", "value": "Both gods add ichor; the old contract's marks are erased and the new god's are engraved", "refs": ["fm06-conversion"]},
       {"label": "Waiting period", "value": "One year, unless the former Familia dissolves", "refs": ["fm06-conversion", "fm17-wait"]}
     ]
   }
 }
 ---
-**Falna** is the mark of a god's blessing on a follower. Using blood and hieroglyphs, the god reflects the follower's [[excelia|excelia]], the record of what they have lived through, in a [[status|Status]].[@fm01-status] People who belong to no [[familia|Familia]], called free people, have no Falna or Status, though some races, such as dwarves and elves, can still fight well.[@fm02-free]
+**Falna** is the mark of a god's blessing on a follower. Using blood and hieroglyphs, the god reflects the follower's [[excelia|excelia]], the record of what they have lived through, in a [[status|Status]].[@fm01-status] Everyone who has received a god's blessing bears these hieroglyphs on their back, and mortals know the Falna as their Status.[@so01-falna-back] People who belong to no [[familia|Familia]], called free people, have no Falna or Status, though some races, such as dwarves and elves, can still fight well.[@fm02-free] When the first gods came down, they helped the people hold back the Dungeon's monsters by giving them Falna.[@fm02-falna-monsters] [[ouranos|Ouranos]] was the first god to grant it.[@fm10-falna-first]
 
 ## How it works
 
-A Status is a divine record of the follower's own history. Excelia measures both how much they have accomplished and how well.[@fm01-status] The number beside each basic ability's rank measures proficiency, which rises only when that ability is put to work; fighting a stronger opponent earns excelia faster.[@fm01-excelia]
+A Status is a divine record of the follower's own history. Excelia measures both how much they have accomplished and how well.[@fm01-status] The number beside each basic ability's rank measures proficiency, which rises only when that ability is put to work.[@fm01-excelia] Fighting an opponent at least as strong as oneself earns excelia faster.[@fm01-falna-stronger-foe]
 
 The blessing unlocks the follower's own potential rather than adding power from outside. Abilities, Skills and magic grow out of the person's character and experience.[@fm04-potential] Getting a [[skills|Skill]] is itself rare, and some races show patterns, such as elves with magic-boosting Skills and dwarves with strength-boosting ones.[@fm01-skills, fm01-ja-skills]
 
-Magic gained through a Falna is shaped by excelia, interests and desires. A person can hold at most three spells; one is common, and anyone who can use two is sought after by their companions.[@fm01-magic]
+Magic gained through a Falna is shaped by excelia, interests and desires.[@fm02-falna-magic-interest] A person can hold at most three spells; one is common, and anyone who can use two is sought after by their companions.[@fm01-magic]
 
 ## Status
 
@@ -50,9 +50,9 @@ A specialized item called a [[status-thief|Status Thief]] can still expose the r
 
 ## Conversion
 
-In a conversion, one god removes the old Falna and another engraves a new one. A converted follower cannot transfer again for a year.[@fm06-conversion] A follower normally has to have been with a Familia for a year before converting at all, unless that Familia dissolves; in DanMachi 17 Bell has been with Hestia for only six months, which blocks an immediate conversion.[@fm17-wait]
+In a conversion, the old god runs ichor across the follower's hieroglyphs until they glow; the new god then adds their own ichor, erasing the marks of the old contract, and engraves their own name and symbol at the top of the Status.[@fm06-lilly] A converted follower cannot transfer again for a year.[@fm06-conversion] A follower normally has to have been with a Familia for a year before converting at all, unless that Familia dissolves; in DanMachi 17 Bell has been with Hestia for only six months, which blocks an immediate conversion.[@fm17-wait] Leaving a Familia, which means rewriting the Falna on the follower's back, needs the permission of the current god, as [[lilliluka-erde|Lilly]] needs [[soma|Soma]]'s.[@fm06-falna-leave]
 
-A conversion does not erase every trace of the first god's [[ichor|ichor]]: that god can still sense whether the follower is alive, and [[soma|Soma]] senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace]
+A conversion does not erase every trace of the first god's [[ichor|ichor]]: that god can still sense whether the follower is alive, and [[soma|Soma]] senses [[lilliluka-erde|Lilly]]'s growth after she has left his Familia.[@fm08-trace, fm15-trace] When a god returns to [[tenkai-and-gekai|the heavens]], the followers' Falna falls silent: their Status is sealed, and they cannot use the abilities it gave them until they convert to a new god.[@so11-falna-sealed]
 
 | Volume | Conversion |
 |---|---|
@@ -61,11 +61,11 @@ A conversion does not erase every trace of the first god's [[ichor|ichor]]: that
 | DanMachi 18 | At the request of [[chloe|Chloe]] and [[runoa|Runoa]], the staff of [[the-benevolent-mistress|The Benevolent Mistress]] convert to [[demeter|Demeter]] and [[njordr|Njörðr]] before the [[war-game|War Game]], which lets them take part.[@fm18-conversions] |
 | DanMachi 19–20 | [[astrea|Astrea]] releases [[lyu-leon|Lyu]]'s Falna so that she can join Hestia Familia.[@fm19-lyu] |
 
-Being held captive or given a false identity is not a conversion. In DanMachi 17 [[freya|Freya]] demands Bell's conversion and makes the city believe he belongs to her, but he keeps Hestia's Falna throughout.[@fm17-bell]
+Being held captive or given a false identity is not a conversion. In DanMachi 17 [[freya|Freya]] demands Bell's conversion.[@fm17-bell] She makes the city believe he belongs to her, but he keeps Hestia's Falna throughout, because he has not converted.[@fm17-falna-kept]
 
 ## Other arrangements
 
-In Familia Chronicle 1, Runoa has a contract with [[demeter|Demeter Familia]], and Chloe one with [[njordr|Njörðr]], to have their Statuses updated, rather than ordinary membership. Both arrangements end when the women join [[the-benevolent-mistress|The Benevolent Mistress]].[@fc01-contracts]
+In Familia Chronicle 1, Runoa has converted into [[demeter|Demeter Familia]], and Chloe into [[njordr-familia|Njörðr Familia]], but only as provisional members, mainly so that they can have their Statuses updated. Both arrangements end when the women join [[the-benevolent-mistress|The Benevolent Mistress]].[@fc01-contracts]
 
 Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Guild, has never had one.[@fm11-eina] The travelling [[school-district|School District]] grants Falna to its students and teachers.[@fm19-school]
 
@@ -87,23 +87,31 @@ Some people never receive a Falna: [[eina-tulle|Eina]], Bell's adviser at the Gu
 [@so01-ceiling]: SO01 | Chapter 3: White Rabbit | Ordinary ceiling of 999.
 [@fm03-ss]: FM03 | Chapter 4: The Meaning of Adventure | Bell's SS value.
 [@fm18-sss]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | SSS values.
-[@fm02-free]: FM02 | | Free people have no Falna or Status.
+[@fm02-free]: FM02 | Chapter 2: The Supporter’s Situation | Free people have no Falna or Status.
 [@fm02-privacy]: FM02 | | Status is private; Level and Familia are reported to the Guild.
 [@fm04-potential]: FM04 | Chapter 1: Denatus | Falna unlocks inner potential.
-[@fm04-hidden]: FM04 | | Values reset at Level Up; hidden parameter; Advanced Ability.
+[@fm04-hidden]: FM04 | Chapter 1: Denatus | Values reset at Level Up; hidden parameter; Advanced Ability.
 [@fm04-denatus]: FM04 | Chapter 1: Denatus | Status taboo at Denatus.
 [@fm06-conversion]: FM06 | Chapter 4: Those Who Gather | How conversion works; one-year rule.
 [@fm06-lilly]: FM06 | Chapter 4: Those Who Gather | Lilly's conversion.
 [@fm06-join]: FM06 | Chapter 4: Those Who Gather | Welf and Mikoto join Hestia Familia.
 [@fm08-trace]: FM08 | | Printed heading "Chapter 1: Love Song to a God of Martial Arts" (not in the evidence map): The first god can sense whether the follower lives.
 [@fm08-lock]: FM08 | Chapter 2: The Prum’s Proposal | Status lock.
-[@fm08-aging]: FM08 | | Higher Levels slow aging.
+[@fm08-aging]: FM08 | Chapter 2: The Prum's Proposal | Higher Levels slow aging.
 [@fm11-eina]: FM11 | Chapter 7: The Return of the Hero | Eina has never received Falna.
 [@fm15-trace]: FM15 | Interlude: Does Cinderella Dream of Happiness? | Soma senses Lilly's growth.
-[@fm17-wait]: FM17 | | Six months is too short for Bell to convert.
+[@fm17-wait]: FM17 | Chapter 1: The Opening of Hostilities | Six months is too short for Bell to convert.
 [@fm17-bell]: FM17 | Chapter 1: The Opening of Hostilities | Freya demands Bell's conversion; it never happens.
 [@fm18-conversions]: FM18 | Chapter 9: Flower Language for You | Chloe's and Runoa's conversions.
 [@fm19-lyu]: FM19 | Chapter 1: V-V-V for Victory Party | Lyu released by Astrea and accepted into Hestia Familia.
 [@fm19-school]: FM19 | Chapter 3: School Life in Another World | The School District grants Falna.
 [@fc01-thief]: FC01 | Crush the Grand Casino! | A Status Thief exposes the real name and patron god.
 [@fc01-contracts]: FC01 | That Is a Benevolent Tavern: ~Girl Meets Girls~ | Status-update contracts.
+[@fm01-falna-stronger-foe]: FM01 | Chapter 4: That’s Why I Want to Help | "Excelia tended to accumulate faster when the person fought against an opponent stronger than themselves". The Japanese edition (FM01_ja.txt line 1430) says monsters of equal or greater strength.
+[@fm02-falna-magic-interest]: FM02 | | "The effect of the Magic depends heavily on excelia"; "Magic is interest. This is a vital factor for all acquired magic."; "what do you accept, hate, want, grieve for, worship, swear to, long for?"
+[@fm17-falna-kept]: FM17 | Chapter 2: Alone Inside a Sandbox | "Hestia Familia’s Bell has been erased from the memories of the populace and replaced with a version of him that is a member of our familia"; "his back still bore Hestia’s falna, because he had not yet converted"
+[@so01-falna-back]: SO01 | Chapter 2: Dungeon Confusion | "had hieroglyphs—the writing system used by the gods—engraved on their back, without exception"; "known to the people of earth as Status"
+[@fm02-falna-monsters]: FM02 | | "by deterring the Dungeon monsters. Their method: Falna."; "The people of the time revered the blessings of strength they received from the gods"
+[@fm10-falna-first]: FM10 | Chapter 9: Dreams of Beasts | "Ouranos, the first deity to grant Falna on Earth"
+[@fm06-falna-leave]: FM06 | Prologue: Evil in the Moonlit Night | "Leaving a Familia—which entailed the rewriting of the Falna that even then was carved upon her back—required the permission of her god, Soma."
+[@so11-falna-sealed]: SO11 | Chapter 6: And Then the God Smiled | "Her Status had been sealed."; "The followers of a late god could not wield their enhanced abilities without first converting to a new deity."; "The Blessing engraved on her back had fallen silent in accordance with the contract."

@@ -34,7 +34,7 @@
 
 ## Name
 
-Her full name is printed family name first, *Gojouno Kaguya*, in Astrea Record 1, DanMachi 14, Familia Chronicle 3 and DanMachi 18.[@ar01-name, fm14-looks, fc03-names, fm18-gokou] DanMachi 18 also prints it once the other way round, *Kaguya Gojouno*, two paragraphs before *Gojouno Kaguya*.[@fm18-gokou] Astrea Record 3 calls her family the Gojouno clan and "my accursed Gojouno line".[@ar03-clan, ar03-five-lights]
+Her full name is printed family name first, *Gojouno Kaguya*, in Astrea Record 1, DanMachi 14, Familia Chronicle 3 and DanMachi 18.[@ar01-name, fm14-looks, fc03-names, fm18-gokou] DanMachi 18 also prints it once the other way round, *Kaguya Gojouno*, a few paragraphs before *Gojouno Kaguya*.[@fm18-gokou] Astrea Record 3 calls her family the Gojouno clan and "my accursed Gojouno line".[@ar03-clan, ar03-five-lights]
 
 {{nocite}} This wiki gives Far Eastern names in the Japanese order, family name first, as the novels mostly print hers.
 
@@ -52,7 +52,7 @@ Her full name is printed family name first, *Gojouno Kaguya*, in Astrea Record 1
 
 Kaguya had long, straight black hair that reached her waist, with bangs cut straight across, and black eyes. She wore a kimono, and DanMachi 14's recollection adds a pretty hairpin.[@fm14-looks, fm14-daggers, ar01-kimono] From behind, she and Lyu often looked like sisters.[@ar01-name] She was much taller than Lyra, who complains that Kaguya is "twice my size".[@ar02-deputy, ar02-retreat] Facing Alfia in Astrea Record 3, she taunts her that "all old women look the same when you're just seventeen".[@ar03-seventeen]
 
-Her public manner was graceful and polite; Astrea Record 1 calls her the picture of a *yamato nadeshiko*. When Lyu tells her to "drop the facade", she switches at once to a stream of abuse at the "trash pixie", and the two Level 3s come to blows.[@ar01-name, ar01-level] DanMachi 14 says she had "a notoriously dirty mouth", and Lyu was mortified by her immodesty around the house.[@fm14-looks] When Lyu first visited the Familia, Alize told Kaguya to stop "putting on airs" with newcomers.[@fm15-meet] She also liked to tease: when Astrea offers her children supper or a bath, Kaguya adds "Or you, Lady Astrea?", then mocks Lyu for blushing.[@ar01-astrea]
+Her public manner was graceful and polite; Astrea Record 1 calls her the picture of a *yamato nadeshiko*. When Lyu tells her to "drop the facade", she switches at once to a stream of abuse at the "trash pixie", and the two Level 3s come to blows.[@ar01-name, ar01-level] DanMachi 14 says she had "a notoriously dirty mouth", and Lyu was mortified by her immodesty around the house.[@fm14-looks] When Lyu first visited the Familia, Alize told Kaguya to stop "putting on airs" with newcomers.[@fm15-meet] She also liked to tease: when Astrea offers her children supper or a bath, Kaguya adds "Or you, Lady Astrea?", then mocks Lyu for taking her words as something scandalous.[@ar01-astrea]
 
 She was a pragmatist. Speaking of the future is fine, she tells Alize, but "we can't look away from reality"; then she gives in to Alize's optimism with a smile.[@ar01-alize] Asked by Erebus what justice is, she calls it "a weapon" and "a blank flag to justify all manner of atrocities"; Erebus replies that her justice is "nothing but regret", and she cannot answer.[@ar02-erebus] She hates being called a hero ("I can't think of a word that suits me less") and calls herself and Lyra "regular old hypocrites".[@ar02-hero, ar02-camp] Yet at the council of Familia leaders she rebukes [[finn-deimne|Finn]] for treating the victims of a diversion as "beads on your abacus".[@ar01-council]
 
@@ -127,7 +127,7 @@ When townspeople throw stones at the Familia, she reaches for her sword until Al
 
 ### Astrea Record 3
 
-Facing Alfia on the eighteenth floor, she vows revenge "even if my decapitated head must bite out her throat".[@ar03-revenge] When Vito arrives, she sends Lyra back to the main fight and takes on him and his followers alone, with her reforged sword Higanbana.[@ar03-vito, ar03-higanbana] Vito tells her of the defect that lets him see colour only in other people's blood.[@ar03-vito-story] She calls him "a bloodthirsty beast, hiding behind tragic tales", then cuts him down with Five Lights, letting the fifth slash vanish just short of his heart, and leaves him to die.[@ar03-beautiful, ar03-five-lights] She returns in time to save Lyu from Alfia, and rallies the others in the last clash: attack, do not defend; flinch and you die, and to flee is shame.[@ar03-seventeen, ar03-rally] After Alfia's defeat, Astrea updates every member of the Familia at once and Alize calls them all Level 4; Kaguya joins the attack on [[delphyne|Delphyne]].[@ar03-level, ar03-delphyne] Erebus asks that Vito be left to his fate; Vito, "cut to ribbons by Kaguya", escapes the Dungeon without the arm she cut off.[@ar03-vito-fate] Kaguya says she will never forgive Erebus.[@ar03-erebus]
+Facing Alfia on the eighteenth floor, she vows revenge "even if my decapitated head must bite out her throat".[@ar03-revenge] When Vito arrives, she sends Lyra back to the main fight and takes on him and his followers alone, with her reforged sword Higanbana.[@ar03-vito, ar03-higanbana] Vito tells her of the defect that lets him see colour only in other people's blood.[@ar03-vito-story] She calls him "a bloodthirsty beast, hiding behind tragic tales", then cuts him down with Five Lights, letting the fifth slash vanish just short of his heart, and leaves him to die.[@ar03-beautiful, ar03-five-lights] She returns in time to save Lyu from Alfia, and rallies the others in the last clash: attack, do not defend; flinch and you die, and to flee is shame.[@ar03-seventeen, ar03-rally] Before that last clash, when Alfia plainly cannot keep up the fight, Kaguya joins the call for her surrender: much as it vexes her to give up her revenge, she will not bring her sword down on "such a pitiful sight"; Alfia refuses.[@ar03-kaguya-mercy] After Alfia's defeat, Astrea updates every member of the Familia at once and Alize calls them all Level 4; Kaguya joins the attack on [[delphyne|Delphyne]].[@ar03-level, ar03-delphyne] Erebus asks that Vito be left to his fate; Vito, "cut to ribbons by Kaguya", escapes the Dungeon without the arm she cut off.[@ar03-vito-fate] Kaguya says she will never forgive Erebus.[@ar03-erebus]
 
 ## Death
 
@@ -147,7 +147,7 @@ With four of them left, Alize asked Kaguya and Lyra for their lives so that Lyu 
 
 ## Differences between the texts
 
-- **Name order:** every printed full name puts the family name first except one line of DanMachi 18, which prints *Kaguya Gojouno* two paragraphs before *Gojouno Kaguya*.[@fm18-gokou, ar01-name]
+- **Name order:** every printed full name puts the family name first except one line of DanMachi 18, which prints *Kaguya Gojouno* a few paragraphs before *Gojouno Kaguya*.[@fm18-gokou, ar01-name]
 - **Weapons:** Astrea Record gives her a katana, Higanbana, and short swords named Futaba; DanMachi 14's recollection has her stroke the two short swords at her waist, and against the Juggernaut she uses a longsword. The texts do not say whether any of these are the same blades.[@ar03-higanbana, ar02-futaba, fm14-daggers, fm14-death]
 - **The first night of the Great Conflict:** Astrea Record 1 places her with Lyu and Shakti on South Main Street, and a little later "in the north of the city" with Shakti.[@ar01-south, ar01-north]
 
@@ -166,31 +166,31 @@ With four of them left, Alize asked Kaguya and Lyra for their lives so that Lyu 
 [@ar01-alize]: AR01 | Chapter 1: Astrea Familia | "we can’t look away from reality in the meanwhile"; "…I never can win against you, can I?"
 [@ar01-vito]: AR01 | Chapter 2: Eren | Eighteenth floor: Kaguya parries Vito; "…You’re defective"; "Kaguya’s gently curved blade"; "They want us to go after them."
 [@ar01-greenhorn]: AR01 | Chapter 2: Eren | "Nobody could have possibly saved them all"; "greenhorn"; "the warmth in Kaguya’s words".
-[@ar01-eren]: AR01 | | Evening patrol with Lyu and Lyra; Eren's "What is justice?"; "Idiot…"; "said the far-eastern girl".
+[@ar01-eren]: AR01 | Chapter 4: Questioning Justice | Evening patrol with Lyu and Lyra; Eren's "What is justice?"; "Idiot…"; "said the far-eastern girl".
 [@ar01-council]: AR01 | Chapter 6: Assemblies of Light and Dark | "captains, their seconds, and other top officers"; "beads on your abacus"; "are we not considering the possibility this is all a trap?"
 [@ar01-raid]: AR01 | Chapter 8: Sound of Life | "katana at her hip"; "You take the one on the right, novice"; Lyu "not as proficient in hand-to-hand combat as Kaguya".
 [@ar01-ardee]: AR01 | Chapter 8: Sound of Life | "Kaguya looked on in terror."; "The kid blew herself up?"; Kaguya's bleeding arm. The Japanese edition (file c455, paragraphs 335–337) gives the cry to Lyra, who holds Lyu back, before Kaguya runs up.
 [@ar01-slap]: AR01 | Chapter 9: The Opening Act of Evil | "Draw your sword and fight!"; "Saving even one life is worth it!"; "just like Ardee all over again!!"
 [@ar01-south]: AR01 | Chapter 11: Absolute Evil | "on South Main Street, holding the line alongside Shakti".
 [@ar01-north]: AR01 | Chapter 11: Absolute Evil | "In the north of the city, Kaguya and Shakti shivered with fear".
-[@ar02-stones]: AR02 | | Kaguya about to free her sword against the stone-throwers; Alize stops her.
-[@ar02-mantle]: AR02 | | "These are all part of the mantle of justice."; "the far-eastern girl continued"; "the sadness in Kaguya’s eyes"; she does not fight back.
-[@ar02-counting]: AR02 | | "I was counting on you to succeed where I had failed."; both "with Alize and Astrea Familia since the very beginning".
+[@ar02-stones]: AR02 | Chapter 1: The Taste of Stones | Kaguya about to free her sword against the stone-throwers; Alize stops her.
+[@ar02-mantle]: AR02 | Chapter 1: The Taste of Stones | "These are all part of the mantle of justice."; "the far-eastern girl continued"; "the sadness in Kaguya’s eyes"; she does not fight back.
+[@ar02-counting]: AR02 | Chapter 1: The Taste of Stones | "I was counting on you to succeed where I had failed."; both "with Alize and Astrea Familia since the very beginning".
 [@ar02-deputy]: AR02 | Chapter 3: A Gray Wildflower | "long black hair as smooth as silk"; "deputy captain and prum strategist"; "Only their goddess, Astrea, knew of her painful past"; "Astrea had saved them both"; "the former towered over the latter".
 [@ar02-hero]: AR02 | Chapter 3: A Gray Wildflower | "I can’t think of a word that suits me less."
 [@ar02-camp]: AR02 | Chapter 3: A Gray Wildflower | The evacuee camp and Syr; "We’re just regular old hypocrites"; "far more adept at martial arts than any of her peers"; teamwork with Lyra.
-[@ar02-erebus]: AR02 | | "tricking us like that, Eren"; "Justice is a weapon"; "nothing but regret".
+[@ar02-erebus]: AR02 | Chapter 6: Melody of Silence | "tricking us like that, Eren"; "Justice is a weapon"; "nothing but regret".
 [@ar02-issen-ja]: AR02 | | Printed heading "Chapter 6: Melody of Silence" (not in the evidence map): the Japanese edition (file c4A0) names the draw Issen, a single flash, the name Astrea Record 3 gives Flashing Blade.
-[@ar02-iai]: AR02 | | Katana against Vito's dagger; "Iai Strike: Gleaming Blade!"; "An art passed down through my accursed bloodline."
-[@ar02-alfia]: AR02 | | Alfia stops the blade with two fingers; "Gospel"; "Even Kaguya’s sword exploded into a million tiny pieces."
+[@ar02-iai]: AR02 | Chapter 6: Melody of Silence | Katana against Vito's dagger; "Iai Strike: Gleaming Blade!"; "An art passed down through my accursed bloodline."
+[@ar02-alfia]: AR02 | Chapter 6: Melody of Silence | Alfia stops the blade with two fingers; "Gospel"; "Even Kaguya’s sword exploded into a million tiny pieces."
 [@ar02-futaba-ja]: AR02 | | The Japanese edition (file c4JS) names the technique Futaba, twin leaves, and the short swords it is struck with Futaba too.
-[@ar02-futaba]: AR02 | | "Iai Strike: Futaba!"; "the short swords that bore her technique’s name"; "My sword shed your blood!"
-[@ar02-retreat]: AR02 | | "I swear… I’m going to kill that woman!"; "You’re twice my size!"; "We need that idiotic elf, as well…!"
+[@ar02-futaba]: AR02 | Chapter 6: Melody of Silence | "Iai Strike: Futaba!"; "the short swords that bore her technique’s name"; "My sword shed your blood!"
+[@ar02-retreat]: AR02 | Chapter 6: Melody of Silence | "I swear… I’m going to kill that woman!"; "You’re twice my size!"; "We need that idiotic elf, as well…!"
 [@ar02-happiest]: AR02 | | Astrea: her happiness, that Kaguya lent her strength (the Japanese edition, file c4X7).
-[@ar02-garden]: AR02 | | Kaguya unconscious under Marieux's care; "That must be where Leon is"; she gets up.
-[@ar02-door]: AR02 | | "I’m going to have to break down this door"; "Because she’s Alize Lovell."
+[@ar02-garden]: AR02 | Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell | Kaguya unconscious under Marieux's care; "That must be where Leon is"; she gets up.
+[@ar02-door]: AR02 | Chapter 9: The Story of a Perfectly Normal Girl: Alize Lovell | "I’m going to have to break down this door"; "Because she’s Alize Lovell."
 [@ar02-peon]: AR02 | | For a while Lyu's job is to be their servant (the Japanese edition, file c6TM).
-[@ar03-aiz]: AR03 | | Kaguya on Aiz's swordplay. The Japanese edition (file cTV, paragraph 40) calls it an asura's rather than a master swordsman's, at not yet ten.
+[@ar03-aiz]: AR03 | Chapter 1: March and Break | Kaguya on Aiz's swordplay. The Japanese edition (file cTV, paragraph 40) calls it an asura's rather than a master swordsman's, at not yet ten.
 [@ar03-revenge]: AR03 | Chapter 4: Apocalypse Cometh | "even if my decapitated head must bite out her throat!"
 [@ar03-vito]: AR03 | Chapter 4: Apocalypse Cometh | Vito arrives; "Get back, Lyra! And don’t tell the others!"
 [@ar03-higanbana]: AR03 | Chapter 4: Apocalypse Cometh | "The name of her sword was Higanbana"; forged in Orario, shattered by Alfia, reforged; "Flashing Blade"; Vito's "princess". The Japanese edition (file c370, paragraphs 283 and 289) calls Flashing Blade the hateful Far Eastern technique named Issen and has Vito call her young lady.
@@ -233,3 +233,4 @@ With four of them left, Alize asked Kaguya and Lyra for their lives so that Lyu 
 [@fc03-ideals]: FC03 | | "A Simple Moment from Five Years Ago": "You even brought Adi into it."; "a merciless whip"; "I hate that naive little elf."; "tsundere"; both advising Lyu.
 [@fc03-future]: FC03 | | "A Simple Moment from Five Years Ago": "She’ll fester, of course."; "brandishing a foolish justice".
 [@ss01-grins]: SS01 | Eyewitness Account: The Malfunctioning Elf | "the sneering grins of Kaguya and Lyra".
+[@ar03-kaguya-mercy]: AR03 | Chapter 8: The Price of Talent | "As much as it vexes me to give up on my revenge, I will not bring my sword down on such a pitiful sight."; "When will you vermin stop disappointing me?!"

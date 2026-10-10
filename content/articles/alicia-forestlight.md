@@ -62,7 +62,7 @@ In Sword Oratoria 10, as Loki Familia, the Xenos and the [[evils|Evils]]' remnan
 
 When Finn explains the alliance with the [[xenos|Xenos]] in Sword Oratoria 11, Alicia is the last to speak. A siren protected her "of her own volition", she says, and she does not want to accept it, but she fears that denying its selflessness would make her lower than the monsters.[@so11-testimony] Because of her known pride, no one in Loki Familia fails to understand what her words mean.[@so11-testimony]
 
-In Sword Oratoria 12 Rei is hidden in Twilight Manor. Alicia brings her a meal and sits with her in the northwest spire, unable to meet her eyes or find the words she wants to say, while still trying to approach her.[@so12-spire] During the second assault on Knossos she calls on Rei to find Demeter Familia's hidden hostages by echolocation.[@so12-hostages] After [[dionysus|Dionysus]] returns to Heaven holding [[filvis|Filvis]], Alicia is angered on behalf of her fellow elf at the god's treatment of her and asks what the "terrible aftertaste" is even though they won; Loki tells her not to judge a god's love by children's standards.[@so12-filvis, so12-aftertaste]
+In Sword Oratoria 12 Rei is hidden in Twilight Manor. Alicia brings her a meal and sits with her in the northwest spire, unable to meet her eyes or find the words she wants to say, while still trying to approach her.[@so12-spire] This time she does not look away, and of everything she wants to say, her words to Rei are "…Could you help us?"; the siren answers "Of course", for to be able to join hands with them is what the Xenos dream of.[@so12-help] During the second assault on Knossos she calls on Rei to find Demeter Familia's hidden hostages by echolocation.[@so12-hostages] After [[dionysus|Dionysus]] returns to Heaven holding [[filvis|Filvis]], Alicia is angered on behalf of her fellow elf at the god's treatment of her and asks what the "terrible aftertaste" is even though they won; Loki tells her not to judge a god's love by children's standards.[@so12-filvis, so12-aftertaste]
 
 ## Lefiya's senior
 
@@ -72,7 +72,7 @@ After Filvis's death, Lefiya avoids the [[elegia|Elegia]] festival by arranging 
 
 ## Magic
 
-Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her and summons it through [[magic#elf-ring|Elf Ring]] in Sword Oratoria 13; the Magic page has its printed chant and effect.[@so13-hail] Alicia's own casting of it is not described in the covered volumes. As a new Level 2 in Astrea Record 3 she scatters a volley of blue ice, and in Sword Oratoria 10 she stops an enemy with "a freezing spell"; neither passage names the spell.[@ar03-battlements, so10-key]
+Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her and summons it through [[magic#elf-ring|Elf Ring]] in Sword Oratoria 13; the Magic page has its printed chant and effect.[@so13-hail] Alicia's own casting of it was not located in the checked text. As a new Level 2 in Astrea Record 3 she scatters a volley of blue ice, and in Sword Oratoria 10 she stops an enemy with "a freezing spell"; neither passage names the spell.[@ar03-battlements, so10-key]
 
 ## Open questions
 
@@ -80,10 +80,10 @@ Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her 
 > - Whether the ice volley of Astrea Record 3 and the freezing spell of Sword Oratoria 10 are Hail Dust.[@ar03-battlements, so10-key, so13-hail]
 > - When she reached Level 3 and Level 4.[@ar03-battlements, so08-reserve]
 
-[@ar03-battlements]: AR03 | | An elf girl recently made Level 2; "Alicia! Where’s that support?"; the battlements of the manor; Twilight Manor's gates. The Japanese edition (file cTV, paragraphs 249 to 253) has her, wanting at least to play the archer, scatter shot of blue ice from the manor's battlements, a falling rain of ice.
+[@ar03-battlements]: AR03 | Chapter 1: March and Break | An elf girl recently made Level 2; "Alicia! Where’s that support?"; the battlements of the manor; Twilight Manor's gates. The Japanese edition (file cTV, paragraphs 249 to 253) has her, wanting at least to play the archer, scatter shot of blue ice from the manor's battlements, a falling rain of ice.
 [@so04-support]: SO04 | Last Chapter: To Adventure | "those joining include Raul, Narfi, Alicia, Cruz, and Lefiya".
 [@so04-swords]: SO04 | Last Chapter: To Adventure | "Narfi, Alicia, Cruz! Your magic swords!"
-[@so05-blondes]: SO05 | | Tsubaki asks Alicia and Narfi, "the two beautiful blondes, elf and human respectively".
+[@so05-blondes]: SO05 | Prologue: A Moment of Water and Rest | Tsubaki asks Alicia and Narfi, "the two beautiful blondes, elf and human respectively".
 [@so05-crozzo]: SO05 | Interlude: Flip Side of the Compromise | Normally calm, composed and sisterly; her green eyes; Tsubaki explains Welf disowned his lineage. The Japanese edition (file c2BG, paragraph 158) has her call the Crozzo clan the cause of the burning of her fellow elves' villages.
 [@so05-celdia]: SO05 | Interlude: Flip Side of the Compromise | "Lady Celdia is an eternal saint!"
 [@so06-beach]: SO06 | Chapter 2: Port Meren | Alicia in a one-piece suit; "With Alicia in the lead, the elves sent the goddess facedown into the sand."
@@ -91,8 +91,8 @@ Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her 
 [@so06-dust]: SO06 | Chapter 5: A Duo of Sun and Moon | Alicia accosting Borg Murdock with a sack of the "magic dust".
 [@so07-map]: SO07 | Chapter 3: Feast of the Dead | Riveria's magic circle as radar; "Alicia! Grab a few people and start whippin’ up a map!"
 [@so08-reserve]: SO08 | Chapter 5: Battered Wolf | "a Level 4 in Loki Familia’s reserve crew"; her protest about Bete.
-[@so09-timing]: SO09 | | Alicia and Lefiya's spell. The Japanese edition (file c3F, paragraph 29) has her call the perfect moment to fire.
-[@so09-spotter]: SO09 | | "Alicia, the spotter for Lefiya’s support fire"; a veteran even counting the entire familia. The Japanese edition (file cBA, paragraph 21) calls her one of the older members even within the Familia.
+[@so09-timing]: SO09 | Prologue: Recollections of an Elf | Alicia and Lefiya's spell. The Japanese edition (file c3F, paragraph 29) has her call the perfect moment to fire.
+[@so09-spotter]: SO09 | Chapter 1: A Scene at the Camp | "Alicia, the spotter for Lefiya’s support fire"; a veteran even counting the entire familia. The Japanese edition (file cBA, paragraph 21) calls her one of the older members even within the Familia.
 [@so10-patrol]: SO10 | Chapter 2: Someone Named Fool | The lower-ranking members patrolling under the command of Alicia and Cruz. The Japanese edition (file cM4, paragraph 185) calls both members of the second army.
 [@so10-squad]: SO10 | Chapter 4: The Skirmish on Daedalus Street: Behind the Scenes | "Her second-in-command, Alicia, manipulated her short bow and magic".
 [@so10-key]: SO10 | Chapter 5: Brave Soul! | A freezing spell; the hidden key, "their second one".
@@ -118,3 +118,4 @@ Alicia's ice magic is [[magic#hail-dust|Hail Dust]]. Lefiya learned it from her 
 [@so13-elleaf]: SO13 | Fairy Canon: 2 | "A black-furred cat person and an amber-haired elf…Alsha and Elleaf?!"; the two are Anakity and Alicia, come to recruit.
 [@so10-alsha]: SO10 | Chapter 5: Brave Soul! | Anakity: "Her second name was Alsha".
 [@so13-alicia-ja]: SO13 | | The Japanese edition prints her name in katakana; the title it pairs, by inference, with her is written in kanji meaning garden of purity, with the reading Elleaf; the infobox gives the printed name and the kanji.
+[@so12-help]: SO12 | Chapter 2: An Evil Omen | "When Tione glanced at Alicia, she did not look away this time."; "…Could you help us?"; "The siren smiled in response."; "to be able to join hands with you, that is what we dream of."

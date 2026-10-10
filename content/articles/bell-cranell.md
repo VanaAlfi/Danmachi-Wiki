@@ -7,7 +7,7 @@
   "continuity": "light-novel",
   "summary": "Human adventurer and the first member of Hestia Familia. He rises from Level 1 to Level 5 over DanMachi 1–18, driven by the Skill Liaris Freese.",
   "aliases": ["Little Rookie", "Rabbit Foot", "Rapi Flemish", "Bellucchi", "Record Holder", "Regulus Arne"],
-  "spoilers": "DanMachi Vols. 1–20, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 1",
+  "spoilers": "DanMachi Vols. 1–20, Sword Oratoria Vol. 12, Astrea Record Vol. 3 and Minor Myths and Legends Vol. 1",
   "related": ["hestia-familia", "hestia", "skills", "aiz-wallenstein", "syr-flover", "freya", "lilliluka-erde", "welf-crozzo", "level", "status", "magic"],
   "infobox": {
     "title": "Bell Cranell",
@@ -29,7 +29,7 @@
   }
 }
 ---
-**Bell Cranell** is a human adventurer and the first member of [[hestia-familia|Hestia Familia]].[@fm01-bell] He is fourteen when he arrives in [[orario|Orario]] hoping to become a hero.[@fm01-bell] His Level-up to Level 2 is the fastest on record, and by DanMachi 18 he is Level 5. His growth is driven by a hidden Skill, [[skills#liaris-freese|Liaris Freese]].[@fm03-level2, fm18-level5, fm01-hidden]
+**Bell Cranell** is a human adventurer and the first member of [[hestia-familia|Hestia Familia]].[@fm01-bell] He is also its captain.[@fm11-bell-captain] He is fourteen when he arrives in [[orario|Orario]] hoping to become a hero.[@fm01-bell] His Level-up to Level 2 is the fastest on record, and by DanMachi 18 he is Level 5. His growth is driven by a hidden Skill, [[skills#liaris-freese|Liaris Freese]].[@fm03-level2, fm18-level5, fm01-hidden]
 
 ## Background
 
@@ -45,12 +45,80 @@ Before [[hestia|Hestia]] found him, Bell had been turned away by other Familias.
 | 2 | DanMachi 3 | After defeating a [[minotaur|Minotaur]] alone; the fastest Level-up on record. At [[denatus|Denatus]] he receives the title *Little Rookie*.[@fm03-level2, fm04-rookie] From then on he is known as "the record holder".[@fm04-record, ss01-record] He chooses the Development Ability Luck and gains the Skill Argonaut.[@fm04-luck, fm04-argonaut] |
 | 3 | DanMachi 7 | Announced at the start of the volume.[@fm07-level3] |
 | 4 | DanMachi 12 | After surviving his fight with [[asterios|Asterios]]; he gains the Skill Ox Slayer and the title *Rabbit Foot*.[@fm12-level4, fm12-title] |
-| 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks and the Skill Vanadis Tevere.[@fm18-level5, fm18-vanadis] In DanMachi 20 the Denatus first postpones "the question of Bell’s second name"; in the epilogue it gives him the title *Regulus Arne*, "One who brings hope", and Hestia "had no choice but to raise her hands in defeat".[@fm20-postpone, fm20-regulus] |
+| 5 | DanMachi 18 | After his last Level 4 update, taken on his return from [[folkvangr|Folkvangr]]. He gains the Development Ability Rapid Attacks and the Skill Vanadis Tevere.[@fm18-level5, fm18-vanadis] In DanMachi 15, after the deep levels, Hestia already senses that he is ready to level up again but keeps it to herself.[@fm15-bell-postpone] In DanMachi 20 the Denatus first postpones "the question of Bell’s second name"; in the epilogue it gives him the title *Regulus Arne*, "One who brings hope", and Hestia "had no choice but to raise her hands in defeat".[@fm20-postpone, fm20-regulus] |
 
 At Level 5 Bell finds that each ability point takes far more effort than before, and his growth slows.[@fm20-level5]
 
 > [!NOTE] Captivity is not conversion
 > During DanMachi 17 Bell spends more than two weeks in Folkvangr and grows stronger there, but he stays at Level 4 and does not leave Hestia Familia.[@fm17-seizure, fm17-folkvangr]
+
+## Status sheets {#status-sheets}
+
+{{nocite}} One tab per Level, each copying the last Status sheet of that Level that the English volumes print as text in the story: ability names, grade letters and numbers as printed. Where a sheet records an update, each ability is printed as the old value, an arrow and the new value. Sheets printed only as pictures are not transcribed here.
+
+{{tabs|status-sheet}}
+{{tab|Level 1}}
+| Ability | As printed in DanMachi 3, Chapter 4[@sheet.fm03-lv1] |
+|---|---|
+| Strength | S 982 |
+| Defense | S 900 |
+| Utility | S 988 |
+| Agility | SS 1049 |
+| Magic | B 751 |
+
+The sheet lists the basic abilities only.[@sheet.fm03-lv1]
+
+{{tab|Level 2}}
+| Ability | As printed in Minor Myths and Legends 1[@sheet.ss01-lv2] |
+|---|---|
+| Strength | SS 1088 |
+| Defense | SS 1029 |
+| Dexterity | SS 1094 |
+| Agility | SSS 1302 |
+| Magic | A 883 |
+
+Two days before the War Game; the sheet lists the basic abilities only.[@sheet.ss01-lv2]
+
+{{tab|Level 3}}
+| Ability | As printed in Minor Myths and Legends 1[@sheet.ss01-lv3] |
+|---|---|
+| Strength | D 577→A 812 |
+| Defense | D 508→A 855 |
+| Dexterity | D 582→A 814 |
+| Agility | A 807→S 998 |
+| Magic | D 531→B 777 |
+| Luck | H |
+| Immunity | H |
+
+On the evening of the Xenos rescue mission.[@sheet.ss01-lv3]
+
+{{tab|Level 4}}
+| Ability | As printed in DanMachi 18, Chapter 7[@sheet.fm18-lv4] |
+|---|---|
+| Strength | SS1033->SSS1379 |
+| Defense | SSS1218->1501 |
+| Dexterity | SS1041->SSS1383 |
+| Agility | SS1089->SSS1442 |
+| Magic | S965->SSS1251 |
+
+His last update as a Level 4 adventurer, on an ability-only update card.[@sheet.fm18-lv4]
+
+{{tab|Level 5}}
+| Ability | As printed in DanMachi 20, Chapter 2[@sheet.fm20-lv5] |
+|---|---|
+| Strength | G222->258 |
+| Defense | F340->349 |
+| Dexterity | G245->287 |
+| Agility | F311->368 |
+| Magic | I98->H107 |
+| Luck | F |
+| Immunity | G |
+| Escape | G |
+| Successive Attacks | I |
+
+The sheet also lists the Magic [[#firebolt|Firebolt]] and the Skills [[skills#argonaut|Argonaut]], [[skills#ox-slayer|Ox Slayer]] and [[skills#vanadis-tevere|Vanadis Tevere]].[@sheet.fm20-lv5]
+
+{{/tabs}}
 
 ## Abilities
 
@@ -59,13 +127,13 @@ At Level 5 Bell finds that each ability point takes far more effort than before,
 {{nocite}} Each Skill has its own section on the [[skills|Skills]] page.
 
 - **[[skills#liaris-freese|Liaris Freese]]** (first printed as *Realis Phrase*) gives rapid growth for as long as his feelings last. Hestia keeps it off the Status copies she gives him.[@fm01-hidden] In DanMachi 8 she tells the rest of the Familia that it is driven by his feelings for [[aiz-wallenstein|Aiz Wallenstein]].[@fm08-hestia] It also lets him resist [[ishtar|Ishtar]]'s charm in DanMachi 7.[@fm07-charm]
-- **[[skills#argonaut|Argonaut]]**, which appears on his first Level 2 card, charges an attack while he pictures a heroic deed.[@fm04-argonaut] The longest charge rises from three minutes to four after he reaches Level 4, and is five minutes in DanMachi 20.[@fm12-charge, fm20-argonaut]
+- **[[skills#argonaut|Argonaut]]**, which appears on his first Level 2 card, charges an attack while he pictures the heroes he admires.[@fm04-argonaut, fm04-argonaut-hero] The longest charge rises from three minutes to four after he reaches Level 4, and is five minutes in DanMachi 20.[@fm12-charge, fm20-argonaut]
 - **[[skills#ox-slayer|Ox Slayer]]**, gained at Level 4, strengthens him against Minotaur-type opponents.[@fm12-level4]
 - **[[skills#vanadis-tevere|Vanadis Tevere]]**, gained at Level 5, activates when a Charm effect is applied to him, sharply raising all his abilities and restoring Mind and stamina.[@fm18-vanadis]
 
 ### Magic in brief {#magic-in-brief}
 
-**[[#firebolt|Firebolt]]**, which he learns from a [[grimoire|grimoire]] in DanMachi 2, is Swift-Strike Magic; overusing it the first time leaves him unconscious from Mind Down.[@fm02-firebolt, fm03-swift] The grimoire came from [[freya|Freya]], who left it at [[the-benevolent-mistress|The Benevolent Mistress]] for him.[@fm02-grimoire]
+**[[#firebolt|Firebolt]]**, which he learns from a [[grimoire|grimoire]] in DanMachi 2, is Swift-Strike Magic; overusing it the first time leaves him unconscious from Mind Down.[@fm02-firebolt, fm03-swift] The grimoire had been left at [[the-benevolent-mistress|The Benevolent Mistress]]; in DanMachi 17 [[freya|Freya]] says that she gave it to him.[@fm02-grimoire, fm17-bell-grimoire]
 
 ### Development Abilities
 
@@ -125,20 +193,24 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 
 | Volume | Events |
 |---|---|
-| DanMachi 1 | Joins Hestia, is saved from a Minotaur by Aiz, and begins growing at an unusual rate. Kills the [[monsters#silverback|silverback]] that Freya releases.[@fm01-bell, fm01-silverback] |
+| DanMachi 1 | Joins Hestia, is saved from a Minotaur by Aiz, and begins growing at an unusual rate. Kills the [[monsters#silverback|silverback]] that Freya releases.[@fm01-bell, fm01-silverback] For that fight Hestia gives him the [[hestia-knife|Hestia Knife]], a weapon that grows along with him.[@fm01-bell-knife] |
 | DanMachi 2 | Learns Firebolt and rescues [[lilliluka-erde|Lilliluka Erde]].[@fm02-firebolt, fm02-lilly] |
-| DanMachi 3 | Defeats the Minotaur that [[ottar|Ottar]] has trained for him and reaches Level 2.[@fm03-level2] |
+| DanMachi 3 | Defeats the Minotaur that [[ottar|Ottar]] has trained for him and reaches Level 2.[@fm03-bell-ottar, fm03-level2] Before the fight Aiz trains him, out of sight to avoid trouble between their Familias, and her teachings let him hold his own against the Minotaur.[@fm03-bell-aiz-training, fm03-bell-aiz-teachings] |
+| DanMachi 4 | Agrees to a direct contract with the smith [[welf-crozzo|Welf Crozzo]], who joins his battle party.[@fm04-bell-welf] |
 | DanMachi 5 | Is forced down to [[floor-18|Floor 18]] with his party, where they fight the Black [[goliath|Goliath]]. Bell destroys it with a charged strike.[@fm05-goliath] Before that, the adventurer [[mord-latro|Mord Latro]] kidnaps Hestia and ambushes Bell with the invisibility of the Hades Head; Bell later saves Mord from the Goliath's monsters.[@mord.fm05-kidnap, mord.fm05-saved] |
-| DanMachi 6 | Loses to [[hyacinthus|Hyacinthus]], then trains with Aiz and [[hyrute-sisters|Tiona]], and defeats Hyacinthus to win the [[war-game|War Game]] against [[apollo-familia|Apollo Familia]].[@fm06-training, fm06-wargame] |
+| DanMachi 6 | Loses to [[hyacinthus|Hyacinthus]], then trains with Aiz and [[hyrute-sisters|Tiona]], and defeats Hyacinthus to win the [[war-game|War Game]] against [[apollo-familia|Apollo Familia]].[@fm06-bell-hyacinthus, fm06-training, fm06-wargame] |
 | DanMachi 7 | Reaches Level 3 and rescues [[haruhime|Haruhime]] from [[ishtar-familia|Ishtar Familia]].[@fm07-level3, fm07-haruhime] |
 | DanMachi 9–10 | Shelters the [[xenos|Xenos]] girl [[wiene|Wiene]] and chooses to help the Xenos, at the cost of his reputation.[@fm09-wiene, fm10-xenos] |
-| DanMachi 11 | Accepts Asterios's rematch and loses; the fight largely restores his reputation.[@fm11-asterios, fm11-reputation] |
-| DanMachi 12 | Reaches Level 4.[@fm12-level4] |
+| DanMachi 11 | Accepts Asterios's rematch and loses; the fight largely restores his reputation.[@fm11-asterios, fm11-reputation] Earlier in the volume Hestia Familia helps [[fels|Fels]] lead the Xenos to [[knossos|Knossos]]: Bell draws off [[loki-familia|Loki Familia]] and stands against Aiz to protect Wiene.[@fm11-bell-decoy, fm11-bell-aiz] |
+| DanMachi 12 | Reaches Level 4.[@fm12-level4] His level-up brings a Guild order for an expedition, which Hestia Familia makes with allied Familias.[@fm12-bell-expedition] |
 | DanMachi 13–14 | Falls to [[floor-37|Floor 37]] with [[lyu-leon|Lyu Leon]] and survives the [[juggernaut|Juggernaut]] with her. [[amid|Amid]] rebuilds his injured left arm.[@fm13-juggernaut, fm14-arm] |
 | DanMachi 16 | During the [[elegia#goddess-festival|Goddess Festival]] he goes out with Syr, turns down her confession, and exposes the Syr of the second day as an impostor.[@fm16-date] |
-| DanMachi 17 | Is taken by Freya and trained in Folkvangr; he learns the truth about Freya and Syr and resolves to save her.[@fm17-seizure, fm17-folkvangr] |
+| DanMachi 17 | Is taken by Freya and trained in Folkvangr; he learns the truth about Freya and Syr and resolves to save her.[@fm17-seizure, fm17-folkvangr] Freya's charm extends to all of Orario: in Hedin's words every person and deity except Bell has their memories altered, so that the city believes he has always been a member of [[freya-familia|Freya Familia]].[@fm17-bell-charm] |
 | DanMachi 18 | Reaches Level 5, helps defeat Ottar, refuses to be Freya's Odr and scatters her flower to win the Familia War.[@fm18-level5, fm18-odr] |
 | DanMachi 19 | Enters the [[school-district|School District]] under the name Rapi Flemish.[@fm19-rapi] |
+| DanMachi 20 | In the secret final round of the [[orariad|Orariad]] he fights [[leon-verdenberg|Leon Verdenberg]], the School District's strongest instructor. When a dragon that has escaped its seal interrupts them, Bell defeats it with the help of Leon and [[nina-tulle|Nina]], and Leon proposes that the match be recorded as a draw.[@fm20-bell-leon] |
+| Sword Oratoria 12 | In the battle for [[knossos|Knossos]], the [[xenos|Xenos]] siren [[rei|Rei]] carries him on [[finn-deimne|Finn]]'s orders to the demi-spirit [[corrupted-spirit#nidhogg|Nidhogg]]. While [[loki-familia|Loki Familia]] shields him, he charges his Skill, triggered this time by his admiration for Loki Familia's adventurers, and destroys Nidhogg with his Hero's Attack.[@so12-bell-nidhogg] |
+| Astrea Record 3 | Seven years after the [[great-conflict|Great Conflict]], [[hermes|Hermes]] tells him about the war on the way to a graveyard. There, after remarking that Alfia's actions were not in vain, Hermes leads him to untended graves set apart from the others and asks him to lay two flowers on them and pray, though Bell did not know the dead; Hermes does not say whose graves they are.[@ar03-bell-graves] |
 | Minor Myths and Legends 1 | In "Blue Twilight" Bell has the knife Welf made him sharpened by [[minor-characters#dald|Dald]], a dwarf who makes "a living honing adventurers’ weapons" and to whom [[eina-tulle|Eina]] introduced him as a beginner. Bell donates his old knife, which Dald hangs on a wall of weapons, though "Most of the names up on that wall died a while back".[@ss01-dald] |
 
 ## Relationships
@@ -146,6 +218,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 - **[[hestia|Hestia]]** is his goddess; she gave him his Falna and keeps his Skill secret from him.[@fm01-hidden]
 - **[[aiz-wallenstein|Aiz Wallenstein]]**, who saved him from the Minotaur, is the person his Skill's growth is tied to.[@fm08-hestia]
 - **[[syr-flover|Syr Flover]]** befriends him at the tavern; she is Freya's persona. After the Familia War he promises to keep watching over Syr so that she does not hurt others or herself.[@fm17-seizure, fm18-syr]
+- **[[freya|Freya]]** is obsessed with him; in DanMachi 2 the narration says his soul is a colour her eyes had never seen before: clear.[@fm02-bell-freya-soul]
 
 ## Open questions
 
@@ -158,8 +231,8 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm01-hidden]: FM01 | Chapter 4: That’s Why I Want to Help | Hestia withholds Bell's Skill.
 [@fm01-silverback]: FM01 | | The silverback.
 [@fm02-firebolt]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Firebolt learned; Mind Down.
-[@fm02-grimoire]: FM02 | Chapter 3: Magic, Magic That Summons a Lap | Freya's grimoire.
-[@fm02-lilly]: FM02 | | Lilly rescued.
+[@fm02-grimoire]: FM02 | Chapter 4: Divine Wine | The grimoire left at the tavern: "The dimwit who left it here is at fault."
+[@fm02-lilly]: FM02 | Chapter 5: Reset | Lilly rescued.
 [@fm03-level2]: FM03 | Chapter 5: A Hero’s Desire | Fastest adventurer on record to reach Level 2.
 [@fm03-swift]: FM03 | Chapter 2: Ox and Hare Special Training | Firebolt as Swift-Strike Magic.
 [@fm04-rookie]: FM04 | Chapter 1: Denatus | The title Little Rookie.
@@ -172,13 +245,13 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@mord.fm05-kidnap]: FM05 | Chapter 5: The Outlaws’ Party | Mord uses the invisibility of the item from Hermes to kidnap Hestia; the duel on the plateau.
 [@mord.fm05-saved]: FM05 | Chapter 6: Praise to the Heroes | Bell uses Mord's longsword to save him from the bugbears (the Japanese edition, file part0027, paragraph 107).
 [@fm06-wargame]: FM06 | Chapter 5: Our War Game | Bell defeats Hyacinthus.
-[@fm06-training]: FM06 | | Training with Aiz and Tiona.
+[@fm06-training]: FM06 | Chapter 4: Those Who Gather | Training with Aiz and Tiona.
 [@fm07-level3]: FM07 | Chapter 1: Smooth Sailing? | Level 3 announced.
-[@fm07-charm]: FM07 | | Resistance to Ishtar's charm.
-[@fm07-haruhime]: FM07 | | Haruhime rescued.
+[@fm07-charm]: FM07 | Chapter 6: Yearning of a Hero | Resistance to Ishtar's charm.
+[@fm07-haruhime]: FM07 | Chapter 7: Goddess War | Haruhime rescued.
 [@fm08-hestia]: FM08 | Chapter 2: The Prum’s Proposal | Hestia explains the Skill to the others.
-[@fm09-wiene]: FM09 | | Wiene rescued and sheltered.
-[@fm10-xenos]: FM10 | | Bell sides with the Xenos.
+[@fm09-wiene]: FM09 | Chapter 4: Mission | Wiene rescued and sheltered.
+[@fm10-xenos]: FM10 | Chapter 9: Dreams of Beasts | Bell sides with the Xenos.
 [@fm11-asterios]: FM11 | Chapter 7: The Return of the Hero | The rematch.
 [@fm11-reputation]: FM11 | Epilogue: And So I Start to Run Again | His reputation repaired.
 [@fm12-level4]: FM12 | Chapter 1: Rabbit Close-Up | Level 4 update; Ox Slayer.
@@ -186,8 +259,8 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm12-charge]: FM12 | Chapter 2: Adventure Intermission | Argonaut's four-minute limit.
 [@fm13-juggernaut]: FM13 | | The Juggernaut; the fall to Floor 37.
 [@fm14-arm]: FM14 | | Survival on Floor 37; Amid rebuilds his arm.
-[@fm15-rejections]: FM15 | | Rejections before Hestia.
-[@fm16-date]: FM16 | | The festival date and the second-day Syr.
+[@fm15-rejections]: FM15 | Chapter 1: A Day of Departure, a Day of Beginning | Rejections before Hestia.
+[@fm16-date]: FM16 | Chapter 6: The Wish's Cost | The festival date and the second-day Syr.
 [@fm17-seizure]: FM17 | Chapter 1: The Opening of Hostilities | Freya demands Bell's conversion; it never happens.
 [@fm17-folkvangr]: FM17 | Chapter 5: The End of Her World | More than two weeks in Folkvangr.
 [@fm18-level5]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | Last Level 4 update; Level 5; Rapid Attacks.
@@ -213,7 +286,7 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@firebolt.fm12-argo]: FM12 | Chapter 6: The Hero’s Sacred Flame | Sixty-second charge; Argo Vesta.
 [@firebolt.fm13-reflect]: FM13 | Chapter 5: Calamity Arrives | Seventeen shots; reflection; Dual Charge.
 [@firebolt.fm19-fake]: FM19 | Chapter 4: Study, Reflect, Experiment, Advance | Borrowed chant; loss of control; Ignis Fatuus.
-[@firebolt.fm19-fake2]: FM19 | | Fake incantation used again with a normal Firebolt.
+[@firebolt.fm19-fake2]: FM19 | Chapter 5: My Dream | Fake incantation used again with a normal Firebolt.
 [@fm04-record]: FM04 | Chapter 2: Changing Environment, New Relationships | "He’s the record holder now."; "Seriously? You’re Little Rookie?! The new record holder!"
 [@ss01-record]: SS01 | | Printed heading "Observations of a Mage" (not in the evidence map): "His aliases of Little Rookie and Record Holder are no mere embellishment."
 [@fm20-postpone]: FM20 | Chapter 1: Orario Rumble | Magni and Modi "postpone the question of Bell’s second name for the moment".
@@ -222,3 +295,26 @@ Bell's Skill Argonaut charges an action with power before it is released; it is 
 [@fm12-bell-ja]: FM12 | | The Japanese edition prints his name in katakana and writes his title Rabbit Foot in kanji meaning the white rabbit's legs, with the reading Rabbit Foot; the infobox gives the printed name and the kanji.
 [@fm05-bell-title-ja]: FM05 | | The Japanese edition writes Little Rookie in kanji meaning the unfinished boy, with the reading Little Rookie.
 [@fm20-bell-title-ja]: FM20 | | The Japanese edition writes his title in kanji meaning light of the lion rabbit, with the reading Regulus Arne.
+[@fm17-bell-grimoire]: FM17 | Double Role I | "I gave him a grimoire. To make him stronger, worthier."
+[@fm04-argonaut-hero]: FM04 | Chapter 3: The Smith’s Situation | "I tell her that it came to life when I thought about the people I admire, heroes."; "More than likely, it needs to charge before releasing energy."
+[@fm03-bell-ottar]: FM03 | Chapter 2: Ox and Hare Special Training | "Ottar wanted proof that Bell was deserving of special treatment."; "Ottar was prepared to “train” it and fully intended to do so."
+[@fm06-bell-hyacinthus]: FM06 | Chapter 2: Shall We Dance? | "The handsome man from Hibachitei, the one who beat me so easily"
+[@fm15-bell-postpone]: FM15 | Interlude: Growth, the Present, and Rye Bread | "The truth was that Bell seemed on the verge of leveling up, but Hestia kept that to herself."; "Bell was ready to level up again after such a short period of time"
+[@fm04-bell-welf]: FM04 | Chapter 2: Changing Environment, New Relationships | "Would you sign a direct contract with me, Bell Cranell?"; "All right, then. I’ll sign a direct contract with you, Mr. Welf."; "Let me join your battle party."
+[@fm17-bell-charm]: FM17 | Chapter 2: Alone Inside a Sandbox | "Aside from that foolish rabbit, every person and deity has been charmed and had their memories altered."; "believe that Bell Cranell has always a member of Freya Familia"; "Her charm extended to all of Orario."
+[@fm20-bell-leon]: FM20 | Chapter 4: The Knight’s Afterglow | "The final round of the Orariad that was kept secret even from us!"; "the School District’s strongest instructor, Leon Verdenberg"; "the dragon that had escaped the seal"; "Without Professor Leon’s and Nina’s help, I would never have been able to defeat that dragon."; "I propose that this match be recorded as a draw."
+[@fm11-bell-captain]: FM11 | Chapter 2: Diverging Strands, Intersecting Plans | "the still-green captain of Hestia Familia"; "The moment you, our captain, took action, it became the familia’s problem as well."
+[@fm01-bell-knife]: FM01 | Chapter 6: Bump of Chicken! | "it will take its first breath when it reaches the boy Bell Cranell’s hands and grow from there"; "Now, the “Hestia Knife” was growing alongside Bell."
+[@fm03-bell-aiz-training]: FM03 | Chapter 3: Black Raid | "Aiz’s plan to train Bell here, in order to avoid an issue between their Familias"
+[@fm03-bell-aiz-teachings]: FM03 | Chapter 5: A Hero’s Desire | "Every one of the girl’s teachings that had been pounded into his body now put Bell on equal footing with the Minotaur."
+[@fm11-bell-decoy]: FM11 | Chapter 3: The Night Before Battle | "Bell Cranell, I want you to distract Loki Familia"
+[@fm11-bell-aiz]: FM11 | Chapter 5: Ultra Soul! | "This girl hasn’t done any harm!"; "They were advancing down one of the underground routes leading to Knossos."
+[@fm12-bell-expedition]: FM12 | Chapter 2: Adventure Intermission | "In essence, Bell’s level-up had brought on this expedition mission."; "Barely any time had passed after the alliance was officially formed"
+[@fm02-bell-freya-soul]: FM02 | | "Freya was obsessed with the boy, with Bell."; "Bell’s soul was a color that Freya’s eyes had never seen before: clear."
+[@so12-bell-nidhogg]: SO12 | Chapter 8: A Heroes' Chorus | "He had given orders for the siren Rei to carry Bell to Nidhogg on the eleventh floor."; "swearing to protect that boy until the end"; "His Skill was triggered by the thing he admired most"; "At the same time as Bell unleashed his Hero’s Attack"; "The reality that Nidhogg had been destroyed by the Hero’s Attack."
+[@ar03-bell-graves]: AR03 | Epilogue: On and on Down the Unending Road of Justice | "On the way to the graveyard, Bell had heard Hermes’s experiences during the war of good and evil."; "All the while, he spoke of the events of seven years ago"; "Alfia’s actions were not in vain after all"; "I hardly think they could be buried alongside everyone else"; "Could I ask you to lay these two flowers for me?"; "I know you didn’t know them, but please, pray for them."
+[@sheet.fm03-lv1]: FM03 | Chapter 4: The Meaning of Adventure | Hestia thinks about "what she had seen written on his back": "Bell Cranell"; "Level One"; "Strength: S 982 Defense: S 900 Utility: S 988 Agility: SS 1049 Magic: B 751". His last Level 1 sheet printed as text; he reaches Level 2 in Chapter 5.
+[@sheet.ss01-lv2]: SS01 | | Printed heading "You and I: The Eve of War" (not in the evidence map): "Level 2"; "Strength: SS 1088 Defense: SS 1029"; "Dexterity: SS 1094 Agility: SSS 1302"; "Magic: A 883". Hestia "looked down at her follower’s updated stats"; "It was two days before the War Game".
+[@sheet.ss01-lv3]: SS01 | | Printed heading "Goddess Intermission" (not in the evidence map): "Level 3"; "Strength: D 577→A 812 Defense: D 508→A 855"; "Dexterity: D 582→A 814 Agility: A 807→S 998"; "Magic: D 531→B 777"; "Luck: H Immunity: H". "Bell’s ability scores had shot up"; "It was the evening of the Xenos rescue mission".
+[@sheet.fm18-lv4]: FM18 | Chapter 7: We’re Getting Married Once This Battle Is Over | "Level 4"; "Strength: SS1033->SSS1379 Defense: SSS1218->1501 Dexterity: SS1041->SSS1383 Agility: SS1089->SSS1442 Magic: S965->SSS1251"; "my last update as a Level 4 adventurer"; "the ability-only update card".
+[@sheet.fm20-lv5]: FM20 | Chapter 2: Lion and then Sword Princess | "Bell Cranell"; "Level 5"; "Strength: G222->258 Defense: F340->349 Dexterity: G245->287 Agility: F311->368 Magic: I98->H107"; "Luck: F Immunity: G Escape: G Successive Attacks: I"; Magic "Firebolt" ("Swift-Strike Magic"); Skills "Argonaut", "Ox Slayer", "Vanadis Tevere". The DanMachi 18 sheets name the last Development Ability Rapid Attacks. The Japanese edition's paper lists only Argonaut, Ox Slayer and Vanadis Tevere.

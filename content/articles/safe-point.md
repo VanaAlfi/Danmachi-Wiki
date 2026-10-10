@@ -24,7 +24,7 @@
   }
 }
 ---
-The [[dungeon|Dungeon]] contains several **safe points**, floors where monsters are not born, reducing the risk of sudden attacks and providing resting places.[@so01-camp] Their safety has limits: monsters migrate into [[floor-18|the eighteenth floor]], and [[rivira|Rivira]] remains vulnerable to attacks.[@ar03-arrivals, fm05-point]
+The [[dungeon|Dungeon]] contains several **safe points**, floors where monsters are not born, reducing the risk of sudden attacks and providing resting places.[@so01-camp] Their safety has limits: monsters migrate into [[floor-18|the eighteenth floor]], and [[rivira|Rivira]] remains vulnerable to attacks.[@ar03-arrivals, fm05-rivira]
 
 ## Named places and events {#named-places-and-events}
 
@@ -40,14 +40,15 @@ The [[dungeon|Dungeon]] contains several **safe points**, floors where monsters 
 | DanMachi 20 | The twenty-eighth floor's [[floor-28|Under Garden]] is the second safe point and a base for exploring the Tangled Gorge, requiring vigilance against monsters from adjacent floors.[@fm20-garden] |
 
 
-[@fm05-point]: FM05 | | The first safe floor, its absence of monster births and continued danger.
+[@fm05-point]: FM05 | Chapter 2: How Many Meders to a Safe Return? | The first safe floor, its absence of monster births and continued danger.
 [@fm05-irregular]: FM05 | | Goliath's exceptional birth at the safe point and its classification.
 [@so01-camp]: SO01 | Chapter 1: Loki Familia | Floor fifty is a safe point used as Loki Familia's base camp.
 [@fm20-garden]: FM20 | Chapter 1: Orario Rumble | The twenty-eighth floor Under Garden and its role as a base.
 [@fm09-hidden]: FM09 | Chapter 5: Heretics | Lido compares Hidden Villages to safe points.
 [@fm14-stream]: FM14 | Chapter 13: Beyond a Thousand Darknesses | Lyu's belief that the stream is a local safe zone.
-[@ar03-arrivals]: AR03 | | Monsters can migrate to the eighteenth floor despite not spawning there.
+[@ar03-arrivals]: AR03 | Chapter 1: March and Break | Monsters can migrate to the eighteenth floor despite not spawning there.
 [@fm14-first-deep]: FM14 | Chapter 9: Hello, Deep Levels | Floor thirty-nine is the first safe point in the deep levels.
 [@fm12-ambush]: FM12 | Chapter 5: Bride of the Water Capital | An enhanced species waited at a lower-level safe point and killed adventurers.
 [@fm05-safe-point-ja]: FM05 | | The Japanese edition writes the term in kanji meaning safe floor, with the reading Safety Point; the infobox gives the kanji.
-[@fm12-safety-point]: FM12 | | The other printed form of the term: "not even at a safety point".
+[@fm12-safety-point]: FM12 | Chapter 2: Adventure Intermission | The other printed form of the term: "not even at a safety point".
+[@fm05-rivira]: FM05 | Chapter 4: Dungeon Resort? | "the town of Rivira is under the constant threat of monster attacks"

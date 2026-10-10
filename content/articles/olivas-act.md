@@ -32,7 +32,7 @@
 
 In Astrea Record Olivas is one of the Evils' commanders, a Level 3 and one of the organisation's top members.[@ar01-commander] When the giant [[zald|Zald]] asks who he is, he introduces himself as "Apostle of chaos, Evils commander", and Zald looks at him as a lowly worm.[@ar01-commander] When news of the [[guild|Guild]]'s council leaks, he reads it to [[valletta|Valletta]] and the other leaders, and talks of the [[great-conflict|Great Conflict]] allies [[apate-and-alecto-familias|Apate Familia]] and Alecto Familia.[@ar01-leak] In the fighting he crushes an adventurer's skull with his fist.[@ar01-violence]
 
-In Astrea Record 2 he brutally defeats [[asfi|Asfi]] before a crowd. [[lyu-leon|Lyu]] then cuts through his troops, and his followers beg him to retreat.[@ar02-asfi, ar02-lyu, ar02-retreat] Afterwards the narration speaks of Olivas's defeat, and of the girls of [[astrea-familia|Astrea Familia]] having repelled his assault.[@ar02-defeat, ar02-repelled] In Astrea Record 3 he leaves the battlefield with the other lieutenants.[@ar03-retreat]
+In Astrea Record 2 he brutally defeats [[asfi|Asfi]] before a crowd. [[lyu-leon|Lyu]] then cuts through his troops, and his followers beg him to retreat.[@ar02-asfi, ar02-lyu, ar02-retreat] Afterwards the narration speaks of Olivas's defeat, and of the girls of [[astrea-familia|Astrea Familia]] having repelled his assault.[@ar02-defeat, ar02-repelled] He had attacked against the advice of [[erebus|Erebus]] and Valletta: "I care not for their cowardice!"[@ar02-defiance] Valletta later curses him for it, since they had been close to breaking the people's hope and now the people were taking heart.[@ar02-valletta-rebuke] In Astrea Record 3 he leaves the battlefield with the other lieutenants.[@ar03-retreat] Earlier in that battle, when the veteran adventurers [[noir-dyne-and-bahra|Noir, Dyne and Bahra]] dare him to come down and fight, he orders his followers to fire, and the volley of magic and arrows mortally wounds all three; when their stand proves to have given [[ottar|Ottar]] just enough time to win, Olivas tears at his hair.[@ar03-volley]
 
 Sword Oratoria 9's flashback to the same era calls him Vendetta, "one of the leaders of the Evils with a bounty on his head".[@so09-vendetta]
 
@@ -63,13 +63,13 @@ When he turns on [[aiz-wallenstein|Aiz]] with "Die, Sword Princess!", she cuts d
 > [!UNRESOLVED] Not settled by the covered English volumes
 > - Which god he served before that god returned to Heaven.[@so03-identity]
 
-[@ar01-commander]: AR01 | | "Olivas. Apostle of chaos, Evils commander!"; the silver-haired man; a Level 3 and one of the top members of the Evils; a lowly worm to Zald.
+[@ar01-commander]: AR01 | Chapter 3: Busy People | "Olivas. Apostle of chaos, Evils commander!"; the silver-haired man; a Level 3 and one of the top members of the Evils; a lowly worm to Zald.
 [@ar01-leak]: AR01 | Chapter 6: Assemblies of Light and Dark | The leaked notes; "Apate Familia and Alecto Familia are preparing to fight".
 [@ar01-violence]: AR01 | Chapter 9: The Opening Act of Evil | "Olivas’s merciless fist had crushed an adventurer’s skull".
 [@ar02-asfi]: AR02 | Chapter 8: A Tragic Performance | "He had defeated Asfi in the most brutal manner imaginable".
-[@ar02-lyu]: AR02 | | Lyu swings, "slicing through the crowd of darkness".
-[@ar02-retreat]: AR02 | | "Lord Olivas, we must retreat!"
-[@ar02-defeat]: AR02 | | "The dawn following Olivas’s defeat".
+[@ar02-lyu]: AR02 | Chapter 10: What I Learned: Twilight Answer | Lyu swings, "slicing through the crowd of darkness".
+[@ar02-retreat]: AR02 | Chapter 10: What I Learned: Twilight Answer | "Lord Olivas, we must retreat!"
+[@ar02-defeat]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "The dawn following Olivas’s defeat".
 [@ar02-repelled]: AR02 | Epilogue: All You Need Is Justice | "After the girls of Astrea Familia had repelled Olivas’s assault".
 [@ar03-retreat]: AR03 | Chapter 7: What She Wished For | Olivas and the other lieutenants leave the battlefield.
 [@so03-identity]: SO03 | Chapter 4: White-Haired Devil | Asfi: "Estimated to be Level Three"; "White Devil, Vendetta"; his god returned; the mastermind of the Twenty-Seventh-Floor Nightmare; devoured; the remains of his lower body.
@@ -88,3 +88,6 @@ When he turns on [[aiz-wallenstein|Aiz]] with "Die, Sword Princess!", she cuts d
 [@so12-filvis]: SO12 | Chapter 6: The Divine Providence of Despair | "Lord Dionysus did not tell me"; the same day Filvis and Olivas became creatures.
 [@ss02-pantry]: SS02 | Paths So Far, an Unending Journey | Levis and "the second creature, Olivas Act"; many of Hermes Familia lost.
 [@so12-olivas-ja]: SO12 | | The Japanese edition prints his name in katakana and writes his title in kanji meaning white-haired demon, with the reading Vendetta; the infobox gives the printed name and the kanji.
+[@ar02-defiance]: AR02 | Chapter 8: A Tragic Performance | "Lord Erebus and Mistress Valletta advised us not to act until the time was"; "I care not for their cowardice!"
+[@ar02-valletta-rebuke]: AR02 | Chapter 11: Warriors' Last Supper: FINAL WAR EVE | "We were this close to breaking their hope"
+[@ar03-volley]: AR03 | Chapter 6: The Nameless Heroes | "Attack! Kill them all!"; "On his signal, bolts of fire and lightning and a hail of arrows rained down."; "Should I have stopped them after all…?"; "Olivas tore at his hair and let out a maddened scream"

@@ -55,7 +55,7 @@ She is just as frank with her goddess. In DanMachi 8 she rebukes Hephaistos for 
 
 ## Aiz {#aiz}
 
-When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break" in Sword Oratoria 9, Tsubaki turns her down and points at the girl: "If you want a sword that’s not broken yet, there’s one right there, isn’t there?" The words shake Aiz badly.[@so09-sword] Some time later Aiz asks her for a hairpin instead, and she makes it free of charge ("you’ve got me interested now"), picturing it beside the jade-green hair of the girl's high-elf guardian.[@ss02-hairpin]
+When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break" in Sword Oratoria 9, Tsubaki turns her down and points at the girl: "If you want a sword that’s not broken yet, there’s one right there, isn’t there?" The words shake Aiz badly.[@so09-sword] Some time later Aiz asks her for a hairpin instead, and she makes it free of charge ("you’ve got me interested now"), picturing it beside the jade-green hair of the girl's high-elf guardian.[@ss02-hairpin] On Loki Familia's expedition in Sword Oratoria 4, servicing [[desperate|Desperate]], she tells Aiz that she has "mellowed out": "I think it’s just that you found your scabbard."[@so04-scabbard]
 
 ## History
 
@@ -63,30 +63,30 @@ When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break"
 |---|---|
 | Astrea Record 1 | Already captain, she is pressed for more magic swords by the adventurers holding the line, and launches a fireball from one herself.[@ar01-captain] |
 | Astrea Record 3 | Charges the spirit warriors with a sword in each hand.[@ar03-swords] The shield with which [[lyra|Lyra]] attacks [[alfia|Alfia]], able to "steal any magic spell", was a joint work: "Perseus worked together with that Cyclops to make it happen."[@ar03-shield] |
-| Sword Oratoria 4 | Accompanies Loki Familia's expedition with Hephaistos Familia's smiths.[@so04-tsubaki] |
+| Sword Oratoria 4 | Accompanies Loki Familia's expedition with Hephaistos Familia's smiths.[@so04-tsubaki] On the fifty-ninth floor she shields supporters with her body from a storm of black meteors, which leaves her right arm "completely carbonized"; she fights on with her tachi in her left hand, and with the arm restored she holds back the monsters with an axe and [[urga|Urga]] while Riveria chants.[@so04-floor59] |
 | DanMachi 8 | Helps [[rivira|Rivira]]'s adventurers fight the floor's [[goliath|Goliath]] and cuts off one of its arms; she also leads the encirclement of [[rakia|Rakia]]'s infiltrators.[@fm08-goliath, fm08-tsubaki] |
 | DanMachi 11 | Sent by [[hephaistos|Hephaistos]] to help Welf and his Familia rescue the [[xenos|Xenos]]; in the smoke she seems to go after [[gareth|Gareth]] alone.[@fm11-cyclops, fm11-gareth] |
 | Sword Oratoria 10 | Covertly supports the Xenos' escape with ice magic swords.[@so10-tsubaki] |
 | Sword Oratoria 12 | Represents Hephaistos Familia at the war council and fights in Gareth's third squad.[@so12-xenos, so12-squad] |
-| DanMachi 14 | Leads [[anya-fromel|Anya]], [[chloe|Chloe]] and [[runoa|Runoa]] into the [[water-capital|Water Capital]] to rescue the stranded expedition, and joins the rescue on [[floor-37|Floor 37]].[@fm14-tsubaki, fm14-rescue] |
+| DanMachi 14 | Leads [[anya-fromel|Anya]], [[chloe|Chloe]] and [[runoa|Runoa]] into the [[water-capital|Water Capital]] to rescue the stranded expedition, and joins the rescue on [[floor-37|Floor 37]].[@fm14-tsubaki, fm14-rescue, fm14-tsubaki-37] |
 | DanMachi 15 | Speaks for Welf before Hephaistos.[@fm15-desk] |
 | Minor Myths and Legends 2 | Meets [[ottar|Ottar]] on a Dungeon floor: "Stiff as a board, that man".[@ss02-ottar] |
-| DanMachi 18 | With "the whole familia" backing "Welfy", she joins the [[familia-coalition|coalition]] in the Great Familia War. She is posted at the centre of the line, which [[hegni|Hegni]] and [[allen-fromel|Allen]] break, and when she falls the coalition loses "a first-tier adventurer’s strength".[@fm18-forge, fm18-centre] |
+| DanMachi 18 | With "the whole familia" backing "Welfy", she joins the [[familia-coalition|coalition]] in the Great Familia War. She is posted at the centre of the line, which [[hegni|Hegni]] and [[allen-fromel|Allen]] break, and when she falls the coalition loses "a first-tier adventurer’s strength".[@fm18-forge, fm18-centre] She falls in a duel with Hegni and his blade Victim Abyss; he grants her, "You may be proud, Cyclops. Your attack threatened my life."[@fm18-hegni-duel] |
 | DanMachi 20 | Is to accompany Loki Familia's next expedition.[@fm20-expedition] |
 
-[@fm08-tsubaki]: FM08 | | Level 5; Welf's short sword; the Rakian infiltrators.
+[@fm08-tsubaki]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Level 5; Welf's short sword; the Rakian infiltrators.
 [@fm08-look]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Black hair; wheat-coloured skin; patch over the left eye; crimson hakama; "Tsubaki rebuked Hephaistos for the lack of hammer work".
 [@fm08-goliath]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Rivira's Goliath extermination; Tsubaki severs an arm.
-[@fm11-cyclops]: FM11 | | "Cyclops"; sent to help Welf.
+[@fm11-cyclops]: FM11 | Chapter 5: Ultra Soul! | "Cyclops"; sent to help Welf.
 [@fm14-tsubaki]: FM14 | Interlude: They Begin to Stir | Captain and Master Smith of Hephaistos Familia.
 [@fm14-rescue]: FM14 | Chapter 8: The Voice of the Hammer | Tsubaki with Anya, Chloe and Runoa.
-[@fm14-shikou]: FM14 | | Tsubaki recognises Shikou Kazuki.
+[@fm14-shikou]: FM14 | Chapter 8: The Voice of the Hammer | Tsubaki recognises Shikou Kazuki.
 [@fm20-expedition]: FM20 | Chapter 2: Lion and then Sword Princess | Cyclops to join Loki Familia's expedition.
-[@so04-tsubaki]: SO04 | | Level 5; finest smith; "about twenty, Tsubaki included" High Smiths offered.
+[@so04-tsubaki]: SO04 | First Chapter: And the Boy… | Level 5; finest smith; "about twenty, Tsubaki included" High Smiths offered.
 [@so04-expedition]: SO04 | First Chapter: And the Boy… | "Ten Hephaistos Familia smiths had joined the fifteen Loki Familia adventurers."; the smiths are divided between the two parties. The Japanese edition puts Tsubaki with the second, following party.
-[@so05-tsubaki]: SO05 | | The half-dwarf with the eye patch.
+[@so05-tsubaki]: SO05 | Prologue: A Moment of Water and Rest | The half-dwarf with the eye patch.
 [@so08-frosvirt]: SO08 | Chapter 5: Battered Wolf | Frosvirt made by Tsubaki.
-[@so10-tsubaki]: SO10 | | Ice magic swords in the escape.
+[@so10-tsubaki]: SO10 | Interlude: Their Respective Battles | Ice magic swords in the escape.
 [@fm08-parents]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "Standing 170 celch tall, she was often mistaken for human."; "her mother was indeed a human from the Far East, her father was a dwarf from the Continent"; "all the physical qualities to be a very attractive woman"; "free spirit and desire to enjoy herself"; "it was so much fun to tease him". The Japanese edition (file part0021, paragraph 339) says her merry, lively nature cancels out all her feminine charm.
 [@fm08-toy]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | "other smiths in the familia referred to him as" Tsubaki's toy.
 [@fm08-katana]: FM08 | Chapter 3: Love Song to a Goddess of the Forge | Her blade at her waist. The Japanese edition (file part0021, paragraph 331) calls it a tachi, a long sword.
@@ -113,5 +113,9 @@ When the young [[aiz-wallenstein|Aiz]] asks her for "a sword that won’t break"
 [@fm11-gareth]: FM11 | Chapter 5: Ultra Soul! | "she seemed to be after Gareth alone".
 [@so12-xenos]: SO12 | Chapter 4: Nameless Heroes | "the least interaction with the Xenos". The Japanese edition (file c1PZ, paragraphs 164 and 170) has her say that if they believe, then she too shall believe, and calls her moved by belief.
 [@so12-squad]: SO12 | Chapter 4: Nameless Heroes | Finn: "Tsubaki, you’ll be with Gareth in the third squad."
-[@fm19-iglin]: FM19 | | Printed heading "Chapter 5: My Dream" (not in the evidence map): Iglin: "the greatest blacksmith in the mortal realm is Tsubaki Collbrande"; "You have to be able to go down into the deep levels to test your weapons."
+[@fm19-iglin]: FM19 | Chapter 5: My Dream | Iglin: "the greatest blacksmith in the mortal realm is Tsubaki Collbrande"; "You have to be able to go down into the deep levels to test your weapons."
 [@fm08-tsubaki-ja]: FM08 | | The Japanese edition prints her name with the given name in kanji first and the family name in katakana, and writes her title in kanji meaning one-eyed great master, with the reading Cyclops; the infobox gives the printed name and the kanji.
+[@fm14-tsubaki-37]: FM14 | Epilogue: You'll Be Back II | "It had taken Welf and the rest of their party the same amount of time to fight the Amphisbaena, join up with the Xenos, and make their way down to the thirty-seventh floor."; "Meanwhile, Aisha and Tsubaki already knew about the Xenos."
+[@so04-scabbard]: SO04 | Last Chapter: To Adventure | "You’ve mellowed out."; "I think it’s just that you found your scabbard."
+[@so04-floor59]: SO04 | Last Chapter: To Adventure | "Tsubaki used her body as a shield to protect them"; "her right arm completely carbonized and hanging uselessly at her side"; "she readied her tachi in her left hand"; "ax in her right hand and Urga in her left"
+[@fm18-hegni-duel]: FM18 | Chapter 8: The Great Familia War | "Ms. Tsubaki will command the center"; "So you are the one with the qualification to battle me, Cyclops."; "You may be proud, Cyclops. Your attack threatened my life."; "she still hadn’t been able to see through Victim Abyss’s blade"

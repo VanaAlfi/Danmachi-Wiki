@@ -28,6 +28,7 @@ The **Third District** is in southeastern [[orario|Orario]], between East Main S
 
 | Volume | Events |
 |---|---|
+| DanMachi 7 | When [[freya-familia|Freya Familia]] attacks [[ishtar-familia|Ishtar Familia]], Freya's followers march north through the district on Ishtar Familia's palace, Belit Babili, in its middle, while other adventurers seal the district off; [[ottar|Ottar]]'s party enters the palace.[@fm07-third-siege] |
 | DanMachi 7 | Explosions and fighting spread through the district, leaving damage without deaths and a recovery that takes time.[@fm07-damage] |
 | DanMachi 10 | Adventurers gather in the district containing [[daedalus-street|Daedalus Street]] when [[guild|the Guild]] orders dispatch and rescue.[@fm10-location] |
 | DanMachi 15 | [[soma-familia|Soma Familia]]'s headquarters are again placed in the Third District.[@fm15-soma] |
@@ -47,3 +48,4 @@ The **Third District** is in southeastern [[orario|Orario]], between East Main S
 [@ar02-reinforcements]: AR02 | Chapter 4: Those Who Struggle | Asfi proposes reinforcements involving the district’s Berbera; the eastern-defense objection. The Japanese edition (file c2V4, paragraph 61) has her call for help from the Berbera stationed in the third district; the English prints that she will go with them to provide reinforcements.
 [@ar03-south]: AR03 | Chapter 7: What She Wished For | Apate and Alecto Familias’ surviving forces head south through the district.
 [@fm07-district-ja]: FM07 | Chapter 6: Yearning of a Hero | The Japanese edition writes the name in kanji meaning third block (file c8AX, paragraph 830).
+[@fm07-third-siege]: FM07 | Chapter 6: Yearning of a Hero | "They traveled north through the third district"; "to isolate the third district"; "entered Belit Babili"; "the palace in the middle of Orario’s third district"

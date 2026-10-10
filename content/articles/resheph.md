@@ -24,7 +24,7 @@
   }
 }
 ---
-**Resheph** ({{ja|ラシャプ}}, read *Rashap*) and **Resheph Familia** were recruited by [[geography#kaios-desert-countries-and-towns-warsa|Warsa]]'s royal family after its existing military failed to conquer [[ali#shalzad|Shalzad]].[@fc02-origin, fc02-resheph-ja] The god and his followers were not born in the desert; his aim was to spread chaos in the lower world, rather than win the war.[@fc02-origin, fc02-purpose]
+**Resheph** ({{ja|ラシャプ}}, read *Rashap*) and **Resheph Familia** were recruited by [[geography#kaios-desert-countries-and-towns-warsa|Warsa]]'s royal family after its existing military failed to conquer [[ali#shalzad|Shalzad]].[@fc02-origin, fc02-resheph-ja] The god and his followers were not born in the desert; his aim was to spread chaos in the lower world, rather than win the war.[@fc02-origin, fc02-purpose] He is a relatively short god in a hat pointed at the front like an arrowhead, whose insincerity is plain to see. His followers burn villages, pillage and rape their way through Shalzad; to the Warsa general Gorza, "An atrocity" is the one word for Resheph Familia.[@fc02-resheph-character]
 
 ## History {#history}
 
@@ -49,3 +49,4 @@
 [@fc02-dead]: FC02 | Ali and the 8 Followers | The officers’ deaths. The Japanese edition (file c6UW, paragraph 35) says that the officers of Resheph Familia died without exception, Captain Seal among them; the English prints "The atrocious Resheph Familia members had all been killed".
 [@fc02-fled]: FC02 | Ali and the 8 Followers | Resheph escapes; Freya declines to pursue him.
 [@fc02-aftermath]: FC02 | Ali and the 8 Followers | Warsa declines; the familia does not threaten Shalzad again.
+[@fc02-resheph-character]: FC02 | Ali and the 8 Followers | "He was a relatively short god"; "He wore a hat that was pointed at the front, like an arrowhead."; "his insincerity was plain to see"; "Burning the villages, pillaging, rape!"; "An atrocity. That word alone was enough to describe Resheph Familia."

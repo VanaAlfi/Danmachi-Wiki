@@ -5,7 +5,7 @@
   "status": "complete",
   "reviewed": "2026-10-01",
   "continuity": "light-novel",
-  "summary": "The Familia of Hephaistos, goddess of the forge: Orario's largest and world-famous smithing Familia, whose High Smiths are also formidable fighters. It sells from Babel and Northwest Main Street, lets even its newest smiths sell their work, and arms Loki Familia's expeditions and both sides of the city's great battles. Its captain is Tsubaki Collbrande; Welf Crozzo was a member until DanMachi 6.",
+  "summary": "The Familia of Hephaistos, goddess of the forge: Orario's largest and world-famous smithing Familia, whose High Smiths are also formidable fighters. It sells from Babel and Northwest Main Street, lets even its newest smiths sell their work, and arms Loki Familia's expeditions, Freya Familia's defence in the Great Conflict and Hestia's coalition in the Great Familia War. Its captain is Tsubaki Collbrande; Welf Crozzo was a member until DanMachi 6.",
   "aliases": ["Hephaistos Familia", "Masters of the Forge", "Vulca's Forge", "High Smiths", "spirit flags"],
   "spoilers": "DanMachi Vols. 1, 2, 4–8, 10, 12, 14, 15, 17, 18, Sword Oratoria Vols. 1, 3–5, 9, 10, 12, 13, Familia Chronicle Vol. 3 and Astrea Record Vols. 1 and 3",
   "related": ["hephaistos", "tsubaki", "welf-crozzo", "babel", "goibniu", "loki-familia", "hestia-familia", "freya-familia", "development-ability"],
@@ -42,7 +42,7 @@
 - **Forge.** More than half of the Familia's smiths have the Development Ability [[development-ability#forge|Forge]], which Eina calls necessary for a smith.[@fm02-forge]
 - **Competition.** Its smiths must overcome obstacles on their own and compete with one another.[@fm04-welf] Its smiths make many personal contracts with adventurers, and have a good reputation for it.[@fm04-contracts]
 - **Warrior smiths.** Bell calls them "warrior smiths".[@fm04-warrior] Sword Oratoria 4 says the peerless fighting skill of its craftsmen, and its value as a smithing Familia, are among the reasons other factions rarely attack it.[@so04-captain]
-- **The emblem.** A smith who leaves the Familia may no longer use Hephaistos's emblem on their work, which is what Welf gives up when he converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm06-logo]
+- **The emblem.** A smith who leaves the Familia may no longer use Hephaistos's emblem on their work, which is what Welf gives up when he converts to [[hestia-familia|Hestia Familia]] in DanMachi 6.[@fm06-logo] The right to engrave the Ἥφαιστος insignia comes with becoming a High Smith, as it does for Welf in DanMachi 6, and even then each piece needs the approval of Hephaistos and several of the Familia's leaders, so that no weak weapon sullies her name.[@fm06-insignia]
 - **Rivals.** [[goibniu-familia|Goibniu Familia]] is well known and has a following, but is not as popular.[@fm07-goibniu]
 
 ## Known members
@@ -62,7 +62,7 @@
 | Sword Oratoria 3–5, DanMachi 5 | [[finn-deimne|Finn]] asks the Familia to join [[loki-familia|Loki Familia]]'s expedition. Hephaistos offers about twenty High Smiths, Tsubaki included, and ten smiths travel with the fifteen Loki Familia adventurers, split between the expedition's two parties, with Tsubaki in the second.[@so03-largest, so04-expedition, so04-twenty] By agreement, Loki Familia hands over most of the drop items from the depths, including the [[monsters#valgang-dragon|valgang-dragon]]'s fangs and scales.[@so05-drops] On the eighteenth floor the smiths of the expedition say they saw Welf when he was carried in.[@fm05-welf, fm05-ja-welf] |
 | DanMachi 8 | The Familia helps catch [[rakia|Rakia]]'s infiltrators in the city; they surrender to its members.[@fm08-rakia, fm08-surrender] Sword Oratoria 9 says Finn shared his information with the Familia, which took the glory.[@so09-rakia] |
 | DanMachi 12 | When Hestia Familia prepares its expedition, Hephaistos Familia alone among its friendly factions stays out, to keep its position as a smithing Familia.[@fm12-sidelines] |
-| Sword Oratoria 12 | The Familia makes the [[equipment#spirit-cloth|spirit flag]]s for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] |
+| Sword Oratoria 12 | The Familia makes the [[equipment#spirit-cloth|spirit flag]]s for the attack on [[knossos|Knossos]]: flags of spirit cloth, swung into enemy spells of the matching element to cancel them. Tsubaki resents having made such a "boring-ass item".[@so12-flags] Meanwhile Hephaistos herself commands the lower-level smiths in the industrial district, who fire the Familia's magic swords at the monsters that reach the surface; Sword Oratoria 13 credits the efforts of Hephaistos Familia and others that no one died aboveground.[@so12-surface, so13-surface] |
 | Sword Oratoria 13 | Some of its High Smiths are among those killed by the demi-spirit's attack in Knossos, and are mourned at the funerals that follow.[@so13-dead] |
 | DanMachi 17 | Almost all its members, its High Smiths included, surround [[folkvangr|Folkvangr]] from the south and west, alongside Loki Familia, while an angry Hephaistos tells Freya she will have to pay.[@fm17-siege] |
 | DanMachi 18 | With Loki Familia barred, it is the only Familia able to fully support Hestia in the Great Familia War. Its smiths forge magic swords under Hephaistos's strict judgement and fight at the [[familia-coalition|coalition]]'s centre.[@fm18-home, fm18-center] [[hedin|Hedin]] provokes them into wasting many of the swords, and [[allen-fromel|Allen]] picks off its smiths and tears Hephaistos's flower, eliminating the Familia.[@fm18-hedin, fm18-out] |
@@ -80,8 +80,8 @@
 [@fm02-babel]: FM02 | Chapter 1: Date, Then Supporter | "one sign on the whole floor: Ἥφαιστος"; "all the shops from the fourth floor up to the eighth floor are owned by Hephaistos Familia".
 [@fm02-cheap]: FM02 | Chapter 1: Date, Then Supporter | "they have even their most inexperienced members make items and sell them in their shops"; items "in your price range".
 [@fm02-armour]: FM02 | Chapter 2: The Supporter’s Situation | "The first in an armor series by Welf Krozzo, a smith working for Hephaistos Familia."
-[@fm02-hestia]: FM02 | | Hestia's shift "at Hephaistos Familia’s Babel Tower Branch Store".
-[@fm04-welf]: FM04 | Chapter 3: The Smith’s Situation | "currently a low-level smith belonging to Hephaistos Familia"; the smiths "have to overcome many obstacles on their own, as well as engage in friendly competition".
+[@fm02-hestia]: FM02 | Interlude: Cry Out, Goddess | Hestia's shift "at Hephaistos Familia’s Babel Tower Branch Store".
+[@fm04-welf]: FM04 | | "currently a low-level smith belonging to Hephaistos Familia"; the smiths "have to overcome many obstacles on their own, as well as engage in friendly competition".
 [@fm04-warrior]: FM04 | Chapter 3: The Smith’s Situation | "Warrior smiths, if you will."
 [@fm04-contracts]: FM04 | Chapter 3: The Smith’s Situation | "filled with smiths who make many personal contracts with many different adventurers, so they have a good reputation".
 [@fm04-workshop]: FM04 | Chapter 3: The Smith’s Situation | "Hephaistos Familia prepares a workshop for each of its members".
@@ -110,14 +110,17 @@
 [@so04-captain]: SO04 | First Chapter: And the Boy… | "peerless combat skills"; "other factions rarely attacked Hephaistos Familia"; "an invaluable familia of smiths".
 [@so04-expedition]: SO04 | First Chapter: And the Boy… | "Ten Hephaistos Familia smiths had joined the fifteen Loki Familia adventurers."; the smiths are divided between the two parties. The Japanese edition puts their captain Tsubaki with the second, following party.
 [@so04-twenty]: SO04 | First Chapter: And the Boy… | "I’d say we have about twenty, Tsubaki included."; every one of them at least Level 3.
-[@so05-drops]: SO05 | | "relinquish most of the drop items from the Dungeon’s depths to Hephaistos Familia as per their initial agreement"; "the valgang-dragon fangs and scales".
+[@so05-drops]: SO05 | Chapter 1: Passage and the Present | "relinquish most of the drop items from the Dungeon’s depths to Hephaistos Familia as per their initial agreement"; "the valgang-dragon fangs and scales".
 [@so09-rakia]: SO09 | Chapter 2: A Brief Calm | Finn "shared the information with Hephaistos Familia and asked for assistance, so they ended up with the glory".
 [@so09-logo]: SO09 | Recollections Chapter 2: Are You a Sword? | "I go by Tsubaki. Hephaistos Familia blacksmith."; "I’d like you to make a sword for me!"; "the biggest blacksmithing group in the Labyrinth City"; "the Ἥφαιστος logo".
 [@so10-branch]: SO10 | Chapter 3: The Melancholy of a Hero. The Anguish of the Sword Princess. | "the workshop in Hephaistos Familia’s branch store on Northwest Main Street".
 [@so12-flags]: SO12 | Chapter 5: Final War | "The spirit flags were a custom defensive gear created by Hephaistos Familia"; "they had to be swung into the oncoming magic"; Tsubaki: "this boring-ass item".
-[@so13-dead]: SO13 | | "More than a few people had died in the demi-spirit’s massive attack, including" … "high smiths of Hephaistos Familia"; the funerals.
+[@so13-dead]: SO13 | Prologue: The Sequel to Loss and Resolve | "More than a few people had died in the demi-spirit’s massive attack, including" … "high smiths of Hephaistos Familia"; the funerals.
 [@ar01-north]: AR01 | Chapter 9: The Opening Act of Evil | "To the north were situated the forces of Freya Familia, and the workshops and forges of Hephaistos Familia."
-[@ar03-swords]: AR03 | | "Freya Familia was being supported by the blacksmiths of Hephaistos Familia and their magic swords."
-[@fc03-zolingam]: FC03 | | "Word was that none other than Hephaistos Familia came to Zolingam for raw materials"; "many Zolingam residents who became followers of Hephaistos".
+[@ar03-swords]: AR03 | Chapter 2: The Conqueror’s Return | "Freya Familia was being supported by the blacksmiths of Hephaistos Familia and their magic swords."
+[@fc03-zolingam]: FC03 | The Locus of Stars | "Word was that none other than Hephaistos Familia came to Zolingam for raw materials"; "many Zolingam residents who became followers of Hephaistos".
 [@fm02-hephaistos-familia-ja]: FM02 | | The Japanese edition prints the Familia's name in katakana; the infobox gives that printed form.
 [@so01-highsmith-ja]: SO01 | | The Japanese edition (file cX0, paragraph 35) writes High Smith in kanji meaning upper-class smith, with the reading High Smith.
+[@fm06-insignia]: FM06 | Chapter 1: The Furious Rabbit | "he’s allowed to engrave the Ἥφαιστος insignia on his weapons and armor"; "I’ll need Lady Hephaistos’s approval along with several of the other leaders before I can use that brand."
+[@so12-surface]: SO12 | Chapter 7: Final War II | "Tsubaki and the other high smiths are with Loki’s kids. I know it’s a heavy load, but I’m counting on you."; "Focus on fighting with the magic swords! Leave the front lines to the adventurers!"
+[@so13-surface]: SO13 | Prologue: The Sequel to Loss and Resolve | "Thanks to the herculean efforts of Hephaistos Familia and the other familia"

@@ -24,7 +24,7 @@
   }
 }
 ---
-**Cursed weapons** carry [[magic#curses|curses]]; described effects include preventing healing and extending a slash's range in exchange for stamina.[@so07-definition, fc02-victim] The explanation in Sword Oratoria 7 calls them curse-bearing [[equipment|Superior]] weapons produced by [[hexers|hexers]].[@so07-definition] One such curse, the Unhealable Curse, prevents wounds from closing through items or [[magic|Magic]] until the curse is dispelled.[@so07-definition]
+**Cursed weapons** carry [[magic#curses|curses]]; described effects include preventing healing and extending a slash's range in exchange for stamina.[@so07-definition, fc02-victim] The explanation in Sword Oratoria 7 calls them curse-bearing [[equipment|Superior]] weapons produced by [[hexers|hexers]].[@so07-definition] One such curse, the Unhealable Curse, prevents wounds from closing through items or [[magic|Magic]] until the curse is dispelled.[@so07-definition] As [[lyu-leon|Lyu Leon]] puts it in DanMachi 18, curse weapons demand a price for the strength they grant, in most cases a lowered Status or a stamina cost.[@fm18-price-kinds]
 
 ## Occurrences by volume {#occurrences-by-volume}
 
@@ -34,7 +34,9 @@
 | DanMachi 16 | [[hegni|Hegni Ragnar]]'s [[equipment#victim-abyss|Victim Abyss]] is a curse sword made with a hexer's involvement.[@fm16-victim] |
 | DanMachi 17 | [[lyu-leon|Lyu Leon]] attributes her wounds' delayed healing to the cursed weapon used by [[hegni|Hegni Ragnar]].[@fm17-recovery] |
 | DanMachi 18 | [[lyu-leon|Lyu Leon]] says curse weapons demand a price; [[equipment#victim-abyss|Victim Abyss]] consumes its user's stamina to extend its slash.[@fm18-price] |
+| Sword Oratoria 7 | In [[knossos|Knossos]], the sword [[levis|Levis]] uses leaves [[finn-deimne|Finn Deimne]] critically injured; it is a cursed Superior, and unless the curse is broken, items and [[magic|Magic]] cannot close his wounds; unless it is broken quickly, his bleeding will not stop and his life is in danger (the English prints "he'd never wake up").[@so07-finn-curse] He wakes in [[dian-cecht-familia|Dian Cecht Familia]]'s clinic after the curse is broken, thanks to [[amid|Amid Teasanare]] and the quick work of his comrades.[@so07-curse-broken] |
 | Sword Oratoria 8 | [[valletta|Valletta Grede]] orders [[barca-perdix|Barca Perdix]] to supply cursed weapons, which assassins use against [[bete-loga|Bete Loga]].[@so08-order] |
+| Sword Oratoria 8 | [[amid|Amid Teasanare]] examines the cursed dagger used to kill Leene and others in Knossos. No item in circulation worked on the curse that struck Finn; only her own Magic made headway, at an extraordinary cost of Mind, and when she tested the curse on herself no protective accessory or magic item resisted it.[@so08-amid-curse] |
 | Sword Oratoria 10 | [[riveria|Riveria Ljos Alf]] uses [[amid|Amid Teasanare]]'s countermeasure on a [[monsters#siren|siren]] pierced by a cursed sword.[@so10-treatment] |
 | Sword Oratoria 11 | [[barca-perdix|Barca Perdix]] mass-produces cursed weapons and stabs himself to accumulate curses before a crystal-orb fetus parasitizes his body.[@so11-maker] |
 | Sword Oratoria 12 | [[levis|Levis]] wields a cursed sword; it breaks during her fight.[@so12-levis] |
@@ -55,3 +57,7 @@
 [@ar03-exchange]: AR03 | Chapter 6: The Nameless Heroes | Hedin uses Hegni’s curse weapon after their weapon exchange.
 [@so07-cursed-ja]: SO07 | Chapter 3: Feast of the Dead | The Japanese edition writes the term in kanji meaning curse tools, with the reading curse weapon (file c2DZ, paragraph 39); the Sword Oratoria volumes use this form. Printed "cursed sword" here.
 [@fm16-cursed-ja]: FM16 | Chapter 6: The Wish’s Cost | The Japanese edition writes the term in kanji meaning curse arms, with the reading curse weapon (file part0039, paragraphs 607 and 614); DanMachi 16–18 and Astrea Record 3 use this form. Printed "curse sword" here.
+[@fm18-price-kinds]: FM18 | Chapter 9: Flower Language for You | "Curse weapons demand a price in exchange for the great strength they grant."; "In most cases, it is a lowered status, or a stamina cost!"
+[@so07-finn-curse]: SO07 | Chapter 3: Feast of the Dead | "attending to a critically injured Finn"; "The sword that woman was using! It was definitely Superior-grade. And probably cursed, too!"; "Unless we can break the curse, our items and magic are useless"; "And if they didn’t break the curse quickly, he’d never wake up." (the Japanese edition, file c2DZ, paragraphs 44 and 46: unless the curse is broken quickly, the bleeding will not stop and his life itself is in danger)
+[@so07-curse-broken]: SO07 | Chapter 5: Battle of Tears | "Dian Cecht’s clinic. You’ve been bedridden since the curse was broken"; "You’ve got Amid and the quick-witted efforts of Aki and the others to thank."
+[@so08-amid-curse]: SO08 | Chapter 2: Did Someone Order a Wolf? | "It was also the same weapon that had been used to slay Leene and the others down in Knossos"; "None of the items currently in circulation had any effect. It was only by my magic that we were able to make any headway, and it required an extraordinary amount of Mind"; "Not even protective accessories or magic items had any success in resisting the curse"

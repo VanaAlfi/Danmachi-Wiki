@@ -5,9 +5,9 @@
   "status": "complete",
   "reviewed": "2026-09-30",
   "continuity": "light-novel",
-  "summary": "White-elf mage of Freya Familia, titled Hildsleif; a former king of Heodenings who trains Bell in DanMachi 16–17 and turns against the Familia for Freya's sake in the Familia War.",
+  "summary": "White-elf magic swordsman of Freya Familia, titled Hildsleif; a former king of Heodenings who trains Bell in DanMachi 16–17 and turns against the Familia for Freya's sake in the Familia War.",
   "aliases": ["Hedin", "Hildsleif", "black and white knights", "white and black knights", "Hedin Selland"],
-  "spoilers": "DanMachi Vols. 16–20, Sword Oratoria Vol. 13, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
+  "spoilers": "DanMachi Vols. 16–20, Sword Oratoria Vols. 12–13, Familia Chronicle Vol. 2, Astrea Record Vols. 1 and 3 and Minor Myths and Legends Vol. 2",
   "related": ["hegni", "freya-familia", "freya", "bell-cranell", "syr-flover", "ottar", "magic"],
   "sections": [
     {"anchor": "hildr", "title": "Hildr", "summary": "The holy woman and miraculous healer whom the dark elves handed over to the white elves of Heodenings, Hedin's ancestor.", "aliases": []}
@@ -30,7 +30,7 @@
   }
 }
 ---
-**Hedin Selrand** is a white-elf mage of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the [[races#dark-elf|dark elf]] [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] Together they are known as "the black and white knights"; DanMachi 18 also prints "the white and black knights".[@fc02-knights, so12-knights, fm18-knights] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin]
+**Hedin Selrand** is a white-elf magic swordsman of [[freya-familia|Freya Familia]], titled *Hildsleif*. He is usually paired with the [[races#dark-elf|dark elf]] [[hegni|Hegni Ragnar]], though they are not related.[@fc02-pair, fm16-hedin] Together they are known as "the black and white knights"; DanMachi 18 also prints "the white and black knights".[@fc02-knights, so12-knights, fm18-knights] His precise control of magic is said to be the best in [[orario|Orario]].[@fm16-hedin] He is also the Familia's strategist, "the main brain behind Freya Familia", whom Finn calls its "grand marshal and a ruthless strategist"; he turned down the post of second-in-command, which went to [[allen-fromel|Allen]].[@ar01-brain, fm18-marshal, fm16-second] Proud and harsh, he despises incompetents but respects anyone who strives to improve.[@fm16-second]
 
 ## Heodenings
 
@@ -56,12 +56,14 @@ Hedin and Hegni were the kings of rival white-elf and dark-elf states on the isl
 
 | Volume | Events |
 |---|---|
-| Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; his spells hold a front almost by himself.[@ar01-hedin] |
+| Astrea Record 1 | Level 5 in the [[great-conflict|Great Conflict]]; his spells hold a front almost by himself.[@ar01-hedin] When he leaves his post to rescue [[hegni|Hegni]] and the [[gulliver-brothers|Gulliver brothers]] from [[apate-and-alecto-familias|Apate Familia]], Vena of the [[dis-sisters|Dis sisters]] burns the churches he was guarding with the evacuees inside; he breaks his glasses in rage and vows revenge.[@ar01-churches] |
+| Astrea Record 3 | With Hegni he finally kills the Dis sisters: the two elves swap weapons and opponents, Hedin runs Vena through with Hegni's cursed sword, Hegni cuts down Dina inside Hedin's Valiant Hildr, and Hedin ends Vena with another Valiant Hildr.[@ar03-dis] |
+| Familia Chronicle 2 | In the Kaios Desert Freya tells [[ali|Ali]] to rely on him: he serves as her strategist and aide, plans for the eight of Freya Familia to defeat eighty thousand Warsa soldiers, and alone routs a Warsa division of ten thousand with his lightning.[@fc02-desert] |
 | Minor Myths and Legends 2 | Demands that [[royman|Royman]] of the [[guild|Guild]] say why he let Freya leave the city.[@ss02-hedin] |
 | Sword Oratoria 13 | Tries to recruit [[lefiya|Lefiya]] for Freya Familia at an elf's café.[@so13-hedin] |
 | DanMachi 16 | Meets [[bell-cranell|Bell]] at a café, trains him for five days for [[syr-flover|Syr]]'s date, and runs the plan to guard it, while secretly steering pursuers away so Bell can grant Syr's wish.[@fm16-cafe, fm16-hedin] |
 | DanMachi 17 | Trains Bell harshly in [[folkvangr|Folkvangr]], yet dismisses his guard and lookouts, tells him to move forward, and lets him skip dinner. After the charm is broken he commands the estate's defence.[@fm17-hedin] |
-| DanMachi 18 | Turns against the Familia for Freya's own sake: he wears down [[heith-velvet|Heith]]'s healing, coordinates the fight against [[ottar|Ottar]], and helps Bell reach Freya.[@fm18-hedin] |
+| DanMachi 18 | Turns against the Familia for Freya's own sake: he wears down [[heith-velvet|Heith]]'s healing, coordinates the fight against [[ottar|Ottar]], and helps Bell reach Freya.[@fm18-hedin] He tells Hegni why: Freya "cannot be saved without that stupid rabbit", because she chose him; Hedin had seen it the first time he saw Syr smile beside Bell, "as if she had forgotten being a goddess".[@fm18-motive] |
 | DanMachi 19 | His former comrades punish him for his part in the defeat; Bell says the [[familia-coalition|coalition]] won only because of him. With Hegni he protects [[haruhime|Haruhime]].[@fm19-hedin] |
 
 > [!NOTE] Two sides of DanMachi 17
@@ -158,7 +160,7 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@fc02-past]: FC02 | Their Various Pasts | Heodenings.
 [@ar01-hedin]: AR01 | Chapter 9: The Opening Act of Evil | Hedin handles a front alone at Level 5. The English text of this volume prints his family name as *Selland* ("Hedin Selland").
 [@ss02-hedin]: SS02 | | Hedin and Royman. The Japanese edition (file part0070, paragraph 10) has Hedin demand why Royman let Freya out of the city. The English text of this volume prints his family name as *Selland* ("Hedin Selland").
-[@so13-hedin]: SO13 | | Hedin approaches Lefiya.
+[@so13-hedin]: SO13 | Fairy Canon: 2 | Hedin approaches Lefiya.
 [@fm16-hedin]: FM16 | | Hildsleif; magic control; training and the guard plan.
 [@fm16-cafe]: FM16 | Chapter 2: A Tearful and Painful Festival Eve | The café meeting.
 [@fm17-hedin]: FM17 | Chapter 5: The End of Her World | Coercive training and covert help.
@@ -188,3 +190,10 @@ It is an enchantment: the lightning does not burn [[bell-cranell|Bell]] but enve
 [@fc02-caurus]: FC02 | Ali and the 8 Followers | Caurus Hildr spell name.
 [@fc02-valiant]: FC02 | The Origin of the Strongest | Valiant Hildr spell name.
 [@fm18-laurus]: FM18 | Chapter 9: Flower Language for You | Hedin’s third magic is Laurus Hildr.
+[@ar01-brain]: AR01 | Chapter 9: The Opening Act of Evil | "Hedin was the main brain behind Freya Familia—perhaps the only one, for that matter"
+[@fm18-marshal]: FM18 | Chapter 9: Flower Language for You | "Freya Familia’s grand marshal and a ruthless strategist."; "If I were to face Hedin as a commander, I would lose four times out of ten."
+[@fm16-second]: FM16 | Chapter 3: Harvest Festival | "He hated the role himself, but he had been assigned it after Hedin had turned it down."; "Hedin despised incompetents."; "he also reserved a base level of appreciation for those who strove to better themselves without sparing any effort."
+[@ar01-churches]: AR01 | Chapter 11: Absolute Evil | "Hegni and the Gullivers were his most potent game pieces"; "Hedin felt an enormous wave of magical energy emanating from the dark elf, Vena."; "Hedin looked on, aghast, as the churches were bathed in fire."; "he broke them in his fist"; "he channeled his hate into a vengeful vow"
+[@fc02-desert]: FC02 | Ali and the 8 Followers | "Freya had told Ali to rely on this elf, Hedin."; "eight people defeating eighty thousand was the most reasonable choice"; "Hedin stood at her side in the role of aide-de-camp"; "the ten-thousand-strong second division was in utter disarray. All because of a single elf"
+[@ar03-dis]: AR03 | Chapter 6: The Nameless Heroes | "A mind-numbingly simple bluff that allowed Hedin and Hegni to change swords."; "piercing at first Vena’s magic circle, and then her breast"; "Guided by all Hegni’s might, the blade cut Dina from shoulder to hip."; "Once the magical embodiment of Hedin’s rage had subsided, there was nothing left of Vena."
+[@fm18-motive]: FM18 | Chapter 9: Flower Language for You | "Because I concluded that Lady Freya cannot be saved without that stupid rabbit."; "If it’s not that stupid rabbit, she won’t be set free. Because she chose him."; "It happened the first time he had seen Syr and Bell together."; "as if she had forgotten being a goddess"

@@ -24,7 +24,7 @@
   }
 }
 ---
-**Floor 52** of the [[dungeon|Dungeon]] has graphite-colored walls and is exposed to dragon bombardment from lower floors.[@so04-entry, so04-bombardment] A wide, long staircase leads into it, and the main route on [[floor-51|Floor 51]] connects to that staircase.[@so04-entry, so01-route] Dragon fire punches through its floor and ceiling, leaving holes through several floors.[@so04-bombardment]
+**Floor 52** of the [[dungeon|Dungeon]] has graphite-colored walls and is exposed to dragon bombardment from lower floors.[@so04-entry, so04-bombardment] A wide, long staircase leads into it, and the main route on [[floor-51|Floor 51]] connects to that staircase.[@so04-entry, so01-route] Dragon fire punches through its floor and ceiling, leaving holes through several floors.[@so04-bombardment] Asked whether it is really so dangerous past Floor 51, [[raul-nord|Raul Nord]] answers: "Descending into the fifty-second floor is like descending into hell itself."[@so04-hell]
 
 ## Occurrences by volume {#occurrences-by-volume}
 
@@ -51,3 +51,4 @@
 [@ar03-comparison]: AR03 | Chapter 3: Eden’s Demise | Riveria and Gareth compare the current tactic with the danger starting at floor 52. The Japanese edition (file c2HE, paragraphs 48–50) has the two explain the zone together; the line before it, on the Dragon's Urn, is Gareth's (he uses his own word for we), so the line on the danger from the fifty-second floor is most likely Riveria's.
 [@so07-memory]: SO07 | Chapter 3: Feast of the Dead | Gareth times a fall to estimate their position. The Japanese edition (file c2JK, paragraph 127) speaks of the Dragon's Urn from the fifty-second floor onward.
 [@so04-floor52-ja]: SO04 | | The Japanese edition names the floor by its number; the infobox gives it.
+[@so04-hell]: SO04 | Last Chapter: To Adventure | "Is it really so dangerous down there? Past the fifty-first floor?"; "Descending into the fifty-second floor is like descending into hell itself."

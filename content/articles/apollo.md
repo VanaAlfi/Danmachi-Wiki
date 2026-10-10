@@ -29,10 +29,11 @@
 
 ## Character {#character}
 
-- **A god who loves too much:** in DanMachi 8 Bell recalls that Apollo is also called by his title Phallus and "is a god who loves too much": once a child captures his interest, "he loves them fully and deeply until the end". When one of his children dies he weeps "day in and day out", wears the child's trinket "day and night" and treats a tree growing from the grave "like a holy site".[@fm08-loves] He once asked Hestia to marry him, which is why she dislikes him.[@fm06-banquet, fm08-loves]
+- **A god who loves too much:** in DanMachi 8 Bell recalls that Apollo is also called by his title Phallus and "is a god who loves too much"; Miach says that once a child captures his interest, "he loves them fully and deeply until the end", and Hermes that when one of his children dies he weeps "day in and day out", wears the child's trinket "day and night" and treats a tree growing from the grave "like a holy site".[@fm08-loves] He once asked Hestia to marry him, which is why she dislikes him.[@fm06-banquet, fm08-loves]
 - **Passion:** Bell sees in him "Passion that has gone too far, burning bright like the sun", "A god whose desires carry him to comical lengths". Man or woman does not matter to him, and "Once he sees something he likes, he’ll stop at nothing in his lustful pursuit"; [[daphne|Daphne]] says he "chases any child he likes to the ends of the earth. At least until he has them."[@fm06-banquet, fm06-chases]
 - **Bell:** Apollo "had a habit of indulging in everything new and fresh" and probably first heard of Bell with the rumours of a new record holder; his craving for the boy "was on the verge of driving him insane".[@fm06-craving]
 - **A byword:** in DanMachi 20 the gods still say, "We don’t need another Apollo."[@fm20-another]
+- **Appearance:** a tall, handsome god with blond hair "that seems to shine like the sun", who wears a crown of laurels.[@fm06-looks]
 
 ## The War Game
 
@@ -48,7 +49,7 @@ After losing, Apollo releases his followers, disbands [[apollo-familia|Apollo Fa
 > - Where Apollo went after leaving Orario, and what became of those who followed him.[@fm08-alumni]
 
 [@fm05-apollo]: FM05 | Epilogue: The One Who Targets the Rabbit | "As Apollo, I claim him as my own."
-[@fm06-banquet]: FM06 | | Printed heading "Chapter 2: Shall We Dance?" (not in the evidence map): "Dressing up the ones we hold most dear and bringing them to our Celebration—what could be more delightful?"; "Lord Apollo puts his hand on his chest like an actor trying to be overly dramatic before spreading his arms open wide. He points out his other followers, all of them crying as if on cue."; "I watch Lord Apollo’s face contort after Hestia’s refusal—into an evil visage."; "Voices erupt all around me as soon as Lord Apollo makes his declaration."; "So that’s the reason why she doesn’t like Lord Apollo—he asked her to marry him."; "Man, woman, it doesn’t matter to him. Once he sees something he likes, he’ll stop at nothing in his lustful pursuit."; "Passion that has gone too far, burning bright like the sun."; "A god whose desires carry him to comical lengths…That’s Lord Apollo."
+[@fm06-banquet]: FM06 | Chapter 2: Shall We Dance? | "Dressing up the ones we hold most dear and bringing them to our Celebration—what could be more delightful?"; "Lord Apollo puts his hand on his chest like an actor trying to be overly dramatic before spreading his arms open wide. He points out his other followers, all of them crying as if on cue."; "I watch Lord Apollo’s face contort after Hestia’s refusal—into an evil visage."; "Voices erupt all around me as soon as Lord Apollo makes his declaration."; "So that’s the reason why she doesn’t like Lord Apollo—he asked her to marry him."; "Man, woman, it doesn’t matter to him. Once he sees something he likes, he’ll stop at nothing in his lustful pursuit."; "Passion that has gone too far, burning bright like the sun."; "A god whose desires carry him to comical lengths…That’s Lord Apollo."
 [@fm06-chases]: FM06 | Chapter 3: Outbreak | "Lord Apollo chases any child he likes to the ends of the earth. At least until he has them."
 [@fm06-glove]: FM06 | Chapter 3: Outbreak | "Luan nodded and removed the glove from his right hand." The Japanese edition (file c2CX, paragraph 723) has Hestia throw the glove into Apollo's face with all her strength.
 [@fm06-freya]: FM06 | Chapter 4: Those Who Gather | "My, my, Apollo. Are you frightened?"; "The deity with the power to control love itself took a shot at the pride of the god who loves too passionately."; "a large group of male deities sided with Freya and voted to allow the addition of outsiders".
@@ -58,9 +59,10 @@ After losing, Apollo releases his followers, disbands [[apollo-familia|Apollo Fa
 [@fm20-another]: FM20 | Chapter 1: Orario Rumble | "We don’t need another Apollo."
 [@ss01-venue]: SS01 | | Printed heading "Shall We Dance? 2" (not in the evidence map): "We are in the north of Orario, in a building that could easily be mistaken for a royal palace. It is the very same place where Lord Apollo’s party was hosted". The Japanese edition (file part0038, paragraph 9) calls it a venue managed by the Guild.
 [@fm06-apollo]: FM06 | | Phallus the Passionate; the War Game; the outsider rule; exile.
-[@fm06-outsider]: FM06 | | The outsider rule.
+[@fm06-outsider]: FM06 | Chapter 4: Those Who Gather | The outsider rule.
 [@fm06-hyacinthus]: FM06 | Chapter 5: Our War Game | Bell defeats Hyacinthus.
 [@fm06-money]: FM06 | Chapter 5: Our War Game | Apollo's money goes to Hestia Familia.
-[@fm06-manor]: FM06 | | Apollo's manor passes to Hestia Familia.
+[@fm06-manor]: FM06 | Epilogue: Hestia Familia | Apollo's manor passes to Hestia Familia.
 [@fm08-alumni]: FM08 | | Apollo Familia's former members.
 [@fm06-apollo-ja]: FM06 | | The Japanese edition prints his name in katakana; the infobox gives that printed form.
+[@fm06-looks]: FM06 | Chapter 2: Shall We Dance? | "He has blond hair that seems to shine like the sun."; "his handsome looks"; "pretty tall, too, and wearing a crown of laurels on top of his head"
